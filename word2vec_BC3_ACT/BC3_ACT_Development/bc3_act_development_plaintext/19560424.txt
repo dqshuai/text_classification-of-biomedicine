@@ -1,0 +1,28 @@
+Mol. Cell
+
+Highly transcribed RNA polymerase II genes are impediments to replication fork progression in Saccharomyces cerevisiae.
+
+A Azvolinsky, PG Giresi, JD Lieb, VA Zakian
+
+Replication forks face multiple obstacles that slow their progression. By two-dimensional gel analysis, yeast forks pause at stable DNA protein complexes, and this pausing is greatly increased in the absence of the Rrm3 helicase. We used a genome-wide approach to identify 96 sites of very high DNA polymerase binding in wild-type cells. Most of these binding sites were not previously identified pause sites. Rather, the most highly represented genomic category among high DNA polymerase binding sites was the open reading frames (ORFs) of highly transcribed RNA polymerase II genes. Twice as many pause sites were identified in rrm3 compared with wild-type cells, as pausing in this strain occurred at both highly transcribed RNA polymerase II genes and the previously identified protein DNA complexes. ORFs of highly transcribed RNA polymerase II genes are a class of natural pause sites that are not exacerbated in rrm3 cells.
+
+-Binding Sites
+-DNA Helicases (-genetics; +metabolism)
+-DNA Polymerase II (+metabolism)
+-DNA Replication (+physiology)
+-Mutation
+-Open Reading Frames
+-Promoter Regions, Genetic
+-RNA Polymerase II (+genetics; -metabolism)
+-Saccharomyces cerevisiae (+genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (+genetics; -metabolism)
+-Telomere-Binding Proteins (-metabolism)
+-Transcription Factors (-metabolism)
++Transcription, Genetic
+
+pii:S1097-2765(09)00383-9
+doi:10.1016/j.molcel.2009.05.022
+pubmed:19560424
+mid:NIHMS124332
+pmc:PMC2728070
+

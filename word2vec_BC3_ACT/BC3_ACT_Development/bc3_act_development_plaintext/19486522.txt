@@ -1,0 +1,27 @@
+BMC Genomics
+
+Chromosome level assembly of the hybrid Trypanosoma cruzi genome.
+
+DB Weatherly, C Boehlke, RL Tarleton
+
+BACKGROUND: In contrast to the essentially fully assembled genome sequences of the kinetoplastid pathogens Leishmania major and Trypanosoma brucei the assembly of the Trypanosoma cruzi genome has been hindered by its repetitive nature and the fact that the reference strain (CL Brener) is a hybrid of two distinct lineages. In this work, the majority of the contigs and scaffolds were assembled into pairs of homologous chromosomes based on predicted parental haplotype, inference from TriTryp synteny maps and the use of end sequences from T. cruzi BAC libraries. RESULTS: Ultimately, 41 pairs of chromosomes were assembled using this approach, a number in agreement with the predicted number of T. cruzi chromosomes based upon pulse field gel analysis, with over 90% (21133 of 23216) of the genes annotated in the genome represented. The approach was substantiated through the use of Southern blot analysis to confirm the mapping of BAC clones using as probes the genes they are predicted to contain, and each chromosome construction was visually validated to ensure sufficient evidence was present to support the organization. While many members of large gene families are incorporated into the chromosome assemblies, the majority of genes excluded from the chromosomes belong to gene families, as these genes are frequently impossible to accurately position. CONCLUSION: Now assembled, these chromosomes bring T. cruzi to the same level of organization as its kinetoplastid relatives and have been used as the basis for the T. cruzi genome in TriTrypDB, a trypanosome database of EuPathDB. In addition, they will provide the foundation for analyses such as reverse genetics, where the location of genes and their alleles and/or paralogues is necessary and comparative genome hybridization analyses (CGH), where a chromosome-level view of the genome is ideal.
+
+-Amino Acid Sequence
+-Animals
+-Chromosome Mapping (+methods)
+-Chromosomes (-genetics)
+-DNA, Protozoan (-genetics)
+-Gene Library
++Genome, Protozoan
+-Genomics (+methods)
+-Models, Genetic
+-Molecular Sequence Data
+-Sequence Analysis, DNA
+-Synteny
+-Trypanosoma cruzi (+genetics)
+
+pii:1471-2164-10-255
+doi:10.1186/1471-2164-10-255
+pubmed:19486522
+pmc:PMC2698008
+

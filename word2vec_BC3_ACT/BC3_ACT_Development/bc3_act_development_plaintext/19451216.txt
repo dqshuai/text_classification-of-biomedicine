@@ -1,0 +1,25 @@
+Genes Dev.
+
+Midline governs axon pathfinding by coordinating expression of two major guidance systems.
+
+QX Liu, M Hiramoto, H Ueda, T Gojobori, Y Hiromi, S Hirose
+
+Formation of the neural network requires concerted action of multiple axon guidance systems. How neurons orchestrate expression of multiple guidance genes is poorly understood. Here, we show that Drosophila T-box protein Midline controls expression of genes encoding components of two major guidance systems: Frazzled, ROBO, and Slit. In midline mutant, expression of all these molecules are reduced, resulting in severe axon guidance defects, whereas misexpression of Midline induces their expression. Midline is present on the promoter regions of these genes, indicating that Midline controls transcription directly. We propose that Midline controls axon pathfinding through coordinating the two guidance systems.
+
+-Animals
+-Axons (+metabolism)
+-Drosophila Proteins (-genetics; +metabolism)
+-Drosophila melanogaster (+embryology; -genetics)
++Gene Expression Regulation, Developmental
+-Nerve Net (+growth & development)
+-Nerve Tissue Proteins (-metabolism)
+-Neurons (-metabolism)
+-Receptors, Cell Surface (-metabolism)
+-Receptors, Immunologic (-metabolism)
+-T-Box Domain Proteins (-genetics; +metabolism)
+
+pii:23/10/1165
+doi:10.1101/gad.1774209
+pubmed:19451216
+pmc:PMC2685537
+

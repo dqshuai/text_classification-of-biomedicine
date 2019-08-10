@@ -1,0 +1,24 @@
+Mol. Cell
+
+Potent transcriptional interference by pausing of RNA polymerases over a downstream promoter.
+
+AC Palmer, A Ahlgren-Berg, JB Egan, IB Dodd, KE Shearwin
+
+Elongating RNA polymerases (RNAPs) can interfere with transcription from downstream promoters by inhibiting DNA binding by RNAP and activators. However, combining quantitative measurement with mathematical modeling, we show that simple RNAP elongation cannot produce the strong asymmetric interference observed between a natural face-to-face promoter pair in bacteriophage lambda. Pausing of elongating polymerases over the RNAP-binding site of the downstream promoter is demonstrated in vivo and is shown by modeling to account for the increased interference. The model successfully predicts the effects on interference of treatments increasing or reducing pausing. Gene regulation by pausing-enhanced occlusion provides a general and potentially widespread mechanism by which even weak converging or tandem transcription, either coding or noncoding, can bring about strong in cis repression.
+
+-Bacteriophage lambda (+genetics)
+-Binding Sites
+-DNA-Directed RNA Polymerases (+physiology)
+-Escherichia coli (-genetics)
+-Gene Expression Regulation
++Models, Genetic
+-Mutation
++Promoter Regions, Genetic
+-Transcription, Genetic (+physiology)
+
+pii:S1097-2765(09)00271-8
+doi:10.1016/j.molcel.2009.04.018
+pubmed:19524535
+mid:NIHMS112584
+pmc:PMC2697128
+

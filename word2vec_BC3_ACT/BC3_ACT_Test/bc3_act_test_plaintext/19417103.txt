@@ -1,0 +1,28 @@
+Genes Dev.
+
+Genome-wide replication profiles indicate an expansive role for Rpd3L in regulating replication initiation timing or efficiency, and reveal genomic loci of Rpd3 function in Saccharomyces cerevisiae.
+
+SR Knott, CJ Viggiani, S Tavaré, OM Aparicio
+
+In higher eukaryotes, heritable gene silencing is associated with histone deacetylation and late replication timing. In Saccharomyces cerevisiae, the histone deacetylase Rpd3 regulates gene expression and also modulates replication timing; however, these mechanisms have been suggested to be independent, and no global association has been found between replication timing and gene expression levels. Using 5-Bromo-2'-deoxyuridine (BrdU) incorporation to generate genome-wide replication profiles, we identified >100 late-firing replication origins that are regulated by Rpd3L, which is specifically targeted to promoters to silence transcription. Rpd3S, which recompacts chromatin after transcription, plays a primary role at only a handful of origins, but subtly influences initiation timing globally. The ability of these functionally distinct Rpd3 complexes to affect replication initiation timing supports the idea that histone deacetylation directly influences initiation timing. Accordingly, loss of Rpd3 function results in higher levels of histone H3 and H4 acetylation surrounding Rpd3-regulated origins, and these origins show a significant association with Rpd3 chromatin binding and gene regulation, supporting a general link between histone acetylation, replication timing, and control of gene expression in budding yeast. Our results also reveal a novel and complementary genomic map of Rpd3L- and Rpd3S-regulated chromosomal loci.
+
+-Chromatin (-metabolism)
+-DNA Replication (+genetics)
+-Gene Deletion
+-Gene Expression Regulation
+-Genome, Fungal (+genetics)
+-Histone Deacetylases (+metabolism)
+-Hydroxyurea (-pharmacology)
+-Nucleic Acid Synthesis Inhibitors (-pharmacology)
+-Promoter Regions, Genetic
+-Replication Origin (-drug effects)
+-Repressor Proteins (-metabolism)
+-Saccharomyces cerevisiae (+genetics; +metabolism)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+-Time Factors
+
+pii:23/9/1077
+doi:10.1101/gad.1784309
+pubmed:19417103
+pmc:PMC2682954
+

@@ -1,0 +1,30 @@
+Biochemistry
+
+Effects of osmolytes on the SLN1-YPD1-SSK1 phosphorelay system from Saccharomyces cerevisiae.
+
+AO Kaserer, B Andi, PF Cook, AH West
+
+The multistep His-Asp phosphorelay system in Saccharomyces cerevisiae allows cells to adapt to osmotic, oxidative, and other environmental stresses. The pathway consists of a hybrid histidine kinase SLN1, a histidine-containing phosphotransfer (HPt) protein YPD1, and two response regulator proteins, SSK1 and SKN7. Under nonosmotic stress conditions, the SLN1 sensor kinase is active, and phosphoryl groups are shuttled through YPD1 to SSK1, therefore maintaining the response regulator protein in a constitutively phosphorylated state. The cellular response to hyperosmotic stress involves rapid efflux of water and changes in intracellular ion and osmolyte concentration. In this study, we examined the individual and combined effects of NaCl and glycerol on phosphotransfer rates within the SLN1-YPD1-SSK1 phosphorelay. The results show that the combined effects of glycerol and NaCl on the phosphotransfer reaction rates are different from the individual effects of glycerol and NaCl. The combinatory effect is likely more representative of the in vivo changes that occur during hyperosmotic stress. In addition, the effect of osmolyte concentration on the half-life of the phosphorylated SSK1 receiver domain in the presence/absence of YPD1 was evaluated. Our findings demonstrate that increasing osmolyte concentrations negatively affect the YPD1 x SSK1-P interaction, thereby facilitating dephosphorylation of SSK1 and activating the HOG1 MAP kinase cascade. In contrast, at the highest osmolyte concentrations, reflective of the osmoadaptation phase of the signaling pathway, the kinetics of the phosphorelay favor production of SSK1-P and inhibition of the HOG1 pathway.
+
+-Drug Combinations
+-Enzyme Stability
+-Glycerol (-pharmacology)
+-Half-Life
+-Hydrolysis
+-Intracellular Signaling Peptides and Proteins (+chemistry; +metabolism)
+-MAP Kinase Signaling System (-physiology)
+-Mitogen-Activated Protein Kinases (+metabolism; -physiology)
+-Osmosis (+physiology)
+-Phosphates (-metabolism)
+-Phosphorylation
+-Protein Kinases (+chemistry; +metabolism)
+-Saccharomyces cerevisiae (-enzymology; -metabolism)
+-Saccharomyces cerevisiae Proteins (+chemistry; +metabolism; -physiology)
+-Sodium Chloride (-pharmacology)
+-Stress, Physiological
+
+doi:10.1021/bi900886g
+pubmed:19618914
+mid:NIHMS135779
+pmc:PMC2753885
+

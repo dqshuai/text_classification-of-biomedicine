@@ -1,0 +1,40 @@
+Mol. Cell. Biol.
+
+Differential regulation of cyclin-dependent kinase 4 (CDK4) and CDK6, evidence that CDK4 might not be activated by CDK7, and design of a CDK6 activating mutation.
+
+L Bockstaele, X Bisteau, S Paternot, PP Roger
+
+The homologous cyclin-dependent kinases (CDK) CDK4 and CDK6 integrate mitogenic and oncogenic signaling cascades with the cell cycle. Their activation requires binding to a D-type cyclin and then T-loop phosphorylation at T172 and T177 (respectively) by the only CDK-activating kinase identified in animal cells, cyclin H-CDK7. At odds with the existing data showing the constitutive activity of CDK7, we have recently identified the T172 phosphorylation of cyclin D-bound CDK4 as a crucial cell cycle regulatory target. Here we show that T172 phosphorylation of CDK4 is conditioned by its unique proline 173 residue. In contrast to CDK4, CDK6 does not contain such a proline and, unexpectedly, remained poorly phosphorylated and active in a variety of cells. Mutations of proline 173 did not adversely affect CDK4 activation by CDK7, but in cells they abolished CDK4 T172 phosphorylation and activity. Conversely, substituting a proline for the corresponding residue of CDK6 enforced its complete, apparently cyclin-independent T177 phosphorylation and dramatically increased its activity. These results lead us to propose that CDK4 might not be phosphorylated by CDK7 in intact cells but is more likely phosphorylated by another, presumably proline-directed kinase(s). Moreover, they provide a new model of a potentially oncogenic activating mutation of a CDK.
+
+-Amino Acid Sequence
+-Animals
+-Blotting, Western
+-CHO Cells
+-Cell Line
+-Cell Line, Tumor
+-Cricetinae
+-Cricetulus
+-Cyclin D3
+-Cyclin-Dependent Kinase 4 (-genetics; +metabolism)
+-Cyclin-Dependent Kinase 6 (-genetics; +metabolism)
+-Cyclin-Dependent Kinases (-genetics; +metabolism)
+-Cyclins (-genetics; -metabolism)
+-Electrophoresis, Gel, Two-Dimensional
+-Fluorescent Antibody Technique, Indirect
+-HCT116 Cells
+-Humans
+-Immunoprecipitation
+-Molecular Sequence Data
++Mutation
+-Phosphorylation
+-Proline (-genetics; -metabolism)
+-Protein Binding
+-Sequence Homology, Amino Acid
+-Threonine (-genetics; -metabolism)
+-Transfection
+
+pii:MCB.01823-08
+doi:10.1128/MCB.01823-08
+pubmed:19487459
+pmc:PMC2715811
+

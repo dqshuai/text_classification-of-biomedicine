@@ -1,0 +1,33 @@
+Plant Cell
+
+Establishment of the winter-annual growth habit via FRIGIDA-mediated histone methylation at FLOWERING LOCUS C in Arabidopsis.
+
+D Jiang, X Gu, Y He
+
+In Arabidopsis thaliana, flowering-time variation exists among accessions, and the winter-annual (late-flowering without vernalization) versus rapid-cycling (early flowering) growth habit is typically determined by allelic variation at FRIGIDA (FRI) and FLOWERING LOCUS C (FLC). FRI upregulates the expression of FLC, a central floral repressor, to levels that inhibit flowering, resulting in the winter-annual habit. Here, we show that FRI promotes histone H3 lysine-4 trimethylation (H3K4me3) in FLC to upregulate its expression. We identified an Arabidopsis homolog of the human WDR5, namely, WDR5a, which is a conserved core component of the human H3K4 methyltransferase complexes called COMPASS-like. We found that recombinant WDR5a binds H3K4-methylated peptides and that WDR5a also directly interacts with an H3K4 methyltransferase, ARABIDOPSIS TRITHORAX1. FRI mediates WDR5a enrichment at the FLC locus, leading to increased H3K4me3 and FLC upregulation. WDR5a enrichment is not required for elevated H3K4me3 in FLC upon loss of function of an FLC repressor, suggesting that two distinct mechanisms underlie elevated H3K4me3 in FLC. Our findings suggest that FRI is involved in the enrichment of a WDR5a-containing COMPASS-like complex at FLC chromatin that methylates H3K4, leading to FLC upregulation and thus the establishment of the winter-annual growth habit.
+
+-Alleles
+-Amino Acid Sequence
+-Arabidopsis (+genetics; -growth & development; -metabolism)
+-Arabidopsis Proteins (-chemistry; +genetics; -metabolism; +physiology)
+-Carrier Proteins (-chemistry; -genetics; -metabolism)
+-Cell Nucleus (-metabolism)
+-Chromatin (-metabolism)
+-Flowers (-genetics; -growth & development; -metabolism)
+-Gene Expression Regulation, Plant
+-Histones (+metabolism)
+-MADS Domain Proteins (+genetics; -metabolism; -physiology)
+-Methylation
+-Molecular Sequence Data
+-Plant Roots (-genetics; -growth & development; -metabolism)
+-Plant Shoots (-genetics; -growth & development; -metabolism)
++Seasons
+-Sequence Alignment
+-Transcription Factors (-metabolism)
+-Transcriptional Activation
+
+pii:tpc.109.067967
+doi:10.1105/tpc.109.067967
+pubmed:19567704
+pmc:PMC2714927
+

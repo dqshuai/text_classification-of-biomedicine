@@ -1,0 +1,31 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Systematic haplotype analysis resolves a complex plasma plant sterol locus on the Micronesian Island of Kosrae.
+
+EE Kenny, A Gusev, K Riegel, D Lütjohann, JK Lowe, J Salit, JB Maller, M Stoffel, MJ Daly, DM Altshuler, JM Friedman, JL Breslow, I Pe'er, E Sehayek
+
+Pinpointing culprit causal variants along signal peaks of genome-wide association studies (GWAS) is challenging. To overcome confounding effects of multiple independent variants at such a locus and narrow the interval for causal allele capture, we developed an approach that maps local shared haplotypes harboring a putative causal variant. We demonstrate our method in an extreme isolate founder population, the pacific Island of Kosrae. We analyzed plasma plant sterol (PPS) levels, a surrogate measure of cholesterol absorption from the intestine, where previous studies have implicated 2p21 mutations in the ATP binding cassette subfamily G members 5 or 8 (ABCG5 or ABCG8) genes. We have previously reported that 11.1% of the islanders are carriers of a frameshift ABCG8 mutation increasing PPS levels in carriers by 50%. GWAS adjusted for this mutation revealed genomewide significant signals along 11 Mb around it. To fine-map this signal, we detected pairwise identity-by-descent haplotypes using our tool GERMLINE and implemented a clustering algorithm to identify haplotypes shared across multiple samples with their unique shared boundaries. A single 526-kb haplotype mapped strongly to PPS levels, dramatically refining the mapped interval. This haplotype spans the ABCG5/ABCG8 genes, is carried by 1.8% of the islanders, and results in a striking 100% increase of PPS in carriers. Resequencing of ABCG5 in these carriers found a D450H missense mutation along the associated haplotype. These findings exemplify the power of haplotype analysis for mapping mutations in isolated populations and specifically for dissecting effects of multiple variants of the same locus.
+
+-ATP-Binding Cassette Transporters (-genetics)
+-Alleles
+-Chromosome Mapping
+-Female
+-Founder Effect
+-Genome
+-Genome-Wide Association Study
++Haplotypes
+-Humans
+-Male
+-Micronesia
+-Models, Genetic
+-Mutation
+-Phytosterols (-blood)
+-Software
+-Steroids (+metabolism)
+-Sterols (+blood)
+
+pii:0907336106
+doi:10.1073/pnas.0907336106
+pubmed:19667188
+pmc:PMC2728990
+

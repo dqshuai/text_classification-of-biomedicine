@@ -1,0 +1,30 @@
+BMC Bioinformatics
+
+How to find simple and accurate rules for viral protease cleavage specificities.
+
+T Rögnvaldsson, TA Etchells, L You, D Garwicz, I Jarman, PJ Lisboa
+
+BACKGROUND: Proteases of human pathogens are becoming increasingly important drug targets, hence it is necessary to understand their substrate specificity and to interpret this knowledge in practically useful ways. New methods are being developed that produce large amounts of cleavage information for individual proteases and some have been applied to extract cleavage rules from data. However, the hitherto proposed methods for extracting rules have been neither easy to understand nor very accurate. To be practically useful, cleavage rules should be accurate, compact, and expressed in an easily understandable way. RESULTS: A new method is presented for producing cleavage rules for viral proteases with seemingly complex cleavage profiles. The method is based on orthogonal search-based rule extraction (OSRE) combined with spectral clustering. It is demonstrated on substrate data sets for human immunodeficiency virus type 1 (HIV-1) protease and hepatitis C (HCV) NS3/4A protease, showing excellent prediction performance for both HIV-1 cleavage and HCV NS3/4A cleavage, agreeing with observed HCV genotype differences. New cleavage rules (consensus sequences) are suggested for HIV-1 and HCV NS3/4A cleavages. The practical usability of the method is also demonstrated by using it to predict the location of an internal cleavage site in the HCV NS3 protease and to correct the location of a previously reported internal cleavage site in the HCV NS3 protease. The method is fast to converge and yields accurate rules, on par with previous results for HIV-1 protease and better than previous state-of-the-art for HCV NS3/4A protease. Moreover, the rules are fewer and simpler than previously obtained with rule extraction methods. CONCLUSION: A rule extraction methodology by searching for multivariate low-order predicates yields results that significantly outperform existing rule bases on out-of-sample data, but are more transparent to expert users. The approach yields rules that are easy to use and useful for interpreting experimental data.
+
+-Amino Acid Sequence
+-Catalytic Domain
+-Cluster Analysis
+-Computer Simulation
++Data Interpretation, Statistical
+-Databases, Protein
+-HIV Protease (-chemistry; -genetics; -metabolism)
+-Humans
+-Peptide Hydrolases (+chemistry; -genetics; +metabolism)
+-Protease Inhibitors (+chemistry)
+-Proteomics (+methods)
+-ROC Curve
+-Reproducibility of Results
+-Serine Endopeptidases (-chemistry; -genetics; -metabolism)
+-Viral Nonstructural Proteins (-chemistry; -genetics; -metabolism)
+-Viral Proteins (-chemistry; -genetics; -metabolism)
+
+pii:1471-2105-10-149
+doi:10.1186/1471-2105-10-149
+pubmed:19445713
+pmc:PMC2698905
+

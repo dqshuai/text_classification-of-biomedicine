@@ -1,0 +1,20 @@
+BMC Bioinformatics
+
+GEOGLE: context mining tool for the correlation between gene expression and the phenotypic distinction.
+
+Y Yu, K Tu, S Zheng, Y Li, G Ding, J Ping, P Hao, Y Li
+
+BACKGROUND: In the post-genomic era, the development of high-throughput gene expression detection technology provides huge amounts of experimental data, which challenges the traditional pipelines for data processing and analyzing in scientific researches. RESULTS: In our work, we integrated gene expression information from Gene Expression Omnibus (GEO), biomedical ontology from Medical Subject Headings (MeSH) and signaling pathway knowledge from sigPathway entries to develop a context mining tool for gene expression analysis - GEOGLE. GEOGLE offers a rapid and convenient way for searching relevant experimental datasets, pathways and biological terms according to multiple types of queries: including biomedical vocabularies, GDS IDs, gene IDs, pathway names and signature list. Moreover, GEOGLE summarizes the signature genes from a subset of GDSes and estimates the correlation between gene expression and the phenotypic distinction with an integrated p value. CONCLUSION: This approach performing global searching of expression data may expand the traditional way of collecting heterogeneous gene expression experiment data. GEOGLE is a novel tool that provides researchers a quantitative way to understand the correlation between gene expression and phenotypic distinction through meta-analysis of gene expression datasets from different experiments, as well as the biological meaning behind. The web site and user guide of GEOGLE are available at: http://omics.biosino.org:14000/kweb/workflow.jsp?id=00020.
+
+-Computational Biology (+methods)
+-Databases, Genetic
++Gene Expression
++Phenotype
++Software
+-User-Computer Interface
+
+pii:1471-2105-10-264
+doi:10.1186/1471-2105-10-264
+pubmed:19703314
+pmc:PMC2745391
+

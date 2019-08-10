@@ -1,0 +1,38 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Cellular immune response to cryptic epitopes during therapeutic gene transfer.
+
+C Li, K Goudy, M Hirsch, A Asokan, Y Fan, J Alexander, J Sun, P Monahan, D Seiber, J Sidney, A Sette, R Tisch, J Frelinger, RJ Samulski
+
+The immune response has been implicated as a critical factor in determining the success or failure of clinical gene therapy trials. Generally, such a response is elicited by the desired transgene product or, in some cases, the delivery system. In the current study, we report the previously uncharacterized finding that a therapeutic cassette currently being used for human investigation displays alternative reading frames (ARFs) that generate unwanted protein products to induce a cytotoxic T lymphocyte (CTL) response. In particular, we tested the hypothesis that antigenic epitopes derived from an ARF in coagulation factor IX (F9) cDNA can induce CTL reactivity, subsequently killing F9-expressing hepatocytes. One peptide (p18) of 3 candidates from an ARF of the F9 transgene induced CD8(+) T cell reactivity in mice expressing the human MHC class I molecule B0702. Subsequently, upon systemic administration of adeno-associated virus (AAV) serotype 2 vectors packaged with the F9 transgene (AAV2/F9), a robust CD8(+) CTL response was elicited against peptide p18. Of particular importance is that the ARF epitope-specific CTLs eliminated AAV2/F9-transduced hepatocytes but not AAV2/F9 codon-optimized (AAV2/F9-opt)-transduced liver cells in which p18 epitope was deleted. These results demonstrate a previously undiscovered mechanism by which CTL responses can be elicited by cryptic epitopes generated from a therapeutic transgene and have significant implications for all gene therapy modalities. Such unforeseen epitope generation warrants careful analysis of transgene sequences for ARFs to reduce the potential for adverse events arising from immune responses during clinical gene therapy protocols.
+
+-Amino Acid Sequence
+-Animals
+-CD8-Positive T-Lymphocytes (-cytology; -immunology; -metabolism)
+-COS Cells
+-Cercopithecus aethiops
+-Coculture Techniques
+-Cytotoxicity, Immunologic (-immunology)
+-Dependovirus (-genetics)
+-Epitopes (-genetics; +immunology)
+-Factor IX (-genetics; +metabolism)
+-Gene Therapy (+methods)
+-Genetic Vectors (-administration & dosage; -genetics)
+-HLA-B Antigens (-genetics; -metabolism)
+-Humans
+-Hybridomas
+-Immunity, Cellular (+immunology)
+-Mice
+-Mice, Inbred C57BL
+-Mice, Transgenic
+-Oligopeptides (-immunology)
+-Open Reading Frames (-genetics)
+-Spleen (-cytology; -immunology)
+-T-Lymphocytes, Cytotoxic (-cytology; -immunology; -metabolism)
+-Transfection
+
+pii:0902269106
+doi:10.1073/pnas.0902269106
+pubmed:19541644
+pmc:PMC2705599
+

@@ -1,0 +1,32 @@
+FEBS J.
+
+The activity of Plasmodium falciparum arginase is mediated by a novel inter-monomer salt-bridge between Glu295-Arg404.
+
+GA Wells, IB Müller, C Wrenger, AI Louw
+
+A recent study implicated a role for Plasmodium falciparum arginase in the systemic depletion of arginine levels, which in turn has been associated with human cerebral malaria pathogenesis. Arginase (EC 3.5.3.1) is a multimeric metallo-protein that catalyses the hydrolysis of arginine to ornithine and urea by means of a binuclear spin-coupled Mn(2+) cluster in the active site. A previous report indicated that P. falciparum arginase has a strong dependency between trimer formation, enzyme activity and metal co-ordination. Mutations that abolished Mn(2+) binding also caused dissociation of the trimer; conversely, mutations that abolished trimer formation resulted in inactive monomers. By contrast, the monomers of mammalian (and therefore host) arginase are also active. P. falciparum arginase thus appears to be an obligate trimer and interfering with trimer formation may therefore serve as an alternative route to enzyme inhibition. In the present study, the mechanism of the metal dependency was explored by means of homology modelling and molecular dynamics. When the active site metals are removed, loss of structural integrity is observed. This is reflected by a larger equilibration rmsd for the protein when the active site metal is removed and some loss of secondary structure. Furthermore, modelling revealed the existence of a novel inter-monomer salt-bridge between Glu295 and Arg404, which was shown to be associated with the metal dependency. Mutational studies not only confirmed the importance of this salt-bridge in trimer formation, but also provided evidence for the independence of P. falciparum arginase activity on trimer formation.
+
+-Amino Acid Sequence
+-Animals
++Arginase (-chemistry; -genetics; -metabolism)
+-Arginine (-genetics; +metabolism)
+-Catalytic Domain
+-Humans
+-Magnesium (-chemistry)
+-Manganese (-chemistry)
+-Models, Molecular
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Plasmodium falciparum (+enzymology)
+-Protein Multimerization
++Protein Structure, Quaternary
+-Rats
+-Salts (-chemistry)
+-Sequence Alignment
+-Sequence Homology, Amino Acid
+-Structure-Activity Relationship
+
+pii:EJB7073
+doi:10.1111/j.1742-4658.2009.07073.x
+pubmed:19456858
+

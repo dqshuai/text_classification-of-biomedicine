@@ -1,0 +1,32 @@
+Nucleic Acids Res.
+
+Silencing of microRNA-155 in mice during acute inflammatory response leads to derepression of c/ebp Beta and down-regulation of G-CSF.
+
+J Worm, J Stenvang, A Petri, KS Frederiksen, S Obad, J Elmén, M Hedtjärn, EM Straarup, JB Hansen, S Kauppinen
+
+microRNA-155 (miR-155) has been implicated as a central regulator of the immune system, but its function during acute inflammatory responses is still poorly understood. Here we show that exposure of cultured macrophages and mice to lipopolysaccharide (LPS) leads to up-regulation of miR-155 and that the transcription factor c/ebp Beta is a direct target of miR-155. Interestingly, expression profiling of LPS-stimulated macrophages combined with overexpression and silencing of miR-155 in murine macrophages and human monocytic cells uncovered marked changes in the expression of granulocyte colony-stimulating factor (G-CSF), a central regulator of granulopoiesis during inflammatory responses. Consistent with these data, we show that silencing of miR-155 in LPS-treated mice by systemically administered LNA-antimiR results in derepression of the c/ebp Beta isoforms and down-regulation of G-CSF expression in mouse splenocytes. Finally, we report for the first time on miR-155 silencing in vivo in a mouse inflammation model, which underscores the potential of miR-155 antagonists in the development of novel therapeutics for treatment of chronic inflammatory diseases.
+
+-Animals
+-CCAAT-Enhancer-Binding Protein-beta (+genetics; -metabolism)
+-Cell Line
+-Down-Regulation
+-Female
++Gene Expression Regulation
+-Gene Silencing
+-Granulocyte Colony-Stimulating Factor (+genetics; -metabolism)
+-Humans
+-Inflammation (+genetics; -metabolism)
+-Lipopolysaccharides (-pharmacology)
+-Macrophages (-drug effects; -immunology)
+-Mice
+-Mice, Inbred C57BL
+-MicroRNAs (-antagonists & inhibitors; -biosynthesis; +physiology)
+-Protein Biosynthesis
+-Protein Isoforms (-genetics; -metabolism)
+-Spleen (-immunology)
+
+pii:gkp577
+doi:10.1093/nar/gkp577
+pubmed:19596814
+pmc:PMC2761263
+

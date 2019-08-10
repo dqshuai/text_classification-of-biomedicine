@@ -1,0 +1,27 @@
+J. Virol.
+
+Venezuelan equine encephalitis virus disrupts STAT1 signaling by distinct mechanisms independent of host shutoff.
+
+JD Simmons, LJ White, TE Morrison, SA Montgomery, AC Whitmore, RE Johnston, MT Heise
+
+Venezuelan equine encephalitis virus (VEEV) is an important human and veterinary pathogen causing sporadic epizootic outbreaks of potentially fatal encephalitis. The type I interferon (IFN) system plays a central role in controlling VEEV and other alphavirus infections, and IFN evasion is likely an important determinant of whether these viruses disseminate and cause disease within their hosts. Alphaviruses are thought to limit the induction of type I IFNs and IFN-stimulated genes by shutting off host cell macromolecular synthesis, which in the case of VEEV is partially mediated by the viral capsid protein. However, more specific strategies by which alphaviruses inhibit type I IFN signaling have not been characterized. Analyses of cells infected with VEEV and VEEV replicon particles (VRP) demonstrate that viral infection rapidly disrupts tyrosine phosphorylation and nuclear translocation of the transcription factor STAT1 in response to both IFN-beta and IFN-gamma. This effect was independent of host shutoff and expression of viral capsid, suggesting that VEEV uses novel mechanisms to interfere with type I and type II IFN signaling. Furthermore, at times when STAT1 activation was efficiently inhibited, VRP infection did not limit tyrosine phosphorylation of Jak1, Tyk2, or STAT2 after IFN-beta treatment but did inhibit Jak1 and Jak2 activation in response to IFN-gamma, suggesting that VEEV interferes with STAT1 activation by the type I and II receptor complexes through distinct mechanisms. Identification of the viral requirements for this novel STAT1 inhibition will further our understanding of alphavirus molecular pathogenesis and may provide insights into effective alphavirus-based vaccine design.
+
+-Animals
+-Cercopithecus aethiops
+-Cricetinae
+-Encephalitis Virus, Venezuelan Equine (+pathogenicity)
+-Hela Cells
+-Humans
+-Interferon-beta (-antagonists & inhibitors; -immunology)
+-Interferon-gamma (-antagonists & inhibitors; -immunology)
+-Phosphorylation
+-STAT1 Transcription Factor (+antagonists & inhibitors; -metabolism)
++Signal Transduction (-physiology)
+-Tyrosine (-metabolism)
+-Vero Cells
+
+pii:JVI.01041-09
+doi:10.1128/JVI.01041-09
+pubmed:19656875
+pmc:PMC2753124
+

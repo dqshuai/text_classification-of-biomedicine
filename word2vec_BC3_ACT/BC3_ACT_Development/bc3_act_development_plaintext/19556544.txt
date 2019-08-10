@@ -1,0 +1,21 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Molecular noise of capping protein binding induces macroscopic instability in filopodial dynamics.
+
+PI Zhuravlev, GA Papoian
+
+Capping proteins are among the most important regulatory proteins involved in controlling complicated stochastic dynamics of filopodia, which are dynamic finger-like protrusions used by eukaryotic motile cells to probe their environment and help guide cell motility. They attach to the barbed end of a filament and prevent polymerization, leading to effective filament retraction due to retrograde flow. When we simulated filopodial growth in the presence of capping proteins, qualitatively different dynamics emerged, compared with actin-only system. We discovered that molecular noise due to capping protein binding and unbinding leads to macroscopic filopodial length fluctuations, compared with minuscule fluctuations in the actin-only system. Thus, our work shows that molecular noise of signaling proteins may induce micrometer-scale growth-retraction cycles in filopodia. When capped, some filaments eventually retract all the way down to the filopodial base and disappear. This process endows filopodium with a finite lifetime. Additionally, the filopodia transiently grow several times longer than in actin-only system, since less actin transport is required because of bundle thinning. We have also developed an accurate mean-field model that provides qualitative explanations of our numerical simulation results. Our results are broadly consistent with experiments, in terms of predicting filopodial growth retraction cycles and the average filopodial lifetimes.
+
+-Actin Capping Proteins (+metabolism)
+-Actins (+metabolism)
+-Eukaryotic Cells (+cytology)
++Models, Biological
+-Protein Binding
+-Pseudopodia (+physiology)
+-Stochastic Processes
+
+pii:0812746106
+doi:10.1073/pnas.0812746106
+pubmed:19556544
+pmc:PMC2710665
+

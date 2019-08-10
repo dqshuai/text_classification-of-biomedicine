@@ -1,0 +1,26 @@
+EMBO Rep.
+
+New androgen receptor genomic targets show an interaction with the ETS1 transcription factor.
+
+CE Massie, B Adryan, NL Barbosa-Morais, AG Lynch, MG Tran, DE Neal, IG Mills
+
+The androgen receptor (AR) initiates important developmental and oncogenic transcriptional pathways. The AR is known to bind as a homodimer to 15-base pair bipartite palindromic androgen-response elements; however, few direct AR gene targets are known. To identify AR promoter targets, we used chromatin immunoprecipitation with on-chip detection of genomic fragments. We identified 1,532 potential AR-binding sites, including previously known AR gene targets. Many of the new AR target genes show altered expression in prostate cancer. Analysis of sequences underlying AR-binding sites showed that more than 50% of AR-binding sites did not contain the established 15 bp AR-binding element. Unbiased sequence analysis showed 6-bp motifs, which were significantly enriched and were bound directly by the AR in vitro. Binding sequences for the avian erythroblastosis virus E26 homologue (ETS) transcription factor family were also highly enriched, and we uncovered an interaction between the AR and ETS1 at a subset of AR promoter targets.
+
+-Base Sequence
+-Binding Sites
+-Cell Line, Tumor
+-Chromatin Immunoprecipitation
+-Genome, Human (+genetics)
+-Humans
+-Molecular Sequence Data
+-Promoter Regions, Genetic (-genetics)
+-Protein Binding
+-Proto-Oncogene Protein c-ets-1 (+metabolism)
+-Receptors, Androgen (+metabolism)
+-Sequence Analysis, DNA
+
+pii:7401046
+doi:10.1038/sj.embor.7401046
+pubmed:17721441
+pmc:PMC1950328
+

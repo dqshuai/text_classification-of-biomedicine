@@ -1,0 +1,35 @@
+J. Biol. Chem.
+
+Docking of PRAK/MK5 to the atypical MAPKs ERK3 and ERK4 defines a novel MAPK interaction motif.
+
+E Aberg, KM Torgersen, B Johansen, SM Keyse, M Perander, OM Seternes
+
+ERK3 and ERK4 are atypical MAPKs in which the canonical TXY motif within the activation loop of the classical MAPKs is replaced by SEG. Both ERK3 and ERK4 bind, translocate, and activate the MAPK-activated protein kinase (MK) 5. The classical MAPKs ERK1/2 and p38 interact with downstream MKs (RSK1-3 and MK2-3, respectively) through conserved clusters of acidic amino acids, which constitute the common docking (CD) domain. In contrast to the classical MAPKs, the interaction between ERK3/4 and MK5 is strictly dependent on phosphorylation of the SEG motif of these kinases. Here we report that the conserved CD domain is dispensable for the interaction of ERK3 and ERK4 with MK5. Using peptide overlay assays, we have defined a novel MK5 interaction motif (FRIEDE) within both ERK4 and ERK3 that is essential for binding to the C-terminal region of MK5. This motif is located within the L16 extension lying C-terminal to the CD domain in ERK3 and ERK4 and a single isoleucine to lysine substitution in FRIEDE totally abrogates binding, activation, and translocation of MK5 by both ERK3 and ERK4. These findings are the first to demonstrate binding of a physiological substrate via this region of the L16 loop in a MAPK. Furthermore, the link between activation loop phosphorylation and accessibility of the FRIEDE interaction motif suggests a switch mechanism for these atypical MAPKs in which the phosphorylation status of the activation loop regulates the ability of both ERK3 and ERK4 to bind to a downstream effector.
+
+-Amino Acid Motifs (-genetics)
+-Amino Acid Sequence
+-Binding Sites (-genetics)
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Hela Cells
+-Humans
+-Immunoblotting
+-Intracellular Signaling Peptides and Proteins (-genetics; +metabolism)
+-Microscopy, Confocal
+-Mitogen-Activated Protein Kinase 6 (-chemistry; -genetics; +metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Mutation
+-Protein Binding
++Protein Interaction Domains and Motifs
+-Protein Structure, Tertiary
+-Protein Transport
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Sequence Homology, Amino Acid
+-Transfection
+
+pii:M109.023283
+doi:10.1074/jbc.M109.023283
+pubmed:19473979
+pmc:PMC2740564
+

@@ -1,0 +1,33 @@
+J. Biol. Chem.
+
+Activation of protein kinase Calpha by EPAC1 is required for the ERK- and CCAAT/enhancer-binding protein beta-dependent induction of the SOCS-3 gene by cyclic AMP in COS1 cells.
+
+G Borland, RJ Bird, TM Palmer, SJ Yarwood
+
+We recently found that induction of the anti-inflammatory SOCS-3 gene by cyclic AMP occurs through novel cyclic AMP-dependent protein kinase-independent mechanisms involving activation of CCAAT/enhancer-binding protein (C/EBP) transcription factors, notably C/EBPbeta, by the cyclic AMP GEF EPAC1 and the Rap1 GTPase. In this study we show that down-regulation of phospholipase (PL) Cepsilon with small interfering RNA or blockade of PLC activity with chemical inhibitors ablates exchange protein directly activated by cyclic AMP (EPAC)-dependent induction of SOCS-3 in COS1 cells. Consistent with this, stimulation of cells with 1-oleoyl-2-acetyl-sn-glycerol and phorbol 12-myristate 13-acetate, both cell-permeable analogues of the PLC product diacylglycerol, are sufficient to induce SOCS-3 expression in a Ca2+-dependent manner. Moreover, the diacylglycerol- and Ca2+-dependent protein kinase C (PKC) isoform PKCalpha becomes activated following cyclic AMP elevation or EPAC stimulation. Conversely, down-regulation of PKC activity with chemical inhibitors or small interfering RNA-mediated depletion of PKCalpha or -delta blocks EPAC-dependent SOCS-3 induction. Using the MEK inhibitor U0126, we found that activation of ERK MAPKs is essential for SOCS-3 induction by either cyclic AMP or PKC. C/EBPbeta is known to be phosphorylated and activated by ERK. Accordingly, we found ERK activation to be essential for cyclic AMP-dependent C/EBP activation and C/EBPbeta-dependent SOCS-3 induction by cyclic AMP and PKC. Moreover, overexpression of a mutant form of C/EBPbeta (T235A), which lacks the ERK phosphorylation site, blocks SOCS-3 induction by cyclic AMP and PKC in a dominant-negative manner. Together, these results indicate that EPAC mediates novel regulatory cross-talk between the cyclic AMP and PKC signaling pathways leading to ERK- and C/EBPbeta-dependent induction of the SOCS-3 gene.
+
+-Animals
+-Blotting, Western
+-CCAAT-Enhancer-Binding Protein-beta (-antagonists & inhibitors; -genetics; +metabolism)
+-COS Cells (-drug effects; -metabolism)
+-Cercopithecus aethiops
+-Cyclic AMP (+pharmacology)
+-Extracellular Signal-Regulated MAP Kinases (-antagonists & inhibitors; +metabolism)
+-Gene Expression
+-Guanine Nucleotide Exchange Factors (-antagonists & inhibitors; -genetics; +metabolism)
+-Humans
+-Luciferases (-metabolism)
+-Phosphoinositide Phospholipase C (-antagonists & inhibitors; -genetics; -metabolism)
+-Phosphorylation (-drug effects)
+-Protein Kinase C-alpha (-genetics; +metabolism)
+-RNA, Small Interfering (-pharmacology)
+-Signal Transduction
+-Suppressor of Cytokine Signaling Proteins (+genetics; -metabolism)
+-Telomere-Binding Proteins (-genetics; -metabolism)
+-Tetradecanoylphorbol Acetate (-pharmacology)
+
+pii:M109.015370
+doi:10.1074/jbc.M109.015370
+pubmed:19423709
+pmc:PMC2719379
+

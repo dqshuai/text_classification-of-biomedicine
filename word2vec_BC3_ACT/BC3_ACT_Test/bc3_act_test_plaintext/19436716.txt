@@ -1,0 +1,26 @@
+PLoS Genet.
+
+Additions, losses, and rearrangements on the evolutionary route from a reconstructed ancestor to the modern Saccharomyces cerevisiae genome.
+
+JL Gordon, KP Byrne, KH Wolfe
+
+Comparative genomics can be used to infer the history of genomic rearrangements that occurred during the evolution of a species. We used the principle of parsimony, applied to aligned synteny blocks from 11 yeast species, to infer the gene content and gene order that existed in the genome of an extinct ancestral yeast about 100 Mya, immediately before it underwent whole-genome duplication (WGD). The reconstructed ancestral genome contains 4,703 ordered loci on eight chromosomes. The reconstruction is complete except for the subtelomeric regions. We then inferred the series of rearrangement steps that led from this ancestor to the current Saccharomyces cerevisiae genome; relative to the ancestral genome we observe 73 inversions, 66 reciprocal translocations, and five translocations involving telomeres. Some fragile chromosomal sites were reused as evolutionary breakpoints multiple times. We identified 124 genes that have been gained by S. cerevisiae in the time since the WGD, including one that is derived from a hAT family transposon, and 88 ancestral loci at which S. cerevisiae did not retain either of the gene copies that were formed by WGD. Sites of gene gain and evolutionary breakpoints both tend to be associated with tRNA genes and, to a lesser extent, with origins of replication. Many of the gained genes in S. cerevisiae have functions associated with ethanol production, growth in hypoxic environments, or the uptake of alternative nutrient sources.
+
+-Amino Acid Sequence
+-Chromosome Inversion
+-DNA Transposable Elements
++Evolution, Molecular
+-Gene Rearrangement
+-Genes, Fungal
++Genome, Fungal
+-Molecular Sequence Data
+-Phylogeny
+-Saccharomyces cerevisiae (+genetics; -growth & development; -physiology)
+-Saccharomyces cerevisiae Proteins (-genetics)
+-Sequence Homology, Amino Acid
+-Translocation, Genetic
+
+doi:10.1371/journal.pgen.1000485
+pubmed:19436716
+pmc:PMC2675101
+

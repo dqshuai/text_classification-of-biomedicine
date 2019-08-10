@@ -1,0 +1,34 @@
+Hum. Mol. Genet.
+
+Tissue-specific alternative splicing of TCF7L2.
+
+L Prokunina-Olsson, C Welch, O Hansson, N Adhikari, LJ Scott, N Usher, M Tong, A Sprau, A Swift, LL Bonnycastle, MR Erdos, Z He, R Saxena, B Harmon, O Kotova, EP Hoffman, D Altshuler, L Groop, M Boehnke, FS Collins, JL Hall
+
+Common variants in the transcription factor 7-like 2 (TCF7L2) gene have been identified as the strongest genetic risk factors for type 2 diabetes (T2D). However, the mechanisms by which these non-coding variants increase risk for T2D are not well-established. We used 13 expression assays to survey mRNA expression of multiple TCF7L2 splicing forms in up to 380 samples from eight types of human tissue (pancreas, pancreatic islets, colon, liver, monocytes, skeletal muscle, subcutaneous adipose tissue and lymphoblastoid cell lines) and observed a tissue-specific pattern of alternative splicing. We tested whether the expression of TCF7L2 splicing forms was associated with single nucleotide polymorphisms (SNPs), rs7903146 and rs12255372, located within introns 3 and 4 of the gene and most strongly associated with T2D. Expression of two splicing forms was lower in pancreatic islets with increasing counts of T2D-associated alleles of the SNPs: a ubiquitous splicing form (P = 0.018 for rs7903146 and P = 0.020 for rs12255372) and a splicing form found in pancreatic islets, pancreas and colon but not in other tissues tested here (P = 0.009 for rs12255372 and P = 0.053 for rs7903146). Expression of this form in glucose-stimulated pancreatic islets correlated with expression of proinsulin (r(2) = 0.84-0.90, P < 0.00063). In summary, we identified a tissue-specific pattern of alternative splicing of TCF7L2. After adjustment for multiple tests, no association between expression of TCF7L2 in eight types of human tissue samples and T2D-associated genetic variants remained significant. Alternative splicing of TCF7L2 in pancreatic islets warrants future studies. GenBank Accession Numbers: FJ010164-FJ010174.
+
+-Adolescent
+-Adult
++Alternative Splicing
+-Cell Line
+-Colon (-metabolism)
+-Diabetes Mellitus, Type 2 (+genetics; -metabolism)
+-Female
+-Gene Expression
+-Humans
+-Islets of Langerhans (-metabolism)
+-Liver (-metabolism)
+-Male
+-Middle Aged
+-Molecular Sequence Data
+-Muscle, Skeletal (-metabolism)
++Organ Specificity
+-Pancreas (-metabolism)
+-Protein Isoforms (-genetics; -metabolism)
+-TCF Transcription Factors (+genetics; -metabolism)
+-Young Adult
+
+pii:ddp321
+doi:10.1093/hmg/ddp321
+pubmed:19602480
+pmc:PMC2748888
+

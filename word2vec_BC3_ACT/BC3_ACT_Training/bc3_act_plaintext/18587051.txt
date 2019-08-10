@@ -1,0 +1,29 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Crystal structure of human thymine DNA glycosylase bound to DNA elucidates sequence-specific mismatch recognition.
+
+A Maiti, MT Morgan, E Pozharski, AC Drohat
+
+Cytosine methylation at CpG dinucleotides produces m(5)CpG, an epigenetic modification that is important for transcriptional regulation and genomic stability in vertebrate cells. However, m(5)C deamination yields mutagenic G.T mispairs, which are implicated in genetic disease, cancer, and aging. Human thymine DNA glycosylase (hTDG) removes T from G.T mispairs, producing an abasic (or AP) site, and follow-on base excision repair proteins restore the G.C pair. hTDG is inactive against normal A.T pairs, and is most effective for G.T mispairs and other damage located in a CpG context. The molecular basis of these important catalytic properties has remained unknown. Here, we report a crystal structure of hTDG (catalytic domain, hTDG(cat)) in complex with abasic DNA, at 2.8 A resolution. Surprisingly, the enzyme crystallized in a 2:1 complex with DNA, one subunit bound at the abasic site, as anticipated, and the other at an undamaged (nonspecific) site. Isothermal titration calorimetry and electrophoretic mobility-shift experiments indicate that hTDG and hTDG(cat) can bind abasic DNA with 1:1 or 2:1 stoichiometry. Kinetics experiments show that the 1:1 complex is sufficient for full catalytic (base excision) activity, suggesting that the 2:1 complex, if adopted in vivo, might be important for some other activity of hTDG, perhaps binding interactions with other proteins. Our structure reveals interactions that promote the stringent specificity for guanine versus adenine as the pairing partner of the target base and interactions that likely confer CpG sequence specificity. We find striking differences between hTDG and its prokaryotic ortholog (MUG), despite the relatively high (32%) sequence identity.
+
++Base Pair Mismatch
+-Base Pairing
+-Base Sequence
+-CpG Islands (-genetics)
+-Crystallography, X-Ray
+-DNA (-genetics; +metabolism)
+-Dimerization
+-Guanine (-metabolism)
+-Humans
+-Kinetics
+-Models, Molecular
+-Molecular Sequence Data
+-Substrate Specificity
+-Thermodynamics
+-Thymine DNA Glycosylase (+chemistry; +metabolism)
+
+pii:0711061105
+doi:10.1073/pnas.0711061105
+pubmed:18587051
+pmc:PMC2449336
+

@@ -1,0 +1,27 @@
+J. Bacteriol.
+
+Genetic analysis of repair and damage tolerance mechanisms for DNA-protein cross-links in Escherichia coli.
+
+AM Salem, T Nakano, M Takuwa, N Matoba, T Tsuboi, H Terato, K Yamamoto, M Yamada, T Nohmi, H Ide
+
+DNA-protein cross-links (DPCs) are unique among DNA lesions in their unusually bulky nature. We have recently shown that nucleotide excision repair (NER) and RecBCD-dependent homologous recombination (HR) collaboratively alleviate the lethal effect of DPCs in Escherichia coli. In this study, to gain further insight into the damage-processing mechanism for DPCs, we assessed the sensitivities of a panel of repair-deficient E. coli mutants to DPC-inducing agents, including formaldehyde (FA) and 5-azacytidine (azaC). We show here that the damage tolerance mechanism involving HR and subsequent replication restart (RR) provides the most effective means of cell survival against DPCs. Translesion synthesis does not serve as an alternative damage tolerance mechanism for DPCs in cell survival. Elimination of DPCs from the genome relies primarily on NER, which provides a second and moderately effective means of cell survival against DPCs. Interestingly, Cho rather than UvrC seems to be an effective nuclease for the NER of DPCs. Together with the genes responsible for HR, RR, and NER, the mutation of genes involved in several aspects of DNA repair and transactions, such as recQ, xth nfo, dksA, and topA, rendered cells slightly but significantly sensitive to FA but not azaC, possibly reflecting the complexity of DPCs or cryptic lesions induced by FA. UvrD may have an additional role outside NER, since the uvrD mutation conferred a slight azaC sensitivity on cells. Finally, DNA glycosylases mitigate azaC toxicity, independently of the repair of DPCs, presumably by removing 5-azacytosine or its degradation product from the chromosome.
+
+-Azacitidine (-pharmacology)
+-Cross-Linking Reagents (+metabolism; -pharmacology)
+-DNA Damage (+genetics)
+-DNA Glycosylases (-genetics; -metabolism)
+-DNA Repair (+genetics)
+-DNA Replication
+-DNA, Bacterial (-chemistry; +metabolism)
+-Escherichia coli K12 (-drug effects; -genetics; -growth & development; +metabolism)
+-Escherichia coli Proteins (-chemistry; -genetics; +metabolism)
+-Formaldehyde (-pharmacology)
+-Mutation
+-Protein Binding
+-Recombination, Genetic
+
+pii:JB.00417-09
+doi:10.1128/JB.00417-09
+pubmed:19617358
+pmc:PMC2737949
+

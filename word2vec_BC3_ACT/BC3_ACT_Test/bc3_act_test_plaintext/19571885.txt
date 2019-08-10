@@ -1,0 +1,29 @@
+Nature
+
+A parallel circuit of LIF signalling pathways maintains pluripotency of mouse ES cells.
+
+H Niwa, K Ogawa, D Shimosato, K Adachi
+
+The cytokine leukaemia inhibitory factor (LIF) integrates signals into mouse embryonic stem (ES) cells to maintain pluripotency. Although the Jak-Stat3 pathway is essential and sufficient to mediate LIF signals, it is still unclear how these signals are linked to the core circuitry of pluripotency-associated transcription factors, consisting of Oct3/4 (also called Pou5f1), Sox2 and Nanog. Here we show that two LIF signalling pathways are each connected to the core circuitry via different transcription factors. In mouse ES cells, Klf4 is mainly activated by the Jak-Stat3 pathway and preferentially activates Sox2, whereas Tbx3 is preferentially regulated by the phosphatidylinositol-3-OH kinase-Akt and mitogen-activated protein kinase pathways and predominantly stimulates Nanog. In the absence of LIF, artificial expression of Klf4 or Tbx3 is sufficient to maintain pluripotency while maintaining the expression of Oct3/4. Notably, overexpression of Nanog supports LIF-independent self-renewal of mouse ES cells in the absence of Klf4 and Tbx3 activity. Therefore, Klf4 and Tbx3 are involved in mediating LIF signalling to the core circuitry but are not directly associated with the maintenance of pluripotency, because ES cells keep pluripotency without their expression in the particular context.
+
+-1-Phosphatidylinositol 3-Kinase (-metabolism)
+-Animals
+-Cell Line
+-Embryonic Stem Cells (+cytology; +metabolism)
+-Gene Expression Regulation
+-Homeodomain Proteins (-genetics; -metabolism)
+-Janus Kinases (-metabolism)
+-Kruppel-Like Transcription Factors (-genetics; -metabolism)
+-Leukemia Inhibitory Factor (+metabolism)
+-MAP Kinase Signaling System
+-Mice
+-Pluripotent Stem Cells (+cytology; +metabolism)
+-Proto-Oncogene Proteins c-akt (-metabolism)
+-STAT3 Transcription Factor (-metabolism)
++Signal Transduction
+-T-Box Domain Proteins (-genetics; -metabolism)
+
+pii:nature08113
+doi:10.1038/nature08113
+pubmed:19571885
+

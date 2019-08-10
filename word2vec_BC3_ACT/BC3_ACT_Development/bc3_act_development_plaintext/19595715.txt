@@ -1,0 +1,42 @@
+Mol. Cell
+
+Transcriptional integration of TLR2 and TLR4 signaling at the NCoR derepression checkpoint.
+
+W Huang, S Ghisletti, V Perissi, MG Rosenfeld, CK Glass
+
+Activation of toll-like receptors (TLRs) leads to derepression and subsequent activation of inflammatory response genes that play essential roles in innate and acquired immunity. Derepression requires signal-dependent turnover of the nuclear receptor corepressor NCoR from target promoters, but the mechanisms remain poorly understood. Here, we report that TLR4 uses NFkappaB to deliver IKKepsilon to target promoters that contain "integrated circuits" of kappaB and AP-1 sites, resulting in local phosphorylation of c-Jun and subsequent NCoR clearance. In contrast, TLR2 signaling leads to rapid activation of CaMKII and phosphorylation of the TBLR1 component of NCoR complexes, bypassing the requirement for c-Jun phosphorylation and enabling NCoR clearance from promoters lacking integrated kappaB elements. Intriguingly, the IKKvarepsilon-dependent clearance pathway is sensitive to transrepression by liver X receptors, while the CaMKII-dependent pathway is not. These findings reveal mechanisms for integration of TLR, calcium, and nuclear receptor signaling pathways that underlie pathogen-specific responses and disease-specific programs of inflammation.
+
+-Animals
+-Calcium-Calmodulin-Dependent Protein Kinase Type 2 (-genetics; -metabolism)
+-Cell Line
+-Cells, Cultured
+-Chromatin Immunoprecipitation
+-DNA-Binding Proteins (-genetics; -metabolism)
+-Immunoblotting
+-Lipopeptides (-pharmacology)
+-Lipopolysaccharides (-pharmacology)
+-Mice
+-Mice, Inbred C57BL
+-Mutation
+-Nuclear Proteins (-genetics; +metabolism)
+-Nuclear Receptor Co-Repressor 1
+-Nuclear Receptor Co-Repressor 2
+-Orphan Nuclear Receptors
+-Phosphorylation (-drug effects)
+-RNA Interference
+-Receptors, Cytoplasmic and Nuclear (-metabolism)
+-Repressor Proteins (-genetics; +metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
++Signal Transduction
+-Tetradecanoylphorbol Acetate (-pharmacology)
+-Toll-Like Receptor 2 (-genetics; +metabolism)
+-Toll-Like Receptor 4 (-genetics; +metabolism)
+-Transcription Factor RelA (-genetics; -metabolism)
+-Transcription, Genetic (-drug effects)
+
+pii:S1097-2765(09)00384-0
+doi:10.1016/j.molcel.2009.05.023
+pubmed:19595715
+mid:NIHMS132412
+pmc:PMC2759189
+

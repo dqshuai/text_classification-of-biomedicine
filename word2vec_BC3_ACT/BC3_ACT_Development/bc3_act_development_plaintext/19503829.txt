@@ -1,0 +1,27 @@
+PLoS ONE
+
+Fido, a novel AMPylation domain common to fic, doc, and AvrB.
+
+LN Kinch, ML Yarbrough, K Orth, NV Grishin
+
+BACKGROUND: The Vibrio parahaemolyticus type III secreted effector VopS contains a fic domain that covalently modifies Rho GTPase threonine with AMP to inhibit downstream signaling events in host cells. The VopS fic domain includes a conserved sequence motif (HPFx[D/E]GN[G/K]R) that contributes to AMPylation. Fic domains are found in a variety of species, including bacteria, a few archaea, and metazoan eukaryotes. METHODOLOGY/PRINCIPAL FINDINGS: We show that the AMPylation activity extends to a eukaryotic fic domain in Drosophila melanogaster CG9523, and use sequence and structure based computational methods to identify related domains in doc toxins and the type III effector AvrB. The conserved sequence motif that contributes to AMPylation unites fic with doc. Although AvrB lacks this motif, its structure reveals a similar topology to the fic and doc folds. AvrB binds to a peptide fragment of its host virulence target in a similar manner as fic binds peptide substrate. AvrB also orients a phosphate group from a bound ADP ligand near the peptide-binding site and in a similar position as a bound fic phosphate. CONCLUSIONS/SIGNIFICANCE: The demonstrated eukaryotic fic domain AMPylation activity suggests that the VopS effector has exploited a novel host posttranslational modification. Fic domain-related structures give insight to the AMPylation active site and to the VopS fic domain interaction with its host GTPase target. These results suggest that fic, doc, and AvrB stem from a common ancestor that has evolved to AMPylate protein substrates.
+
+-Amino Acid Motifs
+-Amino Acid Sequence
+-Animals
+-Bacterial Proteins (-metabolism)
+-Bacteroides (-metabolism)
+-Drosophila melanogaster (-metabolism)
+-Escherichia coli Proteins (-chemistry)
+-Molecular Sequence Data
+-Nucleotidyltransferases (-chemistry)
+-Peptides (-chemistry)
+-Protein Structure, Tertiary
+-Sequence Homology, Amino Acid
+-Signal Transduction
+-Vibrio parahaemolyticus (+metabolism)
+
+doi:10.1371/journal.pone.0005818
+pubmed:19503829
+pmc:PMC2686095
+

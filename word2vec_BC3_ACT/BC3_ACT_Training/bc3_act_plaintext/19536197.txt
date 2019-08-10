@@ -1,0 +1,29 @@
+Mol. Syst. Biol.
+
+Genome-wide allele- and strand-specific expression profiling.
+
+J Gagneur, H Sinha, F Perocchi, R Bourgon, W Huber, LM Steinmetz
+
+Recent reports have shown that most of the genome is transcribed and that transcription frequently occurs concurrently on both DNA strands. In diploid genomes, the expression level of each allele conditions the degree to which sequence polymorphisms affect the phenotype. It is thus essential to quantify expression in an allele- and strand-specific manner. Using a custom-designed tiling array and a new computational approach, we piloted measuring allele- and strand-specific expression in yeast. Confident quantitative estimates of allele-specific expression were obtained for about half of the coding and non-coding transcripts of a heterozygous yeast strain, of which 371 transcripts (13%) showed significant allelic differential expression greater than 1.5-fold. The data revealed complex allelic differential expression on opposite strands. Furthermore, combining allele-specific expression with linkage mapping enabled identifying allelic variants that act in cis and in trans to regulate allelic expression in the heterozygous strain. Our results provide the first high-resolution analysis of differential expression on all four strands of an eukaryotic genome.
+
++Alleles
+-Chromosome Mapping (-methods)
+-DNA, Fungal (-chemistry; -metabolism)
+-Gene Expression
+-Gene Expression Profiling (+methods)
+-Gene Expression Regulation, Fungal
++Genome, Fungal
+-Least-Squares Analysis
+-Polymorphism, Genetic
+-Promoter Regions, Genetic
+-Proton-Phosphate Symporters (-biosynthesis; -genetics; -metabolism)
+-Regulatory Elements, Transcriptional (-genetics)
+-Reproducibility of Results
+-Saccharomyces cerevisiae (+genetics)
+-Saccharomyces cerevisiae Proteins (-biosynthesis; -genetics; -metabolism)
+
+pii:msb200931
+doi:10.1038/msb.2009.31
+pubmed:19536197
+pmc:PMC2710863
+

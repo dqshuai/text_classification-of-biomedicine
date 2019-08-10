@@ -1,0 +1,23 @@
+PLoS ONE
+
+Noninvasive cardiac flow assessment using high speed magnetic resonance fluid motion tracking.
+
+KK Wong, RM Kelso, SG Worthley, P Sanders, J Mazumdar, D Abbott
+
+Cardiovascular diseases can be diagnosed by assessing abnormal flow behavior in the heart. We introduce, for the first time, a magnetic resonance imaging-based diagnostic that produces sectional flow maps of cardiac chambers, and presents cardiac analysis based on the flow information. Using steady-state free precession magnetic resonance images of blood, we demonstrate intensity contrast between asynchronous and synchronous proton spins. Turbulent blood flow in cardiac chambers contains asynchronous blood proton spins whose concentration affects the signal intensities that are registered onto the magnetic resonance images. Application of intensity flow tracking based on their non-uniform signal concentrations provides a flow field map of the blood motion. We verify this theory in a patient with an atrial septal defect whose chamber blood flow vortices vary in speed of rotation before and after septal occlusion. Based on the measurement of cardiac flow vorticity in our implementation, we establish a relationship between atrial vorticity and septal defect. The developed system has the potential to be used as a prognostic and investigative tool for assessment of cardiac abnormalities, and can be exploited in parallel to examining myocardial defects using steady-state free precession magnetic resonance images of the heart.
+
+-Adolescent
+-Coronary Circulation (+physiology)
+-Heart Septal Defects (-diagnosis; -physiopathology)
+-Humans
+-Magnetic Resonance Imaging (+methods)
+-Male
++Motion
+-Reproducibility of Results
+-Rheology (+methods)
+-Time Factors
+
+doi:10.1371/journal.pone.0005688
+pubmed:19479033
+pmc:PMC2682657
+

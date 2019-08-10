@@ -1,0 +1,34 @@
+Cancer Res.
+
+Comparison of primary neuroblastoma tumors and derivative early-passage cell lines using genome-wide single nucleotide polymorphism array analysis.
+
+SL Volchenboum, C Li, S Li, EF Attiyeh, CP Reynolds, JM Maris, AT Look, RE George
+
+Stromal contamination is one of the major confounding factors in the analysis of solid tumor samples by single nucleotide polymorphism (SNP) arrays. As we propose to use genome-wide SNP microarray analysis as a diagnostic platform for neuroblastoma, the sensitivity, specificity, and accuracy of these studies must be optimized. To investigate the effects of stromal contamination, we derived early-passage cell lines from nine primary tumors and compared their genomic signature with that of the primary tumors using 100K SNP arrays. The average concordance between tumor and cell line for raw loss of heterozygosity (LOH) calls was 96% (range, 91-99%) and for raw copy number alterations, 71% (range, 43-87%). In general, there were a larger number of LOH events identified in the cell lines compared with the matched tumor samples (mean increase, 3.2% +/- 1.9%). We have developed an algorithm that shows that the presence of stroma contributes to under-reporting of LOH and copy number loss. Notable findings in this sample set were uniparental disomy of chromosome arms 11p, 1q, 14q, and 15q and a novel area of amplification on chromosome band 11p15. Our analysis shows that LOH was identified significantly more often in derived cell lines compared with the original tumor samples. Although these may in part be due to clonal selection during adaptation to tissue culture, our study indicates that stromal contamination may be a major contributing factor in underestimation of LOH and copy number loss events.
+
+-Algorithms
+-Cell Line
+-Cell Line, Tumor
+-Child
+-Chromosome Aberrations
+-Chromosome Mapping
+-Chromosomes, Human, Pair 1
+-Chromosomes, Human, Pair 11
+-Chromosomes, Human, Pair 14
+-Chromosomes, Human, Pair 15
+-DNA, Neoplasm (-genetics; -isolation & purification)
++Genome-Wide Association Study
+-Genotype
+-Humans
++Loss of Heterozygosity
+-Neuroblastoma (-epidemiology; +genetics)
+-Oligonucleotide Array Sequence Analysis
++Polymorphism, Single Nucleotide
+-Stromal Cells (-pathology)
+
+pii:0008-5472.CAN-08-3112
+doi:10.1158/0008-5472.CAN-08-3112
+pubmed:19435921
+mid:NIHMS119938
+pmc:PMC2739280
+

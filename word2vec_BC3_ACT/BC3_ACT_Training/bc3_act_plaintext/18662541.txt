@@ -1,0 +1,31 @@
+Cell
+
+The Cdc14B-Cdh1-Plk1 axis controls the G2 DNA-damage-response checkpoint.
+
+F Bassermann, D Frescas, D Guardavaccaro, L Busino, A Peschiaroli, M Pagano
+
+In response to DNA damage in G2, mammalian cells must avoid entry into mitosis and instead initiate DNA repair. Here, we show that, in response to genotoxic stress in G2, the phosphatase Cdc14B translocates from the nucleolus to the nucleoplasm and induces the activation of the ubiquitin ligase APC/C(Cdh1), with the consequent degradation of Plk1, a prominent mitotic kinase. This process induces the stabilization of Claspin, an activator of the DNA-damage checkpoint, and Wee1, an inhibitor of cell-cycle progression, and allows an efficient G2 checkpoint. As a by-product of APC/C(Cdh1) reactivation in DNA-damaged G2 cells, Claspin, which we show to be an APC/C(Cdh1) substrate in G1, is targeted for degradation. However, this process is counteracted by the deubiquitylating enzyme Usp28 to permit Claspin-mediated activation of Chk1 in response to DNA damage. These findings define a novel pathway that is crucial for the G2 DNA-damage-response checkpoint.
+
+-Adaptor Proteins, Signal Transducing (+metabolism)
+-Cell Cycle Proteins (+metabolism)
+-Cell Line, Tumor
+-Cell Nucleus (-metabolism)
+-DNA Damage
++DNA Repair
+-Dual-Specificity Phosphatases (+metabolism)
++G2 Phase
+-Humans
+-Mitosis
+-Neoplasms (-metabolism)
+-Protein-Serine-Threonine Kinases (+metabolism)
+-Proto-Oncogene Proteins (+metabolism)
++Signal Transduction
+-Ubiquitin Thiolesterase (-metabolism)
+-Ubiquitin-Protein Ligase Complexes (+metabolism)
+
+pii:S0092-8674(08)00706-X
+doi:10.1016/j.cell.2008.05.043
+pubmed:18662541
+mid:NIHMS61424
+pmc:PMC2591934
+

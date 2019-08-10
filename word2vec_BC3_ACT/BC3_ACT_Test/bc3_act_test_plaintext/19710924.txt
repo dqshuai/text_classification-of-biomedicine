@@ -1,0 +1,20 @@
+PLoS ONE
+
+Novel indirect calorimetry technology to analyze metabolism in individual neonatal rodent pups.
+
+JF Dominguez, L Guo, MA Carrasco Molnar, A Ballester Escobedo, T Dunphy, TD Lund, JE Turman
+
+BACKGROUND: The ability to characterize the development of metabolic function in neonatal rodents has been limited due to technological constraints. Low respiratory volumes and flows at rest pose unique problems, making it difficult to reliably measure O(2) consumption, CO(2) production, respiratory quotient (RQ), and energy expenditure (EE). Our aim was to develop and validate a commercial-grade indirect calorimetry system capable of characterizing the metabolic phenotype of individual neonatal rodents. METHODOLOGY/PRINCIPAL FINDINGS: To address this research need, we developed a novel, highly sensitive open-circuit indirect calorimetry system capable of analyzing respiratory gas exchange in a single neonatal rodent pup. Additionally, we derived an equation from known metabolic relationships to estimate inlet flow rates, improving the efficiency of data collection. To validate the neonatal rodent indirect calorimetry system and evaluate the applicability of the derived equation for predicting appropriate flow rates, we conducted a series of experiments evaluating the impact of sex, litter size, time of day (during the light phase), and ambient temperature on neonatal rat metabolic parameters. Data revealed that the only metabolic parameter influenced by litter size is a neonatal rat's RQ, with rat pups reared in a small litter (5 pups) having lower RQ's than rat pups reared in either medium (8 pups) or large (11 pups) litters. Furthermore, data showed that ambient temperature affected all metabolic parameters measured, with colder temperatures being associated with higher CO(2) production, higher O(2) consumption, and higher energy expenditure. CONCLUSION/SIGNIFICANCE: The results of this study demonstrate that the modified Panlab Oxylet system reliably assesses early postnatal metabolism in individual neonatal rodents. This system will be of paramount importance to further our understanding of processes associated with the developmental origins of adult metabolic disease.
+
+-Animals
++Animals, Newborn
+-Body Weight
+-Calorimetry, Indirect (+methods)
++Energy Metabolism
+-Litter Size
+-Rats
+
+doi:10.1371/journal.pone.0006790
+pubmed:19710924
+pmc:PMC2728844
+

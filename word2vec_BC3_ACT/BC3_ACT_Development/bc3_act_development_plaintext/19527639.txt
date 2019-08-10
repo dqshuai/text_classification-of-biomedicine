@@ -1,0 +1,20 @@
+Biophys. J.
+
+Electrohydrodynamic model of vesicle deformation in alternating electric fields.
+
+PM Vlahovska, RS Gracià, S Aranda-Espinoza, R Dimova
+
+We develop an analytical theory to explain the experimentally observed morphological transitions of quasispherical giant vesicles induced by alternating electric fields. The model treats the inner and suspending media as lossy dielectrics, and the membrane as an impermeable flexible incompressible-fluid sheet. The vesicle shape is obtained by balancing electric, hydrodynamic, bending, and tension stresses exerted on the membrane. Our approach, which is based on force balance, also allows us to describe the time evolution of the vesicle deformation, in contrast to earlier works based on energy minimization, which are able to predict only stationary shapes. Our theoretical predictions for vesicle deformation are consistent with experiment. If the inner fluid is more conducting than the suspending medium, the vesicle always adopts a prolate shape. In the opposite case, the vesicle undergoes a transition from a prolate to oblate ellipsoid at a critical frequency, which the theory identifies with the inverse membrane charging time. At frequencies higher than the inverse Maxwell-Wagner polarization time, the electrohydrodynamic stresses become too small to alter the vesicle's quasispherical rest shape. The model can be used to rationalize the transient and steady deformation of biological cells in electric fields.
+
++Electricity
+-Lipid Bilayers (+chemistry)
++Models, Biological
+-Rheology
+-Static Electricity
+-Surface Properties
+
+pii:S0006-3495(09)00785-1
+doi:10.1016/j.bpj.2009.03.054
+pubmed:19527639
+pmc:PMC2712034
+

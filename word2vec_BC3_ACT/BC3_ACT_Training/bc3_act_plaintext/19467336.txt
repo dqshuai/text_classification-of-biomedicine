@@ -1,0 +1,25 @@
+Methods
+
+Gene expression profiling in the rhesus macaque: experimental design considerations.
+
+HF Urbanski, NC Noriega, DR Lemos, SG Kohama
+
+The development of species-specific gene microarrays has greatly facilitated gene expression profiling in nonhuman primates. However, to obtain accurate and physiologically meaningful data from these microarrays, one needs to consider several factors when designing the studies. This article focuses on effective experimental design while the companion article focuses on methodology and data analysis. Biological cycles have a major influence on gene expression, and at least 10% of the expressed genes are likely to show a 24-h expression pattern. Consequently, the time of day when RNA samples are collected can influence detection of significant changes in gene expression levels. Similarly, when photoperiodic species such as the rhesus macaque are housed outdoors, some of their genes show differential expression according to the time of year. In addition, the sex-steroid environment of humans and many nonhuman primates changes markedly across the menstrual cycle, and so phase of the cycle needs to be considered when studying gene expression in adult females.
+
+-Animals
+-Female
++Gene Expression Profiling
+-Macaca mulatta (+genetics; +metabolism)
+-Male
+-Oligonucleotide Array Sequence Analysis
+-Research Design
+-Reverse Transcriptase Polymerase Chain Reaction
+-Seasons
+-Sequence Alignment
+
+pii:S1046-2023(09)00131-5
+doi:10.1016/j.ymeth.2009.05.009
+pubmed:19467336
+mid:NIHMS119850
+pmc:PMC2734384
+

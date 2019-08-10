@@ -1,0 +1,24 @@
+J. Virol.
+
+Analysis of the association of the human cytomegalovirus DNA polymerase subunit UL44 with the viral DNA replication factor UL84.
+
+BL Strang, E Sinigalia, LA Silva, DM Coen, A Loregian
+
+The central enzyme responsible for human cytomegalovirus (HCMV) DNA synthesis is a virally encoded DNA polymerase that includes a catalytic subunit, UL54, and a homodimeric accessory subunit, UL44, the presumptive HCMV DNA polymerase processivity factor. The structure of UL44 is similar to that of the eukaryotic processivity factor proliferating cell nuclear antigen (PCNA), which interacts with numerous other proteins required for faithful DNA replication. We sought to determine whether, like PCNA, UL44 is capable of interacting with multiple DNA replication proteins and, if so, whether these proteins bind UL44 at the site corresponding to where multiple proteins bind to PCNA. Initially, several proteins, including the viral DNA replication factors UL84 and UL57, were identified by mass spectrometry in immunoprecipitates of UL44 from infected cell lysate. The association of UL44/UL84, but not UL44/UL57, was confirmed by reciprocal coimmunoprecipitation of these proteins from infected cell lysates and was resistant to nuclease treatment. Yeast two-hybrid analyses demonstrated that the substitution of residues in UL44 that prevent UL44 homodimerization or abrogate the binding of UL54 to UL44 do not abrogate the UL44/UL84 interaction. Reciprocal glutathione-S-transferase (GST) pulldown experiments using bacterially expressed UL44 and UL84 confirmed these results and, further, demonstrated that a UL54-derived peptide that competes with UL54 for UL44 binding does not prevent the association of UL84 with UL44. Taken together, our results strongly suggest that UL44 and UL84 interact directly using a region of UL44 different from the UL54 binding site. Thus, UL44 can bind interacting replication proteins using a mechanism different from that of PCNA.
+
+-Binding Sites
+-Cell Line
+-Cytomegalovirus (-chemistry; -genetics; +metabolism)
+-Cytomegalovirus Infections (+virology)
+-DNA-Binding Proteins (-chemistry; -genetics; +metabolism)
+-DNA-Directed DNA Polymerase (-chemistry; -genetics; -metabolism)
+-Humans
+-Protein Binding
+-Two-Hybrid System Techniques
+-Viral Proteins (-chemistry; -genetics; +metabolism)
+
+pii:JVI.00663-09
+doi:10.1128/JVI.00663-09
+pubmed:19457994
+pmc:PMC2708651
+

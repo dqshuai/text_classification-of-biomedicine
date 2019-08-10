@@ -1,0 +1,29 @@
+Biophys. J.
+
+Comparative molecular dynamics simulation studies of protegrin-1 monomer and dimer in two different lipid bilayers.
+
+H Rui, J Lee, W Im
+
+Antimicrobial peptides interact specifically with the membrane of a pathogen and kill the pathogen by releasing its cellular contents. Protegrin-1 (PG-1), a beta-hairpin antimicrobial peptide, is known to exist as a transmembrane monomer in a 1,2-dilauroylphosphatidylcholine (DLPC) bilayer and shows concentration-dependent oligomerization in a 1-palmitoyl-2-oleoylphosphatidylcholine (POPC) bilayer. To examine its structure, dynamics, orientation, and interaction in membranes, we performed comparative molecular dynamics simulations of PG-1 monomer and dimer in DLPC and POPC bilayers for a total of 840 ns. The PG-1 monomer exhibits larger tilting in DLPC than in POPC due to a hydrophobic mismatch. PG-1 tilting is dependent on its rotation angle. The specific orientation of PG-1 in membranes is governed by the interactions of its aromatic residues with lipid headgroups. The calculated (15)N and (13)CO chemical shifts of Val(16) in DLPC reveal that there are different sets of tilt and rotation angles that satisfy the experimental values reasonably, suggesting that more experiments are needed to determine its orientation. The dimer simulations show that the dimer interface is better preserved in POPC than in DLPC because POPC's greater hydrophobic thickness causes reduced flexibility of the C-terminal strands. Both monomer and dimer simulations show membrane thinning around PG-1, largely due to arginine-lipid interactions.
+
+-Antimicrobial Cationic Peptides (+chemistry)
++Computer Simulation
+-Guanidine (-chemistry)
+-Hydrogen Bonding
+-Hydrophobicity
+-Lipid Bilayers (+chemistry)
++Models, Chemical
+-Models, Molecular
+-Nuclear Magnetic Resonance, Biomolecular
+-Phosphatidylcholines (-chemistry)
+-Protein Multimerization
+-Protein Stability
+-Protein Structure, Secondary
+-Rotation
+-Water (-chemistry)
+
+pii:S0006-3495(09)01035-2
+doi:10.1016/j.bpj.2009.05.029
+pubmed:19651037
+pmc:PMC2718173
+

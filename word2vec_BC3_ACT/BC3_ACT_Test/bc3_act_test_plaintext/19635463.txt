@@ -1,0 +1,31 @@
+Biochem. Biophys. Res. Commun.
+
+Targeted manipulation of mammalian genomes using designed zinc finger nucleases.
+
+K Kandavelou, S Ramalingam, V London, M Mani, J Wu, V Alexeev, CI Civin, S Chandrasegaran
+
+Targeted introduction of a double-stranded break (DSB) using designer zinc finger nucleases (ZFNs) in mammalian cells greatly enhances gene targeting - homologous recombination (HR) at a chosen endogenous target gene, which otherwise is limited by low spontaneous rate of HR. Here, we report that efficient ZFN-mediated gene correction occurs at a transduced, transcriptionally active, mutant GFP locus by homology-directed repair, and that efficient mutagenesis by non-homologous end joining (NHEJ) occurs at the endogenous, transcriptionally silent, CCR5 locus in HEK293 Flp-In cells, using designed 3- and 4-finger ZFNs. No mutagenesis by NHEJ was observed at the CCR2 locus, which has ZFN sites that are distantly related to the targeted CCR5 sites. We also observed efficient ZFN-mediated correction of a point mutation at the endogenous mutant tyrosinase chromosomal locus in albino mouse melanocytes, using designed 3-finger ZFNs. Furthermore, re-engineered obligate heterodimer FokI nuclease domain variants appear to completely eliminate or greatly reduce the toxicity of ZFNs to mammalian cells, including human cells.
+
+-Animals
+-Base Sequence
+-Cell Line
++DNA Breaks, Double-Stranded
+-Endonucleases (-genetics; +metabolism)
+-Genome (+genetics)
+-Humans
+-Melanocytes (-metabolism)
+-Mice
+-Monophenol Monooxygenase (-genetics)
++Mutagenesis
+-Protein Engineering
+-Receptors, CCR5 (-genetics)
+-Recombination, Genetic
+-Transduction, Genetic
++Zinc Fingers
+
+pii:S0006-291X(09)01473-9
+doi:10.1016/j.bbrc.2009.07.112
+pubmed:19635463
+mid:NIHMS135703
+pmc:PMC2744961
+

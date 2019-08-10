@@ -1,0 +1,25 @@
+PLoS Comput. Biol.
+
+Accurate prediction of DnaK-peptide binding via homology modelling and experimental data.
+
+J Van Durme, S Maurer-Stroh, R Gallardo, H Wilkinson, F Rousseau, J Schymkowitz
+
+Molecular chaperones are essential elements of the protein quality control machinery that governs translocation and folding of nascent polypeptides, refolding and degradation of misfolded proteins, and activation of a wide range of client proteins. The prokaryotic heat-shock protein DnaK is the E. coli representative of the ubiquitous Hsp70 family, which specializes in the binding of exposed hydrophobic regions in unfolded polypeptides. Accurate prediction of DnaK binding sites in E. coli proteins is an essential prerequisite to understand the precise function of this chaperone and the properties of its substrate proteins. In order to map DnaK binding sites in protein sequences, we have developed an algorithm that combines sequence information from peptide binding experiments and structural parameters from homology modelling. We show that this combination significantly outperforms either single approach. The final predictor had a Matthews correlation coefficient (MCC) of 0.819 when assessed over the 144 tested peptide sequences to detect true positives and true negatives. To test the robustness of the learning set, we have conducted a simulated cross-validation, where we omit sequences from the learning sets and calculate the rate of repredicting them. This resulted in a surprisingly good MCC of 0.703. The algorithm was also able to perform equally well on a blind test set of binders and non-binders, of which there was no prior knowledge in the learning sets. The algorithm is freely available at http://limbo.vib.be.
+
+-Algorithms
+-Binding Sites
+-Computational Biology (+methods)
+-Escherichia coli Proteins (-chemistry; -genetics; +metabolism)
+-HSP70 Heat-Shock Proteins (-chemistry; -genetics; +metabolism)
+-Immobilized Proteins (-metabolism)
+-Models, Molecular
+-Pattern Recognition, Automated
+-Peptides (-chemistry; +metabolism)
+-Protein Binding
+-ROC Curve
+-Sequence Analysis, Protein
+
+doi:10.1371/journal.pcbi.1000475
+pubmed:19696878
+pmc:PMC2717214
+

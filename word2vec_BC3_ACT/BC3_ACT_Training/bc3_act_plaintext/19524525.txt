@@ -1,0 +1,33 @@
+Neuron
+
+Neural activity regulates synaptic properties and dendritic structure in vivo through calcineurin/NFAT signaling.
+
+N Schwartz, A Schohl, ES Ruthazer
+
+The calcium-regulated protein phosphatase Calcineurin (CaN) participates in synaptic plasticity and the regulation of transcription factors, including Nuclear Factor of Activated T cells (NFAT). To understand how CaN contributes to neuronal circuit development, whole-cell mEPSC recordings and multiphoton imaging were performed in the visual system of living Xenopus laevis tadpoles electroporated to express either a CaN phosphatase inhibitor or N-VIVIT, a nuclear localization sequence-tagged VIVIT peptide that blocks the binding of CaN to select substrates including NFAT. Both strategies increased mEPSC frequency and dendritic arbor complexity in tectal neurons over 3 days. Expression of either of two constitutively active Xenopus NFATs (CA-NFATs) restored normal synaptic properties in neurons expressing N-VIVIT. However, the morphological phenotype was only rescued by a CA-NFAT bearing an intact regulatory domain, implying that transcriptional control of morphological and electrophysiological properties of neurons is mediated by distinct NFAT interactions.
+
+-Animals
+-Brain (-cytology)
+-Calcineurin (-antagonists & inhibitors; -genetics; +metabolism)
+-Dendrites (-drug effects; +physiology)
+-Electroporation (-methods)
+-Excitatory Postsynaptic Potentials (-physiology)
+-Gene Expression Regulation (-drug effects; -physiology)
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Imaging, Three-Dimensional (-methods)
+-Immunosuppressive Agents (-pharmacology)
+-NFATC Transcription Factors (-genetics; +metabolism)
+-Neurons (+cytology; -drug effects; +physiology)
+-Patch-Clamp Techniques
+-Photic Stimulation (-methods)
+-Receptors, AMPA (-genetics; -metabolism)
+-Signal Transduction (-drug effects; +physiology)
+-Synapses (-drug effects; +physiology)
+-Tacrolimus (-pharmacology)
+-Time Factors
+-Xenopus
+
+pii:S0896-6273(09)00358-4
+doi:10.1016/j.neuron.2009.05.007
+pubmed:19524525
+

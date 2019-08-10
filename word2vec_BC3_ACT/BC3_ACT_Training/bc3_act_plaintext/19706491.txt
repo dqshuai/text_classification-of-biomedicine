@@ -1,0 +1,24 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Inferring friendship network structure by using mobile phone data.
+
+N Eagle, AS Pentland, D Lazer
+
+Data collected from mobile phones have the potential to provide insight into the relational dynamics of individuals. This paper compares observational data from mobile phones with standard self-report survey data. We find that the information from these two data sources is overlapping but distinct. For example, self-reports of physical proximity deviate from mobile phone records depending on the recency and salience of the interactions. We also demonstrate that it is possible to accurately infer 95% of friendships based on the observational data alone, where friend dyads demonstrate distinctive temporal and spatial patterns in their physical proximity and calling patterns. These behavioral patterns, in turn, allow the prediction of individual-level outcomes such as job satisfaction.
+
+-Adult
+-Cellular Phone (+statistics & numerical data)
++Communication
+-Data Collection (+methods)
+-Factor Analysis, Statistical
++Friends
+-Humans
+-Observation
++Social Behavior
+-Students
+
+pii:0900282106
+doi:10.1073/pnas.0900282106
+pubmed:19706491
+pmc:PMC2741241
+

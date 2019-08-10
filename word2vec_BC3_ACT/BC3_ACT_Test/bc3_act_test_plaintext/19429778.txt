@@ -1,0 +1,37 @@
+Eukaryotic Cell
+
+She3p possesses a novel activity required for ASH1 mRNA localization in Saccharomyces cerevisiae.
+
+SM Landers, MR Gallas, J Little, RM Long
+
+Intracellular and intercellular polarity requires that specific proteins be sorted to discreet locations within and between cells. One mechanism for sorting proteins is through RNA localization. In Saccharomyces cerevisiae, ASH1 mRNA localizes to the distal tip of the bud, resulting in the asymmetric sorting of the transcriptional repressor Ash1p. ASH1 mRNA localization requires four cis-acting localization elements and the trans-acting factors Myo4p, She3p, and She2p. Myo4p is a type V myosin motor that functions to directly transport ASH1 mRNA to the bud. She2p is an RNA-binding protein that directly interacts with the ASH1 mRNA cis-acting elements. Currently, the role for She3p in ASH1 mRNA localization is as an adaptor protein, since it can simultaneously associate with Myo4p and She2p. Here, we present data for two novel mutants of She3p, S348E and the double mutant S343E S361E, that are defective for ASH1 mRNA localization, and yet both of these mutants retain the ability to associate with Myo4p and She2p. These observations suggest that She3p possesses a novel activity required for ASH1 mRNA localization, and our data imply that this function is related to the ability of She3p to associate with ASH1 mRNA. Interestingly, we determined that She3p is phosphorylated, and global mass spectrometry approaches have determined that Ser 343, 348, and 361 are sites of phosphorylation, suggesting that the novel function for She3p could be negatively regulated by phosphorylation. The present study reveals that the current accepted model for ASH1 mRNA localization does not fully account for the function of She3p in ASH1 mRNA localization.
+
+-Biological Transport (-genetics)
+-Catalytic Domain (-genetics)
+-Cell Polarity (-genetics)
+-Cytoplasm (-genetics; -metabolism)
+-Gene Expression Regulation, Fungal (-genetics)
+-Mass Spectrometry
+-Mutation (-genetics)
+-Myosin Heavy Chains (-genetics; -metabolism)
+-Myosin Type V (-genetics; -metabolism)
+-Nuclear Proteins (-genetics; -metabolism)
+-Phosphorylation
+-Protein Binding (-genetics)
+-Protein Biosynthesis (-physiology)
+-Protein Transport (-genetics)
+-RNA Transport (+genetics)
+-RNA, Messenger (-genetics; +metabolism)
+-RNA-Binding Proteins (-genetics; +metabolism)
+-Regulatory Elements, Transcriptional (-physiology)
+-Repressor Proteins (+biosynthesis; -genetics; -metabolism)
+-Saccharomyces cerevisiae (-genetics; +metabolism)
+-Saccharomyces cerevisiae Proteins (+biosynthesis; -genetics; +metabolism)
+-Trans-Activators (-genetics; -metabolism)
+-Transcriptional Activation
+
+pii:EC.00084-09
+doi:10.1128/EC.00084-09
+pubmed:19429778
+pmc:PMC2708451
+

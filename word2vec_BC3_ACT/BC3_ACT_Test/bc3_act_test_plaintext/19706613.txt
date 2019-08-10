@@ -1,0 +1,28 @@
+J. Biol. Chem.
+
+The terminal region of beta-catenin promotes stability by shielding the Armadillo repeats from the axin-scaffold destruction complex.
+
+R Mo, TL Chew, MT Maher, G Bellipanni, ES Weinberg, CJ Gottardi
+
+Post-translational stabilization of beta-catenin is a key step in Wnt signaling, but the features of beta-catenin required for stabilization are incompletely understood. We show that forms of beta-catenin lacking the unstructured C-terminal domain (CTD) show faster turnover than full-length or minimally truncated beta-catenins. Mutants that exhibit faster turnover show enhanced association with axin in co-transfected cells, and excess CTD polypeptide can compete binding of the beta-catenin armadillo (arm) repeat domain to axin in vitro, indicating that the CTD may restrict beta-catenin binding to the axin-scaffold complex. Fluorescent resonance energy transmission (FRET) analysis of cyan fluorescent protein (CFP)-arm-CTD-yellow fluorescent protein beta-catenin reveals that the CTD of beta-catenin can become spatially close to the N-terminal arm repeat region of beta-catenin. FRET activity is strongly diminished by the coexpression of beta-catenin binding partners, indicating that an unliganded groove is absolutely required for an orientation that allows FRET. Amino acids 733-759 are critical for beta-catenin FRET activity and stability. These data indicate that an N-terminal orientation of the CTD is required for beta-catenin stabilization and suggest a model where the CTD extends toward the N-terminal arm repeats, shielding these repeats from the beta-catenin destruction complex.
+
+-Amino Acid Sequence
+-Animals
+-Cell Line
+-Fluorescence Resonance Energy Transfer
+-Humans
+-Models, Molecular
+-Molecular Sequence Data
++Protein Structure, Tertiary
+-Repressor Proteins (-genetics; +metabolism)
+-Signal Transduction (-physiology)
+-Two-Hybrid System Techniques
+-Wnt Proteins (-genetics; -metabolism)
+-Zebrafish Proteins (-chemistry; -genetics; -metabolism)
+-beta Catenin (+chemistry; -genetics; +metabolism)
+
+pii:M109.045039
+doi:10.1074/jbc.M109.045039
+pubmed:19706613
+pmc:PMC2788874
+

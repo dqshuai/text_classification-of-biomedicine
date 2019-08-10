@@ -1,0 +1,21 @@
+J. Mol. Biol.
+
+Mapping transient partial unfolding by protein engineering and native-state proteolysis.
+
+Y Chang, C Park
+
+Transient partial unfolding of proteins under native conditions may have significant consequences in the biochemical and biophysical properties of proteins. Native-state proteolysis offers a facile way to investigate the thermodynamic and kinetic accessibilities of partially unfolded forms (cleavable forms) under native conditions. However, determination of the structure of the cleavable form, which is populated only transiently, remains challenging. Although in some cases partially cleaved products from proteolysis provide information on the structure of this elusive form, proteolysis of many proteins does not accumulate detectable intermediates. Here, we describe a systematic approach to determining structures of cleavable forms by protein engineering and native-state proteolysis. By devising phi(c) analysis, which is analogous to conventional phi analysis, we have determined the structure of the cleavable form of Escherichia coli maltose-binding protein (MBP), which does not accumulate any partially cleaved products. We mutated 10 buried residues in MBP to alanine and determined phi(c) values from the effects of the mutations on global stability and proteolytic susceptibility. The result of this analysis suggests that two C-terminal helices in MBP are unfolded in their cleavable form. The effect of ligand binding on proteolytic susceptibility and C-terminal deletion mutations also confirms the proposed structure. Our approach and methodology are generally applicable not only in elucidating the mechanism of proteolysis but also in investigating other important processes involving partial unfolding under native conditions such as protein misfolding and aggregation.
+
+-Carrier Proteins (+chemistry; -genetics; +metabolism)
+-Circular Dichroism
+-Escherichia coli Proteins (+chemistry; -genetics; +metabolism)
+-Kinetics
+-Mutagenesis, Site-Directed
+-Protein Engineering (+methods)
+-Protein Folding
+-Thermodynamics
+
+pii:S0022-2836(09)01003-1
+doi:10.1016/j.jmb.2009.08.006
+pubmed:19683000
+

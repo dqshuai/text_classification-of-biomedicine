@@ -1,0 +1,20 @@
+Genome Biol.
+
+Closing gaps in the human genome using sequencing by synthesis.
+
+M Garber, MC Zody, HM Arachchi, A Berlin, S Gnerre, LM Green, N Lennon, C Nusbaum
+
+The most recent release of the finished human genome contains 260 euchromatic gaps (excluding chromosome Y). Recent work has helped explain a large number of these unresolved regions as 'structural' in nature. Another class of gaps is likely to be refractory to clone-based approaches, and cannot be approached in ways previously described. We present an approach for closing these gaps using 454 sequencing. As a proof of principle, we closed all three remaining non-structural gaps in chromosome 15.
+
+-Base Sequence
+-Cell Line
+-Chromosomes, Human, Pair 15 (-genetics)
++Genome, Human
+-Humans
+-Sequence Analysis, DNA (+methods)
+
+pii:gb-2009-10-6-r60
+doi:10.1186/gb-2009-10-6-r60
+pubmed:19490611
+pmc:PMC2718494
+

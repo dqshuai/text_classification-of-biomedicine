@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+Lipopolysaccharide-driven Th2 cytokine production in macrophages is regulated by both MyD88 and TRAM.
+
+S Mukherjee, LY Chen, TJ Papadimos, S Huang, BL Zuraw, ZK Pan
+
+Gram-negative bacterial lipopolysaccharide (LPS) activates macrophages by interacting with Toll-like receptor 4 (TLR4) and triggers the production of various pro-inflammatory Th1 type (type 1) cytokines such as IFNgamma, TNFalpha, and IL8. Though some recent studies cited macrophages as potential sources for Th2 type (type 2) cytokines, little however is known about the intracellular events that lead to LPS-induced type 2 cytokines in macrophages. To understand the mechanisms by which LPS induces type 2 cytokine gene expression, macrophages were stimulated with LPS, and the expression of IL-4 and IL-5 genes were examined. LPS, acting through TLR4, activates both type 1 and type 2 cytokine production both in vitro and in vivo by using macrophages from C3H/HeJ or C3H/HeOuJ mice. Although the baseline level of both TNFalpha and IL-4 protein was very low, TNFalpha was released rapidly after stimulation (within 4 h); however, IL-4 was released after 48 h LPS stimulation in secreted form. Silencing of myeloid differentiation protein (MyD88) and TRIF-related adaptor molecule (TRAM), using small interfering RNA abolished IL-4 induction induced by LPS whereas silencing of TRAM has no effect on TNFalpha induction, thereby indicating that LPS-induced TNFalpha is MyD88-dependent but IL-4 is required both MyD88 and TRAM. These findings suggest a novel function of LPS and the signaling pathways in the induction of IL-4 gene expression.
+
+-Animals
+-Cell Line
+-Gene Expression Regulation (+drug effects)
+-Gene Silencing
+-Interleukin-4 (+biosynthesis; -genetics)
+-Interleukin-5 (-biosynthesis; -genetics)
+-Lipopolysaccharides (+pharmacology)
+-Macrophages (+metabolism)
+-Mice
+-Myeloid Differentiation Factor 88 (-antagonists & inhibitors; -genetics; +metabolism)
+-Receptors, Interleukin (-antagonists & inhibitors; -genetics; +metabolism)
+-Signal Transduction (-drug effects)
+-Time Factors
+-Toll-Like Receptor 4 (-agonists; -genetics; -metabolism)
+-Tumor Necrosis Factor-alpha (-biosynthesis; -genetics)
+
+pii:M109.005272
+doi:10.1074/jbc.M109.005272
+pubmed:19638630
+pmc:PMC2785571
+

@@ -1,0 +1,26 @@
+Structure
+
+Multiple conformations of E. coli Hsp90 in solution: insights into the conformational dynamics of Hsp90.
+
+KA Krukenberg, F Förster, LM Rice, A Sali, DA Agard
+
+Hsp90, an essential eukaryotic chaperone, depends upon its intrinsic ATPase activity for function. Crystal structures of the bacterial Hsp90 homolog, HtpG, and the yeast Hsp90 reveal large domain rearrangements between the nucleotide-free and the nucleotide-bound forms. We used small-angle X-ray scattering and recently developed molecular modeling methods to characterize the solution structure of HtpG and demonstrate how it differs from known Hsp90 conformations. In addition to this HtpG conformation, we demonstrate that under physiologically relevant conditions, multiple conformations coexist in equilibrium. In solution, nucleotide-free HtpG adopts a more extended conformation than observed in the crystal, and upon the addition of AMPPNP, HtpG is in equilibrium between this open state and a closed state that is in good agreement with the yeast AMPPNP crystal structure. These studies provide a unique view of Hsp90 conformational dynamics and provide a model for the role of nucleotide in effecting conformational change.
+
+-Adenylyl Imidodiphosphate (-metabolism)
+-Dimerization
+-Escherichia coli (-chemistry; -genetics)
+-Escherichia coli Proteins (+chemistry; -genetics; -isolation & purification; -metabolism)
+-HSP90 Heat-Shock Proteins (+chemistry; -genetics; -isolation & purification; -metabolism)
+-Models, Molecular
++Protein Conformation
+-Protein Structure, Tertiary
+-Scattering, Small Angle
+-Solutions
+-X-Ray Diffraction
+
+pii:S0969-2126(08)00110-X
+doi:10.1016/j.str.2008.01.021
+pubmed:18462680
+mid:HHMIMS50252
+pmc:PMC2600884
+

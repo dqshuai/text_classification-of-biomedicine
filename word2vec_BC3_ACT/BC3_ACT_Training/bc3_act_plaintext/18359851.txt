@@ -1,0 +1,31 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Hedgehog signaling overrides p53-mediated tumor suppression by activating Mdm2.
+
+Y Abe, E Oda-Sato, K Tobiume, K Kawauchi, Y Taya, K Okamoto, M Oren, N Tanaka
+
+The hedgehog (Hh) signaling pathway regulates the development of many organs in mammals, and activation of this pathway is widely observed in human cancers. Although it is known that Hh signaling activates the expression of genes involved in cell growth, the precise role of the Hh pathway in cancer development is still unclear. Here, we show that constitutively activated mutants of Smoothened (Smo), a transducer of the Hh signaling pathway, inhibit the accumulation of the tumor suppressor protein p53. This inhibition was also observed in the presence of Hh ligand or with the overexpression of the transcription factors Gli1 and Gli2, downstream effectors of Smo, indicating that this inhibition is specific for the Hh pathway. We also report that Smo mutants augment p53 binding to the E3 ubiquitin-protein ligase Mdm2 and promote p53 ubiquitination. Furthermore, Hh signaling induced the phosphorylation of human Mdm2 protein on serines 166 and 186, which are activating phosphorylation sites of Mdm2. Smo mutants enhanced the proliferation of mouse embryonic fibroblasts (MEFs) while inducing a DNA-damage response. Moreover, Smo partially inhibited p53-dependent apoptosis and cell growth inhibition in oncogene-expressing MEFs. We also found that accumulation of p53 is inhibited by Hh signaling in several human cancer cell lines. Therefore, the Hh pathway may be a powerful accelerator of oncogenesis by activating cell proliferation and inhibiting the p53-mediated anti-cancer barrier induced by oncogenic stress.
+
+-Animals
+-Apoptosis (-drug effects)
+-Breast Neoplasms (-metabolism; -pathology)
+-Cell Line, Tumor
+-Cell Proliferation (-drug effects)
+-DNA Damage
+-Down-Regulation (-genetics)
+-Hedgehog Proteins (+metabolism)
+-Mice
+-Phosphorylation (-drug effects)
+-Protein Processing, Post-Translational (-drug effects)
+-Proto-Oncogene Proteins c-mdm2 (+metabolism)
+-Receptors, G-Protein-Coupled (+metabolism)
++Signal Transduction (-drug effects)
+-Tumor Suppressor Protein p53 (-genetics; +metabolism)
+-Ubiquitination (-drug effects)
+-Veratrum Alkaloids (-pharmacology)
+
+pii:0712216105
+doi:10.1073/pnas.0712216105
+pubmed:18359851
+pmc:PMC2290789
+

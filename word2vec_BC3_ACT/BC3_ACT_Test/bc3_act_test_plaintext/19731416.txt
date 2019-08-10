@@ -1,0 +1,30 @@
+Nat. Cell Biol.
+
+Axin determines cell fate by controlling the p53 activation threshold after DNA damage.
+
+Q Li, S Lin, X Wang, G Lian, Z Lu, H Guo, K Ruan, Y Wang, Z Ye, J Han, SC Lin
+
+Cells can undergo either cell-cycle arrest or apoptosis after genotoxic stress, based on p53 activity(1-6). Here we show that cellular fate commitment depends on Axin forming distinct complexes with Pirh2, Tip60, HIPK2 and p53. In cells treated with sublethal doses of ultra-violet (UV) radiation or doxorubicin (Dox), Pirh2 abrogates Axin-induced p53 phosphorylation at Ser 46 catalysed by HIPK2, by competing with HIPK2 for binding to Axin. However, on lethal treatment, Tip60 interacts with Axin and abrogates Pirh2-Axin binding, forming an Axin-Tip60-HIPK2-p53 complex that allows maximal p53 activation to trigger apoptosis. We also provide evidence that the ATM/ATR pathway mediates the Axin-Tip60 complex assembly. An axin mutation promotes carcinogenesis in Axin(Fu)/+ (Axin-Fused) mice, consistent with a dominantnegative role for Axin(Fu) in p53 activation. Thus, Axin is a critical determinant in p53-dependent tumour suppression in which Pirh2 and Tip60 have different roles in triggering cell-cycle arrest or apoptosis depending on the severity of genotoxic stress.
+
+-Animals
+-Apoptosis
+-Cell Cycle Proteins (-metabolism)
+-Cell Line, Tumor
++Cell Lineage
++DNA Damage
+-DNA-Binding Proteins (-metabolism)
+-Histone Acetyltransferases (-metabolism)
+-Humans
+-Mice
+-Mutation (-genetics)
+-Papilloma (-pathology)
+-Protein Binding
+-Protein Kinases (-metabolism)
+-Protein-Serine-Threonine Kinases (-metabolism)
+-Repressor Proteins (+metabolism)
+-Tumor Suppressor Protein p53 (-antagonists & inhibitors; +metabolism)
+-Tumor Suppressor Proteins (-metabolism)
+-Ubiquitin-Protein Ligases (-metabolism)
+
+pubmed:19731416
+

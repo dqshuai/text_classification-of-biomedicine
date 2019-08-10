@@ -1,0 +1,38 @@
+Neuron
+
+Association with the auxiliary subunit PEX5R/Trip8b controls responsiveness of HCN channels to cAMP and adrenergic stimulation.
+
+G Zolles, D Wenzel, W Bildl, U Schulte, A Hofmann, CS Müller, JO Thumfart, A Vlachos, T Deller, A Pfeifer, BK Fleischmann, J Roeper, B Fakler, N Klöcker
+
+Hyperpolarization-activated cyclic nucleotide-gated (HCN) channels are key modulators of neuronal activity by providing the depolarizing cation current I(h) involved in rhythmogenesis, dendritic integration, and synaptic transmission. These tasks critically depend on the availability of HCN channels, which is dynamically regulated by intracellular cAMP; the range of this regulation, however, largely differs among neurons in the mammalian brain. Using affinity purification and high-resolution mass spectrometry, we identify the PEX5R/Trip8b protein as the beta subunit of HCN channels in the mammalian brain. Coassembly of PEX5R/Trip8b affects HCN channel gating in a subtype-dependent and mode-specific way: activation of HCN2 and HCN4 by cAMP is largely impaired, while gating by phosphoinositides and basal voltage-dependence remain unaffected. De novo expression of PEX5R/Trip8b in cardiomyocytes abolishes beta-adrenergic stimulation of HCN channels. These results demonstrate that PEX5R/Trip8b is an intrinsic auxiliary subunit of brain HCN channels and establish HCN-PEX5R/Trip8b coassembly as a mechanism to control the channels' responsiveness to cyclic nucleotide signaling.
+
+-Animals
+-Brain (-ultrastructure)
+-Cyclic AMP (+pharmacology)
+-Cyclic Nucleotide-Gated Cation Channels (-genetics; +metabolism)
+-Embryo, Mammalian
+-Enzyme Inhibitors (-pharmacology)
+-Gene Expression Regulation (+drug effects; -genetics)
+-Green Fluorescent Proteins (-genetics)
+-Ion Channel Gating (+drug effects; -genetics)
+-Isoproterenol (-pharmacology)
+-Mass Spectrometry (-methods)
+-Membrane Potentials (+drug effects; -genetics)
+-Membrane Proteins (-genetics; +metabolism)
+-Microinjections (-methods)
+-Myocytes, Cardiac (-drug effects; -metabolism)
+-Oocytes
+-Patch-Clamp Techniques (-methods)
+-Potassium Channels (-genetics; +metabolism)
+-Protein Multimerization (-physiology)
+-Protein Subunits (-genetics; -metabolism)
+-Rats
+-Receptors, Adrenergic, beta-1 (-antagonists & inhibitors; +metabolism)
+-Synaptosomes (-drug effects; -metabolism)
+-Transduction, Genetic (-methods)
+-Xenopus
+
+pii:S0896-6273(09)00359-6
+doi:10.1016/j.neuron.2009.05.008
+pubmed:19555650
+

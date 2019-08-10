@@ -1,0 +1,27 @@
+J. Mol. Biol.
+
+ATP regulates calcium efflux and growth in E. coli.
+
+R Naseem, KT Wann, IB Holland, AK Campbell
+
+Escherichia coli regulates cytosolic free Ca(2+) in the micromolar range through influx and efflux. Herein, we show for the first time that ATP is essential for Ca(2+) efflux and that ATP levels also affect generation time. A transcriptome analysis identified 110 genes whose expression responded to an increase in cytosolic Ca(2+) (41 elevated, 69 depressed). Of these, 3 transport proteins and 4 membrane proteins were identified as potential Ca(2+) transport pathways. Expression of a further 943 genes was modified after 1 h in growth medium containing Ca(2+) relative to time zero. Based on the microarray results and other predicted possible Ca(2+) transporters, the level of cytosolic free Ca(2+) was measured in selected mutants from the Keio knockout collection using intracellular aequorin. In this way, we identified a knockout of atpD, coding for a component of the F(o)F(1) ATPase, as defective in Ca(2+) efflux. Seven other putative Ca(2+) transport proteins exhibited normal Ca(2+) handling. The defect in the DeltaatpD knockout cells could be explained by a 70% reduction in ATP. One millimolar glucose or 1 mM methylglyoxal raised ATP in the DeltaatpD knockout cells to that of the wild type and restored Ca(2+) efflux. One millimolar 2,4-dinitrophenol lowered the ATP in wild type to that in the DeltaatpD cells. Under these conditions, a similar defect in Ca(2+) efflux in wild type was observed in DeltaatpD cells. Ten millimolar concentration of Ca(2+) resulted in a 30% elevation in ATP in wild type and was accompanied by a 10% reduction in generation time under these conditions. Knockouts of pitB, a potential Ca(2+) transporter, atoA, the beta subunit of acetate CoA-transferase likely to be involved in polyhydroxybutyrate synthesis, and ppk, encoding polyphosphate kinase, all indicated no defect in Ca(2+) efflux. We therefore propose that ATP is most likely to regulate Ca(2+) efflux in E. coli through an ATPase.
+
+-2,4-Dinitrophenol (-pharmacology)
+-Adenosine Triphosphate (+metabolism)
+-Calcium (+metabolism)
+-Escherichia coli (-growth & development; -metabolism; +physiology)
+-Escherichia coli Proteins (-genetics)
+-Gene Expression Profiling
++Gene Expression Regulation, Bacterial
+-Gene Knockout Techniques
+-Membrane Proteins (-deficiency; -genetics)
+-Mutant Proteins (-genetics)
+-Oligonucleotide Array Sequence Analysis
+-Proton-Translocating ATPases (-deficiency)
+-Transcription Factors (-deficiency; -genetics)
+-Uncoupling Agents (-pharmacology)
+
+pii:S0022-2836(09)00646-9
+doi:10.1016/j.jmb.2009.05.064
+pubmed:19481094
+

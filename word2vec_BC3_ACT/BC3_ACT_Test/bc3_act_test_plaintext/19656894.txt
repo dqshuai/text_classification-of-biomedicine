@@ -1,0 +1,27 @@
+J. Virol.
+
+Application of bioluminescence imaging to the prediction of lethality in vaccinia virus-infected mice.
+
+M Zaitseva, SM Kapnick, J Scott, LR King, J Manischewitz, L Sirota, S Kodihalli, H Golding
+
+To find an alternative endpoint for the efficacy of antismallpox treatments, bioluminescence was measured in live BALB/c mice following lethal challenge with a recombinant WR vaccinia virus expressing luciferase. Intravenous vaccinia immunoglobulin treatments were used to confer protection on a proportion of animals. Using known lethality outcomes in 200 animals and total fluxes recorded daily in live animals, we performed univariate receiver operating characteristic (ROC) curve analysis to assess whether lethality can be predicted based on bioluminescence. Total fluxes in the spleens on day 3 and in the livers on day 5 generated accurate predictive models; the area under the ROC curve (AUC) was 0.91. Multiple logistic regression analysis utilizing a linear combination of six measurements: total flux in the liver on days 2, 3, and 5; in the spleen on days 1 and 3; and in the nasal cavity on day 4 generated the most accurate predictions (AUC = 0.96). This model predicted lethality in 90% of animals with only 10% of nonsurviving animals incorrectly predicted to survive. Compared with bioluminescence, ROC analysis with 25% and 30% weight loss as thresholds accurately predicted survival on day 5, but lethality predictions were low until day 9. Collectively, our data support the use of bioimaging for lethality prediction following vaccinia virus challenge and for gaining insight into protective mechanisms conferred by vaccines and therapeutics.
+
+-Animals
+-Female
+-Liver (-metabolism; -virology)
+-Luciferases, Firefly (-genetics; +metabolism)
+-Luminescent Measurements (+methods)
+-Lung (-metabolism; -virology)
+-Mice
+-Mice, Inbred BALB C
+-Predictive Value of Tests
+-Recombination, Genetic
+-Survival Analysis
+-Vaccinia (+mortality; -virology)
+-Vaccinia virus (-genetics; -metabolism; +pathogenicity)
+
+pii:JVI.01296-09
+doi:10.1128/JVI.01296-09
+pubmed:19656894
+pmc:PMC2753125
+

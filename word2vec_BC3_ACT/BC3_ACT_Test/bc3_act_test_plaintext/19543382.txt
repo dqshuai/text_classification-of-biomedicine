@@ -1,0 +1,24 @@
+PLoS Comput. Biol.
+
+Taking the lag out of jet lag through model-based schedule design.
+
+DA Dean, DB Forger, EB Klerman
+
+Travel across multiple time zones results in desynchronization of environmental time cues and the sleep-wake schedule from their normal phase relationships with the endogenous circadian system. Circadian misalignment can result in poor neurobehavioral performance, decreased sleep efficiency, and inappropriately timed physiological signals including gastrointestinal activity and hormone release. Frequent and repeated transmeridian travel is associated with long-term cognitive deficits, and rodents experimentally exposed to repeated schedule shifts have increased death rates. One approach to reduce the short-term circadian, sleep-wake, and performance problems is to use mathematical models of the circadian pacemaker to design countermeasures that rapidly shift the circadian pacemaker to align with the new schedule. In this paper, the use of mathematical models to design sleep-wake and countermeasure schedules for improved performance is demonstrated. We present an approach to designing interventions that combines an algorithm for optimal placement of countermeasures with a novel mode of schedule representation. With these methods, rapid circadian resynchrony and the resulting improvement in neurobehavioral performance can be quickly achieved even after moderate to large shifts in the sleep-wake schedule. The key schedule design inputs are endogenous circadian period length, desired sleep-wake schedule, length of intervention, background light level, and countermeasure strength. The new schedule representation facilitates schedule design, simulation studies, and experiment design and significantly decreases the amount of time to design an appropriate intervention. The method presented in this paper has direct implications for designing jet lag, shift-work, and non-24-hour schedules, including scheduling for extreme environments, such as in space, undersea, or in polar regions.
+
++Algorithms
+-Circadian Rhythm (+physiology)
+-Computer Simulation
+-Environment
+-Humans
+-Jet Lag Syndrome (-physiopathology; +prevention & control)
+-Lighting (-methods)
++Models, Biological
+-Sleep (-physiology)
+-Software
+-Wakefulness (-physiology)
+
+doi:10.1371/journal.pcbi.1000418
+pubmed:19543382
+pmc:PMC2691990
+

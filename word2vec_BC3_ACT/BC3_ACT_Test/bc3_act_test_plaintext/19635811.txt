@@ -1,0 +1,24 @@
+Mol. Cell. Biol.
+
+The polymerase eta translesion synthesis DNA polymerase acts independently of the mismatch repair system to limit mutagenesis caused by 7,8-dihydro-8-oxoguanine in yeast.
+
+SV Mudrak, C Welz-Voegele, S Jinks-Robertson
+
+Reactive oxygen species are ubiquitous mutagens that have been linked to both disease and aging. The most studied oxidative lesion is 7,8-dihydro-8-oxoguanine (GO), which is often miscoded during DNA replication, resulting specifically in GC --> TA transversions. In yeast, the mismatch repair (MMR) system repairs GO.A mismatches generated during DNA replication, and the polymerase eta (Poleta) translesion synthesis DNA polymerase additionally promotes error-free bypass of GO lesions. It has been suggested that Poleta limits GO-associated mutagenesis exclusively through its participation in the filling of MMR-generated gaps that contain GO lesions. In the experiments reported here, the SUP4-o forward-mutation assay was used to monitor GC --> TA mutation rates in strains defective in MMR (Msh2 or Msh6) and/or in Poleta activity. The results clearly demonstrate that Poleta can function independently of the MMR system to prevent GO-associated mutations, presumably through preferential insertion of cytosine opposite replication-blocking GO lesions. Furthermore, the Poleta-dependent bypass of GO lesions is more efficient on the lagging strand of replication and requires an interaction with proliferating cell nuclear antigen. These studies establish a new paradigm for the prevention of GO-associated mutagenesis in eukaryotes.
+
+-Alleles
++DNA Mismatch Repair
+-DNA Replication
+-DNA, Fungal (+metabolism)
+-DNA-Directed DNA Polymerase (+metabolism)
+-Genome, Fungal (-drug effects)
+-Guanine (+analogs & derivatives; -pharmacology)
++Mutagenesis
+-Saccharomyces cerevisiae (-drug effects; +enzymology; -genetics)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+
+pii:MCB.00422-09
+doi:10.1128/MCB.00422-09
+pubmed:19635811
+pmc:PMC2747974
+

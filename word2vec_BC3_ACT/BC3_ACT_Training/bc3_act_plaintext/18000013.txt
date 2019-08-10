@@ -1,0 +1,28 @@
+DNA Res.
+
+A large-scale protein protein interaction analysis in Synechocystis sp. PCC6803.
+
+S Sato, Y Shimoda, A Muraki, M Kohara, Y Nakamura, S Tabata
+
+Protein-protein interactions (PPIs) play crucial roles in protein function for a variety of biological processes. Data from large-scale PPI screening has contributed to understanding the function of a large number of predicted genes from fully sequenced genomes. Here, we report the systematic identification of protein interactions for the unicellular cyanobacterium Synechocystis sp. strain PCC6803. Using a modified high-throughput yeast two-hybrid assay, we screened 1825 genes selected primarily from (i) genes of two-component signal transducers of Synechocystis, (ii) Synechocystis genes whose homologues are conserved in the genome of Arabidopsis thaliana, and (iii) genes of unknown function on the Synechocystis chromosome. A total of 3236 independent two-hybrid interactions involving 1920 proteins (52% of the total protein coding genes) were identified and each interaction was evaluated using an interaction generality (IG) measure, as well as the general features of interacting partners. The interaction data obtained in this study should provide new insights and novel strategies for functional analyses of genes in Synechocystis, and, additionally, genes in other cyanobacteria and plant genes of cyanobacterial origin.
+
+-Arabidopsis (-genetics; -metabolism)
+-Arabidopsis Proteins (-genetics; -metabolism)
+-Bacterial Proteins (+genetics; +metabolism)
+-Base Sequence
+-Conserved Sequence
+-DNA Primers (-genetics)
+-DNA, Bacterial (-genetics)
+-Genome, Bacterial
+-Genome, Plant
++Protein Interaction Mapping (-statistics & numerical data)
+-Signal Transduction (-genetics)
+-Species Specificity
+-Synechocystis (+genetics; +metabolism)
+-Two-Hybrid System Techniques
+
+pii:dsm021
+doi:10.1093/dnares/dsm021
+pubmed:18000013
+pmc:PMC2779905
+

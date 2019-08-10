@@ -1,0 +1,21 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Modeling oxygen transport in surgical tissue transfer.
+
+A Matzavinos, CY Kao, JE Green, A Sutradhar, M Miller, A Friedman
+
+Reconstructive microsurgery is a clinical technique used to transfer large amounts of a patient's tissue from one location used to another in order to restore physical deformities caused by trauma, tumors, or congenital abnormalities. The trend in this field is to transfer tissue using increasingly smaller blood vessels, which decreases problems associated with tissue harvest but increases the possibility that blood supply to the transferred tissue may not be adequate for healing. It would thus be helpful to surgeons to understand the relationship between the tissue volume and blood vessel diameter to ensure success in these operations. As a first step towards addressing this question, we present a simple mathematical model that might be used to predict successful tissue transfer based on blood vessel diameter, tissue volume, and oxygen delivery.
+
+-Arteries (-anatomy & histology; -physiology)
+-Biological Transport
+-Computer Simulation
++Models, Cardiovascular
+-Oxygen (+metabolism)
+-Reconstructive Surgical Procedures (+methods)
+-Surgical Flaps (-blood supply)
+
+pii:0905037106
+doi:10.1073/pnas.0905037106
+pubmed:19597143
+pmc:PMC2715514
+

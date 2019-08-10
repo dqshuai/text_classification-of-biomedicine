@@ -1,0 +1,24 @@
+Cell
+
+RAP1 is essential for silencing telomeric variant surface glycoprotein genes in Trypanosoma brucei.
+
+X Yang, LM Figueiredo, A Espinal, E Okubo, B Li
+
+Trypanosoma brucei expresses variant surface glycoprotein (VSG) genes in a strictly monoallelic fashion in its mammalian hosts, but it is unclear how this important virulence mechanism is enforced. Telomere position effect, an epigenetic phenomenon, has been proposed to play a critical role in VSG regulation, yet no telomeric protein has been identified whose disruption led to VSG derepression. We now identify tbRAP1 as an intrinsic component of the T. brucei telomere complex and a major regulator for silencing VSG expression sites (ESs). Knockdown of tbRAP1 led to derepression of all VSGs in silent ESs, but not VSGs located elsewhere, and resulted in stronger derepression of genes located within 10 kb from telomeres than genes located further upstream. This graduated silencing pattern suggests that telomere integrity plays a key role in tbRAP1-dependent silencing and VSG regulation.
+
+-Amino Acid Sequence
+-Animals
++Gene Silencing
+-Molecular Sequence Data
+-Protozoan Proteins (-chemistry; -genetics; +metabolism)
+-Telomere (+metabolism)
+-Trypanosoma brucei brucei (-genetics)
+-Variant Surface Glycoproteins, Trypanosoma (+genetics)
+-rap1 GTP-Binding Proteins (-chemistry; -genetics; +metabolism)
+
+pii:S0092-8674(09)00085-3
+doi:10.1016/j.cell.2009.01.037
+pubmed:19345190
+mid:NIHMS98046
+pmc:PMC2673096
+

@@ -1,0 +1,25 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+The epidemiological fitness cost of drug resistance in Mycobacterium tuberculosis.
+
+F Luciani, SA Sisson, H Jiang, AR Francis, MM Tanaka
+
+The emergence of antibiotic resistance in Mycobacterium tuberculosis has raised the concern that pathogen strains that are virtually untreatable may become widespread. The acquisition of resistance to antibiotics results in a longer duration of infection in a host, but this resistance may come at a cost through a decreased transmission rate. This raises the question of whether the overall fitness of drug-resistant strains is higher than that of sensitive strains--essential information for predicting the spread of the disease. Here, we directly estimate the transmission cost of drug resistance, the rate at which resistance evolves, and the relative fitness of resistant strains. These estimates are made by using explicit models of the transmission and evolution of sensitive and resistant strains of M. tuberculosis, using approximate Bayesian computation, and molecular epidemiology data from Cuba, Estonia, and Venezuela. We find that the transmission cost of drug resistance relative to sensitivity can be as low as 10%, that resistance evolves at rates of approximately 0.0025-0.02 per case per year, and that the overall fitness of resistant strains is comparable with that of sensitive strains. Furthermore, the contribution of transmission to the spread of drug resistance is very high compared with acquired resistance due to treatment failure (up to 99%). Estimating such parameters directly from in vivo data will be critical to understanding and responding to antibiotic resistance. For instance, projections using our estimates suggest that the prevalence of tuberculosis may decline with successful treatment, but the proportion of cases associated with resistance is likely to increase.
+
+-Algorithms
+-Antitubercular Agents (+therapeutic use)
+-Bayes Theorem
+-Cuba (-epidemiology)
+-Drug Resistance, Multiple, Bacterial
+-Estonia (-epidemiology)
+-Humans
+-Models, Theoretical
+-Mycobacterium tuberculosis (+drug effects)
+-Tuberculosis, Multidrug-Resistant (+drug therapy; -epidemiology; -transmission)
+-Venezuela (-epidemiology)
+
+pii:0902437106
+doi:10.1073/pnas.0902437106
+pubmed:19706556
+pmc:PMC2732896
+

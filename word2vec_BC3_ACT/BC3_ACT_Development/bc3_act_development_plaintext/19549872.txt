@@ -1,0 +1,23 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Optical measurement of mGluR1 conformational changes reveals fast activation, slow deactivation, and sensitization.
+
+P Marcaggi, H Mutoh, D Dimitrov, M Beato, T Knöpfel
+
+Metabotropic glutamate receptor (mGluR) activation has been extensively studied under steady-state conditions. However, at central synapses, mGluRs are exposed to brief submillisecond glutamate transients and may not reach steady-state. The lack of information on the kinetics of mGluR activation impairs accurate predictions of their operation during synaptic transmission. Here, we report experiments designed to investigate mGluR kinetics in real-time. We inserted either CFP or YFP into the second intracellular loop of mGluR1beta. When these constructs were coexpressed in PC12 cells, glutamate application induced a conformational change that could be monitored, using fluorescence resonance energy transfer (FRET), with an EC(50) of 7.5 microM. The FRET response was mimicked by the agonist DHPG, abolished by the competitive antagonist MCPG, and partially inhibited by mGluR1-selective allosteric modulators. These results suggest that the FRET response reports active conformations of mGluR1 dimers. The solution exchange at the cell membrane was optimized for voltage-clamped cells by recording the current induced by co-application of 30 mM potassium. When glutamate was applied at increasing concentrations up to 2 mM, the activation time course decreased to a minimum of approximately 10 ms, whereas the deactivation time course remained constant (approximately 50 ms). During long-lasting applications, no desensitization was observed. In contrast, we observed a robust sensitization of the FRET response that developed over approximately 400 ms. Activation, deactivation, and sensitization time courses and amplitudes were used to derive a kinetic scheme and rate constants, from which we inferred the EC(50) and frequency dependence of mGluR1 activation under non-steady-state conditions, as occurs during synaptic transmission.
+
+-Animals
++Fluorescence Resonance Energy Transfer
+-Kinetics
+-Models, Biological
+-PC12 Cells
+-Protein Conformation
+-Protein Multimerization
+-Rats
+-Receptors, Metabotropic Glutamate (+chemistry; +metabolism)
+
+pii:0901290106
+doi:10.1073/pnas.0901290106
+pubmed:19549872
+pmc:PMC2700146
+

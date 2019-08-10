@@ -1,0 +1,28 @@
+PLoS ONE
+
+Identification and characterization of inhibitors of human apurinic/apyrimidinic endonuclease APE1.
+
+A Simeonov, A Kulkarni, D Dorjsuren, A Jadhav, M Shen, DR McNeill, CP Austin, DM Wilson
+
+APE1 is the major nuclease for excising abasic (AP) sites and particular 3'-obstructive termini from DNA, and is an integral participant in the base excision repair (BER) pathway. BER capacity plays a prominent role in dictating responsiveness to agents that generate oxidative or alkylation DNA damage, as well as certain chain-terminating nucleoside analogs and 5-fluorouracil. We describe within the development of a robust, 1536-well automated screening assay that employs a deoxyoligonucleotide substrate operating in the red-shifted fluorescence spectral region to identify APE1 endonuclease inhibitors. This AP site incision assay was used in a titration-based high-throughput screen of the Library of Pharmacologically Active Compounds (LOPAC(1280)), a collection of well-characterized, drug-like molecules representing all major target classes. Prioritized hits were authenticated and characterized via two high-throughput screening assays -- a Thiazole Orange fluorophore-DNA displacement test and an E. coli endonuclease IV counterscreen -- and a conventional, gel-based radiotracer incision assay. The top, validated compounds, i.e. 6-hydroxy-DL-DOPA, Reactive Blue 2 and myricetin, were shown to inhibit AP site cleavage activity of whole cell protein extracts from HEK 293T and HeLa cell lines, and to enhance the cytotoxic and genotoxic potency of the alkylating agent methylmethane sulfonate. The studies herein report on the identification of novel, small molecule APE1-targeted bioactive inhibitor probes, which represent initial chemotypes towards the development of potential pharmaceuticals.
+
+-Catalytic Domain
+-Cell Line
+-Coloring Agents (-pharmacology)
+-DNA (-chemistry)
+-DNA Damage
+-DNA-(Apurinic or Apyrimidinic Site) Lyase (+antagonists & inhibitors; +physiology)
+-Deoxyribonuclease IV (Phage T4-Induced) (-metabolism)
+-Escherichia coli (-enzymology)
+-Flavonoids (-pharmacology)
+-Fluorouracil (-pharmacology)
+-Hela Cells
+-Humans
+-Models, Molecular
+-Recombinant Proteins (-chemistry)
+-Triazines (-pharmacology)
+
+doi:10.1371/journal.pone.0005740
+pubmed:19484131
+pmc:PMC2685009
+

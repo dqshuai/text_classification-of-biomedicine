@@ -1,0 +1,40 @@
+Mol. Cell. Biol.
+
+Roles of CLOCK phosphorylation in suppression of E-box-dependent transcription.
+
+H Yoshitane, T Takao, Y Satomi, NH Du, T Okano, Y Fukada
+
+In mammalian circadian clockwork, the CLOCK-BMAL1 heterodimer activates E-box-dependent transcription, while its activity is suppressed by circadian binding with negative regulators, such as CRYs. Here, we found that the CLOCK protein is kept mostly in the phosphorylated form throughout the day and is partly hyperphosphorylated in the suppression phase of E-box-dependent transcription in the mouse liver and NIH 3T3 cells. Coexpression of CRY2 in NIH 3T3 cells inhibited the phosphorylation of CLOCK, whereas CIPC coexpression markedly stimulated phosphorylation, indicating that CLOCK phosphorylation is regulated by a combination of the negative regulators in the suppression phase. CLOCK-BMAL1 purified from the mouse liver was subjected to tandem mass spectrometry analysis, which identified Ser38, Ser42, and Ser427 as in vivo phosphorylation sites of CLOCK. Ser38Asp and Ser42Asp mutations of CLOCK additively and markedly weakened the transactivation activity of CLOCK-BMAL1, with downregulation of the nuclear amount of CLOCK and the DNA-binding activity. On the other hand, CLOCK Delta 19, lacking the CIPC-binding domain, was far less phosphorylated and much more stabilized than wild-type CLOCK in vivo. Calyculin A treatment of cultured NIH 3T3 cells promoted CLOCK phosphorylation and facilitated its proteasomal degradation. Together, these results show that CLOCK phosphorylation contributes to the suppression of CLOCK-BMAL1-mediated transactivation through dual regulation: inhibition of CLOCK activity and promotion of its degradation.
+
+-ARNTL Transcription Factors
+-Amino Acid Sequence
+-Animals
+-Antibodies, Monoclonal (-metabolism)
+-Basic Helix-Loop-Helix Transcription Factors (-genetics; -metabolism)
+-Biological Clocks (-physiology)
+-CLOCK Proteins
+-Circadian Rhythm (-physiology)
+-Cryptochromes
++E-Box Elements
+-Flavoproteins (-genetics; -metabolism)
+-Humans
+-Liver (-metabolism)
+-Male
+-Mice
+-Mice, Inbred C57BL
+-Molecular Sequence Data
+-Mutation
+-NIH 3T3 Cells
+-Phosphorylation
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Sequence Alignment
+-Serine (-metabolism)
+-Trans-Activators (-genetics; +metabolism)
++Transcription, Genetic
++Transcriptional Activation
+
+pii:MCB.01864-08
+doi:10.1128/MCB.01864-08
+pubmed:19414601
+pmc:PMC2698759
+

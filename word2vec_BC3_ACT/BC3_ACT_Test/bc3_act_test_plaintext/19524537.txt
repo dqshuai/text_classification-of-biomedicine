@@ -1,0 +1,29 @@
+Mol. Cell
+
+An unfolded CH1 domain controls the assembly and secretion of IgG antibodies.
+
+MJ Feige, S Groscurth, M Marcinowski, Y Shimizu, H Kessler, LM Hendershot, J Buchner
+
+A prerequisite for antibody secretion and function is their assembly into a defined quaternary structure, composed of two heavy and two light chains for IgG. Unassembled heavy chains are actively retained in the endoplasmic reticulum (ER). Here, we show that the C(H)1 domain of the heavy chain is intrinsically disordered in vitro, which sets it apart from other antibody domains. It folds only upon interaction with the light-chain C(L) domain. Structure formation proceeds via a trapped intermediate and can be accelerated by the ER-specific peptidyl-prolyl isomerase cyclophilin B. The molecular chaperone BiP recognizes incompletely folded states of the C(H)1 domain and competes for binding to the C(L) domain. In vivo experiments demonstrate that requirements identified for folding the C(H)1 domain in vitro, including association with a folded C(L) domain and isomerization of a conserved proline residue, are essential for antibody assembly and secretion in the cell.
+
+-Animals
+-COS Cells
+-Cercopithecus aethiops
+-Cricetinae
+-Endoplasmic Reticulum (-metabolism)
+-Heat-Shock Proteins (-metabolism; -physiology)
+-Humans
+-Immunoglobulin G (-chemistry; +metabolism)
+-Mice
+-Models, Molecular
+-Nuclear Magnetic Resonance, Biomolecular
+-Proline (-metabolism)
++Protein Folding
+-Protein Structure, Quaternary
+
+pii:S1097-2765(09)00304-9
+doi:10.1016/j.molcel.2009.04.028
+pubmed:19524537
+mid:NIHMS218912
+pmc:PMC2908990
+

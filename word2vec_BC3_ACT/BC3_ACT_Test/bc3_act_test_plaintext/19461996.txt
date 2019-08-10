@@ -1,0 +1,28 @@
+PLoS ONE
+
+Gene expression profiles of sporadic canine hemangiosarcoma are uniquely associated with breed.
+
+BA Tamburini, S Trapp, TL Phang, JT Schappa, LE Hunter, JF Modiano
+
+The role an individual's genetic background plays on phenotype and biological behavior of sporadic tumors remains incompletely understood. We showed previously that lymphomas from Golden Retrievers harbor defined, recurrent chromosomal aberrations that occur less frequently in lymphomas from other dog breeds, suggesting spontaneous canine tumors provide suitable models to define how heritable traits influence cancer genotypes. Here, we report a complementary approach using gene expression profiling in a naturally occurring endothelial sarcoma of dogs (hemangiosarcoma). Naturally occurring hemangiosarcomas of Golden Retrievers clustered separately from those of non-Golden Retrievers, with contributions from transcription factors, survival factors, and from pro-inflammatory and angiogenic genes, and which were exclusively present in hemangiosarcoma and not in other tumors or normal cells (i.e., they were not due simply to variation in these genes among breeds). Vascular Endothelial Growth Factor Receptor 1 (VEGFR1) was among genes preferentially enriched within known pathways derived from gene set enrichment analysis when characterizing tumors from Golden Retrievers versus other breeds. Heightened VEGFR1 expression in these tumors also was apparent at the protein level and targeted inhibition of VEGFR1 increased proliferation of hemangiosarcoma cells derived from tumors of Golden Retrievers, but not from other breeds. Our results suggest heritable factors mold gene expression phenotypes, and consequently biological behavior in sporadic, naturally occurring tumors.
+
+-Animals
++Breeding
+-Cell Line, Tumor
+-Dog Diseases (-enzymology; +genetics)
+-Dogs (+genetics)
+-Female
++Gene Expression Profiling
+-Gene Expression Regulation, Neoplastic (-drug effects)
+-Gene Regulatory Networks (-drug effects)
+-Genetic Predisposition to Disease
+-Hemangiosarcoma (-enzymology; -genetics; +veterinary)
+-Inheritance Patterns (-genetics)
+-Male
+-Protein Kinase Inhibitors (-pharmacology)
+-Vascular Endothelial Growth Factor Receptor-1 (-antagonists & inhibitors; -genetics; -metabolism)
+
+doi:10.1371/journal.pone.0005549
+pubmed:19461996
+pmc:PMC2680013
+

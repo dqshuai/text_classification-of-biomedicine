@@ -1,0 +1,34 @@
+Dev. Cell
+
+Reciprocal requirements for EDA/EDAR/NF-kappaB and Wnt/beta-catenin signaling pathways in hair follicle induction.
+
+Y Zhang, P Tomann, T Andl, NM Gallant, J Huelsken, B Jerchow, W Birchmeier, R Paus, S Piccolo, ML Mikkola, EE Morrisey, PA Overbeek, C Scheidereit, SE Millar, R Schmidt-Ullrich
+
+Wnt/beta-catenin and NF-kappaB signaling mechanisms provide central controls in development and disease, but how these pathways intersect is unclear. Using hair follicle induction as a model system, we show that patterning of dermal Wnt/beta-catenin signaling requires epithelial beta-catenin activity. We find that Wnt/beta-catenin signaling is absolutely required for NF-kappaB activation, and that Edar is a direct Wnt target gene. Wnt/beta-catenin signaling is initially activated independently of EDA/EDAR/NF-kappaB activity in primary hair follicle primordia. However, Eda/Edar/NF-kappaB signaling is required to refine the pattern of Wnt/beta-catenin activity, and to maintain this activity at later stages of placode development. We show that maintenance of localized expression of Wnt10b and Wnt10a requires NF-kappaB signaling, providing a molecular explanation for the latter observation, and identify Wnt10b as a direct NF-kappaB target. These data reveal a complex interplay and interdependence of Wnt/beta-catenin and EDA/EDAR/NF-kappaB signaling pathways in initiation and maintenance of primary hair follicle placodes.
+
+-Animals
+-Carrier Proteins (-genetics; -metabolism)
+-Cell Differentiation (-physiology)
+-Ectoderm (-cytology; -metabolism)
+-Ectodysplasins (-genetics; +metabolism)
+-Embryo, Mammalian (-anatomy & histology; -physiology)
+-Female
+-Gene Expression Regulation, Developmental
+-Genes, Reporter
+-Hair Follicle (-cytology; +embryology; -physiology)
+-Mice
+-Mice, Transgenic
+-NF-kappa B (-genetics; +metabolism)
+-Pregnancy
+-Receptors, Ectodysplasin (-genetics; +metabolism)
+-Signal Transduction (+physiology)
+-Skin (-cytology; -embryology; -metabolism)
+-Wnt Proteins (-genetics; +metabolism)
+-beta Catenin (-genetics; +metabolism)
+
+pii:S1534-5807(09)00213-5
+doi:10.1016/j.devcel.2009.05.011
+pubmed:19619491
+mid:NIHMS119896
+pmc:PMC2859042
+

@@ -1,0 +1,25 @@
+BMC Plant Biol.
+
+Ontology-oriented retrieval of putative microRNAs in Vitis vinifera via GrapeMiRNA: a web database of de novo predicted grape microRNAs.
+
+B Lazzari, A Caprera, A Cestaro, I Merelli, M Del Corvo, P Fontana, L Milanesi, R Velasco, A Stella
+
+BACKGROUND: Two complete genome sequences are available for Vitis vinifera Pinot noir. Based on the sequence and gene predictions produced by the IASMA, we performed an in silico detection of putative microRNA genes and of their targets, and collected the most reliable microRNA predictions in a web database. The application is available at http://www.itb.cnr.it/ptp/grapemirna/. DESCRIPTION: The program FindMiRNA was used to detect putative microRNA genes in the grape genome. A very high number of predictions was retrieved, calling for validation. Nine parameters were calculated and, based on the grape microRNAs dataset available at miRBase, thresholds were defined and applied to FindMiRNA predictions having targets in gene exons. In the resulting subset, predictions were ranked according to precursor positions and sequence similarity, and to target identity. To further validate FindMiRNA predictions, comparisons to the Arabidopsis genome, to the grape Genoscope genome, and to the grape EST collection were performed. Results were stored in a MySQL database and a web interface was prepared to query the database and retrieve predictions of interest. CONCLUSION: The GrapeMiRNA database encompasses 5,778 microRNA predictions spanning the whole grape genome. Predictions are integrated with information that can be of use in selection procedures. Tools added in the web interface also allow to inspect predictions according to gene ontology classes and metabolic pathways of targets. The GrapeMiRNA database can be of help in selecting candidate microRNA genes to be validated.
+
+-Computational Biology
++Databases, Nucleic Acid
+-Expressed Sequence Tags
+-Genome, Plant
+-Genomics (-methods)
+-Internet
+-MicroRNAs (+genetics)
+-RNA, Plant (+genetics)
+-Sequence Analysis, RNA (-methods)
+-User-Computer Interface
+-Vitis (+genetics)
+
+pii:1471-2229-9-82
+doi:10.1186/1471-2229-9-82
+pubmed:19563653
+pmc:PMC2717091
+

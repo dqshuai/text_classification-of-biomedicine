@@ -1,0 +1,25 @@
+J. Virol.
+
+Role of cholesterol pathways in norovirus replication.
+
+KO Chang
+
+Norwalk virus (NV) is a prototype strain of the noroviruses (family Caliciviridae) that have emerged as major causes of acute gastroenteritis worldwide. I have developed NV replicon systems using reporter proteins such as a neomycin-resistant protein (NV replicon-bearing cells) and a green fluorescent protein (pNV-GFP) and demonstrated that these systems were excellent tools to study virus replication in cell culture. In the present study, I first performed DNA microarray analysis of the replicon-bearing cells to identify cellular factors associated with NV replication. The analysis demonstrated that genes in lipid (cholesterol) or carbohydrate metabolic pathways were significantly (P < 0.001) changed by the gene ontology analysis. Among genes in the cholesterol pathways, I found that mRNA levels of hydroxymethylglutaryl-coenzyme A (HMG-CoA) synthase, squalene epoxidase, and acyl-CoA:cholesterol acyltransferase (ACAT), ACAT2, small heterodimer partner, and low-density lipoprotein receptor (LDLR)-related proteins were significantly changed in the cells. I also found that the inhibition of cholesterol biosynthesis using statins (an HMG-CoA reductase inhibitor) significantly increased the levels of NV proteins and RNA, whereas inhibitors of ACAT significantly reduced the replication of NV in replicon-bearing cells. Up- or downregulation of virus replication with these agents significantly correlated with the mRNA level of LDLR in replicon-bearing cells. Finally, I found that the expression of LDLR promoted NV replication in trans by transfection study with pNV-GFP. I conclude that the cholesterol pathways such as LDLR expression and ACAT activity may be crucial in the replication of noroviruses in cells, which may provide potential therapeutic targets for viral infection.
+
+-Animals
+-Cell Line
+-Cercopithecus aethiops
+-Cholesterol (+metabolism)
+-Cricetinae
+-Gene Expression Profiling
++Host-Pathogen Interactions
+-Metabolic Networks and Pathways (-genetics)
+-Norwalk virus (+physiology)
+-Oligonucleotide Array Sequence Analysis
++Virus Replication
+
+pii:JVI.00005-09
+doi:10.1128/JVI.00005-09
+pubmed:19515767
+pmc:PMC2738148
+

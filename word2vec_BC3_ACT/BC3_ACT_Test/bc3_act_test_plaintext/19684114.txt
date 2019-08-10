@@ -1,0 +1,33 @@
+Genes Dev.
+
+A Rab escort protein integrates the secretion system with TOR signaling and ribosome biogenesis.
+
+J Singh, M Tyers
+
+The coupling of environmental conditions to cell growth and division is integral to cell fitness. In Saccharomyces cerevisiae, the transcription factor Sfp1 couples nutrient status to cell growth rate by controlling the expression of ribosome biogenesis (Ribi) and ribosomal protein (RP) genes. Sfp1 is localized to the nucleus in rich nutrients, but upon nutrient limitation or target of rapamycin (TOR) pathway inhibition by rapamycin, Sfp1 rapidly exits the nucleus, leading to repression of the Ribi/RP regulons. Through systematic cell-based screens we found that many components of the secretory system influence Sfp1 localization. Notably, the essential Rab escort protein Mrs6 exhibited a nutrient-sensitive interaction with Sfp1. Overexpression of Mrs6 prevented nuclear localization of Sfp1 in rich nutrients, whereas loss of Mrs6 resulted in nuclear Sfp1 localization in poor nutrients. These effects were specific to Sfp1 and independent of the protein kinase C (PKC) pathway, suggesting that Mrs6 lies in a distinct branch of TOR and ribosome biogenesis regulation. Rapamycin-resistant alleles of MRS6 were defective in the cytoplasmic retention of Sfp1, the control of cell size, and in the repression of the Ribi/RP regulons. The Sfp1-Mrs6 interaction is a nexus for growth regulation that links the secretory system and TOR-dependent nutrient signaling to ribosome biogenesis.
+
+-Adaptor Proteins, Signal Transducing (+metabolism)
+-Alleles
+-Amino Acid Sequence
+-Antifungal Agents (-pharmacology)
+-Cell Size
+-DNA-Binding Proteins (-metabolism)
+-Drug Resistance, Fungal (-genetics)
+-Gene Expression Regulation, Fungal
+-Molecular Sequence Data
+-Protein Binding
+-Protein Transport (-drug effects; +physiology)
+-Protein-Serine-Threonine Kinases (+physiology)
+-Regulon (-physiology)
+-Ribosomes (+physiology)
+-Saccharomyces cerevisiae (-cytology; -drug effects; -metabolism; +physiology)
+-Saccharomyces cerevisiae Proteins (+metabolism; +physiology)
++Signal Transduction
+-Sirolimus (-pharmacology)
+-Stress, Physiological (-physiology)
+
+pii:23/16/1944
+doi:10.1101/gad.1804409
+pubmed:19684114
+pmc:PMC2725937
+

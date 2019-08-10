@@ -1,0 +1,28 @@
+Dev. Cell
+
+Drosophila maelstrom ensures proper germline stem cell lineage differentiation by repressing microRNA-7.
+
+JW Pek, AK Lim, T Kai
+
+Nuage is a germline-unique perinuclear structure conserved throughout the animal kingdom. Maelstrom (Mael) is an unusual nuage component, as it is also found in the nucleus. Mael contains a High Mobility Group box, known to mediate DNA binding. We show that Mael nuclear function is required for proper differentiation in the Drosophila germline stem cell (GSC) lineage. In mael mutant testes, transit-amplifying cysts fail to differentiate into primary spermatocytes, instead breaking down into ectopic GSCs and smaller cysts, due to a depletion of Bag-of-marbles (Bam) protein. Mael regulates Bam via repression of miR-7. Mael binds the miR-7 promoter and is required for the local accumulation of HP1 and H3K9me3. miR-7 targets bam directly at its 3'UTR, and a reduction in miR-7 expression can rescue germline differentiation defects found in mael mutants by alleviating Bam repression. We propose that Mael ensures proper differentiation in the GSC lineage by repressing miR-7.
+
+-3' Untranslated Regions
+-Alleles
+-Animals
+-Cell Lineage
+-Cell Nucleus (-metabolism)
+-Drosophila Proteins (+metabolism)
+-Drosophila melanogaster (+metabolism)
+-Gene Expression Regulation, Developmental
+-Germ Cells (+cytology)
+-Male
+-MicroRNAs (-metabolism)
+-Promoter Regions, Genetic
+-Reverse Transcriptase Polymerase Chain Reaction
+-Stem Cells (+cytology)
+-Testis (-metabolism)
+
+pii:S1534-5807(09)00301-3
+doi:10.1016/j.devcel.2009.07.017
+pubmed:19758565
+

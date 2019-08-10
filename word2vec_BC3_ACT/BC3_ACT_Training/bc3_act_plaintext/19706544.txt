@@ -1,0 +1,38 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+ICP0 enables and monitors the function of D cyclins in herpes simplex virus 1 infected cells.
+
+M Kalamvoki, B Roizman
+
+The herpes simplex virus 1 ICP0 is a regulatory protein. Early in infection ICP0 localizes in ND10 bodies and performs two functions: As an E3 ligase in conjunction with E2 UbcH5a conjugating enzyme, it degrades the ND10 components PML and SP100. Concurrently, it suppresses the silencing of viral DNA by dispersing the HDAC1/CoREST/REST/LSD1 repressor complex. Subsequently, ICP0 is exported to the cytoplasm. In cells treated with HDAC inhibitors or transfected with irrelevant DNA, the export is delayed in a DNA dose-dependent fashion. Here, we follow up an observation that ICP0 binds cyclin D3 and that ICP0 mutants unable to bind cyclin D3 are not exported. Moreover, in infected cells cdk4 is activated, but cdk2 is not. We report that (i) cyclin D1, D2, or D3 colocalize with ND10 bodies and ICP0 early in infection and ultimately become incorporated into viral replication compartments, (ii) each of the D cyclins partially rescues DeltaICP0 mutants, and (iii) inhibition of cdk4 by inhibitor I sequesters ICP0 in the nucleus. A key finding is that overexpression of cyclin D3 enables the transport of ICP0 to the cytoplasm. We conclude that (i) ICP0 facilitates the recruitment of cyclin D3 to the sites of viral DNA synthesis, (ii) until its functions are completed, ICP0 is retained in the nucleus, and (iii) a common signal that results in the export of ICP0 to the cytoplasm is the accumulation of a viral DNA-synthesis-dependent late protein.
+
+-Animals
+-Cell Line, Tumor
+-Cell Nucleus (-metabolism)
+-Cercopithecus aethiops
+-Cyclin D1 (-genetics; -metabolism)
+-Cyclin D2
+-Cyclin D3
+-Cyclin-Dependent Kinase 4 (-metabolism)
+-Cyclins (-genetics; +metabolism)
+-DNA-Binding Proteins (-genetics; -metabolism)
+-Enzyme Activation
+-Genetic Complementation Test
+-Herpesvirus 1, Human (-genetics; +metabolism)
+-Humans
+-Immediate-Early Proteins (-genetics; +metabolism)
+-Microscopy, Confocal
+-Mutation
+-Nuclear Proteins (-genetics; -metabolism)
+-Protein Binding
+-Transfection
+-Ubiquitin-Protein Ligases (-genetics; +metabolism)
+-Vero Cells
+-Viral Proteins (-genetics; -metabolism)
+-Virus Replication
+
+pii:0906905106
+doi:10.1073/pnas.0906905106
+pubmed:19706544
+pmc:PMC2732861
+

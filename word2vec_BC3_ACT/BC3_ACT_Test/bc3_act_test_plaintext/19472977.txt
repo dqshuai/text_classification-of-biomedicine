@@ -1,0 +1,27 @@
+Biochemistry
+
+Competitive inhibition of human poly(A)-specific ribonuclease (PARN) by synthetic fluoro-pyranosyl nucleosides.
+
+NA Balatsos, D Vlachakis, P Maragozidis, S Manta, D Anastasakis, A Kyritsis, M Vlassi, D Komiotis, C Stathopoulos
+
+Poly(A)-specific ribonuclease (PARN) is a cap-interacting deadenylase that mediates, together with other exonucleases, the eukaryotic mRNA turnover and thus is actively involved in the regulation of gene expression. Aminoglycosides and natural nucleotides are the only reported modulators of human PARN activity, so far. In the present study, we show that synthetic nucleoside analogues bearing a fluoro-glucopyranosyl sugar moiety and benzoyl-modified cytosine or adenine as a base can effectively inhibit human PARN. Such nucleoside analogues exhibited substantial inhibitory effects, when tested against various cancer cell lines, as has been previously reported. Kinetic analysis showed that the inhibition of PARN is competitive and could not be released by altering Mg(II) concentration. Moreover, substitution of the 2', 4', or 6'-OH of the sugar moiety with acetyl and/or trityl groups was crucial for inhibitory efficacy. To understand how the nucleosides fit into the active site of PARN, we performed molecular docking experiments followed by molecular dynamics simulations. The in silico analysis showed that these compounds can efficiently dock into the active site of PARN. Our results support the idea that the sugar moiety mediates the stabilization of the nucleoside into the active site through interactions with catalytic amino acid residues. Taken together, our in vitro and in silico data suggest that human PARN is among the molecular targets of these compounds and could act therapeutically by lowering the mRNA turnover rate, thus explaining their known in vivo inhibitory effect at the molecular level.
+
+-Binding, Competitive
+-Biocatalysis
+-Catalytic Domain
+-Computer Simulation
+-Enzyme Inhibitors (-chemical synthesis; +chemistry)
+-Exoribonucleases (+antagonists & inhibitors; +chemistry; -genetics)
+-Glucose (-analogs & derivatives)
+-Humans
+-Hydrogen Bonding
+-Hydrophobicity
+-Kinetics
+-Magnesium (-chemistry)
+-Models, Molecular
+-Nucleosides (-chemical synthesis; +chemistry)
+-Recombinant Proteins (-antagonists & inhibitors; -chemistry)
+
+doi:10.1021/bi900236k
+pubmed:19472977
+

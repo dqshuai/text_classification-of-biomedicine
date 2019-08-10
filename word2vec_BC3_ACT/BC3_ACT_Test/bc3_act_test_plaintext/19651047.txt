@@ -1,0 +1,24 @@
+Biophys. J.
+
+Comparison of methods for characterizing nonideal solute self-association by sedimentation equilibrium.
+
+DJ Scott, DJ Winzor
+
+We have examined in detail analytical solutions of expressions for sedimentation equilibrium in the analytical ultracentrifuge to describe self-association under nonideal conditions. We find that those containing the radial dependence of total solute concentration that incorporate the Adams-Fujita assumption for composition-dependence of activity coefficients reveal potential shortcomings for characterizing such systems. Similar deficiencies are shown in the use of the NONLIN software incorporating the same assumption about the interrelationship between activity coefficients for monomer and polymer species. These difficulties can be overcome by iterative analyses incorporating expressions for the composition-dependence of activity coefficients predicted by excluded volume considerations. A recommendation is therefore made for the replacement of current software packages by programs that incorporate rigorous statistical-mechanical allowance for thermodynamic nonideality in sedimentation equilibrium distributions reflecting solute self-association.
+
+-Algorithms
+-Chemistry Techniques, Analytical (+methods)
+-Computer Simulation
+-Models, Chemical
+-Polymers (-chemistry)
+-Proteins (-chemistry)
++Software
+-Solutions (+chemistry)
+-Thermodynamics
+-Ultracentrifugation (+methods)
+
+pii:S0006-3495(09)01034-0
+doi:10.1016/j.bpj.2009.05.028
+pubmed:19651047
+pmc:PMC2718172
+

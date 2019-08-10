@@ -1,0 +1,20 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Locating the transition from periodic oscillations to spatiotemporal chaos in the wake of invasion.
+
+JA Sherratt, MJ Smith, JD Rademacher
+
+In systems with cyclic dynamics, invasions often generate periodic spatiotemporal oscillations, which undergo a subsequent transition to chaos. The periodic oscillations have the form of a wavetrain and occur in a band of constant width. In applications, a key question is whether one expects spatiotemporal data to be dominated by regular or irregular oscillations or to involve a significant proportion of both. This depends on the width of the wavetrain band. Here, we present mathematical theory that enables the direct calculation of this width. Our method synthesizes recent developments in stability theory and computation. It is developed for only 1 equation system, but because this is a normal form close to a Hopf bifurcation, the results can be applied directly to a wide range of models. We illustrate this by considering a classic example from ecology: wavetrains in the wake of the invasion of a prey population by predators.
+
+-Animals
+-Computer Simulation
+-Ecology
+-Numerical Analysis, Computer-Assisted
++Predatory Behavior
+-Time Factors
+
+pii:0900161106
+doi:10.1073/pnas.0900161106
+pubmed:19553205
+pmc:PMC2701342
+

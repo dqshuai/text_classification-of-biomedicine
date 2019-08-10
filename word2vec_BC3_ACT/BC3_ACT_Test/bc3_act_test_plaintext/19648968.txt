@@ -1,0 +1,35 @@
+Oncogene
+
+LMO4 is an essential mediator of ErbB2/HER2/Neu-induced breast cancer cell cycle progression.
+
+ME Montañez-Wiscovich, DD Seachrist, MD Landis, J Visvader, B Andersen, RA Keri
+
+ErbB2/HER2/Neu-overexpressing breast cancers are characterized by poor survival due to high proliferation and metastasis rates and identifying downstream targets of ErbB2 should facilitate developing novel therapies for this disease. Gene expression profiling revealed the transcriptional regulator LIM-only protein 4 (LMO4) is upregulated during ErbB2-induced mouse mammary gland tumorigenesis. Although LMO4 is frequently overexpressed in breast cancer and LMO4-overexpressing mice develop mammary epithelial tumors, the mechanisms involved are unknown. In this study, we report that LMO4 is a downstream target of ErbB2 and PI3K in ErbB2-dependent breast cancer cells. Furthermore, LMO4 silencing reduces proliferation of these cells, inducing a G2/M arrest that was associated with decreased cullin-3, an E3-ubiquitin ligase component important for mitosis. Loss of LMO4 subsequently results in reduced Cyclin D1 and Cyclin E. Further supporting a role for LMO4 in modulating proliferation by regulating cullin-3 expression, we found that LMO4 expression oscillates throughout the cell cycle with maximum expression occurring during G2/M and these changes precede oscillations in cullin-3 levels. LMO4 levels are also highest in high-grade/less differentiated breast cancers, which are characteristically highly proliferative. We conclude that LMO4 is a novel cell cycle regulator with a key role in mediating ErbB2-induced proliferation, a hallmark of ErbB2-positive disease.
+
+-1-Phosphatidylinositol 3-Kinase (-metabolism)
+-Animals
+-Breast Neoplasms (-genetics; +pathology)
++Cell Cycle (-genetics)
+-Cell Division (-genetics)
+-Cell Line, Tumor
+-Cell Proliferation
+-Cullin Proteins (-metabolism)
+-Cyclin D1 (-genetics; -metabolism)
+-G2 Phase (-genetics)
+-Gene Expression Regulation, Neoplastic
+-Homeodomain Proteins (-genetics; +metabolism)
+-Humans
+-Mice
+-Neuregulin-1 (-metabolism)
+-RNA, Messenger (-genetics; -metabolism)
+-Receptor, erbB-2 (+metabolism)
+-Signal Transduction
+-Transcription Factors (-genetics; +metabolism)
+-Up-Regulation
+
+pii:onc2009221
+doi:10.1038/onc.2009.221
+pubmed:19648968
+mid:NIHMS125913
+pmc:PMC2762490
+

@@ -1,0 +1,28 @@
+Nat. Genet.
+
+A transposon-based chromosomal engineering method to survey a large cis-regulatory landscape in mice.
+
+C Kokubu, K Horie, K Abe, R Ikeda, S Mizuno, Y Uno, S Ogiwara, M Ohtsuka, A Isotani, M Okabe, K Imai, J Takeda
+
+A large cis-regulatory landscape is a common feature of vertebrate genomes, particularly at key developmental gene loci with finely tuned expression patterns. Existing genetic tools for surveying large genomic regions of interest spanning over hundreds of kilobases are limited. Here we propose a chromosomal engineering strategy exploiting the local hopping trait of the Sleeping Beauty transposon in the mouse genome. We generated embryonic stem cells with a targeted integration of the transposon vector, carrying an enhancer-detecting lacZ reporter and loxP cassette, into the developmentally critical Pax1 gene locus, followed by efficient local transpositions, nested deletion formation and derivation of embryos by tetraploid complementation. Comparative reporter expression analysis among different insertion/deletion embryos substantially facilitated long-range cis-regulatory element mapping in the genomic neighborhood and demonstrated the potential of the transposon-based approach as a versatile tool for exploration of defined genomic intervals of functional or clinical relevance, such as disease-associated microdeletions.
+
+-Animals
+-Chromosomes, Mammalian (+genetics)
+-DNA Transposable Elements (+genetics)
+-DNA, Intergenic (-genetics)
+-Embryo, Mammalian (-cytology; -metabolism)
+-Embryonic Stem Cells (-cytology; -metabolism)
+-Enhancer Elements, Genetic
+-Genetic Engineering (+methods)
+-Genome (-genetics)
+-Homeodomain Proteins (-genetics)
+-Mice
+-Mutagenesis, Insertional
+-Paired Box Transcription Factors (-genetics)
+-Regulatory Sequences, Nucleic Acid (+genetics)
+-Transcription Factors (-genetics)
+
+pii:ng.397
+doi:10.1038/ng.397
+pubmed:19633672
+

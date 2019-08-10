@@ -1,0 +1,25 @@
+Nucleic Acids Res.
+
+wwLigCSRre: a 3D ligand-based server for hit identification and optimization.
+
+O Sperandio, M Petitjean, P Tuffery
+
+The wwLigCSRre web server performs ligand-based screening using a 3D molecular similarity engine. Its aim is to provide an online versatile facility to assist the exploration of the chemical similarity of families of compounds, or to propose some scaffold hopping from a query compound. The service allows the user to screen several chemically diversified focused banks, such as Kinase-, CNS-, GPCR-, Ion-channel-, Antibacterial-, Anticancer- and Analgesic-focused libraries. The server also provides the possibility to screen the DrugBank and DSSTOX/Carcinogenic compounds databases. User banks can also been downloaded. The 3D similarity search combines both geometrical (3D) and physicochemical information. Starting from one 3D ligand molecule as query, the screening of such databases can lead to unraveled compound scaffold as hits or help to optimize previously identified hit molecules in a SAR (Structure activity relationship) project. wwLigCSRre can be accessed at http://bioserv.rpbs.univ-paris-diderot.fr/wwLigCSRre.html.
+
+-Cyclin-Dependent Kinase 2 (-chemistry)
+-Databases, Factual
++Drug Design
+-Ligands
+-Models, Molecular
+-Protein Kinase Inhibitors (-chemistry)
+-Receptor, IGF Type 1 (-chemistry)
+-Small Molecule Libraries
++Software
+-Structure-Activity Relationship
+-User-Computer Interface
+
+pii:gkp324
+doi:10.1093/nar/gkp324
+pubmed:19429687
+pmc:PMC2703967
+

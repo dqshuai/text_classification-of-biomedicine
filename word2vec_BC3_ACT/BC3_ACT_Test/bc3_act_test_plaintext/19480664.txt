@@ -1,0 +1,23 @@
+Genome Biol.
+
+The Cell Cycle Ontology: an application ontology for the representation and integrated analysis of the cell cycle process.
+
+E Antezana, M Egaña, W Blondé, A Illarramendi, I Bilbao, B De Baets, R Stevens, V Mironov, M Kuiper
+
+The Cell Cycle Ontology (http://www.CellCycleOntology.org) is an application ontology that automatically captures and integrates detailed knowledge on the cell cycle process. Cell Cycle Ontology is enabled by semantic web technologies, and is accessible via the web for browsing, visualizing, advanced querying, and computational reasoning. Cell Cycle Ontology facilitates a detailed analysis of cell cycle-related molecular network components. Through querying and automated reasoning, it may provide new hypotheses to help steer a systems biology approach to biological network building.
+
+-Arabidopsis (-cytology; -genetics)
+-Automation
++Cell Cycle
++Databases, Genetic
+-Humans
+-Information Storage and Retrieval
+-Saccharomyces cerevisiae (-cytology; -genetics)
+-Schizosaccharomyces (-cytology; -genetics)
++Software
+
+pii:gb-2009-10-5-r58
+doi:10.1186/gb-2009-10-5-r58
+pubmed:19480664
+pmc:PMC2718524
+

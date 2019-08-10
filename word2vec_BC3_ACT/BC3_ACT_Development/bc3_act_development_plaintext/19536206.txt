@@ -1,0 +1,25 @@
+Mol. Syst. Biol.
+
+Engineered single- and multi-cell chemotaxis pathways in E. coli.
+
+SD Goldberg, P Derr, WF DeGrado, M Goulian
+
+We have engineered the chemotaxis system of Escherichia coli to respond to molecules that are not attractants for wild-type cells. The system depends on an artificially introduced enzymatic activity that converts the target molecule into a ligand for an E. coli chemoreceptor, thereby enabling the cells to respond to the new attractant. Two systems were designed, and both showed robust chemotactic responses in semisolid and liquid media. The first incorporates an asparaginase enzyme and the native E. coli aspartate receptor to produce a response to asparagine; the second uses penicillin acylase and an engineered chemoreceptor for phenylacetic acid to produce a response to phenylacetyl glycine. In addition, by taking advantage of a 'hitchhiker' effect in which cells producing the ligand can induce chemotaxis of neighboring cells lacking enzymatic activity, we were able to design a more complex system that functions as a simple microbial consortium. The result effectively introduces a logical 'AND' into the system so that the population only swims towards the combined gradients of two attractants.
+
+-Asparaginase (-genetics; -metabolism)
+-Asparagine (-metabolism)
+-Chemotaxis (-genetics; +physiology)
+-Cloning, Molecular
+-Culture Media
+-Escherichia coli (-enzymology; -genetics; -metabolism; +physiology)
+-Glycine (-analogs & derivatives; -metabolism)
++Models, Biological
+-Penicillin Amidase (-genetics; -metabolism)
+-Phenylacetates (-metabolism)
+-Signal Transduction
+
+pii:msb200941
+doi:10.1038/msb.2009.41
+pubmed:19536206
+pmc:PMC2710872
+

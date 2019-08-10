@@ -1,0 +1,33 @@
+PLoS Pathog.
+
+Innate immune sensing of modified vaccinia virus Ankara (MVA) is mediated by TLR2-TLR6, MDA-5 and the NALP3 inflammasome.
+
+J Delaloye, T Roger, QG Steiner-Tardivel, D Le Roy, M Knaup Reymond, S Akira, V Petrilli, CE Gomez, B Perdiguero, J Tschopp, G Pantaleo, M Esteban, T Calandra
+
+Modified vaccinia virus Ankara (MVA) is an attenuated double-stranded DNA poxvirus currently developed as a vaccine vector against HIV/AIDS. Profiling of the innate immune responses induced by MVA is essential for the design of vaccine vectors and for anticipating potential adverse interactions between naturally acquired and vaccine-induced immune responses. Here we report on innate immune sensing of MVA and cytokine responses in human THP-1 cells, primary human macrophages and mouse bone marrow-derived macrophages (BMDMs). The innate immune responses elicited by MVA in human macrophages were characterized by a robust chemokine production and a fairly weak pro-inflammatory cytokine response. Analyses of the cytokine production profile of macrophages isolated from knockout mice deficient in Toll-like receptors (TLRs) or in the adapter molecules MyD88 and TRIF revealed a critical role for TLR2, TLR6 and MyD88 in the production of IFNbeta-independent chemokines. MVA induced a marked up-regulation of the expression of RIG-I like receptors (RLR) and the IPS-1 adapter (also known as Cardif, MAVS or VISA). Reduced expression of RIG-I, MDA-5 and IPS-1 by shRNAs indicated that sensing of MVA by RLR and production of IFNbeta and IFNbeta-dependent chemokines was controlled by the MDA-5 and IPS-1 pathway in the macrophage. Crosstalk between TLR2-MyD88 and the NALP3 inflammasome was essential for expression and processing of IL-1beta. Transcription of the Il1b gene was markedly impaired in TLR2(-/-) and MyD88(-/-) BMDM, whereas mature and secreted IL-1beta was massively reduced in NALP3(-/-) BMDMs or in human THP-1 macrophages with reduced expression of NALP3, ASC or caspase-1 by shRNAs. Innate immune sensing of MVA and production of chemokines, IFNbeta and IL-1beta by macrophages is mediated by the TLR2-TLR6-MyD88, MDA-5-IPS-1 and NALP3 inflammasome pathways. Delineation of the host response induced by MVA is critical for improving our understanding of poxvirus antiviral escape mechanisms and for designing new MVA vaccine vectors with improved immunogenicity.
+
+-Animals
+-Carrier Proteins (-genetics; +immunology)
+-Cell Line
+-Cells, Cultured
+-Chick Embryo
+-Cytokines (-biosynthesis; -immunology)
+-DEAD-box RNA Helicases (-genetics; +immunology)
+-Endocytosis
+-Female
+-Genetic Vectors (-genetics; -immunology)
+-Hela Cells
+-Humans
+-Immunity, Innate (+physiology)
+-Mice
+-Mice, Inbred BALB C
+-Mice, Inbred C57BL
+-Myeloid Differentiation Factor 88 (-genetics; +immunology)
+-Signal Transduction
+-Toll-Like Receptors (-genetics; +immunology)
+-Vaccinia virus (-genetics; +immunology)
+
+doi:10.1371/journal.ppat.1000480
+pubmed:19543380
+pmc:PMC2691956
+

@@ -1,0 +1,27 @@
+PLoS ONE
+
+Models for prediction of factor VIII half-life in severe haemophiliacs: distinct approaches for blood group O and non-O patients.
+
+K Fischer, R Pendu, CJ van Schooten, K van Dijk, CV Denis, HM van den Berg, PJ Lenting
+
+BACKGROUND: Von Willebrand factor (VWF) is critical for the in vivo survival of factor VIII (FVIII). Since FVIII half-life correlates with VWF-antigen pre-infusion levels, we hypothesized that VWF levels are useful to predict FVIII half-life. METHODOLOGY: Standardized half-life studies and analysis of pre-infusion VWF and VWF-propeptide levels were performed in a cohort of 38 patients with severe haemophilia A (FVIII <1 IU/ml), aged 15-44 years. Nineteen patients had blood-group O. Using multivariate linear regression-analysis (MVLR-analysis), the association of VWF-antigen, VWF-propeptide, age and body-weight with FVIII half-life was evaluated. PRINCIPAL FINDINGS: FVIII half-life was shorter in blood-group O-patients compared to non-O-patients (11.5+/-2.6 h versus 14.3+/-3.0 h; p = 0.004). VWF-antigen levels correlated with FVIII half-life considerably better in patients with blood-group non-O than O (Pearson-rank = 0.70 and 0.47, respectively). Separate prediction models evolved from MVLR-analysis for blood-group O and non-O patients, based on VWF-antigen and VWF/propeptide ratio. Predicted half-lives deviated less than 3 h of observed half-life in 34/38 patients (89%) or less than 20% in 31/38 patients (82%). CONCLUSION: Our approach may identify patients with shorter FVIII half-lives, and adapt treatment protocols when half-life studies are unavailable. In addition, our data indicate that survival of FVIII is determined by survival of endogenous VWF rather than VWF levels per se.
+
++ABO Blood-Group System
+-Adolescent
+-Adult
+-Animals
+-Cohort Studies
+-Factor VIII (+metabolism)
+-Half-Life
+-Hemophilia A (+blood)
+-Humans
+-Mice
+-Mice, Inbred C57BL
+-Middle Aged
+-Young Adult
+-von Willebrand Factor (-immunology)
+
+doi:10.1371/journal.pone.0006745
+pubmed:19707594
+pmc:PMC2727052
+

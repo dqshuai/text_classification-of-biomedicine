@@ -1,0 +1,26 @@
+Plant Physiol.
+
+Multiple sequence motifs in the rubisco small subunit transit peptide independently contribute to Toc159-dependent import of proteins into chloroplasts.
+
+DW Lee, S Lee, YJ Oh, I Hwang
+
+A large number of plastid proteins encoded by the nuclear genome are posttranslationally imported into plastids by at least two distinct mechanisms: the Toc159-dependent and Toc132/Toc120-dependent pathways. Light-induced photosynthetic proteins are imported through the Toc159-dependent pathway, whereas constitutive housekeeping plastid proteins are imported into plastids through the Toc132/Toc120 pathway. However, it remains unknown which features of the plastid protein transit peptide (TP) determine the import pathway. We have discovered sequence elements of the Rubisco small subunit TP (RbcS-tp) that play a role in determining import through the Toc159-dependent pathway in vivo. We generated multiple hybrid mutants using the RbcS-tp and the E1alpha-subunit of pyruvate dehydrogenase TP (E1alpha-tp) as representative peptides mediating import through the Toc159-dependent and Toc159-independent pathways, respectively. Import experiments using these hybrid mutants in wild-type and ppi2 mutant protoplasts revealed that multiple sequence motifs in the RbcS-tp independently contribute to Toc159-dependent protein import into chloroplasts. One of these motifs is the group of serine residues located in the N-terminal 12-amino acid segment and the other is the C-terminal T5 region of the RbcS-tp ranging from amino acid positions 41 to 49. Based on these findings, we propose that multiple sequence elements in the RbcS-tp contribute independently to Toc159-dependent import of proteins into chloroplasts.
+
++Amino Acid Motifs
+-Arabidopsis Proteins (+metabolism)
+-Chloroplasts (+metabolism)
+-GTP Phosphohydrolases (+metabolism)
+-Gene Expression Regulation, Plant (-physiology)
+-Membrane Proteins (+metabolism)
+-Molecular Sequence Data
+-Mutation
+-Protein Isoforms
+-Protein Transport (+physiology)
+-Pyruvate Dehydrogenase Complex (-genetics; -metabolism)
+-Ribulose-Bisphosphate Carboxylase (-chemistry; +metabolism)
+
+pii:pp.109.140673
+doi:10.1104/pp.109.140673
+pubmed:19571307
+pmc:PMC2735978
+

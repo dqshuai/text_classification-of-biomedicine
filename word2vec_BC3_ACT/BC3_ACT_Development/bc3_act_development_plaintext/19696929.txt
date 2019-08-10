@@ -1,0 +1,28 @@
+PLoS ONE
+
+Chemoattractant signaling between tumor cells and macrophages regulates cancer cell migration, metastasis and neovascularization.
+
+CE Green, T Liu, V Montel, G Hsiao, RD Lester, S Subramaniam, SL Gonias, RL Klemke
+
+Tumor-associated macrophages are known to influence cancer progression by modulation of immune function, angiogenesis, and cell metastasis, however, little is known about the chemokine signaling networks that regulate this process. Utilizing CT26 colon cancer cells and RAW 264.7 macrophages as a model cellular system, we demonstrate that treatment of CT26 cells with RAW 264.7 conditioned medium induces cell migration, invasion and metastasis. Inflammatory gene microarray analysis indicated CT26-stimulated RAW 264.7 macrophages upregulate SDF-1alpha and VEGF, and that these cytokines contribute to CT26 migration in vitro. RAW 264.7 macrophages also showed a robust chemotactic response towards CT26-derived chemokines. In particular, microarray analysis and functional testing revealed CSF-1 as the major chemoattractant for RAW 264.7 macrophages. Interestingly, in the chick CAM model of cancer progression, RAW 264.7 macrophages localized specifically to the tumor periphery where they were found to increase CT26 tumor growth, microvascular density, vascular disruption, and lung metastasis, suggesting these cells home to actively invading areas of the tumor, but not the hypoxic core of the tumor mass. In support of these findings, hypoxic conditions down regulated CSF-1 production in several tumor cell lines and decreased RAW 264.7 macrophage migration in vitro. Together our findings suggest a model where normoxic tumor cells release CSF-1 to recruit macrophages to the tumor periphery where they secrete motility and angiogenic factors that facilitate tumor cell invasion and metastasis.
+
+-Animals
+-Cell Line
++Cell Movement
+-Chemotactic Factors (+metabolism)
+-Chick Embryo
+-Culture Media, Conditioned
+-Gene Expression Profiling
+-Macrophages (-cytology; +metabolism)
+-Mice
++Neoplasm Metastasis
+-Neoplasms, Experimental (-blood supply; +metabolism; -pathology)
++Neovascularization, Pathologic
+-Oligonucleotide Array Sequence Analysis
+-Polymerase Chain Reaction
++Signal Transduction
+
+doi:10.1371/journal.pone.0006713
+pubmed:19696929
+pmc:PMC2725301
+

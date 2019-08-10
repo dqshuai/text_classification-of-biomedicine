@@ -1,0 +1,26 @@
+J. Bacteriol.
+
+Specific interactions between four molybdenum-binding proteins contribute to Mo-dependent gene regulation in Rhodobacter capsulatus.
+
+J Wiethaus, A Müller, M Neumann, S Neumann, S Leimkühler, F Narberhaus, B Masepohl
+
+The phototrophic purple bacterium Rhodobacter capsulatus encodes two transcriptional regulators, MopA and MopB, with partially overlapping and specific functions in molybdate-dependent gene regulation. Both MopA and MopB consist of an N-terminal DNA-binding helix-turn-helix domain and a C-terminal molybdate-binding di-MOP domain. They formed homodimers as apo-proteins and in the molybdate-bound state as shown by yeast two-hybrid (Y2H) studies, glutaraldehyde cross-linking, gel filtration chromatography, and copurification experiments. Y2H studies suggested that both the DNA-binding and the molybdate-binding domains contribute to dimer formation. Analysis of molybdate binding to MopA and MopB revealed a binding stoichiometry of four molybdate oxyanions per homodimer. Specific interaction partners of MopA and MopB were the molybdate transporter ATPase ModC and the molbindin-like Mop protein, respectively. Like other molbindins, the R. capsulatus Mop protein formed hexamers, which were stabilized by binding of six molybdate oxyanions per hexamer. Heteromer formation of MopA and MopB was shown by Y2H studies and copurification experiments. Reporter gene activity of a strictly MopA-dependent mop-lacZ fusion in mutant strains defective for either mopA, mopB, or both suggested that MopB negatively modulates expression of the mop promoter. We propose that depletion of the active MopA homodimer pool by formation of MopA-MopB heteromers might represent a fine-tuning mechanism controlling mop gene expression.
+
+-Bacterial Proteins (-genetics; +metabolism)
+-Carrier Proteins (-genetics; +metabolism)
+-Chromatography, Gel
+-Gene Expression Regulation, Bacterial (-genetics; -physiology)
+-Membrane Transport Proteins (-genetics; -metabolism)
+-Models, Biological
+-Molybdenum (+metabolism)
+-Plasmids
+-Protein Binding
+-Protein Multimerization
+-Rhodobacter capsulatus (-genetics; +metabolism)
+-Two-Hybrid System Techniques
+
+pii:JB.00526-09
+doi:10.1128/JB.00526-09
+pubmed:19502397
+pmc:PMC2725593
+

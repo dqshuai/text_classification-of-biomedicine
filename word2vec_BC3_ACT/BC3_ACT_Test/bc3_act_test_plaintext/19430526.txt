@@ -1,0 +1,37 @@
+PLoS ONE
+
+The necrotic signal induced by mycophenolic acid overcomes apoptosis-resistance in tumor cells.
+
+G Guidicelli, B Chaigne-Delalande, MS Dilhuydy, B Pinson, W Mahfouf, JM Pasquet, FX Mahon, P Pourquier, JF Moreau, P Legembre
+
+BACKGROUND: The amount of inosine monophosphate dehydrogenase (IMPDH), a pivotal enzyme for the biosynthesis of the guanosine tri-phosphate (GTP), is frequently increased in tumor cells. The anti-viral agent ribavirin and the immunosuppressant mycophenolic acid (MPA) are potent inhibitors of IMPDH. We recently showed that IMPDH inhibition led to a necrotic signal requiring the activation of Cdc42. METHODOLOGY/PRINCIPAL FINDINGS: Herein, we strengthened the essential role played by this small GTPase in the necrotic signal by silencing Cdc42 and by the ectopic expression of a constitutive active mutant of Cdc42. Since resistance to apoptosis is an essential step for the tumorigenesis process, we next examined the effect of the MPA-mediated necrotic signal on different tumor cells demonstrating various mechanisms of resistance to apoptosis (Bcl2-, HSP70-, Lyn-, BCR-ABL-overexpressing cells). All tested cells remained sensitive to MPA-mediated necrotic signal. Furthermore, inhibition of IMPDH activity in Chronic Lymphocytic Leukemia cells was significantly more efficient at eliminating malignant cells than apoptotic inducers. CONCLUSIONS/SIGNIFICANCE: These findings indicate that necrosis and apoptosis are split signals that share few if any common hub of signaling. In addition, the necrotic signaling pathway induced by depletion of the cellular amount of GTP/GDP would be of great interest to eliminate apoptotic-resistant tumor cells.
+
+-Apoptosis (+drug effects)
+-Blotting, Western
+-Cell Line
+-Cell Line, Tumor
+-Dose-Response Relationship, Drug
++Drug Resistance, Neoplasm
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Guanosine Diphosphate (-metabolism)
+-Guanosine Triphosphate (-metabolism)
+-Humans
+-IMP Dehydrogenase (-antagonists & inhibitors; -metabolism)
+-Jurkat Cells
+-K562 Cells
+-Leukemia, Lymphocytic, Chronic, B-Cell (-blood; -pathology)
+-Lymphocytes (-metabolism; -pathology; -ultrastructure)
+-Microscopy, Electron
+-Mutation
+-Mycophenolic Acid (+pharmacology)
+-Necrosis (-chemically induced)
+-RNA, Small Interfering (-genetics)
+-Signal Transduction (+drug effects)
+-Transfection
+-Tumor Cells, Cultured
+-cdc42 GTP-Binding Protein (-genetics; -metabolism)
+
+doi:10.1371/journal.pone.0005493
+pubmed:19430526
+pmc:PMC2675064
+

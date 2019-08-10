@@ -1,0 +1,22 @@
+Nucleic Acids Res.
+
+HorA web server to infer homology between proteins using sequence and structural similarity.
+
+BH Kim, H Cheng, NV Grishin
+
+The biological properties of proteins are often gleaned through comparative analysis of evolutionary relatives. Although protein structure similarity search methods detect more distant homologs than purely sequence-based methods, structural resemblance can result from either homology (common ancestry) or analogy (similarity without common ancestry). While many existing web servers detect structural neighbors, they do not explicitly address the question of homology versus analogy. Here, we present a web server named HorA (Homology or Analogy) that identifies likely homologs for a query protein structure. Unlike other servers, HorA combines sequence information from state-of-the-art profile methods with structure information from spatial similarity measures using an advanced computational technique. HorA aims to identify biologically meaningful connections rather than purely 3D-geometric similarities. The HorA method finds approximately 90% of remote homologs defined in the manually curated database SCOP. HorA will be especially useful for finding remote homologs that might be overlooked by other sequence or structural similarity search servers. The HorA server is available at http://prodata.swmed.edu/horaserver.
+
+-EF Hand Motifs
+-Internet
+-Models, Molecular
+-Reproducibility of Results
+-Sequence Homology, Amino Acid
++Software
++Structural Homology, Protein
+-User-Computer Interface
+
+pii:gkp328
+doi:10.1093/nar/gkp328
+pubmed:19417074
+pmc:PMC2703895
+

@@ -1,0 +1,30 @@
+Immunity
+
+A role for lipid bodies in the cross-presentation of phagocytosed antigens by MHC class I in dendritic cells.
+
+L Bougnères, J Helft, S Tiwari, P Vargas, BH Chang, L Chan, L Campisi, G Lauvau, S Hugues, P Kumar, AO Kamphorst, AM Dumenil, M Nussenzweig, JD MacMicking, S Amigorena, P Guermonprez
+
+Dendritic cells (DCs) have the striking ability to cross-present exogenous antigens in association with major histocompatibility complex (MHC) class I to CD8(+) T cells. However, the intracellular pathways underlying cross-presentation remain ill defined. Current models involve cytosolic proteolysis of antigens by the proteasome and peptide import into endoplasmic reticulum (ER) or phagosomal lumen by the transporters associated with antigen processing (TAP1 and TAP2). Here, we show that DCs expressed an ER-resident 47 kDa immune-related GTPase, Igtp (Irgm3). Igtp resides on ER and lipid body (LB) membranes where it binds the LB coat component ADFP. Inactivation of genes encoding for either Igtp or ADFP led to defects in LB formation in DCs and severely impaired cross-presentation of phagocytosed antigens to CD8(+) T cells but not antigen presentation to CD4(+) T cells. We thus define a new role for LB organelles in regulating cross-presentation of exogenous antigens to CD8(+) T lymphocytes in DCs.
+
+-Animals
+-Antigen Presentation (+immunology)
+-CD4-Positive T-Lymphocytes (-immunology)
+-CD8-Positive T-Lymphocytes (-immunology)
++Cross-Priming
+-Dendritic Cells (+immunology)
+-Endoplasmic Reticulum (-immunology)
+-GTP Phosphohydrolases (-genetics; -immunology; -metabolism)
+-Histocompatibility Antigens Class I (+immunology)
+-Lipids (+immunology)
+-Membrane Proteins (-genetics; -immunology; -metabolism)
+-Mice
+-Mice, Knockout
+-Mice, Transgenic
++Phagocytosis
+
+pii:S1074-7613(09)00325-2
+doi:10.1016/j.immuni.2009.06.022
+pubmed:19699172
+mid:NIHMS136509
+pmc:PMC2803012
+

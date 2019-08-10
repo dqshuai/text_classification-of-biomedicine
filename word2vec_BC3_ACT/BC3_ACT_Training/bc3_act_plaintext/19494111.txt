@@ -1,0 +1,31 @@
+J. Biol. Chem.
+
+Runx1 is a co-activator with FOXO3 to mediate transforming growth factor beta (TGFbeta)-induced Bim transcription in hepatic cells.
+
+GM Wildey, PH Howe
+
+Transforming growth factor beta (TGFbeta) regulates essential cellular functions such as cellular proliferation, differentiation, and apoptosis. The Bcl-2 family of proteins has been implicated as mediators of TGFbeta-induced apoptosis. We demonstrated previously that TGFbeta induces the expression of Bim (Bcl-2-interacting mediator of cell death), a member of the BH3-only family of pro-apoptotic Bcl-2 proteins, to induce cell death in B-lymphocytes. Here, we investigated the mechanism of TGFbeta-mediated Bim expression in two hepatocyte cell lines that undergo apoptosis with TGFbeta, AML-12 and Hep3B. We show that TGFbeta induces Bim protein and mRNA levels, and its expression is sufficient to induce cell death. Gene array results revealed that Runx1, a member of the Runx family of transcription factors, was induced by TGFbeta, and this induction was confirmed at the mRNA and protein levels. Interestingly, TGFbeta specifically induced the expression of Runx1 protein from an internal ribosome entry site (IRES)-dependent, cap-independent, mRNA transcript, and its overexpression was sufficient to induce hepatocyte apo pto sis. Deletion and mutation analyses of the murine Bim promoter identified a putative forkhead binding element, at position -174 to -168 from the transcription start site, as the mediator of Runx1 induction. Co-immunoprecipitation, electrophoretic mobility shift assays, and chromatin immunoprecipitation assays demonstrated that Runx1 does not bind directly to the identified forkhead binding element but rather binds the transcriptional regulator FOXO3, which occupies this site. Finally, small interfering RNA knockdown of Runx1 or FOXO3 decreased TGFbeta-induced Bim expression. Our results support a mechanism in which TGFbeta stimulates Bim transcription by up-regulating Runx1 expression, which binds FOXO3, and the two cooperate in the transcriptional induction of Bim.
+
+-Apoptosis
+-Apoptosis Regulatory Proteins (+genetics; -metabolism)
+-Base Sequence
+-Binding Sites
+-Cell Death
+-Cell Line, Tumor
+-Core Binding Factor Alpha 2 Subunit (-genetics; +metabolism)
+-Forkhead Transcription Factors (-analysis; +metabolism)
+-Hepatocytes (+cytology; -metabolism)
+-Humans
+-Membrane Proteins (+genetics; -metabolism)
+-Promoter Regions, Genetic
+-Protein Binding
+-Proto-Oncogene Proteins (+genetics; -metabolism)
+-RNA, Messenger (-genetics)
++Transcriptional Activation
+-Transforming Growth Factor beta (+metabolism)
+
+pii:M109.027201
+doi:10.1074/jbc.M109.027201
+pubmed:19494111
+pmc:PMC2740449
+

@@ -1,0 +1,35 @@
+Cancer Lett.
+
+Transcriptome profiling and network pathway analysis of genes associated with invasive phenotype in oral cancer.
+
+CJ Kang, YJ Chen, CT Liao, HM Wang, JT Chang, CY Lin, LY Lee, TH Wang, TC Yen, CR Shen, IH Chen, CC Chiu, AJ Cheng
+
+The aim of this study was to clarify relevant alterations of gene expression associated with the invasive phenotype of oral cancer. To reduce heterogeneity and to obtain data on genes specifically involved in invasive mechanism, we established a highly invasive ORC subline through in vitro Matrigel invasion method. Affymetrix microarrays were used for transcriptome profiling between parental and the highly invasive subline. Seventy-nine genes were differentially expressed at least 2-fold, including 38 up-regulated and 41 down-regulated. After analyzing the microarray data by MetaCore algorithm, a total of 12 regulatory pathways were found to be associated with invasive phenotype (p<0.001). Two functional pathways were most significant: the cell adhesion through extracellular matrix remodeling (p=4.964e-06), and MHC-class-I mediated antigen presentation (p=9.843e-05). To shed more light on the biological functions of invasiveness, two genes highly over-expressed in the invasive subline, Cyr61 and CD44 were further validated. RNAi knockdown of these two genes led to significant suppression of cell growth (32% and 31%, respectively at day 3), cell migration (45% and 96%, respectively at 24 h), and cell invasion (83% and 87%, respectively at day 3). These results suggested important roles of these genes in regulating invasive phenotype, and demonstrated the confidence of this study design in the search of invasive associated genes. The identified pathways associated with invasion mechanism may be novel targets for manipulation of the cancer behavior with consequences on treatment outcome.
+
+-Antigens, CD44 (-genetics; -physiology)
+-Cell Adhesion (-genetics; -physiology)
+-Cell Line, Tumor (-metabolism; -pathology)
+-Collagen
+-Cysteine-Rich Protein 61 (-antagonists & inhibitors; -genetics; -physiology)
+-Drug Combinations
+-Extracellular Matrix (-physiology; -ultrastructure)
++Gene Expression Profiling
++Gene Expression Regulation, Neoplastic
++Gene Regulatory Networks
+-Humans
+-Laminin
+-Mouth Neoplasms (+genetics; -pathology)
+-Neoplasm Invasiveness (+genetics)
+-Neoplasm Proteins (-antagonists & inhibitors; -genetics; -physiology)
+-Oligonucleotide Array Sequence Analysis
+-Phenotype
+-Proteoglycans
+-RNA Interference
+-RNA, Messenger (-genetics)
+-RNA, Neoplasm (-genetics)
+-RNA, Small Interfering (-pharmacology)
+
+pii:S0304-3835(09)00273-0
+doi:10.1016/j.canlet.2009.04.014
+pubmed:19457608
+

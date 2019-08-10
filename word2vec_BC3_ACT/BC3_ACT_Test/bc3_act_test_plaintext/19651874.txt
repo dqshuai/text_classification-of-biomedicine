@@ -1,0 +1,24 @@
+Nucleic Acids Res.
+
+Editing of HIV-1 RNA by the double-stranded RNA deaminase ADAR1 stimulates viral infection.
+
+M Doria, F Neri, A Gallo, MG Farace, A Michienzi
+
+Adenosine deaminases that act on dsRNA (ADARs) are enzymes that target double-stranded regions of RNA converting adenosines into inosines (A-to-I editing) thus contributing to genome complexity and fine regulation of gene expression. It has been described that a member of the ADAR family, ADAR1, can target viruses and affect their replication process. Here we report evidence showing that ADAR1 stimulates human immuno deficiency virus type 1 (HIV-1) replication by using both editing-dependent and editing-independent mechanisms. We show that over-expression of ADAR1 in HIV-1 producer cells increases viral protein accumulation in an editing-independent manner. Moreover, HIV-1 virions generated in the presence of over-expressed ADAR1 but not an editing-inactive ADAR1 mutant are released more efficiently and display enhanced infectivity, as demonstrated by challenge assays performed with T cell lines and primary CD4(+) T lymphocytes. Finally, we report that ADAR1 associates with HIV-1 RNAs and edits adenosines in the 5' untranslated region (UTR) and the Rev and Tat coding sequence. Overall these results suggest that HIV-1 has evolved mechanisms to take advantage of specific RNA editing activity of the host cell and disclose a stimulatory function of ADAR1 in the spread of HIV-1.
+
+-Adenosine Deaminase (+metabolism)
+-CD4-Positive T-Lymphocytes (-enzymology)
+-Cell Line
+-HIV-1 (+genetics; -metabolism)
+-Human Immunodeficiency Virus Proteins (-metabolism)
+-Humans
+-Jurkat Cells
++RNA Editing
+-RNA, Viral (+metabolism)
+-Virion (-metabolism)
+
+pii:gkp604
+doi:10.1093/nar/gkp604
+pubmed:19651874
+pmc:PMC2761272
+

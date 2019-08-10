@@ -1,0 +1,20 @@
+Nucleic Acids Res.
+
+Kinetic and thermodynamic characterization of single-mismatch discrimination using single-molecule imaging.
+
+A Gunnarsson, P Jönsson, VP Zhdanov, F Höök
+
+A single-molecule detection setup based on total internal reflection fluorescence (TIRF) microscopy has been used to investigate association and dissociation kinetics of unlabeled 30mer DNA strands. Single-molecule sensitivity was accomplished by letting unlabeled DNA target strands mediate the binding of DNA-modified and fluorescently labeled liposomes to a DNA-modified surface. The liposomes, acting as signal enhancer elements, enabled the number of binding events as well as the residence time for high affinity binders (K(d) < 1 nM, k(off) < 0.01 s(-1)) to be collected under equilibrium conditions at low pM concentrations. The mismatch discrimination obtained from the residence time data was shown to be concentration and temperature independent in intervals of 1-100 pM and 23-46 degrees C, respectively. This suggests the method as a robust means for detection of point mutations at low target concentrations in, for example, single nucleotide polymorphism (SNP) analysis.
+
++Base Pair Mismatch
+-DNA (-chemistry)
+-Kinetics
+-Liposomes
++Microscopy, Fluorescence
++Thermodynamics
+
+pii:gkp487
+doi:10.1093/nar/gkp487
+pubmed:19509313
+pmc:PMC2724293
+

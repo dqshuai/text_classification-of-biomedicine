@@ -1,0 +1,26 @@
+J. Biol. Chem.
+
+Gga2 mediates sequential ubiquitin-independent and ubiquitin-dependent steps in the trafficking of ARN1 from the trans-Golgi network to the vacuole.
+
+Y Deng, Y Guo, H Watson, WC Au, M Shakoury-Elizeh, MA Basrai, JS Bonifacino, CC Philpott
+
+In Saccharomyces cerevisiae, ARN1 encodes a transporter for the uptake of ferrichrome, an important nutritional source of iron. In the absence of ferrichrome, Arn1p is sorted directly from the trans-Golgi network (TGN) to the vacuolar lumen via the vacuolar protein-sorting pathway. Arn1p is mis-sorted to the plasma membrane in cells lacking Gga2p, a monomeric clathrin-adaptor protein involved in vesicular transport from the TGN. Although Ggas have been characterized as ubiquitin receptors, we show here that ubiquitin binding by Gga2 was not required for the TGN-to-endosome trafficking of Arn1, but it was required for subsequent sorting of Arn1 into the multivesicular body. In a ubiquitin-binding mutant of Gga2, Arn1p accumulated on the vacuolar membrane in a ubiquitinated form. The yeast epsins Ent3p and Ent4p were also involved in TGN-to-vacuole sorting of Arn1p. Amino-terminal sequences of Arn1p were required for vacuolar protein sorting, as mutation of ubiquitinatable lysine residues resulted in accumulation on the vacuolar membrane, and mutation of either a THN or YGL sequence resulted in mis-sorting to the plasma membrane. These studies suggest that Gga2 is involved in sorting at both the TGN and multivesicular body and that the first step can occur without ubiquitin binding.
+
+-Adaptor Proteins, Vesicular Transport (-chemistry; -genetics; +metabolism)
+-Amino Acid Sequence
+-Membrane Transport Proteins (-chemistry; -genetics; +metabolism)
+-Molecular Sequence Data
+-Protein Binding
+-Protein Transport
+-Saccharomyces cerevisiae (-chemistry; -genetics; +metabolism)
+-Saccharomyces cerevisiae Proteins (-chemistry; -genetics; +metabolism)
+-Sequence Alignment
+-Ubiquitin (+metabolism)
+-Vacuoles (-chemistry; -genetics; +metabolism)
+-trans-Golgi Network (-chemistry; -genetics; +metabolism)
+
+pii:M109.030015
+doi:10.1074/jbc.M109.030015
+pubmed:19574226
+pmc:PMC2749155
+

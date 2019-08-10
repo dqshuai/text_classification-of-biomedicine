@@ -1,0 +1,24 @@
+Biophys. J.
+
+Computer simulations of protein diffusion in compartmentalized cell membranes.
+
+BJ Sung, A Yethiraj
+
+The diffusion of proteins in the cell membrane is investigated using computer simulations of a two-dimensional model. The membrane is assumed to be divided into compartments, with adjacent compartments separated by a barrier of stationary obstacles. Each compartment contains traps represented by stationary attractive disks. Depending on their size, these traps are intended to model either smaller compartments or binding sites. The simulations are intended to model the double-compartment model, which has been used to interpret single molecule experiments in normal rat kidney cells, where five regimes of transport are observed. The simulations show, however, that five regimes are observed only when there is a large separation between the sizes of the traps and large compartments, casting doubt on the double compartment model for the membrane. The diffusive behavior is sensitive to the concentration and size of traps and the strength of the barrier between compartments suggesting that the diffusion of proteins can be effectively used to characterize the structure of the membrane.
+
+-Animals
+-Binding Sites
+-Cell Membrane (+chemistry; +metabolism)
++Computer Simulation
++Diffusion
++Models, Biological
+-Monte Carlo Method
+-Proteins (-chemistry; +metabolism)
+-Rats
+-Time Factors
+
+pii:S0006-3495(09)00978-3
+doi:10.1016/j.bpj.2009.04.060
+pubmed:19619461
+pmc:PMC2711340
+

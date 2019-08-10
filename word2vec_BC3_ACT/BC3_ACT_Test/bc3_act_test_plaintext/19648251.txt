@@ -1,0 +1,23 @@
+J. Bacteriol.
+
+Powerful induction of divergent tgs1-Rv3131 genes in Mycobacterium tuberculosis is mediated by DevR interaction with a high-affinity site and an adjacent cryptic low-affinity site.
+
+S Chauhan, JS Tyagi
+
+DevR activates the transcription of approximately 48 genes in response to hypoxia and other stresses and triggers metabolic downshift and dormancy development in Mycobacterium tuberculosis. tgs1 and Rv3131 encode triacylglycerol synthase and a putative nitroreductase, respectively, and both are members of the DevR regulon. This study aimed to understand how a single putative DevR binding site identified previously could sustain powerful induction of divergent tgs1-Rv3131 genes. DNase I footprinting revealed that phosphorylated DevR in fact binds to two sites symmetrically located at -42.5 and -63.5 bp from transcription start points of both genes. DevR first bound to the high-affinity site, P, and cooperatively recruited another DevR molecule to the secondary low-affinity site, S, to activate tgs1-Rv3131 transcription by approximately 210- and approximately 110-fold, respectively. The presence of a single P site significantly reduced activation of tgs1 expression and abolished Rv3131 activity, reinforcing the requirement of two binding sites for robust expression in both directions. P site inversion abolished tgs1 but not Rv3131 transcription despite DevR occupancy at both sites. The lack of tgs1 expression is most likely due to disruption of its -35 promoter element rather than inversion of the binding site per se. We conclude that (i) an overlap of a DevR binding site and -35 sequence is indispensable for promoter activation, (ii) DevR interaction with two binding sites is obligatory for synergistic activation of tgs1-Rv3131 promoters, and (iii) DevR interaction with binding sites of different affinities offers scope for temporal and differential expression of target genes.
+
+-Bacterial Proteins (+genetics; +metabolism)
+-DNA Footprinting
+-DNA, Intergenic (-genetics)
+-Electrophoretic Mobility Shift Assay
+-Gene Expression Regulation, Bacterial (-genetics; -physiology)
+-Mycobacterium tuberculosis (+genetics; +metabolism)
+-Phosphorylation
+-Protein Binding (-genetics)
+-Transcription, Genetic (-genetics)
+
+pii:JB.00310-09
+doi:10.1128/JB.00310-09
+pubmed:19648251
+pmc:PMC2747894
+

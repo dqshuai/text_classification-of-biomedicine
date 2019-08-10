@@ -1,0 +1,25 @@
+Cell Res.
+
+Genome-wide comparative analysis of type-A Arabidopsis response regulator genes by overexpression studies reveals their diverse roles and regulatory mechanisms in cytokinin signaling.
+
+B Ren, Y Liang, Y Deng, Q Chen, J Zhang, X Yang, J Zuo
+
+Cytokinin is a critical growth regulator for various aspects of plant growth and development. In Arabidopsis, cytokinin signaling is mediated by a two-component system-based phosphorelay that transmits a signal from the receptors, through histidine phosphotransfer proteins, to the downstream response regulators (ARRs). Of these ARRs, type-A ARR genes, whose transcription can be rapidly induced by cytokinin, act as negative regulators of cytokinin signaling. However, because of functional redundancy, the function of type-A ARR genes in plant growth and development is not well understood by analyzing loss-of-function mutants. In this study, we performed a comparative functional study on all ten type-A ARR genes by analyzing transgenic plants overexpressing these ARR genes fused to a MYC epitope tag. Overexpression of ARR genes results in a variety of cytokinin-associated phenotypes. Notably, overexpression of different ARR transgenes causes diverse phenotypes, even between phylogenetically closely-related gene pairs, such as within the ARR3-ARR4 and ARR5-ARR6 pairs. We found that the accumulation of a subset of ARR proteins (ARR3, ARR5, ARR7, ARR16 and ARR17; possibly ARR8 and ARR15) is increased by MG132, a specific proteasomal inhibitor, indicating that stability of these proteins is regulated by proteasomal degradation. Moreover, similar to that of previously characterized ARR5, ARR6 and ARR7, stability of ARR16 and ARR17, possibly including ARR8 and ARR15, is regulated by cytokinin. These results suggest that type-A ARR proteins are regulated by a combinatorial mechanism involving both the cytokinin and proteasome pathways, thereby executing distinctive functions in plant growth and development.
+
+-Arabidopsis (-genetics; -growth & development; +metabolism)
+-Arabidopsis Proteins (+metabolism)
+-Cytokinins (+pharmacology)
+-Dimethyl Sulfoxide (-pharmacology)
+-Genome, Plant
+-Leupeptins (-pharmacology)
+-Phenotype
+-Plant Roots (-growth & development)
+-Plant Shoots (-growth & development)
+-Plants, Genetically Modified
+-Proteasome Endopeptidase Complex (-metabolism)
+-Signal Transduction
+
+pii:cr200988
+doi:10.1038/cr.2009.88
+pubmed:19621034
+

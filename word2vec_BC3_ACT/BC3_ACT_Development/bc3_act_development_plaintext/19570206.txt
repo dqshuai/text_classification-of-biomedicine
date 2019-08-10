@@ -1,0 +1,27 @@
+BMC Genomics
+
+Comprehensive identification of essential Staphylococcus aureus genes using Transposon-Mediated Differential Hybridisation (TMDH).
+
+RR Chaudhuri, AG Allen, PJ Owen, G Shalom, K Stone, M Harrison, TA Burgis, M Lockyer, J Garcia-Lara, SJ Foster, SJ Pleasance, SE Peters, DJ Maskell, IG Charles
+
+BACKGROUND: In recent years there has been an increasing problem with Staphylococcus aureus strains that are resistant to treatment with existing antibiotics. An important starting point for the development of new antimicrobial drugs is the identification of "essential" genes that are important for bacterial survival and growth. RESULTS: We have developed a robust microarray and PCR-based method, Transposon-Mediated Differential Hybridisation (TMDH), that uses novel bioinformatics to identify transposon inserts in genome-wide libraries. Following a microarray-based screen, genes lacking transposon inserts are re-tested using a PCR and sequencing-based approach. We carried out a TMDH analysis of the S. aureus genome using a large random mariner transposon library of around a million mutants, and identified a total of 351 S. aureus genes important for survival and growth in culture. A comparison with the essential gene list experimentally derived for Bacillus subtilis highlighted interesting differences in both pathways and individual genes. CONCLUSION: We have determined the first comprehensive list of S. aureus essential genes. This should act as a useful starting point for the identification of potential targets for novel antimicrobial compounds. The TMDH methodology we have developed is generic and could be applied to identify essential genes in other bacterial pathogens.
+
+-Computational Biology
++DNA Transposable Elements
+-DNA, Bacterial (-genetics)
+-Gene Library
+-Genes, Bacterial
++Genes, Essential
+-Genome, Bacterial
+-Oligonucleotide Array Sequence Analysis (-methods)
+-Oligonucleotide Probes
+-Polymerase Chain Reaction (-methods)
+-Sequence Analysis, DNA (+methods)
+-Software
+-Staphylococcus aureus (-classification; +genetics)
+
+pii:1471-2164-10-291
+doi:10.1186/1471-2164-10-291
+pubmed:19570206
+pmc:PMC2721850
+

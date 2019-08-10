@@ -1,0 +1,19 @@
+PLoS ONE
+
+Integrating functional and diffusion magnetic resonance imaging for analysis of structure-function relationship in the human language network.
+
+VL Morgan, A Mishra, AT Newton, JC Gore, Z Ding
+
+BACKGROUND: The capabilities of magnetic resonance imaging (MRI) to measure structural and functional connectivity in the human brain have motivated growing interest in characterizing the relationship between these measures in the distributed neural networks of the brain. In this study, we attempted an integration of structural and functional analyses of the human language circuits, including Wernicke's (WA), Broca's (BA) and supplementary motor area (SMA), using a combination of blood oxygen level dependent (BOLD) and diffusion tensor MRI. METHODOLOGY/PRINCIPAL FINDINGS: Functional connectivity was measured by low frequency inter-regional correlations of BOLD MRI signals acquired in a resting steady-state, and structural connectivity was measured by using adaptive fiber tracking with diffusion tensor MRI data. The results showed that different language pathways exhibited different structural and functional connectivity, indicating varying levels of inter-dependence in processing across regions. Along the path between BA and SMA, the fibers tracked generally formed a single bundle and the mean radius of the bundle was positively correlated with functional connectivity. However, fractional anisotropy was found not to be correlated with functional connectivity along paths connecting either BA and SMA or BA and WA. CONCLUSIONS/SIGNIFICANCE: These findings suggest that structure-function relations in the human language circuits may involve a number of confounding factors that need to be addressed. Nevertheless, the insights gained from this work offers a useful guidance for continued studies that may provide a non-invasive means to evaluate brain network integrity in vivo for use in diagnosing and determining disease progression and recovery.
+
+-Adult
+-Diffusion Magnetic Resonance Imaging (+methods)
+-Female
+-Humans
++Language
+-Male
+
+doi:10.1371/journal.pone.0006660
+pubmed:19684850
+pmc:PMC2721978
+

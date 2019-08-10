@@ -1,0 +1,25 @@
+EMBO Rep.
+
+Sequoia regulates cell fate decisions in the external sensory organs of adult Drosophila.
+
+HK Andrews, N Giagtzoglou, S Yamamoto, KL Schulze, HJ Bellen
+
+The adult Drosophila external sensory organ (ESO), comprising the hair, socket, neuron, sheath and glia cells, arises through the asymmetric division of sensory organ precursor cells (SOPs). In a mosaic screen designed to identify new components in ESO development, we isolated mutations in sequoia, which encodes a putative zinc-finger transcription factor that has previously been shown to have a role in dendritogenesis. Here, we show that adult clones mutant for seq exhibit a loss of hair cells and a gain of socket cells. We propose that the seq mutant phenotype arises, in part, owing to the loss of several crucial transcription factors known to be important in peripheral nervous system development such as D-Pax2, Prospero and Hamlet. Thus, Sequoia is a new upstream regulator of genes that orchestrates cell fate specification during development of the adult ESO lineage.
+
+-Animals
++Cell Lineage
+-DNA-Binding Proteins (+metabolism)
+-Drosophila Proteins (+metabolism)
+-Drosophila melanogaster (+cytology; +metabolism)
+-Mutation (-genetics)
+-Nerve Tissue Proteins (+metabolism)
+-Phenotype
+-Receptors, Notch (-metabolism)
+-Sense Organs (+cytology; +metabolism)
+-Signal Transduction
+
+pii:embor200966
+doi:10.1038/embor.2009.66
+pubmed:19444309
+pmc:PMC2711842
+

@@ -1,0 +1,26 @@
+PLoS ONE
+
+3D model of lamprey estrogen receptor with estradiol and 15alpha-hydroxy-estradiol.
+
+ME Baker, DJ Chang, C Chandsawangbhuwana
+
+BACKGROUND: Lamprey, basal vertebrate, is an important model system for understanding early events in vertebrate evolution. Lamprey contains orthologs of the estrogen receptor [ER], progesterone receptor and corticoid receptor. A perplexing property of lamprey is that 15alpha-hydroxy-steroids are active steroids. For example, 15alpha-hydroxy-estradiol [15alpha-OH-E2] is the estrogen, instead of estradiol [E2]. To investigate how 15alpha-OH-E2 binds lamprey ER, we constructed a 3D model of the lamprey ER with E2 and 15alpha-OH-E2. METHODOLOGY: We used the 3D structure of human ERalpha as a template to construct a 3D model of lamprey ER. E2 and 15alpha-OH-E2 were inserted into the 3D model of lamprey ER and 15alpha-OH-E2 was inserted into human ERalpha. Then the each steroid-protein complex was refined using Discover 3 from Insight II software. To determine if lamprey ER had some regions that were unique among vertebrate ERs, we used the ligand-binding domain of lamprey ER as a query for a BLAST search of GenBank. PRINCIPAL FINDINGS: Our 3D model of lamprey ER with 15alpha-OH-E2 shows that Sdelta on Met-409 can form a hydrogen bond with the 15alpha-hydroxyl on 15alpha-OH-E2. In human ERalpha, the corresponding residue Ile-424 has a van der Waals contact with 15alpha-OH-E2. BLAST analysis of GenBank indicates that among vertebrate ERs, only lamprey ER contains a methionine at this position. Thus, the contact between Sdelta on Met-409 and 15alpha-OH-E2 is unique. Interestingly, BLAST finds that five New World monkeys and a sturgeon contain a valine instead of isoleucine. SIGNIFICANCE: In addition to shedding light on the structure of the ER in a basal vertebrate, our 3D model of lamprey ER should prove useful in virtual screening of chemical libraries to identify compounds for controlling reproduction in sea lamprey, an environmental pest in Lake Michigan.
+
+-Amino Acid Sequence
+-Animals
+-Estradiol (+analogs & derivatives; +chemistry)
+-Evolution, Molecular
+-Humans
+-Lampreys
+-Models, Chemical
+-Molecular Conformation
+-Molecular Sequence Data
+-Protein Conformation
+-Protein Structure, Tertiary
+-Receptors, Estrogen (+chemistry)
+-Sequence Homology, Amino Acid
+
+doi:10.1371/journal.pone.0006038
+pubmed:19557178
+pmc:PMC2698217
+

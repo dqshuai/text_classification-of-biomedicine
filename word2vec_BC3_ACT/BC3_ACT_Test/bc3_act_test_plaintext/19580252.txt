@@ -1,0 +1,29 @@
+Biochemistry
+
+Mechanism of ligand-induced folding of a natively unfolded helixless variant of rabbit I-BABP.
+
+AM Rea, V Thurston, MS Searle
+
+Substitution of the helix-turn-helix capping motif (residues 9-35) of rabbit I-BABP with a flexible Gly-Gly-Ser-Gly linker results in the loss of stabilizing hydrophobic contacts and renders the beta-clamshell structure of this steroidal bile acid transport protein unfolded. However, in the presence of a bile acid ligand, we observe strong coupling between binding and folding, resulting in an enthalpy-driven high-affinity interaction (K(A) approximately 4 x 10(5) M(-1)) that "rescues" the native state. We investigate the mechanism of induced folding using fluorescence stopped-flow kinetic measurements to distinguish between conformational selection and induced-fit models. We observe both ligand-dependent and -independent kinetic phases which, together with their relative amplitudes, we attribute to an induced-fit "fly casting" type of model in which transient encounter complexes between the ligand and the extended polypeptide chain may act as nucleation sites for folding. An initial fast ligand-dependent kinetic process appears to be consistent with formation of a hydrophobically collapsed intermediate state which slowly rearranges to a nativelike beta-clamshell structure. We show that the intermediate forms at a rate 1000 times slower than the rate of ligand association with wild-type I-BABP, reflecting the large configurational entropic barrier to the coupled binding and folding steps of Deltaalpha-I-BABP. We have provided mechanistic insights into how natively disordered states, now commonly identified in biology, may fold on binding a target substrate or ligand.
+
+-Animals
+-Fatty Acid-Binding Proteins (+chemistry; -genetics; +metabolism)
+-Gastrointestinal Hormones (+chemistry; -genetics; +metabolism)
++Genetic Variation
+-Helix-Turn-Helix Motifs (+genetics)
+-Hydrophobicity
+-Kinetics
+-Ligands
+-Models, Molecular
+-Peptides (-chemistry; -genetics; -metabolism)
+-Point Mutation
+-Protein Binding (-genetics)
++Protein Folding
+-Protein Stability
+-Protein Structure, Secondary (+genetics)
+-Rabbits
+-Structural Homology, Protein
+
+doi:10.1021/bi900805s
+pubmed:19580252
+

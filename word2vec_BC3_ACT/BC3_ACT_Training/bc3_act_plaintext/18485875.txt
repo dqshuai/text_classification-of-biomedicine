@@ -1,0 +1,35 @@
+Cell
+
+Granzyme A cleaves a mitochondrial complex I protein to initiate caspase-independent cell death.
+
+D Martinvalet, DM Dykxhoorn, R Ferrini, J Lieberman
+
+The killer lymphocyte protease granzyme A (GzmA) triggers caspase-independent target cell death with morphological features of apoptosis. We previously showed that GzmA acts directly on mitochondria to generate reactive oxygen species (ROS) and disrupt the transmembrane potential (DeltaPsi(m)) but does not permeabilize the mitochondrial outer membrane. Mitochondrial damage is critical to GzmA-induced cell death since cells treated with superoxide scavengers are resistant to GzmA. Here we find that GzmA accesses the mitochondrial matrix to cleave the complex I protein NDUFS3, an iron-sulfur subunit of the NADH:ubiquinone oxidoreductase complex I, after Lys56 to interfere with NADH oxidation and generate superoxide anions. Target cells expressing a cleavage site mutant of NDUFS3 are resistant to GzmA-mediated cell death but remain sensitive to GzmB.
+
+-Animals
++Cell Death (-drug effects)
+-Cell-Free System
+-Granzymes (-genetics; +metabolism)
+-HSP70 Heat-Shock Proteins (-metabolism)
+-HSP90 Heat-Shock Proteins (-metabolism)
+-Hela Cells
+-Humans
+-Liver (-cytology)
+-Membrane Potential, Mitochondrial
+-Mice
+-Mitochondria (+chemistry; +metabolism)
+-NADH Dehydrogenase (-metabolism)
+-Oxidoreductases (-metabolism)
+-Protein Transport
+-Reactive Oxygen Species (-metabolism)
+-Recombinant Proteins (-metabolism)
+-Rotenone (-pharmacology)
+-T-Lymphocytes, Cytotoxic (-enzymology)
+-Uncoupling Agents (-pharmacology)
+
+pii:S0092-8674(08)00461-3
+doi:10.1016/j.cell.2008.03.032
+pubmed:18485875
+mid:NIHMS183223
+pmc:PMC2840390
+

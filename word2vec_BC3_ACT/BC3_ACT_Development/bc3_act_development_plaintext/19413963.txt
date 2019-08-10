@@ -1,0 +1,34 @@
+Biophys. J.
+
+Single-channel current through nicotinic receptor produced by closure of binding site C-loop.
+
+HL Wang, R Toghraee, D Papke, XL Cheng, JA McCammon, U Ravaioli, SM Sine
+
+We investigated the initial coupling of agonist binding to channel gating of the nicotinic acetylcholine receptor using targeted molecular-dynamics (TMD) simulation. After TMD simulation to accelerate closure of the C-loops at the agonist binding sites, the region of the pore that passes through the cell membrane expands. To determine whether the structural changes in the pore result in ion conduction, we used a coarse-grained ion conduction simulator, Biology Boltzmann transport Monte Carlo, and applied it to two structural frames taken before and after TMD simulation. The structural model before TMD simulation represents the channel in the proposed "resting" state, whereas the model after TMD simulation represents the channel in the proposed "active" state. Under external voltage biases, the channel in the "active" state was permeable to cations. Our simulated ion conductance approaches that obtained experimentally and recapitulates several functional properties characteristic of the nicotinic acetylcholine receptor. Thus, closure of the C-loop triggers a structural change in the channel sufficient to account for the open channel current. This approach of applying Biology Boltzmann transport Monte Carlo simulation can be used to further investigate the binding to gating transduction mechanism and the structural bases for ion selection and translocation.
+
+-Animals
+-Binding Sites
+-Calcium (-metabolism)
+-Cell Line
+-Chlorides (-metabolism)
+-Computer Simulation
+-Electric Conductivity
+-Humans
+-Magnesium (-metabolism)
+-Membrane Potentials (-physiology)
++Models, Molecular
+-Monte Carlo Method
+-Nicotinic Agonists (-metabolism)
+-Potassium (-metabolism)
++Protein Conformation
+-Receptors, Nicotinic (+chemistry; +metabolism)
+-Sodium (-metabolism)
+-Thermodynamics
+-Torpedo
+-Water (-metabolism)
+
+pii:S0006-3495(09)00573-6
+doi:10.1016/j.bpj.2009.02.020
+pubmed:19413963
+pmc:PMC2711404
+

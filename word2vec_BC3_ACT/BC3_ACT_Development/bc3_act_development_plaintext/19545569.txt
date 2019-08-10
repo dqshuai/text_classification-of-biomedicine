@@ -1,0 +1,26 @@
+FEBS Lett.
+
+Characterisation of mutations in GroES that allow GroEL to function as a single ring.
+
+H Liu, E Kovács, PA Lund
+
+The chaperonin GroEL contains two seven-subunit rings, and allosteric signals between them are required to complete the GroEL reaction cycle. For this reason SR1, a mutant of GroEL that forms only single rings, cannot function as a chaperone. Mutations in SR1 that restore chaperone function weaken its interaction with the cochaperonin GroES. We predicted that GroES mutants with reduced affinity for GroEL would also restore function to SR1. To test this, we mutated residues in GroES in and near its contact site with GroEL. Nearly half of the mutants showed partial function with SR1. Two mutants were confirmed to have reduced affinity for GroEL. Intriguingly, some GroES mutants were able to function with active single ring mutants of GroEL.
+
+-Amino Acid Sequence
+-Animals
+-Chaperonin 10 (+chemistry; +genetics; -metabolism)
+-Chaperonin 60 (+chemistry; +genetics; -metabolism)
+-Escherichia coli (-genetics; -metabolism)
+-Escherichia coli Proteins (-chemistry; -genetics; -metabolism)
+-Genetic Complementation Test
+-Humans
+-Models, Molecular
+-Molecular Sequence Data
++Mutation
+-Protein Conformation
+-Protein Subunits (-chemistry; -genetics; -metabolism)
+
+pii:S0014-5793(09)00477-3
+doi:10.1016/j.febslet.2009.06.027
+pubmed:19545569
+

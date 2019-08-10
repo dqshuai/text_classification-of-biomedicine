@@ -1,0 +1,26 @@
+J. Am. Chem. Soc.
+
+Gyromagnetic imaging: dynamic optical contrast using gold nanostars with magnetic cores.
+
+Q Wei, HM Song, AP Leonov, JA Hale, D Oh, QK Ong, K Ritchie, A Wei
+
+Plasmon-resonant nanoparticles with optical scattering in the near-infrared (NIR) are valuable contrast agents for biophotonic imaging and may be detected at the single-particle limit against a dark background, but their contrast is often limited in environments with high noise. Here we consider gyromagnetic imaging as a dynamic mode of optical contrast, using gold nanostars with superparamagnetic cores. The nanostars exhibit polarization-sensitive NIR scattering and can produce a frequency-modulated signal in response to a rotating magnetic field gradient. This periodic "twinkling" can be converted into Fourier-domain images with a dramatic reduction in background. We demonstrate gyromagnetic imaging of nanostars inside of tumor cells, using broadband excitation: while their time-domain signals are obscured by incoherent scattering, their Fourier-domain signals can be clearly resolved in less than a second. The gyromagnetically active nanostars do not cause a loss in viability, and can even have a mild stimulatory effect on cell growth.
+
+-Biological Transport
+-Gold (+chemistry; -metabolism)
+-Humans
+-KB Cells
+-Luminescence
++Magnetics
+-Metal Nanoparticles (+chemistry)
+-Motion
++Optical Processes
+-Rotation
+-Time Factors
+-Tomography, Optical Coherence
+
+doi:10.1021/ja901562j
+pubmed:19435348
+mid:NIHMS117158
+pmc:PMC2735876
+

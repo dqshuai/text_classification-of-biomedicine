@@ -1,0 +1,26 @@
+PLoS ONE
+
+Multiple aspects of ATP-dependent nucleosome translocation by RSC and Mi-2 are directed by the underlying DNA sequence.
+
+JJ van Vugt, M de Jager, M Murawska, A Brehm, J van Noort, C Logie
+
+BACKGROUND: Chromosome structure, DNA metabolic processes and cell type identity can all be affected by changing the positions of nucleosomes along chromosomal DNA, a reaction that is catalysed by SNF2-type ATP-driven chromatin remodelers. Recently it was suggested that in vivo, more than 50% of the nucleosome positions can be predicted simply by DNA sequence, especially within promoter regions. This seemingly contrasts with remodeler induced nucleosome mobility. The ability of remodeling enzymes to mobilise nucleosomes over short DNA distances is well documented. However, the nucleosome translocation processivity along DNA remains elusive. Furthermore, it is unknown what determines the initial direction of movement and how new nucleosome positions are adopted. METHODOLOGY/PRINCIPAL FINDINGS: We have used AFM imaging and high resolution PAGE of mononucleosomes on 600 and 2500 bp DNA molecules to analyze ATP-dependent nucleosome repositioning by native and recombinant SNF2-type enzymes. We report that the underlying DNA sequence can control the initial direction of translocation, translocation distance, as well as the new positions adopted by nucleosomes upon enzymatic mobilization. Within a strong nucleosomal positioning sequence both recombinant Drosophila Mi-2 (CHD-type) and native RSC from yeast (SWI/SNF-type) repositioned the nucleosome at 10 bp intervals, which are intrinsic to the positioning sequence. Furthermore, RSC-catalyzed nucleosome translocation was noticeably more efficient when beyond the influence of this sequence. Interestingly, under limiting ATP conditions RSC preferred to position the nucleosome with 20 bp intervals within the positioning sequence, suggesting that native RSC preferentially translocates nucleosomes with 15 to 25 bp DNA steps. CONCLUSIONS/SIGNIFICANCE: Nucleosome repositioning thus appears to be influenced by both remodeler intrinsic and DNA sequence specific properties that interplay to define ATPase-catalyzed repositioning. Here we propose a successive three-step framework consisting of initiation, translocation and release steps to describe SNF2-type enzyme mediated nucleosome translocation along DNA. This conceptual framework helps resolve the apparent paradox between the high abundance of ATP-dependent remodelers per nucleus and the relative success of sequence-based predictions of nucleosome positioning in vivo.
+
+-Adenosine Triphosphatases (+metabolism)
+-Adenosine Triphosphate (+metabolism)
+-Animals
+-Autoantigens (+metabolism)
++Base Pairing
+-Base Sequence
+-Biocatalysis
+-Biological Transport
+-Drosophila Proteins (+metabolism)
+-Fungal Proteins (+metabolism)
+-Microscopy, Atomic Force
+-Monte Carlo Method
+-Nucleosomes (+metabolism)
+
+doi:10.1371/journal.pone.0006345
+pubmed:19626125
+pmc:PMC2710519
+

@@ -1,0 +1,24 @@
+PLoS ONE
+
+Structure-based phylogeny as a diagnostic for functional characterization of proteins with a cupin fold.
+
+G Agarwal, M Rajavel, B Gopal, N Srinivasan
+
+BACKGROUND: The members of cupin superfamily exhibit large variations in their sequences, functions, organization of domains, quaternary associations and the nature of bound metal ion, despite having a conserved beta-barrel structural scaffold. Here, an attempt has been made to understand structure-function relationships among the members of this diverse superfamily and identify the principles governing functional diversity. The cupin superfamily also contains proteins for which the structures are available through world-wide structural genomics initiatives but characterized as "hypothetical". We have explored the feasibility of obtaining clues to functions of such proteins by means of comparative analysis with cupins of known structure and function. METHODOLOGY/PRINCIPAL FINDINGS: A 3-D structure-based phylogenetic approach was undertaken. Interestingly, a dendrogram generated solely on the basis of structural dissimilarity measure at the level of domain folds was found to cluster functionally similar members. This clustering also reflects an independent evolution of the two domains in bicupins. Close examination of structural superposition of members across various functional clusters reveals structural variations in regions that not only form the active site pocket but are also involved in interaction with another domain in the same polypeptide or in the oligomer. CONCLUSIONS/SIGNIFICANCE: Structure-based phylogeny of cupins can influence identification of functions of proteins of yet unknown function with cupin fold. This approach can be extended to other proteins with a common fold that show high evolutionary divergence. This approach is expected to have an influence on the function annotation in structural genomics initiatives.
+
+-Amino Acid Sequence
+-Catalytic Domain
+-Evolution, Molecular
+-Genomics
+-Models, Molecular
+-Molecular Sequence Data
++Phylogeny
+-Protein Structure, Quaternary
++Protein Structure, Secondary
+-Proteins (+chemistry; +metabolism)
+-Sequence Alignment
+
+doi:10.1371/journal.pone.0005736
+pubmed:19478949
+pmc:PMC2684688
+

@@ -1,0 +1,22 @@
+BMC Genomics
+
+BioQuali Cytoscape plugin: analysing the global consistency of regulatory networks.
+
+C Guziolowski, A Bourdé, F Moreews, A Siegel
+
+BACKGROUND: The method most commonly used to analyse regulatory networks is the in silico simulation of fluctuations in network components when a network is perturbed. Nevertheless, confronting experimental data with a regulatory network entails many difficulties, such as the incomplete state-of-art of regulatory knowledge, the large-scale of regulatory models, heterogeneity in the available data and the sometimes violated assumption that mRNA expression is correlated to protein activity. RESULTS: We have developed a plugin for the Cytoscape environment, designed to facilitate automatic reasoning on regulatory networks. The BioQuali plugin enhances user-friendly conversions of regulatory networks (including reference databases) into signed directed graphs. BioQuali performs automatic global reasoning in order to decide which products in the network need to be up or down regulated (active or inactive) to globally explain experimental data. It highlights incomplete regions in the network, meaning that gene expression levels do not globally correlate with existing knowledge on regulation carried by the topology of the network. CONCLUSION: The BioQuali plugin facilitates in silico exploration of large-scale regulatory networks by combining the user-friendly tools of the Cytoscape environment with high-performance automatic reasoning algorithms. As a main feature, the plugin guides further investigation regarding a system by highlighting regions in the network that are not accurately described and merit specific study.
+
++Algorithms
++Computational Biology
+-Escherichia coli (-genetics)
+-Fatty Acids (-genetics; -metabolism)
++Gene Regulatory Networks
+-Models, Biological
++Software
+-Transcription, Genetic
+
+pii:1471-2164-10-244
+doi:10.1186/1471-2164-10-244
+pubmed:19470162
+pmc:PMC2693143
+

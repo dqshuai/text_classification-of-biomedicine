@@ -1,0 +1,22 @@
+EMBO J.
+
+Phosphorylation of Rga2, a Cdc42 GAP, by CDK/Hgc1 is crucial for Candida albicans hyphal growth.
+
+XD Zheng, RT Lee, YM Wang, QS Lin, Y Wang
+
+Cyclin-dependent kinases (CDKs) control yeast morphogenesis, although how they regulate the polarity machinery remains unclear. The dimorphic fungus Candida albicans uses Cdc28/Hgc1, a CDK/cyclin complex, to promote persistent actin polarization for hyphal growth. Here, we report that Rga2, a GTPase-activating protein (GAP) of the central polarity regulator Cdc42, undergoes Hgc1-dependent hyperphosphorylation. Using the analog-sensitive Cdc28as mutant, we confirmed that Cdc28 controls Rga2 phosphorylation in vitro and in vivo. Deleting RGA2 produced elongated yeast cells without apparent effect on hyphal morphogenesis. However, deleting it or inactivating its GAP activity restored hyphal growth in hgc1Delta mutants, suggesting that Rga2 represses hyphal development and Cdc28/Hgc1 inactivates it upon hyphal induction. We provide evidence that Cdc28/Hgc1 may act to prevent Rga2 from localizing to hyphal tips, leading to localized Cdc42 activation for hyphal extension. Rga2 also undergoes transient Cdc28-dependent hyperphosphorylation at bud emergence, suggesting that regulating a GAP(s) of Cdc42 by CDKs may play an important role in governing different forms of polarized morphogenesis in yeast. This study reveals a direct molecular link between CDKs and the polarity machinery.
+
+-CDC2-CDC28 Kinases (-genetics; +metabolism)
+-Candida albicans (-cytology; +physiology)
+-Fungal Proteins (-genetics; +metabolism)
+-GTPase-Activating Proteins (-genetics; +metabolism)
+-Hyphae (+growth & development)
+-Phosphorylation
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-cdc42 GTP-Binding Protein (-genetics; +metabolism)
+
+pii:7601814
+doi:10.1038/sj.emboj.7601814
+pubmed:17673907
+pmc:PMC1952229
+

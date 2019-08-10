@@ -1,0 +1,31 @@
+Biochemistry
+
+The partial substrate dethiaacetyl-coenzyme A mimics all critical carbon acid reactions in the condensation half-reaction catalyzed by Thermoplasma acidophilum citrate synthase.
+
+LC Kurz, CZ Constantine, H Jiang, TJ Kappock
+
+Citrate synthase (CS) performs two half-reactions: the mechanistically intriguing condensation of acetyl-CoA with oxaloacetate (OAA) to form citryl-CoA and the subsequent, slower hydrolysis of citryl-CoA that generally dominates steady-state kinetics. The condensation reaction requires the abstraction of a proton from the methyl carbon of acetyl-CoA to generate a reactive enolate intermediate. The carbanion of that intermediate then attacks the OAA carbonyl to furnish citryl-CoA, the initial product. Using stopped-flow and steady-state fluorescence methods, kinetic substrate isotope effects, and mutagenesis of active site residues, we show that all of the processes that occur in the condensation half-reaction performed by Thermoplasma acidophilum citrate synthase (TpCS) with the natural thioester substrate, acetyl-CoA, also occur with the ketone inhibitor dethiaacetyl-CoA. Free energy profiles demonstrate that the nonhydrolyzable product of the condensation reaction, dethiacitryl-CoA, forms a particularly stable complex with TpCS but not pig heart CS.
+
+-Acetyl Coenzyme A (+chemistry; -genetics; +metabolism)
+-Animals
+-Aspartic Acid (-genetics)
+-Catalysis
+-Catalytic Domain (-genetics)
+-Citrate (si)-Synthase (+chemistry; -genetics; +metabolism)
+-Crystallography, X-Ray
+-Esters
+-Hydrogen-Ion Concentration
+-Hydrolysis
+-Ketones (-antagonists & inhibitors)
+-Kinetics
++Molecular Mimicry (-genetics)
+-Substrate Specificity (-genetics)
+-Swine
+-Thermoplasma (+enzymology; -genetics)
+-Tryptophan (-genetics)
+
+doi:10.1021/bi9006447
+pubmed:19645419
+mid:NIHMS134674
+pmc:PMC2765034
+

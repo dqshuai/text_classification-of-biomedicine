@@ -1,0 +1,30 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Next generation of adeno-associated virus 2 vectors: point mutations in tyrosines lead to high-efficiency transduction at lower doses.
+
+L Zhong, B Li, CS Mah, L Govindasamy, M Agbandje-McKenna, M Cooper, RW Herzog, I Zolotukhin, KH Warrington, KA Weigel-Van Aken, JA Hobbs, S Zolotukhin, N Muzyczka, A Srivastava
+
+Recombinant adeno-associated virus 2 (AAV2) vectors are in use in several Phase I/II clinical trials, but relatively large vector doses are needed to achieve therapeutic benefits. Large vector doses also trigger an immune response as a significant fraction of the vectors fails to traffic efficiently to the nucleus and is targeted for degradation by the host cell proteasome machinery. We have reported that epidermal growth factor receptor protein tyrosine kinase (EGFR-PTK) signaling negatively affects transduction by AAV2 vectors by impairing nuclear transport of the vectors. We have also observed that EGFR-PTK can phosphorylate AAV2 capsids at tyrosine residues. Tyrosine-phosphorylated AAV2 vectors enter cells efficiently but fail to transduce effectively, in part because of ubiquitination of AAV capsids followed by proteasome-mediated degradation. We reasoned that mutations of the surface-exposed tyrosine residues might allow the vectors to evade phosphorylation and subsequent ubiquitination and, thus, prevent proteasome-mediated degradation. Here, we document that site-directed mutagenesis of surface-exposed tyrosine residues leads to production of vectors that transduce HeLa cells approximately 10-fold more efficiently in vitro and murine hepatocytes nearly 30-fold more efficiently in vivo at a log lower vector dose. Therapeutic levels of human Factor IX (F.IX) are also produced at an approximately 10-fold reduced vector dose. The increased transduction efficiency of tyrosine-mutant vectors is due to lack of capsid ubiquitination and improved intracellular trafficking to the nucleus. These studies have led to the development of AAV vectors that are capable of high-efficiency transduction at lower doses, which has important implications in their use in human gene therapy.
+
+-Animals
+-Capsid (-metabolism)
+-Cell Nucleus (-metabolism)
+-Dependovirus (+genetics)
+-Gene Therapy
++Genetic Vectors
+-Hela Cells
+-Hepatocytes (-metabolism)
+-Humans
+-Mice
+-Mice, Inbred C57BL
+-Phosphorylation
++Point Mutation
++Transduction, Genetic
+-Tyrosine (+genetics)
+-Ubiquitination
+
+pii:0802866105
+doi:10.1073/pnas.0802866105
+pubmed:18511559
+pmc:PMC2402387
+

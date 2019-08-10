@@ -1,0 +1,33 @@
+PLoS ONE
+
+TRAF6 establishes innate immune responses by activating NF-kappaB and IRF7 upon sensing cytosolic viral RNA and DNA.
+
+H Konno, T Yamamoto, K Yamazaki, J Gohda, T Akiyama, K Semba, H Goto, A Kato, T Yujiri, T Imai, Y Kawaguchi, B Su, O Takeuchi, S Akira, Y Tsunetsugu-Yokota, J Inoue
+
+BACKGROUND: In response to viral infection, the innate immune system recognizes viral nucleic acids and then induces production of proinflammatory cytokines and type I interferons (IFNs). Toll-like receptor 7 (TLR7) and TLR9 detect viral RNA and DNA, respectively, in endosomal compartments, leading to the activation of nuclear factor kappaB (NF-kappaB) and IFN regulatory factors (IRFs) in plasmacytoid dendritic cells. During such TLR signaling, TNF receptor-associated factor 6 (TRAF6) is essential for the activation of NF-kappaB and the production of type I IFN. In contrast, RIG-like helicases (RLHs), cytosolic RNA sensors, are indispensable for antiviral responses in conventional dendritic cells, macrophages, and fibroblasts. However, the contribution of TRAF6 to the detection of cytosolic viral nucleic acids has been controversial, and the involvement of TRAF6 in IRF activation has not been adequately addressed. PRINCIPAL FINDINGS: Here we first show that TRAF6 plays a critical role in RLH signaling. The absence of TRAF6 resulted in enhanced viral replication and a significant reduction in the production of IL-6 and type I IFNs after infection with RNA virus. Activation of NF-kappaB and IRF7, but not that of IRF3, was significantly impaired during RLH signaling in the absence of TRAF6. TGFbeta-activated kinase 1 (TAK1) and MEKK3, whose activation by TRAF6 during TLR signaling is involved in NF-kappaB activation, were not essential for RLH-mediated NF-kappaB activation. We also demonstrate that TRAF6-deficiency impaired cytosolic DNA-induced antiviral responses, and this impairment was due to defective activation of NF-kappaB and IRF7. CONCLUSIONS/SIGNIFICANCE: Thus, TRAF6 mediates antiviral responses triggered by cytosolic viral DNA and RNA in a way that differs from that associated with TLR signaling. Given its essential role in signaling by various receptors involved in the acquired immune system, TRAF6 represents a key molecule in innate and antigen-specific immune responses against viral infection.
+
+-Adaptor Proteins, Signal Transducing (-metabolism)
+-Animals
+-Cell Line
+-Cytosol (-enzymology; -immunology; +virology)
+-DEAD-box RNA Helicases (-metabolism)
+-DNA, Viral (+immunology)
+-Humans
+-Immunity, Innate (+immunology)
+-Interferon Regulatory Factor-3 (-metabolism)
+-Interferon Regulatory Factor-7 (+metabolism)
+-MAP Kinase Kinase Kinase 3 (-metabolism)
+-MAP Kinase Kinase Kinases (-metabolism)
+-Mice
+-NF-kappa B (+metabolism)
+-Protein Binding
+-Protein-Serine-Threonine Kinases (-metabolism)
+-RNA Viruses (-isolation & purification)
+-RNA, Viral (+immunology)
+-Signal Transduction
+-TNF Receptor-Associated Factor 6 (+metabolism)
+
+doi:10.1371/journal.pone.0005674
+pubmed:19479062
+pmc:PMC2682567
+

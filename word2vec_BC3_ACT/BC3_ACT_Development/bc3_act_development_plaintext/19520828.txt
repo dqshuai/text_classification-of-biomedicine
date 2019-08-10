@@ -1,0 +1,27 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+A common toxin fold mediates microbial attack and plant defense.
+
+C Ottmann, B Luberacki, I Küfner, W Koch, F Brunner, M Weyand, L Mattinen, M Pirhonen, G Anderluh, HU Seitz, T Nürnberger, C Oecking
+
+Many plant pathogens secrete toxins that enhance microbial virulence by killing host cells. Usually, these toxins are produced by particular microbial taxa, such as bacteria or fungi. In contrast, many bacterial, fungal and oomycete species produce necrosis and ethylene-inducing peptide 1 (Nep1)-like proteins (NLPs) that trigger leaf necrosis and immunity-associated responses in various plants. We have determined the crystal structure of an NLP from the phytopathogenic oomycete Pythium aphanidermatum to 1.35A resolution. The protein fold exhibits structural similarities to cytolytic toxins produced by marine organisms (actinoporins). Computational modeling of the 3-dimensional structure of NLPs from another oomycete, Phytophthora parasitica, and from the phytopathogenic bacterium, Pectobacterium carotovorum, revealed a high extent of fold conservation. Expression of the 2 oomycete NLPs in an nlp-deficient P. carotovorum strain restored bacterial virulence, suggesting that NLPs of prokaryotic and eukaryotic origins are orthologous proteins. NLP mutant protein analyses revealed that identical structural properties were required to cause plasma membrane permeabilization and cytolysis in plant cells, as well as to restore bacterial virulence. In sum, NLPs are conserved virulence factors whose taxonomic distribution is exceptional for microbial phytotoxins, and that contribute to host infection by plasma membrane destruction and cytolysis. We further show that NLP-mediated phytotoxicity and plant defense gene expression share identical fold requirements, suggesting that toxin-mediated interference with host integrity triggers plant immunity-associated responses. Phytotoxin-induced cellular damage-associated activation of plant defenses is reminiscent of microbial toxin-induced inflammasome activation in vertebrates and may thus constitute another conserved element in animal and plant innate immunity.
+
+-Algal Proteins (+chemistry; -genetics)
+-Computer Simulation
+-Crystallography, X-Ray
+-Models, Chemical
+-Pectobacterium (-pathogenicity)
+-Phytophthora (-pathogenicity)
+-Plant Diseases (-immunology; +microbiology)
+-Plants (-immunology; +microbiology)
+-Protein Conformation
+-Protein Folding
+-Pythium (+pathogenicity)
+-Toxins, Biological (+chemistry; -genetics)
+-Virulence
+
+pii:0902362106
+doi:10.1073/pnas.0902362106
+pubmed:19520828
+pmc:PMC2695407
+

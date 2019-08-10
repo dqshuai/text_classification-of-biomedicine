@@ -1,0 +1,22 @@
+BMC Dev. Biol.
+
+myGRN: a database and visualisation system for the storage and analysis of developmental genetic regulatory networks.
+
+J Bacha, JS Brodie, MW Loose
+
+BACKGROUND: Biological processes are regulated by complex interactions between transcription factors and signalling molecules, collectively described as Genetic Regulatory Networks (GRNs). The characterisation of these networks to reveal regulatory mechanisms is a long-term goal of many laboratories. However compiling, visualising and interacting with such networks is non-trivial. Current tools and databases typically focus on GRNs within simple, single celled organisms. However, data is available within the literature describing regulatory interactions in multi-cellular organisms, although not in any systematic form. This is particularly true within the field of developmental biology, where regulatory interactions should also be tagged with information about the time and anatomical location of development in which they occur. DESCRIPTION: We have developed myGRN (http://www.myGRN.org), a web application for storing and interrogating interaction data, with an emphasis on developmental processes. Users can submit interaction and gene expression data, either curated from published sources or derived from their own unpublished data. All interactions associated with publications are publicly visible, and unpublished interactions can only be shared between collaborating labs prior to publication. Users can group interactions into discrete networks based on specific biological processes. Various filters allow dynamic production of network diagrams based on a range of information including tissue location, developmental stage or basic topology. Individual networks can be viewed using myGRV, a tool focused on displaying developmental networks, or exported in a range of formats compatible with third party tools. Networks can also be analysed for the presence of common network motifs. We demonstrate the capabilities of myGRN using a network of zebrafish interactions integrated with expression data from the zebrafish database, ZFIN. CONCLUSION: Here we are launching myGRN as a community-based repository for interaction networks, with a specific focus on developmental networks. We plan to extend its functionality, as well as use it to study networks involved in embryonic development in the future.
+
+-Animals
++Databases, Genetic
++Gene Expression Regulation, Developmental
++Gene Regulatory Networks
+-Humans
+-Internet
+-Software
+-User-Computer Interface
+
+pii:1471-213X-9-33
+doi:10.1186/1471-213X-9-33
+pubmed:19500400
+pmc:PMC2702357
+

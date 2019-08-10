@@ -1,0 +1,35 @@
+Oncogene
+
+Ect2 links the PKCiota-Par6alpha complex to Rac1 activation and cellular transformation.
+
+V Justilien, AP Fields
+
+Protein kinase Ciota (PKCiota) promotes non-small cell lung cancer (NSCLC) by binding to Par6alpha and activating a Rac1-Pak-Mek1,2-Erk1,2 signaling cascade. The mechanism by which the PKCiota-Par6alpha complex regulates Rac1 is unknown. Here we show that epithelial cell transforming sequence 2 (Ect2), a guanine nucleotide exchange factor for Rho family GTPases, is coordinately amplified and overexpressed with PKCiota in NSCLC tumors. RNA interference-mediated knockdown of Ect2 inhibits Rac1 activity and blocks transformed growth, invasion and tumorigenicity of NSCLC cells. Expression of constitutively active Rac1 (RacV12) restores transformation to Ect2-deficient cells. Interestingly, the role of Ect2 in transformation is distinct from its well-established role in cytokinesis. In NSCLC cells, Ect2 is mislocalized to the cytoplasm where it binds the PKCiota-Par6alpha complex. RNA interference-mediated knockdown of either PKCiota or Par6alpha causes Ect2 to redistribute to the nucleus, indicating that the PKCiota-Par6alpha complex regulates the cytoplasmic localization of Ect2. Our data indicate that Ect2 and PKCiota are genetically and functionally linked in NSCLC, acting to coordinately drive tumor cell proliferation and invasion through formation of an oncogenic PKCiota-Par6alpha-Ect2 complex.
+
+-Adaptor Proteins, Signal Transducing (+metabolism)
+-Animals
+-Carcinoma, Non-Small-Cell Lung (-genetics; -metabolism; -pathology)
+-Cell Line, Tumor
+-Cell Proliferation
++Cell Transformation, Neoplastic (-genetics)
+-Cytokinesis (-genetics)
+-Cytoplasm (-metabolism)
+-Enzyme Activation
+-Gene Amplification
+-Gene Expression Regulation, Neoplastic
+-Gene Knockdown Techniques
+-Humans
+-Isoenzymes (+genetics; +metabolism)
+-Lung Neoplasms (-genetics; -metabolism; -pathology)
+-Mice
+-Protein Kinase C (+genetics; +metabolism)
+-Protein Transport
+-Proto-Oncogene Proteins (-deficiency; +genetics; +metabolism)
+-rac1 GTP-Binding Protein (+metabolism)
+
+pii:onc2009217
+doi:10.1038/onc.2009.217
+pubmed:19617897
+mid:NIHMS119947
+pmc:PMC2762483
+

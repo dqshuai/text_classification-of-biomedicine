@@ -1,0 +1,32 @@
+Genes Dev.
+
+A role for Chk1 in blocking transcriptional elongation of p21 RNA during the S-phase checkpoint.
+
+R Beckerman, AJ Donner, M Mattia, MJ Peart, JL Manley, JM Espinosa, C Prives
+
+We reported previously that when cells are arrested in S phase, a subset of p53 target genes fails to be strongly induced despite the presence of high levels of p53. When DNA replication is inhibited, reduced p21 mRNA accumulation is correlated with a marked reduction in transcription elongation. Here we show that ablation of the protein kinase Chk1 rescues the p21 transcription elongation defect when cells are blocked in S phase, as measured by increases in both p21 mRNA levels and the presence of the elongating form of RNA polymerase II (RNAPII) toward the 3' end of the p21 gene. Recruitment of specific elongation and 3' processing factors (DSIF, CstF-64, and CPSF-100) is also restored. While additional components of the RNAPII transcriptional machinery, such as TFIIB and CDK7, are recruited more extensively to the p21 locus after DNA damage than after replication stress, their recruitment is not enhanced by ablation of Chk1. Significantly, ablating Chk2, a kinase closely related in substrate specificity to Chk1, does not rescue p21 mRNA levels during S-phase arrest. Thus, Chk1 has a direct and selective role in the elongation block to p21 observed during S-phase arrest. These findings demonstrate for the first time a link between the replication checkpoint mediated by ATR/Chk1 and the transcription elongation/3' processing machinery.
+
+-Caffeine (-pharmacology)
+-Cell Cycle Proteins (-genetics)
+-Cyclin-Dependent Kinase Inhibitor p21 (+metabolism)
+-DNA Replication (-drug effects)
+-Daunorubicin (-pharmacology)
++Gene Expression Regulation, Neoplastic (-drug effects)
+-HCT116 Cells
+-Humans
+-Hydroxyurea (-pharmacology)
+-Nucleic Acid Synthesis Inhibitors (-pharmacology)
+-Promoter Regions, Genetic
+-Protein Kinases (+metabolism)
+-Protein-Serine-Threonine Kinases (-genetics; -metabolism)
+-RNA, Messenger (+metabolism)
+-S Phase (+physiology)
+-Signal Transduction (+physiology)
+-Transcription Factors (-metabolism)
+-Tumor Suppressor Protein p53 (-metabolism)
+
+pii:23/11/1364
+doi:10.1101/gad.1795709
+pubmed:19487575
+pmc:PMC2701578
+

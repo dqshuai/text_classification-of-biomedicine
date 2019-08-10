@@ -1,0 +1,37 @@
+Cancer Res.
+
+Breast cancer migration and invasion depend on proteasome degradation of regulator of G-protein signaling 4.
+
+Y Xie, DW Wolff, T Wei, B Wang, C Deng, JK Kirui, H Jiang, J Qin, PW Abel, Y Tu
+
+Aberrant signaling through G-protein coupled receptors promotes metastasis, the major cause of breast cancer death. We identified regulator of G-protein signaling 4 (RGS4) as a novel suppressor of breast cancer migration and invasion, important steps of metastatic cascades. By blocking signals initiated through G(i)-coupled receptors, such as protease-activated receptor 1 and CXC chemokine receptor 4, RGS4 disrupted Rac1-dependent lamellipodia formation, a key step involved in cancer migration and invasion. RGS4 has GTPase-activating protein (GAP) activity, which inhibits G-protein coupled receptor signaling by deactivating G-proteins. An RGS4 GAP-deficient mutant failed to inhibit migration and invasion of breast cancer cells in both in vitro assays and a mouse xenograft model. Interestingly, both established breast cancer cell lines and human breast cancer specimens showed that the highest levels of RGS4 protein were expressed in normal breast epithelia and that RGS4 down-regulation by proteasome degradation is an index of breast cancer invasiveness. Proteasome blockade increased endogenous RGS4 protein to levels that markedly inhibit breast cancer cell migration and invasion, which was reversed by an RGS4-targeted short hairpin RNA. Our findings point to the existence of a mechanism for posttranslational regulation of RGS4 function, which may have important implications for the acquisition of a metastatic phenotype by breast cancer cells. Preventing degradation of RGS4 protein should attenuate aberrant signal inputs from multiple G(i)-coupled receptors, thereby retarding the spread of breast cancer cells and making them targets for surgery, radiation, and immune treatment.
+
+-Animals
+-Blotting, Western
+-Breast Neoplasms (-genetics; -metabolism; +pathology)
+-Cell Line
+-Cell Line, Tumor
++Cell Movement
+-Female
+-GTPase-Activating Proteins (-genetics; -metabolism)
+-Humans
+-Mammary Neoplasms, Experimental (-genetics; -metabolism; -pathology)
+-Mice
+-Mice, Nude
+-Mutation
+-Neoplasm Invasiveness
+-Proteasome Endopeptidase Complex (+metabolism)
+-RGS Proteins (-genetics; +metabolism)
+-RNA Interference
+-Receptors, G-Protein-Coupled (-genetics; -metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Transplantation, Heterologous
+-Tumor Burden
+-rac1 GTP-Binding Protein (-genetics; -metabolism)
+
+pii:0008-5472.CAN-08-3564
+doi:10.1158/0008-5472.CAN-08-3564
+pubmed:19549919
+mid:NIHMS133662
+pmc:PMC2741027
+

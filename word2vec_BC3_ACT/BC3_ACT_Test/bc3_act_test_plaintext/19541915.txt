@@ -1,0 +1,27 @@
+Genome Res.
+
+Genome-wide comparisons of variation in linkage disequilibrium.
+
+YY Teo, AE Fry, K Bhattacharya, KS Small, DP Kwiatkowski, TG Clark
+
+Current genome-wide surveys of common diseases and complex traits fundamentally aim to detect indirect associations where the single nucleotide polymorphisms (SNPs) carrying the association signals are not biologically active but are in linkage disequilibrium (LD) with some unknown functional polymorphisms. Reproducing any novel discoveries from these genome-wide scans in independent studies is now a prerequisite for the putative findings to be accepted. Significant differences in patterns of LD between populations can affect the portability of phenotypic associations when the replication effort or meta-analyses are attempted in populations that are distinct from the original population in which the genome-wide study is performed. Here, we introduce a novel method for genome-wide analyses of LD variations between populations that allow the identification of candidate regions with different patterns of LD. The evidence of LD variation provided by the introduced method correlated with the degree of differences in the frequencies of the most common haplotype across the populations. Identified regions also resulted in greater variation in the success of replication attempts compared with random regions in the genome. A separate permutation strategy introduced for assessing LD variation in the absence of genome-wide data also correctly identified the expected variation in LD patterns in two well-established regions undergoing strong population-specific evolutionary pressure. Importantly, this method addresses whether a failure to reproduce a disease association in a disparate population is due to underlying differences in LD structure with an unknown functional polymorphism, which is vital in the current climate of replicating and fine-mapping established findings from genome-wide association studies.
+
+-Case-Control Studies
+-Cohort Studies
+-Computer Simulation
+-Gambia
+-Gene Frequency
+-Genetics, Population
+-Genome-Wide Association Study (+methods)
+-Great Britain
+-Haplotypes
+-Humans
++Linkage Disequilibrium (-genetics)
+-Observer Variation
+-Polymorphism, Single Nucleotide
+
+pii:gr.092189.109
+doi:10.1101/gr.092189.109
+pubmed:19541915
+pmc:PMC2765270
+

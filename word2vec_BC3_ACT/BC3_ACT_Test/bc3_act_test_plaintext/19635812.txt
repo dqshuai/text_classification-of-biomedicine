@@ -1,0 +1,24 @@
+Mol. Cell. Biol.
+
+MicroRNA-125b promotes neuronal differentiation in human cells by repressing multiple targets.
+
+MT Le, H Xie, B Zhou, PH Chia, P Rizk, M Um, G Udolph, H Yang, B Lim, HF Lodish
+
+MicroRNAs (miRNAs) are a class of small noncoding RNAs that regulate gene expression at the posttranscriptional level. Research on miRNAs has highlighted their importance in neural development, but the specific functions of neurally enriched miRNAs remain poorly understood. We report here the expression profile of miRNAs during neuronal differentiation in the human neuroblastoma cell line SH-SY5Y. Six miRNAs were significantly upregulated during differentiation induced by all-trans-retinoic acid and brain-derived neurotrophic factor. We demonstrated that the ectopic expression of either miR-124a or miR-125b increases the percentage of differentiated SH-SY5Y cells with neurite outgrowth. Subsequently, we focused our functional analysis on miR-125b and demonstrated the important role of this miRNA in both the spontaneous and induced differentiations of SH-SH5Y cells. miR-125b is also upregulated during the differentiation of human neural progenitor ReNcell VM cells, and miR-125b ectopic expression significantly promotes the neurite outgrowth of these cells. To identify the targets of miR-125b regulation, we profiled the global changes in gene expression following miR-125b ectopic expression in SH-SY5Y cells. miR-125b represses 164 genes that contain the seed match sequence of the miRNA and/or that are predicted to be direct targets of miR-125b by conventional methods. Pathway analysis suggests that a subset of miR-125b-repressed targets antagonizes neuronal genes in several neurogenic pathways, thereby mediating the positive effect of miR-125b on neuronal differentiation. We have further validated the binding of miR-125b to the miRNA response elements of 10 selected mRNA targets. Together, we report here for the first time the important role of miR-125b in human neuronal differentiation.
+
+-Base Sequence
+-Biological Markers
+-Cell Line
++Down-Regulation
+-Gene Expression
+-Gene Expression Profiling
+-Humans
+-MicroRNAs (+genetics)
+-Neurites
++Neurogenesis
+
+pii:MCB.01694-08
+doi:10.1128/MCB.01694-08
+pubmed:19635812
+pmc:PMC2747988
+

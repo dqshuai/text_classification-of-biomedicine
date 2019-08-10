@@ -1,0 +1,22 @@
+BMC Genomics
+
+Identification and characterization of pseudogenes in the rice gene complement.
+
+F Thibaud-Nissen, S Ouyang, CR Buell
+
+BACKGROUND: The Osa1 Genome Annotation of rice (Oryza sativa L. ssp. japonica cv. Nipponbare) is the product of a semi-automated pipeline that does not explicitly predict pseudogenes. As such, it is likely to mis-annotate pseudogenes as functional genes. A total of 22,033 gene models within the Osa1 Release 5 were investigated as potential pseudogenes as these genes exhibit at least one feature potentially indicative of pseudogenes: lack of transcript support, short coding region, long untranslated region, or, for genes residing within a segmentally duplicated region, lack of a paralog or significantly shorter corresponding paralog. RESULTS: A total of 1,439 pseudogenes, identified among genes with pseudogene features, were characterized by similarity to fully-supported gene models and the presence of frameshifts or premature translational stop codons. Significant difference in the length of duplicated genes within segmentally-duplicated regions was the optimal indicator of pseudogenization. Among the 816 pseudogenes for which a probable origin could be determined, 75% originated from gene duplication events while 25% were the result of retrotransposition events. A total of 12% of the pseudogenes were expressed. Finally, F-box proteins, BTB/POZ proteins, terpene synthases, chalcone synthases and cytochrome P450 protein families were found to harbor large numbers of pseudogenes. CONCLUSION: These pseudogenes still have a detectable open reading frame and are thus distinct from pseudogenes detected within intergenic regions which typically lack definable open reading frames. Families containing the highest number of pseudogenes are fast-evolving families involved in ubiquitination and secondary metabolism.
+
+-DNA, Plant (-genetics)
+-Genes, Plant
++Genome, Plant
+-Open Reading Frames
+-Oryza sativa (+genetics)
++Pseudogenes
+-Sequence Alignment
+-Sequence Analysis, DNA
+
+pii:1471-2164-10-317
+doi:10.1186/1471-2164-10-317
+pubmed:19607679
+pmc:PMC2724416
+

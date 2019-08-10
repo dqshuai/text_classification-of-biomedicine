@@ -1,0 +1,29 @@
+Cancer Res.
+
+Malignant B cells skew the balance of regulatory T cells and TH17 cells in B-cell non-Hodgkin's lymphoma.
+
+ZZ Yang, AJ Novak, SC Ziesmer, TE Witzig, SM Ansell
+
+Using biopsy specimens from patients with B-cell non-Hodgkin's lymphoma, we observed a significantly low frequency of T(H)17 cells, including several samples with no detectable amount of interleukin (IL)-17-producing cells present in the tumor microenvironment. We found that, in the absence of lymphoma B cells, treatment with IL-1beta/IL-6 or lipopolysaccharide (LPS) enhanced IL-17 expression in CD4(+) T cells and this enhancement was attenuated when CD4(+) T cells were cocultured with lymphoma B cells. Blockade of CD27-CD70 or CD28-CD80/86 interactions by anti-CD70 or anti-CD80/86 antibodies restored LPS-mediated induction of IL-17 expression in CD4(+) T cells cocultured with lymphoma B cells. Because a subset of lymphoma B cells express IL-2 and given that IL-2 signaling is critically important in the development of regulatory T (T(reg)) cells, we tested the role of IL-2 signaling in T(H)17 cell development. We found that treatment with anti-IL-2 antibody to interrupt IL-2 signaling significantly inhibited Foxp3 expression in CD4(+) T cells. In contrast, interruption of IL-2 signaling up-regulated IL-17 expression in CD4(+) T cells and restored lymphoma-mediated down-regulation of IL-17-producing cells. Furthermore, the reversal of T(reg) cell activity by LPS or CpG-A resulted in an enhancement of IL-17-producing cells. Taken together, our study indicated that lymphoma B cells play an important role in skewing the balance between T(reg) and T(H)17 cells resulting in the establishment of a profoundly inhibitory tumor microenvironment.
+
+-B-Lymphocytes (-drug effects; +immunology; -pathology)
+-Biopsy
+-CD4-Positive T-Lymphocytes (-immunology; -pathology)
+-Cytokines (-immunology; -physiology)
+-Flow Cytometry
+-Forkhead Transcription Factors (-genetics)
+-Humans
+-Interleukin-17 (+immunology)
+-Interleukin-2 (-immunology)
+-Interleukin-23 (-pharmacology)
+-Lymphoma, B-Cell (+immunology; -pathology)
+-Lymphoma, Non-Hodgkin (+immunology; -pathology)
+-T-Lymphocytes, Regulatory (-drug effects; +immunology)
+-Transforming Growth Factor beta (-pharmacology)
+
+pii:0008-5472.CAN-09-0266
+doi:10.1158/0008-5472.CAN-09-0266
+pubmed:19509224
+mid:NIHMS145634
+pmc:PMC2764404
+

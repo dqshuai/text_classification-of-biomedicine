@@ -1,0 +1,32 @@
+J. Biol. Chem.
+
+NDRG4 is required for cell cycle progression and survival in glioblastoma cells.
+
+SH Schilling, AB Hjelmeland, DR Radiloff, IM Liu, TP Wakeman, JR Fielhauer, EH Foster, JD Lathia, JN Rich, XF Wang, MB Datto
+
+NDRG4 is a largely unstudied member of the predominantly tumor suppressive N-Myc downstream-regulated gene (NDRG) family. Unlike its family members NDRG1-3, which are ubiquitously expressed, NDRG4 is expressed almost exclusively in the heart and brain. Given this tissue-specific expression pattern and the established tumor suppressive roles of the NDRG family in regulating cellular proliferation, we investigated the cellular and biochemical functions of NDRG4 in the context of astrocytes and glioblastoma multiforme (GBM) cells. We show that, in contrast to NDRG2, NDRG4 expression is elevated in GBM and NDRG4 is required for the viability of primary astrocytes, established GBM cell lines, and both CD133(+) (cancer stem cell (CSC)-enriched) and CD133(-) primary GBM xenograft cells. While NDRG4 overexpression has no effect on cell viability, NDRG4 knockdown causes G(1) cell cycle arrest followed by apoptosis. The initial G(1) arrest is associated with a decrease in cyclin D1 expression and an increase in p27(Kip1) expression, and the subsequent apoptosis is associated with a decrease in the expression of XIAP and survivin. As a result of these effects on cell cycle progression and survival, NDRG4 knockdown decreases the tumorigenic capacity of established GBM cell lines and GBM CSC-enriched cells that have been implanted intracranially into immunocompromised mice. Collectively, these data indicate that NDRG4 is required for cell cycle progression and survival, thereby diverging in function from its tumor suppressive family member NDRG2 in astrocytes and GBM cells.
+
+-Animals
+-Antigens, CD (-biosynthesis)
+-Apoptosis
+-Brain Neoplasms (+metabolism)
+-Cell Cycle
+-Cell Nucleus (-metabolism)
+-Cell Proliferation
+-Cell Survival
+-Cytoplasm (-metabolism)
++Gene Expression Regulation, Neoplastic
+-Glioblastoma (+metabolism)
+-Glycoproteins (-biosynthesis)
+-Humans
+-Mice
+-Mice, SCID
+-Muscle Proteins (-metabolism; +physiology)
+-Nerve Tissue Proteins (-metabolism; +physiology)
+-Peptides
+
+pii:M109.012484
+doi:10.1074/jbc.M109.012484
+pubmed:19592488
+pmc:PMC2757219
+

@@ -1,0 +1,23 @@
+Genetics
+
+Contribution of gene amplification to evolution of increased antibiotic resistance in Salmonella typhimurium.
+
+S Sun, OG Berg, JR Roth, DI Andersson
+
+The use of beta-lactam antibiotics has led to the evolution and global spread of a variety of resistance mechanisms, including beta-lactamases, a group of enzymes that degrade the beta-lactam ring. The evolution of increased beta-lactam resistance was studied by exposing independent lineages of Salmonella typhimurium to progressive increases in cephalosporin concentration. Each lineage carried a beta-lactamase gene (bla(TEM-1)) that provided very low resistance. In most lineages, the initial response to selection was an amplification of the bla(TEM-1) gene copy number. Amplification was followed in some lineages by mutations (envZ, cpxA, or nmpC) that reduced expression of the uptake functions, the OmpC, OmpD, and OmpF porins. The initial resistance provided by bla(TEM-1) amplification allowed the population to expand sufficiently to realize rare secondary point mutations. Mathematical modeling showed that amplification often is likely to be the initial response because events that duplicate or further amplify a gene are much more frequent than point mutations. These models show the importance of the population size to appearance of later point mutations. Transient gene amplification is likely to be a common initial mechanism and an intermediate in stable adaptive improvement. If later point mutations (allowed by amplification) provide sufficient adaptive improvement, the amplification may be lost.
+
+-Anti-Bacterial Agents (-pharmacology)
+-Cephalosporins (-pharmacology)
+-Dose-Response Relationship, Drug
+-Drug Resistance, Microbial (+genetics)
++Evolution
++Gene Amplification
+-Models, Genetic
+-Salmonella typhimurium (+genetics; -physiology)
+-Selection, Genetic (-drug effects)
+
+pii:genetics.109.103028
+doi:10.1534/genetics.109.103028
+pubmed:19474201
+pmc:PMC2728858
+

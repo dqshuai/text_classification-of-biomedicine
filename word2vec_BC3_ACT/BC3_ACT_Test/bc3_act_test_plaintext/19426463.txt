@@ -1,0 +1,22 @@
+BMC Bioinformatics
+
+Open Biomedical Ontology-based Medline exploration.
+
+W Xuan, M Dai, B Mirel, J Song, B Athey, SJ Watson, F Meng
+
+BACKGROUND: Effective Medline database exploration is critical for the understanding of high throughput experimental results and the development of novel hypotheses about the mechanisms underlying the targeted biological processes. While existing solutions enhance Medline exploration through different approaches such as document clustering, network presentations of underlying conceptual relationships and the mapping of search results to MeSH and Gene Ontology trees, we believe the use of multiple ontologies from the Open Biomedical Ontology can greatly help researchers to explore literature from different perspectives as well as to quickly locate the most relevant Medline records for further investigation. RESULTS: We developed an ontology-based interactive Medline exploration solution called PubOnto to enable the interactive exploration and filtering of search results through the use of multiple ontologies from the OBO foundry. The PubOnto program is a rich internet application based on the FLEX platform. It contains a number of interactive tools, visualization capabilities, an open service architecture, and a customizable user interface. It is freely accessible at: http://brainarray.mbni.med.umich.edu/brainarray/prototype/pubonto.
+
+-Computational Biology (+methods)
+-Database Management Systems
+-Databases, Factual
+-Information Storage and Retrieval
+-Internet
++MEDLINE
+-United States
+-User-Computer Interface
+
+pii:1471-2105-10-S5-S6
+doi:10.1186/1471-2105-10-S5-S6
+pubmed:19426463
+pmc:PMC2679406
+

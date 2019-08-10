@@ -1,0 +1,26 @@
+BMC Cancer
+
+A gene expression predictor of response to EGFR-targeted therapy stratifies progression-free survival to cetuximab in KRAS wild-type metastatic colorectal cancer.
+
+JM Balko, EP Black
+
+BACKGROUND: The anti-EGFR monoclonal antibody cetuximab is used in metastatic colorectal cancer (CRC), and predicting responsive patients garners great interest, due to the high cost of therapy. Mutations in the KRAS gene occur in ~40% of CRC and are a negative predictor of response to cetuximab. However, many KRAS-wildtype patients do not benefit from cetuximab. We previously published a gene expression predictor of sensitivity to erlotinib, an EGFR inhibitor. The purpose of this study was to determine if this predictor could identify KRAS-wildtype CRC patients who will benefit from cetuximab therapy. METHODS: Microarray data from 80 metastatic CRC patients subsequently treated with cetuximab were extracted from the study by Khambata-Ford et al. The study included KRAS status, response, and PFS for each patient. The gene expression data were scaled and analyzed using our predictive model. An improved predictive model of response was identified by removing features in the 180-gene predictor that introduced noise. RESULTS: Forty-three of eighty patients were identified as harboring wildtype-KRAS. When the model was applied to these patients, the predicted-sensitive group had significantly longer PFS than the predicted-resistant group (median 88 days vs. 56 days; mean 117 days vs. 63 days, respectively, p = 0.008). Kaplan-Meier curves were also significantly improved in the predicted-sensitive group (p = 0.0059, HR = 0.4109. The model was simplified to 26 of the original 180 genes and this further improved stratification of PFS (median 147 days vs. 56.5 days in the predicted sensitive and resistant groups, respectively, p < 0.0001). However, the simplified model will require further external validation, as features were selected based on their correlation to PFS in this dataset. CONCLUSION: Our model of sensitivity to EGFR inhibition stratified PFS following cetuximab in KRAS-wildtype CRC patients. This study represents the first true external validation of a molecular predictor of response to cetuximab in KRAS-WT metastatic CRC. Our model may hold clinical utility for identifying patients responsive to cetuximab and may therefore minimize toxicity and cost while maximizing benefit.
+
+-Antibodies, Monoclonal (+therapeutic use)
+-Colorectal Neoplasms (+drug therapy; -epidemiology; +genetics; -pathology)
+-Disease-Free Survival
+-Gene Expression Profiling
++Gene Expression Regulation, Neoplastic
+-Genotype
+-Humans
+-Mutation
+-Neoplasm Metastasis
+-Predictive Value of Tests
+-Receptor, Epidermal Growth Factor (-antagonists & inhibitors; -genetics; +immunology)
+-ras Proteins (+genetics)
+
+pii:1471-2407-9-145
+doi:10.1186/1471-2407-9-145
+pubmed:19439077
+pmc:PMC2687459
+

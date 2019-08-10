@@ -1,0 +1,25 @@
+FEBS J.
+
+Do N-terminal nucleophile hydrolases indeed have a single amino acid catalytic center?
+
+D Zhiryakova, I Ivanov, S Ilieva, M Guncheva, B Galunsky, N Stambolieva
+
+A new set of experimental kinetic data on the hydrolysis of a series of phenylacetyl p-substituted anilides catalyzed by penicillin G acylase from Escherichia coli (PGA) is presented in this article. The Hammett plot of log(k(cat,R)/k(cat,H)) versus sigma(p) (-) has three linear segments, which distinguishes the enzyme from the other N-terminal nucleophile hydrolases for which data are available. Three amino acids in the vicinity of the catalytic SerB1 (AsnB241, AlaB69, and GlnB23) were included in the quantum mechanical model. The stable structures and the transition states for acylation were optimized by molecular mechanical modeling and at the AM1 level of theory for three model substrates (with H, a methoxy group or a nitro group in the para position in the leaving group). Intrinsic interactions of several functional groups at the active site of PGA are discussed in relation to the catalytic efficiency of the enzyme. The energy barrier computed for the first step of acylation (the nucleophilic attack of SerB1) is lower than that for the second step (the collapse of the tetrahedral intermediate). However, the electronic properties of the substituent on the leaving group affect the structure of the second transition state. It is shown that the main chain carbonyl group of GlnB23 forms a hydrogen bond with the leaving group nitrogen, thus influencing the hydrolysis rate. On the basis of our computations, we propose an interpretation of the complex character of the Hammett plot for the reaction catalyzed by PGA. We suggest a modified scheme of the catalytic mechanism in which some of the intramolecular interactions essential for catalysis are included.
+
+-Alanine (-chemistry)
+-Amino Acids (+chemistry)
+-Catalysis
+-Escherichia coli (-enzymology; -metabolism)
+-Glutamine (-chemistry)
+-Hydrogen Bonding
+-Hydrolases (+chemistry; -metabolism)
+-Hydrolysis
+-Kinetics
+-Models, Molecular
+-Penicillin Amidase (-chemistry; -metabolism)
+-Substrate Specificity
+
+pii:EJB6987
+doi:10.1111/j.1742-4658.2009.06987.x
+pubmed:19476497
+

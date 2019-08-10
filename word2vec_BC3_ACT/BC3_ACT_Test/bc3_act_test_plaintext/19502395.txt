@@ -1,0 +1,29 @@
+J. Bacteriol.
+
+Sxy induces a CRP-S regulon in Escherichia coli.
+
+S Sinha, AD Cameron, RJ Redfield
+
+Escherichia coli is not considered naturally competent, yet it has homologues of the genes that most competent bacteria use for DNA uptake and processing. In Haemophilus influenzae and Vibrio cholerae, these genes are regulated by the Sxy and cyclic AMP receptor (CRP) proteins. We used microarrays to find out whether similar regulation occurs in E. coli. Expression of sxy strongly induced 63 transcriptional units, 34 of which required CRP for transcriptional activation and had promoter sites resembling the Sxy- and CRP-dependent CRP-S motif previously characterized in H. influenzae. As previously reported, sxy expression also induced the sigma-H regulon. Flagellar operons were downregulated by sxy expression, although motility remained unaffected. The CRP-S regulon included all of E. coli's known competence gene homologues, so we investigated Sxy's effect on competence-associated phenotypes. A sxy knockout reduced both "natural" plasmid transformation and competitive fitness in long-term culture. In addition, expression of plasmid-borne sxy led to production of type IV pilin, the main subunit of the DNA uptake machinery of most bacteria. Although H. influenzae Sxy only weakly activated the E. coli Sxy regulon, induction was dramatically improved when it was coexpressed with its cognate CRP, suggesting that intimate interactions between Sxy and CRP are required for transcriptional activation at CRP-S sites.
+
+-Bacterial Proteins (-genetics; -physiology)
+-Escherichia coli (+genetics)
+-Escherichia coli Proteins (-genetics; +physiology)
+-Fimbriae Proteins (-genetics; -metabolism)
+-Flagella (-genetics)
+-Gene Expression Regulation, Bacterial (-genetics; -physiology)
+-Genetic Complementation Test
+-Microscopy, Electron, Transmission
+-Oligonucleotide Array Sequence Analysis
+-Operon (-genetics)
+-Phenotype
+-Polymerase Chain Reaction
+-Receptors, Cyclic AMP (+genetics)
+-Regulon (+genetics)
+-Trans-Activators (-genetics; -physiology)
+
+pii:JB.00476-09
+doi:10.1128/JB.00476-09
+pubmed:19502395
+pmc:PMC2725579
+

@@ -1,0 +1,32 @@
+Nucleic Acids Res.
+
+Activation of interferon regulatory factor-3 via toll-like receptor 3 and immunomodulatory functions detected in A549 lung epithelial cells exposed to misplaced U1-snRNA.
+
+CD Sadik, M Bachmann, J Pfeilschifter, H Mühl
+
+U1-snRNA is an integral part of the U1 ribonucleoprotein pivotal for pre-mRNA splicing. Toll-like receptor (TLR) signaling has recently been associated with immunoregulatory capacities of U1-snRNA. Using lung A549 epithelial/carcinoma cells, we report for the first time on interferon regulatory factor (IRF)-3 activation initiated by endosomally delivered U1-snRNA. This was associated with expression of the IRF3-inducible genes interferon-beta (IFN-beta), CXCL10/IP-10 and indoleamine 2,3-dioxygenase. Mutational analysis of the U1-snRNA-activated IFN-beta promoter confirmed the crucial role of the PRDIII element, previously proven pivotal for promoter activation by IRF3. Notably, expression of these parameters was suppressed by bafilomycin A(1), an inhibitor of endosomal acidification, implicating endosomal TLR activation. Since resiquimod, an agonist of TLR7/8, failed to stimulate A549 cells, data suggest TLR3 to be of prime relevance for cellular activation. To assess the overall regulatory potential of U1-snRNA-activated epithelial cells on cytokine production, co-cultivation with peripheral blood mononuclear cells (PBMC) was performed. Interestingly, A549 cells activated by U1-snRNA reinforced phytohemagglutinin-induced interleukin-10 release by PBMC but suppressed that of tumor necrosis factor-alpha, indicating an anti-inflammatory potential of U1-snRNA. Since U1-snRNA is enriched in apoptotic bodies and epithelial cells are capable of performing efferocytosis, the present data in particular connect to immunobiological aspects of apoptosis at host/environment interfaces.
+
+-Cell Line, Tumor
+-Chemokine CXCL10 (-genetics; -metabolism)
+-Coculture Techniques
+-Epithelial Cells (-metabolism)
+-Gene Expression
+-Humans
++Immunity, Innate
+-Indoleamine-Pyrrole 2,3,-Dioxygenase (-genetics; -metabolism)
+-Interferon Regulatory Factor-3 (+metabolism)
+-Interferon-beta (-genetics; -metabolism)
+-Lung Neoplasms
+-Macrolides (-pharmacology)
+-Promoter Regions, Genetic
++RNA, Small Nuclear
+-STAT Transcription Factors (-metabolism)
+-Signal Transduction
+-Toll-Like Receptor 3 (+metabolism)
+-Transfection
+
+pii:gkp525
+doi:10.1093/nar/gkp525
+pubmed:19541850
+pmc:PMC2731906
+

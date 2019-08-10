@@ -1,0 +1,23 @@
+Biochemistry
+
+Structural basis for dimerization of the BNIP3 transmembrane domain.
+
+ES Sulistijo, KR Mackenzie
+
+Mutagenesis data suggest that BNIP3 transmembrane domain dimerization depends critically on hydrogen bonding between His 173 and Ser 172, but a recent structural analysis indicates that these residues adopt multiple conformations and are not always hydrogen bonded. We show that in dodecylphosphocholine micelles the structure of the BNIP3 transmembrane domain is modulated by phospholipids and that appropriate reconstitution and lipid titration yield a single set of peptide resonances. NMR structure determination reveals a symmetric dimer in which all interfacial residues, including His 173 and Ser 172, are well-defined. Small residues Ala 176, Gly 180, and Gly 184 allow close approach of essentially ideal helices in a geometry that supports intermonomer hydrogen bond formation between the side chains of His 173 and Ser 172. Bulky residues Ile 177 and Ile 181 pack against small residues of the opposite monomer, and favorable polar backbone-backbone contacts at the interface likely include noncanonical Calpha-H.O=C hydrogen bonds from Gly 180 to Ile 177. Modeling mutations into the structure shows that most deleterious hydrophobic substitutions eliminate the His-Ser hydrogen bond or introduce an intermonomer clash, indicating critical roles for sterics and hydrogen bonding in the sequence dependence of dimerization. Substitutions at most noninterfacial positions do not alter dimerization, but the disruptive effects of substitutions at Ile 183 cannot be rationalized in terms of peptide-peptide contacts and therefore may indicate a role for peptide-detergent or peptide-lipid interactions at this position.
+
+-Amino Acid Sequence
+-Hydrogen Bonding
+-Hydrophobicity
+-Membrane Proteins (+chemistry; -metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Peptides (-chemistry; -metabolism)
+-Protein Conformation
+-Protein Folding
+-Protein Multimerization
+-Recombinant Fusion Proteins (-chemistry; -genetics; -metabolism)
+
+doi:10.1021/bi802245u
+pubmed:19415897
+

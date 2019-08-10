@@ -1,0 +1,28 @@
+PLoS Genet.
+
+A mouse model for the metabolic effects of the human fat mass and obesity associated FTO gene.
+
+C Church, S Lee, EA Bagg, JS McTaggart, R Deacon, T Gerken, A Lee, L Moir, J Mecinović, MM Quwailid, CJ Schofield, FM Ashcroft, RD Cox
+
+Human FTO gene variants are associated with body mass index and type 2 diabetes. Because the obesity-associated SNPs are intronic, it is unclear whether changes in FTO expression or splicing are the cause of obesity or if regulatory elements within intron 1 influence upstream or downstream genes. We tested the idea that FTO itself is involved in obesity. We show that a dominant point mutation in the mouse Fto gene results in reduced fat mass, increased energy expenditure, and unchanged physical activity. Exposure to a high-fat diet enhances lean mass and lowers fat mass relative to control mice. Biochemical studies suggest the mutation occurs in a structurally novel domain and modifies FTO function, possibly by altering its dimerisation state. Gene expression profiling revealed increased expression of some fat and carbohydrate metabolism genes and an improved inflammatory profile in white adipose tissue of mutant mice. These data provide direct functional evidence that FTO is a causal gene underlying obesity. Compared to the reported mouse FTO knockout, our model more accurately reflects the effect of human FTO variants; we observe a heterozygous as well as homozygous phenotype, a smaller difference in weight and adiposity, and our mice do not show perinatal lethality or an age-related reduction in size and length. Our model suggests that a search for human coding mutations in FTO may be informative and that inhibition of FTO activity is a possible target for the treatment of morbid obesity.
+
+-Adipose Tissue (+metabolism)
+-Amino Acid Sequence
+-Animals
+-Body Weight
+-Disease Models, Animal
+-Humans
+-Mice
+-Mice, Inbred C3H
+-Mice, Inbred C57BL
+-Molecular Sequence Data
+-Mutation, Missense
+-Obesity (+genetics; +metabolism; -physiopathology)
+-Oxo-Acid-Lyases (-chemistry; +genetics; -metabolism)
+-Protein Structure, Tertiary
+-Sequence Alignment
+
+doi:10.1371/journal.pgen.1000599
+pubmed:19680540
+pmc:PMC2719869
+

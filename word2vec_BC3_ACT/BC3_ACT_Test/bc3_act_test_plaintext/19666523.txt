@@ -1,0 +1,29 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Genome-wide analysis of SREBP-1 binding in mouse liver chromatin reveals a preference for promoter proximal binding to a new motif.
+
+YK Seo, HK Chong, AM Infante, SS Im, X Xie, TF Osborne
+
+Lipid homeostasis in vertebrates is regulated by 3 sterol regulatory element binding protein (SREBP) isoforms. Here, we identify targets of SREBP-1 in mammalian liver using chromatin immunoprecipitation-high-throughput DNA sequencing. Antisera to SREBP-1 were used with liver chromatin from mice fed a high-carbohydrate diet after a fast, which leads to superinduction of hepatic SREBP-1c expression. SREBP-1-DNA complexes were subjected to massive parallel DNA sequencing using the Illumina Genome Analyzer II, resulting in 5.7 million sequence reads. Mapping these reads to the mouse reference genome identified 426 peaks of SREBP-1 binding vs. a control antibody. These binding peaks show a striking enrichment in proximal promoter regions, with 52% located within 1 kb upstream of a transcription start site. A previously undescribed sequence motif (5'-ACTACANNTCCC-3') was present in 76% of the total peaks, and we show that it is a functional SREBP-1 response element. Our analysis also reveals that an Sp1 consensus site is present as a "coregulatory" motif in 50% of the SREBP-1 binding peaks, consistent with previous functional studies. SREBP-1 bound not only to many well-characterized SREBP-1 target genes but to several other previously unknown targets in lipid and carbohydrate metabolism as well as many putative target genes in other diverse biological pathways.
+
+-Amino Acid Motifs
+-Animals
+-Binding Sites
+-Carbohydrates (-chemistry)
+-Chromatin (+chemistry)
+-Immunoprecipitation
+-Lipids (-chemistry)
+-Liver (+metabolism)
+-Male
+-Mice
+-Mice, Inbred C57BL
++Promoter Regions, Genetic
+-Protein Binding
+-Protein Isoforms
+-Sterol Regulatory Element Binding Protein 1 (+genetics; +physiology)
+
+pii:0904246106
+doi:10.1073/pnas.0904246106
+pubmed:19666523
+pmc:PMC2728968
+

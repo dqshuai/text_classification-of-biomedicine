@@ -1,0 +1,27 @@
+Mol. Syst. Biol.
+
+Backup in gene regulatory networks explains differences between binding and knockout results.
+
+A Gitter, Z Siegfried, M Klutstein, O Fornes, B Oliva, I Simon, Z Bar-Joseph
+
+The complementarity of gene expression and protein-DNA interaction data led to several successful models of biological systems. However, recent studies in multiple species raise doubts about the relationship between these two datasets. These studies show that the overwhelming majority of genes bound by a particular transcription factor (TF) are not affected when that factor is knocked out. Here, we show that this surprising result can be partially explained by considering the broader cellular context in which TFs operate. Factors whose functions are not backed up by redundant paralogs show a fourfold increase in the agreement between their bound targets and the expression levels of those targets. In addition, we show that incorporating protein interaction networks provides physical explanations for knockout effects. New double knockout experiments support our conclusions. Our results highlight the robustness provided by redundant TFs and indicate that in the context of diverse cellular systems, binding is still largely functional.
+
+-DNA-Binding Proteins (-genetics; -metabolism)
+-Gene Expression Profiling (-methods)
+-Gene Knockout Techniques (+methods)
+-Gene Regulatory Networks (+physiology)
+-Genes, Fungal
+-Genomics (+methods)
+-Protein Binding (+physiology)
+-Protein Interaction Mapping (-methods)
+-Reproducibility of Results
+-Research Design
+-Saccharomyces cerevisiae (-genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; -metabolism)
+-Transcription Factors (-genetics; -metabolism)
+
+pii:msb200933
+doi:10.1038/msb.2009.33
+pubmed:19536199
+pmc:PMC2710864
+

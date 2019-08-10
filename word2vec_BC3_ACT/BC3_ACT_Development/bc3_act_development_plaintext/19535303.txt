@@ -1,0 +1,33 @@
+DNA Repair (Amst.)
+
+DNA-PKcs and ATM co-regulate DNA double-strand break repair.
+
+M Shrivastav, CA Miller, LP De Haro, ST Durant, BP Chen, DJ Chen, JA Nickoloff
+
+DNA double-strand breaks (DSBs) are repaired by nonhomologous end-joining (NHEJ) and homologous recombination (HR). The NHEJ/HR decision is under complex regulation and involves DNA-dependent protein kinase (DNA-PKcs). HR is elevated in DNA-PKcs null cells, but suppressed by DNA-PKcs kinase inhibitors, suggesting that kinase-inactive DNA-PKcs (DNA-PKcs-KR) would suppress HR. Here we use a direct repeat assay to monitor HR repair of DSBs induced by I-SceI nuclease. Surprisingly, DSB-induced HR in DNA-PKcs-KR cells was 2- to 3-fold above the elevated HR level of DNA-PKcs null cells, and approximately 4- to 7-fold above cells expressing wild-type DNA-PKcs. The hyperrecombination in DNA-PKcs-KR cells compared to DNA-PKcs null cells was also apparent as increased resistance to DNA crosslinks induced by mitomycin C. ATM phosphorylates many HR proteins, and ATM is expressed at a low level in cells lacking DNA-PKcs, but restored to wild-type level in cells expressing DNA-PKcs-KR. Several clusters of phosphorylation sites in DNA-PKcs, including the T2609 cluster, which is phosphorylated by DNA-PKcs and ATM, regulate access of repair factors to broken ends. Our results indicate that ATM-dependent phosphorylation of DNA-PKcs-KR contributes to the hyperrecombination phenotype. Interestingly, DNA-PKcs null cells showed more persistent ionizing radiation-induced RAD51 foci (but lower HR levels) compared to DNA-PKcs-KR cells, consistent with HR completion requiring RAD51 turnover. ATM may promote RAD51 turnover, suggesting a second (not mutually exclusive) mechanism by which restored ATM contributes to hyperrecombination in DNA-PKcs-KR cells. We propose a model in which DNA-PKcs and ATM coordinately regulate DSB repair by NHEJ and HR.
+
+-Animals
+-CHO Cells
+-Cell Cycle Proteins (-antagonists & inhibitors; +metabolism)
+-Cricetinae
+-Cricetulus
++DNA Breaks, Double-Stranded (-radiation effects)
+-DNA Damage
++DNA Repair (-radiation effects)
+-DNA-Activated Protein Kinase (+metabolism)
+-DNA-Binding Proteins (-antagonists & inhibitors; +metabolism)
+-Enzyme Activation (-radiation effects)
+-Models, Biological
+-Mutation (-genetics)
+-Phosphorylation (-radiation effects)
+-Phosphothreonine (-metabolism)
+-Protein-Serine-Threonine Kinases (-antagonists & inhibitors; +metabolism)
+-Rad51 Recombinase (-metabolism)
+-Radiation, Ionizing
+-Recombination, Genetic (-genetics)
+-Tumor Suppressor Proteins (-antagonists & inhibitors; +metabolism)
+
+pii:S1568-7864(09)00139-6
+doi:10.1016/j.dnarep.2009.05.006
+pubmed:19535303
+

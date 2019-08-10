@@ -1,0 +1,28 @@
+PLoS ONE
+
+Long-term potentiation in isolated dendritic spines.
+
+AT Corera, G Doucet, EA Fon
+
+BACKGROUND: In brain, N-methyl-D-aspartate (NMDA) receptor (NMDAR) activation can induce long-lasting changes in synaptic alpha-amino-3-hydroxy-5-methylisoxazole-4-propionate (AMPA) receptor (AMPAR) levels. These changes are believed to underlie the expression of several forms of synaptic plasticity, including long-term potentiation (LTP). Such plasticity is generally believed to reflect the regulated trafficking of AMPARs within dendritic spines. However, recent work suggests that the movement of molecules and organelles between the spine and the adjacent dendritic shaft can critically influence synaptic plasticity. To determine whether such movement is strictly required for plasticity, we have developed a novel system to examine AMPAR trafficking in brain synaptosomes, consisting of isolated and apposed pre- and postsynaptic elements. METHODOLOGY/PRINCIPAL FINDINGS: We report here that synaptosomes can undergo LTP-like plasticity in response to stimuli that mimic synaptic NMDAR activation. Indeed, KCl-evoked release of endogenous glutamate from presynaptic terminals, in the presence of the NMDAR co-agonist glycine, leads to a long-lasting increase in surface AMPAR levels, as measured by [(3)H]-AMPA binding; the increase is prevented by an NMDAR antagonist 2-amino-5-phosphonopentanoic acid (AP5). Importantly, we observe an increase in the levels of GluR1 and GluR2 AMPAR subunits in the postsynaptic density (PSD) fraction, without changes in total AMPAR levels, consistent with the trafficking of AMPARs from internal synaptosomal compartments into synaptic sites. This plasticity is reversible, as the application of AMPA after LTP depotentiates synaptosomes. Moreover, depotentiation requires proteasome-dependent protein degradation. CONCLUSIONS/SIGNIFICANCE: Together, the results indicate that the minimal machinery required for LTP is present and functions locally within isolated dendritic spines.
+
+-Animals
+-Brain (+metabolism)
+-Dendritic Spines (-metabolism; +physiology)
++Long-Term Potentiation
+-Mice
+-Mice, Inbred C57BL
+-Microscopy, Electron, Transmission (-methods)
+-Models, Biological
+-Neuronal Plasticity
+-Neurons (-metabolism)
+-Proteasome Endopeptidase Complex (-metabolism)
+-Receptors, N-Methyl-D-Aspartate (-metabolism)
+-Synapses (-metabolism)
+-Synaptic Transmission
+-Synaptosomes (-metabolism)
+
+doi:10.1371/journal.pone.0006021
+pubmed:19547754
+pmc:PMC2695539
+

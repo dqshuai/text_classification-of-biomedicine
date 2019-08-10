@@ -1,0 +1,18 @@
+PLoS Genet.
+
+Evidence for different pathways during horizontal gene transfer in competent Bacillus subtilis cells.
+
+D Kidane, B Carrasco, C Manfredi, K Rothmaier, S Ayora, S Tadesse, JC Alonso, PL Graumann
+
+Cytological and genetic evidence suggests that the Bacillus subtilis DNA uptake machinery localizes at a single cell pole and takes up single-stranded (ss) DNA. The integration of homologous donor DNA into the recipient chromosome requires RecA, while plasmid establishment, which is independent of RecA, requires at least RecO and RecU. RecA and RecN colocalize at the polar DNA uptake machinery, from which RecA forms filamentous structures, termed threads, in the presence of chromosomal DNA. We show that the transformation of chromosomal and of plasmid DNA follows distinct pathways. In the absence of DNA, RecU accumulated at a single cell pole in competent cells, dependent on RecA. Upon addition of any kind of DNA, RecA formed highly dynamic thread structures, which rapidly grew and shrank, and RecU dissipated from the pole. RecO visibly accumulated at the cell pole only upon addition of plasmid DNA, and, to a lesser degree, of phage DNA, but not of chromosomal DNA. RecO accumulation was weakly influenced by RecN, but not by RecA. RecO annealed ssDNA complexed with SsbA in vitro, independent of any nucleotide cofactor. The DNA end-joining Ku protein was also found to play a role in viral and plasmid transformation. On the other hand, transfection with SPP1 phage DNA required functions from both chromosomal and plasmid transformation pathways. The findings show that competent bacterial cells possess a dynamic DNA recombination machinery that responds in a differential manner depending if entering DNA shows homology with recipient DNA or has self-annealing potential. Transformation with chromosomal DNA only requires RecA, which forms dynamic filamentous structures that may mediate homology search and DNA strand invasion. Establishment of circular plasmid DNA requires accumulation of RecO at the competence pole, most likely mediating single-strand annealing, and RecU, which possibly down-regulates RecA. Transfection with SPP1 viral DNA follows an intermediate route that contains functions from both chromosomal and plasmid transformation pathways.
+
+-Bacillus subtilis (+genetics; -metabolism)
+-Bacterial Proteins (-genetics; -metabolism)
+-DNA (-genetics)
++Gene Transfer, Horizontal
+-Plasmids (-genetics)
+
+doi:10.1371/journal.pgen.1000630
+pubmed:19730681
+pmc:PMC2727465
+

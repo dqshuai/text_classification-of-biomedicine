@@ -1,0 +1,25 @@
+Mol. Cell
+
+A core complex of CPSF73, CPSF100, and Symplekin may form two different cleavage factors for processing of poly(A) and histone mRNAs.
+
+KD Sullivan, M Steiniger, WF Marzluff
+
+Metazoan histone mRNAs are unique: their pre-mRNAs contain no introns, and the mRNAs are not polyadenylated, ending instead in a conserved stem-loop structure. In Drosophila, canonical poly(A) signals are located downstream of the normal cleavage site of each histone gene and are utilized when histone 3' end formation is inhibited. Here we define a subcomplex of poly(A) factors that are required for histone pre-mRNA processing. We demonstrate that Symplekin, CPSF73, and CPSF100 are present in a stable complex and interact with histone-specific processing factors. We use chromatin immunoprecipitation to show that Symplekin and CPSF73, but not CstF50, cotranscriptionally associate with histone genes. Depletion of SLBP recruits CstF50 to histone genes. Knockdown of CPSF160 or CstF64 downregulates Symplekin but does not affect histone pre-mRNA processing or association of Symplekin with the histone locus. These results suggest that a common core cleavage factor is required for processing of histone and polyadenylated pre-mRNAs.
+
+-Animals
+-Cleavage And Polyadenylation Specificity Factor (-genetics; +metabolism)
+-Cleavage Stimulation Factor (-genetics; -metabolism)
+-Drosophila Proteins (-genetics; +metabolism)
+-Drosophila melanogaster
+-Histones (+genetics)
+-Multiprotein Complexes
+-Nuclear Proteins (-genetics; +metabolism)
+-RNA Interference
+-RNA Precursors (-genetics; -metabolism)
+-RNA, Messenger (-genetics; +metabolism)
+-mRNA Cleavage and Polyadenylation Factors (-genetics; +metabolism)
+
+pii:S1097-2765(09)00277-9
+doi:10.1016/j.molcel.2009.04.024
+pubmed:19450530
+

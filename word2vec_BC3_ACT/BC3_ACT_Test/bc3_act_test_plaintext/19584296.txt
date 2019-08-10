@@ -1,0 +1,34 @@
+Cancer Res.
+
+Epithelial to mesenchymal transition contributes to drug resistance in pancreatic cancer.
+
+T Arumugam, V Ramachandran, KF Fournier, H Wang, L Marquis, JL Abbruzzese, GE Gallick, CD Logsdon, DJ McConkey, W Choi
+
+A better understanding of drug resistance mechanisms is required to improve outcomes in patients with pancreatic cancer. Here, we characterized patterns of sensitivity and resistance to three conventional chemotherapeutic agents with divergent mechanisms of action [gemcitabine, 5-fluorouracil (5-FU), and cisplatin] in pancreatic cancer cells. Four (L3.6pl, BxPC-3, CFPAC-1, and SU86.86) were sensitive and five (PANC-1, Hs766T, AsPC-1, MIAPaCa-2, and MPanc96) were resistant to all three agents based on GI(50) (50% growth inhibition). Gene expression profiling and unsupervised hierarchical clustering revealed that the sensitive and resistant cells formed two distinct groups and differed in expression of specific genes, including several features of "epithelial to mesenchymal transition" (EMT). Interestingly, an inverse correlation between E-cadherin and its transcriptional suppressor, Zeb-1, was observed in the gene expression data and was confirmed by real-time PCR. Independent validation experiment using five new pancreatic cancer cell lines confirmed that an inverse correlation between E-cadherin and Zeb-1 correlated closely with resistance to gemcitabine, 5-FU, and cisplatin. Silencing Zeb-1 in the mesenchymal lines not only increased the expression of E-cadherin but also other epithelial markers, such as EVA1 and MAL2, and restored drug sensitivity. Importantly, immunohistochemical analysis of E-cadherin and Zeb-1 in primary tumors confirmed that expression of the two proteins was mutually exclusive (P = 0.012). Therefore, our results suggest that Zeb-1 and other regulators of EMT may maintain drug resistance in human pancreatic cancer cells, and therapeutic strategies to inhibit Zeb-1 and reverse EMT should be evaluated.
+
+-Antineoplastic Agents (-pharmacology)
+-Blotting, Western
+-Cadherins (-genetics; -metabolism)
+-Cell Line, Tumor
+-Cisplatin (-pharmacology)
+-Cluster Analysis
+-Deoxycytidine (-analogs & derivatives; -pharmacology)
+-Drug Resistance, Neoplasm (+genetics)
+-Epithelium (+metabolism; -pathology)
+-Fluorouracil (-pharmacology)
++Gene Expression Profiling
+-Gene Expression Regulation, Neoplastic (-drug effects)
+-Homeodomain Proteins (-genetics; -metabolism)
+-Humans
+-Immunohistochemistry
+-Mesoderm (+metabolism; -pathology)
+-Oligonucleotide Array Sequence Analysis
+-Pancreatic Neoplasms (-drug therapy; -genetics; -pathology)
+-RNA Interference
+-Reverse Transcriptase Polymerase Chain Reaction
+-Transcription Factors (-genetics; -metabolism)
+
+pii:0008-5472.CAN-08-2819
+doi:10.1158/0008-5472.CAN-08-2819
+pubmed:19584296
+

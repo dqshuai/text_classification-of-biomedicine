@@ -1,0 +1,30 @@
+EMBO J.
+
+Active site electrostatics protect genome integrity by blocking abortive hydrolysis during DNA recombination.
+
+CH Ma, PA Rowley, A Macieszak, P Guga, M Jayaram
+
+Water, acting as a rogue nucleophile, can disrupt transesterification steps of important phosphoryl transfer reactions in DNA and RNA. We have unveiled this risk, and identified safeguards instituted against it, during strand cleavage and joining by the tyrosine site-specific recombinase Flp. Strand joining is threatened by a latent Flp endonuclease activity (type I) towards the 3'-phosphotyrosyl intermediate resulting from strand cleavage. This risk is not alleviated by phosphate electrostatics; neutralizing the negative charge on the scissile phosphate through methylphosphonate (MeP) substitution does not stimulate type I endonuclease. Rather, protection derives from the architecture of the recombination synapse and conformational dynamics within it. Strand cleavage is protected against water by active site electrostatics. Replacement of the catalytic Arg-308 of Flp by alanine, along with MeP substitution, elicits a second Flp endonuclease activity (type II) that directly targets the scissile phosphodiester bond in DNA. MeP substitution, combined with appropriate active site mutations, will be useful in revealing anti-hydrolytic mechanisms engendered by systems that mediate DNA relaxation, DNA transposition, site-specific recombination, telomere resolution, RNA splicing and retrohoming of mobile introns.
+
+-Amino Acid Substitution
+-Amino Acids (-metabolism)
+-Catalytic Domain
+-DNA (+metabolism)
+-DNA Nucleotidyltransferases (-metabolism)
+-Endonucleases (-metabolism)
+-Esterification
+-Genome (+genetics)
+-Hydrolysis
+-Kinetics
+-Models, Biological
+-Organophosphorus Compounds (-metabolism)
+-Recombination, Genetic (+genetics)
++Static Electricity
+-Stereoisomerism
+-Substrate Specificity
+
+pii:emboj2009131
+doi:10.1038/emboj.2009.131
+pubmed:19440204
+pmc:PMC2699359
+

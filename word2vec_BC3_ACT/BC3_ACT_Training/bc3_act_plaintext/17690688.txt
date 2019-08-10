@@ -1,0 +1,24 @@
+EMBO J.
+
+The candidate tumor suppressor BTG3 is a transcriptional target of p53 that inhibits E2F1.
+
+YH Ou, PH Chung, FF Hsu, TP Sun, WY Chang, SY Shieh
+
+Proper regulation of cell cycle progression is pivotal for maintaining genome stability. In a search for DNA damage-inducible, CHK1-modulated genes, we have identified BTG3 (B-cell translocation gene 3) as a direct p53 target. The p53 transcription factor binds to a consensus sequence located in intron 2 of the gene both in vitro and in vivo, and depletion of p53 by small interfering RNA (siRNA) abolishes DNA damage-induced expression of the gene. Furthermore, ablation of BTG3 by siRNA in cancer cells results in accelerated exit from the DNA damage-induced G2/M block. In vitro, BTG3 binds to and inhibits E2F1 through an N-terminal domain including the conserved box A. Deletion of the interaction domain in BTG3 abrogates not only its growth suppression activity, but also its repression on E2F1-mediated transactivation. We also present evidence that by disrupting the DNA binding activity of E2F1, BTG3 participates in the regulation of E2F1 target gene expression. Therefore, our studies have revealed a previously unidentified pathway through which the activity of E2F1 may be guarded by activated p53.
+
+-Cell Line, Tumor
+-DNA Damage
+-E2F1 Transcription Factor (-antagonists & inhibitors; +metabolism)
+-Humans
+-Introns
+-Oligonucleotide Array Sequence Analysis
+-Protein Binding
+-Proteins (-genetics; +metabolism)
+-Transcriptional Activation
+-Tumor Suppressor Protein p53 (-genetics; +metabolism)
+
+pii:7601825
+doi:10.1038/sj.emboj.7601825
+pubmed:17690688
+pmc:PMC1994125
+

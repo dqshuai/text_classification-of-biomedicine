@@ -1,0 +1,24 @@
+PLoS Genet.
+
+A mechanistic basis for the coordinated regulation of pharyngeal morphogenesis in Caenorhabditis elegans by LIN-35/Rb and UBC-18-ARI-1.
+
+K Mani, DS Fay
+
+Genetic redundancy, whereby two genes carry out seemingly overlapping functions, may in large part be attributable to the intricacy and robustness of genetic networks that control many developmental processes. We have previously described a complex set of genetic interactions underlying foregut development in the nematode Caenorhabditis elegans. Specifically, LIN-35/Rb, a tumor suppressor ortholog, in conjunction with UBC-18-ARI-1, a conserved E2/E3 complex, and PHA-1, a novel protein, coordinately regulates an early step of pharyngeal morphogenesis involving cellular re-orientation. Functional redundancy is indicated by the observation that lin-35; ubc-18 double mutants, as well as certain allelic combinations of pha-1 with either lin-35 or ubc-18, display defects in pharyngeal development, whereas single mutants do not. Using a combination of genetic and molecular analyses, we show that sup-35, a strong recessive suppressor of pha-1-associated lethality, also reverts the synthetic lethality of lin-35; ubc-18, lin-35; pha-1, and ubc-18 pha-1 double mutants. SUP-35, which contains C2H2-type Zn-finger domains as well as a conserved RMD-like motif, showed a dynamic pattern of subcellular localization during embryogenesis. We find that mutations in sup-35 specifically suppress hypomorphic alleles of pha-1 and that SUP-35, acting genetically upstream of SUP-36 and SUP-37, negatively regulates pha-1 transcription. We further demonstrate that LIN-35, a transcriptional repressor, and UBC-18-ARI-1, a complex involved in ubiquitin-mediated proteolysis, negatively regulate SUP-35 abundance through distinct mechanisms. We also show that HCF-1, a C. elegans homolog of host cell factor 1, functionally antagonizes LIN-35 in the regulation of sup-35. Our cumulative findings piece together the components of a novel regulatory network that includes LIN-35/Rb, which functions to control organ morphogenesis. Our results also shed light on general mechanisms that may underlie developmental genetic redundancies as well as principles that may govern complex disease traits.
+
+-Amino Acid Sequence
+-Animals
+-Caenorhabditis elegans (-chemistry; -genetics; +growth & development; -metabolism)
+-Caenorhabditis elegans Proteins (-genetics; +metabolism)
++Gene Expression Regulation, Developmental
+-Ligases (-genetics; +metabolism)
+-Molecular Sequence Data
+-Morphogenesis
+-Pharynx (-chemistry; -growth & development; -metabolism)
+-Repressor Proteins (-chemistry; -genetics; +metabolism)
+-Sequence Alignment
+
+doi:10.1371/journal.pgen.1000510
+pubmed:19521497
+pmc:PMC2686152
+

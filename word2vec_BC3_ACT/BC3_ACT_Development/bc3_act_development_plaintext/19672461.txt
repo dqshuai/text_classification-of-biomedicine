@@ -1,0 +1,19 @@
+PLoS ONE
+
+The genome response to artificial selection: a case study in dairy cattle.
+
+L Flori, S Fritz, F Jaffrézic, M Boussaha, I Gut, S Heath, JL Foulley, M Gautier
+
+Dairy cattle breeds have been subjected over the last fifty years to intense artificial selection towards improvement of milk production traits. In this study, we performed a whole genome scan for differentiation using 42,486 SNPs in the three major French dairy cattle breeds (Holstein, Normande and Montbéliarde) to identify the main physiological pathways and regions which were affected by this selection. After analyzing the population structure, we estimated F(ST) within and across the three breeds for each SNP under a pure drift model. We further considered two different strategies to evaluate the effect of selection at the genome level. First, smoothing F(ST) values over each chromosome with a local variable bandwidth kernel estimator allowed identifying 13 highly significant regions subjected to strong and/or recent positive selection. Some of them contained genes within which causal variants with strong effect on milk production traits (GHR) or coloration (MC1R) have already been reported. To go further in the interpretation of the observed signatures of selection we subsequently concentrated on the annotation of differentiated genes defined according to the F(ST) value of SNPs localized close or within them. To that end we performed a comprehensive network analysis which suggested a central role of somatotropic and gonadotropic axes in the response to selection. Altogether, these observations shed light on the antagonism, at the genome level, between milk production and reproduction traits in highly producing dairy cows.
+
+-Animals
+-Cattle
++Dairying
++Genome
+-Polymorphism, Single Nucleotide
++Selection, Genetic
+
+doi:10.1371/journal.pone.0006595
+pubmed:19672461
+pmc:PMC2722727
+

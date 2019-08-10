@@ -1,0 +1,26 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Interaction between HMGA1a and the origin recognition complex creates site-specific replication origins.
+
+AW Thomae, D Pich, J Brocher, MP Spindler, C Berens, R Hock, W Hammerschmidt, A Schepers
+
+In all eukaryotic cells, origins of DNA replication are characterized by the binding of the origin recognition complex (ORC). How ORC is positioned to sites where replication initiates is unknown, because metazoan ORC binds DNA without apparent sequence specificity. Thus, additional factors might be involved in ORC positioning. Our experiments indicate that a family member of the high-mobility group proteins, HMGA1a, can specifically target ORC to DNA. Coimmunoprecipitations and imaging studies demonstrate that HMGA1a interacts with different ORC subunits in vitro and in vivo. This interaction occurs mainly in AT-rich heterochromatic regions to which HMGA1a localizes. Fusion proteins of HMGA1a and the DNA-binding domain of the viral factor EBNA1 or the prokaryotic tetracycline repressor, TetR, can recruit ORC to cognate operator sites forming functional origins of DNA replication. When HMGA1a is targeted to plasmid DNA, the prereplicative complex is assembled during G(1) and the amount of ORC correlates with the local concentration of HMGA1a. Nascent-strand abundance assays demonstrate that DNA replication initiates at or near HMGA1a-rich sites. Our experiments indicate that chromatin proteins can target ORC to DNA, suggesting they might specify origins of DNA replication in metazoan cells.
+
+-Binding Sites
+-Cell Line
++DNA Replication
+-Epstein-Barr Virus Nuclear Antigens (-genetics; -metabolism)
+-HMGA1a Protein (-analysis; -genetics; +metabolism)
+-Humans
+-Immunoprecipitation
+-Origin Recognition Complex (-analysis; +metabolism)
+-Plasmids (-chemistry; -genetics)
+-Protein Structure, Tertiary
+-Recombinant Fusion Proteins (-genetics; -metabolism)
++Replication Origin
+
+pii:0707260105
+doi:10.1073/pnas.0707260105
+pubmed:18234858
+pmc:PMC2234206
+

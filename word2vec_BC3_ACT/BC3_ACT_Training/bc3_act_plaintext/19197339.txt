@@ -1,0 +1,29 @@
+EMBO Rep.
+
+Regulation of human myoblast differentiation by PEBP4.
+
+R Garcia, J Grindlay, O Rath, F Fee, W Kolch
+
+The RAF-MEK-ERK pathway regulates both myoblast proliferation and differentiation; however, it is unclear how these events are coordinated. Here, we show that human phosphatidylethanolamine-binding protein 4 (PEBP4), a RAF kinase inhibitory protein (RKIP) family protein expressed preferentially in muscle, regulates the activity of the ERK pathway and myoblast differentiation by acting as a scaffold protein. In contrast to RKIP, which disrupts the RAF1-MEK interaction, PEBP4 forms ternary complexes with RAF1 and MEK, and can scaffold this interaction. PEBP4 expression is induced during the differentiation of primary human myoblasts. Consistent with the properties of a scaffold, PEBP4 enhances the RAF1-MEK interaction and the activation of MEK at low expression levels, whereas it inhibits these parameters at higher expression levels. Downregulation of PEBP4 by short hairpin RNA in human myoblasts increases MEK signalling and inhibits differentiation; by contrast, PEBP4 overexpression enhances differentiation. Thus, PEBP4 participates in the control of muscle cell differentiation by modulating the activity of MEK and ERK.
+
+-Animals
+-COS Cells
+-Cell Differentiation (+physiology)
+-Cercopithecus aethiops
+-Extracellular Signal-Regulated MAP Kinases (-genetics; -metabolism)
+-Humans
+-MAP Kinase Signaling System (+physiology)
+-Mitogen-Activated Protein Kinase Kinases (-genetics; -metabolism)
+-Molecular Sequence Data
+-Muscle, Skeletal (-cytology; -physiology)
+-Myoblasts (-cytology; +physiology)
+-Phosphatidylethanolamine Binding Protein (-genetics; +metabolism)
+-Proto-Oncogene Proteins c-akt (-genetics; -metabolism)
+-Proto-Oncogene Proteins c-raf (-genetics; -metabolism)
+-RNA Interference
+
+pii:embor20094
+doi:10.1038/embor.2009.4
+pubmed:19197339
+pmc:PMC2658556
+

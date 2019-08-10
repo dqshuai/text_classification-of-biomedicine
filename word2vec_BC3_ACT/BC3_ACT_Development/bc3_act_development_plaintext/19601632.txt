@@ -1,0 +1,21 @@
+J. Proteome Res.
+
+Analysis of RP-HPLC loading conditions for maximizing peptide identifications in shotgun proteomics.
+
+A Peterson, L Hohmann, L Huang, B Kim, JK Eng, DB Martin
+
+Substantial energy and resources have been invested in improving mass spectrometry (MS) instrumentation, upstream sample preparation protocols, and database search strategies to maximize peptide and protein identifications. The role of HPLC sample loading methods in maximizing MS identifications has been largely overlooked, and there exists an immense heterogeneity in the methods employed in the proteomics literature. We sought to optimize loading methods by testing multiple loading conditions (buffer composition, resin, initial gradient) using tryptic digests of an 18 protein mixture and whole yeast lysate. The loading buffer acetonitrile (ACN) concentration greatly affected peptide identifications: up to a 26% increase in peptide identifications was observed by decreasing the ACN concentration from 5 to 2% during sample loading. Hydrophilic peptides were the main contributors to the increase in peptide identifications and, at higher ACN concentrations, were washed from the precolumn during desalting. Sampling of the hydrophilic peptides was enhanced by using a shallow initial ACN gradient. The results were found to be resin-specific and not generalizable. Our investigation demonstrates the often unappreciated importance of optimizing sample loading conditions to reflect the aims of the research and the characteristics of the LC configurations employed.
+
+-Acetonitriles (-chemistry)
+-Chromatography, High Pressure Liquid (+methods)
+-Hydrophobicity
+-Peptide Fragments (+chemistry)
+-Peptide Mapping (+methods)
+-Proteomics (+methods)
+-Yeasts (-chemistry)
+
+doi:10.1021/pr9001417
+pubmed:19601632
+mid:NIHMS132613
+pmc:PMC2757279
+

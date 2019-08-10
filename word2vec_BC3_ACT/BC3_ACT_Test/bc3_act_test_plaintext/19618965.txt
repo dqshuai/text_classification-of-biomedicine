@@ -1,0 +1,26 @@
+Biochemistry
+
+Structural analysis of a glutathione transferase A1-1 mutant tailored for high catalytic efficiency with toxic alkenals.
+
+LM Balogh, I Le Trong, KA Kripps, K Tars, RE Stenkamp, B Mannervik, WM Atkins
+
+The specificity of human glutathione transferase (GST) A1-1 is drastically altered to favor alkenal substrates in the GIMFhelix mutant designed to mimic first-sphere interactions utilized by GSTA4-4. This redesign serves as a model for improving our understanding of the structural determinants that contribute to the distinct specificities of alpha class GSTs. Herein we report the first crystal structures of GIMFhelix, both in complex with GSH and in apo form at 1.98 and 2.38 A resolution. In contrast to the preorganized hydrophobic binding pocket that accommodates alkenals in GSTA4-4, GSTA1-1 includes a dynamic alpha9 helix that undergoes a ligand-dependent localization to complete the active site. Comparisons of the GIMFhelix structures with previously reported structures show a striking similarity with the GSTA4-4 active site obtained within an essentially GSTA1-1 scaffold and reveal the alpha9 helix assumes a similar localized structure regardless of active site occupancy in a manner resembling that of GSTA4-4. However, we cannot fully account for all the structural elements important in GSTA4-4 within the mutant's active site. The contribution of Phe10 to the Tyr212-Phe10-Phe220 network prevents complete C-terminal closure and demonstrates that the presence of Phe10 within the context of a GSTA4-4-like active site may ultimately hinder Phe220, a key C-terminal residue, from effectively contributing to the active site. In total, these results illustrate the remaining structural differences presumably reflected in the previously reported catalytic efficiencies of GIMFhelix and GSTA4-4 and emphasize the F10P mutation as being necessary to completely accomplish the transformation to a highly specific GST from the more promiscuous GSTA1-1 enzyme.
+
++Alkenes (-chemistry; -toxicity)
+-Catalysis
+-Catalytic Domain (-genetics)
+-Crystallography, X-Ray
++Glutathione Transferase (-chemistry; -genetics; -metabolism)
+-Humans
++Isoenzymes (-chemistry; -genetics; -metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
++Protein Structure, Tertiary
+-Substrate Specificity (+genetics)
+
+doi:10.1021/bi900895b
+pubmed:19618965
+mid:NIHMS135263
+pmc:PMC2753285
+

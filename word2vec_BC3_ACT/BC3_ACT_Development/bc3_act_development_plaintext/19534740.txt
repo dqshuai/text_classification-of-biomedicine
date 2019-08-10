@@ -1,0 +1,21 @@
+BMC Bioinformatics
+
+Towards barcode markers in Fungi: an intron map of Ascomycota mitochondria.
+
+M Santamaria, S Vicario, G Pappadà, G Scioscia, C Scazzocchio, C Saccone
+
+BACKGROUND: A standardized and cost-effective molecular identification system is now an urgent need for Fungi owing to their wide involvement in human life quality. In particular the potential use of mitochondrial DNA species markers has been taken in account. Unfortunately, a serious difficulty in the PCR and bioinformatic surveys is due to the presence of mobile introns in almost all the fungal mitochondrial genes. The aim of this work is to verify the incidence of this phenomenon in Ascomycota, testing, at the same time, a new bioinformatic tool for extracting and managing sequence databases annotations, in order to identify the mitochondrial gene regions where introns are missing so as to propose them as species markers. METHODS: The general trend towards a large occurrence of introns in the mitochondrial genome of Fungi has been confirmed in Ascomycota by an extensive bioinformatic analysis, performed on all the entries concerning 11 mitochondrial protein coding genes and 2 mitochondrial rRNA (ribosomal RNA) specifying genes, belonging to this phylum, available in public nucleotide sequence databases. A new query approach has been developed to retrieve effectively introns information included in these entries. RESULTS: After comparing the new query-based approach with a blast-based procedure, with the aim of designing a faithful Ascomycota mitochondrial intron map, the first method appeared clearly the most accurate. Within this map, despite the large pervasiveness of introns, it is possible to distinguish specific regions comprised in several genes, including the full NADH dehydrogenase subunit 6 (ND6) gene, which could be considered as barcode candidates for Ascomycota due to their paucity of introns and to their length, above 400 bp, comparable to the lower end size of the length range of barcodes successfully used in animals. CONCLUSION: The development of the new query system described here would answer the pressing requirement to improve drastically the bioinformatics support to the DNA Barcode Initiative. The large scale investigation of Ascomycota mitochondrial introns performed through this tool, allowing to exclude the introns-rich sequences from the barcode candidates exploration, could be the first step towards a mitochondrial barcoding strategy for these organisms, similar to the standard approach employed in metazoans.
+
+-Ascomycota (+genetics)
+-DNA, Mitochondrial (+chemistry)
+-Genes, Fungal
+-Genetic Markers
+-Genome, Fungal
+-Genome, Mitochondrial
++Introns
+
+pii:1471-2105-10-S6-S15
+doi:10.1186/1471-2105-10-S6-S15
+pubmed:19534740
+pmc:PMC2697638
+

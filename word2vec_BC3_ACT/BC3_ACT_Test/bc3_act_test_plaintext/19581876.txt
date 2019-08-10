@@ -1,0 +1,30 @@
+Nat. Biotechnol.
+
+Synergistic drug combinations tend to improve therapeutically relevant selectivity.
+
+J Lehár, AS Krueger, W Avery, AM Heilbut, LM Johansen, ER Price, RJ Rickles, GF Short, JE Staunton, X Jin, MS Lee, GR Zimmermann, AA Borisy
+
+Drug combinations are a promising strategy to overcome the compensatory mechanisms and unwanted off-target effects that limit the utility of many potential drugs. However, enthusiasm for this approach is tempered by concerns that the therapeutic synergy of a combination will be accompanied by synergistic side effects. Using large scale simulations of bacterial metabolism and 94,110 multi-dose experiments relevant to diverse diseases, we provide evidence that synergistic drug combinations are generally more specific to particular cellular contexts than are single agent activities. We highlight six combinations whose selective synergy depends on multitarget drug activity. For one anti-inflammatory example, we show how such selectivity is achieved through differential expression of the drugs' targets in cell types associated with therapeutic, but not toxic, effects and validate its therapeutic relevance in a rat model of asthma. The context specificity of synergistic combinations creates many opportunities for therapeutically relevant selectivity and enables improved control of complex biological systems.
+
+-Animals
+-Cell Line, Tumor
+-Disease Models, Animal
+-Drug Discovery
++Drug Synergism
++Drug Therapy, Combination
+-Escherichia coli (-drug effects; -growth & development)
+-Humans
+-Male
+-Models, Biological
+-Pharmaceutical Preparations (+administration & dosage; -adverse effects)
++Pharmacology
+-Rats
+-Rats, Sprague-Dawley
+-Reproducibility of Results
+
+pii:nbt.1549
+doi:10.1038/nbt.1549
+pubmed:19581876
+mid:NIHMS121576
+pmc:PMC2708317
+

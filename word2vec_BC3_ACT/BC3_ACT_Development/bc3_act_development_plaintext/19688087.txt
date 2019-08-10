@@ -1,0 +1,17 @@
+PLoS ONE
+
+The impact of boundary spanning scholarly publications and patents.
+
+X Shi, LA Adamic, BL Tseng, GS Clarkson
+
+BACKGROUND: Human knowledge and innovation are recorded in two media: scholarly publication and patents. These records not only document a new scientific insight or new method developed, but they also carefully cite prior work upon which the innovation is built. METHODOLOGY: We quantify the impact of information flow across fields using two large citation dataset: one spanning over a century of scholarly work in the natural sciences, social sciences and humanities, and second spanning a quarter century of United States patents. CONCLUSIONS: We find that a publication's citing across disciplines is tied to its subsequent impact. In the case of patents and natural science publications, those that are cited at least once are cited slightly more when they draw on research outside of their area. In contrast, in the social sciences, citing within one's own field tends to be positively correlated with impact.
+
+-Journal Impact Factor
++Patents as Topic
++Publishing
+-United States
+
+doi:10.1371/journal.pone.0006547
+pubmed:19688087
+pmc:PMC2722725
+

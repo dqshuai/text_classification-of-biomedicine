@@ -1,0 +1,36 @@
+Oncogene
+
+Proliferation defects and genome instability in cells lacking Cul4A.
+
+D Kopanja, T Stoyanova, MN Okur, E Huang, S Bagchi, P Raychaudhuri
+
+The Cul4A gene, which encodes a core component of a cullin-based E3 ubiquitin ligase complex, is overexpressed in breast and hepatocellular cancers. In breast cancers, overexpression of Cul4A strongly correlates with poor prognosis. In addition, Cul4A is required for early embryonic development. The early lethality of mouse embryos prevented a detailed analysis of the functions of Cul4A. Here, we used a strain of mice carrying floxed alleles of Cul4A to study its role in cell division, in vitro and in vivo. Embryonic fibroblasts (MEFs) show a severe deficiency in cell proliferation after deletion of Cul4A. We observed that the Cul4A protein is abundantly expressed in the brain, liver and the mammary tissue of pregnant mice. Deletion of Cul4A in the liver impairs hepatocyte proliferation during regeneration after carbon tetrachloride (CCl(4))-induced injury. The Cul4A-deleted cells are slow in entering the S phase, and are deficient in progressing through the early M phase. Several cell-cycle regulators, including p53 and p27Kip1, are deregulated in the Cul4A-deleted cells. Expression of a dominant negative mutant of p53 causes significant reversal of the proliferation defects in Cul4A-deleted cells. The Cul4A-deleted cells show an aberrant number of centrosome, multipolar spindles and micronuclei formation. Furthermore, those cells are sensitive to UV irradiation and show reduced levels of unscheduled DNA synthesis (UDS). Together, our observations indicate that Cul4A is required for efficient cell proliferation, control of centrosome amplification and genome stability.
+
+-Animals
+-Carbon Tetrachloride (-toxicity)
+-Cell Division
+-Cell Line
+-Cell Proliferation
+-Centrosome (-metabolism)
+-Chromosomal Instability
+-Cullin Proteins (+genetics)
+-Cyclin-Dependent Kinase Inhibitor p27 (-metabolism)
+-DNA (-biosynthesis)
+-DNA Repair
++Genomic Instability
+-Hepatocytes (-pathology)
+-Humans
+-Liver (-drug effects; -injuries; -pathology)
+-Male
+-Mice
+-S Phase
++Sequence Deletion
+-Tumor Suppressor Protein p53 (-antagonists & inhibitors; -metabolism)
+-Ultraviolet Rays
+
+pii:onc200986
+doi:10.1038/onc.2009.86
+pubmed:19430492
+mid:NIHMS105938
+pmc:PMC2705479
+

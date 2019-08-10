@@ -1,0 +1,26 @@
+Biophys. J.
+
+Probing energetics of Abeta fibril elongation by molecular dynamics simulations.
+
+T Takeda, DK Klimov
+
+Using replica exchange molecular dynamics simulations and an all-atom implicit solvent model, we probed the energetics of Abeta(10-40) fibril growth. The analysis of the interactions between incoming Abeta peptides and the fibril led us to two conclusions. First, considerable variations in fibril binding propensities are observed along the Abeta sequence. The peptides in the fibril and those binding to its edge interact primarily through their N-termini. Therefore, the mutations affecting the Abeta positions 10-23 are expected to have the largest impact on fibril elongation compared with those occurring in the C-terminus and turn. Second, we performed weak perturbations of the binding free energy landscape by scanning partial deletions of side-chain interactions at various Abeta sequence positions. The results imply that strong side-chain interactions--in particular, hydrophobic contacts--impede fibril growth by favoring disordered docking of incoming peptides. Therefore, fibril elongation may be promoted by moderate reduction of Abeta hydrophobicity. The comparison with available experimental data is presented.
+
+-Amyloid beta-Protein (+chemistry; -genetics; -metabolism)
++Computer Simulation
+-Hydrogen Bonding
+-Hydrophobicity
++Models, Chemical
+-Models, Molecular
+-Mutation
+-Peptide Fragments (+chemistry; -genetics; -metabolism)
+-Probability
+-Protein Binding
+-Protein Conformation
++Protein Multimerization
+
+pii:S0006-3495(09)00698-5
+doi:10.1016/j.bpj.2009.03.015
+pubmed:19486667
+pmc:PMC2711452
+

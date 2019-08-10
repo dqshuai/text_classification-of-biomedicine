@@ -1,0 +1,26 @@
+PLoS Comput. Biol.
+
+A correspondence between solution-state dynamics of an individual protein and the sequence and conformational diversity of its family.
+
+GD Friedland, NA Lakomek, C Griesinger, J Meiler, T Kortemme
+
+Conformational ensembles are increasingly recognized as a useful representation to describe fundamental relationships between protein structure, dynamics and function. Here we present an ensemble of ubiquitin in solution that is created by sampling conformational space without experimental information using "Backrub" motions inspired by alternative conformations observed in sub-Angstrom resolution crystal structures. Backrub-generated structures are then selected to produce an ensemble that optimizes agreement with nuclear magnetic resonance (NMR) Residual Dipolar Couplings (RDCs). Using this ensemble, we probe two proposed relationships between properties of protein ensembles: (i) a link between native-state dynamics and the conformational heterogeneity observed in crystal structures, and (ii) a relation between dynamics of an individual protein and the conformational variability explored by its natural family. We show that the Backrub motional mechanism can simultaneously explore protein native-state dynamics measured by RDCs, encompass the conformational variability present in ubiquitin complex structures and facilitate sampling of conformational and sequence variability matching those occurring in the ubiquitin protein family. Our results thus support an overall relation between protein dynamics and conformational changes enabling sequence changes in evolution. More practically, the presented method can be applied to improve protein design predictions by accounting for intrinsic native-state dynamics.
+
+-Amino Acid Sequence
+-Computational Biology (+methods)
+-Crystallography, X-Ray
+-Models, Molecular
+-Models, Statistical
+-Nuclear Magnetic Resonance, Biomolecular
++Protein Conformation
+-Proteins (+chemistry)
+-Reproducibility of Results
+-Sequence Alignment
+-Sequence Analysis, Protein
+-Temperature
+-Ubiquitin (+chemistry)
+
+doi:10.1371/journal.pcbi.1000393
+pubmed:19478996
+pmc:PMC2682763
+

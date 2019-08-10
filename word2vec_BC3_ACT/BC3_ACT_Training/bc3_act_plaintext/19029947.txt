@@ -1,0 +1,27 @@
+EMBO Rep.
+
+SHARP1/DEC2 inhibits adipogenic differentiation by regulating the activity of C/EBP.
+
+NT Gulbagci, L Li, B Ling, S Gopinadhan, M Walsh, M Rossner, KA Nave, R Taneja
+
+SHARP1, a basic helix-loop-helix transcription factor, is expressed in many cell types; however, the mechanisms by which it regulates cellular differentiation remain largely unknown. Here, we show that SHARP1 negatively regulates adipogenesis. Although expression of the early marker CCAAT/enhancer binding protein beta (C/EBPbeta) is not altered, its crucial downstream targets C/EBPalpha and peroxisome proliferator-activated receptor gamma (PPARgamma) are downregulated by SHARP1. Protein interaction studies confirm that SHARP1 interacts with and inhibits the transcriptional activity of both C/EBPbeta and C/EBPalpha, and enhances the association of C/EBPbeta with histone deacetylase 1 (HDAC1). Consistently, in SHARP1-expressing cells, HDAC1 and the histone methyltransferase G9a are retained at the C/EBP regulatory sites on the C/EBPalpha and PPARgamma2 promoters during differentiation, resulting in inhibition of their expression. Interestingly, treatment with troglitazone results in displacement of HDAC1 and G9a, and rescues the differentiation defect of SHARP1-overexpressing cells. Our data indicate that SHARP1 inhibits adipogenesis through the regulation of C/EBP activity, which is essential for PPARgamma-ligand-dependent displacement of co-repressors from adipogenic promoters.
+
++Adipogenesis
+-Animals
+-CCAAT-Enhancer-Binding Protein-alpha (+metabolism)
+-CCAAT-Enhancer-Binding Protein-beta (+metabolism)
+-Cells, Cultured
+-Histone Deacetylases (-genetics; -metabolism)
+-Histone-Lysine N-Methyltransferase
+-Mice
+-Mice, Knockout
+-Promoter Regions, Genetic (-genetics)
+-Protein Binding
+-Protein Methyltransferases (-genetics; -metabolism)
+-Transcription Factors (-deficiency; -genetics; +metabolism)
+
+pii:embor2008207
+doi:10.1038/embor.2008.207
+pubmed:19029947
+pmc:PMC2613201
+

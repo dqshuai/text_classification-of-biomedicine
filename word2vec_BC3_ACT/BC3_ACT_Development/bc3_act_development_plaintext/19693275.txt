@@ -1,0 +1,28 @@
+PLoS ONE
+
+Involvement of VDAC, Bax and ceramides in the efflux of AIF from mitochondria during curcumin-induced apoptosis.
+
+A Scharstuhl, HA Mutsaers, SW Pennings, FG Russel, FA Wagener
+
+BACKGROUND: We previously identified curcumin as a potent inducer of fibroblast apoptosis, which could be used to treat hypertrophic scar formation. Here we investigated the underlying mechanism of this process. PRINCIPAL FINDINGS: Curcumin-induced apoptosis could not be blocked by caspase-inhibitors and we could not detect any caspase-3/7 activity. Curcumin predominantly induced mitochondria-mediated ROS formation and stimulated the expression of the redox-sensitive pro-apoptotic factor p53. Inhibition of the pro-apoptotic signaling enzyme glycogen synthase kinase-3beta (GSK-3beta) blocked curcumin-induced apoptosis. Apoptosis was associated with high molecular weight DNA damage, a possible indicator of apoptosis-inducing factor (AIF) activity. Indeed, curcumin caused nuclear translocation of AIF, which could be blocked by the antioxidant N-acetyl cysteine. We next investigated how AIF is effluxed from mitochondria in more detail. The permeability transition pore complex (PTPC), of which the voltage-dependent anion channel (VDAC) is a component, could be involved since the VDAC-inhibitor DIDS (4,4'-diisothiocyanatostilbene-2,2'-disulfonic acid) efficiently blocked AIF translocation. However, PTPC is not involved in AIF release since cyclosporine A, a specific inhibitor of the complex did not block apoptosis. Alternatively, the pro-apoptotic protein Bax could have formed mitochondrial channels and interacted with VDAC. Curcumin caused mitochondrial translocation of Bax, which was blocked by DIDS, suggesting a Bax-VDAC interaction. Interestingly, ceramide channels can also release apoptogenic factors from mitochondria and we found that addition of ceramide induced caspase-independent apoptosis. Surprisingly, this process could also be blocked by DIDS, suggesting the concerted action of Bax, VDAC and ceramide in the efflux of AIF from the mitochondrion. CONCLUSIONS: Curcumin-induced fibroblast apoptosis is totally caspase-independent and relies on the mitochondrial formation of ROS and the subsequent nuclear translocation of AIF, which is released from a mitochondrial pore that involves VDAC, Bax and possibly ceramides. The composition of the AIF-releasing channel seems to be much more complex than previously thought.
+
+-Apoptosis (+drug effects)
+-Apoptosis Inducing Factor (+metabolism)
+-Caspases (-metabolism)
+-Ceramides (+physiology)
+-Curcumin (+pharmacology)
+-DNA (-chemistry; -metabolism)
+-Enzyme Inhibitors (-pharmacology)
+-HSP70 Heat-Shock Proteins (-metabolism)
+-Humans
+-Mitochondria (+drug effects; -metabolism)
+-Molecular Weight
+-Protein Transport
+-Reactive Oxygen Species (-metabolism)
+-Voltage-Dependent Anion Channels (+physiology)
+-bcl-2-Associated X Protein (-metabolism; +physiology)
+
+doi:10.1371/journal.pone.0006688
+pubmed:19693275
+pmc:PMC2725322
+

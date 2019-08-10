@@ -1,0 +1,31 @@
+EMBO J.
+
+Viral targeting of DEAD box protein 3 reveals its role in TBK1/IKKepsilon-mediated IRF activation.
+
+M Schröder, M Baran, AG Bowie
+
+Viruses are detected by different classes of pattern recognition receptors (PRRs), such as Toll-like receptors and RIG-like helicases. Engagement of PRRs leads to activation of interferon (IFN)-regulatory factor 3 (IRF3) and IRF7 through IKKepsilon and TBK1 and consequently IFN-beta induction. Vaccinia virus (VACV) encodes proteins that manipulate host signalling, sometimes by targeting uncharacterised proteins. Here, we describe a novel VACV protein, K7, which can inhibit PRR-induced IFN-beta induction by preventing TBK1/IKKepsilon-mediated IRF activation. We identified DEAD box protein 3 (DDX3) as a host target of K7. Expression of DDX3 enhanced Ifnb promoter induction by TBK1/IKKepsilon, whereas knockdown of DDX3 inhibited this, and virus- or dsRNA-induced IRF3 activation. Further, dominant-negative DDX3 inhibited virus-, dsRNA- and cytosolic DNA-stimulated Ccl5 promoter induction, which is also TBK1/IKKepsilon dependent. Both K7 binding and enhancement of Ifnb induction mapped to the N-terminus of DDX3. Furthermore, virus infection induced an association between DDX3 and IKKepsilon. Therefore, this study shows for the first time the involvement of a DEAD box helicase in TBK1/IKKepsilon-mediated IRF activation and Ifnb promoter induction.
+
+-Amino Acid Sequence
+-Cell Line
+-Cell Nucleus (-metabolism)
+-Chemokine CCL5 (-genetics)
+-Cytoplasm (-metabolism)
+-DEAD-box RNA Helicases (+metabolism)
+-Humans
+-I-kappa B Kinase (+metabolism)
+-Interferon Regulatory Factor-3 (+metabolism)
+-Interferon Regulatory Factor-7 (-metabolism)
+-Interferon-beta (-biosynthesis)
+-Molecular Sequence Data
+-Promoter Regions, Genetic
+-Protein-Serine-Threonine Kinases (+metabolism)
+-Receptors, Pattern Recognition (-metabolism)
+-Vaccinia virus (-metabolism)
+-Viral Proteins (+physiology)
+
+pii:emboj2008143
+doi:10.1038/emboj.2008.143
+pubmed:18636090
+pmc:PMC2516890
+

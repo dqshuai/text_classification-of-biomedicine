@@ -1,0 +1,21 @@
+Biophys. J.
+
+Optimal feedback strength for noise suppression in autoregulatory gene networks.
+
+A Singh, JP Hespanha
+
+Autoregulatory feedback loops, where the protein expressed from a gene inhibits or activates its own expression are common gene network motifs within cells. In these networks, stochastic fluctuations in protein levels are attributed to two factors: intrinsic noise (i.e., the randomness associated with mRNA/protein expression and degradation) and extrinsic noise (i.e., the noise caused by fluctuations in cellular components such as enzyme levels and gene-copy numbers). We present results that predict the level of both intrinsic and extrinsic noise in protein numbers as a function of quantities that can be experimentally determined and/or manipulated, such as the response time of the protein and the level of feedback strength. In particular, we show that for a fixed average number of protein molecules, decreasing response times leads to attenuation of both protein intrinsic and extrinsic noise, with the extrinsic noise being more sensitive to changes in the response time. We further show that for autoregulatory networks with negative feedback, the protein noise levels can be minimal at an optimal level of feedback strength. For such cases, we provide an analytical expression for the highest level of noise suppression and the amount of feedback that achieves this minimal noise. These theoretical results are shown to be consistent and explain recent experimental observations. Finally, we illustrate how measuring changes in the protein noise levels as the feedback strength is manipulated can be used to determine the level of extrinsic noise in these gene networks.
+
++Feedback, Physiological
+-Gene Expression Regulation
++Gene Regulatory Networks
+-Kinetics
+-Models, Genetic
+-Proteins (-metabolism)
+-Reproducibility of Results
+
+pii:S0006-3495(09)00668-7
+doi:10.1016/j.bpj.2009.02.064
+pubmed:19450473
+pmc:PMC2712194
+

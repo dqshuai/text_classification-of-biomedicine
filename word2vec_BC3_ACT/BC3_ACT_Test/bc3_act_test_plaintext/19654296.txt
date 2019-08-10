@@ -1,0 +1,28 @@
+Cancer Res.
+
+Cancer-specific high-throughput annotation of somatic mutations: computational prediction of driver missense mutations.
+
+H Carter, S Chen, L Isik, S Tyekucheva, VE Velculescu, KW Kinzler, B Vogelstein, R Karchin
+
+Large-scale sequencing of cancer genomes has uncovered thousands of DNA alterations, but the functional relevance of the majority of these mutations to tumorigenesis is unknown. We have developed a computational method, called Cancer-specific High-throughput Annotation of Somatic Mutations (CHASM), to identify and prioritize those missense mutations most likely to generate functional changes that enhance tumor cell proliferation. The method has high sensitivity and specificity when discriminating between known driver missense mutations and randomly generated missense mutations (area under receiver operating characteristic curve, >0.91; area under Precision-Recall curve, >0.79). CHASM substantially outperformed previously described missense mutation function prediction methods at discriminating known oncogenic mutations in P53 and the tyrosine kinase epidermal growth factor receptor. We applied the method to 607 missense mutations found in a recent glioblastoma multiforme sequencing study. Based on a model that assumed the glioblastoma multiforme mutations are a mixture of drivers and passengers, we estimate that 8% of these mutations are drivers, causally contributing to tumorigenesis.
+
+-Algorithms
+-Cell Transformation, Neoplastic (+genetics)
+-Computational Biology (+methods)
++Databases, Genetic
+-Genome-Wide Association Study (-methods)
+-Glioblastoma (-classification; -genetics)
+-Humans
+-Mutation, Missense (+physiology)
+-Neoplasms (-classification; +genetics)
+-Polymorphism, Single Nucleotide
+-ROC Curve
+-Sensitivity and Specificity
+-Software Design
+
+pii:0008-5472.CAN-09-1133
+doi:10.1158/0008-5472.CAN-09-1133
+pubmed:19654296
+mid:NIHMS127672
+pmc:PMC2763410
+

@@ -1,0 +1,29 @@
+Biochemistry
+
+Solution structural dynamics of HIV-1 reverse transcriptase heterodimer.
+
+JM Seckler, KJ Howard, MD Barkley, PL Wintrode
+
+Crystal structures and simulations suggest that conformational changes are critical for the function of HIV-1 reverse transcriptase. The enzyme is an asymmetric heterodimer of two subunits, p66 and p51. The two subunits have the same N-terminal sequence, with the p51 subunit lacking the C-terminal RNase H domain. We used hydrogen exchange mass spectrometry to probe the structural dynamics of RT. H/D exchange revealed that the fingers and palm subdomains of both subunits form the stable core of the heterodimer. In the crystal structure, the tertiary fold of the p51 subunit is more compact than that of the polymerase domain of the p66 subunit, yet both subunits show similar flexibility. The p66 subunit contains the polymerase and RNase H catalytic sites. H/D exchange indicated that the RNase H domain of p66 is very flexible. The beta-sheet beta12-beta13-beta14 lies at the base of the thumb subdomain of p66 and contains highly conserved residues involved in template/primer binding and NNRTI binding. Using the unique ability of hydrogen exchange mass spectrometry to resolve slowly interconverting species, we found that beta-sheet beta12-beta13-beta14 undergoes slow cooperative unfolding with a t(1/2) of <20 s. The H/D exchange results are discussed in relation to existing structural, simulation, and sequence information.
+
+-Amino Acid Sequence
+-Animals
+-Deuterium (-chemistry; -metabolism)
+-HIV Reverse Transcriptase (+chemistry; -genetics)
+-Hydrogen (-chemistry; -metabolism)
+-Hydrogen Bonding
+-Mass Spectrometry (-methods)
+-Models, Molecular
+-Molecular Sequence Data
+-Peptides (-chemistry; -genetics)
++Protein Conformation
+-Protein Denaturation
+-Protein Folding
+-Protein Multimerization
+-Protein Subunits (+chemistry; -genetics)
+
+doi:10.1021/bi900790x
+pubmed:19594135
+mid:NIHMS168125
+pmc:PMC2814253
+

@@ -1,0 +1,40 @@
+BioTechniques
+
+Bioluminescent CXCL12 fusion protein for cellular studies of CXCR4 and CXCR7.
+
+K Luker, M Gupta, G Luker
+
+Chemokine CXCL12 and its two known receptors, CXCR4 and CXCR7, may play a role in diseases including tumor growth and metastasis, atherosclerosis, and HIV infection. Therefore, these molecules may be promising targets for drug development. While studies of cell signaling and high-throughput screening for drug discovery increasingly are based on luminescent assays because of their high sensitivity and signal-to-background ratio, there currently is no bioluminescent assay for chemokine[#x02013]chemokine receptor binding. To develop a bioluminescent probe for chemokine binding and cellular uptake, we fused CXCL12 to Gaussia luciferase (GL), an ATP-independent enzyme that is the smallest known luciferase. Fusing CXCL12 to Gaussia luciferase (CXCL12-GL) did not alter the bioluminescence emission spectrum and only minimally affected enzyme function under varying conditions of pH, temperature, and NaCl concentration. CXCL12-GL also activated CXCR4-dependent signaling to a comparable extent as unfused CXCL12. Using multiwell plate assays, we established that CXCR7 increases cell-associated CXCL12 to a significantly greater extent than CXCR4. We also showed that CXCL12-GL can be used to quantify inhibition of chemokine receptor binding by compounds that specifically target CXCR7. These data validate CXCL12-GL as a bioluminescent probe to investigate molecular functions of CXCR4 and CXCR7 and screen for compounds that modulate ligand-receptor binding.
+
+-Animals
+-Biological Assay
+-Breast Neoplasms (-metabolism; -pathology)
+-Cell Line
+-Cell Line, Tumor
+-Chemokine CXCL12 (+metabolism)
+-Copepoda (-enzymology; -genetics)
+-Drug Discovery
+-Female
+-Genetic Vectors
+-Green Fluorescent Proteins (-metabolism)
+-Humans
+-Imidazoles (-metabolism)
+-Kidney (-cytology)
+-Lentivirus (-genetics)
+-Luciferases (-chemistry; -genetics; -metabolism)
+-Luminescent Measurements (+methods)
+-Luminescent Proteins (-genetics; -metabolism)
+-Promoter Regions, Genetic
+-Protein Binding (-genetics)
+-Pyrazines (-metabolism)
+-Receptors, CXCR (+metabolism)
+-Receptors, CXCR4 (+metabolism)
+-Recombinant Fusion Proteins (-chemistry; -metabolism)
+-Signal Transduction (-genetics)
+-Substrate Specificity
+-Transduction, Genetic
+
+pii:000113126
+doi:10.2144/000113126
+pubmed:19594447
+

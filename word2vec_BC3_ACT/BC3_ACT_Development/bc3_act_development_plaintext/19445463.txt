@@ -1,0 +1,25 @@
+J. Am. Chem. Soc.
+
+Molecular dynamics of water-mediated interactions of a linear benzimidazole-biphenyl diamidine with the DNA minor groove.
+
+P Athri, WD Wilson
+
+DB921 has a benzimidazole-biphenyl system with terminal amidines that gives the compound a linear conformation with a radius of curvature that does not match the DNA minor groove shape. Surprisingly, the compound binds in the groove with an unusually high equilibrium constant [Miao, Y.; Lee, M. P. H.; Parkinson, G. N.; Batista-Parra, A.; Ismail, M. A.; Neidle, S.; Boykin, D. W.; Wilson, W. D. Biochemistry 2005, 44, 14701-14708]. X-ray crystallographic analysis of DB921 bound to -AATT- in d(CGCGAATTCGCG)(2) showed that the benzimidazole is in position to directly interact with bases at the floor of the groove, while the phenylamidine of DB921 forms indirect contacts with the bases through an interfacial water. The DB921-water pair forms a curved, flexible module with a high K(a) (or a low K(d)) value of binding. To better understand the dynamics of the DB921-DNA complex and how water can be used in the design of compounds to recognize DNA, a 100 ns molecular dynamics simulation of the complex was conducted. In addition to the X-ray conformation, some significantly variant, dynamic conformations, which had additional interfacial water molecules between DB921 and DNA, appeared in the MD simulation. The benzimidazole contacts remained relatively constant through the entire simulation. The biphenylamidine end of the bound molecule, however, undergoes much larger changes in orientation relative to the floor of the groove as well as variations in the type of water interactions. The results provide an understanding of how water couples the linear DB921 compound to the minor groove for tight binding, without a large unfavorable contribution to the entropy of binding.
+
+-Benzimidazoles (+chemistry)
+-Biphenyl Compounds (+chemistry)
+-Crystallography, X-Ray
+-DNA (+chemistry)
+-Entropy
+-Hydrogen Bonding
+-Kinetics
+-Models, Molecular
+-Nucleic Acid Conformation
+-Pentamidine (+chemistry)
+-Water (+chemistry)
+
+doi:10.1021/ja809249h
+pubmed:19445463
+mid:NIHMS117748
+pmc:PMC2698132
+

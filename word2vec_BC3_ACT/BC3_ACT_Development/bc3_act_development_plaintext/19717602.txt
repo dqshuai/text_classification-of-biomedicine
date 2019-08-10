@@ -1,0 +1,26 @@
+J. Bacteriol.
+
+The ArsR repressor mediates arsenite-dependent regulation of arsenate respiration and detoxification operons of Shewanella sp. strain ANA-3.
+
+JN Murphy, CW Saltikov
+
+Microbial arsenate reduction affects the fate and transport of arsenic in the environment. Arsenate respiratory (arr) and detoxifying (ars) reduction pathways in Shewanella sp. strain ANA-3 are induced by arsenite and under anaerobic conditions. Here it is shown that an ArsR family protein, called ArsR2, regulates the arsenate respiratory reduction pathway in response to elevated arsenite under anaerobic conditions. Strains lacking arsR2 grew faster in the presence of high levels of arsenite (3 mM). Moreover, expression of arrA and arsC (arsenate reductase-encoding genes) in the DeltaarsR2 mutant of ANA-3 were increased in cells grown under anaerobic conditions and in the absence of arsenic. Mutations in putative arsenic binding amino acid residues in ArsR2 (substitutions of Cys-30 and Cys-32 with Ser) resulted in ANA-3 strains that exhibited anaerobic growth deficiencies with high levels of arsenite and arsenate. DNA binding studies with purified ArsR2 showed that ArsR2 binding to the arr promoter region was impaired by trivalent arsenicals such as arsenite and phenylarsine oxide. However, ArsR2 binding occurred in the presence of arsenate. A second known regulator of the arr operon, cyclic AMP (cAMP)-cAMP receptor protein (CRP), could bind simultaneously with ArsR2 within the arr promoter region. It is concluded that ArsR2 is most likely the major arsenite-dependent regulator of arr and ars operons in Shewanella sp. strain ANA-3. However, anaerobic growth on arsenate will require coregulation with global regulators such as cAMP-CRP.
+
+-Amino Acid Sequence
+-Arsenates (+pharmacology)
+-Arsenites (+pharmacology)
+-Bacterial Proteins (-genetics; +metabolism)
+-Fumarates (-pharmacology)
+-Gene Expression Regulation, Bacterial (-physiology)
+-Molecular Sequence Data
+-Mutation
+-Oxygen Consumption
+-Protein Binding
+-Shewanella (-drug effects; -genetics; +metabolism)
+-Trans-Activators (-genetics; +metabolism)
+
+pii:JB.00801-09
+doi:10.1128/JB.00801-09
+pubmed:19717602
+pmc:PMC2795299
+

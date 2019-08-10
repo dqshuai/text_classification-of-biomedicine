@@ -1,0 +1,28 @@
+J. Biol. Chem.
+
+Interaction of torsinA with its major binding partners is impaired by the dystonia-associated DeltaGAG deletion.
+
+TV Naismith, S Dalal, PI Hanson
+
+Early onset (DYT1) torsion dystonia is a dominantly inherited movement disorder associated with a three-base pair (DeltaGAG) deletion that removes a glutamic acid residue from the protein torsinA. TorsinA is an essential AAA(+) (ATPases associated with a variety of cellular activities) ATPase found in the endoplasmic reticulum and nuclear envelope of higher eukaryotes, but what it does and how changes caused by the DeltaGAG deletion lead to dystonia are not known. Here, we asked how the DYT1 mutation affects association of torsinA with interacting proteins. Using immunoprecipitation and mass spectrometry, we first established that the related transmembrane proteins LULL1 and LAP1 are prominent binding partners for torsinA in U2OS cells. Comparative analysis demonstrates that these two proteins are targeted to the endoplasmic reticulum or nuclear envelope by their divergent N-terminal domains. Binding of torsinA to their C-terminal lumenal domains is stabilized when residues in any one of three motifs implicated in ATP hydrolysis (Walker B, sensor 1, and sensor 2) are mutated. Importantly, the DeltaGAG deletion does not stabilize this binding. Indeed, deleting the DeltaGAG encoded glutamic acid residue from any of the three ATP hydrolysis mutants destabilizes their association with LULL1 and LAP1C, suggesting a possible basis for loss of torsinA function. Impaired interaction of torsinA with LULL1 and/or LAP1 may thus contribute to the development of dystonia.
+
+-Amino Acid Sequence
+-Animals
+-Carrier Proteins (-genetics; -metabolism)
+-Cell Line
+-Dystonia Musculorum Deformans (+genetics; -metabolism)
+-HSC70 Heat-Shock Proteins (-genetics; -metabolism)
+-Humans
+-Membrane Proteins (-genetics; -metabolism)
++Molecular Chaperones (-genetics; -metabolism)
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Protein Binding
+-Recombinant Fusion Proteins (-genetics; -metabolism)
++Sequence Deletion
+
+pii:M109.020164
+doi:10.1074/jbc.M109.020164
+pubmed:19651773
+pmc:PMC2788837
+

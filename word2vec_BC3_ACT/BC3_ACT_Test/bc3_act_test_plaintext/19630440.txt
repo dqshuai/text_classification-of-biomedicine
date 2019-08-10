@@ -1,0 +1,22 @@
+Biochemistry
+
+Stimulation of the maltose transporter ATPase by unliganded maltose binding protein.
+
+AD Gould, PG Telmer, BH Shilton
+
+ATP hydrolysis by the maltose transporter (MalFGK(2)) is regulated by maltose binding protein (MBP). Binding of maltose to MBP brings about a conformational change from open to closed that leads to a strong stimulation of the MalFGK(2) ATPase. In this study, we address the long-standing but enigmatic observation that unliganded MBP is also able to stimulate MalFGK(2). Although the mechanism of this stimulation is not understood, it is sometimes attributed to a small amount of closed (but unliganded) MBP that may exist in solution. To gain insight into how MBP regulates the MalFGK(2) ATPase, we have investigated whether the open or the closed conformation of MBP is responsible for MalFGK(2) stimulation in the absence of maltose. The effect of MBP concentration on the stimulation of MalFGK(2) was assessed: for unliganded MBP, the apparent K(M) for stimulation of MalFGK(2) was below 1 microM, while for maltose-bound MBP, the K(M) was approximately 15 microM. We show that engineered MBP molecules in which the open-closed equilibrium has been shifted toward the closed conformation have a decreased ability to stimulate MalFGK(2). These results indicate that stimulation of the MalFGK(2) ATPase by unliganded MBP does not proceed through a closed conformation and instead must operate through a different mechanism than stimulation by liganded MBP. One possible explanation is that the open conformation is able to activate the MalFGK(2) ATPase directly.
+
+-ATP-Binding Cassette Transporters (+chemistry; -genetics; -metabolism; +physiology)
+-Carrier Proteins (+chemistry; -genetics; +physiology)
+-Escherichia coli K12 (+enzymology; -genetics)
+-Escherichia coli Proteins (+chemistry; -genetics; -metabolism; +physiology)
+-Ligands
+-Maltose (-chemistry; +metabolism)
+-Monosaccharide Transport Proteins (+chemistry; -genetics; -metabolism; +physiology)
+-Protein Conformation
+
+doi:10.1021/bi9007066
+pubmed:19630440
+mid:NIHMS167237
+pmc:PMC2809251
+

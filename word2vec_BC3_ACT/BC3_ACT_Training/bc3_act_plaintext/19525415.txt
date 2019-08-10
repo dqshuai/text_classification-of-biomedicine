@@ -1,0 +1,30 @@
+Plant Cell
+
+A cell wall-degrading esterase of Xanthomonas oryzae requires a unique substrate recognition module for pathogenesis on rice.
+
+G Aparna, A Chatterjee, RV Sonti, R Sankaranarayanan
+
+Xanthomonas oryzae pv oryzae (Xoo) causes bacterial blight, a serious disease of rice (Oryza sativa). LipA is a secretory virulence factor of Xoo, implicated in degradation of rice cell walls and the concomitant elicitation of innate immune responses, such as callose deposition and programmed cell death. Here, we present the high-resolution structural characterization of LipA that reveals an all-helical ligand binding module as a distinct functional attachment to the canonical hydrolase catalytic domain. We demonstrate that the enzyme binds to a glycoside ligand through a rigid pocket comprising distinct carbohydrate-specific and acyl chain recognition sites where the catalytic triad is situated 15 A from the anchored carbohydrate. Point mutations disrupting the carbohydrate anchor site or blocking the pocket, even at a considerable distance from the enzyme active site, can abrogate in planta LipA function, exemplified by loss of both virulence and the ability to elicit host defense responses. A high conservation of the module across genus Xanthomonas emphasizes the significance of this unique plant cell wall-degrading function for this important group of plant pathogenic bacteria. A comparison with the related structural families illustrates how a typical lipase is recruited to act on plant cell walls to promote virulence, thus providing a remarkable example of the emergence of novel functions around existing scaffolds for increased proficiency of pathogenesis during pathogen-plant coevolution.
+
+-Amino Acid Sequence
+-Bacterial Proteins (+chemistry; -genetics; -physiology)
+-Binding Sites
+-Crystallography, X-Ray
+-Esterases (+chemistry; -physiology)
+-Glucosides (-chemistry; -metabolism)
+-Ligands
+-Models, Molecular
+-Molecular Sequence Data
+-Oryza sativa (+microbiology)
+-Point Mutation
+-Protein Structure, Tertiary
+-Sequence Alignment
+-Substrate Specificity
+-Virulence Factors (+chemistry; -physiology)
+-Xanthomonas (+enzymology; -pathogenicity)
+
+pii:tpc.109.066886
+doi:10.1105/tpc.109.066886
+pubmed:19525415
+pmc:PMC2714936
+

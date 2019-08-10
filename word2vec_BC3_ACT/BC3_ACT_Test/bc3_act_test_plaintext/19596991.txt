@@ -1,0 +1,25 @@
+J. Immunol.
+
+Trimer stabilization, oligomerization, and antibody-mediated cell surface immobilization improve the activity of soluble trimers of CD27L, CD40L, 41BBL, and glucocorticoid-induced TNF receptor ligand.
+
+A Wyzgol, N Müller, A Fick, S Munkel, GU Grigoleit, K Pfizenmaier, H Wajant
+
+For many ligands of the TNF family, trimer stability and oligomerization status are crucial determinants of receptor activation. However, for the immunostimulatory ligands CD27L, CD40L, 41BBL, and glucocorticoid-induced TNF receptor ligand (GITRL) detailed information regarding these requirements is lacking. Here, we comprehensively evaluated the effect of trimer stability and oligomerization on receptor activation by these ligands. Treatment with soluble Flag-tagged CD27L, 41BBL, and GITRL minimally activated receptor signaling, while Flag-CD40L was highly active. Oligomerization with anti-Flag Abs further enhanced the specific activity of Flag-CD40L 10-fold and of Flag-41BBL more than 200-fold, but it failed to activate Flag-CD27L and Flag-GITRL. We next investigated the relevance of trimer stability by introducing the tenascin-C (TNC) trimerization domain, yielding stabilized Flag-TNC-ligand trimers. Oligomerization with anti-Flag Ab potently activated signaling by Flag-TNC-CD27L and Flag-TNC-GITRL and, albeit to a lesser extent, Flag-TNC-CD40L and Flag-TNC-41BBL. Forced hexamerization, by introducing an Ig Fc domain, revealed that hexameric derivatives of Flag-TNC-41BBL, Flag-CD40L, and Flag-TNC-GITRL all activate receptor signaling with high efficiency, whereas hexameric Flag-CD27L variant left inactive. Finally, we attempted to selectively activate receptor signaling on targeted cells, by using Ab fragment (single-chain fragment variable region, scFv)-ligand fusion proteins, an approach previously applied to other TNF ligands. Target cell surface Ag-selective activation was achieved for scFv-41BBL, scFv-CD40L, and scFv-GITRL, although the latter two displayed already significant activity toward Ag-negative cells. In conclusion, our data establish that trimeric CD40L is active, 41BBL requires hexamerization, GITRL requires trimer stabilization, and CD27L requires trimer stabilization and oligomerization. Furthermore, surface immobilization might be exploited to gain locally enhanced ligand activity.
+
+-4-1BB Ligand (-immunology; -metabolism)
+-Animals
+-Antibodies (-metabolism)
+-Antigens, CD70 (-immunology; -metabolism)
+-CD40 Ligand (+immunology; +metabolism)
+-Mice
++Protein Multimerization
+-Protein Stability
+-Receptors, Tumor Necrosis Factor (-immunology; +metabolism)
+-Solubility
+-Tenascin (-pharmacology)
+-Tumor Necrosis Factors (-immunology; +metabolism)
+
+pii:jimmunol.0802597
+doi:10.4049/jimmunol.0802597
+pubmed:19596991
+

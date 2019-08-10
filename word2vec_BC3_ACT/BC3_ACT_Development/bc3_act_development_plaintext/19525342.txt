@@ -1,0 +1,21 @@
+J. Bacteriol.
+
+Overexpression of VpsS, a hybrid sensor kinase, enhances biofilm formation in Vibrio cholerae.
+
+NJ Shikuma, JC Fong, LS Odell, BS Perchuk, MT Laub, FH Yildiz
+
+Vibrio cholerae causes the disease cholera and inhabits aquatic environments. One key factor in the environmental survival of V. cholerae is its ability to form matrix-enclosed, surface-associated microbial communities known as biofilms. Mature biofilms rely on Vibrio polysaccharide to connect cells to each other and to a surface. We previously described a core regulatory network, which consists of two positive transcriptional regulators, VpsR and VpsT, and a negative transcriptional regulator HapR, that controls biofilm formation by regulating the expression of vps genes. In this study, we report the identification of a sensor histidine kinase, VpsS, which can control biofilm formation and activates the expression of vps genes. VpsS required the response regulator VpsR to activate vps expression. VpsS is a hybrid sensor histidine kinase that is predicted to contain both histidine kinase and response regulator domains, but it lacks a histidine phosphotransferase (HPT) domain. We determined that VpsS acts through the HPT protein LuxU, which is involved in a quorum-sensing signal transduction network in V. cholerae. In vitro analysis of phosphotransfer relationships revealed that LuxU can specifically reverse phosphotransfer to CqsS, LuxQ, and VpsS. Furthermore, mutational and phenotypic analyses revealed that VpsS requires the response regulator LuxO to activate vps expression, and LuxO positively regulates the transcription of vpsR and vpsT. The induction of vps expression via VpsS was also shown to occur independent of HapR. Thus, VpsS utilizes components of the quorum-sensing pathway to modulate biofilm formation in V. cholerae.
+
+-Bacterial Proteins (-genetics; -metabolism; +physiology)
+-Biofilms (+growth & development)
+-Gene Expression Regulation, Bacterial (-genetics; -physiology)
+-Peptide Hydrolases (-genetics; -metabolism)
+-Phosphoproteins (-genetics; -metabolism; -physiology)
+-Quorum Sensing (-genetics; -physiology)
+-Vibrio cholerae (+genetics; +growth & development; -metabolism)
+
+pii:JB.00401-09
+doi:10.1128/JB.00401-09
+pubmed:19525342
+pmc:PMC2725581
+

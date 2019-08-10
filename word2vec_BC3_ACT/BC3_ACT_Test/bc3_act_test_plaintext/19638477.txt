@@ -1,0 +1,26 @@
+Plant Cell
+
+Helical growth of the Arabidopsis mutant tortifolia2 does not depend on cell division patterns but involves handed twisting of isolated cells.
+
+H Buschmann, M Hauptmann, D Niessing, CW Lloyd, AR Schäffner
+
+Several factors regulate plant organ growth polarity. tortifolia2 (tor2), a right-handed helical growth mutant, has a conservative replacement of Arg-2 with Lys in the alpha-tubulin 4 protein. Based on a published high-resolution (2.89 A) tubulin structure, we predict that Arg-2 of alpha-tubulin forms hydrogen bonds with the GTPase domain of beta-tubulin, and structural modeling suggests that these contacts are interrupted in tor2. Consistent with this, we found that microtubule dynamicity is reduced in the tor2 background. We investigated the developmental origin of the helical growth phenotype using tor2. One hypothesis predicts that cell division patterns cause helical organ growth in Arabidopsis thaliana mutants. However, cell division patterns of tor2 root tips appear normal. Experimental uncoupling of cell division and expansion suggests that helical organ growth is based on cell elongation defects only. Another hypothesis is that twisting is due to inequalities in expansion of epidermal and cortical tissues. However, freely growing leaf trichomes of tor2 mutants show right-handed twisting and cortical microtubules form left-handed helices as early as the unbranched stage of trichome development. Trichome twisting is inverted in double mutants with tor3, a left-handed mutant. Single tor2 suspension cells also exhibit handed twisting. Thus, twisting of tor2 mutant organs appears to be a higher-order expression of the helical expansion of individual cells.
+
+-Arabidopsis (+genetics; +growth & development; -metabolism; -ultrastructure)
+-Arabidopsis Proteins (-genetics; -physiology)
+-Cell Division (-genetics; +physiology)
+-Hypocotyl (-genetics; -growth & development)
+-Microscopy, Confocal
+-Microscopy, Electron, Scanning
+-Microtubules (-metabolism)
+-Molecular Sequence Data
+-Mutation, Missense
+-Plant Roots (-genetics; -growth & development)
+-Plants, Genetically Modified (-genetics; -growth & development; -metabolism; -ultrastructure)
+-Tubulin (-genetics; -metabolism)
+
+pii:tpc.108.061242
+doi:10.1105/tpc.108.061242
+pubmed:19638477
+pmc:PMC2729594
+

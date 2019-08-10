@@ -1,0 +1,25 @@
+Cell Cycle
+
+From top to bottom: the two faces of HIPK2 for regulation of the hypoxic response.
+
+MA Calzado, L De La Vega, E Munoz, ML Schmitz
+
+Oxygen deprivation (hypoxia) triggers a complex network of signaling pathways that result in changed gene expression patterns in order to cope with this challenge. Recent work has identified the serine/threonine kinase HIPK2 as a novel regulatory protein participating in hypoxic gene regulation. HIPK2 can affect apical as well as downstream events during the hypoxic response. Under normoxic conditions, HIPK2-mediated phosphorylation of the ubiquitin E3 ligase Siah2 weakens mutual binding and destabilizes the phosphorylated E3 ligase. Low oxygen levels result in strongly increased HIPK2/Siah2 interactions that lead to efficient polyubiquitylation and proteasomal degradation of the kinase. At the apical level, the Siah2 inhibiting phosphorylations are lost, thus allowing Siah2-dependent proteolysis of dioxygenases which in turn allows for activation of transcription factor HIF. Downstream events of the hypoxic response are affected by the proteasomal elimination of HIPK2 from gene repressing complexes, an event that allows for full induction of gene expression. Thus HIPK2 can regulate a subset of HIF-dependent and -independent genes during the hypoxic response.
+
+-Anoxia (+enzymology; +genetics; -metabolism)
+-Apoptosis
+-Carrier Proteins (-genetics; +metabolism)
+-Gene Expression Regulation
+-Humans
+-Hypoxia-Inducible Factor 1 (-metabolism)
+-Nuclear Proteins (-metabolism)
+-Phosphorylation
+-Protein Binding
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-Signal Transduction
+-Ubiquitin-Protein Ligases (-metabolism)
+-Ubiquitination
+
+pii:8597
+pubmed:19448429
+

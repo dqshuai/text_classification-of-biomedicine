@@ -1,0 +1,18 @@
+PLoS Comput. Biol.
+
+Nash equilibria in multi-agent motor interactions.
+
+DA Braun, PA Ortega, DM Wolpert
+
+Social interactions in classic cognitive games like the ultimatum game or the prisoner's dilemma typically lead to Nash equilibria when multiple competitive decision makers with perfect knowledge select optimal strategies. However, in evolutionary game theory it has been shown that Nash equilibria can also arise as attractors in dynamical systems that can describe, for example, the population dynamics of microorganisms. Similar to such evolutionary dynamics, we find that Nash equilibria arise naturally in motor interactions in which players vie for control and try to minimize effort. When confronted with sensorimotor interaction tasks that correspond to the classical prisoner's dilemma and the rope-pulling game, two-player motor interactions led predominantly to Nash solutions. In contrast, when a single player took both roles, playing the sensorimotor game bimanually, cooperative solutions were found. Our methodology opens up a new avenue for the study of human motor interactions within a game theoretic framework, suggesting that the coupling of motor systems can lead to game theoretic solutions.
+
++Game Theory
+-Genetics, Population
+-Humans
++Models, Theoretical
++Motor Activity
+
+doi:10.1371/journal.pcbi.1000468
+pubmed:19680426
+pmc:PMC2714462
+

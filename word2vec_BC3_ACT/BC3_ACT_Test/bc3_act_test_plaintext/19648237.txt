@@ -1,0 +1,26 @@
+J. Bacteriol.
+
+A unique beta-1,2-mannosyltransferase of Thermotoga maritima that uses di-myo-inositol phosphate as the mannosyl acceptor.
+
+MV Rodrigues, N Borges, CP Almeida, P Lamosa, H Santos
+
+In addition to di-myo-inositol-1,3'-phosphate (DIP), a compatible solute widespread in hyperthermophiles, the organic solute pool of Thermotoga maritima comprises 2-(O-beta-D-mannosyl)-di-myo-inositol-1,3'-phosphate (MDIP) and 2-(O-beta-D-mannosyl-1,2-O-beta-D-mannosyl)-di-myo-inositol-1,3'-phosphate (MMDIP), two newly identified beta-1,2-mannosides. In cells grown under heat stress, MDIP was the major solute, accounting for 43% of the total pool; MMDIP and DIP accumulated to similar levels, each corresponding to 11.5% of the total pool. The synthesis of MDIP involved the transfer of the mannosyl group from GDP-mannose to DIP in a single-step reaction catalyzed by MDIP synthase. This enzyme used MDIP as an acceptor of a second mannose residue, yielding the di-mannosylated compound. Minor amounts of the tri-mannosylated form were also detected. With a genomic approach, putative genes for MDIP synthase were identified in the genome of T. maritima, and the assignment was confirmed by functional expression in Escherichia coli. Genes with significant sequence identity were found only in the genomes of Thermotoga spp., Aquifex aeolicus, and Archaeoglobus profundus. MDIP synthase of T. maritima had maximal activity at 95 degrees C and apparent K(m) values of 16 mM and 0.7 mM for DIP and GDP-mannose, respectively. The stereochemistry of MDIP was characterized by isotopic labeling and nuclear magnetic resonance (NMR): DIP selectively labeled with carbon 13 at position C1 of the l-inositol moiety was synthesized and used as a substrate for MDIP synthase. This beta-1,2-mannosyltransferase is unrelated to known glycosyltransferases, and within the domain Bacteria, it is restricted to members of the two deepest lineages, i.e., the Thermotogales and the Aquificales. To our knowledge, this is the first beta-1,2-mannosyltransferase characterized thus far.
+
+-Bacterial Proteins (-genetics; +metabolism)
+-Calorimetry, Differential Scanning
+-Gene Expression Regulation, Bacterial (-drug effects; -genetics)
+-Glutamates (-metabolism)
+-Inositol Phosphates (+metabolism)
+-Magnetic Resonance Spectroscopy
+-Mannosyltransferases (-genetics; +metabolism)
+-Molecular Structure
+-Recombinant Proteins (-genetics; -metabolism)
+-Sodium Chloride (-pharmacology)
+-Temperature
+-Thermotoga maritima (+enzymology)
+
+pii:JB.00598-09
+doi:10.1128/JB.00598-09
+pubmed:19648237
+pmc:PMC2747880
+

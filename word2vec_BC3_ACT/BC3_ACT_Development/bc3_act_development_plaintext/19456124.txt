@@ -1,0 +1,29 @@
+Biochemistry
+
+Transmembrane helix 12 modulates progression of the ATP catalytic cycle in ABCB1.
+
+E Crowley, ML O'Mara, C Reynolds, DP Tieleman, J Storm, ID Kerr, R Callaghan
+
+Multidrug efflux pumps, such as P-glycoprotein (ABCB1), present major barriers to the success of chemotherapy in a number of clinical settings. Molecular details of the multidrug efflux process by ABCB1 remain elusive, in particular, the interdomain communication associated with bioenergetic coupling. The present investigation has focused on the role of transmembrane helix 12 (TM12) in the multidrug efflux process of ABCB1. Cysteine residues were introduced at various positions within TM12, and their effect on ATPase activity, nucleotide binding, and drug interaction were assessed. Mutation of several residues within TM12 perturbed the maximal ATPase activity of ABCB1, and the underlying cause was a reduction in basal (i.e., drug-free) hydrolysis of the nucleotide. Two of the mutations (L976C and F978C) were found to reduce the binding of [gamma-(32)P]-azido-ATP to ABCB1. In contrast, the A980C mutation within TM12 enhanced the rate of ATP hydrolysis; once again, this was due to modified basal activity. Several residues also caused reductions in the potency of stimulation of ATP hydrolysis by nicardipine and vinblastine, although the effects were independent of changes in drug binding per se. Overall, the results indicate that TM12 plays a key role in the progression of the ATP hydrolytic cycle in ABCB1, even in the absence of the transported substrate.
+
+-Adenosine Triphosphate (-analogs & derivatives; +metabolism)
+-Amino Acid Substitution
++Biocatalysis
+-Cysteine (-chemistry; -genetics)
+-Humans
+-Hydrolysis
+-Kinetics
+-Models, Molecular
+-Nicardipine (-chemistry)
+-P-Glycoprotein (+chemistry; -genetics; +metabolism)
+-Protein Binding (-genetics)
+-Protein Conformation
+-Protein Isoforms (-chemistry; -genetics; -metabolism)
+-Recombinant Proteins (-chemistry; -metabolism)
+-Vinblastine (-chemistry)
+
+doi:10.1021/bi900373x
+pubmed:19456124
+mid:UKMS28231
+pmc:PMC2791873
+

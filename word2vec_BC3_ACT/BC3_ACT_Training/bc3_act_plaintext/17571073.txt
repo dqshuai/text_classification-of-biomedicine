@@ -1,0 +1,22 @@
+EMBO Rep.
+
+Hedgehog restricts its expression domain in the Drosophila wing.
+
+F Bejarano, L Pérez, Y Apidianakis, C Delidakis, M Milán
+
+The stable subdivision of Drosophila limbs into anterior and posterior compartments is a consequence of asymmetrical signalling by Hedgehog (Hh), from the posterior to anterior cells. The activity of the homeodomain protein Engrailed in posterior cells helps to generate this asymmetry by inducing the expression of Hh in the posterior compartment and, at the same time, repressing the expression of the essential downstream component Cubitus interruptus (Ci). Therefore, only anterior cells that receive the Hh signal across the compartment boundary will respond by stabilizing Ci. Here, we describe a new molecular mechanism that helps to maintain the Hh-expressing and Hh-responding cells in different non-overlapping cell populations. Master of thickveins (mtv) - a target of Hh activity encoding a nuclear zinc-finger protein - is required to repress hh expression in anterior cells. Mtv exerts this action in a protein complex with Groucho (Gro) - the founding member of a superfamily of transcriptional corepressors that are conserved throughout eukaryotes. Therefore, Hh restricts its own expression domain in the Drosophila wing through the activity of Mtv and Gro.
+
+-Animals
+-Basic Helix-Loop-Helix Transcription Factors (-genetics; -metabolism)
+-Drosophila (-genetics; +growth & development; -metabolism)
+-Drosophila Proteins (-analysis; -genetics; +metabolism)
+-Hedgehog Proteins (-analysis; -genetics; +metabolism)
+-Nerve Growth Factors (-genetics; -metabolism)
+-Repressor Proteins (-genetics; -metabolism)
+-Wing (-chemistry; +growth & development; -metabolism)
+
+pii:7401003
+doi:10.1038/sj.embor.7401003
+pubmed:17571073
+pmc:PMC1978085
+

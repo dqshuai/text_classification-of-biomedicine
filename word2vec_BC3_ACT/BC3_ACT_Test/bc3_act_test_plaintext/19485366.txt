@@ -1,0 +1,15 @@
+J. Am. Chem. Soc.
+
+Simultaneous measurement of residual dipolar couplings for proteins in complex using the isotopically discriminated NMR approach.
+
+W Bermel, EN Tkach, AG Sobol, AP Golovanov
+
+One-bond residual dipolar couplings (RDCs) measured for the amide groups of proteins partially aligned in a magnetic field provide valuable information regarding the relative orientation of protein units. In order for RDCs obtained for individual proteins to be useful in the structure determination of heterodimer complexes, they should be measured for exactly the same alignment of the complex. Here, an isotopically discriminated IDIS-RDC-TROSY NMR experiment is proposed, which enables the measurement of HN RDCs for two proteins simultaneously and independently, but in the same sample, while they are part of the same complex. The signals for both proteins, one of which should be labeled with (15)N and the other with (15)N and (13)C, are observed in different subspectra, thus reducing spectral overlap. The approach uniquely ensures that RDCs measured for both proteins relate to exactly the same alignment tensor, allowing accurate measurement of the relative angle between the two proteins. The method is also applicable for complexes containing three or more protein components. The experiment can speed up and lead to automation of protein-protein docking on the basis of angular restraints.
+
+-Models, Molecular
+-Nuclear Magnetic Resonance, Biomolecular (+methods)
+-Proteins (+chemistry)
+
+doi:10.1021/ja901602c
+pubmed:19485366
+

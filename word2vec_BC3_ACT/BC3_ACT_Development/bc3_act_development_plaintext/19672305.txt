@@ -1,0 +1,18 @@
+PLoS ONE
+
+The Apollo Number: space suits, self-support, and the walk-run transition.
+
+CE Carr, J McGee
+
+BACKGROUND: How space suits affect the preferred walk-run transition is an open question with relevance to human biomechanics and planetary extravehicular activity. Walking and running energetics differ; in reduced gravity (<0.5 g), running, unlike on Earth, uses less energy per distance than walking. METHODOLOGY/PRINCIPAL FINDINGS: The walk-run transition (denoted *) correlates with the Froude Number (Fr = v(2)/gL, velocity v, gravitational acceleration g, leg length L). Human unsuited Fr* is relatively constant (approximately 0.5) with gravity but increases substantially with decreasing gravity below approximately 0.4 g, rising to 0.9 in 1/6 g; space suits appear to lower Fr*. Because of pressure forces, space suits partially (1 g) or completely (lunar-g) support their own weight. We define the Apollo Number (Ap = Fr/M) as an expected invariant of locomotion under manipulations of M, the ratio of human-supported to total transported mass. We hypothesize that for lunar suited conditions Ap* but not Fr* will be near 0.9, because the Apollo Number captures the effect of space suit self-support. We used the Apollo Lunar Surface Journal and other sources to identify 38 gait events during lunar exploration for which we could determine gait type (walk/lope/run) and calculate Ap. We estimated the binary transition between walk/lope (0) and run (1), yielding Fr* (0.36+/-0.11, mean+/-95% CI) and Ap* (0.68+/-0.20). CONCLUSIONS/SIGNIFICANCE: The Apollo Number explains 60% of the difference between suited and unsuited Fr*, appears to capture in large part the effects of space suits on the walk-run transition, and provides several testable predictions for space suit locomotion and, of increasing relevance here on Earth, exoskeleton locomotion. The knowledge of how space suits affect gait transitions can be used to optimize space suits for use on the Moon and Mars.
+
+-Humans
++Running
++Space Flight
++Space Suits
++Walking
+
+doi:10.1371/journal.pone.0006614
+pubmed:19672305
+pmc:PMC2719915
+

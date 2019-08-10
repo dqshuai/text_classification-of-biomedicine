@@ -1,0 +1,36 @@
+Nat. Biotechnol.
+
+Efficient siRNA delivery into primary cells by a peptide transduction domain-dsRNA binding domain fusion protein.
+
+A Eguchi, BR Meade, YC Chang, CT Fredrickson, K Willert, N Puri, SF Dowdy
+
+RNA interference (RNAi) induced by short interfering RNA (siRNA) allows for discovery research and large-scale screening; however, owing to their size and anionic charge, siRNAs do not readily enter cells. Current approaches do not deliver siRNAs into a high percentage of primary cells without cytotoxicity. Here we report an efficient siRNA delivery approach that uses a peptide transduction domain-double-stranded RNA-binding domain (PTD-DRBD) fusion protein. DRBDs bind to siRNAs with high avidity, masking the siRNA's negative charge and allowing PTD-mediated cellular uptake. PTD-DRBD-delivered siRNA induced rapid RNAi in a large percentage of various primary and transformed cells, including T cells, human umbilical vein endothelial cells and human embryonic stem cells. We observed no cytotoxicity, minimal off-target transcriptional changes and no induction of innate immune responses. Thus, PTD-DRBD-mediated siRNA delivery allows efficient gene silencing in difficult-to-transfect primary cell types.
+
+-Animals
+-Cell Line
+-Cell Line, Tumor
+-Cell Survival (-drug effects)
+-Embryonic Stem Cells
+-Epithelial Cells
+-Flow Cytometry
+-Glyceraldehyde-3-Phosphate Dehydrogenases (-genetics)
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Humans
+-Jurkat Cells
+-Luminescent Proteins (-genetics; -metabolism)
+-Membrane Transport Proteins (-genetics; +metabolism)
+-Mice
+-Protein Structure, Tertiary
++RNA Interference
++RNA, Small Interfering (-genetics; -metabolism)
+-RNA-Binding Proteins (-genetics; +metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-T-Lymphocytes
+-Umbilical Veins
+
+pii:nbt.1541
+doi:10.1038/nbt.1541
+pubmed:19448630
+mid:HHMIMS113166
+pmc:PMC2694965
+

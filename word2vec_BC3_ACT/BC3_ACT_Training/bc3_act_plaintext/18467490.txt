@@ -1,0 +1,28 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Modulation of brassinosteroid-regulated gene expression by Jumonji domain-containing proteins ELF6 and REF6 in Arabidopsis.
+
+X Yu, L Li, L Li, M Guo, J Chory, Y Yin
+
+Plant steroid hormones, brassinosteroids (BRs), are of great importance for plant growth and development. BRs signal through a cell surface receptor kinase, BRI1, and a GSK3-like kinase, BIN2, to regulate the BES1/BZR1 family of transcription factors, which directly bind to target gene promoters to activate or repress gene expression and mediate BR responses. To understand how BES1 regulates target gene expression, we identified two BES1-interacting proteins, ELF6 (early flowering 6) and its homolog REF6 (relative of early flowering 6), both of which are Jumonji N/C (JmjN/C) domain-containing proteins and were previously found to regulate flowering time. The interactions between BES1 and ELF6/REF6 were confirmed by GST pull-down and BiFC (bimolecular fluorescence complementation) experiments. Mutations in ELF6 or REF6 genes in Arabidopsis lead to BR-related phenotypes, including impaired cell elongation and reduced expression of BR target genes. Chromatin immunoprecipitation (ChIP) experiments indicated that histone 3 lysine 9 (H3K9) methylation status was changed in elf6 and ref6 mutants, consistent with recent findings that many Jmj proteins are histone demethylases. Our results demonstrate that BES1 recruits other transcriptional regulators such as ELF6 and REF6 to regulate target gene expression and coordinate BR responses with other developmental processes such as control of flowering time. Jmj domain-containing histone demethylases are involved in gene expression in many developmental processes and diseases, but how these proteins affect specific pathways is not well understood. Thus, our study establishes an important mechanism by which Jmj domain proteins modulate specific gene expression by interacting with pathway-specific transcription factors such as BES1.
+
+-Amino Acid Sequence
+-Arabidopsis (+genetics; -metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Chromatin Immunoprecipitation
++Gene Expression Regulation, Plant
+-Histones (-metabolism)
+-Molecular Sequence Data
+-Mutation
+-Nuclear Proteins (-genetics; +metabolism)
+-Phenotype
+-Plant Growth Regulators (+physiology)
+-Protein Structure, Tertiary
+-Transcription Factors (-genetics; +metabolism)
+-Two-Hybrid System Techniques
+
+pii:0802254105
+doi:10.1073/pnas.0802254105
+pubmed:18467490
+pmc:PMC2396691
+

@@ -1,0 +1,38 @@
+EMBO J.
+
+Two distinct pathways of cell death triggered by oxidative damage to nuclear and mitochondrial DNAs.
+
+S Oka, M Ohno, D Tsuchimoto, K Sakumi, M Furuichi, Y Nakabeppu
+
+Oxidative base lesions, such as 8-oxoguanine (8-oxoG), accumulate in nuclear and mitochondrial DNAs under oxidative stress, resulting in cell death. However, it is not known which form of DNA is involved, whether nuclear or mitochondrial, nor is it known how the death order is executed. We established cells which selectively accumulate 8-oxoG in either type of DNA by expression of a nuclear or mitochondrial form of human 8-oxoG DNA glycosylase in OGG1-null mouse cells. The accumulation of 8-oxoG in nuclear DNA caused poly-ADP-ribose polymerase (PARP)-dependent nuclear translocation of apoptosis-inducing factor, whereas that in mitochondrial DNA caused mitochondrial dysfunction and Ca2+ release, thereby activating calpain. Both cell deaths were triggered by single-strand breaks (SSBs) that had accumulated in the respective DNAs, and were suppressed by knockdown of adenine DNA glycosylase encoded by MutY homolog, thus indicating that excision of adenine opposite 8-oxoG lead to the accumulation of SSBs in each type of DNA. SSBs in nuclear DNA activated PARP, whereas those in mitochondrial DNA caused their depletion, thereby initiating the two distinct pathways of cell death.
+
+-Animals
+-Apoptosis Inducing Factor (-metabolism)
+-Blotting, Western
+-Calcium (-metabolism)
+-Caspases (-metabolism)
+-Cell Death (-drug effects; -genetics; -physiology)
+-Cell Line
+-Cell Nucleus (+genetics; -metabolism)
+-Comet Assay
+-DNA Breaks, Single-Stranded
++DNA Damage
+-DNA Glycosylases (-genetics; -metabolism)
+-DNA, Mitochondrial (+metabolism)
+-Deoxyguanosine (-analogs & derivatives; -metabolism)
+-Humans
+-Mice
+-Mutation
+-Oxidation-Reduction
+-Oxidative Stress (-drug effects)
+-Poly(ADP-ribose) Polymerases (-metabolism)
+-RNA, Small Interfering (-genetics)
++Signal Transduction
+-Transfection
+-Vitamin K 3 (-pharmacology)
+
+pii:7601975
+doi:10.1038/sj.emboj.7601975
+pubmed:18188152
+pmc:PMC2234344
+

@@ -1,0 +1,30 @@
+DNA Repair (Amst.)
+
+PARP inhibition during alkylation-induced genotoxic stress signals a cell cycle checkpoint response mediated by ATM.
+
+MJ Carrozza, DF Stefanick, JK Horton, PS Kedar, SH Wilson
+
+By limiting cell cycle progression following detection of DNA damage, checkpoints are critical for cell survival and genome stability. Methylated DNA damage, when combined with inhibition of PARP activity, results in an ATR-dependent S phase delay of the cell cycle. Here, we demonstrate that another checkpoint kinase, ATM, also is involved in the DNA damage response following treatment with a sub-lethal concentration of MMS combined with the PARP inhibitor 4-AN. Both ATM and PARP activities are important for moderating cellular sensitivity to MMS. Loss of ATM activity, or that of its downstream effector Chk2, limited the duration of the S phase delay. The combination of MMS and 4-AN resulted in ATM and Chk2 phosphorylation and the time course of phosphorylation for both kinases correlated with the S phase delay. Chk2 phosphorylation was reduced in the absence of ATM activity. The Chk2 phosphorylation that remained in the absence of ATM appeared to be dependent on ATR and DNA-PK. The results demonstrate that, following initiation of base excision repair and inhibition of PARP activity, ATM activation is critical for preventing the cell from progressing through S phase, and for protection against MMS-induced cytotoxicity.
+
+-1-Naphthylamine (-analogs & derivatives; -pharmacology)
+-Alkylation (-drug effects)
+-Cell Cycle (+drug effects)
+-Cell Cycle Proteins (+metabolism)
+-Cell Line
++DNA Damage
+-DNA-Binding Proteins (+metabolism)
+-Humans
+-Methyl Methanesulfonate (-pharmacology)
+-Naphthalimides (-pharmacology)
+-Phosphorylation
+-Poly(ADP-ribose) Polymerases (+antagonists & inhibitors; -metabolism)
+-Protein-Serine-Threonine Kinases (+metabolism)
+-Quinolones (-pharmacology)
+-Tumor Suppressor Proteins (+metabolism)
+
+pii:S1568-7864(09)00191-8
+doi:10.1016/j.dnarep.2009.07.010
+pubmed:19717351
+mid:NIHMS136798
+pmc:PMC2763951
+

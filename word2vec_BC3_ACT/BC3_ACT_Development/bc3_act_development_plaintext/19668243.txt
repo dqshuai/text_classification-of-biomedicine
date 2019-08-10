@@ -1,0 +1,20 @@
+Nat. Biotechnol.
+
+Single-molecule sequencing of an individual human genome.
+
+D Pushkarev, NF Neff, SR Quake
+
+Recent advances in high-throughput DNA sequencing technologies have enabled order-of-magnitude improvements in both cost and throughput. Here we report the use of single-molecule methods to sequence an individual human genome. We aligned billions of 24- to 70-bp reads (32 bp average) to approximately 90% of the National Center for Biotechnology Information (NCBI) reference genome, with 28x average coverage. Our results were obtained on one sequencing instrument by a single operator with four data collection runs. Single-molecule sequencing enabled analysis of human genomic information without the need for cloning, amplification or ligation. We determined approximately 2.8 million single nucleotide polymorphisms (SNPs) with a false-positive rate of less than 1% as validated by Sanger sequencing and 99.8% concordance with SNP genotyping arrays. We identified 752 regions of copy number variation by analyzing coverage depth alone and validated 27 of these using digital PCR. This milestone should allow widespread application of genome sequencing to many aspects of genetics and human health, including personal genomics.
+
+-Computer Simulation
++Genome, Human
+-Genomics (+methods)
+-Humans
+-Polymorphism, Single Nucleotide
+-Reproducibility of Results
+-Sequence Analysis, DNA (+methods)
+
+pii:nbt.1561
+doi:10.1038/nbt.1561
+pubmed:19668243
+

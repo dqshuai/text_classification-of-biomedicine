@@ -1,0 +1,32 @@
+Leukemia
+
+IL-6, but not IFN-gamma, triggers apoptosis and inhibits in vivo growth of human malignant T cells on STAT3 silencing.
+
+G Regis, L Icardi, L Conti, R Chiarle, R Piva, M Giovarelli, V Poli, F Novelli
+
+STAT1 and STAT3 are the main mediators of the signaling of interferons (IFNs) and of gp130 cytokines, respectively. Neoplastic T lymphocytes frequently become resistant to the IFN-gamma/STAT1 apoptotic pathway, often because of the downregulation of the IFN-gammaR2 receptor chain. Many studies suggest that cross-regulation between different STATs, in particular between STAT1 and STAT3, may profoundly affect cytokine/growth factor signaling. Here, the function of STAT3 in the negative regulation of STAT1 apoptotic pathway was investigated by RNA interference-mediated STAT3 silencing in human malignant T lymphocytes. In STAT3-depleted cells, interleukin (IL)-6 acquired the capacity to induce apoptosis, correlating with prolonged STAT1 activation and the induction of major histocompatibility complex (MHC) class I expression. In contrast, in the absence of STAT3, IFN-gamma could slightly enhance apoptosis but its ability to induce MHC class I expression was unchanged. Accordingly, IL-6, but not IFN-gamma, could significantly impair the in vivo growth of STAT3-depleted human neoplastic T lymphocytes transplanted into severe combined immunodeficient mice. Therefore, treatment with IL-6 and simultaneous STAT3 silencing may represent a potential therapeutic approach to control the expansion of IFN-gamma-unresponsive neoplastic T cells.
+
+-Animals
+-Apoptosis (-drug effects; -physiology)
+-Cell Line, Tumor
+-Cell Proliferation (-drug effects)
+-Female
+-Genes, MHC Class I (-physiology)
+-Humans
+-Interferon-gamma (+metabolism; -pharmacology)
+-Interleukin-6 (+metabolism; -pharmacology)
+-Lymphoma, T-Cell (+metabolism; -pathology)
+-Mice
+-Mice, SCID
+-Neoplasm Transplantation
+-Precursor T-Cell Lymphoblastic Leukemia-Lymphoma (+metabolism; -pathology)
+-RNA, Small Interfering
+-STAT1 Transcription Factor (-metabolism)
+-STAT3 Transcription Factor (-genetics; +metabolism)
+-Signal Transduction (-physiology)
+-T-Lymphocytes (-cytology; +metabolism)
+
+pii:leu2009139
+doi:10.1038/leu.2009.139
+pubmed:19626047
+

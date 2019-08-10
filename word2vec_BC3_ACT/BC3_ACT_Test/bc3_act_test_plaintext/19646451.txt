@@ -1,0 +1,28 @@
+J. Mol. Biol.
+
+Matching biochemical reaction kinetics to the timescales of life: structural determinants that influence the autodephosphorylation rate of response regulator proteins.
+
+Y Pazy, AC Wollish, SA Thomas, PJ Miller, EJ Collins, RB Bourret, RE Silversmith
+
+In two-component regulatory systems, covalent phosphorylation typically activates the response regulator signaling protein, and hydrolysis of the phosphoryl group reestablishes the inactive state. Despite highly conserved three-dimensional structures and active-site features, the rates of catalytic autodephosphorylation for different response regulators vary by a factor of almost 10(6). Previous studies identified two variable active-site residues, corresponding to Escherichia coli CheY residues 59 and 89, that modulate response regulator autodephosphorylation rates about 100-fold. Here, a set of five CheY mutants, which match other "model" response regulators (ArcA, CusR, DctD, FixJ, PhoB, or Spo0F) at variable active-site positions corresponding to CheY residues 14, 59, and 89, were characterized functionally and structurally in an attempt to identify mechanisms that modulate autodephosphorylation rate. As expected, the autodephosphorylation rates of the CheY mutants were reduced 6- to 40-fold relative to wild-type CheY, but all still autodephosphorylated 12- to 80-fold faster than their respective model response regulators. Comparison of X-ray crystal structures of the five CheY mutants (complexed with the phosphoryl group analogue BeF(3)(-)) to wild-type CheY or corresponding model response regulator structures gave strong evidence for steric obstruction of the phosphoryl group from the attacking water molecule as one mechanism to enhance phosphoryl group stability. Structural data also suggested that impeding the change of a response regulator from the active to the inactive conformation might retard the autodephosphorylation reaction if the two processes are coupled, and that the residue at position '58' may contribute to rate modulation. A given combination of amino acids at positions '14', '59', and '89' adopted similar conformations regardless of protein context (CheY or model response regulator), suggesting that knowledge of residue identity may be sufficient to predict autodephosphorylation rate, and hence the kinetics of the signaling response, in the response regulator family of proteins.
+
+-Amino Acid Substitution (-genetics)
+-Bacterial Proteins (+chemistry; -genetics; +metabolism)
+-Catalytic Domain (-genetics)
+-Crystallography, X-Ray
+-Escherichia coli (+physiology)
+-Kinetics
+-Membrane Proteins (+chemistry; -genetics; +metabolism)
+-Models, Molecular
+-Mutagenesis, Site-Directed
+-Phosphoprotein Phosphatases (+chemistry; -genetics; +metabolism)
+-Phosphorylation
+-Protein Structure, Tertiary
+-Transcription Factors (+chemistry; -genetics; +metabolism)
+
+pii:S0022-2836(09)00932-2
+doi:10.1016/j.jmb.2009.07.064
+pubmed:19646451
+mid:NIHMS135977
+pmc:PMC2773209
+

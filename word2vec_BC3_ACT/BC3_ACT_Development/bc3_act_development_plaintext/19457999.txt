@@ -1,0 +1,23 @@
+J. Virol.
+
+Reassessing the human immunodeficiency virus type 1 life cycle through age-structured modeling: life span of infected cells, viral generation time, and basic reproductive number, R0.
+
+CL Althaus, AS De Vos, RJ De Boer
+
+The rapid decay of the viral load after drug treatment in patients infected with human immunodeficiency virus type 1 (HIV-1) has been shown to result from the rapid loss of infected cells due to their high turnover, with a generation time of around 1 to 2 days. Traditionally, viral decay dynamics after drug treatment is investigated using models of differential equations in which both the death rate of infected cells and the viral production rate are assumed to be constant. Here, we describe age-structured models of the viral decay dynamics in which viral production rates and death rates depend on the age of the infected cells. In order to investigate the effects of age-dependent rates, we compared these models with earlier descriptions of the viral load decay and fitted them to previously published data. We have found no supporting evidence that infected-cell death rates increase, but cannot reject the possibility that viral production rates increase, with the age of the cells. In particular, we demonstrate that an exponential increase in viral production with infected-cell age is perfectly consistent with the data. Since an exponential increase in virus production can compensate for the exponential loss of infected cells, the death rates of HIV-1-infected cells may be higher than previously anticipated. We discuss the implications of these findings for the life span of infected cells, the viral generation time, and the basic reproductive number, R0.
+
+-Age Factors
+-Anti-HIV Agents (-therapeutic use)
+-Cell Death (-drug effects)
+-HIV Infections (-drug therapy; +physiopathology; +virology)
+-HIV-1 (-drug effects; +physiology)
+-Humans
+-Models, Biological
+-Viral Load
++Virus Replication (-drug effects)
+
+pii:JVI.01799-08
+doi:10.1128/JVI.01799-08
+pubmed:19457999
+pmc:PMC2708627
+

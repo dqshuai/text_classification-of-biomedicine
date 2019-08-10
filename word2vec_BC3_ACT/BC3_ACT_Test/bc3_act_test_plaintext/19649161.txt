@@ -1,0 +1,20 @@
+PLoS Genet.
+
+Evolution of stress-regulated gene expression in duplicate genes of Arabidopsis thaliana.
+
+C Zou, MD Lehti-Shiu, M Thomashow, SH Shiu
+
+Due to the selection pressure imposed by highly variable environmental conditions, stress sensing and regulatory response mechanisms in plants are expected to evolve rapidly. One potential source of innovation in plant stress response mechanisms is gene duplication. In this study, we examined the evolution of stress-regulated gene expression among duplicated genes in the model plant Arabidopsis thaliana. Key to this analysis was reconstructing the putative ancestral stress regulation pattern. By comparing the expression patterns of duplicated genes with the patterns of their ancestors, duplicated genes likely lost and gained stress responses at a rapid rate initially, but the rate is close to zero when the synonymous substitution rate (a proxy for time) is > approximately 0.8. When considering duplicated gene pairs, we found that partitioning of putative ancestral stress responses occurred more frequently compared to cases of parallel retention and loss. Furthermore, the pattern of stress response partitioning was extremely asymmetric. An analysis of putative cis-acting DNA regulatory elements in the promoters of the duplicated stress-regulated genes indicated that the asymmetric partitioning of ancestral stress responses are likely due, at least in part, to differential loss of DNA regulatory elements; the duplicated genes losing most of their stress responses were those that had lost more of the putative cis-acting elements. Finally, duplicate genes that lost most or all of the ancestral responses are more likely to have gained responses to other stresses. Therefore, the retention of duplicates that inherit few or no functions seems to be coupled to neofunctionalization. Taken together, our findings provide new insight into the patterns of evolutionary changes in gene stress responses after duplication and lay the foundation for testing the adaptive significance of stress regulatory changes under highly variable biotic and abiotic environments.
+
+-Arabidopsis (-genetics; +physiology)
+-Arabidopsis Proteins (+genetics; -metabolism)
++Evolution, Molecular
+-Gene Duplication
++Gene Expression Regulation, Plant
++Genes, Duplicate
+-Stress, Physiological
+
+doi:10.1371/journal.pgen.1000581
+pubmed:19649161
+pmc:PMC2709438
+

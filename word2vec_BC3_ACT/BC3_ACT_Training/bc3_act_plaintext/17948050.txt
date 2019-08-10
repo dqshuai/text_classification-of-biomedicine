@@ -1,0 +1,29 @@
+EMBO J.
+
+Malt1 ubiquitination triggers NF-kappaB signaling upon T-cell activation.
+
+A Oeckinghaus, E Wegener, V Welteke, U Ferch, SC Arslan, J Ruland, C Scheidereit, D Krappmann
+
+Triggering of antigen receptors on lymphocytes is critical for initiating adaptive immune response against pathogens. T-cell receptor (TCR) engagement induces the formation of the Carma1-Bcl10-Malt1 (CBM) complex that is essential for activation of the IkappaB kinase (IKK)/NF-kappaB pathway. However, the molecular mechanisms that link CBM complex formation to IKK activation remain unclear. Here we report that Malt1 is polyubiquitinated upon T-cell activation. Ubiquitin chains on Malt1 provide a docking surface for the recruitment of the IKK regulatory subunit NEMO/IKKgamma. TRAF6 associates with Malt1 in response to T-cell activation and can function as an E3 ligase for Malt1 in vitro and in vivo, mediating lysine 63-linked ubiquitination of Malt1. Multiple lysine residues in the C-terminus of Malt1 serve as acceptor sites for the assembly of polyubiquitin chains. Malt1 mutants that lack C-terminal ubiquitin acceptor lysines are impaired in rescuing NF-kappaB signaling and IL-2 production in Malt1-/- T cells. Thus, our data demonstrate that induced Malt1 ubiquitination is critical for the engagement of CBM and IKK complexes, thereby directing TCR signals to the canonical NF-kappaB pathway.
+
+-Adaptor Proteins, Signal Transducing (-metabolism)
+-Apoptosis Regulatory Proteins (-metabolism)
+-CARD Signaling Adaptor Proteins (-metabolism)
+-Caspases (+metabolism)
+-Cell Line
+-Guanylate Cyclase (-metabolism)
+-Humans
+-I-kappa B Kinase (-metabolism)
+-Interleukin-2 (-metabolism)
+-Jurkat Cells
+-NF-kappa B (+metabolism)
+-Neoplasm Proteins (+metabolism)
+-T-Lymphocytes (-metabolism)
+-TNF Receptor-Associated Factor 6 (-metabolism)
+-Ubiquitination
+
+pii:7601897
+doi:10.1038/sj.emboj.7601897
+pubmed:17948050
+pmc:PMC2080808
+

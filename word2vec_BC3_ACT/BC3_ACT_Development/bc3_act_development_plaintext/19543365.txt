@@ -1,0 +1,20 @@
+PLoS Genet.
+
+Peroxiredoxin Tsa1 is the key peroxidase suppressing genome instability and protecting against cell death in Saccharomyces cerevisiae.
+
+I Iraqui, G Kienda, J Soeur, G Faye, G Baldacci, RD Kolodner, ME Huang
+
+Peroxiredoxins (Prxs) constitute a family of thiol-specific peroxidases that utilize cysteine (Cys) as the primary site of oxidation during the reduction of peroxides. To gain more insight into the physiological role of the five Prxs in budding yeast Saccharomyces cerevisiae, we performed a comparative study and found that Tsa1 was distinguished from the other Prxs in that by itself it played a key role in maintaining genome stability and in sustaining aerobic viability of rad51 mutants that are deficient in recombinational repair. Tsa2 and Dot5 played minor but distinct roles in suppressing the accumulation of mutations in cooperation with Tsa1. Tsa2 was capable of largely complementing the absence of Tsa1 when expressed under the control of the Tsa1 promoter. The presence of peroxidatic cysteine (Cys(47)) was essential for Tsa1 activity, while Tsa1(C170S) lacking the resolving Cys was partially functional. In the absence of Tsa1 activity (tsa1 or tsa1(CCS) lacking the peroxidatic and resolving Cys) and recombinational repair (rad51), dying cells displayed irregular cell size/shape, abnormal cell cycle progression, and significant increase of phosphatidylserine externalization, an early marker of apoptosis-like cell death. The tsa1(CCS) rad51- or tsa1 rad51-induced cell death did not depend on the caspase Yca1 and Ste20 kinase, while the absence of the checkpoint protein Rad9 accelerated the cell death processes. These results indicate that the peroxiredoxin Tsa1, in cooperation with appropriate DNA repair and checkpoint mechanisms, acts to protect S. cerevisiae cells against toxic levels of DNA damage that occur during aerobic growth.
+
+-DNA Repair
++Down-Regulation
++Genomic Instability
+-Peroxidases (-genetics; +metabolism)
+-Peroxiredoxins (-genetics; -metabolism)
+-Saccharomyces cerevisiae (+cytology; -enzymology; +genetics)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+
+doi:10.1371/journal.pgen.1000524
+pubmed:19543365
+pmc:PMC2688748
+

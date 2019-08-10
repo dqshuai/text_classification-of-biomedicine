@@ -1,0 +1,31 @@
+Biochemistry
+
+Model of the exofacial substrate-binding site and helical folding of the human Glut1 glucose transporter based on scanning mutagenesis.
+
+M Mueckler, C Makepeace
+
+Transmembrane helix 9 of the Glut1 glucose transporter was analyzed by cysteine-scanning mutagenesis and the substituted cysteine accessibility method (SCAM). A cysteine-less (C-less) template transporter containing amino acid substitutions for the six native cysteine residues present in human Glut1 was used to generate a series of 21 mutant transporters by substituting each successive residue in predicted transmembrane segment 9 with a cysteine residue. The mutant proteins were expressed in Xenopus oocytes, and their specific transport activities were directly compared to that of the parental C-less molecule whose function has been shown to be indistinguishable from that of native Glut1. Only a single mutant (G340C) had activity that was reduced (by 75%) relative to that of the C-less parent. These data suggest that none of the amino acid side chains in helix 9 is absolutely required for transport function and that this helix is not likely to be directly involved in substrate binding or translocation. Transport activity of the cysteine mutants was also tested after incubation of oocytes in the presence of the impermeant sulfhydryl-specific reagent, p-chloromercuribenzene sulfonate (pCMBS). Only a single mutant (T352C) exhibited transport inhibition in the presence of pCMBS, and the extent of inhibition was minimal (11%), indicating that only a very small portion of helix 9 is accessible to the external solvent. These results are consistent with the conclusion that helix 9 plays an outer stabilizing role for the inner helical bundle predicted to form the exofacial substrate-binding site. All 12 of the predicted transmembrane segments of Glut1 encompassing 252 amino acid residues and more than 50% of the complete polypeptide sequence have now been analyzed by scanning mutagenesis and SCAM. An updated model is presented for the outward-facing substrate-binding site and relative orientation of the 12 transmembrane helices of Glut1.
+
+-Amino Acid Sequence
+-Amino Acid Substitution (-genetics)
+-Animals
+-Binding Sites (-genetics)
+-Female
+-Glucose Transporter Type 1 (+chemistry; -genetics; +metabolism)
++Models, Biological
++Models, Molecular
+-Molecular Sequence Data
++Mutagenesis, Site-Directed (-methods)
+-Predictive Value of Tests
+-Protein Binding (-genetics)
++Protein Folding
+-Protein Stability
++Protein Structure, Secondary
+-Substrate Specificity (-genetics)
+-Xenopus laevis
+
+doi:10.1021/bi900521n
+pubmed:19449892
+mid:NIHMS156961
+pmc:PMC2776625
+

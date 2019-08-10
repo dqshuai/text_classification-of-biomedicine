@@ -1,0 +1,28 @@
+Nat. Neurosci.
+
+A resting pool of vesicles is responsible for spontaneous vesicle fusion at the synapse.
+
+NB Fredj, J Burrone
+
+Synapses relay information through the release of neurotransmitters stored in presynaptic vesicles. The identity, kinetics and location of the vesicle pools that are mobilized by neuronal activity have been studied using a variety of techniques. We created a genetically encoded probe, biosyn, which consists of a biotinylated VAMP2 expressed at presynaptic terminals. We exploited the high-affinity interaction between streptavidin and biotin to label biosyn with fluorescent streptavidin during vesicle fusion. This approach allowed us to tag vesicles sequentially to visualize and establish the identity of presynaptic pools. Using this technique, we were able to distinguish between two different pools of vesicles in rat hippocampal neurons: one that was released in response to presynaptic activity and another, distinct vesicle pool that spontaneously fused with the plasma membrane. We found that the spontaneous vesicles belonged to a 'resting pool' that is normally not mobilized by neuronal activity and whose function was previously unknown.
+
+-Animals
+-Biotin (-metabolism)
+-Hippocampus (+metabolism; -ultrastructure)
+-Immunohistochemistry (-methods)
+-Membrane Fusion (+physiology)
+-Molecular Probes
+-Neurotransmitter Agents (+metabolism; -secretion)
+-Presynaptic Terminals (+metabolism; -secretion; -ultrastructure)
+-Rats
+-Staining and Labeling (-methods)
+-Synaptic Transmission (+physiology)
+-Synaptic Vesicles (+metabolism; -secretion; -ultrastructure)
+-Vesicle-Associated Membrane Protein 2 (-metabolism)
+
+pii:nn.2317
+doi:10.1038/nn.2317
+pubmed:19430474
+mid:UKMS4375
+pmc:PMC2738656
+

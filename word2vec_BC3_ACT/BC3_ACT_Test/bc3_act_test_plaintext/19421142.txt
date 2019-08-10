@@ -1,0 +1,38 @@
+Oncogene
+
+The Wnt receptor FZD1 mediates chemoresistance in neuroblastoma through activation of the Wnt/beta-catenin pathway.
+
+M Flahaut, R Meier, A Coulon, KA Nardou, FK Niggli, D Martinet, JS Beckmann, JM Joseph, A Mühlethaler-Mottet, N Gross
+
+The development of chemoresistance represents a major obstacle in the successful treatment of cancers such as neuroblastoma (NB), a particularly aggressive childhood solid tumour. The mechanisms underlying the chemoresistant phenotype in NB were addressed by gene expression profiling of two doxorubicin (DoxR)-resistant vs sensitive parental cell lines. Not surprisingly, the MDR1 gene was included in the identified upregulated genes, although the highest overexpressed transcript in both cell lines was the frizzled-1 Wnt receptor (FZD1) gene, an essential component of the Wnt/beta-catenin pathway. FZD1 upregulation in resistant variants was shown to mediate sustained activation of the Wnt/beta-catenin pathway as revealed by nuclear beta-catenin translocation and target genes transactivation. Interestingly, specific micro-adapted short hairpin RNA (shRNAmir)-mediated FZD1 silencing induced parallel strong decrease in the expression of MDR1, another beta-catenin target gene, revealing a complex, Wnt/beta-catenin-mediated implication of FZD1 in chemoresistance. The significant restoration of drug sensitivity in FZD1-silenced cells confirmed the FZD1-associated chemoresistance. RNA samples from 21 patient tumours (diagnosis and postchemotherapy), showed a highly significant FZD1 and/or MDR1 overexpression after treatment, underlining a role for FZD1-mediated Wnt/beta-catenin pathway in clinical chemoresistance. Our data represent the first implication of the Wnt/beta-catenin pathway in NB chemoresistance and identify potential new targets to treat aggressive and resistant NB.
+
+-Active Transport, Cell Nucleus (-drug effects)
+-Blotting, Western
+-Caspases (-metabolism)
+-Cell Line
+-Cell Line, Tumor
+-Cell Nucleus (-metabolism)
+-Cell Survival (-drug effects)
+-Doxorubicin (-pharmacology)
+-Drug Resistance, Neoplasm (-genetics)
+-Female
+-Fluorescent Antibody Technique
+-Frizzled Receptors (+genetics; -metabolism)
+-Gene Expression Profiling
+-Gene Expression Regulation, Neoplastic (-drug effects)
+-Humans
+-In Situ Hybridization, Fluorescence
+-Male
+-Neuroblastoma (-drug therapy; +genetics; -pathology)
+-Oligonucleotide Array Sequence Analysis
+-P-Glycoprotein (-genetics)
+-RNA Interference
+-Reverse Transcriptase Polymerase Chain Reaction
+-Signal Transduction (-drug effects; -genetics)
+-Wnt Proteins (+genetics; -metabolism)
+-beta Catenin (+genetics; -metabolism)
+
+pii:onc200980
+doi:10.1038/onc.2009.80
+pubmed:19421142
+

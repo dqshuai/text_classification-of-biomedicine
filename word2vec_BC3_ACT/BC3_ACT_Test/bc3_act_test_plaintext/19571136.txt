@@ -1,0 +1,37 @@
+J. Neurosci.
+
+Calcium-activated SK channels influence voltage-gated ion channels to determine the precision of firing in globus pallidus neurons.
+
+CA Deister, CS Chan, DJ Surmeier, CJ Wilson
+
+Globus pallidus (GP) neurons fire rhythmically in the absence of synaptic input, suggesting that they may encode their inputs as changes in the phase of their rhythmic firing. Action potential afterhyperpolarization (AHP) enhances precision of firing by ensuring that the ion channels recover from inactivation by the same amount on each cycle. Voltage-clamp experiments in slices showed that the longest component of the GP neuron's AHP is blocked by apamin, a selective antagonist of calcium-activated SK channels. Application of 100 nm apamin also disrupted the precision of firing in perforated-patch and cell-attached recordings. SK channel blockade caused a small depolarization in spike threshold and made it more variable, but there was no reduction in the maximal rate of rise during an action potential. Thus, the firing irregularity was not caused solely by a reduction in voltage-gated Na(+) channel availability. Subthreshold voltage ramps triggered a large outward current that was sensitive to the initial holding potential and had properties similar to the A-type K(+) current in GP neurons. In numerical simulations, the availability of both Na(+) and A-type K(+) channels during autonomous firing were reduced when SK channels were removed, and a nearly equal reduction in Na(+) and K(+) subthreshold-activated ion channel availability produced a large decrease in the neuron's slope conductance near threshold. This change made the neuron more sensitive to intrinsically generated noise. In vivo, this change would also enhance the sensitivity of GP neurons to small synaptic inputs.
+
+-Action Potentials (+physiology)
+-Animals
+-Animals, Newborn
+-Apamin (-pharmacology)
+-Biophysics
+-Electric Stimulation (-methods)
+-Gene Expression (-genetics)
+-Globus Pallidus (+cytology)
+-Glutamate Decarboxylase (-genetics; -metabolism)
+-Ion Channels (-drug effects; +physiology)
+-Membrane Potentials (-drug effects; -physiology)
+-Mice
+-Mice, Inbred C57BL
+-Neurons (-drug effects; +physiology)
+-Parvalbumins (-genetics; -metabolism)
+-Patch-Clamp Techniques (-methods)
+-Potassium (-metabolism)
+-Potassium Channel Blockers (-pharmacology)
+-Rats
+-Rats, Sprague-Dawley
+-Shal Potassium Channels
+-Small-Conductance Calcium-Activated Potassium Channels (+physiology)
+-Sodium (-metabolism)
+-Statistics, Nonparametric
+
+pii:29/26/8452
+doi:10.1523/JNEUROSCI.0576-09.2009
+pubmed:19571136
+

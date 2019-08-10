@@ -1,0 +1,33 @@
+J. Biol. Chem.
+
+Activation of SIRT1 by resveratrol represses transcription of the gene for the cytosolic form of phosphoenolpyruvate carboxykinase (GTP) by deacetylating hepatic nuclear factor 4alpha.
+
+J Yang, X Kong, ME Martins-Santos, G Aleman, E Chaco, GE Liu, SY Wu, D Samols, P Hakimi, CM Chiang, RW Hanson
+
+The SIRT1 activators isonicotinamide (IsoNAM), resveratrol, fisetin, and butein repressed transcription of the gene for the cytosolic form of phosphoenolpyruvate carboxykinase (GTP) (PEPCK-C). An evolutionarily conserved binding site for hepatic nuclear factor (HNF) 4alpha (-272/-252) was identified, which was required for transcriptional repression of the PEPCK-C gene promoter caused by these compounds. This site contains an overlapping AP-1 binding site and is adjacent to the C/EBP binding element (-248/-234); the latter is necessary for hepatic transcription of PEPCK-C. AP-1 competed with HNF4alpha for binding to this site and also decreased HNF4alpha stimulation of transcription from the PEPCK-C gene promoter. Chromatin immunoprecipitation experiments demonstrated that HNF4alpha and AP-1, but not C/EBPbeta, reciprocally bound to this site prior to and after treating HepG2 cells with IsoNAM. IsoNAM treatment resulted in deacetylation of HNF4alpha, which decreased its binding affinity to the PEPCK-C gene promoter. In HNF4alpha-null Chinese hamster ovary cells, IsoNAM and resveratrol failed to repress transcription from the PEPCK-C gene promoter; overexpression of HNF4alpha in Chinese hamster ovary cells re-established transcriptional inhibition. Exogenous SIRT1 expression repressed transcription, whereas knockdown of SIRT1 by RNA interference reversed this effect. IsoNAM decreased the level of mRNA for PEPCK-C but had no effect on mRNA for glucose-6-phosphatase in AML12 mouse hepatocytes. We conclude that SIRT1 activation inhibited transcription of the gene for PEPCK-C in part by deacetylation of HNF4alpha. However, SIRT1 deacetylation of other key regulatory proteins that control PEPCK-C gene transcription also likely contributed to the inhibitory effect.
+
+-Acetylation (-drug effects)
+-Animals
+-Base Sequence
+-Binding Sites
+-Cell Line
+-Cytosol (+enzymology)
+-DNA (-metabolism)
+-Enzyme Activation (-drug effects)
+-Gene Expression Regulation, Enzymologic (+drug effects)
+-Hepatocyte Nuclear Factor 4 (+metabolism)
+-Humans
+-Molecular Sequence Data
+-Niacinamide (-pharmacology)
+-Phosphoenolpyruvate Carboxykinase (GTP) (-chemistry; +genetics; -metabolism)
+-Promoter Regions, Genetic (-genetics)
+-Sirtuins (+metabolism)
+-Stilbenes (+pharmacology)
+-Transcription Factor AP-1 (-metabolism)
+-Transcription, Genetic (+drug effects)
+
+pii:M109.047340
+doi:10.1074/jbc.M109.047340
+pubmed:19651778
+pmc:PMC2785634
+

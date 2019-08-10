@@ -1,0 +1,26 @@
+BMC Genomics
+
+What can you do with 0.1x genome coverage? A case study based on a genome survey of the scuttle fly Megaselia scalaris (Phoridae).
+
+DA Rasmussen, MA Noor
+
+BACKGROUND: The declining cost of DNA sequencing is making genome sequencing a feasible option for more organisms, including many of interest to ecologists and evolutionary biologists. While obtaining high-depth, completely assembled genome sequences for most non-model organisms remains challenging, low-coverage genome survey sequences (GSS) can provide a wealth of biologically useful information at low cost. Here, using a random pyrosequencing approach, we sequence the genome of the scuttle fly Megaselia scalaris and evaluate the utility of our low-coverage GSS approach. RESULTS: Random pyrosequencing of the M. scalaris genome provided a depth of coverage (0.05x0.1x) much lower than typical GSS studies. We demonstrate that, even with extremely low-coverage sequencing, bioinformatics approaches can yield extensive information about functional and repetitive elements. We also use our GSS data to develop genomic resources such as a nearly complete mitochondrial genome sequence and microsatellite markers for M. scalaris. CONCLUSION: We conclude that low-coverage genome surveys are effective at generating useful information about organisms currently lacking genomic sequence data.
+
+-Animals
+-Computational Biology (+methods)
+-Diptera (+genetics)
+-Drosophila (-genetics)
+-Female
++Genome, Insect
+-Genome, Mitochondrial
+-Genomics (-methods)
+-Interspersed Repetitive Sequences
+-Male
+-Microsatellite Repeats
+-Sequence Analysis, DNA (+methods)
+
+pii:1471-2164-10-382
+doi:10.1186/1471-2164-10-382
+pubmed:19689807
+pmc:PMC2735751
+

@@ -1,0 +1,23 @@
+PLoS ONE
+
+Concentration and length dependence of DNA looping in transcriptional regulation.
+
+L Han, HG Garcia, S Blumberg, KB Towles, JF Beausang, PC Nelson, R Phillips
+
+In many cases, transcriptional regulation involves the binding of transcription factors at sites on the DNA that are not immediately adjacent to the promoter of interest. This action at a distance is often mediated by the formation of DNA loops: Binding at two or more sites on the DNA results in the formation of a loop, which can bring the transcription factor into the immediate neighborhood of the relevant promoter. These processes are important in settings ranging from the historic bacterial examples (bacterial metabolism and the lytic-lysogeny decision in bacteriophage), to the modern concept of gene regulation to regulatory processes central to pattern formation during development of multicellular organisms. Though there have been a variety of insights into the combinatorial aspects of transcriptional control, the mechanism of DNA looping as an agent of combinatorial control in both prokaryotes and eukaryotes remains unclear. We use single-molecule techniques to dissect DNA looping in the lac operon. In particular, we measure the propensity for DNA looping by the Lac repressor as a function of the concentration of repressor protein and as a function of the distance between repressor binding sites. As with earlier single-molecule studies, we find (at least) two distinct looped states and demonstrate that the presence of these two states depends both upon the concentration of repressor protein and the distance between the two repressor binding sites. We find that loops form even at interoperator spacings considerably shorter than the DNA persistence length, without the intervention of any other proteins to prebend the DNA. The concentration measurements also permit us to use a simple statistical mechanical model of DNA loop formation to determine the free energy of DNA looping, or equivalently, the for looping.
+
+-Bacterial Proteins (-metabolism)
+-DNA, Bacterial (+chemistry)
++Gene Expression Regulation, Bacterial
+-Lac Repressors
+-Mutagenesis
++Nucleic Acid Conformation
+-Operator Regions, Genetic
+-Promoter Regions, Genetic (-genetics)
+-Repressor Proteins (-metabolism)
++Transcription, Genetic
+
+doi:10.1371/journal.pone.0005621
+pubmed:19479049
+pmc:PMC2682762
+

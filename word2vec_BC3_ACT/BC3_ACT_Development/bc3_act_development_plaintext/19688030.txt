@@ -1,0 +1,25 @@
+PLoS Biol.
+
+Role of translational coupling in robustness of bacterial chemotaxis pathway.
+
+L Løvdok, K Bentele, N Vladimirov, A Müller, FS Pop, D Lebiedz, M Kollmann, V Sourjik
+
+Chemotaxis allows bacteria to colonize their environment more efficiently and to find optimal growth conditions, and is consequently under strong evolutionary selection. Theoretical and experimental analyses of bacterial chemotaxis suggested that the pathway has been evolutionarily optimized to produce robust output under conditions of such physiological perturbations as stochastic intercellular variations in protein levels while at the same time minimizing complexity and cost of protein expression. Pathway topology in Escherichia coli apparently evolved to produce an invariant output under concerted variations in protein levels, consistent with experimentally observed transcriptional coupling of chemotaxis genes. Here, we show that the pathway robustness is further enhanced through the pairwise translational coupling of adjacent genes. Computer simulations predicted that the robustness of the pathway against the uncorrelated variations in protein levels can be enhanced by a selective pairwise coupling of individual chemotaxis genes on one mRNA, with the order of genes in E. coli ranking among the best in terms of noise compensation. Translational coupling between chemotaxis genes was experimentally confirmed, and coupled expression of these genes was shown to improve chemotaxis. Bioinformatics analysis further revealed that E. coli gene order corresponds to consensus in sequenced bacterial genomes, confirming evolutionary selection for noise reduction. Since polycistronic gene organization is common in bacteria, translational coupling between adjacent genes may provide a general mechanism to enhance robustness of their signaling and metabolic networks. Moreover, coupling between expression of neighboring genes is also present in eukaryotes, and similar principles of noise reduction might thus apply to all cellular networks.
+
+-Bacterial Proteins (-genetics; -metabolism)
++Chemotaxis (-genetics; -physiology)
+-Computational Biology (-methods)
+-Computer Simulation
+-Escherichia coli K12 (-genetics; -growth & development; +physiology)
+-Escherichia coli Proteins (+genetics; -metabolism)
++Gene Expression Regulation, Bacterial
++Gene Order
+-Membrane Proteins (-genetics; -metabolism)
+-Models, Biological
+-Operon (-genetics)
++Protein Biosynthesis
+
+doi:10.1371/journal.pbio.1000171
+pubmed:19688030
+pmc:PMC2716512
+

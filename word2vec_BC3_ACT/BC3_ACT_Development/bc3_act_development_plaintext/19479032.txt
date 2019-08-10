@@ -1,0 +1,18 @@
+PLoS ONE
+
+Codon size reduction as the origin of the triplet genetic code.
+
+PV Baranov, M Venin, G Provan
+
+The genetic code appears to be optimized in its robustness to missense errors and frameshift errors. In addition, the genetic code is near-optimal in terms of its ability to carry information in addition to the sequences of encoded proteins. As evolution has no foresight, optimality of the modern genetic code suggests that it evolved from less optimal code variants. The length of codons in the genetic code is also optimal, as three is the minimal nucleotide combination that can encode the twenty standard amino acids. The apparent impossibility of transitions between codon sizes in a discontinuous manner during evolution has resulted in an unbending view that the genetic code was always triplet. Yet, recent experimental evidence on quadruplet decoding, as well as the discovery of organisms with ambiguous and dual decoding, suggest that the possibility of the evolution of triplet decoding from living systems with non-triplet decoding merits reconsideration and further exploration. To explore this possibility we designed a mathematical model of the evolution of primitive digital coding systems which can decode nucleotide sequences into protein sequences. These coding systems can evolve their nucleotide sequences via genetic events of Darwinian evolution, such as point-mutations. The replication rates of such coding systems depend on the accuracy of the generated protein sequences. Computer simulations based on our model show that decoding systems with codons of length greater than three spontaneously evolve into predominantly triplet decoding systems. Our findings suggest a plausible scenario for the evolution of the triplet genetic code in a continuous manner. This scenario suggests an explanation of how protein synthesis could be accomplished by means of long RNA-RNA interactions prior to the emergence of the complex decoding machinery, such as the ribosome, that is required for stabilization and discrimination of otherwise weak triplet codon-anticodon interactions.
+
+-Codon (+genetics)
+-Computer Simulation
++Genetic Code
+-Models, Genetic
+-RNA, Messenger (-genetics)
+
+doi:10.1371/journal.pone.0005708
+pubmed:19479032
+pmc:PMC2682656
+

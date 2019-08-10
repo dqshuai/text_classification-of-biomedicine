@@ -1,0 +1,18 @@
+BMC Bioinformatics
+
+A statistical framework to evaluate virtual screening.
+
+W Zhao, KE Hevener, SW White, RE Lee, JM Boyett
+
+BACKGROUND: Receiver operating characteristic (ROC) curve is widely used to evaluate virtual screening (VS) studies. However, the method fails to address the "early recognition" problem specific to VS. Although many other metrics, such as RIE, BEDROC, and pROC that emphasize "early recognition" have been proposed, there are no rigorous statistical guidelines for determining the thresholds and performing significance tests. Also no comparisons have been made between these metrics under a statistical framework to better understand their performances. RESULTS: We have proposed a statistical framework to evaluate VS studies by which the threshold to determine whether a ranking method is better than random ranking can be derived by bootstrap simulations and 2 ranking methods can be compared by permutation test. We found that different metrics emphasize "early recognition" differently. BEDROC and RIE are 2 statistically equivalent metrics. Our newly proposed metric SLR is superior to pROC. Through extensive simulations, we observed a "seesaw effect" - overemphasizing early recognition reduces the statistical power of a metric to detect true early recognitions. CONCLUSION: The statistical framework developed and tested by us is applicable to any other metric as well, even if their exact distribution is unknown. Under this framework, a threshold can be easily selected according to a pre-specified type I error rate and statistical comparisons between 2 ranking methods becomes possible. The theoretical null distribution of SLR metric is available so that the threshold of SLR can be exactly determined without resorting to bootstrap simulations, which makes it easy to use in practical virtual screening studies.
+
+-Computational Biology (+methods)
+-Gene Expression Profiling (-methods)
++Models, Statistical
+-ROC Curve
+
+pii:1471-2105-10-225
+doi:10.1186/1471-2105-10-225
+pubmed:19619306
+pmc:PMC2722655
+

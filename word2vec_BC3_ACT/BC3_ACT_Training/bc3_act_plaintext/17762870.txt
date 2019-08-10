@@ -1,0 +1,30 @@
+EMBO J.
+
+AtPRD1 is required for meiotic double strand break formation in Arabidopsis thaliana.
+
+A De Muyt, D Vezon, G Gendrot, JL Gallois, R Stevens, M Grelon
+
+The initiation of meiotic recombination by the formation of DNA double-strand breaks (DSBs) catalysed by the Spo11 protein is strongly evolutionary conserved. In Saccharomyces cerevisiae, Spo11 requires nine other proteins for meiotic DSB formation, but, unlike Spo11, few of these proteins seem to be conserved across kingdoms. In order to investigate this recombination step in higher eukaryotes, we have isolated a new gene, AtPRD1, whose mutation affects meiosis in Arabidopsis thaliana. In Atprd1 mutants, meiotic recombination rates fall dramatically, early recombination markers (e.g., DMC1 foci) are absent, but meiosis progresses until achiasmatic univalents are formed. Besides, Atprd1 mutants suppress DSB repair defects of a large range of meiotic mutants, showing that AtPRD1 is involved in meiotic recombination and is required for meiotic DSB formation. Furthermore, we showed that AtPRD1 and AtSPO11-1 interact in a yeast two-hybrid assay, suggesting that AtPRD1 could be a partner of AtSPO11-1. Moreover, our study reveals similarity between AtPRD1 and the mammalian protein Mei1, suggesting that AtPRD1 could be a Mei1 functional homologue.
+
+-Amino Acid Sequence
+-Arabidopsis (+cytology; +metabolism)
+-Arabidopsis Proteins (-chemistry; +metabolism)
++DNA Breaks, Double-Stranded
+-DNA-Binding Proteins (-metabolism)
+-Fertility
+-Indoles
++Meiosis
+-Molecular Sequence Data
+-Mutation (-genetics)
+-Pollen (-cytology)
+-Protein Binding
+-Recombination, Genetic (-genetics)
+-Saccharomyces cerevisiae (-cytology)
+-Sequence Alignment
+-Two-Hybrid System Techniques
+
+pii:7601815
+doi:10.1038/sj.emboj.7601815
+pubmed:17762870
+pmc:PMC2230667
+

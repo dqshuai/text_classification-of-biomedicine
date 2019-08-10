@@ -1,0 +1,21 @@
+Protein Sci.
+
+Analysis of loop boundaries using different local structure assignment methods.
+
+M Tyagi, A Bornot, B Offmann, AG de Brevern
+
+Loops connect regular secondary structures. In many instances, they are known to play important biological roles. Analysis and prediction of loop conformations depend directly on the definition of repetitive structures. Nonetheless, the secondary structure assignment methods (SSAMs) often lead to divergent assignments. In this study, we analyzed, both structure and sequence point of views, how the divergence between different SSAMs affect boundary definitions of loops connecting regular secondary structures. The analysis of SSAMs underlines that no clear consensus between the different SSAMs can be easily found. Because these latter greatly influence the loop boundary definitions, important variations are indeed observed, that is, capping positions are shifted between different SSAMs. On the other hand, our results show that the sequence information in these capping regions are more stable than expected, and, classical and equivalent sequence patterns were found for most of the SSAMs. This is, to our knowledge, the most exhaustive survey in this field as (i) various databank have been used leading to similar results without implication of protein redundancy and (ii) the first time various SSAMs have been used. This work hence gives new insights into the difficult question of assignment of repetitive structures and addresses the issue of loop boundaries definition. Although SSAMs give very different local structure assignments capping sequence patterns remain efficiently stable.
+
+-Amino Acid Sequence
+-Computer Simulation
+-Databases, Protein
+-Methyltransferases (-chemistry)
+-Models, Molecular
+-Protein Conformation
+-Protein Structure, Secondary
+-Proteins (+chemistry)
+
+doi:10.1002/pro.198
+pubmed:19606500
+pmc:PMC2777362
+

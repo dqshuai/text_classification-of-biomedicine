@@ -1,0 +1,21 @@
+BMC Bioinformatics
+
+Ligand scaffold hopping combining 3D maximal substructure search and molecular similarity.
+
+F Quintus, O Sperandio, J Grynberg, M Petitjean, P Tuffery
+
+BACKGROUND: Virtual screening methods are now well established as effective to identify hit and lead candidates and are fully integrated in most drug discovery programs. Ligand-based approaches make use of physico-chemical, structural and energetics properties of known active compounds to search large chemical libraries for related and novel chemotypes. While 2D-similarity search tools are known to be fast and efficient, the use of 3D-similarity search methods can be very valuable to many research projects as integration of "3D knowledge" can facilitate the identification of not only related molecules but also of chemicals possessing distant scaffolds as compared to the query and therefore be more inclined to scaffolds hopping. To date, very few methods performing this task are easily available to the scientific community. RESULTS: We introduce a new approach (LigCSRre) to the 3D ligand similarity search of drug candidates. It combines a 3D maximum common substructure search algorithm independent on atom order with a tunable description of atomic compatibilities to prune the search and increase its physico-chemical relevance. We show, on 47 experimentally validated active compounds across five protein targets having different specificities, that for single compound search, the approach is able to recover on average 52% of the co-actives in the top 1% of the ranked list which is better than gold standards of the field. Moreover, the combination of several runs on a single protein target using different query active compounds shows a remarkable improvement in enrichment. Such Results demonstrate LigCSRre as a valuable tool for ligand-based screening. CONCLUSION: LigCSRre constitutes a new efficient and generic approach to the 3D similarity screening of small compounds, whose flexible design opens the door to many enhancements. The program is freely available to the academics for non-profit research at: http://bioserv.rpbs.univ-paris-diderot.fr/LigCSRre.html.
+
+-Computational Biology (+methods)
+-Drug Design
+-Drug Discovery (+methods)
++Ligands
+-Models, Molecular
+-Molecular Structure
+-Small Molecule Libraries (-chemistry)
+
+pii:1471-2105-10-245
+doi:10.1186/1471-2105-10-245
+pubmed:19671127
+pmc:PMC2739202
+

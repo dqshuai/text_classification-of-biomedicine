@@ -1,0 +1,26 @@
+Nucleic Acids Res.
+
+Efficient silencing of gene expression with modular trimeric Pol II expression cassettes comprising microRNA shuttles.
+
+A Ely, T Naidoo, P Arbuthnot
+
+Expressed polycistronic microRNA (miR) cassettes have useful properties that can be utilized for RNA interference (RNAi)-based gene silencing. To advance their application we generated modular trimeric anti-hepatitis B virus (HBV) Pol II cassettes encoding primary (pri)-miR-31-derived shuttles that target three different viral genome sites. A panel of six expression cassettes, comprising each of the possible ordering combinations of the pri-miR-31 shuttles, was initially tested. Effective silencing of individual target sequences was achieved in transfected cells and transcribed pri-miR trimers generated intended guide strands. There was, however, variation in processing and silencing by each of the shuttles. In some cases the monomers' position within the trimers influenced processing and this correlated with target silencing. Compromised efficacy could be compensated by substituting the pri-miR-31 backbone with a pri-miR-30a scaffold. Inhibition of HBV replication was achieved in vivo, and in cell culture without disruption of endogenous miR function or induction of the interferon response. A mutant HBV target sequence, with changes in one of the guide cognates, was also silenced by the trimeric cassettes. The modular nature of the cassettes together with compatibility with expression from Pol II promoters should be advantageous for gene silencing applications requiring simultaneous targeting of different sites.
+
+-Base Sequence
+-Cell Line
+-Genetic Vectors
+-Hepatitis B virus (+genetics; -physiology)
+-Humans
+-MicroRNAs (-biosynthesis; +chemistry; +metabolism)
+-Molecular Sequence Data
++RNA Interference
+-RNA Polymerase II (+metabolism)
+-RNA Processing, Post-Transcriptional
+-Transfection
+-Virus Replication
+
+pii:gkp446
+doi:10.1093/nar/gkp446
+pubmed:19474340
+pmc:PMC2715259
+

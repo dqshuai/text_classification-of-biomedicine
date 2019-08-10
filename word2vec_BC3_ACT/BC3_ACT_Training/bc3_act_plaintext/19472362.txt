@@ -1,0 +1,20 @@
+Protein Sci.
+
+Evolutionary constraints on structural similarity in orthologs and paralogs.
+
+ME Peterson, F Chen, JG Saven, DS Roos, PC Babbitt, A Sali
+
+Although a quantitative relationship between sequence similarity and structural similarity has long been established, little is known about the impact of orthology on the relationship between protein sequence and structure. Among homologs, orthologs (derived by speciation) more frequently have similar functions than paralogs (derived by duplication). Here, we hypothesize that an orthologous pair will tend to exhibit greater structural similarity than a paralogous pair at the same level of sequence similarity. To test this hypothesis, we used 284,459 pairwise structure-based alignments of 12,634 unique domains from SCOP as well as orthology and paralogy assignments from OrthoMCL DB. We divided the comparisons by sequence identity and determined whether the sequence-structure relationship differed between the orthologs and paralogs. We found that at levels of sequence identity between 30 and 70%, orthologous domain pairs indeed tend to be significantly more structurally similar than paralogous pairs at the same level of sequence identity. An even larger difference is found when comparing ligand binding residues instead of whole domains. These differences between orthologs and paralogs are expected to be useful for selecting template structures in comparative modeling and target proteins in structural genomics.
+
+-Amino Acid Sequence
+-Databases, Protein
++Evolution, Molecular
+-Protein Structure, Tertiary
+-Proteins (+chemistry)
+-Sequence Alignment
+-Structure-Activity Relationship
+
+doi:10.1002/pro.143
+pubmed:19472362
+pmc:PMC2774440
+

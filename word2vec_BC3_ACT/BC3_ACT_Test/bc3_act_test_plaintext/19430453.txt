@@ -1,0 +1,21 @@
+Nat. Biotechnol.
+
+How to map billions of short reads onto genomes.
+
+C Trapnell, SL Salzberg
+
+Mapping the vast quantities of short sequence fragments produced by next-generation sequencing platforms is a challenge. What programs are available and how do they work?
+
++Algorithms
+-Base Sequence
+-Genome
+-Sequence Alignment (+methods)
++Sequence Analysis, DNA
+-Software
+
+pii:nbt0509-455
+doi:10.1038/nbt0509-455
+pubmed:19430453
+mid:NIHMS182376
+pmc:PMC2836519
+

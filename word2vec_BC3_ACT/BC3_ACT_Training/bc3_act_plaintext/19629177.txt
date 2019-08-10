@@ -1,0 +1,24 @@
+PLoS Pathog.
+
+Two Prp19-like U-box proteins in the MOS4-associated complex play redundant roles in plant innate immunity.
+
+J Monaghan, F Xu, M Gao, Q Zhao, K Palma, C Long, S Chen, Y Zhang, X Li
+
+Plant Resistance (R) proteins play an integral role in defense against pathogen infection. A unique gain-of-function mutation in the R gene SNC1, snc1, results in constitutive activation of plant immune pathways and enhanced resistance against pathogen infection. We previously found that mutations in MOS4 suppress the autoimmune phenotypes of snc1, and that MOS4 is part of a nuclear complex called the MOS4-Associated Complex (MAC) along with the transcription factor AtCDC5 and the WD-40 protein PRL1. Here we report the immuno-affinity purification of the MAC using HA-tagged MOS4 followed by protein sequence analysis by mass spectrometry. A total of 24 MAC proteins were identified, 19 of which have predicted roles in RNA processing based on their homology to proteins in the Prp19-Complex, an evolutionarily conserved spliceosome-associated complex containing homologs of MOS4, AtCDC5, and PRL1. Among these were two highly similar U-box proteins with homology to the yeast and human E3 ubiquitin ligase Prp19, which we named MAC3A and MAC3B. MAC3B was recently shown to exhibit E3 ligase activity in vitro. Through reverse genetics analysis we show that MAC3A and MAC3B are functionally redundant and are required for basal and R protein-mediated resistance in Arabidopsis. Like mos4-1 and Atcdc5-1, mac3a mac3b suppresses snc1-mediated autoimmunity. MAC3 localizes to the nucleus and interacts with AtCDC5 in planta. Our results suggest that MAC3A and MAC3B are members of the MAC that function redundantly in the regulation of plant innate immunity.
+
+-Arabidopsis (-genetics; +immunology; -metabolism)
+-Arabidopsis Proteins (+immunology; -metabolism)
+-Autoimmunity
+-Cell Cycle Proteins (-metabolism)
+-Cell Nucleus (-metabolism)
+-DNA Repair Enzymes (-immunology; -metabolism)
+-Immunity, Innate (-physiology)
+-Mass Spectrometry
+-Nuclear Proteins (-immunology; -metabolism)
+-Phenotype
+-Systems Biology (-methods)
+
+doi:10.1371/journal.ppat.1000526
+pubmed:19629177
+pmc:PMC2709443
+

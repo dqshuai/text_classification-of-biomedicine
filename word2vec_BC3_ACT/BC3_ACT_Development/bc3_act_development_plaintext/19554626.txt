@@ -1,0 +1,18 @@
+Protein Sci.
+
+Determination and application of empirically derived detergent phase boundaries to effectively crystallize membrane proteins.
+
+M Koszelak-Rosenblum, A Krol, N Mozumdar, K Wunsch, A Ferin, E Cook, CK Veatch, R Nagel, JR Luft, GT Detitta, MG Malkowski
+
+Elucidating the structures of membrane proteins is essential to our understanding of disease states and a critical component in the rational design of drugs. Structural characterization of a membrane protein begins with its detergent solubilization from the lipid bilayer and its purification within a functionally stable protein-detergent complex (PDC). Crystallization of the PDC typically occurs by changing the solution environment to decrease solubility and promote interactions between exposed hydrophilic surface residues. As membrane proteins have been observed to form crystals close to the phase separation boundaries of the detergent used to form the PDC, knowledge of these boundaries under different chemical conditions provides a foundation to rationally design crystallization screens. We have carried out dye-based detergent phase partitioning studies using different combinations of 10 polyethylene glycols (PEG), 11 salts, and 11 detergents to generate a significant amount of chemically diverse phase boundary data. The resulting curves were used to guide the formulation of a 1536-cocktail crystallization screen for membrane proteins. We are making both the experimentally derived phase boundary data and the 1536 membrane screen available through the high-throughput crystallization facility located at the Hauptman-Woodward Institute. The phase boundary data have been packaged into an interactive Excel spreadsheet that allows investigators to formulate grid screens near a given phase boundary for a particular detergent. The 1536 membrane screen has been applied to 12 membrane proteins of unknown structures supplied by the structural genomics and structural biology communities, with crystallization leads for 10/12 samples and verification of one crystal using X-ray diffraction.
+
+-Animals
+-Crystallization
+-Detergents (+chemistry)
+-Membrane Proteins (+chemistry)
+-Polyethylene Glycols (-chemistry)
+
+doi:10.1002/pro.193
+pubmed:19554626
+pmc:PMC2777358
+

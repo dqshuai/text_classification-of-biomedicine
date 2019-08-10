@@ -1,0 +1,31 @@
+Mol. Cell. Biol.
+
+Sterol regulatory element binding protein 1a regulates hepatic fatty acid partitioning by activating acetyl coenzyme A carboxylase 2.
+
+SS Im, LE Hammond, L Yousef, C Nugas-Selby, DJ Shin, YK Seo, LG Fong, SG Young, TF Osborne
+
+We generated a line of mice in which sterol regulatory element binding protein 1a (SREBP-1a) was specifically inactivated by insertional mutagenesis. Homozygous mutant mice were completely viable despite expressing SREBP-1a mRNA below 5% of normal, and there were minimal effects on expression of either SREBP-1c or -2. Microarray expression studies in liver, where SREBP-1a mRNA is 1/10 the level of the highly similar SREBP-1c, demonstrated that only a few genes were affected. The only downregulated genes directly linked to lipid metabolism were Srebf1 (which encodes SREBP-1) and Acacb (which encodes acetyl coenzyme A [acetyl-CoA] carboxylase 2 [ACC2], a critical regulator of fatty acyl-CoA partitioning between cytosol and mitochondria). ACC2 regulation is particularly important during food restriction. Similar to Acacb knockout mice, SREBP-1a-deficient mice have lower hepatic triglycerides and higher serum ketones during fasting than wild-type mice. SREBP-1a and -1c have identical DNA binding and dimerization domains; thus, the failure of the more abundant SREBP-1c to substitute for activating hepatic ACC2 must relate to more efficient recruitment of transcriptional coactivators to the more potent SREBP-1a activation domain. Our chromatin immunoprecipitation results support this hypothesis.
+
+-Acetyl-CoA Carboxylase (-genetics; +metabolism)
+-Animals
+-Cell Line
+-Diet
+-Enzyme Activation
+-Fatty Acids (+metabolism)
+-Gene Expression Regulation, Enzymologic
+-Liver (+metabolism)
+-Male
+-Mice
+-Mice, Inbred C57BL
+-Mice, Knockout
+-Microarray Analysis
+-Mutagenesis, Site-Directed
+-Promoter Regions, Genetic
+-Protein Isoforms (-genetics; +metabolism)
+-Sterol Regulatory Element Binding Protein 1 (-genetics; +metabolism)
+
+pii:MCB.00553-09
+doi:10.1128/MCB.00553-09
+pubmed:19564420
+pmc:PMC2725716
+

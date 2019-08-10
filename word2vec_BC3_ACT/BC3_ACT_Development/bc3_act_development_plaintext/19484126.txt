@@ -1,0 +1,28 @@
+PLoS ONE
+
+Microfluidic endothelium for studying the intravascular adhesion of metastatic breast cancer cells.
+
+JW Song, SP Cavnar, AC Walker, KE Luker, M Gupta, YC Tung, GD Luker, S Takayama
+
+BACKGROUND: The ability to properly model intravascular steps in metastasis is essential in identifying key physical, cellular, and molecular determinants that can be targeted therapeutically to prevent metastatic disease. Research on the vascular microenvironment has been hindered by challenges in studying this compartment in metastasis under conditions that reproduce in vivo physiology while allowing facile experimental manipulation. METHODOLOGY/PRINCIPAL FINDINGS: We present a microfluidic vasculature system to model interactions between circulating breast cancer cells with microvascular endothelium at potential sites of metastasis. The microfluidic vasculature produces spatially-restricted stimulation from the basal side of the endothelium that models both organ-specific localization and polarization of chemokines and many other signaling molecules under variable flow conditions. We used this microfluidic system to produce site-specific stimulation of microvascular endothelium with CXCL12, a chemokine strongly implicated in metastasis. CONCLUSIONS/SIGNIFICANCE: When added from the basal side, CXCL12 acts through receptor CXCR4 on endothelium to promote adhesion of circulating breast cancer cells, independent of CXCL12 receptors CXCR4 or CXCR7 on tumor cells. These studies suggest that targeting CXCL12-CXCR4 signaling in endothelium may limit metastases in breast and other cancers and highlight the unique capabilities of our microfluidic device to advance studies of the intravascular microenvironment in metastasis.
+
+-Breast Neoplasms (+diagnosis; +pathology)
+-Cell Adhesion
+-Cell Line, Tumor
+-Cells, Cultured
+-Chemokine CXCL12 (-metabolism)
+-Humans
+-Luciferases (-metabolism)
+-Microfluidic Analytical Techniques
++Microfluidics
+-Neoplasm Metastasis
+-Receptors, CXCR (-metabolism)
+-Receptors, CXCR4 (-metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Signal Transduction
+-Stress, Mechanical
+
+doi:10.1371/journal.pone.0005756
+pubmed:19484126
+pmc:PMC2684591
+

@@ -1,0 +1,34 @@
+Science
+
+LXR regulates cholesterol uptake through Idol-dependent ubiquitination of the LDL receptor.
+
+N Zelcer, C Hong, R Boyadjian, P Tontonoz
+
+Cellular cholesterol levels reflect a balance between uptake, efflux, and endogenous synthesis. Here we show that the sterol-responsive nuclear liver X receptor (LXR) helps maintain cholesterol homeostasis, not only through promotion of cholesterol efflux but also through suppression of low-density lipoprotein (LDL) uptake. LXR inhibits the LDL receptor (LDLR) pathway through transcriptional induction of Idol (inducible degrader of the LDLR), an E3 ubiquitin ligase that triggers ubiquitination of the LDLR on its cytoplasmic domain, thereby targeting it for degradation. LXR ligand reduces, whereas LXR knockout increases, LDLR protein levels in vivo in a tissue-selective manner. Idol knockdown in hepatocytes increases LDLR protein levels and promotes LDL uptake. Conversely, adenovirus-mediated expression of Idol in mouse liver promotes LDLR degradation and elevates plasma LDL levels. The LXR-Idol-LDLR axis defines a complementary pathway to sterol response element-binding proteins for sterol regulation of cholesterol uptake.
+
+-Animals
+-Cell Line, Tumor
+-Cholesterol (+metabolism)
+-DNA-Binding Proteins (-agonists; +metabolism)
+-Homeostasis
+-Humans
+-Ligands
+-Lipoproteins, LDL (-blood; -metabolism)
+-Liver (-metabolism)
+-Mice
+-Mice, Inbred C57BL
+-Orphan Nuclear Receptors
+-Promoter Regions, Genetic
+-RNA, Messenger (-genetics; -metabolism)
+-Receptors, Cytoplasmic and Nuclear (-agonists; +metabolism)
+-Receptors, LDL (-genetics; +metabolism)
+-Transcription, Genetic
+-Ubiquitin-Protein Ligases
+-Ubiquitination
+
+pii:1168974
+doi:10.1126/science.1168974
+pubmed:19520913
+mid:NIHMS151722
+pmc:PMC2777523
+

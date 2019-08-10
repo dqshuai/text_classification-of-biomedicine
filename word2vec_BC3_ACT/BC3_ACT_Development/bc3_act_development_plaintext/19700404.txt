@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+Structural model for phenylalkylamine binding to L-type calcium channels.
+
+RC Cheng, DB Tikhonov, BS Zhorov
+
+Phenylalkylamines (PAAs), a major class of L-type calcium channel (LTCC) blockers, have two aromatic rings connected by a flexible chain with a nitrile substituent. Structural aspects of ligand-channel interactions remain unclear. We have built a KvAP-based model of LTCC and used Monte Carlo energy minimizations to dock devapamil, verapamil, gallopamil, and other PAAs. The PAA-LTCC models have the following common features: (i) the meta-methoxy group in ring A, which is proximal to the nitrile group, accepts an H-bond from a PAA-sensing Tyr_IIIS6; (ii) the meta-methoxy group in ring B accepts an H-bond from a PAA-sensing Tyr_IVS6; (iii) the ammonium group is stabilized at the focus of P-helices; and (iv) the nitrile group binds to a Ca(2+) ion coordinated by the selectivity filter glutamates in repeats III and IV. The latter feature can explain Ca(2+) potentiation of PAA action and the presence of an electronegative atom at a similar position of potent PAA analogs. Tyr substitution of a Thr in IIIS5 is known to enhance action of devapamil and verapamil. Our models predict that the para-methoxy group in ring A of devapamil and verapamil accepts an H-bond from this engineered Tyr. The model explains structure-activity relationships of PAAs, effects of LTCC mutations on PAA potency, data on PAA access to LTCC, and Ca(2+) potentiation of PAA action. Common and class-specific aspects of action of PAAs, dihydropyridines, and benzothiazepines are discussed in view of the repeat interface concept.
+
+-Amino Acid Sequence
+-Binding Sites
++Calcium Channel Blockers (-chemistry; -metabolism)
+-Calcium Channels, L-Type (+chemistry; -genetics; +metabolism)
+-Computer Simulation
+-Dihydropyridines (-chemistry)
+-Gallopamil (-chemistry; -metabolism)
++Models, Molecular
+-Molecular Sequence Data
+-Molecular Structure
+-Monte Carlo Method
++Protein Structure, Tertiary
+-Sequence Alignment
+-Structure-Activity Relationship
+-Verapamil (-analogs & derivatives; -chemistry; -metabolism)
+
+pii:M109.027326
+doi:10.1074/jbc.M109.027326
+pubmed:19700404
+pmc:PMC2788883
+

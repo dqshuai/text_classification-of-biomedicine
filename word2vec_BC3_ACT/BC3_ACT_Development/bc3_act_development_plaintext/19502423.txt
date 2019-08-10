@@ -1,0 +1,19 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+An externally tunable bacterial band-pass filter.
+
+T Sohka, RA Heins, RM Phelan, JM Greisler, CA Townsend, M Ostermeier
+
+The current paradigm for tuning synthetic biological systems is through re-engineering system components. Biological systems designed with the inherent ability to be tuned by external stimuli will be more versatile. We engineered Escherichia coli cells to behave as an externally tunable band-pass filter for enzyme activity and small molecules. The band's location can be positioned within a range of 4 orders of magnitude simply by the addition of compounds to the growth medium. Inclusion in the genetic network of an enzyme-substrate pair that functions as an attenuator is a generalizable strategy that enables this tunability. The genetic circuit enabled bacteria growth to be patterned in response to chemical gradients in nonintuitive ways and facilitated the isolation of engineered allosteric enzymes. The application of this strategy to other biological systems will increase their utility for biotechnological applications and their usefulness as a tool for gaining insight into nature's underlying design principles.
+
+-Biotechnology (+methods)
+-Escherichia coli (+enzymology; -genetics; +growth & development)
+-Filtration
+-Gene Regulatory Networks
+-Genetic Engineering
+
+pii:0901246106
+doi:10.1073/pnas.0901246106
+pubmed:19502423
+pmc:PMC2700907
+

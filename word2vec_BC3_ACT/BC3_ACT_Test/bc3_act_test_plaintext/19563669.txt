@@ -1,0 +1,28 @@
+Breast Cancer Res.
+
+Targeting inhibitor of apoptosis proteins in combination with ErbB antagonists in breast cancer.
+
+FM Foster, TW Owens, J Tanianis-Hughes, RB Clarke, K Brennan, NJ Bundred, CH Streuli
+
+INTRODUCTION: Inhibitor of apoptosis (IAPs) proteins are a family of proteins that can block apoptosis in normal cells and have been suggested to cause resistance to apoptosis in cancer. Overexpression of oncogenic receptor tyrosine kinases is common in breast cancer; in particular 20% of all cases show elevated Her2. Despite clinical success with the use of targeted therapies, such as Trastuzumab, only up to 35% of Her2-positive patients initially respond. We reasoned that IAP-mediated apoptosis resistance might contribute to this insensitivity to receptor tyrosine kinase therapy, in particular ErbB antagonists. Here we examine the levels of IAPs in breast cancer and evaluate whether targeting IAPs can enhance apoptosis in response to growth factor receptor antagonists and TRAIL. METHODS: IAP levels were examined in a breast cancer cell line panel and in patient samples. IAPs were inhibited using siRNA or cell permeable mimetics of endogenous inhibitors. Cells were then exposed to TRAIL, Trastuzumab, Lapatinib, or Gefitinib for 48 hours. Examining nuclear morphology and staining for cleaved caspase 3 was used to score apoptosis. Proliferation was examined by Ki67 staining. RESULTS: Four members of the IAP family, Survivin, XIAP, cIAP1 and cIAP2, were all expressed to varying extents in breast cancer cell lines or tumours. MDAMB468, BT474 and BT20 cells all expressed XIAP to varying extents. Depleting the cells of XIAP overcame the intrinsic resistance of BT20 and MDAMB468 cells to TRAIL. Moreover, siRNA-based depletion of XIAP or use of a Smac mimetic to target multiple IAPs increased apoptosis in response to the ErbB antagonists, Trastuzumab, Lapatinib or Gefitinib in Her2-overexpressing BT474 cells, or Gefitinib in EGFR-overexpressing MDAMB468 cells. CONCLUSIONS: The novel findings of this study are that multiple IAPs are concomitantly expressed in breast cancers, and that, in combination with clinically relevant Her2 treatments, IAP antagonists promote apoptosis and reduce the cell turnover index of breast cancers. We also show that combination therapy of IAP antagonists with some pro-apoptotic agents (for example, TRAIL) enhances apoptosis of breast cancer cells. In some cases (for example, MDAMB468 cells), the enhanced apoptosis is profound.
+
++Apoptosis
+-Breast Neoplasms (+metabolism)
+-Caspase 3 (-metabolism)
+-Cell Line, Tumor
+-Cell Proliferation
+-Female
++Gene Expression Regulation, Neoplastic
+-Humans
+-Intercellular Signaling Peptides and Proteins (-metabolism)
+-Models, Biological
+-Receptor, erbB-2 (-antagonists & inhibitors; +metabolism)
+-Signal Transduction
+-TNF-Related Apoptosis-Inducing Ligand (-metabolism)
+-X-Linked Inhibitor of Apoptosis Protein (-biosynthesis)
+
+pii:bcr2328
+doi:10.1186/bcr2328
+pubmed:19563669
+pmc:PMC2716510
+

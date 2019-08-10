@@ -1,0 +1,24 @@
+J. Biol. Chem.
+
+Escherichia coli unsaturated fatty acid synthesis: complex transcription of the fabA gene and in vivo identification of the essential reaction catalyzed by FabB.
+
+Y Feng, JE Cronan
+
+Although the unsaturated fatty acid (UFA) synthetic pathway of Escherichia coli is the prototype of such pathways, several unresolved issues have accumulated over the years. The key players are the fabA and fabB genes. Earlier studies of fabA transcription showed that the gene was transcribed from two promoters, with one being positively regulated by the FadR protein. The other weaker promoter (which could not be mapped with the technology then available) was considered constitutive because its function was independent of FadR. However, the FabR negative regulator was recently shown to represses fabA transcription. We report that the weak promoter overlaps the FadR-dependent promoter and is regulated by FabR. This promoter is strictly conserved in all E. coli and Salmonella enterica genomes sequenced to date and is thought to provide insurance against inappropriate regulation of fabA transcription by exogenous saturated fatty acids. Also, the fabAup promoter, a mutant promoter previously isolated by selection for increased FabA activity, was shown to be a promoter created de novo by a four-base deletion within the gene located immediately upstream of fabA. Demonstration of the key UFA synthetic reaction catalyzed by FabB has been elusive, although it was known to catalyze an elongation reaction. Strains lacking FabB are UFA auxotrophs indicating that the enzyme catalyzes an essential step in UFA synthesis. Using thioesterases specific for hydrolysis of short chain acyl-ACPs, the intermediates of the UFA synthetic pathway have been followed in vivo for the first time. These experiments showed that a fabB mutant strain accumulated less cis-5-dodecenoic acid than the parental wild-type strain. These data indicate that the key reaction in UFA synthesis catalyzed by FabB is elongation of the cis-3-decenoyl-ACP produced by FabA.
+
+-3-Oxoacyl-(Acyl-Carrier-Protein) Synthase (-genetics; +metabolism)
+-Bacterial Proteins (-genetics; -metabolism)
+-Escherichia coli K12 (+enzymology; -genetics)
+-Escherichia coli Proteins (-genetics; +metabolism)
+-Fatty Acids, Monounsaturated (+metabolism)
+-Hydro-Lyases (-genetics; +metabolism)
+-Promoter Regions, Genetic (-physiology)
+-Repressor Proteins (-genetics; -metabolism)
+-Salmonella enterica (-enzymology; -genetics)
+-Transcription, Genetic (-physiology)
+
+pii:M109.023440
+doi:10.1074/jbc.M109.023440
+pubmed:19679654
+pmc:PMC2785586
+

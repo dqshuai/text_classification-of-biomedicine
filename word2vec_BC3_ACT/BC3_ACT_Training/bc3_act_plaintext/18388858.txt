@@ -1,0 +1,25 @@
+EMBO J.
+
+Arabidopsis COP1 shapes the temporal pattern of CO accumulation conferring a photoperiodic flowering response.
+
+S Jang, V Marchal, KC Panigrahi, S Wenkel, W Soppe, XW Deng, F Valverde, G Coupland
+
+The transcriptional regulator CONSTANS (CO) promotes flowering of Arabidopsis under long summer days (LDs) but not under short winter days (SDs). Post-translational regulation of CO is crucial for this response by stabilizing the protein at the end of a LD, whereas promoting its degradation throughout the night under LD and SD. We show that mutations in CONSTITUTIVE PHOTOMORPHOGENIC 1 (COP1), a component of a ubiquitin ligase, cause extreme early flowering under SDs, and that this is largely dependent on CO activity. Furthermore, transcription of the CO target gene FT is increased in cop1 mutants and decreased in plants overexpressing COP1 in phloem companion cells. COP1 and CO interact in vivo and in vitro through the C-terminal region of CO. COP1 promotes CO degradation mainly in the dark, so that in cop1 mutants CO protein but not CO mRNA abundance is dramatically increased during the night. However, in the morning CO degradation occurs independently of COP1 by a phytochrome B-dependent mechanism. Thus, COP1 contributes to day length perception by reducing the abundance of CO during the night and thereby delaying flowering under SDs.
+
+-Arabidopsis (-genetics; +metabolism)
+-Arabidopsis Proteins (-antagonists & inhibitors; -genetics; +metabolism; +physiology)
+-Circadian Rhythm
+-DNA-Binding Proteins (-antagonists & inhibitors; +metabolism)
+-Flowers (+physiology)
+-Light
+-Mutation
++Photoperiod
+-Protein Interaction Mapping
+-Suppression, Genetic
+-Transcription Factors (-antagonists & inhibitors; +metabolism)
+
+pii:emboj200868
+doi:10.1038/emboj.2008.68
+pubmed:18388858
+pmc:PMC2291449
+

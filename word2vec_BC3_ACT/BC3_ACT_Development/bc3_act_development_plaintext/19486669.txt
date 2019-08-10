@@ -1,0 +1,36 @@
+Biophys. J.
+
+A rapid coarse residue-based computational method for x-ray solution scattering characterization of protein folds and multiple conformational states of large protein complexes.
+
+S Yang, S Park, L Makowski, B Roux
+
+We present a coarse residue-based computational method to rapidly compute the solution scattering profile from a protein with dynamical fluctuations. The method is built upon a coarse-grained (CG) representation of the protein. This CG representation takes advantage of the intrinsic low-resolution and CG nature of solution scattering data. It allows rapid scattering determination from a large number of conformations that can be extracted from CG simulations to obtain scattering characterization of protein conformations. The method includes several important elements, effective residue structure factors derived from the Protein Data Bank, explicit treatment of water molecules in the hydration layer at the surface of the protein, and an ensemble average of scattering from a variety of appropriate conformations to account for macromolecular flexibility. This simplified method is calibrated and illustrated to accurately reproduce the experimental scattering curve of Hen egg white lysozyme. We then illustrated the applications of this CG method by computing the solution scattering patterns of several representative protein folds and multiple conformational states. The results suggest that solution scattering data, when combined with the reliable computational method that we developed, show great potential for a better structural description of multidomain complexes in different functional states, and for recognizing structural folds when sequence similarity to a protein of known structure is low.
+
+-Actins (-chemistry)
+-Acyltransferases (-chemistry)
+-Algorithms
+-Animals
+-Bacterial Proteins (-chemistry)
+-Calmodulin (-chemistry)
+-Chickens
+-Databases, Protein
+-Egg Proteins (-chemistry)
+-Elasticity
+-Escherichia coli Proteins (-chemistry)
+-Models, Molecular
+-Muramidase (-chemistry)
++Protein Conformation
++Protein Folding
+-Proteins (+chemistry)
++Scattering, Radiation
+-Transferrin (-chemistry)
+-Viral Proteins (-chemistry)
+-Water (-chemistry)
+-X-Rays
+-bcl-X Protein (-chemistry)
+
+pii:S0006-3495(09)00755-3
+doi:10.1016/j.bpj.2009.03.036
+pubmed:19486669
+pmc:PMC2711486
+

@@ -1,0 +1,22 @@
+Genome Biol.
+
+Whole genome sequencing of a single Bos taurus animal for single nucleotide polymorphism discovery.
+
+SH Eck, A Benet-Pagès, K Flisikowski, T Meitinger, R Fries, TM Strom
+
+BACKGROUND: The majority of the 2 million bovine single nucleotide polymorphisms (SNPs) currently available in dbSNP have been identified in a single breed, Hereford cattle, during the bovine genome project. In an attempt to evaluate the variance of a second breed, we have produced a whole genome sequence at low coverage of a single Fleckvieh bull. RESULTS: We generated 24 gigabases of sequence, mainly using 36-bp paired-end reads, resulting in an average 7.4-fold sequence depth. This coverage was sufficient to identify 2.44 million SNPs, 82% of which were previously unknown, and 115,000 small indels. A comparison with the genotypes of the same animal, generated on a 50 k oligonucleotide chip, revealed a detection rate of 74% and 30% for homozygous and heterozygous SNPs, respectively. The false positive rate, as determined by comparison with genotypes determined for 196 randomly selected SNPs, was approximately 1.1%. We further determined the allele frequencies of the 196 SNPs in 48 Fleckvieh and 48 Braunvieh bulls. 95% of the SNPs were polymorphic with an average minor allele frequency of 24.5% and with 83% of the SNPs having a minor allele frequency larger than 5%. CONCLUSIONS: This work provides the first single cattle genome by next-generation sequencing. The chosen approach - low to medium coverage re-sequencing - added more than 2 million novel SNPs to the currently publicly available SNP resource, providing a valuable resource for the construction of high density oligonucleotide arrays in the context of genome-wide association studies.
+
+-Animals
+-Cattle (+genetics)
+-Female
++Genome
+-INDEL Mutation
+-Male
++Polymorphism, Single Nucleotide
+-Sequence Analysis, DNA
+
+pii:gb-2009-10-8-r82
+doi:10.1186/gb-2009-10-8-r82
+pubmed:19660108
+pmc:PMC2745763
+

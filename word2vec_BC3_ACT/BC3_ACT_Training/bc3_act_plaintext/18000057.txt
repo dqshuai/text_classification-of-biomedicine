@@ -1,0 +1,28 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+A distinct mechanism regulating a pollen-specific guanine nucleotide exchange factor for the small GTPase Rop in Arabidopsis thaliana.
+
+Y Zhang, S McCormick
+
+Rop/Rac small GTPases are central to diverse developmental and cellular activities in plants, playing an especially important role in polar growth of pollen tubes. Although it is established that a class of plant-specific RopGEFs promotes the activity of Rop/Rac through the catalytic PRONE (Plant-specific Rop nucleotide exchanger) domain, not much is known about how RopGEF function is controlled to allow a spatiotemporally regulated Rop activity. To understand such a process in pollen, we performed functional analysis with a pollen-specific RopGEF, AtRopGEF12. Overexpression of AtRopGEF12 had minimal phenotypic effects, whereas overexpression of a C-terminally truncated version disturbed tube growth, suggesting that the C terminus was inhibitory to GEF function. In contrast to non-pollen-expressed RopGEFs, pollen-expressed RopGEFs have conserved C termini. A phospho-mimicking mutation at an invariant serine within the C terminus of AtRopGEF12 resulted in loss of the C-terminal inhibition, suggesting that phosphorylation regulates GEF activity in vivo. The PRONE domain of AtRopGEF12 (PRONE12) was not sufficient to induce isotropic tube growth. We used mbSUS to show that AtRopGEF12 interacts with an Arabidopsis pollen receptor kinase AtPRK2a through its C terminus, and BiFC to show that they interact in pollen tubes. Coexpression of AtRopGEF12 and AtPRK2a caused isotropic growth reminiscent of that seen upon overexpression of a constitutively active (CA) Rop. Coexpression of AtPRK2a with an N-terminally truncated AtRopGEF12 did not induce isotropic growth, indicating a positive role for the N-terminal domain. Our results suggest a mechanism by which the noncatalytic domains of pollen-specific/enriched RopGEFs regulate PRONE function, leading to polarized pollen tube growth.
+
+-Amino Acid Sequence
+-Arabidopsis (-genetics; -growth & development; +metabolism)
+-Arabidopsis Proteins (-chemistry; -classification; -genetics; +metabolism)
+-Conserved Sequence
+-GTP-Binding Proteins (-chemistry; -classification; -genetics; +metabolism)
+-Gene Expression Regulation, Enzymologic
+-Gene Expression Regulation, Plant
+-Guanine Nucleotide Exchange Factors (-chemistry; -classification; -genetics; +metabolism)
+-Molecular Sequence Data
+-Mutation (-genetics)
+-Phylogeny
+-Pollen (-growth & development; +metabolism)
+-Protein Kinase C (-genetics; -metabolism)
+-Sequence Alignment
+
+pii:0705874104
+doi:10.1073/pnas.0705874104
+pubmed:18000057
+pmc:PMC2141862
+

@@ -1,0 +1,22 @@
+Nat. Methods
+
+Accurate determination of microbial diversity from 454 pyrosequencing data.
+
+C Quince, A Lanzén, TP Curtis, RJ Davenport, N Hall, IM Head, LF Read, WT Sloan
+
+We present an algorithm, PyroNoise, that clusters the flowgrams of 454 pyrosequencing reads using a distance measure that models sequencing noise. This infers the true sequences in a collection of amplicons. We pyrosequenced a known mixture of microbial 16S rDNA sequences extracted from a lake and found that without noise reduction the number of operational taxonomic units is overestimated but using PyroNoise it can be accurately calculated.
+
+-Algorithms
+-Bacteria (+genetics)
++Genetic Variation
+-Models, Genetic
+-Polymerase Chain Reaction
+-RNA, Bacterial (-genetics)
+-RNA, Ribosomal, 16S (-genetics)
+-Sequence Analysis, DNA (+methods)
+-Software
+
+pii:nmeth.1361
+doi:10.1038/nmeth.1361
+pubmed:19668203
+

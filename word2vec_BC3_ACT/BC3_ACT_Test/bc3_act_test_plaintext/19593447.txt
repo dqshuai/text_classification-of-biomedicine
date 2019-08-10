@@ -1,0 +1,19 @@
+PLoS ONE
+
+Modeling the repertoire of true tumor-specific MHC I epitopes in a human tumor.
+
+N Srivastava, PK Srivastava
+
+DNA replication has a finite measurable error rate, net of repair, in all cells. Clonal proliferation of cancer cells leads therefore to accumulation of random mutations. A proportion of these mutational events can create new immunogenic epitopes that, if processed and presented by an MHC allele, may be recognized by the adaptive immune system. Here, we use probability theory to analyze the mutational and epitope composition of a tumor mass in successive division cycles and create a double Pölya model for calculating the number of truly tumor-specific MHC I epitopes in a human tumor. We deduce that depending upon tumor size, the degree of genomic instability and the degree of death within a tumor, human tumors have several tens to low hundreds of new, truly tumor-specific epitopes. Parenthetically, cancer stem cells, due to the asymmetry in their proliferative properties, shall harbor significantly fewer mutations, and therefore significantly fewer immunogenic epitopes. As the overwhelming majority of the mutations in cancer cells are unrelated to malignancy, the mutation-generated epitopes shall be specific for each individual tumor, and constitute the antigenic fingerprint of each tumor. These calculations highlight the benefits for personalization of immunotherapy of human cancer, and in view of the substantial pre-existing antigenic repertoire of tumors, emphasize the enormous potential of therapies that modulate the anti-cancer immune response by liberating it from inhibitory influences.
+
+-Epitopes (-chemistry; +immunology)
+-Humans
+-Immunotherapy
+-Major Histocompatibility Complex (-genetics; +immunology)
+-Mutation
+-Neoplasms (-genetics; +immunology; -therapy)
+
+doi:10.1371/journal.pone.0006094
+pubmed:19593447
+pmc:PMC2704956
+

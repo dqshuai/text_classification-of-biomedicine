@@ -1,0 +1,21 @@
+PLoS Comput. Biol.
+
+Investigating the conformational stability of prion strains through a kinetic replication model.
+
+M Zampieri, G Legname, C Altafini
+
+Prion proteins are known to misfold into a range of different aggregated forms, showing different phenotypic and pathological states. Understanding strain specificities is an important problem in the field of prion disease. Little is known about which PrP(Sc) structural properties and molecular mechanisms determine prion replication, disease progression and strain phenotype. The aim of this work is to investigate, through a mathematical model, how the structural stability of different aggregated forms can influence the kinetics of prion replication. The model-based results suggest that prion strains with different conformational stability undergoing in vivo replication are characterizable in primis by means of different rates of breakage. A further role seems to be played by the aggregation rate (i.e. the rate at which a prion fibril grows). The kinetic variability introduced in the model by these two parameters allows us to reproduce the different characteristic features of the various strains (e.g., fibrils' mean length) and is coherent with all experimental observations concerning strain-specific behavior.
+
+-Kinetics
+-Linear Models
++Models, Chemical
+-Nonlinear Dynamics
+-PrPSc Proteins (+chemistry; -metabolism)
+-Protein Conformation
+-Protein Multimerization
+-Protein Stability
+
+doi:10.1371/journal.pcbi.1000420
+pubmed:19578427
+pmc:PMC2697384
+

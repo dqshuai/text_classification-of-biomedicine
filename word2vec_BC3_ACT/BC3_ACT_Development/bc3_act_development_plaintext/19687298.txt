@@ -1,0 +1,29 @@
+Mol. Cell. Biol.
+
+Chromatin architecture and transcription factor binding regulate expression of erythrocyte membrane protein genes.
+
+LA Steiner, Y Maksimova, V Schulz, C Wong, D Raha, MC Mahajan, SM Weissman, PG Gallagher
+
+Erythrocyte membrane protein genes serve as excellent models of complex gene locus structure and function, but their study has been complicated by both their large size and their complexity. To begin to understand the intricate interplay of transcription, dynamic chromatin architecture, transcription factor binding, and genomic organization in regulation of erythrocyte membrane protein genes, we performed chromatin immunoprecipitation (ChIP) coupled with microarray analysis and ChIP coupled with massively parallel DNA sequencing in both erythroid and nonerythroid cells. Unexpectedly, most regions of GATA-1 and NF-E2 binding were remote from gene promoters and transcriptional start sites, located primarily in introns. Cooccupancy with FOG-1, SCL, and MTA-2 was found at all regions of GATA-1 binding, with cooccupancy of SCL and MTA-2 also found at regions of NF-E2 binding. Cooccupancy of GATA-1 and NF-E2 was found frequently. A common signature of histone H3 trimethylation at lysine 4, GATA-1, NF-E2, FOG-1, SCL, and MTA-2 binding and consensus GATA-1-E-box binding motifs located 34 to 90 bp away from NF-E2 binding motifs was found frequently in erythroid cell-expressed genes. These results provide insights into our understanding of membrane protein gene regulation in erythropoiesis and the regulation of complex genetic loci in erythroid and nonerythroid cells and identify numerous candidate regions for mutations associated with membrane-linked hemolytic anemia.
+
+-Basic Helix-Loop-Helix Transcription Factors (-metabolism)
+-Chromatin (+metabolism)
+-Erythrocyte Membrane (+metabolism)
+-Erythrocytes (+metabolism)
+-GATA1 Transcription Factor (-metabolism)
++Gene Expression Regulation
+-Hela Cells
+-Histone Deacetylases (-metabolism)
+-Humans
+-Membrane Proteins (+genetics)
+-NF-E2 Transcription Factor, p45 Subunit (-metabolism)
+-Nuclear Proteins (-metabolism)
+-Proto-Oncogene Proteins (-metabolism)
+-Repressor Proteins (-metabolism)
+-Transcription Factors (-metabolism)
+
+pii:MCB.00777-09
+doi:10.1128/MCB.00777-09
+pubmed:19687298
+pmc:PMC2756878
+

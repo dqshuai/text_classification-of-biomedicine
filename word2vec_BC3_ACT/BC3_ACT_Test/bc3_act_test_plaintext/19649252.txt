@@ -1,0 +1,25 @@
+PLoS ONE
+
+Causal hierarchy within the thalamo-cortical network in spike and wave discharges.
+
+AE Vaudano, H Laufs, SJ Kiebel, DW Carmichael, K Hamandi, M Guye, R Thornton, R Rodionov, KJ Friston, JS Duncan, L Lemieux
+
+BACKGROUND: Generalised spike wave (GSW) discharges are the electroencephalographic (EEG) hallmark of absence seizures, clinically characterised by a transitory interruption of ongoing activities and impaired consciousness, occurring during states of reduced awareness. Several theories have been proposed to explain the pathophysiology of GSW discharges and the role of thalamus and cortex as generators. In this work we extend the existing theories by hypothesizing a role for the precuneus, a brain region neglected in previous works on GSW generation but already known to be linked to consciousness and awareness. We analysed fMRI data using dynamic causal modelling (DCM) to investigate the effective connectivity between precuneus, thalamus and prefrontal cortex in patients with GSW discharges. METHODOLOGY AND PRINCIPAL FINDINGS: We analysed fMRI data from seven patients affected by Idiopathic Generalized Epilepsy (IGE) with frequent GSW discharges and significant GSW-correlated haemodynamic signal changes in the thalamus, the prefrontal cortex and the precuneus. Using DCM we assessed their effective connectivity, i.e. which region drives another region. Three dynamic causal models were constructed: GSW was modelled as autonomous input to the thalamus (model A), ventromedial prefrontal cortex (model B), and precuneus (model C). Bayesian model comparison revealed Model C (GSW as autonomous input to precuneus), to be the best in 5 patients while model A prevailed in two cases. At the group level model C dominated and at the population-level the p value of model C was approximately 1. CONCLUSION: Our results provide strong evidence that activity in the precuneus gates GSW discharges in the thalamo-(fronto) cortical network. This study is the first demonstration of a causal link between haemodynamic changes in the precuneus -- an index of awareness -- and the occurrence of pathological discharges in epilepsy.
+
++Action Potentials
+-Adolescent
+-Adult
+-Causality
+-Cerebral Cortex (+physiopathology)
+-Electroencephalography
+-Epilepsy (-physiopathology)
+-Female
+-Humans
+-Magnetic Resonance Imaging
+-Male
+-Thalamus (+physiopathology)
+
+doi:10.1371/journal.pone.0006475
+pubmed:19649252
+pmc:PMC2715100
+

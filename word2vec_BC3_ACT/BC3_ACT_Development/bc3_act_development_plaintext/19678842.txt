@@ -1,0 +1,24 @@
+FEBS J.
+
+Dissection of LolB function--lipoprotein binding, membrane targeting and incorporation of lipoproteins into lipid bilayers.
+
+J Tsukahara, K Mukaiyama, S Okuda, S Narita, H Tokuda
+
+Escherichia coli cells express at least 90 species of lipoprotein. LolB is one of the essential outer membrane lipoproteins, being involved in the last step of lipoprotein sorting. It accepts lipoproteins from a periplasmic molecular chaperone, LolA, and mediates the outer membrane anchoring of lipoproteins through a largely unknown mechanism. It has been shown previously that a LolB derivative, mLolB, lacking an N-terminal acyl chain, can bind lipoproteins. We examined how the lack of an N-terminal anchor affects the outer membrane anchoring of lipoproteins. Surprisingly, mLolB compensates for LolB function and supports E. coli growth, indicating that the N-terminal anchor is not essential for its function. Indeed, mLolB correctly localizes lipoproteins to either the inner or outer membrane depending on the sorting signal at the steady state. Furthermore, periplasmic mLolB enables the dissection of LolB function, namely lipoprotein binding, membrane targeting and lipoprotein anchoring. It mediates the transfer of lipoproteins from LolA to the outer membrane, but also the inner membrane and liposomes, indicating that mLolB exhibits no membrane preference and targets to phospholipids. Consequently, an outer membrane-specific lipoprotein is transiently mislocalized to the inner membrane when cells express only mLolB. LolB anchored to the outer membrane does not cause such mislocalization and is more active than mLolB. Phosphatidylethanolamine has been found to stimulate the mLolB-dependent membrane anchoring of lipoproteins. Taken together, these results indicate that lipoprotein binding, membrane targeting and membrane incorporation of lipoproteins are intrinsic functions of LolB.
+
+-Bacterial Outer Membrane Proteins (+metabolism)
+-Carrier Proteins (+metabolism)
+-Cell Membrane (-metabolism)
+-Escherichia coli (-growth & development)
+-Escherichia coli Proteins (+metabolism)
+-Lipid Bilayers (+metabolism)
+-Lipoproteins (+metabolism)
+-Periplasmic Binding Proteins
+-Phospholipids (-metabolism)
+-Protein Binding
+-Protein Transport
+
+pii:EJB7156
+doi:10.1111/j.1742-4658.2009.07156.x
+pubmed:19678842
+

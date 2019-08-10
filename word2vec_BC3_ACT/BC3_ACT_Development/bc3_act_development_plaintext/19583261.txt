@@ -1,0 +1,24 @@
+Biochemistry
+
+The hypervariable region of K-Ras4B is responsible for its specific interactions with calmodulin.
+
+SJ Abraham, RP Nolet, RJ Calvert, LM Anderson, V Gaponenko
+
+K-Ras4B belongs to the family of p21 Ras GTPases, which play an important role in cell proliferation, survival, and motility. The p21 Ras proteins, such as K-Ras4B, K-Ras4A, H-Ras, and N-Ras, share 85% sequence homology and activate very similar signaling pathways. Only the C-terminal hypervariable regions differ significantly. A growing body of literature demonstrates that each Ras isoform possesses unique functions in normal physiological processes as well as in pathogenesis. One of the central questions in the field of Ras biology is how these very similar proteins achieve such remarkable specificity in protein-protein interactions that regulate signal transduction pathways. Here we explore specific binding of K-Ras4B to calmodulin. Using NMR techniques and isothermal titration calorimetry, we demonstrate that the hypervariable region of K-Ras4B contributes in a major way to the interaction with calmodulin, while the catalytic domain of K-Ras4B provides a way to control the interaction by nucleotide binding. The hypervariable region of K-Ras4B binds specifically to the C-terminal domain of Ca(2+)-loaded calmodulin with micromolar affinity, while the GTP-gamma-S-loaded catalytic domain of K-Ras4B may interact with the N-terminal domain of calmodulin.
+
+-Binding Sites
+-Calmodulin (+chemistry; -genetics; +metabolism)
+-Humans
+-Isoenzymes (+chemistry; -genetics; +metabolism)
+-Models, Molecular
+-Nuclear Magnetic Resonance, Biomolecular
+-Protein Binding
++Protein Conformation
+-Proto-Oncogene Proteins p21(ras) (+chemistry; -genetics; +metabolism)
+-Signal Transduction (-physiology)
+
+doi:10.1021/bi900769j
+pubmed:19583261
+mid:NIHMS134646
+pmc:PMC2729490
+

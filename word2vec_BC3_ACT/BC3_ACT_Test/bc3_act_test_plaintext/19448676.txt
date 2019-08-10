@@ -1,0 +1,32 @@
+Oncogene
+
+CHFR, a potential tumor suppressor, downregulates interleukin-8 through the inhibition of NF-kappaB.
+
+L Kashima, M Toyota, H Mita, H Suzuki, M Idogawa, K Ogi, Y Sasaki, T Tokino
+
+The mitotic checkpoint gene CHFR (checkpoint with forkhead and ring finger domains) is silenced in various human cancers by promoter hypermethylation, suggesting that CHFR is a tumor suppressor. Here, we show that CHFR functions as a negative regulator of the nuclear factor-kappaB (NF-kappaB) pathway. Expression of CHFR inhibited NF-kappaB reporter activity, whereas knockdown of CHFR activated reporter activity. These activities are independent of its RING finger domain. Furthermore, we found that CHFR physically interacts with p65 in cells. Electrophoretic mobility shift assays (EMSAs) and ELISA-based NF-kappaB-binding assays showed that CHFR negatively regulated transcriptional activity of p65. In addition, our data show that interleukin (IL)-8 is significantly downregulated by CHFR, and that the migration of human endothelial cells is suppressed in culture medium conditioned from CHFR-expressing cancer cells. Using a xenograft model, we show that neovascularization is suppressed by adenovirus-mediated transfer of CHFR. These results indicate that expression of CHFR markedly reduces the expression of IL-8 through the inhibition of NF-kappaB. As the NF-kappaB signaling pathway plays a critical role in the development and progression of cancer, our findings show the functional relationship between epigenetic alteration and inflammation/angiogenesis in human cancer cells, thereby showing several potential targets for therapeutic intervention.
+
+-Animals
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Cell Line, Tumor
+-Cell Nucleus (-metabolism)
+-DNA (-metabolism)
+-Down-Regulation
+-Electrophoretic Mobility Shift Assay
++Gene Expression Regulation, Neoplastic
+-Gene Knockdown Techniques
+-Humans
+-Interleukin-8 (+genetics)
+-Mice
+-Mice, Nude
+-Neoplasm Proteins (-genetics; +metabolism)
+-Neoplasms (+blood supply)
+-Neovascularization, Pathologic (+genetics)
+-Transcription Factor RelA (+antagonists & inhibitors)
+-Transcription, Genetic
+-Xenograft Model Antitumor Assays
+
+pii:onc2009123
+doi:10.1038/onc.2009.123
+pubmed:19448676
+

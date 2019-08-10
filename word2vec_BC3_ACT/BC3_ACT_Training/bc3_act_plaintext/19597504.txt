@@ -1,0 +1,30 @@
+Nat. Med.
+
+Imaging transforming growth factor-beta signaling dynamics and therapeutic response in breast cancer bone metastasis.
+
+M Korpal, J Yan, X Lu, S Xu, DA Lerit, Y Kang
+
+Although the transforming growth factor-beta (TGF-beta) pathway has been implicated in breast cancer metastasis, its in vivo dynamics and temporal-spatial involvement in organ-specific metastasis have not been investigated. Here we engineered a xenograft model system with a conditional control of the TGF-beta-SMAD signaling pathway and a dual-luciferase reporter system for tracing both metastatic burden and TGF-beta signaling activity in vivo. Strong TGF-beta signaling in osteolytic bone lesions is suppressed directly by genetic and pharmacological disruption of the TGF-beta-SMAD pathway and indirectly by inhibition of osteoclast function with bisphosphonates. Notably, disruption of TGF-beta signaling early in metastasis can substantially reduce metastasis burden but becomes less effective when bone lesions are well established. Our in vivo system for real-time manipulation and detection of TGF-beta signaling provides a proof of principle for using similar strategies to analyze the in vivo dynamics of other metastasis-associated signaling pathways and will expedite the development and characterization of therapeutic agents.
+
+-Animals
+-Bone Neoplasms (+diagnosis; -metabolism; +secondary; -therapy)
+-Breast Neoplasms (-diagnosis; -metabolism; +pathology; -therapy)
+-Diagnostic Imaging (+methods)
+-Female
+-Genetic Vectors
+-Humans
+-Mice
+-Mice, Nude
+-Models, Biological
+-Signal Transduction (-drug effects)
+-Smad4 Protein (-genetics; -metabolism)
+-Transforming Growth Factor beta (+pharmacokinetics)
+-Treatment Outcome
+-Tumor Cells, Cultured
+-Validation Studies as Topic
+-Xenograft Model Antitumor Assays
+
+pii:nm.1943
+doi:10.1038/nm.1943
+pubmed:19597504
+

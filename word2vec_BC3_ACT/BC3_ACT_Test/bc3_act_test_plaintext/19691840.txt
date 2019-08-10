@@ -1,0 +1,34 @@
+BMC Genomics
+
+Effect of CAR activation on selected metabolic pathways in normal and hyperlipidemic mouse livers.
+
+T Rezen, V Tamasi, A Lövgren-Sandblom, I Björkhem, UA Meyer, D Rozman
+
+BACKGROUND: Detoxification in the liver involves activation of nuclear receptors, such as the constitutive androstane receptor (CAR), which regulate downstream genes of xenobiotic metabolism. Frequently, the metabolism of endobiotics is also modulated, resulting in potentially harmful effects. We therefore used 1,4-Bis [2-(3,5-dichloropyridyloxy)] benzene (TCPOBOP) to study the effect of CAR activation on mouse hepatic transcriptome and lipid metabolome under conditions of diet-induced hyperlipidemia. RESULTS: Using gene expression profiling with a dedicated microarray, we show that xenobiotic metabolism, PPARalpha and adipocytokine signaling, and steroid synthesis are the pathways most affected by TCPOBOP in normal and hyperlipidemic mice. TCPOBOP-induced CAR activation prevented the increased hepatic and serum cholesterol caused by feeding mice a diet containing 1% cholesterol. We show that this is due to increased bile acid metabolism and up-regulated removal of LDL, even though TCPOBOP increased cholesterol synthesis under conditions of hyperlipidemia. Up-regulation of cholesterol synthesis was not accompanied by an increase in mature SREBP2 protein. As determined by studies in CAR -/- mice, up-regulation of cholesterol synthesis is however CAR-dependent; and no obvious CAR binding sites were detected in promoters of cholesterogenic genes. TCPOBOP also affected serum glucose and triglyceride levels and other metabolic processes in the liver, irrespective of the diet. CONCLUSION: Our data show that CAR activation modulates hepatic metabolism by lowering cholesterol and glucose levels, through effects on PPARalpha and adiponectin signaling pathways, and by compromising liver adaptations to hyperlipidemia.
+
+-Adiponectin (-metabolism)
+-Animals
+-Blood Glucose
+-Cholesterol (-blood; -metabolism)
+-Female
+-Gene Expression Profiling
+-Gene Expression Regulation
+-Hyperlipidemias (-genetics; +metabolism)
+-Liver (+metabolism)
+-Male
++Metabolic Networks and Pathways
+-Mice
+-Mice, Inbred C57BL
+-Mice, Knockout
+-Oligonucleotide Array Sequence Analysis
+-PPAR alpha (-metabolism)
+-Pyridines (-pharmacology)
+-Receptors, Cytoplasmic and Nuclear (+metabolism)
+-Sterol Regulatory Element Binding Protein 2 (-metabolism)
+-Triglycerides (-blood)
+
+pii:1471-2164-10-384
+doi:10.1186/1471-2164-10-384
+pubmed:19691840
+pmc:PMC2739862
+

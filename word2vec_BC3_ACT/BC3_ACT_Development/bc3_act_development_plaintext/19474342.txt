@@ -1,0 +1,28 @@
+Nucleic Acids Res.
+
+Using high-density exon arrays to profile gene expression in closely related species.
+
+L Lin, S Liu, H Brockway, J Seok, P Jiang, WH Wong, Y Xing
+
+Global comparisons of gene expression profiles between species provide significant insight into gene regulation, evolutionary processes and disease mechanisms. In this work, we describe a flexible and intuitive approach for global expression profiling of closely related species, using high-density exon arrays designed for a single reference genome. The high-density probe coverage of exon arrays allows us to select identical sets of perfect-match probes to measure expression levels of orthologous genes. This eliminates a serious confounding factor in probe affinity effects of species-specific microarray probes, and enables direct comparisons of estimated expression indexes across species. Using a newly designed Affymetrix exon array, with eight probes per exon for approximately 315,000 exons in the human genome, we conducted expression profiling in corresponding tissues from humans, chimpanzees and rhesus macaques. Quantitative real-time PCR analysis of differentially expressed candidate genes is highly concordant with microarray data, yielding a validation rate of 21/22 for human versus chimpanzee differences, and 11/11 for human versus rhesus differences. This method has the potential to greatly facilitate biomedical and evolutionary studies of gene expression in nonhuman primates and can be easily extended to expression array design and comparative analysis of other animals and plants.
+
+-Animals
+-Base Sequence
+-Cerebellum (-metabolism)
+-Conserved Sequence
+-Exons
+-Gene Expression Profiling (+methods)
+-Genomics
+-Humans
+-Macaca mulatta
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Oligonucleotide Probes
+-Pan troglodytes (-genetics)
+-Polymerase Chain Reaction
+-Species Specificity
+
+pii:gkp420
+doi:10.1093/nar/gkp420
+pubmed:19474342
+pmc:PMC2709591
+

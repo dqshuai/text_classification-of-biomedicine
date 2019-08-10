@@ -1,0 +1,21 @@
+Cell Cycle
+
+Low-dose DNA damage and replication stress responses quantified by optimized automated single-cell image analysis.
+
+M Mistrik, L Oplustilova, J Lukas, J Bartek
+
+Maintenance of genome integrity is essential for homeostasis and survival as impaired DNA damage response (DDR) may predispose to grave pathologies such as neurodegenerative and immunodeficiency syndromes, cancer and premature aging. Therefore, accurate assessment of DNA damage caused by environmental or metabolic genotoxic insults is critical for contemporary biomedicine. The available physical, flow cytometry and sophisticated scanning approaches to DNA damage estimation each have some drawbacks such as insufficient sensitivity, limitation to analysis of cells in suspension, or high costs and demand for trained personnel. Here we present an option how to transform a regular fluorescence microscope and personal computer with common software into a functional alternative to high-throughput screening devices. In two detailed protocols we introduce a new semi-automatic procedure allowing for very sensitive, quantitative, rapid and simple fluorescence image analysis in thousands of adherent cells per day. Sensitive DNA breakage estimation through analysis of phosphorylated histone H2AX (gamma-H2AX), and homologous recombination (HR) assessed by a new RPA/Rad51 dual-marker approach illustrate the advantages and applicability of this technique. Our present data on assessment of low radiation doses, repair kinetics, spontaneous DNA damage in cancer cells, as well as constitutive and replication stress-induced HR events and their dependence on upstream factors within the DDR machinery document the versatility of the method. We believe this affordable approach may facilitate mechanistic insights into the role of low-dose DNA damage in human diseases, and generally promote both basic and translational research in many areas of biomedicine where suitable fluorescence markers are available.
+
+-Cell Line, Tumor
+-DNA Damage (+genetics; +radiation effects)
++DNA Replication
+-Diagnostic Imaging (+methods)
+-Histones (-metabolism)
+-Humans
+-Microscopy, Fluorescence (+methods)
+-Rad51 Recombinase (-metabolism)
+-Radiation, Ionizing
+
+pii:9331
+pubmed:19625777
+

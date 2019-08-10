@@ -1,0 +1,32 @@
+Genome Res.
+
+Automated identification of conserved synteny after whole-genome duplication.
+
+JM Catchen, JS Conery, JH Postlethwait
+
+An important objective for inferring the evolutionary history of gene families is the determination of orthologies and paralogies. Lineage-specific paralog loss following whole-genome duplication events can cause anciently related homologs to appear in some assays as orthologs. Conserved synteny-the tendency of neighboring genes to retain their relative positions and orders on chromosomes over evolutionary time-can help resolve such errors. Several previous studies examined genome-wide syntenic conservation to infer the contents of ancestral chromosomes and provided insights into the architecture of ancestral genomes, but did not provide methods or tools applicable to the study of the evolution of individual gene families. We developed an automated system to identify conserved syntenic regions in a primary genome using as outgroup a genome that diverged from the investigated lineage before a whole-genome duplication event. The product of this automated analysis, the Synteny Database, allows a user to examine fully or partially assembled genomes. The Synteny Database is optimized for the investigation of individual gene families in multiple lineages and can detect chromosomal inversions and translocations as well as ohnologs (paralogs derived by whole-genome duplication) gone missing. To demonstrate the utility of the system, we present a case study of gene family evolution, investigating the ARNTL gene family in the genomes of Ciona intestinalis, amphioxus, zebrafish, and human.
+
+-ARNTL Transcription Factors
+-Animals
+-Basic Helix-Loop-Helix Transcription Factors (-classification; -genetics)
+-Chordata, Nonvertebrate (-genetics)
+-Chromosome Inversion
+-Ciona intestinalis (-genetics)
+-Computational Biology (+methods)
+-Databases, Genetic
+-Evolution, Molecular
++Gene Duplication
+-Genome (+genetics)
+-Genome-Wide Association Study (-methods)
+-Genomics (-methods)
+-Humans
+-Phylogeny
+-Synteny (+genetics)
+-Translocation, Genetic
+-Zebrafish (-genetics)
+
+pii:gr.090480.108
+doi:10.1101/gr.090480.108
+pubmed:19465509
+pmc:PMC2720179
+

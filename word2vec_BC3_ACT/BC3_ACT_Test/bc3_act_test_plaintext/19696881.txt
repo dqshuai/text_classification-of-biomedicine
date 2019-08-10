@@ -1,0 +1,27 @@
+PLoS Comput. Biol.
+
+Microarray comparative genomic hybridisation analysis incorporating genomic organisation, and application to enterobacterial plant pathogens.
+
+L Pritchard, H Liu, C Booth, E Douglas, P François, J Schrenzel, PE Hedley, PR Birch, IK Toth
+
+Microarray comparative genomic hybridisation (aCGH) provides an estimate of the relative abundance of genomic DNA (gDNA) taken from comparator and reference organisms by hybridisation to a microarray containing probes that represent sequences from the reference organism. The experimental method is used in a number of biological applications, including the detection of human chromosomal aberrations, and in comparative genomic analysis of bacterial strains, but optimisation of the analysis is desirable in each problem domain.We present a method for analysis of bacterial aCGH data that encodes spatial information from the reference genome in a hidden Markov model. This technique is the first such method to be validated in comparisons of sequenced bacteria that diverge at the strain and at the genus level: Pectobacterium atrosepticum SCRI1043 (Pba1043) and Dickeya dadantii 3937 (Dda3937); and Lactococcus lactis subsp. lactis IL1403 and L. lactis subsp. cremoris MG1363. In all cases our method is found to outperform common and widely used aCGH analysis methods that do not incorporate spatial information. This analysis is applied to comparisons between commercially important plant pathogenic soft-rotting enterobacteria (SRE) Pba1043, P. atrosepticum SCRI1039, P. carotovorum 193, and Dda3937.Our analysis indicates that it should not be assumed that hybridisation strength is a reliable proxy for sequence identity in aCGH experiments, and robustly extends the applicability of aCGH to bacterial comparisons at the genus level. Our results in the SRE further provide evidence for a dynamic, plastic 'accessory' genome, revealing major genomic islands encoding gene products that provide insight into, and may play a direct role in determining, variation amongst the SRE in terms of their environmental survival, host range and aetiology, such as phytotoxin synthesis, multidrug resistance, and nitrogen fixation.
+
+-Cluster Analysis
+-Comparative Genomic Hybridization (+methods)
+-Computer Simulation
+-Enterobacteriaceae (+genetics)
+-Gene Transfer, Horizontal
+-Genetic Variation
++Genome, Bacterial
+-Genomic Islands
+-Markov Chains
+-Models, Statistical
+-Normal Distribution
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Plant Diseases (+microbiology)
+-Reproducibility of Results
+
+doi:10.1371/journal.pcbi.1000473
+pubmed:19696881
+pmc:PMC2718846
+

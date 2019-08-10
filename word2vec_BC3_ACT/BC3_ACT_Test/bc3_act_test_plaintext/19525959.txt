@@ -1,0 +1,25 @@
+Nat. Methods
+
+In vivo fluorescence imaging with high-resolution microlenses.
+
+RP Barretto, B Messerschmidt, MJ Schnitzer
+
+Micro-optics are increasingly used for minimally invasive in vivo imaging, in miniaturized microscopes and in lab-on-a-chip devices. Owing to optical aberrations and lower numerical apertures, a main class of microlens, gradient refractive index lenses, has not achieved resolution comparable to conventional microscopy. Here we describe high-resolution microlenses, and illustrate two-photon imaging of dendritic spines on hippocampal neurons and dual-color nonlinear optical imaging of neuromuscular junctions in live mice.
+
+-Animals
+-Dendritic Spines (-metabolism; -ultrastructure)
+-Green Fluorescent Proteins (-genetics; -metabolism)
++Lenses
+-Mice
+-Mice, Transgenic
+-Microscopy, Fluorescence, Multiphoton (+instrumentation; -methods)
+-Neuromuscular Junction (-metabolism; -ultrastructure)
+-Pyramidal Cells (-metabolism; -ultrastructure)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+
+pii:nmeth.1339
+doi:10.1038/nmeth.1339
+pubmed:19525959
+mid:NIHMS174451
+pmc:PMC2849805
+

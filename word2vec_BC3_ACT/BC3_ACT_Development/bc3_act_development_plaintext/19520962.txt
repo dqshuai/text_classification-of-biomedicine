@@ -1,0 +1,30 @@
+Science
+
+Genome-wide demethylation of Arabidopsis endosperm.
+
+TF Hsieh, CA Ibarra, P Silva, A Zemach, L Eshed-Williams, RL Fischer, D Zilberman
+
+Parent-of-origin-specific (imprinted) gene expression is regulated in Arabidopsis thaliana endosperm by cytosine demethylation of the maternal genome mediated by the DNA glycosylase DEMETER, but the extent of the methylation changes is not known. Here, we show that virtually the entire endosperm genome is demethylated, coupled with extensive local non-CG hypermethylation of small interfering RNA-targeted sequences. Mutation of DEMETER partially restores endosperm CG methylation to levels found in other tissues, indicating that CG demethylation is specific to maternal sequences. Endosperm demethylation is accompanied by CHH hypermethylation of embryo transposable elements. Our findings demonstrate extensive reconfiguration of the endosperm methylation landscape that likely reinforces transposon silencing in the embryo.
+
+-Arabidopsis (+embryology; +genetics; -growth & development)
+-Arabidopsis Proteins (-genetics; -metabolism)
++DNA Methylation
++DNA Transposable Elements
+-DNA, Plant (-genetics; -metabolism)
+-Gene Expression Regulation, Plant
+-Gene Silencing
+-Genes, Plant
++Genome, Plant
++Genomic Imprinting
+-N-Glycosyl Hydrolases (-genetics; -metabolism)
+-RNA Interference
+-RNA, Small Interfering (-genetics; -metabolism)
+-Repetitive Sequences, Nucleic Acid
+-Seeds (+genetics; -growth & development)
+-Trans-Activators (-genetics; -metabolism)
+-Transcription Initiation Site
+
+pii:324/5933/1451
+doi:10.1126/science.1172417
+pubmed:19520962
+

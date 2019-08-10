@@ -1,0 +1,24 @@
+Hum. Mol. Genet.
+
+Correction of tau mis-splicing caused by FTDP-17 MAPT mutations by spliceosome-mediated RNA trans-splicing.
+
+T Rodriguez-Martin, K Anthony, MA Garcia-Blanco, SG Mansfield, BH Anderton, JM Gallo
+
+Frontotemporal dementia with parkinsonism linked to chromosome 17 (FTDP-17) is caused by mutations in the MAPT gene, encoding the tau protein that accumulates in intraneuronal lesions in a number of neurodegenerative diseases. Several FTDP-17 mutations affect alternative splicing and result in excess exon 10 (E10) inclusion in tau mRNA. RNA reprogramming using spliceosome-mediated RNA trans-splicing (SMaRT) could be a method of choice to correct aberrant E10 splicing resulting from FTDP-17 mutations. SMaRT creates a hybrid mRNA through a trans-splicing reaction between an endogenous target pre-mRNA and a pre-trans-splicing RNA molecule (PTM). However, FTDP-17 mutations affect the strength of cis-splicing elements and could favor cis-splicing over trans-splicing. Excess E10 inclusion in FTDP-17 can be caused by intronic mutations destabilizing a stem-loop protecting the 5' splice site at the E10/intron 10 junction. COS cells transfected with a minigene containing the intronic +14 mutation produce exclusively E10(+) RNA. Generation of E10(-) RNA was restored after co-transfection with a PTM designed to exclude E10. Similar results were obtained with a target containing the exonic N279K mutation which strengthens a splicing enhancer within E10. Conversely, increase or decrease in E10 content was achieved by trans-splicing from a target carrying the Delta280K mutation, which weakens the same splicing enhancer. Thus E10 inclusion can be modulated by trans-splicing irrespective of the strength of the cis-splicing elements affected by FTDP-17 mutations. In conclusion, RNA trans-splicing could provide the basis of therapeutic strategies for impaired alternative splicing caused by pathogenic mutations in cis-acting splicing elements.
+
+-Animals
+-COS Cells
+-Cercopithecus aethiops
+-Exons
+-Humans
++Mutation
+-Spliceosomes (-genetics; +metabolism)
+-Tauopathies (+genetics; -metabolism)
++Trans-Splicing
+-tau Proteins (+genetics; +metabolism)
+
+pii:ddp264
+doi:10.1093/hmg/ddp264
+pubmed:19498037
+pmc:PMC2722988
+

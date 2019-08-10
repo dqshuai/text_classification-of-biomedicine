@@ -1,0 +1,28 @@
+BMC Genomics
+
+Identification and target prediction of miRNAs specifically expressed in rat neural tissue.
+
+YJ Hua, ZY Tang, K Tu, L Zhu, YX Li, L Xie, HS Xiao
+
+BACKGROUND: MicroRNAs (miRNAs) are a large group of RNAs that play important roles in regulating gene expression and protein translation. Several studies have indicated that some miRNAs are specifically expressed in human, mouse and zebrafish tissues. For example, miR-1 and miR-133 are specifically expressed in muscles. Tissue-specific miRNAs may have particular functions. Although previous studies have reported the presence of human, mouse and zebrafish tissue-specific miRNAs, there have been no detailed reports of rat tissue-specific miRNAs. In this study, Home-made rat miRNA microarrays which established in our previous study were used to investigate rat neural tissue-specific miRNAs, and mapped their target genes in rat tissues. This study will provide information for the functional analysis of these miRNAs. RESULTS: In order to obtain as complete a picture of specific miRNA expression in rat neural tissues as possible, customized miRNA microarrays with 152 selected miRNAs from miRBase were used to detect miRNA expression in 14 rat tissues. After a general clustering analysis, 14 rat tissues could be clearly classified into neural and non-neural tissues based on the obtained expression profiles with p values < 0.05. The results indicated that the miRNA profiles were different in neural and non-neural tissues. In total, we found 30 miRNAs that were specifically expressed in neural tissues. For example, miR-199a was specifically expressed in neural tissues. Of these, the expression patterns of four miRNAs were comparable with those of Landgraf et al., Bak et al., and Kapsimani et al. Thirty neural tissue-specific miRNAs were chosen to predict target genes. A total of 1,475 target mRNA were predicted based on the intersection of three public databases, and target mRNA's pathway, function, and regulatory network analysis were performed. We focused on target enrichments of the dorsal root ganglion (DRG) and olfactory bulb. There were four Gene Ontology (GO) functions and five KEGG pathways significantly enriched in DRG. Only one GO function was significantly enriched in the olfactory bulb. These targets are all predictions and have not been experimentally validated. CONCLUSION: Our work provides a global view of rat neural tissue-specific miRNA profiles and a target map of miRNAs, which is expected to contribute to future investigations of miRNA regulatory mechanisms in neural systems.
+
+-Animals
+-Cluster Analysis
+-Computational Biology
+-Ganglia, Spinal (-metabolism)
+-Gene Expression
+-Gene Expression Profiling (+methods)
+-MicroRNAs (+genetics)
+-Nerve Tissue (+metabolism)
+-Olfactory Bulb (-metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Principal Component Analysis
+-Rats
+-Sequence Analysis, RNA (+methods)
+-Software
+
+pii:1471-2164-10-214
+doi:10.1186/1471-2164-10-214
+pubmed:19426523
+pmc:PMC2688525
+

@@ -1,0 +1,26 @@
+PLoS ONE
+
+Anchoring secreted proteins in endoplasmic reticulum by plant oleosin: the example of vitamin B12 cellular sequestration by transcobalamin.
+
+L Pons, SF Battaglia-Hsu, CE Orozco-Barrios, S Ortiou, C Chery, JM Alberto, ML Arango-Rodriguez, D Dumas, D Martinez-Fong, JN Freund, JL Gueant
+
+BACKGROUND: Oleosin is a plant protein localized to lipid droplets and endoplasmic reticulum of plant cells. Our idea was to use it to target functional secretory proteins of interest to the cytosolic side of the endoplasmic reticulum of mammalian cells, through expressing oleosin-containing chimeras. We have designed this approach to create cellular models deficient in vitamin B12 (cobalamin) because of the known problematics associated to the obtainment of effective vitamin B12 deficient cell models. This was achieved by the overexpression of transcobalamin inside cells through anchoring to oleosin. METHODOLOGY: chimera gene constructs including transcobalamin-oleosin (TC-O), green fluorescent protein-transcobalamin-oleosin (GFP-TC-O) and oleosin-transcobalamin (O-TC) were inserted into pAcSG2 and pCDNA3 vectors for expression in sf9 insect cells, Caco2 (colon carcinoma), NIE-115 (mouse neuroblastoma), HEK (human embryonic kidney), COS-7 (Green Monkey SV40-transfected kidney fibroblasts) and CHO (Chinese hamster ovary cells). The subcellular localization, the changes in vitamin B12 binding activity and the metabolic consequences were investigated in both Caco2 and NIE-115 cells. PRINCIPAL FINDINGS: vitamin B12 binding was dramatically higher in TC-O than that in O-TC and wild type (WT). The expression of GFP-TC-O was observed in all cell lines and found to be co-localized with an ER-targeted red fluorescent protein and calreticulin of the endoplasmic reticulum in Caco2 and COS-7 cells. The overexpression of TC-O led to B12 deficiency, evidenced by impaired conversion of cyano-cobalamin to ado-cobalamin and methyl-cobalamin, decreased methionine synthase activity and reduced S-adenosyl methionine to S-adenosyl homocysteine ratio, as well as increases in homocysteine and methylmalonic acid concentration. CONCLUSIONS/SIGNIFICANCE: the heterologous expression of TC-O in mammalian cells can be used as an effective strategy for investigating the cellular consequences of vitamin B12 deficiency. More generally, expression of oleosin-anchored proteins could be an interesting tool in cell engineering for studying proteins of pharmacological interest.
+
+-Animals
+-Base Sequence
+-Blotting, Western
+-Cell Line
+-DNA Primers
+-DNA, Complementary
+-Electrophoresis, Polyacrylamide Gel
+-Endoplasmic Reticulum (+metabolism)
+-Humans
+-Microscopy, Confocal
+-Plant Proteins (+metabolism)
+-Transcobalamins (+metabolism)
+-Vitamin B 12 (+metabolism)
+
+doi:10.1371/journal.pone.0006325
+pubmed:19623264
+pmc:PMC2710007
+

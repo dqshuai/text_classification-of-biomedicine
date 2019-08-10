@@ -1,0 +1,33 @@
+Oncogene
+
+Krüppel-like factor 5 promotes breast cell proliferation partially through upregulating the transcription of fibroblast growth factor binding protein 1.
+
+HQ Zheng, Z Zhou, J Huang, L Chaudhury, JT Dong, C Chen
+
+The Krüppel-like factor 5 (KLF5) is a zinc-finger transcription factor promoting cell proliferation, cell-cycle progression and survival. A high expression level of KLF5 mRNA has been shown to be associated with shorter breast cancer patient survival. However, the mechanism of KLF5 action in breast cancer is still not clear. In this study, we found that both KLF5 and its downstream gene fibroblast growth factor binding protein 1 (FGF-BP) are co-expressed in breast cell lines and primary tumors. Manipulation of the KLF5 expression can positively regulate the FGF-BP mRNA and protein levels in multiple breast cell lines. In addition, the secreted FGF-BP protein in the conditional medium is also regulated by KLF5. Furthermore, we demonstrated that KLF5 binds and activates the FGF-BP promoter through a GC box by luciferase reporter, oligo pull down and chromatin immunoprecipitation (ChIP) assays. When FGF-BP is depleted by siRNA, KLF5 fails to promote cell proliferation in MCF10A, SW527 and TSU-Pr1. We further demonstrated that overexpression or addition of FGF-BP rescues the KLF5-knockdown-induced growth arrest in MCF10A cells. Finally, KLF5 significantly promotes MCF7 breast cancer cell xenograft growth in athymic nude mice. These findings suggest that KLF5 may promote breast cancer cell proliferation at least partially through directly activating the FGF-BP mRNA transcription. Understanding the mechanism of KLF5 action in breast cancer may result in useful diagnostic and therapeutic targets.
+
+-Animals
+-Base Sequence
+-Binding Sites
+-Breast Neoplasms (-genetics; -metabolism; +pathology)
+-Carrier Proteins (+genetics; -metabolism)
+-Cell Line, Tumor
+-Cell Proliferation
+-Female
+-GC Rich Sequence
+-Gene Expression Regulation, Neoplastic
+-Gene Knockdown Techniques
+-Humans
+-Immunohistochemistry
+-Kruppel-Like Transcription Factors (-deficiency; -genetics; +metabolism)
+-Mice
+-Promoter Regions, Genetic (-genetics)
+-RNA, Messenger (-genetics; -metabolism)
+-RNA, Small Interfering (-genetics)
++Transcription, Genetic
++Up-Regulation
+
+pii:onc2009235
+doi:10.1038/onc.2009.235
+pubmed:19668233
+

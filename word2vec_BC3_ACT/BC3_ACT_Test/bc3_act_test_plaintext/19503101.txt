@@ -1,0 +1,36 @@
+Oncogene
+
+BubR1 localizes to centrosomes and suppresses centrosome amplification via regulating Plk1 activity in interphase cells.
+
+H Izumi, Y Matsumoto, T Ikeuchi, H Saya, T Kajii, S Matsuura
+
+BubR1 is a critical component of the mitotic checkpoint that delays the onset of anaphase until all chromosomes have established bipolar attachment to the microtubules. We previously reported that mutations of the BUB1B gene (encoding BubR1) caused premature chromatid separation (PCS) syndrome, a condition characterized by constitutional aneuploidy and a high risk of childhood cancer. We here report that the cells from PCS syndrome patients have loss of regulation of the centrosome duplication machinery, resulting in centrosome amplification and multipolar mitosis. PCS syndrome cells show increased activity of Polo-like kinase 1 (Plk1), whose knockdown suppresses centrosome amplification. BubR1 localizes to centrosomes, physically interacts with Plk1 and inhibits Plk1 phosphorylation and its kinase activity during interphase. These results unravel a crucial role of BubR1 in preventing centrosome reduplication through negative regulation of Plk1 in interphase cells.
+
+-Abnormalities, Multiple (-genetics; -metabolism; -pathology)
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Cell Line
+-Centrosome (+metabolism)
+-Chromatids (-metabolism)
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-HCT116 Cells
+-Hela Cells
+-Humans
+-Immunoblotting
+-Immunoprecipitation
+-Interphase
+-Microscopy, Fluorescence
+-Mitotic Spindle Apparatus (-metabolism)
+-Mutation
+-Phosphorylation
+-Protein Binding
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-Proto-Oncogene Proteins (-genetics; +metabolism)
+-RNA, Small Interfering (-genetics)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Syndrome
+-Transfection
+
+pii:onc2009141
+doi:10.1038/onc.2009.141
+pubmed:19503101
+

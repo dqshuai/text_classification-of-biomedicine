@@ -1,0 +1,20 @@
+Nature
+
+The proportionality of global warming to cumulative carbon emissions.
+
+HD Matthews, NP Gillett, PA Stott, K Zickfeld
+
+The global temperature response to increasing atmospheric CO(2) is often quantified by metrics such as equilibrium climate sensitivity and transient climate response. These approaches, however, do not account for carbon cycle feedbacks and therefore do not fully represent the net response of the Earth system to anthropogenic CO(2) emissions. Climate-carbon modelling experiments have shown that: (1) the warming per unit CO(2) emitted does not depend on the background CO(2) concentration; (2) the total allowable emissions for climate stabilization do not depend on the timing of those emissions; and (3) the temperature response to a pulse of CO(2) is approximately constant on timescales of decades to centuries. Here we generalize these results and show that the carbon-climate response (CCR), defined as the ratio of temperature change to cumulative carbon emissions, is approximately independent of both the atmospheric CO(2) concentration and its rate of change on these timescales. From observational constraints, we estimate CCR to be in the range 1.0-2.1 degrees C per trillion tonnes of carbon (Tt C) emitted (5th to 95th percentiles), consistent with twenty-first-century CCR values simulated by climate-carbon models. Uncertainty in land-use CO(2) emissions and aerosol forcing, however, means that higher observationally constrained values cannot be excluded. The CCR, when evaluated from climate-carbon models under idealized conditions, represents a simple yet robust metric for comparing models, which aggregates both climate feedbacks and carbon cycle feedbacks. CCR is also likely to be a useful concept for climate change mitigation and policy; by combining the uncertainties associated with climate sensitivity, carbon sinks and climate-carbon feedbacks into a single quantity, the CCR allows CO(2)-induced global mean temperature change to be inferred directly from cumulative carbon emissions.
+
+-Atmosphere (-chemistry)
+-Carbon Dioxide (+analysis)
+-Feedback
++Greenhouse Effect
+-Models, Theoretical
++Temperature
+-Uncertainty
+
+pii:nature08047
+doi:10.1038/nature08047
+pubmed:19516338
+

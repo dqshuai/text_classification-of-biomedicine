@@ -1,0 +1,25 @@
+Nucleic Acids Res.
+
+Modulation of alternative splicing by long-range RNA structures in Drosophila.
+
+VA Raker, AA Mironov, MS Gelfand, DD Pervouchine
+
+Accurate and efficient recognition of splice sites during pre-mRNA splicing is essential for proper transcriptome expression. Splice site usage can be modulated by secondary structures, but it is unclear if this type of modulation is commonly used or occurs to a significant degree with secondary structures forming over long distances. Using phlyogenetic comparisons of intronic sequences among 12 Drosophila genomes, we elucidated a group of 202 highly conserved pairs of sequences, each at least nine nucleotides long, capable of forming stable stem structures. This set was highly enriched in alternatively spliced introns and introns with weak acceptor sites and long introns, and most occurred over long distances (>150 nucleotides). Experimentally, we analyzed the splicing of several of these introns using mini-genes in Drosophila S2 cells. Wild-type splicing patterns were changed by mutations that opened the stem structure, and restored by compensatory mutations that re-established the base-pairing potential, demonstrating that these secondary structures were indeed implicated in the splice site choice. Mechanistically, the RNA structures masked splice sites, brought together distant splice sites and/or looped out introns. Thus, base-pairing interactions within introns, even those occurring over long distances, are more frequent modulators of alternative splicing than is currently assumed.
+
++Alternative Splicing
+-Animals
+-Base Pairing
+-Base Sequence
+-Conserved Sequence
+-Drosophila melanogaster (+genetics)
++Introns
+-Molecular Sequence Data
+-RNA Precursors (+chemistry)
+-RNA Splice Sites
+-RNA, Messenger (+chemistry)
+
+pii:gkp407
+doi:10.1093/nar/gkp407
+pubmed:19465384
+pmc:PMC2724269
+

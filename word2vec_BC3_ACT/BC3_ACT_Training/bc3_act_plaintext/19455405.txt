@@ -1,0 +1,21 @@
+Cell Stress Chaperones
+
+Experimental testing of a mathematical model relevant to the extrinsic pathway of apoptosis.
+
+V Pace, D Bellizzi, F Giordano, ML Panno, G De Benedictis
+
+Apoptosis is a programmed cell death process, whose complexity led researchers to build mathematical models that could help to identify its crucial steps. In previous works, we theoretically analyzed and numerically simulated a model that describes a pathway from an external stimulus to caspase-3 activation. Here, the results of experiments performed on populations of synchronized cells treated with the inducer Apo2L/TRAIL are reported and are compared with model predictions. In particular, we have compared in vitro and in silico results relevant to the time evolutions of caspase-3 and caspase-8 activities, as well as of the dead cells fractions. In addition, the effect of the BAR gene silencing was evaluated. Caspase-3 activation and cell death is faster in silenced than in nonsilenced cells, thus confirming previous simulation results. Interestingly, Apo2L/TRAIL treatment in itself reduces the BAR gene expression. The qualitative agreement between model predictions and cell cultures behavior suggests that the model captures the essential features of the biological process and could be a tool in further studies of caspases activation. In this manuscript, we report the results of in vitro experiments aimed at revealing the dynamics of caspase activation in a cell population. A qualitative agreement between these results and a mathematical model describing a pathway from an external stimulus to caspase-3 activation was obtained, thus showing that the model captures the essential features of the biological process and may be a reliable tool in further studies of caspase activation.
+
++Apoptosis
+-Apoptosis Regulatory Proteins (-genetics; -metabolism)
+-Caspase 3 (-metabolism)
+-Caspase 8 (-metabolism)
+-Cell Line, Tumor
+-Humans
++Models, Biological
+-TNF-Related Apoptosis-Inducing Ligand (-metabolism)
+
+doi:10.1007/s12192-009-0118-9
+pubmed:19455405
+pmc:PMC2866975
+

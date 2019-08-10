@@ -1,0 +1,37 @@
+Mol. Cell
+
+Eukaryotic initiation factor 4a3 is a selenium-regulated RNA-binding protein that selectively inhibits selenocysteine incorporation.
+
+ME Budiman, JL Bubenik, AC Miniard, LM Middleton, CA Gerber, A Cash, DM Driscoll
+
+The synthesis of selenoproteins requires the translational recoding of the UGA stop codon as selenocysteine. During selenium deficiency, there is a hierarchy of selenoprotein expression, with certain selenoproteins synthesized at the expense of others. The mechanism by which the limiting selenocysteine incorporation machinery is preferentially utilized to maintain the expression of essential selenoproteins has not been elucidated. Here we demonstrate that eukaryotic initiation factor 4a3 (eIF4a3) is involved in the translational control of a subset of selenoproteins. The interaction of eIF4a3 with the selenoprotein mRNA prevents the binding of SECIS binding protein 2, which is required for selenocysteine insertion, thereby inhibiting the synthesis of the selenoprotein. Furthermore, the expression of eIF4a3 is regulated in response to selenium. Based on knockdown and overexpression studies, eIF4a3 is necessary and sufficient to mediate selective translational repression in cells. Our results support a model in which eIF4a3 links selenium status with differential selenoprotein expression.
+
+-3' Untranslated Regions
+-Animals
+-Binding Sites
+-Cell Line, Tumor
+-Codon, Terminator
+-DEAD-box RNA Helicases (-genetics; +metabolism)
+-Enzyme Induction
+-Eukaryotic Initiation Factor-4A (-genetics; +metabolism)
+-Glutathione Peroxidase (-biosynthesis)
+-Homeostasis
+-Molecular Weight
+-Nucleic Acid Conformation
++Protein Modification, Translational
+-RNA Interference
+-RNA, Messenger (-biosynthesis; -chemistry)
+-RNA-Binding Proteins (+metabolism)
+-Rats
+-Selenium (-deficiency; +metabolism)
+-Selenium-Binding Proteins (-metabolism)
+-Selenocysteine (+metabolism)
+-Selenoproteins (+biosynthesis; -genetics)
+-Transfection
+
+pii:S1097-2765(09)00464-X
+doi:10.1016/j.molcel.2009.06.026
+pubmed:19716792
+mid:NIHMS137989
+pmc:PMC2752292
+

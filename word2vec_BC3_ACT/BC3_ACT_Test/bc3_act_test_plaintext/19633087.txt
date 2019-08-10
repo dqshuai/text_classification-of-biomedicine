@@ -1,0 +1,25 @@
+J. Bacteriol.
+
+Mutual regulation of ntcA and hetR during heterocyst differentiation requires two similar PP2C-type protein phosphatases, PrpJ1 and PrpJ2, in Anabaena sp. strain PCC 7120.
+
+J Jang, L Shi, H Tan, A Janicki, CC Zhang
+
+The filamentous cyanobacterium Anabaena sp. strain PCC 7120 can form heterocysts for N(2) fixation. Initiation of heterocyst differentiation depends on mutual regulation of ntcA and hetR. Control of hetR expression by NtcA is partially mediated by nrrA, but other factors must be involved in this regulation. Anabaena has two closely related PP2C-type protein phosphatases, PrpJ1 (formerly PrpJ) and PrpJ2; PrpJ1 is involved in heterocyst maturation. In this study, we show that PrpJ2, like PrpJ1, has Mn(2+)-dependent phosphatase activity. We further demonstrate that whereas prpJ2 is dispensable for cell growth under different nitrogen regimens tested, a double mutant with both prpJ1 and prpJ2 disrupted did not initiate heterocyst differentiation. Ectopic expression of hetR in the double mutant could rescue the failure to initiate heterocyst development, but the heterocysts formed, like those of a prpJ1 single mutant, were not mature. The expression of prpJ2 was enhanced during heterocyst development, and the upregulation of the gene was directly under the control of NtcA. Upregulation of both ntcA and hetR was affected in the double mutant. We propose that PrpJ1 and PrpJ2 together are required for mutual regulation of ntcA and hetR and are thus involved in regulation of the initiation of heterocyst differentiation.
+
+-Anabaena (-genetics; +growth & development; +metabolism)
+-Bacterial Proteins (-genetics; +metabolism)
+-Electrophoretic Mobility Shift Assay
++Gene Expression Regulation, Bacterial (-genetics; -physiology)
+-Immunoblotting
+-Microscopy
+-Models, Genetic
+-Mutation
+-Phosphoprotein Phosphatases (-genetics; +metabolism)
+-Plasmids
+-Polymerase Chain Reaction
+
+pii:JB.01271-08
+doi:10.1128/JB.01271-08
+pubmed:19633087
+pmc:PMC2747908
+

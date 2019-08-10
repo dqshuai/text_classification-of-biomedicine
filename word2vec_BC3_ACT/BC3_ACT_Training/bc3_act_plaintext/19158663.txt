@@ -1,0 +1,22 @@
+EMBO J.
+
+Oxygen-dependent binding of Nro1 to the prolyl hydroxylase Ofd1 regulates SREBP degradation in yeast.
+
+CY Lee, EV Stewart, BT Hughes, PJ Espenshade
+
+Sre1, the fission yeast sterol regulatory element-binding protein, is an ER membrane-bound transcription factor that controls adaptation to low oxygen growth. Under low oxygen, Sre1 is proteolytically cleaved and the N-terminal transcription factor domain (Sre1N) is released from the membrane and enters the nucleus to activate hypoxic gene expression. Ofd1, a prolyl 4-hydroxylase-like 2-oxoglutarate dioxygenase, controls the oxygen-dependent stability of Sre1N. In the presence of oxygen, Ofd1 accelerates the degradation of Sre1N, but under low oxygen Ofd1 is inhibited and Sre1N accumulates. To identify the regulators of Sre1N, we performed a plasmid-based screen for genes that increased Sre1N transcriptional activity. Here, we identify Nro1 (SPCC4B3.07) as a positive regulator of Sre1N stability and a direct inhibitor of Ofd1. In the absence of oxygen, Nro1 binds to the Ofd1 C-terminal degradation domain and inhibits Sre1N degradation. In the presence of oxygen, Nro1 binding to Ofd1 is disrupted, leading to rapid degradation of Sre1N. We conclude that the Ofd1 dioxygenase domain functions as an oxygen sensor that regulates binding of Nro1 to Ofd1 to control oxygen-dependent Sre1N stability.
+
+-Carrier Proteins (+metabolism)
+-Mutation
+-Oxygen (+metabolism)
+-Procollagen-Proline Dioxygenase (+metabolism)
+-Protein Binding
+-Schizosaccharomyces (+metabolism)
+-Schizosaccharomyces pombe Proteins (-genetics; +metabolism)
++Transcriptional Activation
+
+pii:emboj2008271
+doi:10.1038/emboj.2008.271
+pubmed:19158663
+pmc:PMC2634736
+

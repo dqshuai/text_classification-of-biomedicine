@@ -1,0 +1,17 @@
+PLoS ONE
+
+Reading between eye saccades.
+
+C Blais, D Fiset, M Arguin, P Jolicoeur, D Bub, F Gosselin
+
+BACKGROUND: Skilled adult readers, in contrast to beginners, show no or little increase in reading latencies as a function of the number of letters in words up to seven letters. The information extraction strategy underlying such efficiency in word identification is still largely unknown, and methods that allow tracking of the letter information extraction through time between eye saccades are needed to fully address this question. METHODOLOGY/PRINCIPAL FINDINGS: The present study examined the use of letter information during reading, by means of the Bubbles technique. Ten participants each read 5,000 five-letter French words sampled in space-time within a 200 ms window. On the temporal dimension, our results show that two moments are especially important during the information extraction process. On the spatial dimension, we found a bias for the upper half of words. We also show for the first time that letter positions four, one, and three are particularly important for the identification of five-letter words. CONCLUSIONS/SIGNIFICANCE: Our findings are consistent with either a partially parallel reading strategy or an optimal serial reading strategy. We show using computer simulations that this serial reading strategy predicts an absence of a word-length effect for words from four- to seven letters in length. We believe that the Bubbles technique will play an important role in further examining the nature of reading between eye saccades.
+
+-Adult
+-Humans
+-Reading
++Saccades
+
+doi:10.1371/journal.pone.0006448
+pubmed:19649292
+pmc:PMC2714180
+

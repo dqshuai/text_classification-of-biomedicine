@@ -1,0 +1,26 @@
+DNA Res.
+
+Analysis of multiple occurrences of alternative splicing events in Arabidopsis thaliana using novel sequenced full-length cDNAs.
+
+K Iida, K Fukami-Kobayashi, A Toyoda, Y Sakaki, M Kobayashi, M Seki, K Shinozaki
+
+Alternative splicing (AS) is a mechanism by which multiple types of mature mRNAs are generated from a single pre-mature mRNA. In this study, we completely sequenced 1800 full-length cDNAs from Arabidopsis thaliana, which had 5' and/or 3' sequences that were previously found to have AS events or alternative transcription start sites. Unexpectedly, these sequences gave us further evidence of AS, as 601 out of 1800 transcripts showed novel AS events. We focused on the combination patterns of multiple AS events within individual genes. Interestingly, some specific AS event combination patterns tended to appear more frequently than expected. The two most common patterns were: (i) alternative donor-0 approximately 12 times of exon skips-alternative acceptor and (ii) several times ( approximately 8) of retained introns. We also found that multiple AS events in a transcript tend to have the same effects concerning the length of the mature mRNA. Our current results are consistent with our previous observations, which showed changes in AS profiles under different conditions, and suggest the involvement of hypothetical cis- and trans-acting factors in the regulation of AS events.
+
+-Alternative Splicing
+-Arabidopsis (+genetics; -metabolism)
+-Base Sequence
+-Conserved Sequence
+-DNA, Complementary (+analysis; -genetics; -metabolism)
+-DNA, Plant (+analysis; -genetics; -metabolism)
+-Exons
+-Genes, Plant
+-Introns
++RNA Splice Sites
+-Sequence Analysis, DNA
+-Trans-Activators (-metabolism)
+
+pii:dsp009
+doi:10.1093/dnares/dsp009
+pubmed:19423640
+pmc:PMC2695776
+

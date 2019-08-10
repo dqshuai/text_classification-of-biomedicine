@@ -1,0 +1,24 @@
+PLoS Pathog.
+
+Genetic dissection of an exogenously induced biofilm in laboratory and clinical isolates of E. coli.
+
+S Amini, H Goodarzi, S Tavazoie
+
+Microbial biofilms are a dominant feature of many human infections. However, developing effective strategies for controlling biofilms requires an understanding of the underlying biology well beyond what currently exists. Using a novel strategy, we have induced formation of a robust biofilm in Escherichia coli by utilizing an exogenous source of poly-N-acetylglucosamine (PNAG) polymer, a major virulence factor of many pathogens. Through microarray profiling of competitive selections, carried out in both transposon insertion and over-expression libraries, we have revealed the genetic basis of PNAG-based biofilm formation. Our observations reveal the dominance of electrostatic interactions between PNAG and surface structures such as lipopolysaccharides. We show that regulatory modulation of these surface structures has significant impact on biofilm formation behavior of the cell. Furthermore, the majority of clinical isolates which produced PNAG also showed the capacity to respond to the exogenously produced version of the polymer.
+
+-Bacterial Proteins (-pharmacology)
+-Biofilms (-drug effects; +growth & development)
+-Escherichia coli (+genetics; +physiology)
+-Escherichia coli Proteins (-genetics; -metabolism)
+-Genes, Bacterial
++Genome, Bacterial
+-Genomic Library
+-Glycoside Hydrolases (-pharmacology)
+-Oligonucleotide Array Sequence Analysis
+-Spectrometry, Mass, Electrospray Ionization
+-beta-Glucans (+metabolism)
+
+doi:10.1371/journal.ppat.1000432
+pubmed:19436718
+pmc:PMC2675270
+

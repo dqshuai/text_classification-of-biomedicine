@@ -1,0 +1,23 @@
+Biochem. Biophys. Res. Commun.
+
+SUMO modification regulates the transcriptional activity of FLASH.
+
+AH Alm-Kristiansen, IL Norman, V Matre, OS Gabrielsen
+
+FLASH is a huge multifunctional nuclear protein that has been linked to apoptotic signalling, transcriptional control and Cajal body function. To gain further insight into the functions of the FLASH protein, we performed a yeast two-hybrid screening with FLASH as bait and identified the SUMO-conjugating enzyme Ubc9 as an interaction partner. The main interaction surface for Ubc9 was found in the C-terminal part of FLASH, which is also a target for sumoylation. We identified K1813 as the major sumoylation site in FLASH, being enhanced by the SUMO E3 ligases Pc2 and PIASy. Disruption of this SUMO-conjugation site did not change the speckled subnuclear localization of FLASH, but it caused a reduction in FLASH activity as measured in a Gal4-tethering assay. Interestingly, the SUMO-specific protease SENP1 activated FLASH in the same assay. Overall, our results point to a complex involvement of sumoylation in modulating the function of FLASH.
+
+-Apoptosis Regulatory Proteins (-genetics; +metabolism)
+-Calcium-Binding Proteins (-genetics; +metabolism)
+-Cell Nucleus (-metabolism)
+-Humans
+-Lysine (-genetics; -metabolism)
++Protein Processing, Post-Translational
+-Small Ubiquitin-Related Modifier Proteins (+metabolism)
++Transcription, Genetic
+-Two-Hybrid System Techniques
+-Ubiquitin-Conjugating Enzymes (-metabolism)
+
+pii:S0006-291X(09)01397-7
+doi:10.1016/j.bbrc.2009.07.053
+pubmed:19615980
+

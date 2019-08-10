@@ -1,0 +1,25 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Automated high-dimensional flow cytometric data analysis.
+
+S Pyne, X Hu, K Wang, E Rossin, TI Lin, LM Maier, C Baecher-Allan, GJ McLachlan, P Tamayo, DA Hafler, PL De Jager, JP Mesirov
+
+Flow cytometric analysis allows rapid single cell interrogation of surface and intracellular determinants by measuring fluorescence intensity of fluorophore-conjugated reagents. The availability of new platforms, allowing detection of increasing numbers of cell surface markers, has challenged the traditional technique of identifying cell populations by manual gating and resulted in a growing need for the development of automated, high-dimensional analytical methods. We present a direct multivariate finite mixture modeling approach, using skew and heavy-tailed distributions, to address the complexities of flow cytometric analysis and to deal with high-dimensional cytometric data without the need for projection or transformation. We demonstrate its ability to detect rare populations, to model robustly in the presence of outliers and skew, and to perform the critical task of matching cell populations across samples that enables downstream analysis. This advance will facilitate the application of flow cytometry to new, complex biological and clinical problems.
+
+-Biological Markers
+-Cell Line
+-Cell Membrane (-metabolism)
+-Flow Cytometry (+methods)
+-Immunity, Innate (-immunology)
+-Immunologic Memory (-immunology)
+-Models, Biological
+-Phenotype
+-Phosphorylation
+-Statistics as Topic
+-T-Lymphocytes (-cytology; -immunology)
+
+pii:0903028106
+doi:10.1073/pnas.0903028106
+pubmed:19443687
+pmc:PMC2682540
+

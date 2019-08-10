@@ -1,0 +1,32 @@
+Oncogene
+
+KLF4 suppresses estrogen-dependent breast cancer growth by inhibiting the transcriptional activity of ERalpha.
+
+K Akaogi, Y Nakajima, I Ito, S Kawasaki, SH Oie, A Murayama, K Kimura, J Yanagisawa
+
+Kruppel-like factor 4 (KLF4) is a transcription factor that participates in both tumor suppression and oncogenesis. To determine the association of KLF4 with tumorigenesis, we integrated data assembled in the Oncomine database and discovered a decrease in KLF4 gene transcripts in breast cancers. Further analysis of the database also showed a correlation between KLF4 expression and estrogen receptor-alpha (ERalpha) positivity. Knockdown of KLF4 in MCF-7 cells elevated the growth rate of these cells in the presence of estrogen. Therefore, we examined the interaction between KLF4 and ERalpha, and found that KLF4 bound to the DNA-binding region of ERalpha. KLF4 thus inhibits the binding of ERalpha to estrogen response elements in promoter regions, resulting in a reduction in ERalpha target gene transcription. Earlier studies have reported that KLF4 is transcriptionally activated by p53 following DNA damage. We also showed that activation of p53 decreased the transcriptional activity of ERalpha by elevating KLF4 expression. Our studies discovered a novel molecular network between p53, KLF4 and ERalpha. As both p53 and ERalpha are involved in cell growth and apoptosis, these results may explain why KLF4 possesses both tumor suppressive and oncogenic functions in breast cancers.
+
+-Blotting, Western
+-Breast Neoplasms (-genetics; -metabolism; -pathology)
+-Cell Line
+-Cell Line, Tumor
+-Cell Proliferation (+drug effects)
+-Estrogen Receptor alpha (+metabolism)
+-Estrogens (+pharmacology)
+-Gene Expression Regulation, Neoplastic
+-Humans
+-Immunoprecipitation
+-Kruppel-Like Transcription Factors (-genetics; +metabolism)
+-Models, Biological
+-Protein Binding
+-RNA, Small Interfering (-genetics)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Transcription, Genetic (-drug effects; +genetics; -radiation effects)
+-Transfection
+-Tumor Suppressor Protein p53 (-genetics; -metabolism)
+-Ultraviolet Rays
+
+pii:onc2009151
+doi:10.1038/onc.2009.151
+pubmed:19503094
+

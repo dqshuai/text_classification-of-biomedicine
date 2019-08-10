@@ -1,0 +1,21 @@
+Methods
+
+The Hermes transposon of Musca domestica and its use as a mutagen of Schizosaccharomyces pombe.
+
+JM Park, AG Evertts, HL Levin
+
+Transposon mutagenesis allows for the discovery and characterization of genes by creating mutations that can be easily mapped and sequenced. Moreover, this method allows for a relatively unbiased approach to isolating genes of interest. Recently, a system of transposon based mutagenesis for Schizosaccharomyces pombe became available. This mutagenesis relies on Hermes, a DNA transposon from the house fly that readily integrates into the chromosomes of S. pombe. The Hermes system is distinct from the retrotransposons of S. pombe because it efficiently integrates into open reading frames. To mutagenize S. pombe, cells are transformed with a plasmid that contains a drug resistance marker flanked by the terminal inverted repeats of Hermes. The Hermes transposase expressed from a second plasmid excises the resistance marker with the inverted repeats and inserts this DNA into chromosomal sites. After S. pombe with these two plasmids grow 25 generations, approximately 2% of the cells contain insertions. Of the cells with insertions, 68% contain single integration events. The protocols listed here provide the detailed information necessary to mutagenize a strain of interest, screen for specific phenotypes, and sequence the positions of insertion.
+
+-Animals
++DNA Transposable Elements
+-Houseflies (+genetics)
+-Mutagenesis, Insertional (+methods)
+-Plasmids
+-Schizosaccharomyces (+genetics)
+
+pii:S1046-2023(09)00122-4
+doi:10.1016/j.ymeth.2009.05.004
+pubmed:19450689
+mid:NIHMS156377
+pmc:PMC2782614
+

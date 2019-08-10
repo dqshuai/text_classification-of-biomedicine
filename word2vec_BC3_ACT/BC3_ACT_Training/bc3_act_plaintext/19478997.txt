@@ -1,0 +1,28 @@
+PLoS Comput. Biol.
+
+Fast statistical alignment.
+
+RK Bradley, A Roberts, M Smoot, S Juvekar, J Do, C Dewey, I Holmes, L Pachter
+
+We describe a new program for the alignment of multiple biological sequences that is both statistically motivated and fast enough for problem sizes that arise in practice. Our Fast Statistical Alignment program is based on pair hidden Markov models which approximate an insertion/deletion process on a tree and uses a sequence annealing algorithm to combine the posterior probabilities estimated from these models into a multiple alignment. FSA uses its explicit statistical model to produce multiple alignments which are accompanied by estimates of the alignment accuracy and uncertainty for every column and character of the alignment--previously available only with alignment programs which use computationally-expensive Markov Chain Monte Carlo approaches--yet can align thousands of long sequences. Moreover, FSA utilizes an unsupervised query-specific learning procedure for parameter estimation which leads to improved accuracy on benchmark reference alignments in comparison to existing programs. The centroid alignment approach taken by FSA, in combination with its learning procedure, drastically reduces the amount of false-positive alignment on biological data in comparison to that given by other methods. The FSA program and a companion visualization tool for exploring uncertainty in alignments can be used via a web interface at http://orangutan.math.berkeley.edu/fsa/, and the source code is available at http://fsa.sourceforge.net/.
+
+-Algorithms
+-Amino Acid Sequence
+-Animals
+-Artificial Intelligence
+-Base Sequence
++Data Interpretation, Statistical
+-Databases, Genetic
+-Humans
+-Markov Chains
++Models, Genetic
+-Molecular Sequence Data
+-Sensitivity and Specificity
+-Sequence Alignment (+methods)
+-Sequence Analysis
++Software
+
+doi:10.1371/journal.pcbi.1000392
+pubmed:19478997
+pmc:PMC2684580
+

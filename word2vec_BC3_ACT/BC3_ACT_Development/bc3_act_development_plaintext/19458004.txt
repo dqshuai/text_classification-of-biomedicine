@@ -1,0 +1,28 @@
+J. Virol.
+
+Impaired replication of hepatitis C virus containing mutations in a conserved NS5B retinoblastoma protein-binding motif.
+
+DR McGivern, RA Villanueva, S Chinnaswamy, CC Kao, SM Lemon
+
+Hepatitis C virus (HCV) downregulates the retinoblastoma tumor suppressor protein (Rb), a central cell cycle regulator which is also targeted by oncoproteins expressed by DNA tumor viruses. HCV genome replication is also enhanced in proliferating cells. Thus, it is possible that HCV interactions with host cell cycle regulators, such as Rb, have evolved to modify the intracellular environment to promote viral replication. To test this hypothesis and to determine the impact of viral regulation of Rb on HCV replication, we constructed infectious viral genomes containing mutations in the Rb-binding motif of NS5B which ablate the ability of HCV to regulate Rb. These genomes underwent replication in transfected cells but produced variably reduced virus yields. One mutant, L314A, was severely compromised for replication and rapidly mutated to L314V, thereby restoring both Rb regulation and replication competence. Another mutant, C316A, also failed to downregulate Rb abundance and produced virus yields that were about one-third that of virus with the wild-type (wt) NS5B sequence. Despite this loss of replication competence, purified NS5B-C316A protein was two- to threefold more active than wt NS5B in cell-free polymerase and replicase assays. Although small interfering RNA knockdown of Rb did not rescue the replication fitness of these mutants, we conclude that the defect in replication fitness is not due to defective polymerase or replicase function and is more likely to result from the inability of the mutated NS5B to optimally regulate Rb abundance and thereby modulate host gene expression.
+
+-Amino Acid Motifs
+-Amino Acid Sequence
+-Cell Line
+-Conserved Sequence
+-Hepacivirus (-chemistry; -genetics; +physiology)
+-Hepatitis C (-genetics; +metabolism; -virology)
+-Humans
+-Molecular Sequence Data
++Mutation
+-Protein Binding
+-Retinoblastoma Protein (-genetics; +metabolism)
+-Sequence Alignment
+-Viral Nonstructural Proteins (-chemistry; +genetics; -metabolism)
++Virus Replication
+
+pii:JVI.00262-09
+doi:10.1128/JVI.00262-09
+pubmed:19458004
+pmc:PMC2708619
+

@@ -1,0 +1,19 @@
+PLoS ONE
+
+Design of a high density SNP genotyping assay in the pig using SNPs identified and characterized by next generation sequencing technology.
+
+AM Ramos, RP Crooijmans, NA Affara, AJ Amaral, AL Archibald, JE Beever, C Bendixen, C Churcher, R Clark, P Dehais, MS Hansen, J Hedegaard, ZL Hu, HH Kerstens, AS Law, HJ Megens, D Milan, DJ Nonneman, GA Rohrer, MF Rothschild, TP Smith, RD Schnabel, CP Van Tassell, JF Taylor, RT Wiedmann, LB Schook, MA Groenen
+
+BACKGROUND: The dissection of complex traits of economic importance to the pig industry requires the availability of a significant number of genetic markers, such as single nucleotide polymorphisms (SNPs). This study was conducted to discover several hundreds of thousands of porcine SNPs using next generation sequencing technologies and use these SNPs, as well as others from different public sources, to design a high-density SNP genotyping assay. METHODOLOGY/PRINCIPAL FINDINGS: A total of 19 reduced representation libraries derived from four swine breeds (Duroc, Landrace, Large White, Pietrain) and a Wild Boar population and three restriction enzymes (AluI, HaeIII and MspI) were sequenced using Illumina's Genome Analyzer (GA). The SNP discovery effort resulted in the de novo identification of over 372K SNPs. More than 549K SNPs were used to design the Illumina Porcine 60K+SNP iSelect Beadchip, now commercially available as the PorcineSNP60. A total of 64,232 SNPs were included on the Beadchip. Results from genotyping the 158 individuals used for sequencing showed a high overall SNP call rate (97.5%). Of the 62,621 loci that could be reliably scored, 58,994 were polymorphic yielding a SNP conversion success rate of 94%. The average minor allele frequency (MAF) for all scorable SNPs was 0.274. CONCLUSIONS/SIGNIFICANCE: Overall, the results of this study indicate the utility of using next generation sequencing technologies to identify large numbers of reliable SNPs. In addition, the validation of the PorcineSNP60 Beadchip demonstrated that the assay is an excellent tool that will likely be used in a variety of future studies in pigs.
+
+-Animals
+-Genotype
++Polymorphism, Single Nucleotide
+-Sequence Analysis, DNA (+methods)
+-Species Specificity
+-Swine (+genetics)
+
+doi:10.1371/journal.pone.0006524
+pubmed:19654876
+pmc:PMC2716536
+

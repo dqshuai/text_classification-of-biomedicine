@@ -1,0 +1,31 @@
+EMBO J.
+
+Clustering and synaptic targeting of PICK1 requires direct interaction between the PDZ domain and lipid membranes.
+
+L Pan, H Wu, C Shen, Y Shi, W Jin, J Xia, M Zhang
+
+Protein interacting with c kinase 1 (PICK1) regulates the trafficking of receptors and ion-channels such as AMPA receptors. Traditionally, the PICK1 PDZ domain is regarded as an adaptor capable of binding to receptors trafficked by PICK1, and the lipid-binding BAR domain functions to tether PICK1 directly to membranes. Here, we show that the PICK1 PDZ domain can directly interact with lipid membranes. The PDZ domain and lipid membrane interaction is mediated by both a polybasic amino-acid cluster and a conserved 'Cys-Pro-Cys' motif located away from the peptide ligand-binding groove. Disruption of the PDZ and lipid membrane interaction totally abolished synaptic targeting of PICK1. Although mutation of the CPC motif did not affect the interaction between PICK1 and AMPA receptors, the mutant PICK1 was unable to cluster the GluR2 subunit of the receptor. In neurons, PICK1 containing the same mutation displayed dramatically compromised capacity in the trafficking of AMPA receptors. Taken together, our findings not only uncovered the novel lipid membrane-binding property of the PICK1 PDZ domain, but also provided direct evidence supporting the functional relevance of the PDZ-lipid interaction.
+
+-Amino Acid Sequence
+-Animals
+-Carrier Proteins (-metabolism; +physiology)
+-Cell Membrane (+metabolism)
+-Cluster Analysis
++Gene Expression Regulation
+-Humans
+-Lipids (-chemistry)
+-Models, Molecular
+-Molecular Sequence Data
++Mutation
+-Neurons (-metabolism)
+-Nuclear Proteins (-metabolism; +physiology)
+-Protein Structure, Tertiary
+-Rats
+-Receptors, AMPA (-metabolism)
+-Sequence Homology, Amino Acid
+
+pii:7601860
+doi:10.1038/sj.emboj.7601860
+pubmed:17914463
+pmc:PMC2063473
+

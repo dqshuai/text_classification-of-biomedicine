@@ -1,0 +1,22 @@
+BMC Bioinformatics
+
+An integrated approach to the interpretation of single amino acid polymorphisms within the framework of CATH and Gene3D.
+
+JM Izarzugaza, A Baresic, LE McMillan, C Yeats, AB Clegg, CA Orengo, AC Martin, A Valencia
+
+BACKGROUND: The phenotypic effects of sequence variations in protein-coding regions come about primarily via their effects on the resulting structures, for example by disrupting active sites or affecting structural stability. In order better to understand the mechanisms behind known mutant phenotypes, and predict the effects of novel variations, biologists need tools to gauge the impacts of DNA mutations in terms of their structural manifestation. Although many mutations occur within domains whose structure has been solved, many more occur within genes whose protein products have not been structurally characterized. RESULTS: Here we present 3DSim (3D Structural Implication of Mutations), a database and web application facilitating the localization and visualization of single amino acid polymorphisms (SAAPs) mapped to protein structures even where the structure of the protein of interest is unknown. The server displays information on 6514 point mutations, 4865 of them known to be associated with disease. These polymorphisms are drawn from SAAPdb, which aggregates data from various sources including dbSNP and several pathogenic mutation databases. While the SAAPdb interface displays mutations on known structures, 3DSim projects mutations onto known sequence domains in Gene3D. This resource contains sequences annotated with domains predicted to belong to structural families in the CATH database. Mappings between domain sequences in Gene3D and known structures in CATH are obtained using a MUSCLE alignment. 1210 three-dimensional structures corresponding to CATH structural domains are currently included in 3DSim; these domains are distributed across 396 CATH superfamilies, and provide a comprehensive overview of the distribution of mutations in structural space. CONCLUSION: The server is publicly available at http://3DSim.bioinfo.cnio.es/. In addition, the database containing the mapping between SAAPdb, Gene3D and CATH is available on request and most of the functionality is available through programmatic web service access.
+
++Amino Acid Substitution
+-Databases, Protein
+-Information Storage and Retrieval (+methods)
+-Internet
+-Models, Molecular
++Mutation
+-Phenotype
+-Proteins (-chemistry; +genetics)
+
+pii:1471-2105-10-S8-S5
+doi:10.1186/1471-2105-10-S8-S5
+pubmed:19758469
+pmc:PMC2745587
+

@@ -1,0 +1,23 @@
+J. Bacteriol.
+
+MotX and MotY are required for flagellar rotation in Shewanella oneidensis MR-1.
+
+A Koerdt, A Paulick, M Mock, K Jost, KM Thormann
+
+The single polar flagellum of Shewanella oneidensis MR-1 is powered by two different stator complexes, the sodium-dependent PomAB and the proton-driven MotAB. In addition, Shewanella harbors two genes with homology to motX and motY of Vibrio species. In Vibrio, the products of these genes are crucial for sodium-dependent flagellar rotation. Resequencing of S. oneidensis MR-1 motY revealed that the gene does not harbor an authentic frameshift as was originally reported. Mutational analysis demonstrated that both MotX and MotY are critical for flagellar rotation of S. oneidensis MR-1 for both sodium- and proton-dependent stator systems but do not affect assembly of the flagellar filament. Fluorescence tagging of MotX and MotY to mCherry revealed that both proteins localize to the flagellated cell pole depending on the presence of the basal flagellar structure. Functional localization of MotX requires MotY, whereas MotY localizes independently of MotX. In contrast to the case in Vibrio, neither protein is crucial for the recruitment of the PomAB or MotAB stator complexes to the flagellated cell pole, nor do they play a major role in the stator selection process. Thus, MotX and MotY are not exclusive features of sodium-dependent flagellar systems. Furthermore, MotX and MotY in Shewanella, and possibly also in other genera, must have functions beyond the recruitment of the stator complexes.
+
+-Bacterial Physiological Phenomena
+-Bacterial Proteins (-genetics; -metabolism; +physiology)
+-Flagella (-genetics; -metabolism; +physiology)
+-Membrane Proteins (-genetics; -metabolism; +physiology)
+-Microscopy, Fluorescence
+-Mutagenesis
+-Phenotype
+-Protein Binding
+-Shewanella (-genetics; +metabolism; +physiology)
+
+pii:JB.00206-09
+doi:10.1128/JB.00206-09
+pubmed:19502394
+pmc:PMC2725596
+

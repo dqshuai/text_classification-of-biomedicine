@@ -1,0 +1,26 @@
+Mol. Cell
+
+H3K4me3 stimulates the V(D)J RAG complex for both nicking and hairpinning in trans in addition to tethering in cis: implications for translocations.
+
+N Shimazaki, AG Tsai, MR Lieber
+
+The PHD finger of the RAG2 polypeptide of the RAG1/RAG2 complex binds to the histone H3 modification, trimethylated lysine 4 (H3K4me3), and in some manner increases V(D)J recombination. In the absence of biochemical studies of H3K4me3 on purified RAG enzyme activity, the precise role of H3K4me3 remains unclear. Here, we find that H3K4me3 stimulates purified RAG enzymatic activity at both the nicking (2- to 5-fold) and hairpinning (3- to 11-fold) steps of V(D)J recombination. Remarkably, this stimulation can be achieved with free H3K4me3 peptide (in trans), indicating that H3K4me3 functions via two distinct mechanisms. It not only tethers the RAG enzyme complex to a region of DNA, but it also induces a substantial increase in the catalytic turnover number (k(cat)) of the RAG complex. The H3K4me3 catalytic stimulation applies to suboptimal cryptic RSS sites located at H3K4me3 peaks that are critical in the inception of human T cell acute lymphoblastic lymphomas.
+
+-Animals
+-Binding Sites
++DNA Breaks, Single-Stranded
+-DNA-Binding Proteins (-genetics; +metabolism; -physiology)
+-Histones (+metabolism)
+-Inverted Repeat Sequences
+-Methylation
+-Mice
+-Models, Genetic
+-Point Mutation
++Recombination, Genetic
+-Substrate Specificity
++Translocation, Genetic
+
+pii:S1097-2765(09)00342-6
+doi:10.1016/j.molcel.2009.05.011
+pubmed:19524534
+

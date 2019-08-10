@@ -1,0 +1,21 @@
+BMC Bioinformatics
+
+A compartmentalized approach to the assembly of physical maps.
+
+S Bozdag, TJ Close, S Lonardi
+
+BACKGROUND: Physical maps have been historically one of the cornerstones of genome sequencing and map-based cloning strategies. They also support marker assisted breeding and EST mapping. The problem of building a high quality physical map is computationally challenging due to unavoidable noise in the input fingerprint data. RESULTS: We propose a novel compartmentalized method for the assembly of high quality physical maps from fingerprinted clones. The knowledge of genetic markers enables us to group clones into clusters so that clones in the same cluster are more likely to overlap. For each cluster of clones, a local physical map is first constructed using FingerPrinted Contigs (FPC). Then, all the individual maps are carefully merged into the final physical map. Experimental results on the genomes of rice and barley demonstrate that the compartmentalized assembly produces significantly more accurate maps, and that it can detect and isolate clones that would induce "chimeric" contigs if used in the final assembly. CONCLUSION: The software is available for download at http://www.cs.ucr.edu/~sbozdag/assembler/
+
+-Algorithms
+-Computational Biology (+methods)
+-Contig Mapping (+methods)
+-Databases, Factual
+-Genome
+-Sequence Analysis, DNA (+methods)
+-Software
+
+pii:1471-2105-10-217
+doi:10.1186/1471-2105-10-217
+pubmed:19604400
+pmc:PMC2717093
+

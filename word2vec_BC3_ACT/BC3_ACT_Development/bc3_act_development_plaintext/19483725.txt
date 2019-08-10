@@ -1,0 +1,31 @@
+Oncogene
+
+Anchorage-independent cell growth signature identifies tumors with metastatic potential.
+
+S Mori, JT Chang, ER Andrechek, N Matsumura, T Baba, G Yao, JW Kim, M Gatza, S Murphy, JR Nevins
+
+The oncogenic phenotype is complex, resulting from the accumulation of multiple somatic mutations that lead to the deregulation of growth regulatory and cell fate controlling activities and pathways. The ability to dissect this complexity, so as to reveal discrete aspects of the biology underlying the oncogenic phenotype, is critical to understanding the various mechanisms of disease as well as to reveal opportunities for novel therapeutic strategies. Previous work has characterized the process of anchorage-independent growth of cancer cells in vitro as a key aspect of the tumor phenotype, particularly with respect to metastatic potential. Nevertheless, it remains a major challenge to translate these cell biology findings into the context of human tumors. We previously used DNA microarray assays to develop expression signatures, which have the capacity to identify subtle distinctions in biological states and can be used to connect in vitro and in vivo states. Here we describe the development of a signature of anchorage-independent growth, show that the signature exhibits characteristics of deregulated mitochondrial function and then demonstrate that the signature identifies human tumors with the potential for metastasis.
+
+-3T3 Cells
+-Animals
+-Bayes Theorem
+-Cell Adhesion
+-Cell Line, Tumor
++Cell Proliferation
+-Energy Metabolism
++Gene Expression Profiling
+-Gene Expression Regulation, Neoplastic
+-Humans
+-Mice
+-Neoplasm Metastasis
+-Neoplasms (+genetics; -metabolism; -pathology)
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Phenotype
+-Prognosis
+-Regression Analysis
+-Tumor Stem Cell Assay
+
+pii:onc2009139
+doi:10.1038/onc.2009.139
+pubmed:19483725
+

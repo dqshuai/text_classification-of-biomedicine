@@ -1,0 +1,29 @@
+Nucleic Acids Res.
+
+The ERCC1/XPF endonuclease is required for completion of homologous recombination at DNA replication forks stalled by inter-strand cross-links.
+
+AZ Al-Minawi, YF Lee, D Håkansson, F Johansson, C Lundin, N Saleh-Gohari, N Schultz, D Jenssen, HE Bryant, M Meuth, JM Hinz, T Helleday
+
+Both the ERCC1-XPF complex and the proteins involved in homoIogous recombination (HR) have critical roles in inter-strand cross-link (ICL) repair. Here, we report that mitomycin C-induced lesions inhibit replication fork elongation. Furthermore, mitomycin C-induced DNA double-strand breaks (DSBs) are the result of the collapse of ICL-stalled replication forks. These are not formed through replication run off, as we show that mitomycin C or cisplatin-induced DNA lesions are not incised by global genome nucleotide excision repair (GGR). We also suggest that ICL-lesion repair is initiated either by replication or transcription, as the GGR does not incise ICL-lesions. Furthermore, we report that RAD51 foci are induced by cisplatin or mitomycin C independently of ERCC1, but that mitomycin C-induced HR measured in a reporter construct is impaired in ERCC1-defective cells. These data suggest that ERCC1-XPF plays a role in completion of HR in ICL repair. We also find no additional sensitivity to cisplatin by siRNA co-depletion of XRCC3 and ERCC1, showing that the two proteins act on the same pathway to promote survival.
+
+-Animals
+-Cell Line
+-Cisplatin (-toxicity)
+-Cricetinae
+-Cross-Linking Reagents (+toxicity)
+-DNA Breaks, Double-Stranded
++DNA Repair
+-DNA Replication (-drug effects)
+-DNA-Binding Proteins (+metabolism)
+-Endonucleases (+metabolism)
+-Humans
+-Mitomycin (-toxicity)
+-Mutation
+-Rad51 Recombinase (-genetics)
++Recombination, Genetic
+
+pii:gkp705
+doi:10.1093/nar/gkp705
+pubmed:19713438
+pmc:PMC2770670
+

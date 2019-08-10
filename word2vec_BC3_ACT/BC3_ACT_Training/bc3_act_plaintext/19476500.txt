@@ -1,0 +1,23 @@
+FEBS J.
+
+Construction of a novel detection system for protein-protein interactions using yeast G-protein signaling.
+
+N Fukuda, J Ishii, T Tanaka, H Fukuda, A Kondo
+
+In the current study, we report the construction of a novel system for the detection of protein-protein interactions using yeast G-protein signaling. It is well established that the G-protein gamma subunit (Ggamma) is anchored to the inner leaflet of the plasma membrane via lipid modification in the C-terminus, and that this localization of Ggamma is required for signal transduction. In our system, mutated Ggamma (Ggamma(cyto)) lacking membrane localization ability was genetically prepared by deletion of the lipid modification site. Complete disappearance of G-protein signal was observed when Ggamma(cyto) was expressed in the cytoplasm of yeast cells from which the endogenous Ggamma gene had been deleted. In order to demonstrate the potential use of our system, we utilized the Staphylococcus aureus ZZ domain and the Fc portion of human immunoglobulin G (IgG) as a model interaction pair. To design our detection system for protein-protein interaction, the ZZ domain was altered so that it associates with the inner leaflet of the plasma membrane, and the Fc part was then fused to Ggamma(cyto). The Fc-Ggamma(cyto) fusion protein migrated towards the membrane via the ZZ-Fc interaction, and signal transduction was therefore restored. This signal was successfully detected by assessing growth inhibition and transcription in response to G-protein signaling. Finally, several Z variants displaying affinity constants ranging from 8.0 x 10(3) to 6.8 x 10(8) m(-1) were prepared, and it was demonstrated that our system was able to discriminate subtle differences in affinity. In conclusion, our system appears to be a reliable and versatile technique for detection of protein-protein interactions, and may prove useful in future protein interaction studies.
+
+-Cell Membrane (-metabolism)
+-Flow Cytometry
+-GTP-Binding Protein gamma Subunits (+metabolism)
+-Humans
+-Immunoglobulin G (-metabolism)
+-Models, Biological
+-Protein Interaction Mapping (+methods)
+-Saccharomyces cerevisiae (+metabolism)
++Signal Transduction
+-Staphylococcus aureus (-metabolism)
+
+pii:EJB6991
+doi:10.1111/j.1742-4658.2009.06991.x
+pubmed:19476500
+

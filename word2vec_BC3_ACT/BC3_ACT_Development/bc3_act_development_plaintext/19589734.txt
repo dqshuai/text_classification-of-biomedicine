@@ -1,0 +1,29 @@
+DNA Repair (Amst.)
+
+Distinct kinetics of human DNA ligases I, IIIalpha, IIIbeta, and IV reveal direct DNA sensing ability and differential physiological functions in DNA repair.
+
+X Chen, JD Ballin, J Della-Maria, MS Tsai, EJ White, AE Tomkinson, GM Wilson
+
+The three human LIG genes encode polypeptides that catalyze phosphodiester bond formation during DNA replication, recombination and repair. While numerous studies have identified protein partners of the human DNA ligases (hLigs), there has been little characterization of the catalytic properties of these enzymes. In this study, we developed and optimized a fluorescence-based DNA ligation assay to characterize the activities of purified hLigs. Although hLigI joins DNA nicks, it has no detectable activity on linear duplex DNA substrates with short, cohesive single-strand ends. By contrast, hLigIIIbeta and the hLigIIIalpha/XRCC1 and hLigIV/XRCC4 complexes are active on both nicked and linear duplex DNA substrates. Surprisingly, hLigIV/XRCC4, which is a key component of the major non-homologous end joining (NHEJ) pathway, is significantly less active than hLigIII on a linear duplex DNA substrate. Notably, hLigIV/XRCC4 molecules only catalyze a single ligation event in the absence or presence of ATP. The failure to catalyze subsequent ligation events reflects a defect in the enzyme-adenylation step of the next ligation reaction and suggests that, unless there is an in vivo mechanism to reactivate DNA ligase IV/XRCC4 following phosphodiester bond formation, the cellular NHEJ capacity will be determined by the number of adenylated DNA ligaseIV/XRCC4 molecules.
+
+-Adenine (-metabolism)
+-Biocatalysis
+-Biological Assay
+-DNA (+metabolism)
+-DNA Breaks, Double-Stranded
+-DNA Ligases (+metabolism)
++DNA Repair
+-DNA-Binding Proteins (-metabolism)
+-Esters (-metabolism)
+-Fluorescence
+-Humans
+-Kinetics
+-Reproducibility of Results
+-Substrate Specificity
+
+pii:S1568-7864(09)00158-X
+doi:10.1016/j.dnarep.2009.06.002
+pubmed:19589734
+mid:NIHMS125387
+pmc:PMC2734511
+

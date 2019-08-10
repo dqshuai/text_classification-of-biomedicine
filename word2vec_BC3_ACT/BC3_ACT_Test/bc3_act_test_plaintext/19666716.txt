@@ -1,0 +1,26 @@
+J. Bacteriol.
+
+Bacillus subtilis homologs of MviN (MurJ), the putative Escherichia coli lipid II flippase, are not essential for growth.
+
+A Fay, J Dworkin
+
+Although peptidoglycan synthesis is one of the best-studied metabolic pathways in bacteria, the mechanism underlying the membrane translocation of lipid II, the undecaprenyl-disaccharide pentapeptide peptidoglycan precursor, remains mysterious. Recently, it was proposed that the essential Escherichia coli mviN gene encodes the lipid II flippase. Bacillus subtilis contains four proteins that are putatively homologous to MviN, including SpoVB, previously reported to be necessary for spore cortex peptidoglycan synthesis during sporulation. MviN complemented the sporulation defect of a DeltaspoVB mutation, and SpoVB and another of the B. subtilis homologs, YtgP, complemented the growth defect of an E. coli strain depleted for MviN. Thus, these B. subtilis proteins are likely to be MviN homologs. However, B. subtilis strains lacking these four proteins have no defects in growth, indicating that they likely do not serve as lipid II flippases in this organism.
+
+-Amino Acid Sequence
+-Bacillus subtilis (-genetics; +growth & development; +metabolism)
+-Bacterial Proteins (-chemistry; -genetics; +physiology)
+-Computational Biology
+-Escherichia coli Proteins (-chemistry; -genetics; +physiology)
+-Genetic Complementation Test
+-Membrane Proteins (-chemistry; -genetics; -physiology)
+-Microscopy, Fluorescence
+-Molecular Sequence Data
+-Peptidoglycan (-genetics; -metabolism)
+-Sequence Homology, Amino Acid
+-Uridine Diphosphate N-Acetylmuramic Acid (-analogs & derivatives; -genetics; -metabolism)
+
+pii:JB.00605-09
+doi:10.1128/JB.00605-09
+pubmed:19666716
+pmc:PMC2747889
+

@@ -1,0 +1,22 @@
+BMC Struct. Biol.
+
+Modelling substrate specificity and enantioselectivity for lipases and esterases by substrate-imprinted docking.
+
+PB Juhl, P Trodler, S Tyagi, J Pleiss
+
+BACKGROUND: Previously, ways to adapt docking programs that were developed for modelling inhibitor-receptor interaction have been explored. Two main issues were discussed. First, when trying to model catalysis a reaction intermediate of the substrate is expected to provide more valid information than the ground state of the substrate. Second, the incorporation of protein flexibility is essential for reliable predictions. RESULTS: Here we present a predictive and robust method to model substrate specificity and enantioselectivity of lipases and esterases that uses reaction intermediates and incorporates protein flexibility. Substrate-imprinted docking starts with covalent docking of reaction intermediates, followed by geometry optimisation of the resulting enzyme-substrate complex. After a second round of docking the same substrate into the geometry-optimised structures, productive poses are identified by geometric filter criteria and ranked by their docking scores. Substrate-imprinted docking was applied in order to model (i) enantioselectivity of Candida antarctica lipase B and a W104A mutant, (ii) enantioselectivity and substrate specificity of Candida rugosa lipase and Burkholderia cepacia lipase, and (iii) substrate specificity of an acetyl- and a butyrylcholine esterase toward the substrates acetyl- and butyrylcholine. CONCLUSION: The experimentally observed differences in selectivity and specificity of the enzymes were reproduced with an accuracy of 81%. The method was robust toward small differences in initial structures (different crystallisation conditions or a co-crystallised ligand), although large displacements of catalytic residues often resulted in substrate poses that did not pass the geometric filter criteria.
+
+-Binding Sites
+-Burkholderia cepacia (-enzymology)
+-Candida (-enzymology)
+-Computational Biology (+methods)
+-Esterases (+chemistry)
+-Lipase (+chemistry)
++Models, Chemical
+-Substrate Specificity
+
+pii:1472-6807-9-39
+doi:10.1186/1472-6807-9-39
+pubmed:19493341
+pmc:PMC2699341
+

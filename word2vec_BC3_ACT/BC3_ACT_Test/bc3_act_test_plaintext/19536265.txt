@@ -1,0 +1,27 @@
+Nature
+
+CCR7 signalling as an essential regulator of CNS infiltration in T-cell leukaemia.
+
+S Buonamici, T Trimarchi, MG Ruocco, L Reavie, S Cathelin, BG Mar, A Klinakis, Y Lukyanov, JC Tseng, F Sen, E Gehrie, M Li, E Newcomb, J Zavadil, D Meruelo, M Lipp, S Ibrahim, A Efstratiadis, D Zagzag, JS Bromberg, ML Dustin, I Aifantis
+
+T-cell acute lymphoblastic leukaemia (T-ALL) is a blood malignancy afflicting mainly children and adolescents. T-ALL patients present at diagnosis with increased white cell counts and hepatosplenomegaly, and are at an increased risk of central nervous system (CNS) relapse. For that reason, T-ALL patients usually receive cranial irradiation in addition to intensified intrathecal chemotherapy. The marked increase in survival is thought to be worth the considerable side-effects associated with this therapy. Such complications include secondary tumours, neurocognitive deficits, endocrine disorders and growth impairment. Little is known about the mechanism of leukaemic cell infiltration of the CNS, despite its clinical importance. Here we show, using T-ALL animal modelling and gene-expression profiling, that the chemokine receptor CCR7 (ref. 5) is the essential adhesion signal required for the targeting of leukaemic T-cells into the CNS. Ccr7 gene expression is controlled by the activity of the T-ALL oncogene Notch1 and is expressed in human tumours carrying Notch1-activating mutations. Silencing of either CCR7 or its chemokine ligand CCL19 (ref. 6) in an animal model of T-ALL specifically inhibits CNS infiltration. Furthermore, murine CNS-targeting by human T-ALL cells depends on their ability to express CCR7. These studies identify a single chemokine-receptor interaction as a CNS 'entry' signal, and open the way for future pharmacological targeting. Targeted inhibition of CNS involvement in T-ALL could potentially decrease the intensity of CNS-targeted therapy, thus reducing its associated short- and long-term complications.
+
+-Animals
+-Cell Adhesion
+-Cell Line, Tumor
+-Central Nervous System (+metabolism; +pathology)
+-Chemokine CCL19 (-deficiency; -metabolism)
+-Chemokine CCL21 (-metabolism)
+-Humans
+-Leukemia, T-Cell (+metabolism; +pathology)
+-Mice
+-Mice, Inbred C57BL
+-Precursor T-Cell Lymphoblastic Leukemia-Lymphoma (-metabolism; -pathology)
+-Receptor, Notch1 (-genetics; -metabolism)
+-Receptors, CCR7 (-deficiency; +metabolism)
++Signal Transduction
+
+pii:nature08020
+doi:10.1038/nature08020
+pubmed:19536265
+

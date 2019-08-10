@@ -1,0 +1,21 @@
+PLoS Genet.
+
+A link among DNA replication, recombination, and gene expression revealed by genetic and genomic analysis of TEBICHI gene of Arabidopsis thaliana.
+
+S Inagaki, K Nakamura, A Morikami
+
+Spatio-temporal regulation of gene expression during development depends on many factors. Mutations in Arabidopsis thaliana TEBICHI (TEB) gene encoding putative helicase and DNA polymerase domains-containing protein result in defects in meristem maintenance and correct organ formation, as well as constitutive DNA damage response and a defect in cell cycle progression; but the molecular link between these phenotypes of teb mutants is unknown. Here, we show that mutations in the DNA replication checkpoint pathway gene, ATR, but not in ATM gene, enhance developmental phenotypes of teb mutants, although atr suppresses cell cycle defect of teb mutants. Developmental phenotypes of teb mutants are also enhanced by mutations in RAD51D and XRCC2 gene, which are involved in homologous recombination. teb and teb atr double mutants exhibit defects in adaxial-abaxial polarity of leaves, which is caused in part by the upregulation of ETTIN (ETT)/AUXIN RESPONSIVE FACTOR 3 (ARF3) and ARF4 genes. The Helitron transposon in the upstream of ETT/ARF3 gene is likely to be involved in the upregulation of ETT/ARF3 in teb. Microarray analysis indicated that teb and teb atr causes preferential upregulation of genes nearby the Helitron transposons. Furthermore, interestingly, duplicated genes, especially tandemly arrayed homologous genes, are highly upregulated in teb or teb atr. We conclude that TEB is required for normal progression of DNA replication and for correct expression of genes during development. Interplay between these two functions and possible mechanism leading to altered expression of specific genes will be discussed.
+
+-Arabidopsis (+genetics; -growth & development; -metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
++DNA Replication
+-DNA-Directed DNA Polymerase (-genetics; +metabolism)
+-Gene Expression Regulation, Developmental
++Gene Expression Regulation, Plant
++Genomics
++Recombination, Genetic
+
+doi:10.1371/journal.pgen.1000613
+pubmed:19696887
+pmc:PMC2721414
+

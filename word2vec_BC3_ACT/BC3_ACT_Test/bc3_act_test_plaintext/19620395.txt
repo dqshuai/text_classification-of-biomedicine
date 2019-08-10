@@ -1,0 +1,25 @@
+Genetics
+
+Evidence for gene length as a determinant of gene coexpression in protein complexes.
+
+X Chen, S Shi, X He
+
+Variation of gene length imposes a challenge on genes requiring coexpression. Using a large human protein complex data set, we show that genes encoding subunits of the same protein complex tend to have similar length. The length uniformity is greater for complexes with stronger coexpression. We also show that the rate of gene length evolution is associated with gene coexpression level within a complex. These results suggest a new angle in understanding the evolution of protein complexes as well as the regulation of gene coexpression.
+
+-Algorithms
+-DNA (-genetics)
+-Evolution, Molecular
++Gene Expression Profiling
++Gene Regulatory Networks
+-Genes (+genetics)
+-Genetic Variation
+-Humans
+-Models, Genetic
+-Protein Subunits (-genetics)
+-Proteins (+genetics)
+
+pii:genetics.109.105361
+doi:10.1534/genetics.109.105361
+pubmed:19620395
+pmc:PMC2766333
+

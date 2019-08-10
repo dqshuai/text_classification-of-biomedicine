@@ -1,0 +1,18 @@
+PLoS ONE
+
+Navigation of chemotactic cells by parallel signaling to pseudopod persistence and orientation.
+
+L Bosgraaf, PJ Van Haastert
+
+The mechanism of chemotaxis is one of the most interesting issues in modern cell biology. Recent work shows that shallow chemoattractant gradients do not induce the generation of pseudopods, as has been predicted in many models. This poses the question of how else cells can steer towards chemoattractants. Here we use a new computational algorithm to analyze the extension of pseudopods by Dictyostelium cells. We show that a shallow gradient of cAMP induces a small bias in the direction of pseudopod extension, without significantly affecting parameters such as pseudopod frequency or size. Persistent movement, caused by alternating left/right splitting of existing pseudopodia, amplifies the effects of this bias by up to 5-fold. Known players in chemotactic pathways play contrasting parts in this mechanism; PLA2 and cGMP signal to the cytoskeleton to regulate the splitting process, while PI 3-kinase and soluble guanylyl cyclase mediate the directional bias. The coordinated regulation of pseudopod generation, orientation and persistence by multiple signaling pathways allows eukaryotic cells to detect extremely shallow gradients.
+
+-Algorithms
+-Animals
++Chemotaxis
+-Cyclic AMP (-metabolism)
+-Dictyostelium (-cytology)
+
+doi:10.1371/journal.pone.0006842
+pubmed:19718261
+pmc:PMC2729408
+

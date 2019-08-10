@@ -1,0 +1,30 @@
+J. Neurosci.
+
+Lateral gain control in the outer retina leads to potentiation of center responses of retinal neurons.
+
+M VanLeeuwen, I Fahrenfort, T Sjoerdsma, R Numan, M Kamermans
+
+The retina can function under a variety of adaptation conditions and stimulus paradigms. To adapt to these various conditions, modifications in the phototransduction cascade and at the synaptic and network levels occur. In this paper, we focus on the properties and function of a gain control mechanism in the cone synapse. We show that horizontal cells, in addition to inhibiting cones via a "lateral inhibitory pathway," also modulate the synaptic gain of the photoreceptor via a "lateral gain control mechanism." The combination of lateral inhibition and lateral gain control generates a highly efficient transformation. Horizontal cells estimate the mean activity of cones. This mean activity is subtracted from the actual activity of the center cone and amplified by the lateral gain modulation system, ensuring that the deviation of the activity of a cone from the mean activity of the surrounding cones is transmitted to the inner retina with high fidelity. Sustained surround illumination leads to an enhancement of the responses of transient ON/OFF ganglion cells to a flickering center spot. Blocking feedback from horizontal cells not only blocks the lateral gain control mechanism in the outer retina, but it also blocks the surround enhancement in transient ON/OFF ganglion cells. This suggests that the effects of the outer retinal lateral gain control mechanism are visible in the responses of ganglion cells. Functionally speaking, this result illustrates that horizontal cells are not purely inhibitory neurons but have a role in response enhancement as well.
+
+-Action Potentials
+-Animals
+-Calcium (-metabolism)
+-Cell Membrane (-physiology)
+-Goldfish
+-Light
+-Light Signal Transduction (+physiology)
+-Microelectrodes
+-Neural Inhibition
+-Patch-Clamp Techniques
+-Photic Stimulation
+-Regression Analysis
+-Retina (+physiology)
+-Retinal Cone Photoreceptor Cells (+physiology)
+-Retinal Ganglion Cells (+physiology)
+-Retinal Horizontal Cells (+physiology)
+-Synaptic Transmission (-physiology)
+
+pii:29/19/6358
+doi:10.1523/JNEUROSCI.5834-08.2009
+pubmed:19439613
+

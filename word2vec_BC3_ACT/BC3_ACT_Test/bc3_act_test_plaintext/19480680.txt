@@ -1,0 +1,28 @@
+BMC Plant Biol.
+
+Detection and validation of single feature polymorphisms using RNA expression data from a rice genome array.
+
+SH Kim, PR Bhat, X Cui, H Walia, J Xu, S Wanamaker, AM Ismail, C Wilson, TJ Close
+
+BACKGROUND: A large number of genetic variations have been identified in rice. Such variations must in many cases control phenotypic differences in abiotic stress tolerance and other traits. A single feature polymorphism (SFP) is an oligonucleotide array-based polymorphism which can be used for identification of SNPs or insertion/deletions (INDELs) for high throughput genotyping and high density mapping. Here we applied SFP markers to a lingering question about the source of salt tolerance in a particular rice recombinant inbred line (RIL) derived from a salt tolerant and salt sensitive parent. RESULTS: Expression data obtained by hybridizing RNA to an oligonucleotide array were analyzed using a statistical method called robustified projection pursuit (RPP). By applying the RPP method, a total of 1208 SFP probes were detected between two presumed parental genotypes (Pokkali and IR29) of a RIL population segregating for salt tolerance. We focused on the Saltol region, a major salt tolerance QTL. Analysis of FL478, a salt tolerant RIL, revealed a small (< 1 Mb) region carrying alleles from the presumed salt tolerant parent, flanked by alleles matching the salt sensitive parent IR29. Sequencing of putative SFP-containing amplicons from this region and other positions in the genome yielded a validation rate more than 95%. CONCLUSION: Recombinant inbred line FL478 contains a small (< 1 Mb) segment from the salt tolerant parent in the Saltol region. The Affymetrix rice genome array provides a satisfactory platform for high resolution mapping in rice using RNA hybridization and the RPP method of SFP analysis.
+
+-Base Sequence
+-Chromosome Mapping
+-Chromosomes, Plant (-genetics)
+-Gene Expression
+-Genetic Markers
++Genome, Plant
+-Molecular Sequence Data
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Oryza sativa (+genetics)
++Polymorphism, Genetic
+-Quantitative Trait Loci
+-RNA, Plant (-genetics)
+-Salt-Tolerant Plants (-genetics)
+-Sequence Analysis, DNA
+
+pii:1471-2229-9-65
+doi:10.1186/1471-2229-9-65
+pubmed:19480680
+pmc:PMC2697985
+

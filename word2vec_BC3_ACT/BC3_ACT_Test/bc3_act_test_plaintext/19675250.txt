@@ -1,0 +1,26 @@
+J. Neurosci.
+
+The geometry of perisaccadic visual perception.
+
+A Richard, J Churan, DE Guitton, CC Pack
+
+Our ability to explore our surroundings requires a combination of high-resolution vision and frequent rotations of the visual axis toward objects of interest. Such gaze shifts are themselves a source of powerful retinal stimulation, and so the visual system appears to have evolved mechanisms to maintain perceptual stability during movements of the eyes in space. The mechanisms underlying this perceptual stability can be probed in the laboratory by briefly presenting a stimulus around the time of a saccadic eye movement and asking subjects to report its position. Under such conditions, there is a systematic misperception of the probes toward the saccade end point. This perisaccadic compression of visual space has been the subject of much research, but few studies have attempted to relate it to specific brain mechanisms. Here, we show that the magnitude of perceptual compression for a wide variety of probe stimuli and saccade amplitudes is quantitatively predicted by a simple heuristic model based on the geometry of retinotopic representations in the primate brain. Specifically, we propose that perisaccadic compression is determined by the distance between the probe and saccade end point on a map that has a logarithmic representation of visual space, similar to those found in numerous cortical and subcortical visual structures. Under this assumption, the psychophysical data on perisaccadic compression can be appreciated intuitively by imagining that, around the time of a saccade, the brain confounds nearby oculomotor and sensory signals while attempting to localize the position of objects in visual space.
+
+-Adult
+-Algorithms
+-Brain (-physiology)
+-Eye Movement Measurements
+-Humans
+-Male
++Models, Neurological
+-Photic Stimulation
+-Psychophysics
++Saccades
+-Space Perception
+-Time Factors
++Visual Perception
+
+pii:29/32/10160
+doi:10.1523/JNEUROSCI.0511-09.2009
+pubmed:19675250
+

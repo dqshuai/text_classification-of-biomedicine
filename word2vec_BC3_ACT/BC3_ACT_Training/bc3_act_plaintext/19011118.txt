@@ -1,0 +1,30 @@
+Plant Cell
+
+Circadian clock proteins LHY and CCA1 regulate SVP protein accumulation to control flowering in Arabidopsis.
+
+S Fujiwara, A Oda, R Yoshida, K Niinuma, K Miyata, Y Tomozoe, T Tajima, M Nakagawa, K Hayashi, G Coupland, T Mizoguchi
+
+The floral regulators GIGANTEA (GI), CONSTANS (CO), and FLOWERING LOCUS T (FT) play key roles in the photoperiodic flowering responses of the long-day plant Arabidopsis thaliana. The GI-CO-FT pathway is highly conserved in plants. Here, we demonstrate that the circadian clock proteins LATE ELONGATED HYPOCOTYL (LHY) and CIRCADIAN CLOCK-ASSOCIATED1 (CCA1) not only repressed the floral transition under short-day and long-day conditions but also accelerated flowering when the plants were grown under continuous light (LL). LHY and CCA1 accelerated flowering in LL by promoting FT expression through a genetic pathway that appears to be independent of the canonical photoperiodic pathway involving GI and CO proteins. A genetic screen revealed that the late-flowering phenotype of the lhy;cca1 double mutant under LL was suppressed through mutations in SHORT VEGETATIVE PHASE (SVP), a MADS box transcription factor. Yeast two-hybrid analysis demonstrated an interaction between SVP and FLOWERING LOCUS C, and genetic analysis indicated that these two proteins act as partially redundant repressors of flowering time. SVP protein accumulated in lhy;cca1 plants under LL. We propose a model in which LHY and CCA1 accelerate flowering in part by reducing the abundance of SVP and thereby antagonizing its capacity to repress FT expression under LL.
+
+-Arabidopsis (+genetics; -physiology)
+-Arabidopsis Proteins (-genetics; +physiology)
+-Biological Clocks
+-Circadian Rhythm (+genetics)
+-DNA-Binding Proteins (-genetics; +physiology)
+-Flowers (-genetics; +physiology)
+-Gene Expression Regulation, Plant
+-Genes, Plant
+-Light
+-Mutagenesis
+-Mutation
+-Phenotype
+-Photoperiod
+-RNA, Plant (-genetics)
+-Sequence Analysis, DNA
+-Transcription Factors (-genetics; +physiology)
+
+pii:tpc.108.061531
+doi:10.1105/tpc.108.061531
+pubmed:19011118
+pmc:PMC2613671
+

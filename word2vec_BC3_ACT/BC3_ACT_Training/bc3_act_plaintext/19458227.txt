@@ -1,0 +1,45 @@
+J. Neurosci.
+
+Mobilization of calcium from intracellular stores facilitates somatodendritic dopamine release.
+
+JC Patel, P Witkovsky, MV Avshalumov, ME Rice
+
+Somatodendritic dopamine (DA) release in the substantia nigra pars compacta (SNc) shows a limited dependence on extracellular calcium concentration ([Ca(2+)](o)), suggesting the involvement of intracellular Ca(2+) stores. Here, using immunocytochemistry we demonstrate the presence of the sarcoplasmic/endoplasmic reticulum Ca(2+)-ATPase 2 (SERCA2) that sequesters cytosolic Ca(2+) into the endoplasmic reticulum (ER), as well as inositol 1,4,5-triphosphate receptors (IP(3)Rs) and ryanodine receptors (RyRs) in DAergic neurons. Notably, RyRs were clustered at the plasma membrane, poised for activation by Ca(2+) entry. Using fast-scan cyclic voltammetry to monitor evoked extracellular DA concentration ([DA](o)) in midbrain slices, we found that SERCA inhibition by cyclopiazonic acid (CPA) decreased evoked [DA](o) in the SNc, indicating a functional role for ER Ca(2+) stores in somatodendritic DA release. Implicating IP(3)R-dependent stores, an IP(3)R antagonist, 2-APB, also decreased evoked [DA](o). Moreover, DHPG, an agonist of group I metabotropic glutamate receptors (mGluR1s, which couple to IP(3) production), increased somatodendritic DA release, whereas CPCCOEt, an mGluR1 antagonist, suppressed it. Release suppression by mGluR1 blockade was prevented by 2-APB or CPA, indicating facilitation of DA release by endogenous glutamate acting via mGluR1s and IP(3)R-gated Ca(2+) stores. Similarly, activation of RyRs by caffeine increased [Ca(2+)](i) and elevated evoked [DA](o). The increase in DA release was prevented by a RyR blocker, dantrolene, and by CPA. Importantly, the efficacy of dantrolene was enhanced in low [Ca(2+)](o), suggesting a mechanism for maintenance of somatodendritic DA release with limited Ca(2+) entry. Thus, both mGluR1-linked IP(3)R- and RyR-dependent ER Ca(2+) stores facilitate somatodendritic DA release in the SNc.
+
+-Animals
+-Axons (+metabolism)
+-Boron Compounds (-pharmacology)
+-Cadmium (-pharmacology)
+-Calcium (+metabolism)
+-Calcium Channels, L-Type (-metabolism)
+-Calcium Signaling (-physiology)
+-Chelating Agents (-pharmacology)
+-Chromones (-pharmacology)
+-Dendrites (+metabolism)
+-Dopamine (+metabolism)
+-Egtazic Acid (-analogs & derivatives; -pharmacology)
+-Electric Stimulation
+-Electrochemical Techniques (-methods)
+-Endoplasmic Reticulum (-metabolism)
+-Enzyme Inhibitors (-pharmacology)
+-Guinea Pigs
+-Indoles (-pharmacology)
+-Inositol 1,4,5-Trisphosphate Receptors (-metabolism)
+-Intracellular Fluid (+metabolism)
+-Male
+-Membrane Potentials (-drug effects; -physiology)
+-Methoxyhydroxyphenylglycol (-analogs & derivatives; -pharmacology)
+-Neurons (+cytology; -ultrastructure)
+-Patch-Clamp Techniques (-methods)
+-Receptors, Metabotropic Glutamate (-agonists; -antagonists & inhibitors; -metabolism)
+-Ryanodine Receptor Calcium Release Channel (-metabolism)
+-Sarcoplasmic Reticulum Calcium-Transporting ATPases (-metabolism)
+-Substantia Nigra (-cytology)
+-Tyrosine 3-Monooxygenase (-metabolism)
+
+pii:29/20/6568
+doi:10.1523/JNEUROSCI.0181-09.2009
+pubmed:19458227
+mid:NIHMS119141
+pmc:PMC2892889
+

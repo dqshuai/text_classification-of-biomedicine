@@ -1,0 +1,29 @@
+J. Med. Chem.
+
+Definition of the G protein-coupled receptor transmembrane bundle binding pocket and calculation of receptor similarities for drug design.
+
+DE Gloriam, SM Foord, FE Blaney, SL Garland
+
+Recent advances in structural biology for G-protein-coupled receptors (GPCRs) have provided new opportunities to improve the definition of the transmembrane binding pocket. Here a reference set of 44 residue positions accessible for ligand binding was defined through detailed analysis of all currently available crystal structures. This was used to characterize pharmacological relationships of Family A/Rhodopsin family GPCRs, minimizing evolutionary influence from parts of the receptor that do not generally affect ligand binding. The resultant dendogram tended to group receptors according to endogenous ligand types, although it revealed subdivision of certain classes, notably peptide and lipid receptors. The transmembrane binding site reference set, particularly when coupled with a means of identifying the subset of ligand binding residues, provides a general paradigm for understanding the pharmacology/selectivity profile of ligands at Family A GPCRs. This has wide applicability to GPCR drug design problems across many disease areas.
+
+-Amino Acid Sequence
+-Binding Sites
+-Cell Membrane (+metabolism)
++Drug Design
+-Humans
+-Ligands
+-Lipid Metabolism
+-Melatonin (-metabolism)
+-Molecular Sequence Data
+-Opsins (-metabolism)
+-Peptides (-metabolism)
+-Receptors, G-Protein-Coupled (+chemistry; +classification; -metabolism)
+-Receptors, Proteinase-Activated (-chemistry; -classification; -metabolism)
+-Receptors, Purinergic P1 (-chemistry; -classification; -metabolism)
+-Retinaldehyde (-metabolism)
+-Rhodopsin (-chemistry; -classification; -metabolism)
+-Sequence Alignment
+
+doi:10.1021/jm900319e
+pubmed:19537715
+

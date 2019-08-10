@@ -1,0 +1,22 @@
+J. Mol. Biol.
+
+A computationally guided protein-interaction screen uncovers coiled-coil interactions involved in vesicular trafficking.
+
+H Zhang, J Chen, Y Wang, L Peng, X Dong, Y Lu, AE Keating, T Jiang
+
+Mapping protein-protein interactions at a domain or motif level can provide structural annotation of the interactome. The alpha-helical coiled coil is among the most common protein-interaction motifs, and proteins predicted to contain coiled coils participate in diverse biological processes. Here, we introduce a combined computational/experimental screening strategy that we used to uncover coiled-coil interactions among proteins involved in vesicular trafficking in Saccharomyces cerevisiae. A number of coiled-coil complexes have already been identified and reported to play important roles in this important biological process. We identify additional examples of coiled coils that can form physical associations. The computational strategy used to prioritize coiled-coil candidates for testing dramatically improved the efficiency of discovery in a large experimental screen. As assessed by comprehensive yeast two-hybrid assays, computational prefiltering retained 90% of positive interacting pairs and eliminated >60% of negatives from a set of interaction candidates. The coiled-coil-mediated interaction network elucidated using the combined computational/experimental approach comprises 80 coiled-coil associations between 58 protein pairs, among which 21 protein interactions have not been previously reported in interaction databases and 26 interactions were previously known at the protein level but have now been localized to the coiled-coil motif. The coiled-coil-mediated interactions were specific rather than promiscuous, and many interactions could be recapitulated in a green fluorescent protein complementation assay. Our method provides an efficient route to discovering new coiled-coil interactions and uncovers a number of associations that may have functional significance for vesicular trafficking.
+
+-Computational Biology (+methods)
+-Protein Conformation
+-Protein Interaction Domains and Motifs
+-Protein Interaction Mapping (+methods)
+-Protein Structure, Tertiary
+-Saccharomyces cerevisiae (+physiology)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+-Transport Vesicles (+metabolism)
+-Two-Hybrid System Techniques
+
+pii:S0022-2836(09)00832-8
+doi:10.1016/j.jmb.2009.07.006
+pubmed:19591838
+

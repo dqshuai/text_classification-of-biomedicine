@@ -1,0 +1,19 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Kinetic theories of dynamics and persistent caging in a one-dimensional lattice gas.
+
+SM Abel, YL Steve Tse, HC Andersenb
+
+The one-dimensional, single-occupancy lattice gas exhibits highly cooperative particle motion and provides an interesting challenge for theoretical methods designed to describe caging in liquids. We employ this model in an effort to gain insight into caging phenomena in more realistic models of liquids, using a diagrammatic kinetic theory of density fluctuations to develop a series of approximations to the kinetic equations for the van Hove self-correlation function. The approximations are formulated in terms of the irreducible memory function, and we assess their efficacy by comparing their solutions with computer simulation results and the well-known subdiffusive behavior of a tagged particle at long times. The first approximation, a mode coupling theory, factorizes the 4-point propagators that contribute to the irreducible memory function into products of independent single-particle propagators. This approximation fails to capture the subdiffusive behavior of a tagged particle at long times. Analysis of the mode coupling approximation in terms of the diagrammatic kinetic theory leads to the development of two additional approximations that can be viewed as diagrammatic extensions or modifications of mode coupling theory. The first, denoted MC1, captures the long-time subdiffusive behavior of a tagged particle. The second, denoted MC2, captures the subdiffusive behavior of a tagged particle and also yields the correct amplitude of its mean square displacement at long times. Numerical and asymptotic solutions of the approximate kinetic equations share many qualitative and quantitative features with simulation results at all timescales.
+
+-Computer Simulation
+-Diffusion
+-Kinetics
++Models, Chemical
++Phase Transition
+
+pii:0901693106
+doi:10.1073/pnas.0901693106
+pubmed:19564606
+pmc:PMC2741219
+

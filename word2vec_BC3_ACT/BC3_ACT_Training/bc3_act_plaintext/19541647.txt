@@ -1,0 +1,31 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Computing protein stabilities from their chain lengths.
+
+K Ghosh, KA Dill
+
+New amino acid sequences of proteins are being learned at a rapid rate, thanks to modern genomics. The native structures and functions of those proteins can often be inferred using bioinformatics methods. We show here that it is also possible to infer the stabilities and thermal folding properties of proteins, given only simple genomics information: the chain length and the numbers of charged side chains. In particular, our model predicts DeltaH(T), DeltaS(T), DeltaC(p), and DeltaF(T)--the folding enthalpy, entropy, heat capacity, and free energy--as functions of temperature T; the denaturant m values in guanidine and urea; the pH-temperature-salt phase diagrams, and the energy of confinement F(s) of the protein inside a cavity of radius s. All combinations of these phase equilibria can also then be computed from that information. As one illustration, we compute the pH and salt conditions that would denature a protein inside a small confined cavity. Because the model is analytical, it is computationally efficient enough that it could be used to automatically annotate whole proteomes with protein stability information.
+
+-Algorithms
+-Computational Biology (+methods)
+-Computer Simulation
+-Entropy
+-Guanidine (-chemistry)
+-Hydrogen-Ion Concentration
+-Kinetics
+-Protein Conformation
+-Protein Denaturation
+-Protein Folding
++Protein Stability
+-Proteins (+chemistry)
+-Sodium Chloride (-chemistry)
+-Static Electricity
+-Temperature
+-Thermodynamics
+-Urea (-chemistry)
+
+pii:0903995106
+doi:10.1073/pnas.0903995106
+pubmed:19541647
+pmc:PMC2705543
+

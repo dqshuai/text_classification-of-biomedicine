@@ -1,0 +1,31 @@
+Nucleic Acids Res.
+
+p53-dependent antiviral RNA-interference facilitates tumor-selective viral replication.
+
+E Gürlevik, N Woller, P Schache, NP Malek, TC Wirth, L Zender, MP Manns, S Kubicka, F Kühnel
+
+RNA-interference (RNAi) is a potent tool for specific gene silencing. In this study, we developed an adenovirus for conditional replication in p53-dysfunctional tumor cells that uses p53-selective expression of a microRNA-network directed against essential adenoviral genes. Compared to a control virus that expressed a scrambled microRNA-network, antiviral RNAi selectively attenuated viral replication in cells with transcriptionally active p53, but not in p53-dysfunctional tumor cells where both viruses replicated equivalently. Since these results were confirmed by an in vivo comparison of both viruses after infection of p53-knockout and normal mice, we could demonstrate that attenuated replication was indeed a result of p53-selective exhibition of antiviral RNAi. Addressing the therapeutic applicability, we could show that the application of RNAi-controlled virus efficiently lysed p53-dysfunctional tumors in vitro and in vivo but resulted in drastically reduced load of virus-DNA in the liver of treated mice. We have generated a broadly applicable adenovirus for selective destruction of p53-dysfunctional tumors and thereby demonstrate that virus-encoded RNAi-networks represent an efficient and versatile tool to modify viral functions. RNAi-networks can be applied to all transcriptionally regulated DNA-viruses to remodulate viral tropism and thus provide means to generate specifically replicating vectors for clinical applications.
+
+-Adenoviridae (+genetics; -physiology)
+-Animals
+-Cell Line
+-Cell Line, Tumor
+-DNA, Viral (-analysis)
+-Genes, Viral
+-Humans
+-Liver (-virology)
+-Mice
+-Mice, Knockout
+-MicroRNAs (-chemistry)
+-Oncolytic Virotherapy
+-Oncolytic Viruses (+genetics; -physiology)
++RNA Interference
+-Tumor Suppressor Protein p53 (-genetics; +metabolism)
++Virus Replication
+-Xenograft Model Antitumor Assays
+
+pii:gkp374
+doi:10.1093/nar/gkp374
+pubmed:19443444
+pmc:PMC2709585
+

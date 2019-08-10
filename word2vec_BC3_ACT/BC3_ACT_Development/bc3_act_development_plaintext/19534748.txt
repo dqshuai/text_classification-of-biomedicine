@@ -1,0 +1,19 @@
+BMC Bioinformatics
+
+Massive non-natural proteins structure prediction using grid technologies.
+
+G Minervini, G Evangelista, L Villanova, D Slanzi, D De Lucrezia, I Poli, PL Luisi, F Polticelli
+
+BACKGROUND: The number of natural proteins represents a small fraction of all the possible protein sequences and there is an enormous number of proteins never sampled by nature, the so called "never born proteins" (NBPs). A fundamental question in this regard is if the ensemble of natural proteins possesses peculiar chemical and physical properties or if it is just the product of contingency coupled to functional selection. A key feature of natural proteins is their ability to form a well defined three-dimensional structure. Thus, the structural study of NBPs can help to understand if natural protein sequences were selected for their peculiar properties or if they are just one of the possible stable and functional ensembles. METHODS: The structural characterization of a huge number of random proteins cannot be approached experimentally, thus the problem has been tackled using a computational approach. A large random protein sequences library (2 x 10(4) sequences) was generated, discarding amino acid sequences with significant similarity to natural proteins, and the corresponding structures were predicted using Rosetta. Given the highly computational demanding problem, Rosetta was ported in grid and a user friendly job submission environment was developed within the GENIUS Grid Portal. Protein structures generated were analysed in terms of net charge, secondary structure content, surface/volume ratio, hydrophobic core composition, etc. RESULTS: The vast majority of NBPs, according to the Rosetta model, are characterized by a compact three-dimensional structure with a high secondary structure content. Structure compactness and surface polarity are comparable to those of natural proteins, suggesting similar stability and solubility. Deviations are observed in alpha helix-beta strands relative content and in hydrophobic core composition, as NBPs appear to be richer in helical structure and aromatic amino acids with respect to natural proteins. CONCLUSION: The results obtained suggest that the ability to form a compact, ordered and water-soluble structure is an intrinsic property of polypeptides. The tendency of random sequences to adopt alpha helical folds indicate that all-alpha proteins may have emerged early in pre-biotic evolution. Further, the lower percentage of aromatic residues observed in natural proteins has important evolutionary implications as far as tolerance to mutations is concerned.
+
+-Amino Acid Sequence
+-Computational Biology (+methods)
+-Databases, Protein
+-Proteins (+chemistry)
+-Sequence Analysis, Protein
+
+pii:1471-2105-10-S6-S22
+doi:10.1186/1471-2105-10-S6-S22
+pubmed:19534748
+pmc:PMC2697646
+

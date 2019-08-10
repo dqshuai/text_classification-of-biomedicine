@@ -1,0 +1,25 @@
+J. Cell Biol.
+
+Dynamic instability of microtubules requires dynamin 2 and is impaired in a Charcot-Marie-Tooth mutant.
+
+K Tanabe, K Takei
+
+Dynamin is a fission protein that participates in endocytic vesicle formation. Although dynamin was originally identified as a microtubule-binding protein, the physiological relevance of this function was unclear. Recently, mutations in the ubiquitously expressed dynamin 2 (dyn2) protein were found in patients with Charcot-Marie-Tooth (CMT) disease, which is an inherited peripheral neuropathy. In this study, we show that one of these mutations, 551Delta3, induces prominent decoration of microtubules with the mutant dyn2. Dyn2 was required for proper dynamic instability of microtubules, and this was impaired in cells expressing the 551Delta3 mutant, which showed a remarkable increase in microtubule acetylation, a marker of stable microtubules. Depletion of endogenous dyn2 with a small interfering RNA also resulted in the accumulation of stable microtubules. Furthermore, the formation of mature Golgi complexes, which depends on microtubule-dependent membrane transport, was impaired in both dyn2 knockdown cells and cells expressing the 551Delta3 mutant. Collectively, our results suggest that dyn2 regulates dynamic instability of microtubules, which is essential for organelle motility, and that this function may be impaired in CMT disease.
+
+-Animals
+-COS Cells
+-Cercopithecus aethiops
++Charcot-Marie-Tooth Disease (-genetics; -metabolism)
++Dynamin II (-genetics; -metabolism)
+-Hela Cells
+-Humans
+-Microtubules (+metabolism)
++Mutation
+-RNA, Small Interfering (-genetics; -metabolism)
+-Tubulin (-metabolism)
+
+pii:jcb.200803153
+doi:10.1083/jcb.200803153
+pubmed:19528294
+pmc:PMC2711604
+

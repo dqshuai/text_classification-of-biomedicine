@@ -1,0 +1,30 @@
+J. Virol.
+
+Crystal structure of porcine reproductive and respiratory syndrome virus leader protease Nsp1alpha.
+
+Y Sun, F Xue, Y Guo, M Ma, N Hao, XC Zhang, Z Lou, X Li, Z Rao
+
+Porcine reproductive and respiratory syndrome (PRRS) virus (PRRSV), a positive-strand RNA virus that belongs to the Arteriviridae family of Nidovirales, has been identified as the causative agent of PRRS. Nsp1alpha is the amino (N)-terminal protein in a polyprotein encoded by the PRRSV genome and is reported to be crucial for subgenomic mRNA synthesis, presumably by serving as a transcription factor. Before functioning in transcription, nsp1alpha proteolytically releases itself from nsp1beta. However, the structural basis for the self-releasing and biological functions of nsp1alpha remains elusive. Here we report the crystal structure of nsp1alpha of PRRSV (strain XH-GD) in its naturally self-processed form. Nsp1alpha contains a ZF domain (which may be required for its biological function), a papain-like cysteine protease (PCP) domain with a zinc ion unexpectedly bound at the active site (which is essential for proteolytic self-release of nsp1alpha), and a carboxyl-terminal extension (which occupies the substrate binding site of the PCP domain). Furthermore, we determined the exact location of the nsp1alpha self-processing site at Cys-Ala-Met180 downward arrowAla-Asp-Val by use of crystallographic data and N-terminal amino acid sequencing. The crystal structure also suggested an in cis self-processing mechanism for nsp1alpha. Furthermore, nsp1alpha appears to have a dimeric architecture both in solution and as a crystal, with a hydrophilic groove on the molecular surface that may be related to nsp1alpha's biological function. Compared with existing structure and function data, our results suggest that PRRSV nsp1alpha functions differently from other reported viral leader proteases, such as that of foot-and-mouth disease.
+
+-Amino Acid Sequence
+-Animals
+-Catalytic Domain
+-Crystallography, X-Ray
+-Endopeptidases (+chemistry; -genetics; -metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Polyproteins (+chemistry; -genetics; -metabolism)
+-Porcine Reproductive and Respiratory Syndrome (-virology)
+-Porcine respiratory and reproductive syndrome virus (+chemistry)
+-Protein Multimerization
++Protein Structure, Quaternary
++Protein Structure, Tertiary
+-Sequence Alignment
+-Swine
+-Viral Nonstructural Proteins (+chemistry; -genetics; -metabolism)
+
+pii:JVI.02579-08
+doi:10.1128/JVI.02579-08
+pubmed:19706710
+pmc:PMC2772781
+

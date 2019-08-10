@@ -1,0 +1,28 @@
+Plant Cell
+
+The trihelix transcription factor GTL1 regulates ploidy-dependent cell growth in the Arabidopsis trichome.
+
+C Breuer, A Kawamura, T Ichikawa, R Tominaga-Wada, T Wada, Y Kondou, S Muto, M Matsui, K Sugimoto
+
+Leaf trichomes in Arabidopsis thaliana develop through several distinct cellular processes, such as patterning, differentiation, and growth. Although recent studies have identified several key transcription factors as regulating early patterning and differentiation steps, it is still largely unknown how these regulatory proteins mediate subsequent trichome development, which is accompanied by rapid cell growth and branching. Here, we report a novel trichome mutation in Arabidopsis, which in contrast with previously identified mutants, increases trichome cell size without altering its overall patterning or branching. We show that the corresponding gene encodes a GT-2-LIKE1 (GTL1) protein, a member of the trihelix transcription factor family. GTL1 is present within the nucleus during the postbranching stages of trichome development, and its loss of function leads to an increase in the nuclear DNA content only in trichomes that have completed branching. Our data further demonstrate that the gtl1 mutation modifies the expression of several cell cycle genes and partially rescues the ploidy defects in the cyclin-dependent kinase inhibitor mutant siamese. Taken together, this study provides the genetic evidence for the requirement of transcriptional regulation in the repression of ploidy-dependent plant cell growth as well as for an involvement of GTL trihelix proteins in this regulation.
+
+-Amino Acid Sequence
+-Arabidopsis (+cytology; -genetics; -growth & development; +metabolism)
+-Arabidopsis Proteins (-genetics; -metabolism; +physiology)
+-Caulimovirus (-genetics)
+-Cell Enlargement
+-Gene Expression Regulation, Plant (-genetics; -physiology)
+-Microscopy, Fluorescence
+-Molecular Sequence Data
+-Plant Leaves (+cytology; +metabolism)
+-Plants, Genetically Modified (-cytology; -genetics; -growth & development; -metabolism)
++Ploidies
+-Promoter Regions, Genetic (-genetics)
+-Sequence Homology, Amino Acid
+-Transcription Factors (-genetics; -metabolism; +physiology)
+
+pii:tpc.109.068387
+doi:10.1105/tpc.109.068387
+pubmed:19717615
+pmc:PMC2751941
+

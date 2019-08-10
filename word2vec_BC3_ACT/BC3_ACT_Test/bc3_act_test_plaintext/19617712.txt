@@ -1,0 +1,24 @@
+Cell Cycle
+
+Ubiquitination of HEXIM1 by HDM2.
+
+J Lau, QJ Lew, G Diribarne, AA Michels, A Dey, O Bensaude, DP Lane, SH Chao
+
+Hexamethylene bis-acetamide inducible protein 1 (HEXIM1) is an inhibitor of the positive transcription elongation factor b (P-TEFb), which controls RNA polymerase II transcription and human immunodeficiency virus Tat transactivation. In cells, more than half of P-TEFb is associated with HEXIM1 resulting in the inactivation of P-TEFb. Recently, we found that nucleophosmin (NPM), a key factor involved in p53 signaling pathway, interacts with HEXIM1 and activates P-TEFb-dependent transcription. Here we report that human double minute-2 protein (HDM2), a p53-specific E3 ubiquitin ligase, specifically ubiquitinates HEXIM1 through the lysine residues located within the basic region of HEXIM1. However, the HDM2-induced HEXIM1 ubiquitination does not lead to proteasome-mediated protein degradation. Fusion of ubiquitin to HEXIM1 demonstrates stronger inhibition on P-TEFb-dependent transcription. Our results demonstrate that HDM2 functions as a specific E3 ubiquitin ligase for HEXIM1, suggesting a possible role for HEXIM1 ubiquitination in the regulation of P-TEFb activity.
+
+-Cell Line
+-Cysteine Proteinase Inhibitors (-pharmacology)
+-Humans
+-Leupeptins (-pharmacology)
+-Nuclear Proteins (-metabolism)
+-Positive Transcriptional Elongation Factor B (-genetics; +metabolism)
+-Proto-Oncogene Proteins c-mdm2 (+metabolism)
+-RNA-Binding Proteins (+metabolism)
+-Signal Transduction
+-Tumor Suppressor Protein p53 (-metabolism)
+-Ubiquitin-Protein Ligases (-metabolism)
++Ubiquitination
+
+pii:9015
+pubmed:19617712
+

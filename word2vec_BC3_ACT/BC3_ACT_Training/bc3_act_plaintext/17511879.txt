@@ -1,0 +1,23 @@
+BMC Cancer
+
+The interaction of PP1 with BRCA1 and analysis of their expression in breast tumors.
+
+SL Winter, L Bosnoyan-Collins, D Pinnaduwage, IL Andrulis
+
+BACKGROUND: The breast cancer susceptibility gene, BRCA1, is implicated in multiple cellular processes including DNA repair, the transactivation of genes, and the ubiquitination of proteins; however its precise functions remain to be fully understood. Identification and characterization of BRCA1 protein interactions may help to further elucidate the function and regulation of BRCA1. Additionally, detection of changes in the expression levels of BRCA1 and its interacting proteins in primary human breast tumors may further illuminate their role in the development of breast cancer. METHODS: We performed a yeast two-hybrid study to identify proteins that interact with exon11 of BRCA1 and identified Protein Phosphatase 1beta (PP1beta), an isoform of the serine threonine phosphatase, PP1. GST-pull down and co-immunoprecipitation assays were performed to further characterize this interaction. Additionally, Real-Time PCR was utilized to determine the expression of BRCA1, PP1alpha, beta and gamma in primary human breast tumors and normal breast tissue to identify alterations in the expression of these genes in breast cancer. RESULTS: PP1 and BRCA1 co-immunoprecipitate and the region within BRCA1 as well as the specific PP1 interacting domain mediating this interaction were identified. Following mRNA expression analysis, we identified low levels of BRCA1 and variable levels of PP1alpha and beta in primary sporadic human breast tumors. Furthermore, BRCA1, PP1beta and PP1gamma were significantly higher in normal tissue specimens (BRCA1 p = 0.01, PP1beta: p = 0.03, PP1gamma, p = 1.9 x 10(-6)) compared to sporadic breast tumor samples. Interestingly, we also identified that ER negative tumors are associated with low levels of PP1alpha expression. CONCLUSION: The identification and characterization of the interaction of BRCA1 with PP1 and detection of changes in the expression of PP1 and genes encoding other BRCA1 associated proteins identifies important genetic pathways that may be significant to breast tumorigenesis. Alterations in the expression of genes, particularly phosphatases that operate in association with BRCA1, could negatively affect the function of BRCA1 or BRCA1 associated proteins, contributing to the development of breast cancer.
+
+-Breast Neoplasms (-enzymology; +genetics; +metabolism)
+-Female
+-Gene Expression Regulation, Neoplastic (+physiology)
+-Genes, BRCA1 (+physiology)
+-Humans
+-Phosphoprotein Phosphatases (-biosynthesis; -genetics; +metabolism)
+-Protein Binding (-physiology)
+-Tumor Markers, Biological (-biosynthesis; -genetics; +metabolism)
+-Two-Hybrid System Techniques
+
+pii:1471-2407-7-85
+doi:10.1186/1471-2407-7-85
+pubmed:17511879
+pmc:PMC1906825
+

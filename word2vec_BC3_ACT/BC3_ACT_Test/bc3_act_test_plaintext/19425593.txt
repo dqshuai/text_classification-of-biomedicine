@@ -1,0 +1,26 @@
+J. Proteome Res.
+
+TOPPView: an open-source viewer for mass spectrometry data.
+
+M Sturm, O Kohlbacher
+
+Visualization of complex mass spectrometric data sets is becoming increasingly important in proteomics and metabolomics. We present TOPPView, an integrated data visualization and analysis tool for mass spectrometric data sets. TOPPView allows the visualization and comparison of individual mass spectra, two-dimensional LC-MS data sets and their accompanying metadata. By supporting standardized XML-based data exchange formats, data import is possible from any type of mass spectrometer. The integrated analysis tools of the OpenMS Proteomics Pipeline (TOPP) allow efficient data analysis from within TOPPView through a convenient graphical user interface. TOPPView runs on all major operating systems and is available free of charge under an open-source license at http://www.openms.de.
+
+-Access to Information
+-Algorithms
+-Computational Biology (-methods)
+-Computers
+-Databases, Protein
+-Information Storage and Retrieval
+-Internet
+-Mass Spectrometry (+methods)
+-Metabolomics (-methods)
+-Pattern Recognition, Automated
+-Programming Languages
+-Proteomics (-methods)
+-Software
+-User-Computer Interface
+
+doi:10.1021/pr900171m
+pubmed:19425593
+

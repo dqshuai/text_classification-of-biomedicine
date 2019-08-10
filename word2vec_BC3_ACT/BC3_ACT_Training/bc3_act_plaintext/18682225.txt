@@ -1,0 +1,25 @@
+Structure
+
+The crystal structure of the Escherichia coli RNase E apoprotein and a mechanism for RNA degradation.
+
+DJ Koslover, AJ Callaghan, MJ Marcaida, EF Garman, M Martick, WG Scott, BF Luisi
+
+RNase E is an essential bacterial endoribonuclease involved in the turnover of messenger RNA and the maturation of structured RNA precursors in Escherichia coli. Here, we present the crystal structure of the E. coli RNase E catalytic domain in the apo-state at 3.3 A. This structure indicates that, upon catalytic activation, RNase E undergoes a marked conformational change characterized by the coupled movement of two RNA-binding domains to organize the active site. The structural data suggest a mechanism of RNA recognition and cleavage that explains the enzyme's preference for substrates possessing a 5'-monophosphate and accounts for the protective effect of a triphosphate cap for most transcripts. Internal flexibility within the quaternary structure is also observed, a finding that has implications for recognition of structured RNA substrates and for the mechanism of internal entry for a subset of substrates that are cleaved without 5'-end requirements.
+
+-Amino Acid Sequence
+-Apoproteins (+chemistry; -genetics; -metabolism)
+-Crystallography, X-Ray
+-Endoribonucleases (+chemistry; -genetics; -metabolism)
+-Escherichia coli (+enzymology)
+-Escherichia coli Proteins (+chemistry; -genetics; -metabolism)
+-Molecular Sequence Data
++Protein Structure, Quaternary
+-RNA (-chemistry; +metabolism)
++RNA Stability
+-Substrate Specificity
+
+pii:S0969-2126(08)00253-0
+doi:10.1016/j.str.2008.04.017
+pubmed:18682225
+pmc:PMC2631609
+

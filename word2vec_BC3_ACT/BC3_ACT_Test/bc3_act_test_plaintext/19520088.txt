@@ -1,0 +1,29 @@
+J. Mol. Biol.
+
+Structural and functional divergence within the Dim1/KsgA family of rRNA methyltransferases.
+
+N Pulicherla, LA Pogorzala, Z Xu, HC O Farrell, FN Musayev, JN Scarsdale, EA Sia, GM Culver, JP Rife
+
+The enzymes of the KsgA/Dim1 family are universally distributed throughout all phylogeny; however, structural and functional differences are known to exist. The well-characterized function of these enzymes is to dimethylate two adjacent adenosines of the small ribosomal subunit in the normal course of ribosome maturation, and the structures of KsgA from Escherichia coli and Dim1 from Homo sapiens and Plasmodium falciparum have been determined. To this point, no examples of archaeal structures have been reported. Here, we report the structure of Dim1 from the thermophilic archaeon Methanocaldococcus jannaschii. While it shares obvious similarities with the bacterial and eukaryotic orthologs, notable structural differences exist among the three members, particularly in the C-terminal domain. Previous work showed that eukaryotic and archaeal Dim1 were able to robustly complement for KsgA in E. coli. Here, we repeated similar experiments to test for complementarity of archaeal Dim1 and bacterial KsgA in Saccharomyces cerevisiae. However, neither the bacterial nor the archaeal ortholog could complement for the eukaryotic Dim1. This might be related to the secondary, non-methyltransferase function that Dim1 is known to play in eukaryotic ribosomal maturation. To further delineate regions of the eukaryotic Dim1 critical to its function, we created and tested KsgA/Dim1 chimeras. Of the chimeras, only one constructed with the N-terminal domain from eukaryotic Dim1 and the C-terminal domain from archaeal Dim1 was able to complement, suggesting that eukaryotic-specific Dim1 function resides in the N-terminal domain also, where few structural differences are observed between members of the KsgA/Dim1 family. Future work is required to identify those determinants directly responsible for Dim1 function in ribosome biogenesis. Finally, we have conclusively established that none of the methyl groups are critically important to growth in yeast under standard conditions at a variety of temperatures.
+
+-Amino Acid Sequence
+-Animals
+-Archaeal Proteins (+chemistry; -genetics; +metabolism)
+-Crystallography, X-Ray
+-Genetic Complementation Test
+-Humans
+-Methanococcus (+enzymology)
+-Methyltransferases (+chemistry; -genetics; +metabolism)
+-Models, Molecular
+-Molecular Sequence Data
++Protein Structure, Tertiary
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (-chemistry; -genetics; -metabolism)
+-Sequence Alignment
+
+pii:S0022-2836(09)00719-0
+doi:10.1016/j.jmb.2009.06.015
+pubmed:19520088
+mid:NIHMS123339
+pmc:PMC2753216
+

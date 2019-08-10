@@ -1,0 +1,27 @@
+PLoS Comput. Biol.
+
+Computational models of the Notch network elucidate mechanisms of context-dependent signaling.
+
+S Agrawal, C Archer, DV Schaffer
+
+The Notch signaling pathway controls numerous cell fate decisions during development and adulthood through diverse mechanisms. Thus, whereas it functions as an oscillator during somitogenesis, it can mediate an all-or-none cell fate switch to influence pattern formation in various tissues during development. Furthermore, while in some contexts continuous Notch signaling is required, in others a transient Notch signal is sufficient to influence cell fate decisions. However, the signaling mechanisms that underlie these diverse behaviors in different cellular contexts have not been understood. Notch1 along with two downstream transcription factors hes1 and RBP-Jk forms an intricate network of positive and negative feedback loops, and we have implemented a systems biology approach to computationally study this gene regulation network. Our results indicate that the system exhibits bistability and is capable of switching states at a critical level of Notch signaling initiated by its ligand Delta in a particular range of parameter values. In this mode, transient activation of Delta is also capable of inducing prolonged high expression of Hes1, mimicking the "ON" state depending on the intensity and duration of the signal. Furthermore, this system is highly sensitive to certain model parameters and can transition from functioning as a bistable switch to an oscillator by tuning a single parameter value. This parameter, the transcriptional repression constant of hes1, can thus qualitatively govern the behavior of the signaling network. In addition, we find that the system is able to dampen and reduce the effects of biological noise that arise from stochastic effects in gene expression for systems that respond quickly to Notch signaling.This work thus helps our understanding of an important cell fate control system and begins to elucidate how this context dependent signaling system can be modulated in different cellular settings to exhibit entirely different behaviors.
+
+-Basic Helix-Loop-Helix Transcription Factors (-genetics; -metabolism)
++Computational Biology
+-Computer Simulation
++Gene Regulatory Networks
+-Homeodomain Proteins (-genetics; -metabolism)
+-Immunoglobulin J Recombination Signal Sequence-Binding Protein (-genetics; -metabolism)
++Models, Genetic
+-Promoter Regions, Genetic
+-Receptor, Notch1 (+genetics; +metabolism)
+-Repressor Proteins (-metabolism)
++Signal Transduction
+-Stochastic Processes
+-Transcription Factors (-metabolism)
++Transcription, Genetic
+
+doi:10.1371/journal.pcbi.1000390
+pubmed:19468305
+pmc:PMC2680760
+

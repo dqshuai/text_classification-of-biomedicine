@@ -1,0 +1,22 @@
+PLoS ONE
+
+Diversity of 23S rRNA genes within individual prokaryotic genomes.
+
+A Pei, CW Nossa, P Chokshi, MJ Blaser, L Yang, DM Rosmarin, Z Pei
+
+BACKGROUND: The concept of ribosomal constraints on rRNA genes is deduced primarily based on the comparison of consensus rRNA sequences between closely related species, but recent advances in whole-genome sequencing allow evaluation of this concept within organisms with multiple rRNA operons. METHODOLOGY/PRINCIPAL FINDINGS: Using the 23S rRNA gene as an example, we analyzed the diversity among individual rRNA genes within a genome. Of 184 prokaryotic species containing multiple 23S rRNA genes, diversity was observed in 113 (61.4%) genomes (mean 0.40%, range 0.01%-4.04%). Significant (1.17%-4.04%) intragenomic variation was found in 8 species. In 5 of the 8 species, the diversity in the primary structure had only minimal effect on the secondary structure (stem versus loop transition). In the remaining 3 species, the diversity significantly altered local secondary structure, but the alteration appears minimized through complex rearrangement. Intervening sequences (IVS), ranging between 9 and 1471 nt in size, were found in 7 species. IVS in Deinococcus radiodurans and Nostoc sp. encode transposases. T. tengcongensis was the only species in which intragenomic diversity >3% was observed among 4 paralogous 23S rRNA genes. CONCLUSIONS/SIGNIFICANCE: These findings indicate tight ribosomal constraints on individual 23S rRNA genes within a genome. Although classification using primary 23S rRNA sequences could be erroneous, significant diversity among paralogous 23S rRNA genes was observed only once in the 184 species analyzed, indicating little overall impact on the mainstream of 23S rRNA gene-based prokaryotic taxonomy.
+
+-Base Sequence
+-Classification
+-Consensus Sequence
+-Genes, Bacterial (+genetics)
+-Genes, rRNA
++Genetic Variation
++Genome
+-RNA, Ribosomal, 23S (+genetics)
+-Species Specificity
+
+doi:10.1371/journal.pone.0005437
+pubmed:19415112
+pmc:PMC2672173
+

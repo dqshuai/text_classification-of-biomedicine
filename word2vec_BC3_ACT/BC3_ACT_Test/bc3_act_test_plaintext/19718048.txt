@@ -1,0 +1,32 @@
+Oncogene
+
+The DEAD-box protein p72 regulates ERalpha-/oestrogen-dependent transcription and cell growth, and is associated with improved survival in ERalpha-positive breast cancer.
+
+NC Wortham, E Ahamed, SM Nicol, RS Thomas, M Periyasamy, J Jiang, AM Ochocka, S Shousha, L Huson, SE Bray, RC Coombes, S Ali, FV Fuller-Pace
+
+The DEAD-box RNA helicases p68 (DDX5) and p72 (DDX17) have been shown to act as transcriptional co-activators for a diverse range of transcription factors, including oestrogen receptor-alpha (ERalpha). Here, we show that, although both proteins interact with and co-activate ERalpha in reporter gene assays, small interfering RNA-mediated knockdown of p72, but not p68, results in a significant inhibition of oestrogen-dependent transcription of endogenous ERalpha-responsive genes and oestrogen-dependent growth of MCF-7 and ZR75-1 breast cancer cells. Furthermore, immunohistochemical staining of ERalpha-positive primary breast cancers for p68 and p72 indicate that p72 expression is associated with an increased period of relapse-free and overall survival (P=0.006 and 0.016, respectively), as well as being inversely associated with Her2 expression (P=0.008). Conversely, p68 shows no association with relapse-free period, or overall survival, but it is associated with an increased expression of Her2 (P=0.001), AIB-1 (P<0.001) and higher tumour grade (P=0.044). Our data thus highlight a crucial role for p72 in ERalpha co-activation and oestrogen-dependent cell growth and provide evidence in support of distinct but important roles for both p68 and p72 in regulating ERalpha activity in breast cancer.
+
+-Animals
+-Breast Neoplasms (-genetics; -metabolism; +pathology)
+-COS Cells
++Cell Proliferation (-drug effects)
+-Cell Survival (-drug effects; -genetics)
+-Cercopithecus aethiops
+-DEAD-box RNA Helicases (-metabolism; +physiology)
+-Estrogen Receptor alpha (-genetics; -metabolism; +physiology)
+-Estrogens (-metabolism; +pharmacology)
+-Female
+-Gene Expression Regulation, Neoplastic
+-Humans
+-Nuclear Receptor Coactivator 1 (-metabolism; -physiology)
+-Protein Binding
++Transcription, Genetic (-drug effects; -genetics)
+-Transcriptional Activation
+-Tumor Cells, Cultured
+
+pii:onc2009261
+doi:10.1038/onc.2009.261
+pubmed:19718048
+mid:UKMS27841
+pmc:PMC2780396
+

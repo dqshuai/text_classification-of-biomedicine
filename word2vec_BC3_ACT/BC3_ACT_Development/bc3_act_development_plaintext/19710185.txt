@@ -1,0 +1,21 @@
+RNA
+
+New metrics for comparing and assessing discrepancies between RNA 3D structures and models.
+
+M Parisien, JA Cruz, E Westhof, F Major
+
+To benchmark progress made in RNA three-dimensional modeling and assess newly developed techniques, reliable and meaningful comparison metrics and associated tools are necessary. Generally, the average root-mean-square deviations (RMSDs) are quoted. However, RMSD can be misleading since errors are spread over the whole molecule and do not account for the specificity of RNA base interactions. Here, we introduce two new metrics that are particularly suitable to RNAs: the deformation index and deformation profile. The deformation index is calibrated by the interaction network fidelity, which considers base-base-stacking and base-base-pairing interactions within the target structure. The deformation profile highlights dissimilarities between structures at the nucleotide scale for both intradomain and interdomain interactions. Our results show that there is little correlation between RMSD and interaction network fidelity. The deformation profile is a tool that allows for rapid assessment of the origins of discrepancies.
+
+-Animals
+-Base Pairing
+-Calibration
++Models, Molecular
++Nucleic Acid Conformation
+-RNA, Ribosomal, 28S (+chemistry)
+-Rats
+
+pii:rna.1700409
+doi:10.1261/rna.1700409
+pubmed:19710185
+pmc:PMC2743038
+

@@ -1,0 +1,30 @@
+Proteomics
+
+Application of quantitative immunoprecipitation combined with knockdown and cross-linking to Chlamydomonas reveals the presence of vesicle-inducing protein in plastids 1 in a common complex with chloroplast HSP90C.
+
+H Heide, A Nordhues, F Drepper, S Nick, M Schulz-Raffelt, W Haehnel, M Schroda
+
+Knowledge of the interaction partners of a protein of interest may provide important information on its function. Common to currently available tools for the identification of protein-protein interactions, however, is their high rates of false positives. Only recently an assay was reported that allowed for the unequivocal identification of protein-protein interactions in mammalian cells in a single experiment. This assay, termed quantitative immunoprecipitation combined with knockdown (QUICK), combines RNAi, stable isotope labeling with amino acids in cell culture, immunoprecipitation, and quantitative MS. We are using the unicellular green alga Chlamydomonas reinhardtii to understand the roles of chaperones in chloroplast biogenesis. The goal of this work was to apply QUICK to Chlamydomonas for the identification of novel interaction partners of vesicle-inducing protein in plastids 1 (VIPP1), a protein required for the biosynthesis/maintenance of thylakoid membranes and known substrate of chloroplast HSP70B. We report here a robust QUICK protocol for Chlamydomonas that has been improved (i) by introducing a cross-linking step (-X) to improve protein complex stability and (ii) by including a control for the correction of unequal immunoprecipitation and/or labeling efficiencies. Using QUICK and cross-linking we could verify that HSP70B and CGE1 form a complex with VIPP1 and could also demonstrate that chloroplast HSP90C is part of this complex. Moreover, we could show that the chaperones interact with VIPP1 also in membrane fractions.
+
+-Animals
+-Chlamydomonas reinhardtii (-chemistry; +metabolism)
+-Chloroplasts (-chemistry; +metabolism)
+-Gene Knockdown Techniques (+methods)
+-HSP70 Heat-Shock Proteins (-metabolism)
+-HSP90 Heat-Shock Proteins (+metabolism)
+-Immunoprecipitation (+methods)
+-Isotope Labeling
+-Mass Spectrometry (-methods)
+-Membrane Proteins (-metabolism)
+-Peptide Fragments (-analysis)
+-Plant Proteins (-metabolism)
+-Protein Interaction Mapping (+methods)
+-Proteome (-metabolism)
+-Proteomics (-methods)
+-Protozoan Proteins (-metabolism)
+-RNA Interference
+-Trypsin (-metabolism)
+
+doi:10.1002/pmic.200800872
+pubmed:19526558
+

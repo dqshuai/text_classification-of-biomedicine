@@ -1,0 +1,24 @@
+Structure
+
+Transformation efficiency of RasQ61 mutants linked to structural features of the switch regions in the presence of Raf.
+
+G Buhrman, G Wink, C Mattos
+
+Transformation efficiencies of Ras mutants at residue 61 range over three orders of magnitude, but the in vitro GTPase activity decreases 10-fold for all mutants. We show that Raf impairs the GTPase activity of RasQ61L, suggesting that the Ras/Raf complex differentially modulates transformation. Our crystal structures show that, in transforming mutants, switch II takes part in a network of hydrophobic interactions burying the nucleotide and precatalytic water molecule. Our results suggest that Y32 and a water molecule bridging it to the gamma-phosphate in the wild-type structure play a role in GTP hydrolysis in lieu of the Arg finger in the absence of GAP. The bridging water molecule is absent in the transforming mutants, contributing to the burying of the nucleotide. We propose a mechanism for intrinsic hydrolysis in Raf-bound Ras and elucidate structural features in the Q61 mutants that correlate with their potency to transform cells.
+
+-Catalysis
+-Crystallography, X-Ray
+-Guanosine Triphosphate (-metabolism)
+-Hydrolysis
+-Models, Molecular
++Mutation
+-Protein Conformation
+-raf Kinases (+metabolism)
+-ras Proteins (-chemistry; +genetics)
+
+pii:S0969-2126(07)00408-X
+doi:10.1016/j.str.2007.10.011
+pubmed:18073111
+mid:NIHMS36083
+pmc:PMC2273997
+

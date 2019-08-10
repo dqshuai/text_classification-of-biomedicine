@@ -1,0 +1,33 @@
+J. Biol. Chem.
+
+Essential role of cofilin-1 in regulating thrombin-induced RelA/p65 nuclear translocation and intercellular adhesion molecule 1 (ICAM-1) expression in endothelial cells.
+
+F Fazal, KM Bijli, M Minhajuddin, T Rein, JN Finkelstein, A Rahman
+
+Activation of RhoA/Rho-associated kinase (ROCK) pathway and the associated changes in actin cytoskeleton induced by thrombin are crucial for activation of NF-kappaB and expression of its target gene ICAM-1 in endothelial cells. However, the events acting downstream of RhoA/ROCK to mediate these responses remain unclear. Here, we show a central role of cofilin-1, an actin-binding protein that promotes actin depolymerization, in linking RhoA/ROCK pathway to dynamic alterations in actin cytoskeleton that are necessary for activation of NF-kappaB and thereby expression of ICAM-1 in these cells. Stimulation of human umbilical vein endothelial cells with thrombin resulted in Ser(3) phosphorylation/inactivation of cofilin and formation of actin stress fibers in a ROCK-dependent manner. RNA interference knockdown of cofilin-1 stabilized the actin filaments and inhibited thrombin- and RhoA-induced NF-kappaB activity. Similarly, constitutively inactive mutant of cofilin-1 (Cof1-S3D), known to stabilize the actin cytoskeleton, inhibited NF-kappaB activity by thrombin. Overexpression of wild type cofilin-1 or constitutively active cofilin-1 mutant (Cof1-S3A), known to destabilize the actin cytoskeleton, also impaired thrombin-induced NF-kappaB activity. Additionally, depletion of cofilin-1 was associated with a marked reduction in ICAM-1 expression induced by thrombin. The effect of cofilin-1 depletion on NF-kappaB activity and ICAM-1 expression occurred downstream of IkappaBalpha degradation and was a result of impaired RelA/p65 nuclear translocation and consequently, RelA/p65 binding to DNA. Together, these data show that cofilin-1 occupies a central position in RhoA-actin pathway mediating nuclear translocation of RelA/p65 and expression of ICAM-1 in endothelial cells.
+
+-Cell Nucleus (-drug effects; +metabolism)
+-Cofilin 1 (+metabolism)
+-Endothelial Cells (-cytology; +drug effects; -enzymology; +metabolism)
+-Gene Knockdown Techniques
+-Humans
+-I-kappa B Proteins (-metabolism)
+-Intercellular Adhesion Molecule-1 (-genetics; +metabolism)
+-Models, Biological
+-Phosphorylation (-drug effects)
+-Promoter Regions, Genetic (-genetics)
+-Protein Kinase Inhibitors (-pharmacology)
+-Protein Processing, Post-Translational (-drug effects)
+-Protein Transport (-drug effects)
+-RNA Interference (-drug effects)
+-Stress Fibers (-drug effects; -metabolism)
+-Thrombin (+pharmacology)
+-Transcription Factor RelA (+metabolism)
+-rho-Associated Kinases (-antagonists & inhibitors)
+-rhoA GTP-Binding Protein (-metabolism)
+
+pii:M109.016444
+doi:10.1074/jbc.M109.016444
+pubmed:19483084
+pmc:PMC2742869
+

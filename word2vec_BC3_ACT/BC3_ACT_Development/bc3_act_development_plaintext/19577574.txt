@@ -1,0 +1,24 @@
+J. Mol. Biol.
+
+Modulation of calmodulin plasticity by the effect of macromolecular crowding.
+
+D Homouz, H Sanabria, MN Waxham, MS Cheung
+
+In vitro biochemical reactions are most often studied in dilute solution, a poor mimic of the intracellular space of eukaryotic cells, which are crowded with mobile and immobile macromolecules. Such crowded conditions exert volume exclusion and other entropic forces that have the potential to impact chemical equilibria and reaction rates. In this article, we used the well-characterized and ubiquitous molecule calmodulin (CaM) and a combination of theoretical and experimental approaches to address how crowding impacts CaM's conformational plasticity. CaM is a dumbbell-shaped molecule that contains four EF hands (two in the N-lobe and two in the C-lobe) that each could bind Ca(2+), leading to stabilization of certain substates that favor interactions with other target proteins. Using coarse-grained molecular simulations, we explored the distribution of CaM conformations in the presence of crowding agents. These predictions, in which crowding effects enhance the population of compact structures, were then confirmed in experimental measurements using fluorescence resonance energy transfer techniques of donor- and acceptor-labeled CaM under normal and crowded conditions. Using protein reconstruction methods, we further explored the folding-energy landscape and examined the structural characteristics of CaM at free-energy basins. We discovered that crowding stabilizes several different compact conformations, which reflects the inherent plasticity in CaM's structure. From these results, we suggest that the EF hands in the C-lobe are flexible and can be thought of as a switch, while those in the N-lobe are stiff, analogous to a rheostat. New combinatorial signaling properties may arise from the product of the differential plasticity of the two distinct lobes of CaM in the presence of crowding. We discuss the implications of these results for modulating CaM's ability to bind Ca(2+) and target proteins.
+
+-Calcium (-metabolism)
+-Calmodulin (+chemistry; -metabolism)
+-Computer Simulation
+-Fluorescence Resonance Energy Transfer
+-Models, Molecular
++Models, Theoretical
+-Protein Binding
++Protein Conformation
+-Thermodynamics
+
+pii:S0022-2836(09)00805-5
+doi:10.1016/j.jmb.2009.06.073
+pubmed:19577574
+mid:NIHMS130298
+pmc:PMC2728162
+

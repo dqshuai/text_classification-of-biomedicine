@@ -1,0 +1,35 @@
+Plant Physiol.
+
+An Rrf2-type transcriptional regulator is required for expression of psaAB genes in the cyanobacterium Synechocystis sp. PCC 6803.
+
+T Midorikawa, K Matsumoto, R Narikawa, M Ikeuchi
+
+Photosynthetic organisms must regulate photosystem stoichiometry (photosystem I-to-photosystem II ratio) under various light conditions. Transcriptional regulation of the psaAB genes is a critical process for this photoacclimation in cyanobacteria. In the course of our screening of transcriptional regulators in the cyanobacterium Synechocystis sp. PCC 6803, we found that chlorophyll accumulation was impaired in an Rrf2-type regulator Slr0846 mutant. DNA microarray and primer extension analyses showed that the expression of psaAB genes was markedly decreased in the mutant. Consistently, the mutant exhibited lower photosystem I-to-photosystem II ratio under normal light conditions, suggestive of decreased accumulation of the photosystem I reaction center. Gel-shift assay confirmed that the Slr0846 protein bound to a far upstream promoter region of psaAB. These phenotypes of the mutant varied substantially with light conditions. These results suggest that Slr0846 is a novel transcriptional regulator for optimal expression of psaAB.
+
+-Bacterial Proteins (-genetics; +metabolism)
+-Chlorophyll (-metabolism)
+-DNA Primers (-metabolism)
+-Electrophoretic Mobility Shift Assay
+-Gene Expression Profiling
++Gene Expression Regulation, Bacterial (-radiation effects)
++Genes, Bacterial
+-Light
+-Mutation (-genetics)
+-Oligonucleotide Array Sequence Analysis
+-Phenotype
+-Photosystem I Protein Complex (-metabolism)
+-Photosystem II Protein Complex (-metabolism)
+-Phycocyanin (-metabolism)
+-Phylogeny
+-Promoter Regions, Genetic (-genetics)
+-Protein Binding (-radiation effects)
+-Recombinant Proteins (-metabolism)
+-Spectrometry, Fluorescence
+-Synechocystis (+genetics; -growth & development; -radiation effects)
++Transcription, Genetic (-radiation effects)
+
+pii:pp.109.141390
+doi:10.1104/pp.109.141390
+pubmed:19692537
+pmc:PMC2754614
+

@@ -1,0 +1,29 @@
+Biochemistry
+
+Structure-dependent charge density as a determinant of antimicrobial activity of peptide analogues of defensin.
+
+Y Bai, S Liu, P Jiang, L Zhou, J Li, C Tang, C Verma, Y Mu, RW Beuerman, K Pervushin
+
+Defensins are small (3-5 kDa) cysteine-rich cationic proteins found in both vertebrates and invertebrates constituting the front line of host innate immunity. Despite intensive research, bactericidal and cytotoxic mechanisms of defensins are still largely unknown. Moreover, we recently demonstrated that small peptides derived from defensins are even more potent bactericidal agents with less toxicity toward host cells. In this paper, structures of three C-terminal (R36-K45) analogues of human beta-defensin-3 were studied by 1H NMR spectroscopy and extensive molecular dynamics simulations. Because of indications that these peptides might target the inner bacterial membrane, they were reconstituted in dodecylphosphocholine or dodecylphosphocholine/1-palmitoyl-2-oleoyl-sn-glycero-3-[phospho-rac-(1-glycerol)] mixed micelles, and lipid bicelles mimicking the phospholipid-constituted bilayer membrane of mammalian and bacterial cells. The results show that the binding affinity and partitioning into the lipid phase and the ability to dimerize and accrete well-defined structures upon interactions with lipid membranes contribute to compactization of positive charges within peptide oligomers. The peptide charge density, mediated by corresponding three-dimensional structures, was found to directly correlate with the antimicrobial activity. These novel observations may provide a new rationale for the design of improved antimicrobial agents.
+
+-Amino Acid Sequence
+-Animals
+-Anti-Infective Agents (+chemistry; -metabolism; -pharmacology)
+-Antimicrobial Cationic Peptides (+chemistry; -genetics; -metabolism; -pharmacology)
+-Computer Simulation
+-Humans
+-Lipid Bilayers (-chemistry)
+-Micelles
+-Microbial Sensitivity Tests
+-Models, Molecular
+-Molecular Sequence Data
+-Molecular Structure
+-Nuclear Magnetic Resonance, Biomolecular
+-Peptides (+chemistry; -genetics; -metabolism; -pharmacology)
++Protein Conformation
+-Pseudomonas aeruginosa (-drug effects)
+-beta-Defensins (+chemistry; -genetics; -metabolism; -pharmacology)
+
+doi:10.1021/bi900670d
+pubmed:19580334
+

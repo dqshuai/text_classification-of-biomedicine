@@ -1,0 +1,27 @@
+Mol. Immunol.
+
+In-silico cell surface modeling reveals mechanism for initial steps of B-cell receptor signal transduction.
+
+G Nudelman, M Weigert, Y Louzoun
+
+Ligand binding to B-cell receptors (BcRs) on the B-cell surface induces crosslinking and phosphorylation of BCRs by the Src family kinases, followed by initiation of signaling. Although the nature of the earliest events following receptor engagement is currently under intensive investigation, the precise connection between crosslinking and the signaling cascade triggering has thus far remained unclear. Using a novel multiscale, agent-based simulation of B-cell surface dynamics, we present a coherent quantitative analysis of the initial stages of B-cell activation following ligand presentation. The simulation reproduces experimental results of H3 uptake, immunoglobulin secretion, immunoelectron photomicrography and FRET. While merging multiple experimental techniques, the simulation captures all essential events in the first twenty seconds following ligand presentation, and is used to make predictions on subsequent molecular events. We show that B-cell activation is mediated through a positive feedback loop between Lyn and ITAM phosphorylation, but that specificity is achieved through a combination of BcR spatial segregation and BcR selective partitioning within lipid rafts following clustering.
+
+-Algorithms
+-Animals
+-B-Lymphocytes (+immunology)
+-Cell Membrane (+immunology)
+-Computer Simulation
+-Humans
+-Immunoglobulin Fragments (-immunology; -metabolism)
+-Ligands
+-Models, Biological
+-Monte Carlo Method
+-Phosphorylation (-immunology)
+-Receptors, Antigen, B-Cell (+immunology)
+-Signal Transduction
+-src-Family Kinases (-immunology; -metabolism)
+
+pii:S0161-5890(09)00164-3
+doi:10.1016/j.molimm.2009.03.027
+pubmed:19631384
+

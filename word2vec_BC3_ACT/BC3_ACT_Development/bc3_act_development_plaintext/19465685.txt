@@ -1,0 +1,27 @@
+RNA
+
+Mitochondrial tRNA import in Trypanosoma brucei is independent of thiolation and the Rieske protein.
+
+Z Paris, MA Rubio, J Lukes, JD Alfonzo
+
+Due to a complete lack of the tRNA genes in the mitochondrial genome of Trypanosoma brucei, all tRNAs needed for mitochondrial translation have to be imported into the organelle from the cytosol. A previous study showed that the modified nucleotide s(2)U could act as a negative determinant for mitochondrial tRNA import in another kinetoplastid, Leishmania tarentolae. We have investigated whether the same type of cytosolic control for tRNA retention exists in T. brucei. Based on Northern analysis with subcellular RNA fractions and in vitro import assays, we demonstrate that silencing of the cysteine desulfurase, TbNfs (TbIscS), the key enzyme in tRNA thiolation (s(2)U) and Fe-S cluster formation in vivo, has no effect on tRNA partitioning. This observation is especially surprising in light of a recent report suggesting that in L. tropica the Rieske Fe-S protein is an essential component of the RNA import complex (RIC). In line with the above observation, we also show that down-regulation of the Rieske protein by RNA interference, similar to the TbNfs knockdowns, has no effect on import. The data presented here supports the view that in T. brucei: (1) s(2)U is not a negative determinant for tRNA import; (2) the Rieske protein is not an essential component of the import machinery, and (3) since the Rieske protein is essential for respiration and maintenance of inner mitochondrial membrane potential, neither process plays a critical role in tRNA import. We therefore suggest that the T. brucei import machinery differs substantially from what has been described in Leishmania.
+
+-Animals
+-Blotting, Northern
+-Carbon-Sulfur Lyases (-antagonists & inhibitors; -genetics; +metabolism)
+-Cytosol (-metabolism)
+-Electron Transport Complex III (+metabolism)
+-Immunoblotting
+-Mitochondria (-genetics; +metabolism)
+-RNA, Protozoan (-genetics; +metabolism)
+-RNA, Small Interfering (-pharmacology)
+-RNA, Transfer (-genetics; +metabolism)
+-Subcellular Fractions
+-Sulfur (+metabolism)
+-Trypanosoma brucei brucei (-genetics; -growth & development; +metabolism)
+
+pii:rna.1589109
+doi:10.1261/rna.1589109
+pubmed:19465685
+pmc:PMC2704085
+

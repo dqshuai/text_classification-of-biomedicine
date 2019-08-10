@@ -1,0 +1,26 @@
+Biochemistry
+
+N-tosyl-L-phenylalanine chloromethyl ketone inhibits NF-kappaB activation by blocking specific cysteine residues of IkappaB kinase beta and p65/RelA.
+
+KH Ha, MS Byun, J Choi, J Jeong, KJ Lee, DM Jue
+
+N-Tosyl-L-phenylalanine chloromethyl ketone (TPCK), a serine/cysteine protease inhibitor, has been reported to inhibit expression of inflammatory mediators by blocking nuclear factor-kappaB (NF-kappaB) activation. We examined the effect of TPCK on the NF-kappaB activation pathway in HeLa cells by measuring the activity of IkappaB kinase (IKK) and p65/RelA-DNA binding. TPCK inhibited tumor necrosis factor-alpha-induced IKK activation and directly blocked IKK activity in vitro. TPCK-induced inhibition of NF-kappaB and IKK activation was abrogated by addition of the thiol-reducing agent dithiothreitol, suggesting that the effect of TPCK occurred through modification of a thiol group in IKK. Consistent with this, an IKKbeta mutant in which Cys-179 was substituted with alanine was not more susceptible to TPCK. Our result also showed that TPCK inhibits the DNA binding of transiently expressed p65/RelA in HeLa cells. Inhibition of p65/RelA-DNA binding was recovered in the presence of dithiothreitol, and substitution of Cys-38 with Ser in p65/RelA rendered the protein resistant to inhibition by TPCK. Mass spectrometry analysis of IKKbeta and p65/RelA isolated from cells treated with TPCK by UPLC-ESI-Q-TOF tandem MS revealed the labeling of Cys-179 of IKKbeta and Cys-38 of p65/RelA with a tosylphenylalanylmethyl group. These results suggest that TPCK inhibits NF-kappaB activation by directly modifying thiol groups on two different targets: Cys-179 of IKKbeta and Cys-38 of p65/RelA.
+
+-Amino Acid Sequence
+-Cysteine (+metabolism)
+-Enzyme Activation
+-Hela Cells
+-Humans
++I-kappa B Kinase (-genetics; -metabolism)
+-Molecular Sequence Data
+-Molecular Structure
+-Mutagenesis, Site-Directed
+-NF-kappa B (-genetics; +metabolism)
+-Serine Proteinase Inhibitors (-chemistry; +metabolism)
+-Tosylphenylalanyl Chloromethyl Ketone (-chemistry; +metabolism)
++Transcription Factor RelA (-genetics; -metabolism)
+-Tumor Necrosis Factor-alpha (-metabolism)
+
+doi:10.1021/bi900660f
+pubmed:19591457
+

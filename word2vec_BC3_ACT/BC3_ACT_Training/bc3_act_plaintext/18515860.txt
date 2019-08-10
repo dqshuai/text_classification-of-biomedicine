@@ -1,0 +1,30 @@
+Mol. Cell Proteomics
+
+Investigation of protein-tyrosine phosphatase 1B function by quantitative proteomics.
+
+P Mertins, HC Eberl, J Renkawitz, JV Olsen, ML Tremblay, M Mann, A Ullrich, H Daub
+
+Because of their antagonistic catalytic functions, protein-tyrosine phosphatases (PTPs) and protein-tyrosine kinases act together to control phosphotyrosine-mediated signaling processes in mammalian cells. However, unlike for protein-tyrosine kinases, little is known about the cellular substrate specificity of many PTPs because of the lack of appropriate methods for the systematic and detailed analysis of cellular PTP function. Even for the most intensely studied, prototypic family member PTP1B many of its physiological functions cannot be explained by its known substrates. To gain better insights into cellular PTP1B function, we used quantitative MS to monitor alterations in the global tyrosine phosphorylation of PTP1B-deficient mouse embryonic fibroblasts in comparison with their wild-type counterparts. In total, we quantified 124 proteins containing 301 phosphotyrosine sites under basal, epidermal growth factor-, or platelet-derived growth factor-stimulated conditions. A subset of 18 proteins was found to harbor hyperphosphorylated phosphotyrosine sites in knock-out cells and was functionally linked to PTP1B. Among these proteins, regulators of cell motility and adhesion are overrepresented, such as cortactin, lipoma-preferred partner, ZO-1, or p120ctn. In addition, regulators of proliferation like p62DOK or p120RasGAP also showed increased cellular tyrosine phosphorylation. Physical interactions of these proteins with PTP1B were further demonstrated by using phosphatase-inactive substrate-trapping mutants in a parallel MS-based analysis. Our results correlate well with the described phenotype of PTP1B-deficient fibroblasts that is characterized by an increase in motility and reduced cell proliferation. The presented study provides a broad overview about phosphotyrosine signaling processes in mouse fibroblasts and, supported by the identification of various new potential substrate proteins, indicates a central role of PTP1B within cellular signaling networks. Importantly the MS-based strategies described here are entirely generic and can be used to address the poorly understood aspects of cellular PTP function.
+
+-Animals
+-Binding Sites
+-Embryo, Mammalian (-cytology; -enzymology)
+-Epidermal Growth Factor (-metabolism)
+-Fibroblasts (-enzymology)
+-Mass Spectrometry (-methods)
+-Mice
+-Mice, Knockout
+-Phosphorylation
+-Phosphotyrosine (-metabolism)
+-Platelet-Derived Growth Factor (-metabolism)
+-Protein Tyrosine Phosphatase, Non-Receptor Type 1 (-genetics; +metabolism)
+-Proteomics (+methods)
+-Signal Transduction
+-Substrate Specificity
++src Homology Domains
+
+pii:M800196-MCP200
+doi:10.1074/mcp.M800196-MCP200
+pubmed:18515860
+pmc:PMC2556021
+

@@ -1,0 +1,19 @@
+J. Neurosci.
+
+How connectivity, background activity, and synaptic properties shape the cross-correlation between spike trains.
+
+S Ostojic, N Brunel, V Hakim
+
+Functional interactions between neurons in vivo are often quantified by cross-correlation functions (CCFs) between their spike trains. It is therefore essential to understand quantitatively how CCFs are shaped by different factors, such as connectivity, synaptic parameters, and background activity. Here, we study the CCF between two neurons using analytical calculations and numerical simulations. We quantify the role of synaptic parameters, such as peak conductance, decay time, and reversal potential, and analyze how various patterns of connectivity influence CCF shapes. In particular, we find that the symmetry of the CCF distinguishes in general, but not always, the case of shared inputs between two neurons from the case in which they are directly synaptically connected. We systematically examine the influence of background synaptic inputs from the surrounding network that set the baseline firing statistics of the neurons and modulate their response properties. We find that variations in the background noise modify the amplitude of the cross-correlation function as strongly as variations of synaptic strength. In particular, we show that the postsynaptic neuron spiking regularity has a pronounced influence on CCF amplitude. This suggests an efficient and flexible mechanism for modulating functional interactions.
+
+-Action Potentials (+physiology)
++Models, Neurological
++Neural Networks (Computer)
+-Neurons (+physiology)
+-Synapses (+physiology)
+-Synaptic Transmission (-physiology)
+
+pii:29/33/10234
+doi:10.1523/JNEUROSCI.1275-09.2009
+pubmed:19692598
+

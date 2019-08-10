@@ -1,0 +1,30 @@
+Mol. Cell
+
+Cellular microRNA and P bodies modulate host-HIV-1 interactions.
+
+R Nathans, CY Chu, AK Serquina, CC Lu, H Cao, TM Rana
+
+MicroRNAs (miRNAs), approximately 22 nt noncoding RNAs, assemble into RNA-induced silencing complexes (RISCs) and localize to cytoplasmic substructures called P bodies. Dictated by base-pair complementarity between miRNA and a target mRNA, miRNAs specifically repress posttranscriptional expression of several mRNAs. Here we report that HIV-1 mRNA interacts with RISC proteins and that disrupting P body structures enhances viral production and infectivity. In HIV-1-infected human T lymphocytes, we identified a highly abundant miRNA, miR-29a, which specifically targets the HIV-1 3'UTR region. Inhibiting miR-29a enhanced HIV-1 viral production and infectivity, whereas expressing a miR-29 mimic suppressed viral replication. We also found that specific miR-29a-HIV-1 mRNA interactions enhance viral mRNA association with RISC and P body proteins. Thus we provide an example of a single host miRNA regulating HIV-1 production and infectivity. These studies highlight the significance of miRNAs and P bodies in modulating host cell interactions with HIV-1 and possibly other viruses.
+
+-Base Sequence
+-Binding Sites
+-Cytoplasmic Structures (-physiology)
+-DEAD-box RNA Helicases (-genetics; -metabolism)
+-HIV-1 (-genetics; -metabolism; +pathogenicity)
+-Humans
+-MicroRNAs (-genetics; -metabolism; +physiology)
+-Molecular Sequence Data
+-Proto-Oncogene Proteins (-genetics; -metabolism)
+-RNA, Messenger (-chemistry; +physiology)
+-RNA, Viral (-chemistry; +physiology)
+-RNA-Induced Silencing Complex (+metabolism)
+-Ribonuclease III (-antagonists & inhibitors)
+-T-Lymphocytes (-virology)
+-Virus Replication
+
+pii:S1097-2765(09)00394-3
+doi:10.1016/j.molcel.2009.06.003
+pubmed:19560422
+mid:NIHMS124945
+pmc:PMC2763548
+

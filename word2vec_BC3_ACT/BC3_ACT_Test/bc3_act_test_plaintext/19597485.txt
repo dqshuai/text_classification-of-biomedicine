@@ -1,0 +1,40 @@
+Nat. Cell Biol.
+
+The CDK4-pRB-E2F1 pathway controls insulin secretion.
+
+JS Annicotte, E Blanchet, C Chavey, I Iankova, S Costes, S Assou, J Teyssier, S Dalle, C Sardet, L Fajas
+
+CDK4-pRB-E2F1 cell-cycle regulators are robustly expressed in non-proliferating beta cells, suggesting that besides the control of beta-cell number the CDK4-pRB-E2F1 pathway has a role in beta-cell function. We show here that E2F1 directly regulates expression of Kir6.2, which is a key component of the K(ATP) channel involved in the regulation of glucose-induced insulin secretion. We demonstrate, through chromatin immunoprecipitation analysis from tissues, that Kir6.2 expression is regulated at the promoter level by the CDK4-pRB-E2F1 pathway. Consistently, inhibition of CDK4, or genetic inactivation of E2F1, results in decreased expression of Kir6.2, impaired insulin secretion and glucose intolerance in mice. Furthermore we show that rescue of Kir6.2 expression restores insulin secretion in E2f1(-/-) beta cells. Finally, we demonstrate that CDK4 is activated by glucose through the insulin pathway, ultimately resulting in E2F1 activation and, consequently, increased expression of Kir6.2. In summary we provide evidence that the CDK4-pRB-E2F1 regulatory pathway is involved in glucose homeostasis, defining a new link between cell proliferation and metabolism.
+
+-Animals
+-Blotting, Western
+-COS Cells
+-Cell Line
+-Cercopithecus aethiops
+-Chromatin Immunoprecipitation
+-Cyclin-Dependent Kinase 4 (+metabolism)
+-E2F1 Transcription Factor (-genetics; +metabolism)
+-Gene Expression Profiling
+-Glucose (-pharmacology)
+-Immunohistochemistry
+-Insulin (+secretion)
+-Islets of Langerhans (-cytology; -drug effects; -metabolism)
+-Mice
+-Mice, Inbred C57BL
+-Mice, Knockout
+-Models, Biological
+-Phosphorylation
+-Potassium Channels, Inwardly Rectifying (-genetics; -metabolism)
+-Protein Binding
+-RNA, Small Interfering (-genetics)
+-Retinoblastoma Protein (+metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
++Signal Transduction
+-Transfection
+
+pii:ncb1915
+doi:10.1038/ncb1915
+pubmed:19597485
+mid:HALMS418907
+pmc:PMC2824657
+

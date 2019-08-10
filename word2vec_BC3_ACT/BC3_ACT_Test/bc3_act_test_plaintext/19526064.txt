@@ -1,0 +1,26 @@
+PLoS ONE
+
+Expression variation: its relevance to emergence of chronic disease and to therapy.
+
+AL Mayburd
+
+BACKGROUND: Stochastic fluctuations in the protein turnover underlie the random emergence of neural precursor cells from initially homogenous cell population. If stochastic alteration of the levels in signal transduction networks is sufficient to spontaneously alter a phenotype, can it cause a sporadic chronic disease as well -- including cancer? METHODS: Expression in >80 disease-free tissue environments was measured using Affymetrix microarray platform comprising 54675 probe-sets. Steps were taken to suppress the technical noise inherent to microarray experiment. Next, the integrated expression and expression variability data were aligned with the mechanistic data covering major human chronic diseases. RESULTS: Measured as class average, variability of expression of disease associated genes measured in health was higher than variability of random genes for all chronic pathologies. Anti-cancer FDA approved targets were displaying much higher variability as a class compared to random genes. Same held for magnitude of gene expression. The genes known to participate in multiple chronic disorders demonstrated the highest variability. Disease-related gene categories displayed on average more intricate regulation of biological function vs random reference, were enriched in adaptive and transient functions as well as positive feedback relationships. CONCLUSIONS: A possible causative link can be suggested between normal (healthy) state gene expression variation and inception of major human pathologies, including cancer. Study of variability profiles may lead to novel diagnostic methods, therapies and better drug target prioritization. The results of the study suggest the need to advance personalized therapy development.
+
+-Antineoplastic Agents (+pharmacology)
+-Chronic Disease (+therapy)
+-Computational Biology (-methods)
+-Escherichia coli (-metabolism)
++Gene Expression Profiling
+-Gene Expression Regulation, Neoplastic (+drug effects)
+-Genome
+-Humans
+-Oligonucleotide Array Sequence Analysis
+-Phenotype
+-Signal Transduction
+-Stochastic Processes
+-Treatment Outcome
+
+doi:10.1371/journal.pone.0005921
+pubmed:19526064
+pmc:PMC2692004
+

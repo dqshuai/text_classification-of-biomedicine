@@ -1,0 +1,25 @@
+PLoS Comput. Biol.
+
+What a plant sounds like: the statistics of vegetation echoes as received by echolocating bats.
+
+Y Yovel, P Stilz, MO Franz, A Boonman, HU Schnitzler
+
+A critical step on the way to understanding a sensory system is the analysis of the input it receives. In this work we examine the statistics of natural complex echoes, focusing on vegetation echoes. Vegetation echoes constitute a major part of the sensory world of more than 800 species of echolocating bats and play an important role in several of their daily tasks. Our statistical analysis is based on a large collection of plant echoes acquired by a biomimetic sonar system. We explore the relation between the physical world (the structure of the plant) and the characteristics of its echo. Finally, we complete the story by analyzing the effect of the sensory processing of both the echolocation and the auditory systems on the echoes and interpret them in the light of information maximization. The echoes of all different plant species we examined share a surprisingly robust pattern that was also reproduced by a simple Poisson model of the spatial reflector arrangement. The fine differences observed between the echoes of different plant species can be explained by the spatial characteristics of the plants. The bat's emitted signal enhances the most informative spatial frequency range where the species-specific information is large. The auditory system filtering affects the echoes in a similar way, thus enhancing the most informative spatial frequency range even more. These findings suggest how the bat's sensory system could have evolved to deal with complex natural echoes.
+
++Acoustics
+-Animals
+-Chiroptera (+physiology)
+-Cluster Analysis
+-Echolocation (+physiology)
+-Infrared Rays
++Models, Biological
+-Models, Statistical
+-Plant Leaves
++Plant Physiological Phenomena
+-Poisson Distribution
+-Trees
+
+doi:10.1371/journal.pcbi.1000429
+pubmed:19578430
+pmc:PMC2699101
+

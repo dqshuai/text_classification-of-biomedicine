@@ -1,0 +1,22 @@
+J. Mol. Biol.
+
+Sampling bottlenecks in de novo protein structure prediction.
+
+DE Kim, B Blum, P Bradley, D Baker
+
+The primary obstacle to de novo protein structure prediction is conformational sampling: the native state generally has lower free energy than nonnative structures but is exceedingly difficult to locate. Structure predictions with atomic level accuracy have been made for small proteins using the Rosetta structure prediction method, but for larger and more complex proteins, the native state is virtually never sampled, and it has been unclear how much of an increase in computing power would be required to successfully predict the structures of such proteins. In this paper, we develop an approach to determining how much computer power is required to accurately predict the structure of a protein, based on a reformulation of the conformational search problem as a combinatorial sampling problem in a discrete feature space. We find that conformational sampling for many proteins is limited by critical "linchpin" features, often the backbone torsion angles of individual residues, which are sampled very rarely in unbiased trajectories and, when constrained, dramatically increase the sampling of the native state. These critical features frequently occur in less regular and likely strained regions of proteins that contribute to protein function. In a number of proteins, the linchpin features are in regions found experimentally to form late in folding, suggesting a correspondence between folding in silico and in reality.
+
+-Algorithms
+-Computational Biology (+methods)
++Computer Simulation
+-Models, Molecular
+-Protein Conformation
+-Protein Structure, Tertiary
+-Proteins (+chemistry)
+
+pii:S0022-2836(09)00930-9
+doi:10.1016/j.jmb.2009.07.063
+pubmed:19646450
+mid:NIHMS135976
+pmc:PMC2760740
+

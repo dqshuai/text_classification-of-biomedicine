@@ -1,0 +1,26 @@
+Plant Physiol.
+
+HORMONOMETER: a tool for discerning transcript signatures of hormone action in the Arabidopsis transcriptome.
+
+D Volodarsky, N Leviatan, A Otcheretianski, R Fluhr
+
+Plant hormones regulate growth and responses to environmental change. Hormone action ultimately modifies cellular physiological processes and gene activity. To facilitate transcriptome evaluation of novel mutants and environmental responses, there is a need to rapidly assess the possible contribution of hormone action to changes in the levels of gene transcripts. We developed a vector-based algorithm that rapidly compares lists of transcripts yielding correlation values. The application as described here, called HORMONOMETER, was used to analyze hormone-related activity in a transcriptome of Arabidopsis (Arabidopsis thaliana). The veracity of the resultant analysis was established by comparison with cognate and noncognate hormone transcriptomes as well as with mutants and selected plant-environment interactions. The HORMONOMETER accurately predicted correlations between hormone action and biosynthetic mutants for which transcriptome data are available. A high degree of correlation was detected between many hormones, particularly at early time points of hormone action. Unforeseen complexity was detected in the analysis of mutants and in plant-herbivore interactions. The HORMONOMETER provides a diagnostic tool for evaluating the physiological state of being of the plant from the point of view of transcripts regulated by hormones and yields biological insight into the multiple response components that enable plant adaptation to the environment. A Web-based interface has been developed to facilitate external interfacing with this platform.
+
++Algorithms
+-Arabidopsis (+genetics)
+-Calibration
+-Cluster Analysis
+-Computational Biology (+methods)
+-Gene Expression Profiling (+methods)
+-Gene Expression Regulation, Plant
+-Host-Pathogen Interactions (-genetics)
+-Mutation (-genetics)
+-Plant Growth Regulators (+genetics)
+-RNA, Messenger (-genetics; -metabolism)
+-Signal Transduction (-genetics)
+
+pii:pp.109.138289
+doi:10.1104/pp.109.138289
+pubmed:19535475
+pmc:PMC2719125
+

@@ -1,0 +1,32 @@
+BMC Genomics
+
+Comparative genomics of the emerging human pathogen Photorhabdus asymbiotica with the insect pathogen Photorhabdus luminescens.
+
+P Wilkinson, NR Waterfield, L Crossman, C Corton, M Sanchez-Contreras, I Vlisidou, A Barron, A Bignell, L Clark, D Ormond, M Mayho, N Bason, F Smith, M Simmonds, C Churcher, D Harris, NR Thompson, M Quail, J Parkhill, RH Ffrench-Constant
+
+BACKGROUND: The Gram-negative bacterium Photorhabdus asymbiotica (Pa) has been recovered from human infections in both North America and Australia. Recently, Pa has been shown to have a nematode vector that can also infect insects, like its sister species the insect pathogen P. luminescens (Pl). To understand the relationship between pathogenicity to insects and humans in Photorhabdus we have sequenced the complete genome of Pa strain ATCC43949 from North America. This strain (formerly referred to as Xenorhabdus luminescens strain 2) was isolated in 1977 from the blood of an 80 year old female patient with endocarditis, in Maryland, USA. Here we compare the complete genome of Pa ATCC43949 with that of the previously sequenced insect pathogen P. luminescens strain TT01 which was isolated from its entomopathogenic nematode vector collected from soil in Trinidad and Tobago. RESULTS: We found that the human pathogen Pa had a smaller genome (5,064,808 bp) than that of the insect pathogen Pl (5,688,987 bp) but that each pathogen carries approximately one megabase of DNA that is unique to each strain. The reduced size of the Pa genome is associated with a smaller diversity in insecticidal genes such as those encoding the Toxin complexes (Tc's), Makes caterpillars floppy (Mcf) toxins and the Photorhabdus Virulence Cassettes (PVCs). The Pa genome, however, also shows the addition of a plasmid related to pMT1 from Yersinia pestis and several novel pathogenicity islands including a novel Type Three Secretion System (TTSS) encoding island. Together these data suggest that Pa may show virulence against man via the acquisition of the pMT1-like plasmid and specific effectors, such as SopB, that promote its persistence inside human macrophages. Interestingly the loss of insecticidal genes in Pa is not reflected by a loss of pathogenicity towards insects. CONCLUSION: Our results suggest that North American isolates of Pa have acquired virulence against man via the acquisition of a plasmid and specific virulence factors with similarity to those shown to play roles in pathogenicity against humans in other bacteria.
+
+-Animals
+-Cell Line
+-Communicable Diseases, Emerging (-microbiology)
++Comparative Genomic Hybridization
+-DNA, Bacterial (-genetics)
+-Enterobacteriaceae Infections (-microbiology)
++Genome, Bacterial
+-Genomic Islands
+-Genomics
+-Humans
+-Mice
+-Moths (-microbiology)
+-North America
+-Photorhabdus (+genetics; -isolation & purification; +pathogenicity)
+-Plasmids
+-Sequence Analysis, DNA
+-Species Specificity
+-Virulence
+
+pii:1471-2164-10-302
+doi:10.1186/1471-2164-10-302
+pubmed:19583835
+pmc:PMC2717986
+

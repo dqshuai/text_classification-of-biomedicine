@@ -1,0 +1,32 @@
+Mol. Cell. Biol.
+
+The RASSF1A tumor suppressor restrains anaphase-promoting complex/cyclosome activity during the G1/S phase transition to promote cell cycle progression in human epithelial cells.
+
+AW Whitehurst, R Ram, L Shivakumar, B Gao, JD Minna, MA White
+
+Multiple molecular lesions in human cancers directly collaborate to deregulate proliferation and suppress apoptosis to promote tumorigenesis. The candidate tumor suppressor RASSF1A is commonly inactivated in a broad spectrum of human tumors and has been implicated as a pivotal gatekeeper of cell cycle progression. However, a mechanistic account of the role of RASSF1A gene inactivation in tumor initiation is lacking. Here we have employed loss-of-function analysis in human epithelial cells for a detailed investigation of the contribution of RASSF1 to cell cycle progression. We found that RASSF1A has dual opposing regulatory connections to G(1)/S phase cell cycle transit. RASSF1A associates with the Ewing sarcoma breakpoint protein, EWS, to limit accumulation of cyclin D1 and restrict exit from G(1). Surprisingly, we found that RASSF1A is also required to restrict SCF(betaTrCP) activity to allow G/S phase transition. This restriction is required for accumulation of the anaphase-promoting complex/cyclosome (APC/C) inhibitor Emi1 and the concomitant block of APC/C-dependent cyclin A turnover. The consequence of this relationship is inhibition of cell cycle progression in normal epithelial cells upon RASSF1A depletion despite elevated cyclin D1 concentrations. Progression to tumorigenicity upon RASSF1A gene inactivation should therefore require collaborating genetic aberrations that bypass the consequences of impaired APC/C regulation at the G(1)/S phase cell cycle transition.
+
+-Base Sequence
+-Cell Cycle (+physiology)
+-Cell Cycle Proteins (-genetics; -metabolism)
+-DNA Primers (-genetics)
+-Epithelial Cells (-cytology; -metabolism)
+-F-Box Proteins (-genetics; -metabolism)
+-G1 Phase
+-Hela Cells
+-Humans
+-RNA, Small Interfering (-genetics)
+-RNA-Binding Protein EWS (-genetics; -metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-S Phase
+-Transfection
+-Tumor Suppressor Proteins (-antagonists & inhibitors; -genetics; +physiology)
+-Two-Hybrid System Techniques
+-Ubiquitin-Protein Ligase Complexes (+metabolism)
+-beta-Transducin Repeat-Containing Proteins (-antagonists & inhibitors; -genetics; -metabolism)
+
+pii:MCB.02291-07
+doi:10.1128/MCB.02291-07
+pubmed:18347058
+pmc:PMC2423179
+

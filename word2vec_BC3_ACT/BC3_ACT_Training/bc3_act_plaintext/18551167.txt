@@ -1,0 +1,30 @@
+PLoS Genet.
+
+Regulation and role of Arabidopsis CUL4-DDB1A-DDB2 in maintaining genome integrity upon UV stress.
+
+J Molinier, E Lechner, E Dumbliauskas, P Genschik
+
+Plants use the energy in sunlight for photosynthesis, but as a consequence are exposed to the toxic effect of UV radiation especially on DNA. The UV-induced lesions on DNA affect both transcription and replication and can also have mutagenic consequences. Here we investigated the regulation and the function of the recently described CUL4-DDB1-DDB2 E3 ligase in the maintenance of genome integrity upon UV-stress using the model plant Arabidopsis. Physiological, biochemical, and genetic evidences indicate that this protein complex is involved in global genome repair (GGR) of UV-induced DNA lesions. Moreover, we provide evidences for crosstalks between GGR, the plant-specific photo reactivation pathway and the RAD1-RAD10 endonucleases upon UV exposure. Finally, we report that DDB2 degradation upon UV stress depends not only on CUL4, but also on the checkpoint protein kinase Ataxia telangiectasia and Rad3-related (ATR). Interestingly, we found that DDB1A shuttles from the cytoplasm to the nucleus in an ATR-dependent manner, highlighting an upstream level of control and a novel mechanism of regulation of this E3 ligase.
+
+-Arabidopsis (-genetics; -growth & development; -metabolism; +radiation effects)
+-Arabidopsis Proteins (-analysis; -genetics; +metabolism)
+-Calcium-Binding Proteins (-genetics; -metabolism)
+-Cell Cycle Proteins (-metabolism)
+-Cullin Proteins (-analysis; -genetics; +metabolism)
+-DNA Damage (-radiation effects)
+-DNA Repair (-radiation effects)
+-DNA-Binding Proteins (-analysis; -genetics; +metabolism)
+-Gene Expression Regulation, Plant (-radiation effects)
+-Genome, Plant (+radiation effects)
+-Mutagenesis, Insertional
+-Plants, Genetically Modified (-genetics; -growth & development; -metabolism; -radiation effects)
+-Protein Transport
+-Protein-Serine-Threonine Kinases (-metabolism)
+-Radiation Tolerance
+-Transcription Factors (-genetics; -metabolism)
++Ultraviolet Rays
+
+doi:10.1371/journal.pgen.1000093
+pubmed:18551167
+pmc:PMC2396500
+

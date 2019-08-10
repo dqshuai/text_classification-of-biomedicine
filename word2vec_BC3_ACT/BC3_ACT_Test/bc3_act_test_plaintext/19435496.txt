@@ -1,0 +1,26 @@
+BMC Genomics
+
+Ixodes scapularis tick serine proteinase inhibitor (serpin) gene family; annotation and transcriptional analysis.
+
+A Mulenga, R Khumthong, KC Chalaire
+
+BACKGROUND: Serine proteinase inhibitors (Serpins) are a large superfamily of structurally related, but functionally diverse proteins that control essential proteolytic pathways in most branches of life. Given their importance in the biology of many organisms, the concept that ticks might utilize serpins to evade host defenses and immunizing against or disrupting their functions as targets for tick control is an appealing option. RESULTS: A sequence homology search strategy has allowed us to identify at least 45 tick serpin genes in the Ixodes scapularis genome that are structurally segregated into 32 intronless and 13 intron-containing genes. Nine of the intron-containing serpins occur in a cluster of 11 genes that span 170 kb of DNA sequence. Based on consensus amino acid residues in the reactive center loop (RCL) and signal peptide scanning, 93% are putatively inhibitory while 82% are putatively extracellular. Among the 11 different amino acid residues that are predicted at the P1 sites, 16 sequences possess basic amino acid (R/K) residues. Temporal and spatial expression analyses revealed that 40 of the 45 serpins are differentially expressed in salivary glands (SG) and/or midguts (MG) of unfed and partially fed ticks. Ten of the 38 serpin genes were expressed from six to 24 hrs of feeding while six and fives genes each are predominantly or exclusively expressed in either MG and SG respectively. CONCLUSION: Given the diversity among tick species, sizes of tick serpin families are likely to be variable. However this study provides insight on the potential sizes of serpin protein families in ticks. Ticks must overcome inflammation, complement activation and blood coagulation to complete feeding. Since these pathways are regulated by serpins that have basic residues at their P1 sites, we speculate that I. scapularis may utilize some of the serpins reported in this study to manipulate host defense. We have discussed our data in the context of advances on the molecular physiology of I. scapularis. Although the paper is descriptive, this study provides the first step toward a comprehensive understanding of serpins in tick physiology.
+
+-Amino Acid Sequence
+-Animals
+-Computational Biology
+-Gene Expression Profiling
+-Ixodes (+genetics)
+-Molecular Sequence Data
++Multigene Family
+-Phylogeny
+-Sequence Alignment
+-Sequence Analysis, DNA
+-Serine Proteinase Inhibitors (+genetics)
+-Serpins (+genetics)
+
+pii:1471-2164-10-217
+doi:10.1186/1471-2164-10-217
+pubmed:19435496
+pmc:PMC2689274
+

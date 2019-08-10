@@ -1,0 +1,27 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Ubc13/Rnf8 ubiquitin ligases control foci formation of the Rap80/Abraxas/Brca1/Brcc36 complex in response to DNA damage.
+
+B Wang, SJ Elledge
+
+The Brca1 A complex contains Brca1/Bard1, Abraxas, Rap80, and Brcc36; however, with the exception of the Brca1-Abraxas interaction, how the A complex is assembled is not known. The A complex is localized to sites of DNA damage through the UIM domains of RAP80, which bind K63-linked polyubiquitin chains. In this study, we identified an FHA domain RING finger E3 ubiquitin ligase, RNF8, and an E2-conjugating enzyme known to form K63-polyubiquitin chains, Ubc13, each of which is required to recruit the Brca1 A complex to sites of DNA damage. Rnf8 localizes to sites of DNA damage through an FHA-domain-containing region. We found that Rap80 contains an Abraxas interaction domain [AIR (Abraxas-interacting region)], required for association of Rap80 with Abraxas, Brca1, and Brcc36. Abraxas and Brcc36 associate through coiled-coil domains on each protein. These data suggest a model through which Ubc13 and Rnf8 are recruited to sites of DNA damage through DNA-damage-induced phosphorylation of a chromatin-associated protein and generate polyubiquitin chains that then recruit Rap80 and the entire Brca1 A complex to DNA-damage foci. This sequential E3 ubiquitin ligase recruitment constitutes a ubiquitin ligase cascade required for DNA repair and checkpoint signaling.
+
+-BRCA1 Protein (+metabolism)
+-Carrier Proteins (+metabolism)
+-Cell Line, Tumor
++DNA Damage
+-DNA-Binding Proteins (+chemistry; +physiology)
++Gene Expression Regulation, Neoplastic
+-Hela Cells
+-Humans
+-Membrane Proteins (+metabolism)
+-Models, Biological
+-Models, Genetic
+-Nuclear Proteins (+metabolism)
+-Ubiquitin-Conjugating Enzymes (-chemistry; +physiology)
+
+pii:0710061104
+doi:10.1073/pnas.0710061104
+pubmed:18077395
+pmc:PMC2410075
+

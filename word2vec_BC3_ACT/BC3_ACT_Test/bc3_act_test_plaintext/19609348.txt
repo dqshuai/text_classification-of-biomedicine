@@ -1,0 +1,23 @@
+PLoS Comput. Biol.
+
+Computational analysis of viscoelastic properties of crosslinked actin networks.
+
+T Kim, W Hwang, H Lee, RD Kamm
+
+Mechanical force plays an important role in the physiology of eukaryotic cells whose dominant structural constituent is the actin cytoskeleton composed mainly of actin and actin crosslinking proteins (ACPs). Thus, knowledge of rheological properties of actin networks is crucial for understanding the mechanics and processes of cells. We used Brownian dynamics simulations to study the viscoelasticity of crosslinked actin networks. Two methods were employed, bulk rheology and segment-tracking rheology, where the former measures the stress in response to an applied shear strain, and the latter analyzes thermal fluctuations of individual actin segments of the network. It was demonstrated that the storage shear modulus (G') increases more by the addition of ACPs that form orthogonal crosslinks than by those that form parallel bundles. In networks with orthogonal crosslinks, as crosslink density increases, the power law exponent of G' as a function of the oscillation frequency decreases from 0.75, which reflects the transverse thermal motion of actin filaments, to near zero at low frequency. Under increasing prestrain, the network becomes more elastic, and three regimes of behavior are observed, each dominated by different mechanisms: bending of actin filaments, bending of ACPs, and at the highest prestrain tested (55%), stretching of actin filaments and ACPs. In the last case, only a small portion of actin filaments connected via highly stressed ACPs support the strain. We thus introduce the concept of a 'supportive framework,' as a subset of the full network, which is responsible for high elasticity. Notably, entropic effects due to thermal fluctuations appear to be important only at relatively low prestrains and when the average crosslinking distance is comparable to or greater than the persistence length of the filament. Taken together, our results suggest that viscoelasticity of the actin network is attributable to different mechanisms depending on the amount of prestrain.
+
+-Actins (+chemistry)
+-Biomechanics
+-Cytoskeleton (+chemistry)
+-Elasticity
++Models, Chemical
+-Models, Molecular
+-Rheology (-methods)
+-Stress, Mechanical
+-Thermodynamics
+-Viscosity
+
+doi:10.1371/journal.pcbi.1000439
+pubmed:19609348
+pmc:PMC2703781
+

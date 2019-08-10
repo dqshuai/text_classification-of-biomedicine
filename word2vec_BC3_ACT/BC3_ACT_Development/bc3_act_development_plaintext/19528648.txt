@@ -1,0 +1,23 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Reproductive decisions under ecological constraints: it's about time.
+
+PA Gowaty, SP Hubbell
+
+The switch point theorem (SPT) is the quantitative statement of the hypothesis that stochastic effects on survival, mate encounter, and latency affect individuals' time available for mating, the mean and variance in fitness, and thus, originally favored the evolution of individuals able to make adaptively flexible reproductive decisions. The SPT says that demographic stochasticity acting through variation in (i) individual survival probability, s; (ii) individual encounter probability, e; (iii) latency, l; (iv) the number of potential mates in the population, n; and (v) the distribution of fitness conferred, the w distribution, together affect average lifetime fitness, and induce adaptive switches in individual reproductive decisions. The switch point is the rank of potential mates at which focal individuals switch from accepting to rejecting potential mates, a decision rule that the SPT proves maximizes the average lifetime fitness of a focal individual under given values of ecological constraints on time. The SPT makes many predictions, including that the shape of the distribution of fitness conferred affects individual switch points. All else equal, higher probabilities of individual survival and encounter decrease the fraction of acceptable potential mates, such that focal individuals achieve higher average lifetime fitness by rejecting more potential mates. The primary prediction of the SPT is that each decision a focal individual makes is determined jointly by e, s, l, n, and the w distribution.
+
+-Animals
++Ecosystem
++Evolution
+-Female
+-Male
+-Mating Preference, Animal (+physiology)
++Models, Biological
++Pair Bond
+-Reproduction (-physiology)
+
+pii:0901130106
+doi:10.1073/pnas.0901130106
+pubmed:19528648
+pmc:PMC2702798
+

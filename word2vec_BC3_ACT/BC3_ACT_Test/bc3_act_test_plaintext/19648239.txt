@@ -1,0 +1,23 @@
+J. Bacteriol.
+
+Homologues of the Bacillus subtilis SpoVB protein are involved in cell wall metabolism.
+
+P Vasudevan, J McElligott, C Attkisson, M Betteken, DL Popham
+
+Members of the COG2244 protein family are integral membrane proteins involved in synthesis of a variety of extracellular polymers. In several cases, these proteins have been suggested to move lipid-linked oligomers across the membrane or, in the case of Escherichia coli MviN, to flip the lipid II peptidoglycan precursor. Bacillus subtilis SpoVB was the first member of this family implicated in peptidoglycan synthesis and is required for spore cortex polymerization. Three other COG2244 members with high similarity to SpoVB are encoded within the B. subtilis genome. Mutant strains lacking any or all of these genes (yabM, ykvU, and ytgP) in addition to spoVB are viable and produce apparently normal peptidoglycan, indicating that their function is not essential in B. subtilis. Phenotypic changes associated with loss of two of these genes suggest that they function in peptidoglycan synthesis. Mutants lacking YtgP produce long cells and chains of cells, suggesting a role in cell division. Mutants lacking YabM exhibit sensitivity to moenomycin, an antibiotic that blocks peptidoglycan polymerization by class A penicillin-binding proteins. This result suggests that YabM may function in a previously observed alternate pathway for peptidoglycan strand synthesis.
+
+-Bacillus subtilis (-genetics; +metabolism)
+-Bacterial Proteins (-genetics; +physiology)
+-Cell Division (-genetics)
+-Cell Wall (-genetics; +metabolism)
+-Computational Biology
+-Membrane Proteins (-genetics; +physiology)
+-Microscopy, Fluorescence
+-Mutation
+-Peptidoglycan (-genetics; -metabolism)
+
+pii:JB.00604-09
+doi:10.1128/JB.00604-09
+pubmed:19648239
+pmc:PMC2747891
+

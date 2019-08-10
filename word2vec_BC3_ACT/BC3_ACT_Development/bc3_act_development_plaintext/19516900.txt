@@ -1,0 +1,26 @@
+PLoS ONE
+
+AllerHunter: a SVM-pairwise system for assessment of allergenicity and allergic cross-reactivity in proteins.
+
+HC Muh, JC Tong, MT Tammi
+
+Allergy is a major health problem in industrialized countries. The number of transgenic food crops is growing rapidly creating the need for allergenicity assessment before they are introduced into human food chain. While existing bioinformatic methods have achieved good accuracies for highly conserved sequences, the discrimination of allergens and non-allergens from allergen-like non-allergen sequences remains difficult. We describe AllerHunter, a web-based computational system for the assessment of potential allergenicity and allergic cross-reactivity in proteins. It combines an iterative pairwise sequence similarity encoding scheme with SVM as the discriminating engine. The pairwise vectorization framework allows the system to model essential features in allergens that are involved in cross-reactivity, but not limited to distinct sets of physicochemical properties. The system was rigorously trained and tested using 1,356 known allergen and 13,449 putative non-allergen sequences. Extensive testing was performed for validation of the prediction models. The system is effective for distinguishing allergens and non-allergens from allergen-like non-allergen sequences. Testing results showed that AllerHunter, with a sensitivity of 83.4% and specificity of 96.4% (accuracy = 95.3%, area under the receiver operating characteristic curve AROC = 0.928+/-0.004 and Matthew's correlation coefficient MCC = 0.738), performs significantly better than a number of existing methods using an independent dataset of 1443 protein sequences. AllerHunter is available at (http://tiger.dbs.nus.edu.sg/AllerHunter).
+
+-Algorithms
+-Allergens (+chemistry)
+-Computational Biology (+methods)
+-Databases, Protein
+-Humans
+-Hypersensitivity (+diagnosis; +genetics)
+-Models, Statistical
+-Protein Folding
+-ROC Curve
+-Reproducibility of Results
+-Sensitivity and Specificity
+-Sequence Analysis, Protein
+-Software
+
+doi:10.1371/journal.pone.0005861
+pubmed:19516900
+pmc:PMC2689655
+

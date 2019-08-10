@@ -1,0 +1,30 @@
+Cell
+
+Control of inducible gene expression by signal-dependent transcriptional elongation.
+
+DC Hargreaves, T Horng, R Medzhitov
+
+Most inducible transcriptional programs consist of primary and secondary response genes (PRGs and SRGs) that differ in their kinetics of expression and in their requirements for new protein synthesis and chromatin remodeling. Here we show that many PRGs, in contrast to SRGs, have preassembled RNA polymerase II (Pol II) and positive histone modifications at their promoters in the basal state. Pol II at PRGs generates low levels of full-length unspliced transcripts but fails to make mature, protein-coding transcripts in the absence of stimulation. Induction of PRGs is controlled at the level of transcriptional elongation and mRNA processing, through the signal-dependent recruitment of P-TEFb. P-TEFb is in turn recruited by the bromodomain-containing protein Brd4, which detects H4K5/8/12Ac inducibly acquired at PRG promoters. Our findings suggest that the permissive structure of PRGs both stipulates their unique regulation in the basal state by corepressor complexes and enables their rapid induction in multiple cell types.
+
+-Animals
+-Cell Line
++Chromatin Assembly and Disassembly
+-Histone Code
+-Histones (-metabolism)
+-Humans
+-Lipopolysaccharides (-immunology; -metabolism)
+-Macrophages (-metabolism)
+-Mice
+-Mice, Inbred C57BL
+-Phosphorylation
+-Protein Structure, Tertiary
+-RNA Polymerase II (-chemistry; -metabolism)
++Regulatory Sequences, Nucleic Acid
++Transcriptional Activation
+
+pii:S0092-8674(09)00652-7
+doi:10.1016/j.cell.2009.05.047
+pubmed:19596240
+mid:NIHMS132165
+pmc:PMC2828818
+

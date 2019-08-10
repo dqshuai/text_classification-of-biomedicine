@@ -1,0 +1,26 @@
+DNA Repair (Amst.)
+
+Role of APE1 in differentiated neuroblastoma SH-SY5Y cells in response to oxidative stress: use of APE1 small molecule inhibitors to delineate APE1 functions.
+
+Y Jiang, C Guo, ML Fishel, ZY Wang, MR Vasko, MR Kelley
+
+Oxidative DNA damage has been implicated in a number of central nervous system pathologies. The base excision repair (BER) pathway is one of the most important cellular protection mechanisms that respond to oxidative DNA damage. Human apurinic (apyrimidinic) endonuclease/redox effector factor (APE1/Ref-1 or APE1) is an essential enzyme in the BER pathway and is expressed in both mitotic and post-mitotic cells in humans. In neurons, a reduction of APE1 expression increases chemotherapy-induced cytotoxicity, while overexpression of APE1 protects cells against the cytotoxicity. However, given the multiple functions of APE1, knockdown of total APE1 is not completely informative of whether it is the redox or DNA repair activity, or interactions with other proteins. Therefore, the use of selective small molecules that can block each function independent of the other is of great benefit in ascertaining APE1 function in post-mitotic cells. In this study, we chose differentiated SH-SY5Y cells as our post-mitotic cell line model to investigate whether a drug-induced decrease in APE1 DNA repair or redox activity contributes to the growth and survival of post-mitotic cells under oxidative DNA damaging conditions. Here, we demonstrate that overexpression of WT-APE1 or C65-APE1 (repair competent) results in significant increase in cell viability after exposure to H(2)O(2). However, the 177/226-APE1 (repair deficient) did not show a protective effect. This phenomenon was further confirmed by the use of methoxyamine (MX), which blocks the repair activity of APE1 that results in enhanced cell killing and apoptosis in differentiated SH-SY5Y cells and in neuronal cultures after oxidative DNA damaging treatments. Blocking APE1 redox function by a small molecule inhibitor, BQP did not decrease viability of SH-SY5Y cells or neuronal cultures following oxidative DNA damaging treatments. Our results demonstrate that the DNA repair function of APE1 contributes to the survival of nondividing post-mitotic cells following oxidative DNA damage.
+
+-Cell Differentiation
+-Cell Line, Tumor
+-Cell Survival (-drug effects)
+-DNA Damage
++DNA Repair
+-DNA-(Apurinic or Apyrimidinic Site) Lyase (-antagonists & inhibitors; +metabolism)
+-Humans
+-Hydrogen Peroxide (-pharmacology)
+-Hydroxylamines (-pharmacology)
+-Neuroblastoma (+metabolism; -pathology)
++Oxidative Stress
+
+pii:S1568-7864(09)00214-6
+doi:10.1016/j.dnarep.2009.08.003
+pubmed:19726241
+mid:NIHMS139285
+pmc:PMC2765866
+

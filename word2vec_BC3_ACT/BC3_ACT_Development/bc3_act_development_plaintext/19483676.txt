@@ -1,0 +1,36 @@
+Nature
+
+Genome-wide silencing in Drosophila captures conserved apoptotic effectors.
+
+SK Chew, P Chen, N Link, KA Galindo, K Pogue, JM Abrams
+
+Apoptosis is a conserved form of programmed cell death firmly established in the aetiology, pathogenesis and treatment of many human diseases. Central to the core machinery of apoptosis are the caspases and their proximal regulators. Current models for caspase control involve a balance of opposing elements, with variable contributions from positive and negative regulators among different cell types and species. To advance a comprehensive view of components that support caspase-dependent cell death, we conducted a genome-wide silencing screen in the Drosophila model. Our strategy used a library of double-stranded RNAs together with a chemical antagonist of Inhibitor of apoptosis proteins (IAPs) that simulates the action of native regulators in the Reaper and Smac (also known as Diablo) families. Here we present a highly validated set of targets that is necessary for death provoked by several stimuli. Among these, Tango7 is identified as a new effector. Cells depleted for this gene resisted apoptosis at a step before the induction of effector caspase activity, and the directed silencing of Tango7 in Drosophila prevented caspase-dependent programmed cell death. Unlike known apoptosis regulators in this model system, Tango7 activity did not influence stimulus-dependent loss of Drosophila DIAP1 (also known as th and IAP1), but instead regulated levels of the apical caspase Dronc (Nc). Similarly, the human Tango7 counterpart, PCID1 (also known as EIF3M), impinged on caspase 9, revealing a new regulatory axis affecting the apoptosome.
+
+-Animals
+-Apoptosis (+genetics; +physiology)
+-Apoptosomes (-metabolism)
+-Aryl Hydrocarbon Receptor Nuclear Translocator (-genetics; +metabolism)
+-Caspase 9 (-metabolism)
+-Caspases (-metabolism)
+-Conserved Sequence
+-Drosophila Proteins (-deficiency; -genetics; +metabolism)
+-Drosophila melanogaster (+genetics)
+-Eukaryotic Initiation Factors (+metabolism)
++Gene Silencing
+-Genes, Insect (-genetics)
+-Genome, Insect (+genetics)
+-Humans
+-Inhibitor of Apoptosis Proteins (-antagonists & inhibitors; -genetics; -metabolism)
+-Mitochondrial Proteins
+-Molecular Mimicry
+-RNA Interference
+-RNA, Double-Stranded (-genetics)
+-Reproducibility of Results
+-Xenopus Proteins
+
+pii:nature08087
+doi:10.1038/nature08087
+pubmed:19483676
+mid:NIHMS142002
+pmc:PMC2777527
+

@@ -1,0 +1,33 @@
+Dev. Cell
+
+The retromer coat complex coordinates endosomal sorting and dynein-mediated transport, with carrier recognition by the trans-Golgi network.
+
+T Wassmer, N Attar, M Harterink, JR van Weering, CJ Traer, J Oakley, B Goud, DJ Stephens, P Verkade, HC Korswagen, PJ Cullen
+
+Early endosome-to-trans-Golgi network (TGN) transport is organized by the retromer complex. Consisting of cargo-selective and membrane-bound subcomplexes, retromer coordinates sorting with membrane deformation and carrier formation. Here, we describe four mammalian retromers whose membrane-bound subcomplexes contain specific combinations of the sorting nexins (SNX), SNX1, SNX2, SNX5, and SNX6. We establish that retromer requires a dynamic spatial organization of the endosomal network, which is regulated through association of SNX5/SNX6 with the p150(glued) component of dynactin, an activator of the minus-end directed microtubule motor dynein; an association further defined through genetic studies in C. elegans. Finally, we also establish that the spatial organization of the retromer pathway is mediated through the association of SNX1 with the proposed TGN-localized tether Rab6-interacting protein-1. These interactions describe fundamental steps in retromer-mediated transport and establish that the spatial organization of the retromer network is a critical element required for efficient retromer-mediated sorting.
+
+-Animals
+-Biological Transport (-physiology)
+-Caenorhabditis elegans (-genetics; -metabolism)
+-Caenorhabditis elegans Proteins (-genetics; -metabolism)
+-Carrier Proteins (-classification; -genetics; +metabolism)
+-Cell Line
+-Dyneins (-genetics; +metabolism)
+-Endosomes (+metabolism)
+-Humans
+-Microtubule-Associated Proteins (-genetics; -metabolism)
+-Multiprotein Complexes (-metabolism)
+-Phylogeny
+-Protein Isoforms (-genetics; +metabolism)
+-RNA Interference
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Two-Hybrid System Techniques
+-Vesicular Transport Proteins (-classification; -genetics; +metabolism)
+-rab GTP-Binding Proteins (-genetics; -metabolism)
+-trans-Golgi Network (+metabolism)
+
+pii:S1534-5807(09)00178-6
+doi:10.1016/j.devcel.2009.04.016
+pubmed:19619496
+pmc:PMC2714578
+

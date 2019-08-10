@@ -1,0 +1,23 @@
+BMC Genomics
+
+plantsUPS: a database of plants' Ubiquitin Proteasome System.
+
+Z Du, X Zhou, L Li, Z Su
+
+BACKGROUND: The ubiquitin 26S/proteasome system (UPS), a serial cascade process of protein ubiquitination and degradation, is the last step for most cellular proteins. There are many genes involved in this system, but are not identified in many species. The accumulating availability of genomic sequence data is generating more demands in data management and analysis. Genomics data of plants such as Populus trichocarpa, Medicago truncatula, Glycine max and others are now publicly accessible. It is time to integrate information on classes of genes for complex protein systems such as UPS. RESULTS: We developed a database of higher plants' UPS, named 'plantsUPS'. Both automated search and manual curation were performed in identifying candidate genes. Extensive annotations referring to each gene were generated, including basic gene characterization, protein features, GO (gene ontology) assignment, microarray probe set annotation and expression data, as well as cross-links among different organisms. A chromosome distribution map, multi-sequence alignment, and phylogenetic trees for each species or gene family were also created. A user-friendly web interface and regular updates make plantsUPS valuable to researchers in related fields. CONCLUSION: The plantsUPS enables the exploration and comparative analysis of UPS in higher plants. It now archives > 8000 genes from seven plant species distributed in 11 UPS-involved gene families. The plantsUPS is freely available now to all users at http://bioinformatics.cau.edu.cn/plantsUPS.
+
++Databases, Genetic
+-Genes, Plant
+-Genomics
+-Oligonucleotide Array Sequence Analysis
+-Phylogeny
+-Plants (+genetics)
+-Proteasome Endopeptidase Complex (+genetics)
+-Sequence Alignment
+-User-Computer Interface
+
+pii:1471-2164-10-227
+doi:10.1186/1471-2164-10-227
+pubmed:19445698
+pmc:PMC2690602
+

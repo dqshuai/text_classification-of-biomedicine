@@ -1,0 +1,40 @@
+Mol. Cell. Biol.
+
+Time-dependent activation of Phox2a by the cyclic AMP pathway modulates onset and duration of p27Kip1 transcription.
+
+MH Shin, N Mavila, WH Wang, S Vega Alvarez, MC Hall, OM Andrisani
+
+In noradrenergic progenitors, Phox2a mediates cell cycle exit and neuronal differentiation by inducing p27(Kip1) transcription in response to activation of the cyclic AMP (cAMP) pathway. The mechanism of cAMP-mediated activation of Phox2a is unknown. We identified a cluster of phosphoserine-proline sites in Phox2a by mass spectrometry. Ser206 appeared to be the most prominent phosphorylation site. A phospho-Ser206 Phox2a antibody detected dephosphorylation of Phox2a that was dependent on activation of the cAMP pathway, which occurred prior to neuronal differentiation of noradrenergic CAD cells. Employing serine-to-alanine and serine-to-aspartic acid Phox2a substitution mutants expressed in inducible CAD cell lines, we demonstrated that the transcriptional activity of Phox2a is regulated by two sequential cAMP-dependent events: first, cAMP signaling promotes dephosphorylation of Phox2a in at least one site, Ser206, thereby allowing Phox2a to bind DNA and initiate p27(Kip1) transcription; second, following dephosphorylation of the phosphoserine cluster (Ser202 and Ser208), Phox2a becomes phosphorylated by protein kinase A (PKA) on Ser153, which prevents association of Phox2a with DNA and terminates p27(Kip1) transcription. This represents a novel mechanism by which the same stimulus, cAMP signaling, first activates Phox2a by dephosphorylation of Ser206 and then, after a built-in delay, inactivates Phox2a via PKA-dependent phosphorylation of Ser153, thereby modulating onset and duration of p27(Kip1) transcription.
+
+-Alanine (-genetics)
+-Amino Acid Sequence
+-Amino Acid Substitution
+-Cell Differentiation
+-Cell Line
+-Chromatin Immunoprecipitation
+-Cyclic AMP (+metabolism)
+-Cyclic AMP-Dependent Protein Kinases (-metabolism)
+-Cyclin-Dependent Kinase Inhibitor p27 (+genetics; -metabolism)
+-DNA (-metabolism)
+-Gene Expression Regulation
+-Homeodomain Proteins (-chemistry; -genetics; +metabolism)
+-Intermediate Filament Proteins (-metabolism)
+-Mass Spectrometry
+-Membrane Glycoproteins (-metabolism)
+-Models, Biological
+-Molecular Sequence Data
+-Nerve Tissue Proteins (-metabolism)
+-Neurons (-cytology; -metabolism)
+-Phosphorylation
+-Phosphoserine (-metabolism)
+-Protein Binding
+-RNA, Messenger (-genetics; -metabolism)
++Signal Transduction
+-Time Factors
++Transcription, Genetic
+
+pii:MCB.01928-08
+doi:10.1128/MCB.01928-08
+pubmed:19564421
+pmc:PMC2738275
+

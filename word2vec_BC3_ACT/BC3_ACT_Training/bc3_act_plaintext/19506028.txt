@@ -1,0 +1,30 @@
+Nucleic Acids Res.
+
+Extensive DNA mimicry by the ArdA anti-restriction protein and its role in the spread of antibiotic resistance.
+
+SA McMahon, GA Roberts, KA Johnson, LP Cooper, H Liu, JH White, LG Carter, B Sanghvi, M Oke, MD Walkinshaw, GW Blakely, JH Naismith, DT Dryden
+
+The ardA gene, found in many prokaryotes including important pathogenic species, allows associated mobile genetic elements to evade the ubiquitous Type I DNA restriction systems and thereby assist the spread of resistance genes in bacterial populations. As such, ardA contributes to a major healthcare problem. We have solved the structure of the ArdA protein from the conjugative transposon Tn916 and find that it has a novel extremely elongated curved cylindrical structure with defined helical grooves. The high density of aspartate and glutamate residues on the surface follow a helical pattern and the whole protein mimics a 42-base pair stretch of B-form DNA making ArdA by far the largest DNA mimic known. Each monomer of this dimeric structure comprises three alpha-beta domains, each with a different fold. These domains have the same fold as previously determined proteins possessing entirely different functions. This DNA mimicry explains how ArdA can bind and inhibit the Type I restriction enzymes and we demonstrate that 6 different ardA from pathogenic bacteria can function in Escherichia coli hosting a range of different Type I restriction systems.
+
+-Amino Acid Sequence
+-Bacterial Proteins (+chemistry; -genetics; -metabolism)
+-Crystallography, X-Ray
+-DNA (-chemistry)
+-DNA Restriction-Modification Enzymes (+antagonists & inhibitors)
+-Deoxyribonucleases, Type I Site-Specific (-antagonists & inhibitors)
+-Dimerization
+-Drug Resistance, Bacterial (-genetics)
+-Genome, Bacterial
+-Models, Molecular
++Molecular Mimicry
+-Molecular Sequence Data
+-Protein Binding
+-Protein Structure, Tertiary
+-Sequence Homology, Amino Acid
+-Site-Specific DNA-Methyltransferase (Adenine-Specific) (-chemistry)
+
+pii:gkp478
+doi:10.1093/nar/gkp478
+pubmed:19506028
+pmc:PMC2731889
+

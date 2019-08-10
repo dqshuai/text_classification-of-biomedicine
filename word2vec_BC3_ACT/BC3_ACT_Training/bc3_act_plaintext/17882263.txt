@@ -1,0 +1,30 @@
+EMBO J.
+
+Requirement for O-linked N-acetylglucosaminyltransferase in lymphocytes activation.
+
+A Golks, TT Tran, JF Goetschy, D Guerini
+
+The dynamic modification of nuclear and cytoplasmic proteins with O-linked beta-N-acetylglucosamine (O-GlcNAc) by the O-linked N-acetylglucosaminyltransferase (OGT) is a regulatory post-translational modification that is responsive to various stimuli. Here, we demonstrate that OGT is a central factor for T- and B-lymphocytes activation. SiRNA-mediated knockdown of OGT in T cells leads to an impaired activation of the transcription factors NFAT and NFkappaB. This results in a reduction of IL-2 production consistent with prevention of T-cell activation. OGT is also required for the early activation of B cells mediated by stimulation of the B-cell receptor. Mechanistically, we demonstrate that NFkappaB as well as NFAT are glycosylated with O-GlcNAc after direct binding to OGT. Moreover, kinetic experiments show that O-GlcNAc modification prominently increased shortly after activation of lymphoid cells and it might be required for nuclear translocation of the transcription factors NFkappaB and NFAT.
+
+-Alternative Splicing
+-Antigens, CD (-biosynthesis)
+-Antigens, Differentiation, T-Lymphocyte (-biosynthesis)
+-B-Lymphocytes (-metabolism)
+-Glycosylation
+-Humans
+-Interleukin-2 (-metabolism)
++Lymphocyte Activation
+-Lymphocytes (+metabolism)
+-Models, Biological
+-N-Acetylglucosaminyltransferases (-chemistry; +physiology)
+-NF-kappa B (-metabolism)
+-NFATC Transcription Factors (-metabolism)
+-Protein Processing, Post-Translational
+-RNA, Small Interfering (-metabolism)
+-T-Lymphocytes (-metabolism)
+
+pii:7601845
+doi:10.1038/sj.emboj.7601845
+pubmed:17882263
+pmc:PMC2034663
+

@@ -1,0 +1,24 @@
+Biochem. Biophys. Res. Commun.
+
+Novel protein engineering strategy for creating highly receptor-selective mutant TNFs.
+
+T Nomura, Y Abe, H Kamada, M Inoue, T Kawara, S Arita, T Furuya, Y Yoshioka, H Shibata, H Kayamuro, T Yamashita, K Nagano, T Yoshikawa, Y Mukai, S Nakagawa, M Taniai, T Ohta, S Tsunoda, Y Tsutsumi
+
+Tumor necrosis factor (TNF) plays important roles in host defense and in preventing tumor formation by acting via its receptors, TNFR1 and TNFR2, functions of which are less understood. To this end, we have been isolating TNF receptor-selective mutants using phage display technique. However, generation of a phage library with large repertoire (>10(8)) is impeded by the limited transformation efficiency of Escherichia coli. Therefore, it is currently difficult to create a mutant library containing amino acid substitutions in more than seven residues. To overcome this problem, here we have used two different TNF mutant libraries, each containing random substitutions at six selected amino acid residues, and utilized a gene shuffling method to construct a randomized mutant library containing substitutions at 12 different amino acid residues of TNF. Consequently, using this library, we identified TNF mutants with greater receptor-selectivity and enhanced receptor-specific bioactivity than the existing mutants.
+
+-Amino Acid Sequence
+-Cell Line
+-DNA Shuffling
+-Humans
+-Molecular Sequence Data
+-Mutation
+-Peptide Library
+-Protein Engineering (+methods)
+-Receptors, Tumor Necrosis Factor, Type I (+agonists; -metabolism)
+-Receptors, Tumor Necrosis Factor, Type II (+agonists; -metabolism)
+-Tumor Necrosis Factor-alpha (-genetics; -metabolism; +pharmacology)
+
+pii:S0006-291X(09)01623-4
+doi:10.1016/j.bbrc.2009.08.052
+pubmed:19682974
+

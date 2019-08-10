@@ -1,0 +1,23 @@
+RNA
+
+Methodological obstacles in knocking down small noncoding RNAs.
+
+A Ploner, C Ploner, M Lukasser, H Niederegger, A Hüttenhofer
+
+In the recent past, several thousand noncoding RNA (ncRNA) genes have been predicted within eukaryal genomes. However, for their functional analysis only a few high-throughput methods are currently available to knock down selected ncRNA species, such as microRNAs, which are targeted by antisense probes, termed antagomirs. We thus compared the efficiencies of four knockdown strategies, previously mainly employed for the analysis of protein-coding genes, to study the function of ncRNAs, in particular, small nucleolar RNAs (snoRNAs). Thereby, the class of snoRNAs represents one of the most abundant ncRNA species. The majority of snoRNAs has been shown to mediate nucleotide modifications by targeting ribosomal RNAs (rRNAs) through complementary antisense elements. However, some snoRNAs, termed "orphan snoRNAs," lack telltale complementarities to rRNAs and thus their function remains elusive. We therefore applied RNA interference (RNAi), locked nucleic acid (LNA), or peptide nucleic acid antisense approaches, as well as a ribozyme-based strategy to knock down a snoRNA. As a proof of principle, we targeted the canonical U81 snoRNA, which has been shown to mediate modification of nucleotide A(391) within eukaryal 28S rRNA. Our results demonstrate that while RNAi is an unsuitable tool for snoRNA knockdown, a ribozyme-based strategy, as well as an LNA-antisense oligonucleotide approach, resulted in a decrease of U81 snoRNA expression levels up to 60%. However, no concomitant decrease in enzymatic activity of U81 snoRNA was observed, indicating that improvement of more efficient knockdown techniques for ncRNAs will be required in the future.
+
+-Base Sequence
+-Cell Line
+-DNA Primers
++Gene Knockdown Techniques
+-Humans
+-In Situ Hybridization, Fluorescence
+-Nucleic Acid Conformation
+-RNA Interference
+-RNA, Untranslated (-chemistry; +genetics)
+
+pii:rna.1740009
+doi:10.1261/rna.1740009
+pubmed:19690100
+pmc:PMC2743047
+

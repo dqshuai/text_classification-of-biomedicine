@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+Stimulation of homology-directed gene targeting at an endogenous human locus by a nicking endonuclease.
+
+GP van Nierop, AA de Vries, M Holkers, KR Vrijsen, MA Gonçalves
+
+Homologous recombination (HR) is a highly accurate mechanism of DNA repair that can be exploited for homology-directed gene targeting. Since in most cell types HR occurs very infrequently (approximately 10(-6) to 10(-8)), its practical application has been largely restricted to specific experimental systems that allow selection of the few cells that become genetically modified. HR-mediated gene targeting has nonetheless revolutionized genetics by greatly facilitating the analysis of mammalian gene function. Recent studies showed that generation of double-strand DNA breaks at specific loci by designed endonucleases greatly increases the rate of homology-directed gene repair. These findings opened new perspectives for HR-based genome editing in higher eukaryotes. Here, we demonstrate by using donor DNA templates together with the adeno-associated virus (AAV) Rep78 and Rep68 proteins that sequence- and strand-specific cleavage at a native, predefined, human locus can also greatly enhance homology-directed gene targeting. Our findings argue for the development of other strategies besides direct induction of double-strand chromosomal breaks to achieve efficient and heritable targeted genetic modification of cells and organisms. Finally, harnessing the cellular HR pathway through Rep-mediated nicking expands the range of strategies that make use of AAV elements to bring about stable genetic modification of human cells.
+
+-Chromosomes, Human, Pair 19
+-DNA-Binding Proteins (+metabolism)
+-Endodeoxyribonucleases (+metabolism)
+-Gene Targeting (+methods)
+-Hela Cells
+-Humans
++Recombination, Genetic
+-Transcription, Genetic
+-Viral Proteins (+metabolism)
+
+pii:gkp643
+doi:10.1093/nar/gkp643
+pubmed:19651880
+pmc:PMC2761290
+

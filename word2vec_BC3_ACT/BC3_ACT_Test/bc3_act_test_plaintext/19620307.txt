@@ -1,0 +1,29 @@
+J. Immunol.
+
+Different vaccine vectors delivering the same antigen elicit CD8+ T cell responses with distinct clonotype and epitope specificity.
+
+M Honda, R Wang, WP Kong, M Kanekiyo, W Akahata, L Xu, K Matsuo, K Natarajan, H Robinson, TE Asher, DA Price, DC Douek, DH Margulies, GJ Nabel
+
+Prime-boost immunization with gene-based vectors has been developed to generate more effective vaccines for AIDS, malaria, and tuberculosis. Although these vectors elicit potent T cell responses, the mechanisms by which they stimulate immunity are not well understood. In this study, we show that immunization by a single gene product, HIV-1 envelope, with alternative vector combinations elicits CD8(+) cells with different fine specificities and kinetics of mobilization. Vaccine-induced CD8(+) T cells recognized overlapping third V region loop peptides. Unexpectedly, two anchor variants bound H-2D(d) better than the native sequences, and clones with distinct specificities were elicited by alternative vectors. X-ray crystallography revealed major differences in solvent exposure of MHC-bound peptide epitopes, suggesting that processed HIV-1 envelope gave rise to MHC-I/peptide conformations recognized by distinct CD8(+) T cell populations. These findings suggest that different gene-based vectors generate peptides with alternative conformations within MHC-I that elicit distinct T cell responses after vaccination.
+
+-AIDS Vaccines (-administration & dosage; +genetics; +immunology; -metabolism)
+-Animals
+-CD8-Positive T-Lymphocytes (+immunology; -metabolism; -virology)
+-Cell Line
+-Cells, Cultured
+-Clone Cells
+-Epitopes, T-Lymphocyte (-administration & dosage; -genetics; +immunology; -metabolism)
+-Genetic Vectors (-administration & dosage; -immunology; -metabolism)
+-H-2 Antigens (-administration & dosage; +genetics; +immunology; -metabolism)
+-HIV Envelope Protein gp120 (-administration & dosage; +genetics; +immunology; -metabolism)
+-Immunization, Secondary
+-Mice
+-Mice, Inbred BALB C
+-Protein Binding (-genetics; -immunology)
+
+pii:jimmunol.0900581
+doi:10.4049/jimmunol.0900581
+pubmed:19620307
+mid:NIHMS157552
+pmc:PMC2858449
+

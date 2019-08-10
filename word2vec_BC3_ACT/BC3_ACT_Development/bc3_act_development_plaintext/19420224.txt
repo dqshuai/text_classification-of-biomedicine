@@ -1,0 +1,31 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Examining the relative influence of familial, genetic, and environmental covariate information in flexible risk models.
+
+HC Bravo, KE Lee, BE Klein, R Klein, SK Iyengar, G Wahba
+
+We present a method for examining the relative influence of familial, genetic, and environmental covariate information in flexible nonparametric risk models. Our goal is investigating the relative importance of these three sources of information as they are associated with a particular outcome. To that end, we developed a method for incorporating arbitrary pedigree information in a smoothing spline ANOVA (SS-ANOVA) model. By expressing pedigree data as a positive semidefinite kernel matrix, the SS-ANOVA model is able to estimate a log-odds ratio as a multicomponent function of several variables: one or more functional components representing information from environmental covariates and/or genetic marker data and another representing pedigree relationships. We report a case study on models for retinal pigmentary abnormalities in the Beaver Dam Eye Study. Our model verifies known facts about the epidemiology of this eye lesion--found in eyes with early age-related macular degeneration--and shows significantly increased predictive ability in models that include all three of the genetic, environmental, and familial data sources. The case study also shows that models that contain only two of these data sources, that is, pedigree-environmental covariates, or pedigree-genetic markers, or environmental covariates-genetic markers, have comparable predictive ability, but less than the model with all three. This result is consistent with the notions that genetic marker data encode--at least in part--pedigree data, and that familial correlations encode shared environment data as well.
+
+-Adult
+-Aged
+-Aged, 80 and over
+-Analysis of Variance
+-Computer Simulation
+-Disease Susceptibility (+etiology)
+-Environment
+-Family Health
+-Genetic Markers
+-Humans
+-Macular Degeneration (-etiology)
+-Middle Aged
++Models, Theoretical
+-Pedigree
+-Polymorphism, Single Nucleotide
+-ROC Curve
++Risk
+
+pii:0902906106
+doi:10.1073/pnas.0902906106
+pubmed:19420224
+pmc:PMC2677979
+

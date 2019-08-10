@@ -1,0 +1,26 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Protein elastic network models and the ranges of cooperativity.
+
+L Yang, G Song, RL Jernigan
+
+Elastic network models (ENMs) are entropic models that have demonstrated in many previous studies their abilities to capture overall the important internal motions, with comparisons having been made against crystallographic B-factors and NMR conformational variabilities. ENMs have become an increasingly important tool and have been widely used to comprehend protein dynamics, function, and even conformational changes. However, reliance upon an arbitrary cutoff distance to delimit the range of interactions has presented a drawback for these models, because the optimal cutoff values can differ somewhat from protein to protein and can lead to quirks such as some shuffling in the order of the normal modes when applied to structures that differ only slightly. Here, we have replaced the requirement for a cutoff distance and introduced the more physical concept of inverse power dependence for the interactions, with a set of elastic network models that are parameter-free, with the distance cutoff removed. For small fluctuations about the native forms, the power dependence is the inverse square, but for larger deformations, the power dependence may become inverse 6th or 7th power. These models maintain and enhance the simplicity and generality of the original ENMs, and at the same time yield better predictions of crystallographic B-factors (both isotropic and anisotropic) and of the directions of conformational transitions. Thus, these parameter-free ENMs can be models of choice whenever elastic network models are used.
+
+-Adenosine Monophosphate (-analogs & derivatives; -chemistry)
+-Algorithms
+-Anisotropy
+-Computer Simulation
+-Crystallography, X-Ray
+-Databases, Protein
+-Elasticity
++Entropy
+-Magnetic Resonance Spectroscopy
++Models, Chemical
+-Protein Conformation
+-Proteins (+chemistry)
+
+pii:0902159106
+doi:10.1073/pnas.0902159106
+pubmed:19617554
+pmc:PMC2718344
+

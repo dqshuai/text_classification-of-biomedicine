@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+An endoplasmic reticulum retention signal located in the extracellular amino-terminal domain of the NR2A subunit of N-Methyl-D-aspartate receptors.
+
+S Qiu, XM Zhang, JY Cao, W Yang, YG Yan, L Shan, J Zheng, JH Luo
+
+N-Methyl-d-aspartate (NMDA) receptors play critical roles in complex brain functions as well as pathogenesis of neurodegenerative diseases. There are many NMDA isoforms and subunit types that, together with subtype-specific assembly, give rise to significant functional heterogeneity of NMDA receptors. Conventional NMDA receptors are obligatory heterotetramers composed of two glycine-binding NR1 subunits and two glutamate-binding NR2 subunits. When individually expressed in heterogeneous cells, most of the NR1 splice variants and the NR2 subunits remain in the endoplasmic reticulum (ER) and do not form homomeric channels. The mechanisms underlying NMDA receptor trafficking and functional expression remain uncertain. Using truncated and chimeric NMDA receptor subunits expressed in heterogeneous cells and hippocampal neurons, together with immunostaining, biochemical, and functional analyses, we found that the NR2A amino-terminal domain (ATD) contains an ER retention signal, which can be specifically masked by the NR1a ATD. Interestingly, no such signal was found in the ATD of the NR2B subunit. We further identified the A2 segment of the NR2A ATD to be the primary determinant of ER retention. These findings indicate that NR2A-containing NMDA receptors may undergo a different ER quality control process from NR2B-containing NMDA receptors.
+
+-Amino Acid Sequence
+-Animals
+-COS Cells
+-Cell Line
+-Cercopithecus aethiops
+-Endoplasmic Reticulum (-chemistry; +metabolism)
+-Gene Expression
+-Hippocampus (-metabolism)
+-Humans
+-Molecular Sequence Data
+-Mutant Chimeric Proteins (-analysis; -genetics; -metabolism)
+-Neurons (-metabolism)
+-Protein Structure, Tertiary
+-Protein Transport
+-Receptors, N-Methyl-D-Aspartate (+analysis; -genetics; +metabolism)
+
+pii:M109.004960
+doi:10.1074/jbc.M109.004960
+pubmed:19487695
+pmc:PMC2740454
+

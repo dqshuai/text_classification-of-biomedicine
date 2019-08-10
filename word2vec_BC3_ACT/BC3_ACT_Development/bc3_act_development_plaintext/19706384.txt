@@ -1,0 +1,20 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Restriction versus guidance in protein structure prediction.
+
+JA Hegler, J Lätzer, A Shehu, C Clementi, PG Wolynes
+
+Conformational restriction by fragment assembly and guidance in molecular dynamics are alternate conformational search strategies in protein structure prediction. We examine both approaches using a version of the associative memory Hamiltonian that incorporates the influence of water-mediated interactions (AMW). For short proteins (<70 residues), fragment assembly, while searching a restricted space, compares well to molecular dynamics and is often sufficient to fold such proteins to near-native conformations (4A) via simulated annealing. Longer proteins encounter kinetic sampling limitations in fragment assembly not seen in molecular dynamics which generally samples more native-like conformations. We also present a fragment enriched version of the standard AMW energy function, AMW-FME, which incorporates the local sequence alignment derived fragment libraries from fragment assembly directly into the energy function. This energy function, in which fragment information acts as a guide not a restriction, is found by molecular dynamics to improve on both previous approaches.
+
+-Computational Biology (+methods)
++Models, Molecular
+-Molecular Dynamics Simulation
++Protein Conformation
+-Protein Folding
+-Proteins (+chemistry)
+
+pii:0907002106
+doi:10.1073/pnas.0907002106
+pubmed:19706384
+pmc:PMC2741246
+

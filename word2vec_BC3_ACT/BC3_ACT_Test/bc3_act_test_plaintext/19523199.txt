@@ -1,0 +1,19 @@
+BMC Bioinformatics
+
+TOMOBFLOW: feature-preserving noise filtering for electron tomography.
+
+JJ Fernandez
+
+BACKGROUND: Noise filtering techniques are needed in electron tomography to allow proper interpretation of datasets. The standard linear filtering techniques are characterized by a tradeoff between the amount of reduced noise and the blurring of the features of interest. On the other hand, sophisticated anisotropic nonlinear filtering techniques allow noise reduction with good preservation of structures. However, these techniques are computationally intensive and are difficult to be tuned to the problem at hand. RESULTS: TOMOBFLOW is a program for noise filtering with capabilities of preservation of biologically relevant information. It is an efficient implementation of the Beltrami flow, a nonlinear filtering method that locally tunes the strength of the smoothing according to an edge indicator based on geometry properties. The fact that this method does not have free parameters hard to be tuned makes TOMOBFLOW a user-friendly filtering program equipped with the power of diffusion-based filtering methods. Furthermore, TOMOBFLOW is provided with abilities to deal with different types and formats of images in order to make it useful for electron tomography in particular and bioimaging in general. CONCLUSION: TOMOBFLOW allows efficient noise filtering of bioimaging datasets with preservation of the features of interest, thereby yielding data better suited for post-processing, visualization and interpretation. It is available at the web site (http://www.ual.es/%7ejjfdez/SW/tomobflow.html).
+
+-Algorithms
++Electron Microscope Tomography
+-Image Processing, Computer-Assisted (-methods)
+-Imaging, Three-Dimensional (+methods)
+-Sensitivity and Specificity
+
+pii:1471-2105-10-178
+doi:10.1186/1471-2105-10-178
+pubmed:19523199
+pmc:PMC2753846
+

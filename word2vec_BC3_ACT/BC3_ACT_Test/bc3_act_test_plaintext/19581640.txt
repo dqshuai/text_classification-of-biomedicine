@@ -1,0 +1,23 @@
+J. Biol. Chem.
+
+Role of dimerization in the catalytic properties of the Escherichia coli disulfide isomerase DsbC.
+
+SA Arredondo, TF Chen, AF Riggs, HF Gilbert, G Georgiou
+
+The bacterial protein-disulfide isomerase DsbC is a homodimeric V-shaped enzyme that consists of a dimerization domain, two alpha-helical linkers, and two opposing thioredoxin fold catalytic domains. The functional significance of the two catalytic domains of DsbC is not well understood yet. We have engineered heterodimer-like DsbC derivatives covalently linked via (Gly(3)-Ser) flexible linkers. We either inactivated one of the catalytic sites (CGYC), or entirely removed one of the catalytic domains while maintaining the putative binding area intact. Variants having a single active catalytic site display significant levels of isomerase activity. Furthermore, mDsbC[H45D]-dim[D53H], a DsbC variant lacking an entire catalytic domain but with an intact dimerization domain, also showed isomerase activity, albeit at lower levels. In addition, the absence of the catalytic domain allowed this protein to catalyze in vivo oxidation. Our results reveal that two catalytic domains in DsbC are not essential for disulfide bond isomerization and that a determining feature in isomerization is the availability of a substrate binding domain.
+
+-Catalysis
+-Escherichia coli (+enzymology)
+-Escherichia coli Proteins (+chemistry; -metabolism)
+-Oxidation-Reduction
+-Protein Disulfide-Isomerases (+chemistry; -metabolism)
++Protein Multimerization
+-Protein Structure, Quaternary
+-Protein Structure, Secondary
+-Protein Structure, Tertiary
+
+pii:M109.010199
+doi:10.1074/jbc.M109.010199
+pubmed:19581640
+pmc:PMC2781991
+

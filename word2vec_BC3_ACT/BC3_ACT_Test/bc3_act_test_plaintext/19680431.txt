@@ -1,0 +1,27 @@
+PLoS Comput. Biol.
+
+A condensation-ordering mechanism in nanoparticle-catalyzed peptide aggregation.
+
+S Auer, A Trovato, M Vendruscolo
+
+Nanoparticles introduced in living cells are capable of strongly promoting the aggregation of peptides and proteins. We use here molecular dynamics simulations to characterise in detail the process by which nanoparticle surfaces catalyse the self-assembly of peptides into fibrillar structures. The simulation of a system of hundreds of peptides over the millisecond timescale enables us to show that the mechanism of aggregation involves a first phase in which small structurally disordered oligomers assemble onto the nanoparticle and a second phase in which they evolve into highly ordered as their size increases.
+
+-Cluster Analysis
+-Computational Biology (+methods)
+-Computer Simulation
+-Hydrogen Bonding
+-Hydrophobicity
++Models, Chemical
+-Molecular Conformation
+-Nanoparticles (+chemistry)
+-Particle Size
++Peptides (-chemistry; -metabolism)
+-Polymers (-chemistry; -metabolism)
+-Protein Conformation
++Protein Multimerization
+-Protein Structure, Secondary
+
+doi:10.1371/journal.pcbi.1000458
+pubmed:19680431
+pmc:PMC2715216
+

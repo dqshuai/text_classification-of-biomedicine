@@ -1,0 +1,22 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Nucleotide-dependent conformational states of actin.
+
+J Pfaendtner, D Branduardi, M Parrinello, TD Pollard, GA Voth
+
+The influence of the state of the bound nucleotide (ATP, ADP-Pi, or ADP) on the conformational free-energy landscape of actin is investigated. Nucleotide-dependent folding of the DNase-I binding (DB) loop in monomeric actin and the actin trimer is carried out using all-atom molecular dynamics (MD) calculations accelerated with a multiscale implementation of the metadynamics algorithm. Additionally, an investigation of the opening and closing of the actin nucleotide binding cleft is performed. Nucleotide-dependent free-energy profiles for all of these conformational changes are calculated within the framework of metadynamics. We find that in ADP-bound monomer, the folded and unfolded states of the DB loop have similar relative free-energy. This result helps explain the experimental difficulty in obtaining an ordered crystal structure for this region of monomeric actin. However, we find that in the ADP-bound actin trimer, the folded DB loop is stable and in a free-energy minimum. It is also demonstrated that the nucleotide binding cleft favors a closed conformation for the bound nucleotide in the ATP and ADP-Pi states, whereas the ADP state favors an open confirmation, both in the monomer and trimer. These results suggest a mechanism of allosteric interactions between the nucleotide binding cleft and the DB loop. This behavior is confirmed by an additional simulation that shows the folding free-energy as a function of the nucleotide cleft width, which demonstrates that the barrier for folding changes significantly depending on the value of the cleft width.
+
+-Actins (+chemistry)
+-Adenosine Diphosphate (+chemistry; -metabolism)
+-Adenosine Triphosphate (+chemistry; -metabolism)
+-Binding Sites
+-Deoxyribonuclease I (-metabolism)
+-Hydrolysis
+-Protein Conformation
++Protein Folding
+
+pii:0902092106
+doi:10.1073/pnas.0902092106
+pubmed:19620726
+pmc:PMC2722336
+

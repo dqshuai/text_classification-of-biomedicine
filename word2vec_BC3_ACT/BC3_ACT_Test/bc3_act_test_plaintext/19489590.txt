@@ -1,0 +1,20 @@
+J. Med. Chem.
+
+Novel lead structures for p38 MAP kinase via FieldScreen virtual screening.
+
+TJ Cheeseright, M Holm, F Lehmann, S Luik, M Göttert, JL Melville, S Laufer
+
+p38 MAP kinase has received considerable interest in the pharmaceutical industry and remains a valid and interesting target for the treatment of inflammation. To discover novel p38 inhibitors, we applied the ligand-based virtual screening technique, FieldScreen, to 1.2 million commercially available compounds. Fifty-eight diverse compounds were selected for biological analysis, using molecular field similarity to known inhibitors, while explicitly removing any structure that shared a scaffold with previously reported p38 inhibitors. Of these, 11 (19%) showed >or=20% inhibition of p38 at 10 microM. We chose to prepare analogues of two distinct chemical series resulting in a potential lead compound with pIC(50) of 6.4. Modeling of SAR using FieldAlign, a ligand alignment protocol, was used to rationalize the SAR of the series of thiadiazole based inhibitors.
+
+-Drug Evaluation, Preclinical (+methods)
+-Ligands
+-Models, Molecular
+-Molecular Conformation
+-Protein Kinase Inhibitors (-chemical synthesis; -chemistry; -metabolism; +pharmacology)
+-Structure-Activity Relationship
+-Thiadiazoles (-chemical synthesis; -chemistry; -metabolism; -pharmacology)
+-p38 Mitogen-Activated Protein Kinases (+antagonists & inhibitors; -chemistry)
+
+doi:10.1021/jm801399r
+pubmed:19489590
+

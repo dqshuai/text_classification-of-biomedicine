@@ -1,0 +1,29 @@
+Curr. Biol.
+
+Spindle assembly in the absence of a RanGTP gradient requires localized CPC activity.
+
+TJ Maresca, AC Groen, JC Gatlin, R Ohi, TJ Mitchison, ED Salmon
+
+During animal cell division, a gradient of GTP-bound Ran is generated around mitotic chromatin. It is generally accepted that this RanGTP gradient is essential for organizing the spindle, because it locally activates critical spindle assembly factors. Here, we show in Xenopus laevis egg extract, where the gradient is best characterized, that spindles can assemble in the absence of a RanGTP gradient. Gradient-free spindle assembly occurred around sperm nuclei but not around chromatin-coated beads and required the chromosomal passenger complex (CPC). Artificial enrichment of CPC activity within hybrid bead arrays containing both immobilized chromatin and the CPC supported local microtubule assembly even in the absence of a RanGTP gradient. We conclude that RanGTP and the CPC constitute the two major molecular signals that spatially promote microtubule polymerization around chromatin. Furthermore, we hypothesize that the two signals mainly originate from discreet physical sites on the chromosomes to localize microtubule assembly around chromatin: a RanGTP signal from any chromatin and a CPC-dependent signal predominantly generated from centromeric chromatin.
+
+-Animals
+-Cell Division (+physiology)
+-Centrosome (-physiology)
+-Chromatin (+metabolism)
+-Kinetics
+-Kinetochores (-physiology)
+-Microscopy, Fluorescence
+-Microspheres
+-Microtubules (-metabolism)
+-Mitotic Spindle Apparatus (+physiology)
+-Multiprotein Complexes (-metabolism)
+-Protein-Serine-Threonine Kinases (+metabolism)
+-Xenopus laevis
+-ran GTP-Binding Protein (+metabolism)
+
+pii:S0960-9822(09)01197-X
+doi:10.1016/j.cub.2009.05.061
+pubmed:19540121
+mid:NIHMS128828
+pmc:PMC2752711
+

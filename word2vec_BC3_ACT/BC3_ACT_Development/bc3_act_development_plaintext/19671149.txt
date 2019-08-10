@@ -1,0 +1,20 @@
+BMC Bioinformatics
+
+A structured overview of simultaneous component based data integration.
+
+K Van Deun, AK Smilde, MJ van der Werf, HA Kiers, I Van Mechelen
+
+BACKGROUND: Data integration is currently one of the main challenges in the biomedical sciences. Often different pieces of information are gathered on the same set of entities (e.g., tissues, culture samples, biomolecules) with the different pieces stemming, for example, from different measurement techniques. This implies that more and more data appear that consist of two or more data arrays that have a shared mode. An integrative analysis of such coupled data should be based on a simultaneous analysis of all data arrays. In this respect, the family of simultaneous component methods (e.g., SUM-PCA, unrestricted PCovR, MFA, STATIS, and SCA-P) is a natural choice. Yet, different simultaneous component methods may lead to quite different results. RESULTS: We offer a structured overview of simultaneous component methods that frames them in a principal components setting such that both the common core of the methods and the specific elements with regard to which they differ are highlighted. An overview of principles is given that may guide the data analyst in choosing an appropriate simultaneous component method. Several theoretical and practical issues are illustrated with an empirical example on metabolomics data for Escherichia coli as obtained with different analytical chemical measurement methods. CONCLUSION: Of the aspects in which the simultaneous component methods differ, pre-processing and weighting are consequential. Especially, the type of weighting of the different matrices is essential for simultaneous component analysis. These types are shown to be linked to different specifications of the idea of a fair integration of the different coupled arrays.
+
+-Algorithms
+-Automatic Data Processing (+methods)
+-Computational Biology (+methods)
+-Metabolomics (+methods)
+-Proteomics
+-Software
+
+pii:1471-2105-10-246
+doi:10.1186/1471-2105-10-246
+pubmed:19671149
+pmc:PMC2752463
+

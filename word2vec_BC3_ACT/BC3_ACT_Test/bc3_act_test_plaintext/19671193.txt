@@ -1,0 +1,28 @@
+BMC Cancer
+
+The direct effect of focal adhesion kinase (FAK), dominant-negative FAK, FAK-CD and FAK siRNA on gene expression and human MCF-7 breast cancer cell tumorigenesis.
+
+VM Golubovskaya, M Zheng, L Zhang, JL Li, WG Cance
+
+BACKGROUND: Focal adhesion kinase (FAK) is a non-receptor tyrosine kinase that plays an important role in survival signaling. FAK has been shown to be overexpressed in breast cancer tumors at early stages of tumorigenesis. METHODS: To study the direct effect of FAK on breast tumorigenesis, we developed Tet-ON (tetracycline-inducible) system of MCF-7 breast cancer cells stably transfected with FAK or dominant-negative, C-terminal domain of FAK (FAK-CD), and also FAKsiRNA with silenced FAK MCF-7 stable cell line. Increased expression of FAK in isogenic Tet-inducible MCF-7 cells caused increased cell growth, adhesion and soft agar colony formation in vitro, while expression of dominant-negative FAK inhibitor caused inhibition of these cellular processes. To study the role of induced FAK and FAK-CD in vivo, we inoculated these Tet-inducible cells in nude mice to generate tumors in the presence or absence of doxycycline in the drinking water. FAKsiRNA-MCF-7 cells were also injected into nude mice to generate xenograft tumors. RESULTS: Induction of FAK resulted in significant increased tumorigenesis, while induced FAK-CD resulted in decreased tumorigenesis. Taq Man Low Density Array assay demonstrated specific induction of FAKmRNA in MCF-7-Tet-ON-FAK cells. DMP1, encoding cyclin D binding myb-like protein 1 was one of the genes specifically affected by Tet-inducible FAK or FAK-CD in breast xenograft tumors. In addition, silencing of FAK in MCF-7 cells with FAK siRNA caused increased cell rounding, decreased cell viability in vitro and inhibited tumorigenesis in vivo. Importantly, Affymetrix microarray gene profiling analysis using Human Genome U133A GeneChips revealed >4300 genes, known to be involved in apoptosis, cell cycle, and adhesion that were significantly down- or up-regulated (p < 0.05) by FAKsiRNA. CONCLUSION: Thus, these data for the first time demonstrate the direct effect of FAK expression and function on MCF-7 breast cancer tumorigenesis in vivo and reveal specific expression of genes affected by silencing of FAK.
+
+-Animals
+-Antineoplastic Agents (-pharmacology)
+-Breast Neoplasms (+metabolism)
+-Cell Line, Tumor
+-Doxycycline (-pharmacology)
+-Female
+-Focal Adhesion Kinase 1 (+genetics; +metabolism)
+-Genome, Human
+-Humans
+-Mice
+-Mice, Nude
+-Neoplasm Transplantation
+-Oligonucleotide Array Sequence Analysis
+-RNA, Small Interfering (+metabolism)
+-Transfection
+
+pii:1471-2407-9-280
+doi:10.1186/1471-2407-9-280
+pubmed:19671193
+

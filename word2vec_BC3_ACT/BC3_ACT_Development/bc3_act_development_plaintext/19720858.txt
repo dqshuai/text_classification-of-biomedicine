@@ -1,0 +1,32 @@
+Genetics
+
+Cross-species RNAi rescue platform in Drosophila melanogaster.
+
+S Kondo, M Booker, N Perrimon
+
+RNAi-mediated gene knockdown in Drosophila melanogaster is a powerful method to analyze loss-of-function phenotypes both in cell culture and in vivo. However, it has also become clear that false positives caused by off-target effects are prevalent, requiring careful validation of RNAi-induced phenotypes. The most rigorous proof that an RNAi-induced phenotype is due to loss of its intended target is to rescue the phenotype by a transgene impervious to RNAi. For large-scale validations in the mouse and Caenorhabditis elegans, this has been accomplished by using bacterial artificial chromosomes (BACs) of related species. However, in Drosophila, this approach is not feasible because transformation of large BACs is inefficient. We have therefore developed a general RNAi rescue approach for Drosophila that employs Cre/loxP-mediated recombination to rapidly retrofit existing fosmid clones into rescue constructs. Retrofitted fosmid clones carry a selection marker and a phiC31 attB site, which facilitates the production of transgenic animals. Here, we describe our approach and demonstrate proof-of-principle experiments showing that D. pseudoobscura fosmids can successfully rescue RNAi-induced phenotypes in D. melanogaster, both in cell culture and in vivo. Altogether, the tools and method that we have developed provide a gold standard for validation of Drosophila RNAi experiments.
+
+-Animals
+-Animals, Genetically Modified
+-Base Sequence
+-Caspases (-genetics)
+-Drosophila (-classification; +genetics)
+-Drosophila Proteins (+genetics)
+-Drosophila melanogaster (+genetics)
+-Genetic Vectors (-genetics)
+-Molecular Sequence Data
+-Mutation
+-Phenotype
+-Phylogeny
+-Protein-Serine-Threonine Kinases (-genetics)
++RNA Interference
+-RNA, Double-Stranded (-genetics)
+-Sequence Homology, Nucleic Acid
+-Species Specificity
+-Transfection
+
+pii:genetics.109.106567
+doi:10.1534/genetics.109.106567
+pubmed:19720858
+pmc:PMC2778968
+

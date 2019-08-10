@@ -1,0 +1,16 @@
+PLoS ONE
+
+Mining biological pathways using WikiPathways web services.
+
+T Kelder, AR Pico, K Hanspers, MP van Iersel, C Evelo, BR Conklin
+
+WikiPathways is a platform for creating, updating, and sharing biological pathways [1]. Pathways can be edited and downloaded using the wiki-style website. Here we present a SOAP web service that provides programmatic access to WikiPathways that is complementary to the website. We describe the functionality that this web service offers and discuss several use cases in detail. Exposing WikiPathways through a web service opens up new ways of utilizing pathway information and assisting the community curation process.
+
++Biology
++Information Storage and Retrieval
++Internet
+
+doi:10.1371/journal.pone.0006447
+pubmed:19649250
+pmc:PMC2714472
+

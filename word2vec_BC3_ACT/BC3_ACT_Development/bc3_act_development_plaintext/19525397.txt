@@ -1,0 +1,24 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Adiabatic coarse-graining and simulations of stochastic biochemical networks.
+
+NA Sinitsyn, N Hengartner, I Nemenman
+
+We propose a universal approach for analysis and fast simulations of stiff stochastic biochemical networks, which rests on elimination of fast chemical species without a loss of information about mesoscopic, non-Poissonian fluctuations of the slow ones. Our approach is similar to the Born-Oppenheimer approximation in quantum mechanics and follows from the stochastic path integral representation of the cumulant generating function of reaction events. In applications with a small number of chemical reactions, it produces analytical expressions for cumulants of chemical fluxes between the slow variables. This allows for a low-dimensional, interpretable representation and can be used for high-accuracy, low-complexity coarse-grained numerical simulations. As an example, we derive the coarse-grained description for a chain of biochemical reactions and show that the coarse-grained and the microscopic simulations agree, but the former is 3 orders of magnitude faster.
+
++Algorithms
+-Cell Physiological Phenomena
++Computer Simulation
+-Energy Transfer
+-Enzymes (-chemistry; -metabolism)
+-Membrane Proteins (-chemistry; -metabolism)
+-Models, Biological
+-Models, Chemical
+-Models, Statistical
++Stochastic Processes
+
+pii:0809340106
+doi:10.1073/pnas.0809340106
+pubmed:19525397
+pmc:PMC2705573
+

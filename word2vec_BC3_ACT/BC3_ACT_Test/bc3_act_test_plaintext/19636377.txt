@@ -1,0 +1,18 @@
+PLoS ONE
+
+Genome-wide analysis of gene expression in primate taste buds reveals links to diverse processes.
+
+P Hevezi, BD Moyer, M Lu, N Gao, E White, F Echeverri, D Kalabat, H Soto, B Laita, C Li, SA Yeh, M Zoller, A Zlotnik
+
+Efforts to unravel the mechanisms underlying taste sensation (gustation) have largely focused on rodents. Here we present the first comprehensive characterization of gene expression in primate taste buds. Our findings reveal unique new insights into the biology of taste buds. We generated a taste bud gene expression database using laser capture microdissection (LCM) procured fungiform (FG) and circumvallate (CV) taste buds from primates. We also used LCM to collect the top and bottom portions of CV taste buds. Affymetrix genome wide arrays were used to analyze gene expression in all samples. Known taste receptors are preferentially expressed in the top portion of taste buds. Genes associated with the cell cycle and stem cells are preferentially expressed in the bottom portion of taste buds, suggesting that precursor cells are located there. Several chemokines including CXCL14 and CXCL8 are among the highest expressed genes in taste buds, indicating that immune system related processes are active in taste buds. Several genes expressed specifically in endocrine glands including growth hormone releasing hormone and its receptor are also strongly expressed in taste buds, suggesting a link between metabolism and taste. Cell type-specific expression of transcription factors and signaling molecules involved in cell fate, including KIT, reveals the taste bud as an active site of cell regeneration, differentiation, and development. IKBKAP, a gene mutated in familial dysautonomia, a disease that results in loss of taste buds, is expressed in taste cells that communicate with afferent nerve fibers via synaptic transmission. This database highlights the power of LCM coupled with transcriptional profiling to dissect the molecular composition of normal tissues, represents the most comprehensive molecular analysis of primate taste buds to date, and provides a foundation for further studies in diverse aspects of taste biology.
+
+-Animals
++Gene Expression Profiling
++Genome
+-Primates (+genetics)
+-Taste Buds (+metabolism; -physiology)
+
+doi:10.1371/journal.pone.0006395
+pubmed:19636377
+pmc:PMC2712080
+

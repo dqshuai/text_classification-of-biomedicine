@@ -1,0 +1,13 @@
+Nature
+
+Plasmon lasers at deep subwavelength scale.
+
+RF Oulton, VJ Sorger, T Zentgraf, RM Ma, C Gladden, L Dai, G Bartal, X Zhang
+
+Laser science has been successful in producing increasingly high-powered, faster and smaller coherent light sources. Examples of recent advances are microscopic lasers that can reach the diffraction limit, based on photonic crystals, metal-clad cavities and nanowires. However, such lasers are restricted, both in optical mode size and physical device dimension, to being larger than half the wavelength of the optical field, and it remains a key fundamental challenge to realize ultracompact lasers that can directly generate coherent optical fields at the nanometre scale, far beyond the diffraction limit. A way of addressing this issue is to make use of surface plasmons, which are capable of tightly localizing light, but so far ohmic losses at optical frequencies have inhibited the realization of truly nanometre-scale lasers based on such approaches. A recent theoretical work predicted that such losses could be significantly reduced while maintaining ultrasmall modes in a hybrid plasmonic waveguide. Here we report the experimental demonstration of nanometre-scale plasmonic lasers, generating optical modes a hundred times smaller than the diffraction limit. We realize such lasers using a hybrid plasmonic waveguide consisting of a high-gain cadmium sulphide semiconductor nanowire, separated from a silver surface by a 5-nm-thick insulating gap. Direct measurements of the emission lifetime reveal a broad-band enhancement of the nanowire's exciton spontaneous emission rate by up to six times owing to the strong mode confinement and the signature of apparently threshold-less lasing. Because plasmonic modes have no cutoff, we are able to demonstrate downscaling of the lateral dimensions of both the device and the optical mode. Plasmonic lasers thus offer the possibility of exploring extreme interactions between light and matter, opening up new avenues in the fields of active photonic circuits, bio-sensing and quantum information technology.
+
+
+pii:nature08364
+doi:10.1038/nature08364
+pubmed:19718019
+

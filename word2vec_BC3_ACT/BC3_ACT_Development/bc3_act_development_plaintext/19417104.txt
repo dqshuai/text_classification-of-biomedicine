@@ -1,0 +1,29 @@
+Genes Dev.
+
+SMG-8 and SMG-9, two novel subunits of the SMG-1 complex, regulate remodeling of the mRNA surveillance complex during nonsense-mediated mRNA decay.
+
+A Yamashita, N Izumi, I Kashima, T Ohnishi, B Saari, Y Katsuhata, R Muramatsu, T Morita, A Iwamatsu, T Hachiya, R Kurata, H Hirano, P Anderson, S Ohno
+
+Nonsense-mediated mRNA decay (NMD) is a surveillance mechanism that detects and degrades mRNAs containing premature translation termination codons (PTCs). SMG-1 and Upf1 transiently form a surveillance complex termed "SURF" that includes eRF1 and eRF3 on post-spliced mRNAs during recognition of PTC. If an exon junction complex (EJC) exists downstream from the SURF complex, SMG-1 phosphorylates Upf1, the step that is a rate-limiting for NMD. We provide evidence of an association between the SURF complex and the ribosome in association with mRNPs, and we suggest that the SURF complex functions as a translation termination complex during NMD. We identified SMG-8 and SMG-9 as novel subunits of the SMG-1 complex. SMG-8 and SMG-9 suppress SMG-1 kinase activity in the isolated SMG-1 complex and are involved in NMD in both mammals and nematodes. SMG-8 recruits SMG-1 to the mRNA surveillance complex, and inactivation of SMG-8 induces accumulation of a ribosome:Upf1:eRF1:eRF3:EJC complex on mRNP, which physically bridges the ribosome and EJC through eRF1, eRF3, and Upf1. These results not only reveal the regulatory mechanism of SMG-1 kinase but also reveal the sequential remodeling of the ribosome:SURF complex to the predicted DECID (DECay InDucing) complex, a ribosome:SURF:EJC complex, as a mechanism of in vivo PTC discrimination.
+
+-1-Phosphatidylinositol 3-Kinase (+metabolism)
+-Animals
+-Caenorhabditis elegans (-enzymology)
+-Caenorhabditis elegans Proteins (-metabolism)
+-Codon, Nonsense (+metabolism)
++Gene Expression Regulation, Enzymologic
+-Glutathione (-analogs & derivatives; -metabolism)
+-Hela Cells
+-Humans
+-Multienzyme Complexes (+metabolism)
+-Phosphorylation
+-Protein Kinases (-metabolism)
+-Protein Subunits (+metabolism)
+-RNA Stability (+physiology)
+-Ribosomes (-metabolism)
+
+pii:23/9/1091
+doi:10.1101/gad.1767209
+pubmed:19417104
+pmc:PMC2682953
+

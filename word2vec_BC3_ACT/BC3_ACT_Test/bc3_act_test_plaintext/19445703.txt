@@ -1,0 +1,30 @@
+BMC Bioinformatics
+
+The High Throughput Sequence Annotation Service (HT-SAS) - the shortcut from sequence to true Medline words.
+
+S Kaczanowski, P Siedlecki, P Zielenkiewicz
+
+BACKGROUND: Advances in high-throughput technologies available to modern biology have created an increasing flood of experimentally determined facts. Ordering, managing and describing these raw results is the first step which allows facts to become knowledge. Currently there are limited ways to automatically annotate such data, especially utilizing information deposited in published literature. RESULTS: To aid researchers in describing results from high-throughput experiments we developed HT-SAS, a web service for automatic annotation of proteins using general English words. For each protein a poll of Medline abstracts connected to homologous proteins is gathered using the UniProt-Medline link. Overrepresented words are detected using binomial statistics approximation. We tested our automatic approach with a protein test set from SGD to determine the accuracy and usefulness of our approach. We also applied the automatic annotation service to improve annotations of proteins from Plasmodium bergei expressed exclusively during the blood stage. CONCLUSION: Using HT-SAS we created new, or enriched already established annotations for over 20% of proteins from Plasmodium bergei expressed in the blood stage, deposited in PlasmoDB. Our tests show this approach to information extraction provides highly specific keywords, often also when the number of abstracts is limited. Our service should be useful for manual curators, as a complement to manually curated information sources and for researchers working with protein datasets, especially from poorly characterized organisms.
+
++Abstracting and Indexing as Topic
+-Algorithms
+-Amino Acid Sequence
+-Animals
+-Data Interpretation, Statistical
++Database Management Systems
+-Databases, Protein
+-Internet
+-MEDLINE
+-Plasmodium berghei (-chemistry; -genetics)
+-Proteins (-analysis)
+-Proteomics (+methods)
+-Protozoan Proteins (-chemistry)
++Sequence Analysis, Protein
++Software
+-User-Computer Interface
+
+pii:1471-2105-10-148
+doi:10.1186/1471-2105-10-148
+pubmed:19445703
+pmc:PMC2694793
+

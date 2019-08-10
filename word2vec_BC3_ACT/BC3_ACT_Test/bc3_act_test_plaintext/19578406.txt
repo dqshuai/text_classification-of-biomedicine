@@ -1,0 +1,23 @@
+PLoS Genet.
+
+Genomic analysis of the basal lineage fungus Rhizopus oryzae reveals a whole-genome duplication.
+
+LJ Ma, AS Ibrahim, C Skory, MG Grabherr, G Burger, M Butler, M Elias, A Idnurm, BF Lang, T Sone, A Abe, SE Calvo, LM Corrochano, R Engels, J Fu, W Hansberg, JM Kim, CD Kodira, MJ Koehrsen, B Liu, D Miranda-Saavedra, S O'Leary, L Ortiz-Castellanos, R Poulter, J Rodriguez-Romero, J Ruiz-Herrera, YQ Shen, Q Zeng, J Galagan, BW Birren, CA Cuomo, BL Wickes
+
+Rhizopus oryzae is the primary cause of mucormycosis, an emerging, life-threatening infection characterized by rapid angioinvasive growth with an overall mortality rate that exceeds 50%. As a representative of the paraphyletic basal group of the fungal kingdom called "zygomycetes," R. oryzae is also used as a model to study fungal evolution. Here we report the genome sequence of R. oryzae strain 99-880, isolated from a fatal case of mucormycosis. The highly repetitive 45.3 Mb genome assembly contains abundant transposable elements (TEs), comprising approximately 20% of the genome. We predicted 13,895 protein-coding genes not overlapping TEs, many of which are paralogous gene pairs. The order and genomic arrangement of the duplicated gene pairs and their common phylogenetic origin provide evidence for an ancestral whole-genome duplication (WGD) event. The WGD resulted in the duplication of nearly all subunits of the protein complexes associated with respiratory electron transport chains, the V-ATPase, and the ubiquitin-proteasome systems. The WGD, together with recent gene duplications, resulted in the expansion of multiple gene families related to cell growth and signal transduction, as well as secreted aspartic protease and subtilase protein families, which are known fungal virulence factors. The duplication of the ergosterol biosynthetic pathway, especially the major azole target, lanosterol 14alpha-demethylase (ERG11), could contribute to the variable responses of R. oryzae to different azole drugs, including voriconazole and posaconazole. Expanded families of cell-wall synthesis enzymes, essential for fungal cell integrity but absent in mammalian hosts, reveal potential targets for novel and R. oryzae-specific diagnostic and therapeutic treatments.
+
+-DNA Transposable Elements
+-Fungal Proteins (-genetics)
+-Fungi (-classification; -genetics)
++Gene Duplication
++Genome, Fungal
++Genomics
+-Humans
+-Mucormycosis (+microbiology)
+-Phylogeny
+-Rhizopus (-chemistry; -classification; +genetics; -isolation & purification)
+
+doi:10.1371/journal.pgen.1000549
+pubmed:19578406
+pmc:PMC2699053
+

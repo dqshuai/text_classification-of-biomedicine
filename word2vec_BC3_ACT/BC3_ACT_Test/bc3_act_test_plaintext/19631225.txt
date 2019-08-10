@@ -1,0 +1,28 @@
+J. Mol. Biol.
+
+Differential display detects host nucleic acid motifs altered in scrapie-infected brain.
+
+R Lathe, A Harris
+
+The transmissible spongiform encephalopathies (TSEs) including scrapie have been attributed to an infectious protein or prion. Infectivity is allied to conversion of the endogenous nucleic-acid-binding protein PrP to an infectious modified form known as PrP(sc). The protein-only theory does not easily explain the enigmatic properties of the agent including strain variation. It was previously suggested that a short nucleic acid, perhaps host-encoded, might contribute to the pathoetiology of the TSEs. No candidate host molecules that might explain transmission of strain differences have yet been put forward. Differential display is a robust technique for detecting nucleic acid differences between two populations. We applied this technique to total nucleic acid preparations from scrapie-infected and control brain. Independent RNA preparations from eight normal and eight scrapie-infected (strain 263K) hamster brains were randomly amplified and visualized in parallel. Though the nucleic acid patterns were generally identical in scrapie-infected versus control brain, some rare bands were differentially displayed. Molecular species consistently overrepresented (or underrepresented) in all eight infected brain samples versus all eight controls were excised from the display, sequenced, and assembled into contigs. Only seven ros contigs (RNAs over- or underrepresented in scrapie) emerged, representing <4 kb from the transcriptome. All contained highly stable regions of secondary structure. The most abundant scrapie-only ros sequence was homologous to a repetitive transposable element (LINE; long interspersed nuclear element). Other ros sequences identified cellular RNA 7SL, clathrin heavy chain, visinin-like protein-1, and three highly specific subregions of ribosomal RNA (ros1-3). The ribosomal ros sequences accurately corresponded to LINE; retrotransposon insertion sites in ribosomal DNA (p<0.01). These differential motifs implicate specific host RNAs in the pathoetiology of the TSEs.
+
++Amino Acid Sequence
+-Animals
+-Base Sequence
+-Brain (+metabolism; -pathology)
+-Cricetinae
+-Cricetulus
++Gene Expression Profiling
+-Humans
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-PrPSc Proteins (-chemistry; -genetics; -metabolism)
+-Protein Structure, Secondary
+-Retroelements (-genetics)
+-Scrapie (+genetics; -metabolism)
+-Sequence Alignment
+
+pii:S0022-2836(09)00898-5
+doi:10.1016/j.jmb.2009.07.045
+pubmed:19631225
+

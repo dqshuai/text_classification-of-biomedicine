@@ -1,0 +1,27 @@
+PLoS ONE
+
+Molecular dynamics simulation of ligand dissociation from liver fatty acid binding protein.
+
+D Long, Y Mu, D Yang
+
+The mechanisms of how ligands enter and leave the binding cavity of fatty acid binding proteins (FABPs) have been a puzzling question over decades. Liver fatty acid binding protein (LFABP) is a unique family member which accommodates two molecules of fatty acids in its cavity and exhibits the capability of interacting with a variety of ligands with different chemical structures and properties. Investigating the ligand dissociation processes of LFABP is thus a quite interesting topic, which however is rather difficult for both experimental approaches and ordinary simulation strategies. In the current study, random expulsion molecular dynamics simulation, which accelerates ligand motions for rapid dissociation, was used to explore the potential egress routes of ligands from LFABP. The results showed that the previously hypothesized "portal region" could be readily used for the dissociation of ligands at both the low affinity site and the high affinity site. Besides, one alternative portal was shown to be highly favorable for ligand egress from the high affinity site and be related to the unique structural feature of LFABP. This result lends strong support to the hypothesis from the previous NMR exchange studies, which in turn indicates an important role for this alternative portal. Another less favored potential portal located near the N-terminal end was also identified. Identification of the dissociation pathways will allow further mechanistic understanding of fatty acid uptake and release by computational and/or experimental techniques.
+
+-Binding Sites
+-Biophysics (-methods)
+-Computational Biology (-methods)
+-Computer Simulation
+-Crystallography, X-Ray
+-Databases, Protein
+-Fatty Acid-Binding Proteins (+chemistry)
+-Humans
+-Ligands
+-Magnetic Resonance Spectroscopy
+-Models, Biological
+-Models, Molecular
+-Protein Structure, Tertiary
+-Software
+
+doi:10.1371/journal.pone.0006081
+pubmed:19564911
+pmc:PMC2698982
+

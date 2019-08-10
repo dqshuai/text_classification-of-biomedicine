@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+Protinfo PPC: a web server for atomic level prediction of protein complexes.
+
+W Kittichotirat, M Guerquin, RE Bumgarner, R Samudrala
+
+'Protinfo PPC' (Prediction of Protein Complex) is a web server that predicts atomic level structures of interacting proteins from their amino-acid sequences. It uses the interolog method to search for experimental protein complex structures that are homologous to the input sequences submitted by a user. These structures are then used as starting templates to generate protein complex models, which are returned to the user in Protein Data Bank format via email. The server supports modeling of both homo and hetero multimers and generally produces full atomic level models (including insertion/deletion regions) of protein complexes as long as at least one putative homologous template for the query sequences is found. The modeling pipeline behind Protinfo PPC has been rigorously benchmarked and proven to produce highly accurate protein complex models. The fully automated all atom comparative modeling service for protein complexes provided by Protinfo PPC server offers wide capabilities ranging from prediction of protein complex interactions to identification of possible interaction sites, which will be useful for researchers studying these topics. The Protinfo PPC web server is available at http://protinfo.compbio.washington.edu/ppc/.
+
+-Databases, Protein
+-Internet
+-Models, Molecular
+-Multiprotein Complexes (+chemistry)
+-Protein Conformation
+-Reproducibility of Results
+-Sequence Analysis, Protein
++Software
+-User-Computer Interface
+
+pii:gkp306
+doi:10.1093/nar/gkp306
+pubmed:19420059
+pmc:PMC2703994
+

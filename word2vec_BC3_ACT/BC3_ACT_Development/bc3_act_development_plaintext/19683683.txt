@@ -1,0 +1,24 @@
+Cell Host Microbe
+
+HIV-1 Nef interferes with host cell motility by deregulation of Cofilin.
+
+B Stolp, M Reichman-Fried, L Abraham, X Pan, SI Giese, S Hannemann, P Goulimari, E Raz, R Grosse, OT Fackler
+
+HIV-1 Nef is a key factor in AIDS pathogenesis. Here, we report that Nef potently inhibits motility of fibroblasts and chemotaxis of HIV-1-infected primary human T lymphocytes toward the chemokines SDF-1alpha, CCL-19, and CCL-21 ex vivo. Furthermore, Nef inhibits guided motility of zebrafish primordial germ cells toward endogenous SDF-1a in vivo. These migration defects result from Nef-mediated inhibition of the actin remodeling normally triggered by migratory stimuli. Nef strongly induces phosphorylation of cofilin, inactivating this evolutionarily conserved actin-depolymerizing factor that promotes cell motility when unphosphorylated. Nef-dependent cofilin deregulation requires association of Nef with the cellular kinase Pak2. Disruption of Nef-Pak2 association restores the cofilin phosphorylation levels and actin remodeling that facilitate cell motility. We conclude that HIV-1 Nef alters Pak2 function, which directly or indirectly inactivates cofilin, thereby restricting migration of infected T lymphocytes as part of a strategy to optimize immune evasion and HIV-1 replication.
+
+-Actin Depolymerizing Factors (+metabolism)
+-Cell Line
++Cell Movement
+-Cells, Cultured
+-Fibroblasts (-virology)
+-HIV-1 (+pathogenicity)
+-Humans
+-T-Lymphocytes (-virology)
+-Virulence Factors (+physiology)
+-nef Gene Products, Human Immunodeficiency Virus (+physiology)
+-p21-Activated Kinases (-metabolism)
+
+pii:S1931-3128(09)00216-9
+doi:10.1016/j.chom.2009.06.004
+pubmed:19683683
+

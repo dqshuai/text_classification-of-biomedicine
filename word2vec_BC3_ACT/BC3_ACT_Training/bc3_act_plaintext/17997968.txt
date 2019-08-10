@@ -1,0 +1,31 @@
+Structure
+
+Crystal structure of the yeast inner kinetochore subunit Cep3p.
+
+JJ Bellizzi, PK Sorger, SC Harrison
+
+In budding yeast, the four-protein CBF3 complex (Skp1p-Ctf13p-Cep3p-Ndc10p) initiates kinetochore assembly by binding to the CDEIII locus of centromeric DNA. A Cep3p dimer recruits a Skp1p-Ctf13p heterodimer and contacts two sites on CDEIII. We report here the crystal structure, determined at 2.8 A resolution by multiple isomorphous replacement with anomalous scattering, of a truncated Cep3p (Cep3p [47-608]), comprising all but an N-terminal, Zn(2)Cys(6)-cluster, DNA-binding module. Cep3p has a well-ordered structure throughout essentially all of its polypeptide chain, unlike most yeast transcription factors, including those with Zn(2)Cys(6) clusters, such as Gal4p. This difference may reflect an underlying functional distinction: whereas any particular transcription factor must adapt to a variety of upstream activating sites, Cep3p scaffolds kinetochore assembly on centromeres uniformly configured on all 16 yeast chromosomes. We have, using the structure of Cep3p (47-608) and the known structures of Zn(2)Cys(6)-cluster domains, modeled the interaction of Cep3p with CDEIII.
+
+-Amino Acid Sequence
+-Base Sequence
+-Centromere (-metabolism)
+-Crystallography, X-Ray
+-DNA, Fungal (-chemistry; -metabolism)
+-DNA-Binding Proteins (+chemistry; -metabolism)
+-Kinetochores (+chemistry)
+-Models, Biological
+-Models, Molecular
+-Molecular Sequence Data
+-Nuclear Proteins (+chemistry; -metabolism)
+-Protein Conformation
+-Protein Subunits (-chemistry; -metabolism)
+-Saccharomyces cerevisiae (-metabolism)
+-Saccharomyces cerevisiae Proteins (+chemistry; -metabolism)
+-Sequence Alignment
+
+pii:S0969-2126(07)00333-4
+doi:10.1016/j.str.2007.09.008
+pubmed:17997968
+mid:HHMIMS39792
+pmc:PMC2288795
+

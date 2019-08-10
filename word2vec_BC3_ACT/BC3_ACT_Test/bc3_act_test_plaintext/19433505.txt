@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+The formation pathway of i-motif tetramers.
+
+JL Leroy
+
+The i-motif is a four-stranded structure formed by two intercalated parallel duplexes containing hemiprotonated C*C(+) pairs. In order to describe the sequence of reactions by which four C-rich strands associate, we measured the formation and dissociation rates of three [TC(n)](4) tetramers (n = 3, 4 and 5), their dissociation constant and the reaction order for tetramer formation by NMR. We find that TC(n) association results in the formation of several tetramers differing by the number of intercalated C*C(+) pairs. The formation rates of the fully and partially intercalated species are comparable but their lifetimes increase strongly with the number of intercalated C*C(+) pairs, and for this reason the single tetramer detected at equilibrium is that with optimal intercalation. The tetramer half formation times vary as the power -2 of the oligonucleotide concentration indicating that the reaction order for i-motif formation is 3. This observation is inconsistent with a model supposing association of two preformed duplex and suggests that quadruplex formation proceeds via sequential strand association into duplex and triplex intermediate species and that triplex formation is rate limiting.
+
+-Cytidine (+chemistry)
+-Hydrogen-Ion Concentration
+-Kinetics
+-Nuclear Magnetic Resonance, Biomolecular
+-Nucleic Acid Conformation
+-Oligonucleotides (+chemistry)
+-Protons
+-Temperature
+-Thymidine (-chemistry)
+
+pii:gkp340
+doi:10.1093/nar/gkp340
+pubmed:19433505
+pmc:PMC2709581
+

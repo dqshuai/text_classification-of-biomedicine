@@ -1,0 +1,20 @@
+Biochem. Biophys. Res. Commun.
+
+Measurement of the unstained biological sample by a novel scanning electron generation X-ray microscope based on SEM.
+
+T Ogura
+
+We introduced a novel X-ray microscope system based on scanning electron microscopy using thin film, which enables the measurement of unstained biological samples without damage. An unstained yeast sample was adsorbed under a titanium (Ti)-coated silicon nitride (Si3N4) film 90 nm thick. The X-ray signal from the film was detected by an X-ray photodiode (PD) placed below the sample. With an electron beam at 2.6 kV acceleration and 6.75 nA current, the yeast image is obtained using the X-ray PD. The image is created by soft X-rays from the Ti layer. The Ti layer is effective in generating the characteristic 2.7-nm wavelength X-rays by the irradiation of electrons. Furthermore, we investigated the electron trajectory and the generation of the characteristic X-rays within the Ti-coated Si3N4 film by Monte Carlo simulation. Our system can be easily utilized to observe various unstained biological samples of cells, bacteria, and viruses.
+
+-Microscopy, Electron, Scanning (+instrumentation; +methods)
+-Monte Carlo Method
+-Saccharomyces cerevisiae (-ultrastructure)
+-Silicon Compounds (-chemistry)
+-Titanium (-chemistry)
+-X-Ray Film
+-X-Rays
+
+pii:S0006-291X(09)01072-9
+doi:10.1016/j.bbrc.2009.05.107
+pubmed:19486897
+

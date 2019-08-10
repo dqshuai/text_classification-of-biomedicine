@@ -1,0 +1,36 @@
+Circ. Res.
+
+CaMKII negatively regulates calcineurin-NFAT signaling in cardiac myocytes.
+
+SM MacDonnell, J Weisser-Thomas, H Kubo, M Hanscome, Q Liu, N Jaleel, R Berretta, X Chen, JH Brown, AK Sabri, JD Molkentin, SR Houser
+
+RATIONALE: Pathological cardiac myocyte hypertrophy is thought to be induced by the persistent increases in intracellular Ca(2+) needed to maintain cardiac function when systolic wall stress is increased. Hypertrophic Ca(2+) binds to calmodulin (CaM) and activates the phosphatase calcineurin (Cn) and CaM kinase (CaMK)II. Cn dephosphorylates cytoplasmic NFAT (nuclear factor of activated T cells), inducing its translocation to the nucleus where it activates antiapoptotic and hypertrophic target genes. Cytoplasmic CaMKII regulates Ca(2+) handling proteins but whether or not it is directly involved in hypertrophic and survival signaling is not known. OBJECTIVE: This study explored the hypothesis that cytoplasmic CaMKII reduces NFAT nuclear translocation by inhibiting the phosphatase activity of Cn. METHODS AND RESULTS: Green fluorescent protein-tagged NFATc3 was used to determine the cellular location of NFAT in cultured neonatal rat ventricular myocytes (NRVMs) and adult feline ventricular myocytes. Constitutively active (CaMKII-CA) or dominant negative (CaMKII-DN) mutants of cytoplasmic targeted CaMKII(deltac) were used to activate and inhibit cytoplasmic CaMKII activity. In NRVM CaMKII-DN (48.5+/-3%, P<0.01 versus control) increased, whereas CaMKII-CA decreased (5.9+/-1%, P<0.01 versus control) NFAT nuclear translocation (Control: 12.3+/-1%). Cn inhibitors were used to show that these effects were caused by modulation of Cn activity. Increasing Ca(2+) increased Cn-dependent NFAT translocation (to 71.7+/-7%, P<0.01) and CaMKII-CA reduced this effect (to 17.6+/-4%). CaMKII-CA increased TUNEL and caspase-3 activity (P<0.05). CaMKII directly phosphorylated Cn at Ser197 in CaMKII-CA infected NRVMs and in hypertrophied feline hearts. CONCLUSION: These data show that activation of cytoplasmic CaMKII inhibits NFAT nuclear translocation by phosphorylation and subsequent inhibition of Cn.
+
+-Active Transport, Cell Nucleus (-genetics)
+-Animals
+-Calcineurin (-genetics; +metabolism)
+-Calcium (-metabolism)
+-Calcium-Calmodulin-Dependent Protein Kinase Type 2 (-genetics; +metabolism)
+-Calmodulin (-genetics; -metabolism)
+-Cardiomegaly (-genetics; +metabolism; -pathology)
+-Caspase 3 (-genetics; -metabolism)
+-Cats
+-Cell Nucleus (-genetics; +metabolism)
+-Cytoplasm (-genetics; -metabolism)
+-Heart Ventricles (-metabolism; -pathology)
+-Humans
+-K562 Cells
+-Muscle Proteins (-genetics; -metabolism)
+-Mutation
+-Myocytes, Cardiac (+metabolism; -pathology)
+-NFATC Transcription Factors (-genetics; +metabolism)
+-Phosphorylation (-genetics)
+-Rats
+-Rats, Sprague-Dawley
+
+pii:CIRCRESAHA.109.194035
+doi:10.1161/CIRCRESAHA.109.194035
+pubmed:19608982
+mid:NIHMS139898
+pmc:PMC2765687
+

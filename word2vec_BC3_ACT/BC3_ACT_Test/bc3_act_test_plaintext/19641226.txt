@@ -1,0 +1,32 @@
+J. Biol. Chem.
+
+Unique microRNA profile in end-stage heart failure indicates alterations in specific cardiovascular signaling networks.
+
+SV Naga Prasad, ZH Duan, MK Gupta, VS Surampudi, S Volinia, GA Calin, CG Liu, A Kotwal, CS Moravec, RC Starling, DM Perez, S Sen, Q Wu, EF Plow, CM Croce, S Karnik
+
+It is well established that gene expression patterns are substantially altered in cardiac hypertrophy and heart failure, but the reasons for such differences are not clear. MicroRNAs (miRNAs) are short noncoding RNAs that provide a novel mechanism for gene regulation. The goal of this study was to comprehensively test for alterations in miRNA expression using human heart failure samples with an aim to build signaling pathway networks using predicted targets for the miRNAs and to identify nodal molecules that control these networks. Genome-wide profiling of miRNAs was performed using custom-designed miRNA microarray followed by validation on an independent set of samples. Eight miRNAs are significantly altered in heart failure of which we have identified two novel miRNAs that are yet to be implicated in cardiac pathophysiology. To gain an unbiased global perspective on regulation by altered miRNAs, predicted targets of eight miRNAs were analyzed using the Ingenuity Pathways Analysis network algorithm to build signaling networks and identify nodal molecules. The majority of nodal molecules identified in our analysis are targets of altered miRNAs and are known regulators of cardiovascular signaling. A heart failure gene expression data base was used to analyze changes in expression patterns for these target nodal molecules. Indeed, expression of nodal molecules was altered in heart failure and inversely correlated to miRNA changes validating our analysis. Importantly, using network analysis we have identified a limited number of key functional targets that may regulate expression of the myriad proteins in heart failure and could be potential therapeutic targets.
+
+-Animals
+-Cardiomyopathy, Dilated (-drug therapy; -genetics; -metabolism; -pathology)
+-Cardiovascular System (+metabolism)
+-Cell Line
+-Computational Biology
+-Female
+-Gene Expression Regulation
+-Heart Failure (-drug therapy; +genetics; +metabolism; -pathology)
+-Humans
+-Immunoblotting
+-Male
+-Mice
+-MicroRNAs (+genetics; +metabolism)
+-Middle Aged
+-Nucleic Acid Hybridization
+-Oligonucleotide Array Sequence Analysis
+-Reproducibility of Results
++Signal Transduction
+
+pii:M109.036541
+doi:10.1074/jbc.M109.036541
+pubmed:19641226
+pmc:PMC2785678
+

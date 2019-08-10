@@ -1,0 +1,27 @@
+Plant Physiol.
+
+A nuclear-targeted cameleon demonstrates intranuclear Ca2+ spiking in Medicago truncatula root hairs in response to rhizobial nodulation factors.
+
+BJ Sieberer, M Chabaud, AC Timmers, A Monin, J Fournier, DG Barker
+
+Lipochitooligosaccharide nodulation factors (NFs) secreted by endosymbiotic nitrogen-fixing rhizobia trigger Ca(2+) spiking in the cytoplasmic perinuclear region of host legume root hairs. To determine whether NFs also elicit Ca(2+) responses within the plant cell nucleus we have made use of a nucleoplasmin-tagged cameleon (NupYC2.1). Confocal microscopy using this nuclear-specific calcium reporter has revealed sustained and regular Ca(2+) spiking within the nuclear compartment of Medicago truncatula root hairs treated with Sinorhizobium meliloti NFs. Since the activation of Ca(2+) oscillations is blocked in M. truncatula nfp, dmi1, and dmi2 mutants, and unaltered in a dmi3 background, it is likely that intranuclear spiking lies on the established NF-dependent signal transduction pathway, leading to cytoplasmic calcium spiking. A semiautomated mathematical procedure has been developed to identify and analyze nuclear Ca(2+) spiking profiles, and has revealed high cell-to-cell variability in terms of both periodicity and spike duration. Time-lapse imaging of the cameleon Förster resonance energy transfer-based ratio has allowed us to visualize the nuclear spiking variability in situ and to demonstrate the absence of spiking synchrony between adjacent growing root hairs. Finally, spatio-temporal analysis of the asymmetric nuclear spike suggests that the initial rapid increase in Ca(2+) concentration occurs principally in the vicinity of the nuclear envelope. The discovery that rhizobial NF perception leads to the activation of cell-autonomous Ca(2+) oscillations on both sides of the nuclear envelope raises major questions about the respective roles of the cytoplasmic and nuclear compartments in transducing this key endosymbiotic signal.
+
+-Calcium (+metabolism)
++Calcium Signaling
+-Fluorescence Resonance Energy Transfer
+-Intracellular Signaling Peptides and Proteins
+-Luminescent Proteins (-metabolism)
+-Medicago truncatula (-genetics; +metabolism)
+-Microscopy, Confocal
+-Nucleoplasmins (-metabolism)
++Plant Root Nodulation
+-Plant Roots (+metabolism)
+-Recombinant Proteins (-metabolism)
+-Signal Transduction
+-Sinorhizobium meliloti (-physiology)
+
+pii:pp.109.142851
+doi:10.1104/pp.109.142851
+pubmed:19700563
+pmc:PMC2773104
+

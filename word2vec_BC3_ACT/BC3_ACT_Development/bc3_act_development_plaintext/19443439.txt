@@ -1,0 +1,19 @@
+Nucleic Acids Res.
+
+Inhibition of translesion DNA polymerase by archaeal reverse gyrase.
+
+A Valenti, G Perugino, T Nohmi, M Rossi, M Ciaramella
+
+Reverse gyrase is a unique DNA topoisomerase endowed with ATP-dependent positive supercoiling activity. It is typical of microorganisms living at high temperature and might play a role in maintenance of genome stability and repair. We have identified the translesion DNA polymerase SsoPolY/Dpo4 as one partner of reverse gyrase in the hyperthermophilic archaeon Sulfolobus solfataricus. We show here that in cell extracts, PolY and reverse gyrase co-immunoprecipitate with each other and with the single strand binding protein, SSB. The interaction is confirmed in vitro by far-western and Surface Plasmon Resonance. In functional assays, reverse gyrase inhibits PolY, but not the S. solfataricus B-family DNA polymerase PolB1. Mutational analysis shows that inhibition of PolY activity depends on both ATPase and topoisomerase activities of reverse gyrase, suggesting that the intact positive supercoiling activity is required for PolY inhibition. In vivo, reverse gyrase and PolY are degraded after induction of DNA damage. Inhibition by reverse gyrase and degradation might act as a double mechanism to control PolY and prevent its potentially mutagenic activity when undesired. Inhibition of a translesion polymerase by topoisomerase-induced modification of DNA structure may represent a previously unconsidered mechanism of regulation of these two-faced enzymes.
+
++DNA Damage
+-DNA Polymerase beta (+metabolism)
+-DNA Topoisomerases, Type I (+metabolism)
+-DNA Topoisomerases, Type I, Archaeal (+metabolism)
+-Sulfolobus solfataricus (+enzymology)
+
+pii:gkp386
+doi:10.1093/nar/gkp386
+pubmed:19443439
+pmc:PMC2715243
+

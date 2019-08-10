@@ -1,0 +1,22 @@
+PLoS Comput. Biol.
+
+Species tree inference by minimizing deep coalescences.
+
+C Than, L Nakhleh
+
+In a 1997 seminal paper, W. Maddison proposed minimizing deep coalescences, or MDC, as an optimization criterion for inferring the species tree from a set of incongruent gene trees, assuming the incongruence is exclusively due to lineage sorting. In a subsequent paper, Maddison and Knowles provided and implemented a search heuristic for optimizing the MDC criterion, given a set of gene trees. However, the heuristic is not guaranteed to compute optimal solutions, and its hill-climbing search makes it slow in practice. In this paper, we provide two exact solutions to the problem of inferring the species tree from a set of gene trees under the MDC criterion. In other words, our solutions are guaranteed to find the tree that minimizes the total number of deep coalescences from a set of gene trees. One solution is based on a novel integer linear programming (ILP) formulation, and another is based on a simple dynamic programming (DP) approach. Powerful ILP solvers, such as CPLEX, make the first solution appealing, particularly for very large-scale instances of the problem, whereas the DP-based solution eliminates dependence on proprietary tools, and its simplicity makes it easy to integrate with other genomic events that may cause gene tree incongruence. Using the exact solutions, we analyze a data set of 106 loci from eight yeast species, a data set of 268 loci from eight Apicomplexan species, and several simulated data sets. We show that the MDC criterion provides very accurate estimates of the species tree topologies, and that our solutions are very fast, thus allowing for the accurate analysis of genome-scale data sets. Further, the efficiency of the solutions allow for quick exploration of sub-optimal solutions, which is important for a parsimony-based criterion such as MDC, as we show. We show that searching for the species tree in the compatibility graph of the clusters induced by the gene trees may be sufficient in practice, a finding that helps ameliorate the computational requirements of optimization solutions. Further, we study the statistical consistency and convergence rate of the MDC criterion, as well as its optimality in inferring the species tree. Finally, we show how our solutions can be used to identify potential horizontal gene transfer events that may have caused some of the incongruence in the data, thus augmenting Maddison's original framework. We have implemented our solutions in the PhyloNet software package, which is freely available at: http://bioinfo.cs.rice.edu/phylonet.
+
+-Animals
+-Apicomplexa (-classification; -genetics)
+-Cluster Analysis
+-Computational Biology (+methods)
+-Databases, Genetic
++Genetic Speciation
++Models, Genetic
++Phylogeny
+-Yeasts (-classification; -genetics)
+
+doi:10.1371/journal.pcbi.1000501
+pubmed:19749978
+pmc:PMC2729383
+

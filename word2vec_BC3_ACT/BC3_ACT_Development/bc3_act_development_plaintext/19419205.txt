@@ -1,0 +1,25 @@
+J. Med. Chem.
+
+Design, synthesis, and biological activity of boronic acid-based histone deacetylase inhibitors.
+
+N Suzuki, T Suzuki, Y Ota, T Nakano, M Kurihara, H Okuda, T Yamori, H Tsumoto, H Nakagawa, N Miyata
+
+Guided by the proposed catalytic mechanism of histone deacetylases (HDACs), we designed and synthesized a series of boronic acid-based HDAC inhibitors bearing an alpha-amino acid moiety. In this series, compounds (S)-18, 20, and 21 showed potent HDAC-inhibitory activity, highlighting the significance of the (S)-amino acid moiety. In cancer cell growth inhibition assays, compounds (S)-18, 20, and 21 exerted strong activity, and the values of the ratio of the concentration causing 50% growth inhibition (GI(50)) to the concentration causing 50% enzyme inhibition (IC(50)), i.e., GI(50)/IC(50), were low. The potency of these compounds was similar to that of clinically used suberoylanilide hydroxamic acid (SAHA) (2). The results of Western blot analysis indicated that the cancer cell growth-inhibitory activity of compounds (S)-18, 20, and 21 is the result of HDAC inhibition. A molecular modeling study suggested that the hydrated boronic acid interacts with zinc ion, Tyr residue, and His residue in the active site of HDACs. Our findings indicate that these boronic acid derivatives represent an entry into a new class of HDAC inhibitors.
+
+-Animals
+-Biocatalysis
+-Boronic Acids (-chemical synthesis; +chemistry; +pharmacology)
+-Catalytic Domain
+-Cell Line, Tumor
+-Cell Proliferation (-drug effects)
++Drug Design
+-Enzyme Inhibitors (-chemical synthesis; +chemistry; +pharmacology)
++Histone Deacetylase Inhibitors
+-Histone Deacetylases (-chemistry; -metabolism)
+-Humans
+-Inhibitory Concentration 50
+-Models, Molecular
+
+doi:10.1021/jm900125m
+pubmed:19419205
+

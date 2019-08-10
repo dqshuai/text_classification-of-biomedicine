@@ -1,0 +1,18 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Functional computational model for optimal color coding.
+
+AK Romney, CC Chiao
+
+This paper presents a computational model for color coding that provides a functional explanation of how humans perceive colors in a homogeneous color space. Beginning with known properties of human cone photoreceptors, the model estimates the locations of the reflectance spectra of Munsell color chips in perceptual color space as represented in the CIE L*a*b* color system. The fit between the two structures is within the limits of expected measurement error. Estimates of the structure of perceptual color space for color anomalous dichromats missing one of the normal cone photoreceptors correspond closely to results from the Farnsworth-Munsell color test. An unanticipated outcome of the model provides a functional explanation of why additive lights are always red, green, and blue and provide maximum gamut for color monitors and color television even though they do not correspond to human cone absorption spectra.
+
++Color Perception
++Computer Simulation
+-Humans
++Models, Psychological
+
+pii:0904688106
+doi:10.1073/pnas.0904688106
+pubmed:19497870
+pmc:PMC2700923
+

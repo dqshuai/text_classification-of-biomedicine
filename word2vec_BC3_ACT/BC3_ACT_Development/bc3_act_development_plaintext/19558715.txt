@@ -1,0 +1,23 @@
+BMC Genet.
+
+Modelling dominance in a flexible intercross analysis.
+
+L Rönnegård, F Besnier, O Carlborg
+
+BACKGROUND: The aim of this paper is to develop a flexible model for analysis of quantitative trait loci (QTL) in outbred line crosses, which includes both additive and dominance effects. Our flexible intercross analysis (FIA) model accounts for QTL that are not fixed within founder lines and is based on the variance component framework. Genome scans with FIA are performed using a score statistic, which does not require variance component estimation. RESULTS: Simulations of a pedigree with 800 F2 individuals showed that the power of FIA including both additive and dominance effects was almost 50% for a QTL with equal allele frequencies in both lines with complete dominance and a moderate effect, whereas the power of a traditional regression model was equal to the chosen significance value of 5%. The power of FIA without dominance effects included in the model was close to those obtained for FIA with dominance for all simulated cases except for QTL with overdominant effects. A genome-wide linkage analysis of experimental data from an F2 intercross between Red Jungle Fowl and White Leghorn was performed with both additive and dominance effects included in FIA. The score values for chicken body weight at 200 days of age were similar to those obtained in FIA analysis without dominance. CONCLUSION: We have extended FIA to include QTL dominance effects. The power of FIA was superior, or similar, to standard regression methods for QTL effects with dominance. The difference in power for FIA with or without dominance is expected to be small as long as the QTL effects are not overdominant. We suggest that FIA with only additive effects should be the standard model to be used, especially since it is more computationally efficient.
+
+-Animals
+-Body Weight (-genetics)
+-Chickens (-genetics)
+-Computer Simulation
++Crosses, Genetic
+-Gene Frequency
++Models, Genetic
++Quantitative Trait Loci
+-Regression Analysis
+
+pii:1471-2156-10-30
+doi:10.1186/1471-2156-10-30
+pubmed:19558715
+pmc:PMC2716366
+

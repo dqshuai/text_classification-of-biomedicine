@@ -1,0 +1,23 @@
+BMC Struct. Biol.
+
+Sequence and structural analysis of the Asp-box motif and Asp-box beta-propellers; a widespread propeller-type characteristic of the Vps10 domain family and several glycoside hydrolase families.
+
+EM Quistgaard, SS Thirup
+
+BACKGROUND: The Asp-box is a short sequence and structure motif that folds as a well-defined beta-hairpin. It is present in different folds, but occurs most prominently as repeats in beta-propellers. Asp-box beta-propellers are known to be characteristically irregular and to occur in many medically important proteins, most of which are glycosidase enzymes, but they are otherwise not well characterized and are only rarely treated as a distinct beta-propeller family. We have analyzed the sequence, structure, function and occurrence of the Asp-box and s-Asp-box -a related shorter variant, and provide a comprehensive classification and computational analysis of the Asp-box beta-propeller family. RESULTS: We find that all conserved residues of the Asp-box support its structure, whereas the residues in variable positions are generally used for other purposes. The Asp-box clearly has a structural role in beta-propellers and is highly unlikely to be involved in ligand binding. Sequence analysis of the Asp-box beta-propeller family reveals it to be very widespread especially in bacteria and suggests a wide functional range. Disregarding the Asp-boxes, sequence conservation of the propeller blades is very low, but a distinct pattern of residues with specific properties have been identified. Interestingly, Asp-boxes are occasionally found very close to other propeller-associated repeats in extensive mixed-motif stretches, which strongly suggests the existence of a novel class of hybrid beta-propellers. Structural analysis reveals that the top and bottom faces of Asp-box beta-propellers have striking and consistently different loop properties; the bottom is structurally conserved whereas the top shows great structural variation. Interestingly, only the top face is used for functional purposes in known structures. A structural analysis of the 10-bladed beta-propeller fold, which has so far only been observed in the Asp-box family, reveals that the inner strands of the blades are unusually far apart, which explains the surprisingly large diameter of the central tunnel of sortilin. CONCLUSION: We have provided new insight into the structure and function of the Asp-box motif and of Asp-box beta-propellers, and expect that the classification and analysis presented here will prove helpful in interpreting future data on Asp-box proteins in general and on Asp-box beta-propellers in particular.
+
+-Amino Acid Motifs
+-Amino Acid Sequence
+-Databases, Protein
+-Glycoside Hydrolases (+chemistry)
+-Molecular Sequence Data
+-Protein Structure, Tertiary
+-Sequence Alignment
+-Sequence Homology, Amino Acid
+-Vesicular Transport Proteins (+chemistry)
+
+pii:1472-6807-9-46
+doi:10.1186/1472-6807-9-46
+pubmed:19594936
+pmc:PMC2716378
+

@@ -1,0 +1,25 @@
+Nat. Methods
+
+Dereplication and de novo sequencing of nonribosomal peptides.
+
+J Ng, N Bandeira, WT Liu, M Ghassemian, TL Simmons, WH Gerwick, R Linington, PC Dorrestein, PA Pevzner
+
+Nonribosomal peptides (NRPs) are of great pharmacological importance, but there is currently no technology for high-throughput NRP 'dereplication' and sequencing. We used multistage mass spectrometry followed by spectral alignment algorithms for sequencing of cyclic NRPs. We also developed an algorithm for comparative NRP dereplication that establishes similarities between newly isolated and previously identified similar but nonidentical NRPs, substantially reducing dereplication efforts.
+
+-Algorithms
+-Amino Acid Sequence
++Databases, Protein
+-Mass Spectrometry
+-Molecular Sequence Data
++Peptide Biosynthesis, Nucleic Acid-Independent
+-Peptide Synthases (-biosynthesis; -chemistry; -genetics)
+-Peptides, Cyclic (-biosynthesis; +chemistry; -genetics)
+-Sequence Analysis, Protein (+methods)
+-Sequence Homology, Amino Acid
+
+pii:nmeth.1350
+doi:10.1038/nmeth.1350
+pubmed:19597502
+mid:NIHMS125909
+pmc:PMC2754211
+

@@ -1,0 +1,19 @@
+J. Cell. Sci.
+
+Biological pathways as communicating computer systems.
+
+MZ Kwiatkowska, JK Heath
+
+Time and cost are the enemies of cell biology. The number of experiments required to rigorously dissect and comprehend a pathway of even modest complexity is daunting. Methods are needed to formulate biological pathways in a machine-analysable fashion, which would automate the process of considering all possible experiments in a complex pathway and identify those that command attention. In this Essay, we describe a method that is based on the exploitation of computational tools that were originally developed to analyse reactive communicating computer systems such as mobile phones and web browsers. In this approach, the biological process is articulated as an executable computer program that can be interrogated using methods that were developed to analyse complex software systems. Using case studies of the FGF, MAPK and Delta/Notch pathways, we show that the application of this technology can yield interesting insights into the behaviour of signalling pathways, which have subsequently been corroborated by experimental data.
+
++Cell Communication
+-Computational Biology
++Computer Simulation
++Computer Systems
++Models, Biological
++Signal Transduction
+
+pii:122/16/2793
+doi:10.1242/jcs.039701
+pubmed:19657015
+

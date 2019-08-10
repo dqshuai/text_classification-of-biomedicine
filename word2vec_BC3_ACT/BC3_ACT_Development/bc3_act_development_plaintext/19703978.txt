@@ -1,0 +1,31 @@
+Infect. Immun.
+
+Atypical roles for Campylobacter jejuni amino acid ATP binding cassette transporter components PaqP and PaqQ in bacterial stress tolerance and pathogen-host cell dynamics.
+
+AE Lin, K Krastel, RI Hobb, SA Thompson, DG Cvitkovitch, EC Gaynor
+
+Campylobacter jejuni is a human pathogen causing severe diarrheal disease; however, our understanding of the survival of C. jejuni during disease and transmission remains limited. Amino acid ATP binding cassette (AA-ABC) transporters in C. jejuni have been proposed as important pathogenesis factors. We have investigated a novel AA-ABC transporter system, encoded by cj0467 to cj0469, by generating targeted deletions of cj0467 (the membrane transport component) and cj0469 (the ATPase component) in C. jejuni 81-176. The analyses described here have led us to designate these genes paqP and paqQ, respectively (pathogenesis-associated glutamine [q] ABC transporter permease [P] and ATPase [Q]). We found that loss of either component resulted in amino acid uptake defects, most notably diminished glutamine uptake. Altered resistance to a series of environmental and in vivo stresses was also observed: both mutants were hyperresistant to aerobic and organic peroxide stress, and while the DeltapaqP mutant was also hyperresistant to heat and osmotic shock, the DeltapaqQ mutant was more susceptible than the wild type to the latter two stresses. The DeltapaqP and DeltapaqQ mutants also displayed a surprising but statistically significant increase in recovery from macrophages and epithelial cells in short-term intracellular survival assays. Annexin V, 4',6-diamidino-2-phenylindole (DAPI), and Western blot analyses revealed that macrophages infected with the DeltapaqP or DeltapaqQ mutant exhibited transient but significant decreases in cell death and extracellular signal-regulated kinase-mitogen-activated protein kinase activation compared to levels in wild-type-infected cells. The DeltapaqP mutant was not defective in either short-term or longer-term mouse colonization, consistent with its increased stress survival and diminished host cell damage phenotypes. Collectively, these results demonstrate a unique correlation of an AA-ABC transporter with bacterial stress tolerances and host cell responses to pathogen infection.
+
+-ATP-Binding Cassette Transporters (-genetics; +metabolism)
+-Amino Acid Sequence
+-Animals
+-Bacterial Proteins (-genetics; -metabolism)
+-Blotting, Southern
+-Blotting, Western
+-Campylobacter Infections (-genetics; -metabolism)
+-Campylobacter jejuni (-pathogenicity; +physiology)
+-Gene Expression Regulation, Bacterial
+-Genes, Bacterial (-genetics)
+-Host-Parasite Interactions (+physiology)
+-Mice
+-Molecular Sequence Data
+-Mutation
+-Reverse Transcriptase Polymerase Chain Reaction
+-Sequence Homology, Amino Acid
+-Stress, Physiological (+physiology)
+
+pii:IAI.00571-08
+doi:10.1128/IAI.00571-08
+pubmed:19703978
+pmc:PMC2772506
+

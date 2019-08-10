@@ -1,0 +1,30 @@
+PLoS ONE
+
+Gene-network analysis identifies susceptibility genes related to glycobiology in autism.
+
+B van der Zwaag, L Franke, M Poot, R Hochstenbach, HA Spierenburg, JA Vorstman, E van Daalen, MV de Jonge, NE Verbeek, EH Brilstra, R van 't Slot, RA Ophoff, MA van Es, HM Blauw, JH Veldink, JE Buizer-Voskamp, FA Beemer, LH van den Berg, C Wijmenga, HK van Amstel, H van Engeland, JP Burbach, WG Staal
+
+The recent identification of copy-number variation in the human genome has opened up new avenues for the discovery of positional candidate genes underlying complex genetic disorders, especially in the field of psychiatric disease. One major challenge that remains is pinpointing the susceptibility genes in the multitude of disease-associated loci. This challenge may be tackled by reconstruction of functional gene-networks from the genes residing in these loci. We applied this approach to autism spectrum disorder (ASD), and identified the copy-number changes in the DNA of 105 ASD patients and 267 healthy individuals with Illumina Humanhap300 Beadchips. Subsequently, we used a human reconstructed gene-network, Prioritizer, to rank candidate genes in the segmental gains and losses in our autism cohort. This analysis highlighted several candidate genes already known to be mutated in cognitive and neuropsychiatric disorders, including RAI1, BRD1, and LARGE. In addition, the LARGE gene was part of a sub-network of seven genes functioning in glycobiology, present in seven copy-number changes specifically identified in autism patients with limited co-morbidity. Three of these seven copy-number changes were de novo in the patients. In autism patients with a complex phenotype and healthy controls no such sub-network was identified. An independent systematic analysis of 13 published autism susceptibility loci supports the involvement of genes related to glycobiology as we also identified the same or similar genes from those loci. Our findings suggest that the occurrence of genomic gains and losses of genes associated with glycobiology are important contributors to the development of ASD.
+
+-Animals
+-Autistic Disorder (+genetics)
+-Brain (-embryology; -metabolism)
+-Case-Control Studies
+-Chromosome Segregation
+-Gene Dosage
+-Gene Expression Regulation, Developmental
++Gene Regulatory Networks
+-Genetic Predisposition to Disease (+genetics)
+-Genome, Human (-genetics)
++Glycomics
+-Haplotypes
+-Humans
+-Mice
+-Oligonucleotide Array Sequence Analysis
+-Reproducibility of Results
+-Software
+
+doi:10.1371/journal.pone.0005324
+pubmed:19492091
+pmc:PMC2683930
+

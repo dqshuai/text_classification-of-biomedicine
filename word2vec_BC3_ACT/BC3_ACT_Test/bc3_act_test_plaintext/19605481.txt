@@ -1,0 +1,29 @@
+J. Virol.
+
+RNA-based regulation of transcription and translation of aureusvirus subgenomic mRNA1.
+
+W Xu, KA White
+
+Cucumber leaf spot virus (CLSV) is an aureusvirus (family Tombusviridae) that has a positive-sense RNA genome encoding five proteins. During infections, CLSV transcribes two subgenomic (sg) mRNAs and the larger of the two, sg mRNA1, encodes coat protein. Here, the viral RNA sequences and structures that regulate transcription and translation of CLSV sg mRNA1 were investigated. A medium-range RNA-RNA interaction in the CLSV genome, spanning 148 nucleotides, was found to be required for the efficient transcription of sg mRNA1. Further analysis indicated that the structure formed by this interaction acted as an attenuation signal required for transcription of sg mRNA1 via a premature termination mechanism. Translation of coat protein from sg mRNA1 was determined to be facilitated by a 5'-terminal stem-loop structure in the message that resembled a tRNA anticodon stem-loop. The results from mutational analysis indicated that the 5'-terminal stem-loop mediated efficient base pairing with a 3'-cap-independent translational enhancer at the 3' end of the message, leading to efficient translation of coat protein from sg mRNA1. Comparison of the regulatory RNA structures for sg mRNA1 of CLSV to those used by the closely related tombusviruses and certain cellular RNAs revealed interesting differences and similarities that provide evolutionary and mechanistic insights into RNA-based regulatory strategies.
+
+-Base Sequence
+-Codon
+-Computational Biology (-methods)
+-DNA Mutational Analysis
++Gene Expression Regulation, Viral
+-Genome, Viral
+-Models, Genetic
+-Molecular Sequence Data
+-Nucleic Acid Conformation
++Protein Biosynthesis
+-RNA (-metabolism)
+-RNA, Messenger (+metabolism)
+-RNA, Viral (-genetics)
+-Tombusviridae (+genetics)
++Transcription, Genetic
+
+pii:JVI.00376-09
+doi:10.1128/JVI.00376-09
+pubmed:19605481
+pmc:PMC2748032
+

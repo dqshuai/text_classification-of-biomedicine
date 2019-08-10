@@ -1,0 +1,28 @@
+J. Virol.
+
+Overlapping genes produce proteins with unusual sequence properties and offer insight into de novo protein creation.
+
+C Rancurel, M Khosravi, AK Dunker, PR Romero, D Karlin
+
+It is widely assumed that new proteins are created by duplication, fusion, or fission of existing coding sequences. Another mechanism of protein birth is provided by overlapping genes. They are created de novo by mutations within a coding sequence that lead to the expression of a novel protein in another reading frame, a process called "overprinting." To investigate this mechanism, we have analyzed the sequences of the protein products of manually curated overlapping genes from 43 genera of unspliced RNA viruses infecting eukaryotes. Overlapping proteins have a sequence composition globally biased toward disorder-promoting amino acids and are predicted to contain significantly more structural disorder than nonoverlapping proteins. By analyzing the phylogenetic distribution of overlapping proteins, we were able to confirm that 17 of these had been created de novo and to study them individually. Most proteins created de novo are orphans (i.e., restricted to one species or genus). Almost all are accessory proteins that play a role in viral pathogenicity or spread, rather than proteins central to viral replication or structure. Most proteins created de novo are predicted to be fully disordered and have a highly unusual sequence composition. This suggests that some viral overlapping reading frames encoding hypothetical proteins with highly biased composition, often discarded as noncoding, might in fact encode proteins. Some proteins created de novo are predicted to be ordered, however, and whenever a three-dimensional structure of such a protein has been solved, it corresponds to a fold previously unobserved, suggesting that the study of these proteins could enhance our knowledge of protein space.
+
+-Amino Acid Sequence
+-Animals
+-Computational Biology (+methods)
+-Eukaryotic Cells (-virology)
+-Evolution, Molecular
+-Genes, Overlapping (+genetics)
+-Genes, Viral (+genetics)
++Genome, Viral
+-Humans
+-Open Reading Frames
+-Phylogeny
+-RNA Viruses (+genetics)
+-Sequence Alignment
+-Viral Proteins (+chemistry; +genetics)
+
+pii:JVI.00595-09
+doi:10.1128/JVI.00595-09
+pubmed:19640978
+pmc:PMC2753099
+

@@ -1,0 +1,26 @@
+Biochemistry
+
+Insights into the two-domain architecture of the metallocarboxypeptidase inhibitor from the Ascaris parasite inferred from the mechanism of its oxidative folding.
+
+JL Arolas, L Sanglas, J Lorenzo, S Bronsoms, FX Aviles
+
+The metallocarboxypeptidase inhibitor identified in the intestinal parasite Ascaris (ACI) comprises 67 amino acid residues and a novel fold consisting of two structurally similar modules, an N-terminal (NTD) and a C-terminal domain (CTD), each stabilized by two disulfide bonds. Both domains are linked via a connecting segment (CS) that includes a fifth disulfide bond. Here, we investigated the oxidative folding and reductive unfolding of ACI. It folds through a sequential formation of disulfide bonds that finally leads to the accumulation of a heterogeneous population of 5-disulfide non-native scrambled isomers. The reshuffling of these species into the native form constitutes the major kinetic trap of the folding reaction, being efficiently enhanced by the presence of reducing agent or protein disulfide isomerase. The analysis of ACI variants lacking the NTD reveals that this domain is indispensable for the correct folding of such inhibitor, most likely acting as a pro-segment that helps in the acquisition of a CTD native structure, the fundamental inhibitory piece. In addition to the CTD, both the NTD and the CS play a significant role in the function of ACI, as derived from the diminished inhibitory capacity of the truncated ACI variants. Finally, the reductive unfolding and disulfide scrambling analyses reveal that ACI displays an extremely high disulfide and conformational stability, which is consistent with its physiological function in a hostile environment. Altogether, the results provide important clues about the two-domain nature of ACI and may pave the way for its further engineering and development of a minimized inhibitor.
+
+-Amino Acid Sequence
+-Animals
++Ascaris
+-Carboxypeptidases A (+antagonists & inhibitors; -chemistry)
+-Enzyme Inhibitors (+chemistry; -metabolism; -pharmacology)
+-Gene Deletion
+-Humans
+-Models, Molecular
+-Molecular Sequence Data
+-Oxidation-Reduction
+-Protein Conformation
+-Protein Denaturation
++Protein Folding
+-Protein Structure, Tertiary
+
+doi:10.1021/bi901147g
+pubmed:19663492
+

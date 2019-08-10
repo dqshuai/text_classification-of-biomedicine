@@ -1,0 +1,32 @@
+Biophys. J.
+
+Blind source separation techniques for the decomposition of multiply labeled fluorescence images.
+
+RA Neher, M Mitkovski, F Kirchhoff, E Neher, FJ Theis, A Zeug
+
+Methods of blind source separation are used in many contexts to separate composite data sets according to their sources. Multiply labeled fluorescence microscopy images represent such sets, in which the sources are the individual labels. Their distributions are the quantities of interest and have to be extracted from the images. This is often challenging, since the recorded emission spectra of fluorescent dyes are environment- and instrument-specific. We have developed a nonnegative matrix factorization (NMF) algorithm to detect and separate spectrally distinct components of multiply labeled fluorescence images. It operates on spectrally resolved images and delivers both the emission spectra of the identified components and images of their abundance. We tested the proposed method using biological samples labeled with up to four spectrally overlapping fluorescent labels. In most cases, NMF accurately decomposed the images into contributions of individual dyes. However, the solutions are not unique when spectra overlap strongly or when images are diffuse in their structure. To arrive at satisfactory results in such cases, we extended NMF to incorporate preexisting qualitative knowledge about spectra and label distributions. We show how data acquired through excitations at two or three different wavelengths can be integrated and that multiple excitations greatly facilitate the decomposition. By allowing reliable decomposition in cases where the spectra of the individual labels are not known or are known only inaccurately, the proposed algorithms greatly extend the range of questions that can be addressed with quantitative microscopy.
+
++Algorithms
+-Animals
+-Brain (-metabolism)
+-Ethidium
+-Fluorescein-5-isothiocyanate
++Fluorescent Dyes
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Hela Cells
+-Humans
+-Image Processing, Computer-Assisted (+methods)
+-Mice
+-Mice, Transgenic
+-Microfilaments (-metabolism)
+-Microscopy, Fluorescence
+-NIH 3T3 Cells
+-Nucleic Acids (-metabolism)
+-Transferrin (-metabolism)
+-Tubulin (-metabolism)
+
+pii:S0006-3495(09)00092-7
+doi:10.1016/j.bpj.2008.10.068
+pubmed:19413985
+pmc:PMC2711419
+

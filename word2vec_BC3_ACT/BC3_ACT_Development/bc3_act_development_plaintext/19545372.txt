@@ -1,0 +1,18 @@
+BMC Bioinformatics
+
+Platform dependence of inference on gene-wise and gene-set involvement in human lung development.
+
+R Du, K Tantisira, V Carey, S Bhattacharya, S Metje, AT Kho, BJ Klanderman, R Gaedigk, R Lazarus, TJ Mariani, JS Leeder, ST Weiss
+
+BACKGROUND: With the recent development of microarray technologies, the comparability of gene expression data obtained from different platforms poses an important problem. We evaluated two widely used platforms, Affymetrix U133 Plus 2.0 and the Illumina HumanRef-8 v2 Expression Bead Chips, for comparability in a biological system in which changes may be subtle, namely fetal lung tissue as a function of gestational age. RESULTS: We performed the comparison via sequence-based probe matching between the two platforms. "Significance grouping" was defined as a measure of comparability. Using both expression correlation and significance grouping as measures of comparability, we demonstrated that despite overall cross-platform differences at the single gene level, increased correlation between the two platforms was found in genes with higher expression level, higher probe overlap, and lower p-value. We also demonstrated that biological function as determined via KEGG pathways or GO categories is more consistent across platforms than single gene analysis. CONCLUSION: We conclude that while the comparability of the platforms at the single gene level may be increased by increasing sample size, they are highly comparable ontologically even for subtle differences in a relatively small sample size. Biologically relevant inference should therefore be reproducible across laboratories using different platforms.
+
+-Computational Biology (+methods)
+-Gene Expression Profiling (+methods)
+-Humans
+-Lung (+growth & development)
+
+pii:1471-2105-10-189
+doi:10.1186/1471-2105-10-189
+pubmed:19545372
+pmc:PMC2711081
+

@@ -1,0 +1,19 @@
+PLoS ONE
+
+smyRNA: a novel Ab initio ncRNA gene finder.
+
+R Salari, C Aksay, E Karakoc, PJ Unrau, I Hajirasouliha, SC Sahinalp
+
+BACKGROUND: Non-coding RNAs (ncRNAs) have important functional roles in the cell: for example, they regulate gene expression by means of establishing stable joint structures with target mRNAs via complementary sequence motifs. Sequence motifs are also important determinants of the structure of ncRNAs. Although ncRNAs are abundant, discovering novel ncRNAs on genome sequences has proven to be a hard task; in particular past attempts for ab initio ncRNA search mostly failed with the exception of tools that can identify micro RNAs. METHODOLOGY/PRINCIPAL FINDINGS: We present a very general ab initio ncRNA gene finder that exploits differential distributions of sequence motifs between ncRNAs and background genome sequences. CONCLUSIONS/SIGNIFICANCE: Our method, once trained on a set of ncRNAs from a given species, can be applied to a genome sequences of other organisms to find not only ncRNAs homologous to those in the training set but also others that potentially belong to novel (and perhaps unknown) ncRNA families. AVAILABILITY: (http://compbio.cs.sfu.ca/taverna/smyrna).
+
+-Algorithms
+-Artificial Intelligence
+-Computational Biology (+methods)
+-Conserved Sequence
+-RNA, Untranslated (+genetics)
+-Sequence Homology, Nucleic Acid
+
+doi:10.1371/journal.pone.0005433
+pubmed:19415115
+pmc:PMC2673033
+

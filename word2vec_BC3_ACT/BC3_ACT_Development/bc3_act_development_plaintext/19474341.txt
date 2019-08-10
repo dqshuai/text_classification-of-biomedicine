@@ -1,0 +1,22 @@
+Nucleic Acids Res.
+
+A conformational change in the helicase core is necessary but not sufficient for RNA unwinding by the DEAD box helicase YxiN.
+
+AR Karow, D Klostermeier
+
+Cooperative binding of ATP and RNA to DEAD-box helicases induces the closed conformation of their helicase core, with extensive interactions across the domain interface. The bound RNA is bent, and its distortion may constitute the first step towards RNA unwinding. To dissect the role of the conformational change in the helicase core for RNA unwinding, we characterized the RNA-stimulated ATPase activity, RNA unwinding and the propensity to form the closed conformer for mutants of the DEAD box helicase YxiN. The ATPase-deficient K52Q mutant forms a closed conformer upon binding of ATP and RNA, but is deficient in RNA unwinding. A mutation in motif III slows down the catalytic cycle, but neither affects the propensity for the closed conformer nor its global conformation. Hence, the closure of the cleft in the helicase core is necessary but not sufficient for RNA unwinding. In contrast, the G303A mutation in motif V prevents a complete closure of the inter-domain cleft, affecting ATP binding and hydrolysis and is detrimental to unwinding. Possibly, the K52Q and motif III mutants still introduce a kink into the backbone of bound RNA, whereas G303A fails to kink the RNA substrate.
+
+-Adenosine Triphosphatases (-genetics; -metabolism)
+-Amino Acid Motifs
+-Bacterial Proteins (+chemistry; -genetics; -metabolism)
+-DEAD-box RNA Helicases (+chemistry; -genetics; -metabolism)
+-Models, Molecular
+-Mutation
+-Protein Conformation
+-RNA, Bacterial (-metabolism)
+
+pii:gkp397
+doi:10.1093/nar/gkp397
+pubmed:19474341
+pmc:PMC2715247
+

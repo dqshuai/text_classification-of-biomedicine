@@ -1,0 +1,33 @@
+PLoS Pathog.
+
+Cross-talk between TLR4 and FcgammaReceptorIII (CD16) pathways.
+
+D Rittirsch, MA Flierl, DE Day, BA Nadeau, FS Zetoune, JV Sarma, CM Werner, GA Wanner, HP Simmen, MS Huber-Lang, PA Ward
+
+Pathogen-pattern-recognition by Toll-like receptors (TLRs) and pathogen clearance after immune complex formation via engagement with Fc receptors (FcRs) represent central mechanisms that trigger the immune and inflammatory responses. In the present study, a linkage between TLR4 and FcgammaR was evaluated in vitro and in vivo. Most strikingly, in vitro activation of phagocytes by IgG immune complexes (IgGIC) resulted in an association of TLR4 with FcgammaRIII (CD16) based on co-immunoprecipitation analyses. Neutrophils and macrophages from TLR4 mutant (mut) mice were unresponsive to either lipopolysaccharide (LPS) or IgGIC in vitro, as determined by cytokine production. This phenomenon was accompanied by the inability to phosphorylate tyrosine residues within immunoreceptor tyrosine-based activation motifs (ITAMs) of the FcRgamma-subunit. To transfer these findings in vivo, two different models of acute lung injury (ALI) induced by intratracheal administration of either LPS or IgGIC were employed. As expected, LPS-induced ALI was abolished in TLR4 mut and TLR4(-/-) mice. Unexpectedly, TLR4 mut and TLR4(-/-) mice were also resistant to development of ALI following IgGIC deposition in the lungs. In conclusion, our findings suggest that TLR4 and FcgammaRIII pathways are structurally and functionally connected at the receptor level and that TLR4 is indispensable for FcgammaRIII signaling via FcRgamma-subunit activation.
+
+-Acute Lung Injury (+immunology; -metabolism)
+-Analysis of Variance
+-Animals
+-Antigen-Antibody Complex (-immunology)
+-Cells, Cultured
+-Cytokines (-metabolism)
+-Immunoglobulin G (-immunology)
+-Leukocytes, Mononuclear (-immunology; -metabolism)
+-Lipopolysaccharides (-immunology)
+-Lung (-immunology; -metabolism)
+-Macrophages, Peritoneal (-immunology; -metabolism)
+-Male
+-Mice
+-Mice, Knockout
+-Phosphorylation
++Receptor Cross-Talk
+-Receptors, Complement (-genetics; -metabolism)
+-Receptors, IgG (-genetics; +metabolism)
++Signal Transduction
+-Toll-Like Receptor 4 (-genetics; +metabolism)
+
+doi:10.1371/journal.ppat.1000464
+pubmed:19503602
+pmc:PMC2685003
+

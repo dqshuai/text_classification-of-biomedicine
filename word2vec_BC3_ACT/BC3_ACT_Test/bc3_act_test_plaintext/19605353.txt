@@ -1,0 +1,35 @@
+J. Biol. Chem.
+
+Biglycan, a danger signal that activates the NLRP3 inflammasome via toll-like and P2X receptors.
+
+A Babelova, K Moreth, W Tsalastra-Greul, J Zeng-Brouwers, O Eickelberg, MF Young, P Bruckner, J Pfeilschifter, RM Schaefer, HJ Gröne, L Schaefer
+
+The role of endogenous inducers of inflammation is poorly understood. To produce the proinflammatory master cytokine interleukin (IL)-1beta, macrophages need double stimulation with ligands to both Toll-like receptors (TLRs) for IL-1beta gene transcription and nucleotide-binding oligomerization domain-like receptors for activation of the inflammasome. It is particularly intriguing to define how this complex regulation is mediated in the absence of an infectious trigger. Biglycan, a ubiquitous leucine-rich repeat proteoglycan of the extracellular matrix, interacts with TLR2/4 on macrophages. The objective of this study was to define the role of biglycan in the synthesis and activation of IL-1beta. Here we show that in macrophages, soluble biglycan induces the NLRP3/ASC inflammasome, activating caspase-1 and releasing mature IL-1beta without the need for additional costimulatory factors. This is brought about by the interaction of biglycan with TLR2/4 and purinergic P2X(4)/P2X(7) receptors, which induces receptor cooperativity. Furthermore, reactive oxygen species formation is involved in biglycan-mediated activation of the inflammasome. By signaling through TLR2/4, biglycan stimulates the expression of NLRP3 and pro-IL-1beta mRNA. Both in a model of non-infectious inflammatory renal injury (unilateral ureteral obstruction) and in lipopolysaccharide-induced sepsis, biglycan-deficient mice displayed lower levels of active caspase-1 and mature IL-1beta in the kidney, lung, and circulation. Our results provide evidence for direct activation of the NLRP3 inflammasome by biglycan and describe a fundamental paradigm of how tissue stress or injury is monitored by innate immune receptors detecting the release of the extracellular matrix components and turning such a signal into a robust inflammatory response.
+
+-Animals
+-Carrier Proteins (+biosynthesis; -genetics; -immunology)
+-Caspase 1 (-genetics; -immunology; -metabolism)
+-Extracellular Matrix (-genetics; -immunology; -metabolism)
+-Extracellular Matrix Proteins (-genetics; -immunology; +metabolism)
+-Immunity, Innate (-genetics; -immunology)
+-Inflammation (-genetics; -immunology; -metabolism)
+-Interleukin-1beta (-biosynthesis; -genetics; -immunology)
+-Kidney (-immunology; -metabolism)
+-Lung (-immunology; -metabolism)
+-Macrophages (-immunology; +metabolism)
+-Male
+-Mice
+-Mice, Knockout
+-Protein Structure, Tertiary (-genetics)
+-Proteoglycans (-genetics; -immunology; +metabolism)
+-Receptors, Purinergic P2 (-genetics; -immunology; +metabolism)
++Signal Transduction
+-Toll-Like Receptor 2 (-genetics; -immunology; +metabolism)
+-Toll-Like Receptor 4 (-genetics; -immunology; +metabolism)
+-Ureteral Obstruction (-genetics; -immunology; -metabolism)
+
+pii:M109.014266
+doi:10.1074/jbc.M109.014266
+pubmed:19605353
+pmc:PMC2781998
+

@@ -1,0 +1,32 @@
+J. Biol. Chem.
+
+A Caenorhabditis elegans glycolipid-binding galectin functions in host defense against bacterial infection.
+
+H Ideo, K Fukushima, K Gengyo-Ando, S Mitani, K Dejima, K Nomura, K Yamashita
+
+Galectins are a family of beta-galactoside-binding proteins that are widely found among animal species and that regulate diverse biological phenomena. To study the biological function of glycolipid-binding galectins, we purified recombinant Caenorhabditis elegans galectins (LEC-1-11) and studied their binding to C. elegans glycolipids. We found that LEC-8 binds to glycolipids in C. elegans through carbohydrate recognition. It has been reported that Cry5B-producing Bacillus thuringiensis strains can infect C. elegans and that the C. elegans Cry5B receptor molecules are glycolipids. We found that Cry5B and LEC-8 bound to C. elegans glycolipid-coated plates in a dose-dependent manner and that Cry5B binding to glycolipids was inhibited by the addition of LEC-8. LEC-8 is usually expressed strongly in the pharyngeal-intestinal valve and intestinal-rectal valve and is expressed weakly in intestine. However, when C. elegans were fed Escherichia coli expressing Cry5B, intestinal LEC-8::EGFP protein levels increased markedly. In contrast, LEC-8::EGFP expression triggered by Cry5B was reduced in toxin-resistant C. elegans mutants, which had mutations in genes involved in biosynthesis of glycolipids. Moreover, the LEC-8-deficient mutant was more susceptible to Cry5B than wild-type worms. These results suggest that the glycolipid-binding lectin LEC-8 contributes to host defense against bacterial infection by competitive binding to target glycolipid molecules.
+
+-Animals
+-Bacillus thuringiensis (-metabolism; -physiology)
+-Bacterial Proteins (-metabolism; -toxicity)
+-Caenorhabditis elegans (-genetics; +metabolism; -microbiology)
+-Caenorhabditis elegans Proteins (-drug effects; -genetics; +metabolism)
+-Chromatography, High Pressure Liquid
+-Endotoxins (-metabolism; -toxicity)
+-Enzyme-Linked Immunosorbent Assay
+-Galectins (-genetics; +metabolism)
+-Glycolipids (+metabolism)
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Hemolysin Proteins (-metabolism; -toxicity)
+-Host-Pathogen Interactions
+-Intestines (-metabolism)
+-Mutation
+-Protein Binding
+-Protein Isoforms (-genetics; -metabolism)
+-Recombinant Proteins (-metabolism)
+
+pii:M109.038257
+doi:10.1074/jbc.M109.038257
+pubmed:19635802
+pmc:PMC2785337
+

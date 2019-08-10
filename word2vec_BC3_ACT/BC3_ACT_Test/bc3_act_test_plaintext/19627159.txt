@@ -1,0 +1,20 @@
+J. Proteome Res.
+
+False discovery rates of protein identifications: a strike against the two-peptide rule.
+
+N Gupta, PA Pevzner
+
+Most proteomics studies attempt to maximize the number of peptide identifications and subsequently infer proteins containing two or more peptides as reliable protein identifications. In this study, we evaluate the effect of this "two-peptide" rule on protein identifications, using multiple search tools and data sets. Contrary to the intuition, the "two-peptide" rule reduces the number of protein identifications in the target database more significantly than in the decoy database and results in increased false discovery rates, compared to the case when single-hit proteins are not discarded. We therefore recommend that the "two-peptide" rule should be abandoned, and instead, protein identifications should be subject to the estimation of error rates, as is the case with peptide identifications. We further extend the generating function approach (originally proposed for evaluating matches between a peptide and a single spectrum) to evaluating matches between a protein and an entire spectral data set.
+
+-Algorithms
+-Cluster Analysis
+-Databases, Protein
+-Mass Spectrometry
+-Peptides (+chemistry)
+-Proteins (+chemistry)
+-Proteomics (+methods)
+-Terminology as Topic
+
+doi:10.1021/pr9004794
+pubmed:19627159
+

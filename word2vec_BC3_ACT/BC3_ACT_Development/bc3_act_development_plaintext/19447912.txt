@@ -1,0 +1,30 @@
+J. Bacteriol.
+
+Transcription activity of individual rrn operons in Bacillus subtilis mutants deficient in (p)ppGpp synthetase genes, relA, yjbM, and ywaC.
+
+Y Natori, K Tagami, K Murakami, S Yoshida, O Tanigawa, Y Moh, K Masuda, T Wada, S Suzuki, H Nanamiya, Y Tozawa, F Kawamura
+
+In Bacillus subtilis a null mutation of the relA gene, whose gene product is involved in the synthesis and/or hydrolysis of (p)ppGpp, causes a growth defect that can be suppressed by mutation(s) of yjbM and/or ywaC coding for small (p)ppGpp synthetases. All 35 suppressor mutations newly isolated were classified into two groups, either yjbM or ywaC, by mapping and sequencing their mutations, suggesting that there are no (p)ppGpp synthetases other than RelA, YjbM, and YwaC in B. subtilis. In order to understand better the relation between RelA and rRNA synthesis, we studied in the relA mutant the transcriptional regulation of seven rRNA operons (rrnO, -A, -J, -I, -E, -D, or -B) individually after integration of a promoter- and terminatorless cat gene. We identified the transcriptional start sites of each rrn operon (a G) and found that transcription of all rrn operons from their P1 promoters was drastically reduced in the relA mutant while this was almost completely restored in the relA yjbM ywaC triple mutant. Taken together with previous results showing that the intracellular GTP concentration was reduced in the relA mutant while it was restored in the triple mutant, it seems likely that continuous (p)ppGpp synthesis by YjbM and/or YwaC at a basal level causes a decrease in the amounts of intracellular GTP.
+
+-Bacillus subtilis (+genetics)
+-Bacterial Proteins (+genetics)
+-Base Sequence
+-Chloramphenicol O-Acetyltransferase (-biosynthesis; -genetics)
+-Gene Deletion
+-Genes, Reporter
+-Genes, rRNA
+-Guanosine Pentaphosphate (-metabolism)
+-Ligases (+genetics)
+-Molecular Sequence Data
+-Operon
+-RNA, Ribosomal (+biosynthesis)
+-Suppression, Genetic
+-Transcription Initiation Site
++Transcription, Genetic
++rRNA Operon
+
+pii:JB.00263-09
+doi:10.1128/JB.00263-09
+pubmed:19447912
+pmc:PMC2704718
+

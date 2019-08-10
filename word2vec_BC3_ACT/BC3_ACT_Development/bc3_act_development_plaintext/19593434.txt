@@ -1,0 +1,23 @@
+PLoS ONE
+
+A multidrug ABC transporter with a taste for salt.
+
+S Velamakanni, CH Lau, DA Gutmann, H Venter, NP Barrera, MA Seeger, B Woebking, D Matak-Vinkovic, L Balakrishnan, Y Yao, EC U, RA Shilling, CV Robinson, P Thorn, HW van Veen
+
+BACKGROUND: LmrA is a multidrug ATP-binding cassette (ABC) transporter from Lactococcus lactis with no known physiological substrate, which can transport a wide range of chemotherapeutic agents and toxins from the cell. The protein can functionally replace the human homologue ABCB1 (also termed multidrug resistance P-glycoprotein MDR1) in lung fibroblast cells. Even though LmrA mediates ATP-dependent transport, it can use the proton-motive force to transport substrates, such as ethidium bromide, across the membrane by a reversible, H(+)-dependent, secondary-active transport reaction. The mechanism and physiological context of this reaction are not known. METHODOLOGY/PRINCIPAL FINDINGS: We examined ion transport by LmrA in electrophysiological experiments and in transport studies using radioactive ions and fluorescent ion-selective probes. Here we show that LmrA itself can transport NaCl by a similar secondary-active mechanism as observed for ethidium bromide, by mediating apparent H(+)-Na(+)-Cl(-) symport. Remarkably, LmrA activity significantly enhances survival of high-salt adapted lactococcal cells during ionic downshift. CONCLUSIONS/SIGNIFICANCE: The observations on H(+)-Na(+)-Cl(-) co-transport substantiate earlier suggestions of H(+)-coupled transport by LmrA, and indicate a novel link between the activity of LmrA and salt stress. Our findings demonstrate the relevance of investigations into the bioenergetics of substrate translocation by ABC transporters for our understanding of fundamental mechanisms in this superfamily. This study represents the first use of electrophysiological techniques to analyze substrate transport by a purified multidrug transporter.
+
+-ATP-Binding Cassette Transporters (-genetics; +metabolism)
+-Bacterial Proteins (-genetics; +metabolism)
+-Base Sequence
+-DNA Primers
+-Ion Transport
+-Multidrug Resistance-Associated Proteins (-genetics; +metabolism)
+-Mutagenesis, Site-Directed
+-Protons
+-Sodium Chloride (+metabolism)
+-Spectrometry, Mass, Electrospray Ionization
+
+doi:10.1371/journal.pone.0006137
+pubmed:19593434
+pmc:PMC2704374
+

@@ -1,0 +1,26 @@
+J. Bacteriol.
+
+Swarming of Pseudomonas aeruginosa is controlled by a broad spectrum of transcriptional regulators, including MetR.
+
+AT Yeung, EC Torfs, F Jamshidi, M Bains, I Wiegand, RE Hancock, J Overhage
+
+Pseudomonas aeruginosa exhibits swarming motility on semisolid surfaces (0.5 to 0.7% agar). Swarming is a more than just a form of locomotion and represents a complex adaptation resulting in changes in virulence gene expression and antibiotic resistance. In this study, we used a comprehensive P. aeruginosa PA14 transposon mutant library to investigate how the complex swarming adaptation process is regulated. A total of 233 P. aeruginosa PA14 transposon mutants were verified to have alterations in swarming motility. The swarming-associated genes functioned not only in flagellar or type IV pilus biosynthesis but also in processes as diverse as transport, secretion, and metabolism. Thirty-three swarming-deficient and two hyperswarming mutants had transposon insertions in transcriptional regulator genes, including genes encoding two-component sensors and response regulators; 27 of these insertions were newly identified. Of the 25 regulatory mutants whose swarming motility was highly impaired (79 to 97%), only 1 (a PA1458 mutant) had a major defect in swimming, suggesting that this regulator might influence flagellar synthesis or function. Twitching motility, which requires type IV pili, was strongly affected in only two regulatory mutants (pilH and PA2571 mutants) and was moderately affected in three other mutants (algR, ntrB, and nosR mutants). Microarray analyses were performed to compare the gene expression profile of a swarming-deficient PA3587 mutant to that of the wild-type PA14 strain under swarming conditions. PA3587 showed 63% homology to metR, which encodes a regulator of methionine biosynthesis in Escherichia coli. The observed dysregulation in the metR mutant of nine different genes required for swarming motility provided a possible explanation for the swarming-deficient phenotype of this mutant.
+
+-ATP-Binding Cassette Transporters (-genetics; -metabolism)
+-Bacterial Proteins (-genetics; +metabolism)
+-DNA Transposable Elements
+-DNA, Bacterial (-genetics)
++Gene Expression Profiling
++Gene Expression Regulation, Bacterial
+-Mutagenesis, Insertional
+-Mutation
+-Oligonucleotide Array Sequence Analysis
+-Pseudomonas aeruginosa (-genetics; -metabolism; +physiology)
+-Signal Transduction
+-Trans-Activators (-genetics; +metabolism)
+
+pii:JB.00157-09
+doi:10.1128/JB.00157-09
+pubmed:19592586
+pmc:PMC2737960
+

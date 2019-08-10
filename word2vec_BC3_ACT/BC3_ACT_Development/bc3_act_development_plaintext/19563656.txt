@@ -1,0 +1,24 @@
+BMC Bioinformatics
+
+Integrated analysis of DNA copy number and gene expression microarray data using gene sets.
+
+RX Menezes, M Boetzer, M Sieswerda, GJ van Ommen, JM Boer
+
+BACKGROUND: Genes that play an important role in tumorigenesis are expected to show association between DNA copy number and RNA expression. Optimal power to find such associations can only be achieved if analysing copy number and gene expression jointly. Furthermore, some copy number changes extend over larger chromosomal regions affecting the expression levels of multiple resident genes. RESULTS: We propose to analyse copy number and expression array data using gene sets, rather than individual genes. The proposed model is robust and sensitive. We re-analysed two publicly available datasets as illustration. These two independent breast cancer datasets yielded similar patterns of association between gene dosage and gene expression levels, in spite of different platforms having been used. Our comparisons show a clear advantage to using sets of genes' expressions to detect associations with long-spanning, low-amplitude copy number aberrations. In addition, our model allows for using additional explanatory variables and does not require mapping between copy number and expression probes. CONCLUSION: We developed a general and flexible tool for integration of multiple microarray data sets, and showed how the identification of genes whose expression is affected by copy number aberrations provides a powerful approach to prioritize putative targets for functional validation.
+
+-Breast Neoplasms (-genetics)
+-Computational Biology (+methods)
+-DNA (+chemistry)
+-Databases, Genetic
+-Female
+-Gene Dosage
++Gene Expression
+-Gene Expression Profiling (+methods)
+-Humans
++Oligonucleotide Array Sequence Analysis
+
+pii:1471-2105-10-203
+doi:10.1186/1471-2105-10-203
+pubmed:19563656
+pmc:PMC2753845
+

@@ -1,0 +1,25 @@
+Virology
+
+Transcriptome analysis of Frog virus 3, the type species of the genus Ranavirus, family Iridoviridae.
+
+S Majji, V Thodima, R Sample, D Whitley, Y Deng, J Mao, VG Chinchar
+
+Frog virus 3 is the best characterized species within the genus Ranavirus, family Iridoviridae. FV3's large ( approximately 105 kbp) dsDNA genome encodes 98 putative open reading frames (ORFs) that are expressed in a coordinated fashion leading to the sequential appearance of immediate early (IE), delayed early (DE) and late (L) viral transcripts. As a step toward elucidating molecular events in FV3 replication, we sought to identify the temporal class of viral messages. To accomplish this objective an oligonucleotide microarray containing 70-mer probes corresponding to each of the 98 FV3 ORFs was designed and used to examine viral gene expression. Viral transcription was initially monitored during the course of a productive replication cycle at 2, 4 and 9 h after infection. To confirm results of the time course assay, viral gene expression was also monitored in the presence of cycloheximide (CHX), which limits expression to only IE genes, and following infection with a temperature-sensitive (ts) mutant which at non-permissive temperatures is defective in viral DNA synthesis and blocked in late gene expression. Subsequently, microarray analyses were validated by RT-PCR and qRT-PCR. Using these approaches we identified 33 IE genes, 22 DE genes and 36 L viral genes. The temporal class of the 7 remaining genes could not be determined. Comparison of protein function with temporal class indicated that, in general, genes encoding putative regulatory factors, or proteins that played a part in nucleic acid metabolism and immune evasion, were classified as IE and DE genes, whereas those involved in DNA packaging and virion assembly were considered L genes. Information on temporal class will provide the basis for determining whether members of the same temporal class contain common upstream regulatory regions and perhaps allow us to identify virion-associated and virus-induced proteins that control viral gene expression.
+
+-Animals
+-Cell Line
+-Cyprinidae
++Gene Expression Profiling
++Gene Expression Regulation, Viral
+-Genes, Viral
+-Oligonucleotide Array Sequence Analysis (-methods)
+-Ranavirus (+physiology)
+-Reverse Transcriptase Polymerase Chain Reaction (-methods)
+-Time Factors
+
+pii:S0042-6822(09)00357-2
+doi:10.1016/j.virol.2009.06.022
+pubmed:19608212
+mid:NIHMS125319
+pmc:PMC2732106
+

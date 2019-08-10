@@ -1,0 +1,30 @@
+Mol. Cell. Biol.
+
+Cell migration is regulated by platelet-derived growth factor receptor endocytosis.
+
+K Kawada, G Upadhyay, S Ferandon, S Janarthanan, M Hall, JP Vilardaga, V Yajnik
+
+Cell migration requires spatial and temporal processes that detect and transfer extracellular stimuli into intracellular signals. The platelet-derived growth factor (PDGF) receptor is a cell surface receptor on fibroblasts that regulates proliferation and chemotaxis in response to PDGF. How the PDGF signal is transmitted accurately through the receptor into cells is an unresolved question. Here, we report a new intracellular signaling pathway by which DOCK4, a Rac1 guanine exchange factor, and Dynamin regulate cell migration by PDGF receptor endocytosis. We showed by a series of biochemical and microscopy techniques that Grb2 serves as an adaptor protein in the formation of a ternary complex between the PDGF receptor, DOCK4, and Dynamin, which is formed at the leading edge of cells. We found that this ternary complex regulates PDGF-dependent cell migration by promoting PDGF receptor endocytosis and Rac1 activation at the cell membrane. This study revealed a new mechanism by which cell migration is regulated by PDGF receptor endocytosis.
+
+-Amino Acid Sequence
+-Animals
+-Cell Movement (+physiology)
+-Dynamins (-genetics; -metabolism)
+-Endocytosis (+physiology)
+-GRB2 Adaptor Protein (-genetics; -metabolism)
+-GTPase-Activating Proteins (-genetics; -metabolism)
+-Mice
+-Molecular Sequence Data
+-NIH 3T3 Cells
+-Protein Binding
+-Protein Isoforms (-genetics; -metabolism)
+-Receptor, Platelet-Derived Growth Factor beta (-genetics; +metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Signal Transduction (+physiology)
+-rac GTP-Binding Proteins (-genetics; -metabolism)
+
+pii:MCB.00015-09
+doi:10.1128/MCB.00015-09
+pubmed:19528233
+pmc:PMC2725732
+

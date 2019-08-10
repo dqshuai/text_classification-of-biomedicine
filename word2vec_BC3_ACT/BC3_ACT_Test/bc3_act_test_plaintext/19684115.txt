@@ -1,0 +1,25 @@
+Genes Dev.
+
+A mechanism for cell cycle regulation of sporulation initiation in Bacillus subtilis.
+
+JW Veening, H Murray, J Errington
+
+Coordination of DNA replication with cellular development is a crucial problem in most living organisms. Bacillus subtilis cells switch from vegetative growth to sporulation when starved. Sporulation normally occurs in cells that have stopped replicating DNA and have two completed chromosomes: one destined for the prespore and the other for the mother cell. It has long been recognized that there is a sensitive period in the cell cycle during which the initiation of spore development can be triggered, presumably to allow for the generation of exactly two complete chromosomes. However, the mechanism responsible for this has remained unclear. Here we show that the sda gene, previously identified as a checkpoint factor preventing sporulation in response to DNA damage, exerts cell cycle control over the initiation of sporulation. Expression of sda occurs in a pulsatile manner, with a burst of expression each cell cycle at the onset of DNA replication. Up-regulation of the intrinsically unstable Sda protein, which is dependent on the active form of the DNA replication initiator protein, DnaA, transiently inhibits the initiation of sporulation. This regulation avoids the generation of spore formers with replicating chromosomes, which would result in diploid or polyploid spores that we show have reduced viability.
+
+-Bacillus subtilis (-cytology; -genetics; +growth & development; +metabolism)
+-Bacterial Proteins (-metabolism)
+-Cell Cycle (-physiology)
+-Chromosomes, Bacterial
+-DNA Replication (-physiology)
+-DNA-Binding Proteins (-metabolism)
++Gene Expression Regulation, Bacterial
+-Phosphoprotein Phosphatases (-metabolism)
+-Serine Endopeptidases (-metabolism)
+-Spores, Bacterial (+growth & development)
+-Trans-Activators (-metabolism)
+
+pii:23/16/1959
+doi:10.1101/gad.528209
+pubmed:19684115
+pmc:PMC2725940
+

@@ -1,0 +1,24 @@
+Genes Dev.
+
+The protein phosphatase 2A functions in the spindle position checkpoint by regulating the checkpoint kinase Kin4.
+
+LY Chan, A Amon
+
+In budding yeast, a surveillance mechanism known as the spindle position checkpoint (SPOC) ensures accurate genome partitioning. In the event of spindle misposition, the checkpoint delays exit from mitosis by restraining the activity of the mitotic exit network (MEN). To date, the only component of the checkpoint to be identified is the protein kinase Kin4. Furthermore, how the kinase is regulated by spindle position is not known. Here, we identify the protein phosphatase 2A (PP2A) in complex with the regulatory subunit Rts1 as a component of the SPOC. Loss of PP2A-Rts1 function abrogates the SPOC but not other mitotic checkpoints. We further show that the protein phosphatase functions upstream of Kin4, regulating the kinase's phosphorylation and localization during an unperturbed cell cycle and during SPOC activation, thus defining the phosphatase as a key regulator of SPOC function.
+
++Gene Expression Regulation, Fungal
+-Genes, cdc (+physiology)
+-Mitosis (+physiology)
+-Mitotic Spindle Apparatus (+metabolism)
+-Phosphorylation
+-Protein Kinases (+metabolism)
+-Protein Phosphatase 2 (+metabolism)
+-Protein Transport
+-Saccharomyces cerevisiae (+enzymology; -genetics)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+
+pii:23/14/1639
+doi:10.1101/gad.1804609
+pubmed:19605686
+pmc:PMC2714715
+

@@ -1,0 +1,31 @@
+BMC Cancer
+
+Groucho binds two conserved regions of LEF-1 for HDAC-dependent repression.
+
+L Arce, KT Pate, ML Waterman
+
+BACKGROUND: Drosophila Groucho and its human Transducin-like-Enhancer of Split orthologs (TLEs) function as transcription co-repressors within the context of Wnt signaling, a pathway with strong links to cancer. The current model for how Groucho/TLE's modify Wnt signaling is by direct competition with beta-catenin for LEF/TCF binding. The molecular events involved in this competitive interaction are not defined and the actions of Groucho/TLEs within the context of Wnt-linked cancer are unknown. METHODS: We used in vitro protein interaction assays with the LEF/TCF family member LEF-1, and in vivo assays with Wnt reporter plasmids to define Groucho/TLE interaction and repressor function. RESULTS: Mapping studies reveal that Groucho/TLE binds two regions in LEF-1. The primary site of recognition is a 20 amino acid region in the Context Dependent Regulatory domain. An auxiliary site is in the High Mobility Group DNA binding domain. Mutation of an eight amino acid sequence within the primary region (RFSHHMIP) results in a loss of Groucho action in a transient reporter assay. Drosophila Groucho, human TLE-1, and a truncated human TLE isoform Amino-enhancer-of-split (AES), work equivalently to repress LEF-1*beta-catenin transcription in transient reporter assays, and these actions are sensitive to the HDAC inhibitor Trichostatin A. A survey of Groucho/TLE action in a panel of six colon cancer cell lines with elevated beta-catenin shows that Groucho is not able to repress transcription in a subset of these cell lines. CONCLUSION: Our data shows that Groucho/TLE repression requires two sites of interaction in LEF-1 and that a central, conserved amino acid sequence within the primary region (F S/T/P/xx y I/L/V) is critical. Our data also reveals that AES opposes LEF-1 transcription activation and that both Groucho and AES repression require histone deacetylase activity suggesting multiple steps in Groucho competition with beta-catenin. The variable ability of Groucho/TLE to oppose Wnt signaling in colon cancer cells suggests there may be defects in one or more of these steps.
+
+-Animals
+-Basic Helix-Loop-Helix Transcription Factors (-genetics; +metabolism)
+-COS Cells
+-Cell Line, Tumor
+-Cercopithecus aethiops
+-Colonic Neoplasms (-genetics; -metabolism)
++Histone Deacetylase Inhibitors
+-Histone Deacetylases (+metabolism)
+-Humans
+-Hydroxamic Acids (-pharmacology)
+-Lymphoid Enhancer-Binding Factor 1 (+metabolism)
+-Mutation
+-Protein Binding
+-Protein Structure, Tertiary
+-Repressor Proteins (-genetics; +metabolism)
+-Transfection
+-beta Catenin (-metabolism)
+
+pii:1471-2407-9-159
+doi:10.1186/1471-2407-9-159
+pubmed:19460168
+pmc:PMC2701438
+

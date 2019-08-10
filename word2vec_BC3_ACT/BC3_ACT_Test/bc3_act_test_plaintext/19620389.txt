@@ -1,0 +1,31 @@
+Genetics
+
+Analysis of synthetic lethality reveals genetic interactions between the GTPase Snu114p and snRNAs in the catalytic core of the Saccharomyces cerevisiae spliceosome.
+
+LN Frazer, SC Lovell, RT O'Keefe
+
+Conformational changes of snRNAs in the spliceosome required for pre-mRNA splicing are regulated by eight ATPases and one GTPase Snu114p. The Snu114p guanine state regulates U4/U6 unwinding during spliceosome activation and U2/U6 unwinding during spliceosome disassembly through the ATPase Brr2p. We investigated 618 genetic interactions to identify an extensive genetic interaction network between SNU114 and snRNAs. Snu114p G domain alleles were exacerbated by mutations that stabilize U4/U6 base pairing. G domain alleles were made worse by U2 and U6 mutations that stabilize or destabilize U2/U6 base pairing in helix I. Compensatory mutations that restored U2/U6 base pairing in helix I relieved synthetic lethality. Snu114p G domain alleles were also worsened by mutations in U6 predicted to increase 5' splice site base pairing. Both N-terminal and G domain alleles were exacerbated by U5 loop 1 mutations at positions involved in aligning exons while C-terminus alleles were synthetically lethal with U5 internal loop 1 mutations. This suggests a spatial orientation for Snu114p with U5. We propose that the RNA base pairing state is directly or indirectly sensed by the Snu114p G domain allowing the Snu114p C-terminal domain to regulate Brr2p or other proteins to bring about RNA/RNA rearrangements required for splicing.
+
+-Base Pairing (-genetics)
+-Base Sequence
+-Binding Sites
+-Catalytic Domain
+-GTP Phosphohydrolases (-chemistry; -genetics; -metabolism)
+-Genes, Lethal
+-Mutagenesis, Site-Directed (-methods)
++Mutation
+-Nucleic Acid Conformation
+-Protein Binding
+-Protein Structure, Tertiary
+-RNA, Small Nuclear (-chemistry; +genetics; -metabolism)
+-Ribonucleoprotein, U5 Small Nuclear (-chemistry; +genetics; -metabolism)
+-Saccharomyces cerevisiae (+genetics; -growth & development; -metabolism)
+-Saccharomyces cerevisiae Proteins (-chemistry; +genetics; -metabolism)
+-Spliceosomes (+metabolism)
+-Suppression, Genetic
+
+pii:genetics.109.107243
+doi:10.1534/genetics.109.107243
+pubmed:19620389
+pmc:PMC2766312
+

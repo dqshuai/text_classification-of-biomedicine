@@ -1,0 +1,31 @@
+Nature
+
+Direct activation of protein kinases by unanchored polyubiquitin chains.
+
+ZP Xia, L Sun, X Chen, G Pineda, X Jiang, A Adhikari, W Zeng, ZJ Chen
+
+TRAF6 is a ubiquitin ligase that is essential for the activation of NF-kappaB and MAP kinases in several signalling pathways, including those emanating from the interleukin 1 and Toll-like receptors. TRAF6 functions together with a ubiquitin-conjugating enzyme complex consisting of UBC13 (also known as UBE2N) and UEV1A (UBE2V1) to catalyse Lys 63-linked polyubiquitination, which activates the TAK1 (also known as MAP3K7) kinase complex. TAK1 in turn phosphorylates and activates IkappaB kinase (IKK), leading to the activation of NF-kappaB. Although several proteins are known to be polyubiquitinated in the IL1R and Toll-like receptor pathways, it is not clear whether ubiquitination of any of these proteins is important for TAK1 or IKK activation. By reconstituting TAK1 activation in vitro using purified proteins, here we show that free Lys 63 polyubiquitin chains, which are not conjugated to any target protein, directly activate TAK1 by binding to the ubiquitin receptor TAB2 (also known as MAP3K7IP2). This binding leads to autophosphorylation and activation of TAK1. Furthermore, we found that unanchored polyubiquitin chains synthesized by TRAF6 and UBCH5C (also known as UBE2D3) activate the IKK complex. Disassembly of the polyubiquitin chains by deubiquitination enzymes prevented TAK1 and IKK activation. These results indicate that unanchored polyubiquitin chains directly activate TAK1 and IKK, suggesting a new mechanism of protein kinase regulation.
+
+-Adaptor Proteins, Signal Transducing (-metabolism)
+-Cell Line
+-DEAD-box RNA Helicases (-metabolism)
+-Enzyme Activation (-drug effects)
+-Hela Cells
+-Humans
+-I-kappa B Kinase (+metabolism)
+-Interleukin-1beta (-pharmacology)
+-Lysine (-metabolism)
+-MAP Kinase Kinase Kinases (+metabolism)
+-Phosphorylation
+-Polyubiquitin (-biosynthesis; +metabolism)
+-TNF Receptor-Associated Factor 6 (-metabolism)
+-Tumor Suppressor Proteins (-metabolism)
+-Ubiquitin-Conjugating Enzymes
+-Ubiquitination
+
+pii:nature08247
+doi:10.1038/nature08247
+pubmed:19675569
+mid:NIHMS129301
+pmc:PMC2747300
+

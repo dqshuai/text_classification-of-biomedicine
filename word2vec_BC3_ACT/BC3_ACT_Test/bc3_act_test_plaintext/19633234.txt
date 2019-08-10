@@ -1,0 +1,23 @@
+Plant Physiol.
+
+A genetic screen for nitrate regulatory mutants captures the nitrate transporter gene NRT1.1.
+
+R Wang, X Xing, Y Wang, A Tran, NM Crawford
+
+Nitrate regulatory mutants (nrg) of Arabidopsis (Arabidopsis thaliana) were sought using a genetic screen that employed a nitrate-inducible promoter fused to the yellow fluorescent protein marker gene YFP. A mutation was identified that impaired nitrate induction, and it was localized to the nitrate regulatory gene NLP7, demonstrating the validity of this screen. A second, independent mutation (nrg1) mapped to a region containing the NRT1.1 (CHL1) nitrate transporter gene on chromosome 1. Sequence analysis of NRT1.1 in the mutant revealed a nonsense mutation that truncated the NRT1.1 protein at amino acid 301. The nrg1 mutation disrupted nitrate regulation of several endogenous genes as induction of three nitrate-responsive genes (NIA1, NiR, and NRT2.1) was dramatically reduced in roots of the mutant after 2-h treatment using nitrate concentrations from 0.25 to 20 mm. Another nrt1.1 mutant (deletion mutant chl1-5) showed a similar phenotype. The loss of nitrate induction in the two nrt1.1 mutants (nrg1 and chl1-5) was not explained by reduced nitrate uptake and was reversed by nitrogen deprivation. Microarray analysis showed that nitrate induction of 111 genes was reduced and of three genes increased 2-fold or more in the nrg1 mutant. Genes involved in nitrate assimilation, energy metabolism, and pentose-phosphate pathway were most affected. These results strongly support the model that NRT1.1 acts as a nitrate regulator or sensor in Arabidopsis.
+
+-Alleles
+-Anion Transport Proteins (-genetics; +metabolism)
+-Arabidopsis (+metabolism)
+-Gene Expression Regulation, Plant (-physiology)
+-Mutation
+-Nitrates (+metabolism)
+-Nitrogen (-pharmacology)
+-Oligonucleotide Array Sequence Analysis
+-Plant Proteins (-genetics; +metabolism)
+
+pii:pp.109.140434
+doi:10.1104/pp.109.140434
+pubmed:19633234
+pmc:PMC2735993
+

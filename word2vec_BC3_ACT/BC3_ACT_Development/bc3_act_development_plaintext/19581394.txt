@@ -1,0 +1,30 @@
+Infect. Immun.
+
+The RNA binding protein CsrA is a pleiotropic regulator of the locus of enterocyte effacement pathogenicity island of enteropathogenic Escherichia coli.
+
+S Bhatt, AN Edwards, HT Nguyen, D Merlin, T Romeo, D Kalman
+
+The attaching and effacing (A/E) pathogen enteropathogenic Escherichia coli (EPEC) forms characteristic actin-filled membranous protrusions upon infection of host cells termed pedestals. Here we examine the role of the RNA binding protein CsrA in the expression of virulence genes and proteins that are necessary for pedestal formation. The csrA mutant was defective in forming actin pedestals on epithelial cells and in disrupting transepithelial resistance across polarized epithelial cells. Consistent with reduced pedestal formation, secretion of the translocators EspA, EspB, and EspD and the effector Tir was substantially reduced in the csrA mutant. Purified CsrA specifically bound to the sepL espADB mRNA leader, and the corresponding transcript levels were reduced in the csrA mutant. In contrast, Tir synthesis was unaffected in the csrA mutant. Reduced secretion of Tir appeared to be in part due to decreased synthesis of EscD, an inner membrane architectural protein of the type III secretion system (TTSS) and EscF, a protein that forms the protruding needle complex of the TTSS. These effects were not mediated through the locus of enterocyte effacement (LEE) transcriptional regulator GrlA or Ler. In contrast to the csrA mutant, multicopy expression of csrA repressed transcription from LEE1, grlRA, LEE2, LEE5, escD, and LEE4, an effect mediated by GrlA and Ler. Consistent with its role in other organisms, CsrA also regulated flagellar motility and glycogen levels. Our findings suggest that CsrA governs virulence factor expression in an A/E pathogen by regulating mRNAs encoding translocators, effectors, or transcription factors.
+
+-3T3 Cells
+-Animals
+-Bacterial Adhesion
+-Binding Sites
+-Cell Polarity
+-Enteropathogenic Escherichia coli (+genetics; -physiology)
+-Escherichia coli Proteins (+genetics; +physiology; -secretion)
++Genomic Islands
+-Glycogen (-biosynthesis)
+-Mice
+-Operon
+-Phosphoproteins (+genetics)
+-RNA-Binding Proteins (+physiology)
+-Receptors, Cell Surface
+-Repressor Proteins (-genetics; +physiology)
+-Trans-Activators (-genetics)
+
+pii:IAI.00418-09
+doi:10.1128/IAI.00418-09
+pubmed:19581394
+pmc:PMC2737987
+

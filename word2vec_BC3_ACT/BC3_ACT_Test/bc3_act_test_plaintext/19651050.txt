@@ -1,0 +1,28 @@
+Biophys. J.
+
+Determination of the oligomer size of amyloidogenic protein beta-amyloid(1-40) by single-molecule spectroscopy.
+
+H Ding, PT Wong, EL Lee, A Gafni, DG Steel
+
+Amyloid diseases are traditionally characterized by the appearance of inter- and intracellular fibrillar protein deposits, termed amyloid. Historically, these deposits have been thought to be the etiology of the disease. However, recent evidence suggests that small oligomers of the amyloidogenic protein/peptide are the origin of neurotoxicity. Although the importance of identifying the toxic oligomeric species is widely recognized, such identification is challenging because these oligomers are metastable, occur at low concentration, and are characterized by a high degree of heterogeneity. In this work, a fluorescently labeled beta-amyloid(1-40) is used as a model amyloidogenic peptide to test the effectiveness of what we believe is a novel approach based on single-molecule spectroscopy. We find that by directly counting the photobleaching steps in the fluorescence, we can determine the number of subunits in individual beta-amyloid(1-40) oligomers, which allows us to easily distinguish among different species in the mixtures. The results are further analyzed by comparison with Monte Carlo simulations to show that the variability seen in the size of photobleaching steps can be explained by assuming random dipole orientations for the chromophores in a given oligomer. In addition, by accounting for bias in the oligomer size distribution due to the need to subtract background noise, we can make the results more quantitative. Although the oligomer size determined in this work is limited to only small species, our single-molecule results are in good quantitative agreement with high-performance liquid chromatography gel filtration data and demonstrate that single-molecule spectroscopy can provide useful insights into the issues of heterogeneity and ultimately cellular toxicity in the study of amyloid diseases.
+
+-Amyloid (+chemistry)
+-Amyloid beta-Protein (+chemistry)
+-Chromatography, Gel
+-Chromatography, High Pressure Liquid
+-Computer Simulation
+-Fluorescent Dyes
+-Microscopy, Confocal
+-Microscopy, Electron, Transmission
+-Microscopy, Fluorescence
+-Models, Chemical
+-Monte Carlo Method
+-Peptide Fragments (+chemistry)
+-Photobleaching
+-Spectrum Analysis
+
+pii:S0006-3495(09)01044-3
+doi:10.1016/j.bpj.2009.05.035
+pubmed:19651050
+pmc:PMC2718150
+

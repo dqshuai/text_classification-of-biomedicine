@@ -1,0 +1,32 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Optogenetic control of epileptiform activity.
+
+J Tønnesen, AT Sørensen, K Deisseroth, C Lundberg, M Kokaia
+
+The optogenetic approach to gain control over neuronal excitability both in vitro and in vivo has emerged as a fascinating scientific tool to explore neuronal networks, but it also opens possibilities for developing novel treatment strategies for neurologic conditions. We have explored whether such an optogenetic approach using the light-driven halorhodopsin chloride pump from Natronomonas pharaonis (NpHR), modified for mammalian CNS expression to hyperpolarize central neurons, may inhibit excessive hyperexcitability and epileptiform activity. We show that a lentiviral vector containing the NpHR gene under the calcium/calmodulin-dependent protein kinase IIalpha promoter transduces principal cells of the hippocampus and cortex and hyperpolarizes these cells, preventing generation of action potentials and epileptiform activity during optical stimulation. This study proves a principle, that selective hyperpolarization of principal cortical neurons by NpHR is sufficient to curtail paroxysmal activity in transduced neurons and can inhibit stimulation train-induced bursting in hippocampal organotypic slice cultures, which represents a model tissue of pharmacoresistant epilepsy. This study demonstrates that the optogenetic approach may prove useful for controlling epileptiform activity and opens a future perspective to develop it into a strategy to treat epilepsy.
+
+-Action Potentials (-radiation effects)
+-Animals
+-Archaeal Proteins (-genetics; -metabolism)
+-Cell Membrane (-metabolism; -radiation effects)
+-Epilepsy (+physiopathology)
+-Gene Expression Regulation (-radiation effects)
+-Hippocampus (-physiopathology; -radiation effects)
+-Inhibitory Postsynaptic Potentials (-radiation effects)
+-Light
+-Mice
+-Mice, Inbred BALB C
+-Neurons (-cytology; -radiation effects)
++Optical Processes
+-Pyramidal Cells (-physiopathology; -radiation effects)
+-Receptors, GABA-A (-metabolism)
+-Signal Transduction
+-Transduction, Genetic
+-Transgenes
+
+pii:0901915106
+doi:10.1073/pnas.0901915106
+pubmed:19581573
+pmc:PMC2715517
+

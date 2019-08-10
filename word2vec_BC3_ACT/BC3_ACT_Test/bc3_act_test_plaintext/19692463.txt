@@ -1,0 +1,33 @@
+J. Virol.
+
+DC-SIGN mediates cell-free infection and transmission of human T-cell lymphotropic virus type 1 by dendritic cells.
+
+P Jain, SL Manuel, ZK Khan, J Ahuja, K Quann, B Wigdahl
+
+Despite the susceptibility of dendritic cells (DCs) to human T-cell lymphotropic virus type 1 (HTLV-1) infection and the defined role of these cells in disease pathogenesis, the mechanisms of viral binding to DCs have not been fully delineated. Recently, a glucose transporter, GLUT-1, heparan sulfate proteoglycans (HSPGs), and neuropilin-1 (NRP-1) were demonstrated to facilitate HTLV-1 entry into T cells. DCs express their own array of antigen receptors, the most important being the DC-specific intercellular adhesion molecule-3 (ICAM-3)-grabbing nonintegrin (DC-SIGN) with respect to retrovirus binding. Consequently, the role of DC-SIGN and other HTLV-1 attachment factors was analyzed in viral binding, transmission, and productive infection using monocyte-derived DCs (MDDCs), blood myeloid DCs, and B-cell lines expressing DC-SIGN. The relative expression of DC-SIGN, GLUT-1, HSPGs, and NRP-1 first was examined on both DCs and B-cell lines. Although the inhibition of these molecules reduced viral binding, HTLV-1 transmission from DCs to T cells was mediated primarily by DC-SIGN. DC-SIGN also was shown to play a role in the infection of MDDCs as well as model B-cell lines. The HTLV-1 infection of MDDCs also was achieved in blood myeloid DCs following the enhancement of virus-induced interleukin-4 production and subsequent DC-SIGN expression in this cell population. This study represents the first comprehensive analysis of potential HTLV-1 receptors on DCs and strongly suggests that DC-SIGN plays a critical role in HTLV-1 binding, transmission, and infection, thereby providing an attractive target for the development of antiretroviral therapeutics and microbicides.
+
+-Animals
+-CD4-Positive T-Lymphocytes (-immunology; -virology)
+-Cell Adhesion Molecules (-genetics; +immunology)
+-Cells, Cultured
++Dendritic Cells (-metabolism; -virology)
+-Gene Products, env (-genetics; -metabolism)
+-Glucose Transporter Type 1 (-genetics; -metabolism)
+-Heparan Sulfate Proteoglycans (-metabolism)
++Human T-lymphotropic virus 1 (-immunology; -pathogenicity)
+-Humans
+-Interleukin-4 (-immunology)
+-Lectins, C-Type (-genetics; +immunology)
+-Neuropilin-1 (-genetics; -metabolism)
+-RNA Interference
+-Receptors, Cell Surface (-genetics; +immunology)
+-Retroviridae Proteins, Oncogenic (-genetics; -metabolism)
+-Virus Attachment
+-Virus Internalization
+-Virus Replication
+
+pii:JVI.01054-09
+doi:10.1128/JVI.01054-09
+pubmed:19692463
+pmc:PMC2772783
+

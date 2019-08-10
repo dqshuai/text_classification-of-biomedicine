@@ -1,0 +1,27 @@
+BMC Genomics
+
+Impact of animal strain on gene expression in a rat model of acute cardiac rejection.
+
+KJ Deans, PC Minneci, H Chen, SJ Kern, C Logun, S Alsaaty, KJ Norsworthy, SM Theel, JD Sennesh, JJ Barb, PJ Munson, RL Danner, MA Solomon
+
+BACKGROUND: The expression levels of many genes show wide natural variation among strains or populations. This study investigated the potential for animal strain-related genotypic differences to confound gene expression profiles in acute cellular rejection (ACR). Using a rat heart transplant model and 2 different rat strains (Dark Agouti, and Brown Norway), microarrays were performed on native hearts, transplanted hearts, and peripheral blood mononuclear cells (PBMC). RESULTS: In heart tissue, strain alone affected the expression of only 33 probesets while rejection affected the expression of 1368 probesets (FDR 10% and FC > o= 3). Only 13 genes were affected by both strain and rejection, which was < 1% (13/1368) of all probesets differentially expressed in ACR. However, for PBMC, strain alone affected 265 probesets (FDR 10% and FC > or = 3) and the addition of ACR had little further effect. Pathway analysis of these differentially expressed strain effect genes connected them with immune response, cell motility and cell death, functional themes that overlap with those related to ACR. After accounting for animal strain, additional analysis identified 30 PBMC candidate genes potentially associated with ACR. CONCLUSION: In ACR, genetic background has a large impact on the transcriptome of immune cells, but not heart tissue. Gene expression studies of ACR should avoid study designs that require cross strain comparisons between leukocytes.
+
+-Animals
+-Disease Models, Animal
+-Gene Expression
++Gene Expression Profiling
+-Graft Rejection (+genetics; -metabolism; -pathology)
+-Heart Transplantation
+-Leukocytes, Mononuclear (+metabolism)
+-Myocardium (+metabolism; -pathology)
+-Oligonucleotide Array Sequence Analysis
+-Principal Component Analysis
+-Rats
+-Transplantation, Homologous
+-Transplantation, Isogeneic
+
+pii:1471-2164-10-280
+doi:10.1186/1471-2164-10-280
+pubmed:19552812
+pmc:PMC2711118
+

@@ -1,0 +1,23 @@
+J. Am. Chem. Soc.
+
+Fluorescent lifetime trajectories of a single fluorophore reveal reaction intermediates during transcription initiation.
+
+M Sorokina, HR Koh, SS Patel, T Ha
+
+Single molecule (SM) techniques are relatively new additions to the field of biophysics that allow one to manipulate individual molecules and study their behavior. To make these studies more relevant to what actually happens in the cell, one needs to move beyond the studies of individual molecules in isolation and study many different molecules working in concert. This presents a technical challenge as most SM experiments measure only one observable as a function of time, whereas complex biomolecular systems require multidimensional SM analysis. Förster resonance energy transfer (FRET) is one of the most common single molecule approaches and can report on the real time distance changes. However, FRET requires two fluorophores which will ultimately limit the degree of multiplexing in future SM applications. It will be useful if a single fluorophore can be used to provide equivalent information. In this communication, we show that fluorescence lifetime analysis of a single Cy3 fluorophore attached to the promoter region of the DNA can be used to reveal transient reaction intermediates during transcription initiation by T7 RNA polymerase. This work represents the first demonstration of real-time biochemical reactions observed via single molecule fluorescence lifetime trajectories of immobilized molecules.
+
+-Carbocyanines (-metabolism)
+-DNA (-chemistry; -genetics; -metabolism)
+-DNA-Directed RNA Polymerases (-metabolism)
++Fluorescence
+-Nucleic Acid Denaturation
+-Photons
+-Promoter Regions, Genetic
+-Time Factors
++Transcription, Genetic
+-Viral Proteins (-metabolism)
+
+doi:10.1021/ja902861f
+pubmed:19552410
+pmc:PMC2726732
+

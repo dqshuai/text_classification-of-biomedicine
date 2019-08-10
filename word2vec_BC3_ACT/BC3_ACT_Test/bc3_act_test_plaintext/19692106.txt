@@ -1,0 +1,25 @@
+Virology
+
+Efficient magnetic bead-based separation of HIV-1-infected cells using an improved reporter virus system reveals that p53 up-regulation occurs exclusively in the virus-expressing cell population.
+
+M Imbeault, R Lodge, M Ouellet, MJ Tremblay
+
+HIV-1 infection in cell lines is very efficient, since the target population is clonal and highly dividing. However, infection of primary cells such as CD4 T lymphocytes and monocyte-derived macrophages is much more difficult, resulting in a very small percentage of infected cells. In order to study events occurring in productively infected primary cells, we determined that a way to isolate this population from bystander cells was needed. We engineered a novel HIV-1-based reporter virus called NL4-3-IRES-HSA that allows for the magnetic separation of cells infected with fully competent virions. This X4-using virus encodes for the heat-stable antigen (HSA/murine CD24) without the deletion of any viral genes by introducing an IRES sequence between HSA and the auxiliary gene Nef. Using commercial magnetic beads, we achieved efficient purification of HIV-1-infected cells (i.e. purity >85% and recovery >90%) from diverse primary cell types at early time points following infection. We used this system to accurately quantify p53 protein levels in both virus-infected and uninfected bystander primary CD4(+) T cells. We show that p53 up-regulation occurs exclusively in the infected population. We devised a strategy that allows for an efficient separation of HIV-1 infected cells from bystanders. We believe that this new reporter virus system will be of great help to study in depth how HIV-1 interacts with its host in a primary cells context.
+
+-Animals
+-Antigens, CD24 (-genetics; -immunology)
+-Genes, Reporter
+-HIV-1 (-genetics; +physiology)
++Host-Pathogen Interactions
+-Humans
+-Immunomagnetic Separation (-methods)
+-Mice
+-Tumor Suppressor Protein p53 (+biosynthesis)
++Up-Regulation
++Virus Internalization
++Virus Replication
+
+pii:S0042-6822(09)00441-3
+doi:10.1016/j.virol.2009.07.009
+pubmed:19692106
+

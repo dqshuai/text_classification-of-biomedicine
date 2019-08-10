@@ -1,0 +1,28 @@
+J. Bacteriol.
+
+The germination-specific lytic enzymes SleB, CwlJ1, and CwlJ2 each contribute to Bacillus anthracis spore germination and virulence.
+
+JD Giebel, KA Carr, EC Anderson, PC Hanna
+
+The bacterial spore cortex is critical for spore stability and dormancy and must be hydrolyzed by germination-specific lytic enzymes (GSLEs), which allows complete germination and vegetative cell outgrowth. We created in-frame deletions of three genes that encode GSLEs that have been shown to be active in Bacillus anthracis germination: sleB, cwlJ1, and cwlJ2. Phenotypic analysis of individual null mutations showed that the removal of any one of these genes was not sufficient to disrupt spore germination in nutrient-rich media. This finding indicates that these genes have partially redundant functions. Double and triple deletions of these genes resulted in more significant defects. Although a small subset of DeltasleB DeltacwlJ1 spores germinate with wild-type kinetics, for the overall population there is a 3-order-of-magnitude decrease in the colony-forming efficiency compared with wild-type spores. DeltasleB DeltacwlJ1 DeltacwlJ2 spores are unable to complete germination in nutrient-rich conditions in vitro. Both DeltasleB DeltacwlJ1 and DeltasleB DeltacwlJ1 DeltacwlJ2 spores are significantly attenuated, but are not completely devoid of virulence, in a mouse model of inhalation anthrax. Although unable to germinate in standard nutrient-rich media, spores lacking SleB, CwlJ1, and CwlJ2 are able to germinate in whole blood and serum in vitro, which may explain the persistent low levels of virulence observed in mouse infections. This work contributes to our understanding of GSLE activation and function during germination. This information may result in identification of useful therapeutic targets for the disease anthrax, as well as provide insights into ways to induce the breakdown of the protective cortex layer, facilitating easier decontamination of resistant spores.
+
+-Amidohydrolases (-genetics; +metabolism)
+-Animals
+-Anthrax (-microbiology; -pathology)
++Bacillus anthracis (-enzymology; -genetics; -pathogenicity; -physiology)
+-Bacterial Proteins (-genetics; +metabolism)
+-Colony Count, Microbial
+-Culture Media
+-Disease Models, Animal
+-Gene Deletion
+-Gene Expression Regulation, Bacterial
+-Mice
+-Mice, Inbred DBA
+-Spores, Bacterial (-enzymology; -genetics; +physiology)
+-Virulence
+
+pii:JB.00408-09
+doi:10.1128/JB.00408-09
+pubmed:19581364
+pmc:PMC2737968
+

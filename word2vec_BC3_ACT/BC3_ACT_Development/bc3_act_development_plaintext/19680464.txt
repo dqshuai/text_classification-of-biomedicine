@@ -1,0 +1,22 @@
+PLoS Genet.
+
+Production and processing of siRNA precursor transcripts from the highly repetitive maize genome.
+
+CJ Hale, KF Erhard, D Lisch, JB Hollick
+
+Mutations affecting the maintenance of heritable epigenetic states in maize identify multiple RNA-directed DNA methylation (RdDM) factors including RMR1, a novel member of a plant-specific clade of Snf2-related proteins. Here we show that RMR1 is necessary for the accumulation of a majority of 24 nt small RNAs, including those derived from Long-Terminal Repeat (LTR) retrotransposons, the most common repetitive feature in the maize genome. A genetic analysis of DNA transposon repression indicates that RMR1 acts upstream of the RNA-dependent RNA polymerase, RDR2 (MOP1). Surprisingly, we show that non-polyadenylated transcripts from a sampling of LTR retrotransposons are lost in both rmr1 and rdr2 mutants. In contrast, plants deficient for RNA Polymerase IV (Pol IV) function show an increase in polyadenylated LTR RNA transcripts. These findings support a model in which Pol IV functions independently of the small RNA accumulation facilitated by RMR1 and RDR2 and support that a loss of Pol IV leads to RNA Polymerase II-based transcription. Additionally, the lack of changes in general genome homeostasis in rmr1 mutants, despite the global loss of 24 nt small RNAs, challenges the perceived roles of siRNAs in maintaining functional heterochromatin in the genomes of outcrossing grass species.
+
+-DNA Transposable Elements
++Genome, Plant
+-Plant Proteins (-genetics; -metabolism)
++RNA Processing, Post-Transcriptional
+-RNA Replicase (-genetics; -metabolism)
+-RNA, Plant (-genetics; -metabolism)
+-RNA, Small Interfering (-genetics; +metabolism)
++Repetitive Sequences, Nucleic Acid
+-Zea mays (+genetics; -metabolism)
+
+doi:10.1371/journal.pgen.1000598
+pubmed:19680464
+pmc:PMC2725412
+

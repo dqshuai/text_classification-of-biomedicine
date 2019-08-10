@@ -1,0 +1,27 @@
+J. Biol. Chem.
+
+Activator of G protein signaling 8 (AGS8) is required for hypoxia-induced apoptosis of cardiomyocytes: role of G betagamma and connexin 43 (CX43).
+
+M Sato, Q Jiao, T Honda, R Kurotani, E Toyota, S Okumura, T Takeya, S Minamisawa, SM Lanier, Y Ishikawa
+
+Ischemic injury of the heart is associated with activation of multiple signal transduction systems including the heterotrimeric G-protein system. Here, we report a role of the ischemia-inducible regulator of G betagamma subunit, AGS8, in survival of cardiomyocytes under hypoxia. Cultured rat neonatal cardiomyocytes (NCM) were exposed to hypoxia or hypoxia/reoxygenation following transfection of AGS8siRNA or pcDNA::AGS8. Hypoxia-induced apoptosis of NCM was completely blocked by AGS8siRNA, whereas overexpression of AGS8 increased apoptosis. AGS8 formed complexes with G-proteins and channel protein connexin 43 (CX43), which regulates the permeability of small molecules under hypoxic stress. AGS8 initiated CX43 phosphorylation in a G betagamma-dependent manner by providing a scaffold composed of G betagamma and CX43. AGS8siRNA blocked internalization of CX43 following exposure of NCM to repetitive hypoxia; however it did not influence epidermal growth factor-mediated internalization of CX43. The decreased dye flux through CX43 that occurred with hypoxic stress was also prevented by AGS8siRNA. Interestingly, the G betagamma inhibitor Gallein mimicked the effect of AGS8 knockdown on both the CX43 internalization and the changes in cell permeability elicited by hypoxic stress. These data indicate that AGS8 is required for hypoxia-induced apoptosis of NCM, and that AGS8-G betagamma signal input increased the sensitivity of cells to hypoxic stress by influencing CX43 regulation and associated cell permeability. Under hypoxic stress, this unrecognized response program plays a critical role in the fate of NCM.
+
+-Animals
+-Anoxia (-genetics; +metabolism; -physiopathology)
++Apoptosis
+-Cell Hypoxia
+-Cells, Cultured
+-Connexin 43 (-genetics; +metabolism)
+-GTP-Binding Protein beta Subunits (-genetics; +metabolism)
+-GTP-Binding Protein gamma Subunits (-genetics; +metabolism)
+-Intracellular Signaling Peptides and Proteins (-genetics; +metabolism)
+-Myocytes, Cardiac (-cytology; +metabolism)
+-Protein Binding
+-Rats
++Signal Transduction
+
+pii:M109.014068
+doi:10.1074/jbc.M109.014068
+pubmed:19723622
+pmc:PMC2781539
+

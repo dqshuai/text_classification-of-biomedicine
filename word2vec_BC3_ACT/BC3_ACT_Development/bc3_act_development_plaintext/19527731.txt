@@ -1,0 +1,20 @@
+J. Mol. Biol.
+
+Aggregation-prone motifs in human immunoglobulin G.
+
+N Chennamsetty, B Helk, V Voynov, V Kayser, BL Trout
+
+Therapeutic antibodies of many different IgG subclasses (IgG1, IgG2 and IgG4) are used in the treatment of various cancers, rheumatoid arthritis and other inflammatory and infectious diseases. These antibodies are stored for long durations under high concentrations as required in the disease treatment. Unfortunately, these antibodies aggregate under these storage conditions, leading to a decrease in antibody activity and raising concerns about causing an immunological response. Thus, there is a tremendous need to identify the aggregation-prone regions in different classes of antibodies. We use the SAP (spatial-aggregation-propensity) technology based on molecular simulations to determine the aggregation-prone motifs in the constant regions of IgG1 classes of antibodies. Mutations engineered on these aggregation-prone motif regions led to antibodies of enhanced stability. Fourteen aggregation-prone motifs are identified, with each motif containing one to seven residues. While some of these motifs contain residues that are neighbors in primary sequence, others contain residues that are far apart in primary sequence but are close together in the tertiary structure. Comparison of the IgG1 sequence with those of other subclasses (IgG2, IgG3 and IgG4) showed that these aggregation-prone motifs are largely preserved among all IgG subclasses. Other broader classes of antibodies (IgA1, IgD, IgE and IgM), however, differed in these motif regions. The aggregation-prone motifs identified were therefore common to all IgG subclasses, but differ from those of non-IgG classes. Moreover, since the motifs identified are in the constant regions, they are applicable for all antibodies within the IgG class irrespective of the variable region. Thus, the motif regions identified could be modified on all IgGs to yield antibodies of enhanced stability.
+
+-Amino Acid Motifs
+-Amino Acid Sequence
+-Humans
+-Immunoglobulin G (+chemistry; -classification; -therapeutic use)
+-Molecular Sequence Data
+-Protein Stability
+-Protein Structure, Tertiary
+
+pii:S0022-2836(09)00735-9
+doi:10.1016/j.jmb.2009.06.028
+pubmed:19527731
+

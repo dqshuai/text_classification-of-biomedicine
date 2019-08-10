@@ -1,0 +1,20 @@
+Eukaryotic Cell
+
+Slt2 and Rim101 contribute independently to the correct assembly of the chitin ring at the budding yeast neck in Saccharomyces cerevisiae.
+
+A Gomez, J Perez, A Reyes, A Duran, C Roncero
+
+In Saccharomyces cerevisiae, the simultaneous absence of Slt2 and Rim101 prevents growth in nonosmotically stabilized media (F. Castrejon et al., Eukaryot. Cell 5:507-517, 2006). The double mutant slt2Delta rim101Delta displays altered chitin rings, together with a significant reduction in the overall levels of chitin. Cultures of this mutant lyse upon transfer to nonosmotically stabilized media, mostly through the bud, and such lysis is partially prevented by deletion of the chitinase gene (CTS1). Growth of the slt2Delta rim101Delta double mutant was restored by the overexpression of the GFA1 or CCT7 genes, which code for two biologically unrelated proteins. Further characterization of the mutant and its suppressors indicated that both Slt2 and Rim101 were independently required for the correct assembly of the septum machinery and that their concomitant absence reduced Chs3 accumulation at the neck, leading to lower levels of chitin. GFA1 overexpression, as well as the addition of glucosamine to the growth medium, specifically suppressed the growth defects by activating chitin synthesis at the neck and restoring the normal assembly of the chitin ring. In contrast, overexpression of CCT7, a Cct chaperonin subunit, alleviated the defect in the septum machinery without affecting chitin synthesis. Both suppressors thus act by reducing neck fragility through different mechanisms and allow growth in nonstabilized media. This work reports new roles for Slt2 and Rim101 in septum formation in budding yeast and confirms the homeostatic role of the chitin ring in the maintenance of neck integrity during cell division.
+
++Cell Division
+-Chitin (-genetics; +metabolism)
+-Mitogen-Activated Protein Kinases (-genetics; +metabolism)
+-Repressor Proteins (-genetics; +metabolism)
+-Saccharomyces cerevisiae (-cytology; -genetics; +metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+
+pii:EC.00153-09
+doi:10.1128/EC.00153-09
+pubmed:19633265
+pmc:PMC2747826
+

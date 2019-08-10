@@ -1,0 +1,23 @@
+Mol. Syst. Biol.
+
+An integrated workflow for charting the human interaction proteome: insights into the PP2A system.
+
+T Glatter, A Wepf, R Aebersold, M Gstaiger
+
+Protein complexes represent major functional units for the execution of biological processes. Systematic affinity purification coupled with mass spectrometry (AP-MS) yielded a wealth of information on the compendium of protein complexes expressed in Saccharomyces cerevisiae. However, global AP-MS analysis of human protein complexes is hampered by the low throughput, sensitivity and data robustness of existing procedures, which limit its application for systems biology research. Here, we address these limitations by a novel integrated method, which we applied and benchmarked for the human protein phosphatase 2A system. We identified a total of 197 protein interactions with high reproducibility, showing the coexistence of distinct classes of phosphatase complexes that are linked to proteins implicated in mitosis, cell signalling, DNA damage control and more. These results show that the presented analytical process will substantially advance throughput and reproducibility in future systematic AP-MS studies on human protein complexes.
+
+-Affinity Labels
+-Cell Line
+-Chromatography, Affinity
+-Humans
+-Protein Phosphatase 2 (-genetics; +metabolism)
++Proteome
+-Saccharomyces cerevisiae (-genetics)
+-Sensitivity and Specificity
+-Tandem Mass Spectrometry
+
+pii:msb200875
+doi:10.1038/msb.2008.75
+pubmed:19156129
+pmc:PMC2644174
+

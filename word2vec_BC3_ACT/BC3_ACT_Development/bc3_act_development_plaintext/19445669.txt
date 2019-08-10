@@ -1,0 +1,27 @@
+BMC Bioinformatics
+
+Information criterion-based clustering with order-restricted candidate profiles in short time-course microarray experiments.
+
+T Liu, N Lin, N Shi, B Zhang
+
+BACKGROUND: Time-course microarray experiments produce vector gene expression profiles across a series of time points. Clustering genes based on these profiles is important in discovering functional related and co-regulated genes. Early developed clustering algorithms do not take advantage of the ordering in a time-course study, explicit use of which should allow more sensitive detection of genes that display a consistent pattern over time. Peddada et al. 1 proposed a clustering algorithm that can incorporate the temporal ordering using order-restricted statistical inference. This algorithm is, however, very time-consuming and hence inapplicable to most microarray experiments that contain a large number of genes. Its computational burden also imposes difficulty to assess the clustering reliability, which is a very important measure when clustering noisy microarray data. RESULTS: We propose a computationally efficient information criterion-based clustering algorithm, called ORICC, that also takes account of the ordering in time-course microarray experiments by embedding the order-restricted inference into a model selection framework. Genes are assigned to the profile which they best match determined by a newly proposed information criterion for order-restricted inference. In addition, we also developed a bootstrap procedure to assess ORICC's clustering reliability for every gene. Simulation studies show that the ORICC method is robust, always gives better clustering accuracy than Peddada's method and saves hundreds of times computational time. Under some scenarios, its accuracy is also better than some other existing clustering methods for short time-course microarray data, such as STEM 2 and Wang et al. 3. It is also computationally much faster than Wang et al. 3. CONCLUSION: Our ORICC algorithm, which takes advantage of the temporal ordering in time-course microarray experiments, provides good clustering accuracy and is meanwhile much faster than Peddada's method. Moreover, the clustering reliability for each gene can also be assessed, which is unavailable in Peddada's method. In a real data example, the ORICC algorithm identifies new and interesting genes that previous analyses failed to reveal.
+
+-Algorithms
+-Breast Neoplasms
++Cluster Analysis
+-Computer Simulation
+-Databases, Factual
+-Female
+-Gene Expression Profiling (+methods)
+-Genes
+-Humans
++Models, Genetic
++Models, Statistical
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Research Design
+
+pii:1471-2105-10-146
+doi:10.1186/1471-2105-10-146
+pubmed:19445669
+pmc:PMC2696449
+

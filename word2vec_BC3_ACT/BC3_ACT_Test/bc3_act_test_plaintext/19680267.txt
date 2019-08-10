@@ -1,0 +1,22 @@
+Cell Death Differ.
+
+CD95 engagement mediates actin-independent and -dependent apoptotic signals.
+
+B Chaigne-Delalande, W Mahfouf, S Daburon, JF Moreau, P Legembre
+
+CD95 is a death receptor whose stimulation by either the physiologic ligand CD95L or the agonistic antibodies leads to the formation of a multi-molecular complex termed DISC (death-inducing signaling complex) and the subsequent induction of a caspase-driven apoptotic signal. According to the magnitude of the DISC formation, two types of cells have been identified. Although type I cells generate an important DISC, the complex is barely found in type II cells. Analyzing the early stages preceding the DISC formation, we found that unlike CD95L, the commonly used agonistic antibody APO1-3 internalized the death receptor. Using inhibitors of actin polymerization, we showed that the remodeling of the actin cytoskeleton did not alter the capping of the CD95 receptor or its partitioning into the lipid rafts. In addition, whereas the disruption of F-actin prevented the internalization of CD95, the DISC formation and the apoptotic signal induced by the agonistic antibody APO1-3 in type I cells, it did not affect the signal triggered by the soluble and membrane-bound CD95L, regardless of the type of cells. In conclusion, the addition of APO1-3 on type I cells triggers an actin-dependent apoptotic signal, which is absent or marginal in cells (both types I and II) treated with CD95L.
+
+-Actins (+metabolism)
+-Antigens, CD95 (+metabolism)
++Apoptosis
+-Cell Membrane (-metabolism)
+-Cells, Cultured
+-Fas Ligand Protein (-metabolism)
+-Humans
+-Protein Binding
++Signal Transduction
+
+pii:cdd2009111
+doi:10.1038/cdd.2009.111
+pubmed:19680267
+

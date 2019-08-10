@@ -1,0 +1,27 @@
+J. Biol. Chem.
+
+The activities of the Yersinia protein kinase A (YpkA) and outer protein J (YopJ) virulence factors converge on an eIF2alpha kinase.
+
+DJ Wiley, N Shrestha, J Yang, N Atis, K Dayton, K Schesser
+
+The Yersinia protein kinase A (YpkA) and outer protein J (YopJ) are co-expressed from a single transcript and are injected directly into eukaryotic cells by the plague bacterium Yersinia pestis. When overexpressed in vertebrate or yeast cells, YpkA disrupts the actin-based cytoskeletal system by an unknown mechanism, whereas YopJ obstructs inductive chemokine expression by inhibiting MAPK and NF-kappaB signaling. Previously, we showed that the fission yeast Schizosaccharomyces pombe was sensitive to the kinase activity of YpkA. Here, we screened yeast for cellular processes important for YpkA activity and found that the eIF2alpha kinases mollify the toxicity imparted by the kinase activity of YpkA. Specifically, strains lacking the eIF2alpha kinase Hri2 were particularly sensitive to YpkA. Unexpectedly, the activity of YopJ, which conferred a phenotype consistent with its inhibitory effect on MAPK signaling, was also found to be dependent on Hri2. When expressed in S. pombe, YopJ sensitized cells to osmotic and oxidative stresses through a Hri2-dependent mechanism. However, when co-expressed with YpkA, YopJ protected cells from YpkA-mediated toxicity, and this protection was entirely dependent on Hri2. In contrast, YopJ did not confer protection against the toxic effects of the Yersinia virulence factor YopE. These findings are the first to functionally link YpkA and YopJ and suggest that eIF2alpha kinases, which are critically important in antiviral defenses and protection against environmental stresses, also play a role in bacterial virulence.
+
+-Animals
+-Bacterial Proteins (-metabolism; +physiology)
+-Cell Line
+-MAP Kinase Signaling System
+-Macrophages (-metabolism; -microbiology)
+-Mice
+-Models, Biological
+-Plasmids (-metabolism)
+-Protein-Serine-Threonine Kinases (+metabolism; -physiology)
+-Schizosaccharomyces (-enzymology)
+-Time Factors
+-Yersinia pestis (-metabolism)
+-Yersinia pseudotuberculosis (-metabolism)
+
+pii:M109.010140
+doi:10.1074/jbc.M109.010140
+pubmed:19553678
+pmc:PMC2757178
+

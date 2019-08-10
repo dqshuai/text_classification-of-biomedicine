@@ -1,0 +1,33 @@
+Science
+
+Knockout rats via embryo microinjection of zinc-finger nucleases.
+
+AM Geurts, GJ Cost, Y Freyvert, B Zeitler, JC Miller, VM Choi, SS Jenkins, A Wood, X Cui, X Meng, A Vincent, S Lam, M Michalkiewicz, R Schilling, J Foeckler, S Kalloway, H Weiler, S Ménoret, I Anegon, GD Davis, L Zhang, EJ Rebar, PD Gregory, FD Urnov, HJ Jacob, R Buelow
+
+The toolbox of rat genetics currently lacks the ability to introduce site-directed, heritable mutations into the genome to create knockout animals. By using engineered zinc-finger nucleases (ZFNs) designed to target an integrated reporter and two endogenous rat genes, Immunoglobulin M (IgM) and Rab38, we demonstrate that a single injection of DNA or messenger RNA encoding ZFNs into the one-cell rat embryo leads to a high frequency of animals carrying 25 to 100% disruption at the target locus. These mutations are faithfully and efficiently transmitted through the germline. Our data demonstrate the feasibility of targeted gene disruption in multiple rat strains within 4 months time, paving the way to a humanized monoclonal antibody platform and additional human disease models.
+
+-Animals
+-Base Sequence
+-DNA
+-Embryo, Mammalian
+-Endodeoxyribonucleases (-genetics; +metabolism)
+-Feasibility Studies
+-Female
++Gene Knockout Techniques
+-Green Fluorescent Proteins
+-Immunoglobulin M (+genetics)
+-Male
++Microinjections
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-RNA, Messenger
+-Rats
++Zinc Fingers (-genetics)
+-rab GTP-Binding Proteins (+genetics)
+
+pii:325/5939/433
+doi:10.1126/science.1172447
+pubmed:19628861
+mid:NIHMS171136
+pmc:PMC2831805
+

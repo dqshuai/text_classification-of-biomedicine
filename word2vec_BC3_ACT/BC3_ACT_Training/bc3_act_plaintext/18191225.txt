@@ -1,0 +1,38 @@
+Cell
+
+PTRF-Cavin, a conserved cytoplasmic protein required for caveola formation and function.
+
+MM Hill, M Bastiani, R Luetterforst, M Kirkham, A Kirkham, SJ Nixon, P Walser, D Abankwa, VM Oorschot, S Martin, JF Hancock, RG Parton
+
+Caveolae are abundant cell-surface organelles involved in lipid regulation and endocytosis. We used comparative proteomics to identify PTRF (also called Cav-p60, Cavin) as a putative caveolar coat protein. PTRF-Cavin selectively associates with mature caveolae at the plasma membrane but not Golgi-localized caveolin. In prostate cancer PC3 cells, and during development of zebrafish notochord, lack of PTRF-Cavin expression correlates with lack of caveolae, and caveolin resides on flat plasma membrane. Expression of PTRF-Cavin in PC3 cells is sufficient to cause formation of caveolae. Knockdown of PTRF-Cavin reduces caveolae density, both in mammalian cells and in the zebrafish. Caveolin remains on the plasma membrane in PTRF-Cavin knockdown cells but exhibits increased lateral mobility and accelerated lysosomal degradation. We conclude that PTRF-Cavin is required for caveola formation and sequestration of mobile caveolin into immobile caveolae.
+
+-Animals
+-Bees
+-Caveolae (+metabolism; -ultrastructure)
+-Caveolin 1 (-metabolism)
+-Cell Line
+-Cell Line, Tumor
+-Cell Membrane (+metabolism; -ultrastructure)
+-Cells, Cultured
+-Conserved Sequence
+-Cricetinae
+-Cytoplasm (+metabolism; -ultrastructure)
+-Evolution, Molecular
+-Fibroblasts
+-Golgi Apparatus (-metabolism; -ultrastructure)
+-Intracellular Membranes (-metabolism; -ultrastructure)
+-Membrane Proteins (-genetics; +metabolism)
+-Mice
+-Mice, Knockout
+-Molecular Sequence Data
+-NIH 3T3 Cells
+-Notochord (-embryology; -metabolism; -ultrastructure)
+-Species Specificity
+-Zebrafish
+
+pii:S0092-8674(07)01546-2
+doi:10.1016/j.cell.2007.11.042
+pubmed:18191225
+mid:NIHMS37890
+pmc:PMC2265257
+

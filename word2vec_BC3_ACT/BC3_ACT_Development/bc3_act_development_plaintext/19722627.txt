@@ -1,0 +1,28 @@
+J. Am. Chem. Soc.
+
+Determination of multicomponent protein structures in solution using global orientation and shape restraints.
+
+J Wang, X Zuo, P Yu, IJ Byeon, J Jung, X Wang, M Dyba, S Seifert, CD Schwieters, J Qin, AM Gronenborn, YX Wang
+
+Determining architectures of multicomponent proteins or protein complexes in solution is a challenging problem. Here we report a methodology that simultaneously uses residual dipolar couplings (RDC) and the small-angle X-ray scattering (SAXS) restraints to mutually orient subunits and define the global shape of multicomponent proteins and protein complexes. Our methodology is implemented in an efficient algorithm and demonstrated using five examples. First, we demonstrate the general approach with simulated data for the HIV-1 protease, a globular homodimeric protein. Second, we use experimental data to determine the structures of the two-domain proteins L11 and gammaD-Crystallin, in which the linkers between the domains are relatively rigid. Finally, complexes with K(d) values in the high micro- to millimolar range (weakly associating proteins), such as a homodimeric GB1 variant, and with K(d) values in the nanomolar range (tightly bound), such as the heterodimeric complex of the ILK ankyrin repeat domain (ARD) and PINCH LIM1 domain, respectively, are evaluated. Furthermore, the proteins or protein complexes that were determined using this method exhibit better solution structures than those obtained by either NMR or X-ray crystallography alone as judged based on the pair-distance distribution functions (PDDF) calculated from experimental SAXS data and back-calculated from the structures.
+
+-HIV Protease (-chemistry; -metabolism)
+-Humans
+-Models, Molecular
+-Protein Multimerization
+-Protein Structure, Quaternary
+-Protein Structure, Tertiary
+-Protein-Serine-Threonine Kinases (-chemistry)
+-Proteins (+chemistry)
+-Ribosomal Proteins (-chemistry)
+-Scattering, Small Angle
+-Software
+-Solutions
+-X-Ray Diffraction
+-gamma-Crystallins (-chemistry)
+
+doi:10.1021/ja902528f
+pubmed:19722627
+mid:NIHMS186664
+pmc:PMC2873192
+

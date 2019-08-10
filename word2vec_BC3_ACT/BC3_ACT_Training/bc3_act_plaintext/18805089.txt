@@ -1,0 +1,21 @@
+Cell
+
+A self-associating protein critical for chromosome attachment, division, and polar organization in caulobacter.
+
+G Ebersbach, A Briegel, GJ Jensen, C Jacobs-Wagner
+
+Cell polarization is an integral part of many unrelated bacterial processes. How intrinsic cell polarization is achieved is poorly understood. Here, we provide evidence that Caulobacter crescentus uses a multimeric pole-organizing factor (PopZ) that serves as a hub to concurrently achieve several polarizing functions. During chromosome segregation, polar PopZ captures the ParB*ori complex and thereby anchors sister chromosomes at opposite poles. This step is essential for stabilizing bipolar gradients of a cell division inhibitor and setting up division near midcell. PopZ also affects polar stalk morphogenesis and mediates the polar localization of the morphogenetic and cell cycle signaling proteins CckA and DivJ. Polar accumulation of PopZ, which is central to its polarizing activity, can be achieved independently of division and does not appear to be dictated by the pole curvature. Instead, evidence suggests that localization of PopZ largely relies on PopZ multimerization in chromosome-free regions, consistent with a self-organizing mechanism.
+
+-Bacterial Proteins (+metabolism)
+-Caulobacter crescentus (+cytology; +metabolism)
+-Chromosomes, Bacterial (+metabolism)
+-DNA Replication
+-Escherichia coli (-metabolism)
+-Replication Origin
+
+pii:S0092-8674(08)00934-3
+doi:10.1016/j.cell.2008.07.016
+pubmed:18805089
+mid:NIHMS70633
+pmc:PMC2614312
+

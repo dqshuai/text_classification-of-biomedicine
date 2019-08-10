@@ -1,0 +1,29 @@
+J. Mol. Biol.
+
+PILZ protein structure and interactions with PILB and the FIMX EAL domain: implications for control of type IV pilus biogenesis.
+
+CR Guzzo, RK Salinas, MO Andrade, CS Farah
+
+The PilZ protein was originally identified as necessary for type IV pilus (T4P) biogenesis. Since then, a large and diverse family of bacterial PilZ homology domains have been identified, some of which have been implicated in signaling pathways that control important processes, including motility, virulence and biofilm formation. Furthermore, many PilZ homology domains, though not PilZ itself, have been shown to bind the important bacterial second messenger bis(3'-->5')cyclic diGMP (c-diGMP). The crystal structures of the PilZ orthologs from Xanthomonas axonopodis pv citri (PilZ(XAC1133), this work) and from Xanthomonas campestris pv campestris (XC1028) present significant structural differences to other PilZ homologs that explain its failure to bind c-diGMP. NMR analysis of PilZ(XAC1133) shows that these structural differences are maintained in solution. In spite of their emerging importance in bacterial signaling, the means by which PilZ proteins regulate specific processes is not clear. In this study, we show that PilZ(XAC1133) binds to PilB, an ATPase required for T4P polymerization, and to the EAL domain of FimX(XAC2398), which regulates T4P biogenesis and localization in other bacterial species. These interactions were confirmed in NMR, two-hybrid and far-Western blot assays and are the first interactions observed between any PilZ domain and a target protein. While we were unable to detect phosphodiesterase activity for FimX(XAC2398)in vitro, we show that it binds c-diGMP both in the presence and in the absence of PilZ(XAC1133). Site-directed mutagenesis studies for conserved and exposed residues suggest that PilZ(XAC1133) interactions with FimX(XAC2398) and PilB(XAC3239) are mediated through a hydrophobic surface and an unstructured C-terminal extension conserved only in PilZ orthologs. The FimX-PilZ-PilB interactions involve a full set of "degenerate" GGDEF, EAL and PilZ domains and provide the first evidence of the means by which PilZ orthologs and FimX interact directly with the TP4 machinery.
+
+-Amino Acid Sequence
+-Bacterial Proteins (+chemistry; -genetics; +metabolism)
+-Cell Movement
+-Crystallography, X-Ray
+-Fimbriae, Bacterial (+metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Nuclear Magnetic Resonance, Biomolecular
+-Oxidoreductases (+chemistry; -genetics; +metabolism)
+-Protein Denaturation
++Protein Structure, Tertiary
+-Sequence Alignment
+-Sequence Homology, Amino Acid
+-Two-Hybrid System Techniques
+-Xanthomonas axonopodis (-chemistry; -cytology; -metabolism)
+-Xanthomonas campestris (-chemistry; -cytology; -metabolism)
+
+pii:S0022-2836(09)00913-9
+doi:10.1016/j.jmb.2009.07.065
+pubmed:19646999
+

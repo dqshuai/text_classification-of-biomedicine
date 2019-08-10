@@ -1,0 +1,24 @@
+Genome Res.
+
+Can the whole be less than the sum of its parts? Pathway analysis in genome-scale metabolic networks using elementary flux patterns.
+
+C Kaleta, LF de Figueiredo, S Schuster
+
+Elementary modes represent a valuable concept in the analysis of metabolic reaction networks. However, they can only be computed in medium-size systems, preventing application to genome-scale metabolic models. In consequence, the analysis is usually constrained to a specific part of the known metabolism, and the remaining system is modeled using abstractions like exchange fluxes and external species. As we show by the analysis of a model of the central metabolism of Escherichia coli that has been previously analyzed using elementary modes, the choice of these abstractions heavily impacts the pathways that are detected, and the results are biased by the knowledge of the metabolic capabilities of the network by the user. In order to circumvent these problems, we introduce the concept of elementary flux patterns, which explicitly takes into account possible steady-state fluxes through a genome-scale metabolic network when analyzing pathways through a subsystem. By being similar to elementary mode analysis, our concept now allows for the application of many elementary-mode-based tools to genome-scale metabolic networks. We present an algorithm to compute elementary flux patterns and analyze a model of the tricarboxylic acid cycle and adjacent reactions in E. coli. Thus, we detect several pathways that can be used as alternative routes to some central metabolic pathways. Finally, we give an outlook on further applications like the computation of minimal media, the development of knockout strategies, and the analysis of combined genome-scale networks.
+
+-Biological Transport (+genetics)
+-Catalysis
+-Citric Acid Cycle (-genetics)
+-Computational Biology
+-Escherichia coli (+genetics; +metabolism)
+-Gene Regulatory Networks (-genetics; -physiology)
++Genome, Bacterial
+-Metabolic Networks and Pathways (+genetics)
+-Metabolome (-genetics)
+-Models, Biological
+
+pii:gr.090639.108
+doi:10.1101/gr.090639.108
+pubmed:19541909
+pmc:PMC2765277
+

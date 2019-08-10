@@ -1,0 +1,29 @@
+Mol. Cell
+
+CUL4A abrogation augments DNA damage response and protection against skin carcinogenesis.
+
+L Liu, S Lee, J Zhang, SB Peters, J Hannah, Y Zhang, Y Yin, A Koff, L Ma, P Zhou
+
+It is intuitively obvious that the ability of a cell to repair DNA damage is saturable, either by limitation of enzymatic activities, the time allotted to achieve their function, or both. However, very little is known regarding the mechanisms that establish such a threshold. Here we demonstrate that the CUL4A ubiquitin ligase restricts the cellular repair capacity by orchestrating the concerted actions of nucleotide excision repair (NER) and the DNA damage-responsive G1/S checkpoint through selective degradation of the DDB2 and XPC DNA damage sensors and the p21/CIP1/WAF1 checkpoint effector. We generated Cul4a conditional knockout mice and observed that skin-specific Cul4a ablation dramatically increased resistance to UV-induced skin carcinogenesis. Our findings reveal that wild-type cells do not operate at their full DNA repair potential, underscore the critical role of CUL4A in establishing the cellular DNA repair threshold, and highlight the potential augmentation of cellular repair proficiency by pharmacological CUL4A inhibition.
+
+-Animals
+-Cells, Cultured
+-Cullin Proteins (-genetics; +metabolism)
+-Cyclin-Dependent Kinase Inhibitor p21 (-genetics; -metabolism)
++DNA Damage
+-DNA Repair
+-DNA-Binding Proteins (-genetics; -metabolism)
+-Fibroblasts (-cytology; -physiology)
+-Genes, cdc
+-Mice
+-Mice, Knockout
+-Skin Neoplasms (+genetics; +metabolism; -pathology)
+-Transgenes
+-Ultraviolet Rays
+
+pii:S1097-2765(09)00273-1
+doi:10.1016/j.molcel.2009.04.020
+pubmed:19481525
+mid:NIHMS112585
+pmc:PMC2722740
+

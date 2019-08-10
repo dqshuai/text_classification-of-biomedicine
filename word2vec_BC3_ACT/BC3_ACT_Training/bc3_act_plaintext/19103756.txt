@@ -1,0 +1,22 @@
+Mol. Cell. Biol.
+
+Plk3 interacts with and specifically phosphorylates VRK1 in Ser342, a downstream target in a pathway that induces Golgi fragmentation.
+
+I López-Sánchez, M Sanz-García, PA Lazo
+
+Golgi fragmentation is a process that is necessary to allow its redistribution into daughter cells during mitosis, a process controlled by serine-threonine kinases. This Golgi fragmentation is activated by MEK1 and Plk3. Plk3 is a kinase that is a downstream target in the Golgi fragmentation pathway induced by MEK1 or by nocodazole. In this work, we have identified that Plk3 and VRK1 are two consecutive steps in this signaling pathway. Plk3 interacts with VRK1, forming a stable complex detected by reciprocal immunoprecipitations and pull-down assays; VRK1 colocalizes with giantin in the Golgi apparatus, as Plk3 also does, forming clearly detectable granules. VRK1 does not phosphorylate Plk3, but Plk3 phosphorylates the C-terminal region of VRK1 in Ser342. VRK1 with substitutions in S342 is catalytically active but blocks Golgi fragmentation, indicating that its specific phosphorylation is necessary for this process. The induction of Golgi fragmentation by MEK1 and Plk3 can be inhibited by kinase-dead VRK1, the knockdown of VRK1 by siVRK1, kinase-dead Plk3, or PD98059, a MEK1 inhibitor. The Plk3-VRK1 kinase module might represent two consecutive steps of a signaling cascade that participates in the regulation of Golgi fragmentation.
+
+-Golgi Apparatus (+metabolism)
+-Humans
+-Intracellular Signaling Peptides and Proteins (+metabolism)
+-MAP Kinase Kinase 1 (-metabolism)
+-Phosphorylation
+-Protein-Serine-Threonine Kinases (+metabolism)
+-Serine (-metabolism)
+-Signal Transduction
+
+pii:MCB.01341-08
+doi:10.1128/MCB.01341-08
+pubmed:19103756
+pmc:PMC2643820
+

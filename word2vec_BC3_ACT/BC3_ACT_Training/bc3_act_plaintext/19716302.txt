@@ -1,0 +1,22 @@
+Curr. Biol.
+
+Human Y chromosome base-substitution mutation rate measured by direct sequencing in a deep-rooting pedigree.
+
+Y Xue, Q Wang, Q Long, BL Ng, H Swerdlow, J Burton, C Skuce, R Taylor, Z Abdellah, Y Zhao, DG MacArthur, MA Quail, NP Carter, H Yang, C Tyler-Smith
+
+Understanding the key process of human mutation is important for many aspects of medical genetics and human evolution. In the past, estimates of mutation rates have generally been inferred from phenotypic observations or comparisons of homologous sequences among closely related species. Here, we apply new sequencing technology to measure directly one mutation rate, that of base substitutions on the human Y chromosome. The Y chromosomes of two individuals separated by 13 generations were flow sorted and sequenced by Illumina (Solexa) paired-end sequencing to an average depth of 11x or 20x, respectively. Candidate mutations were further examined by capillary sequencing in cell-line and blood DNA from the donors and additional family members. Twelve mutations were confirmed in approximately 10.15 Mb; eight of these had occurred in vitro and four in vivo. The latter could be placed in different positions on the pedigree and led to a mutation-rate measurement of 3.0 x 10(-8) mutations/nucleotide/generation (95% CI: 8.9 x 10(-9)-7.0 x 10(-8)), consistent with estimates of 2.3 x 10(-8)-6.3 x 10(-8) mutations/nucleotide/generation for the same Y-chromosomal region from published human-chimpanzee comparisons depending on the generation and split times assumed.
+
++Chromosomes, Human, Y
++Evolution, Molecular
+-Humans
+-Male
+-Pedigree
++Point Mutation
+-Polymorphism, Single Nucleotide
+-Sequence Analysis, DNA
+
+pii:S0960-9822(09)01454-7
+doi:10.1016/j.cub.2009.07.032
+pubmed:19716302
+pmc:PMC2748900
+

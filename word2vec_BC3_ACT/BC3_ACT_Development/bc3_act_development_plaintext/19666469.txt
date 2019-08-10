@@ -1,0 +1,30 @@
+J. Biol. Chem.
+
+Proteasome-dependent processing of topoisomerase I-DNA adducts into DNA double strand breaks at arrested replication forks.
+
+CP Lin, Y Ban, YL Lyu, LF Liu
+
+Reversible topoisomerase I (Top1)-DNA cleavage complexes are the key DNA lesion induced by anticancer camptothecins (CPTs) (e.g. topotecan and irinotecan) as well as structurally perturbed DNAs (e.g. oxidatively damaged, UV-irradiated, or alkylated DNA). It has been proposed that Top1 cleavage complexes arrest advancing replication forks, triggering the formation of DNA double strand breaks (DSBs) because of replication fork runoff at the Top1 cleavage complex sites on the leading strand. In this study, we show that the formation of replication-dependent DSBs requires the ubiquitin-proteasome pathway in CPT-treated cells. First, the proteasome inhibitor MG-132 specifically inhibited CPT-induced but not ionizing radiation- or hydroxyurea-induced DSBs as revealed by both the neutral comet assay and measurements of the specific DNA damage signals (e.g. gamma-H2AX, phosphorylated ataxia telangiectasia mutated (Ser-1981), and phosphorylated Chk2 (Ser-33/35)) that are characteristic for DSBs. Knocking down the 20 S proteasome maturation protein also supported the requirement of the proteasome activity for CPT-induced DSBs. Second, CPT-induced DSB signals were shown to require ubiquitin, ubiquitin-activating enzyme (E1), a CUL-3-based ubiquitin ligase (E3), and the formation of Lys-48-linked polyubiquitin chains on Top1. Third, immunocytochemical studies revealed that the CPT-induced formation of gamma-H2AX foci occurred at the replication forks and was attenuated by co-treatment with the proteasome inhibitor MG-132. In the aggregate, these results support a replication fork collision model in which Top1 cleavage complexes at the arrested replication forks are degraded by proteasome prior to replication fork runoff on the leading strand to generate DSBs.
+
+-Aphidicolin (-metabolism)
+-DNA (+chemistry; -drug effects; +metabolism; -radiation effects)
++DNA Adducts (-chemistry; -metabolism)
++DNA Breaks, Double-Stranded
+-DNA Replication
+-DNA Topoisomerases, Type I (+chemistry; -genetics; +metabolism)
+-Enzyme Inhibitors (-metabolism)
+-Hela Cells
+-Histones (-genetics; -metabolism)
+-Humans
+-Leupeptins (-metabolism)
+-Molecular Chaperones (-genetics; -metabolism)
+-Proteasome Endopeptidase Complex (+metabolism)
+-RNA, Small Interfering (-genetics; -metabolism)
+-Signal Transduction (-physiology)
+-Ubiquitin (-metabolism)
+
+pii:M109.030601
+doi:10.1074/jbc.M109.030601
+pubmed:19666469
+pmc:PMC2788859
+

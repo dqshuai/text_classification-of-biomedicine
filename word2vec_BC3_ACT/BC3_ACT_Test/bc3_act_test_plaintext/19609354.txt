@@ -1,0 +1,22 @@
+PLoS Genet.
+
+Origin of an alternative genetic code in the extremely small and GC-rich genome of a bacterial symbiont.
+
+JP McCutcheon, BR McDonald, NA Moran
+
+The genetic code relates nucleotide sequence to amino acid sequence and is shared across all organisms, with the rare exceptions of lineages in which one or a few codons have acquired novel assignments. Recoding of UGA from stop to tryptophan has evolved independently in certain reduced bacterial genomes, including those of the mycoplasmas and some mitochondria. Small genomes typically exhibit low guanine plus cytosine (GC) content, and this bias in base composition has been proposed to drive UGA Stop to Tryptophan (Stop-->Trp) recoding. Using a combination of genome sequencing and high-throughput proteomics, we show that an alpha-Proteobacterial symbiont of cicadas has the unprecedented combination of an extremely small genome (144 kb), a GC-biased base composition (58.4%), and a coding reassignment of UGA Stop-->Trp. Although it is not clear why this tiny genome lacks the low GC content typical of other small bacterial genomes, these observations support a role of genome reduction rather than base composition as a driver of codon reassignment.
+
+-Alphaproteobacteria
+-Animals
+-Base Composition
+-Codon, Terminator (-genetics)
++Genetic Code
+-Genome, Bacterial (+genetics)
+-Hemiptera (-parasitology)
++Symbiosis
+-Tryptophan (-genetics)
+
+doi:10.1371/journal.pgen.1000565
+pubmed:19609354
+pmc:PMC2704378
+

@@ -1,0 +1,28 @@
+BMC Genomics
+
+Comparative genomics of Toll-like receptor signalling in five species.
+
+OC Jann, A King, NL Corrales, SI Anderson, K Jensen, T Ait-Ali, H Tang, C Wu, NE Cockett, AL Archibald, EJ Glass
+
+BACKGROUND: Over the last decade, several studies have identified quantitative trait loci (QTL) affecting variation of immune related traits in mammals. Recent studies in humans and mice suggest that part of this variation may be caused by polymorphisms in genes involved in Toll-like receptor (TLR) signalling. In this project, we used a comparative approach to investigate the importance of TLR-related genes in comparison with other immunologically relevant genes for resistance traits in five species by associating their genomic location with previously published immune-related QTL regions. RESULTS: We report the genomic localisation of TLR1-10 and ten associated signalling molecules in sheep and pig using in-silico and/or radiation hybrid (RH) mapping techniques and compare their positions with their annotated homologues in the human, cattle and mouse whole genome sequences. We also report medium-density RH maps for porcine chromosomes 8 and 13. A comparative analysis of the positions of previously published relevant QTLs allowed the identification of homologous regions that are associated with similar health traits in several species and which contain TLR related and other immunologically relevant genes. Additional evidence was gathered by examining relevant gene expression and association studies. CONCLUSION: This comparative genomic approach identified eight genes as potentially causative genes for variations of health related traits. These include susceptibility to clinical mastitis in dairy cattle, general disease resistance in sheep, cattle, humans and mice, and tolerance to protozoan infection in cattle and mice. Four TLR-related genes (TLR1, 6, MyD88, IRF3) appear to be the most likely candidate genes underlying QTL regions which control the resistance to the same or similar pathogens in several species. Further studies are required to investigate the potential role of polymorphisms within these genes.
+
+-Animals
+-Cattle
+-Chromosomes, Mammalian
++Comparative Genomic Hybridization
+-Disease Susceptibility
+-Genomics (-methods)
+-Humans
+-Immunity, Innate (-genetics)
+-Mice
++Quantitative Trait Loci
+-Radiation Hybrid Mapping
+-Sheep (-genetics)
+-Swine (-genetics)
+-Toll-Like Receptors (+genetics)
+
+pii:1471-2164-10-216
+doi:10.1186/1471-2164-10-216
+pubmed:19432955
+pmc:PMC2689273
+

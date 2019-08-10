@@ -1,0 +1,35 @@
+PLoS Genet.
+
+Linkage disequilibrium between two high-frequency deletion polymorphisms: implications for association studies involving the glutathione-S transferase (GST) genes.
+
+Y Zhao, M Marotta, EE Eichler, C Eng, H Tanaka
+
+Copy number variations (CNVs) represent a large source of genetic variation in humans and have been increasingly studied for disease association. A deletion polymorphism of the gene encoding the cytosolic detoxification enzyme glutathione S-transferase theta 1 (GSTT1) has been extensively studied for cancer susceptibility (919 studies, from HuGE navigator, http://www.HuGEnavigator.net/). However, clear conclusions have not been reached. Since the GSTT1 gene is located within a genomic region of segmental duplications (SD), there may be a confounding effect from another, yet-uncharacterized CNV at the same locus. Here we describe a previously uncharacterized 38-kilo-base (kb) long deletion polymorphism of GSTT2B located within a 61-kb DNA inverted repeat. GSTT2B is a duplicated copy of GSTT2, the only paralogue of GSTT1 in humans. A newly developed PCR assay revealed that a microhomology-mediated breakpoint appears to be shared among individuals at high frequency. The GSTT2B deletion polymorphism was in strong linkage disequilibrium (LD) (D' = 0.841) with the neighboring GSTT1 deletion polymorphism in the Caucasian population. Alleles harboring a single deletion were significantly overrepresented (p = 2.22 x 10(-16)), suggesting a selection against alleles with both deletions. The deletion alleles are almost certainly the derived ones, because the GSTT2B-GSTT2-GSTT1 genes were strictly retained in chimpanzees. Extremely low GSTT2 mRNA expression was associated with the GSTT2B deletion, suggesting an influence of the deletion on the flanking region and loss of GSTT2 function. Genome-wide LD analysis between deletion polymorphisms further points to the uniqueness of two deletions, because strong LD between deletion polymorphisms might be very rare in humans. These results show a complex genomic organization and unexpected biological functions of CNVs within segmental duplications and emphasize the importance of detailed structural characterization for disease association studies.
+
+-Animals
+-Base Sequence
+-Cell Line
+-DNA (-genetics)
+-DNA Breaks
+-Databases, Genetic
+-Gene Dosage
+-Gene Expression
+-Genetic Predisposition to Disease
+-Genetics, Population
+-Genome-Wide Association Study
+-Glutathione Transferase (+genetics)
+-Humans
+-Inverted Repeat Sequences
+-Linkage Disequilibrium
+-Molecular Sequence Data
+-Neoplasms (-enzymology; -genetics)
+-Pan troglodytes (-genetics)
++Polymorphism, Genetic
+-Polymorphism, Single Nucleotide
+-RNA, Messenger (-genetics; -metabolism)
++Sequence Deletion
+
+doi:10.1371/journal.pgen.1000472
+pubmed:19424424
+pmc:PMC2672168
+

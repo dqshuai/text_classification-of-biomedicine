@@ -1,0 +1,25 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Scaling laws between population and facility densities.
+
+J Um, SW Son, SI Lee, H Jeong, BJ Kim
+
+When a new facility like a grocery store, a school, or a fire station is planned, its location should ideally be determined by the necessities of people who live nearby. Empirically, it has been found that there exists a positive correlation between facility and population densities. In the present work, we investigate the ideal relation between the population and the facility densities within the framework of an economic mechanism governing microdynamics. In previous studies based on the global optimization of facility positions in minimizing the overall travel distance between people and facilities, it was shown that the density of facility D and that of population rho should follow a simple power law D approximately rho(2/3). In our empirical analysis, on the other hand, the power-law exponent alpha in D approximately rho(alpha) is not a fixed value but spreads in a broad range depending on facility types. To explain this discrepancy in alpha, we propose a model based on economic mechanisms that mimic the competitive balance between the profit of the facilities and the social opportunity cost for populations. Through our simple, microscopically driven model, we show that commercial facilities driven by the profit of the facilities have alpha = 1, whereas public facilities driven by the social opportunity cost have alpha = 2/3. We simulate this model to find the optimal positions of facilities on a real U.S. map and show that the results are consistent with the empirical data.
+
+-Algorithms
+-Ambulatory Care Facilities (+statistics & numerical data)
+-Computer Simulation
++Environment Design
+-Geography
+-Humans
+-Models, Theoretical
++Population Density
+-Schools (+statistics & numerical data)
+-Social Change
+-United States
+
+pii:0901898106
+doi:10.1073/pnas.0901898106
+pubmed:19706506
+pmc:PMC2732869
+

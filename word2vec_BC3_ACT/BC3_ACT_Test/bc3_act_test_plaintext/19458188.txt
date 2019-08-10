@@ -1,0 +1,35 @@
+Mol. Biol. Cell
+
+Focal adhesion kinase signaling regulates the expression of caveolin 3 and beta1 integrin, genes essential for normal myoblast fusion.
+
+NL Quach, S Biressi, LF Reichardt, C Keller, TA Rando
+
+An essential phase of skeletal myogenesis is the fusion of mononucleated myoblasts to form multinucleated myotubes. Many cell adhesion proteins, including integrins, have been shown to be important for myoblast fusion in vertebrates, but the mechanisms by which these proteins regulate cell fusion remain mostly unknown. Here, we focused on the role of focal adhesion kinase (FAK), an important nonreceptor protein tyrosine kinase involved in integrin signaling, as a potential mediator by which integrins may regulate myoblast fusion. To test this hypothesis in vivo, we generated mice in which the Fak gene was disrupted specifically in muscle stem cells ("satellite cells") and we found that this resulted in impaired myotube formation during muscle regeneration after injury. To examine the role of FAK in the fusion of myogenic cells, we examined the expression of FAK and the effects of FAK deletion on the differentiation of myoblasts in vitro. Differentiation of mouse primary myoblasts was accompanied by a rapid and transient increase of phosphorylated FAK. To investigate the requirement of FAK in myoblast fusion, we used two loss-of-function approaches (a dominant-negative inhibitor of FAK and FAK small interfering RNA [siRNA]). Inhibition of FAK resulted in markedly impaired fusion but did not inhibit other biochemical measures of myogenic differentiation, suggesting a specific role of FAK in the morphological changes of cell fusion as part of the differentiation program. To examine the mechanisms by which FAK may be regulating fusion, we used microarray analysis to identify the genes that failed to be normally regulated in cells that were fusion defective due to FAK inhibition. Several genes that have been implicated in myoblast fusion were aberrantly regulated during differentiation when FAK was inhibited. Intriguingly, the normal increases in the transcript of caveolin 3 as well as an integrin subunit, the beta1D isoform, were suppressed by FAK inhibition. We confirmed this also at the protein level and show that direct inhibition of beta1D subunit expression by siRNA inhibited myotube formation with a prominent effect on secondary fusion. These data suggest that FAK regulation of profusion genes, including caveolin 3 and the beta1D integrin subunit, is essential for morphological muscle differentiation.
+
+-Animals
+-Antigens, CD29 (+genetics; -metabolism)
+-Caveolin 3 (+genetics; -metabolism)
+-Cell Differentiation (-drug effects)
+-Cell Fusion
+-Cells, Cultured
+-Focal Adhesion Protein-Tyrosine Kinases (-antagonists & inhibitors; +metabolism)
+-Gene Deletion
++Gene Expression Regulation (-drug effects)
+-Genes, Dominant
+-Genes, Essential
+-Mice
+-Muscle Development (-drug effects)
+-Myoblasts (+cytology; -drug effects; +enzymology)
+-Oligonucleotide Array Sequence Analysis
+-Organ Specificity (-drug effects)
+-Protein Kinase Inhibitors (-pharmacology)
+-RNA, Small Interfering (-metabolism)
+-Regeneration (-drug effects)
+-Satellite Cells, Skeletal Muscle (-enzymology)
++Signal Transduction (-drug effects)
+
+pii:E09-02-0175
+doi:10.1091/mbc.E09-02-0175
+pubmed:19458188
+pmc:PMC2710835
+

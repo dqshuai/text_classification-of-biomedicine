@@ -1,0 +1,29 @@
+Leukemia
+
+Inhibition of the hTERT promoter by the proto-oncogenic protein TAL1.
+
+JM Terme, V Mocquet, AS Kuhlmann, L Zane, F Mortreux, E Wattel, M Duc Dodon, P Jalinot
+
+Telomerase activity, which has fundamental roles in development and carcinogenesis, strongly depends on the expression of human telomerase reverse transcriptase (hTERT), its catalytic subunit. In this report, we show that the basic helix-loop-helix factor, TAL1 (T-cell acute lymphoblastic leukemia 1), is a negative regulator of the hTERT promoter. Indeed, TAL1 overexpression leads to a decrease in hTERT mRNA abundance and hence to reduced telomerase activity. Conversely, suppression of TAL1 by RNA interference in Jurkat cells increases hTERT expression. Analysis by chromatin immunoprecipitation assays showed that TAL1 binds to the hTERT proximal promoter and recruits HDAC1. Considering the relationship recently established between TAL1 and the human T-cell leukemia virus type 1 (HTLV-1) Tax protein, which was confirmed in T lymphocyte clones derived from adult T-cell leukemia patients, we analyzed the effect of TAL1 with respect to the earlier characterized effects of Tax and HBZ (HTLV-1 basic leucine zipper) on hTERT expression. TAL1 was observed to reinforce the negative effect of Tax, whereas hTERT transactivation by the HBZ-JunD complex was repressed by TAL1 overexpression. Moreover, HBZ was found to induce proteasome-mediated degradation of TAL1. These observations support a model in which Tax and TAL1 by repressing hTERT would initially favor genomic instability, whereas expression of factors such as HBZ allows at a later stage an increase in hTERT production and consequently in telomerase activity.
+
+-Basic Helix-Loop-Helix Transcription Factors (+metabolism)
+-Basic-Leucine Zipper Transcription Factors (-metabolism)
+-Binding, Competitive (-physiology)
+-Gene Expression Regulation, Leukemic (+physiology)
+-Gene Products, tax (-genetics)
+-Genomic Instability
+-Hela Cells
+-Humans
+-Jurkat Cells
+-Leukemia, T-Cell (+genetics; -metabolism)
+-Promoter Regions, Genetic (-physiology)
+-Proto-Oncogene Proteins (+metabolism)
+-Sp1 Transcription Factor (-metabolism)
+-T-Lymphocytes (-physiology)
+-Telomerase (+genetics; +metabolism)
+-Viral Proteins (-metabolism)
+
+pii:leu2009131
+doi:10.1038/leu.2009.131
+pubmed:19587703
+

@@ -1,0 +1,21 @@
+Protein Sci.
+
+High-energy water sites determine peptide binding affinity and specificity of PDZ domains.
+
+T Beuming, R Farid, W Sherman
+
+PDZ domains have well known binding preferences for distinct C-terminal peptide motifs. For most PDZ domains, these motifs are of the form [S/T]-W-[I/L/V]. Although the preference for S/T has been explained by a specific hydrogen bond interaction with a histidine in the PDZ domain and the (I/L/V) is buried in a hydrophobic pocket, the mechanism for Trp specificity at the second to last position has thus far remained unknown. Here, we apply a method to compute the free energies of explicit water molecules and predict that potency gained by Trp binding is due to a favorable release of high-energy water molecules into bulk. The affinities of a series of peptides for both wild-type and mutant forms of the PDZ domain of Erbin correlate very well with the computed free energy of binding of displaced waters, suggesting a direct relationship between water displacement and peptide affinity. Finally, we show a correlation between the magnitude of the displaced water free energy and the degree of Trp-sensitivity among subtypes of the HTRA PDZ family, indicating a water-mediated mechanism for specificity of peptide binding.
+
+-Adaptor Proteins, Signal Transducing (+chemistry)
+-Binding Sites (-physiology)
+-Computer Simulation
+-Humans
+-PDZ Domains (+physiology)
+-Peptides (+chemistry)
+-Protein Binding (-physiology)
+-Water (+chemistry)
+
+doi:10.1002/pro.177
+pubmed:19569188
+pmc:PMC2776949
+

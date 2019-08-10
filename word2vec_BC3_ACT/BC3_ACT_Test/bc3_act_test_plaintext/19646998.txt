@@ -1,0 +1,30 @@
+J. Mol. Biol.
+
+Thermodynamic profiling of HIV RREIIB RNA-zinc finger interactions.
+
+SH Mishra, AM Spring, MW Germann
+
+The interactions between the HIV Rev-responsive element (RRE) RNA and the HIV regulatory protein Rev, are crucial for the HIV life-cycle. Earlier, we showed that single C(2)H(2) zinc fingers (znfs) have the same binding site as the Rev peptide and exhibit nanomolar affinity. In this study, the specific role of amino acid side chains and molecular processes involved with complex formation were investigated by perturbation of the binding energetics via changes in temperature, pH, buffers, and salt concentrations, as well as znf and RNA mutations, by isothermal titration calorimetry. Interestingly, despite the large cationic charge on the znfs, the number of interactions with the RNA phosphate backbone was lower than intuitively expected. The presence of binding induced protonation was established by ITC and localized by NMR to a histidine on the znf beta-sheet. The DeltaC(p) of znf-RNA binding was observed to be substantially negative and could not be accounted for by conventional solvent-accessible surface area models. An alternative model, based on the extent of hydrogen bond changes as a result of differences in ligand-induced water displacement at the binding site, provided reasonable explanation of the trends in DeltaC(p), as well as DeltaH and DeltaS. Our studies show that incorporation of favorable interactions at the solvent-excluded binding interface can be used to alleviate the unfavorable enthalpic penalties of displacing water molecules from the hydrated RNA surface.
+
+-Amino Acid Sequence
+-Calorimetry
+-Circular Dichroism
+-Gene Products, rev (-chemistry; -genetics; +metabolism)
+-Genes, env (+genetics)
+-Hydrogen-Ion Concentration
+-Magnetic Resonance Spectroscopy
+-Molecular Sequence Data
+-Protein Binding (-genetics)
+-Protein Structure, Secondary
+-RNA, Viral (-genetics; +metabolism)
+-Sequence Homology, Amino Acid
+-Temperature
+-Thermodynamics
+-Zinc Fingers (+genetics)
+
+pii:S0022-2836(09)00933-4
+doi:10.1016/j.jmb.2009.07.066
+pubmed:19646998
+mid:NIHMS136180
+pmc:PMC2757539
+

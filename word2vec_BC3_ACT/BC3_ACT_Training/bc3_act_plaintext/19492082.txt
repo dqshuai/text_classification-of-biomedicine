@@ -1,0 +1,24 @@
+PLoS ONE
+
+A sequence and structure based method to predict putative substrates, functions and regulatory networks of endo proteases.
+
+P Venkatraman, S Balakrishnan, S Rao, Y Hooda, S Pol
+
+BACKGROUND: Proteases play a central role in cellular homeostasis and are responsible for the spatio-temporal regulation of function. Many putative proteases have been recently identified through genomic approaches, leading to a surge in global profiling attempts to characterize their function. Through such efforts and others it has become evident that many proteases play non-traditional roles. Accordingly, the number and the variety of the substrate repertoire of proteases are expected to be much larger than previously assumed. In line with such global profiling attempts, we present here a method for the prediction of natural substrates of endo proteases (human proteases used as an example) by employing short peptide sequences as specificity determinants. METHODOLOGY/PRINCIPAL FINDINGS: Our method incorporates specificity determinants unique to individual enzymes and physiologically relevant dual filters namely, solvent accessible surface area--a parameter dependent on protein three-dimensional structure and subcellular localization. By incorporating such hitherto unused principles in prediction methods, a novel ligand docking strategy to mimic substrate binding at the active site of the enzyme, and GO functions, we identify and perform subjective validation on putative substrates of matriptase and highlight new functions of the enzyme. Using relative solvent accessibility to rank order we show how new protease regulatory networks and enzyme cascades can be created. CONCLUSION: We believe that our physiologically relevant computational approach would be a very useful complementary method in the current day attempts to profile proteases (endo proteases in particular) and their substrates. In addition, by using functional annotations, we have demonstrated how normal and unknown functions of a protease can be envisaged. We have developed a network which can be integrated to create a proteolytic world. This network can in turn be extended to integrate other regulatory networks to build a system wide knowledge of the proteome.
+
+-Databases, Protein
+-Furin (-chemistry; -metabolism)
+-Humans
++Models, Molecular
+-Peptide Hydrolases (+chemistry; +metabolism)
+-Protein Processing, Post-Translational
+-Proteome (-chemistry)
+-Sequence Analysis, Protein (+methods)
+-Serine Endopeptidases (-chemistry; -metabolism)
+-Substrate Specificity
+-Thrombin (-chemistry; -metabolism)
+
+doi:10.1371/journal.pone.0005700
+pubmed:19492082
+pmc:PMC2683571
+

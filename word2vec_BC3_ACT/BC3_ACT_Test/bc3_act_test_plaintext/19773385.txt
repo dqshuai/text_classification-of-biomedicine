@@ -1,0 +1,27 @@
+Plant Cell
+
+Autophagy negatively regulates cell death by controlling NPR1-dependent salicylic acid signaling during senescence and the innate immune response in Arabidopsis.
+
+K Yoshimoto, Y Jikumaru, Y Kamiya, M Kusano, C Consonni, R Panstruga, Y Ohsumi, K Shirasu
+
+Autophagy is an evolutionarily conserved intracellular process for vacuolar degradation of cytoplasmic components. In higher plants, autophagy defects result in early senescence and excessive immunity-related programmed cell death (PCD) irrespective of nutrient conditions; however, the mechanisms by which cells die in the absence of autophagy have been unclear. Here, we demonstrate a conserved requirement for salicylic acid (SA) signaling for these phenomena in autophagy-defective mutants (atg mutants). The atg mutant phenotypes of accelerated PCD in senescence and immunity are SA signaling dependent but do not require intact jasmonic acid or ethylene signaling pathways. Application of an SA agonist induces the senescence/cell death phenotype in SA-deficient atg mutants but not in atg npr1 plants, suggesting that the cell death phenotypes in the atg mutants are dependent on the SA signal transducer NONEXPRESSOR OF PATHOGENESIS-RELATED GENES1. We also show that autophagy is induced by the SA agonist. These findings imply that plant autophagy operates a novel negative feedback loop modulating SA signaling to negatively regulate senescence and immunity-related PCD.
+
+-Arabidopsis (+genetics; -immunology)
+-Arabidopsis Proteins (-genetics; +metabolism)
++Autophagy
+-Cyclopentanes (-metabolism)
+-Ethylenes (-metabolism)
+-Gene Expression Regulation, Plant
+-Hydrogen Peroxide (-metabolism)
+-Oxylipins (-metabolism)
+-Phosphoric Monoester Hydrolases (-genetics; -metabolism)
+-Plant Growth Regulators (-metabolism)
+-RNA, Plant (-genetics)
+-Salicylic Acid (+metabolism)
+-Signal Transduction
+
+pii:tpc.109.068635
+doi:10.1105/tpc.109.068635
+pubmed:19773385
+pmc:PMC2768913
+

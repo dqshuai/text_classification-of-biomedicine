@@ -1,0 +1,28 @@
+Neuron
+
+Sonic hedgehog guides axons through a noncanonical, Src-family-kinase-dependent signaling pathway.
+
+PT Yam, SD Langlois, S Morin, F Charron
+
+Sonic hedgehog (Shh) plays essential roles in developmental events such as cell fate specification and axon guidance. Shh induces cell fate specification through canonical Shh signaling, mediated by transcription. However, the mechanism by which Shh guides axons is unknown. To study this, we developed an in vitro assay for axon guidance, in which neurons can be imaged while responding to a defined gradient of a chemical cue. Axons of dissociated commissural neurons placed in a Shh gradient turned rapidly toward increasing concentrations of Shh. Consistent with this rapid response, we showed that attraction by Shh does not require transcription. Instead, Shh stimulates the activity of Src family kinase (SFK) members in a Smoothened-dependent manner. Moreover, SFK activity is required for Shh-mediated guidance of commissural axons, but not for induction of Gli transcriptional reporter activity. Together, these results indicate that Shh acts via a rapidly acting, noncanonical signaling pathway to guide axons.
+
+-Animals
+-Axons (-physiology)
+-Cell Culture Techniques (-methods)
+-Cell Shape
+-Cells, Cultured
+-Chemotaxis (-physiology)
+-Dose-Response Relationship, Drug
+-Ganglia, Spinal (-cytology; -physiology)
+-Growth Cones (+physiology)
+-Hedgehog Proteins (-administration & dosage; +physiology)
+-Humans
+-Rats
+-Receptors, G-Protein-Coupled (-physiology)
+-Signal Transduction (+physiology)
+-src-Family Kinases (+physiology)
+
+pii:S0896-6273(09)00247-5
+doi:10.1016/j.neuron.2009.03.022
+pubmed:19447091
+

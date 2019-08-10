@@ -1,0 +1,28 @@
+EMBO Rep.
+
+The ISWI-containing NURF complex regulates the output of the canonical Wingless pathway.
+
+H Song, C Spichiger-Haeusermann, K Basler
+
+Wingless (Wg) signalling regulates the expression of its target genes through Pangolin, Armadillo and their interacting co-factors. In a genetic screen for Wg signalling components, we found that imitation switch (ISWI), a chromatin-remodelling ATPase, had a positive role in transducing the canonical Wg signal, promoting the expression of the Wg target senseless. ISWI is found in several chromatin-remodelling complexes, including nucleosome remodelling factor (NURF). The effect of interfering with the function of other components of the NURF complex in vivo mimics that of ISWI. The NURF complex is also required for the efficient expression of other Wg target genes. Armadillo interacts directly with the NURF complex in vitro and recruits it to Wg targets in cultured cells. Together, our results suggest that the ISWI-containing NURF complex functions as a co-activator of Armadillo to promote Wg-mediated transcription.
+
+-Adenosine Triphosphatases (-genetics; +metabolism)
+-Animals
+-Armadillo Domain Proteins (-genetics; -metabolism)
+-Cell Line
+-Drosophila Proteins (-genetics; +metabolism)
+-Drosophila melanogaster (-genetics; +metabolism)
+-Gene Expression Regulation
+-Nuclear Proteins (-genetics; -metabolism)
+-Protein Binding
+-Pyrophosphatases (-genetics; +metabolism)
+-Retinoblastoma-Binding Protein 4 (-genetics; +metabolism)
++Signal Transduction
+-Transcription Factors (-genetics; +metabolism)
+-Wnt1 Protein (-genetics; +metabolism)
+
+pii:embor2009157
+doi:10.1038/embor.2009.157
+pubmed:19713963
+pmc:PMC2759729
+

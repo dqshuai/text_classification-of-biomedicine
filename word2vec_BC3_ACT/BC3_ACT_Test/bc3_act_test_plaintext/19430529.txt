@@ -1,0 +1,28 @@
+PLoS ONE
+
+Evolutionary repercussions of avian culling on host resistance and influenza virulence.
+
+E Shim, AP Galvani
+
+BACKGROUND: Keeping pandemic influenza at bay is a global health priority. Of particular concern is the continued spread of the influenza subtype H5N1 in avian populations and the increasing frequency of transmission to humans. To decrease this threat, mass culling is the principal strategy for eradicating influenza in avian populations. Although culling has a crucial short-term epidemiological benefit, evolutionary repercussions on reservoir hosts and on the viral population have not been considered. METHODS AND FINDINGS: To explore the epidemiological and evolutionary repercussions of mass avian culling, we combine population genetics and epidemiological influenza dynamics in a mathematical model parameterized by clinical, epidemiological, and poultry data. We model the virulence level of influenza and the selection on a dominant allele that confers resistance against influenza [1, 2] in a poultry population. Our findings indicate that culling impedes the evolution of avian host resistance against influenza. On the pathogen side of the coevolutionary race between pathogen and host, culling selects for heightened virulence and transmissibility of influenza. CONCLUSIONS: Mass culling achieves a short-term benefit at the expense of long-term detriments: a more genetically susceptible host population, ultimately greater mortality, and elevated influenza virulence.
+
+-Algorithms
+-Animals
+-Birds
+-Evolution, Molecular
+-Gene Frequency
+-Host-Pathogen Interactions
+-Humans
+-Immunity, Innate (-genetics)
+-Influenza A Virus, H5N1 Subtype (-genetics; +pathogenicity; -physiology)
+-Influenza in Birds (-genetics; -prevention & control; +virology)
+-Influenza, Human (-genetics; -prevention & control; +virology)
+-Models, Theoretical
+-Poultry Diseases (-genetics; -prevention & control; -virology)
+-Selection, Genetic
+-Virulence (-genetics)
+
+doi:10.1371/journal.pone.0005503
+pubmed:19430529
+pmc:PMC2675103
+

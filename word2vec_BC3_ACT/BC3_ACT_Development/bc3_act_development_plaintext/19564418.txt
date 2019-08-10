@@ -1,0 +1,35 @@
+Mol. Cell. Biol.
+
+The mTORC2 complex regulates terminal differentiation of C2C12 myoblasts.
+
+L Shu, PJ Houghton
+
+Rapamycin, a selective inhibitor of mTORC1 signaling, blocks terminal myoblast differentiation. We found that downregulation of rictor, a component of the mTORC2 complex, but not downregulation of raptor, a component of the mTORC1 complex, prevented terminal differentiation (fusion) of C2C12 myoblasts. Both rapamycin and rictor downregulation suppressed the phosphorylation of AKT(S(473)), and rapamycin treatment of C2C12 myoblasts disrupted the mTORC2 complex. Importantly, downregulation of rictor inhibited TORC2 signaling without inhibiting mTORC1 signaling, suggesting that inhibition of mTORC1 by rapamycin may not be the cause of arrested differentiation. In support of this, expression of a phosphomimetic mutant AKT(S473D) in rictor-deficient cells rescued myoblast fusion even in the presence of rapamycin. mTORC2 signaling to AKT appears necessary for downregulation of the Rho-associated kinase (ROCK1) that occurs during myogenic differentiation. Rapamycin treatment prevented ROCK1 inactivation during differentiation, while suppression of ROCK1 activity during differentiation and myoblast fusion was restored through expression of AKT(S473D), even in the presence of rapamycin. Further, the ROCK inhibitor Y-27632 restored terminal differentiation in rapamycin-treated myoblasts. These results provide the first evidence of a specific role for mTORC2 signaling in terminal myogenic differentiation.
+
+-Amides (-metabolism)
+-Animals
+-Antibiotics, Antineoplastic (-pharmacology)
+-Carrier Proteins (-genetics; +metabolism)
+-Cell Differentiation (-drug effects; +physiology)
+-Cell Line
+-Chlorpropamide (-analogs & derivatives; -metabolism)
+-Enzyme Inhibitors (-metabolism)
+-Mice
+-Multiprotein Complexes (+metabolism)
+-Muscle Development (-physiology)
+-Muscle, Skeletal (-cytology; -physiology)
+-Myoblasts (+cytology; -drug effects; +physiology)
+-Proto-Oncogene Proteins c-akt (-antagonists & inhibitors; -genetics; -metabolism)
+-Pyridines (-metabolism)
+-RNA, Small Interfering (-genetics; -metabolism)
+-Signal Transduction (-physiology)
+-Sirolimus (-pharmacology)
+-Trans-Activators (-genetics; +metabolism)
+-Transcription Factors (-genetics; -metabolism)
+-rho-Associated Kinases (-genetics; -metabolism)
+
+pii:MCB.00764-09
+doi:10.1128/MCB.00764-09
+pubmed:19564418
+pmc:PMC2725723
+

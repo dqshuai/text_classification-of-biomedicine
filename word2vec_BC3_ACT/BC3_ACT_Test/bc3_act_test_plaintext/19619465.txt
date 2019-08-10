@@ -1,0 +1,30 @@
+Biophys. J.
+
+Random walk of processive, quantum dot-labeled myosin Va molecules within the actin cortex of COS-7 cells.
+
+SR Nelson, MY Ali, KM Trybus, DM Warshaw
+
+Myosin Va (myoVa) is an actin-based intracellular cargo transporter. In vitro experiments have established that a single myoVa moves processively along actin tracks, but less is known about how this motor operates within cells. Here we track the movement of a quantum dot (Qdot)-labeled myoVa HMM in COS-7 cells using total internal reflectance fluorescence microscopy. This labeling approach is unique in that it allows myoVa, instead of its cargo, to be tracked. Single-particle analysis showed short periods (</=0.5 s) of ATP-sensitive linear motion. The mean velocity of these trajectories was 604 nm/s and independent of the number of myoVa molecules attached to the Qdot. With high time (16.6 ms) and spatial (15 nm) resolution imaging, Qdot-labeled myoVa moved with sequential 75 nm steps per head, at a rate of 16 s(-1), similarly to myoVa in vitro. Monte Carlo modeling suggests that the random nature of the trajectories represents processive myoVa motors undergoing a random walk through the dense and randomly oriented cortical actin network.
+
+-Actins (+metabolism)
+-Animals
+-Biological Transport
+-COS Cells
+-Cattle
+-Cercopithecus aethiops
+-Cytoskeleton (-metabolism)
+-Mice
+-Microscopy, Fluorescence
+-Models, Biological
+-Monte Carlo Method
++Movement
+-Myosin Heavy Chains (-analysis; +metabolism)
+-Myosin Type V (-analysis; +metabolism)
++Quantum Dots
+-Staining and Labeling
+
+pii:S0006-3495(09)00968-0
+doi:10.1016/j.bpj.2009.04.052
+pubmed:19619465
+pmc:PMC2711322
+

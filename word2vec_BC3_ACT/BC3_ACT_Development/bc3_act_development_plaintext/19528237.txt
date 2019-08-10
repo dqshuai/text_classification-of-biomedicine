@@ -1,0 +1,31 @@
+Mol. Cell. Biol.
+
+MLL associates with telomeres and regulates telomeric repeat-containing RNA transcription.
+
+C Caslini, JA Connelly, A Serna, D Broccoli, JL Hess
+
+Mammalian telomeres consist of TTAGGG repeats organized in nucleosomes and associated with a six-protein complex known as shelterin, which preserves telomere structure and protects chromosome ends from the cellular DNA damage response. Recent studies have found that telomeres are transcribed into telomeric UUAGGG repeat-containing RNA (TERRA) starting from subtelomeric regions. TERRA binding at telomeres appears to be involved in cis-based mechanisms of telomeric chromatin organization and maintenance. A number of histone methyltransferases (HMTs) are known to influence telomeric chromatin status; however, the regulatory mechanisms of telomere transcription are poorly understood. Here, we show that the histone 3/lysine 4 (H3/K4) HMT and the transcriptional regulator MLL associate with telomeres and contribute to their H3/K4 methylation and transcription in a telomere length-dependent manner. In human diploid fibroblasts, RNA interference-mediated MLL depletion affects telomere chromatin modification and transcription and induces the telomere damage response. Telomere uncapping through either TRF2 shelterin protein knockdown or exposure to telomere G-strand DNA oligonucleotides significantly increases the transcription of TERRA, an effect mediated by the functional cooperation between MLL and the tumor suppressor p53. In total, our findings identify a previously unrecognized role of MLL in modifying telomeric chromatin and provide evidence for the functional interaction between MLL, p53, and the shelterin complex in the regulation of telomeric transcription and stability.
+
+-Animals
+-Base Sequence
+-Cell Aging (-physiology)
+-Cell Line
+-Centromere (-metabolism)
+-Gene Knockdown Techniques
+-Heterochromatin (-metabolism)
+-Histones (-metabolism)
+-Humans
+-Myeloid-Lymphoid Leukemia Protein (-genetics; +metabolism)
+-RNA (-genetics; +metabolism)
+-RNA, Small Interfering (-genetics; -metabolism)
++Repetitive Sequences, Nucleic Acid
++Telomere (-genetics; -metabolism)
+-Telomere-Binding Proteins (-genetics; -metabolism)
++Transcription, Genetic
+-Tumor Suppressor Protein p53 (-genetics; -metabolism)
+
+pii:MCB.00195-09
+doi:10.1128/MCB.00195-09
+pubmed:19528237
+pmc:PMC2725733
+

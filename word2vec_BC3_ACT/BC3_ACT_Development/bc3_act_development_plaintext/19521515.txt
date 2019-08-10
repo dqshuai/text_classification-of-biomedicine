@@ -1,0 +1,31 @@
+PLoS Comput. Biol.
+
+Spatio-temporal dynamics of yeast mitochondrial biogenesis: transcriptional and post-transcriptional mRNA oscillatory modules.
+
+G Lelandais, Y Saint-Georges, C Geneix, L Al-Shikhley, G Dujardin, C Jacq
+
+Examples of metabolic rhythms have recently emerged from studies of budding yeast. High density microarray analyses have produced a remarkably detailed picture of cycling gene expression that could be clustered according to metabolic functions. We developed a model-based approach for the decomposition of expression to analyze these data and to identify functional modules which, expressed sequentially and periodically, contribute to the complex and intricate mitochondrial architecture. This approach revealed that mitochondrial spatio-temporal modules are expressed during periodic spikes and specific cellular localizations, which cover the entire oscillatory period. For instance, assembly factors (32 genes) and translation regulators (47 genes) are expressed earlier than the components of the amino-acid synthesis pathways (31 genes). In addition, we could correlate the expression modules identified with particular post-transcriptional properties. Thus, mRNAs of modules expressed "early" are mostly translated in the vicinity of mitochondria under the control of the Puf3p mRNA-binding protein. This last spatio-temporal module concerns mostly mRNAs coding for basic elements of mitochondrial construction: assembly and regulatory factors. Prediction that unknown genes from this module code for important elements of mitochondrial biogenesis is supported by experimental evidence. More generally, these observations underscore the importance of post-transcriptional processes in mitochondrial biogenesis, highlighting close connections between nuclear transcription and cytoplasmic site-specific translation.
+
+-3' Untranslated Regions
+-Algorithms
+-Cluster Analysis
+-Gene Expression Regulation, Fungal
+-Mitochondria (+metabolism)
+-Mitochondrial Proteins (+genetics; -metabolism)
++Models, Genetic
+-Oligonucleotide Array Sequence Analysis
+-Protein Biosynthesis
+-RNA, Fungal (-genetics; -metabolism)
+-RNA, Messenger (-genetics; +metabolism)
+-Regulatory Elements, Transcriptional
+-Regulon
+-Saccharomyces cerevisiae (+genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (+genetics; -metabolism)
+-Time Factors
+-Transcription Factors (-metabolism)
++Transcription, Genetic
+
+doi:10.1371/journal.pcbi.1000409
+pubmed:19521515
+pmc:PMC2690403
+

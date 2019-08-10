@@ -1,0 +1,27 @@
+Cell Cycle
+
+Epigenetic maintenance of stemness and malignancy in peripheral neuroectodermal tumors by EZH2.
+
+S Burdach, S Plehm, R Unland, U Dirksen, A Borkhardt, MS Staege, C Müller-Tidow, GH Richter
+
+Chromatin modifications are increasingly recognized as a key mechanism in cancer. The histone methyltransferase Enhancer of Zeste, Drosophila, Homolog 2 (EZH2), the enzymatic subunit of the polycomb PRC2 complex methylates histone H3K27, thereby, mediating gene silencing. EZH2 is overexpressed in a variety of tumor tissue including breast and prostate. Ewing tumors (ET), alias peripheral neuroectodermal tumors (PNET), are highly malignant tumors molecularly defined by ews/ets translocations. We found EWS-FLI1 bound to the EZH2 promoter in vivo. Other components of the PRC2 complex, like EED or SUZ12 were not deregulated in ET. Downregulation of EZH2 by RNA interference suppressed tumor development and metastasis in vivo and microarray analysis of EZH2 knock down revealed an EZH2-maintained, undifferentiated, reversible phenotype in ET. EZH2 suppression resulted in a generalized loss of H3K27me3 as well as increase in H3 acetylation. ChIP-Chip assays for H3K27me3 verified such genes that had specifically lost H3K27me3 upon EZH2 silencing, suggesting that stemness features are preserved via epigenetic mechanisms. Taken together, the genetic EWS-FLI1 translocation is intimately linked to global and gene specific epigenetic alterations in ET biology. EZH2 mediates neuroectodermal and endothelial embryonal tumor stem cell growth and metastatic spread induced by a translocation derived chimeric transcription factor.
+
+-Bone Neoplasms (+genetics; -metabolism)
+-DNA-Binding Proteins (-genetics; +metabolism)
++Epigenesis, Genetic
+-Gene Knockout Techniques
+-Histones (+metabolism)
+-Humans
+-Neoplastic Stem Cells (+metabolism)
+-Neuroectodermal Tumors, Primitive, Peripheral (+genetics; -metabolism)
+-Oncogene Proteins, Fusion (-metabolism)
+-Protein Binding
+-Proto-Oncogene Protein c-fli-1 (-metabolism)
+-RNA Interference
+-RNA, Small Interfering (-metabolism)
+-Sarcoma, Ewing's (+genetics; -metabolism)
+-Transcription Factors (-genetics; +metabolism)
+
+pii:8929
+pubmed:19502792
+

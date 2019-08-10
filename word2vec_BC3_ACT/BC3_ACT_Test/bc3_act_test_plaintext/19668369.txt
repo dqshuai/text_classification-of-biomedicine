@@ -1,0 +1,18 @@
+PLoS ONE
+
+Adaptive Lévy walks in foraging fallow deer.
+
+S Focardi, P Montanaro, E Pecchioli
+
+BACKGROUND: Lévy flights are random walks, the step lengths of which come from probability distributions with heavy power-law tails, such that clusters of short steps are connected by rare long steps. Lévy walks maximise search efficiency of mobile foragers. Recently, several studies raised some concerns about the reliability of the statistical analysis used in previous analyses. Further, it is unclear whether Lévy walks represent adaptive strategies or emergent properties determined by the interaction between foragers and resource distribution. Thus two fundamental questions still need to be addressed: the presence of Lévy walks in the wild and whether or not they represent a form of adaptive behaviour. METHODOLOGY/PRINCIPAL FINDINGS: We studied 235 paths of solitary and clustered (i.e. foraging in group) fallow deer (Dama dama), exploiting the same pasture. We used maximum likelihood estimation for discriminating between a power-tailed distribution and the exponential alternative and rank/frequency plots to discriminate between Lévy walks and composite Brownian walks. We showed that solitary deer perform Lévy searches, while clustered animals did not adopt that strategy. CONCLUSION/SIGNIFICANCE: Our demonstration of the presence of Lévy walks is, at our knowledge, the first available which adopts up-to-date statistical methodologies in a terrestrial mammal. Comparing solitary and clustered deer, we concluded that the Lévy walks of solitary deer represent an adaptation maximising encounter rates with forage resources and not an epiphenomenon induced by a peculiar food distribution.
+
+-Animals
+-Deer (+physiology)
++Feeding Behavior
+-Likelihood Functions
++Walking
+
+doi:10.1371/journal.pone.0006587
+pubmed:19668369
+pmc:PMC2719089
+

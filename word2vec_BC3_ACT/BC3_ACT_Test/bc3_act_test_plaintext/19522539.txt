@@ -1,0 +1,21 @@
+Biochemistry
+
+RB69 DNA polymerase mutants with expanded nascent base-pair-binding pockets are highly efficient but have reduced base selectivity.
+
+H Zhang, J Beckman, J Wang, W Konigsberg
+
+We have investigated the effect of systematically enlarging the nascent base-pair-binding pocket (NBP) of a replicative DNA polymerase from bacteriophage RB69 (RB69 pol) on the incorporation efficiency (k(pol)/K(d,app)) for both correct and incorrect dNMPs. Accordingly, we replaced residues L561, Y567, and S565 in the NBP with Ala, Ala, and Gly, respectively. We combined L561A and Y567A to give a double mutant and then introduced the S565G mutation to give a triple mutant. The efficiency of incorrect dNMP insertion increased markedly relative to the wild type with the single mutants and increased further as the number of substitutions in the NBP increased. The difference in incorporation efficiency for mispairs between the mutants and the wild-type RB69 pol was due mainly to k(pol). Unexpectedly, enlarging the NBP had a minimal effect on the incorporation efficiency of correct dNMPs. Our kinetic data suggest that replicative DNA pols exert base discrimination via "negative selection" against mispairs by using residues in the NBP, particularly the three residues analyzed in this study, to allow rapid incorporation of only correct base pairs. This proposal differs from how geometry and "tightness of fit" of the NBP is often invoked to account for rapid incorporation of correct base pairs, namely, that a tighter fit within the NBP leads to an increase in insertion rates [Kool, E. T. (2002) Annu. Rev. Biochem. 71, 191-219]. We related our findings to that of a model translesion DNA pol, Sulfolobus solfataricus Dpo4. We concur with the main conclusion of a previous study [Mizukami, S., et al. (2006) Biochemistry 45, 2772-2778], namely, that lesion bypass pols exhibit low incorporation efficiencies for correct dNMPs (leading to relative promiscuity) not because of a more open NBP but because of a loose fit of substrates bound in the catalytic centers. This is a property not shared by RB69 pol and its mutants.
+
+-Bacteriophages (+enzymology)
++Base Pairing
+-DNA-Directed DNA Polymerase (-genetics; +metabolism)
+-Kinetics
+-Models, Molecular
++Mutation
+-Spectrometry, Fluorescence
+
+doi:10.1021/bi900422b
+pubmed:19522539
+mid:NIHMS184951
+pmc:PMC2847438
+

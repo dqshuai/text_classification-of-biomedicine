@@ -1,0 +1,28 @@
+J. Immunol.
+
+MicroRNA-146a feedback inhibits RIG-I-dependent Type I IFN production in macrophages by targeting TRAF6, IRAK1, and IRAK2.
+
+J Hou, P Wang, L Lin, X Liu, F Ma, H An, Z Wang, X Cao
+
+Upon recognition of viral components by pattern recognition receptors, including TLRs and retinoic acid-inducible gene I (RIG-I)- like helicases, cells are activated to produce type I IFN and proinflammatory cytokines. These pathways are tightly regulated by host to prevent inappropriate cellular response, but viruses can down-regulate these pathways for their survival. Recently, identification of negative regulators for cytoplasmic RNA-mediated antiviral signaling, especially the RIG-I pathway, attract much attention. However, there is no report about negative regulation of RIG-I antiviral pathway by microRNAs (miRNA) to date. We found that vesicular stomatitis virus (VSV) infection up-regulated miR-146a expression in mouse macrophages in TLR-myeloid differentiation factor 88-independent but RIG-I-NF-kappaB-dependent manner. In turn, miR-146a negatively regulated VSV-triggered type I IFN production, thus promoting VSV replication in macrophages. In addition to two known miR-146a targets, TRAF6 and IRAK1, we proved that IRAK2 was another target of miR-146a, which also participated in VSV-induced type I IFN production. Furthermore, IRAK1 and IRAK2 participated in VSV-induced type I IFN production by associating with Fas-associated death domain protein, an important adaptor in RIG-I signaling, in a VSV infection-inducible manner. Therefore, we demonstrate that miR-146a, up-regulated during viral infection, is a negative regulator of the RIG-I-dependent antiviral pathway by targeting TRAF6, IRAK1, and IRAK2.
+
+-Animals
+-DEAD-box RNA Helicases (+metabolism)
+-Feedback, Physiological (+genetics; -immunology)
+-Immunity
+-Interferon Type I (+antagonists & inhibitors; -biosynthesis)
+-Interleukin-1 Receptor-Associated Kinases (-antagonists & inhibitors)
+-Macrophages (-drug effects; -immunology; +metabolism)
+-Mice
+-MicroRNAs (-genetics; +physiology)
+-TNF Receptor-Associated Factor 6 (-antagonists & inhibitors)
+-Up-Regulation (-drug effects)
+-Vesicular Stomatitis (-genetics; -immunology)
+-Vesiculovirus (-drug effects)
+-Virus Diseases (-genetics; -immunology)
+-Virus Replication (-drug effects)
+
+pii:jimmunol.0900707
+doi:10.4049/jimmunol.0900707
+pubmed:19596990
+

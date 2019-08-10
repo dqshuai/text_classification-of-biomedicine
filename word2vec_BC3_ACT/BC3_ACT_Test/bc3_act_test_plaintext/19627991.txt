@@ -1,0 +1,37 @@
+J. Mol. Biol.
+
+The protective antigen component of anthrax toxin forms functional octameric complexes.
+
+AF Kintzer, KL Thoren, HJ Sterling, KC Dong, GK Feld, II Tang, TT Zhang, ER Williams, JM Berger, BA Krantz
+
+The assembly of bacterial toxins and virulence factors is critical to their function, but the regulation of assembly during infection has not been studied. We begin to address this question using anthrax toxin as a model. The protective antigen (PA) component of the toxin assembles into ring-shaped homooligomers that bind the two other enzyme components of the toxin, lethal factor (LF) and edema factor (EF), to form toxic complexes. To disrupt the host, these toxic complexes are endocytosed, such that the PA oligomer forms a membrane-spanning channel that LF and EF translocate through to enter the cytosol. Using single-channel electrophysiology, we show that PA channels contain two populations of conductance states, which correspond to two different PA pre-channel oligomers observed by electron microscopy-the well-described heptamer and a novel octamer. Mass spectrometry demonstrates that the PA octamer binds four LFs, and assembly routes leading to the octamer are populated with even-numbered, dimeric and tetrameric, PA intermediates. Both heptameric and octameric PA complexes can translocate LF and EF with similar rates and efficiencies. Here, we report a 3.2-A crystal structure of the PA octamer. The octamer comprises approximately 20-30% of the oligomers on cells, but outside of the cell, the octamer is more stable than the heptamer under physiological pH. Thus, the PA octamer is a physiological, stable, and active assembly state capable of forming lethal toxins that may withstand the hostile conditions encountered in the bloodstream. This assembly mechanism may provide a novel means to control cytotoxicity.
+
+-Animals
++Antigens, Bacterial (-chemistry; -genetics; -metabolism)
++Bacillus anthracis (-chemistry; -metabolism)
++Bacterial Toxins (-chemistry; -genetics; -metabolism)
+-CHO Cells
+-Cricetinae
+-Cricetulus
+-Crystallography, X-Ray
+-Electrophysiology
+-Guinea Pigs
+-Humans
++Ion Channels (-chemistry; -genetics; -metabolism)
+-Mass Spectrometry
+-Membrane Proteins (-genetics; -metabolism)
+-Microscopy, Electron
+-Models, Molecular
+-Molecular Sequence Data
+-Neoplasm Proteins (-genetics; -metabolism)
++Protein Multimerization
++Protein Structure, Quaternary
+-Protein Subunits (-chemistry; -genetics; -metabolism)
+-Receptors, Cell Surface (-genetics; -metabolism)
+
+pii:S0022-2836(09)00876-6
+doi:10.1016/j.jmb.2009.07.037
+pubmed:19627991
+mid:NIHMS133731
+pmc:PMC2742380
+

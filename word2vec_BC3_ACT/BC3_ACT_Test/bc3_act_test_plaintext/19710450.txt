@@ -1,0 +1,29 @@
+J. Immunol.
+
+CD21/35 promotes protective immunity to Streptococcus pneumoniae through a complement-independent but CD19-dependent pathway that regulates PD-1 expression.
+
+KM Haas, JC Poe, TF Tedder
+
+Humoral immunity to T cell-independent type 2 Ags (TI-2 Ag) is critical for protection against encapsulated bacteria such as Streptococcus pneumoniae. The CD21/35 receptor is thought to promote protective humoral immunity to encapsulated bacteria by enabling complement-decorated capsular polysaccharides to coligate the CD21/35-CD19 signaling complex with the B cell Ag receptor (BCR), thereby enhancing Ag-specific B cell activation. However, Ab responses to S. pneumoniae type 3 capsular polysaccharide (PPS-3) and other strong TI-2 Ags were significantly impaired in CD21/35(-/-) but not C3(-/-) or C4(-/-) mice. B cells from CD21/35(-/-) mice expressed significantly higher levels of cell surface CD19. CD21/35(-/-) B cells exhibited enhanced BCR-induced calcium responses and significantly higher expression of the inhibitory programmed death-1 (PD-1) receptor following immunization with a TI-2 Ag or BCR crosslinking. Reducing CD19 expression in CD21/35(-/-) mice normalized BCR-induced calcium responses, PD-1 induction, and PPS-3-specific IgG3 responses and restored protection during S. pneumoniae infection. PD-1 blockade also selectively rescued PPS-3-specific IgG3 responses in CD21/35(-/-) mice. Thereby, CD21/35 promotes protective humoral immunity to S. pneumoniae and other strong TI-2 Ags through a complement-independent pathway by negatively regulating CD19 expression and PD-1 induction.
+
+-Animals
++Antibody Formation
+-Antigens, Bacterial (-immunology)
+-Antigens, CD19 (+genetics)
+-Antigens, Surface (+genetics)
+-Apoptosis Regulatory Proteins (+genetics)
+-Complement System Proteins
++Gene Expression Regulation
+-Mice
+-Mice, Knockout
+-Polysaccharides, Bacterial (-immunology)
+-Receptors, Antigen, B-Cell (-metabolism)
+-Receptors, Complement 3b (+immunology)
+-Receptors, Complement 3d (+immunology)
+-Signal Transduction
+-Streptococcus pneumoniae (+immunology)
+
+pii:jimmunol.0901218
+doi:10.4049/jimmunol.0901218
+pubmed:19710450
+

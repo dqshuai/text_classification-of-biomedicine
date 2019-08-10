@@ -1,0 +1,40 @@
+J. Biol. Chem.
+
+A genome-wide short hairpin RNA screening of jurkat T-cells for human proteins contributing to productive HIV-1 replication.
+
+ML Yeung, L Houzet, VS Yedavalli, KT Jeang
+
+Short interfering RNAs (siRNAs) have been used to inhibit HIV-1 replication. The durable inhibition of HIV-1 replication by RNA interference has been impeded, however, by a high mutation rate when viral sequences are targeted and by cytotoxicity when cellular genes are knocked down. To identify cellular proteins that contribute to HIV-1 replication that can be chronically silenced without significant cytotoxicity, we employed a shRNA library that targets 54,509 human transcripts. We used this library to select a comprehensive population of Jurkat T-cell clones, each expressing a single discrete shRNA. The Jurkat clones were then infected with HIV-1. Clones that survived viral infection represent moieties silenced for a human mRNA needed for virus replication, but whose chronic knockdown did not cause cytotoxicity. Overall, 252 individual Jurkat mRNAs were identified. Twenty-two of these mRNAs were secondarily verified for their contributions to HIV-1 replication. Five mRNAs, NRF1, STXBP2, NCOA3, PRDM2, and EXOSC5, were studied for their effect on steps of the HIV-1 life cycle. We discuss the similarities and differences between our shRNA findings for HIV-1 using a spreading infection assay in human Jurkat T-cells and results from other investigators who used siRNA-based screenings in HeLa or 293T cells.
+
+-Antigens, Neoplasm (-genetics)
+-Antigens, Surface (-genetics)
+-Cell Line
+-Cell Proliferation
+-DNA-Binding Proteins (-genetics)
+-Exoribonucleases (-genetics)
+-Flow Cytometry
+-Gene Library
++Genome, Human
+-HIV Core Protein p24 (-genetics; -metabolism)
+-HIV-1 (+genetics; -growth & development; -metabolism)
+-Hela Cells
+-Histone Acetyltransferases (-genetics)
+-Humans
+-Jurkat Cells
+-Munc18 Proteins (-genetics)
+-Nuclear Proteins (-genetics)
+-Nuclear Receptor Coactivator 3
+-Nuclear Respiratory Factor 1 (-genetics)
+-Oligonucleotide Array Sequence Analysis (-methods)
+-Proteins (+genetics)
+-RNA, Messenger (-genetics)
+-RNA, Small Interfering (+genetics)
+-Trans-Activators (-genetics)
+-Transcription Factors (-genetics)
+-Virus Replication (+genetics)
+
+pii:M109.010033
+doi:10.1074/jbc.M109.010033
+pubmed:19460752
+pmc:PMC2740572
+

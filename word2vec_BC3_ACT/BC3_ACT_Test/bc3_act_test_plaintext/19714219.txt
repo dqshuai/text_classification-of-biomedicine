@@ -1,0 +1,22 @@
+PLoS Genet.
+
+Fission yeast Tel1(ATM) and Rad3(ATR) promote telomere protection and telomerase recruitment.
+
+BA Moser, L Subramanian, L Khair, YT Chang, TM Nakamura
+
+The checkpoint kinases ATM and ATR are redundantly required for maintenance of stable telomeres in diverse organisms, including budding and fission yeasts, Arabidopsis, Drosophila, and mammals. However, the molecular basis for telomere instability in cells lacking ATM and ATR has not yet been elucidated fully in organisms that utilize both the telomere protection complex shelterin and telomerase to maintain telomeres, such as fission yeast and humans. Here, we demonstrate by quantitative chromatin immunoprecipitation (ChIP) assays that simultaneous loss of Tel1(ATM) and Rad3(ATR) kinases leads to a defect in recruitment of telomerase to telomeres, reduced binding of the shelterin complex subunits Ccq1 and Tpz1, and increased binding of RPA and homologous recombination repair factors to telomeres. Moreover, we show that interaction between Tpz1-Ccq1 and telomerase, thought to be important for telomerase recruitment to telomeres, is disrupted in tel1Delta rad3Delta cells. Thus, Tel1(ATM) and Rad3(ATR) are redundantly required for both protection of telomeres against recombination and promotion of telomerase recruitment. Based on our current findings, we propose the existence of a regulatory loop between Tel1(ATM)/Rad3(ATR) kinases and Tpz1-Ccq1 to ensure proper protection and maintenance of telomeres in fission yeast.
+
+-Carrier Proteins (-genetics; -metabolism)
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Protein Binding
+-Protein Kinases (-genetics; +metabolism)
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-Schizosaccharomyces (-enzymology; -genetics; +metabolism)
+-Schizosaccharomyces pombe Proteins (-genetics; +metabolism)
+-Telomerase (-genetics; +metabolism)
+-Telomere (-genetics; +metabolism)
+
+doi:10.1371/journal.pgen.1000622
+pubmed:19714219
+pmc:PMC2726628
+

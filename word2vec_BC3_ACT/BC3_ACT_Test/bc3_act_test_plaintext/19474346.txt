@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+AutoClass@IJM: a powerful tool for Bayesian classification of heterogeneous data in biology.
+
+F Achcar, JM Camadro, D Mestivier
+
+Recently, several theoretical and applied studies have shown that unsupervised Bayesian classification systems are of particular relevance for biological studies. However, these systems have not yet fully reached the biological community mainly because there are few freely available dedicated computer programs, and Bayesian clustering algorithms are known to be time consuming, which limits their usefulness when using personal computers. To overcome these limitations, we developed AutoClass@IJM, a computational resource with a web interface to AutoClass, a powerful unsupervised Bayesian classification system developed by the Ames Research Center at N.A.S.A. AutoClass has many powerful features with broad applications in biological sciences: (i) it determines the number of classes automatically, (ii) it allows the user to mix discrete and real valued data, (iii) it handles missing values. End users upload their data sets through our web interface; computations are then queued in our cluster server. When the clustering is completed, an URL to the results is sent back to the user by e-mail. AutoClass@IJM is freely available at: http://ytat2.ijm.univ-paris-diderot.fr/AutoclassAtIJM.html.
+
+-Algorithms
+-Bayes Theorem
+-Classification (+methods)
++Cluster Analysis
+-Gene Expression Profiling
+-Internet
+-Oligonucleotide Array Sequence Analysis
++Software
+-User-Computer Interface
+
+pii:gkp430
+doi:10.1093/nar/gkp430
+pubmed:19474346
+pmc:PMC2703914
+

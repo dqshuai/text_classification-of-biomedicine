@@ -1,0 +1,22 @@
+Biochemistry
+
+Biochemical characterization of the GTP:adenosylcobinamide-phosphate guanylyltransferase (CobY) enzyme of the hyperthermophilic archaeon Methanocaldococcus jannaschii.
+
+MM Otte, JC Escalante-Semerena
+
+The archaeal cobY gene encodes the nonorthologous replacement of the bacterial NTP:AdoCbi kinase (EC 2.7.7.62)/GTP:AdoCbi-P guanylyltransferase (EC 3.1.3.73) and is required for de novo synthesis of AdoCbl (coenzyme B(12)). Here we show that ORF MJ1117 of the hyperthermophilic, methanogenic archaeon Methanocaldococcus jannaschii encodes a CobY protein (Mj CobY) that transfers the GMP moiety of GTP to AdoCbi-P to form AdoCbi-GDP. Results from isothermal titration calorimetry (ITC) experiments show that MjCobY binds GTP (K(d) = 5 muM), but it does not bind the GTP analogues GMP-PNP (guanosine 5'-(beta,gamma)-imidotriphosphate) or GMP-PCP (guanylyl 5'-(beta,gamma)-methylenediphosphonate) nor GDP. Results from ITC experiments indicate that MjCobY binds one GTP per dimer. Results from in vivo studies support the conclusion that the 5'-deoxyadenosyl upper ligand of AdoCbi-P is required for MjCobY function. Consistent with these findings, MjCobY displayed high affinity for AdoCbi-P (K(d) = 0.76 muM) but did not bind nonadenosylated Cbi-P. Kinetic parameters for theMj CobY reaction were determined. Results from circular dichroism studies indicate that, in isolation, MjCobY denatures at 80 degrees C with a concomitant loss of activity. We propose that ORF MJ1117 of M. jannaschii be annotated as cobY to reflect its involvement in AdoCbl biosynthesis.
+
+-Archaeal Proteins (-biosynthesis; +chemistry; -genetics)
+-Guanosine Triphosphate (+chemistry; -metabolism)
+-Methanococcales (+enzymology; -genetics)
+-Multienzyme Complexes (-biosynthesis; +chemistry; -genetics)
+-Nucleotidyltransferases (-biosynthesis; +chemistry; -genetics)
+-Pentosyltransferases (-biosynthesis; +chemistry; -genetics)
+-Protein Binding (-genetics)
+-Recombinant Proteins (-biosynthesis; -chemistry; -genetics)
+
+doi:10.1021/bi8023114
+pubmed:19489548
+mid:NIHMS121388
+pmc:PMC2757067
+

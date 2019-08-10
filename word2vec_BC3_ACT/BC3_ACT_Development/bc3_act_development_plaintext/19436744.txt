@@ -1,0 +1,20 @@
+PLoS ONE
+
+Intra-platform repeatability and inter-platform comparability of microRNA microarray technology.
+
+F Sato, S Tsuchiya, K Terasawa, G Tsujimoto
+
+Over the last decade, DNA microarray technology has provided a great contribution to the life sciences. The MicroArray Quality Control (MAQC) project demonstrated the way to analyze the expression microarray. Recently, microarray technology has been utilized to analyze a comprehensive microRNA expression profiling. Currently, several platforms of microRNA microarray chips are commercially available. Thus, we compared repeatability and comparability of five different microRNA microarray platforms (Agilent, Ambion, Exiqon, Invitrogen and Toray) using 309 microRNAs probes, and the Taqman microRNA system using 142 microRNA probes. This study demonstrated that microRNA microarray has high intra-platform repeatability and comparability to quantitative RT-PCR of microRNA. Among the five platforms, Agilent and Toray array showed relatively better performances than the others. However, the current lineup of commercially available microRNA microarray systems fails to show good inter-platform concordance, probably because of lack of an adequate normalization method and severe divergence in stringency of detection call criteria between different platforms. This study provided the basic information about the performance and the problems specific to the current microRNA microarray systems.
+
+-Gene Expression Profiling (+methods)
+-Humans
+-MicroRNAs (-chemistry; +metabolism)
+-Oligonucleotide Array Sequence Analysis (+methods; -standards)
+-RNA Probes (-chemistry)
+-Reproducibility of Results
+-Reverse Transcriptase Polymerase Chain Reaction
+
+doi:10.1371/journal.pone.0005540
+pubmed:19436744
+pmc:PMC2677665
+

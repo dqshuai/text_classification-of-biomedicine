@@ -1,0 +1,29 @@
+Nucleic Acids Res.
+
+Tissue-specific regulatory network extractor (TS-REX): a database and software resource for the tissue and cell type-specific investigation of transcription factor-gene networks.
+
+F Colecchia, D Kottwitz, M Wagner, CV Pfenninger, G Thiel, I Tamm, C Peterson, UA Nuber
+
+The prediction of transcription factor binding sites in genomic sequences is in principle very useful to identify upstream regulatory factors. However, when applying this concept to genomes of multicellular organisms such as mammals, one has to deal with a large number of false positive predictions since many transcription factor genes are only expressed in specific tissues or cell types. We developed TS-REX, a database/software system that supports the analysis of tissue and cell type-specific transcription factor-gene networks based on expressed sequence tag abundance of transcription factor-encoding genes in UniGene EST libraries. The use of expression levels of transcription factor-encoding genes according to hierarchical anatomical classifications covering different tissues and cell types makes it possible to filter out irrelevant binding site predictions and to identify candidates of potential functional importance for further experimental testing. TS-REX covers ESTs from H. sapiens and M. musculus, and allows the characterization of both presence and specificity of transcription factors in user-specified tissues or cell types. The software allows users to interactively visualize transcription factor-gene networks, as well as to export data for further processing. TS-REX was applied to predict regulators of Polycomb group genes in six human tumor tissues and in human embryonic stem cells.
+
+-Animals
+-Binding Sites
+-Cell Line, Tumor
++Databases, Genetic
+-Embryonic Stem Cells (-metabolism)
+-Expressed Sequence Tags
+-Gene Expression Regulation
+-Gene Library
++Gene Regulatory Networks
+-Humans
+-Mice
+-Neoplasms (-genetics; -metabolism)
+-Repressor Proteins (-genetics; -metabolism)
++Software
+-Transcription Factors (-genetics; +metabolism)
+
+pii:gkp311
+doi:10.1093/nar/gkp311
+pubmed:19443447
+pmc:PMC2699531
+

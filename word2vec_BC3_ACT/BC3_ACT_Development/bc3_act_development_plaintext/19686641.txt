@@ -1,0 +1,19 @@
+Biophys. J.
+
+E. coli superdiffusion and chemotaxis-search strategy, precision, and motility.
+
+F Matthäus, M Jagodic, J Dobnikar
+
+Escherichia coli motion is characterized by a sequence of consecutive tumble-and-swim events. In the absence of chemical gradients, the length of individual swims is commonly believed to be distributed exponentially. However, recently there has been experimental indication that the swim-length distribution has the form of a power-law, suggesting that bacteria might perform superdiffusive Lévy-walk motion. In E. coli, the power-law behavior can be induced through stochastic fluctuations in the level of CheR, one of the key enzymes in the chemotaxis signal transmission pathway. We use a mathematical model of the chemotaxis signaling pathway to study the influence of these fluctuations on the E. coli behavior in the absence and presence of chemical gradients. We find that the population with fluctuating CheR performs Lévy-walks in the absence of chemoattractants, and therefore might have an advantage in environments where nutrients are sparse. The more efficient search strategy in sparse environments is accompanied by a generally larger motility, also in the presence of chemoattractants. The tradeoff of this strategy is a reduced precision in sensing and following gradients, as well as a slower adaptation to absolute chemoattractant levels.
+
+-Cell Movement (-physiology)
+-Chemotaxis (+physiology)
+-Computer Simulation
+-Escherichia coli (+physiology)
++Models, Biological
+
+pii:S0006-3495(09)01028-5
+doi:10.1016/j.bpj.2009.04.065
+pubmed:19686641
+pmc:PMC2726325
+

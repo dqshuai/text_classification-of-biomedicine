@@ -1,0 +1,22 @@
+Proteomics
+
+The development of retrosynthetic glycan libraries to profile and classify the human serum N-linked glycome.
+
+SR Kronewitter, HJ An, ML de Leoz, CB Lebrilla, S Miyamoto, GS Leiserowitz
+
+Annotation of the human serum N-linked glycome is a formidable challenge but is necessary for disease marker discovery. A new theoretical glycan library was constructed and proposed to provide all possible glycan compositions in serum. It was developed based on established glycobiology and retrosynthetic state-transition networks. We find that at least 331 compositions are possible in the serum N-linked glycome. By pairing the theoretical glycan mass library with a high mass accuracy and high-resolution MS, human serum glycans were effectively profiled. Correct isotopic envelope deconvolution to monoisotopic masses and the high mass accuracy instruments drastically reduced the amount of false composition assignments. The high throughput capacity enabled by this library permitted the rapid glycan profiling of large control populations. With the use of the library, a human serum glycan mass profile was developed from 46 healthy individuals. This paper presents a theoretical N-linked glycan mass library that was used for accurate high-throughput human serum glycan profiling. Rapid methods for evaluating a patient's glycome are instrumental for studying glycan-based markers.
+
+-Glycomics (+methods)
+-Humans
+-Mass Spectrometry (-methods)
+-Metabolic Networks and Pathways
+-Models, Biological
+-Polysaccharides (+blood)
+-Small Molecule Libraries
+-Spectroscopy, Fourier Transform Infrared (-methods)
+
+doi:10.1002/pmic.200800760
+pubmed:19452454
+mid:NIHMS146840
+pmc:PMC2758495
+

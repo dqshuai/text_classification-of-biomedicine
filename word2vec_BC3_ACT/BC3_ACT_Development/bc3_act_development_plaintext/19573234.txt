@@ -1,0 +1,24 @@
+BMC Genomics
+
+A BAC-based physical map of the Hessian fly genome anchored to polytene chromosomes.
+
+R Aggarwal, TR Benatti, N Gill, C Zhao, MS Chen, JP Fellers, BJ Schemerhorn, JJ Stuart
+
+BACKGROUND: The Hessian fly (Mayetiola destructor) is an important insect pest of wheat. It has tractable genetics, polytene chromosomes, and a small genome (158 Mb). Investigation of the Hessian fly presents excellent opportunities to study plant-insect interactions and the molecular mechanisms underlying genome imprinting and chromosome elimination. A physical map is needed to improve the ability to perform both positional cloning and comparative genomic analyses with the fully sequenced genomes of other dipteran species. RESULTS: An FPC-based genome wide physical map of the Hessian fly was constructed and anchored to the insect's polytene chromosomes. Bacterial artificial chromosome (BAC) clones corresponding to 12-fold coverage of the Hessian fly genome were fingerprinted, using high information content fingerprinting (HIFC) methodology, and end-sequenced. Fluorescence in situ hybridization (FISH) co-localized two BAC clones from each of the 196 longest contigs on the polytene chromosomes. An additional 70 contigs were positioned using a single FISH probe. The 266 FISH mapped contigs were evenly distributed and covered 60% of the genome (95,668 kb). The ends of the fingerprinted BACs were then sequenced to develop the capacity to create sequenced tagged site (STS) markers on the BACs in the map. Only 3.64% of the BAC-end sequence was composed of transposable elements, helicases, ribosomal repeats, simple sequence repeats, and sequences of low complexity. A relatively large fraction (14.27%) of the BES was comprised of multi-copy gene sequences. Nearly 1% of the end sequence was composed of simple sequence repeats (SSRs). CONCLUSION: This physical map provides the foundation for high-resolution genetic mapping, map-based cloning, and assembly of complete genome sequencing data. The results indicate that restriction fragment length heterogeneity in BAC libraries used to construct physical maps lower the length and the depth of the contigs, but is not an absolute barrier to the successful application of the technology. This map will serve as a genomic resource for accelerating gene discovery, genome sequencing, and the assembly of BAC sequences. The Hessian fly BAC-clone assembly, and the names and positions of the BAC clones used in the FISH experiments are publically available at (http://genome.purdue.edu/WebAGCoL/Hfly/WebFPC/).
+
+-Animals
+-Chromosome Walking
+-Chromosomes, Artificial, Bacterial (-genetics)
+-Contig Mapping (+methods)
+-DNA Fingerprinting (-methods)
+-Diptera (+genetics)
++Genome, Insect
+-Genomic Library
+-In Situ Hybridization, Fluorescence
+-Sequence Analysis, DNA (-methods)
+
+pii:1471-2164-10-293
+doi:10.1186/1471-2164-10-293
+pubmed:19573234
+pmc:PMC2709663
+

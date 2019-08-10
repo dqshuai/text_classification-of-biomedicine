@@ -1,0 +1,28 @@
+Mol. Biol. Cell
+
+A phosphatidylinositol-transfer protein and phosphatidylinositol-4-phosphate 5-kinase control Cdc42 to regulate the actin cytoskeleton and secretory pathway in yeast.
+
+L Yakir-Tamang, JE Gerst
+
+The actin cytoskeleton rapidly depolarizes in yeast secretory (sec) mutants at restrictive temperatures. Thus, an unknown signal conferred upon secretion is necessary for actin polarity and exocytosis. Here, we show that a phosphatidylinositol (PI) transfer protein, Sfh5, and a phosphatidylinositol-4-phosphate 5-kinase, Mss4, facilitate Cdc42 activation to concomitantly regulate both actin and protein trafficking. Defects in Mss4 function led to actin depolarization, an inhibition of secretion, reduced levels of phosphatidylinositol 4,5-bisphosphate [PI(4,5)P(2)] in membranes, mislocalization of a pleckstrin homology domain fused to green fluorescent protein, and the mislocalization of Cdc42. Similar defects were observed in sec, myo2-66, and cdc42-6 mutants at elevated temperatures and were rescued by the overexpression of MSS4. Likewise, the overexpression of SFH5 or CDC42 could ameliorate these defects in many sec mutants, most notably in sec3Delta cells, indicating that Cdc42-mediated effects upon actin and secretion do not necessitate Sec3 function. Moreover, mutation of the residues involved in PI binding in Sfh5 led to the mislocalization and loss of function of both Sfh5 and Cdc42. Based upon these findings, we propose that the exocytic signal involves PI delivery to the PI kinases (i.e., Mss4) by Sfh5, generation of PI(4,5)P(2), and PI(4,5)P(2)-dependent regulation of Cdc42 and the actin cytoskeleton.
+
+-Actins (-metabolism)
+-Cytoskeleton (-chemistry; +metabolism)
+-Electrophoresis, Polyacrylamide Gel
+-Exocytosis
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Mutation
+-Phosphatidylinositol 4,5-Diphosphate (-metabolism)
+-Phospholipid Transfer Proteins (-genetics; +metabolism)
+-Phosphotransferases (Alcohol Group Acceptor) (-genetics; +metabolism)
+-Saccharomyces cerevisiae (-genetics; -growth & development; +metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
++Secretory Pathway
+-Temperature
+-cdc42 GTP-Binding Protein, Saccharomyces cerevisiae (-genetics; +metabolism)
+
+pii:E08-10-1073
+doi:10.1091/mbc.E08-10-1073
+pubmed:19477927
+pmc:PMC2719576
+

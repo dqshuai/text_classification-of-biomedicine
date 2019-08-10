@@ -1,0 +1,23 @@
+Eukaryotic Cell
+
+Evolutionary capture of viral and plasmid DNA by yeast nuclear chromosomes.
+
+AC Frank, KH Wolfe
+
+A 10-kb region of the nuclear genome of the yeast Vanderwaltozyma polyspora contains an unusual cluster of five pseudogenes homologous to five different genes from yeast killer viruses, killer plasmids, the 2microm plasmid, and a Penicillium virus. By further database searches, we show that this phenomenon is not unique to V. polyspora but that about 40% of the sequenced genomes of Saccharomycotina species contain integrated copies of genes from DNA plasmids or RNA viruses. We propose the name NUPAVs (nuclear sequences of plasmid and viral origin) for these objects, by analogy to NUMTs (nuclear copies of mitochondrial DNA) and NUPTs (nuclear copies of plastid DNA, in plants) of organellar origin. Although most of the NUPAVs are pseudogenes, one intact and active gene that was formed in this way is the KHS1 chromosomal killer locus of Saccharomyces cerevisiae. We show that KHS1 is a NUPAV related to M2 killer virus double-stranded RNA. Many NUPAVs are located beside tRNA genes, and some contain sequences from a mixture of different extrachromosomal sources. We propose that NUPAVs are sequences that were captured by the nuclear genome during the repair of double-strand breaks that occurred during evolution and that some of their properties may be explained by repeated breakage at fragile chromosomal sites.
+
+-Cell Nucleus (-metabolism)
+-Chromosomes, Fungal (+genetics)
+-DNA, Fungal (+genetics)
+-DNA, Viral (+metabolism)
++Evolution, Molecular
+-Genome, Fungal
+-Plasmids (+genetics)
+-Saccharomycetales (+genetics)
+-Yeasts (-genetics)
+
+pii:EC.00110-09
+doi:10.1128/EC.00110-09
+pubmed:19666779
+pmc:PMC2756859
+

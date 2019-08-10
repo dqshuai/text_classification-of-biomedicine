@@ -1,0 +1,27 @@
+PLoS Pathog.
+
+Degradation of phosphorylated p53 by viral protein-ECS E3 ligase complex.
+
+Y Sato, T Kamura, N Shirata, T Murata, A Kudoh, S Iwahori, S Nakayama, H Isomura, Y Nishiyama, T Tsurumi
+
+p53-signaling is modulated by viruses to establish a host cellular environment advantageous for their propagation. The Epstein-Barr virus (EBV) lytic program induces phosphorylation of p53, which prevents interaction with MDM2. Here, we show that induction of EBV lytic program leads to degradation of p53 via an ubiquitin-proteasome pathway independent of MDM2. The BZLF1 protein directly functions as an adaptor component of the ECS (Elongin B/C-Cul2/5-SOCS-box protein) ubiquitin ligase complex targeting p53 for degradation. Intringuingly, C-terminal phosphorylation of p53 resulting from activated DNA damage response by viral lytic replication enhances its binding to BZLF1 protein. Purified BZLF1 protein-associated ECS could be shown to catalyze ubiquitination of phospho-mimetic p53 more efficiently than the wild-type in vitro. The compensation of p53 at middle and late stages of the lytic infection inhibits viral DNA replication and production during lytic infection, suggesting that the degradation of p53 is required for efficient viral propagation. Taken together, these findings demonstrate a role for the BZLF1 protein-associated ECS ligase complex in regulation of p53 phosphorylated by activated DNA damage signaling during viral lytic infection.
+
+-Amino Acid Motifs
+-Amino Acid Sequence
+-Cell Line
+-Cell Line, Tumor
+-Cullin Proteins (-metabolism)
+-Herpesvirus 4, Human (-growth & development; +metabolism)
+-Humans
+-Molecular Sequence Data
+-Phosphorylation
+-Trans-Activators (+metabolism)
+-Tumor Suppressor Protein p53 (+metabolism)
+-Ubiquitin-Protein Ligases (+metabolism)
+-Ubiquitination
+-Virus Replication
+
+doi:10.1371/journal.ppat.1000530
+pubmed:19649319
+pmc:PMC2712087
+

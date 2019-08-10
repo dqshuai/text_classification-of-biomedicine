@@ -1,0 +1,28 @@
+Protein Sci.
+
+Insights into the anthrax lethal factor-substrate interaction and selectivity using docking and molecular dynamics simulations.
+
+GA Dalkas, A Papakyriakou, A Vlamis-Gardikas, GA Spyroulias
+
+The anthrax toxin of the bacterium Bacillus anthracis consists of three distinct proteins, one of which is the anthrax lethal factor (LF). LF is a gluzincin Zn-dependent, highly specific metalloprotease with a molecular mass of approximately 90 kDa that cleaves most isoforms of the family of mitogen-activated protein kinase kinases (MEKs/MKKs) close to their amino termini, resulting in the inhibition of one or more signaling pathways. Previous studies on the crystal structures of uncomplexed LF and LF complexed with the substrate MEK2 or a MKK-based synthetic peptide provided structure-activity correlations and the basis for the rational design of efficient inhibitors. However, in the crystallographic structures, the substrate peptide was not properly oriented in the active site because of the absence of the catalytic zinc atom. In the current study, docking and molecular dynamics calculations were employed to examine the LF-MEK/MKK interaction along the catalytic channel up to a distance of 20 A from the zinc atom. This residue-specific view of the enzyme-substrate interaction provides valuable information about: (i) the substrate selectivity of LF and its inactivation of MEKs/MKKs (an issue highly important not only to anthrax infection but also to the pathogenesis of cancer), and (ii) the discovery of new, previously unexploited, hot-spots of the LF catalytic channel that are important in the enzyme/substrate binding and interaction.
+
+-Amino Acid Sequence
+-Antigens, Bacterial (+chemistry; -metabolism)
+-Bacillus anthracis (-chemistry; +enzymology)
+-Bacterial Toxins (+chemistry; -metabolism)
+-Binding Sites (-physiology)
+-Catalytic Domain (-physiology)
+-Computer Simulation
+-Crystallography, X-Ray
+-Databases, Protein
+-Mitogen-Activated Protein Kinase Kinases (+chemistry; -metabolism)
+-Molecular Sequence Data
+-Protein Structure, Tertiary
+-Structure-Activity Relationship
+-Substrate Specificity
+-Zinc (-metabolism)
+
+doi:10.1002/pro.169
+pubmed:19585464
+pmc:PMC2776964
+

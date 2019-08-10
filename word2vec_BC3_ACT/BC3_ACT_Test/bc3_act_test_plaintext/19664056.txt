@@ -1,0 +1,21 @@
+FEBS J.
+
+YidC is required for the assembly of the MscL homopentameric pore.
+
+OI Pop, Z Soprova, G Koningstein, DJ Scheffers, P van Ulsen, D Wickström, JW de Gier, J Luirink
+
+The mechanosensitive channel with large conductance (MscL) of Escherichia coli is formed by a homopentameric assembly of MscL proteins. Here, we describe MscL biogenesis as determined using in vivo approaches. Evidence is presented that MscL is targeted to the inner membrane via the signal recognition particle (SRP) pathway, and is inserted into the lipid bilayer independently of the Sec machinery. This is consistent with published data. Surprisingly, and in conflict with earlier data, YidC is not critical for membrane insertion of MscL. In the absence of YidC, assembly of the homopentameric MscL complex was strongly reduced, suggesting a late role for YidC in the biogenesis of MscL. The data are consistent with the view that YidC functions as a membrane-based chaperone 'module' to facilitate assembly of a subset of protein complexes in the inner membrane of E. coli.
+
+-Escherichia coli (-genetics; +metabolism)
+-Escherichia coli Proteins (-genetics; +physiology)
+-Intracellular Membranes (-metabolism)
+-Ion Channels (-genetics; +physiology)
+-Membrane Transport Proteins (-genetics; +physiology)
+-Mutation
+-Protein Multimerization
+-Signal Recognition Particle (-physiology)
+
+pii:EJB7188
+doi:10.1111/j.1742-4658.2009.07188.x
+pubmed:19664056
+

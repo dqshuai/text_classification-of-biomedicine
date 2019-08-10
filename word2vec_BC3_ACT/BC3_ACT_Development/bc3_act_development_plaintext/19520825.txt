@@ -1,0 +1,21 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Acid-base-driven matrix-assisted mass spectrometry for targeted metabolomics.
+
+R Shroff, L Rulísek, J Doubsky, A Svatos
+
+The ability to charge huge biomolecules without breaking them apart has made matrix-assisted laser desorption/ionization (MALDI) mass spectrometry an indispensable tool for biomolecular analysis. Conventional, empirically selected matrices produce abundant matrix ion clusters in the low-mass region (<500 Da), hampering the application of MALDI-MS to metabolomics. An ionization mode of MAILD, a rational protocol for matrix selection based on Brønsted-Lowry acid-base theory and its application to metabolomics, biological screening/profiling/imaging, and clinical diagnostics is illustrated. Numerous metabolites, covering important metabolic pathways (Krebs' cycle, fatty acid and glucosinolate biosynthesis), were detected in extracts, biofluids, and/or in biological tissues (Arabidopsis thaliana, Drosophila melanogaster, Acyrthosiphon pisum, and human blood). This approach moves matrix selection from "black art" to rational design and sets a paradigm for small-molecule analysis via MALDI-MS.
+
+-Animals
+-Aphids (-chemistry; -metabolism)
+-Arabidopsis (-chemistry; -metabolism)
+-Drosophila melanogaster (-chemistry; -metabolism)
+-Humans
++Metabolic Networks and Pathways
+-Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization (+methods)
+
+pii:0900914106
+doi:10.1073/pnas.0900914106
+pubmed:19520825
+pmc:PMC2695405
+

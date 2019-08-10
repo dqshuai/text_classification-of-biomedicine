@@ -1,0 +1,22 @@
+Structure
+
+Accessory proteins stabilize the acceptor complex for synaptobrevin, the 1:1 syntaxin/SNAP-25 complex.
+
+K Weninger, ME Bowen, UB Choi, S Chu, AT Brunger
+
+Syntaxin/SNAP-25 interactions precede assembly of the ternary SNARE complex that is essential for neurotransmitter release. This binary complex has been difficult to characterize by bulk methods because of the prevalence of a 2:1 dead-end species. Here, using single-molecule fluorescence, we find the structure of the 1:1 syntaxin/SNAP-25 binary complex is variable, with states changing on the second timescale. One state corresponds to a parallel three-helix bundle, whereas other states show one of the SNAP-25 SNARE domains dissociated. Adding synaptobrevin suppresses the dissociated helix states. Remarkably, upon addition of complexin, Munc13, Munc18, or synaptotagmin, a similar effect is observed. Thus, the 1:1 binary complex is a dynamic acceptor for synaptobrevin binding, and accessory proteins stabilize this acceptor. In the cellular environment the binary complex is actively maintained in a configuration where it can rapidly interact with synaptobrevin, so formation is not likely a limiting step for neurotransmitter release.
+
+-Fluorescence Resonance Energy Transfer
+-Lipid Bilayers (-metabolism)
+-Protein Structure, Tertiary
+-Qa-SNARE Proteins (+chemistry; -metabolism)
+-R-SNARE Proteins (+metabolism)
+-SNARE Proteins (+metabolism)
+-Synaptosomal-Associated Protein 25 (+chemistry; -metabolism)
+
+pii:S0969-2126(08)00004-X
+doi:10.1016/j.str.2007.12.010
+pubmed:18275821
+mid:NIHMS191271
+pmc:PMC2856644
+

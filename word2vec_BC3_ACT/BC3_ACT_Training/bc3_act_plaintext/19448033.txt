@@ -1,0 +1,26 @@
+Plant Cell
+
+Phosphorylation of SOS3-LIKE CALCIUM BINDING PROTEIN8 by SOS2 protein kinase stabilizes their protein complex and regulates salt tolerance in Arabidopsis.
+
+H Lin, Y Yang, R Quan, I Mendoza, Y Wu, W Du, S Zhao, KS Schumaker, JM Pardo, Y Guo
+
+The Salt Overly Sensitive (SOS) pathway plays an important role in the regulation of Na+/K+ ion homeostasis and salt tolerance in Arabidopsis thaliana. Previously, we reported that the calcium binding proteins SOS3 and SOS3-LIKE CALCIUM BINDING PROTEIN8 (SCaBP8) nonredundantly activate the protein kinase SOS2. Here, we show that SOS2 phosphorylates SCaBP8 at its C terminus but does not phosphorylate SOS3. In vitro, SOS2 phosphorylation of SCaBP8 was enhanced by the bimolecular interaction of SOS2 and SCaBP8 and did not require calcium ions. In vivo, this phosphorylation was induced by salt stress, occurred at the membrane, stabilized the SCaBP8-SOS2 interaction, and enhanced plasma membrane Na+/H+ exchange activity. When a Ser at position 237 in the SCaBP8 protein (the SOS2 phosphorylation target) was mutated to Ala, SCaBP8 was no longer phosphorylated by SOS2 and the mutant protein could not fully rescue the salt-sensitive phenotype of the scabp8 mutant. By contrast, when Ser-237 was mutated to Asp to mimic the charge of a phosphorylated Ser residue, the mutant protein rescued the scabp8 salt sensitivity. These data demonstrate that calcium sensor phosphorylation is a critical component of SOS pathway regulation of salt tolerance in Arabidopsis.
+
+-Arabidopsis (-drug effects; -enzymology; +metabolism)
+-Arabidopsis Proteins (+metabolism; +physiology)
+-Binding Sites
+-Calcium-Binding Proteins (+metabolism; -physiology)
+-Mutagenesis, Site-Directed
+-Phenotype
+-Phosphorylation
+-Protein-Serine-Threonine Kinases (-metabolism; +physiology)
+-Salt-Tolerance (+physiology)
+-Serine (-metabolism)
+-Sodium Chloride (+metabolism; -pharmacology)
+-Stress, Physiological
+
+pii:tpc.109.066217
+doi:10.1105/tpc.109.066217
+pubmed:19448033
+pmc:PMC2700523
+

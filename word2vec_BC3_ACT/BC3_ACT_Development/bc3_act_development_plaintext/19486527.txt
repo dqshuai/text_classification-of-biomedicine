@@ -1,0 +1,28 @@
+BMC Cell Biol.
+
+The histone methyltransferase SUV420H2 and Heterochromatin Proteins HP1 interact but show different dynamic behaviours.
+
+PP Souza, P Völkel, D Trinel, J Vandamme, C Rosnoblet, L Héliot, PO Angrand
+
+BACKGROUND: Histone lysine methylation plays a fundamental role in chromatin organization and marks distinct chromatin regions. In particular, trimethylation at lysine 9 of histone H3 (H3K9) and at lysine 20 of histone H4 (H4K20) governed by the histone methyltransferases SUV39H1/2 and SUV420H1/2 respectively, have emerged as a hallmark of pericentric heterochromatin. Controlled chromatin organization is crucial for gene expression regulation and genome stability. Therefore, it is essential to analyze mechanisms responsible for high order chromatin packing and in particular the interplay between enzymes involved in histone modifications, such as histone methyltransferases and proteins that recognize these epigenetic marks. RESULTS: To gain insights into the mechanisms of SUV420H2 recruitment at heterochromatin, we applied a tandem affinity purification approach coupled to mass spectrometry. We identified heterochromatin proteins HP1 as main interacting partners. The regions responsible for the binding were mapped to the heterochromatic targeting module of SUV420H2 and HP1 chromoshadow domain. We studied the dynamic properties of SUV420H2 and the HP1 in living cells using fluorescence recovery after photobleaching. Our results showed that HP1 proteins are highly mobile with different dynamics during the cell cycle, whereas SUV420H2 remains strongly bound to pericentric heterochromatin. An 88 amino-acids region of SUV420H2, the heterochromatic targeting module, recapitulates both, HP1 binding and strong association to heterochromatin. CONCLUSION: FRAP experiments reveal that in contrast to HP1, SUV420H2 is strongly associated to pericentric heterochromatin. Then, the fraction of SUV420H2 captured and characterized by TAP/MS is a soluble fraction which may be in a stable association with HP1. Consequently, SUV420H2 may be recruited to heterochromatin in association with HP1, and stably maintained at its heterochromatin sites in an HP1-independent fashion.
+
+-Amino Acid Sequence
+-Animals
+-Cell Cycle
+-Cell Line
+-Chromosomal Proteins, Non-Histone (+metabolism)
+-Hela Cells
+-Heterochromatin (-chemistry)
+-Histone-Lysine N-Methyltransferase (-isolation & purification; +metabolism)
+-Humans
+-Mice
+-Molecular Sequence Data
+-Nuclear Proteins (-metabolism)
+-Protein Interaction Domains and Motifs (-physiology)
+-Protein Interaction Mapping (-methods)
+
+pii:1471-2121-10-41
+doi:10.1186/1471-2121-10-41
+pubmed:19486527
+pmc:PMC2701926
+

@@ -1,0 +1,22 @@
+J. Mol. Biol.
+
+The folding trajectory of RNase H is dominated by its topology and not local stability: a protein engineering study of variants that fold via two-state and three-state mechanisms.
+
+KB Connell, EJ Miller, S Marqusee
+
+Proteins can sample a variety of partially folded conformations during the transition between the unfolded and native states. Some proteins never significantly populate these high-energy states and fold by an apparently two-state process. However, many proteins populate detectable, partially folded forms during the folding process. The role of such intermediates is a matter of considerable debate. A single amino acid change can convert Escherichia coli ribonuclease H from a three-state folder that populates a kinetic intermediate to one that folds in an apparent two-state fashion. We have compared the folding trajectories of the three-state RNase H and the two-state RNase H, proteins with the same native-state topology but altered regional stability, using a protein engineering approach. Our data suggest that both versions of RNase H fold through a similar trajectory with similar high-energy conformations. Mutations in the core and the periphery of the protein affect similar aspects of folding for both variants, suggesting a common trajectory with folding of the core region followed by the folding of the periphery. Our results suggest that formation of specific partially folded conformations may be a general feature of protein folding that can promote, rather than hinder, efficient folding.
+
+-Enzyme Stability
+-Escherichia coli (+enzymology)
+-Mutation
+-Protein Conformation
+-Protein Engineering
+-Protein Folding
+-Ribonuclease H (+chemistry; -genetics)
+
+pii:S0022-2836(09)00696-2
+doi:10.1016/j.jmb.2009.05.085
+pubmed:19501596
+mid:NIHMS128172
+pmc:PMC2865250
+

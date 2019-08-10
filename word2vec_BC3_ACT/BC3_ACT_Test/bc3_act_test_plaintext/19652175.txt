@@ -1,0 +1,36 @@
+Genetics
+
+Alcohol sensitivity in Drosophila: translational potential of systems genetics.
+
+TV Morozova, JF Ayroles, KW Jordan, LH Duncan, MA Carbone, RF Lyman, EA Stone, DR Govindaraju, RC Ellison, TF Mackay, RR Anholt
+
+Identification of risk alleles for human behavioral disorders through genomewide association studies (GWAS) has been hampered by a daunting multiple testing problem. This problem can be circumvented for some phenotypes by combining genomewide studies in model organisms with subsequent candidate gene association analyses in human populations. Here, we characterized genetic networks that underlie the response to ethanol exposure in Drosophila melanogaster by measuring ethanol knockdown time in 40 wild-derived inbred Drosophila lines. We associated phenotypic variation in ethanol responses with genomewide variation in gene expression and identified modules of correlated transcripts associated with a first and second exposure to ethanol vapors as well as the induction of tolerance. We validated the computational networks and assessed their robustness by transposon-mediated disruption of focal genes within modules in a laboratory inbred strain, followed by measurements of transcript abundance of connected genes within the module. Many genes within the modules have human orthologs, which provides a stepping stone for the identification of candidate genes associated with alcohol drinking behavior in human populations. We demonstrated the potential of this translational approach by identifying seven intronic single nucleotide polymorphisms of the Malic Enzyme 1 (ME1) gene that are associated with cocktail drinking in 1687 individuals of the Framingham Offspring cohort, implicating that variation in levels of cytoplasmic malic enzyme may contribute to variation in alcohol consumption.
+
+-Alcohol Drinking (-genetics)
+-Animals
+-Cluster Analysis
+-Drosophila Proteins (-genetics; -metabolism)
+-Drosophila melanogaster (+genetics)
+-Ethanol (+pharmacology)
+-Female
+-Gene Expression Regulation (+drug effects)
+-Gene Regulatory Networks
+-Genes, Insect (-genetics)
+-Genetic Variation
+-Genome, Insect (-genetics)
+-Genome-Wide Association Study (+methods)
+-Genotype
+-Humans
+-Inbreeding
+-Malate Dehydrogenase (-genetics; -metabolism)
+-Male
+-Phenotype
+-Polymorphism, Single Nucleotide
+-Reproducibility of Results
+-Reverse Transcriptase Polymerase Chain Reaction
+
+pii:genetics.109.107490
+doi:10.1534/genetics.109.107490
+pubmed:19652175
+pmc:PMC2766331
+

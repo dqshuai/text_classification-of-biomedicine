@@ -1,0 +1,28 @@
+Eukaryotic Cell
+
+The longin domain regulates the steady-state dynamics of Sec22 in Plasmodium falciparum.
+
+L Ayong, A Raghavan, TG Schneider, TF Taraschi, DA Fidock, D Chakrabarti
+
+The specificity of vesicle-mediated transport is largely regulated by the membrane-specific distribution of SNARE (soluble N-ethylmaleimide-sensitive factor attachment protein receptor) proteins. However, the signals and machineries involved in SNARE protein targeting to the respective intracellular locations are not fully understood. We have identified a Sec22 ortholog in Plasmodium falciparum (PfSec22) that contains an atypical insertion of the Plasmodium export element within the N-terminal longin domain. This Sec22 protein partially associates with membrane structures in the parasitized erythrocytes when expressed under the control of the endogenous promoter element. Our studies indicate that the atypical longin domain contains signals that are required for both endoplasmic reticulum (ER)/Golgi apparatus recycling of PfSec22 and partial export beyond the ER/Golgi apparatus interface. ER exit of PfSec22 is regulated by motifs within the alpha3 segment of the longin domain, whereas the recycling and export signals require residues within the N-terminal hydrophobic segment. Our data suggest that the longin domain of PfSec22 exhibits major differences from the yeast and mammalian orthologs, perhaps indicative of a novel mechanism for Sec22 trafficking in malaria parasites.
+
+-Amino Acid Sequence
+-Animals
+-Endoplasmic Reticulum (-metabolism)
+-Erythrocytes (-metabolism; -parasitology)
+-Golgi Apparatus (-metabolism)
+-Humans
+-Malaria, Falciparum (-metabolism; +parasitology)
+-Molecular Sequence Data
+-Plasmodium falciparum (-chemistry; -genetics; +metabolism)
+-Protein Structure, Tertiary
+-Protein Transport
+-Protozoan Proteins (+chemistry; -genetics; +metabolism)
+-R-SNARE Proteins (+chemistry; -genetics; +metabolism)
+-Sequence Homology, Amino Acid
+
+pii:EC.00092-09
+doi:10.1128/EC.00092-09
+pubmed:19617396
+pmc:PMC2747825
+

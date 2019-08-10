@@ -1,0 +1,21 @@
+Biochemistry
+
+Significantly improved sensitivity of Q-band PELDOR/DEER experiments relative to X-band is observed in measuring the intercoil distance of a leucine zipper motif peptide (GCN4-LZ).
+
+H Ghimire, RM McCarrick, DE Budil, GA Lorigan
+
+Pulsed electron double resonance (PELDOR)/double electron-electron resonance (DEER) spectroscopy is a very powerful structural biology tool in which the dipolar coupling between two unpaired electron spins (site-directed nitroxide spin-labels) is measured. These measurements are typically conducted at X-band (9.4 GHz) microwave excitation using the four-pulse DEER sequence and can often require up to 12 h of signal averaging for biological samples (depending on the spin-label concentration). In this work, we present for the first time a substantial increase in DEER sensitivity obtained by collecting DEER spectra at Q-band (34 GHz), when compared to X-band. The huge boost in sensitivity (factor of 13) demonstrated at Q-band represents a 169-fold decrease in data collection time, reveals a greatly improved frequency spectrum and higher-quality distance data, and significantly increases sample throughput. Thus, the availability of Q-band DEER spectroscopy should have a major impact on structural biology studies using site-directed spin labeling EPR techniques.
+
+-Amino Acid Motifs
+-Basic-Leucine Zipper Transcription Factors (-analysis; +chemistry)
+-Electron Spin Resonance Spectroscopy (+methods; -standards)
++Leucine Zippers
+-Peptide Fragments (-analysis; +chemistry)
+-Saccharomyces cerevisiae Proteins (-analysis; +chemistry)
+-Spin Trapping (-methods)
+
+doi:10.1021/bi900781u
+pubmed:19476379
+mid:NIHMS121737
+pmc:PMC2735847
+

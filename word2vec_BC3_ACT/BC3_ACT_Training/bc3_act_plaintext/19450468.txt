@@ -1,0 +1,25 @@
+Biophys. J.
+
+Effect of voltage sensitive fluorescent proteins on neuronal excitability.
+
+W Akemann, A Lundby, H Mutoh, T Knöpfel
+
+Fluorescent protein voltage sensors are recombinant proteins that are designed as genetically encoded cellular probes of membrane potential using mechanisms of voltage-dependent modulation of fluorescence. Several such proteins, including VSFP2.3 and VSFP3.1, were recently reported with reliable function in mammalian cells. They were designed as molecular fusions of the voltage sensor of Ciona intestinalis voltage sensor containing phosphatase with a fluorescence reporter domain. Expression of these proteins in cell membranes is accompanied by additional dynamic membrane capacitance, or "sensing capacitance", with feedback effect on the native electro-responsiveness of targeted cells. We used recordings of sensing currents and fluorescence responses of VSFP2.3 and of VSFP3.1 to derive kinetic models of the voltage-dependent signaling of these proteins. Using computational neuron simulations, we quantitatively investigated the perturbing effects of sensing capacitance on the input/output relationship in two central neuron models, a cerebellar Purkinje and a layer 5 pyramidal neuron. Probe-induced sensing capacitance manifested as time shifts of action potentials and increased synaptic input thresholds for somatic action potential initiation with linear dependence on the membrane density of the probe. Whereas the fluorescence signal/noise grows with the square root of the surface density of the probe, the growth of sensing capacitance is linear. We analyzed the trade-off between minimization of sensing capacitance and signal/noise of the optical read-out depending on kinetic properties and cellular distribution of the probe. The simulation results suggest ways to reduce capacitive effects at a given level of signal/noise. Yet, the simulations indicate that significant improvement of existing probes will still be required to report action potentials in individual neurons in mammalian brain tissue in single trials.
+
+-Cell Membrane (-metabolism)
+-Computer Simulation
+-Electric Capacitance
++Electric Conductivity
+-Fluorescence
+-Gene Expression Regulation
+-Luminescent Proteins (-metabolism; +pharmacology)
+-Models, Biological
+-Neurons (-cytology; +drug effects; +physiology)
+-Purkinje Cells (-drug effects)
+-Somatosensory Cortex (-cytology; -drug effects; -physiology)
+
+pii:S0006-3495(09)00605-5
+doi:10.1016/j.bpj.2009.02.046
+pubmed:19450468
+pmc:PMC2712148
+

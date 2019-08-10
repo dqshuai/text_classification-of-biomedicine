@@ -1,0 +1,20 @@
+J. Exp. Bot.
+
+Isolation and identification of ubiquitin-related proteins from Arabidopsis seedlings.
+
+T Igawa, M Fujiwara, H Takahashi, T Sawasaki, Y Endo, M Seki, K Shinozaki, Y Fukao, Y Yanagawa
+
+The majority of proteins in eukaryotic cells are modified according to highly regulated mechanisms to fulfill specific functions and to achieve localization, stability, and transport. Protein ubiquitination is one of the major post-translational modifications occurring in eukaryotic cells. To obtain the proteomic dataset related to the ubiquitin (Ub)-dependent regulatory system in Arabidopsis, affinity purification with an anti-Ub antibody under native condition was performed. Using MS/MS analysis, 196 distinct proteins represented by 251 distinct genes were identified. The identified proteins were involved in metabolism (23.0%), stress response (21.4%), translation (16.8%), transport (6.7%), cell morphology (3.6%), and signal transduction (1.5%), in addition to proteolysis (16.8%) to which proteasome subunits (14.3%) is included. On the basis of potential ubiquitination-targeting signal motifs, in-gel mobilities, and previous reports, 78 of the identified proteins were classified as ubiquitinated proteins and the rest were speculated to be associated proteins of ubiquitinated proteins. The degradation of three proteins predicted to be ubiquitinated proteins was inhibited by a proteasome inhibitor, suggesting that the proteins were regulated by Ub/proteasome-dependent proteolysis.
+
+-Arabidopsis (+chemistry; -genetics; -metabolism)
+-Arabidopsis Proteins (+chemistry; -genetics; +isolation & purification; -metabolism)
+-Proteomics
+-Seedling (-chemistry; -genetics; -metabolism)
+-Ubiquitin (+metabolism)
+-Ubiquitination
+
+pii:erp134
+doi:10.1093/jxb/erp134
+pubmed:19429840
+pmc:PMC2718211
+

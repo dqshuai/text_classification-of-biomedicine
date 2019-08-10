@@ -1,0 +1,19 @@
+Biochem. Biophys. Res. Commun.
+
+Water-protein interplay reveals the specificity of alpha-lytic protease.
+
+H Kang, XQ Yao, ZS She, H Zhu
+
+Wild type and mutant alpha-lytic protease, differing by only one amino acid, have distinct specificities. Previous studies have shown that motion patterns of the binding pocket play an important role. However, it is still unclear how these differences are generated from a single amino acid mutation. Based on comparative molecular dynamics simulations using explicit and implicit solvent models, we studied the dynamic properties of both protein and water. The explicit solvent simulations showed specificity related differences in the energy landscapes and the power spectra between the two enzymes, whereas implicit solvent simulations did not. Moreover, the explicit solvent simulations demonstrated obvious distinctions in dynamic behaviors of water, such as their residence behaviors and hydrogen bonding. These results suggest that the interplay between water and enzyme is essential in determining the substrate specificity, and the detail knowledge of such interplay can greatly improve our understanding of bio-molecules.
+
+-Protein Structure, Tertiary
+-Serine Endopeptidases (+chemistry; -genetics)
+-Solvents (-chemistry)
+-Substrate Specificity
+-Thermodynamics
+-Water (+chemistry)
+
+pii:S0006-291X(09)00953-X
+doi:10.1016/j.bbrc.2009.05.032
+pubmed:19450547
+

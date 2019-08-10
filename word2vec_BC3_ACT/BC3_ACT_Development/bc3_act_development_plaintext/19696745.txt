@@ -1,0 +1,26 @@
+EMBO J.
+
+MCM10 mediates RECQ4 association with MCM2-7 helicase complex during DNA replication.
+
+X Xu, PJ Rochette, EA Feyissa, TV Su, Y Liu
+
+Mutations in RECQ4, a member of the RecQ family of DNA helicases, have been linked to the progeroid disease Rothmund-Thomson Syndrome. Attempts to understand the complex phenotypes observed in recq4-deficient cells suggest a potential involvement in DNA repair and replication, yet the molecular basis of the function of RECQ4 in these processes remains unknown. Here, we report the identification of a highly purified chromatin-bound RECQ4 complex from human cell extracts. We found that essential replisome factors MCM10, MCM2-7 helicase, CDC45 and GINS are the primary interaction partner proteins of human RECQ4. Importantly, complex formation and the association of RECQ4 with the replication origin are cell-cycle regulated. Furthermore, we show that MCM10 is essential for the integrity of the RECQ4-MCM replicative helicase complex. MCM10 interacts directly with RECQ4 and regulates its DNA unwinding activity, and that this interaction may be modulated by cyclin-dependent kinase phosphorylation. Thus, these studies show that RECQ4 is an integral component of the MCM replicative helicase complex participating in DNA replication in human cells.
+
+-Animals
+-Cell Cycle
+-Cell Cycle Proteins (+metabolism)
+-Cell Line
+-Chromatin (-metabolism)
+-DNA (-genetics)
++DNA Replication
+-DNA-Binding Proteins (+metabolism)
+-Humans
+-Nuclear Proteins (+metabolism)
+-RecQ Helicases (-isolation & purification; +metabolism)
+-Replication Origin
+
+pii:emboj2009235
+doi:10.1038/emboj.2009.235
+pubmed:19696745
+pmc:PMC2760112
+

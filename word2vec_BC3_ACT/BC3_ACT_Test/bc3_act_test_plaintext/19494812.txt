@@ -1,0 +1,28 @@
+Nature
+
+Enhancing CD8 T-cell memory by modulating fatty acid metabolism.
+
+EL Pearce, MC Walsh, PJ Cejas, GM Harms, H Shen, LS Wang, RG Jones, Y Choi
+
+CD8 T cells, which have a crucial role in immunity to infection and cancer, are maintained in constant numbers, but on antigen stimulation undergo a developmental program characterized by distinct phases encompassing the expansion and then contraction of antigen-specific effector (T(E)) populations, followed by the persistence of long-lived memory (T(M)) cells. Although this predictable pattern of CD8 T-cell responses is well established, the underlying cellular mechanisms regulating the transition to T(M) cells remain undefined. Here we show that tumour necrosis factor (TNF) receptor-associated factor 6 (TRAF6), an adaptor protein in the TNF-receptor and interleukin-1R/Toll-like receptor superfamily, regulates CD8 T(M)-cell development after infection by modulating fatty acid metabolism. We show that mice with a T-cell-specific deletion of TRAF6 mount robust CD8 T(E)-cell responses, but have a profound defect in their ability to generate T(M) cells that is characterized by the disappearance of antigen-specific cells in the weeks after primary immunization. Microarray analyses revealed that TRAF6-deficient CD8 T cells exhibit altered expression of genes that regulate fatty acid metabolism. Consistent with this, activated CD8 T cells lacking TRAF6 display defective AMP-activated kinase activation and mitochondrial fatty acid oxidation (FAO) in response to growth factor withdrawal. Administration of the anti-diabetic drug metformin restored FAO and CD8 T(M)-cell generation in the absence of TRAF6. This treatment also increased CD8 T(M) cells in wild-type mice, and consequently was able to considerably improve the efficacy of an experimental anti-cancer vaccine.
+
+-Adaptor Proteins, Signal Transducing (-deficiency; -genetics)
+-Animals
+-CD8-Positive T-Lymphocytes (-cytology; -drug effects; +immunology; +metabolism)
+-Fatty Acids (+metabolism)
+-Hypoglycemic Agents (-pharmacology)
+-Immunologic Memory (+immunology)
+-Listeria Infections (-immunology; -metabolism; -microbiology)
+-Listeria monocytogenes (-immunology)
+-Metformin (-pharmacology)
+-Mice
+-Mice, Inbred C57BL
+-Proto-Oncogene Proteins c-cbl (-deficiency; -genetics)
+-TNF Receptor-Associated Factor 6 (+deficiency; -genetics; +metabolism)
+
+pii:nature08097
+doi:10.1038/nature08097
+pubmed:19494812
+mid:NIHMS163883
+pmc:PMC2803086
+

@@ -1,0 +1,27 @@
+Hum. Mol. Genet.
+
+Risk for nicotine dependence and lung cancer is conferred by mRNA expression levels and amino acid change in CHRNA5.
+
+JC Wang, C Cruchaga, NL Saccone, S Bertelsen, P Liu, JP Budde, W Duan, L Fox, RA Grucza, J Kern, K Mayo, O Reyes, J Rice, SF Saccone, N Spiegel, JH Steinbach, JA Stitzel, MW Anderson, M You, VL Stevens, LJ Bierut, AM Goate
+
+Nicotine dependence risk and lung cancer risk are associated with variants in a region of chromosome 15 encompassing genes encoding the nicotinic receptor subunits CHRNA5, CHRNA3 and CHRNB4. To identify potential biological mechanisms that underlie this risk, we tested for cis-acting eQTLs for CHRNA5, CHRNA3 and CHRNB4 in human brain. Using gene expression and disease association studies, we provide evidence that both nicotine-dependence risk and lung cancer risk are influenced by functional variation in CHRNA5. We demonstrated that the risk allele of rs16969968 primarily occurs on the low mRNA expression allele of CHRNA5. The non-risk allele at rs16969968 occurs on both high and low expression alleles tagged by rs588765 within CHRNA5. When the non-risk allele occurs on the background of low mRNA expression of CHRNA5, the risk for nicotine dependence and lung cancer is significantly lower compared to those with the higher mRNA expression. Together, these variants identify three levels of risk associated with CHRNA5. We conclude that there are at least two distinct mechanisms conferring risk for nicotine dependence and lung cancer: altered receptor function caused by a D398N amino acid variant in CHRNA5 (rs16969968) and variability in CHRNA5 mRNA expression.
+
+-Alleles
++Amino Acid Substitution
+-Brain (-metabolism)
+-Cohort Studies
+-Female
++Gene Expression
+-Humans
+-Lung Neoplasms (+genetics; -metabolism)
+-Male
+-RNA, Messenger (-genetics; -metabolism)
+-Receptors, Nicotinic (+genetics; -metabolism)
+-Risk Factors
+-Tobacco Use Disorder (+genetics; -metabolism)
+
+pii:ddp231
+doi:10.1093/hmg/ddp231
+pubmed:19443489
+pmc:PMC2714722
+

@@ -1,0 +1,36 @@
+Mol. Cell. Biol.
+
+Defective histone acetylation is responsible for the diminished expression of cyclooxygenase 2 in idiopathic pulmonary fibrosis.
+
+WR Coward, K Watts, CA Feghali-Bostwick, A Knox, L Pang
+
+Diminished cyclooxygenase 2 (COX-2) expression in fibroblasts, with a resultant defect in the production of the antifibrotic mediator prostaglandin E(2), plays a key role in the pathogenesis of idiopathic pulmonary fibrosis (IPF). Here, we have characterized the molecular mechanism. We found that COX-2 mRNA levels in fibroblasts from patients with IPF (F-IPF) were significantly lower than those in fibroblasts from nonfibrotic lungs (F-NL) after transforming growth factor beta1 and interleukin-1beta treatment but that COX-2 mRNA degradation rates were similar, suggesting defective transcription. A reporter gene assay showed that there were no clear differences between F-IPF and F-NL in transcription factor involvement and activation in COX-2 gene transcription. However, a chromatin immunoprecipitation assay revealed that transcription factor binding to the COX-2 promoter in F-IPF was reduced compared to that in F-NL, an effect that was dynamically linked to reduced histone H3 and H4 acetylation due to decreased recruitment of histone acetyltransferases (HATs) and increased recruitment of transcriptional corepressor complexes to the COX-2 promoter. The treatment of F-IPF with histone deacetylase (HDAC) inhibitors together with cytokines increased histone H3 and H4 acetylation. Both HDAC inhibitors and the overexpression of HATs restored cytokine-induced COX-2 mRNA and protein expression in F-IPF. The results demonstrate that epigenetic abnormality in the form of histone hypoacetylation is responsible for diminished COX-2 expression in IPF.
+
+-Acetylation (-drug effects)
+-Blotting, Western
+-Cells, Cultured
+-Cyclooxygenase 2 (+genetics; -metabolism)
+-Dinoprostone (-metabolism)
+-Fibroblasts (-cytology; -drug effects; -metabolism)
++Gene Expression Regulation, Enzymologic
+-Histone Acetyltransferases (-genetics; -metabolism)
+-Histone Deacetylases (-genetics; -metabolism)
+-Histones (+metabolism)
+-Humans
+-Idiopathic Pulmonary Fibrosis (-enzymology; +genetics; -pathology)
+-Interleukin-1beta (-pharmacology)
+-Luciferases (-genetics; -metabolism)
+-Promoter Regions, Genetic (-genetics)
+-Protein Binding (-drug effects)
+-RNA Stability (-drug effects)
+-RNA, Messenger (-genetics; -metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Transcription Factors (-metabolism)
+-Transfection
+-Transforming Growth Factor beta1 (-pharmacology)
+
+pii:MCB.01776-08
+doi:10.1128/MCB.01776-08
+pubmed:19487460
+pmc:PMC2715818
+

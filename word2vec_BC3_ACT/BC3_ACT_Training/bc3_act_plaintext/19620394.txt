@@ -1,0 +1,28 @@
+Genetics
+
+Distinctive responses to nitrogen starvation in the dominant active mutants of the fission yeast Rheb GTPase.
+
+T Murai, Y Nakase, K Fukuda, Y Chikashige, C Tsutsumi, Y Hiraoka, T Matsumoto
+
+Rheb, a Ras-like small GTPase conserved from human to yeast, controls Tor kinase and plays a central role in the regulation of cell growth depending on extracellular conditions. Rhb1 (a fission yeast homolog of Rheb) regulates amino acid uptake as well as response to nitrogen starvation. In this study, we generated two mutants, rhb1-DA4 and rhb1-DA8, and characterized them genetically. The V17A mutation within the G1 box defined for the Ras-like GTPases was responsible for rhb1-DA4 and Q52R I76F within the switch II domain for rhb1-DA8. In fission yeast, two events--the induction of the meiosis-initiating gene mei2+ and cell division without cell growth--are a typical response to nitrogen starvation. Under nitrogen-rich conditions, Rheb stimulates Tor kinase, which, in turn, suppresses the response to nitrogen starvation. While amino acid uptake was prevented by both rhb1-DA4 and rhb1-DA8 in a dominant fashion, the response to nitrogen starvation was prevented only by rhb1-DA4. rhb1-DA8 thereby allowed genetic dissection of the Rheb-dependent signaling cascade. We postulate that the signaling cascade may branch below Rhb1 or Tor2 and regulate the amino acid uptake and response to nitrogen starvation independently.
+
+-1-Phosphatidylinositol 3-Kinase (-genetics; -metabolism)
+-Amino Acid Sequence
+-Blotting, Western
+-Cell Division (-drug effects)
+-Genes, Dominant
+-Molecular Sequence Data
+-Monomeric GTP-Binding Proteins (+genetics)
++Mutation
+-Nitrogen (+metabolism; -pharmacology)
+-Schizosaccharomyces (-cytology; +genetics; -metabolism)
+-Schizosaccharomyces pombe Proteins (-genetics; -metabolism)
+-Sequence Homology, Amino Acid
+-Signal Transduction (-genetics)
+-Suppression, Genetic
+
+pii:genetics.109.105379
+doi:10.1534/genetics.109.105379
+pubmed:19620394
+pmc:PMC2766313
+

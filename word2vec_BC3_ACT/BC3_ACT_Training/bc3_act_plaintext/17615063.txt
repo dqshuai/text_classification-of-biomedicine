@@ -1,0 +1,20 @@
+Genome Biol.
+
+A proteome-wide protein interaction map for Campylobacter jejuni.
+
+JR Parrish, J Yu, G Liu, JA Hines, JE Chan, BA Mangiola, H Zhang, S Pacifico, F Fotouhi, VJ DiRita, T Ideker, P Andrews, RL Finley
+
+BACKGROUND: Data from large-scale protein interaction screens for humans and model eukaryotes have been invaluable for developing systems-level models of biological processes. Despite this value, only a limited amount of interaction data is available for prokaryotes. Here we report the systematic identification of protein interactions for the bacterium Campylobacter jejuni, a food-borne pathogen and a major cause of gastroenteritis worldwide. RESULTS: Using high-throughput yeast two-hybrid screens we detected and reproduced 11,687 interactions. The resulting interaction map includes 80% of the predicted C. jejuni NCTC11168 proteins and places a large number of poorly characterized proteins into networks that provide initial clues about their functions. We used the map to identify a number of conserved subnetworks by comparison to protein networks from Escherichia coli and Saccharomyces cerevisiae. We also demonstrate the value of the interactome data for mapping biological pathways by identifying the C. jejuni chemotaxis pathway. Finally, the interaction map also includes a large subnetwork of putative essential genes that may be used to identify potential new antimicrobial drug targets for C. jejuni and related organisms. CONCLUSION: The C. jejuni protein interaction map is one of the most comprehensive yet determined for a free-living organism and nearly doubles the binary interactions available for the prokaryotic kingdom. This high level of coverage facilitates pathway mapping and function prediction for a large number of C. jejuni proteins as well as orthologous proteins from other organisms. The broad coverage also facilitates cross-species comparisons for the identification of evolutionarily conserved subnetworks of protein interactions.
+
+-Bacterial Proteins (-analysis; -genetics; +metabolism)
+-Campylobacter jejuni (-genetics; +metabolism)
+-Genes, Bacterial
++Protein Interaction Mapping
+-Proteome (-analysis; -genetics; +metabolism)
+-Two-Hybrid System Techniques
+
+pii:gb-2007-8-7-r130
+doi:10.1186/gb-2007-8-7-r130
+pubmed:17615063
+pmc:PMC2323224
+

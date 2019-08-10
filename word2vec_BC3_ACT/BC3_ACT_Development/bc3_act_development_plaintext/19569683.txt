@@ -1,0 +1,24 @@
+J. Am. Chem. Soc.
+
+Imino-oxy acetic acid dealkylation as evidence for an inner-sphere alcohol intermediate in the reaction catalyzed by peptidylglycine alpha-hydroxylating monooxygenase.
+
+NR McIntyre, EW Lowe, DJ Merkler
+
+Peptidylglycine alpha-hydroxylating monooxygenase (PHM, EC 1.14.17.3) catalyzes the stereospecific hydroxylation of a glycyl alpha-carbon in a reaction that requires O(2) and ascorbate. Subsequent dealkylation of the alpha-hydroxyglycine by another enzyme, peptidylamidoglycolate lyase (PAL. EC 4.3.2.5), yields a bioactive amide and glyoxylate. PHM is a noncoupled, type II dicopper monooxygenase which activates O(2) at only a single copper atom, Cu(M). In this study, the PHM mechanism was probed using a non-natural substrate, benzaldehyde imino-oxy acetic acid (BIAA). PHM catalyzes the O-oxidative dealkylation of BIAA to benzaldoxime and glyoxylate with no involvement of PAL. The minimal kinetic mechanism for BIAA was shown to be steady-state ordered using primary deuterium kinetic isotope effects. The (D)(V/K)(APPARENT, BIAA) decreased from 14.7 +/- 1.0 as [O(2)] --> 0 to 1.0 +/- 0.2 as [O(2)] --> infinity suggesting the dissociation rate constant from the PHM x BIAA complex decreases as [O(2)] increases; thereby, reducing the steady-state concentration of [PHM](free). BIAA was further used to differentiate between potential oxidative Cu/O species using a QM/MM reaction coordinate simulation to determine which species could yield product O-dealkylation that matched our experimental data. The results of this study provided compelling evidence for the presence of a covalently linked Cu(II)-alkoxide intermediate with a quartet spin state responsible BIAA oxidation.
+
+-Acetic Acids (+chemical synthesis; -chemistry)
+-Alcohols (+chemistry)
+-Alkylation
+-Ascorbic Acid (-chemistry)
+-Biocatalysis
+-Mixed Function Oxygenases (-chemistry; +metabolism)
+-Molecular Structure
+-Multienzyme Complexes (-chemistry; +metabolism)
+-Oxygen (-chemistry)
+-Stereoisomerism
+
+doi:10.1021/ja902716d
+pubmed:19569683
+mid:NIHMS132598
+pmc:PMC2755080
+

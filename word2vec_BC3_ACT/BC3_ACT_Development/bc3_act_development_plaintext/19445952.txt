@@ -1,0 +1,20 @@
+J. Mol. Biol.
+
+Analysis of four-way junctions in RNA structures.
+
+C Laing, T Schlick
+
+RNA secondary structures can be divided into helical regions composed of canonical Watson-Crick and related base pairs, as well as single-stranded regions such as hairpin loops, internal loops, and junctions. These elements function as building blocks in the design of diverse RNA molecules with various fundamental functions in the cell. To better understand the intricate architecture of three-dimensional (3D) RNAs, we analyze existing RNA four-way junctions in terms of base-pair interactions and 3D configurations. Specifically, we identify nine broad junction families according to coaxial stacking patterns and helical configurations. We find that helices within junctions tend to arrange in roughly parallel and perpendicular patterns and stabilize their conformations using common tertiary motifs such as coaxial stacking, loop-helix interaction, and helix packing interaction. Our analysis also reveals a number of highly conserved base-pair interaction patterns and novel tertiary motifs such as A-minor-coaxial stacking combinations and sarcin/ricin motif variants. Such analyses of RNA building blocks can ultimately help in the difficult task of RNA 3D structure prediction.
+
+-Base Pairing
+-Models, Molecular
++Nucleic Acid Conformation
+-RNA (+chemistry)
+-RNA, Double-Stranded (-chemistry)
+
+pii:S0022-2836(09)00569-5
+doi:10.1016/j.jmb.2009.04.084
+pubmed:19445952
+mid:NIHMS130074
+pmc:PMC2777522
+

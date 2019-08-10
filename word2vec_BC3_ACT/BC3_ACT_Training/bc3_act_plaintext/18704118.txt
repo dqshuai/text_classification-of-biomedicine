@@ -1,0 +1,24 @@
+EMBO Rep.
+
+Rtt101 and Mms1 in budding yeast form a CUL4(DDB1)-like ubiquitin ligase that promotes replication through damaged DNA.
+
+IW Zaidi, G Rabut, A Poveda, H Scheel, J Malmström, H Ulrich, K Hofmann, P Pasero, M Peter, B Luke
+
+In budding yeast the cullin Rtt101 promotes replication fork progression through natural pause sites and areas of DNA damage, but its relevant subunits and molecular mechanism remain poorly understood. Here, we show that in budding yeast Mms1 and Mms22 are functional subunits of an Rtt101-based ubiquitin ligase that associates with the conjugating-enzyme Cdc34. Replication forks in mms1Delta, mms22Delta and rtt101Delta cells are sensitive to collisions with drug-induced DNA lesions, but not to transient pausing induced by nucleotide depletion. Interaction studies and sequence analysis have shown that Mms1 resembles human DDB1, suggesting that Rtt101(Mms1) is the budding yeast counterpart of the mammalian CUL4(DDB1) ubiquitin ligase family. Rtt101 interacts in an Mms1-dependent manner with the putative substrate-specific adaptors Mms22 and Crt10, the latter being a regulator of expression of ribonucleotide reductase. Taken together, our data suggest that the Rtt101(Mms1) ubiquitin ligase complex might be required to reorganize replication forks that encounter DNA lesions.
+
+-Cullin Proteins (+physiology)
+-DNA Damage (+physiology)
+-DNA Replication (+physiology)
+-DNA-Binding Proteins (-genetics; +physiology)
+-Humans
+-Protein Subunits (-physiology)
+-Saccharomyces cerevisiae (+enzymology; -genetics)
+-Saccharomyces cerevisiae Proteins (-genetics; +physiology)
+-Ubiquitin-Protein Ligase Complexes (-physiology)
+-Ubiquitin-Protein Ligases (+physiology)
+
+pii:embor2008155
+doi:10.1038/embor.2008.155
+pubmed:18704118
+pmc:PMC2572122
+

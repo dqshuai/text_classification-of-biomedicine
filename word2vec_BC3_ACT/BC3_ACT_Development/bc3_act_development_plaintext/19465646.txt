@@ -1,0 +1,22 @@
+J. Bacteriol.
+
+Translational control of the antibiotic inducibility of the PA5471 gene required for mexXY multidrug efflux gene expression in Pseudomonas aeruginosa.
+
+Y Morita, C Gilmour, D Metcalf, K Poole
+
+The PA5471 gene required for induction of the MexXY multidrug efflux system in response to ribosome-targeting antimicrobials was itself shown to be inducible by ribosome-targeting antimicrobials (Y. Morita, M. L. Sobel, and K. Poole, J. Bacteriol. 188:1847-1855, 2006). Using a lacZ transcriptional reporter, drug inducibility of PA5471 was shown to require the entirety of the 367-bp PA5472-PA5471 intergenic region. A constitutive promoter activity was, however, localized to the first 75 bp of this region, within which a single PA5471 transcription initiation site was mapped. That 3' sequences of the intergenic region blocked PA5471 expression and made it antibiotic dependent was suggestive of an attenuation mechanism of control. A 13-amino-acid leader peptide (LP)-encoding open reading frame preceded by a Shine-Dalgarno sequence was identified ca. 250 bp upstream of the PA5471 coding sequence, and its expression and translation were confirmed using a lacZ translational reporter. Alteration of the initiation codon (M1T) or introduction of translational stop signals at codons 3 (Q3Am) and 8 (C8Op) of this LP sequence (PA5471.1) yielded high-level constitutive expression of PA5471, suggesting that interference with LP translation was linked to PA5471 gene expression. Consistent with this, a Q3K mutation in the LP sequence maintained the drug inducibility of PA5471 expression. Introduction of the LP Q3Am mutation into the chromosome of Pseudomonas aeruginosa yielded stronger expression of PA5471 than did antibiotic (chloramphenicol) exposure of wild-type P. aeruginosa, in agreement with lacZ transcriptional fusion data. Still, the Q3Am mutation yielded modest expression of mexXY, less than that seen for antibiotic-treated wild-type P. aeruginosa. These data suggest that PA5471 is not sufficient for MexXY recruitment in response to antibiotic exposure and that additional antibiotic-dependent effects are needed.
+
+-Anti-Bacterial Agents (+pharmacology)
+-Bacterial Proteins (+genetics; -physiology)
+-Gene Expression Regulation, Bacterial (+drug effects; +genetics)
+-Mutagenesis, Site-Directed
+-Promoter Regions, Genetic (-genetics)
+-Pseudomonas aeruginosa (-drug effects; +genetics)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Transcription Initiation Site (-physiology)
+
+pii:JB.00073-09
+doi:10.1128/JB.00073-09
+pubmed:19465646
+pmc:PMC2715736
+

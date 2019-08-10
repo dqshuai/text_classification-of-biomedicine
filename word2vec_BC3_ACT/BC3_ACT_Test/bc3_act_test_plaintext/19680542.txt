@@ -1,0 +1,24 @@
+PLoS Genet.
+
+Tissue effect on genetic control of transcript isoform variation.
+
+T Kwan, E Grundberg, V Koka, B Ge, KC Lam, C Dias, A Kindmark, H Mallmin, O Ljunggren, F Rivadeneira, K Estrada, JB van Meurs, A Uitterlinden, M Karlsson, C Ohlsson, D Mellström, O Nilsson, T Pastinen, J Majewski
+
+Current genome-wide association studies (GWAS) are moving towards the use of large cohorts of primary cell lines to study a disease of interest and to assign biological relevance to the genetic signals identified. Here, we use a panel of human osteoblasts (HObs) to carry out a transcriptomic survey, similar to recent studies in lymphoblastoid cell lines (LCLs). The distinct nature of HObs and LCLs is reflected by the preferential grouping of cell type-specific genes within biologically and functionally relevant pathways unique to each tissue type. We performed cis-association analysis with SNP genotypes to identify genetic variations of transcript isoforms, and our analysis indicates that differential expression of transcript isoforms in HObs is also partly controlled by cis-regulatory genetic variants. These isoforms are regulated by genetic variants in both a tissue-specific and tissue-independent fashion, and these associations have been confirmed by RT-PCR validation. Our study suggests that multiple transcript isoforms are often present in both tissues and that genetic control may affect the relative expression of one isoform to another, rather than having an all-or-none effect. Examination of the top SNPs from a GWAS of bone mineral density show overlap with probeset associations observed in this study. The top hit corresponding to the FAM118A gene was tested for association studies in two additional clinical studies, revealing a novel transcript isoform variant. Our approach to examining transcriptome variation in multiple tissue types is useful for detecting the proportion of genetic variation common to different cell types and for the identification of cell-specific isoform variants that may be functionally relevant, an important follow-up step for GWAS.
+
+-Bone Density
+-Cell Line
+-Gene Expression Regulation
+-Genetic Variation
++Genome-Wide Association Study (-methods)
+-Humans
++Organ Specificity
+-Osteoblasts (-chemistry; -metabolism)
+-Polymorphism, Single Nucleotide
+-Protein Isoforms (+genetics)
++Transcription, Genetic
+
+doi:10.1371/journal.pgen.1000608
+pubmed:19680542
+pmc:PMC2719916
+

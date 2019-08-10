@@ -1,0 +1,21 @@
+PLoS ONE
+
+Brief subthreshold events can act as Hebbian signals for long-term plasticity.
+
+E Fino, JM Deniau, L Venance
+
+BACKGROUND: Action potentials are thought to be determinant for the induction of long-term synaptic plasticity, the cellular basis of learning and memory. However, neuronal activity does not lead systematically to an action potential but also, in many cases, to synaptic depolarizing subthreshold events. This is particularly exemplified in corticostriatal information processing. Indeed, the striatum integrates information from the whole cerebral cortex and, due to the membrane properties of striatal medium spiny neurons, cortical inputs do not systematically trigger an action potential but a wide range of subthreshold postsynaptic depolarizations. Accordingly, we have addressed the following question: does a brief subthreshold event act as a Hebbian signal and induce long-term synaptic efficacy changes? METHODOLOGY/PRINCIPAL FINDINGS: Here, using perforated patch-clamp recordings on rat brain corticostriatal slices, we demonstrate, that brief (30 ms) subthreshold depolarizing events in quasi-coincidence with presynaptic activity can act as Hebbian signals and are sufficient to induce long-term synaptic plasticity at corticostriatal synapses. This "subthreshold-depolarization dependent plasticity" (SDDP) induces strong, significant and bidirectional long-term synaptic efficacy changes at a very high occurrence (81%) for time intervals between pre- and postsynaptic stimulations (Deltat) of -110<Deltat<+110 ms. Such subthreshold depolarizations are able to induce robust long-term depression (cannabinoid type-1 receptor-activation dependent) as well as long-term potentiation (NMDA receptor-activation dependent). CONCLUSION/SIGNIFICANCE: Our data show the existence of a robust, reliable and timing-dependent bidirectional long-term plasticity induced by brief subthreshold events paired with presynaptic activity. The existence of a subthreshold-depolarization dependent plasticity extends considerably, beyond the action potential, the neuron's capabilities to express long-term synaptic efficacy changes.
+
+-Action Potentials
+-Animals
+-Corpus Striatum (-physiology)
++Neuronal Plasticity
+-Patch-Clamp Techniques
+-Rats
+-Rats, Sprague-Dawley
+-Synaptic Potentials
+
+doi:10.1371/journal.pone.0006557
+pubmed:19675683
+pmc:PMC2725411
+

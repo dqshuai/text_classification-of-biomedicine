@@ -1,0 +1,26 @@
+PLoS ONE
+
+Targeting hypoxia in cancer cells by restoring homeodomain interacting protein-kinase 2 and p53 activity and suppressing HIF-1alpha.
+
+L Nardinocchi, R Puca, A Sacchi, G Rechavi, D Givol, G D'Orazi
+
+BACKGROUND: The tumor suppressor homeodomain-interacting protein kinase-2 (HIPK2) by phosphorylating serine 46 (Ser46) is a crucial regulator of p53 apoptotic function. HIPK2 is also a transcriptional co-repressor of hypoxia-inducible factor-1alpha (HIF-1alpha) restraining tumor angiogenesis and chemoresistance. HIPK2 can be deregulated in tumors by several mechanisms including hypoxia. Here, we sought to target hypoxia by restoring HIPK2 function and suppressing HIF-1alpha, in order to provide evidence for the involvement of both HIPK2 and p53 in counteracting hypoxia-induced chemoresistance. METHODOLOGY/PRINCIPAL FINDINGS: Upon exposure of colon and lung cancer cells to hypoxia, by either low oxygen or cobalt, HIPK2 function was impaired allowing for increased HIF-1alpha expression and inhibiting the p53-apoptotic response to drug. Cobalt suppressed HIPK2 recruitment onto HIF-1alpha promoter. Hypoxia induced expression of the p53 target MDM2 that downregulates HIPK2, thus MDM2 inhibition by siRNA restored the HIPK2/p53Ser46 response to drug. Zinc supplementation to hypoxia-treated cells increased HIPK2 protein stability and nuclear accumulation, leading to restoration of HIPK2 binding to HIF-1alpha promoter, repression of MDR1, Bcl2, and VEGF genes, and activation of the p53 apoptotic response to drug. Combination of zinc and ADR strongly suppressed tumor growth in vivo by inhibiting HIF-1 pathway and upregulating p53 apoptotic target genes. CONCLUSIONS/SIGNIFICANCE: We show here for the first time that hypoxia-induced HIPK2 deregulation was counteracted by zinc that restored HIPK2 suppression of HIF-1 pathway and reactivated p53 apoptotic response to drug, underscoring the potential use of zinc supplementation in combination with chemotherapy to address hypoxia and improve tumor treatment.
+
+-Antineoplastic Agents (-pharmacology)
+-Carrier Proteins (+metabolism)
++Cell Hypoxia
+-Cobalt (-pharmacology)
+-Doxorubicin (-pharmacology)
+-Humans
+-Hypoxia-Inducible Factor 1, alpha Subunit (-genetics; +metabolism)
+-Promoter Regions, Genetic
+-Protein-Serine-Threonine Kinases (+metabolism)
+-Proto-Oncogene Proteins c-mdm2 (-genetics)
+-Transcription, Genetic (-drug effects)
+-Tumor Suppressor Protein p53 (+metabolism)
+-Zinc (-pharmacology)
+
+doi:10.1371/journal.pone.0006819
+pubmed:19714248
+pmc:PMC2729407
+

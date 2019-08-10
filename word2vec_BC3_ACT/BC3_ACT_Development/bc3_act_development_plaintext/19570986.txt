@@ -1,0 +1,31 @@
+J. Biol. Chem.
+
+Generation of digital responses in stress sensors.
+
+T Martiáñez, S Francès, JM López
+
+Ultrasensitivity, hysteresis (a form of biochemical memory), and all-or-none (digital) responses are important signaling properties for the control of irreversible processes and are well characterized in the c-Jun N-terminal kinase (JNK) system using Xenopus oocytes. Our aim was to study these properties in the AMP-activated protein kinase (AMPK) signaling system under stress conditions that could engage a cell death program, and compare them to the JNK responses. After characterization of Xenopus AMPK, we show here that the response to antimycin (nonapoptotic) was slightly cooperative and graded (analog) in individual oocytes, whereas the response to sorbitol (which induced cytochrome c release and caspase activation) was ultrasensitive, digital in single cells, and without hysteresis, hallmarks of a monostable system. Moreover, initial graded responses of AMPK and JNK turned into digital during a critical period for the execution of the cell death program, although single cell analysis did not show complete correlation between AMPK or JNK activation and cytochrome c release. We propose a model where the life or death decision in the cell is made by integration of multiple digital signals from stress sensors.
+
+-AMP-Activated Protein Kinases (+metabolism)
+-Animals
+-Antifungal Agents (-pharmacology)
+-Antimycin A (-analogs & derivatives; -pharmacology)
+-Caspases (-metabolism)
+-Cell Death (-drug effects; -physiology)
+-Cytochromes c (-metabolism)
+-Enzyme Activation (-drug effects; -physiology)
+-JNK Mitogen-Activated Protein Kinases (-metabolism)
++Models, Biological
+-Oocytes (-cytology; +enzymology)
+-Signal Transduction (-drug effects; +physiology)
+-Sorbitol (-pharmacology)
+-Stress, Physiological (-drug effects; +physiology)
+-Sweetening Agents (-pharmacology)
+-Xenopus Proteins (+metabolism)
+-Xenopus laevis
+
+pii:M109.026054
+doi:10.1074/jbc.M109.026054
+pubmed:19570986
+pmc:PMC2781984
+

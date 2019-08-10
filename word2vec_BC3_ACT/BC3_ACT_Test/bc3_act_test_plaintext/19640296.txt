@@ -1,0 +1,24 @@
+BMC Genomics
+
+A stochastic model for identifying differential gene pair co-expression patterns in prostate cancer progression.
+
+WJ Mo, XP Fu, XT Han, GY Yang, JG Zhang, FH Guo, Y Huang, YM Mao, Y Li, Y Xie
+
+BACKGROUND: The identification of gene differential co-expression patterns between cancer stages is a newly developing method to reveal the underlying molecular mechanisms of carcinogenesis. Most researches of this subject lack an algorithm useful for performing a statistical significance assessment involving cancer progression. Lacking this specific algorithm is apparently absent in identifying precise gene pairs correlating to cancer progression. RESULTS: In this investigation we studied gene pair co-expression change by using a stochastic process model for approximating the underlying dynamic procedure of the co-expression change during cancer progression. Also, we presented a novel analytical method named 'Stochastic process model for Identifying differentially co-expressed Gene pair' (SIG method). This method has been applied to two well known prostate cancer data sets: hormone sensitive versus hormone resistant, and healthy versus cancerous. From these data sets, 428,582 gene pairs and 303,992 gene pairs were identified respectively. Afterwards, we used two different current statistical methods to the same data sets, which were developed to identify gene pair differential co-expression and did not consider cancer progression in algorithm. We then compared these results from three different perspectives: progression analysis, gene pair identification effectiveness analysis, and pathway enrichment analysis. Statistical methods were used to quantify the quality and performance of these different perspectives. They included: Re-identification Scale (RS) and Progression Score (PS) in progression analysis, True Positive Rate (TPR) in gene pair analysis, and Pathway Enrichment Score (PES) in pathway analysis. Our results show small values of RS and large values of PS, TPR, and PES; thus, suggesting that gene pairs identified by the SIG method are highly correlated with cancer progression, and highly enriched in disease-specific pathways. From this research, several gene interaction networks inferred could provide clues for the mechanism of prostate cancer progression. CONCLUSION: The SIG method reliably identifies cancer progression correlated gene pairs, and performs well both in gene pair ontology analysis and in pathway enrichment analysis. This method provides an effective means of understanding the molecular mechanism of carcinogenesis by appropriately tracking down the process of cancer progression.
+
++Algorithms
+-Computational Biology (-methods)
+-DNA, Neoplasm (-genetics)
+-Gene Expression Profiling (+methods)
+-Humans
+-Male
++Models, Genetic
+-Oligonucleotide Array Sequence Analysis (-methods)
+-Prostatic Neoplasms (+genetics)
+-Sequence Analysis, DNA
+
+pii:1471-2164-10-340
+doi:10.1186/1471-2164-10-340
+pubmed:19640296
+pmc:PMC2737000
+

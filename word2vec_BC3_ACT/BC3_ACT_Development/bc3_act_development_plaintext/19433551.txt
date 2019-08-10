@@ -1,0 +1,32 @@
+Infect. Immun.
+
+Toll-like receptor 9-dependent activation of myeloid dendritic cells by Deoxynucleic acids from Candida albicans.
+
+A Miyazato, K Nakamura, N Yamamoto, HM Mora-Montes, M Tanaka, Y Abe, D Tanno, K Inden, X Gang, K Ishii, K Takeda, S Akira, S Saijo, Y Iwakura, Y Adachi, N Ohno, K Mitsutake, NA Gow, M Kaku, K Kawakami
+
+The innate immune system of humans recognizes the human pathogenic fungus Candida albicans via sugar polymers present in the cell wall, such as mannan and beta-glucan. Here, we examined whether nucleic acids from C. albicans activate dendritic cells. C. albicans DNA induced interleukin-12p40 (IL-12p40) production and CD40 expression by murine bone marrow-derived myeloid dendritic cells (BM-DCs) in a dose-dependent manner. BM-DCs that lacked Toll-like receptor 4 (TLR4), TLR2, and dectin-1, which are pattern recognition receptors for fungal cell wall components, produced IL-12p40 at levels comparable to the levels produced by BM-DCs from wild-type mice, and DNA from a C. albicans pmr1Delta null mutant, which has a gross defect in mannosylation, retained the ability to activate BM-DCs. This stimulatory effect disappeared completely after DNase treatment. In contrast, RNase treatment increased production of the cytokine. A similar reduction in cytokine production was observed when BM-DCs from TLR9(-/-) and MyD88(-/-) mice were used. In a luciferase reporter assay, NF-kappaB activation was detected in TLR9-expressing HEK293T cells stimulated with C. albicans DNA. Confocal microscopic analysis showed similar localization of C. albicans DNA and CpG-oligodeoxynucleotide (CpG-ODN) in BM-DCs. Treatment of C. albicans DNA with methylase did not affect its ability to induce IL-12p40 synthesis, whereas the same treatment completely eliminated the ability of CpG-ODN to induce IL-12p40 synthesis. Finally, impaired clearance of this fungal pathogen was not found in the kidneys of TLR9(-/-) mice. These results suggested that C. albicans DNA activated BM-DCs through a TLR9-mediated signaling pathway using a mechanism independent of the unmethylated CpG motif.
+
+-Animals
+-Antigens, CD40 (-biosynthesis)
+-Candida albicans (+immunology)
+-Candidiasis (-immunology)
+-Cell Line
+-DNA, Fungal (+immunology)
+-Dendritic Cells (+immunology)
+-Female
+-Humans
+-Interleukin-12 Subunit p40 (-biosynthesis)
+-Kidney (-microbiology)
+-Male
+-Mice
+-Mice, Inbred C57BL
+-Mice, Knockout
+-Myeloid Differentiation Factor 88 (-deficiency; -immunology)
+-NF-kappa B (-biosynthesis)
+-Toll-Like Receptor 9 (-deficiency; +immunology)
+
+pii:IAI.00840-08
+doi:10.1128/IAI.00840-08
+pubmed:19433551
+pmc:PMC2708591
+

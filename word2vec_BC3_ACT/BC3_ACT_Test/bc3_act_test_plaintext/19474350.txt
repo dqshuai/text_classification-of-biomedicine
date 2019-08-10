@@ -1,0 +1,25 @@
+Nucleic Acids Res.
+
+Construction and functional analyses of a comprehensive sigma54 site-directed mutant library using alanine-cysteine mutagenesis.
+
+Y Xiao, SR Wigneshweraraj, R Weinzierl, YP Wang, M Buck
+
+The sigma(54) factor associates with core RNA polymerase (RNAP) to form a holoenzyme that is unable to initiate transcription unless acted on by an activator protein. sigma(54) is closely involved in many steps of activator-dependent transcription, such as core RNAP binding, promoter recognition, activator interaction and open complex formation. To systematically define sigma(54) residues that contribute to each of these functions and to generate a resource for site specific protein labeling, a complete mutant library of sigma(54) was constructed by alanine-cysteine scanning mutagenesis. Amino acid residues from 3 to 476 of Cys(-)sigma(54) were systematically mutated to alanine and cysteine in groups of two adjacent residues at a time. The influences of each substitution pair upon the functions of sigma(54) were analyzed in vivo and in vitro and the functions of many residues were revealed for the first time. Increased sigma(54) isomerization activity seldom corresponded with an increased transcription activity of the holoenzyme, suggesting the steps after sigma(54) isomerization, likely to be changes in core RNAP structure, are also strictly regulated or rate limiting to open complex formation. A linkage between core RNAP-binding activity and activator responsiveness indicates that the sigma(54)-core RNAP interface changes upon activation.
+
+-Alanine (+genetics)
+-Cysteine (+genetics)
+-DNA (-metabolism)
+-DNA-Directed RNA Polymerases (-metabolism)
+-Gene Library
+-Isomerism
+-Mutagenesis, Site-Directed
+-Promoter Regions, Genetic
+-Protein Structure, Tertiary
+-RNA Polymerase Sigma 54 (+chemistry; +genetics; -metabolism)
+-Transcription, Genetic
+
+pii:gkp419
+doi:10.1093/nar/gkp419
+pubmed:19474350
+pmc:PMC2715252
+

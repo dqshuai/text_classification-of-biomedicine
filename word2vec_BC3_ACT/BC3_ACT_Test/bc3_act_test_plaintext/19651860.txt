@@ -1,0 +1,31 @@
+Infect. Immun.
+
+Nitrite reductase NirS is required for type III secretion system expression and virulence in the human monocyte cell line THP-1 by Pseudomonas aeruginosa.
+
+NE Van Alst, M Wellington, VL Clark, CG Haidaris, BH Iglewski
+
+The nitrate dissimilation pathway is important for anaerobic growth in Pseudomonas aeruginosa. In addition, this pathway contributes to P. aeruginosa virulence by using the nematode Caenorhabditis elegans as a model host, as well as biofilm formation and motility. We used a set of nitrate dissimilation pathway mutants to evaluate the virulence of P. aeruginosa PA14 in a model of P. aeruginosa-phagocyte interaction by using the human monocytic cell line THP-1. Both membrane nitrate reductase and nitrite reductase enzyme complexes were important for cytotoxicity during the interaction of P. aeruginosa PA14 with THP-1 cells. Furthermore, deletion mutations in genes encoding membrane nitrate reductase (Delta narGH) and nitrite reductase (Delta nirS) produced defects in the expression of type III secretion system (T3SS) components, extracellular protease, and elastase. Interestingly, exotoxin A expression was unaffected in these mutants. Addition of exogenous nitric oxide (NO)-generating compounds to Delta nirS mutant cultures restored the production of T3SS phospholipase ExoU, whereas nitrite addition had no effect. These data suggest that NO generated via nitrite reductase NirS contributes to the regulation of expression of selected virulence factors in P. aeruginosa PA14.
+
+-Animals
+-Bacterial Proteins (-genetics; +physiology)
+-Cell Line
+-Cell Survival
+-Colony Count, Microbial
+-Gene Deletion
+-Gene Knockout Techniques
+-Humans
+-Membrane Transport Proteins (+biosynthesis)
+-Microbial Viability
+-Monocytes (+microbiology)
+-Mutation
+-Nitrate Reductase (-genetics; -physiology)
+-Nitrite Reductases (-genetics; +physiology)
+-Pseudomonas aeruginosa (+enzymology; -genetics; +pathogenicity)
+-Virulence
+-Virulence Factors (-genetics; +physiology)
+
+pii:IAI.00822-09
+doi:10.1128/IAI.00822-09
+pubmed:19651860
+pmc:PMC2747934
+

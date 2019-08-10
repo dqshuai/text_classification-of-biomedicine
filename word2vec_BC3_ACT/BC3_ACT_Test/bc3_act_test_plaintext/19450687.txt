@@ -1,0 +1,19 @@
+Methods
+
+High-resolution mapping of the protein interaction network for the human transcription machinery and affinity purification of RNA polymerase II-associated complexes.
+
+P Cloutier, R Al-Khoury, M Lavallée-Adam, D Faubert, H Jiang, C Poitras, A Bouchard, D Forget, M Blanchette, B Coulombe
+
+Thirty years of research on gene transcription has uncovered a myriad of factors that regulate, directly or indirectly, the activity of RNA polymerase II (RNAPII) during mRNA synthesis. Yet many regulatory factors remain to be discovered. Using protein affinity purification coupled to mass spectrometry (AP-MS), we recently unraveled a high-density interaction network formed by RNAPII and its accessory factors from the soluble fraction of human cell extracts. Validation of the dataset using a machine learning approach trained to minimize the rate of false positives and false negatives yielded a high-confidence dataset and uncovered novel interactors that regulate the RNAPII transcription machinery, including a new protein assembly we named the RNAPII-Associated Protein 3 (RPAP3) complex.
+
+-Carrier Proteins (-physiology)
+-Chromatography, Liquid
+-Humans
+-Mass Spectrometry
+-Proteomics (-methods)
+-RNA Polymerase II (+chemistry; -genetics; +physiology)
+
+pii:S1046-2023(09)00123-6
+doi:10.1016/j.ymeth.2009.05.005
+pubmed:19450687
+

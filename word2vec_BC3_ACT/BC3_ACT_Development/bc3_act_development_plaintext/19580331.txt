@@ -1,0 +1,26 @@
+Biochemistry
+
+A rare nucleotide base tautomer in the structure of an asymmetric DNA junction.
+
+P Khuu, PS Ho
+
+The single-crystal structure of a DNA Holliday junction assembled from four unique sequences shows a structure that conforms to the general features of models derived from similar constructs in solution. The structure is a compact stacked-X form junction with two sets of stacked B-DNA-type arms that coaxially stack to form semicontinuous duplexes interrupted only by the crossing of the junction. These semicontinuous helices are related by a right-handed rotation angle of 56.5 degrees, which is nearly identical to the 60 degree angle in the solution model but differs from the more shallow value of approximately 40 degrees for previous crystal structures of symmetric junctions that self-assemble from single identical inverted-repeat sequences. This supports the model in which the unique set of intramolecular interactions at the trinucleotide core of the crossing strands, which are not present in the current asymmetric junction, affects both the stability and geometry of the symmetric junctions. An unexpected result, however, is that a highly wobbled A.T base pair, which is ascribed here to a rare enol tautomer form of the thymine, was observed at the end of a CCCC/GGGG sequence within the stacked B-DNA arms of this 1.9 A resolution structure. We suggest that the junction itself is not responsible for this unusual conformation but served as a vehicle for the study of this CG-rich sequence as a B-DNA duplex, mimicking the form that would be present in a replication complex. The existence of this unusual base lends credence to and defines a sequence context for the "rare tautomer hypothesis" as a mechanism for inducing transition mutations during DNA replication.
+
+-Base Pair Mismatch (-genetics)
++Base Pairing (-genetics)
+-Base Sequence
+-Crystallization
+-DNA Replication (-genetics)
+-DNA, Cruciform (-chemical synthesis; +chemistry; -isolation & purification)
+-Dinucleotide Repeats (-genetics)
++Models, Molecular
++Nucleic Acid Conformation
+-Nucleic Acid Heteroduplexes (-chemical synthesis; +chemistry; -isolation & purification)
+-Recombination, Genetic
+-Solutions
+
+doi:10.1021/bi900829b
+pubmed:19580331
+mid:NIHMS132642
+pmc:PMC2761035
+

@@ -1,0 +1,25 @@
+BMC Bioinformatics
+
+Extraction of human kinase mutations from literature, databases and genotyping studies.
+
+M Krallinger, JM Izarzugaza, C Rodriguez-Penagos, A Valencia
+
+BACKGROUND: There is a considerable interest in characterizing the biological role of specific protein residue substitutions through mutagenesis experiments. Additionally, recent efforts related to the detection of disease-associated SNPs motivated both the manual annotation, as well as the automatic extraction, of naturally occurring sequence variations from the literature, especially for protein families that play a significant role in signaling processes such as kinases. Systematic integration and comparison of kinase mutation information from multiple sources, covering literature, manual annotation databases and large-scale experiments can result in a more comprehensive view of functional, structural and disease associated aspects of protein sequence variants. Previously published mutation extraction approaches did not sufficiently distinguish between two fundamentally different variation origin categories, namely natural occurring and induced mutations generated through in vitro experiments. RESULTS: We present a literature mining pipeline for the automatic extraction and disambiguation of single-point mutation mentions from both abstracts as well as full text articles, followed by a sequence validation check to link mutations to their corresponding kinase protein sequences. Each mutation is scored according to whether it corresponds to an induced mutation or a natural sequence variant. We were able to provide direct literature links for a considerable fraction of previously annotated kinase mutations, enabling thus more efficient interpretation of their biological characterization and experimental context. In order to test the capabilities of the presented pipeline, the mutations in the protein kinase domain of the kinase family were analyzed. Using our literature extraction system, we were able to recover a total of 643 mutations-protein associations from PubMed abstracts and 6,970 from a large collection of full text articles. When compared to state-of-the-art annotation databases and high throughput genotyping studies, the mutation mentions extracted from the literature overlap to a good extent with the existing knowledgebases, whereas the remaining mentions suggest new mutation records that were not previously annotated in the databases. CONCLUSION: Using the proposed residue disambiguation and classification approach, we were able to differentiate between natural variant and mutagenesis types of mutations with an accuracy of 93.88. The resulting system is useful for constructing a Gold Standard set of mutations extracted from the literature by human experts with minimal manual curation effort, providing direct pointers to relevant evidence sentences. Our system is able to recover mutations from the literature that are not present in state-of-the-art databases. Human expert manual validation of a subset of the literature extracted mutations conducted on 100 mutations from PubMed abstracts highlights that almost three quarters (72%) of the extracted mutations turned out to be correct, and more than half of these had not been previously annotated in databases.
+
+-Databases, Genetic
+-Genomics
+-Genotype
+-Humans
+-Information Storage and Retrieval (+methods)
++Mutation
+-Periodicals as Topic
+-Protein Kinases (+genetics)
+-Receptor, Epidermal Growth Factor (-genetics)
+-Reproducibility of Results
+-Sequence Analysis, DNA
+
+pii:1471-2105-10-S8-S1
+doi:10.1186/1471-2105-10-S8-S1
+pubmed:19758464
+pmc:PMC2745582
+

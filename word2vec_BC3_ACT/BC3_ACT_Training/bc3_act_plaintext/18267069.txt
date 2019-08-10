@@ -1,0 +1,40 @@
+Cell
+
+Oncogenic BRAF induces senescence and apoptosis through pathways mediated by the secreted protein IGFBP7.
+
+N Wajapeyee, RW Serra, X Zhu, M Mahalingam, MR Green
+
+Expression of an oncogene in a primary cell can, paradoxically, block proliferation by inducing senescence or apoptosis through pathways that remain to be elucidated. Here we perform genome-wide RNA-interference screening to identify 17 genes required for an activated BRAF oncogene (BRAFV600E) to block proliferation of human primary fibroblasts and melanocytes. Surprisingly, we find a secreted protein, IGFBP7, has a central role in BRAFV600E-mediated senescence and apoptosis. Expression of BRAFV600E in primary cells leads to synthesis and secretion of IGFBP7, which acts through autocrine/paracrine pathways to inhibit BRAF-MEK-ERK signaling and induce senescence and apoptosis. Apoptosis results from IGFBP7-mediated upregulation of BNIP3L, a proapoptotic BCL2 family protein. Recombinant IGFBP7 (rIGFBP7) induces apoptosis in BRAFV600E-positive human melanoma cell lines, and systemically administered rIGFBP7 markedly suppresses growth of BRAFV600E-positive tumors in xenografted mice. Immunohistochemical analysis of human skin, nevi, and melanoma samples implicates loss of IGFBP7 expression as a critical step in melanoma genesis.
+
+-Amino Acid Substitution
+-Animals
++Apoptosis
+-Autocrine Communication
++Cell Aging
+-Cell Line, Tumor
+-Cell Proliferation
+-Fibroblasts (-cytology)
+-Humans
+-Insulin-Like Growth Factor Binding Proteins (-genetics; +metabolism)
+-MAP Kinase Signaling System
+-Melanocytes (-cytology; -metabolism)
+-Melanoma (-genetics; -metabolism)
+-Membrane Proteins (-metabolism)
+-Mice
+-Neoplasm Transplantation
+-Nevus, Pigmented (-metabolism)
+-Paracrine Communication
+-Proto-Oncogene Proteins (-metabolism)
+-Proto-Oncogene Proteins B-raf (-genetics; +metabolism)
+-RNA Interference
+-Recombinant Proteins (-genetics; -metabolism)
+-Transplantation, Heterologous
+-Tumor Suppressor Proteins (-metabolism)
+-Up-Regulation
+
+pii:S0092-8674(08)00053-6
+doi:10.1016/j.cell.2007.12.032
+pubmed:18267069
+mid:HHMIMS40927
+pmc:PMC2266096
+

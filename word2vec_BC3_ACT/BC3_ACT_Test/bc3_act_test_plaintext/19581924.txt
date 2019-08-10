@@ -1,0 +1,38 @@
+Oncogene
+
+P-21-activated protein kinase-1 functions as a linker between insulin and Wnt signaling pathways in the intestine.
+
+J Sun, S Khalid, M Rozakis-Adcock, IG Fantus, T Jin
+
+Hyperinsulinemia and type II diabetes are associated with an increased risk of developing colorectal tumors. We found previously that in intestinal cells, insulin or insulin-like growth factor-1 stimulates c-Myc and cyclin D1 protein expression through both Akt-dependent and Akt-independent mechanisms. The effect of Akt is attributed to the stimulation of c-Myc translation by mammalian target of rapamycin. However, Akt-independent stimulation was, associated with an increase in beta-catenin (beta-cat) in the nucleus and an increased association between beta-cat and T-cell factor binding sites on the c-Myc promoter, detected by chromatin immunoprecipitation. In this study, we show that insulin stimulated the phosphorylation/activation of p-21-activated protein kinase-1 (PAK-1) in an Akt-independent manner in vitro and in an in vivo hyperinsulinemic mouse model. Significantly, shRNA (small hairpin RNA)-mediated PAK-1 knockdown attenuated both basal and insulin-stimulated c-Myc and cyclin D1 expression, associated with a marked reduction in extracellular signal-regulated kinase activation and beta-cat phosphorylation at Ser675. Furthermore, PAK-1 silencing led to a complete blockade of insulin-stimulated beta-cat binding to the c-Myc promoter and cellular growth. Finally, inhibition of MEK, a downstream target of PAK-1, blocked insulin-stimulated nuclear beta-cat accumulation and c-Myc expression. Our observations suggest that PAK-1 serves as an important linker between insulin and Wnt signaling pathways.
+
+-Animals
+-Cell Line, Tumor
+-Cyclin D1 (-metabolism)
+-Dose-Response Relationship, Drug
+-Enzyme Activation (-drug effects)
+-Extracellular Signal-Regulated MAP Kinases (-antagonists & inhibitors; -metabolism)
+-Female
+-HT29 Cells
+-Humans
+-Insulin (+metabolism; -pharmacology)
+-Intestines (+metabolism)
+-Mice
+-Mice, Mutant Strains
+-Phosphorylation (-drug effects)
+-Protein Binding (-drug effects)
+-Protein Kinases (+metabolism)
+-Proto-Oncogene Proteins c-akt (-metabolism)
+-Proto-Oncogene Proteins c-myc (-metabolism)
+-RNA, Small Interfering (-metabolism)
+-Signal Transduction (-drug effects; -physiology)
+-Time Factors
+-Transfection
+-Wnt Proteins (+metabolism)
+-beta Catenin (-metabolism)
+-p21-Activated Kinases (-genetics; +metabolism)
+
+pii:onc2009167
+doi:10.1038/onc.2009.167
+pubmed:19581924
+

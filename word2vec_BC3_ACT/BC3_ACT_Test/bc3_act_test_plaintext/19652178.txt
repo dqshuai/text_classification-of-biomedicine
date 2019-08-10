@@ -1,0 +1,22 @@
+Genetics
+
+The mother enrichment program: a genetic system for facile replicative life span analysis in Saccharomyces cerevisiae.
+
+DL Lindstrom, DE Gottschling
+
+The replicative life span (RLS) of Saccharomyces cerevisiae has been established as a model for the genetic regulation of longevity despite the inherent difficulty of the RLS assay, which requires separation of mother and daughter cells by micromanipulation after every division. Here we present the mother enrichment program (MEP), an inducible genetic system in which mother cells maintain a normal RLS--a median of 36 generations in the diploid MEP strain--while the proliferative potential of daughter cells is eliminated. Thus, the viability of a population over time becomes a function of RLS, and it displays features of a survival curve such as changes in hazard rate with age. We show that viability of mother cells in liquid culture is regulated by SIR2 and FOB1, two opposing regulators of RLS in yeast. We demonstrate that viability curves of these short- and long-lived strains can be easily distinguished from wild type, using a colony formation assay. This provides a simplified screening method for identifying genetic or environmental factors that regulate RLS. Additionally, the MEP can provide a cohort of cells at any stage of their life span for the analysis of age-associated phenotypes. These capabilities effectively remove the hurdles presented by RLS analysis that have hindered S. cerevisiae aging studies since their inception 50 years ago.
+
+-Cell Division (-genetics; +physiology)
+-DNA-Binding Proteins (-genetics; -physiology)
+-Models, Biological
+-Saccharomyces cerevisiae (-cytology; -genetics; +physiology)
+-Saccharomyces cerevisiae Proteins (-genetics; +physiology)
+-Silent Information Regulator Proteins, Saccharomyces cerevisiae (-genetics; -physiology)
+-Sirtuin 2 (-genetics; -physiology)
+-Time Factors
+
+pii:genetics.109.106229
+doi:10.1534/genetics.109.106229
+pubmed:19652178
+pmc:PMC2766306
+

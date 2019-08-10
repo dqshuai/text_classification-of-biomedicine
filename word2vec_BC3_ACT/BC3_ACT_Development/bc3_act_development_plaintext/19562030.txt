@@ -1,0 +1,29 @@
+PLoS ONE
+
+A novel in vitro multiple-stress dormancy model for Mycobacterium tuberculosis generates a lipid-loaded, drug-tolerant, dormant pathogen.
+
+C Deb, CM Lee, VS Dubey, J Daniel, B Abomoelak, TD Sirakova, S Pawar, L Rogers, PE Kolattukudy
+
+BACKGROUND: Mycobacterium tuberculosis (Mtb) becomes dormant and phenotypically drug resistant when it encounters multiple stresses within the host. Inability of currently available drugs to kill latent Mtb is a major impediment to curing and possibly eradicating tuberculosis (TB). Most in vitro dormancy models, using single stress factors, fail to generate a truly dormant Mtb population. An in vitro model that generates truly dormant Mtb cells is needed to elucidate the metabolic requirements that allow Mtb to successfully go through dormancy, identify new drug targets, and to screen drug candidates to discover novel drugs that can kill dormant pathogen. METHODOLOGY/PRINCIPAL FINDINGS: We developed a novel in vitro multiple-stress dormancy model for Mtb by applying combined stresses of low oxygen (5%), high CO(2) (10%), low nutrient (10% Dubos medium) and acidic pH (5.0), conditions Mtb is thought to encounter in the host. Under this condition, Mtb stopped replicating, lost acid-fastness, accumulated triacylglycerol (TG) and wax ester (WE), and concomitantly acquired phenotypic antibiotic-resistance. Putative neutral lipid biosynthetic genes were up-regulated. These genes may serve as potential targets for new antilatency drugs. The triacylglycerol synthase1 (tgs1) deletion mutant, with impaired ability to accumulate TG, exhibited a lesser degree of antibiotic tolerance and complementation restored antibiotic tolerance. Transcriptome analysis with microarray revealed the achievement of dormant state showing repression of energy generation, transcription and translation machineries and induction of stress-responsive genes. We adapted this model for drug screening using the Alamar Blue dye to quantify the antibiotic tolerant dormant cells. CONCLUSIONS/SIGNIFICANCE: The new in vitro multiple stress dormancy model efficiently generates Mtb cells meeting all criteria of dormancy, and this method is adaptable to high-throughput screening for drugs that can kill dormant Mtb. A critical link between storage-lipid accumulation and development of phenotypic drug-resistance in Mtb was established. Storage lipid biosynthetic genes may be appropriate targets for novel drugs that can kill latent Mtb.
+
+-Cluster Analysis
+-Coloring Agents (-pharmacology)
+-Down-Regulation
+-Drug Resistance, Multiple, Bacterial (-drug effects)
++Gene Expression Regulation
+-Gene Expression Regulation, Bacterial (-drug effects)
+-Genes, Bacterial (-drug effects)
+-Hydrogen-Ion Concentration
+-Lipids (+chemistry)
+-Microbial Sensitivity Tests (+methods)
+-Mycobacterium tuberculosis (+metabolism)
+-Oxazines (-pharmacology)
+-Phenotype
+-Reverse Transcriptase Polymerase Chain Reaction
+-Transcription, Genetic
+-Xanthenes (-pharmacology)
+
+doi:10.1371/journal.pone.0006077
+pubmed:19562030
+pmc:PMC2698117
+

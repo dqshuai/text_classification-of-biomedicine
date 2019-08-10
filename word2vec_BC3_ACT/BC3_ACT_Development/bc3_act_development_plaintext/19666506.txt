@@ -1,0 +1,25 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Survival of an evasive prey.
+
+G Oshanin, O Vasilyev, PL Krapivsky, J Klafter
+
+We study the survival of a prey that is hunted by N predators. The predators perform independent random walks on a square lattice with V sites and start a direct chase whenever the prey appears within their sighting range. The prey is caught when a predator jumps to the site occupied by the prey. We analyze the efficacy of a lazy, minimal-effort evasion strategy according to which the prey tries to avoid encounters with the predators by making a hop only when any of the predators appears within its sighting range; otherwise the prey stays still. We show that if the sighting range of such a lazy prey is equal to 1 lattice spacing, at least 3 predators are needed in order to catch the prey on a square lattice. In this situation, we establish a simple asymptotic relation ln P(ev)(t) approximately (N/V)(2)ln P(imm)(t) between the survival probabilities of an evasive and an immobile prey. Hence, when the density rho = N/V of the predators is low, rho << 1, the lazy evasion strategy leads to the spectacular increase of the survival probability. We also argue that a short-sighting prey (its sighting range is smaller than the sighting range of the predators) undergoes an effective superdiffusive motion, as a result of its encounters with the predators, whereas a far-sighting prey performs a diffusive-type motion.
+
+-Algorithms
+-Animals
+-Behavior, Animal (+physiology)
+-Body Size
+-Ecosystem
+-Models, Biological
+-Models, Statistical
+-Models, Theoretical
+-Movement
+-Population Density
++Predatory Behavior
+
+pii:0904354106
+doi:10.1073/pnas.0904354106
+pubmed:19666506
+pmc:PMC2728956
+

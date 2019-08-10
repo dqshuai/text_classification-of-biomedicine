@@ -1,0 +1,31 @@
+Dev. Cell
+
+Polo kinase and separase regulate the mitotic licensing of centriole duplication in human cells.
+
+MF Tsou, WJ Wang, KA George, K Uryu, T Stearns, PV Jallepalli
+
+It has been proposed that separase-dependent centriole disengagement at anaphase licenses centrosomes for duplication in the next cell cycle. Here we test whether such a mechanism exists in intact human cells. Loss of separase blocked centriole disengagement during mitotic exit and delayed assembly of new centrioles during the following S phase; however, most engagements were eventually dissolved. We identified Polo-like kinase 1 (Plk1) as a parallel activator of centriole disengagement. Timed inhibition of Plk1 mapped its critical period of action to late G2 or early M phase, i.e., prior to securin destruction and separase activation at anaphase onset. Crucially, when cells exited mitosis after downregulation of both separase and Plk1, centriole disengagement failed completely, and subsequent centriole duplication in interphase was also blocked. Our results indicate that Plk1 and separase act at different times during M phase to license centrosome duplication, reminiscent of their roles in removing cohesin from chromosomes.
+
+-Cell Cycle Proteins (-metabolism; +physiology)
+-Cell Line, Tumor
+-Cell Nucleus (-metabolism)
+-Centrioles (+metabolism)
+-Endopeptidases (+physiology)
+-Exons
+-Gene Deletion
++Gene Expression Regulation
+-Histones (-metabolism)
+-Humans
+-Microscopy, Fluorescence (-methods)
++Mitosis
+-Models, Biological
+-Models, Genetic
+-Protein-Serine-Threonine Kinases (+physiology)
+-Proto-Oncogene Proteins (+physiology)
+
+pii:S1534-5807(09)00299-8
+doi:10.1016/j.devcel.2009.07.015
+pubmed:19758559
+mid:NIHMS135207
+pmc:PMC2746921
+

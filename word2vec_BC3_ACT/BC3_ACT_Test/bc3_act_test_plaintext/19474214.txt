@@ -1,0 +1,24 @@
+Plant Physiol.
+
+Refining the definition of plant mitochondrial presequences through analysis of sorting signals, N-terminal modifications, and cleavage motifs.
+
+S Huang, NL Taylor, J Whelan, AH Millar
+
+Mitochondrial protein import is a complex multistep process from synthesis of proteins in the cytosol, recognition by receptors on the organelle surface, to translocation across one or both mitochondrial membranes and assembly after removal of the targeting signal, referred to as a presequence. In plants, import has to further discriminate between mitochondria and chloroplasts. In this study, we determined the precise cleavage sites in the presequences for Arabidopsis (Arabidopsis thaliana) and rice (Oryza sativa) mitochondrial proteins using mass spectrometry by comparing the precursor sequences with experimental evidence of the amino-terminal peptide from mature proteins. We validated this method by assessments of false-positive rates and comparisons with previous available data using Edman degradation. In total, the cleavable presequences of 62 proteins from Arabidopsis and 52 proteins from rice mitochondria were determined. None of these proteins contained amino-terminal acetylation, in contrast to recent findings for chloroplast stromal proteins. Furthermore, the classical matrix glutamate dehydrogenase was detected with intact and amino-terminal acetylated sequences, indicating that it is imported into mitochondria without a cleavable targeting signal. Arabidopsis and rice mitochondrial presequences had similar isoelectric points, hydrophobicity, and the predicted ability to form an amphiphilic alpha-helix at the amino-terminal region of the presequence, but variations in length, amino acid composition, and cleavage motifs for mitochondrial processing peptidase were observed. A combination of lower hydrophobicity and start point of the amino-terminal alpha-helix in mitochondrial presequences in both Arabidopsis and rice distinguished them (98%) from Arabidopsis chloroplast stroma transit peptides. Both Arabidopsis and rice mitochondrial cleavage sites could be grouped into three classes, with conserved -3R (class II) and -2R (class I) or without any conserved (class III) arginines. Class II was dominant in both Arabidopsis and rice (55%-58%), but in rice sequences there was much less frequently a phenylalanine (F) in the -1 position of the cleavage site than in Arabidopsis sequences. Our data also suggest a novel cleavage motif of (F/Y) downward arrow(S/A) in plant class III sequences.
+
+-Amino Acid Motifs
+-Arabidopsis (-genetics; -metabolism)
+-Chromatography, Liquid
+-Consensus Sequence
+-Mass Spectrometry
+-Mitochondrial Proteins (+chemistry; -metabolism)
+-Oryza sativa (-genetics; -metabolism)
+-Plant Proteins (+chemistry; -metabolism)
++Protein Sorting Signals
+-Sequence Analysis, Protein
+
+pii:pp.109.137885
+doi:10.1104/pp.109.137885
+pubmed:19474214
+pmc:PMC2705053
+

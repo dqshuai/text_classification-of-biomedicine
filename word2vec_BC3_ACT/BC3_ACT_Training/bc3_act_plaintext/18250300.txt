@@ -1,0 +1,26 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Role for Plk1 phosphorylation of Hbo1 in regulation of replication licensing.
+
+ZQ Wu, X Liu
+
+In a search for Polo-like kinase 1 (Plk1)-interacting proteins using a yeast two-hybrid system, we have identified histone acetyltransferase binding to the origin recognition complex 1 (Hbo1) as a potential Plk1 target. Here, we show that the interaction between Plk1 and Hbo1 is mitosis-specific and that Plk1 phosphorylates Hbo1 on Ser-57 in vitro and in vivo. During mitosis, Cdk1 phosphorylates Hbo1 on Thr-85/88, creating a docking site for Plk1 to be recruited. Significantly, the overexpression of Hbo1 mutated at the Plk1 phosphorylation site (S57A) leads to cell-cycle arrest in the G1/S phase, inhibition of chromatin loading of the minichromosome maintenance (Mcm) complex, and a reduced DNA replication rate. Similarly, Hbo1 depletion results in decreased DNA replication and a failure of Mcm complex binding to chromatin, both of which can be partially rescued by the ectopic expression of WT Hbo1 but not Hbo1-S57A. These results suggest that Plk1 phosphorylation of Hbo1 may be required for prereplicative complex (pre-RC) formation and DNA replication licensing.
+
+-Base Sequence
+-Cell Cycle Proteins (-metabolism; +physiology)
+-Cells, Cultured
+-DNA Primers
+-DNA Replication (+physiology)
+-G1 Phase
+-Histone Acetyltransferases (+metabolism)
+-Humans
+-Phosphorylation
+-Protein-Serine-Threonine Kinases (-metabolism; +physiology)
+-Proto-Oncogene Proteins (-metabolism; +physiology)
+-S Phase
+
+pii:0712063105
+doi:10.1073/pnas.0712063105
+pubmed:18250300
+pmc:PMC2538859
+

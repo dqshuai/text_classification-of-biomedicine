@@ -1,0 +1,33 @@
+Cell. Physiol. Biochem.
+
+A ceramide-binding C1 domain mediates kinase suppressor of ras membrane translocation.
+
+X Yin, M Zafrullah, H Lee, A Haimovitz-Friedman, Z Fuks, R Kolesnick
+
+Genetic and biochemical data support Kinase Suppressor of Ras 1 (KSR1) as a positive regulator of the Ras-Raf-MAPK pathway, functioning as a kinase and/or scaffold to regulate c-Raf-1 activation. Membrane translocation mediated by the KSR1 CA3 domain, which is homologous to the atypical PKC C1 lipid-binding domain, is a critical step of KSR1-mediated c-Raf-1 activation. In this study, we used an ELISA to characterize the KSR1 CA3 domain as a lipid-binding moiety. Purified GST-KSR1-CA3 protein effectively binds ceramide but not other lipids including 1,2-diacylglyceol, dihydroceramide, ganglioside GM1, sphingomyelin and phosphatidylcholine. Upon epidermal growth factor stimulation of COS-7 cells, KSR1 translocates into and is activated within glycosphingolipid-enriched plasma membrane platforms. Pharmacologic inhibition of ceramide generation attenuates KSR1 translocation and KSR1 kinase activation in COS-7 cells. Disruption of two cysteines, which are indispensable for maintaining ternary structure of all C1 domains and their lipid binding capability, mitigates ceramide-binding capacity of purified GST-KSR1-CA3 protein, and inhibits full length KSR1 membrane translocation and kinase activation. These studies provide evidence for a mechanism by which the second messenger ceramide can target proteins to subcellular compartments in the process of transmembrane signal transduction.
+
+-Animals
+-Binding Sites
+-COS Cells
+-Cell Membrane (-metabolism)
+-Ceramides (+metabolism)
+-Cercopithecus aethiops
+-Escherichia coli (-genetics)
+-Fluorescent Antibody Technique, Indirect
+-Fluorescent Dyes (-metabolism)
++Genes, ras
+-Glutathione Transferase (-metabolism)
+-Indoles (-metabolism)
+-Protein Binding
+-Protein Kinases (+chemistry; -genetics; +metabolism)
+-Protein Structure, Tertiary
+-Protein Transport (-genetics)
+-Proto-Oncogene Proteins c-raf (-chemistry; -genetics; -metabolism)
+-Recombinant Fusion Proteins (-chemistry; -isolation & purification; -metabolism)
+-Signal Transduction (-physiology)
+-ras Proteins (-genetics; +metabolism)
+
+pii:000233248
+doi:10.1159/000233248
+pubmed:19710537
+

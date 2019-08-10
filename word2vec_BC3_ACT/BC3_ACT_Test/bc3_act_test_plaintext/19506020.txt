@@ -1,0 +1,33 @@
+Mol. Cell. Biol.
+
+Contributions to neutropenia from PFAAP5 (N4BP2L2), a novel protein mediating transcriptional repressor cooperation between Gfi1 and neutrophil elastase.
+
+SJ Salipante, ME Rojas, B Korkmaz, Z Duan, J Wechsler, KF Benson, RE Person, HL Grimes, MS Horwitz
+
+"Neutropenia" refers to deficient numbers of neutrophils, the most abundant type of white blood cell. Two main forms of inherited neutropenia are cyclic neutropenia, in which neutrophil counts oscillate with a 21-day frequency, and severe congenital neutropenia, in which static neutropenia may evolve at times into leukemia. Mutations of ELA2, encoding the protease neutrophil elastase, can cause both disorders. Among other genes, severe congenital neutropenia can also result from mutations affecting the transcriptional repressor Gfi1, one of whose genetic targets is ELA2, suggesting that the two act through similar mechanisms. In order to identify components of a common pathway regulating neutrophil production, we conducted yeast two-hybrid screens with Gfi1 and neutrophil elastase and detected a novel protein, PFAAP5 (also known as N4BP2L2), interacting with both. Expression of PFAAP5 allows neutrophil elastase to potentiate the repression of Gfi1 target genes, as determined by reporter assays, RNA interference, chromatin immunoprecipitation, and impairment of neutrophil differentiation in HSCs with PFAAP5 depletion, thus delineating a mechanism through which neutrophil elastase could regulate its own synthesis. Our findings are consistent with theoretical models of cyclic neutropenia proposing that its periodicity can be explained through disturbance of a feedback circuit in which mature neutrophils inhibit cell proliferation, thereby homeostatically regulating progenitor populations.
+
+-Animals
+-Carrier Proteins (-genetics; -metabolism)
+-Cell Differentiation
+-Cell Proliferation
+-Chromatin Immunoprecipitation
++DNA-Binding Proteins (-genetics; -metabolism)
++Gene Expression Regulation
+-Genes, Reporter
+-HL-60 Cells
+-Hematopoietic Stem Cells (-cytology; -physiology)
+-Humans
+-Leukocyte Elastase (-genetics; +metabolism)
+-Neutropenia (-genetics; +metabolism)
+-RNA, Small Interfering (-genetics; -metabolism)
+-Repressor Proteins (-genetics; +metabolism)
++Transcription Factors (-genetics; -metabolism)
+-Transcription, Genetic
+-Tumor Suppressor Proteins (-genetics; -metabolism)
+-Two-Hybrid System Techniques
+
+pii:MCB.00596-09
+doi:10.1128/MCB.00596-09
+pubmed:19506020
+pmc:PMC2725743
+

@@ -1,0 +1,21 @@
+Plant Cell
+
+Defining the far-red limit of photosystem II in spinach.
+
+A Thapper, F Mamedov, F Mokvist, L Hammarström, S Styring
+
+The far-red limit of photosystem II (PSII) photochemistry was studied in PSII-enriched membranes and PSII core preparations from spinach (Spinacia oleracea) after application of laser flashes between 730 and 820 nm. Light up to 800 nm was found to drive PSII activity in both acceptor side reduction and oxidation of the water-oxidizing CaMn(4) cluster. Far-red illumination induced enhancement of, and slowed down decay kinetics of, variable fluorescence. Both effects reflect reduction of the acceptor side of PSII. The effects on the donor side of PSII were monitored using electron paramagnetic resonance spectroscopy. Signals from the S(2)-, S(3)-, and S(0)-states could be detected after one, two, and three far-red flashes, respectively, indicating that PSII underwent conventional S-state transitions. Full PSII turnover was demonstrated by far-red flash-induced oxygen release, with oxygen appearing on the third flash. In addition, both the pheophytin anion and the Tyr Z radical were formed by far-red flashes. The efficiency of this far-red photochemistry in PSII decreases with increasing wavelength. The upper limit for detectable photochemistry in PSII on a single flash was determined to be 780 nm. In photoaccumulation experiments, photochemistry was detectable up to 800 nm. Implications for the energetics and energy levels of the charge separated states in PSII are discussed in light of the presented results.
+
+-Electron Spin Resonance Spectroscopy
++Light
+-Oxidation-Reduction
+-Oxygen (+metabolism)
+-Photosynthesis (-radiation effects)
+-Photosystem II Protein Complex (+metabolism)
+-Spinacia oleracea (+metabolism; -radiation effects)
+
+pii:tpc.108.064154
+doi:10.1105/tpc.108.064154
+pubmed:19700631
+pmc:PMC2751953
+

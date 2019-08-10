@@ -1,0 +1,28 @@
+Genes Dev.
+
+Proteomic analysis of murine Piwi proteins reveals a role for arginine methylation in specifying interaction with Tudor family members.
+
+VV Vagin, J Wohlschlegel, J Qu, Z Jonsson, X Huang, S Chuma, A Girard, R Sachidanandam, GJ Hannon, AA Aravin
+
+In germ cells, Piwi proteins interact with a specific class of small noncoding RNAs, piwi-interacting RNAs (piRNAs). Together, these form a pathway that represses transposable elements, thus safeguarding germ cell genomes. Basic models describe the overall operation of piRNA pathways. However, the protein compositions of Piwi complexes, the critical protein-protein interactions that drive small RNA production and target recognition, and the precise molecular consequences of conserved localization to germline structures, call nuage, remains poorly understood. We purified the three murine Piwi family proteins, MILI, MIWI, and MIWI2, from mouse germ cells and characterized their interacting protein partners. Piwi proteins were found in complex with PRMT5/WDR77, an enzyme that dimethylates arginine residues. By immunoprecipitation with specific antibodies and by mass spectrometry, we found that Piwi proteins are arginine methylated at conserved positions in their N termini. These modifications are essential to direct complex formation with specific members of the Tudor protein family. Recognition of methylarginine marks by Tudor proteins can drive the localization of Piwi proteins to cytoplasmic foci in an artificial setting, supporting a role for this interaction in Piwi localization to nuage, a characteristic that correlates with proper operation of the piRNA pathway and transposon silencing in multiple organisms.
+
+-Animals
+-Arginine (+metabolism)
+-Cell Line
+-DNA Transposable Elements (-physiology)
+-Humans
+-Male
+-Methylation
+-Mice
+-Protein Methyltransferases (-metabolism)
+-Proteins (-isolation & purification; +metabolism)
+-Proteomics
+-Ribonucleoproteins (+metabolism)
+-Ribonucleoproteins, Small Nuclear (-metabolism)
+-Testis (+metabolism)
+
+pii:gad.1814809
+doi:10.1101/gad.1814809
+pubmed:19584108
+pmc:PMC2720255
+

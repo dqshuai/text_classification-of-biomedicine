@@ -1,0 +1,25 @@
+PLoS ONE
+
+Tat-SF1 is not required for Tat transactivation but does regulate the relative levels of unspliced and spliced HIV-1 RNAs.
+
+HB Miller, KO Saunders, GD Tomaras, MA Garcia-Blanco
+
+BACKGROUND: HIV-1 relies on several host proteins for productive viral transcription. HIV-1 Tat-specific factor 1 (Tat-SF1) is among these cofactors that were identified by in vitro reconstituted transcription reactions with immunodepleted nuclear extracts. At the onset of this work, the prevailing hypothesis was that Tat-SF1 was a required cofactor for the viral regulatory protein, Tat; however, this had not previously been formally tested in vivo. METHODOLOGY/PRINCIPAL FINDINGS: To directly address the involvement of Tat-SF1 in HIV-1 gene expression, we depleted Tat-SF1 in HeLa cells by conventional expression of shRNAs and in T- Rex -293 cells containing tetracycline-inducible shRNAs targeting Tat-SF1. We achieved efficient depletion of Tat-SF1 and demonstrated that this did not affect cell viability. HIV-1 infectivity decreased in Tat-SF1-depleted cells, but only when multiple rounds of infection occurred. Neither Tat-dependent nor basal transcription from the HIV-1 LTR was affected by Tat-SF1 depletion, suggesting that the decrease in infectivity was due to a deficiency at a later step in the viral lifecycle. Finally, Tat-SF1 depletion resulted in an increase in the ratio of unspliced to spliced viral transcripts. CONCLUSIONS/SIGNIFICANCE: Tat-SF1 is not required for regulating HIV-1 transcription, but is required for maintaining the ratios of different classes of HIV-1 transcripts. These new findings highlight a novel, post-transcriptional role for Tat-SF1 in the HIV-1 life cycle.
+
+-Cell Survival
+-HIV Long Terminal Repeat (-genetics)
+-HIV-1 (+genetics; -pathogenicity; -physiology)
+-Hela Cells
+-Humans
+-RNA Splicing (+genetics)
+-RNA, Viral (+genetics)
+-Trans-Activators (-deficiency; +metabolism)
+-Transcription, Genetic
+-Transcriptional Activation (+genetics)
+-Virus Replication
+-tat Gene Products, Human Immunodeficiency Virus (+genetics)
+
+doi:10.1371/journal.pone.0005710
+pubmed:19479034
+pmc:PMC2682658
+

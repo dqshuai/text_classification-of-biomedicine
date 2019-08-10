@@ -1,0 +1,22 @@
+Nucleic Acids Res.
+
+Combinatorial network of primary and secondary microRNA-driven regulatory mechanisms.
+
+K Tu, H Yu, YJ Hua, YY Li, L Liu, L Xie, YX Li
+
+Recent miRNA transfection experiments show strong evidence that miRNAs influence not only their target but also non-target genes; the precise mechanism of the extended regulatory effects of miRNAs remains to be elucidated. A hypothetical two-layer regulatory network in which transcription factors (TFs) function as important mediators of miRNA-initiated regulatory effects was envisioned, and a comprehensive strategy was developed to map such miRNA-centered regulatory cascades. Given gene expression profiles after miRNA-perturbation, along with putative miRNA-gene and TF-gene regulatory relationships, highly likely degraded targets were fetched by a non-parametric statistical test; miRNA-regulated TFs and their downstream targets were mined out through linear regression modeling. When applied to 53 expression datasets, this strategy discovered combinatorial regulatory networks centered around 19 miRNAs. A tumor-related regulatory network was diagrammed as an example, with the important tumor-related regulators TP53 and MYC playing hub connector roles. A web server is provided for query and analysis of all reported data in this article. Our results reinforce the growing awareness that non-coding RNAs may play key roles in the transcription regulatory network. Our strategy could be applied to reveal conditional regulatory pathways in many more cellular contexts.
+
+-Algorithms
+-Gene Expression Regulation, Neoplastic
++Gene Regulatory Networks
+-Humans
+-Linear Models
+-MicroRNAs (+metabolism)
++RNA Interference
+-Transcription Factors (+metabolism)
+
+pii:gkp638
+doi:10.1093/nar/gkp638
+pubmed:19671526
+pmc:PMC2764428
+

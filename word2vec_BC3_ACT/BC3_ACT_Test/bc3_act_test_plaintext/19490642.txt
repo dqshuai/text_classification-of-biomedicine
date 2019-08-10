@@ -1,0 +1,26 @@
+BMC Genomics
+
+Probing the endosperm gene expression landscape in Brassica napus.
+
+Y Huang, L Chen, L Wang, K Vijayan, S Phan, Z Liu, L Wan, A Ross, D Xiang, R Datla, Y Pan, J Zou
+
+BACKGROUND: In species with exalbuminous seeds, the endosperm is eventually consumed and its space occupied by the embryo during seed development. However, the main constituent of the early developing seed is the liquid endosperm, and a significant portion of the carbon resources for the ensuing stages of seed development arrive at the embryo through the endosperm. In contrast to the extensive study of species with persistent endosperm, little is known about the global gene expression pattern in the endosperm of exalbuminous seed species such as crucifer oilseeds. RESULTS: We took a multiparallel approach that combines ESTs, protein profiling and microarray analyses to look into the gene expression landscape in the endosperm of the oilseed crop Brassica napus. An EST collection of over 30,000 entries allowed us to detect close to 10,000 unisequences expressed in the endosperm. A protein profile analysis of more than 800 proteins corroborated several signature pathways uncovered by abundant ESTs. Using microarray analyses, we identified genes that are differentially or highly expressed across all developmental stages. These complementary analyses provided insight on several prominent metabolic pathways in the endosperm. We also discovered that a transcription factor LEAFY COTYLEDON (LEC1) was highly expressed in the endosperm and that the regulatory cascade downstream of LEC1 operates in the endosperm. CONCLUSION: The endosperm EST collection and the microarray dataset provide a basic genomic resource for dissecting metabolic and developmental events important for oilseed improvement. Our findings on the featured metabolic processes and the LEC1 regulatory cascade offer new angles for investigation on the integration of endosperm gene expression with embryo development and storage product deposition in seed development.
+
+-Brassica napus (-embryology; +genetics; -growth & development)
+-DNA, Plant (-genetics)
+-Expressed Sequence Tags
+-Gene Expression Profiling
+-Gene Expression Regulation, Plant
+-Gene Library
++Genes, Plant
+-Oligonucleotide Array Sequence Analysis
+-Plant Proteins (-genetics; -metabolism)
+-Seeds (+genetics; -growth & development)
+-Sequence Analysis, DNA
+-Transcription Factors (-genetics; +metabolism)
+
+pii:1471-2164-10-256
+doi:10.1186/1471-2164-10-256
+pubmed:19490642
+pmc:PMC2702316
+

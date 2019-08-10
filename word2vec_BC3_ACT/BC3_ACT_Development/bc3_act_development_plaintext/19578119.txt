@@ -1,0 +1,34 @@
+J. Biol. Chem.
+
+The direct binding of insulin-like growth factor-1 (IGF-1) to integrin alphavbeta3 is involved in IGF-1 signaling.
+
+J Saegusa, S Yamaji, K Ieguchi, CY Wu, KS Lam, FT Liu, YK Takada, Y Takada
+
+It has been proposed that ligand occupancy of integrin alphavbeta3 with extracellular matrix ligands (e.g. vitronectin) plays a critical role in insulin-like growth factor-1 (IGF-1) signaling. We found that expression of alphavbeta3 enhanced IGF-1-induced proliferation of Chinese hamster ovary cells in serum-free conditions (in the absence of vitronectin). We hypothesized that the direct integrin binding to IGF-1 may play a role in IGF-1 signaling. We demonstrated that alphavbeta3 specifically and directly bound to IGF-1 in cell adhesion, enzyme-linked immunosorbent assay-type binding, and surface plasmon resonance studies. We localized the amino acid residues of IGF-1 that are critical for integrin binding by docking simulation and mutagenesis. We found that mutating two Arg residues at positions 36 and 37 in the C-domain of IGF-1 to Glu (the R36E/R37E mutation) effectively reduced integrin binding. Interestingly, although the mutant still bound to IGF1R, it was defective in inducing IGF1R phosphorylation, AKT and ERK1/2 activation, and cell proliferation. Furthermore wild type IGF-1 mediated co-precipitation of alphavbeta3 and IGF1R, whereas the R36E/R37E mutant did not, suggesting that IGF-1 mediates the interaction between alphavbeta3 and IGF1R. These results suggest that the direct binding to IGF-1 to integrin alphavbeta3 plays a role in IGF-1 signaling through ternary complex formation (alphavbeta3-IGF-IGF1R), and integrin-IGF-1 interaction is a novel target for drug discovery.
+
+-Amino Acid Substitution
+-Animals
+-CHO Cells
++Cell Proliferation
+-Cricetinae
+-Cricetulus
+-Enzyme Activation (-physiology)
+-Humans
+-Insulin-Like Growth Factor I (-genetics; +metabolism)
+-Integrin alphaVbeta3 (-genetics; +metabolism)
+-Mice
+-Mitogen-Activated Protein Kinase 1 (-genetics; -metabolism)
+-Mitogen-Activated Protein Kinase 3 (-genetics; -metabolism)
+-Mutation
+-Mutation, Missense
+-NIH 3T3 Cells
+-Protein Binding (-physiology)
+-Proto-Oncogene Proteins c-akt (-genetics; -metabolism)
+-Receptor, IGF Type 1 (-genetics; +metabolism)
+-Signal Transduction (+physiology)
+
+pii:M109.013201
+doi:10.1074/jbc.M109.013201
+pubmed:19578119
+pmc:PMC2782004
+

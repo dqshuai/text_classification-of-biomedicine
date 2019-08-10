@@ -1,0 +1,25 @@
+EMBO Rep.
+
+RNA pol II subunit RPB7 is required for RNA pol I-mediated transcription in Trypanosoma brucei.
+
+X Peñate, D López-Farfán, D Landeira, A Wentland, I Vidal, M Navarro
+
+In the protozoan parasite Trypanosoma brucei, the two main surface glycoprotein genes are transcribed by RNA polymerase I (pol I) instead of RNA pol II, the polymerase committed to the production of mRNA in eukaryotes. This unusual feature might be accomplished by the recruitment of specific subunits or cofactors that allow pol I to transcribe protein-coding RNAs. Here, we report that transcription mediated by pol I requires TbRPB7, a dissociable subunit of the pol II complex. TbRPB7 was found to interact with two pol I-specific subunits, TbRPA1 and TbRPB6z. Pol I-specific transcription was affected on depletion of TbRPB7 in run-on assays, whereas recombinant TbRPB7 increased transcription driven by a pol I promoter. These results represent a unique example of a functional RNA polymerase chimaera consisting of a core pol I complex that recruits a specific pol II subunit.
+
+-Animals
+-Cell Nucleus (-metabolism)
+-Genes, Reporter
+-Protein Subunits (-genetics; +metabolism)
+-Protozoan Proteins (-genetics; +metabolism)
+-RNA Interference
+-RNA Polymerase I (-genetics; +metabolism)
+-RNA Polymerase II (-chemistry; -genetics; +metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
++Transcription, Genetic
+-Trypanosoma brucei brucei (-cytology; +enzymology; -genetics)
+
+pii:embor2008244
+doi:10.1038/embor.2008.244
+pubmed:19165144
+pmc:PMC2658562
+

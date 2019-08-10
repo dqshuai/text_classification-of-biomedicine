@@ -1,0 +1,21 @@
+BMC Genomics
+
+Stretches of alternating pyrimidine/purines and purines are respectively linked with pathogenicity and growth temperature in prokaryotes.
+
+J Bohlin, SP Hardy, DW Ussery
+
+BACKGROUND: The genomic fractions of purine (RR) and alternating pyrimidine/purine (YR) stretches of 10 base pairs or more, have been linked to genomic AT content, the formation of different DNA helices, strand-biased gene distribution, DNA structure, and more. Although some of these factors are a consequence of the chemical properties of purines and pyrimidines, a thorough statistical examination of the distributions of YR/RR stretches in sequenced prokaryotic chromosomes has to the best of our knowledge, not been undertaken. The aim of this study is to expand upon previous research by using regression analysis to investigate how AT content, habitat, growth temperature, pathogenicity, phyla, oxygen requirement and halotolerance correlated with the distribution of RR and YR stretches in prokaryotes. RESULTS: Our results indicate that RR and YR-stretches are differently distributed in prokaryotic phyla. RR stretches are overrepresented in all phyla except for the Actinobacteria and beta-Proteobacteria. In contrast, YR tracts are underrepresented in all phyla except for the beta-Proteobacterial group. YR-stretches are associated with phylum, pathogenicity and habitat, whilst RR-tracts are associated with phylum, AT content, oxygen requirement, growth temperature and halotolerance. All associations described were statistically significant with p < 0.001. CONCLUSION: Analysis of chromosomal distributions of RR/YR sequences in prokaryotes reveals a set of associations with environmental factors not observed with mono- and oligonucleotide frequencies. This implies that important information can be found in the distribution of RR/YR stretches that is more difficult to obtain from genomic mono- and oligonucleotide frequencies. The association between pathogenicity and fractions of YR stretches is assumed to be linked to recombination and horizontal transfer.
+
+-Cell Proliferation
+-Genome
+-Prokaryotic Cells (+chemistry; +cytology)
+-Purines (+chemistry)
+-Pyrimidines (+chemistry)
+-Temperature
+-Xanthomonadaceae (-genetics; -growth & development; -pathogenicity)
+
+pii:1471-2164-10-346
+doi:10.1186/1471-2164-10-346
+pubmed:19646265
+pmc:PMC2728739
+

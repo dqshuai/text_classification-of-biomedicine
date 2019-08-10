@@ -1,0 +1,26 @@
+EMBO J.
+
+Mal connects TLR2 to PI3Kinase activation and phagocyte polarization.
+
+S Santos-Sierra, SD Deshmukh, J Kalnitski, P Küenzi, MP Wymann, DT Golenbock, P Henneke
+
+The recognition of bacterial lipoproteins by toll-like receptor (TLR) 2 is pivotal for inflammation initiation and control in many bacterial infections. TLR2-dependent signalling is currently believed to essentially require both adaptor proteins MyD88 (myeloid differentiation primary response gene 88) and Mal/TIRAP (MyD88-adapter-like/TIR-domain-containing adaptor protein). TLR2-dependent, but MyD88-independent responses have not been described yet. We report here on a novel-signalling pathway downstream of TLR2, which does not adhere to the established model. On stimulation of the TLR2/6 heterodimer with diacylated bacterial lipoproteins, Mal directly interacts with the regulatory subunit of phosphoinositide 3-kinase (PI3K), p85alpha, in an inducible fashion. The Mal-p85alpha interaction drives PI3K-dependent phosphorylation of Akt, phosphatidylinositol(3,4,5)P3 (PIP(3)) generation and macrophage polarization. MyD88 is not essential for PI3K activation and Akt phosphorylation; however, cooperates with Mal for PIP(3) formation and accumulation at the leading edge. In contrast to TLR2/6, TLR2/1 does not require Mal or MyD88 for Akt phosphorylation. Hence, Mal specifically connects TLR2/6 to PI3K activation, PIP(3) generation and macrophage polarization.
+
+-Animals
+-Cell Line
+-Cell Polarity
+-Humans
+-Macrophages (-cytology; +immunology)
+-Membrane Glycoproteins (+metabolism)
+-Mice
+-Myeloid Differentiation Factor 88 (-genetics; -metabolism)
+-Phosphotransferases (Alcohol Group Acceptor) (+metabolism)
+-Receptors, Interleukin-1 (+metabolism)
++Signal Transduction
+-Toll-Like Receptor 2 (-immunology; +metabolism)
+
+pii:emboj2009158
+doi:10.1038/emboj.2009.158
+pubmed:19574958
+pmc:PMC2718282
+

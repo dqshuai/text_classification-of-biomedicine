@@ -1,0 +1,28 @@
+Plant Cell
+
+Cellular pathways regulating responses to compatible and self-incompatible pollen in Brassica and Arabidopsis stigmas intersect at Exo70A1, a putative component of the exocyst complex.
+
+MA Samuel, YT Chong, KE Haasen, MG Aldea-Brydges, SL Stone, DR Goring
+
+In the Brassicaceae, compatible pollen-pistil interactions result in pollen adhesion to the stigma, while pollen grains from unrelated plant species are largely ignored. There can also be an additional layer of recognition to prevent self-fertilization, the self-incompatibility response, whereby self pollen grains are distinguished from nonself pollen grains and rejected. This pathway is activated in the stigma and involves the ARM repeat-containing 1 (ARC1) protein, an E3 ubiquitin ligase. In a screen for ARC1-interacting proteins, we have identified Brassica napus Exo70A1, a putative component of the exocyst complex that is known to regulate polarized secretion. We show through transgenic studies that loss of Exo70A1 in Brassica and Arabidopsis thaliana stigmas leads to the rejection of compatible pollen at the same stage as the self-incompatibility response. A red fluorescent protein:Exo70A1 fusion rescues this stigmatic defect in Arabidopsis and is found to be mobilized to the plasma membrane concomitant with flowers opening. By contrast, increased expression of Exo70A1 in self-incompatible Brassica partially overcomes the self pollen rejection response. Thus, our data show that the Exo70A1 protein functions at the intersection of two cellular pathways, where it is required in the stigma for the acceptance of compatible pollen in both Brassica and Arabidopsis and is negatively regulated by Brassica self-incompatibility.
+
+-Arabidopsis (+genetics; -metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Brassica (+genetics; -metabolism)
+-Cells, Cultured
+-DNA, Bacterial (-genetics)
+-Gene Expression Regulation, Plant
++Inbreeding
+-Molecular Sequence Data
+-Mutagenesis, Insertional
+-Plants, Genetically Modified (-genetics; -metabolism)
+-Pollen (-genetics; +metabolism)
+-RNA Interference
+-Tobacco (-genetics; -metabolism)
+-Two-Hybrid System Techniques
+
+pii:tpc.109.069740
+doi:10.1105/tpc.109.069740
+pubmed:19789280
+pmc:PMC2768929
+

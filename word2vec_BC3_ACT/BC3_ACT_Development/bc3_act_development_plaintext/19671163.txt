@@ -1,0 +1,20 @@
+BMC Bioinformatics
+
+Accurate and fast methods to estimate the population mutation rate from error prone sequences.
+
+B Knudsen, MM Miyamoto
+
+BACKGROUND: The population mutation rate (theta) remains one of the most fundamental parameters in genetics, ecology, and evolutionary biology. However, its accurate estimation can be seriously compromised when working with error prone data such as expressed sequence tags, low coverage draft sequences, and other such unfinished products. This study is premised on the simple idea that a random sequence error due to a chance accident during data collection or recording will be distributed within a population dataset as a singleton (i.e., as a polymorphic site where one sampled sequence exhibits a unique base relative to the common nucleotide of the others). Thus, one can avoid these random errors by ignoring the singletons within a dataset. RESULTS: This strategy is implemented under an infinite sites model that focuses on only the internal branches of the sample genealogy where a shared polymorphism can arise (i.e., a variable site where each alternative base is represented by at least two sequences). This approach is first used to derive independently the same new Watterson and Tajima estimators of theta, as recently reported by Achaz 1 for error prone sequences. It is then used to modify the recent, full, maximum-likelihood model of Knudsen and Miyamoto 2, which incorporates various factors for experimental error and design with those for coalescence and mutation. These new methods are all accurate and fast according to evolutionary simulations and analyses of a real complex population dataset for the California seahare. CONCLUSION: In light of these results, we recommend the use of these three new methods for the determination of theta from error prone sequences. In particular, we advocate the new maximum likelihood model as a starting point for the further development of more complex coalescent/mutation models that also account for experimental error and design.
+
+-Algorithms
+-Computational Biology (+methods)
++Genetics, Population
++Mutation
+-Population Density
+-Sequence Alignment
+
+pii:1471-2105-10-247
+doi:10.1186/1471-2105-10-247
+pubmed:19671163
+pmc:PMC2746815
+

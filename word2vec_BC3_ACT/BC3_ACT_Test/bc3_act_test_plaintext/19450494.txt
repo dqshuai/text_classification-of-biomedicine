@@ -1,0 +1,24 @@
+Biophys. J.
+
+Fruitful and futile encounters along the association reaction between proteins.
+
+M Harel, A Spaar, G Schreiber
+
+The association reaction between pairs of proteins proceeds through an encounter complex that develops into the final complex. Here, we combined Brownian dynamics simulations with experimental studies to analyze the structures of the encounter complexes along the association reaction between TEM1-beta-lactamase and its inhibitor, beta-lactamase-inhibitor protein. The encounter complex can be considered as an ensemble of short-lived low free-energy states that are stabilized primarily by electrostatic forces and desolvation. For the wild-type, the simulation showed two main encounter regions located outside the physical binding site. One of these regions was located near the experimentally determined transition state. To validate whether these encounters are fruitful or futile, we examined three groups of mutations that altered the encounter. The first group consisted of mutations that increased the experimental rate of association through electrostatic optimization. This resulted in an increase in the size of the encounter region located near the experimentally determined transition state, as well as a decrease in the energy of this region and an increase in the number of successful trajectories (i.e., encounters that develop into complex). A second group of mutations was specifically designed to either increase or decrease the size and energy of the second encounter complex, but either way it did not affect k(on). A third group of mutations consisted of residues that increased k(on) without significantly affecting the encounter complexes. These results indicate that the size and energy of the encounter regions are only two of several parameters that lead to fruitful association, and that electrostatic optimization is a major driving force in fast association.
+
+-Binding Sites
+-Enzyme Inhibitors (-chemistry; +metabolism; -pharmacology)
+-Kinetics
++Models, Molecular
+-Mutation
+-Protein Binding
+-Protein Conformation
+-Static Electricity
+-Thermodynamics
+-beta-Lactamases (-antagonists & inhibitors; -chemistry; -genetics; +metabolism)
+
+pii:S0006-3495(09)00669-9
+doi:10.1016/j.bpj.2009.02.054
+pubmed:19450494
+pmc:PMC2712199
+

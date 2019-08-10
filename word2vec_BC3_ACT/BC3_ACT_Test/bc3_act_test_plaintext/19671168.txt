@@ -1,0 +1,28 @@
+BMC Cancer
+
+Identification of target genes of transcription factor activator protein 2 gamma in breast cancer cells.
+
+H Ailan, X Xiangwen, R Daolong, G Lu, D Xiaofeng, Q Xi, H Xingwang, L Rushi, Z Jian, X Shuanglin
+
+BACKGROUND: Activator protein 2 gamma (AP-2gamma) is a member of the transcription factor activator protein-2 (AP-2) family, which is developmentally regulated and plays a role in human neoplasia. AP-2gamma has been found to be overexpressed in most breast cancers, and have a dual role to inhibit tumor initiation and promote tumor progression afterwards during mammary tumorigensis. METHODS: To identify the gene targets that mediate its effects, we performed chromatin immunoprecipitation (ChIP) to isolate AP-2gamma binding sites on genomic DNA from human breast cancer cell line MDA-MB-453. RESULTS: 20 novel DNA fragments proximal to potential AP-2gamma targets were obtained. They are categorized into functional groups of carcinogenesis, metabolism and others. A combination of sequence analysis, reporter gene assays, quantitative real-time PCR, electrophoretic gel mobility shift assays and immunoblot analysis further confirmed the four AP-2gamma target genes in carcinogenesis group: ErbB2, CDH2, HPSE and IGSF11. Our results were consistent with the previous reports that ErbB2 was the target gene of AP-2gamma. Decreased expression and overexpression of AP-2gamma in human breast cancer cells significantly altered the expression of these four genes, indicating that AP-2gamma directly regulates them. CONCLUSION: This suggested that AP-2gamma can coordinate the expression of a network of genes, involving in carcinogenesis, especially in breast cancer. They could serve as therapeutic targets against breast cancers in the future.
+
+-Antigens, CD (-chemistry; -genetics)
+-Base Sequence
+-Binding Sites
+-Breast Neoplasms (+genetics; +metabolism)
+-Cadherins (-chemistry; -genetics)
+-Cell Adhesion Molecules (-chemistry; -genetics)
+-Cell Line, Tumor
++Gene Expression Regulation
+-Glucuronidase (-chemistry; -genetics)
+-Humans
+-Immunoglobulins (-chemistry; -genetics)
+-Molecular Sequence Data
+-Protein Binding
+-Receptor, erbB-2 (-chemistry; -genetics)
+-Transcription Factor AP-2 (-genetics; +metabolism)
+
+pii:1471-2407-9-279
+doi:10.1186/1471-2407-9-279
+pubmed:19671168
+

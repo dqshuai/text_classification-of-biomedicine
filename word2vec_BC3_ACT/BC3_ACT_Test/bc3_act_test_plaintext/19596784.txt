@@ -1,0 +1,32 @@
+Mol. Cell. Biol.
+
+Arginine methylation regulates telomere length and stability.
+
+TR Mitchell, K Glenfield, K Jeyanthan, XD Zhu
+
+TRF2, a component of the shelterin complex, functions to protect telomeres. TRF2 contains an N-terminal basic domain rich in glycines and arginines, similar to the GAR motif that is methylated by protein arginine methyltransferases. However, whether arginine methylation regulates TRF2 function has not been determined. Here we report that amino acid substitutions of arginines with lysines in the basic domain of TRF2 induce telomere dysfunction-induced focus formation, leading to induction of cellular senescence. We have demonstrated that cells overexpressing TRF2 lysine mutants accumulate telomere doublets, indicative of telomere instability. We uncovered that TRF2 interacts with PRMT1, and its arginines in the basic domain undergo PRMT1-mediated methylation both in vitro and in vivo. We have shown that loss of PRMT1 induces growth arrest in normal human cells but has no effect on cell proliferation in cancer cells, suggesting that PRMT1 may control cell proliferation in a cell type-specific manner. We found that depletion of PRMT1 in normal human cells results in accumulation of telomere doublets, indistinguishable from overexpression of TRF2 lysine mutants. PRMT1 knockdown in cancer cells upregulates TRF2 association with telomeres, promoting telomere shortening. Taken together, these results suggest that PRMT1 may control telomere length and stability in part through TRF2 methylation.
+
+-Amino Acid Sequence
+-Amino Acid Substitution (-genetics)
+-Arginine (+metabolism)
+-Cell Aging
+-Cell Line
+-Cell Proliferation
+-Chromatin Immunoprecipitation
+-Humans
+-Methylation
+-Molecular Sequence Data
+-Neoplasms (-enzymology; -pathology)
+-Protein Binding
+-Protein Structure, Tertiary
+-Protein-Arginine N-Methyltransferases (-deficiency; -metabolism)
+-Repressor Proteins (-metabolism)
+-Structure-Activity Relationship
+-Telomere (+metabolism)
+-Telomeric Repeat Binding Protein 2 (-chemistry; -metabolism)
+
+pii:MCB.00009-09
+doi:10.1128/MCB.00009-09
+pubmed:19596784
+pmc:PMC2738278
+

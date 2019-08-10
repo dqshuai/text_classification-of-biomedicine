@@ -1,0 +1,27 @@
+J. Biol. Chem.
+
+Regulation of Na,K-ATPase subunit abundance by translational repression.
+
+RJ Clifford, JH Kaplan
+
+The Na,K-ATPase is an alphabeta heterodimer responsible for maintaining fluid and electrolyte homeostasis in mammalian cells. We engineered Madin-Darby canine kidney cell lines expressing alpha(1)FLAG, beta(1)FLAG, or beta(2)MYC subunits via a tetracycline-regulated promoter and a line expressing both stable beta(1)MYC and tetracycline-regulated beta(1)FLAG to examine regulatory mechanisms of sodium pump subunit expression. When overexpression of exogenous beta(1)FLAG increased total beta subunit levels by >200% without changes in alpha subunit abundance, endogenous beta(1) subunit (beta(1)E) abundance decreased. beta(1)E down-regulation did not occur during beta(2)MYC overexpression, indicating isoform specificity of the repression mechanism. Measurements of RNA stability and content indicated that decreased beta subunit expression was not accompanied by any change in mRNA levels. In addition, the degradation rate of beta subunits was not altered by beta(1)FLAG overexpression. Cells stably expressing beta(1)MYC, when induced to express beta(1)FLAG subunits, showed reduced beta(1)MYC and beta(1)E subunit abundance, indicating that these effects occur via the coding sequences of the down-regulated polypeptides. In a similar way, Madin-Darby canine kidney cells overexpressing exogenous alpha(1)FLAG subunits exhibited a reduction of endogenous alpha(1) subunits (alpha(1)E) with no change in alpha mRNA levels or beta subunits. The reduction in alpha(1)E compensated for alpha(1)FLAG subunit expression, resulting in unchanged total alpha subunit abundance. Thus, regulation of alpha subunit expression maintained its native level, whereas beta subunit was not as tightly regulated and its abundance could increase substantially over native levels. These effects also occurred in human embryonic kidney cells. These data are the first indication that cellular sodium pump subunit abundance is modulated by translational repression. This mechanism represents a novel, potentially important mechanism for regulation of Na,K-ATPase expression.
+
+-Animals
+-Blotting, Western
+-Cell Line
+-Dogs
++Gene Expression Regulation, Enzymologic
+-Humans
+-Immunoprecipitation
+-Isoenzymes (-genetics; -metabolism)
+-Polymerase Chain Reaction
+-Protein Biosynthesis (-genetics; -physiology)
+-Protein Subunits (-genetics; +metabolism)
+-RNA Stability
+-Sodium-Potassium-Exchanging ATPase (-genetics; +metabolism)
+
+pii:M109.030536
+doi:10.1074/jbc.M109.030536
+pubmed:19553675
+pmc:PMC2755698
+

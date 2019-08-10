@@ -1,0 +1,31 @@
+J. Biol. Chem.
+
+Polo-like kinase 1 (PLK1) regulates interferon (IFN) induction by MAVS.
+
+D Vitour, S Dabo, M Ahmadi Pour, M Vilasco, PO Vidalain, Y Jacob, M Mezel-Lemoine, S Paz, M Arguello, R Lin, F Tangy, J Hiscott, EF Meurs
+
+The mitochondria-bound adapter MAVS participates in IFN induction by recruitment of downstream partners such as members of the TRAF family, leading to activation of NF-kappaB, and the IRF3 pathways. A yeast two-hybrid search for MAVS-interacting proteins yielded the Polo-box domain (PBD) of the mitotic Polo-like kinase PLK1. We showed that PBD associates with two different domains of MAVS in both dependent and independent phosphorylation events. The phosphodependent association requires the phosphopeptide binding ability of PBD. It takes place downstream of the proline-rich domain of MAVS, within an STP motif, characteristic of the binding of PLK1 to its targets, where the central Thr234 residue is phosphorylated. Its phosphoindependent association takes place at the C terminus of MAVS. PLK1 strongly inhibits the ability of MAVS to activate the IRF3 and NF-kappaB pathways and to induce IFN. Reciprocally, depletion of PLK1 can increase IFN induction in response to RIG-I/SeV or RIG-I/poly(I)-poly(C) treatments. This inhibition is dependent on the phosphoindependent association of PBD at the C terminus of MAVS where it disrupts the association of MAVS with its downstream partner TRAF3. IFN induction was strongly inhibited in cells arrested in G2/M by nocodazole, which provokes increased expression of endogenous PLK1. Interestingly, depletion of PLK1 from these nocodazole-treated cells could restore, at least partially, IFN induction. Altogether, these data demonstrate a new function for PLK1 as a regulator of IFN induction and provide the basis for the development of inhibitors preventing the PLK1/MAVS association to sustain innate immunity.
+
+-Adaptor Proteins, Signal Transducing (+metabolism)
+-Cell Cycle Proteins (+metabolism)
+-Cell Line, Tumor
+-Hela Cells
+-Humans
+-Interferons (+metabolism)
+-Models, Biological
+-NF-kappa B (-metabolism)
+-Nocodazole (-pharmacology)
+-Phosphopeptides (-chemistry)
+-Phosphorylation
+-Proline (-chemistry)
+-Protein Structure, Tertiary
+-Protein-Serine-Threonine Kinases (+metabolism)
+-Proto-Oncogene Proteins (+metabolism)
+-Threonine (-chemistry)
+-Two-Hybrid System Techniques
+
+pii:M109.018275
+doi:10.1074/jbc.M109.018275
+pubmed:19546225
+pmc:PMC2755906
+

@@ -1,0 +1,27 @@
+J. Biol. Chem.
+
+Degradation of sterol regulatory element-binding protein precursor requires the endoplasmic reticulum-associated degradation components Ubc7 and Hrd1 in fission yeast.
+
+BT Hughes, CC Nwosu, PJ Espenshade
+
+Sre1, the fission yeast sterol regulatory element-binding protein (SREBP), is an endoplasmic reticulum (ER) membrane-bound transcription factor that is a principal regulator of hypoxic gene expression. Under low oxygen, Sre1 is cleaved from its inactive ER precursor form to generate an active nuclear transcription factor that up-regulates genes required for low oxygen growth. To maintain a constant supply of Sre1, Sre1 precursor synthesis must be regulated to replenish Sre1 precursor lost to proteolytic cleavage under low oxygen. In this study, we investigated the mechanisms controlling Sre1 precursor levels. We found that positive feedback regulation at the sre1(+) promoter increases the synthesis of the Sre1 precursor under low oxygen and that this regulation is required for maximal Sre1 activation and target gene expression. We also demonstrate that the Sre1 precursor is rapidly degraded by the proteasome in the absence of its binding partner Scp1, which is required for oxygen-regulated Sre1 cleavage. Degradation of Sre1 in the absence of Scp1 requires the ER-associated degradation (ERAD) components Ubc7, an E2 ubiquitin conjugating enzyme, and Hrd1, an E3 ubiquitin ligase. We conclude that positive feedback regulation to up-regulate Sre1 precursor synthesis under low oxygen is essential for Sre1 function and propose that excess Sre1 precursor is removed by ERAD to ensure complex formation between Sre1 and its binding partner Scp1. Thus, Sre1 is a new example of an endogenous ERAD substrate, establishing fission yeast as an organism for the study of this important degradative pathway.
+
+-Endoplasmic Reticulum (+enzymology)
+-Feedback, Physiological
+-Microfilament Proteins (-metabolism)
+-Promoter Regions, Genetic (-genetics)
+-Proteasome Endopeptidase Complex (-metabolism)
+-Protein Precursors (+metabolism)
++Protein Processing, Post-Translational
+-Protein Stability
+-Schizosaccharomyces (-cytology; +enzymology; -growth & development)
+-Schizosaccharomyces pombe Proteins (-genetics; +metabolism)
+-Sterol Regulatory Element Binding Proteins (-metabolism)
+-Ubiquitin-Conjugating Enzymes (+metabolism)
+-Ubiquitin-Protein Ligases (+metabolism)
+
+pii:M109.002436
+doi:10.1074/jbc.M109.002436
+pubmed:19520858
+pmc:PMC2742815
+

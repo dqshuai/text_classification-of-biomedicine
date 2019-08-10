@@ -1,0 +1,29 @@
+J. Immunol.
+
+CXCR2-dependent mucosal neutrophil influx protects against colitis-associated diarrhea caused by an attaching/effacing lesion-forming bacterial pathogen.
+
+ME Spehlmann, SM Dann, P Hruz, E Hanson, DF McCole, L Eckmann
+
+Enteropathogenic Escherichia coli (EPEC) is a major cause of diarrheal disease in young children, yet symptoms and duration are highly variable for unknown reasons. Citrobacter rodentium, a murine model pathogen that shares important functional features with EPEC, colonizes mice in colon and cecum and causes inflammation, but typically little or no diarrhea. We conducted genome-wide microarray studies to define mechanisms of host defense and disease in C. rodentium infection. A significant fraction of the genes most highly induced in the colon by infection encoded CXC chemokines, particularly CXCL1/2/5 and CXCL9/10, which are ligands for the chemokine receptors CXCR2 and CXCR3, respectively. CD11b(+) dendritic cells were the major producers of CXCL1, CXCL5, and CXCL9, while CXCL2 was mainly induced in macrophages. Infection of gene-targeted mice revealed that CXCR3 had a significant but modest role in defense against C. rodentium, whereas CXCR2 had a major and indispensable function. CXCR2 was required for normal mucosal influx of neutrophils, which act as direct antibacterial effectors. Moreover, CXCR2 loss led to severe diarrhea and failure to express critical components of normal ion and fluid transport, including ATPase beta(2)-subunit, CFTR, and DRA. The antidiarrheal functions were unique to CXCR2, since other immune defects leading to increased bacterial load and inflammation did not cause diarrhea. Thus, CXCR2-dependent processes, particularly mucosal neutrophil influx, not only contribute to host defense against C. rodentium, but provide protection against infection-associated diarrhea.
+
+-Animals
+-Bacterial Adhesion (+immunology)
+-Citrobacter rodentium (-immunology; +pathogenicity)
+-Colitis (+immunology; -microbiology; -prevention & control)
+-Diarrhea (+immunology; -microbiology; +prevention & control)
+-Enterobacteriaceae Infections (-genetics; -immunology; -microbiology)
+-Female
+-Gene Expression Profiling
+-Intestinal Mucosa (+immunology; -metabolism; -microbiology)
+-Male
+-Mice
+-Mice, Inbred C57BL
+-Mice, Knockout
+-Neutrophil Infiltration (-genetics; +immunology)
+-Receptors, CXCR3 (-deficiency; -genetics)
+-Receptors, Interleukin-8B (-biosynthesis; -deficiency; -genetics; +physiology)
+
+pii:jimmunol.0900600
+doi:10.4049/jimmunol.0900600
+pubmed:19675161
+

@@ -1,0 +1,24 @@
+Nucleic Acids Res.
+
+MolLoc: a web tool for the local structural alignment of molecular surfaces.
+
+S Angaran, ME Bock, C Garutti, C Guerra
+
+MolLoc stands for Molecular Local surface comparison, and is a web server for the structural comparison of molecular surfaces. Given two structures in PDB format, the user can compare their binding sites, cavities or any arbitrary residue selection. Moreover, the web server allows the comparison of a query structure with a list of structures. Each comparison produces a structural alignment that maximizes the extension of the superimposition of the surfaces, and returns the pairs of atoms with similar physicochemical properties that are close in space after the superimposition. Based on this subset of atoms sharing similar physicochemical properties a new rototranslation is derived that best superimposes them. MolLoc approach is both local and surface-oriented, and therefore it can be particularly useful when testing if molecules with different sequences and folds share any local surface similarity. The MolLoc web server is available at http://bcb.dei.unipd.it/MolLoc.
+
+-Binding Sites
+-DNA (-chemistry)
+-Internet
+-Models, Molecular
+-Nucleic Acid Conformation
+-Proteins (-chemistry)
+-RNA (-chemistry)
++Software
++Structural Homology, Protein
+-User-Computer Interface
+
+pii:gkp405
+doi:10.1093/nar/gkp405
+pubmed:19465382
+pmc:PMC2703929
+

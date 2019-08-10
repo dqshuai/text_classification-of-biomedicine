@@ -1,0 +1,31 @@
+Genes Dev.
+
+The SESA network links duplication of the yeast centrosome with the protein translation machinery.
+
+B Sezen, M Seedorf, E Schiebel
+
+The yeast spindle pole body (SPB), the functional equivalent of mammalian centrosome, duplicates in G1/S phase of the cell cycle and then becomes inserted into the nuclear envelope. Here we describe a link between SPB duplication and targeted translation control. When insertion of the newly formed SPB into the nuclear envelope fails, the SESA network comprising the GYF domain protein Smy2, the translation inhibitor Eap1, the mRNA-binding protein Scp160 and the Asc1 protein, specifically inhibits initiation of translation of POM34 mRNA that encodes an integral membrane protein of the nuclear pore complex, while having no impact on other mRNAs. In response to SESA, POM34 mRNA accumulates in the cytoplasm and is not targeted to the ER for cotranslational translocation of the protein. Reduced level of Pom34 is sufficient to restore viability of mutants with defects in SPB duplication. We suggest that the SESA network provides a mechanism by which cells can regulate the translation of specific mRNAs. This regulation is used to coordinate competing events in the nuclear envelope.
+
+-Adaptor Proteins, Signal Transducing (-genetics; -metabolism)
+-Centrosome (+metabolism)
+-Down-Regulation
+-Eukaryotic Initiation Factor-4E (-genetics; -metabolism)
+-GTP-Binding Proteins (-genetics; -metabolism)
++Gene Duplication
++Gene Expression Regulation, Fungal
+-Membrane Proteins (-genetics; -metabolism)
+-Nuclear Pore Complex Proteins (-metabolism)
+-Nuclear Proteins (-genetics; -metabolism)
+-Peptide Initiation Factors (-genetics; -metabolism)
+-Protein Transport (-physiology)
+-RNA, Fungal (-metabolism)
+-RNA-Binding Proteins (-genetics; -metabolism)
+-Saccharomyces cerevisiae (+genetics; +metabolism)
++Saccharomyces cerevisiae Proteins (-genetics; -metabolism)
+-Vesicular Transport Proteins (-genetics; -metabolism)
+
+pii:23/13/1559
+doi:10.1101/gad.524209
+pubmed:19571182
+pmc:PMC2704472
+

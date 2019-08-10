@@ -1,0 +1,33 @@
+Mol. Biol. Cell
+
+Rec8 guides canonical Spo11 distribution along yeast meiotic chromosomes.
+
+K Kugou, T Fukuda, S Yamada, M Ito, H Sasanuma, S Mori, Y Katou, T Itoh, K Matsumoto, T Shibata, K Shirahige, K Ohta
+
+Spo11-mediated DNA double-strand breaks (DSBs) that initiate meiotic recombination are temporally and spatially controlled. The meiotic cohesin Rec8 has been implicated in regulating DSB formation, but little is known about the features of their interplay. To elucidate this point, we investigated the genome-wide localization of Spo11 in budding yeast during early meiosis by chromatin immunoprecipitation using high-density tiling arrays. We found that Spo11 is dynamically localized to meiotic chromosomes. Spo11 initially accumulated around centromeres and thereafter localized to arm regions as premeiotic S phase proceeded. During this stage, a substantial proportion of Spo11 bound to Rec8 binding sites. Eventually, some of Spo11 further bound to both DSB and Rec8 sites. We also showed that such a change in a distribution of Spo11 is affected by hydroxyurea treatment. Interestingly, deletion of REC8 influences the localization of Spo11 to centromeres and in some of the intervals of the chromosomal arms. Thus, we observed a lack of DSB formation in a region-specific manner. These observations suggest that Rec8 would prearrange the distribution of Spo11 along chromosomes and will provide clues to understanding temporal and spatial regulation of DSB formation.
+
+-Binding Sites
+-Chromatin Immunoprecipitation
+-Chromosomal Proteins, Non-Histone (-genetics; +metabolism)
+-Chromosome Mapping
+-Chromosomes, Fungal (+genetics)
+-DNA Breaks, Double-Stranded
+-DNA Replication (-drug effects)
+-DNA Topoisomerases, Type II, Eukaryotic (-genetics; +metabolism)
+-DNA, Fungal (-genetics)
+-Endodeoxyribonucleases (-genetics; -metabolism)
+-Exodeoxyribonucleases (-genetics; -metabolism)
+-Hydroxyurea (-pharmacology)
+-Meiosis (-genetics)
+-Mutation
+-Protein Binding
+-S Phase (-genetics)
+-Saccharomyces cerevisiae (-genetics; +metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Time Factors
+
+pii:E08-12-1223
+doi:10.1091/mbc.E08-12-1223
+pubmed:19439448
+pmc:PMC2704158
+

@@ -1,0 +1,26 @@
+EMBO Rep.
+
+Structural basis for the nuclease activity of a bacteriophage large terminase.
+
+C Smits, M Chechik, OV Kovalevskiy, MB Shevtsov, AW Foster, JC Alonso, AA Antson
+
+The DNA-packaging motor in tailed bacteriophages requires nuclease activity to ensure that the genome is packaged correctly. This nuclease activity is tightly regulated as the enzyme is inactive for the duration of DNA translocation. Here, we report the X-ray structure of the large terminase nuclease domain from bacteriophage SPP1. Similarity with the RNase H family endonucleases allowed interactions with the DNA to be predicted. A structure-based alignment with the distantly related T4 gp17 terminase shows the conservation of an extended beta-sheet and an auxiliary beta-hairpin that are not found in other RNase H family proteins. The model with DNA suggests that the beta-hairpin partly blocks the active site, and in vivo activity assays show that the nuclease domain is not functional in the absence of the ATPase domain. Here, we propose that the nuclease activity is regulated by movement of the beta-hairpin, altering active site access and the orientation of catalytically essential residues.
+
+-Adenosine Triphosphatases (+chemistry; +metabolism)
+-Amino Acid Sequence
+-Biocatalysis
+-Catalytic Domain
+-DNA Mutational Analysis
+-Endodeoxyribonucleases (+chemistry; +metabolism)
+-Metals (-metabolism)
+-Molecular Sequence Data
+-Protein Structure, Secondary
+-Protein Structure, Tertiary
+-Sequence Homology, Amino Acid
+-Viral Proteins (-chemistry)
+
+pii:embor200953
+doi:10.1038/embor.2009.53
+pubmed:19444313
+pmc:PMC2685612
+

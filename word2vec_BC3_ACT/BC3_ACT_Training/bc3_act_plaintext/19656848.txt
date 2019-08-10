@@ -1,0 +1,29 @@
+Mol. Biol. Cell
+
+mTrs130 is a component of a mammalian TRAPPII complex, a Rab1 GEF that binds to COPI-coated vesicles.
+
+A Yamasaki, S Menon, S Yu, J Barrowman, T Meerloo, V Oorschot, J Klumperman, A Satoh, S Ferro-Novick
+
+The GTPase Rab1 regulates endoplasmic reticulum-Golgi and early Golgi traffic. The guanine nucleotide exchange factor (GEF) or factors that activate Rab1 at these stages of the secretory pathway are currently unknown. Trs130p is a subunit of the yeast TRAPPII (transport protein particle II) complex, a multisubunit tethering complex that is a GEF for the Rab1 homologue Ypt1p. Here, we show that mammalian Trs130 (mTrs130) is a component of an analogous TRAPP complex in mammalian cells, and we describe for the first time the role that this complex plays in membrane traffic. mTRAPPII is enriched on COPI (Coat Protein I)-coated vesicles and buds, but not Golgi cisternae, and it specifically activates Rab1. In addition, we find that mTRAPPII binds to gamma1COP, a COPI coat adaptor subunit. The depletion of mTrs130 by short hairpin RNA leads to an increase of vesicles in the vicinity of the Golgi and the accumulation of cargo in an early Golgi compartment. We propose that mTRAPPII is a Rab1 GEF that tethers COPI-coated vesicles to early Golgi membranes.
+
+-Animals
+-COP-Coated Vesicles (+metabolism)
+-COS Cells
+-Cercopithecus aethiops
+-Coat Protein Complex I (-genetics; +metabolism)
+-Cytosol (-metabolism; -ultrastructure)
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Guanine Nucleotide Exchange Factors (-genetics; -metabolism)
+-Mice
+-Microscopy, Electron
+-Microscopy, Fluorescence
+-NIH 3T3 Cells
+-RNA Interference
+-Vesicular Transport Proteins (-genetics; +metabolism)
+-rab1 GTP-Binding Proteins (-genetics; +metabolism)
+
+pii:E09-05-0387
+doi:10.1091/mbc.E09-05-0387
+pubmed:19656848
+pmc:PMC2754934
+

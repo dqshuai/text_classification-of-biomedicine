@@ -1,0 +1,25 @@
+Structure
+
+Structural dynamics of an isolated voltage-sensor domain in a lipid bilayer.
+
+S Chakrapani, LG Cuello, DM Cortes, E Perozo
+
+A strong interplay between the voltage-sensor domain (VSD) and the pore domain (PD) underlies voltage-gated channel functions. In a few voltage-sensitive proteins, the VSD has been shown to function without a canonical PD, although its structure and oligomeric state remain unknown. Here, using EPR spectroscopy, we show that the isolated VSD of KvAP can remain monomeric in a reconstituted bilayer and retain a transmembrane conformation. We find that water-filled crevices extending deep into the membrane around S3, a scaffold conducive to transport of protons/cations, are intrinsic to the VSD. Differences in solvent accessibility in comparison to the full-length KvAP allowed us to define an interacting footprint of the PD on the VSD. This interaction is centered around S1 and S2 and suggests a rotation of 70 degrees -100 degrees relative to Kv1.2-Kv2.1 chimera. Sequence-conservation patterns in Kv channels, Hv channels, and voltage-sensitive phosphatases reveal several near-universal features suggesting a common molecular architecture for all VSDs.
+
+-Amino Acid Sequence
+-Ion Channel Gating (+physiology)
+-Kv1.2 Potassium Channel (-chemistry)
+-Lipid Bilayers (+metabolism)
+-Models, Biological
+-Models, Molecular
+-Molecular Sequence Data
+-Potassium Channels, Voltage-Gated (+chemistry; -isolation & purification; -metabolism)
+-Protein Structure, Tertiary
+-Sequence Homology, Amino Acid
+
+pii:S0969-2126(08)00021-X
+doi:10.1016/j.str.2007.12.015
+pubmed:18334215
+mid:NIHMS42949
+pmc:PMC2703488
+

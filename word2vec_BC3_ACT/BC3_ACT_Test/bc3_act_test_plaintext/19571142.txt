@@ -1,0 +1,34 @@
+J. Neurosci.
+
+Bistability and non-Gaussian fluctuations in spontaneous cortical activity.
+
+F Freyer, K Aquino, PA Robinson, P Ritter, M Breakspear
+
+The brain is widely assumed to be a paradigmatic example of a complex, self-organizing system. As such, it should exhibit the classic hallmarks of nonlinearity, multistability, and "nondiffusivity" (large coherent fluctuations). Surprisingly, at least at the very large scale of neocortical dynamics, there is little empirical evidence to support this, and hence most computational and methodological frameworks for healthy brain activity have proceeded very reasonably from a purely linear and diffusive perspective. By studying the temporal fluctuations of power in human resting-state electroencephalograms, we show that, although these simple properties may hold true at some temporal scales, there is strong evidence for bistability and nondiffusivity in key brain rhythms. Bistability is manifest as nonclassic bursting between high- and low-amplitude modes in the alpha rhythm. Nondiffusivity is expressed through the irregular appearance of high amplitude "extremal" events in beta rhythm power fluctuations. The statistical robustness of these observations was confirmed through comparison with Gaussian-rendered phase-randomized surrogate data. Although there is a good conceptual framework for understanding bistability in cortical dynamics, the implications of the extremal events challenge existing frameworks for understanding large-scale brain systems.
+
+-Adult
+-Bayes Theorem
++Brain Mapping
+-Cerebral Cortex (-blood supply; +physiology)
++Electroencephalography (-methods)
+-Female
+-Humans
+-Image Processing, Computer-Assisted (-methods)
+-Magnetic Resonance Imaging (-methods)
+-Male
++Models, Neurological
+-Models, Statistical
++Nonlinear Dynamics
+-Normal Distribution
+-Oxygen (-blood)
+-Principal Component Analysis
+-Rest (-physiology)
+-Spectrum Analysis
+-Stochastic Processes
+-Time Factors
+-Young Adult
+
+pii:29/26/8512
+doi:10.1523/JNEUROSCI.0754-09.2009
+pubmed:19571142
+

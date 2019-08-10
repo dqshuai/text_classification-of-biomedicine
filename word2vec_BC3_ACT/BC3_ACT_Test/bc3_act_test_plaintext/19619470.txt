@@ -1,0 +1,27 @@
+Biophys. J.
+
+Roles of boundary conditions in DNA simulations: analysis of ion distributions with the finite-difference Poisson-Boltzmann method.
+
+X Ye, Q Cai, W Yang, R Luo
+
+The wide use of lattice-sum strategies in biomolecular simulations has raised many questions on potential artifacts in these strategies. One interesting question is the artifacts in the counterion distributions of highly charged systems. As one would anticipate, Coulombic interactions under the periodic boundary condition may deviate noticeably from those under the free boundary condition in the highly charged systems, significantly influencing their counterion distributions. On the other hand, the electrostatic screening due to water molecules and mobile ions may effectively damp the possible periodic distortions in Coulombic interactions. Therefore, the magnitude of periodicity-induced artifacts in counterion distributions is not straightforward to dissect without detailed analyses. In this study, we have developed a hybrid explicit counterion/implicit salt representation of mobile ions to address this question. We have chosen a well-studied DNA for easy validation of the minimal hybrid ion representation. Our detailed analysis of continuum ion distributions, explicit ion distributions, radial counterion distribution functions, and sequence-dependent counterion distributions, however, indicates that periodicity artifacts are not apparent at the surface of the tested DNA. Nevertheless, influence of boundary conditions does show up starting at the second solvation shell and becomes apparent at the cell boundary.
+
+-Algorithms
+-Artifacts
+-Base Sequence
+-DNA (+chemistry; -genetics)
+-Linear Models
++Models, Molecular
+-Monte Carlo Method
+-Nucleic Acid Conformation
+-Poisson Distribution
+-Salts (-chemistry)
+-Solutions
+-Solvents (-chemistry)
+-Static Electricity
+
+pii:S0006-3495(09)00973-4
+doi:10.1016/j.bpj.2009.05.012
+pubmed:19619470
+pmc:PMC2711334
+

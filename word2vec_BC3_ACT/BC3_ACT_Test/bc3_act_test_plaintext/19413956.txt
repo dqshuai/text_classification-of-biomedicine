@@ -1,0 +1,26 @@
+Biophys. J.
+
+The "mirror" estimate: an intuitive predictor of membrane polarization during extracellular stimulation.
+
+S Joucla, B Yvert
+
+Achieving controlled extracellular microstimulation of the central nervous system requires understanding the membrane response of a neuron to an applied electric field. The "activating function" has been proposed as an intuitive predictor of membrane polarization during stimulation, but subsequent literature raised several limitations of this estimate. In this study, we show that, depending on the space constant lambda, the steady-state solution to the passive cable equation is theoretically well approximated by either the activating function when lambda is small, or the "mirror" image of the extracellular potential when lambda is large. Using simulations, we then explore the respective domain of both estimates as a function of lambda, stimulus duration, fiber length, and electrode-fiber distance. For realistic lambda (>50-100 microm), the mirror estimate is the best predictor for either long electrode-fiber distances or short distances (<20-30 microm) when stimulus durations exceed a few tens of microseconds. For intermediate distances, the mirror estimate is all the more valid that the stimulus duration is long and the fiber is short. We also illustrate that this estimate correctly predicts the steady-state membrane polarization of complex central nervous system arborizations. In conclusion, the mirror estimate can often be preferred to the activating function to intuitively predict membrane polarization during extracellular stimulation.
+
+-Animals
+-Brain (-cytology; -physiology)
+-Cats
+-Cell Membrane (-physiology)
+-Computer Simulation
+-Electric Stimulation
+-Extracellular Space (-physiology)
+-Membrane Potentials (+physiology)
+-Nerve Fibers, Unmyelinated (+physiology)
+-Neurons (-cytology; +physiology)
+-Software
+-Time Factors
+
+pii:S0006-3495(09)00562-1
+doi:10.1016/j.bpj.2008.12.3961
+pubmed:19413956
+pmc:PMC2711410
+

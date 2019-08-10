@@ -1,0 +1,24 @@
+J. Virol.
+
+Dissecting the unique nucleotide specificity of mimivirus nucleoside diphosphate kinase.
+
+S Jeudy, A Lartigue, JM Claverie, C Abergel
+
+The analysis of the Acanthamoeba polyphaga mimivirus genome revealed the first virus-encoded nucleoside diphosphate kinase (NDK), an enzyme that is central to the synthesis of RNA and DNA, ubiquitous in cellular organisms, and well conserved among the three domains of life. In contrast with the broad specificity of cellular NDKs for all types of ribo- and deoxyribonucleotides, the mimivirus enzyme exhibits a strongly preferential affinity for deoxypyrimidines. In order to elucidate the molecular basis of this unique substrate specificity, we determined the three-dimensional (3D) structure of the Acanthamoeba polyphaga mimivirus NDK alone and in complex with various nucleotides. As predicted from a sequence comparison with cellular NDKs, the 3D structure of the mimivirus enzyme exhibits a shorter Kpn loop, previously recognized as a main feature of the NDK active site. The structure of the viral enzyme in complex with various nucleotides also pinpointed two residue changes, both located near the active site and specific to the viral NDK, which could explain its stronger affinity for deoxynucleotides and pyrimidine nucleotides. The role of these residues was explored by building a set of viral NDK variants, assaying their enzymatic activities, and determining their 3D structures in complex with various nucleotides. A total of 26 crystallographic structures were determined at resolutions ranging from 2.8 A to 1.5 A. Our results suggest that the mimivirus enzyme progressively evolved from an ancestral NDK under the constraints of optimizing its efficiency for the replication of an AT-rich (73%) viral genome in a thymidine-limited host environment.
+
+-Amino Acid Sequence
+-DNA Viruses (-chemistry; +enzymology; -genetics)
+-Evolution, Molecular
+-Molecular Conformation
+-Molecular Sequence Data
+-Nucleoside-Diphosphate Kinase (+chemistry; -genetics; -metabolism)
+-Nucleotides (+metabolism)
+-Sequence Alignment
+-Substrate Specificity
+-Viral Proteins (+chemistry; -genetics; -metabolism)
+
+pii:JVI.00511-09
+doi:10.1128/JVI.00511-09
+pubmed:19439473
+pmc:PMC2704768
+

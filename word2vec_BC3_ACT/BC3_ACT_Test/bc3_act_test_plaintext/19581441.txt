@@ -1,0 +1,24 @@
+Eukaryotic Cell
+
+Role of AP-1 in developmentally regulated lysosomal trafficking in Trypanosoma brucei.
+
+NN Tazeh, JS Silverman, KJ Schwartz, ES Sevova, SS Sutterwala, JD Bangs
+
+African trypanosomes are the causative agents of human trypanosomiasis (sleeping sickness). The pathogenic stage of the parasite has unique adaptations to life in the bloodstream of the mammalian host, including upregulation of endocytic and lysosomal activities. We investigated stage-specific requirements for cytoplasmic adaptor/clathrin machinery in post-Golgi apparatus biosynthetic sorting to the lysosome using RNA interference silencing of the Tbmu1 subunit of adaptor complex 1 (AP-1), in conjunction with immunolocalization, kinetic analyses of reporter transport, and quantitative endocytosis assays. Tbmu1 silencing was lethal in both stages, indicating a critical function(s) for the AP-1 machinery. Transport of soluble and membrane-bound secretory cargoes was Tbmu1 independent in both stages. In procyclic parasites, trafficking of the lysosomal membrane protein, p67, was disrupted, leading to cell surface mislocalization. The lysosomal protease trypanopain was also secreted, suggesting a transmembrane-sorting receptor for this soluble hydrolase. In bloodstream trypanosomes, both p67 and trypanopain trafficking were unaffected by Tbmu1 silencing, suggesting that AP-1 is not necessary for biosynthetic lysosomal trafficking. Endocytosis in bloodstream cells was also unaffected, indicating that AP-1 does not function at the flagellar pocket. These results indicate that post-Golgi apparatus sorting to the lysosome is critically dependent on the AP-1/clathrin machinery in procyclic trypanosomes but that this machinery is not necessary in bloodstream parasites. We propose a simple model for stage-specific default secretory trafficking in trypanosomes that is consistent with the behavior of other soluble and glycosylphosphatidylinositol-anchored cargos and which is influenced by upregulation of endocytosis in bloodstream parasites as an adaptation to life in the mammalian bloodstream.
+
+-Adaptor Protein Complex 1 (-genetics; +metabolism)
+-Animals
+-Gene Silencing
+-Humans
+-Lysosomes (+metabolism; -parasitology)
+-Protein Subunits (-genetics; -metabolism)
+-Protein Transport
+-Protozoan Proteins (-genetics; +metabolism)
+-Trypanosoma brucei brucei (-genetics; +growth & development; +metabolism)
+-Trypanosomiasis, African (+metabolism; -parasitology)
+
+pii:EC.00156-09
+doi:10.1128/EC.00156-09
+pubmed:19581441
+pmc:PMC2747832
+

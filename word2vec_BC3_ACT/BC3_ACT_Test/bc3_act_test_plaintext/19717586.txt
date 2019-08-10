@@ -1,0 +1,25 @@
+J. Bacteriol.
+
+Transcriptional regulation of the Escherichia coli gene rraB, encoding a protein inhibitor of RNase E.
+
+L Zhou, M Zhao, RZ Wolf, DE Graham, G Georgiou
+
+The Escherichia coli RNA degradosome is a protein complex that plays a critical role in the turnover of numerous RNAs. The key component of the degradosome complex is the endoribonuclease RNase E, a multidomain protein composed of an N-terminal catalytic region and a C-terminal region that organizes the other protein components of the degradosome. Previously, the RNase E inhibitors RraA and RraB were identified genetically and shown to bind to the C-terminal region of RNase E, thus affecting both the protein composition of the degradosome and the endonucleolytic activity of RNase E. In the present work, we investigated the transcriptional regulation of rraB. rraB was shown to be transcribed constitutively from its own promoter, PrraB. Transposon mutagenesis and screening for increased beta-galactosidase activity from a chromosomal PrraB-lacZ transcriptional fusion resulted in the isolation of a transposon insertion in glmS, encoding the essential enzyme glucosamine-6-phosphate synthase that catalyzes the first committed step of the uridine 5'-diphospho-N-acetyl-glucosamine (UDP-GlcNAc) pathway, which provides intermediates for peptidoglycan biogenesis. The glmS852::Tn5 allele resulted in an approximately 50% lower intracellular concentration of UDP-GlcNAc and conferred a fivefold increase in the level of rraB mRNA. This allele also mediated a twofold increase in beta-galactosidase activity from a chromosomal fusion of the 5' untranslated region of the rne gene to lacZ, suggesting that a reduction in cellular concentration of UDP-GlcNAc and the resulting increased expression of RraB might modulate the action of RNase E.
+
+-Bacteremia (-genetics)
+-Base Sequence
+-Endoribonucleases (+antagonists & inhibitors; -genetics; -metabolism)
+-Escherichia coli (-genetics; +metabolism)
+-Escherichia coli Proteins (-genetics; +metabolism)
+-Gene Expression Regulation, Bacterial (+physiology)
+-Molecular Sequence Data
+-Mutation
+-Promoter Regions, Genetic
+-Protein Binding
+-Transcription, Genetic (+physiology)
+
+pii:JB.00344-09
+doi:10.1128/JB.00344-09
+pubmed:19717586
+pmc:PMC2795311
+

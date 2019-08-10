@@ -1,0 +1,27 @@
+Mol. Cell. Biol.
+
+miR-22 inhibits estrogen signaling by directly targeting the estrogen receptor alpha mRNA.
+
+DP Pandey, D Picard
+
+Estrogen receptor alpha (ER alpha) is a ligand-regulated transcription factor with a broad range of physiological functions and one of the most important classifiers in breast cancer. MicroRNAs (miRNAs) are small noncoding RNAs that have emerged as important regulators of gene expression in a plethora of physiological and pathological processes. Upon binding the 3' untranslated region (UTR) of target mRNAs, miRNAs typically reduce their stability and/or translation. The ER alpha mRNA has a long 3' UTR of about 4.3 kb which has been reported to reduce mRNA stability and which bears evolutionarily conserved miRNA target sites, suggesting that it might be regulated by miRNAs. We have performed a comprehensive and systematic assessment of the regulatory role of all miRNAs that are predicted to target the 3' UTR of the ER alpha mRNA. We found that miR-22 represses ER alpha expression most strongly and by directly targeting the ER alpha mRNA 3' UTR. Of the three predicted miR-22 target sites in the 3' UTR, the evolutionarily conserved one is the primary target. miR-22 overexpression leads to a reduction of ER alpha levels, at least in part by inducing mRNA degradation, and compromises estrogen signaling, as exemplified by its inhibitory impact on the ER alpha-dependent proliferation of breast cancer cells.
+
+-3' Untranslated Regions
+-Animals
+-Base Sequence
+-Breast Neoplasms (-genetics; -metabolism)
+-Cell Line
++Estrogen Receptor alpha (-genetics; -metabolism)
+-Estrogens (+metabolism)
+-Female
+-Humans
+-MicroRNAs (-genetics; +metabolism)
+-Molecular Sequence Data
+-Sequence Alignment
+-Signal Transduction (+physiology)
+
+pii:MCB.01875-08
+doi:10.1128/MCB.01875-08
+pubmed:19414598
+pmc:PMC2698751
+

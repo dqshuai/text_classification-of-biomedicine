@@ -1,0 +1,22 @@
+Biochemistry
+
+A fluorescent mutant of the NM domain of the yeast prion Sup35 provides insight into fibril formation and stability.
+
+FL Palhano, CB Rocha, A Bernardino, G Weissmuller, CA Masuda, M Montero-Lomelí, AM Gomes, P Chien, PM Fernandes, D Foguel
+
+The Sup35 protein of Saccharomyces cerevisiae forms a prion that generates the [PSI(+)] phenotype. Its NM region governs prion status, forming self-seeding amyloid fibers in vivo and in vitro. A tryptophan mutant of Sup35 (NM(F117W)) was used to probe its aggregation. Four indicators of aggregation, Trp 117 maximum emission, Trp polarization, thio-T binding, and light scattering increase, revealed faster aggregation at 4 degrees C than at 25 degrees C, and all indicators changed in a concerted fashion at the former temperature. Curiously, at 25 degrees C the changes were not synchronized; the first two indicators, which reflect nucleation, changed more quickly than the last two, which reflect fibril formation. These results suggest that nucleation is insensitive to temperature, whereas fibril extension is temperature dependent. As expected, aggregation is accelerated when a small fraction (5%) of the nuclei produced at 4 or 25 degrees C are added to a suspension containing the soluble NM domain, although these nuclei do not seem to propagate any structural information to the growing fibrils. Fibrils grown at 4 degrees C were less stable in GdmCl than those grown at higher temperature. However, they were both resistant to high pressure; in fact, both sets of fibrils responded to high pressure by adopting an altered conformation with a higher capacity for thio-T binding. From these data, we calculated the change in volume and free energy associated with this conformational change. AFM revealed that the fibrils grown at 4 degrees C were statistically smaller than those grown at 25 degrees C. In conclusion, the introduction of Trp 117 allowed us to more carefully dissect the effects of temperature on the aggregation of the Sup35 NM domain.
+
+-Base Sequence
+-Circular Dichroism
+-DNA Primers
+-Fluorescence Polarization
+-Microscopy, Atomic Force
+-Peptide Termination Factors (-chemistry; -genetics; +metabolism)
+-Polymerase Chain Reaction
+-Saccharomyces cerevisiae (+metabolism)
+-Saccharomyces cerevisiae Proteins (-chemistry; -genetics; +metabolism)
+-Thermodynamics
+
+doi:10.1021/bi9000276
+pubmed:19530740
+

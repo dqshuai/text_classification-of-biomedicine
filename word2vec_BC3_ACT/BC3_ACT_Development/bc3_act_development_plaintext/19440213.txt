@@ -1,0 +1,31 @@
+Leukemia
+
+STAT6 and STAT1 are essential antagonistic regulators of cell survival in classical Hodgkin lymphoma cell line.
+
+D Baus, F Nonnenmacher, S Jankowski, C Döring, C Bräutigam, M Frank, ML Hansmann, E Pfitzner
+
+Classical Hodgkin lymphoma (cHL) is a malignant lymphoid disorder characterized by aberrant activation of signaling pathways. Constitutive activation of several components of the Janus Kinase/Signal Transducer and Activator of Transcription (JAK/STAT) pathway has been observed in Hodgkin and Reed/Sternberg cells, the tumor cells of cHL. In this study, we investigate the function of STAT6 in cHL cell lines and show that STAT6 promotes survival of these cells. Microarray expression analysis of STAT6-shRNA (short hairpin RNA)-expressing cHL cell lines was carried out to analyze the STAT6-mediated survival mechanism. Some of the identified genes with potentially important regulatory functions were also interleukin (IL)-4 dependently regulated in Ramos B cells and binding of STAT6 to the regulatory regions of several genes could be confirmed, indicating that these are direct STAT6 target genes. Importantly, STAT6 knockdown increased the expression and activation of STAT1 as well as the expression of known STAT1 target genes, indicating a cross-regulation between these signaling molecules. Forced expression of STAT1 was able to induce apoptosis in cHL cell line L1236. These findings indicate that both STAT6 and STAT1 can act as important antagonistic regulators in the pathogenesis of cHL.
+
+-Apoptosis
+-Cell Proliferation
+-Cell Survival (+physiology)
+-Chromatin Immunoprecipitation
+-Flow Cytometry
+-Gene Expression Profiling
+-Gene Expression Regulation, Neoplastic
+-Hodgkin Disease (-genetics; -metabolism; +pathology)
+-Humans
+-Immunoblotting
+-Oligonucleotide Array Sequence Analysis
+-RNA, Messenger (-genetics; -metabolism)
+-RNA, Small Interfering (-pharmacology)
+-Reverse Transcriptase Polymerase Chain Reaction
+-STAT1 Transcription Factor (+physiology)
+-STAT6 Transcription Factor (+physiology)
+-Signal Transduction
+-Tumor Cells, Cultured
+
+pii:leu2009103
+doi:10.1038/leu.2009.103
+pubmed:19440213
+

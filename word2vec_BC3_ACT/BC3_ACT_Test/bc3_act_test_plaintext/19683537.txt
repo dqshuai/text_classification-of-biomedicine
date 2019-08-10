@@ -1,0 +1,21 @@
+J. Mol. Biol.
+
+Role of a conserved prolyl residue (Pro173) of MotA in the mechanochemical reaction cycle of the proton-driven flagellar motor of Salmonella.
+
+S Nakamura, YV Morimoto, N Kami-ike, T Minamino, K Namba
+
+The MotA/B complex acts as the stator of the proton-driven bacterial flagellar motor. Proton translocation through the stator complex is efficiently coupled with torque generation by the stator-rotor interactions. In Salmonella enterica serovar Typhimurium, the highly conserved Pro173 residue of MotA is close to the absolutely conserved Asp33 residue of MotB, which is believed to be a proton-binding site. Pro173 is postulated to be involved in coupling proton influx to torque generation. However, it remains unknown what critical function Pro173 carries out. Here, we characterize the motility and the torque-speed relation of the flagellar motor of the slow motile motA(P173A) mutant of Salmonella. Stall torque produced by the mutant motor was at the wild-type level, indicating that neither the number of stators in the motor nor the rotor-stator interaction is affected by the P173A substitution. In agreement with this, the motA(P173A) allele exerted a strong dominant-negative effect on wild-type motility. In contrast, high-speed rotation at low load was significantly impaired by the mutation, suggesting that the maximum rate of torque generation cycle is severely limited. Simulation of the torque-speed curve by a simple kinetic model indicated that the mutation reduces the rate of conformational changes of the MotA/B complex that switches the exposure of Asp33 to the outside and the inside of the cell, thereby slowing down the mechanochemical reaction cycle. Based on these results, we propose that Pro173 plays an important role in facilitating the conformational dynamics of the stator complex for rapid proton translocation and torque generation cycle.
+
+-Bacterial Physiological Phenomena (-genetics)
+-Bacterial Proteins (-chemistry; -genetics; +physiology)
+-Computer Simulation
+-Flagella (+metabolism; -physiology)
+-Hydrogen-Ion Concentration
+-Mutagenesis, Site-Directed
+-Salmonella typhimurium (+metabolism)
+-Structure-Activity Relationship
+
+pii:S0022-2836(09)00988-7
+doi:10.1016/j.jmb.2009.08.022
+pubmed:19683537
+

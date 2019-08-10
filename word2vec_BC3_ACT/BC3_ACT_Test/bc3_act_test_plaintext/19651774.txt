@@ -1,0 +1,35 @@
+J. Biol. Chem.
+
+Wnt-5a-induced phosphorylation of DARPP-32 inhibits breast cancer cell migration in a CREB-dependent manner.
+
+C Hansen, J Howlin, A Tengholm, O Dyachok, WF Vogel, AC Nairn, P Greengard, T Andersson
+
+Tumor cell migration plays a central role in the process of cancer metastasis. We recently identified dopamine and cAMP-regulated phosphoprotein of 32 kDa (DARPP-32) as an antimigratory phosphoprotein in breast cancer cells. Here we link this effect of DARPP-32 to Wnt-5a signaling by demonstrating that recombinant Wnt-5a triggers cAMP elevation at the plasma membrane and Thr34-DARPP-32 phosphorylation in MCF-7 cells. In agreement, both protein kinase A (PKA) inhibitors and siRNA-mediated knockdown of Frizzled-3 receptor or Galpha(s) expression abolished Wnt-5a-induced phosphorylation of DARPP-32. Furthermore, Wnt-5a induced DARPP-32-dependent inhibition of MCF-7 cell migration. Phospho-Thr-34-DARPP-32 interacted with protein phosphatase-1 (PP1) and potentiated the Wnt-5a-mediated phosphorylation of CREB, a well-known PP1 substrate, but had no effect on CREB phosphorylation by itself. Moreover, inhibition of the Wnt-5a/DARPP-32/CREB pathway, by expression of dominant negative CREB (DN-CREB), diminished the antimigratory effect of Wnt-5a-induced phospho-Thr-34-DARPP-32. Phalloidin-staining revealed that that the presence of phospho-Thr-34-DARPP-32 in MCF-7 cells results in reduced filopodia formation. In accordance, the activity of the Rho GTPase Cdc42, known to be crucial for filopodia formation, was reduced in MCF-7 cells expressing phospho-Thr-34-DARPP-32. The effects of DARPP-32 on cell migration and filopodia formation could be reversed in T47D breast cancer cells that were depleted of their endogenous DARPP-32 by siRNA targeting. Consequently, Wnt-5a activates a Frizzled-3/Galpha(s)/cAMP/PKA signaling pathway that triggers a DARPP-32- and CREB-dependent antimigratory response in breast cancer cells, representing a novel mechanism whereby Wnt-5a can inhibit breast cancer cell migration.
+
+-Animals
+-Breast Neoplasms (+pathology)
+-Carrier Proteins (-metabolism)
+-Cell Line, Tumor
++Cell Movement
+-Cyclic AMP (-metabolism)
+-Cyclic AMP Response Element-Binding Protein (+metabolism)
+-Cyclic AMP-Dependent Protein Kinases (-metabolism)
+-Dopamine and cAMP-Regulated Phosphoprotein 32 (+metabolism)
+-Frizzled Receptors (-metabolism)
+-Humans
+-Mice
+-Phosphorylation
+-Phosphothreonine (-metabolism)
+-Protein Phosphatase 1 (-metabolism)
+-Proto-Oncogene Proteins (+metabolism)
+-Pseudopodia (-metabolism)
+-Rats
+-Receptors, G-Protein-Coupled (-metabolism)
+-Signal Transduction
+-Wnt Proteins (+metabolism)
+
+pii:M109.048884
+doi:10.1074/jbc.M109.048884
+pubmed:19651774
+pmc:PMC2785682
+

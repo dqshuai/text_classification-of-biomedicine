@@ -1,0 +1,19 @@
+BMC Bioinformatics
+
+The development of a comparison approach for Illumina bead chips unravels unexpected challenges applying newest generation microarrays.
+
+D Eggle, S Debey-Pascher, M Beyer, JL Schultze
+
+BACKGROUND: The MAQC project demonstrated that microarrays with comparable content show inter- and intra-platform reproducibility. However, since the content of gene databases still increases, the development of new generations of microarrays covering new content is mandatory. To better understand the potential challenges updated microarray content might pose on clinical and biological projects we developed a methodology consisting of in silico analyses combined with performance analysis using real biological samples. RESULTS: Here we clearly demonstrate that not only oligonucleotide design but also database content and annotation strongly influence comparability and performance of subsequent generations of microarrays. Additionally, using human blood samples and purified T lymphocyte subsets as two independent examples, we show that a performance analysis using biological samples is crucial for the assessment of consistency and differences. CONCLUSION: This study provides an important resource assisting investigators in comparing microarrays of updated content especially when working in a clinical or regulatory setting.
+
+-Computational Biology (-methods)
+-Databases, Genetic
+-Gene Expression Profiling (-methods)
+-Humans
+-Oligonucleotide Array Sequence Analysis (+methods)
+
+pii:1471-2105-10-186
+doi:10.1186/1471-2105-10-186
+pubmed:19538710
+pmc:PMC2711080
+

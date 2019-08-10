@@ -1,0 +1,28 @@
+RNA
+
+Global analysis of alternative splicing uncovers developmental regulation of nonsense-mediated decay in C. elegans.
+
+S Barberan-Soler, NJ Lambert, AM Zahler
+
+Alternative splicing coupled to nonsense-mediated decay (AS-NMD) is a mechanism for post-transcriptional regulation of gene expression. We analyzed the global effects of mutations in seven genes of the C. elegans NMD pathway on AS isoform ratios. We find that mutations in two NMD factors, smg-6 and smg-7, have weaker global effects relative to mutations in other smg genes. We did an in-depth analysis of 12 pre-mRNA splicing factor genes that are subject to AS-NMD. For four of these, changes in the ratio of alternatively spliced isoforms during development are caused by developmentally regulated inhibition of NMD, and not by changes in alternative splicing. Using sucrose gradient analysis of mRNAs undergoing translation, we find several examples of NMD-dependent enrichment of premature termination codon (PTC) isoforms in the monosome fraction. In contrast, we present evidence of two genes for which the PTC-containing isoforms are found in polysomes and have a translational profile similar to non-PTC-containing transcripts from the same gene. We propose that NMD of certain alternatively spliced isoforms is regulated, and that some stabilized NMD targets may be translated.
+
+-Alternative Splicing (+genetics)
+-Animals
+-Animals, Genetically Modified
+-Caenorhabditis elegans (+genetics; -metabolism)
+-Chromosome Mapping
+-Codon, Nonsense (-genetics; +metabolism)
+-Embryo, Nonmammalian
++Gene Expression Regulation, Developmental
+-Genes, Helminth
+-Microarray Analysis
+-Polyribosomes (-metabolism)
+-Protein Isoforms (-genetics; -metabolism)
+-RNA Stability (+genetics)
+-RNA, Messenger (-genetics; -metabolism)
+
+pii:rna.1711109
+doi:10.1261/rna.1711109
+pubmed:19617316
+pmc:PMC2743056
+

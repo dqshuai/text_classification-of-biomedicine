@@ -1,0 +1,40 @@
+J. Biol. Chem.
+
+p110 CUX1 homeodomain protein stimulates cell migration and invasion in part through a regulatory cascade culminating in the repression of E-cadherin and occludin.
+
+V Kedinger, L Sansregret, R Harada, C Vadnais, C Cadieux, K Fathers, M Park, A Nepveu
+
+In this study, we investigated the mechanism by which the CUX1 transcription factor can stimulate cell migration and invasion. The full-length p200 CUX1 had a weaker effect than the proteolytically processed p110 isoform; moreover, treatments that affect processing similarly impacted cell migration. We conclude that the stimulatory effect of p200 CUX1 is mediated in part, if not entirely, through the generation of p110 CUX1. We established a list of putative transcriptional targets with functions related to cell motility, and we then identified those targets whose expression was directly regulated by CUX1 in a cell line whose migratory potential was strongly stimulated by CUX1. We identified 18 genes whose expression was directly modulated by p110 CUX1, and its binding to all target promoters was validated in independent chromatin immunoprecipitation assays. These genes code for regulators of Rho-GTPases, cell-cell and cell-matrix adhesion proteins, cytoskeleton-associated proteins, and markers of epithelial-to-mesenchymal transition. Interestingly, p110 CUX1 activated the expression of genes that promote cell motility and at the same time repressed genes that inhibit this process. Therefore, the role of p110 CUX1 in cell motility involves its functions in both activation and repression of transcription. This was best exemplified in the regulation of the E-cadherin gene. Indeed, we uncovered a regulatory cascade whereby p110 CUX1 binds to the snail and slug gene promoters, activates their expression, and then cooperates with these transcription factors in the repression of the E-cadherin gene, thereby causing disorganization of cell-cell junctions.
+
+-Animals
+-Cadherins (+genetics)
+-Cattle
+-Cell Adhesion (-genetics)
+-Cell Line, Tumor
++Cell Movement (-genetics)
+-Chromatin Immunoprecipitation
+-Dogs
++Down-Regulation
+-Gene Expression Regulation
+-Genes, Reporter
+-Genome-Wide Association Study
+-Homeodomain Proteins (+chemistry; -genetics; +metabolism)
+-Humans
+-Intercellular Junctions (-metabolism)
+-Membrane Proteins (+genetics)
+-Mice
+-Nuclear Proteins (+chemistry; -genetics; +metabolism)
+-Promoter Regions, Genetic
+-Protein Isoforms (-chemistry; -genetics; -metabolism)
+-Protein Structure, Tertiary
+-Repressor Proteins (+chemistry; -genetics; +metabolism)
++Signal Transduction
+-Snails (-genetics)
+-Transcription, Genetic
+-Transcriptional Activation
+
+pii:M109.031849
+doi:10.1074/jbc.M109.031849
+pubmed:19635798
+pmc:PMC2785698
+

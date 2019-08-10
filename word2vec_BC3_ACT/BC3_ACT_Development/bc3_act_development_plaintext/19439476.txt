@@ -1,0 +1,23 @@
+J. Virol.
+
+Mumps virus matrix, fusion, and nucleocapsid proteins cooperate for efficient production of virus-like particles.
+
+M Li, PT Schmitt, Z Li, TS McCrory, B He, AP Schmitt
+
+Paramyxovirus particles, like other enveloped virus particles, are formed by budding from membranes of infected cells. To define mumps virus (MuV) proteins important for this process, viral proteins were expressed either singly or in combination in mammalian cells to produce virus-like particles (VLPs). Only the MuV matrix (M) protein when expressed by itself was capable of inducing particle release, but the quantity of these M-alone particles was very small. Efficient production of mumps VLPs occurred only when the M protein was coexpressed together with other viral proteins, with maximum production achieved upon coexpression of the viral M, nucleocapsid (NP), and fusion (F) proteins together. Electron microscopy analysis confirmed that VLPs were morphologically similar to MuV virions. The two MuV glycoproteins were not equal contributors to particle formation. The F protein was a major contributor to VLP production, while the hemagglutinin-neuraminidase protein made a smaller contribution. Evidence for the involvement of class E protein machinery in VLP budding was obtained, with mumps VLP production inhibited upon expression of dominant-negative versions of the class E proteins Vps4A and Chmp4b. Disruption of the sequence 24-FPVI-27 within the MuV M protein led to poor VLP production, consistent with findings of earlier studies of a related sequence, FPIV, important for the budding of parainfluenza virus 5. Together, these results demonstrate that different MuV structural proteins cooperate together for efficient particle production and that particle budding likely involves host class E protein machinery.
+
+-Cell Line
+-Humans
+-Mumps (+virology)
+-Mumps virus (-genetics; +physiology; -ultrastructure)
+-Nucleocapsid Proteins (-genetics; +metabolism)
+-Viral Fusion Proteins (-genetics; +metabolism)
+-Viral Matrix Proteins (-genetics; +metabolism)
+-Virion (-genetics; +physiology; -ultrastructure)
++Virus Assembly
+
+pii:JVI.00421-09
+doi:10.1128/JVI.00421-09
+pubmed:19439476
+pmc:PMC2704775
+

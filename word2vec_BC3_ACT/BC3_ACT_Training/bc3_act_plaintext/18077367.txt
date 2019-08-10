@@ -1,0 +1,25 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+A coactivator trap identifies NONO (p54nrb) as a component of the cAMP-signaling pathway.
+
+AL Amelio, LJ Miraglia, JJ Conkright, BA Mercer, S Batalov, V Cavett, AP Orth, J Busby, JB Hogenesch, MD Conkright
+
+Signal transduction pathways often use a transcriptional component to mediate adaptive cellular responses. Coactivator proteins function prominently in these pathways as the conduit to the basic transcriptional machinery. Here we present a high-throughput cell-based screening strategy, termed the "coactivator trap," to study the functional interactions of coactivators with transcription factors. We applied this strategy to the cAMP signaling pathway, which utilizes two families of coactivators, the cAMP response element binding protein (CREB) binding protein (CBP)/p300 family and the recently identified transducers of regulated CREB activity family (TORCs1-3). In addition to identifying numerous known interactions of these coactivators, this analysis identified NONO (p54(nrb)) as a TORC-interacting protein. RNA interference experiments demonstrate that NONO is necessary for cAMP-dependent activation of CREB target genes in vivo. Furthermore, TORC2 and NONO complex on cAMP-responsive promoters, and NONO acts as a bridge between the CREB/TORC complex and RNA polymerase II. These data demonstrate the utility of the coactivator trap by identification of a component of cAMP-mediated transcription.
+
+-Cell Line
+-Cyclic AMP (+metabolism)
+-Humans
+-Nuclear Matrix-Associated Proteins (-antagonists & inhibitors; -genetics; +metabolism)
+-Octamer Transcription Factors (-antagonists & inhibitors; -genetics; +metabolism)
+-Protein Interaction Mapping (+methods)
+-RNA Interference
+-RNA-Binding Proteins (-antagonists & inhibitors; -genetics; +metabolism)
+-Signal Transduction
+-Transcription Factors (-metabolism)
+-Transcription, Genetic
+
+pii:0707999105
+doi:10.1073/pnas.0707999105
+pubmed:18077367
+pmc:PMC2154428
+

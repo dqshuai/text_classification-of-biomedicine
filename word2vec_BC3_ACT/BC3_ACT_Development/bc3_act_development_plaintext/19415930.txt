@@ -1,0 +1,26 @@
+J. Am. Chem. Soc.
+
+In Silico Improvement of beta3-peptide inhibitors of p53 x hDM2 and p53 x hDMX.
+
+J Michel, EA Harker, J Tirado-Rives, WL Jorgensen, A Schepartz
+
+There is great interest in molecules capable of inhibiting the interactions between p53 and its negative regulators hDM2 and hDMX, as these molecules have validated potential against cancers in which one or both oncoproteins are overexpressed. We reported previously that appropriately substituted beta(3)-peptides inhibit these interactions and, more recently, that minimally cationic beta(3)-peptides are sufficiently cell permeable to upregulate p53-dependent genes in live cells. These observations, coupled with the known stability of beta-peptides in a cellular environment, and the recently reported structures of hDM2 and hDMX, motivated us to exploit computational modeling to identify beta-peptides with improved potency and/or selectivity. This exercise successfully identified a new beta(3)-peptide, beta53-16, that possesses the highly desirable attribute of high affinity for both hDM2 and hDMX and identifies the 3,4-dichlorophenyl moiety as a novel determinant of hDMX affinity.
+
+-Antineoplastic Agents (+chemistry; -pharmacology)
+-Chlorophenols
++Computer Simulation
+-Drug Discovery (-methods)
+-Humans
+-Models, Molecular
+-Peptides (-chemistry; +pharmacology)
+-Protein Binding (-drug effects)
+-Proteins (+antagonists & inhibitors)
+-RNA-Binding Proteins (+antagonists & inhibitors)
+-Structure-Activity Relationship
+-Tumor Suppressor Protein p53 (+drug effects)
+
+doi:10.1021/ja901478e
+pubmed:19415930
+mid:NIHMS117765
+pmc:PMC2754742
+

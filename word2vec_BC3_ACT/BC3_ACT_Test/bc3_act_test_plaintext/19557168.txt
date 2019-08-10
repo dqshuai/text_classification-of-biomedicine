@@ -1,0 +1,28 @@
+PLoS ONE
+
+Concurrent growth rate and transcript analyses reveal essential gene stringency in Escherichia coli.
+
+S Goh, JM Boberek, N Nakashima, J Stach, L Good
+
+BACKGROUND: Genes essential for bacterial growth are of particular scientific interest. Many putative essential genes have been identified or predicted in several species, however, little is known about gene expression requirement stringency, which may be an important aspect of bacterial physiology and likely a determining factor in drug target development. METHODOLOGY/PRINCIPAL FINDINGS: Working from the premise that essential genes differ in absolute requirement for growth, we describe silencing of putative essential genes in E. coli to obtain a titration of declining growth rates and transcript levels by using antisense peptide nucleic acids (PNA) and expressed antisense RNA. The relationship between mRNA decline and growth rate decline reflects the degree of essentiality, or stringency, of an essential gene, which is here defined by the minimum transcript level for a 50% reduction in growth rate (MTL(50)). When applied to four growth essential genes, both RNA silencing methods resulted in MTL(50) values that reveal acpP as the most stringently required of the four genes examined, with ftsZ the next most stringently required. The established antibacterial targets murA and fabI were less stringently required. CONCLUSIONS: RNA silencing can reveal stringent requirements for gene expression with respect to growth. This method may be used to validate existing essential genes and to quantify drug target requirement.
+
+-Bacterial Physiological Phenomena
+-Cloning, Molecular
+-Escherichia coli (+genetics; -metabolism)
+-Escherichia coli Proteins (-genetics)
+-Gene Expression Regulation, Bacterial
+-Genes, Bacterial (+genetics)
++Genes, Essential
+-Genetic Complementation Test
+-Genome, Bacterial
+-Microscopy, Fluorescence (-methods)
+-Models, Biological
+-Oligonucleotides, Antisense (-genetics)
+-Open Reading Frames
+-Polymerase Chain Reaction
+-RNA Interference
+
+doi:10.1371/journal.pone.0006061
+pubmed:19557168
+pmc:PMC2698124
+

@@ -1,0 +1,27 @@
+Neuron
+
+Direct activation of sparse, distributed populations of cortical neurons by electrical microstimulation.
+
+MH Histed, V Bonin, RC Reid
+
+For over a century, electrical microstimulation has been the most direct method for causally linking brain function with behavior. Despite this long history, it is still unclear how the activity of neural populations is affected by stimulation. For example, there is still no consensus on where activated cells lie or on the extent to which neural processes such as passing axons near the electrode are also activated. Past studies of this question have proven difficult because microstimulation interferes with electrophysiological recordings, which in any case provide only coarse information about the location of activated cells. We used two-photon calcium imaging, an optical method, to circumvent these hurdles. We found that microstimulation sparsely activates neurons around the electrode, sometimes as far as millimeters away, even at low currents. Our results indicate that the pattern of activated neurons likely arises from the direct activation of axons in a volume tens of microns in diameter.
+
+-Action Potentials (+physiology)
+-Animals
+-Cats
+-Cerebral Cortex (-cytology; +physiology; -ultrastructure)
+-Electric Stimulation (-instrumentation; -methods)
+-Memory (-physiology)
+-Mice
+-Mice, Inbred C57BL
+-Microelectrodes
+-Neurons (+physiology; -ultrastructure)
+-Rats
+-Rats, Long-Evans
+
+pii:S0896-6273(09)00545-5
+doi:10.1016/j.neuron.2009.07.016
+pubmed:19709632
+mid:NIHMS139000
+pmc:PMC2874753
+

@@ -1,0 +1,28 @@
+PLoS ONE
+
+Parallel loss of plastid introns and their maturase in the genus Cuscuta.
+
+JR McNeal, JV Kuehl, JL Boore, J Leebens-Mack, CW dePamphilis
+
+Plastid genome content and arrangement are highly conserved across most land plants and their closest relatives, streptophyte algae, with nearly all plastid introns having invaded the genome in their common ancestor at least 450 million years ago. One such intron, within the transfer RNA trnK-UUU, contains a large open reading frame that encodes a presumed intron maturase, matK. This gene is missing from the plastid genomes of two species in the parasitic plant genus Cuscuta but is found in all other published land plant and streptophyte algal plastid genomes, including that of the nonphotosynthetic angiosperm Epifagus virginiana and two other species of Cuscuta. By examining matK and plastid intron distribution in Cuscuta, we add support to the hypothesis that its normal role is in splicing seven of the eight group IIA introns in the genome. We also analyze matK nucleotide sequences from Cuscuta species and relatives that retain matK to test whether changes in selective pressure in the maturase are associated with intron deletion. Stepwise loss of most group IIA introns from the plastid genome results in substantial change in selective pressure within the hypothetical RNA-binding domain of matK in both Cuscuta and Epifagus, either through evolution from a generalist to a specialist intron splicer or due to loss of a particular intron responsible for most of the constraint on the binding region. The possibility of intron-specific specialization in the X-domain is implicated by evidence of positive selection on the lineage leading to C. nitida in association with the loss of six of seven introns putatively spliced by matK. Moreover, transfer RNA gene deletion facilitated by parasitism combined with an unusually high rate of intron loss from remaining functional plastid genes created a unique circumstance on the lineage leading to Cuscuta subgenus Grammica that allowed elimination of matK in the most species-rich lineage of Cuscuta.
+
+-Base Sequence
+-Cuscuta (+genetics; -metabolism)
+-Endoribonucleases (+genetics)
+-Evolution, Molecular
+-Genes, Plant
+-Genome, Plastid
++Introns
+-Models, Genetic
+-Molecular Sequence Data
+-Nucleotidyltransferases (+genetics)
+-Phylogeny
+-Plastids (+genetics; -metabolism)
+-Protein Binding
+-RNA Splicing
+-Species Specificity
+
+doi:10.1371/journal.pone.0005982
+pubmed:19543388
+pmc:PMC2694360
+

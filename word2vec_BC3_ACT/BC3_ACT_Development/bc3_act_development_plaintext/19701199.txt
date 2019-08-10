@@ -1,0 +1,32 @@
+Nat. Struct. Mol. Biol.
+
+Template strand scrunching during DNA gap repair synthesis by human polymerase lambda.
+
+M Garcia-Diaz, K Bebenek, AA Larrea, JM Havener, L Perera, JM Krahn, LC Pedersen, DA Ramsden, TA Kunkel
+
+Family X polymerases such as DNA polymerase lambda (Pol lambda) are well suited for filling short gaps during DNA repair because they simultaneously bind both the 5' and 3' ends of short gaps. DNA binding and gap filling are well characterized for 1-nucleotide (nt) gaps, but the location of yet-to-be-copied template nucleotides in longer gaps is unknown. Here we present crystal structures revealing that, when bound to a 2-nt gap, Pol lambda scrunches the template strand and binds the additional uncopied template base in an extrahelical position within a binding pocket that comprises three conserved amino acids. Replacing these amino acids with alanine results in less processive gap filling and less efficient NHEJ when 2-nt gaps are involved. Thus, akin to scrunching by RNA polymerase during transcription initiation, scrunching occurs during gap filling DNA synthesis associated with DNA repair.
+
+-Amino Acid Sequence
+-Animals
+-Binding Sites
+-Biocatalysis
+-Conserved Sequence
+-Crystallography, X-Ray
+-DNA (+chemistry; +metabolism)
+-DNA Polymerase beta (+chemistry; -genetics; +metabolism)
++DNA Repair
+-Humans
+-Models, Molecular
+-Molecular Sequence Data
+-Mutation
+-Nucleic Acid Conformation
+-Protein Structure, Tertiary
+-Sequence Alignment
+-Templates, Genetic
+
+pii:nsmb.1654
+doi:10.1038/nsmb.1654
+pubmed:19701199
+mid:NIHMS128363
+pmc:PMC2767187
+

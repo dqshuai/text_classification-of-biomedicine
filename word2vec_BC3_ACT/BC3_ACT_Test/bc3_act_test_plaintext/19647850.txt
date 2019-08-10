@@ -1,0 +1,24 @@
+Virology
+
+Visualization of the dynamic multimerization of human Cytomegalovirus pp65 in punctuate nuclear foci.
+
+Z Cui, K Zhang, Z Zhang, Y Liu, Y Zhou, H Wei, XE Zhang
+
+The phosphorylated protein pp65 of human Cytomegalovirus (HCMV) is the predominant virion protein and the major tegument constituent. It plays important roles in HCMV infection and virion assembly. Live cell imaging and fluorescence recovery after photobleaching (FRAP) analysis showed that HCMV pp65 accumulated dynamically in punctuate nuclear foci when transiently expressed in mammalian cells. Fluorescence resonance energy transfer (FRET) imaging disclosed that pp65 can self-interact in its localization foci. Yeast two-hybrid assay verified that pp65 is a self-associating protein, and the N-terminal amino acids 14-22 were determined to be essential for pp65 self-association. However, these amino acids were not related to pp65 localization in the specific nuclear foci. The interaction of pp65 and ppUL97 was also studied by FRET microscopy, and the result suggested that there is another signal sequence in pp65, being the ppUL97 phosphorylation site, that is responsible for localization of pp65 in nuclear foci. These results help to understand the function of pp65 in HCMV infection and virion morphogenesis.
+
+-Animals
+-Cell Nucleus (-metabolism)
+-Cercopithecus aethiops
+-Cytomegalovirus (+metabolism)
+-Fluorescence Recovery After Photobleaching
+-Fluorescence Resonance Energy Transfer
+-Phosphoproteins (+metabolism)
++Protein Multimerization
+-Two-Hybrid System Techniques
+-Vero Cells
+-Viral Matrix Proteins (+metabolism)
+
+pii:S0042-6822(09)00364-X
+doi:10.1016/j.virol.2009.06.021
+pubmed:19647850
+

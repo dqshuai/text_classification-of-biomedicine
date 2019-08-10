@@ -1,0 +1,28 @@
+PLoS Genet.
+
+Discovery of rare variants via sequencing: implications for the design of complex trait association studies.
+
+B Li, SM Leal
+
+There is strong evidence that rare variants are involved in complex disease etiology. The first step in implicating rare variants in disease etiology is their identification through sequencing in both randomly ascertained samples (e.g., the 1,000 Genomes Project) and samples ascertained according to disease status. We investigated to what extent rare variants will be observed across the genome and in candidate genes in randomly ascertained samples, the magnitude of variant enrichment in diseased individuals, and biases that can occur due to how variants are discovered. Although sequencing cases can enrich for casual variants, when a gene or genes are not involved in disease etiology, limiting variant discovery to cases can lead to association studies with dramatically inflated false positive rates.
+
+-Chromosome Mapping
+-False Positive Reactions
+-Gene Frequency
+-Genetic Predisposition to Disease
++Genetic Variation
+-Genome, Human
+-Genome-Wide Association Study (+methods; -statistics & numerical data)
+-Haplotypes
+-Humans
+-Linkage (Genetics)
+-Models, Genetic
+-Models, Statistical
+-Polymorphism, Single Nucleotide
+-Probability
+-Sequence Analysis, DNA (+methods)
+
+doi:10.1371/journal.pgen.1000481
+pubmed:19436704
+pmc:PMC2674213
+

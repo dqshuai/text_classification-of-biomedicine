@@ -1,0 +1,24 @@
+Biochem. J.
+
+The 5' terminal uracil of let-7a is critical for the recruitment of mRNA to Argonaute2.
+
+KM Felice, DW Salzman, J Shubert-Coleman, KP Jensen, HM Furneaux
+
+Small RNAs modulate gene expression by forming a ribonucleoprotein complex with Argonaute proteins and directing them to specific complementary sites in target nucleic acids. However, the interactions required for the recruitment of the target nucleic acid to the ribonucleoprotein complex are poorly understood. In the present manuscript we have investigated this question by using let-7a, Argonaute2 and a fully complementary mRNA target. Importantly, we have found that recombinant Argonaute2 is sufficient to direct let-7a guided cleavage of mRNA. Thus this model system has allowed us to investigate the mechanistic basis of silencing in vitro and in vivo. Current models suggest that Argonaute proteins bind to both the 5' and 3' termini of the guide RNA. We have found that the termini of the let-7a microRNA are indeed critical, since circular let-7a does not support mRNA cleavage. However, the 5' end is the key determinant, since its deletion abrogates activity. Surprisingly, we have found that alteration of the 5' terminal uracil compromises mRNA cleavage. Importantly, we have found that substitution of this base has little effect upon the formation of the binary let-7a-Argonaute2 complex, but inhibits the formation of the ternary let-7a-Argonaute2-mRNA complex. Thus we conclude that the interaction of the 5' uracil base with Argonaute2 plays a critical and novel role in the recruitment of mRNA.
+
+-5' Untranslated Regions (+genetics)
+-Conserved Sequence (-genetics)
+-Eukaryotic Initiation Factor-2 (+chemistry; +genetics)
+-Hela Cells
+-Humans
+-MicroRNAs (+chemistry; -metabolism)
+-Protein Structure, Tertiary (-genetics)
+-RNA, Guide (-chemistry; -genetics; -metabolism)
+-RNA, Messenger (-chemistry; +genetics)
+-Ribonucleoproteins (-biosynthesis; -chemistry; -genetics)
+-Uracil (+chemistry; -physiology)
+
+pii:BJ20090534
+doi:10.1042/BJ20090534
+pubmed:19508234
+

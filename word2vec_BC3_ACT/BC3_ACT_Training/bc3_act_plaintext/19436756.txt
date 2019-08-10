@@ -1,0 +1,26 @@
+PLoS ONE
+
+Abberant alpha-synuclein confers toxicity to neurons in part through inhibition of chaperone-mediated autophagy.
+
+M Xilouri, T Vogiatzi, K Vekrellis, D Park, L Stefanis
+
+BACKGROUND: The mechanisms through which aberrant alpha-synuclein (ASYN) leads to neuronal death in Parkinson's disease (PD) are uncertain. In isolated liver lysosomes, mutant ASYNs impair Chaperone Mediated Autophagy (CMA), a targeted lysosomal degradation pathway; however, whether this occurs in a cellular context, and whether it mediates ASYN toxicity, is unknown. We have investigated presently the effects of WT or mutant ASYN on the lysosomal pathways of CMA and macroautophagy in neuronal cells and assessed their impact on ASYN-mediated toxicity. METHODS AND FINDINGS: Novel inducible SH-SY5Y and PC12 cell lines expressing human WT and A53T ASYN, as well as two mutant forms that lack the CMA-targeting motif were generated. Such forms were also expressed in primary cortical neurons, using adenoviral transduction. In each case, effects on long-lived protein degradation, LC3 II levels (as a macroautophagy index), and cell death and survival were assessed. In both PC12 and SH-SY5Y cycling cells, induction of A53T ASYN evoked a significant decrease in lysosomal degradation, largely due to CMA impairment. In neuronally differentiated SH-SH5Y cells, both WT and A53T ASYN induction resulted in gradual toxicity, which was partly dependent on CMA impairment and compensatory macroautophagy induction. In primary neurons both WT and A53T ASYN were toxic, but only in the case of A53T ASYN did CMA dysfunction and compensatory macroautophagy induction occur and participate in death. CONCLUSIONS: Expression of mutant A53T, and, in some cases, WT ASYN in neuronal cells leads to CMA dysfunction, and this in turn leads to compensatory induction of macroautophagy. Inhibition of these lysosomal effects mitigates ASYN toxicity. Therefore, CMA dysfunction mediates aberrant ASYN toxicity, and may be a target for therapeutic intervention in PD and related disorders. Furthermore, macroautophagy induction in the context of ASYN over-expression, in contrast to other settings, appears to be a detrimental response, leading to neuronal death.
+
+-Animals
++Autophagy
+-Cell Line
+-Down-Regulation
+-Humans
+-Lysosomes (-metabolism)
+-Molecular Chaperones (+metabolism)
+-Neurons (+metabolism)
+-PC12 Cells
+-Parkinson Disease (-metabolism)
+-RNA, Small Interfering (-metabolism)
+-Rats
+-alpha-Synuclein (-genetics; +metabolism; +toxicity)
+
+doi:10.1371/journal.pone.0005515
+pubmed:19436756
+pmc:PMC2677735
+

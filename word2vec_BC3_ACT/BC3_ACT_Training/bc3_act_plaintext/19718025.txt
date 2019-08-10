@@ -1,0 +1,29 @@
+Nat. Genet.
+
+Analysis of the tyrosine kinome in melanoma reveals recurrent mutations in ERBB4.
+
+TD Prickett, NS Agrawal, X Wei, KE Yates, JC Lin, JR Wunderlich, JC Cronin, P Cruz, SA Rosenberg, Y Samuels
+
+Tyrosine phosphorylation is important in signaling pathways underlying tumorigenesis. We performed a mutational analysis of the protein tyrosine kinase (PTK) gene family in cutaneous metastatic melanoma. We identified 30 somatic mutations affecting the kinase domains of 19 PTKs and subsequently evaluated the entire coding regions of the genes encoding these 19 PTKs for somatic mutations in 79 melanoma samples. We found ERBB4 mutations in 19% of individuals with melanoma and found mutations in two other kinases (FLT1 and PTK2B) in 10% of individuals with melanomas. We examined seven missense mutations in the most commonly altered PTK gene, ERBB4, and found that they resulted in increased kinase activity and transformation ability. Melanoma cells expressing mutant ERBB4 had reduced cell growth after shRNA-mediated knockdown of ERBB4 or treatment with the ERBB inhibitor lapatinib. These studies could lead to personalized therapeutics specifically targeting the kinases that are mutationally altered in individual melanomas.
+
+-Animals
+-Antineoplastic Agents (-pharmacology)
+-Cell Line
+-Cell Proliferation (-drug effects)
+-Cell Transformation, Neoplastic (-genetics)
+-Humans
+-Melanoma (-enzymology; +genetics; -pathology)
+-Mice
++Mutation
+-Protein-Tyrosine Kinases (+analysis; +genetics)
+-Quinazolines (-pharmacology)
+-RNA Interference
+-Receptor, Epidermal Growth Factor (+genetics)
+-Skin Neoplasms (-enzymology; +genetics; -pathology)
+
+pii:ng.438
+doi:10.1038/ng.438
+pubmed:19718025
+mid:NIHMS202632
+pmc:PMC2897709
+

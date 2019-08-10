@@ -1,0 +1,38 @@
+Mol. Cell. Biol.
+
+Characterization of Rictor phosphorylation sites reveals direct regulation of mTOR complex 2 by S6K1.
+
+CC Dibble, JM Asara, BD Manning
+
+The mammalian target of rapamycin (mTOR) functions within two distinct complexes (mTORC1 and mTORC2) to control cell growth, proliferation, survival, and metabolism. While there has been great progress in our understanding of mTORC1 regulation, the signaling mechanisms that regulate mTORC2 have not been defined. In this study, we use liquid chromatography-tandem mass spectrometry analyses to identify 21 phosphorylation sites on the core mTORC2 component Rictor. We find that one site, T1135, undergoes growth factor-responsive phosphorylation that is acutely sensitive to rapamycin and is phosphorylated downstream of mTORC1. We find that Rictor-T1135 is directly phosphorylated by the mTORC1-dependent kinase S6K1. Although this phosphorylation event does not affect mTORC2 integrity or in vitro kinase activity, expression of a phosphorylation site mutant of Rictor (T1135A) in either wild-type or Rictor null cells causes an increase in the mTORC2-dependent phosphorylation of Akt on S473. However, Rictor-T1135 phosphorylation does not appear to regulate mTORC2-mediated effects on SGK1 or PKC alpha. While the precise molecular mechanism affecting Akt is unknown, phosphorylation of T1135 stimulates binding of Rictor to 14-3-3 proteins. We provide evidence that Rictor-T1135 phosphorylation acts in parallel with other mTORC1-dependent feedback mechanisms, such as those affecting IRS-1 signaling to PI3K, to regulate the response of Akt to insulin.
+
+-14-3-3 Proteins (-metabolism)
+-Amino Acid Sequence
+-Amino Acid Substitution (-drug effects)
+-Animals
+-Binding Sites
+-Carrier Proteins (-chemistry; +metabolism)
+-Chromatography, Liquid
+-Conserved Sequence
+-Hela Cells
+-Humans
+-Insulin (-pharmacology)
+-Intercellular Signaling Peptides and Proteins (-pharmacology)
+-Mass Spectrometry
+-Mice
+-Models, Biological
+-Molecular Sequence Data
+-Phosphorylation (-drug effects)
+-Phosphoserine (-metabolism)
+-Phosphothreonine (-metabolism)
+-Proto-Oncogene Proteins c-akt (-metabolism)
+-Ribosomal Protein S6 Kinases, 90-kDa (+metabolism)
+-Sirolimus (-pharmacology)
+-Trans-Activators (+metabolism)
+-Vertebrates (-metabolism)
+
+pii:MCB.00735-09
+doi:10.1128/MCB.00735-09
+pubmed:19720745
+pmc:PMC2772744
+

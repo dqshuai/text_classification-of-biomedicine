@@ -1,0 +1,22 @@
+Neuron
+
+Hippocampal replay of extended experience.
+
+TJ Davidson, F Kloosterman, MA Wilson
+
+During pauses in exploration, ensembles of place cells in the rat hippocampus re-express firing sequences corresponding to recent spatial experience. Such "replay" co-occurs with ripple events: short-lasting (approximately 50-120 ms), high-frequency (approximately 200 Hz) oscillations that are associated with increased hippocampal-cortical communication. In previous studies, rats exploring small environments showed replay anchored to the rat's current location and compressed in time into a single ripple event. Here, we show, using a neural decoding approach, that firing sequences corresponding to long runs through a large environment are replayed with high fidelity and that such replay can begin at remote locations on the track. Extended replay proceeds at a characteristic virtual speed of approximately 8 m/s and remains coherent across trains of ripple events. These results suggest that extended replay is composed of chains of shorter subsequences, which may reflect a strategy for the storage and flexible expression of memories of prolonged experience.
+
+-Animals
+-Exploratory Behavior (-physiology)
+-Hippocampus (+physiology)
+-Learning (+physiology)
+-Male
+-Rats
+-Rats, Long-Evans
+-Spatial Behavior (-physiology)
+-Time Factors
+
+pii:S0896-6273(09)00582-0
+doi:10.1016/j.neuron.2009.07.027
+pubmed:19709631
+

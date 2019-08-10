@@ -1,0 +1,35 @@
+Nat. Neurosci.
+
+Origins of correlated activity in an olfactory circuit.
+
+H Kazama, RI Wilson
+
+Multineuronal recordings often reveal synchronized spikes in different neurons. The manner in which correlated spike timing affects neural codes depends on the statistics of correlations, which in turn reflects the connectivity that gives rise to correlations. However, determining the connectivity of neurons recorded in vivo can be difficult. We investigated the origins of correlated activity in genetically labeled neurons of the Drosophila antennal lobe. Dual recordings showed synchronized spontaneous spikes in projection neurons (PNs) postsynaptic to the same type of olfactory receptor neuron (ORN). Odors increased these correlations. The primary origin of correlations lies in the divergence of each ORN onto every PN in its glomerulus. Reciprocal PN-PN connections make a smaller contribution to correlations and PN spike trains in different glomeruli were only weakly correlated. PN axons from the same glomerulus reconverge in the lateral horn, where pooling redundant signals may allow lateral horn neurons to average out noise that arises independently in these PNs.
+
+-Action Potentials
+-Analysis of Variance
+-Animals
+-Brain (-physiology)
+-Drosophila
+-Excitatory Postsynaptic Potentials
+-Linear Models
+-Membrane Potentials (-physiology)
+-Models, Neurological
+-Mushroom Bodies (-physiology)
+-Neuronal Plasticity (-physiology)
+-Neurons (+physiology)
+-Odors
+-Olfactory Pathways (+physiology)
+-Olfactory Receptor Neurons (+physiology)
+-Patch-Clamp Techniques
+-Physical Stimulation
+-Synapses (-physiology)
+-Synaptic Transmission (+physiology)
+-Time Factors
+
+pii:nn.2376
+doi:10.1038/nn.2376
+pubmed:19684589
+mid:NIHMS131153
+pmc:PMC2751859
+

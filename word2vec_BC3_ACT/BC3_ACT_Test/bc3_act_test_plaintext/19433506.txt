@@ -1,0 +1,21 @@
+Nucleic Acids Res.
+
+Analyzing the forces binding a restriction endonuclease to DNA using a synthetic nanopore.
+
+B Dorvel, G Sigalov, Q Zhao, J Comer, V Dimitrov, U Mirsaidov, A Aksimentiev, G Timp
+
+Restriction endonucleases are used prevalently in recombinant DNA technology because they bind so stably to a specific target sequence and, in the presence of cofactors, cleave double-helical DNA specifically at a target sequence at a high rate. Using synthetic nanopores along with molecular dynamics (MD), we have analyzed with atomic resolution how a prototypical restriction endonuclease, EcoRI, binds to the DNA target sequence--GAATTC--in the absence of a Mg(2+) ion cofactor. We have previously shown that there is a voltage threshold for permeation of DNA bound to restriction enzymes through a nanopore that is associated with a nanonewton force required to rupture the complex. By introducing mutations in the DNA, we now show that this threshold depends on the recognition sequence and scales linearly with the dissociation energy, independent of the pore geometry. To predict the effect of mutation in a base pair on the free energy of dissociation, MD is used to qualitatively rank the stability of bonds in the EcoRI-DNA complex. We find that the second base in the target sequence exhibits the strongest binding to the protein, followed by the third and first bases, with even the flanking sequence affecting the binding, corroborating our experiments.
+
+-Computer Simulation
+-DNA (-chemistry; -metabolism)
+-DNA-Binding Proteins (+chemistry; -metabolism)
+-Deoxyribonuclease EcoRI (+chemistry; -metabolism)
+-Models, Molecular
+-Nanostructures (+chemistry; -ultrastructure)
+-Protein Binding
+
+pii:gkp317
+doi:10.1093/nar/gkp317
+pubmed:19433506
+pmc:PMC2709577
+

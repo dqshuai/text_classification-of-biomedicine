@@ -1,0 +1,22 @@
+PLoS Genet.
+
+Genome-wide identification of alternative splice forms down-regulated by nonsense-mediated mRNA decay in Drosophila.
+
+KD Hansen, LF Lareau, M Blanchette, RE Green, Q Meng, J Rehwinkel, FL Gallusser, E Izaurralde, DC Rio, S Dudoit, SE Brenner
+
+Alternative mRNA splicing adds a layer of regulation to the expression of thousands of genes in Drosophila melanogaster. Not all alternative splicing results in functional protein; it can also yield mRNA isoforms with premature stop codons that are degraded by the nonsense-mediated mRNA decay (NMD) pathway. This coupling of alternative splicing and NMD provides a mechanism for gene regulation that is highly conserved in mammals. NMD is also active in Drosophila, but its effect on the repertoire of alternative splice forms has been unknown, as has the mechanism by which it recognizes targets. Here, we have employed a custom splicing-sensitive microarray to globally measure the effect of alternative mRNA processing and NMD on Drosophila gene expression. We have developed a new algorithm to infer the expression change of each mRNA isoform of a gene based on the microarray measurements. This method is of general utility for interpreting splicing-sensitive microarrays and high-throughput sequence data. Using this approach, we have identified a high-confidence set of 45 genes where NMD has a differential effect on distinct alternative isoforms, including numerous RNA-binding and ribosomal proteins. Coupled alternative splicing and NMD decrease expression of these genes, which may in turn have a downstream effect on expression of other genes. The NMD-affected genes are enriched for roles in translation and mitosis, perhaps underlying the previously observed role of NMD factors in cell cycle progression. Our results have general implications for understanding the NMD mechanism in fly. Most notably, we found that the NMD-target mRNAs had significantly longer 3' untranslated regions (UTRs) than the nontarget isoforms of the same genes, supporting a role for 3' UTR length in the recognition of NMD targets in fly.
+
++Alternative Splicing
+-Animals
+-Codon, Nonsense
++Down-Regulation
+-Drosophila (-chemistry; +genetics; -metabolism)
++Genome, Insect
++RNA Stability
+-RNA, Messenger (+chemistry; -genetics; -metabolism)
+-Untranslated Regions
+
+doi:10.1371/journal.pgen.1000525
+pubmed:19543372
+pmc:PMC2689934
+

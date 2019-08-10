@@ -1,0 +1,33 @@
+Cell Cycle
+
+Cell cycle checkpoint defects contribute to genomic instability in PTEN deficient cells independent of DNA DSB repair.
+
+A Gupta, Q Yang, RK Pandita, CR Hunt, T Xiang, S Misri, S Zeng, J Pagan, J Jeffery, J Puc, R Kumar, Z Feng, SN Powell, A Bhat, T Yaguchi, R Wadhwa, SC Kaul, R Parsons, KK Khanna, TK Pandita
+
+Chromosomes in PTEN deficient cells display both numerical as well as structural alterations including regional amplification. We found that PTEN deficient cells displayed a normal DNA damage response (DDR) as evidenced by the ionizing radiation (IR)-induced phosphorylation of Ataxia Telangiectasia Mutated (ATM) as well as its effectors. PTEN deficient cells also had no defect in Rad51 expression or DNA damage repair kinetics post irradiation. In contrast, caffeine treatment specifically increased IR-induced chromosome aberrations and mitotic index only in cells with PTEN, and not in cells deficient for PTEN, suggesting that their checkpoints were defective. Furthermore, PTEN-deficient cells were unable to maintain active spindle checkpoint after taxol treatment. Genomic instability in PTEN deficient cells could not be attributed to lack of PTEN at centromeres, since no interaction was detected between centromeric DNA and PTEN in wild type cells. These results indicate that PTEN deficiency alters multiple cell cycle checkpoints possibly leaving less time for DNA damage repair and/or chromosome segregation as evidenced by the increased structural as well as numerical alterations seen in PTEN deficient cells.
+
+-Antineoplastic Agents, Phytogenic (-pharmacology)
+-Caffeine (-pharmacology)
++Cell Cycle
+-Cell Cycle Proteins (-metabolism)
+-Cell Line, Tumor
+-Chromosome Aberrations
+-DNA Breaks, Double-Stranded
++DNA Repair
+-DNA-Binding Proteins (-metabolism)
++Genomic Instability
+-Humans
+-Infrared Rays
+-Karyotyping
+-PTEN Phosphohydrolase (-deficiency; -genetics; +metabolism)
+-Paclitaxel (-pharmacology)
+-Phosphorylation
+-Protein-Serine-Threonine Kinases (-metabolism)
+-RNA, Small Interfering (-metabolism)
+-Rad51 Recombinase (-metabolism)
+-Telomere (-metabolism)
+-Tumor Suppressor Proteins (-metabolism)
+
+pii:8947
+pubmed:19502790
+

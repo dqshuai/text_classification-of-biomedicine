@@ -1,0 +1,25 @@
+Nucleic Acids Res.
+
+Physical and functional interactions between Escherichia coli MutL and the Vsr repair endonuclease.
+
+RJ Heinze, L Giron-Monzon, A Solovyova, SL Elliot, S Geisler, CG Cupples, BA Connolly, P Friedhoff
+
+DNA mismatch repair (MMR) and very-short patch (VSP) repair are two pathways involved in the repair of T:G mismatches. To learn about competition and cooperation between these two repair pathways, we analyzed the physical and functional interaction between MutL and Vsr using biophysical and biochemical methods. Analytical ultracentrifugation reveals a nucleotide-dependent interaction between Vsr and the N-terminal domain of MutL. Using chemical crosslinking, we mapped the interaction site of MutL for Vsr to a region between the N-terminal domains similar to that described before for the interaction between MutL and the strand discrimination endonuclease MutH of the MMR system. Competition between MutH and Vsr for binding to MutL resulted in inhibition of the mismatch-provoked MutS- and MutL-dependent activation of MutH, which explains the mutagenic effect of Vsr overexpression. Cooperation between MMR and VSP repair was demonstrated by the stimulation of the Vsr endonuclease in a MutS-, MutL- and ATP-hydrolysis-dependent manner, in agreement with the enhancement of VSP repair by MutS and MutL in vivo. These data suggest a mobile MutS-MutL complex in MMR signalling, that leaves the DNA mismatch prior to, or at the time of, activation of downstream effector molecules such as Vsr or MutH.
+
+-Adenosine Triphosphatases (-chemistry; +metabolism; -radiation effects)
+-Cross-Linking Reagents
++DNA Mismatch Repair
+-DNA Repair Enzymes (-metabolism)
+-DNA-Binding Proteins (-metabolism)
+-Endodeoxyribonucleases (-chemistry; +metabolism; -radiation effects)
+-Escherichia coli Proteins (-chemistry; +metabolism; -radiation effects)
+-MutS DNA Mismatch-Binding Protein (-metabolism)
+-Photochemical Processes
+-Protein Structure, Tertiary
+-Ultracentrifugation
+
+pii:gkp380
+doi:10.1093/nar/gkp380
+pubmed:19474347
+pmc:PMC2715241
+

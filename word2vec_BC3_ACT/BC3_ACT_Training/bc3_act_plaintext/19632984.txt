@@ -1,0 +1,33 @@
+J. Biol. Chem.
+
+Intracellular phospholipase A1gamma (iPLA1gamma) is a novel factor involved in coat protein complex I- and Rab6-independent retrograde transport between the endoplasmic reticulum and the Golgi complex.
+
+RK Morikawa, J Aoki, F Kano, M Murata, A Yamamoto, M Tsujimoto, H Arai
+
+The mammalian intracellular phospholipase A(1) (iPLA(1)) family consists of three members, iPLA(1)alpha/PA-PLA(1), iPLA(1)beta/p125, and iPLA(1)gamma/KIAA0725p. Although iPLA(1)beta has been implicated in organization of the ER-Golgi compartments, little is known about the physiological role of its closest paralog, iPLA(1)gamma. Here we show that iPLA(1)gamma mediates a specific retrograde membrane transport pathway between the endoplasmic reticulum (ER) and the Golgi complex. iPLA(1)gamma appeared to be localized to the cytosol, the cis-Golgi, and the ER-Golgi intermediate compartment (ERGIC). Time-lapse microscopy revealed that a population of GFP-iPLA(1)gamma was associated with transport carriers moving out from the Golgi complex. Knockdown of iPLA(1)gamma expression by RNAi did not affect the anterograde transport of VSVGts045 but dramatically delayed two types of Golgi-to-ER retrograde membrane transport; that is, transfer of the Golgi membrane into the ER in the presence of brefeldin A and delivery of cholera toxin B subunit from the Golgi complex to the ER. Notably, knockdown of iPLA(1)gamma did not impair COPI- and Rab6-dependent retrograde transports represented by ERGIC-53 recycling and ER delivery of Shiga toxin, respectively. Thus, iPLA(1)gamma is a novel membrane transport factor that contributes to a specific Golgi-to-ER retrograde pathway distinct from presently characterized COPI- and Rab6-dependent pathways.
+
+-Animals
+-CHO Cells
+-Coat Protein Complex I (-genetics; +metabolism)
+-Cricetinae
+-Cricetulus
+-Cytosol (-metabolism; -ultrastructure)
+-Endoplasmic Reticulum (+metabolism; -ultrastructure)
+-Fluorescence Recovery After Photobleaching
+-Golgi Apparatus (+metabolism; -ultrastructure)
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Hela Cells
+-Humans
+-Microscopy, Electron
+-Microscopy, Fluorescence
+-Phospholipases A1 (-genetics; +metabolism)
+-Protein Transport
+-RNA, Small Interfering (-genetics)
+-Transfection
+-rab GTP-Binding Proteins (-genetics; +metabolism)
+
+pii:M109.038869
+doi:10.1074/jbc.M109.038869
+pubmed:19632984
+pmc:PMC2785350
+

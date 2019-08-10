@@ -1,0 +1,23 @@
+BMC Genomics
+
+Gene discovery using massively parallel pyrosequencing to develop ESTs for the flesh fly Sarcophaga crassipalpis.
+
+DA Hahn, GJ Ragland, DD Shoemaker, DL Denlinger
+
+BACKGROUND: Flesh flies in the genus Sarcophaga are important models for investigating endocrinology, diapause, cold hardiness, reproduction, and immunity. Despite the prominence of Sarcophaga flesh flies as models for insect physiology and biochemistry, and in forensic studies, little genomic or transcriptomic data are available for members of this genus. We used massively parallel pyrosequencing on the Roche 454-FLX platform to produce a substantial EST dataset for the flesh fly Sarcophaga crassipalpis. To maximize sequence diversity, we pooled RNA extracted from whole bodies of all life stages and normalized the cDNA pool after reverse transcription. RESULTS: We obtained 207,110 ESTs with an average read length of 241 bp. These reads assembled into 20,995 contigs and 31,056 singletons. Using BLAST searches of the NR and NT databases we were able to identify 11,757 unique gene elements (E<0.0001) representing approximately 9,000 independent transcripts. Comparison of the distribution of S. crassipalpis unigenes among GO Biological Process functional groups with that of the Drosophila melanogaster transcriptome suggests that our ESTs are broadly representative of the flesh fly transcriptome. Insertion and deletion errors in 454 sequencing present a serious hurdle to comparative transcriptome analysis. Aided by a new approach to correcting for these errors, we performed a comparative analysis of genetic divergence across GO categories among S. crassipalpis, D. melanogaster, and Anopheles gambiae. The results suggest that non-synonymous substitutions occur at similar rates across categories, although genes related to response to stimuli may evolve slightly faster. In addition, we identified over 500 potential microsatellite loci and more than 12,000 SNPs among our ESTs. CONCLUSION: Our data provides the first large-scale EST-project for flesh flies, a much-needed resource for exploring this model species. In addition, we identified a large number of potential microsatellite and SNP markers that could be used in population and systematic studies of S. crassipalpis and other flesh flies.
+
+-Animals
+-Diptera (+genetics)
++Expressed Sequence Tags
+-Gene Expression Profiling
+-Gene Library
++Genome, Insect
+-Microsatellite Repeats
+-Polymorphism, Single Nucleotide
+-Sequence Analysis, DNA (+methods)
+
+pii:1471-2164-10-234
+doi:10.1186/1471-2164-10-234
+pubmed:19454017
+pmc:PMC2700817
+

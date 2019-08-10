@@ -1,0 +1,29 @@
+J. Virol.
+
+Hepatitis C virus NS2 protein contributes to virus particle assembly via opposing epistatic interactions with the E1-E2 glycoprotein and NS3-NS4A enzyme complexes.
+
+T Phan, RK Beran, C Peters, IC Lorenz, BD Lindenbach
+
+The hepatitis C virus NS2 protein has been recently implicated in virus particle assembly. To further understand the role of NS2 in this process, we conducted a reverse genetic analysis of NS2 in the context of a chimeric genotype 2a infectious cell culture system. Of 32 mutants tested, all were capable of RNA replication and 25 had moderate-to-severe defects in virus assembly. Through forward genetic selection for variants capable of virus spread, we identified second-site mutations in E1, E2, NS2, NS3, and NS4A that suppressed NS2 defects in assembly. Two suppressor mutations, E1 A78T and NS3 Q221L, were further characterized by additional genetic and biochemical experiments. Both mutations were shown to suppress other NS2 defects, often with mutual exclusivity. Thus, several NS2 mutants were enhanced by NS3 Q221L and inhibited by E1 A78T, while others were enhanced by E1 A78T and inhibited by NS3 Q221L. Furthermore, we show that the NS3 Q221L mutation lowers the affinity of native, full-length NS3-NS4A for functional RNA binding. These data reveal a complex network of interactions involving NS2 and other viral structural and nonstructural proteins during virus assembly.
+
+-Amino Acid Sequence
+-Amino Acid Substitution (-genetics)
+-Carrier Proteins (-genetics; +metabolism)
+-Hepacivirus (+physiology)
+-Humans
+-Models, Molecular
+-Molecular Sequence Data
+-Mutation, Missense
+-Protein Binding
+-Protein Interaction Mapping
+-Suppression, Genetic
+-Viral Envelope Proteins (-genetics; +metabolism)
+-Viral Nonstructural Proteins (-genetics; +metabolism; +physiology)
+-Viral Proteins (-genetics; +metabolism)
++Virus Assembly
+
+pii:JVI.00891-09
+doi:10.1128/JVI.00891-09
+pubmed:19515772
+pmc:PMC2738163
+

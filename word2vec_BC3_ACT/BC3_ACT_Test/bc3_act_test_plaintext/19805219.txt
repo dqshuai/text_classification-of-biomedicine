@@ -1,0 +1,24 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+The continuity of protein structure space is an intrinsic property of proteins.
+
+J Skolnick, AK Arakaki, SY Lee, M Brylinski
+
+The classical view of the space of protein structures is that it is populated by a discrete set of protein folds. For proteins up to 200 residues long, by using structural alignments and building upon ideas of the completeness and continuity of structure space, we show that nearly any structure is significantly related to any other using a transitive set of no more than 7 intermediate structurally related proteins. This result holds for all structures in the Protein Data Bank, even when structural relationships between evolutionary related proteins (as detected by threading or functional analyses) are excluded. A similar picture holds for an artificial library of compact, hydrogen-bonded, homopolypeptide structures. The 3 sets share the global connectivity features of random graphs, in which the local connectivity of each node (i.e., the number of neighboring structures per protein) is preserved. This high connectivity supports the continuous view of single-domain protein structure space. More importantly, these results do not depend on evolution, rather just on the physics of protein structures. The fact that evolutionary divergence need not be invoked to explain the continuous nature of protein structure space has implications for how the universe of protein structures might have originated, and how function should be transferred between proteins of similar structure.
+
+-Biophysical Phenomena
+-Databases, Protein
+-Evolution, Molecular
+-Models, Molecular
+-Peptides (-chemistry)
+-Protein Folding
+-Protein Structure, Secondary
+-Proteins (+chemistry; -genetics)
+-Sequence Alignment
+-Structural Homology, Protein
+
+pii:0907683106
+doi:10.1073/pnas.0907683106
+pubmed:19805219
+pmc:PMC2747181
+

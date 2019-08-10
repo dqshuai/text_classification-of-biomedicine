@@ -1,0 +1,28 @@
+Biophys. J.
+
+An open model of actin dendritic nucleation.
+
+JA Ditlev, NM Vacanti, IL Novak, LM Loew
+
+The availability of quantitative experimental data on the kinetics of actin assembly has enabled the construction of many mathematical models focused on explaining specific behaviors of this complex system. However these ad hoc models are generally not reusable or accessible by the large community of actin biologists. In this work, we present a comprehensive model that integrates and unifies much of the in vitro data on the components of the dendritic nucleation mechanism for actin dynamics. More than 300 simulations have been run based on compartmental and three-dimensional spatial versions of this model. Several key findings are highlighted, including an explanation for the sharp boundary between actin assembly and disassembly in the lamellipodia of migrating cells. Because this model, with the simulation results, is "open source", in the sense that it is publicly available and editable through the Virtual Cell database (http://vcell.org), it can be accessed, analyzed, modified, and extended.
+
+-Actin Capping Proteins (-metabolism)
+-Actin Depolymerizing Factors (-metabolism)
+-Actin-Related Protein 2-3 Complex (-metabolism)
+-Actins (+metabolism)
+-Cell Movement (-physiology)
+-Computer Simulation
+-Cytoskeleton (-metabolism)
+-Internet
+-Kinetics
+-Microfilaments (+metabolism)
++Models, Biological
+-Pseudopodia (+metabolism)
+-Software
+-Video Recording
+
+pii:S0006-3495(09)00550-5
+doi:10.1016/j.bpj.2009.01.037
+pubmed:19413959
+pmc:PMC2711424
+

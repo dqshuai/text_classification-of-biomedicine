@@ -1,0 +1,30 @@
+Mol. Syst. Biol.
+
+An integrated network approach identifies the isobutanol response network of Escherichia coli.
+
+MP Brynildsen, JC Liao
+
+Isobutanol has emerged as a potential biofuel due to recent metabolic engineering efforts. Here we used gene expression and transcription network connectivity data, genetic knockouts, and network component analysis (NCA) to map the initial isobutanol response network of Escherichia coli under aerobic conditions. NCA revealed profound perturbations to respiration. Further investigation showed ArcA as an important mediator of this response. Quinone/quinol malfunction was postulated to activate ArcA, Fur, and PhoB in this study. In support of this hypothesis, quinone-linked ArcA and Fur target expressions were significantly less perturbed by isobutanol under fermentative growth whereas quinol-linked PhoB target expressions remained activated, and isobutanol impeded growth on glycerol, which requires quinones, more than on glucose. In addition, ethanol, n-butanol, and isobutanol response networks were compared. n-Butanol and isobutanol responses were qualitatively similar, whereas ethanol had notable induction differences of pspABCDE and ndh, whose gene products manage proton motive force. The network described here could aid design and comprehension of alcohol tolerance, whereas the approach provides a general framework to characterize complex phenomena at the systems level.
+
+-1-Butanol (-metabolism; -pharmacology)
+-Bacterial Outer Membrane Proteins (-genetics; -metabolism)
+-Bacterial Proteins (-genetics; -metabolism)
+-Benzoquinones (-metabolism)
+-Bioelectric Energy Sources
+-Butanols (-metabolism; +pharmacology)
+-Escherichia coli (+drug effects; -genetics; +metabolism)
+-Escherichia coli Proteins (-genetics; -metabolism)
+-Ethanol (-metabolism)
+-Gene Regulatory Networks
+-Glycerol (-metabolism)
+-Metabolic Networks and Pathways
+-Models, Genetic
+-Quinones (-metabolism)
+-Repressor Proteins (-genetics; -metabolism)
+-Stress, Physiological
+
+pii:msb200934
+doi:10.1038/msb.2009.34
+pubmed:19536200
+pmc:PMC2710865
+

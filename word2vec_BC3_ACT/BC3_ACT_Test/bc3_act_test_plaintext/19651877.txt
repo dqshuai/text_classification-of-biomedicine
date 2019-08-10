@@ -1,0 +1,25 @@
+Nucleic Acids Res.
+
+Organization of developmental enhancers in the Drosophila embryo.
+
+D Papatsenko, Y Goltsev, M Levine
+
+Most cell-specific enhancers are thought to lack an inherent organization, with critical binding sites distributed in a more or less random fashion. However, there are examples of fixed arrangements of binding sites, such as helical phasing, that promote the formation of higher-order protein complexes on the enhancer DNA template. Here, we investigate the regulatory 'grammar' of nearly 100 characterized enhancers for developmental control genes active in the early Drosophila embryo. The conservation of grammar is examined in seven divergent Drosophila genomes. Linked binding sites are observed for particular combinations of binding motifs, including Bicoid-Bicoid, Hunchback-Hunchback, Bicoid-Dorsal, Bicoid-Caudal and Dorsal-Twist. Direct evidence is presented for the importance of Bicoid-Dorsal linkage in the integration of the anterior-posterior and dorsal-ventral patterning systems. Hunchback-Hunchback interactions help explain unresolved aspects of segmentation, including the differential regulation of the eve stripe 3 + 7 and stripe 4 + 6 enhancers. We also present evidence that there is an under-representation of nucleosome positioning sequences in many enhancers, raising the possibility for a subtle higher-order structure extending across certain enhancers. We conclude that grammar of gene control regions is pervasively used in the patterning of the Drosophila embryo.
+
+-Animals
+-Base Sequence
+-Binding Sites
+-Conserved Sequence
+-Drosophila (-genetics)
+-Drosophila Proteins (+metabolism)
+-Drosophila melanogaster (-embryology; +genetics)
+-Embryo, Nonmammalian (-metabolism)
++Enhancer Elements, Genetic
++Gene Expression Regulation, Developmental
+-Transcription Factors (+metabolism)
+
+pii:gkp619
+doi:10.1093/nar/gkp619
+pubmed:19651877
+pmc:PMC2761283
+

@@ -1,0 +1,19 @@
+Virology
+
+Differential requirement of ribosomal protein S6 by plant RNA viruses with different translation initiation strategies.
+
+C Yang, C Zhang, JD Dittman, SA Whitham
+
+Potyvirus infection has been reported to cause an increase in the mRNA transcripts of many plant ribosomal proteins (r-proteins). In this study, increased expression of r-protein mRNA transcripts was determined to occur in Nicotiana benthamiana during infection by potyviruses as well as a tobamovirus demonstrating that this response is not unique to potyviruses. Five r-protein genes, RPS6, RPL19, RPL13, RPL7, and RPS2, were silenced in N. benthamiana to test their roles in viral infection. The accumulation of both Turnip mosaic virus (TuMV), a potyvirus, and Tobacco mosaic virus (TMV), a tobamovirus, was dependent on RPL19, RPL13, RPL7, and RPS2. However, TMV was able to accumulate in RPS6-silenced plants while accumulation of TuMV and Tomato bushy stunt virus (TBSV) was abolished. These results demonstrate that cap-independent TuMV and TBSV require RPS6 for their accumulation, whereas accumulation of TMV is independent of RPS6.
+
+-Gene Silencing
++Peptide Chain Initiation, Translational
+-Potyvirus (-growth & development; +physiology)
+-Ribosomal Protein S6 (+biosynthesis)
+-Tobacco (+virology)
+-Tobamovirus (-growth & development; +physiology)
+
+pii:S0042-6822(09)00306-7
+doi:10.1016/j.virol.2009.05.018
+pubmed:19524993
+

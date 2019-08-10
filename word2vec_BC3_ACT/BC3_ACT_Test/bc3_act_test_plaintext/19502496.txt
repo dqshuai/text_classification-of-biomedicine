@@ -1,0 +1,21 @@
+Nucleic Acids Res.
+
+Using genome-wide measurements for computational prediction of SH2-peptide interactions.
+
+Z Wunderlich, LA Mirny
+
+Peptide-recognition modules (PRMs) are used throughout biology to mediate protein-protein interactions, and many PRMs are members of large protein domain families. Recent genome-wide measurements describe networks of peptide-PRM interactions. In these networks, very similar PRMs recognize distinct sets of peptides, raising the question of how peptide-recognition specificity is achieved using similar protein domains. The analysis of individual protein complex structures often gives answers that are not easily applicable to other members of the same PRM family. Bioinformatics-based approaches, one the other hand, may be difficult to interpret physically. Here we integrate structural information with a large, quantitative data set of SH2 domain-peptide interactions to study the physical origin of domain-peptide specificity. We develop an energy model, inspired by protein folding, based on interactions between the amino-acid positions in the domain and peptide. We use this model to successfully predict which SH2 domains and peptides interact and uncover the positions in each that are important for specificity. The energy model is general enough that it can be applied to other members of the SH2 family or to new peptides, and the cross-validation results suggest that these energy calculations will be useful for predicting binding interactions. It can also be adapted to study other PRM families, predict optimal peptides for a given SH2 domain, or study other biological interactions, e.g. protein-DNA interactions.
+
+-Genomics
+-Models, Chemical
+-Models, Molecular
+-Phosphopeptides (+chemistry)
+-Phosphotyrosine (-chemistry)
+-Protein Interaction Mapping
++src Homology Domains
+
+pii:gkp394
+doi:10.1093/nar/gkp394
+pubmed:19502496
+pmc:PMC2724268
+

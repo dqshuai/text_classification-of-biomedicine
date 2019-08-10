@@ -1,0 +1,24 @@
+PLoS Comput. Biol.
+
+Cooperativity dominates the genomic organization of p53-response elements: a mechanistic view.
+
+Y Pan, R Nussinov
+
+p53-response elements (p53-REs) are organized as two repeats of a palindromic DNA segment spaced by 0 to 20 base pairs (bp). Several experiments indicate that in the vast majority of the human p53-REs there are no spacers between the two repeats; those with spacers, particularly with sizes beyond two nucleotides, are rare. This raises the question of what it indicates about the factors determining the p53-RE genomic organization. Clearly, given the double helical DNA conformation, the orientation of two p53 core domain dimers with respect to each other will vary depending on the spacer size: a small spacer of 0 to 2 bps will lead to the closest p53 dimer-dimer orientation; a 10-bp spacer will locate the p53 dimers on the same DNA face but necessitate DNA looping; while a 5-bp spacer will position the p53 dimers on opposite DNA faces. Here, via conformational analysis we show that when there are 0-2 bp spacers, p53-DNA binding is cooperative; however, cooperativity is greatly diminished when there are spacers with sizes beyond 2 bp. Cooperative binding is broadly recognized to be crucial for biological processes, including transcriptional regulation. Our results clearly indicate that cooperativity of the p53-DNA association dominates the genomic organization of the p53-REs, raising questions of the structural organization and functional roles of p53-REs with larger spacers. We further propose that a dynamic landscape scenario of p53 and p53-REs can better explain the selectivity of the degenerate p53-REs. Our conclusions bear on the evolutionary preference of the p53-RE organization and as such, are expected to have broad implications to other multimeric transcription factor response element organization.
+
+-Computer Simulation
+-DNA (+chemistry)
+-Humans
++Models, Genetic
+-Models, Molecular
+-Protein Interaction Domains and Motifs
+-Protein Multimerization
+-Response Elements (+genetics)
+-Systems Biology
+-Thermodynamics
+-Tumor Suppressor Protein p53 (-chemistry; +genetics)
+
+doi:10.1371/journal.pcbi.1000448
+pubmed:19629163
+pmc:PMC2705680
+

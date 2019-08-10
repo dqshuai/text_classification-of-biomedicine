@@ -1,0 +1,26 @@
+Nucleic Acids Res.
+
+The structure of CrgA from Neisseria meningitidis reveals a new octameric assembly state for LysR transcriptional regulators.
+
+S Sainsbury, LA Lane, J Ren, RJ Gilbert, NJ Saunders, CV Robinson, DI Stuart, RJ Owens
+
+LysR-type transcriptional regulators (LTTRs) form the largest family of bacterial regulators acting as both auto-repressors and activators of target promoters, controlling operons involved in a wide variety of cellular processes. The LTTR, CrgA, from the human pathogen Neisseria meningitidis, is upregulated during bacterial-host cell contact. Here, we report the crystal structures of both regulatory domain and full-length CrgA, the first of a novel subclass of LTTRs that form octameric rings. Non-denaturing mass spectrometry analysis and analytical ultracentrifugation established that the octameric form of CrgA is the predominant species in solution in both the presence and absence of an oligonucleotide encompassing the CrgA-binding sequence. Furthermore, analysis of the isolated CrgA-DNA complex by mass spectrometry showed stabilization of a double octamer species upon DNA binding. Based on the observed structure and the mass spectrometry findings, a model is proposed in which a hexadecameric array of two CrgA oligomers binds to its DNA target site.
+
+-Amino Acid Sequence
+-Bacterial Proteins (+chemistry; -metabolism)
+-Binding Sites
+-Crystallography, X-Ray
+-DNA (-chemistry; -metabolism)
+-Mass Spectrometry
+-Models, Molecular
+-Molecular Sequence Data
+-Protein Multimerization
+-Protein Structure, Tertiary
+-Transcription Factors (+chemistry; -metabolism)
+-Ultracentrifugation
+
+pii:gkp445
+doi:10.1093/nar/gkp445
+pubmed:19474343
+pmc:PMC2724274
+

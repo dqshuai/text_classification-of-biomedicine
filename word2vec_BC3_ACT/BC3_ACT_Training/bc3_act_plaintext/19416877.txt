@@ -1,0 +1,26 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Functional electric field changes in photoactivated proteins revealed by ultrafast Stark spectroscopy of the Trp residues.
+
+J Léonard, E Portuondo-Campa, A Cannizzo, F van Mourik, G van der Zwan, J Tittor, S Haacke, M Chergui
+
+Ultrafast transient absorption spectroscopy of wild-type bacteriorhodopsin (WT bR) and 2 tryptophan mutants (W86F and W182F) is performed with visible light excitation (pump) and UV probe. The aim is to investigate the photoinduced change in the charge distribution with 50-fs time resolution by probing the effects on the tryptophan absorption bands. A systematic, quantitative comparison of the transient absorption of the 3 samples is carried out. The main result is the absence in the W86F mutant of a transient induced absorption band observed at approximately 300-310 nm in WT bR and W182F. A simple model describing the dipolar interaction of the retinal moiety with the 2 tryptophan residues of interest allows us to reproduce the dominant features of the transient signals observed in the 3 samples at ultrashort pump-probe delays. In particular, we show that Trp(86) undergoes a significant Stark shift induced by the transient retinal dipole moment. The corresponding transient signal can be isolated by direct subtraction of experimental data obtained for WT bR and W86F. It shows an instantaneous rise, followed by a decay over approximately 500 fs corresponding to the isomerization time. Interestingly, it does not decay back to zero, thus revealing a change in the local electrostatic environment that remains long after isomerization, in the K intermediate state of the protein cycle. The comparison of WT bR and W86F also leads to a revised interpretation of the overall transient UV absorption of bR.
+
+-Bacteriorhodopsins (-chemistry)
+-Biophysics (-methods)
+-Electrochemistry (-methods)
++Light
+-Molecular Conformation
+-Molecular Structure
+-Mutation
+-Photochemistry (-methods)
+-Spectrophotometry (+methods)
+-Spectrophotometry, Ultraviolet (-methods)
+-Tryptophan (+chemistry)
+-Ultraviolet Rays
+
+pii:0812877106
+doi:10.1073/pnas.0812877106
+pubmed:19416877
+pmc:PMC2683101
+

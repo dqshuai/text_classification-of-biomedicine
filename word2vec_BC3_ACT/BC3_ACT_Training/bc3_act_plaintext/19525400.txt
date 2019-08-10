@@ -1,0 +1,25 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Inactivation of CDK2 is synthetically lethal to MYCN over-expressing cancer cells.
+
+JJ Molenaar, ME Ebus, D Geerts, J Koster, F Lamers, LJ Valentijn, EM Westerhout, R Versteeg, HN Caron
+
+Two genes have a synthetically lethal relationship when the silencing or inhibiting of 1 gene is only lethal in the context of a mutation or activation of the second gene. This situation offers an attractive therapeutic strategy, as inhibition of such a gene will only trigger cell death in tumor cells with an activated second oncogene but spare normal cells without activation of the second oncogene. Here we present evidence that CDK2 is synthetically lethal to neuroblastoma cells with MYCN amplification and over-expression. Neuroblastomas are childhood tumors with an often lethal outcome. Twenty percent of the tumors have MYCN amplification, and these tumors are ultimately refractory to any therapy. Targeted silencing of CDK2 by 3 RNA interference techniques induced apoptosis in MYCN-amplified neuroblastoma cell lines, but not in MYCN single copy cells. Silencing of MYCN abrogated this apoptotic response in MYCN-amplified cells. Inversely, silencing of CDK2 in MYCN single copy cells did not trigger apoptosis, unless a MYCN transgene was activated. The MYCN induced apoptosis after CDK2 silencing was accompanied by nuclear stabilization of P53, and mRNA profiling showed up-regulation of P53 target genes. Silencing of P53 rescued the cells from MYCN-driven apoptosis. The synthetic lethality of CDK2 silencing in MYCN activated neuroblastoma cells can also be triggered by inhibition of CDK2 with a small molecule drug. Treatment of neuroblastoma cells with roscovitine, a CDK inhibitor, at clinically achievable concentrations induced MYCN-dependent apoptosis. The synthetically lethal relationship between CDK2 and MYCN indicates CDK2 inhibitors as potential MYCN-selective cancer therapeutics.
+
+-Apoptosis (-drug effects)
+-Cell Line, Tumor
+-Cyclin-Dependent Kinase 2 (+antagonists & inhibitors; -genetics)
+-Gene Amplification
+-Humans
+-Neuroblastoma (-genetics; -pathology; +therapy)
+-Nuclear Proteins (+genetics)
+-Oncogene Proteins (+genetics)
+-Purines (-pharmacology)
+-RNA Interference
+-Tumor Suppressor Protein p53 (-physiology)
+
+pii:0901418106
+doi:10.1073/pnas.0901418106
+pubmed:19525400
+pmc:PMC2695754
+

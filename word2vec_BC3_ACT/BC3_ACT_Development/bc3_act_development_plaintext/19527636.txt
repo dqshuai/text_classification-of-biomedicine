@@ -1,0 +1,18 @@
+Biophys. J.
+
+Mechanisms and constraints on yeast MAPK signaling specificity.
+
+B Hu, WJ Rappel, H Levine
+
+The survival of cells relies on their ability to respond specifically to diverse environmental signals. Surprisingly, intracellular signaling pathways often share the same or homologous protein components, yet undesirable crosstalk is, in general, suppressed. This signaling specificity has been well studied in the yeast model system Saccharomyces cerevisiae, where the mitogen-activated protein kinase (MAPK) cascades are repeatedly employed in mediating distinct biological processes including pheromone-induced mating and filamentous growth under starvation. Although various mechanisms have been proposed to interpret the yeast MAPK signaling specificity, a consistent theory is still lacking. Here, we present a mathematical model that shows signaling specificity can arise through asymmetric hierarchical inhibition. The parameters of our model are, where possible, based on experimental data that allow us to determine the constraints imposed by signaling specificity on these parameters. Our model is in broad agreement with experimental observations to date and generates testable predictions that may stimulate further research.
+
+-Computer Simulation
++MAP Kinase Signaling System
+-Models, Biological
+-Saccharomyces cerevisiae (+metabolism)
+
+pii:S0006-3495(09)00674-2
+doi:10.1016/j.bpj.2009.02.065
+pubmed:19527636
+pmc:PMC2712056
+

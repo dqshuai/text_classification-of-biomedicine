@@ -1,0 +1,28 @@
+Dev. Cell
+
+Wnt2/2b and beta-catenin signaling are necessary and sufficient to specify lung progenitors in the foregut.
+
+AM Goss, Y Tian, T Tsukiyama, ED Cohen, D Zhou, MM Lu, TP Yamaguchi, EE Morrisey
+
+Patterning of the primitive foregut promotes appropriate organ specification along its anterior-posterior axis. However, the molecular pathways specifying foregut endoderm progenitors are poorly understood. We show here that Wnt2/2b signaling is required to specify lung endoderm progenitors within the anterior foregut. Embryos lacking Wnt2/2b expression exhibit complete lung agenesis and do not express Nkx2.1, the earliest marker of the lung endoderm. In contrast, other foregut endoderm-derived organs, including the thyroid, liver, and pancreas, are correctly specified. The phenotype observed is recapitulated by an endoderm-restricted deletion of beta-catenin, demonstrating that Wnt2/2b signaling through the canonical Wnt pathway is required to specify lung endoderm progenitors within the foregut. Moreover, activation of canonical Wnt/beta-catenin signaling results in the reprogramming of esophagus and stomach endoderm to a lung endoderm progenitor fate. Together, these data reveal that canonical Wnt2/2b signaling is required for the specification of lung endoderm progenitors in the developing foregut.
+
+-Animals
+-Body Patterning (-physiology)
++Digestive System (-anatomy & histology; -embryology)
+-Endoderm (-cytology; -physiology)
++Lung (-anatomy & histology; -embryology)
+-Mice
+-Mice, Inbred C57BL
+-Mice, Knockout
+-Signal Transduction (+physiology)
+-Stem Cells (-cytology; +physiology)
+-Wnt Proteins (-genetics; +metabolism)
+-Wnt2 Protein (-genetics; +metabolism)
+-beta Catenin (-genetics; +metabolism)
+
+pii:S1534-5807(09)00222-6
+doi:10.1016/j.devcel.2009.06.005
+pubmed:19686689
+mid:NIHMS123766
+pmc:PMC2763331
+

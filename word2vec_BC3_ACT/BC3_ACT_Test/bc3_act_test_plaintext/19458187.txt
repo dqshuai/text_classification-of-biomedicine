@@ -1,0 +1,29 @@
+Mol. Biol. Cell
+
+Intrinsic conformational determinants signal protein misfolding to the Hrd1/Htm1 endoplasmic reticulum-associated degradation system.
+
+W Xie, K Kanehara, A Sayeed, DT Ng
+
+Endoplasmic reticulum (ER) quality control mechanisms monitor the folding of nascent polypeptides of the secretory pathway. These are dynamic processes that retain folding proteins, promote the transport of conformationally mature proteins, and target misfolded proteins to ER-associated degradation (ERAD) pathways. Aided by the identification of numerous ERAD factors, late functions that include substrate extraction, ubiquitination, and degradation are fairly well described. By contrast, the mechanisms of substrate recognition remain mysterious. For some substrates, a specific N-linked glycan forms part of the recognition code but how it is read is incompletely understood. In this study, systematic analysis of model substrates revealed such glycans mark structural determinants that are sensitive to the overall folding state of the molecule. This strategy effectively generates intrinsic folding sensors that communicate with high fidelity to ERAD. Normally, these segments fold into the mature structure to pass the ERAD checkpoint. However, should a molecule fail to fold completely, they form a bipartite signal that comprises the unfolded local structure and adjacent enzymatically remodeled glycan. Only if both elements are present will the substrate be targeted to the ERAD pathway for degradation.
+
+-Endoplasmic Reticulum (+metabolism)
+-Glycoproteins (-chemistry; -metabolism)
+-Mannosidases (+metabolism)
+-Models, Biological
+-Molecular Chaperones (-metabolism)
+-Peptides (-chemistry; -metabolism)
++Protein Folding
++Protein Processing, Post-Translational
+-Protein Sorting Signals
+-Protein Structure, Secondary
+-Protein Structure, Tertiary
+-Saccharomyces cerevisiae (+metabolism)
+-Saccharomyces cerevisiae Proteins (-chemistry; +metabolism)
+-Substrate Specificity
+-Ubiquitin-Protein Ligases (+metabolism)
+
+pii:E09-03-0231
+doi:10.1091/mbc.E09-03-0231
+pubmed:19458187
+pmc:PMC2710827
+

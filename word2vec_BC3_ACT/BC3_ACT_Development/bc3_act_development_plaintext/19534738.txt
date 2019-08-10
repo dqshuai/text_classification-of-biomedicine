@@ -1,0 +1,21 @@
+BMC Bioinformatics
+
+A chemogenomics view on protein-ligand spaces.
+
+H Strömbergsson, GJ Kleywegt
+
+BACKGROUND: Chemogenomics is an emerging inter-disciplinary approach to drug discovery that combines traditional ligand-based approaches with biological information on drug targets and lies at the interface of chemistry, biology and informatics. The ultimate goal in chemogenomics is to understand molecular recognition between all possible ligands and all possible drug targets. Protein and ligand space have previously been studied as separate entities, but chemogenomics studies deal with large datasets that cover parts of the joint protein-ligand space. Since drug discovery has traditionally focused on ligand optimization, the chemical space has been studied extensively. The protein space has been studied to some extent, typically for the purpose of classification of proteins into functional and structural classes. Since chemogenomics deals not only with ligands but also with the macromolecules the ligands interact with, it is of interest to find means to explore, compare and visualize protein-ligand subspaces. RESULTS: Two chemogenomics protein-ligand interaction datasets were prepared for this study. The first dataset covers the known structural protein-ligand space, and includes all non-redundant protein-ligand interactions found in the worldwide Protein Data Bank (PDB). The second dataset contains all approved drugs and drug targets stored in the DrugBank database, and represents the approved drug-drug target space. To capture biological and physicochemical features of the chemogenomics datasets, sequence-based descriptors were computed for the proteins, and 0, 1 and 2 dimensional descriptors for the ligands. Principal component analysis (PCA) was used to analyze the multidimensional data and to create global models of protein-ligand space. The nearest neighbour method, computed using the principal components, was used to obtain a measure of overlap between the datasets. CONCLUSION: In this study, we present an approach to visualize protein-ligand spaces from a chemogenomics perspective, where both ligand and protein features are taken into account. The method can be applied to any protein-ligand interaction dataset. Here, the approach is applied to analyze the structural protein-ligand space and the protein-ligand space of all approved drugs and their targets. We show that this approach can be used to visualize and compare chemogenomics datasets, and possibly to identify cross-interaction complexes in protein-ligand space.
+
+-Binding Sites
+-Computational Biology (+methods)
+-Databases, Protein
+-Drug Discovery (+methods)
+-Genomics (+methods)
+-Ligands
+-Proteins (+chemistry)
+
+pii:1471-2105-10-S6-S13
+doi:10.1186/1471-2105-10-S6-S13
+pubmed:19534738
+pmc:PMC2697636
+

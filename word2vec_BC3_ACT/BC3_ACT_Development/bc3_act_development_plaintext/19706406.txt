@@ -1,0 +1,22 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+High-sensitivity microfluidic calorimeters for biological and chemical applications.
+
+W Lee, W Fon, BW Axelrod, ML Roukes
+
+High-sensitivity microfluidic calorimeters raise the prospect of achieving high-throughput biochemical measurements with minimal sample consumption. However, it has been challenging to realize microchip-based calorimeters possessing both high sensitivity and precise sample-manipulation capabilities. Here, we report chip-based microfluidic calorimeters capable of characterizing the heat of reaction of 3.5-nL samples with 4.2-nW resolution. Our approach, based on a combination of hard- and soft-polymer microfluidics, provides both exceptional thermal response and the physical strength necessary to construct high-sensitivity calorimeters that can be scaled to automated, highly multiplexed array architectures. Polydimethylsiloxane microfluidic valves and pumps are interfaced to parylene channels and reaction chambers to automate the injection of analyte at 1 nL and below. We attained excellent thermal resolution via on-chip vacuum encapsulation, which provides unprecedented thermal isolation of the minute microfluidic reaction chambers. We demonstrate performance of these calorimeters by resolving measurements of the heat of reaction of urea hydrolysis and the enthalpy of mixing of water with methanol. The device structure can be adapted easily to enable a wide variety of other standard calorimeter operations; one example, a flow calorimeter, is described.
+
+-Calorimetry (+instrumentation)
+-Hot Temperature
+-Hydrolysis
++Lab-On-A-Chip Devices
+-Methanol (-chemistry)
+-Microfluidic Analytical Techniques (+instrumentation)
+-Urea (-chemistry)
+-Water (-chemistry)
+
+pii:0901447106
+doi:10.1073/pnas.0901447106
+pubmed:19706406
+pmc:PMC2741232
+

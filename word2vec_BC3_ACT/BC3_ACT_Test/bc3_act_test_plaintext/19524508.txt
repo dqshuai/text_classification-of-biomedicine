@@ -1,0 +1,29 @@
+Cell
+
+Cyfip1 is a putative invasion suppressor in epithelial cancers.
+
+JM Silva, E Ezhkova, J Silva, S Heart, M Castillo, Y Campos, V Castro, F Bonilla, C Cordon-Cardo, SK Muthuswamy, S Powers, E Fuchs, GJ Hannon
+
+Identification of bona fide tumor suppressors is often challenging because of the large number of genetic alterations present in most human cancers. To evaluate candidate genes present within chromosomal regions recurrently deleted in human cancers, we coupled high-resolution genomic analysis with a two-stage genetic study using RNA interference (RNAi). We found that Cyfip1, a subunit of the WAVE complex, which regulates cytoskeletal dynamics, is commonly deleted in human epithelial cancers. Reduced expression of CYFIP1 is commonly observed during invasion of epithelial tumors and is associated with poor prognosis in this setting. Silencing of Cyfip1 disturbed normal epithelial morphogenesis in vitro and cooperated with oncogenic Ras to produce invasive carcinomas in vivo. Mechanistically, we have linked alterations in WAVE-regulated actin dynamics with impaired cell-cell adhesion and cell-ECM interactions. Thus, we propose Cyfip1 as an invasion suppressor gene.
+
+-Adaptor Proteins, Signal Transducing (+metabolism)
+-Animals
+-Carcinoma (-diagnosis; +metabolism; -pathology)
+-Cell Line, Tumor
+-Cells, Cultured
+-Epithelial Cells (-metabolism)
+-Gene Expression Profiling
+-Gene Expression Regulation, Neoplastic
+-Humans
+-Keratinocytes (-metabolism)
+-Mice
++Neoplasm Invasiveness
+-Neoplasm Transplantation
+-Transplantation, Heterologous
+
+pii:S0092-8674(09)00401-2
+doi:10.1016/j.cell.2009.04.013
+pubmed:19524508
+mid:NIHMS124373
+pmc:PMC2754270
+

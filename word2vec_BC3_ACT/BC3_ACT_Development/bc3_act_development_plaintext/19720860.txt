@@ -1,0 +1,23 @@
+Genetics
+
+MNR2 regulates intracellular magnesium storage in Saccharomyces cerevisiae.
+
+NP Pisat, A Pandey, CW Macdiarmid
+
+Magnesium (Mg) is an essential enzyme cofactor and a key structural component of biological molecules, but relatively little is known about the molecular components required for Mg homeostasis in eukaryotic cells. The yeast genome encodes four characterized members of the CorA Mg transporter superfamily located in the plasma membrane (Alr1 and Alr2) or the mitochondrial inner membrane (Mrs2 and Lpe10). We describe a fifth yeast CorA homolog (Mnr2) required for Mg homeostasis. MNR2 gene inactivation was associated with an increase in both the Mg requirement and the Mg content of yeast cells. In Mg-replete conditions, wild-type cells accumulated an intracellular store of Mg that supported growth under deficient conditions. An mnr2 mutant was unable to access this store, suggesting that Mg was trapped in an intracellular compartment. Mnr2 was localized to the vacuole membrane, implicating this organelle in Mg storage. The mnr2 mutant growth and Mg-content phenotypes were dependent on vacuolar proton-ATPase activity, but were unaffected by the loss of mitochondrial Mg uptake, indicating a specific dependence on vacuole function. Overexpression of Mnr2 suppressed the growth defect of an alr1 alr2 mutant, indicating that Mnr2 could function independently of the ALR genes. Together, our results implicate a novel eukaryotic CorA homolog in the regulation of intracellular Mg storage.
+
+-Cation Transport Proteins (-genetics; -metabolism; +physiology)
+-Gene Deletion
+-Homeostasis
+-Immunoblotting
+-Magnesium (+metabolism)
+-Mutation
+-Saccharomyces cerevisiae (-genetics; -growth & development; +metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; -metabolism; +physiology)
+-Vacuoles (-metabolism)
+
+pii:genetics.109.106419
+doi:10.1534/genetics.109.106419
+pubmed:19720860
+pmc:PMC2778983
+

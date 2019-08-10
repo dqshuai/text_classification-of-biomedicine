@@ -1,0 +1,25 @@
+Mol. Syst. Biol.
+
+Protein sequestration generates a flexible ultrasensitive response in a genetic network.
+
+NE Buchler, FR Cross
+
+Ultrasensitive responses are crucial for cellular regulation. Protein sequestration, where an active protein is bound in an inactive complex by an inhibitor, can potentially generate ultrasensitivity. Here, in a synthetic genetic circuit in budding yeast, we show that sequestration of a basic leucine zipper transcription factor by a dominant-negative inhibitor converts a graded transcriptional response into a sharply ultrasensitive response, with apparent Hill coefficients up to 12. A simple quantitative model for this genetic network shows that both the threshold and the degree of ultrasensitivity depend upon the abundance of the inhibitor, exactly as we observed experimentally. The abundance of the inhibitor can be altered by simple mutation; thus, ultrasensitive responses mediated by protein sequestration are easily tuneable. Gene duplication of regulatory homodimers and loss-of-function mutations can create dominant negatives that sequester and inactivate the original regulator. The generation of flexible ultrasensitive responses is an unappreciated adaptive advantage that could explain the frequent evolutionary emergence of dominant negatives.
+
+-Basic-Leucine Zipper Transcription Factors (-genetics; +metabolism)
+-Fungal Proteins (-genetics; -metabolism)
+-Gene Expression Regulation, Fungal
++Gene Regulatory Networks
+-Genes, Dominant
+-Genetic Engineering (+methods)
++Models, Genetic
+-Mutation
+-Saccharomycetales (-genetics)
+-Trans-Activators (-genetics)
+-Transcription, Genetic
+
+pii:msb200930
+doi:10.1038/msb.2009.30
+pubmed:19455136
+pmc:PMC2694680
+

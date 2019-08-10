@@ -1,0 +1,33 @@
+J. Cell Biol.
+
+Cells satisfy the mitotic checkpoint in Taxol, and do so faster in concentrations that stabilize syntelic attachments.
+
+Z Yang, AE Kenny, DA Brito, CL Rieder
+
+To determine why the duration of mitosis (DM) is less in Taxol than in nocodazole or Eg5 inhibitors we studied the relationship between Taxol concentration, the DM, and the mitotic checkpoint. We found that unlike for other spindle poisons, in Taxol the DM becomes progressively shorter as the concentration surpasses approximately 0.5 microM. Studies on RPE1 and PtK2 expressing GFP/cyclin B or YFP/Mad2 revealed that cells ultimately satisfy the checkpoint in Taxol and do so faster at concentrations >0.5 microM. Inhibiting the aurora-B kinase in Taxol-treated RPE1 cells accelerates checkpoint satisfaction by stabilizing syntelic kinetochore attachments and reduces the DM to approximately 1.5 h regardless of drug concentration. A similar stabilization of syntelic attachments by Taxol itself appears responsible for accelerated checkpoint satisfaction at concentrations >0.5 microM. Our results provide a novel conceptual framework for how Taxol prolongs mitosis and caution against using it in checkpoint studies. They also offer an explanation for why some cells are more sensitive to lower versus higher Taxol concentrations.
+
+-Animals
+-Calcium-Binding Proteins (-metabolism)
+-Cell Cycle Proteins (-genetics; -metabolism)
+-Cell Line
+-Cyclin B (-genetics; -metabolism)
++Dose-Response Relationship, Drug
+-Focal Adhesion Kinase 1 (-metabolism)
+-Hesperidin (-pharmacology)
+-Humans
+-Kinetochores (+metabolism)
+-Microtubules (-drug effects; -metabolism)
+-Mitosis (+drug effects; -physiology)
+-Mitotic Spindle Apparatus (-drug effects; -metabolism)
+-Nocodazole (-pharmacology)
+-Paclitaxel (+pharmacology)
+-Protein-Serine-Threonine Kinases (-antagonists & inhibitors; -metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Repressor Proteins (-metabolism)
+-Tubulin Modulators (+pharmacology)
+
+pii:jcb.200906150
+doi:10.1083/jcb.200906150
+pubmed:19720871
+pmc:PMC2742195
+

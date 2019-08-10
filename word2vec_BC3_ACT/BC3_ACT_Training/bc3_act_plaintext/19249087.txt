@@ -1,0 +1,26 @@
+Cell
+
+A PP2A regulatory subunit regulates C. elegans insulin/IGF-1 signaling by modulating AKT-1 phosphorylation.
+
+S Padmanabhan, A Mukhopadhyay, SD Narasimhan, G Tesz, MP Czech, HA Tissenbaum
+
+The C. elegans insulin/IGF-1 signaling (IIS) cascade plays a central role in regulating life span, dauer, metabolism, and stress. The major regulatory control of IIS is through phosphorylation of its components by serine/threonine-specific protein kinases. An RNAi screen for serine/threonine protein phosphatases that counterbalance the effect of the kinases in the IIS pathway identified pptr-1, a B56 regulatory subunit of the PP2A holoenzyme. Modulation of pptr-1 affects IIS pathway-associated phenotypes including life span, dauer, stress resistance, and fat storage. We show that PPTR-1 functions by regulating worm AKT-1 phosphorylation at Thr 350. With striking conservation, mammalian B56beta regulates Akt phosphorylation at Thr 308 in 3T3-L1 adipocytes. In C. elegans, this ultimately leads to changes in subcellular localization and transcriptional activity of the forkhead transcription factor DAF-16. This study reveals a conserved role for the B56 regulatory subunit in regulating insulin signaling through AKT dephosphorylation, thereby having widespread implications in cancer and diabetes research.
+
+-Animals
+-Caenorhabditis elegans (-growth & development; +metabolism)
+-Caenorhabditis elegans Proteins (+metabolism)
+-Insulin (+metabolism)
+-Insulin-Like Growth Factor I (+metabolism)
+-Longevity
+-Phosphoric Monoester Hydrolases (-analysis)
+-Phosphorylation
+-Proto-Oncogene Proteins c-akt (+metabolism)
+-Receptors, Cell Surface (-metabolism)
++Signal Transduction
+
+pii:S0092-8674(09)00073-7
+doi:10.1016/j.cell.2009.01.025
+pubmed:19249087
+mid:NIHMS103939
+pmc:PMC2707143
+

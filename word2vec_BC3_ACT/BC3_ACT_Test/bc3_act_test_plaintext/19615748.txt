@@ -1,0 +1,29 @@
+Mol. Immunol.
+
+Proteomic identification of an MHC-binding peptidome from pancreas and breast cancer cell lines.
+
+K Antwi, PD Hanavan, CE Myers, YW Ruiz, EJ Thompson, DF Lake
+
+Peptides bound to cell surface MHC class I molecules allow the immune system to recognize intracellular pathogens and tumor-derived peptides. Our goal was to learn what the immune system "sees" on the surfaces of tumor cells by acid-eluting peptides from HLA molecules for extended time periods. We determined how long peptides would continue to elute over time from a pancreatic tumor cell line, Panc-1, and a breast cancer cell line, MCF-7, at pH 3.0 in citrate buffer while monitoring viability. Both cell lines demonstrated greater than 90% viability after 25min at pH 3.0. Panc-1 remained >90% intact after 45min at pH 3.0. Acid eluted peptide sequences were identified using LC-MS/MS and searching the NCBI refseq database. The total number of peptides eluted peaked between 40 and 45min for Panc-1, but continued to increase over time from MCF-7. A total of 131 peptides were identified from Panc-1 while 101 peptides were identified from MCF-7 elutions. Two classes of peptides were eluted: (1) 8-10 amino acid peptides fitting the HLA-binding motifs of each cell line, and (2) peptides longer than 10 amino acids containing HLA-binding motifs of each cell line. W6/32 antibody affinity purification of intact MHC molecules after papain cleavage of MHC class I from tumor cell surfaces also indicated that peptides longer than 10 amino acids bind to class I proteins. A peptide-MHC-refolding assay further substantiated the binding of longer peptides to HLA-A*0201. Our findings provide sequences and gene names of peptides presented by MHC class I molecules from common pancreas and breast cancer cell lines. We utilized a novel refolding assay to demonstrate that peptides longer than the canonical 8-10 amino acids commonly bind in MHC class I cell surface molecules.
+
+-Anticoagulants (-pharmacology)
+-Breast Neoplasms (+immunology)
+-Cell Line, Tumor
+-Cell Survival (-drug effects; -physiology)
+-Chromatography, High Pressure Liquid
+-Citric Acid (-pharmacology)
+-Female
+-Histocompatibility Antigens Class I (+immunology; -isolation & purification)
+-Humans
+-Hydrogen-Ion Concentration
+-Pancreatic Neoplasms (+immunology)
+-Papain (-pharmacology)
+-Peptide Fragments (+immunology; -isolation & purification)
+-Proteome (+immunology)
+-Proteomics
+-Tandem Mass Spectrometry
+
+pii:S0161-5890(09)00590-2
+doi:10.1016/j.molimm.2009.06.021
+pubmed:19615748
+

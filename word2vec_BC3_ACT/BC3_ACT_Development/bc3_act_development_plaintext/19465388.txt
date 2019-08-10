@@ -1,0 +1,20 @@
+Nucleic Acids Res.
+
+WebLab: a data-centric, knowledge-sharing bioinformatic platform.
+
+X Liu, J Wu, J Wang, X Liu, S Zhao, Z Li, L Kong, X Gu, J Luo, G Gao
+
+With the rapid progress of biological research, great demands are proposed for integrative knowledge-sharing systems to efficiently support collaboration of biological researchers from various fields. To fulfill such requirements, we have developed a data-centric knowledge-sharing platform WebLab for biologists to fetch, analyze, manipulate and share data under an intuitive web interface. Dedicated space is provided for users to store their input data and analysis results. Users can upload local data or fetch public data from remote databases, and then perform analysis using more than 260 integrated bioinformatic tools. These tools can be further organized as customized analysis workflows to accomplish complex tasks automatically. In addition to conventional biological data, WebLab also provides rich supports for scientific literatures, such as searching against full text of uploaded literatures and exporting citations into various well-known citation managers such as EndNote and BibTex. To facilitate team work among colleagues, WebLab provides a powerful and flexible sharing mechanism, which allows users to share input data, analysis results, scientific literatures and customized workflows to specified users or groups with sophisticated privilege settings. WebLab is publicly available at http://weblab.cbi.pku.edu.cn, with all source code released as Free Software.
+
++Computational Biology
+-Cooperative Behavior
+-Databases, Factual
+-Internet
++Software
+-User-Computer Interface
+
+pii:gkp428
+doi:10.1093/nar/gkp428
+pubmed:19465388
+pmc:PMC2703900
+

@@ -1,0 +1,27 @@
+Mol. Syst. Biol.
+
+Large-scale identification of genetic design strategies using local search.
+
+DS Lun, G Rockwell, NJ Guido, M Baym, JA Kelner, B Berger, JE Galagan, GM Church
+
+In the past decade, computational methods have been shown to be well suited to unraveling the complex web of metabolic reactions in biological systems. Methods based on flux-balance analysis (FBA) and bi-level optimization have been used to great effect in aiding metabolic engineering. These methods predict the result of genetic manipulations and allow for the best set of manipulations to be found computationally. Bi-level FBA is, however, limited in applicability because the required computational time and resources scale poorly as the size of the metabolic system and the number of genetic manipulations increase. To overcome these limitations, we have developed Genetic Design through Local Search (GDLS), a scalable, heuristic, algorithmic method that employs an approach based on local search with multiple search paths, which results in effective, low-complexity search of the space of genetic manipulations. Thus, GDLS is able to find genetic designs with greater in silico production of desired metabolites than can feasibly be found using a globally optimal search and performs favorably in comparison with heuristic searches based on evolutionary algorithms and simulated annealing.
+
+-Algorithms
+-Computational Biology (+methods)
+-Escherichia coli (-genetics)
+-Escherichia coli Proteins (-genetics)
+-Evolution, Molecular
+-Genes, Bacterial
+-Genetic Techniques
+-Genome, Bacterial
+-Models, Biological
+-Models, Genetic
+-Models, Statistical
+-Software
+-Systems Biology (+methods)
+
+pii:msb200957
+doi:10.1038/msb.2009.57
+pubmed:19690565
+pmc:PMC2736654
+

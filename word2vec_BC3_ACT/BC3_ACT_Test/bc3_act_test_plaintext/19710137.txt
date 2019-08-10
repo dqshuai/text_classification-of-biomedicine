@@ -1,0 +1,33 @@
+J. Virol.
+
+Involvement of SSRP1 in latent replication of Kaposi's sarcoma-associated herpesvirus.
+
+J Hu, E Liu, R Renne
+
+Kaposi's sarcoma-associated herpesvirus (also named human herpesvirus 8) is a gamma-herpesvirus that undergoes both lytic and latent infection. During latent infection, two viral elements are required: latency-associated nuclear antigen (LANA), which functions as an origin binding protein, and the latent origin, which resides within the terminal repeats (TRs) of the viral genome. Previously, we identified two cis-elements within the TRs which are required for latent DNA replication: two LANA binding sites (LBS1 and LBS2 [LBS1/2]) and a GC-rich replication element (RE) upstream of LBS1/2. To further characterize the RE, we constructed a 71-bp minimal replicon (MR) and performed a detailed mutational analysis. Our data indicate that the first 8 nucleotides within the RE are critical for replication. Moreover, both the position and the distance between the RE and LBS1/2 can affect origin replication activity, suggesting that the RE may function as a loading pad for cellular proteins involved in replication. Using biotinylated DNA fragments of wild-type or mutant MRs as probes, we identified 30 proteins that preferentially bind to the origin. Among these proteins, structure-specific recognition protein 1 (SSRP1), a subunit of the FACT complex, and telomeric repeat binding factor 2 (TRF2) formed complexes with LANA at the MR region. Furthermore, the small interfering RNA-based knockdown of SSRP1, but not the dominant-negative-based knockdown of TRF2, significantly decreased the efficiency of LANA-dependent DNA replication. These results indicate that SSRP1 is a novel cellular protein involved in LANA-dependent DNA replication.
+
+-Animals
+-Antigens, Viral (-genetics; +metabolism)
+-Binding Sites
+-Cell Line
++DNA Replication
++DNA, Viral (-genetics; -metabolism)
+-DNA-Binding Proteins (-genetics; +metabolism)
+-Genome, Viral
+-Herpesviridae Infections (-metabolism)
++Herpesvirus 8, Human (-genetics; -physiology)
+-High Mobility Group Proteins (-genetics; +metabolism)
+-Humans
+-Molecular Sequence Data
+-Nuclear Proteins (-genetics; +metabolism)
+-RNA, Small Interfering (-genetics; -metabolism)
+-Terminal Repeat Sequences
+-Transcriptional Elongation Factors (-genetics; +metabolism)
++Virus Latency
++Virus Replication
+
+pii:JVI.00907-09
+doi:10.1128/JVI.00907-09
+pubmed:19710137
+pmc:PMC2772803
+

@@ -1,0 +1,27 @@
+Mol. Biol. Cell
+
+Endocytic accessory proteins are functionally distinguished by their differential effects on the maturation of clathrin-coated pits.
+
+M Mettlen, M Stoeber, D Loerke, CN Antonescu, G Danuser, SL Schmid
+
+Diverse cargo molecules (i.e., receptors and ligand/receptor complexes) are taken into the cell by clathrin-mediated endocytosis (CME) utilizing a core machinery consisting of cargo-specific adaptors, clathrin and the GTPase dynamin. Numerous endocytic accessory proteins are also required, but their differential roles and functional hierarchy during CME are not yet understood. Here, we used a combination of quantitative live-cell imaging by total internal reflection fluorescence microscopy (TIR-FM), and decomposition of the lifetime distributions of clathrin-coated pits (CCPs) to measure independent aspects of CCP dynamics, including the turnover of abortive and productive CCP species and their relative contributions. Capitalizing on the sensitivity of this assay, we have examined the effects of specific siRNA-mediated depletion of endocytic accessory proteins on CME progression. Of the 12 endocytic accessory proteins examined, we observed seven qualitatively different phenotypes upon protein depletion. From this data we derive a temporal hierarchy of protein function during early steps of CME. Our results support the idea that a subset of accessory proteins, which mediate coat assembly, membrane curvature, and cargo selection, can provide input into an endocytic restriction point/checkpoint mechanism that monitors CCP maturation.
+
+-Adaptor Proteins, Vesicular Transport (+metabolism)
+-Animals
+-Calcium-Binding Proteins (-metabolism)
+-Cell Line
+-Clathrin (+metabolism)
+-Coated Pits, Cell-Membrane (-enzymology; +metabolism)
++Endocytosis
+-Green Fluorescent Proteins (-metabolism)
+-Monomeric Clathrin Assembly Proteins (-metabolism)
+-Phenotype
+-Protein-Serine-Threonine Kinases (-metabolism)
+-RNA, Small Interfering (-metabolism)
+-Rats
+
+pii:E09-03-0256
+doi:10.1091/mbc.E09-03-0256
+pubmed:19458185
+pmc:PMC2710825
+

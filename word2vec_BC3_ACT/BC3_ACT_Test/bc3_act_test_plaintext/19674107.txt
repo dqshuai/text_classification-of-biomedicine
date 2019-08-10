@@ -1,0 +1,23 @@
+FEBS J.
+
+Substrate specificity and excision kinetics of natural polymorphic variants and phosphomimetic mutants of human 8-oxoguanine-DNA glycosylase.
+
+VS Sidorenko, AP Grollman, P Jaruga, M Dizdaroglu, DO Zharkov
+
+Human 8-oxoguanine-DNA glycosylase (OGG1) efficiently removes mutagenic 8-oxo-7,8-dihydroguanine (8-oxoGua) and 2,6-diamino-4-hydroxy-5-formamidopyrimidine when paired with cytosine in oxidatively damaged DNA. Excision of 8-oxoGua mispaired with adenine may lead to G-->T transversions. Post-translational modifications such as phosphorylation could affect the cellular distribution and enzymatic activity of OGG1. Mutations and polymorphisms of OGG1 may affect the enzymatic activity and have been associated with increased risk of several cancers. In this study, we used double-stranded oligodeoxynucleotides containing 8-oxoGua:Cyt or 8-oxoGua:Ade pairs, as well as gamma-irradiated calf thymus DNA, to investigate the kinetics and substrate specificity of several known OGG1 polymorphic variants and phosphomimetic Ser-->Glu mutants. Among the polymorphic variants, A288V and S326C displayed opposite-base specificity similar to that of wild-type OGG1, whereas OGG1-D322N was 2.3-fold more specific for the correct opposite base than the wild-type enzyme. All phosphomimetic mutants displayed approximately 1.5-3-fold lower ability to remove 8-oxoGua in both assays, whereas the substrate specificity of the phosphomimetic mutants was similar to that of the wild-type enzyme. OGG1-S326C efficiently excised 8-oxoGua from oligodeoxynucleotides and 2,6-diamino-4-hydroxy-5-formamidopyrimidine from gamma-irradiated DNA, but excised 8-oxoG rather inefficiently from gamma-irradiated DNA. Otherwise, kcat values for 8-oxoGua excision obtained from both types of experiments were similar for all OGG1 variants studied. It is known that the human AP endonuclease APEX1 can stimulate OGG1 activity by increasing its turnover rate. However, when wild-type OGG1 was replaced by one of the phosphomimetic mutants, very little stimulation of 8-oxoGua removal was observed in the presence of APEX1.
+
+-Amino Acid Sequence
+-DNA Glycosylases (-chemistry; +metabolism)
+-Humans
+-Hydrogen Bonding
+-Kinetics
+-Mutagenesis
+-Phosphorylation
+-Substrate Specificity
+
+pii:EJB7212
+doi:10.1111/j.1742-4658.2009.07212.x
+pubmed:19674107
+mid:NIHMS140343
+pmc:PMC2746928
+

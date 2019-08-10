@@ -1,0 +1,18 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Evolutionary dynamics in set structured populations.
+
+CE Tarnita, T Antal, H Ohtsuki, MA Nowak
+
+Evolutionary dynamics are strongly affected by population structure. The outcome of an evolutionary process in a well-mixed population can be very different from that in a structured population. We introduce a powerful method to study dynamical population structure: evolutionary set theory. The individuals of a population are distributed over sets. Individuals interact with others who are in the same set. Any 2 individuals can have several sets in common. Some sets can be empty, whereas others have many members. Interactions occur in terms of an evolutionary game. The payoff of the game is interpreted as fitness. Both the strategy and the set memberships change under evolutionary updating. Therefore, the population structure itself is a consequence of evolutionary dynamics. We construct a general mathematical approach for studying any evolutionary game in set structured populations. As a particular example, we study the evolution of cooperation and derive precise conditions for cooperators to be selected over defectors.
+
+-Computer Simulation
++Evolution
+-Game Theory
+-Population Dynamics
+
+pii:0903019106
+doi:10.1073/pnas.0903019106
+pubmed:19433793
+pmc:PMC2689033
+

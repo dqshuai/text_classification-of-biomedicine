@@ -1,0 +1,27 @@
+J. Mol. Biol.
+
+Structural changes common to catalysis in the Tpx peroxiredoxin subfamily.
+
+A Hall, B Sankaran, LB Poole, PA Karplus
+
+Thiol peroxidases (Tpxs) are dimeric 2-Cys peroxiredoxins from bacteria that preferentially reduce alkyl hydroperoxides. Catalysis requires two conserved residues, the peroxidatic cysteine and the resolving cysteine, which are located in helix alpha(2) and helix alpha(3), respectively. The partial unraveling of helices alpha(2) and alpha(3) during catalysis allows for the formation of an intramolecular disulfide between these two residues. Here, we present three structures of Escherichia coli Tpx representing the fully folded (peroxide binding site intact), locally unfolded (disulfide bond), and partially locally unfolded (transitional state) conformations. We also compare known Tpx crystal structures and analyze the sequence-conservation patterns among nearly 300 Tpx sequences. Twelve fully conserved Tpx-specific residues cluster at the active site and dimer interface, and an additional 37 highly conserved residues are mostly located in a cradle providing the environment for helix alpha(2). Using the structures determined here as representative fully folded, transitional, and locally unfolded Tpx conformations, we describe in detail the structural changes associated with catalysis in the Tpx subfamily. Key insights include the description of a conserved hydrophobic collar around the active site, a set of conserved packing interactions between helices alpha(2) and alpha(3) that allow the local unfolding of alpha(2) to trigger the partial unfolding of alpha(3), a conserved dimer interface that anchors the ends of helices alpha(2) and alpha(3) to stabilize the active site during structural transitions, and a conserved set of residues constituting a cradle that stabilizes the two discrete conformations of helix alpha(2) involved in catalysis. The involvement of the dimer interface in stabilizing active-site folding and in forming the hydrophobic collar implies that Tpx is an obligate homodimer and explains the high conservation of interface residues.
+
+-Amino Acid Sequence
+-Catalysis
+-Catalytic Domain
+-Crystallography, X-Ray
+-Escherichia coli (+enzymology)
+-Escherichia coli Proteins (+chemistry; -genetics; +metabolism)
+-Isoenzymes (+chemistry; -genetics; +metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Periplasmic Proteins (+chemistry; -genetics; +metabolism)
+-Peroxidases (+chemistry; -genetics; +metabolism)
++Protein Conformation
+-Protein Multimerization
+-Sequence Homology, Amino Acid
+
+pii:S0022-2836(09)01042-0
+doi:10.1016/j.jmb.2009.08.040
+pubmed:19699750
+

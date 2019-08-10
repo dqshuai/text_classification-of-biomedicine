@@ -1,0 +1,32 @@
+Mol. Cell
+
+TERRA RNA binding to TRF2 facilitates heterochromatin formation and ORC recruitment at telomeres.
+
+Z Deng, J Norseen, A Wiedmer, H Riethman, PM Lieberman
+
+Telomere-repeat-encoding RNA (referred to as TERRA) has been identified as a potential component of yeast and mammalian telomeres. We show here that TERRA RNA interacts with several telomere-associated proteins, including telomere repeat factors 1 (TRF1) and 2 (TRF2), subunits of the origin recognition complex (ORC), heterochromatin protein 1 (HP1), histone H3 trimethyl K9 (H3 K9me3), and members of the DNA-damage-sensing pathway. siRNA depletion of TERRA caused an increase in telomere dysfunction-induced foci, aberrations in metaphase telomeres, and a loss of histone H3 K9me3 and ORC at telomere repeat DNA. Previous studies found that TRF2 amino-terminal GAR domain recruited ORC to telomeres. We now show that TERRA RNA can interact directly with the TRF2 GAR and ORC1 to form a stable ternary complex. We conclude that TERRA facilitates TRF2 interaction with ORC and plays a central role in telomere structural maintenance and heterochromatin formation.
+
+-Binding Sites
+-Chromosomal Proteins, Non-Histone (-metabolism)
+-Chromosome Aberrations
+-DNA Methylation
+-HCT116 Cells
+-Heterochromatin (+metabolism)
+-Histones (-metabolism)
+-Humans
+-Origin Recognition Complex (+metabolism)
+-Protein Structure, Tertiary
+-RNA Interference
+-RNA, Nuclear (+metabolism)
+-Telomere (+metabolism; -ultrastructure)
+-Telomeric Repeat Binding Protein 1 (-metabolism)
+-Telomeric Repeat Binding Protein 2 (-genetics; +metabolism)
+-Time Factors
+-Transfection
+
+pii:S1097-2765(09)00463-8
+doi:10.1016/j.molcel.2009.06.025
+pubmed:19716786
+mid:NIHMS137961
+pmc:PMC2749977
+

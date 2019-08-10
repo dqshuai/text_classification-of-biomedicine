@@ -1,0 +1,22 @@
+J. Biol. Chem.
+
+New insights into the early steps of phosphatidylinositol mannoside biosynthesis in mycobacteria: PimB' is an essential enzyme of Mycobacterium smegmatis.
+
+ME Guerin, D Kaur, BS Somashekar, S Gibbs, P Gest, D Chatterjee, PJ Brennan, M Jackson
+
+Phosphatidyl-myo-inositol mannosides (PIMs) are key glycolipids of the mycobacterial cell envelope. They are considered not only essential structural components of the cell but also important molecules implicated in host-pathogen interactions. Although their chemical structures are well established, knowledge of the enzymes and sequential events leading to their biosynthesis is still incomplete. Here we show for the first time that although both mannosyltransferases PimA and PimB' (MSMEG_4253) recognize phosphatidyl-myo-inositol (PI) as a lipid acceptor, PimA specifically catalyzes the transfer of a Manp residue to the 2-position of the myo-inositol ring of PI, whereas PimB' exclusively transfers to the 6-position. Moreover, whereas PimB' can catalyze the transfer of a Manp residue onto the PI-monomannoside (PIM1) product of PimA, PimA is unable in vitro to transfer Manp onto the PIM1 product of PimB'. Further assays using membranes from Mycobacterium smegmatis and purified PimA and PimB' indicated that the acylation of the Manp residue transferred by PimA preferentially occurs after the second Manp residue has been added by PimB'. Importantly, genetic evidence is provided that pimB' is an essential gene of M. smegmatis. Altogether, our results support a model wherein Ac1PIM2, a major form of PIMs produced by mycobacteria, arises from the consecutive action of PimA, followed by PimB', and finally the acyltransferase MSMEG_2934. The essentiality of these three enzymes emphasizes the interest of novel anti-tuberculosis drugs targeting the initial steps of PIM biosynthesis.
+
+-Antitubercular Agents
+-Bacterial Proteins (-antagonists & inhibitors; -chemistry; -isolation & purification; +metabolism)
+-Cell Membrane (-chemistry; +enzymology)
+-Mannose (-chemistry; -metabolism)
+-Mannosyltransferases (-antagonists & inhibitors; -chemistry; -isolation & purification; +metabolism)
+-Mycobacterium smegmatis (+enzymology; -pathogenicity)
+-Phosphatidylinositols (+biosynthesis; -chemistry)
+-Tuberculosis (-drug therapy; -enzymology)
+
+pii:M109.030593
+doi:10.1074/jbc.M109.030593
+pubmed:19638342
+pmc:PMC2757970
+

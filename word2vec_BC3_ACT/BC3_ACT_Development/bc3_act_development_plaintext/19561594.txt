@@ -1,0 +1,24 @@
+Nat. Biotechnol.
+
+Rapid and systematic analysis of the RNA recognition specificities of RNA-binding proteins.
+
+D Ray, H Kazan, ET Chan, L Peña Castillo, S Chaudhry, S Talukder, BJ Blencowe, Q Morris, TR Hughes
+
+Metazoan genomes encode hundreds of RNA-binding proteins (RBPs) but RNA-binding preferences for relatively few RBPs have been well defined. Current techniques for determining RNA targets, including in vitro selection and RNA co-immunoprecipitation, require significant time and labor investment. Here we introduce RNAcompete, a method for the systematic analysis of RNA binding specificities that uses a single binding reaction to determine the relative preferences of RBPs for short RNAs that contain a complete range of k-mers in structured and unstructured RNA contexts. We tested RNAcompete by analyzing nine diverse RBPs (HuR, Vts1, FUSIP1, PTB, U1A, SF2/ASF, SLM2, RBM4 and YB1). RNAcompete identified expected and previously unknown RNA binding preferences. Using in vitro and in vivo binding data, we demonstrate that preferences for individual 7-mers identified by RNAcompete are a more accurate representation of binding activity than are conventional motif models. We anticipate that RNAcompete will be a valuable tool for the study of RNA-protein interactions.
+
+-Animals
+-Base Sequence
+-Binding Sites (-genetics)
+-Databases, Nucleic Acid
+-Genome
+-Molecular Sequence Data
+-Oligonucleotide Array Sequence Analysis (+methods)
+-RNA (-chemistry; -genetics; +metabolism)
+-RNA-Binding Proteins (-chemistry; -genetics; +metabolism)
+-ROC Curve
+-Substrate Specificity
+
+pii:nbt.1550
+doi:10.1038/nbt.1550
+pubmed:19561594
+

@@ -1,0 +1,24 @@
+Plant Physiol.
+
+The MYB96 transcription factor mediates abscisic acid signaling during drought stress response in Arabidopsis.
+
+PJ Seo, F Xiang, M Qiao, JY Park, YN Lee, SG Kim, YH Lee, WJ Park, CM Park
+
+Plant adaptive responses to drought are coordinated by adjusting growth and developmental processes as well as molecular and cellular activities. The root system is the primary site that perceives drought stress signals, and its development is profoundly affected by soil water content. Various growth hormones, particularly abscisic acid (ABA) and auxin, play a critical role in root growth under drought through complex signaling networks. Here, we report that a R2R3-type MYB transcription factor, MYB96, regulates drought stress response by integrating ABA and auxin signals. The MYB96-mediated ABA signals are integrated into an auxin signaling pathway that involves a subset of GH3 genes encoding auxin-conjugating enzymes. A MYB96-overexpressing Arabidopsis (Arabidopsis thaliana) mutant exhibited enhanced drought resistance with reduced lateral roots. In the mutant, while lateral root primordia were normally developed, meristem activation and lateral root elongation were suppressed. In contrast, a T-DNA insertional knockout mutant was more susceptible to drought. Auxin also induces MYB96 primarily in the roots, which in turn induces the GH3 genes and modulates endogenous auxin levels during lateral root development. We propose that MYB96 is a molecular link that mediates ABA-auxin cross talk in drought stress response and lateral root growth, providing an adaptive strategy under drought stress conditions.
+
+-Abscisic Acid (+metabolism; -pharmacology)
+-Arabidopsis (-growth & development; +metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Dose-Response Relationship, Drug
+-Gene Expression Regulation, Plant (-physiology)
+-Germination (-drug effects; -physiology)
+-Plant Roots (-genetics; -growth & development)
+-Signal Transduction (+physiology)
+-Transcription Factors (-genetics; +metabolism)
+-Water (+metabolism)
+
+pii:pp.109.144220
+doi:10.1104/pp.109.144220
+pubmed:19625633
+pmc:PMC2735973
+

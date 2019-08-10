@@ -1,0 +1,21 @@
+Nucleic Acids Res.
+
+MM-align: a quick algorithm for aligning multiple-chain protein complex structures using iterative dynamic programming.
+
+S Mukherjee, Y Zhang
+
+Structural comparison of multiple-chain protein complexes is essential in many studies of protein-protein interactions. We develop a new algorithm, MM-align, for sequence-independent alignment of protein complex structures. The algorithm is built on a heuristic iteration of a modified Needleman-Wunsch dynamic programming (DP) algorithm, with the alignment score specified by the inter-complex residue distances. The multiple chains in each complex are first joined, in every possible order, and then simultaneously aligned with cross-chain alignments prevented. The alignments of interface residues are enhanced by an interface-specific weighting factor. MM-align is tested on a large-scale benchmark set of 205 x 3897 non-homologous multiple-chain complex pairs. Compared with a naïve extension of the monomer alignment program of TM-align, the alignment accuracy of MM-align is significantly higher as judged by the average TM-score of the physically-aligned residues. MM-align is about two times faster than TM-align because of omitting the cross-alignment zone of the DP matrix. It also shows that the enhanced alignment of the interfaces helps in identifying biologically relevant protein complex pairs.
+
++Algorithms
+-Amino Acid Sequence
+-Models, Molecular
+-Multiprotein Complexes (+chemistry)
+-Protein Interaction Mapping (+methods)
+-Protein Structure, Quaternary
+-Sequence Alignment
+
+pii:gkp318
+doi:10.1093/nar/gkp318
+pubmed:19443443
+pmc:PMC2699532
+

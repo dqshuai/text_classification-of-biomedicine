@@ -1,0 +1,23 @@
+Genome Biol.
+
+Phylogenetic classification of Escherichia coli O157:H7 strains of human and bovine origin using a novel set of nucleotide polymorphisms.
+
+ML Clawson, JE Keen, TP Smith, LM Durso, TG McDaneld, RE Mandrell, MA Davis, JL Bono
+
+BACKGROUND: Cattle are a reservoir of Shiga toxin-producing Escherichia coli O157:H7 (STEC O157), and are known to harbor subtypes not typically found in clinically ill humans. Consequently, nucleotide polymorphisms previously discovered via strains originating from human outbreaks may be restricted in their ability to distinguish STEC O157 genetic subtypes present in cattle. The objectives of this study were firstly to identify nucleotide polymorphisms in a diverse sampling of human and bovine STEC O157 strains, secondly to classify strains of either bovine or human origin by polymorphism-derived genotypes, and finally to compare the genotype diversity with pulsed-field gel electrophoresis (PFGE), a method currently used for assessing STEC O157 diversity. RESULTS: High-throughput 454 sequencing of pooled STEC O157 strain DNAs from human clinical cases (n = 91) and cattle (n = 102) identified 16,218 putative polymorphisms. From those, 178 were selected primarily within genomic regions conserved across E. coli serotypes and genotyped in 261 STEC O157 strains. Forty-two unique genotypes were observed that are tagged by a minimal set of 32 polymorphisms. Phylogenetic trees of the genotypes are divided into clades that represent strains of cattle origin, or cattle and human origin. Although PFGE diversity surpassed genotype diversity overall, ten PFGE patterns each occurred with multiple strains having different genotypes. CONCLUSIONS: Deep sequencing of pooled STEC O157 DNAs proved highly effective in polymorphism discovery. A polymorphism set has been identified that characterizes genetic diversity within STEC O157 strains of bovine origin, and a subset observed in human strains. The set may complement current techniques used to classify strains implicated in disease outbreaks.
+
+-Animals
+-Cattle
+-DNA, Bacterial (-analysis)
+-Electrophoresis, Gel, Pulsed-Field
+-Escherichia coli Infections (+microbiology; +veterinary)
+-Escherichia coli O157 (+classification; +genetics)
+-Humans
++Polymorphism, Genetic
+-Shiga-Toxigenic Escherichia coli (-classification; -genetics)
+
+pii:gb-2009-10-5-r56
+doi:10.1186/gb-2009-10-5-r56
+pubmed:19463166
+pmc:PMC2718522
+

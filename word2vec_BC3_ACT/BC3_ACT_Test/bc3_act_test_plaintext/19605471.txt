@@ -1,0 +1,30 @@
+J. Virol.
+
+Class III phosphatidylinositol 4-kinase alpha and beta are novel host factor regulators of hepatitis C virus replication.
+
+J Borawski, P Troke, X Puyang, V Gibaja, S Zhao, C Mickanin, J Leighton-Davies, CJ Wilson, V Myer, I Cornellataracido, J Baryza, J Tallarico, G Joberty, M Bantscheff, M Schirle, T Bouwmeester, JE Mathy, K Lin, T Compton, M Labow, B Wiedmann, LA Gaither
+
+Host factor pathways are known to be essential for hepatitis C virus (HCV) infection and replication in human liver cells. To search for novel host factor proteins required for HCV replication, we screened a subgenomic genotype 1b replicon cell line (Luc-1b) with a kinome and druggable collection of 20,779 siRNAs. We identified and validated several enzymes required for HCV replication, including class III phosphatidylinositol 4-kinases (PI4KA and PI4KB), carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase (CAD), and mevalonate (diphospho) decarboxylase. Knockdown of PI4KA could inhibit the replication and/or HCV RNA levels of the two subgenomic genotype 1b clones (SG-1b and Luc-1b), two subgenomic genotype 1a clones (SG-1a and Luc-1a), JFH-1 genotype 2a infectious virus (JFH1-2a), and the genomic genotype 1a (FL-1a) replicon. In contrast, PI4KB knockdown inhibited replication and/or HCV RNA levels of Luc-1b, SG-1b, and Luc-1a replicons. The small molecule inhibitor, PIK93, was found to block subgenomic genotype 1b (Luc-1b), subgenomic genotype 1a (Luc-1a), and genomic genotype 2a (JFH1-2a) infectious virus replication in the nanomolar range. PIK93 was characterized by using quantitative chemical proteomics and in vitro biochemical assays to demonstrate PIK93 is a bone fide PI4KA and PI4KB inhibitor. Our data demonstrate that genetic or pharmacological modulation of PI4KA and PI4KB inhibits multiple genotypes of HCV and represents a novel druggable class of therapeutic targets for HCV infection.
+
+-1-Phosphatidylinositol 4-Kinase (-chemistry; +metabolism)
+-Antiviral Agents (-pharmacology)
+-Binding, Competitive
+-Cell Line
+-Gene Silencing
+-Genotype
+-Hepacivirus (+genetics; +metabolism)
+-Humans
+-Inhibitory Concentration 50
+-Liver (+virology)
+-Mass Spectrometry (-methods)
+-Proteomics (-methods)
+-RNA, Small Interfering (-metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Thiazoles (-pharmacology)
++Virus Replication
+
+pii:JVI.02418-08
+doi:10.1128/JVI.02418-08
+pubmed:19605471
+pmc:PMC2748049
+

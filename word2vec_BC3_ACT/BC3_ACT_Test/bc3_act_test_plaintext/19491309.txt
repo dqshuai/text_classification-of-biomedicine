@@ -1,0 +1,22 @@
+Nucleic Acids Res.
+
+OrthoSelect: a web server for selecting orthologous gene alignments from EST sequences.
+
+F Schreiber, G Wörheide, B Morgenstern
+
+In the absence of whole genome sequences for many organisms, the use of expressed sequence tags (EST) offers an affordable approach for researchers conducting phylogenetic analyses to gain insight about the evolutionary history of organisms. Reliable alignments for phylogenomic analyses are based on orthologous gene sequences from different taxa. So far, researchers have not sufficiently tackled the problem of the completely automated construction of such datasets. Existing software tools are either semi-automated, covering only part of the necessary data processing, or implemented as a pipeline, requiring the installation and configuration of a cascade of external tools, which may be time-consuming and hard to manage. To simplify data set construction for phylogenomic studies, we set up a web server that uses our recently developed OrthoSelect approach. To the best of our knowledge, our web server is the first web-based EST analysis pipeline that allows the detection of orthologous gene sequences in EST libraries and outputs orthologous gene alignments. Additionally, OrthoSelect provides the user with an extensive results section that lists and visualizes all important results, such as annotations, data matrices for each gene/taxon and orthologous gene alignments. The web server is available at http://orthoselect.gobics.de.
+
+-Expressed Sequence Tags (+chemistry)
+-Genes
+-Genomics
+-Internet
++Phylogeny
++Sequence Alignment
++Software
+-User-Computer Interface
+
+pii:gkp434
+doi:10.1093/nar/gkp434
+pubmed:19491309
+pmc:PMC2703962
+

@@ -1,0 +1,41 @@
+Circ. Res.
+
+S100A4 and bone morphogenetic protein-2 codependently induce vascular smooth muscle cell migration via phospho-extracellular signal-regulated kinase and chloride intracellular channel 4.
+
+E Spiekerkoetter, C Guignabert, V de Jesus Perez, TP Alastalo, JM Powers, L Wang, A Lawrie, N Ambartsumian, AM Schmidt, M Berryman, RH Ashley, M Rabinovitch
+
+RATIONALE: S100A4/Mts1 is implicated in motility of human pulmonary artery smooth muscle cells (hPASMCs), through an interaction with the RAGE (receptor for advanced glycation end products). OBJECTIVE: We hypothesized that S100A4/Mts1-mediated hPASMC motility might be enhanced by loss of function of bone morphogenetic protein (BMP) receptor (BMPR)II, observed in pulmonary arterial hypertension. METHODS AND RESULTS: Both S100A4/Mts1 (500 ng/mL) and BMP-2 (10 ng/mL) induce migration of hPASMCs in a novel codependent manner, in that the response to either ligand is lost with anti-RAGE or BMPRII short interference (si)RNA. Phosphorylation of extracellular signal-regulated kinase is induced by both ligands and is required for motility by inducing matrix metalloproteinase 2 activity, but phospho-extracellular signal-regulated kinase 1/2 is blocked by anti-RAGE and not by BMPRII short interference RNA. In contrast, BMPRII short interference RNA, but not anti-RAGE, reduces expression of intracellular chloride channel (CLIC)4, a scaffolding molecule necessary for motility in response to S100A4/Mts1 or BMP-2. Reduced CLIC4 expression does not interfere with S100A4/Mts1 internalization or its interaction with myosin heavy chain IIA, but does alter alignment of myosin heavy chain IIA and actin filaments creating the appearance of vacuoles. This abnormality is associated with reduced peripheral distribution and/or delayed activation of RhoA and Rac1, small GTPases required for retraction and extension of lamellipodia in motile cells. CONCLUSIONS: Our studies demonstrate how a single ligand (BMP-2 or S100A4/Mts1) can recruit multiple cell surface receptors to relay signals that coordinate events culminating in a functional response, ie, cell motility. We speculate that this carefully controlled process limits signals from multiple ligands, but could be subverted in disease.
+
+-Bone Morphogenetic Protein 2 (+metabolism)
+-Bone Morphogenetic Protein Receptors, Type II (-genetics; -metabolism)
++Cell Movement (-drug effects)
+-Cells, Cultured
+-Chloride Channels (-genetics; +metabolism)
+-Dose-Response Relationship, Drug
+-Flavonoids (-pharmacology)
+-Humans
+-Matrix Metalloproteinase 2 (-metabolism)
+-Microfilaments (-metabolism)
+-Mitogen-Activated Protein Kinase 1 (-antagonists & inhibitors; +metabolism)
+-Mitogen-Activated Protein Kinase 3 (-antagonists & inhibitors; +metabolism)
+-Muscle, Smooth, Vascular (-drug effects; +enzymology)
+-Myocytes, Smooth Muscle (-drug effects; +enzymology)
+-Myosin Heavy Chains (-metabolism)
+-Phosphorylation
+-Protein Kinase Inhibitors (-pharmacology)
+-Pseudopodia (-enzymology)
+-Pulmonary Artery (-enzymology)
+-RNA Interference
+-Receptors, Immunologic (-genetics; -metabolism)
+-Recombinant Proteins (-metabolism)
+-S100 Proteins (+metabolism)
+-Signal Transduction
+-rac1 GTP-Binding Protein (-metabolism)
+-rhoA GTP-Binding Protein (-metabolism)
+
+pii:CIRCRESAHA.109.205120
+doi:10.1161/CIRCRESAHA.109.205120
+pubmed:19713532
+mid:NIHMS144701
+pmc:PMC2818124
+

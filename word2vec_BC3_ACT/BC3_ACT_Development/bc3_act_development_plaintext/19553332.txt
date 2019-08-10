@@ -1,0 +1,30 @@
+J. Virol.
+
+A New World primate deficient in tetherin-mediated restriction of human immunodeficiency virus type 1.
+
+SK Wong, M Connole, JS Sullivan, H Choe, A Carville, M Farzan
+
+Human immunodeficiency virus type 1 (HIV-1) does not replicate in primary cells of New World primates. To better understand this restriction, we expressed owl monkey (Aotus nancymaae) CD4 and CXCR4 in the owl monkey kidney cell line, OMK. An HIV-1 variant modified to evade the owl monkey restriction factor TRIM-cyp replicated efficiently in these cells but could not replicate in primary A. nancymaae CD4-positive T cells. To understand this difference, we examined APOBEC3G and tetherin orthologs from OMK cells and primary A. nancymaae cells. We observed that OMK cells expressed substantially lower levels of APOBEC3G than did A. nancymaae cells. A. nancymaae, but not marmoset (Callithrix jacchus), APOBEC3G was partially downregulated by HIV-1 vif and reduced but did not abolish HIV-1 replication when stably expressed in OMK cells. The functional difference between A. nancymaae and marmoset APOBEC3Gs mapped to residue 128, previously shown to distinguish African green monkey from human APOBEC3G. We also characterized tetherin orthologs from OMK and A. nancymaae cells. The A. nancymaae tetherin ortholog, but not OMK tetherin, prevented HIV-1 release. Alteration of threonine 181 of OMK tetherin rescued its function and its efficient N glycosylation. All alleles of Aotus lemurinus griseimembra examined, but none of A. nancymaae or Aotus vociferans, encoded this nonfunctional tetherin ortholog. Our data indicate that HIV-1 replication in owl monkeys is not restricted at entry but can be limited by APOBEC3G and tetherin. Further, A. lemurinus griseimembra does not restrict HIV-1 replication via tetherin, a property likely useful for the study of tetherin-restricted viruses.
+
+-Amino Acid Sequence
+-Animals
+-Antigens, CD (-genetics; +immunology)
+-Aotidae (+virology)
+-Cell Line
+-Cells, Cultured
+-Cytidine Deaminase (-genetics; -immunology)
+-Gene Expression
+-HIV-1 (+growth & development; +immunology)
+-Humans
+-Membrane Glycoproteins (-genetics; +immunology)
+-Molecular Sequence Data
+-Receptors, CXCR4 (-biosynthesis; -genetics)
+-Sequence Alignment
+-Sequence Analysis, DNA
+-T-Lymphocytes (-virology)
+
+pii:JVI.00112-09
+doi:10.1128/JVI.00112-09
+pubmed:19553332
+pmc:PMC2738210
+

@@ -1,0 +1,32 @@
+Genetics
+
+METT-10, a putative methyltransferase, inhibits germ cell proliferative fate in Caenorhabditis elegans.
+
+M Dorsett, B Westlund, T Schedl
+
+Germ-line stem cells are unique because they either self-renew through mitosis or, at a certain frequency, switch to meiosis and produce gametes. The switch from proliferation to meiosis is tightly regulated, and aberrations in switching result in either too little or too much proliferation. To understand the genetic basis of this regulation, we characterized loss-of-function mutations and a novel tumorous allele of Caenorhabditis elegans mett-10, which encodes a conserved putative methyltransferase. We show that METT-10 is a nuclear protein that acts in the germ line to inhibit the specification of germ-cell proliferative fate. METT-10 also promotes vulva, somatic gonad, and embryo development and ensures meiotic development of those germ cells that do differentiate. In addition, phenotypic analysis of a mett-10 null allele reveals that METT-10 enables mitotic cell cycle progression. The finding that METT-10 functions to inhibit germ-cell proliferative fate, despite promoting mitotic cell cycle progression of those germ cells that do proliferate, separates the specification of proliferative fate from its execution.
+
+-Alleles
+-Amino Acid Sequence
+-Animals
+-Animals, Genetically Modified
+-Caenorhabditis elegans (+genetics; -physiology)
+-Caenorhabditis elegans Proteins (-genetics; -metabolism; +physiology)
+-Cell Differentiation (-genetics)
++Cell Proliferation
+-Down-Regulation
+-Female
+-Germ Cells (-metabolism; +physiology)
+-Male
+-Methyltransferases (-genetics; -metabolism; +physiology)
+-Models, Biological
+-Molecular Sequence Data
+-Neoplasms (-genetics)
+-Phenotype
+-Sequence Homology, Amino Acid
+
+pii:genetics.109.105270
+doi:10.1534/genetics.109.105270
+pubmed:19596901
+pmc:PMC2746148
+

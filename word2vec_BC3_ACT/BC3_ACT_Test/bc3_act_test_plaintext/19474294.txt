@@ -1,0 +1,20 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Potential etiologic and functional implications of genome-wide association loci for human diseases and traits.
+
+LA Hindorff, P Sethupathy, HA Junkins, EM Ramos, JP Mehta, FS Collins, TA Manolio
+
+We have developed an online catalog of SNP-trait associations from published genome-wide association studies for use in investigating genomic characteristics of trait/disease-associated SNPs (TASs). Reported TASs were common [median risk allele frequency 36%, interquartile range (IQR) 21%-53%] and were associated with modest effect sizes [median odds ratio (OR) 1.33, IQR 1.20-1.61]. Among 20 genomic annotation sets, reported TASs were significantly overrepresented only in nonsynonymous sites [OR = 3.9 (2.2-7.0), p = 3.5 x 10(-7)] and 5kb-promoter regions [OR = 2.3 (1.5-3.6), p = 3 x 10(-4)] compared to SNPs randomly selected from genotyping arrays. Although 88% of TASs were intronic (45%) or intergenic (43%), TASs were not overrepresented in introns and were significantly depleted in intergenic regions [OR = 0.44 (0.34-0.58), p = 2.0 x 10(-9)]. Only slightly more TASs than expected by chance were predicted to be in regions under positive selection [OR = 1.3 (0.8-2.1), p = 0.2]. This new online resource, together with bioinformatic predictions of the underlying functionality at trait/disease-associated loci, is well-suited to guide future investigations of the role of common variants in complex disease etiology.
+
+-Disease (-genetics)
++Genetic Predisposition to Disease
++Genome-Wide Association Study
+-Humans
+-Polymorphism, Genetic
++Polymorphism, Single Nucleotide
+
+pii:0903103106
+doi:10.1073/pnas.0903103106
+pubmed:19474294
+pmc:PMC2687147
+

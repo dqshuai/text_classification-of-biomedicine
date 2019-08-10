@@ -1,0 +1,30 @@
+PLoS ONE
+
+Sequence conservation in Plasmodium falciparum alpha-helical coiled coil domains proposed for vaccine development.
+
+C Kulangara, AV Kajava, G Corradin, I Felger
+
+BACKGROUND: The availability of the P. falciparum genome has led to novel ways to identify potential vaccine candidates. A new approach for antigen discovery based on the bioinformatic selection of heptad repeat motifs corresponding to alpha-helical coiled coil structures yielded promising results. To elucidate the question about the relationship between the coiled coil motifs and their sequence conservation, we have assessed the extent of polymorphism in putative alpha-helical coiled coil domains in culture strains, in natural populations and in the single nucleotide polymorphism data available at PlasmoDB. METHODOLOGY/PRINCIPAL FINDINGS: 14 alpha-helical coiled coil domains were selected based on preclinical experimental evaluation. They were tested by PCR amplification and sequencing of different P. falciparum culture strains and field isolates. We found that only 3 out of 14 alpha-helical coiled coils showed point mutations and/or length polymorphisms. Based on promising immunological results 5 of these peptides were selected for further analysis. Direct sequencing of field samples from Papua New Guinea and Tanzania showed that 3 out of these 5 peptides were completely conserved. An in silico analysis of polymorphism was performed for all 166 putative alpha-helical coiled coil domains originally identified in the P. falciparum genome. We found that 82% (137/166) of these peptides were conserved, and for one peptide only the detected SNPs decreased substantially the probability score for alpha-helical coiled coil formation. More SNPs were found in arrays of almost perfect tandem repeats. In summary, the coiled coil structure prediction was rarely modified by SNPs. The analysis revealed a number of peptides with strictly conserved alpha-helical coiled coil motifs. CONCLUSION/SIGNIFICANCE: We conclude that the selection of alpha-helical coiled coil structural motifs is a valuable approach to identify potential vaccine targets showing a high degree of conservation.
+
+-Amino Acid Sequence
+-Animals
+-Cells, Cultured
++Conserved Sequence
++Drug Design
+-Genetics, Population
+-Molecular Sequence Data
+-Papua New Guinea
+-Peptides (-chemistry; -genetics)
+-Plasmodium falciparum (+chemistry; +immunology)
+-Polymorphism, Single Nucleotide (-genetics)
+-Protein Structure, Secondary
+-Protein Structure, Tertiary
+-Protozoan Proteins (+chemistry; +immunology)
+-Protozoan Vaccines (+immunology)
+-Sequence Alignment
+-Tanzania
+
+doi:10.1371/journal.pone.0005419
+pubmed:19492090
+pmc:PMC2683929
+

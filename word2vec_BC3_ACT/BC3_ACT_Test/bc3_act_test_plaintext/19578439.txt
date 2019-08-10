@@ -1,0 +1,33 @@
+PLoS Pathog.
+
+The alphaGal epitope of the histo-blood group antigen family is a ligand for bovine norovirus Newbury2 expected to prevent cross-species transmission.
+
+M Zakhour, N Ruvoën-Clouet, A Charpilienne, B Langpap, D Poncet, T Peters, N Bovin, J Le Pendu
+
+Among Caliciviridae, the norovirus genus encompasses enteric viruses that infect humans as well as several animal species, causing gastroenteritis. Porcine strains are classified together with human strains within genogroup II, whilst bovine norovirus strains represent genogroup III. Various GI and GII human strains bind to carbohydrates of the histo-blood group family which may be shared among mammalian species. Genetic relatedness of human and animal strains as well as the presence of potentially shared ligands raises the possibility of norovirus cross-species transmission. In the present study, we identified a carbohydrate ligand for the prototype bovine norovirus strain Bo/Newbury2/76/UK (NB2). Attachment of virus-like particles (VLPs) of the NB2 strain to bovine gut tissue sections showed a complete match with the staining by reagents recognizing the Galalpha1,3 motif. Alpha-galactosidase treatment confirmed involvement of a terminal alpha-linked galactose. Specific binding of VLPs to the alphaGal epitope (Galalpha3Galbeta4GlcNAcbeta-R) was observed. The binding of Galalpha3GalalphaOMe to rNB2 VLPs was characterized at atomic resolution employing saturation transfer difference (STD) NMR experiments. Transfection of human cells with an alpha1,3galactosyltransferase cDNA allowed binding of NB2 VLPs, whilst inversely, attachment to porcine vascular endothelial cells was lost when the cells originated from an alpha1,3galactosyltransferase KO animal. The alphaGal epitope is expressed in all mammalian species with the exception of the Hominidaea family due to the inactivation of the alpha1,3galactosyltransferase gene (GGTA1). Accordingly, the NB2 carbohydrate ligand is absent from human tissues. Although expressed on porcine vascular endothelial cells, we observed that unlike in cows, it is not present on gut epithelial cells, suggesting that neither man nor pig could be infected by the NB2 bovine strain.
+
+-ABO Blood-Group System (-immunology; +metabolism)
+-Animals
+-Antigens, Heterophile
+-Caliciviridae Infections (-immunology; +transmission)
+-Cattle
+-Duodenum (-cytology; -metabolism)
+-Epitopes (+metabolism)
+-Hemagglutination
+-Histocytochemistry
+-Intestinal Mucosa (-metabolism)
+-Ligands
+-Norovirus (-immunology; +metabolism)
+-Nuclear Magnetic Resonance, Biomolecular
+-Oligosaccharides (-immunology; +metabolism)
+-Saliva (-metabolism)
+-Species Specificity
+-Swine
+-Trisaccharides (-immunology; +metabolism)
+-Virion (-metabolism)
+-alpha-Galactosidase (-metabolism)
+
+doi:10.1371/journal.ppat.1000504
+pubmed:19578439
+pmc:PMC2699481
+

@@ -1,0 +1,19 @@
+Plant Physiol.
+
+Modeling the hydraulics of root growth in three dimensions with phloem water sources.
+
+BS Wiegers, AY Cheer, WK Silk
+
+Primary growth is characterized by cell expansion facilitated by water uptake generating hydrostatic (turgor) pressure to inflate the cell, stretching the rigid cell walls. The multiple source theory of root growth hypothesizes that root growth involves transport of water both from the soil surrounding the growth zone and from the mature tissue higher in the root via phloem and protophloem. Here, protophloem water sources are used as boundary conditions in a classical, three-dimensional model of growth-sustaining water potentials in primary roots. The model predicts small radial gradients in water potential, with a significant longitudinal gradient. The results improve the agreement of theory with empirical studies for water potential in the primary growth zone of roots of maize (Zea mays). A sensitivity analysis quantifies the functional importance of apical phloem differentiation in permitting growth and reveals that the presence of phloem water sources makes the growth-sustaining water relations of the root relatively insensitive to changes in root radius and hydraulic conductivity. Adaptation to drought and other environmental stresses is predicted to involve more apical differentiation of phloem and/or higher phloem delivery rates to the growth zone.
+
++Models, Biological
+-Phloem (+physiology)
+-Plant Roots (+growth & development)
+-Water (+physiology)
+-Zea mays (+growth & development; +physiology)
+
+pii:pp.109.138198
+doi:10.1104/pp.109.138198
+pubmed:19542299
+pmc:PMC2719130
+

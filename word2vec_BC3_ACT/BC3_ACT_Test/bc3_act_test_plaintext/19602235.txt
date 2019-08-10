@@ -1,0 +1,30 @@
+BMC Genomics
+
+MHC-linked and un-linked class I genes in the wallaby.
+
+HV Siddle, JE Deakin, P Coggill, E Hart, Y Cheng, ES Wong, J Harrow, S Beck, K Belov
+
+BACKGROUND: MHC class I antigens are encoded by a rapidly evolving gene family comprising classical and non-classical genes that are found in all vertebrates and involved in diverse immune functions. However, there is a fundamental difference between the organization of class I genes in mammals and non-mammals. Non-mammals have a single classical gene responsible for antigen presentation, which is linked to the antigen processing genes, including TAP. This organization allows co-evolution of advantageous class Ia/TAP haplotypes. In contrast, mammals have multiple classical genes within the MHC, which are separated from the antigen processing genes by class III genes. It has been hypothesized that separation of classical class I genes from antigen processing genes in mammals allowed them to duplicate. We investigated this hypothesis by characterizing the class I genes of the tammar wallaby, a model marsupial that has a novel MHC organization, with class I genes located within the MHC and 10 other chromosomal locations. RESULTS: Sequence analysis of 14 BACs containing 15 class I genes revealed that nine class I genes, including one to three classical class I, are not linked to the MHC but are scattered throughout the genome. Kangaroo Endogenous Retroviruses (KERVs) were identified flanking the MHC un-linked class I. The wallaby MHC contains four non-classical class I, interspersed with antigen processing genes. Clear orthologs of non-classical class I are conserved in distant marsupial lineages. CONCLUSION: We demonstrate that classical class I genes are not linked to antigen processing genes in the wallaby and provide evidence that retroviral elements were involved in their movement. The presence of retroviral elements most likely facilitated the formation of recombination hotspots and subsequent diversification of class I genes. The classical class I have moved away from antigen processing genes in eutherian mammals and the wallaby independently, but both lineages appear to have benefited from this loss of linkage by increasing the number of classical genes, perhaps enabling response to a wider range of pathogens. The discovery of non-classical orthologs between distantly related marsupial species is unusual for the rapidly evolving class I genes and may indicate an important marsupial specific function.
+
+-Animals
+-Base Sequence
+-Chromosomes, Artificial, Bacterial
+-Conserved Sequence
+-Endogenous Retroviruses (-genetics)
+-Evolution, Molecular
+-Gene Expression Profiling
++Genes, MHC Class I
++Linkage (Genetics)
+-Macropodidae (+genetics)
+-Molecular Sequence Data
+-Phylogeny
+-Polymorphism, Genetic
+-Promoter Regions, Genetic
+-Sequence Analysis, DNA
+-Species Specificity
+
+pii:1471-2164-10-310
+doi:10.1186/1471-2164-10-310
+pubmed:19602235
+pmc:PMC2719672
+

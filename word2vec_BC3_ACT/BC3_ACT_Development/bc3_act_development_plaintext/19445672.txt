@@ -1,0 +1,22 @@
+BMC Genomics
+
+Effect of continuous light on diurnal rhythms in Cyanothece sp. ATCC 51142.
+
+T Elvitigala, J Stöckel, BK Ghosh, HB Pakrasi
+
+BACKGROUND: Life on earth is strongly affected by alternating day and night cycles. Accordingly, many organisms have evolved an internal timekeeping system with a period of approximately 24 hours. Cyanobacteria are the only known prokaryotes with robust rhythms under control of a central clock. Numerous studies have been conducted to elucidate components of the circadian clock and to identify circadian-controlled genes. However, the complex interactions between endogenous circadian rhythms and external cues are currently not well understood, and a direct and mathematical based comparison between light-mediated and circadian-controlled gene expression is still outstanding. Therefore, we combined and analyzed data from two independent microarray experiments, previously performed under alternating light-dark and continuous light conditions in Cyanothece sp. ATCC 51142, and sought to classify light responsive and circadian controlled genes. RESULTS: Fourier Score-based methods together with random permutations and False Discovery Rates were used to identify genes with oscillatory expression patterns, and an angular distance based criterion was applied to recognize transient behaviors in gene expression under constant light conditions. Compared to previously reported mathematical approaches, the combination of these methods also facilitated the detection of modified amplitudes and phase-shifts of gene expression. Our analysis showed that the majority of diurnally regulated genes, essentially those genes that are maximally expressed during the middle of the light and dark period, are in fact light responsive. In contrast, most of the circadian controlled genes are up-regulated during the beginning of the dark or subjective dark, and are greatly enriched for genes associated with energy metabolism. Many of the circadian controlled and light responsive genes are found in gene clusters within the Cyanothece sp. ATCC 51142 genome. Interestingly, in addition to cyclic expression patterns with a period of 24 hours, we also found several genes that oscillate with an ultradian period of 12 hours, a novel finding among cyanobacteria. CONCLUSION: We demonstrate that a combination of different analytical methods significantly improved the identification of cyclic and transient gene expression in Cyanothece sp. ATCC 51142. Our analyses provide an adaptable and novel analytical tool to study gene expression in a variety of organisms with diurnal, circadian and ultradian behavior.
+
+-Biological Clocks (-genetics)
+-Circadian Rhythm (+genetics)
+-Cyanothece (+genetics; -metabolism; +radiation effects)
+-Gene Expression Regulation, Bacterial
+-Genes, Bacterial
++Light
+-Models, Genetic
+-Oligonucleotide Array Sequence Analysis
+
+pii:1471-2164-10-226
+doi:10.1186/1471-2164-10-226
+pubmed:19445672
+pmc:PMC2695482
+

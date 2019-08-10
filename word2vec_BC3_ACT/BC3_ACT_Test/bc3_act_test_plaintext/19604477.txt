@@ -1,0 +1,33 @@
+Structure
+
+Replication across template T/U by human DNA polymerase-iota.
+
+R Jain, DT Nair, RE Johnson, L Prakash, S Prakash, AK Aggarwal
+
+Human DNA polymerase-iota (Poliota) incorporates correct nucleotides opposite template purines with a much higher efficiency and fidelity than opposite template pyrimidines. In fact, the fidelity opposite template T is so poor that Poliota inserts an incorrect dGTP approximately 10 times better than it inserts the correct dATP. We determine here how a template T/U is accommodated in the Poliota active site and why a G is incorporated more efficiently than an A. We show that in the absence of incoming dATP or dGTP (binary complex), template T/U exists in both syn and anti conformations, but in the presence of dATP or dGTP (ternary complexes), template T/U is predominantly in the anti conformation. We also show that dATP and dGTP insert differently opposite template T/U, and that the basis of selection of dGTP over dATP is a hydrogen bond between the N2 amino group of dGTP and Gln59 of Poliota.
+
+-Binding Sites (-genetics)
+-Crystallography, X-Ray
+-DNA (-chemistry; -genetics)
++DNA Replication
+-DNA-Directed DNA Polymerase (-chemistry; -genetics; +metabolism)
+-Glutathione Transferase (-metabolism)
+-Humans
+-Hydrogen Bonding
+-Kinetics
+-Models, Molecular
+-Nucleic Acid Conformation
+-Oligonucleotides (-chemical synthesis; -chemistry; -isolation & purification; -metabolism)
+-Protein Binding
+-Protein Conformation
+-Recombinant Fusion Proteins (-chemistry; -metabolism)
+-Substrate Specificity (-genetics)
++Templates, Genetic
+-Thymine (+metabolism)
+-Uracil (+metabolism)
+-X-Ray Diffraction
+
+pii:S0969-2126(09)00216-0
+doi:10.1016/j.str.2009.04.011
+pubmed:19604477
+

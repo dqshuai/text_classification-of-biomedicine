@@ -1,0 +1,27 @@
+Nature
+
+Proteome-wide cellular protein concentrations of the human pathogen Leptospira interrogans.
+
+J Malmström, M Beck, A Schmidt, V Lange, EW Deutsch, R Aebersold
+
+Mass-spectrometry-based methods for relative proteome quantification have broadly affected life science research. However, important research directions, particularly those involving mathematical modelling and simulation of biological processes, also critically depend on absolutely quantitative data--that is, knowledge of the concentration of the expressed proteins as a function of cellular state. Until now, absolute protein concentration measurements of a considerable fraction of the proteome (73%) have only been derived from genetically altered Saccharomyces cerevisiae cells, a technique that is not directly portable from yeast to other species. Here we present a mass-spectrometry-based strategy to determine the absolute quantity, that is, the average number of protein copies per cell in a cell population, for a large fraction of the proteome in genetically unperturbed cells. Applying the technology to the human pathogen Leptospira interrogans, a spirochete responsible for leptospirosis, we generated an absolute protein abundance scale for 83% of the mass-spectrometry-detectable proteome, from cells at different states. Taking advantage of the unique cellular dimensions of L. interrogans, we used cryo-electron tomography morphological measurements to verify, at the single-cell level, the average absolute abundance values of selected proteins determined by mass spectrometry on a population of cells. Because the strategy is relatively fast and applicable to any cell type, we expect that it will become a cornerstone of quantitative biology and systems biology.
+
+-Bacterial Proteins (+analysis; -metabolism)
+-Chromatography, High Pressure Liquid
+-Chromatography, Liquid (-methods)
+-Cryoelectron Microscopy
+-Electron Microscope Tomography
+-Humans
+-Leptospira interrogans (-cytology; +metabolism)
+-Mass Spectrometry (+methods)
+-Proteome (+analysis; -metabolism)
+-Proteomics (+methods)
+-Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization
+-Tandem Mass Spectrometry
+
+pii:nature08184
+doi:10.1038/nature08184
+pubmed:19606093
+mid:NIHMS120631
+pmc:PMC2723184
+

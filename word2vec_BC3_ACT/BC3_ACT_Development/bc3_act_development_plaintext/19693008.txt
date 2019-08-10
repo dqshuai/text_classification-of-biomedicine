@@ -1,0 +1,27 @@
+Nature
+
+Histone H2A.Z cooperates with RNAi and heterochromatin factors to suppress antisense RNAs.
+
+M Zofall, T Fischer, K Zhang, M Zhou, B Cui, TD Veenstra, SI Grewal
+
+Eukaryotic transcriptomes are characterized by widespread transcription of noncoding and antisense RNAs, which is linked to key chromosomal processes, such as chromatin remodelling, gene regulation and heterochromatin assembly. However, these transcripts can be deleterious, and their accumulation is suppressed by several mechanisms including degradation by the nuclear exosome. The mechanisms by which cells differentiate coding RNAs from transcripts targeted for degradation are not clear. Here we show that the variant histone H2A.Z, which is loaded preferentially at the 5' ends of genes by the Swr1 complex containing a JmjC domain protein, mediates suppression of antisense transcripts in the fission yeast Schizosaccharomyces pombe genome. H2A.Z is partially redundant in this regard with the Clr4 (known as SUV39H in mammals)-containing heterochromatin silencing complex that is also distributed at euchromatic loci, and with RNA interference component Argonaute (Ago1). Loss of Clr4 or Ago1 alone has little effect on antisense transcript levels, but cells lacking either of these factors and H2A.Z show markedly increased levels of antisense RNAs that are normally degraded by the exosome. These analyses suggest that as well as performing other functions, H2A.Z is a component of a genome indexing mechanism that cooperates with heterochromatin and RNAi factors to suppress read-through antisense transcripts.
+
+-Cell Cycle Proteins (-genetics; -metabolism)
+-Exosomes (-metabolism)
++Gene Expression Regulation, Fungal
+-Heterochromatin (-genetics; +metabolism)
+-Histones (-deficiency; -genetics; +metabolism)
+-Methyltransferases (-deficiency; -genetics; -metabolism)
++RNA Interference
+-RNA, Antisense (+antagonists & inhibitors; -biosynthesis; +genetics)
+-RNA, Fungal (-genetics; -metabolism)
+-RNA, Messenger (-genetics; -metabolism)
+-Schizosaccharomyces (+genetics; -metabolism)
+-Schizosaccharomyces pombe Proteins (-genetics; -metabolism)
+
+pii:nature08321
+doi:10.1038/nature08321
+pubmed:19693008
+mid:NIHMS135765
+pmc:PMC2746258
+

@@ -1,0 +1,25 @@
+PLoS ONE
+
+Hyperactivation of DNA-PK by double-strand break mimicking molecules disorganizes DNA damage response.
+
+M Quanz, D Chassoux, N Berthault, C Agrario, JS Sun, M Dutreix
+
+Cellular response to DNA damage involves the coordinated activation of cell cycle checkpoints and DNA repair. The early steps of DNA damage recognition and signaling in mammalian cells are not yet fully understood. To investigate the regulation of the DNA damage response (DDR), we designed short and stabilized double stranded DNA molecules (Dbait) mimicking double-strand breaks. We compared the response induced by these molecules to the response induced by ionizing radiation. We show that stable 32-bp long Dbait, induce pan-nuclear phosphorylation of DDR components such as H2AX, Rpa32, Chk1, Chk2, Nbs1 and p53 in various cell lines. However, individual cell analyses reveal that differences exist in the cellular responses to Dbait compared to irradiation. Responses to Dbait: (i) are dependent only on DNA-PK kinase activity and not on ATM, (ii) result in a phosphorylation signal lasting several days and (iii) are distributed in the treated population in an "all-or-none" pattern, in a Dbait-concentration threshold dependant manner. Moreover, despite extensive phosphorylation of the DNA-PK downstream targets, Dbait treated cells continue to proliferate without showing cell cycle delay or apoptosis. Dbait treatment prior to irradiation impaired foci formation of Nbs1, 53BP1 and Rad51 at DNA damage sites and inhibited non-homologous end joining as well as homologous recombination. Together, our results suggest that the hyperactivation of DNA-PK is insufficient for complete execution of the DDR but induces a "false" DNA damage signaling that disorganizes the DNA repair system.
+
+-Apoptosis
+-Cell Cycle
+-Cell Line
++DNA Damage
+-DNA Repair
+-DNA-Activated Protein Kinase (+metabolism)
+-Enzyme Activation
+-Humans
+-Nuclear Proteins (+metabolism)
+-Phosphorylation
+-Recombination, Genetic
+-Signal Transduction
+
+doi:10.1371/journal.pone.0006298
+pubmed:19621083
+pmc:PMC2709433
+

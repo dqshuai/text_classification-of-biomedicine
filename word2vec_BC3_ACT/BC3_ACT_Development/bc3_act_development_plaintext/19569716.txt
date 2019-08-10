@@ -1,0 +1,36 @@
+J. Proteome Res.
+
+Human urinary metabolomic profile of PPARalpha induced fatty acid beta-oxidation.
+
+AD Patterson, O Slanar, KW Krausz, F Li, CC Höfer, F Perlík, FJ Gonzalez, JR Idle
+
+Activation of the peroxisome proliferator-activated receptor alpha (PPARalpha) is associated with increased fatty acid catabolism and is commonly targeted for the treatment of hyperlipidemia. To identify latent, endogenous biomarkers of PPARalpha activation and hence increased fatty acid beta-oxidation, healthy human volunteers were given fenofibrate orally for 2 weeks and their urine was profiled by UPLC-QTOFMS. Biomarkers identified by the machine learning algorithm random forests included significant depletion by day 14 of both pantothenic acid (>5-fold) and acetylcarnitine (>20-fold), observations that are consistent with known targets of PPARalpha including pantothenate kinase and genes encoding proteins involved in the transport and synthesis of acylcarnitines. It was also concluded that serum cholesterol (-12.7%), triglycerides (-25.6%), uric acid (-34.7%), together with urinary propylcarnitine (>10-fold), isobutyrylcarnitine (>2.5-fold), (S)-(+)-2-methylbutyrylcarnitine (5-fold), and isovalerylcarnitine (>5-fold) were all reduced by day 14. Specificity of these biomarkers as indicators of PPARalpha activation was demonstrated using the Ppara-null mouse. Urinary pantothenic acid and acylcarnitines may prove useful indicators of PPARalpha-induced fatty acid beta-oxidation in humans. This study illustrates the utility of a pharmacometabolomic approach to understand drug effects on lipid metabolism in both human populations and in inbred mouse models.
+
+-Adult
+-Algorithms
+-Analysis of Variance
+-Animals
+-Antilipemic Agents (-pharmacology)
+-Artificial Intelligence
+-Biological Markers (-urine)
+-Carnitine (-analogs & derivatives; -urine)
+-Chromatography, High Pressure Liquid
+-Fatty Acids (-analysis; -metabolism; +urine)
+-Female
+-Humans
+-Male
+-Mass Spectrometry
+-Metabolome (-drug effects)
+-Metabolomics (+methods)
+-Mice
+-Mice, Inbred C57BL
+-PPAR alpha (+urine)
+-Pantothenic Acid (-urine)
+-Procetofen (-pharmacology)
+-Urine (-chemistry)
+
+doi:10.1021/pr9004103
+pubmed:19569716
+mid:NIHMS132643
+pmc:PMC2760252
+

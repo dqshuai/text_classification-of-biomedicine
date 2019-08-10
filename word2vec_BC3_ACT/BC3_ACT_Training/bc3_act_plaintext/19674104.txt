@@ -1,0 +1,24 @@
+FEBS J.
+
+Mutation of epidermal growth factor receptor is associated with MIG6 expression.
+
+T Nagashima, R Ushikoshi-Nakayama, A Suenaga, K Ide, N Yumoto, Y Naruo, K Takahashi, Y Saeki, M Taiji, H Tanaka, SF Tsai, M Hatakeyama
+
+Controlled activation of epidermal growth factor receptor (EGFR) is systematically guaranteed at the molecular level; however, aberrant activation of EGFR is frequently found in cancer. Transcription induced by EGFR activation often involves the coordinated expression of genes that positively and negatively regulate the original signaling pathway; therefore, alterations in EGFR kinase activity may reflect changes in gene expression associated with the pathway. In the present study, we investigated transcriptional changes after EGF stimulation with or without the EGFR kinase inhibitor Iressa in H1299 human non-small-cell lung cancer cells [parental H1299, H1299 cells that overexpress wild-type EGFR (EGFR-WT) and mutant H1299 cells that overexpress EGFR where Leu858 is substituted with Arg (L858R)]. The results obtained clearly demonstrate differences in transcriptional activity in the absence or presence of EGFR kinase activity, with genes sharing the same molecular functions showing distinct expression dynamics. The results show the particular enrichment of EGFR/ErbB signaling-related genes in a differentially expressed gene set, and significant protein expression of MIG6/RALT(ERRFI1), an EGFR negative regulator, was confirmed in L858R. High MIG6 protein expression was correlated with basal EGFR phosphorylation and inversely correlated with EGF-induced extracellular signal-regulated protein kinase phosphorylation levels. Investigation of the NCI-60 cell lines showed that ERRFI1 expression was correlated with EGFR expression, regardless of tissue type. These results suggest that cells accumulate MIG6 as an inherent negative regulator to suppress excess EGFR activity when basal EGFR kinase activity is considerably high. Taking all the above together, an EGFR mutation can cause transcriptional changes to accommodate the activation potency of the original signaling pathway at the cellular level.
+
+-Adaptor Proteins, Signal Transducing (-genetics; +physiology)
+-Cell Line, Tumor
+-Gene Expression Profiling
+-Genes, erbB
+-Humans
+-Intracellular Signaling Peptides and Proteins (-physiology)
+-Mutation
+-Nerve Tissue Proteins (-physiology)
+-Receptor, Epidermal Growth Factor (-antagonists & inhibitors; -genetics; +physiology)
+-Signal Transduction
+-Transcription, Genetic
+
+pii:EJB7220
+doi:10.1111/j.1742-4658.2009.07220.x
+pubmed:19674104
+

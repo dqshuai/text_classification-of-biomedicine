@@ -1,0 +1,18 @@
+PLoS ONE
+
+Missing data in randomized clinical trials for weight loss: scope of the problem, state of the field, and performance of statistical methods.
+
+MA Elobeid, MA Padilla, T McVie, O Thomas, DW Brock, B Musser, K Lu, CS Coffey, RA Desmond, MP St-Onge, KM Gadde, SB Heymsfield, DB Allison
+
+BACKGROUND: Dropouts and missing data are nearly-ubiquitous in obesity randomized controlled trails, threatening validity and generalizability of conclusions. Herein, we meta-analytically evaluate the extent of missing data, the frequency with which various analytic methods are employed to accommodate dropouts, and the performance of multiple statistical methods. METHODOLOGY/PRINCIPAL FINDINGS: We searched PubMed and Cochrane databases (2000-2006) for articles published in English and manually searched bibliographic references. Articles of pharmaceutical randomized controlled trials with weight loss or weight gain prevention as major endpoints were included. Two authors independently reviewed each publication for inclusion. 121 articles met the inclusion criteria. Two authors independently extracted treatment, sample size, drop-out rates, study duration, and statistical method used to handle missing data from all articles and resolved disagreements by consensus. In the meta-analysis, drop-out rates were substantial with the survival (non-dropout) rates being approximated by an exponential decay curve (e(-lambdat)) where lambda was estimated to be .0088 (95% bootstrap confidence interval: .0076 to .0100) and t represents time in weeks. The estimated drop-out rate at 1 year was 37%. Most studies used last observation carried forward as the primary analytic method to handle missing data. We also obtained 12 raw obesity randomized controlled trial datasets for empirical analyses. Analyses of raw randomized controlled trial data suggested that both mixed models and multiple imputation performed well, but that multiple imputation may be more robust when missing data are extensive. CONCLUSION/SIGNIFICANCE: Our analysis offers an equation for predictions of dropout rates useful for future study planning. Our raw data analyses suggests that multiple imputation is better than other methods for handling missing data in obesity randomized controlled trials, followed closely by mixed models. We suggest these methods supplant last observation carried forward as the primary method of analysis.
+
+-Data Interpretation, Statistical
+-Humans
+-Obesity (+therapy)
++Randomized Controlled Trials as Topic
++Weight Loss
+
+doi:10.1371/journal.pone.0006624
+pubmed:19675667
+pmc:PMC2720539
+

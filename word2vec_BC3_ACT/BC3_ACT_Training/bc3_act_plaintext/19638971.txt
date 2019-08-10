@@ -1,0 +1,19 @@
+Mol. Syst. Biol.
+
+Pathway databases and tools for their exploitation: benefits, current limitations and challenges.
+
+A Bauer-Mehren, LI Furlong, F Sanz
+
+In past years, comprehensive representations of cell signalling pathways have been developed by manual curation from literature, which requires huge effort and would benefit from information stored in databases and from automatic retrieval and integration methods. Once a reconstruction of the network of interactions is achieved, analysis of its structural features and its dynamic behaviour can take place. Mathematical modelling techniques are used to simulate the complex behaviour of cell signalling networks, which ultimately sheds light on the mechanisms leading to complex diseases or helps in the identification of drug targets. A variety of databases containing information on cell signalling pathways have been developed in conjunction with methodologies to access and analyse the data. In principle, the scenario is prepared to make the most of this information for the analysis of the dynamics of signalling pathways. However, are the knowledge repositories of signalling pathways ready to realize the systems biology promise? In this article we aim to initiate this discussion and to provide some insights on this issue.
+
+-Computational Biology (-methods)
++Databases, Factual
+-Humans
+-Internet
++Signal Transduction
+
+pii:msb200947
+doi:10.1038/msb.2009.47
+pubmed:19638971
+pmc:PMC2724977
+

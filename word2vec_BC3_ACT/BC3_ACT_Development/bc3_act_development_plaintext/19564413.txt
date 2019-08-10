@@ -1,0 +1,34 @@
+Mol. Cell. Biol.
+
+Estrogen regulation of cyclin E2 requires cyclin D1 but not c-Myc.
+
+CE Caldon, CM Sergio, J Schütte, MN Boersma, RL Sutherland, JS Carroll, EA Musgrove
+
+During estrogen-induced proliferation, c-Myc and cyclin D1 initiate independent pathways that activate cyclin E1-Cdk2 by sequestration and/or downregulation of the CDK inhibitor p21(Waf1/Cip1), without significant increases in cyclin E1 protein levels. In contrast, cyclin E2 undergoes a marked increase in expression, which occurs within 9 to 12 h of estrogen treatment of antiestrogen-pretreated MCF-7 breast cancer cells. Both E cyclins are important to estrogen action, as small interfering RNA (siRNA)-mediated knockdown of either cyclin E1 or cyclin E2 attenuated estrogen-mediated proliferation. Inducible expression of cyclin D1 upregulated cyclin E2, while siRNA-mediated knockdown of cyclin D1 attenuated estrogen effects on cyclin E2. However, manipulation of c-Myc levels did not profoundly affect cyclin E2. Cyclin E2 induction by estrogen was accompanied by recruitment of E2F1 to the cyclin E1 and E2 promoters, and cyclin D1 induction was sufficient for E2F1 recruitment. siRNA-mediated knockdown of the chromatin remodelling factor CHD8 prevented cyclin E2 upregulation. Together, these data indicate that cyclin E2-Cdk2 activation by estrogen occurs via E2F- and CHD8-mediated transcription of cyclin E2 downstream of cyclin D1. This contrasts with the predominant regulation of cyclin E1-Cdk2 activity via CDK inhibitor association downstream of both c-Myc and cyclin D1 and indicates that cyclins E1 and E2 are not always coordinately regulated.
+
+-Animals
+-Breast Neoplasms
+-Cell Line, Tumor (-drug effects; -metabolism)
+-Cyclin D1 (-genetics; +metabolism)
+-Cyclin E (-genetics; -metabolism)
+-Cyclin-Dependent Kinase 2 (-genetics; -metabolism)
+-Cyclins (-genetics; +metabolism)
+-DNA-Binding Proteins (-genetics; -metabolism)
+-E2F Transcription Factors (-genetics; -metabolism)
+-Enzyme Activation
++Estrogens (-metabolism; -pharmacology)
+-Female
+-Gene Expression Regulation, Neoplastic (+drug effects)
+-Humans
+-Mice
+-Oncogene Proteins (-genetics; -metabolism)
+-Promoter Regions, Genetic
+-Proto-Oncogene Proteins c-myc (-genetics; +metabolism)
+-RNA, Small Interfering (-genetics; -metabolism)
+-Transcription Factors (-genetics; -metabolism)
+
+pii:MCB.00269-09
+doi:10.1128/MCB.00269-09
+pubmed:19564413
+pmc:PMC2725719
+

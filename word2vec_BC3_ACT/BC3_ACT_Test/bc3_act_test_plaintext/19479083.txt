@@ -1,0 +1,19 @@
+PLoS ONE
+
+A big world inside small-world networks.
+
+Z Zhang, J Zhang
+
+Real networks, including biological networks, are known to have the small-world property, characterized by a small "diameter", which is defined as the average minimal path length between all pairs of nodes in a network. Because random networks also have short diameters, one may predict that the diameter of a real network should be even shorter than its random expectation, because having shorter diameters potentially increases the network efficiency such as minimizing transition times between metabolic states in the context of metabolic networks. Contrary to this expectation, we here report that the observed diameter is greater than the random expectation in every real network examined, including biological, social, technological, and linguistic networks. Simulations show that a modest enlargement of the diameter beyond its expectation allows a substantial increase of the network modularity, which is present in all real networks examined. Hence, short diameters appear to be sacrificed for high modularities, suggesting a tradeoff between network efficiency and advantages offered by modularity (e.g., multi-functionality, robustness, and/or evolvability).
+
+-Animals
+-Computer Simulation
++Gene Regulatory Networks
+-Humans
+-Metabolic Networks and Pathways
++Social Support
+
+doi:10.1371/journal.pone.0005686
+pubmed:19479083
+pmc:PMC2682646
+

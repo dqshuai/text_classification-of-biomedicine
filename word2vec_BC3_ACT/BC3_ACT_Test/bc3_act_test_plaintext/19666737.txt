@@ -1,0 +1,25 @@
+Plant Cell
+
+SUMO E3 ligase HIGH PLOIDY2 regulates endocycle onset and meristem maintenance in Arabidopsis.
+
+T Ishida, S Fujiwara, K Miura, N Stacey, M Yoshimura, K Schneider, S Adachi, K Minamisawa, M Umeda, K Sugimoto
+
+Endoreduplication involves a doubling of chromosomal DNA without corresponding cell division. In plants, many cell types transit from the mitotic cycle to the endoreduplication cycle or endocycle, and this transition is often coupled with the initiation of cell expansion and differentiation. Although a number of cell cycle regulators implicated in endocycle onset have been identified, it is still largely unknown how this transition is developmentally regulated at the whole organ level. Here, we report that a nuclear-localized SUMO E3 ligase, HIGH PLOIDY2 (HPY2), functions as a repressor of endocycle onset in Arabidopsis thaliana meristems. Loss of HPY2 results in a premature transition from the mitotic cycle to the endocycle, leading to severe dwarfism with defective meristems. HPY2 possesses an SP-RING domain characteristic of MMS21-type SUMO E3 ligases, and we show that the conserved residues within this domain are required for the in vivo and in vitro function of HPY2. HPY2 is predominantly expressed in proliferating cells of root meristems and it functions downstream of meristem patterning transcription factors PLETHORA1 (PLT1) and PLT2. These results establish that HPY2-mediated sumoylation modulates the cell cycle progression and meristem development in the PLT-dependent signaling pathway.
+
+-Arabidopsis (+cytology; -growth & development; +metabolism)
+-Arabidopsis Proteins (-genetics; -metabolism; +physiology)
+-Blotting, Western
+-Cell Nucleus (-genetics; -metabolism)
+-Cyclin-Dependent Kinases (-genetics; -metabolism; -physiology)
+-Gene Expression Regulation, Plant (-genetics; -physiology)
+-Meristem (+cytology; -growth & development; +metabolism)
+-Microscopy, Fluorescence
+-Plant Roots (-genetics; -growth & development; -metabolism)
+-Transcription Factors (-genetics; -metabolism; -physiology)
+-Ubiquitin-Protein Ligases (-genetics; -metabolism; +physiology)
+
+pii:tpc.109.068072
+doi:10.1105/tpc.109.068072
+pubmed:19666737
+pmc:PMC2751947
+

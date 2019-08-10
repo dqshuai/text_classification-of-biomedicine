@@ -1,0 +1,28 @@
+J. Biol. Chem.
+
+Heteromeric AtKC1{middle dot}AKT1 channels in Arabidopsis roots facilitate growth under K+-limiting conditions.
+
+D Geiger, D Becker, D Vosloh, F Gambale, K Palme, M Rehers, U Anschuetz, I Dreyer, J Kudla, R Hedrich
+
+Plant growth and development is driven by osmotic processes. Potassium represents the major osmotically active cation in plants cells. The uptake of this inorganic osmolyte from the soil in Arabidopsis involves a root K(+) uptake module consisting of the two K(+) channel alpha-subunits, AKT1 and AtKC1. AKT1-mediated potassium absorption from K(+)-depleted soil was shown to depend on the calcium-sensing proteins CBL1/9 and their interacting kinase CIPK23. Here we show that upon activation by the CBL.CIPK complex in low external potassium homomeric AKT1 channels open at voltages positive of E(K), a condition resulting in cellular K(+) leakage. Although at submillimolar external potassium an intrinsic K(+) sensor reduces AKT1 channel cord conductance, loss of cytosolic potassium is not completely abolished under these conditions. Depending on channel activity and the actual potassium gradients, this channel-mediated K(+) loss results in impaired plant growth in the atkc1 mutant. Incorporation of the AtKC1 subunit into the channel complex, however, modulates the properties of the K(+) uptake module to prevent K(+) loss. Upon assembly of AKT1 and AtKC1, the activation threshold of the root inward rectifier voltage gate is shifted negative by approximately -70 mV. Additionally, the channel conductance gains a hypersensitive K(+) dependence. Together, these two processes appear to represent a safety strategy preventing K(+) loss through the uptake channels under physiological conditions. Similar growth retardation phenotypes of akt1 and atkc1 loss-of-function mutants in response to limiting K(+) supply further support such functional interdependence of AKT1 and AtKC1. Taken together, these findings suggest an essential role of AtKC1-like subunits for root K(+) uptake and K(+) homeostasis when plants experience conditions of K(+) limitation.
+
+-Arabidopsis (-metabolism; +physiology)
+-Arabidopsis Proteins (-biosynthesis; -metabolism; +physiology)
+-Biophysics (-methods)
+-Electrophysiology
++Gene Expression Regulation, Plant
+-Homeostasis
+-Models, Biological
+-Mutation
+-Plant Physiological Phenomena
+-Plant Roots (+metabolism)
+-Potassium (-metabolism)
+-Potassium Channels (-biosynthesis; -chemistry; +physiology)
+-Protein Subunits (-biosynthesis; +physiology)
+-Two-Hybrid System Techniques
+
+pii:M109.017574
+doi:10.1074/jbc.M109.017574
+pubmed:19509299
+pmc:PMC2755853
+

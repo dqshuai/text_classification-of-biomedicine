@@ -1,0 +1,41 @@
+J. Neurosci.
+
+Photostimulation of retrotrapezoid nucleus phox2b-expressing neurons in vivo produces long-lasting activation of breathing in rats.
+
+SB Abbott, RL Stornetta, MG Fortuna, SD Depuy, GH West, TE Harris, PG Guyenet
+
+The retrotrapezoid "nucleus" (RTN), located in the rostral ventrolateral medullary reticular formation, contains a bilateral cluster of approximately 1000 glutamatergic noncatecholaminergic Phox2b-expressing propriobulbar neurons that are activated by CO(2) in vivo and by acidification in vitro. These cells are thought to function as central respiratory chemoreceptors, but this theory still lacks a crucial piece of evidence, namely that stimulating these particular neurons selectively in vivo increases breathing. The present study performed in anesthetized rats seeks to test whether this expectation is correct. We injected into the left RTN a lentivirus that expresses the light-activated cationic channel ChR2 (channelrhodopsin-2) (H134R mutation; fused to the fluorescent protein mCherry) under the control of the Phox2-responsive promoter PRSx8. Transgene expression was restricted to 423 +/- 38 Phox2b-expressing neurons per rat consisting of noncatecholaminergic and C1 adrenergic neurons (3:2 ratio). Photostimulation delivered to the RTN region in vivo via a fiberoptic activated the CO(2)-sensitive neurons vigorously, produced a long-lasting (t(1/2) = 11 s) increase in phrenic nerve activity, and caused a small and short-lasting cardiovascular stimulation. Selective lesions of the C1 cells eliminated the cardiovascular response but left the respiratory stimulation intact. In rats with C1 cell lesions, the mCherry-labeled axon terminals originating from the transfected noncatecholaminergic neurons were present exclusively in the lower brainstem regions that contain the respiratory pattern generator. These results provide strong evidence that the Phox2b-expressing noncatecholaminergic neurons of the RTN region function as central respiratory chemoreceptors.
+
+-Action Potentials (-drug effects; -physiology)
+-Analysis of Variance
+-Animals
+-Blood Pressure (-physiology)
+-Brain Mapping
+-Carbon Dioxide (-pharmacology)
+-Choline O-Acetyltransferase (-metabolism)
+-Electromyography (-methods)
+-Functional Laterality
+-Gene Expression Regulation (-genetics)
+-Green Fluorescent Proteins (-biosynthesis; -genetics)
+-Homeodomain Proteins (-genetics; +metabolism)
++Light
+-Male
+-Muscle, Smooth (-drug effects; -physiology)
+-Mutation (-physiology)
+-Neurons (-drug effects; +metabolism)
+-Phrenic Nerve (-physiology)
+-Rats
+-Rats, Sprague-Dawley
++Respiration (-drug effects; -genetics)
+-Respiratory Center (+cytology; -injuries; -physiology)
+-Rhodopsin (-genetics; -metabolism)
+-Time Factors
+-Transduction, Genetic (-methods)
+-Tyrosine 3-Monooxygenase (-metabolism)
+
+pii:29/18/5806
+doi:10.1523/JNEUROSCI.1106-09.2009
+pubmed:19420248
+mid:NIHMS115546
+pmc:PMC2696034
+

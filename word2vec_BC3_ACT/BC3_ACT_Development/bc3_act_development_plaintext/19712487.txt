@@ -1,0 +1,21 @@
+BMC Bioinformatics
+
+A reliable measure of similarity based on dependency for short time series: an application to gene expression networks.
+
+MG Campiteli, FM Soriani, I Malavazi, O Kinouchi, CA Pereira, GH Goldman
+
+BACKGROUND: Microarray techniques have become an important tool to the investigation of genetic relationships and the assignment of different phenotypes. Since microarrays are still very expensive, most of the experiments are performed with small samples. This paper introduces a method to quantify dependency between data series composed of few sample points. The method is used to construct gene co-expression subnetworks of highly significant edges. RESULTS: The results shown here are for an adapted subset of a Saccharomyces cerevisiae gene expression data set with low temporal resolution and poor statistics. The method reveals common transcription factors with a high confidence level and allows the construction of subnetworks with high biological relevance that reveals characteristic features of the processes driving the organism adaptations to specific environmental conditions. CONCLUSION: Our method allows a reliable and sophisticated analysis of microarray data even under severe constraints. The utilization of systems biology improves the biologists ability to elucidate the mechanisms underlying cellular processes and to formulate new hypotheses.
+
++Algorithms
+-Computational Biology (+methods)
++Gene Expression
+-Gene Expression Profiling (+methods)
++Gene Regulatory Networks
+-Oligonucleotide Array Sequence Analysis
+-Saccharomyces cerevisiae (-genetics)
+
+pii:1471-2105-10-270
+doi:10.1186/1471-2105-10-270
+pubmed:19712487
+pmc:PMC2757031
+

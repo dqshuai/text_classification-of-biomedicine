@@ -1,0 +1,38 @@
+Oncogene
+
+Overexpressing PKIB in prostate cancer promotes its aggressiveness by linking between PKA and Akt pathways.
+
+S Chung, M Furihata, K Tamura, M Uemura, Y Daigo, Y Nasu, T Miki, T Shuin, T Fujioka, Y Nakamura, H Nakagawa
+
+Prostate cancer (PC) is the most common malignancy in males. Despite high response rates and clinical benefits, androgen-ablation therapy is ineffective for advanced or relapsed PC because of the emergence of aggressive castration-resistant prostate cancer (CRPC). Through our genome-wide gene expression analysis of PC cells purified from clinical CRPC tissues, we here identified a novel molecular target, PKIB (cAMP-dependent protein kinase inhibitor-beta), which was overexpressed specifically in CRPCs and aggressive PCs. Immunohistochemical analysis confirmed its overexpression in CRPCs and its strong correlation with high Gleason scores of PCs. Knockdown of PKIB by siRNA resulted in drastic growth suppression of PC cells, and, concordantly, exogenous introduction of PKIB into PC cells enhanced their growth and mobility. We found the direct interaction between PKIB and cAMP-dependent protein kinase A catalytic subunit (PKA-C), and showed that knockdown of PKIB in PC cells diminished the nuclear translocation of PKA-C. Knockdown of PKIB also decreased the phosphorylation level of Akt at Ser473 in PC cells, and exogenous PKIB introduction enhanced Akt phosphorylation in PC cells by incorporating with endogenous PKA-C kinase. In vitro kinase assay validated the recombinant PKIB enhanced phosphorylation of Akt at Ser473 by PKA-C kinase. These findings show that PKIB and PKA-C kinase can have critical functions of aggressive phenotype of PCs through Akt phosphorylation and that they should be a promising molecular target for PC treatment.
+
+-Animals
+-Blotting, Northern
+-COS Cells
+-Cell Line, Tumor
+-Cell Movement
+-Cell Nucleus (-metabolism)
+-Cell Proliferation
+-Cercopithecus aethiops
+-Cyclic AMP-Dependent Protein Kinase Catalytic Subunits (+metabolism)
++Gene Expression Regulation, Neoplastic
+-Humans
+-Immunohistochemistry
+-Intracellular Signaling Peptides and Proteins (+genetics; -metabolism)
+-Male
+-Mice
+-NIH 3T3 Cells
+-Orchiectomy
+-Phosphorylation
+-Prostatic Neoplasms (-genetics; -metabolism; -pathology)
+-Protein Binding
+-Protein Transport
+-Proto-Oncogene Proteins c-akt (+metabolism)
+-RNA Interference
+-Reverse Transcriptase Polymerase Chain Reaction
++Signal Transduction
+
+pii:onc2009144
+doi:10.1038/onc.2009.144
+pubmed:19483721
+

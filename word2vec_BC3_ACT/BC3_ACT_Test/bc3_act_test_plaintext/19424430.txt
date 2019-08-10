@@ -1,0 +1,30 @@
+PLoS Pathog.
+
+A complex extracellular sphingomyelinase of Pseudomonas aeruginosa inhibits angiogenesis by selective cytotoxicity to endothelial cells.
+
+ML Vasil, MJ Stonehouse, AI Vasil, SJ Wadsworth, H Goldfine, RE Bolcome, J Chan
+
+The hemolytic phospholipase C (PlcHR) expressed by Pseudomonas aeruginosa is the original member of a Phosphoesterase Superfamily, which includes phosphorylcholine-specific phospholipases C (PC-PLC) produced by frank and opportunistic pathogens. PlcHR, but not all its family members, is also a potent sphingomyelinase (SMase). Data presented herein indicate that picomolar (pM) concentrations of PlcHR are selectively lethal to endothelial cells (EC). An RGD motif of PlcHR contributes to this selectivity. Peptides containing an RGD motif (i.e., GRGDS), but not control peptides (i.e., GDGRS), block the effects of PlcHR on calcium signaling and cytotoxicity to EC. Moreover, RGD variants of PlcHR (e.g., RGE, KGD) are significantly reduced in their binding and toxicity, but retain the enzymatic activity of the wild type PlcHR. PlcHR also inhibits several EC-dependent in vitro assays (i.e., EC migration, EC invasion, and EC tubule formation), which represent key processes involved in angiogenesis (i.e., formation of new blood vessels from existing vasculature). Finally, the impact of PlcHR in an in vivo model of angiogenesis in transgenic zebrafish, and ones treated with an antisense morpholino to knock down a key blood cell regulator, were evaluated because in vitro assays cannot fully represent the complex processes of angiogenesis. As little as 2 ng/embryo of PlcHR was lethal to approximately 50% of EGFP-labeled EC at 6 h after injection of embryos at 48 hpf (hours post-fertilization). An active site mutant of PlcHR (Thr178Ala) exhibited 120-fold reduced inhibitory activity in the EC invasion assay, and 20 ng/embryo elicited no detectable inhibitory activity in the zebrafish model. Taken together, these observations are pertinent to the distinctive vasculitis and poor wound healing associated with P. aeruginosa sepsis and suggest that the potent antiangiogenic properties of PlcHR are worthy of further investigation for the treatment of diseases where angiogenesis contributes pathological conditions (e.g., vascularization of tumors, diabetic retinopathy).
+
+-Angiogenesis Inhibitors (-chemistry; +metabolism; -pharmacology)
+-Animals
+-Animals, Genetically Modified
+-CHO Cells
+-Calcium Signaling (-drug effects; -physiology)
+-Cell Movement (-drug effects; -physiology)
+-Cricetinae
+-Cricetulus
+-Endothelial Cells (-drug effects; +metabolism)
+-Fibroblasts (-drug effects; -metabolism)
+-Humans
+-Mice
++Neovascularization, Physiologic
+-Pseudomonas aeruginosa (+enzymology)
+-Transferases (Other Substituted Phosphate Groups) (-chemistry; +metabolism; -pharmacology)
+-Umbilical Veins
+-Zebrafish
+
+doi:10.1371/journal.ppat.1000420
+pubmed:19424430
+pmc:PMC2673038
+

@@ -1,0 +1,29 @@
+Cell
+
+A unifying model for the selective regulation of inducible transcription by CpG islands and nucleosome remodeling.
+
+VR Ramirez-Carrozzi, D Braas, DM Bhatt, CS Cheng, C Hong, KR Doty, JC Black, A Hoffmann, M Carey, ST Smale
+
+We describe a broad mechanistic framework for the transcriptional induction of mammalian primary response genes by Toll-like receptors and other stimuli. One major class of primary response genes is characterized by CpG-island promoters, which facilitate promiscuous induction from constitutively active chromatin without a requirement for SWI/SNF nucleosome remodeling complexes. The low nucleosome occupancy at promoters in this class can be attributed to the assembly of CpG islands into unstable nucleosomes, which may lead to SWI/SNF independence. Another major class consists of non-CpG-island promoters that assemble into stable nucleosomes, resulting in SWI/SNF dependence and a requirement for transcription factors that promote selective nucleosome remodeling. Some stimuli, including serum and tumor necrosis factor-alpha, exhibit a strong bias toward activation of SWI/SNF-independent CpG-island genes. In contrast, interferon-beta is strongly biased toward SWI/SNF-dependent non-CpG-island genes. By activating a diverse set of transcription factors, Toll-like receptors induce both classes and others for an optimal response to microbial pathogens.
+
+-Animals
+-CD4-Positive T-Lymphocytes (-metabolism)
++Chromatin Assembly and Disassembly
+-Chromosomal Proteins, Non-Histone (-metabolism)
++CpG Islands
+-Humans
+-Interferon Regulatory Factor-3 (-metabolism)
+-Lipopolysaccharides (-immunology)
+-Mice
+-Nucleosomes (-metabolism)
+-Promoter Regions, Genetic
+-Transcription Factors (-metabolism)
+-Transcription, Genetic
++Transcriptional Activation
+
+pii:S0092-8674(09)00445-0
+doi:10.1016/j.cell.2009.04.020
+pubmed:19596239
+mid:NIHMS113193
+pmc:PMC2712736
+

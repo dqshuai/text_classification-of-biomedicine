@@ -1,0 +1,24 @@
+Biophys. J.
+
+Diffusion in cytoplasm: effects of excluded volume due to internal membranes and cytoskeletal structures.
+
+IL Novak, P Kraikivski, BM Slepchenko
+
+The intricate geometry of cytoskeletal networks and internal membranes causes the space available for diffusion in cytoplasm to be convoluted, thereby affecting macromolecule diffusivity. We present a first systematic computational study of this effect by approximating intracellular structures as mixtures of random overlapping obstacles of various shapes. Effective diffusion coefficients are computed using a fast homogenization technique. It is found that a simple two-parameter power law provides a remarkably accurate description of effective diffusion over the entire range of volume fractions and for any given composition of structures. This universality allows for fast computation of diffusion coefficients, once the obstacle shapes and volume fractions are specified. We demonstrate that the excluded volume effect alone can account for a four-to-sixfold reduction in diffusive transport in cells, relative to diffusion in vitro. The study lays the foundation for an accurate coarse-grain formulation that would account for cytoplasm heterogeneity on a micron scale and binding of tracers to intracellular structures.
+
+-Algorithms
++Cell Size
+-Computer Simulation
+-Cytoplasm (+chemistry; +metabolism)
+-Cytoskeleton (+chemistry)
+-Diffusion
+-Intracellular Membranes (+chemistry; -metabolism)
++Models, Biological
+-Monte Carlo Method
+-Time Factors
+
+pii:S0006-3495(09)01045-5
+doi:10.1016/j.bpj.2009.05.036
+pubmed:19651034
+pmc:PMC2718152
+

@@ -1,0 +1,28 @@
+PLoS ONE
+
+The function of a spindle checkpoint gene bub-1 in C. elegans development.
+
+X Wang, M Liu, W Li, CD Suh, Z Zhu, Y Jin, Q Fan
+
+BACKGROUND: The serine/threonine kinase BUB1 (Budding Uninhibited by Benzimidazole 1) was originally identified in yeast as a checkpoint protein, based on its mutant's incapacity of delaying the cell cycle in response to loss of microtubules. Our understanding of its function is primarily from studies carried out in yeast S. cerevisiae. It has been shown that it is a component of the mitotic spindle checkpoint and regulates the separation of sister chromatids through its downstream molecules. However, its roles in multi-cellular organisms remain unclear. METHODS AND FINDINGS: In nematode C. elegans, rapid cell divisions primarily occur in embryos and in germline of postembryonic larvae and adults. In addition, a select set of cells undergo a few rounds of cell division postembryonically. One common phenotype associated with impaired cell division is described as Stu (Sterile and Uncoordinated) [1], [2]. We conducted a genetic screen for zygotic mutants that displayed Stu phenotype in C. elegans. We isolated seven Stu mutants that fell into five complementation groups. We report here that two mutations, FanWang5 (fw5) and FanWang8 (fw8) affect the bub-1 gene, a homolog of yeast BUB1. Both mutant alleles of fw5 and fw8 exhibited variable behavioral defects, including developmental arrest, uncoordination and sterility. The number of postembryonically born neurons in the ventral cord decreased and their axon morphology was abnormal. Also, the decrease of neurons in the ventral cord phenotype could not be suppressed by a caspase-3 loss-of-function mutant. In addition, bub-1(fw5 and fw8) mutants showed widespread effects on postembryonic development in many cell lineages. We found that bub-1 functioned maternally in several developmental lineages at the embryonic stage in C. elegans. Studies in yeast have shown that BUB1 functions as a spindle checkpoint protein by regulating the anaphase promoting complex/cyclosome (APC/C). We performed double mutant analysis and observed that bub-1 genetically interacted with several downstream genes, including fzy-1/CDC20, mat-2/APC1 and emb-27/APC6. CONCLUSIONS: Our results demonstrate a conserved role of bub-1 in cell-cycle regulation and reveal that C. elegans bub-1 is required both maternally and zygotically. Further, our genetic analysis is consistent with that the function of bub-1 in C. elegans is likely similar to its yeast and mammalian homologs.
+
+-Animals
+-Base Sequence
+-Caenorhabditis elegans
+-Cell Nucleus (-metabolism)
+-Crosses, Genetic
++Gene Expression Regulation, Developmental
+-Genetic Complementation Test
++Mitotic Spindle Apparatus
+-Models, Genetic
+-Molecular Sequence Data
+-Motor Neurons (-pathology)
+-Mutation
+-Phenotype
+-Protein-Serine-Threonine Kinases (+genetics; +physiology)
+-Sequence Homology, Nucleic Acid
+
+doi:10.1371/journal.pone.0005912
+pubmed:19526056
+pmc:PMC2691579
+

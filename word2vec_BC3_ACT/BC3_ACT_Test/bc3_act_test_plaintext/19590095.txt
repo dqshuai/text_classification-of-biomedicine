@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+Minimal promoter systems reveal the importance of conserved residues in the B-finger of human transcription factor IIB.
+
+NE Thompson, BT Glaser, KM Foley, ZF Burton, RR Burgess
+
+The "B-finger" of transcription factor IIB (TFIIB) is highly conserved and believed to play a role in the initiation process. We performed alanine substitutions across the B-finger of human TFIIB, made change-of-charge mutations in selected residues, and substituted the B-finger sequence from other organisms. Mutant proteins were examined in two minimal promoter systems (containing only RNA polymerase II, TATA-binding protein, and TFIIB) and in a complex system, using TFIIB-immunodepleted HeLa cell nuclear extract (NE). Mutations in conserved residues located on the sides of the B-finger had the greatest effect on activity in both minimal promoter systems, with mutations in residues Glu-51 and Arg-66 eliminating activity. The double change-of-charge mutant (E51R:R66E) did not show activity in either minimal promoter system. Mutations in the nonconserved residues at the tip of the B-finger did not significantly affect activity. However, all of the mutations in the B-finger showed at least 25% activity in the HeLa cell NE. Chimeric proteins, containing B-finger sequences from species with conserved residues on the side of the B-finger, showed wild-type activity in a minimal promoter system and in the HeLa cell NE. However, chimeric proteins whose sequence showed divergence on the sides of the B-finger had reduced activity. Transcription factor IIF (TFIIF) partially restored activity of the inactive mutants in the minimal promoter system, suggesting that TFIIF in HeLa cell NE helps to rescue the inactive mutations by interacting with either the B-finger or another component of the initiation complex that is influenced by the B-finger.
+
+-Amino Acid Sequence
+-Buffers
+-Cell Nucleus (-metabolism)
+-Hela Cells
+-Humans
+-Models, Biological
+-Molecular Sequence Data
+-Mutagenesis
+-Mutation
+-Peptides (-chemistry)
+-Plasmids (-metabolism)
++Promoter Regions, Genetic
+-Protein Structure, Tertiary
+-Transcription Factor TFIIB (-chemistry; +metabolism)
+-Transcription, Genetic
+
+pii:M109.030486
+doi:10.1074/jbc.M109.030486
+pubmed:19590095
+pmc:PMC2757179
+

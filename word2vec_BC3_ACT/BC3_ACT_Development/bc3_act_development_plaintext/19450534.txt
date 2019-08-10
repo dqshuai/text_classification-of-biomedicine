@@ -1,0 +1,26 @@
+Mol. Cell
+
+Coronin switches roles in actin disassembly depending on the nucleotide state of actin.
+
+M Gandhi, V Achard, L Blanchoin, BL Goode
+
+Rapid and polarized turnover of actin networks is essential for motility, endocytosis, cytokinesis, and other cellular processes. However, the mechanisms that provide tight spatiotemporal control of actin disassembly remain poorly understood. Here, we show that yeast coronin (Crn1) makes a unique contribution to this process by differentially interacting with and regulating the effects of cofilin on ATP/ADP+P(i) versus ADP actin filaments. Crn1 potently blocks cofilin severing of newly assembled (ATP/ADP+P(i)) filaments but synergizes with cofilin to sever older (ADP) filaments. Thus, Crn1 has qualitatively distinct/opposite effects on actin dynamics depending on the nucleotide state of actin. This bimodal mechanism requires two separate actin-binding domains in Crn1. Consistent with these activities, Crn1 excludes GFP-Cof1 from newly assembled regions of actin networks in vivo and accelerates cellular actin turnover by four fold. We conclude that coronin polarizes the spatial distribution and activity of cofilin to promote selective disassembly of older actin filaments.
+
+-Actins (-genetics; +metabolism)
+-Adenosine Diphosphate (-metabolism)
+-Adenosine Triphosphate (-metabolism)
+-Binding Sites
+-Cofilin 1 (-genetics; -metabolism)
+-Microfilament Proteins (-genetics; +metabolism)
+-Nucleotides (+metabolism)
+-Protein Structure, Tertiary
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Saccharomyces cerevisiae (-cytology; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+
+pii:S1097-2765(09)00145-2
+doi:10.1016/j.molcel.2009.02.029
+pubmed:19450534
+mid:NIHMS104003
+pmc:PMC2702861
+

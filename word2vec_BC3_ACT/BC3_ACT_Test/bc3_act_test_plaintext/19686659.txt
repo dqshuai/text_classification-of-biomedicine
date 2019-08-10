@@ -1,0 +1,25 @@
+Biophys. J.
+
+Statistical analysis of lateral diffusion and multistate kinetics in single-molecule imaging.
+
+S Matsuoka, T Shibata, M Ueda
+
+Single-molecule trajectories of molecules on the membrane of living cells have indicated the possibility that the lateral mobility of individual molecules is variable with time. Such temporal variation in mobility may indicate intrinsic kinetics of multiple molecular states. To clarify the mechanisms of signal processing on the membrane, quantitative characterizations of such temporal variations are necessary. Here we propose a method to analyze and characterize the multiple states in lateral mobility and their transition kinetics from single-molecule trajectories based on a displacement probability density function and an autocorrelation function of squared displacements. We performed our method for three cases: a molecule with a single diffusion coefficient (D), a mixture of molecules in two states with different D-values, and a molecule switching between two states with different D-values. Our analysis of numerically generated trajectories successfully distinguished the three cases and estimated the characteristic parameters for mobility and the kinetics of state transitions. This method is applicable to single-molecule tracking analysis of molecules in multiple functional states with different lateral mobility on the membrane of living cells.
+
+-Biopolymers (+chemistry; -metabolism)
+-Cell Membrane (+chemistry; -metabolism)
+-Computer Simulation
+-Data Interpretation, Statistical
+-Diffusion
+-Kinetics
+-Microscopy, Fluorescence (+methods)
++Models, Biological
++Models, Chemical
+-Models, Statistical
++Molecular Probe Techniques
+
+pii:S0006-3495(09)01106-0
+doi:10.1016/j.bpj.2009.06.007
+pubmed:19686659
+pmc:PMC2726328
+

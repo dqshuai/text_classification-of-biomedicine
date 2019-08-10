@@ -1,0 +1,23 @@
+RNA
+
+An electrochemiluminescent aptamer switch for a high-throughput assay of an RNA editing reaction.
+
+S Liang, GJ Connell
+
+An RNA editing reaction that is both essential and specific to the trypanosomatid parasites is an attractive target for new drug development. Although high-throughput screening of chemical libraries is a powerful strategy often used to identify new drugs, the available in vitro editing assays do not have the necessary sensitivity and format for this approach to be feasible. A ruthenium labeled reporter RNA is described here that overcomes these limitations as it can both detect edited product in the low femtomole range and is ideal for high-throughput format. The reporter RNA consists of an RNA editing substrate linked to a streptavidin-binding aptamer that is initially held within an inactive conformation. An in vitro selection strategy optimized the linkage so that the streptavidin-binding aptamer is only activated by an editing-induced conformational change. An electrochemiluminescent signal results from the ruthenium label when the reporter is bound to the bottom of a streptavidin-coated microtiter plate where it can be stimulated by a carbon electrode. Chemical probing, mutagenesis, and binding affinity measurements were used to characterize the reporter. The highly sensitive assay could be adapted to a broad range of RNA processing reactions.
+
+-Aptamers, Nucleotide (+chemistry; -genetics)
+-Base Sequence
+-Electrochemistry
+-Luminescence
+-Molecular Sequence Data
+-Mutation
+-Nucleic Acid Conformation
++RNA Editing
+-Sequence Homology, Nucleic Acid
+
+pii:rna.1720209
+doi:10.1261/rna.1720209
+pubmed:19696159
+pmc:PMC2743045
+

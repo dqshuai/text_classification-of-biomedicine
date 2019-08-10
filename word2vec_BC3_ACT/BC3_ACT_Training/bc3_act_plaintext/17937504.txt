@@ -1,0 +1,29 @@
+PLoS Genet.
+
+The interplay of RecA-related proteins and the MND1-HOP2 complex during meiosis in Arabidopsis thaliana.
+
+J Vignard, T Siwiec, L Chelysheva, N Vrielynck, F Gonord, SJ Armstrong, P Schlögelhofer, R Mercier
+
+During meiosis, homologous chromosomes recognize each other, align, and exchange genetic information. This process requires the action of RecA-related proteins Rad51 and Dmc1 to catalyze DNA strand exchanges. The Mnd1-Hop2 complex has been shown to assist in Dmc1-dependent processes. Furthermore, higher eukaryotes possess additional RecA-related proteins, like XRCC3, which are involved in meiotic recombination. However, little is known about the functional interplay between these proteins during meiosis. We investigated the functional relationship between AtMND1, AtDMC1, AtRAD51, and AtXRCC3 during meiosis in Arabidopsis thaliana. We demonstrate the localization of AtMND1 to meiotic chromosomes, even in the absence of recombination, and show that AtMND1 loading depends exclusively on AHP2, the Arabidopsis Hop2 homolog. We provide evidence of genetic interaction between AtMND1, AtDMC1, AtRAD51, and AtXRCC3. In vitro assays suggest that this functional link is due to direct interaction of the AtMND1-AHP2 complex with AtRAD51 and AtDMC1. We show that AtDMC1 foci accumulate in the Atmnd1 mutant, but are reduced in number in Atrad51 and Atxrcc3 mutants. This study provides the first insights into the functional differences of AtRAD51 and AtXRCC3 during meiosis, demonstrating that AtXRCC3 is dispensable for AtDMC1 focus formation in an Atmnd1 mutant background, whereas AtRAD51 is not. These results clarify the functional interactions between key players in the strand exchange processes during meiotic recombination. Furthermore, they highlight a direct interaction between MND1 and RAD51 and show a functional divergence between RAD51 and XRCC3.
+
+-Arabidopsis (+genetics)
+-Arabidopsis Proteins (+genetics)
+-Chromatin (-metabolism)
+-Dimerization
+-Gene Expression Regulation, Plant
+-Genes, Plant
+-Genetic Vectors
++Meiosis
+-Models, Genetic
+-Molecular Sequence Data
+-Mutation
+-Phosphotransferases (+genetics)
+-Rec A Recombinases (+genetics)
+-Recombination, Genetic
+-Sequence Analysis, DNA
+
+pii:07-PLGE-RA-0409
+doi:10.1371/journal.pgen.0030176
+pubmed:17937504
+pmc:PMC2014788
+

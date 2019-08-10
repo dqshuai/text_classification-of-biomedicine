@@ -1,0 +1,24 @@
+BMC Genomics
+
+Differential expression proteomics to investigate responses and resistance to Orobanche crenata in Medicago truncatula.
+
+MA Castillejo, AM Maldonado, E Dumas-Gaudot, M Fernández-Aparicio, R Susín, R Diego, JV Jorrín
+
+BACKGROUND: Parasitic angiosperm Orobanche crenata infection represents a major constraint for the cultivation of legumes worldwide. The level of protection achieved to date is either incomplete or ephemeral. Hence, an efficient control of the parasite requires a better understanding of its interaction and associated resistance mechanisms at molecular levels. RESULTS: In order to study the plant response to this parasitic plant and the molecular basis of the resistance we have used a proteomic approach. The root proteome of two accessions of the model legume Medicago truncatula displaying differences in their resistance phenotype, in control as well as in inoculated plants, over two time points (21 and 25 days post infection), has been compared. We report quantitative as well as qualitative differences in the 2-DE maps between early- (SA 27774) and late-resistant (SA 4087) genotypes after Coomassie and silver-staining: 69 differential spots were observed between non-inoculated genotypes, and 42 and 25 spots for SA 4087 and SA 27774 non-inoculated and inoculated plants, respectively. In all, 49 differential spots were identified by peptide mass fingerprinting (PMF) following MALDI-TOF/TOF mass spectrometry. Many of the proteins showing significant differences between genotypes and after parasitic infection belong to the functional category of defense and stress-related proteins. A number of spots correspond to proteins with the same function, and might represent members of a multigenic family or post-transcriptional forms of the same protein. CONCLUSION: The results obtained suggest the existence of a generic defense mechanism operating during the early stages of infection and differing in both genotypes. The faster response to the infection observed in the SA 27774 genotype might be due to the action of proteins targeted against key elements needed for the parasite's successful infection, such as protease inhibitors. Our data are discussed and compared with those previously obtained with pea 1 and transcriptomic analysis of other plant-pathogen and plant-parasitic plant systems.
+
+-Electrophoresis, Gel, Two-Dimensional
++Gene Expression Profiling
+-Gene Expression Regulation, Plant
+-Genotype
+-Mass Spectrometry
+-Medicago truncatula (+genetics; -metabolism; -parasitology)
+-Orobanche (+physiology)
+-Plant Proteins (-genetics; -metabolism)
+-Plant Roots (-genetics; -metabolism)
++Proteomics
+
+pii:1471-2164-10-294
+doi:10.1186/1471-2164-10-294
+pubmed:19575787
+pmc:PMC2714000
+

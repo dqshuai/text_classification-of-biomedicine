@@ -1,0 +1,32 @@
+Infect. Immun.
+
+Identification of a gingipain-sensitive surface ligand of Porphyromonas gingivalis that induces Toll-like receptor 2- and 4-independent NF-kappaB activation in CHO cells.
+
+K Haruyama, A Yoshimura, M Naito, M Kishimoto, M Shoji, Y Abiko, Y Hara, K Nakayama
+
+Porphyromonas gingivalis is a major periodontal pathogen that has the pathogenic proteinases Arg-specific gingipain and Lys-specific gingipain. We previously found that a cell surface component on P. gingivalis is able to induce Toll-like receptor 2 (TLR2)- and TLR4-independent signaling in 7.19 cells and that this component can be degraded by gingipains. In this study, we purified this component from the P. gingivalis gingipain-null mutant KDP136 and obtained two candidate proteins. Matrix-assisted laser desorption ionization-time-of-flight mass spectrometry analysis showed that the proteins, with molecular masses of 123 and 43 kDa, were encoded by PGN_0748 and PGN_0728 (pgm6), respectively, in the P. gingivalis ATCC 33277 genome sequence. The PGN_0748-encoded protein, which we refer to as gingipain-sensitive ligand A (GslA), reacted with antiserum that could effectively inhibit the activity of KDP136 to induce NF-kappaB activation in 7.19 cells, but Pgm6 did not. To further determine what protein is responsible for the NF-kappaB activation, we constructed gslA, pgm6, and pgm6 pgm7 deletion mutants from KDP136. When 7.19 cells were exposed to those mutants, the gslA deletion mutant did not induce NF-kappaB activation, whereas the pgm6 and pgm6 pgm7 deletion mutants did. Furthermore, NF-kappaB activation in 7.19 cells induced by KDP136 was partially inhibited by antiserum against a recombinant protein expressed from the 5'-terminal third of gslA. These results indicate that GslA is one of the factors that induce NF-kappaB activation in 7.19 cells. Interestingly, the gslA gene was present in four of seven P. gingivalis strains tested. This restricted distribution might be associated with the virulence potential of each strain.
+
+-Adhesins, Bacterial (+metabolism)
+-Amino Acid Sequence
+-Animals
+-Bacterial Proteins (-chemistry; +immunology; -isolation & purification; -metabolism)
+-CHO Cells
+-Cricetinae
+-Cricetulus
+-Cysteine Endopeptidases (+metabolism)
+-Gene Deletion
+-Genes, Bacterial
+-Mass Spectrometry
+-Membrane Proteins (-chemistry; +immunology; -isolation & purification; -metabolism)
+-Molecular Sequence Data
+-Molecular Weight
+-NF-kappa B (+metabolism)
+-Porphyromonas gingivalis (+immunology)
+-Toll-Like Receptor 2 (+immunology)
+-Toll-Like Receptor 4 (+immunology)
+
+pii:IAI.00140-09
+doi:10.1128/IAI.00140-09
+pubmed:19667049
+pmc:PMC2747925
+

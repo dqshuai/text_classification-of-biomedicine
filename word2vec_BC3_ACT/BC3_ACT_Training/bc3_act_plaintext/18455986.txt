@@ -1,0 +1,23 @@
+Cell
+
+Allosteric regulation of histidine kinases by their cognate response regulator determines cell fate.
+
+R Paul, T Jaeger, S Abel, I Wiederkehr, M Folcher, EG Biondi, MT Laub, U Jenal
+
+The two-component phosphorylation network is of critical importance for bacterial growth and physiology. Here, we address plasticity and interconnection of distinct signal transduction pathways within this network. In Caulobacter crescentus antagonistic activities of the PleC phosphatase and DivJ kinase localized at opposite cell poles control the phosphorylation state and subcellular localization of the cell fate determinator protein DivK. We show that DivK functions as an allosteric regulator that switches PleC from a phosphatase into an autokinase state and thereby mediates a cyclic di-GMP-dependent morphogenetic program. Through allosteric activation of the DivJ autokinase, DivK also stimulates its own phosphorylation and polar localization. These data suggest that DivK is the central effector of an integrated circuit that operates via spatially organized feedback loops to control asymmetry and cell fate determination in C. crescentus. Thus, single domain response regulators can facilitate crosstalk, feedback control, and long-range communication among members of the two-component network.
+
+-Allosteric Regulation
+-Bacterial Proteins (-genetics; +metabolism)
+-Caulobacter crescentus (+cytology; -enzymology; -genetics; +metabolism)
+-Phosphoric Monoester Hydrolases (-metabolism)
+-Phosphorylation
+-Phosphotransferases (-metabolism)
+-Protein Kinases (+metabolism)
+-Signal Transduction
+
+pii:S0092-8674(08)00395-4
+doi:10.1016/j.cell.2008.02.045
+pubmed:18455986
+mid:NIHMS165295
+pmc:PMC2804905
+

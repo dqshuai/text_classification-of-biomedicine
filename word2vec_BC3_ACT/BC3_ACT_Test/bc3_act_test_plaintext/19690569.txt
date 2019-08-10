@@ -1,0 +1,29 @@
+Mol. Syst. Biol.
+
+Control and signal processing by transcriptional interference.
+
+A Buetti-Dinh, R Ungricht, JZ Kelemen, C Shetty, P Ratna, A Becskei
+
+A transcriptional activator can suppress gene expression by interfering with transcription initiated by another activator. Transcriptional interference has been increasingly recognized as a regulatory mechanism of gene expression. The signals received by the two antagonistically acting activators are combined by the polymerase trafficking along the DNA. We have designed a dual-control genetic system in yeast to explore this antagonism systematically. Antagonism by an upstream activator bears the hallmarks of competitive inhibition, whereas a downstream activator inhibits gene expression non-competitively. When gene expression is induced weakly, the antagonistic activator can have a positive effect and can even trigger paradoxical activation. Equilibrium and non-equilibrium models of transcription shed light on the mechanism by which interference converts signals, and reveals that self-antagonism of activators imitates the behavior of feed-forward loops. Indeed, a synthetic circuit generates a bell-shaped response, so that the induction of expression is limited to a narrow range of the input signal. The identification of conserved regulatory principles of interference will help to predict the transcriptional response of genes in their genomic context.
+
+-Binding, Competitive
+-DNA (-genetics)
+-Flow Cytometry
+-Gene Expression
+-Gene Expression Regulation, Fungal
+-Genome, Fungal
+-Kinetics
+-Models, Genetic
+-Promoter Regions, Genetic
+-Protein Structure, Tertiary
+-Saccharomyces cerevisiae (-genetics)
+-Signal Transduction
+-Systems Biology
+-Transcription, Genetic
++Transcriptional Activation
+
+pii:msb200961
+doi:10.1038/msb.2009.61
+pubmed:19690569
+pmc:PMC2736658
+

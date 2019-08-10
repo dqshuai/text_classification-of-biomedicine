@@ -1,0 +1,31 @@
+Br. J. Cancer
+
+Analogues of Y27632 increase gap junction communication and suppress the formation of transformed NIH3T3 colonies.
+
+L Hampson, XT He, AW Oliver, JA Hadfield, T Kemp, J Butler, A McGown, HC Kitchener, IN Hampson
+
+BACKGROUND: Constitutive activation of RhoA-dependent RhoA kinase (ROCK) signalling is known to promote cellular transformation and the ROCK inhibitor Y-27632 has the ability to suppress focus formation of RhoA transformed NIH3T3 cells. METHODS: Sixty-four novel structural analogues of Y27632 were synthesised and tested for their ability to persistently inhibit the transformation of NIH3T3 cells by Rho guanidine exchange factor 16 (ARHGEF16) or Ras. In vitro kinase inhibitor profiling, co-culture of transformed cells with non-transformed cells and a novel Lucifer yellow/PKH67 dye transfer method were used to investigate their mode of action. RESULTS: Four Y27632 analogues inhibited transformed focus formation that persisted when the compound was withdrawn. No toxicity was observed against either transformed or non-transformed cells and the effect was dependent on co-culture of these two cell types. In vitro kinase inhibitor profiling indicated that these compounds had reduced activity against ROCK compared with Y27632, targeting instead Aurora A (AURKA), p38 (MAPK14) and Hgk (MAP4K4). Dye transfer analysis showed they increased gap junction intercellular communication (GJIC) between transformed and non-transformed cells. CONCLUSIONS: These data are the first to suggest that transient blockade of specific kinases can induce a persistent inhibition of non-contact inhibited transformed colony formation and can also remove pre-formed colonies. These effects could potentially be mediated by the observed increase in GJIC between transformed and non-transformed cells. Selection of kinase inhibitors with this property may thus provide a novel strategy for cancer chemoprevention.
+
+-Amides (-chemical synthesis; -chemistry; +pharmacology)
+-Animals
+-Cell Communication (+drug effects)
+-Cell Line, Transformed
+-Cell Proliferation (-drug effects)
+-Cell Transformation, Neoplastic (+drug effects; -metabolism)
+-Cloning, Molecular (-drug effects)
+-Gap Junctions (+drug effects; +metabolism)
+-Guanine Nucleotide Exchange Factors (-antagonists & inhibitors; -genetics; +metabolism)
+-Mice
+-NIH 3T3 Cells
+-Protein-Serine-Threonine Kinases (-antagonists & inhibitors; -metabolism)
+-Pyridines (-chemical synthesis; -chemistry; +pharmacology)
+-RNA, Messenger (-drug effects; -genetics; -metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-p38 Mitogen-Activated Protein Kinases (-antagonists & inhibitors; -metabolism)
+-rho-Associated Kinases (-antagonists & inhibitors; -metabolism)
+
+pii:6605208
+doi:10.1038/sj.bjc.6605208
+pubmed:19707205
+pmc:PMC2736836
+

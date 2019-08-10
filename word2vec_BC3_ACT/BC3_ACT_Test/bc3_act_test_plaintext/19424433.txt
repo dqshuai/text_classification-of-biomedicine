@@ -1,0 +1,24 @@
+PLoS Comput. Biol.
+
+A structure-based approach for detection of thiol oxidoreductases and their catalytic redox-active cysteine residues.
+
+SM Marino, VN Gladyshev
+
+Cysteine (Cys) residues often play critical roles in proteins, for example, in the formation of structural disulfide bonds, metal binding, targeting proteins to the membranes, and various catalytic functions. However, the structural determinants for various Cys functions are not clear. Thiol oxidoreductases, which are enzymes containing catalytic redox-active Cys residues, have been extensively studied, but even for these proteins there is little understanding of what distinguishes their catalytic redox Cys from other Cys functions. Herein, we characterized thiol oxidoreductases at a structural level and developed an algorithm that can recognize these enzymes by (i) analyzing amino acid and secondary structure composition of the active site and its similarity to known active sites containing redox Cys and (ii) calculating accessibility, active site location, and reactivity of Cys. For proteins with known or modeled structures, this method can identify proteins with catalytic Cys residues and distinguish thiol oxidoreductases from the enzymes containing other catalytic Cys types. Furthermore, by applying this procedure to Saccharomyces cerevisiae proteins containing conserved Cys, we could identify the majority of known yeast thiol oxidoreductases. This study provides insights into the structural properties of catalytic redox-active Cys and should further help to recognize thiol oxidoreductases in protein sequence and structure databases.
+
++Algorithms
+-Amino Acid Sequence
+-Catalytic Domain
+-Cysteine (+chemistry; -metabolism)
+-Hydrogen-Ion Concentration
+-Models, Molecular
+-Oxidation-Reduction
+-Oxidoreductases (+chemistry; -metabolism)
++Protein Structure, Secondary
+-Saccharomyces cerevisiae Proteins (-chemistry; -metabolism)
+-Sequence Analysis, Protein
+
+doi:10.1371/journal.pcbi.1000383
+pubmed:19424433
+pmc:PMC2673044
+

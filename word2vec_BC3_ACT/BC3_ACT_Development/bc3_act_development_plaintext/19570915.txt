@@ -1,0 +1,30 @@
+Mol. Biol. Cell
+
+Proteasome inactivation promotes p38 mitogen-activated protein kinase-dependent phosphatidylinositol 3-kinase activation and increases interleukin-8 production in retinal pigment epithelial cells.
+
+AF Fernandes, Q Bian, JK Jiang, CJ Thomas, A Taylor, P Pereira, F Shang
+
+Oxidative stress and inflammation are implicated in the pathogenesis of many age-related diseases. We have demonstrated previously that oxidative inactivation of the proteasome is a molecular link between oxidative stress and overexpression of interleukin (IL)-8. Here, we elucidated a novel signaling cascade that leads to up-regulation of IL-8 in response to proteasome inactivation. The sequence of events in this cascade includes proteasome inactivation, activation of mitogen-activated protein kinase kinase (MKK)3/MKK6, activation of p38 mitogen-activated protein kinase (MAPK), epidermal growth factor receptor phosphorylation, phosphatidylinositol 3-kinase (PI3K) activation and increased IL-8 expression. Blocking any of these signaling pathways abolished the up-regulation of IL-8 induced by proteasome inhibition. Although Akt is also activated in response to proteasome inactivation, we found that the PI3K-dependent up-regulation of IL-8 is independent of 3-phosphoinositide-dependent protein kinase (PDK)1 and Akt. Inhibition of PDK1 and Akt with chemical inhibitors or expression of constitutive active Akt had little effects on IL-8 expression in response to proteasome inactivation. In contrast, inhibition of interleukin 2-inducible T cell kinase, a kinase downstream of PI3K, significantly reduced the expression and secretion of IL-8 in response to proteasome inactivation. Together, these data elucidate a novel signaling network that leads to increased IL-8 production in response to proteasome inactivation.
+
+-1-Phosphatidylinositol 3-Kinase (+metabolism)
+-Animals
+-Cell Line
+-Enzyme Activation
+-Epithelial Cells (-cytology; +metabolism)
+-Humans
+-Interleukin-8 (+metabolism)
+-MAP Kinase Kinase 3 (-metabolism)
+-MAP Kinase Kinase 6 (-metabolism)
++Proteasome Endopeptidase Complex (-antagonists & inhibitors; -metabolism)
+-Protein-Tyrosine Kinases (-metabolism)
+-Proto-Oncogene Proteins c-akt (-metabolism)
+-Receptor, Epidermal Growth Factor (-metabolism)
+-Retinal Pigment Epithelium (+cytology)
+-Signal Transduction (-physiology)
+-p38 Mitogen-Activated Protein Kinases (+metabolism)
+
+pii:E08-10-1068
+doi:10.1091/mbc.E08-10-1068
+pubmed:19570915
+pmc:PMC2777929
+

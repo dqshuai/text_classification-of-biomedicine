@@ -1,0 +1,30 @@
+J. Biol. Chem.
+
+Sorting nexin 33 induces mammalian cell micronucleated phenotype and actin polymerization by interacting with Wiskott-Aldrich syndrome protein.
+
+J Zhang, X Zhang, Y Guo, L Xu, D Pei
+
+Sorting nexin 33 (SNX33) is a novel member of the sorting nexin superfamily with three predicted structural domains, SH3-PX-BAR. Very little is known about the cellular function of SNX33. In an effort to analyze its structure/function relationship, we attempted but failed to generate stable cell lines for short hairpin RNA or overexpression SNX33. Transient knockdown of SNX33 induces both HeLa and MCF7 cells to grow multiple long processes, delay the G(1)/M transition, and become more apoptotic, implying that SNX33 may control cell cycle process through influence the cytoskeleton. In vitro cell lineage analysis revealed that cells transfected with SNX33 failed to divide and became micronucleated, suggesting a specific defect in cytokinesis. Further analysis revealed that SNX33 induced the accumulation of actin at the perinuclear space, which might have disabled the cytokinetic machinery. However, SNX33 appears to mediate actin polymerization indirectly, as they do not interact with each other. SNX33 interacts with itself and SNX9. Interestingly, it also interacts with VCA domain of Wiskott-Aldrich syndrome protein (WASp), a protein known to be involved in actin polymerization. Indeed, cells overexpressing WASp failed to divide and form stable colonies as SNX33, consistent with the notion that SNX33 may interfere with cytokinesis. On the other hand, knockdown of WASp alleviates the phenotype induced by SNX33. Taken together, our results suggest that SNX33 plays a role in maintaining cell shape and cell cycle progression through its interaction with WASp.
+
+-Actins (+chemistry)
+-Apoptosis
+-Base Sequence
+-Carrier Proteins (+physiology)
+-Cell Cycle
+-Cell Line, Tumor
+-Cell Shape
++Gene Expression Regulation, Neoplastic
+-Hela Cells
+-Humans
+-Models, Biological
+-Molecular Sequence Data
+-Phenotype
+-Protein Binding
+-Vesicular Transport Proteins (+physiology)
+-Wiskott-Aldrich Syndrome Protein (+metabolism)
+
+pii:M109.007278
+doi:10.1074/jbc.M109.007278
+pubmed:19487689
+pmc:PMC2755889
+

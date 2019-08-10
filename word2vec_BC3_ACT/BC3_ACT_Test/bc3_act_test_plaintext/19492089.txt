@@ -1,0 +1,36 @@
+PLoS ONE
+
+Conformational targeting of fibrillar polyglutamine proteins in live cells escalates aggregation and cytotoxicity.
+
+E Kvam, BL Nannenga, MS Wang, Z Jia, MR Sierks, A Messer
+
+BACKGROUND: Misfolding- and aggregation-prone proteins underlying Parkinson's, Huntington's and Machado-Joseph diseases, namely alpha-synuclein, huntingtin, and ataxin-3 respectively, adopt numerous intracellular conformations during pathogenesis, including globular intermediates and insoluble amyloid-like fibrils. Such conformational diversity has complicated research into amyloid-associated intracellular dysfunction and neurodegeneration. To this end, recombinant single-chain Fv antibodies (scFvs) are compelling molecular tools that can be selected against specific protein conformations, and expressed inside cells as intrabodies, for investigative and therapeutic purposes. METHODOLOGY/PRINCIPAL FINDINGS: Using atomic force microscopy (AFM) and live-cell fluorescence microscopy, we report that a human scFv selected against the fibrillar form of alpha-synuclein targets isomorphic conformations of misfolded polyglutamine proteins. When expressed in the cytoplasm of striatal cells, this conformation-specific intrabody co-localizes with intracellular aggregates of misfolded ataxin-3 and a pathological fragment of huntingtin, and enhances the aggregation propensity of both disease-linked polyglutamine proteins. Using this intrabody as a tool for modulating the kinetics of amyloidogenesis, we show that escalating aggregate formation of a pathologic huntingtin fragment is not cytoprotective in striatal cells, but rather heightens oxidative stress and cell death as detected by flow cytometry. Instead, cellular protection is achieved by suppressing aggregation using a previously described intrabody that binds to the amyloidogenic N-terminus of huntingtin. Analogous cytotoxic results are observed following conformational targeting of normal or polyglutamine-expanded human ataxin-3, which partially aggregate through non-polyglutamine domains. CONCLUSIONS/SIGNIFICANCE: These findings validate that the rate of aggregation modulates polyglutamine-mediated intracellular dysfunction, and caution that molecules designed to specifically hasten aggregation may be detrimental as therapies for polyglutamine disorders. Moreover, our findings introduce a novel antibody-based tool that, as a consequence of its general specificity for fibrillar conformations and its ability to function intracellularly, offers broad research potential for a variety of human amyloid diseases.
+
+-Amyloid (+metabolism)
+-Animals
+-Cell Death
+-Cell Survival
+-Green Fluorescent Proteins (-metabolism)
+-Immunoglobulin Variable Region (-metabolism)
+-Intracellular Space (-metabolism)
+-Mutant Proteins (-metabolism)
+-Nerve Tissue Proteins (+chemistry; -metabolism)
+-Nuclear Localization Signals (-metabolism)
+-Nuclear Proteins (+chemistry; -metabolism)
+-Oxidative Stress
+-Particle Size
+-Peptides (+chemistry; -metabolism)
+-Protein Folding
++Protein Structure, Quaternary
+-Rats
+-Recombinant Fusion Proteins (-metabolism)
+-Repressor Proteins (+chemistry; -metabolism)
+-Solubility
+-Solutions
+-Staining and Labeling
+-Time Factors
+
+doi:10.1371/journal.pone.0005727
+pubmed:19492089
+pmc:PMC2683928
+

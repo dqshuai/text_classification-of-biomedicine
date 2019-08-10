@@ -1,0 +1,31 @@
+Genetics
+
+A role for nonessential domain II of initiator protein, DnaA, in replication control.
+
+KL Molt, VA Sutera, KK Moore, ST Lovett
+
+The initiation of replication in bacteria is regulated via the initiator protein DnaA. ATP-bound DnaA binds to multiple sequences at the origin of replication, oriC, unwinding the DNA and promoting the binding of DnaB helicase. From an Escherichia coli mutant highly perturbed for replication control, obgE::Tn5-EZ seqADelta, we isolated multiple spontaneous suppressor mutants with enhanced growth and viability. These suppressors suppressed the replication control defects of mutants in seqA alone and genetically mapped to the essential dnaA replication initiator gene. DNA sequence analysis of four independent isolates revealed an identical deletion of the DnaA-coding region at a repeated hexanucleotide sequence, causing a loss of 25 amino acids in domain II of the DnaA protein. Previous work has established no function for this region of protein, and deletions in the region, unlike other domains of the DnaA protein, do not produce lethality. Flow cytometric analysis established that this allele, dnaADelta(96-120), ameliorated the over-replication phenotype of seqA mutants and reduced the DNA content of wild-type strains; virtually identical effects were produced by loss of the DnaA-positive regulatory protein DiaA. DiaA binds to multiple DnaA subunits and is thought to promote cooperative DnaA binding to weak affinity DNA sites through interactions with DnaA in domains I and/or II. The dnaADelta(96-120) mutation did not affect DiaA binding in pull-down assays, and we propose that domain II, like DiaA, is required to promote optimal DnaB recruitment to oriC.
+
+-Amino Acid Sequence
+-Bacterial Outer Membrane Proteins (-genetics; -metabolism)
+-Bacterial Proteins (-chemistry; +genetics; -metabolism; +physiology)
+-Base Sequence
+-Carrier Proteins (-metabolism)
+-DNA Replication (+genetics)
+-DNA-Binding Proteins (-chemistry; +genetics; -metabolism; +physiology)
+-DnaB Helicases (-metabolism)
+-Escherichia coli (-genetics)
+-Escherichia coli Proteins (-genetics; -metabolism)
+-Molecular Sequence Data
+-Mutant Proteins (-chemistry; -metabolism)
+-Mutation (-physiology)
+-Phenotype
+-Protein Binding (-genetics)
+-Protein Structure, Tertiary (-genetics; -physiology)
+-Replication Origin
+
+pii:genetics.109.104760
+doi:10.1534/genetics.109.104760
+pubmed:19546317
+pmc:PMC2746162
+

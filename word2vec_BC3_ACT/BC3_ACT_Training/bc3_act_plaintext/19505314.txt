@@ -1,0 +1,30 @@
+Retrovirology
+
+Nef gene evolution from a single transmitted strain in acute SIV infection.
+
+BN Bimber, P Chugh, EE Giorgi, B Kim, AL Almudevar, S Dewhurst, DH O'Connor, HY Lee
+
+BACKGROUND: The acute phase of immunodeficiency virus infection plays a crucial role in determining steady-state virus load and subsequent progression of disease in both humans and nonhuman primates. The acute period is also the time when vaccine-mediated effects on host immunity are likely to exert their major effects on virus infection. Recently we developed a Monte-Carlo (MC) simulation with mathematical analysis of viral evolution during primary HIV-1 infection that enables classification of new HIV-1 infections originating from multiple versus single transmitted viral strains and the estimation of time elapsed following infection. RESULTS: A total of 322 SIV nef SIV sequences, collected during the first 3 weeks following experimental infection of two rhesus macaques with the SIVmac239 clone, were analyzed and found to display a comparable level of genetic diversity, 0.015% to 0.052%, with that of env sequences from acute HIV-1 infection, 0.005% to 0.127%. We confirmed that the acute HIV-1 infection model correctly identified the experimental SIV infections in rhesus macaques as "homogenous" infections, initiated by a single founder strain. The consensus sequence of the sampled strains corresponded to the transmitted sequence as the model predicted. However, measured sequential decrease in diversity at day 7, 11, and 18 post infection violated the model assumption, neutral evolution without any selection. CONCLUSION: While nef gene evolution over the first 3 weeks of SIV infection originating from a single transmitted strain showed a comparable rate of sequence evolution to that observed during acute HIV-1 infection, a purifying selection for the founder nef gene was observed during the early phase of experimental infection of a nonhuman primate.
+
+-Acute Disease
+-Animals
++Evolution, Molecular
+-Genetic Variation
+-HIV Infections (-virology)
+-HIV-1 (-genetics)
+-Macaca mulatta
+-Models, Genetic
+-Monte Carlo Method
+-Point Mutation
+-RNA, Viral (-analysis; -genetics)
++Sequence Analysis, DNA
+-Simian Acquired Immunodeficiency Syndrome (-physiopathology; +transmission; +virology)
+-Simian immunodeficiency virus (+genetics)
+-Viral Regulatory and Accessory Proteins (+genetics)
+-env Gene Products, Human Immunodeficiency Virus (-genetics)
+
+pii:1742-4690-6-57
+doi:10.1186/1742-4690-6-57
+pubmed:19505314
+pmc:PMC2701916
+

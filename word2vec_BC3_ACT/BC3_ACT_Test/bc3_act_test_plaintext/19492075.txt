@@ -1,0 +1,29 @@
+PLoS ONE
+
+Combined targeting of BRAF and CRAF or BRAF and PI3K effector pathways is required for efficacy in NRAS mutant tumors.
+
+BS Jaiswal, V Janakiraman, NM Kljavin, J Eastham-Anderson, JE Cupp, Y Liang, DP Davis, KP Hoeflich, S Seshagiri
+
+BACKGROUND: Oncogenic RAS is a highly validated cancer target. Attempts at targeting RAS directly have so far not succeeded in the clinic. Understanding downstream RAS-effectors that mediate oncogenesis in a RAS mutant setting will help tailor treatments that use RAS-effector inhibitors either alone or in combination to target RAS-driven tumors. METHODOLOGY/PRINCIPAL FINDINGS: In this study, we have investigated the sufficiency of targeting RAS-effectors, RAF, MEK and PI3-Kinase either alone or in combination in RAS mutant lines, using an inducible shRNA in vivo mouse model system. We find that in colon cancer cells harboring a KRAS(G13D) mutant allele, knocking down KRAS alone or the RAFs in combination or the RAF effectors, MEK1 and MEK2, together is effective in delaying tumor growth in vivo. In melanoma cells harboring an NRAS(Q61L) or NRAS(Q61K) mutant allele, we find that targeting NRAS alone or both BRAF and CRAF in combination or both BRAF and PIK3CA together showed efficacy. CONCLUSION/SIGNIFICANCE: Our data indicates that targeting oncogenic NRAS-driven melanomas require decrease in both pERK and pAKT downstream of RAS-effectors for efficacy. This can be achieved by either targeting both BRAF and CRAF or BRAF and PIK3CA simultaneously in NRAS mutant tumor cells.
+
+-1-Phosphatidylinositol 3-Kinase (+metabolism)
+-Animals
+-Cell Adhesion
+-Cell Cycle
+-Cell Line, Tumor
+-Cell Proliferation
+-Gene Knockdown Techniques
+-Humans
+-Mice
+-Mutant Proteins
+-Mutation (+genetics)
+-Neoplasms (+enzymology; +pathology)
+-Proto-Oncogene Proteins B-raf (+metabolism)
+-Proto-Oncogene Proteins c-raf (+metabolism)
+-Signal Transduction
+-ras Proteins (+metabolism)
+
+doi:10.1371/journal.pone.0005717
+pubmed:19492075
+pmc:PMC2683562
+

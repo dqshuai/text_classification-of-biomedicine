@@ -1,0 +1,28 @@
+Nucleic Acids Res.
+
+BRG1 directly regulates nucleosome structure and chromatin looping of the alpha globin locus to activate transcription.
+
+SI Kim, EH Bresnick, SJ Bultman
+
+Alpha globin expression must be regulated properly to prevent the occurrence of alpha-thalassemias, yet many questions remain unanswered regarding the mechanism of transcriptional activation. Identifying factors that regulate chromatin structure of the endogenous alpha globin locus in developing erythroblasts will provide important mechanistic insight. Here, we demonstrate that the BRG1 catalytic subunit of SWI/SNF-related complexes co-immunoprecipitates with GATA-1 and EKLF in murine fetal liver cells in vivo and is recruited to the far-upstream major-regulatory element (MRE) and alpha2 promoter. Furthermore, based on our analysis of Brg1(null/ENU1) mutant mice, BRG1 regulates DNase I sensitivity, H3ac, and H3K4me2 but not CpG methylation at both sites. Most importantly, BRG1 is required for chromatin loop formation between the MRE and alpha2 promoter and for maximal RNA Polymerase II occupancy at the alpha2 promoter. Consequently, Brg1 mutants express alpha globin mRNA at only 5-10% of wild-type levels and die at mid-gestation. These data identify BRG1 as a chromatin-modifying factor required for nucleosome remodeling and transcriptional activation of the alpha globin locus. These data also demonstrate that chromatin looping between the MRE and alpha2 promoter is required as part of the transcriptional activation mechanism.
+
+-Animals
+-Chromatin (+chemistry)
+-DNA Helicases (-genetics; +metabolism)
+-Deoxyribonuclease I
+-Epigenesis, Genetic
+-Mice
+-Nuclear Proteins (-genetics; +metabolism)
+-Nucleosomes (+chemistry)
+-Promoter Regions, Genetic
+-RNA Polymerase II (-metabolism)
+-Response Elements
+-Transcription Factors (-genetics; +metabolism)
++Transcriptional Activation
+-alpha-Globins (+genetics; -metabolism)
+
+pii:gkp677
+doi:10.1093/nar/gkp677
+pubmed:19696073
+pmc:PMC2764439
+

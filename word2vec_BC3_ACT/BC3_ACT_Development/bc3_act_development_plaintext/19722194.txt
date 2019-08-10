@@ -1,0 +1,22 @@
+Proteomics
+
+A MS data search method for improved 15N-labeled protein identification.
+
+Y Zhang, C Webhofer, S Reckow, MD Filiou, G Maccarrone, CW Turck
+
+Quantitative proteomics using stable isotope labeling strategies combined with MS is an important tool for biomarker discovery. Methods involving stable isotope metabolic labeling result in optimal quantitative accuracy, since they allow the immediate combination of two or more samples. Unfortunately, stable isotope incorporation rates in metabolic labeling experiments using mammalian organisms usually do not reach 100%. As a consequence, protein identifications in (15)N database searches have poor success rates. We report on a strategy that significantly improves the number of (15)N-labeled protein identifications and results in a more comprehensive and accurate relative peptide quantification workflow.
+
+-Amino Acid Sequence
+-Animals
++Databases, Protein
+-Isotope Labeling (+methods)
+-Mass Spectrometry (+methods)
+-Mice
+-Molecular Sequence Data
+-Nitrogen Isotopes
+-Peptides (-analysis; -chemistry)
+-Proteins (+analysis; -chemistry)
+
+doi:10.1002/pmic.200900108
+pubmed:19722194
+

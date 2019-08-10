@@ -1,0 +1,27 @@
+Nucleic Acids Res.
+
+Directed evolution of an orthogonal nucleoside analog kinase via fluorescence-activated cell sorting.
+
+L Liu, Y Li, D Liotta, S Lutz
+
+Nucleoside analogs (NAs) represent an important category of prodrugs for the treatment of viral infections and cancer, yet the biological potency of many analogs is compromised by their inefficient activation through cellular 2'-deoxyribonucleoside kinases (dNKs). We herein report the directed evolution and characterization of an orthogonal NA kinase for 3'-deoxythymidine (ddT), using a new FACS-based screening protocol in combination with a fluorescent analog of ddT. Four rounds of random mutagenesis and DNA shuffling of Drosophila melanogaster 2'-deoxynucleoside kinase, followed by FACS analysis, yielded an orthogonal ddT kinase with a 6-fold higher activity for the NA and a 20-fold k(cat)/K(M) preference for ddT over thymidine, an overall 10,000-fold change in substrate specificity. The contributions of individual amino acid substitutions in the ddT kinase were evaluated by reverse engineering, enabling a detailed structure-function analysis to rationalize the observed changes in performance. Based on our results, kinase engineering with fluorescent NAs and FACS should prove a highly versatile method for evolving selective kinase:NA pairs and for studying fundamental aspects of the structure-function relationship in dNKs.
+
+-Amino Acid Substitution
+-Animals
+-Dideoxynucleosides (-chemistry; -metabolism)
+-Directed Molecular Evolution (+methods)
+-Drosophila melanogaster (-enzymology)
++Flow Cytometry
+-Fluorescent Dyes
+-Kinetics
+-Models, Molecular
+-Nucleosides (-chemistry; -metabolism)
+-Phosphotransferases (Alcohol Group Acceptor) (+chemistry; -genetics; -metabolism)
+-Prodrugs (-chemistry; -metabolism)
+-Substrate Specificity
+
+pii:gkp400
+doi:10.1093/nar/gkp400
+pubmed:19474348
+pmc:PMC2715250
+

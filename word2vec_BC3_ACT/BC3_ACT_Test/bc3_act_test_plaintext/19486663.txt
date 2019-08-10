@@ -1,0 +1,22 @@
+Biophys. J.
+
+Active nucleosome displacement: a theoretical approach.
+
+L Mollazadeh-Beidokhti, F Mohammad-Rafiee, H Schiessel
+
+Three-quarters of eukaryotic DNA are wrapped around protein cylinders forming so-called nucleosomes that block the access to the genetic information. Nucleosomes need therefore to be repositioned, either passively (by thermal fluctuations) or actively (by molecular motors). Here we introduce a theoretical model that allows us to study the interplay between a motor protein that moves along DNA (e.g., an RNA polymerase) and a nucleosome that it encounters on its way. We aim at describing the displacement mechanisms of the nucleosome and the motor protein on a microscopic level to understand better the intricate interplay between the active step of the motor and the nucleosome-repositioning step. Different motor types (Brownian ratchet versus power-stroke mechanism) that perform very similarly under a constant load are shown to have very different nucleosome repositioning capacities.
+
+-Algorithms
+-Computer Simulation
+-DNA (+chemistry)
+-DNA-Directed RNA Polymerases (+chemistry)
++Models, Chemical
+-Motion
+-Nucleosomes (+chemistry)
+-Stochastic Processes
+
+pii:S0006-3495(09)00753-X
+doi:10.1016/j.bpj.2009.02.071
+pubmed:19486663
+pmc:PMC2711481
+

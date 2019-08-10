@@ -1,0 +1,25 @@
+Oncogene
+
+The prolyl cis/trans isomerase cyclophilin 18 interacts with the tumor suppressor p53 and modifies its functions in cell cycle regulation and apoptosis.
+
+N Baum, C Schiene-Fischer, M Frost, M Schumann, K Sabapathy, O Ohlenschläger, F Grosse, B Schlott
+
+The functional diversity of the tumor suppressor protein p53 is mainly regulated by protein interactions. In this study, we describe a new interaction with the peptidyl-prolyl cis/trans isomerase cyclophilin 18 (Cyp18). The interaction reduced the sequence-specific DNA binding of p53 in vitro, whereas the inhibition of the interaction increased p53-reporter gene activity in vivo. The active site of the folding helper enzyme Cyp18 was directly involved in binding. The proline-rich region (amino acids 64-91) of p53 was most likely responsible for the observed binding because a synthetic peptide comprising amino acids 68-81 of p53 inhibited this interaction, and a p53 variant containing a proline residue at position 72 (p53(P72)) interacted with Cyp18 more effectively than the corresponding p53(R72) variant. Impairment of the Cyp18-p53 interaction induced an accumulation of cells in the G2/M phase of the cell cycle, which was more pronounced when p53(P72) was expressed compared with p53(R72) in an otherwise isogenic cellular background. Moreover, p53-dependent apoptosis was elevated in Cyp18 knockout cells, suggesting an antiapoptotic potential of Cyp18-p53 complexes. Functional in vivo data hint to a possible clinical relevance of the p53-Cyp18 interaction observed.
+
+-Amino Acid Substitution
+-Apoptosis (+physiology)
+-Binding Sites (-physiology)
+-Cell Division (+physiology)
+-Cell Line, Tumor
+-Cyclophilins (-genetics; +metabolism)
+-G2 Phase (+physiology)
+-Humans
+-Mutation, Missense
+-Protein Binding (-physiology)
++Protein Folding
+-Tumor Suppressor Protein p53 (-genetics; +metabolism)
+
+pii:onc2009248
+doi:10.1038/onc.2009.248
+pubmed:19718045
+

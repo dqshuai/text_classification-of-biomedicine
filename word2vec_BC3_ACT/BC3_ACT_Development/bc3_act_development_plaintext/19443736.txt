@@ -1,0 +1,13 @@
+Science
+
+Determining the dynamics of entanglement.
+
+O Jiménez Farías, C Lombard Latune, SP Walborn, L Davidovich, PH Souto Ribeiro
+
+The estimation of the entanglement of multipartite systems undergoing decoherence is important for assessing the robustness of quantum information processes. It usually requires access to the final state and its full reconstruction through quantum tomography. General dynamical laws may simplify this task. We found that when one of the parties of an initially entangled two-qubit system is subject to a noisy channel, a single universal curve describes the dynamics of entanglement for both pure and mixed states, including those for which entanglement suddenly disappears. Our result, which is experimentally demonstrated using a linear optics setup, leads to a direct and efficient determination of entanglement through the knowledge of the initial state and single-party process tomography alone, foregoing the need to reconstruct the final state.
+
+
+pii:1171544
+doi:10.1126/science.1171544
+pubmed:19443736
+

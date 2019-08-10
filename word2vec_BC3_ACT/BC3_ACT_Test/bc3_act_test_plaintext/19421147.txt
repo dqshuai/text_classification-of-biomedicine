@@ -1,0 +1,39 @@
+Oncogene
+
+Chk1 C-terminal regulatory phosphorylation mediates checkpoint activation by de-repression of Chk1 catalytic activity.
+
+M Walker, EJ Black, V Oehler, DA Gillespie, MT Scott
+
+Chk1 is phosphorylated within its C-terminal regulatory domain by the upstream ATM/ATR kinases during checkpoint activation; however, how this modulates Chk1 function is poorly understood. Here, we show that Chk1 kinase activity is rapidly stimulated in a cell-cycle phase-specific manner in response to both DNA damage and replication arrest, and that the extent and duration of activation correlates closely with regulatory phosphorylation at serines (S) S317, S345 and S366. Despite their evident co-regulation, substitutions of individual Chk1 regulatory sites with alanine (A) residues have differential effects on checkpoint proficiency and kinase activation. Thus, whereas Chk1 S345 is essential for all functions tested, mutants lacking S317 or S366 retain partial proficiency for G2/M and S/M checkpoint arrests triggered by DNA damage or replication arrest. These phenotypes reflect defects in Chk1 kinase induction, as the mutants are either partially (317A and 366A) or completely (345A) resistant to kinase activation. Importantly, S345 phosphorylation is impaired in Chk1 S317A and S366A mutants, suggesting that modification of adjacent SQ sites promotes this key regulatory event. Finally, we provide biochemical evidence that Chk1 catalytic activity is stimulated by a de-repression mechanism.
+
+-Animals
+-Aphidicolin (-pharmacology)
+-Binding Sites (-genetics)
+-Blotting, Western
+-Catalysis
+-Cell Cycle (+physiology)
+-Cell Cycle Proteins (-metabolism)
+-Cell Line, Tumor
+-Chickens
+-DNA Damage
+-DNA-Binding Proteins (-metabolism)
+-Enzyme Activation (-drug effects; -radiation effects)
+-Enzyme Inhibitors (-pharmacology)
+-G2 Phase (-physiology)
+-Immunoprecipitation
+-Mutation
+-Phosphorylation (-drug effects; -radiation effects)
+-Protein Binding
+-Protein Kinases (-genetics; +metabolism)
+-Protein-Serine-Threonine Kinases (-metabolism)
+-Radiation, Ionizing
+-S Phase (-physiology)
+-Serine (-genetics; -metabolism)
+-Tumor Suppressor Proteins (-metabolism)
+
+pii:onc2009102
+doi:10.1038/onc.2009.102
+pubmed:19421147
+mid:UKMS4430
+pmc:PMC2857325
+

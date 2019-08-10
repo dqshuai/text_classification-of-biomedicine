@@ -1,0 +1,36 @@
+J. Biol. Chem.
+
+Chemical genetic profiling and characterization of small-molecule compounds that affect the biosynthesis of unsaturated fatty acids in Candida albicans.
+
+D Xu, S Sillaots, J Davison, W Hu, B Jiang, S Kauffman, N Martel, P Ocampo, C Oh, S Trosok, K Veillette, H Wang, M Yang, L Zhang, J Becker, CE Martin, T Roemer
+
+The balance between saturated and unsaturated fatty acids plays a crucial role in determining the membrane fluidity. In the diploid fungal pathogen Candida albicans, the gene for fatty acid Delta9 desaturase, OLE1, is essential for viability. Using a reverse genetic approach, termed the fitness test, we identified a group of structurally related synthetic compounds that induce specific hypersensitivity of the OLE1(+/-) strain. Genetic repression of OLE1 and chemical inhibition by two selected compounds, ECC145 and ECC188, resulted in a marked decrease in the total unsaturated fatty acids and impaired hyphal development. The resulting auxotroph of both was suppressed by the exogenous monounsaturated fatty acids (16:1Delta9 and 18:1Delta9). These correlations suggest that both compounds affect the level of unsaturated fatty acids, likely by impairing Ole1p directly or indirectly. However, the residual levels of monounsaturated fatty acids (MUFAs) resulted from chemical inhibition were significantly higher than OLE1 repression, indicating even partial inhibition of MUFAs is sufficient to stop cellular proliferation. Although the essentiality of OLE1 was suppressed by MUFAs in vitro, we demonstrated that it was required for virulence in a murine model of systemic candidiasis even when the animals were supplemented with a high fat diet. Thus, the fungal fatty acid desaturase is an attractive antifungal drug target. Taking advantage of the inhibitors and the relevant conditional shut-off strains, we validated several chemical genetic interactions observed in the fitness test profiles that reveal novel genetic interactions between OLE1/unsaturated fatty acids and other cellular processes.
+
+-Animals
+-Antifungal Agents (-chemistry; +pharmacology)
+-Candida albicans (+genetics; -metabolism; -pathogenicity)
+-Candidiasis (-microbiology; -mortality)
+-Cerulenin (-pharmacology)
+-Cluster Analysis
+-Fatty Acid Desaturases (-genetics; -metabolism)
+-Fatty Acids, Unsaturated (+biosynthesis)
+-Fungal Proteins (-genetics; -metabolism)
++Gene Expression Profiling
+-Gene Expression Regulation, Fungal (+drug effects)
+-Hyphae (-drug effects; -genetics; -growth & development)
+-Male
+-Mice
+-Mice, Inbred ICR
+-Molecular Structure
+-Mutation
+-Survival Rate
+-Thiazoles (-chemistry; -pharmacology)
+-Time Factors
+-Triazoles (-chemistry; -pharmacology)
+-Virulence (-genetics)
+
+pii:M109.019877
+doi:10.1074/jbc.M109.019877
+pubmed:19487691
+pmc:PMC2740599
+

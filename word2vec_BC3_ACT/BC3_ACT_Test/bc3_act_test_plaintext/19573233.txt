@@ -1,0 +1,29 @@
+BMC Plant Biol.
+
+Selection of reference genes for quantitative real-time PCR expression studies in the apomictic and sexual grass Brachiaria brizantha.
+
+ED Silveira, M Alves-Ferreira, LA Guimarães, FR da Silva, VT Carneiro
+
+BACKGROUND: Brachiaria brizantha is an important forage grass. The occurrence of both apomictic and sexual reproduction within Brachiaria makes it an interesting system for understanding the molecular pathways involved in both modes of reproduction. Quantitative real time PCR (qRT-PCR) has emerged as an important technique to compare expression profile of target genes and, in order to obtain reliable results, it is important to have suitable reference genes. In this work, we evaluated eight potential reference genes for B. brizantha qRT-PCR experiments, isolated from cDNA ovary libraries. Vegetative and reproductive tissues of apomictic and sexual B. brizantha were tested to validate the reference genes, including the female gametophyte, where differences in the expression profile between sexual and apomictic plants must occur. RESULTS: Eight genes were selected from a cDNA library of ovaries of B. brizantha considering the similarity to reference genes: EF1 (elongation factor 1 alpha), E1F4A (eukaryotic initiation factor 4A), GAPDH (glucose-6-phosphate dehydrogenase), GDP (glyceroldehyde-3-phosphate dehydrogenase), SUCOA (succinyl-CoA ligase), TUB (tubulin), UBCE (ubiquitin conjugating enzyme), UBI (ubiquitin). For the analysis, total RNA was extracted from 22 samples and raw Ct data after qRT-PCR reaction was analyzed for primer efficiency and for an overall analysis of Ct range among the different samples. Elongation factor 1 alpha showed the highest expression levels, whereas succinyl-CoA ligase showed the lowest within the chosen set of samples. GeNorm application was used for evaluation of the best reference genes, and according to that, the least stable genes, with the highest M values were tubulin and succinyl-CoA ligase and the most stable ones, with the lowest M values were elongation factor 1 alpha and ubiquitin conjugating enzyme, when both reproductive and vegetative samples were tested. For ovaries and spikelets of both sexual and apomictic B. brizantha the genes with the lowest M values were BbrizUBCE, BbrizE1F4A and BbrizEF1. CONCLUSION: In total, eight genes belonging to different cellular processes were tested. Out of them, BbrizTUB was the less stable while BbrizEF1 followed by BbrizUBCE were the more stable genes considering male and female reproductive tissues, spikelets, roots and leaves. Regarding the best reference genes for ovary tissues, where apomictic and sexual reproduction must occur, the best reference genes were BbrizUBCE, BbrizE1F4A and BbrizEF1. Our results provide crucial information for transcriptional analysis in the Brachiaria ssp, helping to improve the quality of gene expression data in these species, which constitute an excellent plant system for the study of apomixis.
+
+-Brachiaria (+genetics; -growth & development)
+-DNA Primers
+-Flowers (-genetics)
+-Gene Expression Profiling (+methods)
+-Gene Expression Regulation, Developmental
+-Gene Expression Regulation, Plant
+-Gene Library
+-Genes, Plant
+-Plant Leaves (-genetics)
+-Plant Proteins (-genetics)
+-Plant Roots (-genetics)
+-RNA, Plant (-genetics)
+-Reproduction (-genetics)
+-Reverse Transcriptase Polymerase Chain Reaction (+standards)
+-Sequence Analysis, DNA
+
+pii:1471-2229-9-84
+doi:10.1186/1471-2229-9-84
+pubmed:19573233
+pmc:PMC2717968
+

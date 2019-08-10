@@ -1,0 +1,38 @@
+Mol. Biol. Cell
+
+Tumor necrosis factor-receptor-associated factor-4 is a positive regulator of transforming growth factor-beta signaling that affects neural crest formation.
+
+T Kalkan, Y Iwasaki, CY Park, GH Thomsen
+
+The transforming growth factor (TGF)-beta superfamily regulates cell proliferation, apoptosis, differentiation, migration, and development. Canonical TGFbeta signals are transduced to the nucleus via Smads in both major signaling branches, bone morphogenetic protein (BMP) or Activin/Nodal/TGFbeta. Smurf ubiquitin (Ub) ligases attenuate these pathways by targeting Smads and other signaling components for degradation by the 26S proteasome. Here, we identify tumor necrosis factor (TNF)-receptor-associated factor-4 (TRAF4) as a new target of Smurf1, which polyubiquitylates TRAF4 to trigger its proteasomal destruction. Unlike other TRAF family members, which mediate signal transduction by TNF, interleukin, or Toll-like receptors, we find that TRAF4 potentiates BMP and Nodal signaling. In the frog Xenopus laevis, TRAF4 mRNA is stored maternally in the egg animal pole, and in the embryo it is expressed in the gastrula marginal zone, neural plate, and cranial and trunk neural crest. Knockdown of embryonic TRAF4 impairs signaling, neural crest development and neural folding, whereas TRAF4 overexpression boosts signaling and expands the neural crest. In human embryonic kidney 293 cells, small interfering RNA knockdown of Smurf1 elevates TRAF4 levels, indicating endogenous regulation of TRAF4 by Smurf1. Our results uncover new functions for TRAF4 as a Smurf1-regulated mediator of BMP and Nodal signaling that are essential for neural crest development and neural plate morphogenesis.
+
+-Amino Acid Sequence
+-Animals
+-Body Patterning (-drug effects)
+-Bone Morphogenetic Proteins (-metabolism)
+-Gene Expression Regulation, Developmental (-drug effects)
+-Gene Knockdown Techniques
+-Hela Cells
+-Humans
+-Molecular Sequence Data
+-Neural Crest (-drug effects; +embryology; +metabolism)
+-Neural Plate (-drug effects; -embryology; -metabolism)
+-Neural Tube (-drug effects; -metabolism; -pathology)
+-Nodal Protein (-metabolism)
+-Oligonucleotides, Antisense (-pharmacology)
+-Protein Transport (-drug effects)
+-Sequence Analysis, Protein
+-Sequence Homology, Amino Acid
++Signal Transduction (-drug effects)
+-Substrate Specificity (-drug effects)
+-TNF Receptor-Associated Factor 4 (-chemistry; -genetics; +metabolism)
+-Transforming Growth Factor beta (+metabolism)
+-Ubiquitin-Protein Ligases (-metabolism)
+-Wnt Proteins (-metabolism)
+-Xenopus (+embryology; -genetics)
+
+pii:E08-03-0325
+doi:10.1091/mbc.E08-03-0325
+pubmed:19458200
+pmc:PMC2710828
+

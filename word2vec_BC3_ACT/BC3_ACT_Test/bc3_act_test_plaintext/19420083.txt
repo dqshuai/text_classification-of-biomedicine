@@ -1,0 +1,27 @@
+J. Virol.
+
+Finger domain mutation affects enzyme activity, DNA replication efficiency, and fidelity of an exonuclease-deficient DNA polymerase of herpes simplex virus type 1.
+
+W Tian, YT Hwang, Q Lu, CB Hwang
+
+The catalytic subunit of herpes simplex virus DNA polymerase (Pol), a member of the B family polymerases, possesses both polymerase and exonuclease activities. We previously demonstrated that a recombinant virus (YD12) containing a double mutation within conserved exonuclease motif III of the Pol was highly mutagenic and rapidly evolved to contain an additional leucine-to-phenylalanine mutation at residue 774 (L774F), which is located within the finger subdomain of the polymerase domain. We further demonstrated that the recombinant L774F virus replicated DNA with increased fidelity and that the L774F mutant Pol exhibited altered enzyme kinetics and impaired polymerase activity to extension from mismatched primer termini. In this study, we demonstrated that addition of the L774F mutation to the YD12 Pol did not restore the exonuclease deficiency. However, the polymerase activity of the YD12 Pol to extension from mismatched primer termini and on the nucleotide incorporation pattern was altered upon addition of the L774F mutation. The L774F mutation-containing YD12 Pol also supported the growth of viral progeny and replicated DNA more efficiently and more accurately than did the YD12 Pol. Together, these studies demonstrate that a herpes simplex virus Pol mutant with a highly mutagenic ability can rapidly acquire additional mutations, which may be selected for their survival and outgrowth. Furthermore, the studies demonstrate that the polymerase activity of HSV-1 Pol on primer extension is influenced by sequence context and that herpes simplex virus type 1 Pol may dissociate more frequently at G.C sites during the polymerization reaction. The implications of the findings are discussed.
+
+-Amino Acid Sequence
+-Animals
+-Cercopithecus aethiops
++DNA Replication
+-DNA-Directed DNA Polymerase (-chemistry; +genetics; -metabolism)
+-Exodeoxyribonucleases (-chemistry; -genetics; +metabolism)
+-Herpesvirus 1, Human (+enzymology; -genetics; -physiology)
+-Molecular Sequence Data
++Mutation
+-Protein Structure, Tertiary
+-Vero Cells
+-Viral Proteins (-chemistry; +genetics; -metabolism)
+-Virus Replication
+
+pii:JVI.00632-09
+doi:10.1128/JVI.00632-09
+pubmed:19420083
+pmc:PMC2704776
+

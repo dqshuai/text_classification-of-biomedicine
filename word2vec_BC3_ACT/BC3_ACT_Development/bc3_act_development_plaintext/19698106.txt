@@ -1,0 +1,22 @@
+Genome Biol.
+
+Synorth: exploring the evolution of synteny and long-range regulatory interactions in vertebrate genomes.
+
+X Dong, D Fredman, B Lenhard
+
+Genomic regulatory blocks are chromosomal regions spanned by long clusters of highly conserved noncoding elements devoted to long-range regulation of developmental genes, often immobilizing other, unrelated genes into long-lasting syntenic arrangements. Synorth http://synorth.genereg.net/ is a web resource for exploring and categorizing the syntenic relationships in genomic regulatory blocks across multiple genomes, tracing their evolutionary fate after teleost whole genome duplication at the level of genomic regulatory block loci, individual genes, and their phylogenetic context.
+
+-Animals
+-Evolution, Molecular
+-Fishes (+genetics)
++Genome
+-Internet
+-Phylogeny
+-Software
++Synteny
+
+pii:gb-2009-10-8-r86
+doi:10.1186/gb-2009-10-8-r86
+pubmed:19698106
+pmc:PMC2745767
+

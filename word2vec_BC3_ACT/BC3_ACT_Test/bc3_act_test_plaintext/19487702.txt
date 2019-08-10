@@ -1,0 +1,30 @@
+J. Biol. Chem.
+
+Differential regulation of glycogenolysis by mutant protein phosphatase-1 glycogen-targeting subunits.
+
+AM Danos, S Osmanovic, MJ Brady
+
+PTG and G(L) are hepatic protein phosphatase-1 (PP1) glycogen-targeting subunits, which direct PP1 activity against glycogen synthase (GS) and/or phosphorylase (GP). The C-terminal 16 amino residues of G(L) comprise a high affinity binding site for GP that regulates bound PP1 activity against GS. In this study, a truncated G(L) construct lacking the GP-binding site (G(L)tr) and a chimeric PTG molecule containing the C-terminal site (PTG-G(L)) were generated. As expected, GP binding to glutathione S-transferase (GST)-G(L)tr was reduced, whereas GP binding to GST-PTG-G(L) was increased 2- to 3-fold versus GST-PTG. In contrast, PP1 binding to all proteins was equivalent. Primary mouse hepatocytes were infected with adenoviral constructs for each subunit, and their effects on glycogen metabolism were investigated. G(L)tr expression was more effective at promoting GP inactivation, GS activation, and glycogen accumulation than G(L). Removal of the regulatory GP-binding site from G(L)tr completely blocked the inactivation of GS seen in G(L)-expressing cells following a drop in extracellular glucose. As a result, G(L)tr expression prevented glycogen mobilization under 5 mm glucose conditions. In contrast, equivalent overexpression of PTG or PTG-G(L) caused a similar increase in glycogen-targeted PP1 levels and GS dephosphorylation. Surprisingly, GP dephosphorylation was significantly reduced in PTG-G(L)-overexpressing cells. As a result, PTG-G(L) expression permitted glycogenolysis under 5 mm glucose conditions that was prevented in PTG-expressing cells. Thus, expression of constructs that contained the high affinity GP-binding site (G(L) and PTG-G(L)) displayed reduced glycogen accumulation and enhanced glycogenolysis compared with their respective controls, albeit via different mechanisms.
+
+-Animals
+-Binding Sites (-genetics)
+-Cells, Cultured
+-Glutathione Transferase (-genetics; -metabolism)
+-Glycogen Synthase (-metabolism)
+-Glycogenolysis (+physiology)
+-Hepatocytes (-cytology; -metabolism)
+-Immunoblotting
+-Liver Glycogen (+metabolism)
+-Mice
++Mutation
+-Protein Binding
+-Protein Phosphatase 1 (-genetics; +metabolism)
+-Protein Subunits (-genetics; -metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Transfection
+
+pii:M109.015073
+doi:10.1074/jbc.M109.015073
+pubmed:19487702
+pmc:PMC2740580
+

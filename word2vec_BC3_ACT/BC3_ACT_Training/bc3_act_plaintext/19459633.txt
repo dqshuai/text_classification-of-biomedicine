@@ -1,0 +1,29 @@
+J. Am. Chem. Soc.
+
+Location of inhibitors bound to group IVA phospholipase A2 determined by molecular dynamics and deuterium exchange mass spectrometry.
+
+JE Burke, A Babakhani, AA Gorfe, G Kokotos, S Li, VL Woods, JA McCammon, EA Dennis
+
+An analysis of group IVA (GIVA) phospholipase A(2) (PLA(2)) inhibitor binding was conducted using a combination of deuterium exchange mass spectrometry (DXMS) and molecular dynamics (MD). Models of the GIVA PLA(2) inhibitors pyrrophenone and the 2-oxoamide AX007 docked into the protein were designed on the basis of deuterium exchange results, and extensive molecular dynamics simulations were run to determine protein-inhibitor contacts. The models show that both inhibitors interact with key residues that also exhibit changes in deuterium exchange upon inhibitor binding. Pyrrophenone is bound to the protein through numerous hydrophobic residues located distal from the active site, while the oxoamide is bound mainly through contacts near the active site. We also show differences in protein dynamics around the active site between the two inhibitor-bound complexes. This combination of computational and experimental methods is useful in defining more accurate inhibitor binding sites and can be used in the generation of better inhibitors against GIVA PLA(2).
+
+-Amides (-chemistry; -pharmacology)
+-Anti-Inflammatory Agents, Non-Steroidal (+chemistry; -pharmacology)
+-Benzoic Acids (-chemistry; -pharmacology)
+-Binding Sites
+-Deuterium (-chemistry)
+-Deuterium Exchange Measurement
+-Drug Design
+-Enzyme Inhibitors (+chemistry; -pharmacology)
+-Group IV Phospholipases A2 (+antagonists & inhibitors; +chemistry)
+-Humans
+-Mass Spectrometry
+-Models, Molecular
+-Octanoic Acids (-chemistry; -pharmacology)
+-Pyrrolidines (-chemistry; -pharmacology)
+-Sulfonamides (-chemistry; -pharmacology)
+
+doi:10.1021/ja900098y
+pubmed:19459633
+mid:NIHMS119792
+pmc:PMC2762749
+

@@ -1,0 +1,30 @@
+PLoS Pathog.
+
+Two HIV-1 variants resistant to small molecule CCR5 inhibitors differ in how they use CCR5 for entry.
+
+R Berro, RW Sanders, M Lu, PJ Klasse, JP Moore
+
+HIV-1 variants resistant to small molecule CCR5 inhibitors recognize the inhibitor-CCR5 complex, while also interacting with free CCR5. The most common genetic route to resistance involves sequence changes in the gp120 V3 region, a pathway followed when the primary isolate CC1/85 was cultured with the AD101 inhibitor in vitro, creating the CC101.19 resistant variant. However, the D1/86.16 escape mutant contains no V3 changes but has three substitutions in the gp41 fusion peptide. By using CCR5 point-mutants and gp120-targeting agents, we have investigated how infectious clonal viruses derived from the parental and both resistant isolates interact with CCR5. We conclude that the V3 sequence changes in CC101.19 cl.7 create a virus with an increased dependency on interactions with the CCR5 N-terminus. Elements of the CCR5 binding site associated with the V3 region and the CD4-induced (CD4i) epitope cluster in the gp120 bridging sheet are more exposed on the native Env complex of CC101.19 cl.7, which is sensitive to neutralization via these epitopes. However, D1/86.16 cl.23 does not have an increased dependency on the CCR5 N-terminus, and its CCR5 binding site has not become more exposed. How this virus interacts with the inhibitor-CCR5 complex remains to be understood.
+
+-Amino Acid Sequence
+-Animals
+-Anti-HIV Agents (-pharmacology)
+-Antibodies, Monoclonal (-pharmacology)
+-Antibodies, Viral (-immunology)
+-Cell Line
+-Drug Resistance, Viral (+physiology)
+-HIV Envelope Protein gp120 (-genetics; -immunology)
+-HIV-1 (-chemistry; -drug effects; +physiology)
+-Host-Pathogen Interactions (+physiology)
+-Humans
+-Leukocytes, Mononuclear (-drug effects; -metabolism; +virology)
+-Molecular Sequence Data
+-Rabbits
+-Receptors, CCR5 (+antagonists & inhibitors; -immunology; -metabolism)
+-Sequence Alignment
+-Virus Replication (-drug effects; -genetics)
+
+doi:10.1371/journal.ppat.1000548
+pubmed:19680536
+pmc:PMC2718843
+

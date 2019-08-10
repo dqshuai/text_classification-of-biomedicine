@@ -1,0 +1,31 @@
+Mol. Cell
+
+FACT and Asf1 regulate nucleosome dynamics and coactivator binding at the HO promoter.
+
+S Takahata, Y Yu, DJ Stillman
+
+Transcriptional activators and coactivators overcome repression by chromatin, but regulation of chromatin disassembly and coactivator binding to promoters is poorly understood. Activation of the yeast HO gene follows the sequential binding of both sequence-specific DNA-binding proteins and coactivators during the cell cycle. Here, we show that the nucleosome disassembly occurs in waves both along the length of the promoter and during the cell cycle. Different chromatin modifiers are required for chromatin disassembly at different regions of the promoter, with Swi/Snf, the FACT chromatin reorganizer, and the Asf1 histone chaperone each required for nucleosome eviction at distinct promoter regions. FACT and Asf1 both bind to upstream elements of the HO promoter well before the gene is transcribed. The Swi/Snf, SAGA, and Mediator coactivators bind first to the far upstream promoter region and subsequently to a promoter proximal region, and FACT and Asf1 are both required for this coactivator re-recruitment.
+
+-Cell Cycle (-physiology)
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Chromatin (-chemistry; -genetics; -metabolism)
+-Chromosomal Proteins, Non-Histone (-genetics; -metabolism)
+-DNA-Binding Proteins (-genetics; +metabolism)
++Deoxyribonucleases, Type II Site-Specific (-genetics; -metabolism)
+-Gene Expression Regulation, Fungal
+-High Mobility Group Proteins (-genetics; +metabolism)
+-Molecular Chaperones (-genetics; +metabolism)
+-Nucleosomes (-metabolism)
++Promoter Regions, Genetic
++Saccharomyces cerevisiae (-genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Trans-Activators (-genetics; -metabolism)
+-Transcription Factors (-genetics; -metabolism)
+-Transcriptional Elongation Factors (-genetics; +metabolism)
+
+pii:S1097-2765(09)00239-1
+doi:10.1016/j.molcel.2009.04.010
+pubmed:19481521
+mid:NIHMS112574
+pmc:PMC2767235
+

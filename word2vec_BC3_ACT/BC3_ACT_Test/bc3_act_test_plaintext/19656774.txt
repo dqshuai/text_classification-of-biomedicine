@@ -1,0 +1,35 @@
+Hum. Mol. Genet.
+
+Common variants in LSP1, 2q35 and 8q24 and breast cancer risk for BRCA1 and BRCA2 mutation carriers.
+
+AC Antoniou, OM Sinilnikova, L McGuffog, S Healey, H Nevanlinna, T Heikkinen, J Simard, AB Spurdle, J Beesley, X Chen, SL Neuhausen, YC Ding, FJ Couch, X Wang, Z Fredericksen, P Peterlongo, B Peissel, B Bonanni, A Viel, L Bernard, P Radice, CI Szabo, L Foretova, M Zikan, K Claes, MH Greene, PL Mai, G Rennert, F Lejbkowicz, IL Andrulis, H Ozcelik, G Glendon, AM Gerdes, M Thomassen, L Sunde, MA Caligo, Y Laitman, T Kontorovich, S Cohen, B Kaufman, E Dagan, RG Baruch, E Friedman, K Harbst, G Barbany-Bustinza, J Rantala, H Ehrencrona, P Karlsson, SM Domchek, KL Nathanson, A Osorio, I Blanco, A Lasa, J Benítez, U Hamann, FB Hogervorst, MA Rookus, JM Collee, P Devilee, MJ Ligtenberg, RB van der Luijt, CM Aalfs, Q Waisfisz, J Wijnen, CE van Roozendaal, S Peock, M Cook, D Frost, C Oliver, R Platte, DG Evans, F Lalloo, R Eeles, L Izatt, R Davidson, C Chu, D Eccles, T Cole, S Hodgson, AK Godwin, D Stoppa-Lyonnet, B Buecher, M Léoné, B Bressac-de Paillerets, A Remenieras, O Caron, GM Lenoir, N Sevenet, M Longy, SF Ferrer, F Prieur, D Goldgar, A Miron, EM John, SS Buys, MB Daly, JL Hopper, MB Terry, Y Yassin, C Singer, D Gschwantler-Kaulich, C Staudigl, TO Hansen, RB Barkardottir, T Kirchhoff, P Pal, K Kosarin, K Offit, M Piedmonte, GC Rodriguez, K Wakeley, JF Boggess, J Basil, PE Schwartz, SV Blank, AE Toland, M Montagna, C Casella, EN Imyanitov, A Allavena, RK Schmutzler, B Versmold, C Engel, A Meindl, N Ditsch, N Arnold, D Niederacher, H Deissler, B Fiebig, C Suttner, I Schönbuchner, D Gadzicki, T Caldes, M de la Hoya, KA Pooley, DF Easton, G Chenevix-Trench
+
+Genome-wide association studies of breast cancer have identified multiple single nucleotide polymorphisms (SNPs) that are associated with increased breast cancer risks in the general population. In a previous study, we demonstrated that the minor alleles at three of these SNPs, in FGFR2, TNRC9 and MAP3K1, also confer increased risks of breast cancer for BRCA1 or BRCA2 mutation carriers. Three additional SNPs rs3817198 at LSP1, rs13387042 at 2q35 and rs13281615 at 8q24 have since been reported to be associated with breast cancer in the general population, and in this study we evaluated their association with breast cancer risk in 9442 BRCA1 and 5665 BRCA2 mutation carriers from 33 study centres. The minor allele of rs3817198 was associated with increased breast cancer risk only for BRCA2 mutation carriers [hazard ratio (HR) = 1.16, 95% CI: 1.07-1.25, P-trend = 2.8 x 10(-4)]. The best fit for the association of SNP rs13387042 at 2q35 with breast cancer risk was a dominant model for both BRCA1 and BRCA2 mutation carriers (BRCA1: HR = 1.14, 95% CI: 1.04-1.25, P = 0.0047; BRCA2: HR = 1.18 95% CI: 1.04-1.33, P = 0.0079). SNP rs13281615 at 8q24 was not associated with breast cancer for either BRCA1 or BRCA2 mutation carriers, but the estimated association for BRCA2 mutation carriers (per-allele HR = 1.06, 95% CI: 0.98-1.14) was consistent with odds ratio estimates derived from population-based case-control studies. The LSP1 and 2q35 SNPs appear to interact multiplicatively on breast cancer risk for BRCA2 mutation carriers. There was no evidence that the associations vary by mutation type depending on whether the mutated protein is predicted to be stable or not.
+
+-Adult
+-Aged
+-Aged, 80 and over
+-BRCA1 Protein (+genetics)
+-BRCA2 Protein (+genetics)
+-Breast Neoplasms (+genetics)
+-Chromosomes, Human, Pair 2 (+genetics)
+-Chromosomes, Human, Pair 8 (+genetics)
+-Female
+-Follow-Up Studies
+-Genetic Predisposition to Disease
++Genetic Variation
+-Genetics, Population
+-Genome-Wide Association Study
++Heterozygote
+-Humans
+-Microfilament Proteins (+genetics)
+-Middle Aged
+-Mutation
+-Polymorphism, Single Nucleotide
+-Young Adult
+
+pii:ddp372
+doi:10.1093/hmg/ddp372
+pubmed:19656774
+pmc:PMC2782243
+

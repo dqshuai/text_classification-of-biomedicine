@@ -1,0 +1,29 @@
+Biochemistry
+
+Dynamic conformational responses of a human cannabinoid receptor-1 helix domain to its membrane environment.
+
+EK Tiburu, SV Gulla, M Tiburu, DR Janero, DE Budil, A Makriyannis
+
+The influence of membrane environment on human cannabinoid 1 (hCB(1)) receptor transmembrane helix (TMH) conformational dynamics was investigated by solid-state NMR and site-directed spin labeling/EPR with a synthetic peptide, hCB(1)(T377-E416), corresponding to the receptor's C-terminal component, i.e., TMH7 and its intracellular alpha-helical extension (H8) (TMH7/H8). Solid-state NMR experiments with mechanically aligned hCB(1)(T377-E416) specifically (2)H- or (15)N-labeled at Ala380 and reconstituted in membrane-mimetic dimyristoylphosphocholine (DMPC) or 1-palmitoyl-2-oleoyl-sn-glycerophosphocholine (POPC) bilayers demonstrate that the conformation of the TMH7/H8 peptide is more heterogeneous in the thinner DMPC bilayer than in the thicker POPC bilayer. As revealed by EPR studies on hCB(1)(T377-E416) spin-labeled at Cys382 and reconstituted into the phospholipid bilayers, the spin label partitions actively between hydrophobic and hydrophilic environments. In the DMPC bilayer, the hydrophobic component dominates, regardless of temperature. Mobility parameters (DeltaH(0)(-1)) are 0.3 and 0.73 G for the peptide in the DMPC or POPC bilayer environment, respectively. Interspin distances of doubly labeled hCB(1)(T377-E416) peptide reconstituted into a TFE/H(2)O mixture or a POPC or DMPC bilayer were estimated to be 10.6 +/- 0.5, 16.8 +/- 1, and 11.6 +/- 0.8 A, respectively. The extent of coupling (>or=50%) between spin labels located at i and i + 4 in a TFE/H(2)O mixture or a POPC bilayer is indicative of an alpha-helical TMH conformation, whereas the much lower coupling (14%) when the peptide is in a DMPC bilayer suggests a high degree of peptide conformational heterogeneity. These data demonstrate that hCB(1)(T377-E416) backbone dynamics as well as spin-label rotameric freedom are sensitive to and altered by the peptide's phospholipid bilayer environment, which exerts a dynamic influence on the conformation of a TMH critical to signal transmission by the hCB(1) receptor.
+
+-Dimyristoylphosphatidylcholine (-chemistry)
+-Electron Spin Resonance Spectroscopy
+-Humans
+-Lipid Bilayers (+chemistry)
+-Nuclear Magnetic Resonance, Biomolecular
+-Peptide Fragments (-chemical synthesis; -physiology)
+-Phosphatidylcholines (-chemistry)
+-Phospholipids (+chemistry; -physiology)
+-Protein Structure, Secondary
+-Protein Structure, Tertiary
+-Receptor, Cannabinoid, CB1 (+chemistry; -physiology)
+-Signal Transduction (-physiology)
+-Spin Trapping
+-Thermodynamics
+-Trifluoroethanol (-chemistry)
+
+doi:10.1021/bi802235w
+pubmed:19485422
+mid:NIHMS115459
+pmc:PMC2777635
+

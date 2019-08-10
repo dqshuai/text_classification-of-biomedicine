@@ -1,0 +1,30 @@
+J. Biol. Chem.
+
+Arachidonic acid stimulates cell adhesion through a novel p38 MAPK-RhoA signaling pathway that involves heat shock protein 27.
+
+MC Garcia, DM Ray, B Lackford, M Rubino, K Olden, JD Roberts
+
+Rho GTPases are critical components of cellular signal transduction pathways. Both hyperactivity and overexpression of these proteins have been observed in human cancers and have been implicated as important factors in metastasis. We previously showed that dietary n-6 fatty acids increase cancer cell adhesion to extracellular matrix proteins, such as type IV collagen. Here we report that in MDA-MB-435 human melanoma cells, arachidonic acid activates RhoA, and inhibition of RhoA signaling with either C3 exoenzyme or dominant negative Rho blocked arachidonic acid-induced cell adhesion. Inhibition of the Rho kinase (ROCK) with either small molecule inhibitors or ROCK II-specific small interfering RNA (siRNA) blocked the fatty acid-induced adhesion. However, unlike other systems, inhibition of ROCK did not block the activation of p38 mitogen-activated protein kinase (MAPK); instead, Rho activation depended on p38 MAPK activity and the presence of heat shock protein 27 (HSP27), which is phosphorylated downstream of p38 after arachidonic acid treatment. HSP27 associated with p115RhoGEF in fatty acid-treated cells, and this association was blocked when p38 was inhibited. Furthermore, siRNA knockdown of HSP27 blocked the fatty acid-stimulated Rho activity. Expression of dominant negative p115-RhoGEF or p115RhoGEF-specific siRNA inhibited both RhoA activation and adhesion on type IV collagen, whereas a constitutively active p115RhoGEF restored the arachidonic acid stimulation in cells in which the p38 MAPK had been inhibited. These data suggest that n-6 dietary fatty acids stimulate a set of interactions that regulates cell adhesion through RhoA and ROCK II via a p38 MAPK-dependent association of HSP27 and p115RhoGEF.
+
+-Arachidonic Acid (+pharmacology)
+-Cell Adhesion (-drug effects)
+-Cell Line, Tumor
+-Cell Movement (-drug effects)
+-Cell Shape (-drug effects)
+-Collagen Type IV (-metabolism)
+-Cytoskeleton (-drug effects; -metabolism)
+-Enzyme Activation (-drug effects)
+-Guanine Nucleotide Exchange Factors (-metabolism)
+-HSP27 Heat-Shock Proteins (+metabolism)
+-Humans
+-Models, Biological
+-Signal Transduction (+drug effects)
+-p38 Mitogen-Activated Protein Kinases (+metabolism)
+-rho-Associated Kinases (-metabolism)
+-rhoA GTP-Binding Protein (+metabolism)
+
+pii:M109.020271
+doi:10.1074/jbc.M109.020271
+pubmed:19506078
+pmc:PMC2742859
+

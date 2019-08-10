@@ -1,0 +1,19 @@
+Biosci. Biotechnol. Biochem.
+
+Visualization and quantification of three-dimensional distribution of yeast in bread dough.
+
+T Maeda, GS DO, J Sugiyama, T Araki, M Tsuta, S Shiraga, M Ueda, M Yamada, K Takeya, Y Sagara
+
+A three-dimensional (3-D) bio-imaging technique was developed for visualizing and quantifying the 3-D distribution of yeast in frozen bread dough samples in accordance with the progress of the mixing process of the samples, applying cell-surface engineering to the surfaces of the yeast cells. The fluorescent yeast was recognized as bright spots at the wavelength of 520 nm. Frozen dough samples were sliced at intervals of 1 microm by an micro-slicer image processing system (MSIPS) equipped with a fluorescence microscope for acquiring cross-sectional images of the samples. A set of successive two-dimensional images was reconstructed to analyze the 3-D distribution of the yeast. The average shortest distance between centroids of enhanced green fluorescent protein (EGFP) yeasts was 10.7 microm at the pick-up stage, 9.7 microm at the clean-up stage, 9.0 microm at the final stage, and 10.2 microm at the over-mixing stage. The results indicated that the distribution of the yeast cells was the most uniform in the dough of white bread at the final stage, while the heterogeneous distribution at the over-mixing stage was possibly due to the destruction of the gluten network structure within the samples.
+
+-Bread (+microbiology)
++Food Handling
+-Freezing
+-Green Fluorescent Proteins (-metabolism)
+-Image Processing, Computer-Assisted
+-Imaging, Three-Dimensional (+methods)
+-Saccharomyces cerevisiae (-cytology; +isolation & purification; +metabolism)
+
+pii:JST.JSTAGE/bbb/90102
+pubmed:19584545
+

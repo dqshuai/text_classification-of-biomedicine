@@ -1,0 +1,24 @@
+EMBO Rep.
+
+The autoimmune regulator PHD finger binds to non-methylated histone H3K4 to activate gene expression.
+
+T Org, F Chignola, C Hetényi, M Gaetani, A Rebane, I Liiv, U Maran, L Mollica, MJ Bottomley, G Musco, P Peterson
+
+Mutations in the gene autoimmune regulator (AIRE) cause autoimmune polyendocrinopathy candidiasis ectodermal dystrophy. AIRE is expressed in thymic medullary epithelial cells, where it promotes the expression of tissue-restricted antigens. By the combined use of biochemical and biophysical methods, we show that AIRE selectively interacts with histone H3 through its first plant homeodomain (PHD) finger (AIRE-PHD1) and preferentially binds to non-methylated H3K4 (H3K4me0). Accordingly, in vivo AIRE binds to and activates promoters containing low levels of H3K4me3 in human embryonic kidney 293 cells. We conclude that AIRE-PHD1 is an important member of a newly identified class of PHD fingers that specifically recognize H3K4me0, thus providing a new link between the status of histone modifications and the regulation of tissue-restricted antigen expression in thymus.
+
+-Calorimetry
+-Cell Line
+-Chromatin Immunoprecipitation
+-Gene Expression Regulation (+genetics)
+-Histones (+metabolism)
+-Humans
++Models, Molecular
+-Polyendocrinopathies, Autoimmune (+metabolism)
++Protein Structure, Tertiary
+-Transcription Factors (-genetics; +metabolism)
+
+pii:embor200811
+doi:10.1038/sj.embor.2008.11
+pubmed:18292755
+pmc:PMC2261226
+

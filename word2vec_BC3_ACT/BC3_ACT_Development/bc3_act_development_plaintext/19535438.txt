@@ -1,0 +1,24 @@
+J. Virol.
+
+The adenovirus E4orf4 protein induces G2/M arrest and cell death by blocking protein phosphatase 2A activity regulated by the B55 subunit.
+
+S Li, C Brignole, R Marcellus, S Thirlwell, O Binda, MJ McQuoid, D Ashby, H Chan, Z Zhang, MJ Miron, DC Pallas, PE Branton
+
+Human adenovirus E4orf4 protein is toxic in human tumor cells. Its interaction with the B alpha subunit of protein phosphatase 2A (PP2A) is critical for cell killing; however, the effect of E4orf4 binding is not known. B alpha is one of several mammalian B-type regulatory subunits that form PP2A holoenzymes with A and C subunits. Here we show that E4orf4 protein interacts uniquely with B55 family subunits and that cell killing increases with the level of E4orf4 expression. Evidence suggesting that B alpha-specific PP2A activity, measured in vitro against phosphoprotein substrates, is reduced by E4orf4 binding was obtained, and two potential B55-specific PP2A substrates, 4E-BP1 and p70(S6K), were seen to be hypophosphorylated in vivo following expression of E4orf4. Furthermore, treatment of cells with low levels of the phosphatase inhibitor okadaic acid or coexpression of the PP2A inhibitor I(1)(PP2A) enhanced E4orf4-induced cell killing and G(2)/M arrest significantly. These results suggested that E4orf4 toxicity results from the inhibition of B55-specific PP2A holoenzymes, an idea that was strengthened by an observed growth arrest resulting from treatment of H1299 cells with B alpha-specific RNA interference. We believe that E4orf4 induces growth arrest resulting in cell death by reducing the global level of B55-specific PP2A activity, thus preventing the dephosphorylation of B55-specific PP2A substrates, including those involved in cell cycle progression.
+
+-Adenoviruses, Human (+pathogenicity)
+-Cell Count
++Cell Cycle
++Cell Death
+-Cell Line, Tumor
+-Cell Survival
+-Humans
+-Protein Binding
+-Protein Phosphatase 2 (+antagonists & inhibitors; -metabolism)
+-Viral Proteins (+metabolism)
+
+pii:JVI.00711-09
+doi:10.1128/JVI.00711-09
+pubmed:19535438
+pmc:PMC2738146
+

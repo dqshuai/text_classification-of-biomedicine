@@ -1,0 +1,23 @@
+Biophys. J.
+
+Proton transport pathway in the ClC Cl-/H+ antiporter.
+
+D Wang, GA Voth
+
+A fundamental question concerning the ClC Cl-/H+ antiporters is the nature of their proton transport (PT) pathway. We addressed this issue by using a novel computational methodology capable of describing the explicit PT dynamics in the ClC-ec1 protein. The main result is that the Glu203 residue delivers a proton from the intracellular solution to the core of ClC-ec1 via a rotation of its side chain and subsequent acid dissociation. After reorientation of the Glu203 side chain, a transient water-mediated PT pathway between Glu203 and Glu148 is established that is able to receive and translocate the proton via Grotthuss shuttling after deprotonation of Glu203. A molecular-dynamics simulation of an explicit hydrated excess proton in this pathway suggests that a negatively charged Glu148 and the central Cl- ion act together to drive H+ to the extracellular side of the membrane. This finding is consistent with the experimental result that Cl- binding to the central site facilitates the proton movement. A calculation of the PT free-energy barrier for the ClC-ec1 E203V mutant also supports the proposal that a dissociable residue is required at this position for efficient delivery of H+ to the protein interior, in agreement with recent experimental results.
+
+-Amino Acid Sequence
+-Antiporters (-genetics; +metabolism)
+-Biological Transport (+physiology)
+-Computer Simulation
++Models, Biological
+-Models, Molecular
+-Mutation
++Protons
+-Water (-metabolism)
+
+pii:S0006-3495(09)00904-7
+doi:10.1016/j.bpj.2009.04.038
+pubmed:19580750
+pmc:PMC2711357
+

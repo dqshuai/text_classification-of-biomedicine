@@ -1,0 +1,16 @@
+J. Am. Chem. Soc.
+
+A dictionary for protein side-chain entropies from NMR order parameters.
+
+DW Li, R Brüschweiler
+
+On the basis of extensive molecular dynamics trajectories of several proteins into the submicrosecond range, quantitative relationships between the configurational entropy and NMR S(2) order parameters are derived. Configurational entropies determined in dihedral angle space for each amino acid type are accurately parametrized in terms of arithmetically-averaged order parameters of selected N-H, C-H, and C-CH(3) vectors that are accessible by NMR spectroscopy. The resulting amino acid-specific relationships have high accuracy and provide a simple dictionary for the quantitative conversion of experimental NMR S(2) order parameters into the total configurational entropy and its changes. This dictionary overcomes important limitations of previous entropy estimates from NMR dynamics data.
+
+-Amino Acids (+chemistry)
++Entropy
+-Nuclear Magnetic Resonance, Biomolecular (+methods)
+-Protein Conformation
+
+doi:10.1021/ja902477s
+pubmed:19422234
+

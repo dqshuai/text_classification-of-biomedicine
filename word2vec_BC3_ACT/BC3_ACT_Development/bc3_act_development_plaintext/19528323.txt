@@ -1,0 +1,21 @@
+Genetics
+
+Measuring the rates of spontaneous mutation from deep and large-scale polymorphism data.
+
+PW Messer
+
+The rates and patterns of spontaneous mutation are fundamental parameters of molecular evolution. Current methodology either tries to measure such rates and patterns directly in mutation-accumulation experiments or tries to infer them indirectly from levels of divergence or polymorphism. While experimental approaches are constrained by the low rate at which new mutations occur, indirect approaches suffer from their underlying assumption that mutations are effectively neutral. Here I present a maximum-likelihood approach to estimate mutation rates from large-scale polymorphism data. It is demonstrated that the method is not sensitive to demography and the distribution of selection coefficients among mutations when applied to mutations at sufficiently low population frequencies. With the many large-scale sequencing projects currently underway, for instance, the 1000 genomes project in humans, plenty of the required low-frequency polymorphism data will shortly become available. My method will allow for an accurate and unbiased inference of mutation rates and patterns from such data sets at high spatial resolution. I discuss how the assessment of several long-standing problems of evolutionary biology would benefit from the availability of accurate mutation rate estimates.
+
+-Evolution, Molecular
+-Kinetics
+-Likelihood Functions
+-Methods
++Models, Genetic
++Mutation
++Polymorphism, Genetic
+
+pii:genetics.109.105692
+doi:10.1534/genetics.109.105692
+pubmed:19528323
+pmc:PMC2728861
+

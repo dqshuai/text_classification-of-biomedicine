@@ -1,0 +1,31 @@
+Cell
+
+Structural synergy and molecular crosstalk between bacterial helicase loaders and replication initiators.
+
+ML Mott, JP Erzberger, MM Coons, JM Berger
+
+The loading of oligomeric helicases onto replication origins marks an essential step in replisome assembly. In cells, dedicated AAA+ ATPases regulate loading, however, the mechanism by which these factors recruit and deposit helicases has remained unclear. To better understand this process, we determined the structure of the ATPase region of the bacterial helicase loader DnaC from Aquifex aeolicus to 2.7 A resolution. The structure shows that DnaC is a close paralog of the bacterial replication initiator, DnaA, and unexpectedly shares an ability to form a helical assembly similar to that of ATP-bound DnaA. Complementation and ssDNA-binding assays validate the importance of homomeric DnaC interactions, while pull-down experiments show that the DnaC and DnaA AAA+ domains interact in a nucleotide-dependent manner. These findings implicate DnaC as a molecular adaptor that uses ATP-activated DnaA as a docking site for regulating the recruitment and correct spatial deposition of the DnaB helicase onto origins.
+
+-Adenosine Triphosphatases (-metabolism)
+-Amino Acid Sequence
+-Bacteria (-enzymology)
+-Bacterial Proteins (+chemistry)
+-Crystallography, X-Ray (-methods)
+-DNA Helicases (-metabolism; +physiology)
++DNA Replication
+-DNA, Single-Stranded (-chemistry)
+-DNA-Binding Proteins (+chemistry)
+-DnaB Helicases (+chemistry)
+-Escherichia coli Proteins (+chemistry)
+-Models, Biological
+-Molecular Sequence Data
+-Protein Binding
+-Protein Conformation
+-Sequence Homology, Amino Acid
+
+pii:S0092-8674(08)01254-3
+doi:10.1016/j.cell.2008.09.058
+pubmed:19013274
+mid:NIHMS80159
+pmc:PMC2610854
+

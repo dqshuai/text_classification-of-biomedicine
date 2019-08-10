@@ -1,0 +1,22 @@
+Yeast
+
+Selection of cell death-deficient p53 mutants in Saccharomyces cerevisiae.
+
+I Yacoubi-Hadj Amor, K Smaoui, H Belguith, L Djemal, M Dardouri, R Mokdad-Gargouri, A Gargouri
+
+The budding yeast Saccharomyces cerevisiae is a useful system for the detection and transcriptional evaluation of mutant p53 in cancer. In previous work we showed that the overexpression of wild-type p53 induces yeast cell death on minimal medium; however, the R248W p53 mutant was completely inactive, and we suggested that ROS production is a key event in p53-induced yeast cell death. In this study we explored the effect of other p53 mutants, such as the hot-spot mutant R282W and the double mutant N268S::I332V. Unexpectedly, both mutants behaved inversely to R248W, as they completely inhibited yeast growth on minimal medium and induced ROS production. This phenotype 'yeast cell death on minimal medium' allowed for the subsequent screening of intragenic p53-inactivating mutations. In all cases, the 'revertant yeast clones' display a complete p53 inactivation through either gross deletion or nonsense mutations. More interestingly, missense mutations were also found: the deletion of I255 or substitution of R337G completely inactivated the p53 mutant R282W in the yeast context. Taken together, these results suggest that p53 tumour-derived mutants could be classified according to their ability to induce yeast cell death and not uniquely by their transcriptional activity on a selected target reporter gene.
+
+-Amino Acid Substitution (-genetics)
++Cell Death
+-Codon, Nonsense
+-Culture Media (-chemistry)
+-DNA Mutational Analysis
+-Mutation, Missense
+-Saccharomyces cerevisiae (-genetics; +growth & development)
++Selection, Genetic
+-Sequence Deletion
+-Tumor Suppressor Protein p53 (+biosynthesis; -genetics)
+
+doi:10.1002/yea.1677
+pubmed:19579214
+

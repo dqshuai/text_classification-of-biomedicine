@@ -1,0 +1,24 @@
+Biophys. J.
+
+Thermodynamic description of polymorphism in Q- and N-rich peptide aggregates revealed by atomistic simulation.
+
+JT Berryman, SE Radford, SA Harris
+
+Amyloid fibrils are long, helically symmetric protein aggregates that can display substantial variation (polymorphism), including alterations in twist and structure at the beta-strand and protofilament levels, even when grown under the same experimental conditions. The structural and thermodynamic origins of this behavior are not yet understood. We performed molecular-dynamics simulations to determine the thermodynamic properties of different polymorphs of the peptide GNNQQNY, modeling fibrils containing different numbers of protofilaments based on the structure of amyloid-like cross-beta crystals of this peptide. We also modeled fibrils with new orientations of the side chains, as well as a de novo designed structure based on antiparallel beta-strands. The simulations show that these polymorphs are approximately isoenergetic under a range of conditions. Structural analysis reveals a dynamic reorganization of electrostatics and hydrogen bonding in the main and side chains of the Gln and Asn residues that characterize this peptide sequence. Q/N-rich stretches are found in several amyloidogenic proteins and peptides, including the yeast prions Sup35-N and Ure2p, as well as in the human poly-Q disease proteins, including the ataxins and huntingtin. Based on our results, we propose that these residues imbue a unique structural plasticity to the amyloid fibrils that they comprise, rationalizing the ability of proteins enriched in these amino acids to form prion strains with heritable and different phenotypic traits.
+
++Computer Simulation
+-Hydrogen Bonding
++Models, Chemical
+-Models, Molecular
+-Peptides (+chemistry)
+-Protein Conformation
+-Protein Structure, Quaternary
+-Protein Structure, Secondary
+-Static Electricity
+-Thermodynamics
+
+pii:S0006-3495(09)00853-4
+doi:10.1016/j.bpj.2009.03.062
+pubmed:19580739
+pmc:PMC2711369
+

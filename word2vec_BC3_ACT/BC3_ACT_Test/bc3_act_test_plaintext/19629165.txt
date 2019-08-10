@@ -1,0 +1,27 @@
+PLoS Genet.
+
+Alternative splicing of NURF301 generates distinct NURF chromatin remodeling complexes with altered modified histone binding specificities.
+
+SY Kwon, H Xiao, C Wu, P Badenhorst
+
+Drosophila NURF is an ISWI-containing chromatin remodeling complex that catalyzes ATP-dependent nucleosome sliding. By sliding nucleosomes, NURF can alter chromatin structure and regulate transcription. NURF301/BPTF is the only NURF-specific subunit of NURF and is instrumental in recruiting the complex to target genes. Here we demonstrate that three NURF301 isoforms are expressed and that these encode functionally distinct NURF chromatin remodeling complexes. Full-length NURF301 contains a C-terminal bromodomain and juxtaposed PHD finger that bind histone H3 trimethylated at Lys4 (H3K4me3) and histone H4 acetylated at Lys16 (H4K16Ac) respectively. However, a NURF301 isoform that lacks these C-terminal domains is also detected. This truncated NURF301 isoform assembles a complex containing ISWI, NURF55, and NURF38, indicating that a second class of NURF remodeling complex, deficient in H3K4me3 and H4K16Ac recognition, exists. By comparing microarray expression profiles and phenotypes of null Nurf301 mutants with mutants that remove the C-terminal PHD fingers and bromodomain, we show that full-length NURF301 is not essential for correct expression of the majority of NURF gene targets in larvae. However, full-length NURF301 is required for spermatogenesis. Mutants that lack full-length NURF exhibit a spermatocyte arrest phenotype and fail to express a subset of spermatid differentiation genes. Our data reveal that variants of the NURF ATP-dependent chromatin remodeling complex that recognize post-translational histone modifications are important regulators of primary spermatocyte differentiation in Drosophila.
+
++Alternative Splicing
+-Animals
++Chromatin Assembly and Disassembly
+-Chromosomal Proteins, Non-Histone (+genetics; +metabolism)
+-Cyclin B (-metabolism)
+-Drosophila (+genetics; -metabolism)
+-Drosophila Proteins (+genetics; +metabolism)
+-Drosophila melanogaster (+genetics; -metabolism)
+-Gene Expression Profiling
+-Histones (-metabolism)
+-Mutation
+-Protein Isoforms (-genetics; -metabolism)
+-RNA-Binding Proteins (-metabolism)
+-Spermatogenesis
+
+doi:10.1371/journal.pgen.1000574
+pubmed:19629165
+pmc:PMC2705796
+

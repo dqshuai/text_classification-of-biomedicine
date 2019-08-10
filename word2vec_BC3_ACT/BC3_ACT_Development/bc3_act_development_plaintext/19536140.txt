@@ -1,0 +1,24 @@
+J. Invest. Dermatol.
+
+Phenotypic and genotypic analyses of genetic skin disease through the Online Mendelian Inheritance in Man (OMIM) database.
+
+JD Feramisco, RI Sadreyev, ML Murray, NV Grishin, H Tsao
+
+Despite unprecedented gains in genomic technologies and genotype resolution, there remain tremendous challenges in our ability to capture disease "phenomes." We propose a previously unreported method for deconvolving human disease into elemental features, thereby creating a third space that interacts with both the disease and genotypic spaces. Using cutaneous and noncutaneous clinical findings available through Johns Hopkins University's Online Mendelian Inheritance in Man (OMIM) database, we set out to deconstruct genetic skin disease (GSD) into its various components, to more fully explore the relationship between these features within the complex phenotypic space and to characterize the genotypic space within which these disorders exist. Using OMIM, we defined the current state of GSD as including 560 distinct disorders associated with 501 unique protein-encoding genes. The most common elemental skin features included [corrected] hair/nail phenotypes, while [corrected] the most common systemic features included those associated with developmental, musculoskeletal, and neurological systems. As a proof of principle, we focused on a single skin feature- café-au-lait macules-and partitioned the disease space into hierarchical groupings on the basis of this finding. Finally, functional analyses among GSD loci were mapped back to skin features, providing insights into pigmentary and auditory features. Phenotypic deconvolution provides a framework for analyzing medical disorders and can aid in the organization and elucidation of biological mechanisms related to human disease.
+
+-Cluster Analysis
+-Databases, Genetic (+statistics & numerical data)
+-Female
+-Genetic Diseases, Inborn (+classification; +genetics)
+-Genotype
+-Humans
+-Male
+-Models, Genetic
+-Phenotype
+-Skin Diseases (+classification; +genetics)
+-Software
+
+pii:jid2009108
+doi:10.1038/jid.2009.108
+pubmed:19536140
+

@@ -1,0 +1,27 @@
+BioTechniques
+
+Simple non-fluorescent polarity labeling of microtubules for molecular motor assays.
+
+V Soppina, A Rai, R Mallik
+
+Transport of intracellular organelles along the microtubule cytoskeleton occurs in a bidirectional manner due to opposing activity of microtubule-associated motor proteins of the kinesin and dynein families. Regulation of this opposing activity and the resultant motion is believed to generate a polarized distribution of many organelles within the cell. The bidirectional motion can be reconstituted on in vitro assembled microtubules using organelles extracted from cells. This provides an opportunity to understand the regulation of intracellular transport through quantitative analysis of the motion of organelles in a controlled environment. Such analysis requires the use of polarity-labeled microtubules to resolve the plus and minus components of bidirectional motion. However, existing methods of in vitro microtubule polarity labeling are unsuitable for high-resolution recording of motion. Here we present a simple and reliable method that uses avidin-coated magnetic beads to prepare microtubules labeled at the minus end. The microtubule polarity can be identified without any need for fluorescence excitation. We demonstrate video-rate high-resolution imaging of single cellular organelles moving along plus and minus directions on labeled microtubules. Quantitative analysis of this motion indicates that these organelles are likely to be driven by multiple dynein motors in vivo.
+
+-Animals
+-Biological Assay (+methods)
+-Cell Polarity
+-Cytoplasmic Vesicles (-metabolism)
+-Dictyostelium (-cytology; -metabolism)
+-Dyneins (-metabolism)
+-Fluorescence
+-Goats
+-Kinesin (-metabolism)
+-Magnetics
+-Microspheres
+-Microtubules (+metabolism)
+-Molecular Motor Proteins (+metabolism)
+-Staining and Labeling (+methods)
+
+pii:000113124
+doi:10.2144/000113124
+pubmed:19594454
+

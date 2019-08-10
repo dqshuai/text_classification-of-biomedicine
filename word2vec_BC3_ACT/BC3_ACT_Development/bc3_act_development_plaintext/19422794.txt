@@ -1,0 +1,23 @@
+Biochem. Biophys. Res. Commun.
+
+SUMO modification modulates the activity of calpain-2.
+
+HC Wang, YS Huang, CC Ho, JC Jeng, HM Shih
+
+Small ubiquitin-like modifier (SUMO) modification has been shown to be involved in the regulation of various cellular processes including gene transcription, nucleocytoplasmic transport, cell cycle, DNA repair, stress response, and signal transduction. However, very little is known about the process of cell migration being modulated by SUMO modification. Here, we show that calpain-2, a protease involved in cell motility, can be SUMO modified at lysine residue 390. Converting the SUMO acceptor lysine residue to arginine residue significantly attenuated calpain-2 activity, correlating well with a loss of calpain-2-elicited cell motility. Accordingly, expression of SENP1 could abrogate calpain-2 sumoylation, causing an inhibition on calpain-2-dependent activity and cell motility. These results not only identify calpain-2 as a substrate for sumoylation but also provide an important role of sumoylation in regulating cell migration.
+
+-Animals
+-COS Cells
+-Calpain (-genetics; +metabolism)
++Cell Movement
+-Cercopithecus aethiops
+-Endopeptidases (-metabolism)
+-Humans
+-Lysine (-genetics; -metabolism)
+-Mutation
+-SUMO-1 Protein (+metabolism)
+
+pii:S0006-291X(09)00866-3
+doi:10.1016/j.bbrc.2009.04.152
+pubmed:19422794
+

@@ -1,0 +1,29 @@
+J. Virol.
+
+Development of a human immunodeficiency virus type 1-based lentiviral vector that allows efficient transduction of both human and rhesus blood cells.
+
+N Uchida, KN Washington, J Hayakawa, MM Hsieh, AC Bonifacino, AE Krouse, ME Metzger, RE Donahue, JF Tisdale
+
+Human immunodeficiency virus type 1 (HIV-1) vectors transduce rhesus blood cells poorly due to a species-specific block by TRIM5alpha and APOBEC3G, which target HIV-1 capsid and viral infectivity factor (Vif), respectively. We sought to develop a lentiviral vector capable of transducing both human and rhesus blood cells by combining components of both HIV-1 and simian immunodeficiency virus (SIV), including SIV capsid (sCA) and SIV Vif. A chimeric HIV-1 vector including sCA (chiHIV) was superior to the conventional SIV in transducing a human blood cell line and superior to the conventional HIV-1 vector in transducing a rhesus blood cell line. Among human CD34(+) hematopoietic stem cells (HSCs), the chiHIV and HIV-1 vectors showed similar transduction efficiencies; in rhesus CD34(+) HSCs, the chiHIV vector yielded superior transduction rates. In in vivo competitive repopulation experiments with two rhesus macaques, the chiHIV vector demonstrated superior marking levels over the conventional HIV-1 vector in all blood lineages (first rhesus, 15 to 30% versus 1 to 5%; second rhesus, 7 to 15% versus 0.5 to 2%, respectively) 3 to 7 months postinfusion. In summary, we have developed an HIV-1-based lentiviral vector system that should allow comprehensive preclinical testing of HIV-1-based therapeutic vectors in the rhesus macaque model with eventual clinical application.
+
+-Animals
+-Antigens, CD34 (-biosynthesis)
+-Capsid (-metabolism)
+-Cell Line
+-Erythrocytes (-virology)
+-Genetic Vectors (+genetics)
+-HIV-1 (+metabolism)
+-Hematopoietic Stem Cells (-virology)
+-Humans
+-Lentivirus (+genetics)
+-Macaca mulatta
+-Models, Genetic
+-Mutation
+-Simian immunodeficiency virus (+metabolism)
+-Transduction, Genetic
+
+pii:JVI.00357-09
+doi:10.1128/JVI.00357-09
+pubmed:19625395
+pmc:PMC2748003
+

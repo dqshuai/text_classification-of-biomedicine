@@ -1,0 +1,29 @@
+DNA Repair (Amst.)
+
+Diverse effects of individual mismatch repair components on transcription-induced CAG repeat instability in human cells.
+
+Y Lin, JH Wilson
+
+Several neurodegerative diseases are caused by expansion of a trinucleotide repeat tract in a critical gene. The mechanism of repeat instability is not yet defined, but in mice it requires MutSbeta, a complex of MSH2 and MSH3. We showed previously that transcription through a CAG repeat tract induces repeat instability in human cells via a pathway that requires the mismatch repair (MMR) components, MSH2 and MSH3, and the entire transcription-coupled nucleotide excision repair pathway [Y. Lin, V. Dion, J.H. Wilson, Transcription promotes contraction of CAG repeat tracts in human cells, Nat. Struct. Mol. Biol. 13 (2006) 179-180; Y. Lin, J.H. Wilson, Transcription-induced CAG repeat contraction in human cells is mediated in part by transcription-coupled nucleotide excision repair, Mol. Cell Biol. 27 (2007) 6209-6217]. Here, we examine the role of downstream MMR processing components on transcription-induced CAG instability, using our selection assay for repeat contraction. In contrast to knockdowns of MSH2 or MSH3, which reduce repeat contractions, we show that siRNA-mediated depletion of MLH1 or PMS2 increases contraction frequency. Knockdown of DNMT1, which has been identified as an MMR factor in genetic studies, also elevates the frequency of contraction. Simultaneous knockdowns of MLH1 or DNMT1 along with MSH2, XPA, or BRCA1, whose individual knockdowns each decrease CAG contraction, yield intermediate frequencies. In sharp contrast, double knockdown of MLH1 and DNMT1 additively increases the frequency of CAG contraction. These results show that MMR components can alter repeat stability in diverse ways, either enhancing or suppressing CAG contraction, and they provide insight into the influence of MMR components on transcription-induced CAG repeat instability.
+
+-Adaptor Proteins, Signal Transducing (-metabolism)
+-Adenosine Triphosphatases (-metabolism)
+-Cell Line
++DNA Mismatch Repair
+-DNA Repair Enzymes (-metabolism)
+-DNA-Binding Proteins (-metabolism)
+-Gene Knockdown Techniques
+-Genomic Instability (+genetics)
+-Humans
+-Nuclear Proteins (-metabolism)
+-Polymerase Chain Reaction
+-Protein Binding
+-RNA, Small Interfering (-metabolism)
+-Repressor Proteins (-metabolism)
++Transcription, Genetic
+-Trinucleotide Repeat Expansion (+genetics)
+
+pii:S1568-7864(09)00120-7
+doi:10.1016/j.dnarep.2009.04.024
+pubmed:19497791
+

@@ -1,0 +1,36 @@
+PLoS Genet.
+
+Recognition of double strand breaks by a mutator protein (MU2) in Drosophila melanogaster.
+
+R Dronamraju, JM Mason
+
+Telomere capture, a rare event that stabilizes chromosome breaks, is associated with certain genetic abnormalities in humans. Studies pertaining to the generation, maintenance, and biological effects of telomere formation are limited in metazoans. A mutation, mu2(a), in Drosophila melanogaster decreases the rate of repair of double strand DNA breaks in oocytes, thus leading to chromosomes that have lost a natural telomere and gained a new telomere. Amino acid sequence, domain architecture, and protein interactions suggest that MU2 is an ortholog of human MDC1. The MU2 protein is a component of meiotic recombination foci and localizes to repair foci in S2 cells after irradiation in a manner similar to that of phosphorylated histone variant H2Av. Domain searches indicated that the protein contains an N-terminal FHA domain and a C-terminal tandem BRCT domain. Peptide pull-down studies showed that the BRCT domain interacts with phosphorylated H2Av, while the FHA domain interacts with the complex of MRE11, RAD50, and NBS. A frameshift mutation that eliminates the MU2 BRCT domain decreases the number and size of meiotic phospho-H2Av foci. MU2 is also required for the intra-S checkpoint in eye-antennal imaginal discs. MU2 participates at an early stage in the recognition of DNA damage at a step that is prerequisite for both DNA repair and cell cycle checkpoint control. We propose a model suggesting that neotelomeres may arise when radiation-induced chromosome breaks fail to be repaired, fail to arrest progression through meiosis, and are deposited in the zygote, where cell cycle control is absent and rapid rounds of replication and telomere formation ensue.
+
+-Animals
+-Animals, Genetically Modified
+-Cell Cycle
+-Cell Line
++DNA Breaks, Double-Stranded
+-DNA Repair (-genetics)
+-DNA-Binding Proteins (-chemistry; +genetics; +metabolism)
+-Drosophila Proteins (-chemistry; +genetics; +metabolism)
+-Drosophila melanogaster (+genetics; +metabolism)
+-Female
+-Genes, Insect
+-Histones (-metabolism)
+-Humans
+-Meiosis (-genetics)
+-Models, Genetic
+-Mutation
+-Nuclear Proteins (-chemistry; -genetics; -metabolism)
+-Oocytes (-cytology; -metabolism)
+-Phenotype
+-Protein Structure, Tertiary
+-Species Specificity
+-Telomere (-genetics; -metabolism)
+-Trans-Activators (-chemistry; -genetics; -metabolism)
+
+doi:10.1371/journal.pgen.1000473
+pubmed:19424425
+pmc:PMC2672170
+

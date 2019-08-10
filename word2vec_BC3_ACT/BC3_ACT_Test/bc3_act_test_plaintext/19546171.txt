@@ -1,0 +1,25 @@
+Genome Res.
+
+Positional conservation and amino acids shape the correct diagnosis and population frequencies of benign and damaging personal amino acid mutations.
+
+S Kumar, MP Suleski, GJ Markov, S Lawrence, A Marco, AJ Filipski
+
+As the cost of DNA sequencing drops, we are moving beyond one genome per species to one genome per individual to improve prevention, diagnosis, and treatment of disease by using personal genotypes. Computational methods are frequently applied to predict impairment of gene function by nonsynonymous mutations in individual genomes and single nucleotide polymorphisms (nSNPs) in populations. These computational tools are, however, known to fail 15%-40% of the time. We find that accurate discrimination between benign and deleterious mutations is strongly influenced by the long-term (among species) history of positions that harbor those mutations. Successful prediction of known disease-associated mutations (DAMs) is much higher for evolutionarily conserved positions and for original-mutant amino acid pairs that are rarely seen among species. Prediction accuracies for nSNPs show opposite patterns, forecasting impediments to building diagnostic tools aiming to simultaneously reduce both false-positive and false-negative errors. The relative allele frequencies of mutations diagnosed as benign and damaging are predicted by positional evolutionary rates. These allele frequencies are modulated by the relative preponderance of the mutant allele in the set of amino acids found at homologous sites in other species (evolutionarily permissible alleles [EPAs]). The nSNPs found in EPAs are biochemically less severe than those missing from EPAs across all allele frequency categories. Therefore, it is important to consider position evolutionary rates and EPAs when interpreting the consequences and population frequencies of human mutations. The impending sequencing of thousands of human and many more vertebrate genomes will lead to more accurate classifiers needed in real-world applications.
+
+-Amino Acid Substitution
+-Amino Acids (+genetics)
+-Computational Biology (-methods)
++Evolution, Molecular
++Gene Frequency
+-Genetic Diseases, Inborn (+diagnosis; -genetics)
+-Genetic Predisposition to Disease
+-Genome, Human (-genetics)
+-Humans
++Mutation
+-Polymorphism, Single Nucleotide
+
+pii:gr.091991.109
+doi:10.1101/gr.091991.109
+pubmed:19546171
+pmc:PMC2752122
+

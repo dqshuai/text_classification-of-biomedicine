@@ -1,0 +1,23 @@
+Cell
+
+Cdk1-dependent phosphorylation of Cdc13 coordinates telomere elongation during cell-cycle progression.
+
+S Li, S Makovets, T Matsuguchi, JD Blethrow, KM Shokat, EH Blackburn
+
+Elongation of telomeres by telomerase replenishes the loss of terminal telomeric DNA repeats during each cell cycle. In budding yeast, Cdc13 plays an essential role in telomere length homeostasis, partly through its interactions with both the telomerase complex and the competing Stn1-Ten1 complex. Previous studies in yeast have shown that telomere elongation by telomerase is cell cycle dependent, but the mechanism underlying this dependence is unclear. In S. cerevisiae, a single cyclin-dependent kinase Cdk1 (Cdc28) coordinates the serial events required for the cell division cycle, but no Cdk1 substrate has been identified among telomerase and telomere-associated factors. Here we show that Cdk1-dependent phosphorylation of Cdc13 is essential for efficient recruitment of the yeast telomerase complex to telomeres by favoring the interaction of Cdc13 with Est1 rather than the competing Stn1-Ten1 complex. These results provide a direct mechanistic link between coordination of telomere elongation and cell-cycle progression in vivo.
+
+-CDC28 Protein Kinase, S cerevisiae (+metabolism)
++Cell Cycle
+-Phosphorylation
+-Saccharomyces cerevisiae (+cytology; +metabolism)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+-Telomerase (-metabolism)
+-Telomere (+metabolism)
+-Telomere-Binding Proteins (+metabolism)
+
+pii:S0092-8674(08)01502-X
+doi:10.1016/j.cell.2008.11.027
+pubmed:19135888
+mid:NIHMS90433
+pmc:PMC2642970
+

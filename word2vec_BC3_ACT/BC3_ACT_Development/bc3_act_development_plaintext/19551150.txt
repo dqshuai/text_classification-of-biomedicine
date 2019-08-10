@@ -1,0 +1,26 @@
+PLoS ONE
+
+Epstein-Barr virus independent dysregulation of UBP43 expression alters interferon-stimulated gene expression in Burkitt lymphoma.
+
+IK Ruf, JL Houmani, JT Sample
+
+Epstein-Barr virus (EBV) persists as a life-long latent infection within memory B cells, but how EBV may circumvent the innate immune response within this virus reservoir is unclear. Recent studies suggest that the latency-associated non-coding RNAs of EBV may actually induce type I (antiviral) interferon production, raising the question of how EBV counters the negative consequences this is likely to have on viral persistence. We addressed this by examining the type I interferon response in Burkitt lymphoma (BL) cell lines, the only in vitro model of the restricted program of EBV latency-gene expression in persistently infected B cells in vivo. Importantly, we observed no effect of EBV on interferon alpha-induced signaling or evidence of type I interferon production, suggesting that EBV in this latent state is silent to the cell's innate antiviral surveillance. We did uncover, however, a defect in the negative feedback control of interferon signaling in a subpopulation of BL lines as was revealed by prolonged interferon-stimulated gene transcription consistent with sustained tyrosine phosphorylation on STAT1 and STAT2. This was due to inadequate induction of expression of the ubiquitin-specific protease UBP43, which removes the ubiquitin-like ISG15 polypeptide conjugated to proteins (ISGylation) in response to type I interferons. Results here are consistent with previous findings in genetically engineered Ubp43(-/-) murine cells that UBP43 down-regulates interferon signaling, independent of its ISG15 isopeptidase activity, by precluding the protein kinase JAK1 from the interferon receptor. This natural deficiency in UBP43 expression may therefore provide a useful model to further probe the biological roles of UBP43 and ISGylation.
+
+-Animals
+-Burkitt Lymphoma (+metabolism)
+-Cell Line, Tumor
+-Endopeptidases (+biosynthesis)
++Gene Expression Regulation
++Gene Expression Regulation, Neoplastic
++Gene Expression Regulation, Viral
+-Interferons (+metabolism)
+-Mice
+-Mice, Transgenic
+-Models, Biological
+-Phosphorylation
+-STAT1 Transcription Factor (-metabolism)
+
+doi:10.1371/journal.pone.0006023
+pubmed:19551150
+pmc:PMC2696598
+

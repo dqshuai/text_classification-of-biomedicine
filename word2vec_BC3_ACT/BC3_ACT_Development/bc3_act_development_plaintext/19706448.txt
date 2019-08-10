@@ -1,0 +1,35 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Cleavage of RseA by RseP requires a carboxyl-terminal hydrophobic amino acid following DegS cleavage.
+
+X Li, B Wang, L Feng, H Kang, Y Qi, J Wang, Y Shi
+
+Regulated intramembrane proteolysis (RIP) by the Site-2 protease (S2P) results in the release of a transmembrane signaling protein. Curiously, however, S2P cleavage must be preceded by the action of the Site-1 protease (S1P). To decipher the underlying mechanism, we reconstituted sequential, in vitro cleavages of the Escherichia coli transmembrane protein RseA by DegS (S1P) and RseP (S2P). After DegS cleavage, the newly exposed carboxyl-terminal residue Val-148 of RseA plays an essential role for RseP cleavage, and its mutation to charged or dissimilar amino acids crippled the Site-2 cleavage. By contrast, the identity of residues 146 and 147 of RseA has no impact on Site-2 cleavage. These results explain why Site-1 cleavage must precede Site-2 cleavage. Structural analysis reveals that the putative peptide-binding groove in the second, but not the first, PDZ domain of RseP is poised for binding to a single hydrophobic amino acid. These observations suggest that after DegS cleavage, the newly exposed carboxyl terminus of RseA may facilitate Site-2 cleavage through direct interaction with the PDZ domain.
+
+-Amino Acid Sequence
+-Amino Acids (-chemistry; -genetics; +metabolism)
+-Amyloid Precursor Protein Secretases (-metabolism)
+-Animals
+-Cell Membrane (-metabolism)
+-Conserved Sequence
+-Endopeptidases (-chemistry; -genetics; +metabolism)
+-Escherichia coli (+metabolism)
+-Escherichia coli Proteins (-chemistry; -genetics; +metabolism)
+-Humans
+-Hydrophobicity
+-Membrane Proteins (-chemistry; -genetics; +metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Mutation
+-Protein Binding
+-Protein Structure, Quaternary
+-Protein Structure, Tertiary
+-Sequence Alignment
+-Substrate Specificity
+-Transcription Factors (-genetics; +metabolism)
+
+pii:0903289106
+doi:10.1073/pnas.0903289106
+pubmed:19706448
+pmc:PMC2736447
+

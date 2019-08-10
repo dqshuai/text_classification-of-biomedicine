@@ -1,0 +1,15 @@
+BioTechniques
+
+Arraycount, an algorithm for automatic cell counting in microwell arrays.
+
+N Kachouie, L Kang, A Khademhosseini
+
+Microscale technologies have emerged as a powerful tool for studying and manipulating biological systems and miniaturizing experiments. However, the lack of software complementing these techniques has made it difficult to apply them for many high-throughput experiments. This work establishes Arraycount, an approach to automatically count cells in microwell arrays. The procedure consists of fluorescent microscope imaging of cells that are seeded in microwells of a microarray system and then analyzing images via computer to recognize the array and count cells inside each microwell. To start counting, green and red fluorescent images (representing live and dead cells, respectively) are extracted from the original image and processed separately. A template-matching algorithm is proposed in which pre-defined well and cell templates are matched against the red and green images to locate microwells and cells. Subsequently, local maxima in the correlation maps are determined and local maxima maps are thresholded. At the end, the software records the cell counts for each detected microwell on the original image in high-throughput. The automated counting was shown to be accurate compared with manual counting, with a difference of approximately 1-2 cells per microwell: based on cell concentration, the absolute difference between manual and automatic counting measurements was 2.5-13%.
+
+
+pii:000113202
+doi:10.2144/000113202
+pubmed:19852758
+mid:NIHMS160567
+pmc:PMC2791213
+

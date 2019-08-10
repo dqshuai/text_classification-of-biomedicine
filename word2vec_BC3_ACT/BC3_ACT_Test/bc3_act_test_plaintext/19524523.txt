@@ -1,0 +1,33 @@
+Neuron
+
+The stoichiometry of AMPA receptors and TARPs varies by neuronal cell type.
+
+Y Shi, W Lu, AD Milstein, RA Nicoll
+
+Synaptic AMPA receptors (AMPARs) are regulated by a family of auxiliary subunits known as transmembrane AMPA receptor regulatory proteins (TARPs). TARPs control the trafficking and gating of AMPARs. However, the number of TARP molecules that assemble within individual AMPAR channels is unknown. Here, we covalently link AMPARs to TARPs to investigate the properties of TARP/AMPAR complexes with known stoichiometry in HEK cells. We find that AMPARs are functional when associated with four, two, or no TARPs, and that the efficacy of the partial agonist kainate varies across these conditions, providing a sensitive assay for TARP/AMPAR stoichiometry. A comparison of these results with data obtained from hippocampal neurons demonstrates that native AMPARs associate with TARPs with a variable stoichiometry that depends on TARP expression level. Interestingly, AMPARs in hippocampal pyramidal neurons are saturated by TARP expression, while those in dentate gyrus granule neurons are not, indicating that variable TARP/AMPAR stoichiometry provides a mechanism for cell-type-specific regulation of AMPAR function.
+
+-Animals
+-Animals, Newborn
+-Cell Line, Transformed
+-Electric Stimulation (-methods)
+-Excitatory Amino Acid Agonists (-pharmacology)
+-Gene Expression Regulation (-drug effects; -physiology)
+-Glutamic Acid (-pharmacology)
+-Hippocampus (-cytology)
+-Humans
+-Kainic Acid (-pharmacology)
+-Membrane Potentials (-drug effects; -genetics)
+-Mice
+-Neurons (+physiology)
+-Nuclear Proteins (-genetics; +metabolism)
+-Patch-Clamp Techniques (-methods)
+-Protein Isoforms (-genetics; -physiology)
+-Protein Subunits (-genetics; -metabolism)
+-Receptors, AMPA (+chemistry; -genetics; +metabolism)
+-Tissue Culture Techniques
+-Transfection
+
+pii:S0896-6273(09)00391-2
+doi:10.1016/j.neuron.2009.05.016
+pubmed:19524523
+

@@ -1,0 +1,26 @@
+Plant Cell
+
+Lutein accumulation in the absence of zeaxanthin restores nonphotochemical quenching in the Arabidopsis thaliana npq1 mutant.
+
+Z Li, TK Ahn, TJ Avenson, M Ballottari, JA Cruz, DM Kramer, R Bassi, GR Fleming, JD Keasling, KK Niyogi
+
+Plants protect themselves from excess absorbed light energy through thermal dissipation, which is measured as nonphotochemical quenching of chlorophyll fluorescence (NPQ). The major component of NPQ, qE, is induced by high transthylakoid DeltapH in excess light and depends on the xanthophyll cycle, in which violaxanthin and antheraxanthin are deepoxidized to form zeaxanthin. To investigate the xanthophyll dependence of qE, we identified suppressor of zeaxanthin-less1 (szl1) as a suppressor of the Arabidopsis thaliana npq1 mutant, which lacks zeaxanthin. szl1 npq1 plants have a partially restored qE but lack zeaxanthin and have low levels of violaxanthin, antheraxanthin, and neoxanthin. However, they accumulate more lutein and alpha-carotene than the wild type. szl1 contains a point mutation in the lycopene beta-cyclase (LCYB) gene. Based on the pigment analysis, LCYB appears to be the major lycopene beta-cyclase and is not involved in neoxanthin synthesis. The Lhcb4 (CP29) and Lhcb5 (CP26) protein levels are reduced by 50% in szl1 npq1 relative to the wild type, whereas other Lhcb proteins are present at wild-type levels. Analysis of carotenoid radical cation formation and leaf absorbance changes strongly suggest that the higher amount of lutein substitutes for zeaxanthin in qE, implying a direct role in qE, as well as a mechanism that is weakly sensitive to carotenoid structural properties.
+
+-Amino Acid Sequence
+-Arabidopsis (-genetics; +metabolism; -radiation effects)
+-Arabidopsis Proteins (+genetics; -metabolism)
+-Base Sequence
+-Intramolecular Lyases (-genetics)
+-Light
+-Lutein (+metabolism)
+-Molecular Sequence Data
+-Mutation
+-Oxidoreductases (+genetics; -metabolism)
+-Sequence Alignment
+-Xanthophylls (+metabolism)
+
+pii:tpc.109.066571
+doi:10.1105/tpc.109.066571
+pubmed:19549928
+pmc:PMC2714924
+

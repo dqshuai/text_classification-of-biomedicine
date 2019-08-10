@@ -1,0 +1,20 @@
+BMC Bioinformatics
+
+A Bayesian approach to efficient differential allocation for resampling-based significance testing.
+
+ST Jensen, S Soi, LS Wang
+
+BACKGROUND: Large-scale statistical analyses have become hallmarks of post-genomic era biological research due to advances in high-throughput assays and the integration of large biological databases. One accompanying issue is the simultaneous estimation of p-values for a large number of hypothesis tests. In many applications, a parametric assumption in the null distribution such as normality may be unreasonable, and resampling-based p-values are the preferred procedure for establishing statistical significance. Using resampling-based procedures for multiple testing is computationally intensive and typically requires large numbers of resamples. RESULTS: We present a new approach to more efficiently assign resamples (such as bootstrap samples or permutations) within a nonparametric multiple testing framework. We formulated a Bayesian-inspired approach to this problem, and devised an algorithm that adapts the assignment of resamples iteratively with negligible space and running time overhead. In two experimental studies, a breast cancer microarray dataset and a genome wide association study dataset for Parkinson's disease, we demonstrated that our differential allocation procedure is substantially more accurate compared to the traditional uniform resample allocation. CONCLUSION: Our experiments demonstrate that using a more sophisticated allocation strategy can improve our inference for hypothesis testing without a drastic increase in the amount of computation on randomized data. Moreover, we gain more improvement in efficiency when the number of tests is large. R code for our algorithm and the shortcut method are available at http://people.pcbi.upenn.edu/~lswang/pub/bmc2009/.
+
+-Algorithms
+-Bayes Theorem
+-Computational Biology (-methods)
+-Gene Expression Profiling (+methods)
+-Genome-Wide Association Study (+methods)
+-Statistics, Nonparametric
+
+pii:1471-2105-10-198
+doi:10.1186/1471-2105-10-198
+pubmed:19558706
+pmc:PMC2718927
+

@@ -1,0 +1,35 @@
+J. Neurosci.
+
+Focal adhesion kinase acts downstream of EphB receptors to maintain mature dendritic spines by regulating cofilin activity.
+
+Y Shi, CG Pontrello, KA DeFea, LF Reichardt, IM Ethell
+
+Dendritic spines are the postsynaptic sites of most excitatory synapses in the brain and are highly enriched in polymerized F-actin, which drives the formation and maintenance of mature dendritic spines and synapses. We propose that suppressing the activity of the actin-severing protein cofilin plays an important role in the stabilization of mature dendritic spines, and is accomplished through an EphB receptor-focal adhesion kinase (FAK) pathway. Our studies revealed that Cre-mediated knock-out of loxP-flanked fak prompted the reversion of mature dendritic spines to an immature filopodial-like phenotype in primary hippocampal cultures. The effects of FAK depletion on dendritic spine number, length, and morphology were rescued by the overexpression of the constitutively active FAK(Y397E), but not FAK(Y397F), indicating the significance of FAK activation by phosphorylation on tyrosine 397. Our studies demonstrate that FAK acts downstream of EphB receptors in hippocampal neurons and EphB2-FAK signaling controls the stability of mature dendritic spines by promoting cofilin phosphorylation, thereby inhibiting cofilin activity. While constitutively active nonphosphorylatable cofilin(S3A) induced an immature spine profile, phosphomimetic cofilin(S3D) restored mature spine morphology in neurons with disrupted EphB activity or lacking FAK. Further, we found that EphB-mediated regulation of cofilin activity at least partially depends on the activation of Rho-associated kinase (ROCK) and LIMK-1. These findings indicate that EphB2-mediated dendritic spine stabilization relies, in part, on the ability of FAK to activate the RhoA-ROCK-LIMK-1 pathway, which functions to suppress cofilin activity and inhibit cofilin-mediated dendritic spine remodeling.
+
+-Actin Depolymerizing Factors (-genetics; +metabolism)
+-Animals
+-Cells, Cultured
+-Dendritic Spines (+metabolism)
+-Fluorescent Antibody Technique
+-Focal Adhesion Protein-Tyrosine Kinases (-deficiency; -genetics; +metabolism)
+-Genetic Vectors
+-Hippocampus (+metabolism)
+-Immunohistochemistry
+-Lim Kinases (-metabolism)
+-Mice
+-Neural Pathways (+metabolism)
+-Neurons (+metabolism)
+-Phosphorylation (-physiology)
+-Polymerase Chain Reaction
+-Receptors, Eph Family (-genetics; +metabolism)
+-Signal Transduction (-physiology)
+-Transfection
+-Up-Regulation (-genetics; -physiology)
+-rho-Associated Kinases (-metabolism)
+
+pii:29/25/8129
+doi:10.1523/JNEUROSCI.4681-08.2009
+pubmed:19553453
+mid:NIHMS173552
+pmc:PMC2819391
+

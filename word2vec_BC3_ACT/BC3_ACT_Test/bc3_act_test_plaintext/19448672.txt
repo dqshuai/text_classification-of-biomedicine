@@ -1,0 +1,42 @@
+Oncogene
+
+Ror2, a developmentally regulated kinase, promotes tumor growth potential in renal cell carcinoma.
+
+TM Wright, AR Brannon, JD Gordan, AJ Mikels, C Mitchell, S Chen, I Espinosa, M van de Rijn, R Pruthi, E Wallen, L Edwards, R Nusse, WK Rathmell
+
+Inappropriate kinase expression and subsequent promiscuous activity defines the transformation of many solid tumors including renal cell carcinoma (RCC). Thus, the expression of novel tumor-associated kinases has the potential to dramatically shape tumor cell behavior. Further, identifying tumor-associated kinases can lend insight into patterns of tumor growth and characteristics. Here, we report the identification of the RTK-like orphan receptor 2 (Ror2), a new tumor-associated kinase in RCC cell lines and primary tumors. Ror2 is an orphan receptor tyrosine kinase with physiological expression normally seen in the embryonic kidney. However, in RCC, Ror2 expression correlated with expression of genes involved at the extracellular matrix, including Twist and matrix metalloprotease-2 (MMP2). Expression of MMP2 in RCC cells was suppressed by Ror2 knockdown, placing Ror2 as a mediator of MMP2 regulation in RCC and a potential regulator of extracellular matrix remodeling. The suppression of Ror2 not only inhibited cell migration, but also inhibited anchorage-independent growth in soft agar and growth in an orthotopic xenograft model. These findings suggest a novel pathway of tumor-promoting activity by Ror2 within a subset of renal carcinomas, with significant implications for unraveling the tumorigenesis of RCC.
+
+-Animals
+-Carcinoma, Renal Cell (-genetics; -metabolism; +pathology)
+-Cell Line, Tumor
+-Cell Movement
++Cell Proliferation
+-Gene Expression Profiling
+-Gene Expression Regulation, Neoplastic
+-Humans
+-Immunoblotting
+-Immunohistochemistry
+-Kidney Neoplasms (-genetics; -metabolism; +pathology)
+-Matrix Metalloproteinase 2 (-genetics; -metabolism)
+-Mice
+-Mice, Nude
+-Neoplasm Transplantation
+-Neoplasms, Experimental (-genetics; -metabolism; -pathology)
+-Nuclear Proteins (-genetics; -metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Phosphorylation
+-RNA Interference
+-Receptor Protein-Tyrosine Kinases (-genetics; -metabolism)
+-Receptor Tyrosine Kinase-like Orphan Receptors
+-Receptors, Cell Surface (-genetics; +metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Transplantation, Heterologous
+-Tumor Burden
+-Twist Transcription Factor (-genetics; -metabolism)
+
+pii:onc2009116
+doi:10.1038/onc.2009.116
+pubmed:19448672
+mid:NIHMS109562
+pmc:PMC2771692
+

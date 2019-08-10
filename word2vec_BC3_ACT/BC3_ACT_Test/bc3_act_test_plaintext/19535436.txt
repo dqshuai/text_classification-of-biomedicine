@@ -1,0 +1,25 @@
+J. Virol.
+
+Rescue of bacteriophage T7 DNA polymerase of low processivity by suppressor mutations affecting gene 3 endonuclease.
+
+SJ Lee, K Chowdhury, S Tabor, CC Richardson
+
+The DNA polymerase encoded by gene 5 (gp5) of bacteriophage T7 has low processivity, dissociating after the incorporation of a few nucleotides. Upon binding to its processivity factor, Escherichia coli thioredoxin (Trx), the processivity is increased to approximately 800 nucleotides per binding event. Several interactions between gp5/Trx and DNA are required for processive DNA synthesis. A basic region in T7 DNA polymerase (residues K587, K589, R590, and R591) is located in proximity to the 5' overhang of the template strand. Replacement of these residues with asparagines results in a threefold reduction of the polymerization activity on primed M13 single-stranded DNA. The altered gp5/Trx exhibits a 10-fold reduction in its ability to support growth of T7 phage lacking gene 5. However, T7 phages that grow at a similar rate provided with either wild-type or altered polymerase emerge. Most of the suppressor phages contain genetic changes in or around the coding region for gene 3, an endonuclease. Altered gene 3 proteins derived from suppressor strains show reduced catalytic activity and are inefficient in complementing growth of T7 phage lacking gene 3. Results from this study reveal that defects in processivity of DNA polymerase can be suppressed by reducing endonuclease activity.
+
+-Bacteriophage T7 (+genetics; +growth & development)
+-DNA, Viral (+metabolism)
+-DNA-Directed DNA Polymerase (+metabolism)
+-Deoxyribonuclease I (+genetics)
+-Escherichia coli (-virology)
+-Models, Biological
+-Models, Molecular
+-Plaque Assay
+-Protein Structure, Tertiary
++Suppression, Genetic
++Virus Replication
+
+pii:JVI.00855-09
+doi:10.1128/JVI.00855-09
+pubmed:19535436
+pmc:PMC2738204
+

@@ -1,0 +1,28 @@
+Genome Res.
+
+High-resolution mapping and analysis of copy number variations in the human genome: a data resource for clinical and research applications.
+
+TH Shaikh, X Gai, JC Perin, JT Glessner, H Xie, K Murphy, R O'Hara, T Casalunovo, LK Conlin, M D'Arcy, EC Frackelton, EA Geiger, C Haldeman-Englert, M Imielinski, CE Kim, L Medne, K Annaiah, JP Bradfield, E Dabaghyan, A Eckert, CC Onyiah, S Ostapenko, FG Otieno, E Santa, JL Shaner, R Skraban, RM Smith, J Elia, E Goldmuntz, NB Spinner, EH Zackai, RM Chiavacci, R Grundmeier, EF Rappaport, SF Grant, PS White, H Hakonarson
+
+We present a database of copy number variations (CNVs) detected in 2026 disease-free individuals, using high-density, SNP-based oligonucleotide microarrays. This large cohort, comprised mainly of Caucasians (65.2%) and African-Americans (34.2%), was analyzed for CNVs in a single study using a uniform array platform and computational process. We have catalogued and characterized 54,462 individual CNVs, 77.8% of which were identified in multiple unrelated individuals. These nonunique CNVs mapped to 3272 distinct regions of genomic variation spanning 5.9% of the genome; 51.5% of these were previously unreported, and >85% are rare. Our annotation and analysis confirmed and extended previously reported correlations between CNVs and several genomic features such as repetitive DNA elements, segmental duplications, and genes. We demonstrate the utility of this data set in distinguishing CNVs with pathologic significance from normal variants. Together, this analysis and annotation provides a useful resource to assist with the assessment of CNVs in the contexts of human variation, disease susceptibility, and clinical molecular diagnostics.
+
+-Adult
+-African Continental Ancestry Group (-genetics)
+-Child
+-Chromosome Mapping (+methods)
++Databases, Genetic
+-European Continental Ancestry Group (-genetics)
+-Gene Dosage (+genetics)
+-Gene Duplication
++Genetic Variation
+-Genome, Human (+genetics)
+-Humans
+-Oligonucleotide Array Sequence Analysis
+-Polymorphism, Single Nucleotide (+genetics)
+-Research (-methods)
+
+pii:gr.083501.108
+doi:10.1101/gr.083501.108
+pubmed:19592680
+pmc:PMC2752118
+

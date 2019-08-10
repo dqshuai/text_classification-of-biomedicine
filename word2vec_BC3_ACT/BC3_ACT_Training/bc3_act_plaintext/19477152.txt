@@ -1,0 +1,29 @@
+Neuron
+
+Functional and evolutionary insights into human brain development through global transcriptome analysis.
+
+MB Johnson, YI Kawasawa, CE Mason, Z Krsnik, G Coppola, D Bogdanović, DH Geschwind, SM Mane, MW State, N Sestan
+
+Our understanding of the evolution, formation, and pathological disruption of human brain circuits is impeded by a lack of comprehensive data on the developing brain transcriptome. A whole-genome, exon-level expression analysis of 13 regions from left and right sides of the mid-fetal human brain revealed that 76% of genes are expressed, and 44% of these are differentially regulated. These data reveal a large number of specific gene expression and alternative splicing patterns, as well as coexpression networks, associated with distinct regions and neurodevelopmental processes. Of particular relevance to cognitive specializations, we have characterized the transcriptional landscapes of prefrontal cortex and perisylvian speech and language areas, which exhibit a population-level global expression symmetry. We show that differentially expressed genes are more frequently associated with human-specific evolution of putative cis-regulatory elements. These data provide a wealth of biological insights into the complex transcriptional and molecular underpinnings of human brain development and evolution.
+
+-Alternative Splicing (-genetics)
+-Brain (+anatomy & histology; +physiology)
+-Embryonic Development (-genetics; +physiology)
++Evolution, Molecular
+-Fetus
+-Functional Laterality (-genetics)
+-Gene Expression Profiling
+-Gene Expression Regulation, Developmental (+physiology)
+-Humans
+-Models, Biological
+-Neural Pathways (-embryology; -physiopathology)
+-Oligonucleotide Array Sequence Analysis
+-Postmortem Changes
+-Transcription Factors (+genetics; -metabolism)
+
+pii:S0896-6273(09)00286-4
+doi:10.1016/j.neuron.2009.03.027
+pubmed:19477152
+mid:NIHMS115001
+pmc:PMC2739738
+

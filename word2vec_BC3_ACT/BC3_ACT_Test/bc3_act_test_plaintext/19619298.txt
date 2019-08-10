@@ -1,0 +1,28 @@
+BMC Cancer
+
+Low expression of a few genes indicates good prognosis in estrogen receptor positive breast cancer.
+
+S Buechler
+
+BACKGROUND: Many breast cancer patients remain free of distant metastasis even without adjuvant chemotherapy. While standard histopathological tests fail to identify these good prognosis patients with adequate precision, analyses of gene expression patterns in primary tumors have resulted in more successful diagnostic tests. These tests use continuous measurements of the mRNA concentrations of numerous genes to determine a risk of metastasis in lymph node negative breast cancer patients with other clinical traits. METHODS: A survival model is constructed from genes that are both connected with relapse and have expression patterns that define distinct subtypes, suggestive of different cellular states. This in silico study uses publicly available microarray databases generated with Affymetrix GeneChip technology. The genes in our model, as represented by array probes, have distinctive distributions in a patient cohort, consisting of a large normal component of low expression values; and a long right tail of high expression values. The cutoff between low and high expression of a probe is determined from the distribution using the theory of mixture models. The good prognosis group in our model consists of the samples in the low expression component of multiple genes. RESULTS: Here, we define a novel test for risk of metastasis in estrogen receptor positive (ER+) breast cancer patients, using four probes that determine distinct subtypes. The good prognosis group in this test, denoted AP4-, consists of the samples with low expression of each of the four probes. Two probes target MKI67, antigen identified by monoclonal antibody Ki-67, one targets CDC6, cell division cycle 6 homolog (S. cerevisiae), and a fourth targets SPAG5, sperm associated antigen 5. The long-term metastasis-free survival probability for samples in AP4- is sufficiently high to render chemotherapy of questionable benefit. CONCLUSION: A breast cancer subtype defined by low expression of a few genes, using a minimum of statistical modeling, has significant prognostic power. This test is of potential clinical benefit in deciding a course of treatment for early stage breast cancer patients.
+
+-Breast Neoplasms (-diagnosis; +genetics; +metabolism)
+-Cohort Studies
+-Disease Progression
+-Disease-Free Survival
++Gene Expression Regulation, Neoplastic
+-Humans
+-Models, Statistical
+-Monte Carlo Method
+-Neoplasm Metastasis
+-Oligonucleotide Array Sequence Analysis
+-Probability
+-Prognosis
+-Receptors, Estrogen (+biosynthesis; +genetics)
+-Recurrence
+
+pii:1471-2407-9-243
+doi:10.1186/1471-2407-9-243
+pubmed:19619298
+pmc:PMC2718903
+

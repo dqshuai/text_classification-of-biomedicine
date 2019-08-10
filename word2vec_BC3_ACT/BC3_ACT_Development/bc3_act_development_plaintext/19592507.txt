@@ -1,0 +1,30 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Chimeric transcript discovery by paired-end transcriptome sequencing.
+
+CA Maher, N Palanisamy, JC Brenner, X Cao, S Kalyana-Sundaram, S Luo, I Khrebtukova, TR Barrette, C Grasso, J Yu, RJ Lonigro, G Schroth, C Kumar-Sinha, AM Chinnaiyan
+
+Recurrent gene fusions are a prevalent class of mutations arising from the juxtaposition of 2 distinct regions, which can generate novel functional transcripts that could serve as valuable therapeutic targets in cancer. Therefore, we aim to establish a sensitive, high-throughput methodology to comprehensively catalog functional gene fusions in cancer by evaluating a paired-end transcriptome sequencing strategy. Not only did a paired-end approach provide a greater dynamic range in comparison with single read based approaches, but it clearly distinguished the high-level "driving" gene fusions, such as BCR-ABL1 and TMPRSS2-ERG, from potential lower level "passenger" gene fusions. Also, the comprehensiveness of a paired-end approach enabled the discovery of 12 previously undescribed gene fusions in 4 commonly used cell lines that eluded previous approaches. Using the paired-end transcriptome sequencing approach, we observed read-through mRNA chimeras, tissue-type restricted chimeras, converging transcripts, diverging transcripts, and overlapping mRNA transcripts. Last, we successfully used paired-end transcriptome sequencing to detect previously undescribed ETS gene fusions in prostate tumors. Together, this study establishes a highly specific and sensitive approach for accurately and comprehensively cataloguing chimeras within a sample using paired-end transcriptome sequencing.
+
+-Base Sequence
+-Cell Line, Tumor
+-Fusion Proteins, bcr-abl (-genetics)
+-Gene Expression Profiling (+methods)
+-Gene Expression Regulation, Neoplastic
+-Humans
+-K562 Cells
+-Male
+-Molecular Sequence Data
+-Neoplasms (+genetics; -pathology)
+-Oncogene Proteins, Fusion (+genetics)
+-Prostatic Neoplasms (-genetics; -pathology)
+-RNA, Messenger (-genetics; -metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Sequence Analysis, DNA
++Transcription, Genetic
+
+pii:0904720106
+doi:10.1073/pnas.0904720106
+pubmed:19592507
+pmc:PMC2708976
+

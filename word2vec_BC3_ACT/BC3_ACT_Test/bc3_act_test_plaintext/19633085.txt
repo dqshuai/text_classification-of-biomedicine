@@ -1,0 +1,23 @@
+J. Bacteriol.
+
+Processing and stability of inducibly expressed rpsO mRNA derivatives in Bacillus subtilis.
+
+S Yao, DH Bechhofer
+
+The Bacillus subtilis rpsO gene specifies a small (388-nucleotide), monocistronic mRNA that encodes ribosomal protein S15. We showed earlier that rpsO mRNA decay intermediates accumulated to a high level in a strain lacking polynucleotide phosphorylase. Here, we used inducibly expressed derivatives of rpsO, encoding smaller RNAs that had the complex 5' region deleted, to study aspects of mRNA processing in B. subtilis. An IPTG (isopropyl-beta-d-thiogalactopyranoside)-inducible rpsO transcript that contained lac sequences at the 5' end, called lac-rpsO RNA, was shown to undergo processing to result in an RNA that was 24 nucleotides shorter than full length. Such processing was dependent on the presence of an accessible 5' terminus; a lac-rpsO RNA that contained a strong stem-loop at the 5' end was not processed and was extremely stable. Interestingly, this stability depended also on ribosome binding to a nearby Shine-Dalgarno sequence but was independent of downstream translation. Either RNase J1 or RNase J2 was capable of processing lac-rpsO RNA, demonstrating for the first time a particular in vivo processing event that could be catalyzed by both enzymes. Decay intermediates were detected in the pnpA strain only for a lac-rpsO RNA that was untranslated. Analysis of processing of an untranslated lac-rpsO RNA in the pnpA strain shortly after induction of transcription suggested that endonuclease cleavage at 3'-proximal sites was an early step in turnover of mRNA.
+
+-Bacillus subtilis (-genetics; +metabolism)
++Gene Expression Regulation, Bacterial
+-Isopropyl Thiogalactoside (-pharmacology)
+-Mutation
++RNA Stability
+-RNA, Bacterial (-genetics; -metabolism)
+-RNA, Messenger (-genetics; +metabolism)
+-Ribonucleases (-genetics; +metabolism)
+-Ribosomal Proteins (-genetics; +metabolism)
+
+pii:JB.00740-09
+doi:10.1128/JB.00740-09
+pubmed:19633085
+pmc:PMC2737947
+

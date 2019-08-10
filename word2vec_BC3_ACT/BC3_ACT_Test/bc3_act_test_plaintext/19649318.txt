@@ -1,0 +1,29 @@
+PLoS Pathog.
+
+Comprehensive identification of Salmonella enterica serovar typhimurium genes required for infection of BALB/c mice.
+
+RR Chaudhuri, SE Peters, SJ Pleasance, H Northen, C Willers, GK Paterson, DB Cone, AG Allen, PJ Owen, G Shalom, DJ Stekel, IG Charles, DJ Maskell
+
+Genes required for infection of mice by Salmonella Typhimurium can be identified by the interrogation of random transposon mutant libraries for mutants that cannot survive in vivo. Inactivation of such genes produces attenuated S. Typhimurium strains that have potential for use as live attenuated vaccines. A quantitative screen, Transposon Mediated Differential Hybridisation (TMDH), has been developed that identifies those members of a large library of transposon mutants that are attenuated. TMDH employs custom transposons with outward-facing T7 and SP6 promoters. Fluorescently-labelled transcripts from the promoters are hybridised to whole-genome tiling microarrays, to allow the position of the transposon insertions to be determined. Comparison of microarray data from the mutant library grown in vitro (input) with equivalent data produced after passage of the library through mice (output) enables an attenuation score to be determined for each transposon mutant. These scores are significantly correlated with bacterial counts obtained during infection of mice using mutants with individual defined deletions of the same genes. Defined deletion mutants of several novel targets identified in the TMDH screen are effective live vaccines.
+
+-Animals
+-Cloning, Molecular
++DNA Transposable Elements
+-Databases, Genetic
+-Disease Models, Animal
+-Gene Library
+-Genes, Bacterial
+-Mice
+-Mice, Inbred BALB C
+-Nucleic Acid Hybridization
+-Oligonucleotide Array Sequence Analysis
+-Reproducibility of Results
+-Salmonella Infections, Animal (+microbiology)
+-Salmonella enterica (+genetics; -pathogenicity)
+-Sequence Deletion
+-Virulence (-genetics)
+
+doi:10.1371/journal.ppat.1000529
+pubmed:19649318
+pmc:PMC2712085
+

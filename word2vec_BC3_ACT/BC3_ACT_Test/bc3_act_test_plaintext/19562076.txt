@@ -1,0 +1,26 @@
+PLoS ONE
+
+Gene order phylogeny and the evolution of methanogens.
+
+H Luo, Z Sun, W Arndt, J Shi, R Friedman, J Tang
+
+Methanogens are a phylogenetically diverse group belonging to Euryarchaeota. Previously, phylogenetic approaches using large datasets revealed that methanogens can be grouped into two classes, "Class I" and "Class II". However, some deep relationships were not resolved. For instance, the monophyly of "Class I" methanogens, which consist of Methanopyrales, Methanobacteriales and Methanococcales, is disputable due to weak statistical support. In this study, we use MSOAR to identify common orthologous genes from eight methanogen species and a Thermococcale species (outgroup), and apply GRAPPA and FastME to compute distance-based gene order phylogeny. The gene order phylogeny supports two classes of methanogens, but it differs from the original classification of methanogens by placing Methanopyrales and Methanobacteriales together with Methanosarcinales in Class II rather than with Methanococcales. This study suggests a new classification scheme for methanogens. In addition, it indicates that gene order phylogeny can complement traditional sequence-based methods in addressing taxonomic questions for deep relationships.
+
+-Archaeal Proteins (+genetics)
+-Biodiversity
+-Computational Biology (-methods)
+-DNA, Archaeal (-genetics)
+-Evolution, Molecular
++Genes, Archaeal
+-Genomics
+-Methanobacteriales (+genetics)
+-Methanosarcinales (+genetics)
+-Models, Biological
+-Models, Genetic
+-Phylogeny
+-Software
+
+doi:10.1371/journal.pone.0006069
+pubmed:19562076
+pmc:PMC2699033
+

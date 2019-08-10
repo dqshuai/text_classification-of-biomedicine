@@ -1,0 +1,28 @@
+Oncogene
+
+Disruption of the Pdcd4 tumor suppressor gene in chicken DT40 cells reveals its role in the DNA-damage response.
+
+P Singh, R Marikkannu, N Bitomsky, KH Klempnauer
+
+The programmed cell death gene 4 (Pdcd4) gene has been implicated as a new tumor suppressor gene in the development of several types of human cancer. Pdcd4 interacts with the translation initiation factor, eIF4A, and is thought to act as a translation inhibitor. Here, we have used the chicken B-cell line DT40 to disrupt the Pdcd4 gene by homologous recombination. Our study shows that cells lacking a functional Pdcd4 gene are viable and have no obvious defects when cultivated under normal growth conditions. However, Pdcd4 knockout cells show an increased sensitivity to agents that cause DNA damage, such as UV light, etoposide or ethyl-methanesulfonate. In summary, our findings show that Pdcd4 has an important function in the cellular response to DNA damage. Low Pdcd4 expression, which is frequently observed in tumor cells, might therefore contribute to tumorigenesis by disturbing the cellular DNA-damage response.
+
+-Animals
+-Apoptosis Regulatory Proteins (+deficiency; -genetics; +metabolism)
+-B-Lymphocytes (-cytology; -drug effects; +metabolism; -radiation effects)
+-Cell Line
+-Cell Proliferation
+-Chickens
++DNA Damage
+-Ethyl Methanesulfonate (-pharmacology)
+-Etoposide (-pharmacology)
+-Gene Knockdown Techniques
+-Gene Knockout Techniques
+-Humans
+-RNA-Binding Proteins (+genetics; +metabolism)
++Recombination, Genetic
+-Ultraviolet Rays
+
+pii:onc2009239
+doi:10.1038/onc.2009.239
+pubmed:19684621
+

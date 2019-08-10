@@ -1,0 +1,27 @@
+Nucleic Acids Res.
+
+Characterization of homologs of the small RNA SgrS reveals diversity in function.
+
+CS Wadler, CK Vanderpool
+
+SgrS is a small RNA (sRNA) that requires the RNA chaperone Hfq for its function. SgrS is a unique dual-function sRNA with a base pairing function that regulates mRNA targets and an mRNA function that allows production of the 43-amino-acid protein SgrT. SgrS is expressed when non-metabolizable sugars accumulate intracellularly (glucose-phosphate stress) and is required to allow Escherichia coli cells to recover from stress. In this study, homologs of SgrS were used to complement an E. coli sgrS mutant in order elucidate the physiological relevance of differences among homologs. These analyses revealed that the base pairing function of E. coli and Yersinia pestis SgrS homologs is critical for rescue from glucose-phosphate stress. In contrast, base pairing-deficient SgrS homologs from Salmonella typhimurium, Erwinia carotovora and Klebsiella pneumoniae rescue E. coli cells from stress despite their failure to regulate target mRNAs. Compared with E. coli SgrS, S. typhimurium SgrS produces more SgrT and this rescues cell growth even when the base pairing function is inactivated. Genetic evidence suggests that a secondary structure in the E. coli SgrS 5' region inhibits sgrT translation. This structure is not present in S. typhimurium SgrS, which explains its higher level of SgrT production.
+
+-Alleles
+-Base Sequence
+-Escherichia coli (+genetics)
+-Escherichia coli Proteins (+biosynthesis; -genetics; -physiology)
+-Genetic Complementation Test
+-Mutation
+-Nucleic Acid Conformation
+-Phosphoenolpyruvate Sugar Phosphotransferase System (-genetics)
+-Protein Biosynthesis
+-RNA, Bacterial (-chemistry; -genetics; +physiology)
+-RNA, Messenger (-chemistry)
+-Salmonella (-genetics)
+-Sequence Alignment
+
+pii:gkp591
+doi:10.1093/nar/gkp591
+pubmed:19620214
+pmc:PMC2760806
+

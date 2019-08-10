@@ -1,0 +1,39 @@
+Plant Cell
+
+Functional analysis of the epidermal-specific MYB genes CAPRICE and WEREWOLF in Arabidopsis.
+
+R Tominaga, M Iwata, K Okada, T Wada
+
+Epidermis cell differentiation in Arabidopsis thaliana is a model system for understanding the developmental end state of plant cells. Two types of MYB transcription factors, R2R3-MYB and R3-MYB, are involved in cell fate determination. To examine the molecular basis of this process, we analyzed the functional relationship of the R2R3-type MYB gene WEREWOLF (WER) and the R3-type MYB gene CAPRICE (CPC). Chimeric constructs made from the R3 MYB regions of WER and CPC used in reciprocal complementation experiments showed that the CPC R3 region cannot functionally substitute for the WER R3 region in the differentiation of hairless cells. However, WER R3 can substantially substitute for CPC R3. There are no differences in yeast interaction assays of WER or WER chimera proteins with GLABRA3 (GL3) or ENHANCER OF GLABRA3 (EGL3). CPC and CPC chimera proteins also have similar activity in preventing GL3 WER and EGL3 WER interactions. Furthermore, we showed by gel mobility shift assays that WER chimera proteins do not bind to the GL2 promoter region. However, a CPC chimera protein, which harbors the WER R3 motif, still binds to the GL2 promoter region.
+
+-Amino Acid Sequence
+-Arabidopsis (+genetics; +metabolism)
+-Arabidopsis Proteins (-chemistry; +metabolism)
+-Basic Helix-Loop-Helix Transcription Factors (-metabolism)
+-Binding Sites
+-DNA, Plant (-metabolism)
+-DNA-Binding Proteins (-chemistry; +metabolism)
+-Evolution, Molecular
++Genes, Plant
++Genes, myb
+-Genetic Complementation Test
+-Homeodomain Proteins (-metabolism)
+-Models, Genetic
+-Molecular Sequence Data
+-Mutation (-genetics)
+-Phenotype
+-Phylogeny
+-Plant Epidermis (-cytology; +metabolism)
+-Plant Roots (-cytology; -metabolism)
+-Plants, Genetically Modified
+-Promoter Regions, Genetic (-genetics)
+-Protein Binding
+-Protein Structure, Tertiary
+-Proto-Oncogene Proteins c-myb (-chemistry; +metabolism)
+-Recombinant Fusion Proteins (-metabolism)
+
+pii:tpc.106.045732
+doi:10.1105/tpc.106.045732
+pubmed:17644729
+pmc:PMC1955706
+

@@ -1,0 +1,33 @@
+Genome Res.
+
+Singapore Genome Variation Project: a haplotype map of three Southeast Asian populations.
+
+YY Teo, X Sim, RT Ong, AK Tan, J Chen, E Tantoso, KS Small, CS Ku, EJ Lee, M Seielstad, KS Chia
+
+The Singapore Genome Variation Project (SGVP) provides a publicly available resource of 1.6 million single nucleotide polymorphisms (SNPs) genotyped in 268 individuals from the Chinese, Malay, and Indian population groups in Southeast Asia. This online database catalogs information and summaries on genotype and phased haplotype data, including allele frequencies, assessment of linkage disequilibrium (LD), and recombination rates in a format similar to the International HapMap Project. Here, we introduce this resource and describe the analysis of human genomic variation upon agglomerating data from the HapMap and the Human Genome Diversity Project, providing useful insights into the population structure of the three major population groups in Asia. In addition, this resource also surveyed across the genome for variation in regional patterns of LD between the HapMap and SGVP populations, and for signatures of positive natural selection using two well-established metrics: iHS and XP-EHH. The raw and processed genetic data, together with all population genetic summaries, are publicly available for download and browsing through a web browser modeled with the Generic Genome Browser.
+
+-China
+-Chromosome Mapping
++Databases, Genetic
+-Gene Frequency
+-Genetic Variation (+genetics)
+-Genetics, Population (-methods)
+-Genome, Human (+genetics)
+-Genome-Wide Association Study (-methods)
+-Genomics (-methods)
+-Genotype
+-Haplotypes (+genetics)
+-Humans
+-India
+-Linkage Disequilibrium
+-Malaysia
+-Polymorphism, Single Nucleotide
+-Principal Component Analysis
+-Selection, Genetic
+-Singapore
+
+pii:gr.095000.109
+doi:10.1101/gr.095000.109
+pubmed:19700652
+pmc:PMC2775604
+

@@ -1,0 +1,23 @@
+Plant Physiol.
+
+LEUNIG_HOMOLOG and LEUNIG perform partially redundant functions during Arabidopsis embryo and floral development.
+
+J Sitaraman, M Bui, Z Liu
+
+Transcription corepressors play important roles in animal and plant development. In Arabidopsis (Arabidopsis thaliana), LEUNIG (LUG) and LEUNIG_HOMOLOG (LUH) encode two highly homologous proteins that are similar to the animal and fungal Gro/Tup1-type corepressors. LUG was previously shown to form a putative corepressor complex with another protein, SEUSS (SEU), and to repress the transcription of AGAMOUS in floral organ identity specification. However, the function of LUH is completely unknown. Here, we show that single luh loss-of-function mutants develop normal flowers, but lug; luh double mutants are embryo lethal, uncovering a previously unknown function of LUG and LUH in embryonic development. In addition, luh/+ enhances the floral phenotype of lug, revealing a minor role of LUH in flower development. Functional diversification between LUH and LUG is evidenced by the inability of 35S::LUH overexpression to rescue lug mutants and by the opposite expression trends of LUG and LUH in response to biotic and abiotic stresses. The luh-1 mutation does not enhance the defect of seu in flower development, but LUH could directly interact with SEU in yeast. We propose a model that explains the complex relationships among LUH, LUG, and SEU. As most eukaryotes have undergone at least one round of whole-genome duplication during evolution, gene duplication and functional diversification are important issues to consider in uncovering gene function. Our study provides important insights into the complexity in the relationship between two highly homologous paralogous genes.
+
+-Arabidopsis (-embryology; +genetics; -growth & development)
+-Arabidopsis Proteins (-genetics; +physiology)
+-Base Sequence
+-DNA Primers
+-Genes, Lethal
+-Genes, Plant
+-Seeds (+growth & development)
+-Transcription Factors (-genetics; +physiology)
+-Two-Hybrid System Techniques
+
+pii:pp.108.115923
+doi:10.1104/pp.108.115923
+pubmed:18390806
+pmc:PMC2409011
+

@@ -1,0 +1,28 @@
+Mol. Cell
+
+A quorum-sensing antagonist targets both membrane-bound and cytoplasmic receptors and controls bacterial pathogenicity.
+
+LR Swem, DL Swem, CT O'Loughlin, R Gatmaitan, B Zhao, SM Ulrich, BL Bassler
+
+Quorum sensing is a process of bacterial communication involving production and detection of secreted molecules called autoinducers. Gram-negative bacteria use acyl-homoserine lactone (AHL) autoinducers, which are detected by one of two receptor types. First, cytoplasmic LuxR-type receptors bind accumulated intracellular AHLs. AHL-LuxR complexes bind DNA and alter gene expression. Second, membrane-bound LuxN-type receptors bind accumulated extracellular AHLs. AHL-LuxN complexes relay information internally by phosphorylation cascades that direct gene expression changes. Here, we show that a small molecule, previously identified as an antagonist of LuxN-type receptors, is also a potent antagonist of the LuxR family, despite differences in receptor structure, localization, AHL specificity, and signaling mechanism. Derivatives were synthesized and optimized for potency, and in each case, we characterized the mode of action of antagonism. The most potent antagonist protects Caenorhabditis elegans from quorum-sensing-mediated killing by Chromobacterium violaceum, validating the notion that targeting quorum sensing has potential for antimicrobial drug development.
+
+-Animals
+-Anti-Bacterial Agents (-chemical synthesis; -chemistry; +pharmacology)
+-Bacterial Proteins (-antagonists & inhibitors; +metabolism)
+-Caenorhabditis elegans (+microbiology)
+-Chromobacterium (+drug effects; -pathogenicity; -physiology)
+-Escherichia coli (-genetics)
+-Inhibitory Concentration 50
+-Microbial Sensitivity Tests
+-Quorum Sensing (+drug effects)
+-Receptors, Cell Surface (+metabolism)
+-Receptors, Cytoplasmic and Nuclear (+metabolism)
+-Repressor Proteins (+antagonists & inhibitors)
+-Trans-Activators (+antagonists & inhibitors)
+
+pii:S1097-2765(09)00469-9
+doi:10.1016/j.molcel.2009.05.029
+pubmed:19647512
+mid:NIHMS137204
+pmc:PMC2741501
+

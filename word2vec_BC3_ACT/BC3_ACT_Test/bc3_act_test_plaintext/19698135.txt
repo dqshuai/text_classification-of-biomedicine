@@ -1,0 +1,26 @@
+BMC Genomics
+
+Identification of novel endogenous antisense transcripts by DNA microarray analysis targeting complementary strand of annotated genes.
+
+K Numata, Y Osada, Y Okada, R Saito, N Hiraiwa, H Nakaoka, N Yamamoto, K Watanabe, K Okubo, C Kohama, A Kanai, K Abe, H Kiyosawa
+
+BACKGROUND: Recent transcriptomic analyses in mammals have uncovered the widespread occurrence of endogenous antisense transcripts, termed natural antisense transcripts (NATs). NATs are transcribed from the opposite strand of the gene locus and are thought to control sense gene expression, but the mechanism of such regulation is as yet unknown. Although several thousand potential sense-antisense pairs have been identified in mammals, examples of functionally characterized NATs remain limited. To identify NAT candidates suitable for further functional analyses, we performed DNA microarray-based NAT screening using mouse adult normal tissues and mammary tumors to target not only the sense orientation but also the complementary strand of the annotated genes. RESULTS: First, we designed microarray probes to target the complementary strand of genes for which an antisense counterpart had been identified only in human public cDNA sources, but not in the mouse. We observed a prominent expression signal from 66.1% of 635 target genes, and 58 genes of these showed tissue-specific expression. Expression analyses of selected examples (Acaa1b and Aard) confirmed their dynamic transcription in vivo. Although interspecies conservation of NAT expression was previously investigated by the presence of cDNA sources in both species, our results suggest that there are more examples of human-mouse conserved NATs that could not be identified by cDNA sources. We also designed probes to target the complementary strand of well-characterized genes, including oncogenes, and compared the expression of these genes between mammary cancerous tissues and non-pathological tissues. We found that antisense expression of 95 genes of 404 well-annotated genes was markedly altered in tumor tissue compared with that in normal tissue and that 19 of these genes also exhibited changes in sense gene expression. These results highlight the importance of NAT expression in the regulation of cellular events and in pathological conditions. CONCLUSION: Our microarray platform targeting the complementary strand of annotated genes successfully identified novel NATs that could not be identified by publically available cDNA data, and as such could not be detected by the usual "sense-targeting" microarray approach. Differentially expressed NATs monitored by this platform may provide candidates for investigations of gene function. An advantage of our microarray platform is that it can be applied to any genes and target samples of interest.
+
+-Animals
+-Antisense Elements (Genetics) (+genetics)
+-DNA, Complementary (+genetics)
+-Female
+-Humans
+-Male
+-Mammary Neoplasms, Animal (-genetics)
+-Mice
+-Mice, Inbred C57BL
+-NIH 3T3 Cells
+-Oligonucleotide Array Sequence Analysis (+methods)
+-RNA, Neoplasm (-genetics)
+
+pii:1471-2164-10-392
+doi:10.1186/1471-2164-10-392
+pubmed:19698135
+pmc:PMC2741491
+

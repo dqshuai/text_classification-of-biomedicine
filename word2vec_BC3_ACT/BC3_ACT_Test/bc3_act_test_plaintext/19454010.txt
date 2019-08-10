@@ -1,0 +1,28 @@
+Retrovirology
+
+In vitro nuclear interactome of the HIV-1 Tat protein.
+
+VW Gautier, L Gu, N O'Donoghue, S Pennington, N Sheehy, WW Hall
+
+BACKGROUND: One facet of the complexity underlying the biology of HIV-1 resides not only in its limited number of viral proteins, but in the extensive repertoire of cellular proteins they interact with and their higher-order assembly. HIV-1 encodes the regulatory protein Tat (86-101aa), which is essential for HIV-1 replication and primarily orchestrates HIV-1 provirus transcriptional regulation. Previous studies have demonstrated that Tat function is highly dependent on specific interactions with a range of cellular proteins. However they can only partially account for the intricate molecular mechanisms underlying the dynamics of proviral gene expression. To obtain a comprehensive nuclear interaction map of Tat in T-cells, we have designed a proteomic strategy based on affinity chromatography coupled with mass spectrometry. RESULTS: Our approach resulted in the identification of a total of 183 candidates as Tat nuclear partners, 90% of which have not been previously characterised. Subsequently we applied in silico analysis, to validate and characterise our dataset which revealed that the Tat nuclear interactome exhibits unique signature(s). First, motif composition analysis highlighted that our dataset is enriched for domains mediating protein, RNA and DNA interactions, and helicase and ATPase activities. Secondly, functional classification and network reconstruction clearly depicted Tat as a polyvalent protein adaptor and positioned Tat at the nexus of a densely interconnected interaction network involved in a range of biological processes which included gene expression regulation, RNA biogenesis, chromatin structure, chromosome organisation, DNA replication and nuclear architecture. CONCLUSION: We have completed the in vitro Tat nuclear interactome and have highlighted its modular network properties and particularly those involved in the coordination of gene expression by Tat. Ultimately, the highly specialised set of molecular interactions identified will provide a framework to further advance our understanding of the mechanisms of HIV-1 proviral gene silencing and activation.
+
+-Amino Acid Motifs
+-Chromatography, Affinity
+-Gene Expression Regulation, Viral
+-Gene Regulatory Networks
+-HIV Infections (+metabolism; -virology)
+-HIV-1 (+physiology)
++Host-Pathogen Interactions
+-Humans
+-Jurkat Cells
+-Mass Spectrometry
+-Nuclear Proteins (-chemistry; +metabolism)
+-RNA Processing, Post-Transcriptional
+-RNA, Viral (-metabolism)
+-tat Gene Products, Human Immunodeficiency Virus (-chemistry; +metabolism)
+
+pii:1742-4690-6-47
+doi:10.1186/1742-4690-6-47
+pubmed:19454010
+pmc:PMC2702331
+

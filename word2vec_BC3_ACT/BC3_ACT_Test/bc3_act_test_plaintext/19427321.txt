@@ -1,0 +1,25 @@
+J. Mol. Biol.
+
+pH-dependent conformational changes in bacterial Hsp90 reveal a Grp94-like conformation at pH 6 that is highly active in suppression of citrate synthase aggregation.
+
+KA Krukenberg, DR Southworth, TO Street, DA Agard
+
+The molecular chaperone Hsp90 depends upon large conformational rearrangements for its function. One driving force for these rearrangements is the intrinsic ATPase activity of Hsp90, as seen with other chaperones. However, unlike other chaperones, structural and kinetic studies have shown that the ATPase cycle of Hsp90 is not conformationally deterministic. That is, rather than dictating the conformational state, ATP binding and hydrolysis shift the equilibrium between a preexisting set of conformational states in an organism-dependent manner. While many conformations of Hsp90 have been described, little is known about how they relate to chaperone function. In this study, we show that the conformational equilibrium of the bacterial Hsp90, HtpG, can be shifted with pH. Using small-angle X-ray scattering, we identify a two-state pH-dependent conformational equilibrium for apo HtpG. Our structural modeling reveals that this equilibrium is observed between the previously observed extended state and a second state that is strikingly similar to the recently solved Grp94 crystal structure. In the presence of nonhydrolyzable 5'-adenylyl-beta,gamma-imidodiphosphate, a third state, which is identical with the solved AMPPNP-bound structure from yeast Hsp90, is populated. Electron microscopy confirmed the observed conformational equilibria. We also identify key histidine residues that control this pH-dependent equilibrium; using mutagenesis, we successfully modulate the conformational equilibrium at neutral pH. Using these mutations, we show that the Grp94-like state provides stronger aggregation protection compared to the extended apo conformation in the context of a citrate synthase aggregation assay. These studies provide a more detailed view of HtpG's conformational dynamics and provide the first linkage between a specific conformation and chaperone function.
+
+-Allosteric Regulation
+-Amino Acid Substitution (-genetics)
+-Bacterial Proteins (+chemistry; -genetics; +metabolism; -ultrastructure)
+-Citrate (si)-Synthase (+metabolism)
+-HSP90 Heat-Shock Proteins (+chemistry; -genetics; +metabolism; -ultrastructure)
+-Hydrogen-Ion Concentration
+-Microscopy, Electron, Transmission
+-Models, Molecular
+-Mutagenesis, Site-Directed
+-Protein Conformation
+
+pii:S0022-2836(09)00547-6
+doi:10.1016/j.jmb.2009.04.080
+pubmed:19427321
+mid:HHMIMS129199
+pmc:PMC2735500
+

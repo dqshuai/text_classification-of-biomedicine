@@ -1,0 +1,31 @@
+J. Mol. Biol.
+
+Molecular geometry of CsrA (RsmA) binding to RNA and its implications for regulated expression.
+
+J Mercante, AN Edwards, AK Dubey, P Babitzke, T Romeo
+
+The global regulatory protein CsrA binds to the 5'-untranslated leader of target transcripts and alters their translation and/or stability. CsrA is a symmetrical homodimer containing two identical RNA-binding surfaces. Gel shift assays with model RNA substrates now show that CsrA can bind simultaneously at two target sites within a transcript (bridging or dual-site binding). An intersite distance of approximately 18 nucleotides (nt) was optimal, although bridging occurred with an intersite distance of 10 to >or=63 nt. The close 10-nt spacing reduced the stability of dual-site binding, as competition for one site by a second CsrA dimer readily occurred. Both RNA-binding surfaces of a single CsrA protein were essential for efficient in vitro repression of a glgC'-'lacZ translational fusion that contains four CsrA target sites within the untranslated leader. Heterodimeric CsrA (HD-CsrA) containing a single R44A replacement, which was defective for binding at its mutant surface but bound RNA normally at its wild-type (WT) surface, was approximately 14-fold less effective at repression than homodimeric WT-CsrA. Furthermore, deletion of a CsrA target site of glgC that lies upstream from the Shine-Dalgarno sequence did not affect regulation by HD-CsrA but decreased regulation by WT-CsrA, confirming a regulatory role of dual-site binding. Finally, we propose a mechanism whereby a globular ribonucleoprotein complex is formed between CsrA and its noncoding RNA antagonist, CsrB. Because many target sites of CsrB are located closer together than is optimal for bridging, binding to nonadjacent sites should be energetically favored, causing multiple CsrA dimers to tether CsrB into the observed globular form rather than an extended CsrA-CsrB complex.
+
+-5' Untranslated Regions
+-Amino Acid Substitution (-genetics)
+-Artificial Gene Fusion
+-Binding Sites
+-Dimerization
+-Electrophoretic Mobility Shift Assay
+-Escherichia coli Proteins (-genetics; +metabolism)
+-Genes, Reporter
+-Models, Biological
+-Models, Molecular
+-Mutagenesis, Site-Directed
+-Protein Binding
+-RNA, Bacterial (+metabolism)
+-RNA-Binding Proteins (-genetics; +metabolism)
+-Repressor Proteins (-genetics; +metabolism)
+-beta-Galactosidase (-genetics; -metabolism)
+
+pii:S0022-2836(09)00873-0
+doi:10.1016/j.jmb.2009.07.034
+pubmed:19619561
+mid:NIHMS133430
+pmc:PMC2735826
+

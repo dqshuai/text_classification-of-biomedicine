@@ -1,0 +1,27 @@
+Genetics
+
+Multilocus patterns of nucleotide diversity and divergence reveal positive selection at candidate genes related to cold hardiness in coastal Douglas Fir (Pseudotsuga menziesii var. menziesii).
+
+AJ Eckert, JL Wegrzyn, B Pande, KD Jermstad, JM Lee, JD Liechty, BR Tearse, KV Krutovsky, DB Neale
+
+Forest trees exhibit remarkable adaptations to their environments. The genetic basis for phenotypic adaptation to climatic gradients has been established through a long history of common garden, provenance, and genecological studies. The identities of genes underlying these traits, however, have remained elusive and thus so have the patterns of adaptive molecular diversity in forest tree genomes. Here, we report an analysis of diversity and divergence for a set of 121 cold-hardiness candidate genes in coastal Douglas fir (Pseudotsuga menziesii var. menziesii). Application of several different tests for neutrality, including those that incorporated demographic models, revealed signatures of selection consistent with selective sweeps at three to eight loci, depending upon the severity of a bottleneck event and the method used to detect selection. Given the high levels of recombination, these candidate genes are likely to be closely linked to the target of selection if not the genes themselves. Putative homologs in Arabidopsis act primarily to stabilize the plasma membrane and protect against denaturation of proteins at freezing temperatures. These results indicate that surveys of nucleotide diversity and divergence, when framed within the context of further association mapping experiments, will come full circle with respect to their utility in the dissection of complex phenotypic traits into their genetic components.
+
+-Acclimatization (+genetics)
+-Chromosome Mapping
++Cold Temperature
+-Genes, Plant
+-Genetic Drift
++Genetic Loci (-physiology)
+-Genome, Plant
+-Geography
+-Linkage Disequilibrium
+-Polymorphism, Restriction Fragment Length
+-Polymorphism, Single Nucleotide (+genetics)
+-Pseudotsuga (+genetics; -physiology)
++Selection, Genetic (-genetics)
+
+pii:genetics.109.103895
+doi:10.1534/genetics.109.103895
+pubmed:19596906
+pmc:PMC2746152
+

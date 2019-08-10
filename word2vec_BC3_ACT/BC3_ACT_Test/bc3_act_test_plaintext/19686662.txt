@@ -1,0 +1,23 @@
+Biophys. J.
+
+Sequence dependencies of DNA deformability and hydration in the minor groove.
+
+Y Yonetani, H Kono
+
+DNA deformability and hydration are both sequence-dependent and are essential in specific DNA sequence recognition by proteins. However, the relationship between the two is not well understood. Here, systematic molecular dynamics simulations of 136 DNA sequences that differ from each other in their central tetramer revealed that sequence dependence of hydration is clearly correlated with that of deformability. We show that this correlation can be illustrated by four typical cases. Most rigid basepair steps are highly likely to form an ordered hydration pattern composed of one water molecule forming a bridge between the bases of distinct strands, but a few exceptions favor another ordered hydration composed of two water molecules forming such a bridge. Steps with medium deformability can display both of these hydration patterns with frequent transition. Highly flexible steps do not have any stable hydration pattern. A detailed picture of this correlation demonstrates that motions of hydration water molecules and DNA bases are tightly coupled with each other at the atomic level. These results contribute to our understanding of the entropic contribution from water molecules in protein or drug binding and could be applied for the purpose of predicting binding sites.
+
+-Base Sequence
+-Computer Simulation
+-DNA (+chemistry; +ultrastructure)
++Models, Chemical
++Models, Molecular
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-Sequence Analysis, DNA (+methods)
+-Water (+chemistry)
+
+pii:S0006-3495(09)01107-2
+doi:10.1016/j.bpj.2009.05.049
+pubmed:19686662
+pmc:PMC2726331
+

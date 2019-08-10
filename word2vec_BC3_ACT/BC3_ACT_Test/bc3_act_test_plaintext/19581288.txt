@@ -1,0 +1,27 @@
+Mol. Cell. Biol.
+
+Phosphorylation of the transcription elongation factor Spt5 by yeast Bur1 kinase stimulates recruitment of the PAF complex.
+
+Y Liu, L Warfield, C Zhang, J Luo, J Allen, WH Lang, J Ranish, KM Shokat, S Hahn
+
+The Saccharomyces cerevisiae kinase Bur1 is involved in coupling transcription elongation to chromatin modification, but not all important Bur1 targets in the elongation complex are known. Using a chemical genetics strategy wherein Bur1 kinase was engineered to be regulated by a specific inhibitor, we found that Bur1 phosphorylates the Spt5 C-terminal repeat domain (CTD) both in vivo and in isolated elongation complexes in vitro. Deletion of the Spt5 CTD or mutation of the Spt5 serines targeted by Bur1 reduces recruitment of the PAF complex, which functions to recruit factors involved in chromatin modification and mRNA maturation to elongating polymerase II (Pol II). Deletion of the Spt5 CTD showed the same defect in PAF recruitment as rapid inhibition of Bur1 kinase activity, and this Spt5 mutation led to a decrease in histone H3K4 trimethylation. Brief inhibition of Bur1 kinase activity in vivo also led to a significant decrease in phosphorylation of the Pol II CTD at Ser-2, showing that Bur1 also contributes to Pol II Ser-2 phosphorylation. Genetic results suggest that Bur1 is essential for growth because it targets multiple factors that play distinct roles in transcription.
+
+-Animals
+-Chromosomal Proteins, Non-Histone (-genetics; +metabolism)
+-Cyclin-Dependent Kinases (-genetics; +metabolism)
+-Humans
+-Macromolecular Substances (+metabolism)
+-Mutation
+-Phosphorylation
+-Protein Structure, Tertiary
+-Recombinant Proteins (-genetics; -metabolism)
+-Saccharomyces cerevisiae (-genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Transcription, Genetic
+-Transcriptional Elongation Factors (-genetics; +metabolism)
+
+pii:MCB.00609-09
+doi:10.1128/MCB.00609-09
+pubmed:19581288
+pmc:PMC2725703
+

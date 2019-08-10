@@ -1,0 +1,24 @@
+J. Bacteriol.
+
+Tetracycline-associated transcriptional regulation of transfer genes of the Bacteroides conjugative transposon CTnDOT.
+
+RT Jeters, GR Wang, K Moon, NB Shoemaker, AA Salyers
+
+Many human colonic Bacteroides spp. harbor a conjugative transposon, CTnDOT, which carries two antibiotic resistance genes, tetQ and ermF. A distinctive feature of CTnDOT is that its excision and transfer are stimulated by tetracycline. Regulation of the genes responsible for excision has been described previously. We provide here the first characterization of the regulation of CTnDOT transfer (tra) genes. Reverse transcription-PCR analysis of the region containing the tra genes showed that these genes are regulated at the transcriptional level. Surprisingly, increased production of tra gene mRNA in tetracycline-stimulated cells was mediated by the proteins encoded by the excision genes. Previous studies have shown that expression of the excision gene operon is controlled by the regulatory protein RteC. Accordingly, it was possible that RteC was also regulating tra gene expression and that the excision proteins were only accessory proteins. However, placing the excision gene operon under the control of a heterologous promoter showed that the excision proteins alone could activate tra gene expression and that RteC was not directly involved. We also found a second level of tra gene control. The transfer of CTnDOT was inhibited by a DNA segment that included only a portion of the 3' end of one of the excision genes (exc). This segment contained a small open reading frame, rteR. By replacing the codons encoding the first two amino acids of the putative protein product of this open reading frame with stop codons, we showed that the rteR gene might encode a small regulatory RNA. RteR acted in trans to reduce the number of tra transcripts in a way that was independent of the excision proteins. The repressive effect of RteR was not the result of decreased stability of the tra mRNA. Instead, RteR appears to be modulating the level of tra gene expression in some more direct fashion. The complex regulatory system that controls and links the expression of CTnDOT excision and transfer genes may be designed to ensure stable maintenance of CTnDOT in nature by reducing the fitness toll it takes on the cell that harbors it.
+
+-Anti-Bacterial Agents (-pharmacology)
+-Bacterial Proteins (-genetics; +metabolism)
+-Bacteroides (+drug effects; -genetics; -metabolism)
+-Conjugation, Genetic (-drug effects; -physiology)
+-DNA Transposable Elements (-physiology)
+-DNA, Bacterial (-genetics; -metabolism)
+-Gene Expression Regulation, Bacterial (+drug effects)
+-Tetracycline (+pharmacology)
+-Transcription, Genetic (+drug effects)
+-Up-Regulation
+
+pii:JB.00739-09
+doi:10.1128/JB.00739-09
+pubmed:19700528
+pmc:PMC2753023
+

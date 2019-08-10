@@ -1,0 +1,28 @@
+PLoS Comput. Biol.
+
+Topography of extracellular matrix mediates vascular morphogenesis and migration speeds in angiogenesis.
+
+AL Bauer, TL Jackson, Y Jiang
+
+The extracellular matrix plays a critical role in orchestrating the events necessary for wound healing, muscle repair, morphogenesis, new blood vessel growth, and cancer invasion. In this study, we investigate the influence of extracellular matrix topography on the coordination of multi-cellular interactions in the context of angiogenesis. To do this, we validate our spatio-temporal mathematical model of angiogenesis against empirical data, and within this framework, we vary the density of the matrix fibers to simulate different tissue environments and to explore the possibility of manipulating the extracellular matrix to achieve pro- and anti-angiogenic effects. The model predicts specific ranges of matrix fiber densities that maximize sprout extension speed, induce branching, or interrupt normal angiogenesis, which are independently confirmed by experiment. We then explore matrix fiber alignment as a key factor contributing to peak sprout velocities and in mediating cell shape and orientation. We also quantify the effects of proteolytic matrix degradation by the tip cell on sprout velocity and demonstrate that degradation promotes sprout growth at high matrix densities, but has an inhibitory effect at lower densities. Our results are discussed in the context of ECM targeted pro- and anti-angiogenic therapies that can be tested empirically.
+
+-Animals
+-Cell Adhesion (-physiology)
+-Cell Movement (+physiology)
+-Computer Simulation
+-Corneal Neovascularization (-metabolism)
+-Extracellular Matrix (+physiology)
+-Limbus Corneae (-blood supply)
++Models, Biological
+-Neoplasm Transplantation
+-Neovascularization, Physiologic (+physiology)
+-Rabbits
+-Reproducibility of Results
+-Signal Transduction
+-Systems Biology (+methods)
+-Vascular Endothelial Growth Factor A (-metabolism)
+
+doi:10.1371/journal.pcbi.1000445
+pubmed:19629173
+pmc:PMC2709079
+

@@ -1,0 +1,27 @@
+Mol. Cell
+
+Crystallographic insights into the autocatalytic assembly mechanism of a bacteriophage tail spike.
+
+Y Xiang, PG Leiman, L Li, S Grimes, DL Anderson, MG Rossmann
+
+The tailed bacteriophage phi29 has 12 "appendages" (gene product 12, gp12) attached to its neck region that participate in host cell recognition and entry. In the cell, monomeric gp12 undergoes proteolytic processing that releases the C-terminal domain during assembly into trimers. We report here crystal structures of the protein before and after catalytic processing and show that the C-terminal domain of gp12 is an "autochaperone" that aids trimerization. We also show that autocleavage of the C-terminal domain is a posttrimerization event that is followed by a unique ATP-dependent release. The posttranslationally modified N-terminal part has three domains that function to attach the appendages to the phage, digest the cell wall teichoic acids, and bind irreversibly to the host, respectively. Structural and sequence comparisons suggest that some eukaryotic and bacterial viruses as well as bacterial adhesins might have a similar maturation mechanism as is performed by phi29 gp12 for Bacillus subtilis.
+
+-Adenosine Triphosphate (-metabolism)
+-Amino Acid Sequence
+-Bacillus Phages (-chemistry; +ultrastructure)
+-Catalytic Domain
+-Crystallography, X-Ray
+-Models, Molecular
+-Molecular Sequence Data
++Protein Multimerization
++Protein Processing, Post-Translational
++Protein Structure, Quaternary
+-Sequence Alignment
+-Viral Structural Proteins (+chemistry; -genetics; +metabolism)
+
+pii:S1097-2765(09)00238-X
+doi:10.1016/j.molcel.2009.04.009
+pubmed:19450535
+mid:NIHMS112575
+pmc:PMC2692858
+

@@ -1,0 +1,27 @@
+J. Biol. Chem.
+
+Mechanisms of activity-dependent plasticity in cellular nitric oxide-cGMP signaling.
+
+EJ Halvey, J Vernon, B Roy, J Garthwaite
+
+Cellular responsiveness to nitric oxide (NO) is shaped by past history of NO exposure. The mechanisms behind this plasticity were explored using rat platelets in vitro, specifically to determine the relative contributions made by desensitization of NO receptors, which couple to cGMP formation, and by phosphodiesterase-5 (PDE5), which is activated by cGMP and also hydrolyzes it. Repeated delivery of brief NO pulses (50 nM peak) at 1-min intervals resulted in a progressive loss of the associated cGMP responses, which was the combined consequence of receptor desensitization and PDE5 activation, with the former dominating. Delivery of pulses of differing amplitude showed that NO stimulated and desensitized receptors with similar potency (EC50 = 10-20 nM). PDE5 activation was highly sensitive to NO, with a single pulse peaking at 2 nM being sufficient to evoke a 50% loss of response to a subsequent near-maximal NO pulse. However, the activated state of the PDE subsided quickly after removal of NO, the half-time for recovery being 25 s. In contrast, receptor desensitization reverted much more slowly, the half-time being 16 min. Accordingly, with long (20-min) exposures, NO concentrations as low as 600 pM provoked significant desensitization. The results indicate that PDE5 activation and receptor desensitization subserve distinct short term and longer term roles as mediators of plasticity in NO-cGMP signaling. A kinetic model explicitly describing the complex interplay between NO concentration, cGMP synthesis, PDE5 activation, and the resulting cGMP accumulation successfully simulated the present and previous data.
+
+-Animals
+-Blood Platelets (+enzymology)
+-Cell Line
+-Cyclic GMP (+metabolism)
+-Cyclic Nucleotide Phosphodiesterases, Type 5 (+metabolism)
+-Dose-Response Relationship, Drug
+-Endothelium-Dependent Relaxing Factors (-metabolism; +pharmacology)
+-Enzyme Activation
+-Humans
+-Nitric Oxide (-metabolism; +pharmacology)
+-Rats
+-Signal Transduction (+drug effects; -physiology)
+-Time Factors
+
+pii:M109.030338
+doi:10.1074/jbc.M109.030338
+pubmed:19605352
+pmc:PMC2757965
+

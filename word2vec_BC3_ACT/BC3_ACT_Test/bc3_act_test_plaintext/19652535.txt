@@ -1,0 +1,20 @@
+Cell Cycle
+
+Wild-type p53 protects normal cells against apoptosis induced by thiostrepton.
+
+M Halasi, DP Schraufnagel, AL Gartel
+
+Cancer cells are generally more sensitive to anticancer drugs than normal cells. This provides the rationale for using anticancer drugs specifically against tumor cells, but the explanation for the specificity is often elusive. In this study, we compared the sensitivity of normal BJ human fibroblasts, BJ fibroblasts with p53 knockdown and corresponding BJ immortal/oncogenic cell lines with inactivated p53 to anticancer drug-induced apoptosis. We found that only normal cells that have wild-type p53 were resistant to the thiazole antibiotic, thiostrepton, suggesting that p53 plays an antiapoptotic role in normal cells. In this case p53 status, but not the transformation of cells per se determines their sensitivity to thiostrepton and possibly to other anticancer drugs. Since p53 is mutated in 50% of human cancers, thiostrepton may selectively kill cancer, but not normal cells. These data imply that wild-type p53 can protect normal cells from anticancer drug-induced cell death and its mutations may sensitize cancer cells to anti-neoplastic agents.
+
+-Anti-Bacterial Agents (+pharmacology)
++Apoptosis
+-Caspase 3 (-metabolism)
+-Gene Knockdown Techniques
+-Humans
+-RNA Interference
+-Thiostrepton (+pharmacology)
+-Tumor Suppressor Protein p53 (-genetics; +metabolism)
+
+pii:9414
+pubmed:19652535
+

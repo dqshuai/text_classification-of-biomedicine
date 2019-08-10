@@ -1,0 +1,26 @@
+Plant Cell
+
+Phage-type RNA polymerase RPOTmp performs gene-specific transcription in mitochondria of Arabidopsis thaliana.
+
+K Kühn, U Richter, EH Meyer, E Delannoy, AF de Longevialle, N O'Toole, T Börner, AH Millar, ID Small, J Whelan
+
+Transcription of mitochondrial genes in animals, fungi, and plants relies on the activity of T3/T7 phage-type RNA polymerases. Two such enzymes, RPOTm and RPOTmp, are present in the mitochondria of eudicotyledonous plants; RPOTmp is additionally found in plastids. We have characterized the transcriptional role of the dual-targeted RNA polymerase in mitochondria of Arabidopsis thaliana. Examination of mitochondrial transcripts in rpoTmp mutants revealed major differences in transcript abundances between wild-type and rpoTmp plants. Decreased levels of specific transcripts were correlated with reduced abundances of the respiratory chain complexes I and IV. Altered transcript levels in rpoTmp were found to result from gene-specific transcriptional changes, establishing that RPOTmp functions in distinct transcriptional processes within mitochondria. Decreased transcription of specific genes in rpoTmp was not associated with changes in promoter utilization; therefore, RPOTmp function is not promoter specific but gene specific. This implies that additional gene-specific elements direct the transcription of a subset of mitochondrial genes by RPOTmp.
+
+-Arabidopsis (-enzymology; +genetics)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-DNA, Bacterial (-genetics)
+-DNA-Directed RNA Polymerases (-genetics; +metabolism)
+-Gene Expression Regulation, Plant
+-Genes, Mitochondrial
+-Mitochondria (+enzymology; -genetics)
+-Mitochondrial Proteins (-genetics; +metabolism)
+-Mutagenesis, Insertional
+-Promoter Regions, Genetic
+-RNA, Plant (-genetics)
++Transcription, Genetic
+
+pii:tpc.109.068536
+doi:10.1105/tpc.109.068536
+pubmed:19783760
+pmc:PMC2768943
+

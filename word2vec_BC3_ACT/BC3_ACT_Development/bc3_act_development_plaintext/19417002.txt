@@ -1,0 +1,27 @@
+J. Cell. Sci.
+
+Fission yeast Tor1 functions as part of TORC1 to control mitotic entry through the stress MAPK pathway following nutrient stress.
+
+S Hartmuth, J Petersen
+
+TOR signalling coordinates growth and division to control cell size. Inhibition of Schizosaccharomyces pombe Tor1, in response to a reduction in the quality of the nitrogen source (nutrient stress), promotes mitotic onset through activation of the mitogen-activated protein kinase (MAPK) Sty1 (also known as Spc1). Here we show that ;nutrient starvation' (complete withdrawal of nitrogen or leucine) blocks mitotic commitment by altering Sty1 signalling and that different degrees of Sty1 activation determine these differences in mitotic commitment decisions. Mammals contain one TOR kinase, whereas yeasts contain two. In each case, they comprise two distinct complexes: TORC1 and TORC2. We find that nutrient-stress-induced control of mitotic onset, through Tor1, is regulated through changes in TORC1 signalling. In minimal medium, Tor1 interacts with the TORC1 component Mip1 (raptor), and overexpression of tor1+ generates growth defects reminiscent of TORC1 mutants. Strains lacking the TORC2-specific components Sin1 and Ste20 (rictor) still advance mitotic onset in response to nutrient stress. By contrast, Mip1 and the downstream effector Gad8 (a S6K kinase homologue), like Tor1, are essential for nutrient stress to advance mitotic onset. We conclude that S. pombe Tor1 and Tor2 can both act in TORC1. However, it is the inhibition of Tor1 as part of TORC1 that promotes mitosis following nutrient stress.
+
+-Animals
+-Carrier Proteins (-genetics; -metabolism)
+-Cell Cycle Proteins (-genetics; -metabolism)
+-Culture Media (-chemistry)
+-MAP Kinase Signaling System (+physiology)
+-Mitogen-Activated Protein Kinases (-genetics; +metabolism)
+-Mitosis (+physiology)
+-Protein Kinases (-genetics; +metabolism)
+-Protein Tyrosine Phosphatases (-genetics; -metabolism)
+-Protein-Serine-Threonine Kinases (-genetics; -metabolism)
+-Schizosaccharomyces (-cytology; +metabolism)
+-Schizosaccharomyces pombe Proteins (-genetics; +metabolism)
++Starvation
+-Stress, Physiological
+
+pii:jcs.049387
+doi:10.1242/jcs.049387
+pubmed:19417002
+

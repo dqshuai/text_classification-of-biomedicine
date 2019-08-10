@@ -1,0 +1,26 @@
+PLoS Genet.
+
+Caenorhabditis elegans protein arginine methyltransferase PRMT-5 negatively regulates DNA damage-induced apoptosis.
+
+M Yang, J Sun, X Sun, Q Shen, Z Gao, C Yang
+
+Arginine methylation of histone and non-histone proteins is involved in transcription regulation and many other cellular processes. Nevertheless, whether such protein modification plays a regulatory role during apoptosis remains largely unknown. Here we report that the Caenorhabditis elegans homolog of mammalian type II arginine methyltransferase PRMT5 negatively regulates DNA damage-induced apoptosis. We show that inactivation of C. elegans prmt-5 leads to excessive apoptosis in germline following ionizing irradiation, which is due to a CEP-1/p53-dependent up-regulation of the cell death initiator EGL-1. Moreover, we provide evidence that CBP-1, the worm ortholog of human p300/CBP, functions as a cofactor of CEP-1. PRMT-5 forms a complex with both CEP-1 and CBP-1 and can methylate the latter. Importantly, down-regulation of cbp-1 significantly suppresses DNA damage-induced egl-1 expression and apoptosis in prmt-5 mutant worms. These findings suggest that PRMT-5 likely represses CEP-1 transcriptional activity through CBP-1, which represents a novel regulatory mechanism of p53-dependent apoptosis.
+
+-Animals
++Apoptosis (-radiation effects)
+-Caenorhabditis elegans (-cytology; -genetics; +metabolism; -radiation effects)
+-Caenorhabditis elegans Proteins (-genetics; +metabolism)
++DNA Damage (-radiation effects)
++Down-Regulation
+-Histone Acetyltransferases (-genetics; -metabolism)
+-Protein Binding
+-Protein-Arginine N-Methyltransferases (-genetics; +metabolism)
+-Radiation, Ionizing
+-Repressor Proteins (-genetics; -metabolism)
+-Transcription Factors (-genetics; -metabolism)
+-Tumor Suppressor Protein p53 (-genetics; -metabolism)
+
+doi:10.1371/journal.pgen.1000514
+pubmed:19521535
+pmc:PMC2691592
+

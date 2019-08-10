@@ -1,0 +1,23 @@
+FEBS J.
+
+Toggle switches, pulses and oscillations are intrinsic properties of the Src activation/deactivation cycle.
+
+NP Kaimachnikov, BN Kholodenko
+
+Src-family kinases (SFKs) play a pivotal role in growth factor signaling, mitosis, cell motility and invasiveness. In their basal state, SFKs maintain a closed autoinhibited conformation, where the Src homology 2 domain interacts with an inhibitory phosphotyrosine in the C-terminus. Activation involves dephosphorylation of this inhibitory phosphotyrosine, followed by intermolecular autophosphorylation of a specific tyrosine residue in the activation loop. The spatiotemporal dynamics of SFK activation controls cell behavior, yet these dynamics remain largely uninvestigated. In the present study, we show that the basic properties of the Src activation/deactivation cycle can bring about complex signaling dynamics, including oscillations, toggle switches and excitable behavior. These intricate dynamics do not require imposed external feedback loops and occur at constant activities of Src inhibitors and activators, such as C-terminal Src kinase and receptor-type protein tyrosine phosphatases. We demonstrate that C-terminal Src kinase and receptor-type protein tyrosine phosphatase underexpression or their simultaneous overexpression can transform Src response patterns into oscillatory or bistable responses, respectively. Similarly, Src overexpression leads to dysregulation of Src activity, promoting sustained self-perpetuating oscillations. Distinct types of responses can allow SFKs to trigger different cell-fate decisions, where cellular outcomes are determined by the stimulation threshold and history. Our mathematical model helps to understand the puzzling experimental observations and suggests conditions where these different kinetic behaviors of SFKs can be tested experimentally.
+
+-Animals
+-Cell Differentiation
+-Cell Movement
+-DNA Replication
+-Enzyme Activation
+-Kinetics
+-Phosphorylation
+-Protein Conformation
+-Vertebrates
+-src-Family Kinases (+chemistry; +metabolism)
+
+pii:EJB7117
+doi:10.1111/j.1742-4658.2009.07117.x
+pubmed:19627364
+

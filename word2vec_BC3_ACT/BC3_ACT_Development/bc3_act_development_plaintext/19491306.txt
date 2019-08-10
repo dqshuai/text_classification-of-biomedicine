@@ -1,0 +1,27 @@
+J. Exp. Bot.
+
+A bacterial signal peptide is functional in plants and directs proteins to the secretory pathway.
+
+L Moeller, Q Gan, K Wang
+
+The Escherichia coli heat-labile enterotoxin B subunit (LT-B) has been used as a model antigen for the production of plant-derived high-valued proteins in maize. LT-B with its native signal peptide (BSP) has been shown to accumulate in starch granules of transgenic maize kernels. To elucidate the targeting properties of the bacterial LT-B protein and BSP in plant systems, the subcellular localization of visual marker green fluorescent protein (GFP) fused to LT-B and various combinations of signal peptides was examined in Arabidopsis protoplasts and transgenic maize. Biochemical analysis indicates that the LT-B::GFP fusion proteins can assemble and fold properly retaining both the antigenicity of LT-B and the fluorescing properties of GFP. Maize kernel fractionation revealed that transgenic lines carrying BSP result in recombinant protein association with fibre and starch fractions. Confocal microscopy analysis indicates that the fusion proteins accumulate in the endomembrane system of plant cells in a signal peptide-dependent fashion. This is the first report providing evidence of the ability of a bacterial signal peptide to target proteins to the plant secretory pathway. The results provide important insights for further understanding the heterologous protein trafficking mechanisms and for developing effective strategies in molecular farming.
+
+-Amino Acid Sequence
+-Arabidopsis (-genetics; +metabolism)
+-Bacterial Toxins (-chemistry; -genetics; +metabolism)
+-Enterotoxins (-chemistry; -genetics; +metabolism)
+-Escherichia coli Proteins (-chemistry; -genetics; +metabolism)
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Molecular Sequence Data
+-Plant Proteins (-genetics; +metabolism)
++Protein Sorting Signals
+-Protein Transport
+-Recombinant Fusion Proteins (-genetics; -metabolism)
++Secretory Pathway
+-Zea mays (-genetics; +metabolism)
+
+pii:erp167
+doi:10.1093/jxb/erp167
+pubmed:19491306
+pmc:PMC2724687
+

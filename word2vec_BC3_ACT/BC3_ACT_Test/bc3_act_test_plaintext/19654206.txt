@@ -1,0 +1,23 @@
+J. Exp. Bot.
+
+Genome-wide analysis of the auxin-responsive transcriptome downstream of iaa1 and its expression analysis reveal the diversity and complexity of auxin-regulated gene expression.
+
+DJ Lee, JW Park, HW Lee, J Kim
+
+The AUXIN RESPONSE FACTORs (ARFs) and the Aux/IAA proteins regulate various auxin responses through auxin perception mediated by the F-box proteins TIR1/AFBs. ARFs are transcription factors that modulate expression of auxin response genes and are negatively regulated by the Aux/IAA proteins. To gain insight into the regulatory mechanisms of Aux/IAA-ARF action at the genome level, the transcriptome regulated downstream of iaa1, a stabilized IAA1 mutant protein, was identified using dexamethasone (DEX)-controlled nuclear translocation of iaa1 during the auxin response. The expression of the iaa1-regulated auxin-responsive genes selected from microarray data was analysed with RNA-gel blot analysis and it was shown that auxin-regulated expression of these genes was significantly inhibited by DEX treatment. While cycloheximide-inducible expression of a majority of these genes was also DEX-suppressible, expression of some genes could not be suppressed by treatment with DEX. Expression analysis in a variety of arf mutant backgrounds suggested that all iaa1-regulated auxin-response genes examined are controlled by ARFs to different extents and that the same ARF protein can regulate the expression of these genes in response to auxin in a positive or a negative manner. However, arf mutations did not affect auxin-mediated down-regulation, indicating that ARFs might not play a critical role in down-regulation. The decrease in auxin-responsive gene expression in arf7 arf19 mutants was more severe than that of tir1/afb quadruple mutants. These results show the diversity and complexity of mechanisms of Aux/IAA-ARF- and auxin-regulated gene expression. These data also provide the opportunity for functional analysis of genes mediating the auxin-response downstream of Aux/IAA-ARFs.
+
+-ADP-Ribosylation Factors (-genetics; -metabolism)
+-Arabidopsis (+genetics; -metabolism)
+-Arabidopsis Proteins (+genetics; +metabolism)
+-DNA-Binding Proteins (+genetics; +metabolism)
+-Gene Expression Profiling
++Gene Expression Regulation, Plant
++Genome, Plant
+-Indoleacetic Acids (+metabolism)
+-Nuclear Proteins (+genetics; +metabolism)
+
+pii:erp230
+doi:10.1093/jxb/erp230
+pubmed:19654206
+pmc:PMC2736900
+

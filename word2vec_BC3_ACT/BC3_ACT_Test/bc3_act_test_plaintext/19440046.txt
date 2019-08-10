@@ -1,0 +1,22 @@
+Cell Cycle
+
+Whi3 regulates morphogenesis in budding yeast by enhancing Cdk functions in apical growth.
+
+N Colomina, F Ferrezuelo, E Vergés, M Aldea, E Garí
+
+The Whi3 protein is associated with the endoplasmic reticulum, interacts with Cdc28, the budding-yeast Cdk, binds the mRNA of cyclin CLN3 and prevents accumulation of the Cdc28-Cln3 in the nucleus until late G(1). Besides its function as a cell size regulator, Whi3 is strictly required for filamentous growth. Here we show that emerging buds in Whi3-deficient cells are considerably rounder than in wild-type cells, indicating that Whi3 is required to maintain apical growth during S phase. This defect was not suppressed by deletion of CLB2, which is involved in switching from polar to isotropic bud growth, indicating that the observed phenotype is not the result of Whi3 acting solely as a negative regulator of cyclin Clb2. However, Cdc28 did not properly accumulate at the bud tip during S phase in whi3Delta cells, and their elongation defects were suppressed by CLN2 overexpression, suggesting a positive function for Whi3 in a Cdk-cyclin-dependent step required for apical growth. Additionally, the actin cytoskeleton was perturbed in Whi3-deficient cells, and WHI3 showed genetic interactions with actin patch components. Our results point to Whi3 as a key modulator of apical growth effectors to coordinate cell cycle events and morphogenesis. We propose that Whi3 is required for the apical localization of Cdc28-Cln1,2 complexes during bud growth and thereby, to promote the activation of Cdc42 and its effectors in the bud apex.
+
+-Actins (-metabolism)
+-CDC28 Protein Kinase, S cerevisiae (+metabolism)
+-Cell Cycle (-physiology)
+-Cyclin B (+metabolism)
+-Cyclins (+metabolism)
+-Cytoskeleton (-metabolism)
+-RNA-Binding Proteins (-genetics; +metabolism)
+-Saccharomyces cerevisiae (+growth & development; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-cdc42 GTP-Binding Protein, Saccharomyces cerevisiae (-metabolism)
+
+pii:8740
+pubmed:19440046
+

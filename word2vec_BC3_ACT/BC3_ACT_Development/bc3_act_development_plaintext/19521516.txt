@@ -1,0 +1,29 @@
+PLoS ONE
+
+H3 k36 methylation helps determine the timing of cdc45 association with replication origins.
+
+F Pryde, D Jain, A Kerr, R Curley, FR Mariotti, M Vogelauer
+
+BACKGROUND: Replication origins fire at different times during S-phase. Such timing is determined by the chromosomal context, which includes the activity of nearby genes, telomeric position effects and chromatin structure, such as the acetylation state of the surrounding chromatin. Activation of replication origins involves the conversion of a pre-replicative complex to a replicative complex. A pivotal step during this conversion is the binding of the replication factor Cdc45, which associates with replication origins at approximately their time of activation in a manner partially controlled by histone acetylation. METHODOLOGY/PRINCIPAL FINDINGS: Here we identify histone H3 K36 methylation (H3 K36me) by Set2 as a novel regulator of the time of Cdc45 association with replication origins. Deletion of SET2 abolishes all forms of H3 K36 methylation. This causes a delay in Cdc45 binding to origins and renders the dynamics of this interaction insensitive to the state of histone acetylation of the surrounding chromosomal region. Furthermore, a decrease in H3 K36me3 and a concomitant increase in H3 K36me1 around the time of Cdc45 binding to replication origins suggests opposing functions for these two methylation states. Indeed, we find K36me3 depleted from early firing origins when compared to late origins genomewide, supporting a delaying effect of this histone modification for the association of replication factors with origins. CONCLUSIONS/SIGNIFICANCE: We propose a model in which K36me1 together with histone acetylation advance, while K36me3 and histone deacetylation delay, the time of Cdc45 association with replication origins. The involvement of the transcriptionally induced H3 K36 methylation mark in regulating the timing of Cdc45 binding to replication origins provides a novel means of how gene expression may affect origin dynamics during S-phase.
+
+-Cell Separation
+-Chromatin (-chemistry)
+-DNA Primers (-chemistry)
+-DNA-Binding Proteins (+genetics)
+-Flow Cytometry
+-Genome
+-Histones (+genetics)
++Methylation
+-Methyltransferases (-metabolism)
+-Models, Genetic
+-Nuclear Proteins (+genetics)
++Replication Origin
+-S Phase
+-Saccharomyces cerevisiae (-genetics; +metabolism)
+-Saccharomyces cerevisiae Proteins (+genetics; -metabolism)
+-Telomere (-ultrastructure)
+
+doi:10.1371/journal.pone.0005882
+pubmed:19521516
+pmc:PMC2690658
+

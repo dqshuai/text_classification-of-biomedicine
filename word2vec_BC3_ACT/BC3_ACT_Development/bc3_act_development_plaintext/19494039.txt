@@ -1,0 +1,39 @@
+Mol. Biol. Cell
+
+Molecular distinctions between Aurora A and B: a single residue change transforms Aurora A into correctly localized and functional Aurora B.
+
+F Hans, DA Skoufias, S Dimitrov, RL Margolis
+
+Aurora A and Aurora B, paralogue mitotic kinases, share highly similar primary sequence. Both are important to mitotic progression, but their localizations and functions are distinct. We have combined shRNA suppression with overexpression of Aurora mutants to address the cause of the distinction between Aurora A and Aurora B. Aurora A residue glycine 198 (G198), mutated to asparagine to mimic the aligned asparagine 142 (N142) of Aurora B, causes Aurora A to bind the Aurora B binding partner INCENP but not the Aurora A binding partner TPX2. The mutant Aurora A rescues Aurora B mitotic function. We conclude that binding to INCENP is alone critical to the distinct function of Aurora B. Although G198 of Aurora A is required for TPX2 binding, N142G Aurora B retains INCENP binding and Aurora B function. Thus, although a single residue change transforms Aurora A, the reciprocal mutation of Aurora B does not create Aurora A function. An Aurora A-Delta120 N-terminal truncation construct reinforces Aurora A similarity to Aurora B, because it does not associate with centrosomes but instead associates with kinetochores.
+
+-Amino Acid Sequence
++Amino Acid Substitution
+-Animals
+-Binding Sites (-genetics)
+-Cell Cycle Proteins (-genetics; -metabolism)
+-Chromosomal Proteins, Non-Histone (-genetics; -metabolism)
+-HCT116 Cells
+-Hela Cells
+-Histones (-metabolism)
+-Humans
+-Immunoprecipitation
+-Microtubule-Associated Proteins (-genetics; -metabolism)
+-Mitosis
+-Models, Molecular
+-Molecular Sequence Data
+-Nuclear Proteins (-genetics; -metabolism)
+-Phosphorylation
+-Protein Binding
+-Protein Structure, Tertiary
+-Protein-Serine-Threonine Kinases (-chemistry; -genetics; +metabolism)
+-RNA Interference
+-Sequence Homology, Amino Acid
+-Transfection
+-Xenopus Proteins (-chemistry; -genetics; -metabolism)
+-Xenopus laevis
+
+pii:E09-05-0370
+doi:10.1091/mbc.E09-05-0370
+pubmed:19494039
+pmc:PMC2719567
+

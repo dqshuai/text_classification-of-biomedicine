@@ -1,0 +1,28 @@
+Nucleic Acids Res.
+
+Sexy gene conversions: locating gene conversions on the X-chromosome.
+
+MJ Lawson, L Zhang
+
+Gene conversion can have a profound impact on both the short- and long-term evolution of genes and genomes. Here, we examined the gene families that are located on the X-chromosomes of human (Homo sapiens), chimpanzee (Pan troglodytes), mouse (Mus musculus) and rat (Rattus norvegicus) for evidence of gene conversion. We identified seven gene families (WD repeat protein family, Ferritin Heavy Chain family, RAS-related Protein RAB-40 family, Diphosphoinositol polyphosphate phosphohydrolase family, Transcription Elongation Factor A family, LDOC1-related family, Zinc Finger Protein ZIC, and GLI family) that show evidence of gene conversion. Through phylogenetic analyses and synteny evidence, we show that gene conversion has played an important role in the evolution of these gene families and that gene conversion has occurred independently in both primates and rodents. Comparing the results with those of two gene conversion prediction programs (GENECONV and Partimatrix), we found that both GENECONV and Partimatrix have very high false negative rates (i.e. failed to predict gene conversions), which leads to many undetected gene conversions. The combination of phylogenetic analyses with physical synteny evidence exhibits high resolution in the detection of gene conversions.
+
+-Animals
+-Chromosomes, Human, X
++Gene Conversion
++Genes, X-Linked
+-Humans
+-Macaca mulatta
+-Mice
+-Multigene Family
+-Pan troglodytes (-genetics)
+-Phylogeny
+-Rats
+-Software
+-Synteny
++X Chromosome
+
+pii:gkp421
+doi:10.1093/nar/gkp421
+pubmed:19487239
+pmc:PMC2724270
+

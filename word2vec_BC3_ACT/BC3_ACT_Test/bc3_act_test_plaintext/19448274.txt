@@ -1,0 +1,24 @@
+Genetics
+
+A screen for modifiers of notch signaling uncovers Amun, a protein with a critical role in sensory organ development.
+
+NA Shalaby, AL Parks, EJ Morreale, MC Osswalt, KM Pfau, EL Pierce, MA Muskavitch
+
+Notch signaling is an evolutionarily conserved pathway essential for many cell fate specification events during metazoan development. We conducted a large-scale transposon-based screen in the developing Drosophila eye to identify genes involved in Notch signaling. We screened 10,447 transposon lines from the Exelixis collection for modifiers of cell fate alterations caused by overexpression of the Notch ligand Delta and identified 170 distinct modifier lines that may affect up to 274 genes. These include genes known to function in Notch signaling, as well as a large group of characterized and uncharacterized genes that have not been implicated in Notch pathway function. We further analyze a gene that we have named Amun and show that it encodes a protein that localizes to the nucleus and contains a putative DNA glycosylase domain. Genetic and molecular analyses of Amun show that altered levels of Amun function interfere with cell fate specification during eye and sensory organ development. Overexpression of Amun decreases expression of the proneural transcription factor Achaete, and sensory organ loss caused by Amun overexpression can be rescued by coexpression of Achaete. Taken together, our data suggest that Amun acts as a transcriptional regulator that can affect cell fate specification by controlling Achaete levels.
+
+-Basic Helix-Loop-Helix Transcription Factors (+metabolism)
+-DNA Glycosylases (-genetics; +physiology)
+-DNA Transposable Elements
+-Drosophila Proteins (-genetics; -metabolism; +physiology)
+-Eye (-chemistry; +growth & development)
+-Nuclear Proteins (-genetics; +physiology)
+-Receptors, Notch (+metabolism)
+-Sense Organs (-chemistry; -growth & development)
++Signal Transduction
+-Transcription Factors (-genetics; +physiology)
+
+pii:genetics.108.099986
+doi:10.1534/genetics.108.099986
+pubmed:19448274
+pmc:PMC2728848
+

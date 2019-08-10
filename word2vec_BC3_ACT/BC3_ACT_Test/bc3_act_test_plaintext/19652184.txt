@@ -1,0 +1,26 @@
+Genetics
+
+Effects of recombination on complex regulatory circuits.
+
+OC Martin, A Wagner
+
+Mutation and recombination are the two main forces generating genetic variation. Most of this variation may be deleterious. Because recombination can reorganize entire genes and genetic circuits, it may have much greater consequences than point mutations. We here explore the effects of recombination on models of transcriptional regulation circuits that play important roles in embryonic development. We show that recombination has weaker deleterious effects on the expression phenotypes of these circuits than mutations. In addition, if a population of such circuits evolves under the influence of mutation and recombination, we find that three key properties emerge: (1) deleterious effects of mutations are reduced dramatically; (2) the diversity of genotypes in the population is greatly increased, a feature that may be important for phenotypic innovation; and (3) cis-regulatory complexes appear. These are combinations of regulatory interactions that influence the expression of one gene and that mitigate deleterious recombination effects.
+
+-Algorithms
+-Animals
+-Evolution, Molecular
+-Gene Expression Regulation
+-Gene Regulatory Networks
+-Genetic Variation (+genetics)
+-Genotype
++Models, Genetic
++Mutation
+-Phenotype
+-Recombination, Genetic (+genetics)
+-Selection, Genetic
+
+pii:genetics.109.104174
+doi:10.1534/genetics.109.104174
+pubmed:19652184
+pmc:PMC2766326
+

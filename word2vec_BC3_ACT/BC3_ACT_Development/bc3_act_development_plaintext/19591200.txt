@@ -1,0 +1,20 @@
+Protein Sci.
+
+Exploring functional roles of multibinding protein interfaces.
+
+M Tyagi, BA Shoemaker, SH Bryant, AR Panchenko
+
+Cellular processes are highly interconnected and many proteins are shared in different pathways. Some of these shared proteins or protein families may interact with diverse partners using the same interface regions; such multibinding proteins are the subject of our study. The main goal of our study is to attempt to decipher the mechanisms of specific molecular recognition of multiple diverse partners by promiscuous protein regions. To address this, we attempt to analyze the physicochemical properties of multibinding interfaces and highlight the major mechanisms of functional switches realized through multibinding. We find that only 5% of protein families in the structure database have multibinding interfaces, and multibinding interfaces do not show any higher sequence conservation compared with the background interface sites. We highlight several important functional mechanisms utilized by multibinding families. (a) Overlap between different functional pathways can be prevented by the switches involving nearby residues of the same interfacial region. (b) Interfaces can be reused in pathways where the substrate should be passed from one protein to another sequentially. (c) The same protein family can develop different specificities toward different binding partners reusing the same interface; and finally, (d) inhibitors can attach to substrate binding sites as substrate mimicry and thereby prevent substrate binding.
+
+-Binding Sites
+-Computational Biology
+-Databases, Protein
+-Protein Binding
+-Protein Interaction Mapping
+-Protein Structure, Tertiary
+-Proteins (+chemistry; +metabolism)
+
+doi:10.1002/pro.181
+pubmed:19591200
+pmc:PMC2776955
+

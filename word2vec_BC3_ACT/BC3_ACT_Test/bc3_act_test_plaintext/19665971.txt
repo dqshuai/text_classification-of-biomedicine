@@ -1,0 +1,22 @@
+Cell
+
+Population-level transcription cycles derive from stochastic timing of single-cell transcription.
+
+T Degenhardt, KN Rybakova, A Tomaszewska, MJ Moné, HV Westerhoff, FJ Bruggeman, C Carlberg
+
+Eukaryotic transcription is a dynamic process relying on a large number of proteins. By measuring the cycling expression of the pyruvate dehydrogenase kinase 4 gene in human cells, we constructed a detailed stochastic model for single-gene transcription at the molecular level using realistic kinetics for diffusion and protein complex dynamics. We observed that gene induction caused an approximate 60 min periodicity of several transcription related processes: first, the covalent histone modifications and presence of many regulatory proteins at the transcription start site; second, RNA polymerase II activity; third, chromatin loop formation; and fourth, mRNA accumulation. Our model can predict the precise timing of single-gene activity leading to transcriptional cycling on the cell population level when we take into account the sequential and irreversible multistep nature of transcriptional initiation. We propose that the cyclic nature of population gene expression is primarily based on the intrinsic periodicity of the transcription process itself.
+
+-Cell Line
++Gene Expression Regulation
+-Humans
++Models, Genetic
+-PPAR delta (-metabolism)
+-Protein-Serine-Threonine Kinases (+genetics)
+-Time Factors
+-Transcription Initiation Site
++Transcription, Genetic
+
+pii:S0092-8674(09)00632-1
+doi:10.1016/j.cell.2009.05.029
+pubmed:19665971
+

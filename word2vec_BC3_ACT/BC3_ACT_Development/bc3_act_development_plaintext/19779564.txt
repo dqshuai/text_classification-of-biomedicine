@@ -1,0 +1,32 @@
+PLoS Pathog.
+
+A cyclic GMP signalling module that regulates gliding motility in a malaria parasite.
+
+RW Moon, CJ Taylor, C Bex, R Schepers, D Goulding, CJ Janse, AP Waters, DA Baker, O Billker
+
+The ookinete is a motile stage in the malaria life cycle which forms in the mosquito blood meal from the zygote. Ookinetes use an acto-myosin motor to glide towards and penetrate the midgut wall to establish infection in the vector. The regulation of gliding motility is poorly understood. Through genetic interaction studies we here describe a signalling module that identifies guanosine 3', 5'-cyclic monophosphate (cGMP) as an important second messenger regulating ookinete differentiation and motility. In ookinetes lacking the cyclic nucleotide degrading phosphodiesterase delta (PDEdelta), unregulated signalling through cGMP results in rounding up of the normally banana-shaped cells. This phenotype is suppressed in a double mutant additionally lacking guanylyl cyclase beta (GCbeta), showing that in ookinetes GCbeta is an important source for cGMP, and that PDEdelta is the relevant cGMP degrading enzyme. Inhibition of the cGMP-dependent protein kinase, PKG, blocks gliding, whereas enhanced signalling through cGMP restores normal gliding speed in a mutant lacking calcium dependent protein kinase 3, suggesting at least a partial overlap between calcium and cGMP dependent pathways. These data demonstrate an important function for signalling through cGMP, and most likely PKG, in dynamically regulating ookinete gliding during the transmission of malaria to the mosquito.
+
+-Animals
+-Anopheles (-parasitology)
+-Calcium-Binding Proteins (-genetics)
+-Cell Shape
+-Cyclic AMP (-metabolism)
+-Cyclic GMP (+metabolism)
+-Cyclic GMP-Dependent Protein Kinases (-antagonists & inhibitors; -metabolism)
+-Epistasis, Genetic
+-Female
+-Guanylate Cyclase (-genetics; -metabolism)
+-Life Cycle Stages
+-Male
+-Mice
+-Microscopy, Electron, Transmission
+-Phosphoric Diester Hydrolases (-genetics; -metabolism)
+-Plasmodium berghei (-genetics; -metabolism; +physiology)
+-Protein Kinase Inhibitors (-pharmacology)
+-Protozoan Proteins (+genetics)
+-Signal Transduction
+
+doi:10.1371/journal.ppat.1000599
+pubmed:19779564
+pmc:PMC2742896
+

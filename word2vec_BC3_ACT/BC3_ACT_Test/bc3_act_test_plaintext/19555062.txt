@@ -1,0 +1,22 @@
+J. Am. Chem. Soc.
+
+Modeling the multivalent recognition between dendritic molecules and DNA: understanding how ligand "sacrifice" and screening can enhance binding.
+
+GM Pavan, A Danani, S Pricl, DK Smith
+
+This paper reports the application of molecular dynamics methods to understand the interactions between dendritic molecules with spermine surface groups and double-helical DNA. Importantly, we are able to reproduce the binding effects observed experimentally, indicating that this type of modeling is robust and reliable. The energetic effects were deconvoluted in order to quantify the binding of each spermine unit to the DNA double helix. Importantly, for the first-generation dendron G1, DNA binding was adversely affected by increasing levels of NaCl (>10% of the interaction energy is lost). For second-generation G2 however, we observed a compensation effect, in which some ligands "sacrifice" themselves, losing large amounts of binding energy with DNA. However, these ligands screen the complex, which enables the other spermine residues to bind more effectively to DNA. In this way, the multivalent array is able to maintain its high affinity binding, even as the salt concentration increases (only ca. 1% of the interaction energy is lost). These modeling studies are in agreement with, and provide a unique insight into, the experimental results. Clearly, ligand flexibility and ability to reorganize the interactions with DNA are important, demonstrating that high levels of preorganization and ligand framework rigidity are not always beneficial for multivalent recognition. The concept suggested by this modeling study, in which ligand "sacrifice" and binding site screening combine to enable high-affinity binding, is a new paradigm in multivalency.
+
+-Animals
+-Base Sequence
+-Cattle
+-DNA (+chemistry; -genetics; +metabolism)
+-Dendrimers (+chemistry; +metabolism)
+-Ligands
++Models, Molecular
+-Molecular Conformation
+-Spermine (-chemistry; -metabolism)
+-Thermodynamics
+
+doi:10.1021/ja901174k
+pubmed:19555062
+

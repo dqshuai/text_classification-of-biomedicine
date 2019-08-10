@@ -1,0 +1,31 @@
+Oncogene
+
+Combined genomic and gene expression microarray profiling identifies ECOP as an upregulated gene in squamous cell carcinomas independent of DNA amplification.
+
+A Baras, Y Yu, M Filtz, B Kim, CA Moskaluk
+
+To identify dysregulated genes that may play a role in the pathogenesis of tobacco-related human squamous cell carcinoma (SCC), a cohort of SCCs from smokers (29 SCC of the head and neck, 3 SCC of the esophagus and 46 SCC of the lungs) were concomitantly analyzed for gene expression using Affymetrix U133A 2.0 arrays and for genomic variation using Affymetrix Human Mapping 100 K set. Gene expression profiling clearly separated benign squamous mucosa (BSM) from SCC and identified several candidate genes relevant to the biology of SCC. The single-nucleotide polymorphism array data adapted for copy number analysis identified two discrete areas of high-level genomic amplification, including 7p11.2 (EGFR (epidermal growth factor receptor)) and 11q13.3 (CCND1 (cyclin D1)). When gene expression measures were correlated with amplification status at 7p11.2 locus, EGFR overexpression in relation to benign tissue was dependent on amplification and occurred in only 9% of cases. However, an adjacent gene (approximately 0.4 Mb), EGFR-co-amplified and overexpressed protein (ECOP), showed strong over-expression in the majority (90%) of SCCs regardless of gene amplification status. This finding was corroborated with quantitative real-time PCR assays and protein immunoblots. Interestingly, small interfering RNA-mediated knockdown of ECOP gene products in a SCC cell line (SCC-9) resulted in increased cell death. The results of these studies identify ECOP as a protein relevant to the biology of SCC.
+
+-Carcinoma, Squamous Cell (+genetics; -pathology)
+-Cell Line, Tumor
+-Cell Survival
+-Gene Amplification
++Gene Expression Profiling
+-Gene Expression Regulation, Neoplastic
+-Genetic Predisposition to Disease
+-Genomics (+methods)
+-Hela Cells
+-Humans
+-Immunoblotting
+-Oligonucleotide Array Sequence Analysis (+methods)
+-RNA, Small Interfering (-genetics)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Time Factors
+-Transcription Factors (+genetics; -metabolism)
+-Transfection
+-Up-Regulation
+
+pii:onc2009150
+doi:10.1038/onc.2009.150
+pubmed:19525979
+

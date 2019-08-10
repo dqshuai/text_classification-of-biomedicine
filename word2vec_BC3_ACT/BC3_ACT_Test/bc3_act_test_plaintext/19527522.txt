@@ -1,0 +1,27 @@
+BMC Genomics
+
+Transcriptomes and pathways associated with infectivity, survival and immunogenicity in Brugia malayi L3.
+
+BW Li, AC Rush, M Mitreva, Y Yin, D Spiro, E Ghedin, GJ Weil
+
+BACKGROUND: Filarial nematode parasites cause serious diseases such as elephantiasis and river blindness in humans, and heartworm infections in dogs. Third stage filarial larvae (L3) are a critical stage in the life cycle of filarial parasites, because this is the stage that is transmitted by arthropod vectors to initiate infections in mammals. Improved understanding of molecular mechanisms associated with this transition may provide important leads for development of new therapies and vaccines to prevent filarial infections. This study explores changes in gene expression associated with the transition of Brugia malayi third stage larvae (BmL3) from mosquitoes into mammalian hosts and how these changes are affected by radiation. Radiation effects are especially interesting because irradiated L3 induce partial immunity to filarial infections. The underlying molecular mechanisms responsible for the efficacy of such vaccines are unkown. RESULTS: Expression profiles were obtained using a new filarial microarray with 18, 104 64-mer elements. 771 genes were identified as differentially expressed in two-way comparative analyses of the three L3 types. 353 genes were up-regulated in mosquito L3 (L3i) relative to cultured L3 (L3c). These genes are important for establishment of filarial infections in mammalian hosts. Other genes were up-regulated in L3c relative to L3i (234) or irradiated L3 (L3ir) (22). These culture-induced transcripts include key molecules required for growth and development. 165 genes were up-regulated in L3ir relative to L3c; these genes encode highly immunogenic proteins and proteins involved in radiation repair. L3ir and L3i have similar transcription profiles for genes that encode highly immunogenic proteins, antioxidants and cuticle components. CONCLUSION: Changes in gene expression that normally occur during culture under conditions that support L3 development and molting are prevented or delayed by radiation. This may explain the enhanced immunogenicity of L3ir. Gene Ontology and KEGG analyses revealed altered pathways between L3 types. Energy and "immune pathways" are up-regulated and may be needed for L3i invasion and survival, while growth and development are priorities for L3c. This study has improved our understanding of molecules involved in parasite invasion and immune evasion, potential targets of protective immunity, and molecules required for parasite growth and development.
+
+-Aedes (-parasitology)
+-Ancylostoma (-genetics)
+-Animals
+-Brugia malayi (+genetics; -immunology; -pathogenicity; -radiation effects)
+-Caenorhabditis elegans (-genetics)
+-Cesium Radioisotopes
++Gene Expression Profiling
+-Gene Expression Regulation, Developmental (-radiation effects)
++Genes, Helminth
+-Larva (-genetics; -immunology; -pathogenicity; -radiation effects)
+-Oligonucleotide Array Sequence Analysis
+-RNA, Helminth (-genetics)
+-Up-Regulation
+
+pii:1471-2164-10-267
+doi:10.1186/1471-2164-10-267
+pubmed:19527522
+pmc:PMC2708187
+

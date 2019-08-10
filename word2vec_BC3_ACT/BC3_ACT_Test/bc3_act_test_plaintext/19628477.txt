@@ -1,0 +1,22 @@
+Hum. Mol. Genet.
+
+Expression differences by continent of origin point to the immortalization process.
+
+AR Davis, IS Kohane
+
+Analysis of recently available microarray expression data sets obtained from immortalized cell lines of the individuals represented in the HapMap project have led to inconclusive comparisons across cohorts with different ancestral continent of origin (ACOO). To address this apparent inconsistency, we applied a novel approach to accentuate population-specific gene expression signatures for the CEU [homogeneous US residents with northern and western European ancestry (HapMap samples)] and YRI [homogenous Yoruba people of Ibadan, Nigeria (HapMap samples)] trios. In this report, we describe how four independent data sets point to the differential expression across ACOO of gene networks implicated in transforming the normal lymphoblast into immortalized lymphoblastoid cells. In particular, Werner syndrome helicase and related genes are differentially expressed between the YRI and CEU cohorts. We further demonstrate that these differences correlate with viral titer and that both the titer and expression differences are associated with ACOO. We use the 14 genes most differentially expressed to construct an ACOO-specific 'immortalization network' comprised of 40 genes, one of which show significant correlation with genomic variation (eQTL). The extent to which these measured group differences are due to differences in the immortalization procedures used for each group or reflect ACOO-specific biological differences remains to be determined. That the ACOO group differences in gene expression patterns may depend strongly on the process of transforming cells to establish immortalized lines should be considered in such comparisons.
+
+-Cell Line, Transformed
+-Continental Population Groups (+genetics)
+-Europe
++Gene Expression Profiling
++Genetics, Population
+-Humans
+-Nigeria
+-United States
+
+pii:ddp330
+doi:10.1093/hmg/ddp330
+pubmed:19628477
+pmc:PMC2748894
+

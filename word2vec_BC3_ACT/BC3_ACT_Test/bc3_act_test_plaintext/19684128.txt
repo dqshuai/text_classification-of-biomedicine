@@ -1,0 +1,27 @@
+J. Bacteriol.
+
+A genome-scale proteomic screen identifies a role for DnaK in chaperoning of polar autotransporters in Shigella.
+
+A Janakiraman, KR Fixen, AN Gray, H Niki, MB Goldberg
+
+Autotransporters are outer membrane proteins that are widely distributed among gram-negative bacteria. Like other autotransporters, the Shigella autotransporter IcsA, which is required for actin assembly during infection, is secreted at the bacterial pole. In the bacterial cytoplasm, IcsA localizes to poles and potential cell division sites independent of the cell division protein FtsZ. To identify bacterial proteins involved in the targeting of IcsA to the pole in the bacterial cytoplasm, we screened a genome-scale library of Escherichia coli proteins tagged with green fluorescent protein (GFP) for those that displayed a localization pattern similar to that of IcsA-GFP in cells that lack functional FtsZ using a strain carrying a temperature-sensitive ftsZ allele. For each protein that mimicked the localization of IcsA-GFP, we tested whether IcsA localization was dependent on the presence of the protein. Although these approaches did not identify a polar receptor for IcsA, the cytoplasmic chaperone DnaK both mimicked IcsA localization at elevated temperatures as a GFP fusion and was required for the localization of IcsA to the pole in the cytoplasm of E. coli. DnaK was also required for IcsA secretion at the pole in Shigella flexneri. The localization of DnaK-GFP to poles and potential cell division sites was dependent on elevated growth temperature and independent of the presence of IcsA or functional FtsZ; native DnaK was found to be enhanced at midcell and the poles. A second Shigella autotransporter, SepA, also required DnaK for secretion, consistent with a role of DnaK more generally in the chaperoning of autotransporter proteins in the bacterial cytoplasm.
+
+-Bacterial Proteins (-genetics; +metabolism)
+-DNA-Binding Proteins (-genetics; +metabolism)
+-Escherichia coli (-genetics; -metabolism)
+-Escherichia coli Proteins (-genetics; +metabolism)
+-Gene Expression Profiling
+-Gene Expression Regulation, Bacterial (-physiology)
++Genome, Bacterial
+-HSP70 Heat-Shock Proteins (-genetics; +metabolism)
+-Molecular Chaperones (+physiology)
+-Protein Transport
+-Proteomics
+-Shigella (+metabolism)
+-Transcription Factors (-genetics; +metabolism)
+
+pii:JB.00833-09
+doi:10.1128/JB.00833-09
+pubmed:19684128
+pmc:PMC2753027
+

@@ -1,0 +1,34 @@
+Oncogene
+
+Calreticulin promotes cell motility and enhances resistance to anoikis through STAT3-CTTN-Akt pathway in esophageal squamous cell carcinoma.
+
+XL Du, H Yang, SG Liu, ML Luo, JJ Hao, Y Zhang, DC Lin, X Xu, Y Cai, QM Zhan, MR Wang
+
+We have shown earlier that overexpression of Calreticulin (CRT) contributed to a poor prognosis for patients with esophageal squamous cell carcinoma (ESCC). Here, we have shown an important role of CRT in tumorigenesis through enhancing cell motility and anoikis resistance. SiRNA-mediated knockdown of CRT caused impaired cell migration, invasion and resistance to anoikis. Notably, CRT downregulation decreased the expression of Cortactin (CTTN), which has been previously reported as a candidate oncogene associated with anoikis through the PI3K-Akt pathway. In addition, Akt phosphorylation was abolished after CRT downregulation and its activation can be refreshed by CRT upregulation, suggesting that CRT-enhanced cell resistance to anoikis through the CRT-CTTN-PI3K-Akt pathway. Moreover, the CTTN mRNA level was decreased in CRT-siRNA cells, coupled with the inactivation of STAT3. Expression of both CTTN and p-STAT3 was reduced in tumor cells following incubation with the JAK-specific inhibitor, AG490. Chromatin immunoprecipitation assay showed direct binding of p-STAT3 to the conservative STAT3-binding sequences in CTTN promoter. Furthermore, overexpression of CTTN in CRT-downregulated ESCC cells restored its motility and resistance to anoikis. This study not only reveals a role of CRT in motility promotion and anoikis resistance in ESCC cells, but also identifies CRT as an upstream regulator in the CRT-STAT3-CTTN-Akt pathway.
+
+-Agar
+-Animals
++Anoikis
+-Calreticulin (-deficiency; -genetics; +metabolism)
+-Carcinoma, Squamous Cell (-genetics; +pathology)
+-Cell Line, Tumor
++Cell Movement
+-Cortactin (-genetics; +metabolism)
+-Down-Regulation
+-Esophageal Neoplasms (-genetics; +pathology)
+-Female
+-Gene Expression Regulation, Neoplastic
+-Humans
+-Mice
+-Mice, Nude
+-Promoter Regions, Genetic (-genetics)
+-Proto-Oncogene Proteins c-akt (+metabolism)
+-RNA Interference
+-STAT3 Transcription Factor (+metabolism)
+-Signal Transduction
+-Transcription, Genetic
+
+pii:onc2009237
+doi:10.1038/onc.2009.237
+pubmed:19684620
+

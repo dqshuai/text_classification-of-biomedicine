@@ -1,0 +1,30 @@
+Plant Cell
+
+The Arabidopsis CORONATINE INSENSITIVE1 protein is a jasmonate receptor.
+
+J Yan, C Zhang, M Gu, Z Bai, W Zhang, T Qi, Z Cheng, W Peng, H Luo, F Nan, Z Wang, D Xie
+
+Jasmonates play a number of diverse roles in plant defense and development. CORONATINE INSENSITIVE1 (COI1), an F-box protein essential for all the jasmonate responses, interacts with multiple proteins to form the SCF(COI1) E3 ubiquitin ligase complex and recruits jasmonate ZIM-domain (JAZ) proteins for degradation by the 26S proteasome. To determine which protein directly binds to jasmonoyl-isoleucine (JA-Ile)/coronatine (COR) and serves as a receptor for jasmonate, we built a high-quality structural model of COI1 and performed molecular modeling of COI1-jasmonate interactions. Our results imply that COI1 has the structural traits for binding JA-Ile or COR. The direct binding of these molecules with COI1 was further examined using a combination of molecular and biochemical approaches. First, we used the immobilized jasmonate approach to show that the COI1 protein in crude leaf extracts can bind to the jasmonate moiety of JA-Ile. Second, we employed surface plasmon resonance technology with purified COI1 and JAZ1 protein to reveal the interaction among COI1, JA-Ile, and JAZ1. Finally, we used the photoaffinity labeling technology to show the direct binding of COR with purified insect-expressed COI1. Taken together, these results demonstrate that COI1 directly binds to JA-Ile and COR and serves as a receptor for jasmonate.
+
+-Amino Acids (-chemistry; -metabolism)
+-Arabidopsis (-genetics; -growth & development; -metabolism)
+-Arabidopsis Proteins (+chemistry; -genetics; +metabolism)
+-Chromatography, Affinity
+-Computational Biology
+-Computer Simulation
+-Cyclopentanes (+chemistry; +metabolism)
+-Gene Expression Regulation, Plant (-genetics; -physiology)
+-Indenes (-chemistry; -metabolism)
+-Isoleucine (-analogs & derivatives; -chemistry; -metabolism)
+-Molecular Structure
+-Oxylipins (+chemistry; +metabolism)
+-Plants, Genetically Modified (-genetics; -growth & development; -metabolism)
+-Protein Binding (-genetics; -physiology)
+-Protein Structure, Secondary
+-Surface Plasmon Resonance
+
+pii:tpc.109.065730
+doi:10.1105/tpc.109.065730
+pubmed:19717617
+pmc:PMC2751961
+

@@ -1,0 +1,36 @@
+J. Bacteriol.
+
+Role of the twin-arginine translocation pathway in Staphylococcus.
+
+L Biswas, R Biswas, C Nerz, K Ohlsen, M Schlag, T Schäfer, T Lamkemeyer, AK Ziebandt, K Hantke, R Rosenstein, F Götz
+
+In Staphylococcus, the twin-arginine translocation (Tat) pathway is present only in some species and is composed of TatA and TatC. The tatAC operon is associated with the fepABC operon, which encodes homologs to an iron-binding lipoprotein, an iron-dependent peroxidase (FepB), and a high-affinity iron permease. The FepB protein has a typical twin-arginine (RR) signal peptide. The tat and fep operons constitute an entity that is not present in all staphylococcal species. Our analysis was focused on Staphylococcus aureus and S. carnosus strains. Tat deletion mutants (DeltatatAC) were unable to export active FepB, indicating that this enzyme is a Tat substrate. When the RR signal sequence from FepB was fused to prolipase and protein A, their export became Tat dependent. Since no other protein with a Tat signal could be detected, the fepABC-tatAC genes comprise not only a genetic but also a functional unit. We demonstrated that FepABC drives iron import, and in a mouse kidney abscess model, the bacterial loads of DeltatatAC and Deltatat-fep mutants were decreased. For the first time, we show that the Tat pathway in S. aureus is functional and serves to translocate the iron-dependent peroxidase FepB.
+
+-Algorithms
+-Amino Acid Sequence
+-Animals
+-Arginine (+chemistry)
+-Bacterial Proteins (-genetics; +metabolism)
+-Electrophoresis, Gel, Two-Dimensional
+-Enzymes (-genetics; -metabolism)
+-Female
+-Membrane Transport Proteins
+-Mice
+-Mice, Inbred BALB C
+-Microscopy, Fluorescence
+-Molecular Sequence Data
+-Pancreatic Extracts (-genetics; -metabolism)
+-Protein Sorting Signals (-genetics; +physiology)
+-Protein Transport (-genetics; +physiology)
+-Sequence Homology, Amino Acid
+-Signal Transduction (-genetics; +physiology)
+-Staphylococcal Infections (-genetics; -microbiology)
+-Staphylococcal Protein A (-genetics; -metabolism)
+-Staphylococcus (-genetics; +metabolism; -pathogenicity)
+-Staphylococcus aureus (-genetics; -metabolism)
+
+pii:JB.00642-09
+doi:10.1128/JB.00642-09
+pubmed:19633084
+pmc:PMC2747896
+

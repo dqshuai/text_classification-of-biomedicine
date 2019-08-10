@@ -1,0 +1,26 @@
+Cell
+
+DEPTOR is an mTOR inhibitor frequently overexpressed in multiple myeloma cells and required for their survival.
+
+TR Peterson, M Laplante, CC Thoreen, Y Sancak, SA Kang, WM Kuehl, NS Gray, DM Sabatini
+
+The mTORC1 and mTORC2 pathways regulate cell growth, proliferation, and survival. We identify DEPTOR as an mTOR-interacting protein whose expression is negatively regulated by mTORC1 and mTORC2. Loss of DEPTOR activates S6K1, Akt, and SGK1, promotes cell growth and survival, and activates mTORC1 and mTORC2 kinase activities. DEPTOR overexpression suppresses S6K1 but, by relieving feedback inhibition from mTORC1 to PI3K signaling, activates Akt. Consistent with many human cancers having activated mTORC1 and mTORC2 pathways, DEPTOR expression is low in most cancers. Surprisingly, DEPTOR is highly overexpressed in a subset of multiple myelomas harboring cyclin D1/D3 or c-MAF/MAFB translocations. In these cells, high DEPTOR expression is necessary to maintain PI3K and Akt activation and a reduction in DEPTOR levels leads to apoptosis. Thus, we identify a novel mTOR-interacting protein whose deregulated overexpression in multiple myeloma cells represents a mechanism for activating PI3K/Akt signaling and promoting cell survival.
+
+-1-Phosphatidylinositol 3-Kinase (-metabolism)
+-Cell Line
++Cell Survival
+-Cyclin D1 (-metabolism)
+-Cyclin D3
+-Cyclins (-metabolism)
+-Humans
+-Multiple Myeloma (+metabolism)
+-Protein Kinases (+metabolism)
+-Proto-Oncogene Proteins c-akt (-metabolism)
+-Signal Transduction
+
+pii:S0092-8674(09)00389-4
+doi:10.1016/j.cell.2009.03.046
+pubmed:19446321
+mid:NIHMS108747
+pmc:PMC2758791
+

@@ -1,0 +1,27 @@
+RNA
+
+DExD/H-box Prp5 protein is in the spliceosome during most of the splicing cycle.
+
+TR Kosowski, HR Keys, TK Quan, SW Ruby
+
+The DExD/H-box Prp5 protein (Prp5p) is an essential, RNA-dependent ATPase required for pre-spliceosome formation during nuclear pre-mRNA splicing. In order to understand how this protein functions, we used in vitro, biochemical assays to examine its association with the spliceosome from Saccharomyces cerevisiae. GST-Prp5p in splicing assays pulls down radiolabeled pre-mRNA as well as splicing intermediates and lariat product, but reduced amounts of spliced mRNA. It cosediments with active spliceosomes isolated by glycerol gradient centrifugation. In ATP-depleted extracts, GST-Prp5p associates with pre-mRNA even in the absence of spliceosomal snRNAs. Maximal selection in either the presence or absence of ATP requires a pre-mRNA with a functional intron. Prp5p is present in the commitment complex and functions in subsequent pre-spliceosome formation. Reduced Prp5p levels decrease levels of commitment, pre-spliceosomal and spliceosomal complexes. Thus Prp5p is most likely an integral component of the spliceosome, being among the first splicing factors associating with pre-mRNA and remaining until spliceosome disassembly. The results suggest a model in which Prp5p recruits the U2 snRNP to pre-mRNA in the commitment complex and then hydrolyzes ATP to promote stable association of U2 in the pre-spliceosome. They also suggest that Prp5p could have multiple ATP-independent and ATP-dependent functions at several stages of the splicing cycle.
+
+-Adenosine Triphosphate (-metabolism)
+-Blotting, Western
+-DEAD-box RNA Helicases (+genetics; -metabolism)
+-RNA Precursors (+genetics; -metabolism)
++RNA Splicing
+-RNA, Small Nuclear (-genetics; -metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Ribonucleoprotein, U2 Small Nuclear (-genetics; -metabolism)
+-Saccharomyces cerevisiae (+genetics; -growth & development; -metabolism)
+-Saccharomyces cerevisiae Proteins (+genetics; +metabolism)
+-Spliceosomes (+physiology)
+-Temperature
+-Transcription, Genetic
+
+pii:rna.1065209
+doi:10.1261/rna.1065209
+pubmed:19451545
+pmc:PMC2704087
+

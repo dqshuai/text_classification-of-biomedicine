@@ -1,0 +1,27 @@
+PLoS Pathog.
+
+Drosophila embryos as model systems for monitoring bacterial infection in real time.
+
+I Vlisidou, AJ Dowling, IR Evans, N Waterfield, RH ffrench-Constant, W Wood
+
+Drosophila embryos are well studied developmental microcosms that have been used extensively as models for early development and more recently wound repair. Here we extend this work by looking at embryos as model systems for following bacterial infection in real time. We examine the behaviour of injected pathogenic (Photorhabdus asymbiotica) and non-pathogenic (Escherichia coli) bacteria and their interaction with embryonic hemocytes using time-lapse confocal microscopy. We find that embryonic hemocytes both recognise and phagocytose injected wild type, non-pathogenic E. coli in a Dscam independent manner, proving that embryonic hemocytes are phagocytically competent. In contrast, injection of bacterial cells of the insect pathogen Photorhabdus leads to a rapid 'freezing' phenotype of the hemocytes associated with significant rearrangement of the actin cytoskeleton. This freezing phenotype can be phenocopied by either injection of the purified insecticidal toxin Makes Caterpillars Floppy 1 (Mcf1) or by recombinant E. coli expressing the mcf1 gene. Mcf1 mediated hemocyte freezing is shibire dependent, suggesting that endocytosis is required for Mcf1 toxicity and can be modulated by dominant negative or constitutively active Rac expression, suggesting early and unexpected effects of Mcf1 on the actin cytoskeleton. Together these data show how Drosophila embryos can be used to track bacterial infection in real time and how mutant analysis can be used to genetically dissect the effects of specific bacterial virulence factors.
+
+-Animals
+-Bacterial Toxins (-metabolism; -pharmacology)
+-Cell Adhesion Molecules (-metabolism)
+-Drosophila (+embryology)
+-Drosophila Proteins (-metabolism)
+-Embryo, Nonmammalian (-cytology; -drug effects; +metabolism; +microbiology)
+-Enterobacteriaceae Infections (-metabolism; +microbiology)
+-Escherichia coli (-metabolism)
+-Hemocytes (-metabolism)
+-Microscopy, Fluorescence
+-Microscopy, Video
+-Models, Animal
+-Photorhabdus (-metabolism)
+-rac GTP-Binding Proteins (-metabolism)
+
+doi:10.1371/journal.ppat.1000518
+pubmed:19609447
+pmc:PMC2707623
+

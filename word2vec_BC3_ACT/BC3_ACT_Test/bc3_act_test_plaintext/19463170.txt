@@ -1,0 +1,28 @@
+BMC Genomics
+
+A transcript profiling approach reveals the zinc finger transcription factor ZNF191 is a pleiotropic factor.
+
+J Li, X Chen, X Gong, Y Liu, H Feng, L Qiu, Z Hu, J Zhang
+
+BACKGROUND: The human zinc finger protein 191 (ZNF191) is a member of the SCAN domain family of Krüppel-like zinc finger transcription factors. ZNF191 shows 94% identity to its mouse homologue zinc finger protein 191(Zfp191), which is the most highly conserved among the human-mouse SCAN family member orthologues pairs. Zfp191 is widely expressed during early embryogenesis and in adult organs. Moreover, Zfp191-/- embryos have been shown to be severely retarded in development and die approximately at embryonic day E7.5. ZNF191 can specifically interact with the widespread TCAT motif which constitutes the HUMTH01 microsatellite in the tyrosine hydroxylase (TH) gene. Allelic variations of HUMTH01 have been stated to have a quantitative silencing effect on TH gene expression and to correlate with quantitative and qualitative changes in the binding by ZNF191. In addition, ZNF191 displays a suppressive effect on the transcription; however, little downstream targets have identified. RESULTS: We searched for ZNF191 target genes by using a transient overexpression and knockdown strategy in the human embryo kidney (HEK293) cells. Microarray analyses identified 6094 genes modulated by overexpression of ZNF191 and 3332 genes regulated by knockdown of ZNF191, using a threshold of 1.2-fold. Several interested candidate genes, validated by real time RT-PCR, were correlated well with the array data. Interestingly, 1456 genes were identified in both transient overexpression and transient knockdown strategies. The GenMAPP and MappFinder software packages were further used for pathway analysis of these significantly altered genes. Several gene pathways were found to be involved in processes of the regulation of kinase activity, transcription, angiogenesis, brain development and response to DNA damage. CONCLUSION: Our analysis reveals for the first time that ZNF191 is a pleiotropic factor that has a role in hematopoiesis, brain development and cancers.
+
+-Cell Line
+-DNA Damage
++Gene Expression Profiling
+-Gene Expression Regulation, Developmental
+-Gene Knockdown Techniques
+-Gene Silencing
+-Hematopoiesis (-genetics)
+-Humans
+-Kruppel-Like Transcription Factors (+genetics)
+-Neoplasms (-genetics)
+-Neovascularization, Physiologic (-genetics)
+-Oligonucleotide Array Sequence Analysis
+-Software
+-Zinc Fingers (+genetics)
+
+pii:1471-2164-10-241
+doi:10.1186/1471-2164-10-241
+pubmed:19463170
+pmc:PMC2694838
+

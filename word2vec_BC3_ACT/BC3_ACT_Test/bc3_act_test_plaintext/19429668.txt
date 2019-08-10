@@ -1,0 +1,26 @@
+DNA Res.
+
+Transcriptional regulation of the capsular polysaccharide biosynthesis locus of streptococcus pneumoniae: a bioinformatic analysis.
+
+M Moscoso, E García
+
+The polysaccharide capsule of Streptococcus pneumoniae is the main virulence factor, which makes the bacterium resistant to phagocytosis. Expression of capsular polysaccharide must be adjusted at different stages of pneumococcal infection, thus, their transcriptional regulation appears to be crucial. To get insight into the existence of regulatory mechanisms common to most serotypes, a bioinformatic analysis of the DNA region located upstream of the capsular locus was performed. With the exception of serotype 37, the capsular locus is located between dexB and aliA on the pneumococcal chromosome. Up to 26 different sequence organizations were found among pneumococci synthesizing their capsule through a Wzy-polymerase-dependent mechanism, mostly varying according to the presence/absence of distinct insertion elements. As a consequence, only approximately 250 bp (including a 107 bp RUP_A element) was conserved in 86 sequences, although only a short (ca. 87 bp) region located immediately upstream of cpsA was strictly conserved in all the sequences analyzed. An exhaustive search for possible operator sequences was done. Interestingly, although the promoter region of serotype 3 isolates completely differs from that of other serotypes, most of the proteins proposed to regulate transcription in serotype 3 pneumococci were also predicted to function as possible regulators in non-serotype 3 S. pneumoniae isolates.
+
++Bacterial Capsules (-biosynthesis; -genetics)
+-Base Sequence
+-Computational Biology
+-Conserved Sequence
+-DNA, Bacterial (-analysis; -genetics)
+-Gene Expression Regulation, Bacterial
+-Molecular Sequence Data
+-Operator Regions, Genetic
+-Promoter Regions, Genetic
+-Sequence Analysis, DNA
++Streptococcus pneumoniae (-genetics; -metabolism)
++Transcription, Genetic
+
+pii:dsp007
+doi:10.1093/dnares/dsp007
+pubmed:19429668
+pmc:PMC2695774
+

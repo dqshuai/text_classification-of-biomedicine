@@ -1,0 +1,19 @@
+Nat. Genet.
+
+Genomic privacy and limits of individual detection in a pool.
+
+S Sankararaman, G Obozinski, MI Jordan, E Halperin
+
+Recent studies have demonstrated that statistical methods can be used to detect the presence of a single individual within a study group based on summary data reported from genome-wide association studies (GWAS). We present an analytical and empirical study of the statistical power of such methods. We thereby aim to provide quantitative guidelines for researchers wishing to make a limited number of SNPs available publicly without compromising subjects' privacy.
+
++Confidentiality
++Genome, Human
+-Genome-Wide Association Study (+methods; -statistics & numerical data)
+-Humans
++Models, Statistical
++Polymorphism, Single Nucleotide
+
+pii:ng.436
+doi:10.1038/ng.436
+pubmed:19701190
+

@@ -1,0 +1,25 @@
+Nucleic Acids Res.
+
+Requirement for XLF/Cernunnos in alignment-based gap filling by DNA polymerases lambda and mu for nonhomologous end joining in human whole-cell extracts.
+
+K Akopiants, RZ Zhou, S Mohapatra, K Valerie, SP Lees-Miller, KJ Lee, DJ Chen, P Revy, JP de Villartay, LF Povirk
+
+XLF/Cernunnos is a core protein of the nonhomologous end-joining pathway of DNA double-strand break repair. To better define the role of Cernunnos in end joining, whole-cell extracts were prepared from Cernunnos-deficient human cells. These extracts effected little joining of DNA ends with cohesive 5' or 3' overhangs, and no joining at all of partially complementary 3' overhangs that required gap filling prior to ligation. Assays in which gap-filled but unligated intermediates were trapped using dideoxynucleotides revealed that there was no gap filling on aligned DSB ends in the Cernunnos-deficient extracts. Recombinant Cernunnos protein restored gap filling and end joining of partially complementary overhangs, and stimulated joining of cohesive ends more than twentyfold. XLF-dependent gap filling was nearly eliminated by immunodepletion of DNA polymerase lambda, but was restored by addition of either polymerase lambda or polymerase mu. Thus, Cernunnos is essential for gap filling by either polymerase during nonhomologous end joining, suggesting that it plays a major role in aligning the two DNA ends in the repair complex.
+
+-Cell Extracts
+-DNA (-chemistry; -metabolism)
+-DNA Breaks, Double-Stranded
+-DNA Polymerase beta (+metabolism)
++DNA Repair
+-DNA Repair Enzymes (-chemistry; -metabolism; +physiology)
+-DNA-Binding Proteins (-chemistry; -metabolism; +physiology)
+-DNA-Directed DNA Polymerase (+metabolism)
+-Humans
+-Phosphorylation
+-Serine (-metabolism)
+
+pii:gkp283
+doi:10.1093/nar/gkp283
+pubmed:19420065
+pmc:PMC2709571
+

@@ -1,0 +1,25 @@
+BMC Bioinformatics
+
+Filtering genes for cluster and network analysis.
+
+D Tritchler, E Parkhomenko, J Beyene
+
+BACKGROUND: Prior to cluster analysis or genetic network analysis it is customary to filter, or remove genes considered to be irrelevant from the set of genes to be analyzed. Often genes whose variation across samples is less than an arbitrary threshold value are deleted. This can improve interpretability and reduce bias. RESULTS: This paper introduces modular models for representing network structure in order to study the relative effects of different filtering methods. We show that cluster analysis and principal components are strongly affected by filtering. Filtering methods intended specifically for cluster and network analysis are introduced and compared by simulating modular networks with known statistical properties. To study more realistic situations, we analyze simulated "real" data based on well-characterized E. coli and S. cerevisiae regulatory networks. CONCLUSION: The methods introduced apply very generally, to any similarity matrix describing gene expression. One of the proposed methods, SUMCOV, performed well for all models simulated.
+
+-Algorithms
++Cluster Analysis
+-Computer Simulation
+-Escherichia coli (-genetics)
++Gene Regulatory Networks
+-Genes
+-Genomics (+methods)
++Models, Genetic
++Models, Statistical
+-Principal Component Analysis (-methods)
+-Saccharomyces cerevisiae (-genetics)
+
+pii:1471-2105-10-193
+doi:10.1186/1471-2105-10-193
+pubmed:19549335
+pmc:PMC2708160
+

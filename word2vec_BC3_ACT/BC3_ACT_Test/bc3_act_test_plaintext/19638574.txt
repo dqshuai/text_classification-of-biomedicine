@@ -1,0 +1,32 @@
+Cancer Res.
+
+Sorafenib inhibits non-small cell lung cancer cell growth by targeting B-RAF in KRAS wild-type cells and C-RAF in KRAS mutant cells.
+
+K Takezawa, I Okamoto, K Yonesaka, E Hatashita, Y Yamada, M Fukuoka, K Nakagawa
+
+Sorafenib is a multikinase inhibitor whose targets include B-RAF and C-RAF, both of which function in the extracellular signal-regulated kinase (ERK) signaling pathway but which also have distinct downstream targets. The relative effects of sorafenib on B-RAF and C-RAF signaling in tumor cells remain unclear, however. We have now examined the effects of sorafenib as well as of B-RAF or C-RAF depletion by RNA interference on cell growth and ERK signaling in non-small cell lung cancer (NSCLC) cell lines with or without KRAS mutations. Sorafenib inhibited ERK phosphorylation in cells with wild-type KRAS but not in those with mutant KRAS. Despite this difference, sorafenib inhibited cell growth and induced G(1) arrest in both cell types. Depletion of B-RAF, but not that of C-RAF, inhibited ERK phosphorylation as well as suppressed cell growth and induced G(1) arrest in cells with wild-type KRAS. In contrast, depletion of C-RAF inhibited cell growth and induced G(1) arrest, without affecting ERK phosphorylation, in cells with mutant KRAS; depletion of B-RAF did not induce G(1) arrest in these cells. These data suggest that B-RAF-ERK signaling and C-RAF signaling play the dominant roles in regulation of cell growth in NSCLC cells with wild-type or mutant KRAS, respectively. The G(1) arrest induced by either C-RAF depletion or sorafenib in cells with mutant KRAS was associated with down-regulation of cyclin E. Our results thus suggest that sorafenib inhibits NSCLC cell growth by targeting B-RAF in cells with wild-type KRAS and C-RAF in those with mutant KRAS.
+
+-Antineoplastic Agents (-pharmacology; -therapeutic use)
+-Benzenesulfonates (+pharmacology; -therapeutic use)
+-Carcinoma, Non-Small-Cell Lung (-drug therapy; -genetics; +pathology)
+-Cell Proliferation (+drug effects)
+-Cyclin E (-genetics)
+-Drug Delivery Systems
+-Extracellular Signal-Regulated MAP Kinases (-metabolism; -physiology)
+-Gene Expression Regulation, Neoplastic (-drug effects)
++Genes, ras (-physiology)
+-Genotype
+-Humans
+-Lung Neoplasms (-drug therapy; -genetics; +pathology)
+-Mutation (-physiology)
+-Phosphorylation (-drug effects; -genetics)
+-Proto-Oncogene Proteins B-raf (+genetics)
+-Proto-Oncogene Proteins c-raf (+genetics)
+-Pyridines (+pharmacology; -therapeutic use)
+-Signal Transduction (-drug effects)
+-Tumor Cells, Cultured
+
+pii:0008-5472.CAN-09-1076
+doi:10.1158/0008-5472.CAN-09-1076
+pubmed:19638574
+

@@ -1,0 +1,29 @@
+J. Virol.
+
+ADAR1 interacts with PKR during human immunodeficiency virus infection of lymphocytes and contributes to viral replication.
+
+G Clerzius, JF Gélinas, A Daher, M Bonnet, EF Meurs, A Gatignol
+
+The interferon-induced protein kinase RNA activated (PKR) is activated after virus infection. This activation is transient during the human immunodeficiency virus type 1 (HIV-1) infection of lymphocytes, and the protein is not activated at the peak of infection. We observed that interferon-induced adenosine deaminase acting on RNA 1-p150 (ADAR1-p150) and ADAR1-p110 expression increases while the virus replicates actively. Furthermore, both forms of ADAR1 show enhanced interactions with PKR at the peak of HIV infection, suggesting a role for this protein in the regulation of PKR activation. We observed that ADAR1-p150, as previously shown for the TAR RNA binding protein (TRBP), reverses the PKR inhibition of HIV expression and production in HEK 293T cells. This activity requires the Z-DNA binding motif and the three double-stranded RNA binding domains but not the catalytic domain. In astrocytic cells, ADAR1-p150 increased HIV expression and production to an extent similar to that of TRBP. Small interfering RNAs against ADAR1-p150 moderately decreased HIV production. These results indicate that two interferon-induced proteins, ADAR1 and PKR, have antagonistic functions on HIV production. They suggest that ADAR1 and TRBP belong to a multiprotein complex that inhibits PKR during the HIV infection of lymphocytes.
+
+-Adenosine Deaminase (+genetics; +physiology)
+-Amino Acid Motifs
+-Cell Line
+-Eukaryotic Initiation Factor-2 (-metabolism)
++Gene Expression Regulation, Viral
+-HIV Infections (+metabolism; +virology)
+-HIV-1 (-metabolism)
+-Humans
+-Jurkat Cells
+-Lymphocytes (+virology)
+-Models, Biological
+-Phosphorylation
+-Transfection
++Virus Replication
+-eIF-2 Kinase (+metabolism)
+
+pii:JVI.02457-08
+doi:10.1128/JVI.02457-08
+pubmed:19605474
+pmc:PMC2747994
+

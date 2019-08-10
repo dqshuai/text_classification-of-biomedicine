@@ -1,0 +1,23 @@
+BMC Genomics
+
+Gene expression profiling within the spleen of Clostridium perfringens-challenged broilers fed antibiotic-medicated and non-medicated diets.
+
+AJ Sarson, Y Wang, Z Kang, SE Dowd, Y Lu, H Yu, Y Han, H Zhou, J Gong
+
+BACKGROUND: Clostridium perfringens (Cp) is a Gram-positive anaerobic bacterium that causes necrotic enteritis (NE) in poultry when it overgrows in the small intestine. NE disease has previously been controlled through the use of growth-promoting antibiotics. This practice was recently banned in European countries, leading to significantly increased incidence of NE threatening the poultry industry. Control strategies and technology as substitutes to dietary antibiotics are therefore urgently required. To develop the substitutes, it is important to understand host immune responses to Cp infection. However, the knowledge is still lacking. We therefore investigated gene expression profiles within immunologically-relevant tissue, the spleen, in order to identify factors that are involved in immunity to NE and have potential as therapeutic targets. RESULTS: Use of a 44 K Agilent chicken genome microarray revealed significant up-regulation of many immune-associated genes in Cp-challenged chickens, including galectin 3, IFNAR1, IgY-receptor, TCR gamma, granzyme A, and mannose-6-P-R, which were subsequently validated by quantitative PCR assays. Functional annotation of differentially expressed genes was conducted using the High Throughput Gene Ontology Functional Annotation database. Medicated and Non-medicated chickens had similar annotation profiles with cell activities and regulation being the most dominant biological processes following Cp infection. CONCLUSION: Broiler chickens demonstrated an intricate and holistic magnitude of host response to Cp challenge and the development of NE. Although the influence of dietary antibiotics appeared to be less significant than the disease process, both had a considerable impact on the host response. Markers previously identified in intestinal inflammatory diseases of other species, including humans, and indicators of enhanced antibody responses, appeared to be involved in the chicken response to Cp challenge. The significance in host immune responses of immune mediators identified from the present study warrants further studies to verify their functions during NE development and to determine their potential application to control NE disease.
+
++Animal Feed
+-Animals
+-Chickens (+genetics; -immunology; -microbiology)
+-Clostridium Infections (-genetics; +veterinary)
+-Clostridium perfringens (-immunology)
+-Gene Expression Profiling (-veterinary)
+-Microarray Analysis
+-Poultry Diseases (+genetics; -immunology; -microbiology)
+-Spleen (+immunology; -metabolism)
+
+pii:1471-2164-10-260
+doi:10.1186/1471-2164-10-260
+pubmed:19500416
+pmc:PMC2703656
+

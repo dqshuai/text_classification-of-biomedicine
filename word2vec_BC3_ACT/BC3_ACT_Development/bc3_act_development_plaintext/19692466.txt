@@ -1,0 +1,33 @@
+J. Virol.
+
+Homodimerization of the Meq viral oncoprotein is necessary for induction of T-cell lymphoma by Marek's disease virus.
+
+AC Brown, LP Smith, L Kgosana, SJ Baigent, V Nair, MJ Allday
+
+Marek's disease virus (MDV) is a lymphotropic alphaherpesvirus that induces fatal rapid-onset T-cell lymphomas in chickens, its natural host. The MDV-encoded nuclear oncoprotein Meq is essential for lymphomagenesis and acts as a regulator of transcription. Meq has structural features, including a basic domain adjacent to a leucine zipper motif (B-ZIP), that suggest it is related to the Jun/Fos family of transcription factors. Via the leucine zipper, Meq can form homodimers or heterodimerize with c-Jun. Meq/Meq homodimers are associated with transrepression, and Meq/Jun heterodimers can transactivate target genes carrying an AP-1-like binding site. In order to determine the role of the leucine zipper and of Meq dimerization in T lymphomagenesis, specific point mutations were engineered into the highly oncogenic RB-1B strain of MDV to produce virus completely lacking a functional Meq leucine zipper (RB-1B Meq(BZIP/BZIP)) or virus encoding Meq that cannot homodimerize but can still bind to c-Jun and an AP-1-like site on DNA (RB-1B Meq(Hom/Hom)). Both of these mutant viruses were capable of replication in cultured chicken embryo fibroblasts. However both mutations resulted in a complete loss of oncogenicity, since no lymphomas were produced up to 90 days postinfection in experimentally infected chicks. We conclude that the leucine zipper is necessary for the oncogenic activity of Meq and/or the efficient establishment of long-term MDV latency in T cells. Moreover, it appears that the ability to form homodimers is an absolute requirement and the ability to bind c-Jun alone is insufficient for the T-cell lymphomagenesis associated with virulent MDV.
+
+-Amino Acid Sequence
+-Animals
++Cell Transformation, Viral
+-Chickens (-virology)
+-JNK Mitogen-Activated Protein Kinases (-metabolism)
+-Leucine Zippers
+-Lymphoma, T-Cell (+virology)
++Mardivirus (-chemistry; -metabolism; -pathogenicity)
+-Marek Disease (-virology)
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Oncogene Proteins, Viral (+chemistry; -genetics; +metabolism)
+-Poultry Diseases (-virology)
+-Protein Multimerization
++Protein Structure, Quaternary
+-Reproducibility of Results
+-Sequence Alignment
+-Survival Analysis
+-Virus Latency
+
+pii:JVI.01393-09
+doi:10.1128/JVI.01393-09
+pubmed:19692466
+pmc:PMC2772798
+

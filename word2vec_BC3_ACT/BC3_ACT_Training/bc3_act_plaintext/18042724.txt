@@ -1,0 +1,29 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+CERK1, a LysM receptor kinase, is essential for chitin elicitor signaling in Arabidopsis.
+
+A Miya, P Albert, T Shinya, Y Desaki, K Ichimura, K Shirasu, Y Narusaka, N Kawakami, H Kaku, N Shibuya
+
+Chitin is a major component of fungal cell walls and serves as a microbe-associated molecular pattern (MAMP) for the detection of various potential pathogens in innate immune systems of both plants and animals. We recently showed that chitin elicitor-binding protein (CEBiP), plasma membrane glycoprotein with LysM motifs, functions as a cell surface receptor for chitin elicitor in rice. The predicted structure of CEBiP does not contain any intracellular domains, suggesting that an additional component(s) is required for signaling through the plasma membrane into the cytoplasm. Here, we identified a receptor-like kinase, designated CERK1, which is essential for chitin elicitor signaling in Arabidopsis. The KO mutants for CERK1 completely lost the ability to respond to the chitin elicitor, including MAPK activation, reactive oxygen species generation, and gene expression. Disease resistance of the KO mutant against an incompatible fungus, Alternaria brassicicola, was partly impaired. Complementation with the WT CERK1 gene showed cerk1 mutations were responsible for the mutant phenotypes. CERK1 is a plasma membrane protein containing three LysM motifs in the extracellular domain and an intracellular Ser/Thr kinase domain with autophosphorylation/myelin basic protein kinase activity, suggesting that CERK1 plays a critical role in fungal MAMP perception in plants.
+
++Alternaria
+-Arabidopsis (+enzymology; -genetics; -microbiology)
+-Arabidopsis Proteins (-analysis; -genetics; +physiology)
+-Cell Membrane (-enzymology)
+-Chitin (+metabolism)
+-Gene Expression
+-Genetic Complementation Test
+-Genome, Plant
+-Green Fluorescent Proteins (-analysis; -genetics)
+-Mitogen-Activated Protein Kinases (-metabolism)
+-Molecular Sequence Data
+-Mutation
+-Plant Diseases (+genetics; -microbiology)
+-Protein-Serine-Threonine Kinases (-analysis; -genetics; +physiology)
+-Recombinant Fusion Proteins (-analysis; -genetics)
+
+pii:0705147104
+doi:10.1073/pnas.0705147104
+pubmed:18042724
+pmc:PMC2148337
+

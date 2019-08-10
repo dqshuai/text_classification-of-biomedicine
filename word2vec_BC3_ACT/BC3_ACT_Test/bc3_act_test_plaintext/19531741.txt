@@ -1,0 +1,27 @@
+Nucleic Acids Res.
+
+Bidirectional silencing of RNA polymerase I transcription by a strand switch region in Trypanosoma brucei.
+
+S Haenni, E Studer, GS Burkard, I Roditi
+
+The procyclin genes in Trypanosoma brucei are transcribed by RNA polymerase I as part of 5-10 kb long polycistronic transcription units on chromosomes VI and X. Each procyclin locus begins with two procyclin genes followed by at least one procyclin-associated gene (PAG). In procyclic (insect midgut) form trypanosomes, PAG mRNA levels are about 100-fold lower than those of procyclins. We show that deletion of PAG1, PAG2 or PAG3 results in increased mRNA levels from downstream genes in the same transcription unit. Nascent RNA analysis revealed that most of the effects are due to increased transcription elongation in the knockouts. Furthermore, transient and stable transfections showed that sequence elements on both strands of PAG1 can inhibit Pol I transcription. Finally, by database mining we identified 30 additional PAG-related sequences that are located almost exclusively at strand switch regions and/or at sites where a change of RNA polymerase type is likely to occur.
+
+-5' Untranslated Regions
+-Animals
+-Gene Deletion
+-Genes, Protozoan
+-Genome, Protozoan
+-Membrane Glycoproteins (-genetics; -metabolism)
+-Protozoan Proteins (+genetics; -metabolism)
+-RNA Interference
+-RNA Polymerase I (-antagonists & inhibitors; +metabolism)
+-RNA, Messenger (-metabolism)
++Regulatory Elements, Transcriptional
++Transcription, Genetic
+-Trypanosoma brucei brucei (+genetics; -metabolism)
+
+pii:gkp513
+doi:10.1093/nar/gkp513
+pubmed:19531741
+pmc:PMC2731899
+

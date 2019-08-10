@@ -1,0 +1,24 @@
+Biophys. J.
+
+Single-molecule study of metalloregulator CueR-DNA interactions using engineered Holliday junctions.
+
+NM Andoy, SK Sarkar, Q Wang, D Panda, JJ Benítez, A Kalininskiy, P Chen
+
+To maintain normal metal metabolism, bacteria use metal-sensing metalloregulators to control transcription of metal resistance genes. Depending on their metal-binding states, the MerR-family metalloregulators change their interactions with DNA to suppress or activate transcription. To understand their functions fundamentally, we study how CueR, a Cu(1+)-responsive MerR-family metalloregulator, interacts with DNA, using an engineered DNA Holliday junction (HJ) as a protein-DNA interaction reporter in single-molecule fluorescence resonance energy transfer measurements. By analyzing the single-molecule structural dynamics of the engineered HJ in the presence of various concentrations of both apo- and holo-CueR, we show how CueR interacts with the two conformers of the engineered HJ, forming variable protein-DNA complexes at different protein concentrations and changing the HJ structures. We also show how apo- and holo-CueR differ in their interactions with DNA, and discuss their similarities and differences with other MerR-family metalloregulators. The surprising finding that holo-CueR binds more strongly to DNA than to apo-CueR suggests functional differences among MerR-family metalloregulators, in particular in their mechanisms of switching off gene transcription after activation. The study also corroborates the general applicability of engineered HJs as single-molecule reporters for protein-DNA interactions, which are fundamental processes in gene replication, transcription, recombination, and regulation.
+
+-Base Sequence
+-DNA, Cruciform (+chemistry; -genetics)
+-Escherichia coli
+-Escherichia coli Proteins (+chemistry; -isolation & purification)
+-Fluorescence Polarization
+-Fluorescence Resonance Energy Transfer
+-Kinetics
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-Trans-Activators (+chemistry; -isolation & purification)
+
+pii:S0006-3495(09)01033-9
+doi:10.1016/j.bpj.2009.05.027
+pubmed:19651042
+pmc:PMC2718160
+

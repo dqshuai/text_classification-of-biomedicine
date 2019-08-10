@@ -1,0 +1,26 @@
+J. Biol. Chem.
+
+Crystal structure and biophysical properties of Bacillus subtilis BdbD. An oxidizing thiol:disulfide oxidoreductase containing a novel metal site.
+
+A Crow, A Lewin, O Hecht, M Carlsson Möller, GR Moore, L Hederstedt, NE Le Brun
+
+BdbD is a thiol:disulfide oxidoreductase (TDOR) from Bacillus subtilis that functions to introduce disulfide bonds in substrate proteins/peptides on the outside of the cytoplasmic membrane and, as such, plays a key role in disulfide bond management. Here we demonstrate that the protein is membrane-associated in B. subtilis and present the crystal structure of the soluble part of the protein lacking its membrane anchor. This reveals that BdbD is similar in structure to Escherichia coli DsbA, with a thioredoxin-like domain with an inserted helical domain. A major difference, however, is the presence in BdbD of a metal site, fully occupied by Ca(2+), at an inter-domain position some 14 A away from the CXXC active site. The midpoint reduction potential of soluble BdbD was determined as -75 mV versus normal hydrogen electrode, and the active site N-terminal cysteine thiol was shown to have a low pK(a), consistent with BdbD being an oxidizing TDOR. Equilibrium unfolding studies revealed that the oxidizing power of the protein is based on the instability introduced by the disulfide bond in the oxidized form. The crystal structure of Ca(2+)-depleted BdbD showed that the protein remained folded, with only minor conformational changes. However, the reduced form of Ca(2+)-depleted BdbD was significantly less stable than reduced Ca(2+)-containing protein, and the midpoint reduction potential was shifted by approximately -20 mV, suggesting that Ca(2+) functions to boost the oxidizing power of the protein. Finally, we demonstrate that electron exchange does not occur between BdbD and B. subtilis ResA, a low potential extra-cytoplasmic TDOR.
+
+-Amino Acid Sequence
+-Bacterial Proteins (+chemistry; -genetics; -metabolism)
+-Binding Sites
+-Calcium (+chemistry; -metabolism)
+-Crystallization
+-Molecular Conformation
+-Molecular Sequence Data
+-Oxidation-Reduction
+-Protein Binding
+-Protein Disulfide Reductase (Glutathione) (+chemistry; -genetics; -metabolism)
+-Protein Structure, Tertiary
+-Sequence Homology, Amino Acid
+
+pii:M109.005785
+doi:10.1074/jbc.M109.005785
+pubmed:19535335
+pmc:PMC2749146
+

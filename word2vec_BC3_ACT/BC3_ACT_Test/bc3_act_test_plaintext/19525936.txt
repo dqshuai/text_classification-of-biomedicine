@@ -1,0 +1,28 @@
+Nat. Cell Biol.
+
+BRIT1/MCPH1 links chromatin remodelling to DNA damage response.
+
+G Peng, EK Yim, H Dai, AP Jackson, I Burgt, MR Pan, R Hu, K Li, SY Lin
+
+To detect and repair damaged DNA, DNA-damage-response proteins need to overcome the barrier of condensed chromatin to gain access to DNA lesions. ATP-dependent chromatin remodelling is one of the fundamental mechanisms used by cells to relax chromatin in DNA repair. However, the mechanism mediating their recruitment to DNA lesions remains largely unknown. BRIT1 (also known as MCPH1) is an early DNA-damage-response protein that is mutated in human primary microcephaly. Here we report a previously unknown function of BRIT1 as a regulator of the ATP-dependent chromatin remodelling complex SWI-SNF in DNA repair. After damage to DNA, BRIT1 increases its interaction with SWI-SNF through ATM/ATR-dependent phosphorylation on the BAF170 subunit. This increase in binding affinity provides a means by which SWI-SNF can be specifically recruited to and maintained at DNA lesions. Loss of BRIT1 causes impaired chromatin relaxation as a result of decreased association of SWI-SNF with chromatin. This explains the decreased recruitment of repair proteins to DNA lesions and the reduced efficiency of repair in BRIT1-deficient cells, resulting in impaired cell survival after DNA damage. Our findings therefore identify BRIT1 as a key molecule that links chromatin remodelling with response to DNA damage in the control of DNA repair, and its dysfunction contributes to human disease.
+
+-Blotting, Western
+-Cell Line
+-Cell Line, Tumor
+-Chromatin Assembly and Disassembly (-genetics; +physiology)
+-Chromatin Immunoprecipitation
+-Chromatography, Affinity
+-Chromosomal Proteins, Non-Histone (-metabolism)
+-DNA Damage (-genetics; +physiology)
+-DNA Repair (-genetics; -physiology)
+-Humans
+-Nerve Tissue Proteins (-genetics; -metabolism; +physiology)
+-Phosphorylation
+-Transcription Factors (-metabolism)
+
+pii:ncb1895
+doi:10.1038/ncb1895
+pubmed:19525936
+mid:NIHMS107906
+pmc:PMC2714531
+

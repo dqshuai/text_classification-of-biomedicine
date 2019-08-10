@@ -1,0 +1,23 @@
+J. Med. Chem.
+
+Design and implementation of an ribonucleic acid (RNA) directed fragment library.
+
+K Bodoor, V Boyapati, V Gopu, M Boisdore, K Allam, J Miller, WD Treleaven, T Weldeghiorghis, F Aboul-ela
+
+The design of RNA binding ligands is complicated by issues of specificity, target flexibility, and the tractability of known RNA inhibitors toward chemical derivitization. To address these difficulties, an RNA-directed fragment compound library is presented. We began with an analysis of 120 small molecules with reported RNA-binding activity. Calculated physical and chemical properties for the RNA ligands are comparable to those of ligands for established protein drug targets. To ensure that our library contained RNA-binding functionalities that might not be detected by the above comparisons, 114 fragment compounds were purchased on the basis of similarity to substructures of RNA ligands. Five "hits" were identified for the decoding site from the bacterial ribosome by NMR. These included fragments derived from A-site binding ligands but also compounds not previously identified as A-site binders. Hits generated in this manner can be used to probe the interaction surface of RNA and its conformational plasticity, facilitating structure-based optimization.
+
+-Binding Sites
+-Chemistry, Physical
+-Databases, Factual
++Drug Design
+-Ligands
+-Magnetic Resonance Spectroscopy
+-Molecular Weight
+-Organic Chemicals (+chemical synthesis; -chemistry; +metabolism; -pharmacology)
+-Quality Control
+-RNA (-chemistry; +metabolism)
+-Small Molecule Libraries (+chemistry; +metabolism; -pharmacology)
+
+doi:10.1021/jm9000659
+pubmed:19445516
+

@@ -1,0 +1,25 @@
+J. Biol. Chem.
+
+The antimalarial drug quinine disrupts Tat2p-mediated tryptophan transport and causes tryptophan starvation.
+
+C Khozoie, RJ Pleass, SV Avery
+
+Quinine is a major drug of choice for the treatment of malaria. However, the primary mode of quinine action is unclear, and its efficacy is marred by adverse reactions among patients. To help address these issues, a genome-wide screen for quinine sensitivity was carried out using the yeast deletion strain collection. Quinine-sensitive mutants identified in the screen included several that were defective for tryptophan biosynthesis (trp strains). This sensitivity was confirmed in independent assays and was suppressible with exogenous Trp, suggesting that quinine caused Trp starvation. Accordingly, quinine was found to inhibit [(3)H]Trp uptake by cells, and the quinine sensitivity of a trp1Delta mutant could be rescued by overexpression of Trp permeases, encoded by TAT1 and TAT2. The site of quinine action was identified specifically as the high affinity Trp/Tyr permease, Tat2p, with which quinine associated in a Trp-suppressible manner. A resultant action also on Tyr levels was reflected by the Tyr-suppressible quinine hypersensitivity of an aro7Delta deletion strain, which is auxotrophic for Tyr (and Phe). The present genome-wide dataset provides an important resource for discovering modes of quinine toxicity. That potential was validated with our demonstration that Trp and Tyr uptake via Tat2p is a major target of cellular quinine toxicity. The results also suggest that dietary tryptophan supplements could help to avert the toxic effects of quinine.
+
+-Amino Acid Transport Systems (-genetics; +metabolism)
+-Antimalarials (-chemistry; +pharmacology)
+-Biological Transport (-drug effects)
+-Drug Design
+-Drug Resistance, Fungal (-genetics)
+-Mutation
+-Quinine (-chemistry; +pharmacology)
+-Saccharomyces cerevisiae (+drug effects; -genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Tritium (-diagnostic use)
+-Tryptophan (-biosynthesis; -chemistry; +metabolism)
+
+pii:M109.005843
+doi:10.1074/jbc.M109.005843
+pubmed:19416971
+pmc:PMC2709357
+

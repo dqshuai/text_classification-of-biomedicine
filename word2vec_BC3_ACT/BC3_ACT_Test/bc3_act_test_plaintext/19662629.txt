@@ -1,0 +1,17 @@
+Proteomics
+
+A guide to the Proteomics Identifications Database proteomics data repository.
+
+JA Vizcaíno, R Côté, F Reisinger, JM Foster, M Mueller, J Rameseder, H Hermjakob, L Martens
+
+The Proteomics Identifications Database (PRIDE, www.ebi.ac.uk/pride) is one of the main repositories of MS derived proteomics data. Here, we point out the main functionalities of PRIDE both as a submission repository and as a source for proteomics data. We describe the main features for data retrieval and visualization available through the PRIDE web and BioMart interfaces. We also highlight the mechanism by which tailored queries in the BioMart can join PRIDE to other resources such as Reactome, Ensembl or UniProt to execute extremely powerful across-domain queries. We then present the latest improvements in the PRIDE submission process, using the new easy-to-use, platform-independent graphical user interface submission tool PRIDE Converter. Finally, we speak about future plans and the role of PRIDE in the ProteomExchange consortium.
+
+-Database Management Systems
++Databases, Protein
+-Internet
+-Proteomics (+methods)
+-User-Computer Interface
+
+doi:10.1002/pmic.200900402
+pubmed:19662629
+

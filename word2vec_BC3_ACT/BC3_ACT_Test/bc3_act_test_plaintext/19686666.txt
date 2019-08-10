@@ -1,0 +1,22 @@
+Biophys. J.
+
+Focused functional dynamics of supramolecules by use of a mixed-resolution elastic network model.
+
+O Kurkcuoglu, OT Turgut, S Cansu, RL Jernigan, P Doruker
+
+The mixed-resolution elastic network model was introduced previously for computing the motions of a structure, which is described at different levels of detail in different parts, for example, with atomistic and residue-level regions. This method has proved to be an efficient tool to explore the collective dynamics of proteins with some atomistic details, which would be difficult to obtain with either conventional full-atom approaches or fully coarse-grained models. Understanding function often requires atomic detail, but not necessarily for the entire structure. In this study, the calculation of the interaction forces between different resolution regions for the hierarchical levels of coarse-graining is further elaborated on in the new approach by considering explicitly the atomic contacts in the crystal structure. The collective dynamics of the enzyme triosephosphate isomerase and its active site together with loop 6 motions are considered in detail. The supramolecular assemblage ribosome and local atomic motions in its "interesting" functional part-the decoding center-are investigated for the low frequency range of the spectrum with high computational efficiency. This new atom-based mixed coarse-graining approach can be effectively used to generate realistic high-resolution conformations of extremely large protein-DNA or RNA complexes by performing energy minimization on structures deformed along the normal modes of the elastic network model. The new model permits focusing on specific functional parts that move in coordination and response to the remainder of the entire structure.
+
+-Computer Simulation
+-Elastic Modulus
++Models, Chemical
++Models, Molecular
+-Molecular Motor Proteins (+chemistry; +ultrastructure)
+-Motion
+-Multiprotein Complexes (+chemistry; +ultrastructure)
+-Protein Conformation
+
+pii:S0006-3495(09)01111-4
+doi:10.1016/j.bpj.2009.06.009
+pubmed:19686666
+pmc:PMC2726304
+

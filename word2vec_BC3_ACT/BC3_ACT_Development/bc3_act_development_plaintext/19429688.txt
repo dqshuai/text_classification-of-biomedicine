@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+COFECO: composite function annotation enriched by protein complex data.
+
+CH Sun, MS Kim, Y Han, GS Yi
+
+COFECO is a web-based tool for a composite annotation of protein complexes, KEGG pathways and Gene Ontology (GO) terms within a class of genes and their orthologs under study. Widely used functional enrichment tools using GO and KEGG pathways create large list of annotations that make it difficult to derive consolidated information and often include over-generalized terms. The interrelationship of annotation terms can be more clearly delineated by integrating the information of physically interacting proteins with biological pathways and GO terms. COFECO has the following advanced characteristics: (i) The composite annotation sets of correlated functions and cellular processes for a given gene set can be identified in a more comprehensive and specified way by the employment of protein complex data together with GO and KEGG pathways as annotation resources. (ii) Orthology based integrative annotations among different species complement the defective annotations in an individual genome and provide the information of evolutionary conserved correlations. (iii) A term filtering feature enables users to collect the specified annotations enriched with selected function terms. (iv) A cross-comparison of annotation results between two different datasets is possible. In addition, COFECO provides a web-based GO hierarchical viewer and KEGG pathway viewer where the enrichment results can be summarized and further explored. COFECO is freely accessible at http://piech.kaist.ac.kr/cofeco.
+
+-Cell Cycle Proteins (-genetics; -metabolism)
+-Genes
+-Humans
+-Internet
+-Male
+-Multiprotein Complexes (+genetics; -metabolism)
+-Protein Interaction Mapping
++Software
+-Testis (-metabolism)
+
+pii:gkp331
+doi:10.1093/nar/gkp331
+pubmed:19429688
+pmc:PMC2703949
+

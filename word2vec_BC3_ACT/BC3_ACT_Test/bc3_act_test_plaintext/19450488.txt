@@ -1,0 +1,35 @@
+Biophys. J.
+
+Mechanism of interaction between the general anesthetic halothane and a model ion channel protein, II: Fluorescence and vibrational spectroscopy using a cyanophenylalanine probe.
+
+J Liu, J Strzalka, A Tronin, JS Johansson, JK Blasie
+
+We demonstrate that cyano-phenylalanine (Phe(CN)) can be utilized to probe the binding of the inhalational anesthetic halothane to an anesthetic-binding, model ion channel protein hbAP-Phe(CN). The Trp to Phe(CN) mutation alters neither the alpha-helical conformation nor the 4-helix bundle structure. The halothane binding properties of this Phe(CN) mutant hbAP-Phe(CN), based on fluorescence quenching, are consistent with those of the prototype, hbAP1. The dependence of fluorescence lifetime as a function of halothane concentration implies that the diffusion of halothane in the nonpolar core of the protein bundle is one-dimensional. As a consequence, at low halothane concentrations, the quenching of the fluorescence is dynamic, whereas at high concentrations the quenching becomes static. The 4-helix bundle structure present in aqueous detergent solution and at the air-water interface, is preserved in multilayer films of hbAP-Phe(CN), enabling vibrational spectroscopy of both the protein and its nitrile label (-CN). The nitrile groups' stretching vibration band shifts to higher frequency in the presence of halothane, and this blue-shift is largely reversible. Due to the complexity of this amphiphilic 4-helix bundle model membrane protein, where four Phe(CN) probes are present adjacent to the designed cavity forming the binding site within each bundle, all contributing to the infrared absorption, molecular dynamics (MD) simulation is required to interpret the infrared results. The MD simulations indicate that the blue-shift of -CN stretching vibration induced by halothane arises from an indirect effect, namely an induced change in the electrostatic protein environment averaged over the four probe oscillators, rather than a direct interaction with the oscillators. hbAP-Phe(CN) therefore provides a successful template for extending these investigations of the interactions of halothane with the model membrane protein via vibrational spectroscopy, using cyano-alanine residues to form the anesthetic binding cavity.
+
+-Air
+-Alanine (+analogs & derivatives; -chemistry)
+-Amino Acid Sequence
+-Anesthetics, General (+chemistry; -metabolism)
+-Buffers
+-Circular Dichroism
+-Detergents (-chemistry)
+-Fluorescent Dyes (+chemistry)
+-Halothane (+chemistry; -metabolism)
+-Ion Channels (+chemistry; -metabolism)
+-Molecular Sequence Data
+-Nitriles (+chemistry)
+-Peptides (-chemical synthesis; -chemistry; -metabolism)
+-Protein Binding
+-Protein Structure, Secondary
+-Spectrometry, Fluorescence
+-Spectrophotometry, Infrared
+-Surface Properties
++Vibration
+-Water (-chemistry)
+-X-Rays
+
+pii:S0006-3495(09)00610-9
+doi:10.1016/j.bpj.2009.01.055
+pubmed:19450488
+pmc:PMC2712206
+

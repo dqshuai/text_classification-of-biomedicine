@@ -1,0 +1,20 @@
+Plant Physiol.
+
+Computational identification of potential molecular interactions in Arabidopsis.
+
+M Lin, B Hu, L Chen, P Sun, Y Fan, P Wu, X Chen
+
+Knowledge of the protein interaction network is useful to assist molecular mechanism studies. Several major repositories have been established to collect and organize reported protein interactions. Many interactions have been reported in several model organisms, yet a very limited number of plant interactions can thus far be found in these major databases. Computational identification of potential plant interactions, therefore, is desired to facilitate relevant research. In this work, we constructed a support vector machine model to predict potential Arabidopsis (Arabidopsis thaliana) protein interactions based on a variety of indirect evidence. In a 100-iteration bootstrap evaluation, the confidence of our predicted interactions was estimated to be 48.67%, and these interactions were expected to cover 29.02% of the entire interactome. The sensitivity of our model was validated with an independent evaluation data set consisting of newly reported interactions that did not overlap with the examples used in model training and testing. Results showed that our model successfully recognized 28.91% of the new interactions, similar to its expected sensitivity (29.02%). Applying this model to all possible Arabidopsis protein pairs resulted in 224,206 potential interactions, which is the largest and most accurate set of predicted Arabidopsis interactions at present. In order to facilitate the use of our results, we present the Predicted Arabidopsis Interactome Resource, with detailed annotations and more specific per interaction confidence measurements. This database and related documents are freely accessible at http://www.cls.zju.edu.cn/pair/.
+
+-Arabidopsis (+genetics; +metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
++Computer Simulation
+-Gene Expression Regulation, Plant (+physiology)
+-Meiosis (-physiology)
+-Recombination, Genetic
+
+pii:pp.109.141317
+doi:10.1104/pp.109.141317
+pubmed:19592425
+pmc:PMC2735983
+

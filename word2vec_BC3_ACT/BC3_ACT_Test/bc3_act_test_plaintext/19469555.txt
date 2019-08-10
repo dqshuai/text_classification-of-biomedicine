@@ -1,0 +1,28 @@
+J. Proteome Res.
+
+Toward digital staining using imaging mass spectrometry and random forests.
+
+M Hanselmann, U Köthe, M Kirchner, BY Renard, ER Amstalden, K Glunde, RM Heeren, FA Hamprecht
+
+We show on imaging mass spectrometry (IMS) data that the Random Forest classifier can be used for automated tissue classification and that it results in predictions with high sensitivities and positive predictive values, even when intersample variability is present in the data. We further demonstrate how Markov Random Fields and vector-valued median filtering can be applied to reduce noise effects to further improve the classification results in a posthoc smoothing step. Our study gives clear evidence that digital staining by means of IMS constitutes a promising complement to chemical staining techniques.
+
+-Algorithms
+-Computational Biology (-methods)
+-Data Interpretation, Statistical
+-Gene Expression Profiling (-methods)
+-Humans
+-Image Processing, Computer-Assisted
+-Markov Chains
+-Mass Spectrometry (+methods)
+-Models, Statistical
+-Neoplasms (+pathology)
+-Oligonucleotide Array Sequence Analysis (-methods)
+-Pattern Recognition, Automated
+-Proteomics (+methods)
+-Software
+
+doi:10.1021/pr900253y
+pubmed:19469555
+mid:NIHMS124402
+pmc:PMC2763415
+

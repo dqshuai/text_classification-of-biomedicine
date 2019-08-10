@@ -1,0 +1,31 @@
+Plant Cell
+
+An exocyst complex functions in plant cell growth in Arabidopsis and tobacco.
+
+M Hála, R Cole, L Synek, E Drdová, T Pecenková, A Nordheim, T Lamkemeyer, J Madlung, F Hochholdinger, JE Fowler, V Zárský
+
+The exocyst, an octameric tethering complex and effector of Rho and Rab GTPases, facilitates polarized secretion in yeast and animals. Recent evidence implicates three plant homologs of exocyst subunits (SEC3, SEC8, and EXO70A1) in plant cell morphogenesis. Here, we provide genetic, cell biological, and biochemical evidence that these and other predicted subunits function together in vivo in Arabidopsis thaliana. Double mutants in exocyst subunits (sec5 exo70A1 and sec8 exo70A1) show a synergistic defect in etiolated hypocotyl elongation. Mutants in exocyst subunits SEC5, SEC6, SEC8, and SEC15a show defective pollen germination and pollen tube growth phenotypes. Using antibodies directed against SEC6, SEC8, and EXO70A1, we demonstrate colocalization of these proteins at the apex of growing tobacco pollen tubes. The SEC3, SEC5, SEC6, SEC8, SEC10, SEC15a, and EXO70 subunits copurify in a high molecular mass fraction of 900 kD after chromatographic fractionation of an Arabidopsis cell suspension extract. Blue native electrophoresis confirmed the presence of SEC3, SEC6, SEC8, and EXO70 in high molecular mass complexes. Finally, use of the yeast two-hybrid system revealed interaction of Arabidopsis SEC3a with EXO70A1, SEC10 with SEC15b, and SEC6 with SEC8. We conclude that the exocyst functions as a complex in plant cells, where it plays important roles in morphogenesis.
+
+-Arabidopsis (-genetics; -growth & development; +metabolism)
+-Arabidopsis Proteins (-genetics; -metabolism; +physiology)
+-Chromatography, Ion Exchange
+-Chromatography, Liquid
+-Exocytosis (-genetics; -physiology)
+-Fluorescent Antibody Technique, Indirect
+-Hypocotyl (-genetics; -growth & development; -metabolism)
+-Plant Proteins (-genetics; -metabolism; +physiology)
+-Pollen (-genetics; -growth & development; -metabolism)
+-Pollen Tube (-genetics; -growth & development; -metabolism)
+-Protein Binding
+-Seedling (-genetics; -growth & development; -metabolism)
+-Spectrometry, Mass, Electrospray Ionization
+-Tandem Mass Spectrometry
+-Tobacco (-genetics; -growth & development; +metabolism)
+-Two-Hybrid System Techniques
+-Vesicular Transport Proteins (-genetics; -metabolism; +physiology)
+
+pii:tpc.108.059105
+doi:10.1105/tpc.108.059105
+pubmed:18492870
+pmc:PMC2438459
+

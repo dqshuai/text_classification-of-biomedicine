@@ -1,0 +1,27 @@
+J. Cell Biol.
+
+piRNAs mediate posttranscriptional retroelement silencing and localization to pi-bodies in the Drosophila germline.
+
+AK Lim, L Tao, T Kai
+
+Nuage, a well-conserved perinuclear organelle found in germline cells, is thought to mediate retroelement repression in Drosophila melanogaster by regulating the production of Piwi-interacting RNAs (piRNAs). In this study, we present evidence that the nuage-piRNA pathway components can be found in cytoplasmic foci that also contain retroelement transcripts, antisense piRNAs, and proteins involved in messenger RNA (mRNA) degradation. These mRNA degradation proteins, decapping protein 1/2 (DCP1/2), Me31B (maternal expression at 31B), and pacman (PCM), are normally thought of as components of processing bodies. In spindle-E (spn-E) and aubergine (aub) mutants that lack piRNA production, piRNA pathway proteins no longer overlap the mRNA degradation proteins. Concomitantly, spn-E and aub mutant ovaries show an accumulation of full-length retroelement transcripts and prolonged stabilization of HeT-A mRNA, supporting the role of piRNAs in mediating posttranscriptional retroelement silencing. HeT-A mRNA is derepressed in mRNA degradation mutants twin, dcp1, and ski3, indicating that these enzymes also aid in removing full-length transcripts and/or decay intermediates.
+
+-Animals
+-Caspases (-genetics; -metabolism)
+-DEAD-box RNA Helicases (-genetics; -metabolism)
+-Drosophila Proteins (-genetics; -metabolism)
+-Drosophila melanogaster (+genetics; -metabolism)
+-Exoribonucleases (-genetics; -metabolism)
++Gene Silencing
+-Mutation
++RNA Processing, Post-Transcriptional
+-RNA, Messenger (-genetics; -metabolism)
+-RNA, Small Interfering (-genetics; +metabolism)
+-Retroelements (+genetics)
+-Transcription Factors (-genetics; -metabolism)
+
+pii:jcb.200904063
+doi:10.1083/jcb.200904063
+pubmed:19651888
+pmc:PMC2728408
+

@@ -1,0 +1,20 @@
+FEBS J.
+
+Simplified yet highly accurate enzyme kinetics for cases of low substrate concentrations.
+
+HM Härdin, A Zagaris, K Krab, HV Westerhoff
+
+Much of enzyme kinetics builds on simplifications enabled by the quasi-steady-state approximation and is highly useful when the concentration of the enzyme is much lower than that of its substrate. However, in vivo, this condition is often violated. In the present study, we show that, under conditions of realistic yet high enzyme concentrations, the quasi-steady-state approximation may readily be off by more than a factor of four when predicting concentrations. We then present a novel extension of the quasi-steady-state approximation based on the zero-derivative principle, which requires considerably less theoretical work than did previous such extensions. We show that the first-order zero-derivative principle, already describes much more accurately the true enzyme dynamics at enzyme concentrations close to the concentration of their substrates. This should be particularly relevant for enzyme kinetics where the substrate is an enzyme, such as in phosphorelay and mitogen-activated protein kinase pathways. We illustrate this for the important example of the phosphotransferase system involved in glucose uptake, metabolism and signaling. We find that this system, with a potential complexity of nine dimensions, can be understood accurately using the first-order zero-derivative principle in terms of the behavior of a single variable with all other concentrations constrained to follow that behavior.
+
+-Bacteria (-enzymology)
+-Enzymes (+metabolism)
+-Kinetics
++Models, Biological
+-Phosphoenolpyruvate Sugar Phosphotransferase System (-metabolism)
+-Substrate Specificity
+-Systems Biology
+
+pii:EJB7233
+doi:10.1111/j.1742-4658.2009.07233.x
+pubmed:19725885
+

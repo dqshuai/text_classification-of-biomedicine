@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+Mechanisms associated with HIV-1 resistance to acyclovir by the V75I mutation in reverse transcriptase.
+
+EP Tchesnokov, A Obikhod, I Massud, A Lisco, C Vanpouille, B Brichacek, J Balzarini, C McGuigan, M Derudas, L Margolis, RF Schinazi, M Götte
+
+It has recently been demonstrated that the anti-herpetic drug acyclovir (ACV) also displays antiviral activity against the human immunodeficiency virus type 1 (HIV-1). The triphosphate form of ACV is accepted by HIV-1 reverse transcriptase (RT), and subsequent incorporation leads to classical chain termination. Like all approved nucleoside analogue RT inhibitors (NRTIs), the selective pressure of ACV is associated with the emergence of resistance. The V75I mutation in HIV-1 RT appears to be dominant in this regard. By itself, this mutation is usually not associated with resistance to currently approved NRTIs. Here we studied the underlying biochemical mechanism. We demonstrate that V75I is also selected under the selective pressure of a monophosphorylated prodrug that was designed to bypass the bottleneck in drug activation to the triphosphate form (ACV-TP). Pre-steady-state kinetics reveal that V75I discriminates against the inhibitor at the level of catalysis, whereas binding of the inhibitor remains largely unaffected. The incorporated ACV-monophosphate (ACV-MP) is vulnerable to excision in the presence of the pyrophosphate donor ATP. V75I compromises binding of the next nucleotide that can otherwise provide a certain degree of protection from excision. Collectively, the results of this study suggest that ACV is sensitive to two different resistance pathways, which warrants further investigation regarding the detailed resistance profile of ACV. Such studies will be crucial in assessing the potential clinical utility of ACV and its derivatives in combination with established NRTIs.
+
+-Acyclovir (+pharmacology)
+-Anti-HIV Agents (+pharmacology)
+-Base Sequence
+-DNA (-chemistry)
++Drug Resistance, Viral
+-HIV Reverse Transcriptase (+metabolism)
+-HIV-1 (+metabolism)
+-Humans
+-Kinetics
+-Models, Chemical
+-Molecular Sequence Data
++Mutation
+-Nucleic Acids (-chemistry)
+-Nucleotides (-chemistry)
+-Phosphates (-chemistry)
+
+pii:M109.024026
+doi:10.1074/jbc.M109.024026
+pubmed:19509419
+pmc:PMC2755874
+

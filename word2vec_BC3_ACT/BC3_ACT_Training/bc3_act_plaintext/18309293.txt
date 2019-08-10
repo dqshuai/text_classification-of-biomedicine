@@ -1,0 +1,28 @@
+EMBO J.
+
+Plx1 is required for chromosomal DNA replication under stressful conditions.
+
+K Trenz, A Errico, V Costanzo
+
+Polo-like kinase (Plk)1 is required for mitosis progression. However, although Plk1 is expressed throughout the cell cycle, its function during S-phase is unknown. Using Xenopus laevis egg extracts, we demonstrate that Plx1, the Xenopus orthologue of Plk1, is required for DNA replication in the presence of stalled replication forks induced by aphidicolin, etoposide or reduced levels of DNA-bound Mcm complexes. Plx1 binds to chromatin and suppresses the ATM/ATR-dependent intra-S-phase checkpoint that inhibits origin firing. This allows Cdc45 loading and derepression of DNA replication initiation. Checkpoint activation increases Plx1 binding to the Mcm complex through its Polo box domain. Plx1 recruitment to chromatin is independent of checkpoint mediators Tipin and Claspin. Instead, ATR-dependent phosphorylation of serine 92 of Mcm2 is required for the recruitment of Plx1 to chromatin and for the recovery of DNA replication under stress. Depletion of Plx1 leads to accumulation of chromosomal breakage that is prevented by the addition of recombinant Plx1. These data suggest that Plx1 promotes genome stability by regulating DNA replication under stressful conditions.
+
+-Animals
+-Carrier Proteins (-metabolism)
+-Cell Cycle Proteins (-immunology; +physiology)
+-Chromosome Aberrations
+-Chromosomes (+metabolism; -physiology)
+-DNA Breaks, Double-Stranded
+-DNA Replication (-genetics; +physiology)
+-Female
+-Genomic Instability (-genetics)
+-Oxidative Stress (-genetics)
+-Protein-Serine-Threonine Kinases (-deficiency; -immunology; +physiology)
+-Stress, Physiological (+metabolism)
+-Xenopus Proteins (-deficiency; -immunology; -metabolism; +physiology)
+-Xenopus laevis
+
+pii:emboj200829
+doi:10.1038/emboj.2008.29
+pubmed:18309293
+pmc:PMC2265110
+

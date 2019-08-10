@@ -1,0 +1,20 @@
+Biochemistry
+
+Molecular mechanism for the denaturation of proteins by urea.
+
+J Almarza, L Rincon, A Bahsas, F Brito
+
+Understanding protein-solute interactions is one of the sizable challenges of protein chemistry; therefore, numerous experimental studies have attempted to explain the mechanism by which proteins unfold in aqueous urea solutions. On the basis of kinetic evidence at low urea concentrations, (1)H NMR spectroscopic analysis, and molecular orbital calculations, we propose a mechanistic model for the denaturation of RNase A in urea. Our results support a direct interaction between urea and protonated histidine as the initial step for protein inactivation followed by hydrogen bond formation with polar residues, and the breaking of hydrophobic collapse as the final steps for protein denaturation. With the proposed model, we can rationalize apparently conflicting results in the literature about the mechanism of protein denaturation with urea.
+
+-Models, Theoretical
+-Nuclear Magnetic Resonance, Biomolecular
++Protein Conformation
++Protein Denaturation
+-Ribonuclease, Pancreatic (+chemistry; -metabolism)
+-Thermodynamics
+-Urea (+chemistry; -metabolism)
+-Water (-chemistry)
+
+doi:10.1021/bi9007116
+pubmed:19580327
+

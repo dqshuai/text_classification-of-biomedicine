@@ -1,0 +1,26 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+RNAi screen for rapid therapeutic target identification in leukemia patients.
+
+JW Tyner, MW Deininger, MM Loriaux, BH Chang, JR Gotlib, SG Willis, H Erickson, T Kovacsovics, T O'Hare, MC Heinrich, BJ Druker
+
+Targeted therapy has vastly improved outcomes in certain types of cancer. Extension of this paradigm across a broad spectrum of malignancies will require an efficient method to determine the molecular vulnerabilities of cancerous cells. Improvements in sequencing technology will soon enable high-throughput sequencing of entire genomes of cancer patients; however, determining the relevance of identified sequence variants will require complementary functional analyses. Here, we report an RNAi-assisted protein target identification (RAPID) technology that individually assesses targeting of each member of the tyrosine kinase gene family. We demonstrate that RAPID screening of primary leukemia cells from 30 patients identifies targets that are critical to survival of the malignant cells from 10 of these individuals. We identify known, activating mutations in JAK2 and K-RAS, as well as patient-specific sensitivity to down-regulation of FLT1, CSF1R, PDGFR, ROR1, EPHA4/5, JAK1/3, LMTK3, LYN, FYN, PTK2B, and N-RAS. We also describe a previously undescribed, somatic, activating mutation in the thrombopoietin receptor that is sensitive to down-stream pharmacologic inhibition. Hence, the RAPID technique can quickly identify molecular vulnerabilities in malignant cells. Combination of this technique with whole-genome sequencing will represent an ideal tool for oncogenic target identification such that specific therapies can be matched with individual patients.
+
+-Alleles
+-Cell Line, Tumor
+-Gene Expression Profiling
+-Gene Expression Regulation, Neoplastic
+-Humans
+-Janus Kinase 2 (-genetics; -metabolism)
+-Leukemia (+genetics; -metabolism; +therapy)
+-Mutation (-genetics)
++RNA Interference
+-Receptors, Thrombopoietin (-genetics)
+-Time Factors
+-Treatment Outcome
+
+pii:0903233106
+doi:10.1073/pnas.0903233106
+pubmed:19433805
+pmc:PMC2680429
+

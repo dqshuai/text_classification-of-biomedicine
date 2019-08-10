@@ -1,0 +1,25 @@
+PLoS Comput. Biol.
+
+Evolutionary triplet models of structured RNA.
+
+RK Bradley, I Holmes
+
+The reconstruction and synthesis of ancestral RNAs is a feasible goal for paleogenetics. This will require new bioinformatics methods, including a robust statistical framework for reconstructing histories of substitutions, indels and structural changes. We describe a "transducer composition" algorithm for extending pairwise probabilistic models of RNA structural evolution to models of multiple sequences related by a phylogenetic tree. This algorithm draws on formal models of computational linguistics as well as the 1985 protosequence algorithm of David Sankoff. The output of the composition algorithm is a multiple-sequence stochastic context-free grammar. We describe dynamic programming algorithms, which are robust to null cycles and empty bifurcations, for parsing this grammar. Example applications include structural alignment of non-coding RNAs, propagation of structural information from an experimentally-characterized sequence to its homologs, and inference of the ancestral structure of a set of diverged RNAs. We implemented the above algorithms for a simple model of pairwise RNA structural evolution; in particular, the algorithms for maximum likelihood (ML) alignment of three known RNA structures and a known phylogeny and inference of the common ancestral structure. We compared this ML algorithm to a variety of related, but simpler, techniques, including ML alignment algorithms for simpler models that omitted various aspects of the full model and also a posterior-decoding alignment algorithm for one of the simpler models. In our tests, incorporation of basepair structure was the most important factor for accurate alignment inference; appropriate use of posterior-decoding was next; and fine details of the model were least important. Posterior-decoding heuristics can be substantially faster than exact phylogenetic inference, so this motivates the use of sum-over-pairs heuristics where possible (and approximate sum-over-pairs). For more exact probabilistic inference, we discuss the use of transducer composition for ML (or MCMC) inference on phylogenies, including possible ways to make the core operations tractable.
+
+-Algorithms
+-Base Sequence
+-Computational Biology (+methods)
+-Computer Simulation
+-Evolution, Molecular
+-Likelihood Functions
+-Markov Chains
+-Models, Statistical
+-Phylogeny
+-RNA (+chemistry)
+-Sequence Analysis, RNA
+-Software
+
+doi:10.1371/journal.pcbi.1000483
+pubmed:19714212
+pmc:PMC2725318
+

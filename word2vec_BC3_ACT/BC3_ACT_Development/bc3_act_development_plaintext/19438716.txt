@@ -1,0 +1,29 @@
+FEBS J.
+
+Characterization of the NAD(P)H oxidase and metronidazole reductase activities of the RdxA nitroreductase of Helicobacter pylori.
+
+IN Olekhnovich, A Goodwin, PS Hoffman
+
+Metronidazole (MTZ) is widely used in combination therapies against the human gastric pathogen Helicobacter pylori. Resistance to this drug is common among clinical isolates and results from loss-of-function mutations in rdxA, which encodes an oxygen-insensitive nitroreductase. The RdxA-associated MTZ-reductase activity of H. pylori is lost upon cell disruption. Here we provide a mechanistic explanation for this phenomenon. Under aerobic conditions, His6-tagged RdxA protein (purified from Escherichia coli), catalyzed NAD(P)H-dependent reductions of nitroaromatic and quinone substrates including nitrofurazone, nitrofurantoin, furazolidone, CB1954 and 1,4-benzoquinone, but not MTZ. Unlike other nitroreductases, His6-RdxA exhibited potent NAD(P)H-oxidase activity (k(cat) = 2.8 s(-1)) which suggested two possible explanations for the role of oxygen in MTZ reduction: (a) NAD(P)H-oxidase activity promotes cellular hypoxia (nonspecific reduction of MTZ), and (b) molecular oxygen out-competes MTZ for reducing equivalents. The first hypothesis was eliminated upon finding that rdxA expression, although increasing MTZ toxicity in both E. coli and H. pylori constructs, did not increase paraquat toxicity, even though both are of similar redox potential. The second hypothesis was confirmed by demonstrating NAD(P)H-dependent MTZ-reductase activity (apparent K(m) = 122 +/- 58 microM, k(cat) = 0.24 s(-1)) under strictly anaerobic conditions. The MTZ-reductase activity of RdxA was 60 times greater than for NfsB (E. coli NTR), but 10 times lower than the NADPH-oxidase activity. Whether molecular oxygen directly competes with MTZ or alters the redox state of the FMN cofactors is discussed.
+
+-Anaerobiosis
+-Anti-Infective Agents (-metabolism; -pharmacology)
+-Bacterial Proteins (-genetics; +metabolism)
+-Helicobacter pylori (-drug effects; +enzymology; -genetics)
+-Kinetics
+-Metronidazole (-chemistry; +metabolism; -pharmacology)
+-Molecular Structure
+-NADPH Oxidase (-genetics; +metabolism)
+-Nitroreductases (-genetics; +metabolism)
+-Oxidation-Reduction
+-Oxygen (-metabolism)
+-Recombinant Proteins (-isolation & purification; -metabolism)
+-Spectrophotometry
+-Substrate Specificity
+
+pii:EJB7060
+doi:10.1111/j.1742-4658.2009.07060.x
+pubmed:19438716
+mid:NIHMS140067
+pmc:PMC2751797
+

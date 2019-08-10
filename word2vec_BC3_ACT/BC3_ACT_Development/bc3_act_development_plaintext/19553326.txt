@@ -1,0 +1,25 @@
+J. Virol.
+
+Therapeutic memory T cells require costimulation for effective clearance of a persistent viral infection.
+
+L Garidou, S Heydari, P Truong, DG Brooks, DB McGavern
+
+Persistent viral infections are a major health concern worldwide. During persistent infection, overwhelming viral replication and the rapid loss of antiviral T-cell function can prevent immune-mediated clearance of the infection, and therapies to reanimate the immune response and purge persistent viruses have been largely unsuccessful. Adoptive immunotherapy using memory T cells is a highly successful therapeutic approach to eradicate a persistent viral infection. Understanding precisely how therapeutically administered memory T cells achieve clearance should improve our ability to terminate states of viral persistence in humans. Mice persistently infected from birth with lymphocytic choriomeningitis virus are tolerant to the pathogen at the T-cell level and thus provide an excellent model to evaluate immunotherapeutic regimens. Previously, we demonstrated that adoptively transferred memory T cells require recipient dendritic cells to effectively purge an established persistent viral infection. However, the mechanisms that reactivate and sustain memory T-cell responses during clearance of such an infection remain unclear. Here we establish that therapeutic memory T cells require CD80 and CD86 costimulatory signals to efficiently clear an established persistent viral infection in vivo. Early blockade of costimulatory pathways with CTLA-4-Fc decreased the secondary expansion of virus-specific CD8(+) and CD4(+) memory T cells as well as their ability to produce antiviral cytokines and purge the persistent infection. Late costimulation blockade also reduced virus-specific T-cell numbers, illustrating that sustained interactions with costimulatory molecules is required for efficient T-cell expansion. These findings indicate that antiviral memory T cells require costimulation to efficiently clear a persistent viral infection and that costimulatory pathways can be targeted to modulate the magnitude of an adoptive immunotherapeutic regimen.
+
++Adoptive Transfer
+-Animals
+-Antigens, CD80 (-immunology)
+-Antigens, CD86 (-immunology)
+-CD4-Positive T-Lymphocytes (+immunology)
+-CD8-Positive T-Lymphocytes (+immunology)
+-Immunotherapy (+methods)
+-Lymphocyte Activation (-immunology)
+-Lymphocytic Choriomeningitis (+therapy)
+-Lymphocytic choriomeningitis virus (+immunology)
+-Mice
+
+pii:JVI.00027-09
+doi:10.1128/JVI.00027-09
+pubmed:19553326
+pmc:PMC2738141
+

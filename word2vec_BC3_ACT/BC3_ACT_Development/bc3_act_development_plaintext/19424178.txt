@@ -1,0 +1,31 @@
+EMBO J.
+
+Super DksAs: substitutions in DksA enhancing its effects on transcription initiation.
+
+MD Blankschien, JH Lee, ED Grace, CW Lennon, JA Halliday, W Ross, RL Gourse, C Herman
+
+At specific times during bacterial growth, the transcription factor DksA and the unusual nucleotide regulator ppGpp work synergistically to inhibit some Escherichia coli promoters (e.g. rRNA promoters) and to stimulate others (e.g. promoters for amino-acid synthesis and transport). However, the mechanism of DksA action remains uncertain, in part because DksA does not function like conventional transcription factors. To gain insights into DksA function, we identified mutations in dksA that bypassed the requirement for ppGpp by selecting for growth of cells lacking ppGpp on minimal medium without amino acids. We show here that two substitutions in DksA, L15F and N88I, result in higher DksA activity both in vivo and in vitro, primarily by increasing the apparent affinity of DksA for RNA polymerase (RNAP). The mutant DksA proteins suggest potential roles for ppGpp in DksA function, identify potential surfaces on DksA crucial for RNAP binding, and provide tools for future studies to elucidate the mechanism of DksA action.
+
+-Amino Acid Substitution (+genetics)
+-Amino Acids (-metabolism)
+-Carrier Proteins (-genetics)
+-DNA-Directed RNA Polymerases (-metabolism)
+-Escherichia coli (+genetics)
+-Escherichia coli Proteins (-genetics; +metabolism)
+-Gene Expression Regulation, Bacterial
+-Guanosine Tetraphosphate (-metabolism)
+-Half-Life
+-Holoenzymes (-metabolism)
+-Models, Molecular
+-Mutant Proteins (-metabolism)
+-Mutation (-genetics)
+-Promoter Regions, Genetic (-genetics)
++Transcription, Genetic
+-Transcriptional Activation (-genetics)
+-rRNA Operon (-genetics)
+
+pii:emboj2009126
+doi:10.1038/emboj.2009.126
+pubmed:19424178
+pmc:PMC2699356
+

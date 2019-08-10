@@ -1,0 +1,26 @@
+PLoS ONE
+
+Influence of protein abundance on high-throughput protein-protein interaction detection.
+
+J Ivanic, X Yu, A Wallqvist, J Reifman
+
+Experimental protein-protein interaction (PPI) networks are increasingly being exploited in diverse ways for biological discovery. Accordingly, it is vital to discern their underlying natures by identifying and classifying the various types of deterministic (specific) and probabilistic (nonspecific) interactions detected. To this end, we have analyzed PPI networks determined using a range of high-throughput experimental techniques with the aim of systematically quantifying any biases that arise from the varying cellular abundances of the proteins. We confirm that PPI networks determined using affinity purification methods for yeast and Escherichia coli incorporate a correlation between protein degree, or number of interactions, and cellular abundance. The observed correlations are small but statistically significant and occur in both unprocessed (raw) and processed (high-confidence) data sets. In contrast, the yeast two-hybrid system yields networks that contain no such relationship. While previously commented based on mRNA abundance, our more extensive analysis based on protein abundance confirms a systematic difference between PPI networks determined from the two technologies. We additionally demonstrate that the centrality-lethality rule, which implies that higher-degree proteins are more likely to be essential, may be misleading, as protein abundance measurements identify essential proteins to be more prevalent than nonessential proteins. In fact, we generally find that when there is a degree/abundance correlation, the degree distributions of nonessential and essential proteins are also disparate. Conversely, when there is no degree/abundance correlation, the degree distributions of nonessential and essential proteins are not different. However, we show that essentiality manifests itself as a biological property in all of the yeast PPI networks investigated here via enrichments of interactions between essential proteins. These findings provide valuable insights into the underlying natures of the various high-throughput technologies utilized to detect PPIs and should lead to more effective strategies for the inference and analysis of high-quality PPI data sets.
+
+-Automation
+-Biophysical Processes
+-Computational Biology (+methods)
+-Databases, Protein
+-Escherichia coli (-metabolism)
+-Escherichia coli Proteins (-metabolism)
+-Fungal Proteins (-metabolism)
+-Protein Interaction Mapping (+methods)
+-Proteins (-metabolism)
+-Proteome (-metabolism)
+-Proteomics (+methods)
+-RNA, Messenger (-metabolism)
+-Software
+
+doi:10.1371/journal.pone.0005815
+pubmed:19503833
+pmc:PMC2686099
+

@@ -1,0 +1,30 @@
+J. Neurosci.
+
+Transient receptor potential canonical 5 channels activate Ca2+/calmodulin kinase Igamma to promote axon formation in hippocampal neurons.
+
+MA Davare, DA Fortin, T Saneyoshi, S Nygaard, S Kaech, G Banker, TR Soderling, GA Wayman
+
+Functionality of neurons is dependent on their compartmentalized polarization of dendrites and an axon. The rapid and selective outgrowth of one neurite, relative to the others, to form the axon is critical in initiating neuronal polarity. Axonogenesis is regulated in part by an optimal intracellular calcium concentration. Our investigation of Ca(2+)-signaling pathways involved in axon formation using cultured hippocampal neurons demonstrates a role for Ca(2+)/calmodulin kinase kinase (CaMKK) and its downstream target Ca(2+)/calmodulin kinase I (CaMKI). Expression of constitutively active CaMKI induced formation of multiple axons, whereas blocking CaMKK or CaMKI activity with pharmacological, dominant-negative, or short hairpin RNA (shRNA) methods significantly inhibited axon formation. CaMKK signals via the gamma-isoform of CaMKI as shRNA to CaMKIgamma, but not the other CaMKI isoforms, inhibited axon formation. Furthermore, overexpression of wild-type CaMKIgamma, but not a mutant incapable of membrane association, accelerated the rate of axon formation. Pharmacological or small interfering RNA inhibition of transient receptor potential canonical 5 (TRPC5) channels, which are present in developing axonal growth cones, suppressed CaMKK-mediated activation of CaMKIgamma as well as axon formation. We demonstrate using biochemical fractionation and immunocytochemistry that CaMKIgamma and TRPC5 colocalize to lipid rafts. These results are consistent with a model in which highly localized calcium influx through the TRPC5 channels activates CaMKK and CaMKIgamma, which subsequently promote axon formation.
+
+-Animals
+-Axons (+physiology)
+-Calcium-Calmodulin-Dependent Protein Kinase Kinase (-antagonists & inhibitors; +metabolism)
+-Calcium-Calmodulin-Dependent Protein Kinase Type 1 (-antagonists & inhibitors; -genetics; +metabolism)
+-Cell Membrane (-metabolism)
+-Cells, Cultured
+-Hippocampus (+physiology)
+-Membrane Microdomains (-metabolism)
+-Mutation
+-Nerve Tissue Proteins (-antagonists & inhibitors; -genetics; +metabolism)
+-Neurites (-physiology)
+-Neurons (+physiology)
+-Protein Isoforms (-antagonists & inhibitors; -metabolism)
+-Rats
+-TRPC Cation Channels (-genetics; +metabolism)
+
+pii:29/31/9794
+doi:10.1523/JNEUROSCI.1544-09.2009
+pubmed:19657032
+mid:NIHMS140173
+pmc:PMC2763510
+

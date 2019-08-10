@@ -1,0 +1,27 @@
+Cell Cycle
+
+Unrepaired oxidative DNA damage induces an ATR/ATM apoptotic-like response in quiescent fission yeast.
+
+B Arcangioli, S Ben Hassine
+
+Programmed cell death is a term which refers to a genetic decision of self-killing or suicide of a cell. Programmed cell death is not restricted to multicellular organisms and was described in a wide range of unicellular eukaryotes, indicating phylogenetically conserved functions, that participate in an adaptive response to cellular stress. Here we review and discuss our observations recently published in the EMBO Journal,(1) that non-dividing fission yeast, Schizosaccharomyces pombe, exhibits a DNA damage response leading to cell death. We found that Tdp1 protects quiescent S. pombe cells against oxidative DNA damage. Tdp1 is a well-conserved tyrosyl-DNA phosphodiesterase required for single-strand break DNA repair, the mutation of Tdp1 is responsible for the recessively inherited syndrome spinocerebellar ataxia with axonal neuropathy (SCAN1) in humans. We found that tdp1 mutant yeast cells grow, as well as the wild-type cells, during the vegetative state, but progressively die in the quiescent state. We showed that, in the absence of Tdp1, the accumulation of unrepaired oxidative DNA damage triggers a genetic response, leading to checkpoint-dependent (ATM/ATR) nuclear DNA degradation, reminiscent of apoptosis. Our results indicate that the reactive oxygen species (ROS) produced during mitochondrial respiration are the main DNA damaging agents in the physiological quiescent state.
+
+-Apoptosis
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Cell Death (+physiology)
+-DNA Breaks, Single-Stranded
+-DNA Damage (+physiology)
+-DNA Repair (-physiology)
+-DNA-Binding Proteins (-genetics; +metabolism)
+-Oxidation-Reduction
+-Phosphoric Diester Hydrolases (-genetics; +metabolism)
+-Protein Kinases (-genetics; -metabolism)
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-Reactive Oxygen Species (-metabolism)
+-Schizosaccharomyces (+physiology)
+-Schizosaccharomyces pombe Proteins (-genetics; +metabolism)
+-Tumor Suppressor Proteins (-genetics; +metabolism)
+
+pii:9147
+pubmed:19571671
+

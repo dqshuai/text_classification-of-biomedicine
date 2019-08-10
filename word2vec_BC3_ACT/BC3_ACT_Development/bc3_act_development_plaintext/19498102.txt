@@ -1,0 +1,21 @@
+Genome Res.
+
+The consensus coding sequence (CCDS) project: Identifying a common protein-coding gene set for the human and mouse genomes.
+
+KD Pruitt, J Harrow, RA Harte, C Wallin, M Diekhans, DR Maglott, S Searle, CM Farrell, JE Loveland, BJ Ruef, E Hart, MM Suner, MJ Landrum, B Aken, S Ayling, R Baertsch, J Fernandez-Banet, JL Cherry, V Curwen, M Dicuccio, M Kellis, J Lee, MF Lin, M Schuster, A Shkeda, C Amid, G Brown, O Dukhanina, A Frankish, J Hart, BL Maidak, J Mudge, MR Murphy, T Murphy, J Rajan, B Rajput, LD Riddick, C Snow, C Steward, D Webb, JA Weber, L Wilming, W Wu, E Birney, D Haussler, T Hubbard, J Ostell, R Durbin, D Lipman
+
+Effective use of the human and mouse genomes requires reliable identification of genes and their products. Although multiple public resources provide annotation, different methods are used that can result in similar but not identical representation of genes, transcripts, and proteins. The collaborative consensus coding sequence (CCDS) project tracks identical protein annotations on the reference mouse and human genomes with a stable identifier (CCDS ID), and ensures that they are consistently represented on the NCBI, Ensembl, and UCSC Genome Browsers. Importantly, the project coordinates on manually reviewing inconsistent protein annotations between sites, as well as annotations for which new evidence suggests a revision is needed, to progressively converge on a complete protein-coding set for the human and mouse reference genomes, while maintaining a high standard of reliability and biological accuracy. To date, the project has identified 20,159 human and 17,707 mouse consensus coding regions from 17,052 human and 16,893 mouse genes. Three evaluation methods indicate that the entries in the CCDS set are highly likely to represent real proteins, more so than annotations from contributing groups not included in CCDS. The CCDS database thus centralizes the function of identifying well-supported, identically-annotated, protein-coding regions.
+
+-Animals
++Consensus Sequence
++Genome
+-Humans
+-Mice
+-Open Reading Frames (+genetics)
+-Sequence Alignment
+
+pii:gr.080531.108
+doi:10.1101/gr.080531.108
+pubmed:19498102
+pmc:PMC2704439
+

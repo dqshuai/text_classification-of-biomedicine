@@ -1,0 +1,27 @@
+EMBO J.
+
+Regulation of nicotinic receptor trafficking by the transmembrane Golgi protein UNC-50.
+
+S Eimer, A Gottschalk, M Hengartner, HR Horvitz, J Richmond, WR Schafer, JL Bessereau
+
+Nicotinic acetylcholine receptors (AChRs) are pentameric ligand-gated ion channels that mediate fast synaptic transmission at the neuromuscular junction (NMJ). After assembly in the endoplasmic reticulum (ER), AChRs must be transported to the plasma membrane through the secretory apparatus. Little is known about specific molecules that mediate this transport. Here we identify a gene that is required for subtype-specific trafficking of assembled nicotinic AChRs in Caenorhabditis elegans. unc-50 encodes an evolutionarily conserved integral membrane protein that localizes to the Golgi apparatus. In the absence of UNC-50, a subset of AChRs present in body-wall muscle are sorted to the lysosomal system and degraded. However, the trafficking of a second AChR type and of GABA ionotropic receptors expressed in the same muscle cells is not affected in unc-50 mutants. These results suggest that, in addition to ER quality control, assembled AChRs are sorted within the Golgi system by a mechanism that controls the amount of cell-surface AChRs in a subtype-specific way.
+
+-Amino Acid Sequence
+-Caenorhabditis elegans Proteins (-chemistry; +metabolism; -physiology)
+-Cell Membrane (-metabolism)
+-Endoplasmic Reticulum (-metabolism)
+-Golgi Apparatus (+metabolism)
+-Lysosomes (-metabolism)
+-Membrane Proteins (-chemistry; +physiology)
+-Models, Biological
+-Molecular Sequence Data
+-Mutation
+-Protein Conformation
+-Receptors, Nicotinic (+metabolism)
+-Sequence Homology, Amino Acid
+
+pii:7601858
+doi:10.1038/sj.emboj.7601858
+pubmed:17853888
+pmc:PMC2034668
+

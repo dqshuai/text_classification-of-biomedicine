@@ -1,0 +1,24 @@
+Genetics
+
+GC content and recombination: reassessing the causal effects for the Saccharomyces cerevisiae genome.
+
+MC Marsolier-Kergoat, E Yeramian
+
+Recombination plays a crucial role in the evolution of genomes. Among many chromosomal features, GC content is one of the most prominent variables that appear to be highly correlated with recombination. However, it is not yet clear (1) whether recombination drives GC content (as proposed, for example, in the biased gene conversion model) or the converse and (2) what are the length scales for mutual influences between GC content and recombination. Here we have reassessed these questions for the model genome Saccharomyces cerevisiae, for which the most refined recombination data are available. First, we confirmed a strong correlation between recombination rate and GC content at local scales (a few kilobases). Second, on the basis of alignments between S. cerevisiae, S. paradoxus, and S. mikatae sequences, we showed that the inferred AT/GC substitution patterns are not correlated with recombination, indicating that GC content is not driven by recombination in yeast. These results thus suggest that, in S. cerevisiae, recombination is determined either by the GC content or by a third parameter, also affecting the GC content. Third, we observed long-range correlations between GC and recombination for chromosome III (for which such correlations were reported experimentally and were the model for many structural studies). However, similar correlations were not detected in the other chromosomes, restraining thus the generality of the phenomenon. These results pave the way for further analyses aimed at the detailed untangling of drives involved in the evolutionary shaping of the yeast genome.
+
+-Base Composition (+physiology)
+-Base Sequence
+-Chromosomes, Fungal
++Genome, Fungal (-physiology)
+-Models, Genetic
+-Point Mutation
+-Recombination, Genetic (+genetics)
+-Saccharomyces (-genetics)
+-Saccharomyces cerevisiae (+genetics)
+-Sequence Homology, Nucleic Acid
+
+pii:genetics.109.105049
+doi:10.1534/genetics.109.105049
+pubmed:19546316
+pmc:PMC2746155
+

@@ -1,0 +1,25 @@
+Biophys. J.
+
+Biophysically based mathematical modeling of interstitial cells of Cajal slow wave activity generated from a discrete unitary potential basis.
+
+RA Faville, AJ Pullan, KM Sanders, SD Koh, CM Lloyd, NP Smith
+
+Spontaneously rhythmic pacemaker activity produced by interstitial cells of Cajal (ICC) is the result of the entrainment of unitary potential depolarizations generated at intracellular sites termed pacemaker units. In this study, we present a mathematical modeling framework that quantitatively represents the transmembrane ion flows and intracellular Ca2+ dynamics from a single ICC operating over the physiological membrane potential range. The mathematical model presented here extends our recently developed biophysically based pacemaker unit modeling framework by including mechanisms necessary for coordinating unitary potential events, such as a T-Type Ca2+ current, Vm-dependent K+ currents, and global Ca2+ diffusion. Model simulations produce spontaneously rhythmic slow wave depolarizations with an amplitude of 65 mV at a frequency of 17.4 cpm. Our model predicts that activity at the spatial scale of the pacemaker unit is fundamental for ICC slow wave generation, and Ca2+ influx from activation of the T-Type Ca2+ current is required for unitary potential entrainment. These results suggest that intracellular Ca2+ levels, particularly in the region local to the mitochondria and endoplasmic reticulum, significantly influence pacing frequency and synchronization of pacemaker unit discharge. Moreover, numerical investigations show that our ICC model is capable of qualitatively replicating a wide range of experimental observations.
+
+-Animals
+-Biological Transport
++Biophysical Phenomena
+-Calcium (-metabolism)
+-Cell Membrane
+-Electrophysiological Phenomena
+-Ion Channel Gating
++Membrane Potentials
+-Models, Biological
+-Patch-Clamp Techniques
+-Pyloric Antrum (-cytology)
+
+pii:S0006-3495(09)00794-2
+doi:10.1016/j.bpj.2009.03.058
+pubmed:19527643
+pmc:PMC2712030
+

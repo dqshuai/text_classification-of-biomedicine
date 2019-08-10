@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+MEME SUITE: tools for motif discovery and searching.
+
+TL Bailey, M Boden, FA Buske, M Frith, CE Grant, L Clementi, J Ren, WW Li, WS Noble
+
+The MEME Suite web server provides a unified portal for online discovery and analysis of sequence motifs representing features such as DNA binding sites and protein interaction domains. The popular MEME motif discovery algorithm is now complemented by the GLAM2 algorithm which allows discovery of motifs containing gaps. Three sequence scanning algorithms--MAST, FIMO and GLAM2SCAN--allow scanning numerous DNA and protein sequence databases for motifs discovered by MEME and GLAM2. Transcription factor motifs (including those discovered using MEME) can be compared with motifs in many popular motif databases using the motif database scanning algorithm TOMTOM. Transcription factor motifs can be further analyzed for putative function by association with Gene Ontology (GO) terms using the motif-GO term association tool GOMO. MEME output now contains sequence LOGOS for each discovered motif, as well as buttons to allow motifs to be conveniently submitted to the sequence and motif database scanning algorithms (MAST, FIMO and TOMTOM), or to GOMO, for further analysis. GLAM2 output similarly contains buttons for further analysis using GLAM2SCAN and for rerunning GLAM2 with different parameters. All of the motif-based tools are now implemented as web services via Opal. Source code, binaries and a web server are freely available for noncommercial use at http://meme.nbcr.net.
+
+-Algorithms
+-Binding Sites
+-Databases, Genetic
+-Internet
+-Regulatory Elements, Transcriptional
++Sequence Analysis, DNA
++Sequence Analysis, Protein
++Software
+-Transcription Factors (-metabolism)
+
+pii:gkp335
+doi:10.1093/nar/gkp335
+pubmed:19458158
+pmc:PMC2703892
+

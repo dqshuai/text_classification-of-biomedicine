@@ -1,0 +1,23 @@
+BMC Genomics
+
+Complete sequence determination of a novel reptile iridovirus isolated from soft-shelled turtle and evolutionary analysis of Iridoviridae.
+
+Y Huang, X Huang, H Liu, J Gong, Z Ouyang, H Cui, J Cao, Y Zhao, X Wang, Y Jiang, Q Qin
+
+BACKGROUND: Soft-shelled turtle iridovirus (STIV) is the causative agent of severe systemic diseases in cultured soft-shelled turtles (Trionyx sinensis). To our knowledge, the only molecular information available on STIV mainly concerns the highly conserved STIV major capsid protein. The complete sequence of the STIV genome is not yet available. Therefore, determining the genome sequence of STIV and providing a detailed bioinformatic analysis of its genome content and evolution status will facilitate further understanding of the taxonomic elements of STIV and the molecular mechanisms of reptile iridovirus pathogenesis. RESULTS: We determined the complete nucleotide sequence of the STIV genome using 454 Life Science sequencing technology. The STIV genome is 105 890 bp in length with a base composition of 55.1% G+C. Computer assisted analysis revealed that the STIV genome contains 105 potential open reading frames (ORFs), which encode polypeptides ranging from 40 to 1,294 amino acids and 20 microRNA candidates. Among the putative proteins, 20 share homology with the ancestral proteins of the nuclear and cytoplasmic large DNA viruses (NCLDVs). Comparative genomic analysis showed that STIV has the highest degree of sequence conservation and a colinear arrangement of genes with frog virus 3 (FV3), followed by Tiger frog virus (TFV), Ambystoma tigrinum virus (ATV), Singapore grouper iridovirus (SGIV), Grouper iridovirus (GIV) and other iridovirus isolates. Phylogenetic analysis based on conserved core genes and complete genome sequence of STIV with other virus genomes was performed. Moreover, analysis of the gene gain-and-loss events in the family Iridoviridae suggested that the genes encoded by iridoviruses have evolved for favoring adaptation to different natural host species. CONCLUSION: This study has provided the complete genome sequence of STIV. Phylogenetic analysis suggested that STIV and FV3 are strains of the same viral species belonging to the Ranavirus genus in the Iridoviridae family. Given virus-host co-evolution and the phylogenetic relationship among vertebrates from fish to reptiles, we propose that iridovirus might transmit between reptiles and amphibians and that STIV and FV3 are strains of the same viral species in the Ranavirus genus.
+
+-Animals
+-Comparative Genomic Hybridization
+-DNA, Viral (-genetics)
+-Evolution, Molecular
++Genome, Viral
+-Iridovirus (-classification; +genetics)
+-Phylogeny
+-Sequence Analysis, DNA
+-Turtles (+virology)
+
+pii:1471-2164-10-224
+doi:10.1186/1471-2164-10-224
+pubmed:19439104
+pmc:PMC2689277
+

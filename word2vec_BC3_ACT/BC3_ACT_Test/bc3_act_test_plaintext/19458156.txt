@@ -1,0 +1,25 @@
+Nucleic Acids Res.
+
+High-throughput sequence-based epigenomic analysis of Alu repeats in human cerebellum.
+
+H Xie, M Wang, Mde F Bonaldo, C Smith, V Rajaram, S Goldman, T Tomita, MB Soares
+
+DNA methylation, the only known covalent modification of mammalian DNA, occurs primarily in CpG dinucleotides. 51% of CpGs in the human genome reside within repeats, and 25% within Alu elements. Despite that, no method has been reported for large-scale ascertainment of CpG methylation in repeats. Here we describe a sequencing-based strategy for parallel determination of the CpG-methylation status of thousands of Alu repeats, and a computation algorithm to design primers that enable their specific amplification from bisulfite converted genomic DNA. Using a single primer pair, we generated amplicons of high sequence complexity, and derived CpG-methylation data from 31 178 Alu elements and their 5' flanking sequences, altogether representing over 4 Mb of a human cerebellum epigenome. The analysis of the Alu methylome revealed that the methylation level of Alu elements is high in the intronic and intergenic regions, but low in the regions close to transcription start sites. Several hypomethylated Alu elements were identified and their hypomethylated status verified by pyrosequencing. Interestingly, some Alu elements exhibited a strikingly tissue-specific pattern of methylation. We anticipate the amplicons herein described to prove invaluable as epigenome representations, to monitor epigenomic alterations during normal development, in aging and in diseases such as cancer.
+
++Alu Elements
+-Cerebellum (+metabolism)
+-CpG Islands
++DNA Methylation
+-Genome, Human
+-Genomics (+methods)
+-Humans
+-Polymerase Chain Reaction
+-Repetitive Sequences, Nucleic Acid
+-Sequence Analysis, DNA (-methods; -statistics & numerical data)
+-Sulfites (-chemistry)
+
+pii:gkp393
+doi:10.1093/nar/gkp393
+pubmed:19458156
+pmc:PMC2715246
+

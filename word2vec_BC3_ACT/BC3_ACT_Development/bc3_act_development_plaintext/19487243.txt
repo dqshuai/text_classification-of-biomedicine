@@ -1,0 +1,29 @@
+Nucleic Acids Res.
+
+Gene silencing in the marine diatom Phaeodactylum tricornutum.
+
+V De Riso, R Raniello, F Maumus, A Rogato, C Bowler, A Falciatore
+
+Diatoms are a major but poorly understood phytoplankton group. The recent completion of two whole genome sequences has revealed that they contain unique combinations of genes, likely recruited during their history as secondary endosymbionts, as well as by horizontal gene transfer from bacteria. A major limitation for the study of diatom biology and gene function is the lack of tools to generate targeted gene knockout or knockdown mutants. In this work, we have assessed the possibility of triggering gene silencing in Phaeodactylum tricornutum using constructs containing either anti-sense or inverted repeat sequences of selected target genes. We report the successful silencing of a GUS reporter gene expressed in transgenic lines, as well as the knockdown of endogenous phytochrome (DPH1) and cryptochrome (CPF1) genes. To highlight the utility of the approach we also report the first phenotypic characterization of a diatom mutant (cpf1). Our data open the way for reverse genetics in diatoms and represent a major advance for understanding their biology and ecology. Initial molecular analyses reveal that targeted downregulation likely occurs through transcriptional and post-transcriptional gene silencing mechanisms. Interestingly, molecular players involved in RNA silencing in other eukaryotes are only poorly conserved in diatoms.
+
+-Algal Proteins (-genetics)
+-Clone Cells
+-Cryptochromes
+-Cytosine (-metabolism)
+-DNA Methylation
+-Diatoms (+genetics; -metabolism)
+-Flavoproteins (-genetics)
++Gene Knockdown Techniques
++Gene Silencing
+-Genes, Reporter
+-Genome
+-Phenotype
+-Phytochrome (-genetics)
+-RNA Interference
+-Transgenes
+
+pii:gkp448
+doi:10.1093/nar/gkp448
+pubmed:19487243
+pmc:PMC2724275
+

@@ -1,0 +1,28 @@
+EMBO J.
+
+The DEAD-box helicase DDX3X is a critical component of the TANK-binding kinase 1-dependent innate immune response.
+
+D Soulat, T Bürckstümmer, S Westermayer, A Goncalves, A Bauch, A Stefanovic, O Hantschel, KL Bennett, T Decker, G Superti-Furga
+
+TANK-binding kinase 1 (TBK1) is of central importance for the induction of type-I interferon (IFN) in response to pathogens. We identified the DEAD-box helicase DDX3X as an interaction partner of TBK1. TBK1 and DDX3X acted synergistically in their ability to stimulate the IFN promoter, whereas RNAi-mediated reduction of DDX3X expression led to an impairment of IFN production. Chromatin immunoprecipitation indicated that DDX3X is recruited to the IFN promoter upon infection with Listeria monocytogenes, suggesting a transcriptional mechanism of action. DDX3X was found to be a TBK1 substrate in vitro and in vivo. Phosphorylation-deficient mutants of DDX3X failed to synergize with TBK1 in their ability to stimulate the IFN promoter. Overall, our data imply that DDX3X is a critical effector of TBK1 that is necessary for type I IFN induction.
+
+-Amino Acid Sequence
+-Cell Line
+-DEAD-box RNA Helicases (-genetics; -metabolism; +physiology)
+-Humans
++Immunity, Innate
+-Interferon Type I (-biosynthesis; -genetics; +immunology)
+-Listeria Infections (-immunology; -metabolism)
+-Listeria monocytogenes (-physiology)
+-Models, Molecular
+-Molecular Sequence Data
+-Phosphorylation
+-Promoter Regions, Genetic
+-Protein Binding
+-Protein-Serine-Threonine Kinases (-metabolism; +physiology)
+
+pii:emboj2008126
+doi:10.1038/emboj.2008.126
+pubmed:18583960
+pmc:PMC2453059
+

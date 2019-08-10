@@ -1,0 +1,26 @@
+J. Mol. Biol.
+
+Kinetic buffering of cross talk between bacterial two-component sensors.
+
+ES Groban, EJ Clarke, HM Salis, SM Miller, CA Voigt
+
+Two-component systems are a class of sensors that enable bacteria to respond to environmental and cell-state signals. The canonical system consists of a membrane-bound sensor histidine kinase that autophosphorylates in response to a signal and transfers the phosphate to an intracellular response regulator. Bacteria typically have dozens of two-component systems. The key questions are whether these systems are linear and, if they are, how cross talk between systems is buffered. In this work, we studied the EnvZ/OmpR and CpxA/CpxR systems from Escherichia coli, which have been shown previously to exhibit slow cross talk in vitro. Using in vitro radiolabeling and a rapid quenched-flow apparatus, we experimentally measured 10 biochemical parameters capturing the cognate and non-cognate phosphotransfer reactions between the systems. These data were used to parameterize a mathematical model that was used to predict how cross talk is affected as different genes are knocked out. It was predicted that significant cross talk between EnvZ and CpxR only occurs for the triple mutant DeltaompR DeltacpxA DeltaactA-pta. All seven combinations of these knockouts were made to test this prediction and only the triple mutant demonstrated significant cross talk, where the cpxP promoter was induced 280-fold upon the activation of EnvZ. Furthermore, the behavior of the other knockouts agrees with the model predictions. These results support a kinetic model of buffering where both the cognate bifunctional phosphatase activity and the competition between regulator proteins for phosphate prevent cross talk in vivo.
+
+-Bacterial Outer Membrane Proteins (-genetics; +metabolism)
+-Bacterial Proteins (-genetics; +metabolism)
+-Escherichia coli (+physiology)
+-Escherichia coli Proteins (-genetics; +metabolism)
+-Gene Expression Regulation, Bacterial
+-Gene Knockout Techniques
+-Models, Biological
+-Models, Theoretical
+-Multienzyme Complexes (-genetics; +metabolism)
+-Protein Kinases (-genetics; +metabolism)
++Signal Transduction
+-Systems Biology
+-Trans-Activators (-genetics; +metabolism)
+
+pii:S0022-2836(09)00574-9
+doi:10.1016/j.jmb.2009.05.007
+pubmed:19445950
+

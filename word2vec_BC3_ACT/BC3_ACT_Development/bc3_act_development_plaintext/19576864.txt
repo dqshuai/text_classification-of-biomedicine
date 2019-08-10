@@ -1,0 +1,23 @@
+Biochem. Biophys. Res. Commun.
+
+Functionalized silicon quantum dots tailored for targeted siRNA delivery.
+
+S Klein, O Zolk, MF Fromm, F Schrödl, W Neuhuber, C Kryschi
+
+For RNA interference (RNAi) mediated silencing of the ABCB1 gene in Caco-2 cells biocompatible luminescent silicon quantum dots (SiQDs) were developed to serve as self-tracking transfection tool for ABCB1 siRNA. While the 2-3nm sized SiQD core exhibits green luminescence, the QD surfaces are completely saturated with covalently linked 2-vinylpyridine that may electrostatically bind siRNA. For down-regulating P-glycoprotein (Pgp) expression of the ABCB1 gene the SiQDs were complexed with siRNA. The cellular uptake and allocation of SiQD-siRNA complexes in Caco-2 cells were monitored using confocal laser scanning microscopy and transmission electron microscopy. The release of siRNA to the cytoplasm was verified through real-time PCR quantification of the reduced ABCB1 mRNA level. Additional evidence was obtained from time-resolved in situ fluorescence spectroscopic monitoring of the Pgp efflux dynamics in transfected Caco-2 cells which yielded significantly reduced transporter efficiencies for the Pgp substrate Rhodamine 123.
+
+-Caco-2 Cells
+-Gene Knockdown Techniques
+-Humans
+-Luminescence
+-P-Glycoprotein (+antagonists & inhibitors; -genetics)
++Quantum Dots
++RNA Interference
+-RNA, Small Interfering (+genetics; -metabolism)
+-Silicon (+chemistry)
+-Transfection
+
+pii:S0006-291X(09)01314-X
+doi:10.1016/j.bbrc.2009.06.144
+pubmed:19576864
+

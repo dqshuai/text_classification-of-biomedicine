@@ -1,0 +1,32 @@
+RNA
+
+Characterization of the Schizosaccharomyces pombe Spt5-Spt4 complex.
+
+B Schwer, S Schneider, Y Pei, A Aronova, S Shuman
+
+The Spt5-Spt4 complex regulates early transcription elongation by RNA polymerase II and has an imputed role in pre-mRNA processing via its physical association with mRNA capping enzymes. Here we characterize the Schizosaccharomyces pombe core Spt5-Spt4 complex as a heterodimer and map a trypsin-resistant Spt4-binding domain within the Spt5 subunit. A genetic analysis of Spt4 in S. pombe revealed it to be inessential for growth at 25 degrees C-30 degrees C but critical at 37 degrees C. These results echo the conditional spt4Delta growth phenotype in budding yeast, where we find that Saccharomyces cerevisiae and S. pombe Spt4 are functionally interchangeable. Complementation of S. cerevisiae spt4Delta and a two-hybrid assay for Spt4-Spt5 interaction provided a readout of the effects of 33 missense and truncation mutations on S. pombe Spt4 function in vivo, which were interpreted in light of the recent crystal structure of S. cerevisiae Spt4 fused to a fragment of Spt5. Our results highlight the importance of the Spt4 Zn2+-binding residues--Cys12, Cys15, Cys29, and Asp32--and of Ser57, a conserved constituent of the Spt4-Spt5 interface. The 990-amino acid S. pombe Spt5 protein has an exceptionally regular carboxyl-terminal domain (CTD) composed of 18 nonapeptide repeats. We find that as few as three nonamer repeats sufficed for S. pombe growth, but only when Spt4 was present. Synthetic lethality of the spt5(1-835) spt4Delta double mutant at 34 degrees C suggests that interaction of Spt4 with the central domain of Spt5 overlaps functionally with the Spt5 CTD.
+
+-Amino Acid Sequence
+-Blotting, Western
+-Chromosomal Proteins, Non-Histone (-chemistry; -genetics; -metabolism)
+-Dimerization
+-Immunoprecipitation
+-Molecular Sequence Data
+-Mutation (-genetics)
+-Nuclear Proteins (-genetics; -metabolism)
+-Protein Conformation
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Saccharomyces cerevisiae (-genetics; -growth & development; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; -metabolism)
+-Schizosaccharomyces (+genetics; -growth & development; -metabolism)
+-Schizosaccharomyces pombe Proteins (-chemistry; +genetics; -metabolism)
+-Sequence Deletion
+-Sequence Homology, Amino Acid
+-Transcriptional Elongation Factors (-chemistry; -genetics; -metabolism)
+-Two-Hybrid System Techniques
+
+pii:rna.1572709
+doi:10.1261/rna.1572709
+pubmed:19460865
+pmc:PMC2704081
+

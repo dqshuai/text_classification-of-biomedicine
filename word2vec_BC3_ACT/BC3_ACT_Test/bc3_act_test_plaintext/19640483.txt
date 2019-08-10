@@ -1,0 +1,27 @@
+Neuron
+
+Feature- and order-based timing representations in the frontal cortex.
+
+A Genovesio, S Tsujimoto, SP Wise
+
+We examined activity in the frontal cortex as monkeys performed a duration-discrimination task. Two stimuli, one red and the other blue, appeared sequentially on a video screen--in either order. Later, both stimuli reappeared, and to receive a reward the monkeys had to choose the stimulus that had lasted longer during its initial presentation. Some neurons encoded stimulus duration, but a larger number of cells represented their relative duration, which was encoded in three ways: whether the first or second stimulus had lasted longer; whether the red or blue stimulus had lasted longer; or, less commonly, as the difference between the two durations. As the monkeys' choice approached, the signal encoding which stimulus (red or blue) had lasted longer increased as the order-based signal dissipated. By representing stimulus durations and relative durations--both bound to stimulus features and event order--the frontal cortex could contribute to both temporal perception and episodic memory.
+
+-Animals
+-Choice Behavior (+physiology)
+-Color Perception (-physiology)
+-Discrimination Learning (+physiology)
+-Electrophysiology
+-Frontal Lobe (+physiology)
+-Haplorhini
+-Memory (-physiology)
+-Neurons (+physiology)
+-Photic Stimulation (-methods)
+-Reaction Time (+physiology)
+-Reward
+
+pii:S0896-6273(09)00488-7
+doi:10.1016/j.neuron.2009.06.018
+pubmed:19640483
+mid:NIHMS131147
+pmc:PMC2803114
+

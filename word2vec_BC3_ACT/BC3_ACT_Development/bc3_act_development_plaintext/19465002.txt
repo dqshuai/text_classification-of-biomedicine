@@ -1,0 +1,22 @@
+Biochem. Biophys. Res. Commun.
+
+Gelsolin, but not its cleavage, is required for TNF-induced ROS generation and apoptosis in MCF-7 cells.
+
+Q Li, Z Ye, J Wen, L Ma, Y He, G Lian, Z Wang, L Wei, D Wu, B Jiang
+
+The tumor necrosis factor (TNF) can induce apoptosis in many cells including MCF-7 cells. To identify the genes responsible for TNF-induced apoptosis, we generated a series of TNF-resistant MCF-7 cell lines by employing retrovirus insertion-mediated random mutagenesis. In one of the resistant lines, gelsolin was found to be disrupted by viral insertion. Exogenous expression of gelsolin in this mutant cell line (Gel(mut)) restored the sensitivity to TNF-induced cell death and knock-down of gelsolin by siRNA conferred MCF-7 cells with resistance to TNF, indicating that gelsolin is required for TNF-induced apoptosis. Interestingly, the resistance of Gel(mut) cells to apoptosis induction is selective to TNF, since Gel(mut) and wild-type cells showed similar sensitivity to other death stimuli that were tested. Furthermore, TNF-induced ROS production in Gel(mut) cells was significantly decreased, demonstrating that gelsolin-mediated ROS generation plays a crucial role in TNF-induced apoptosis in MCF-7 cells. Importantly, caspase-mediated gelsolin cleavage is dispensable for TNF-triggered ROS production and subsequent apoptosis of MCF-7 cells. Our study thus provides genetic evidence linking gelsolin-mediated ROS production to TNF-induced cell death.
+
+-Amino Acid Sequence
++Apoptosis (-genetics)
+-Cell Line, Tumor
+-Gelsolin (-genetics; +metabolism)
+-Humans
+-Molecular Sequence Data
+-Mutation
+-Reactive Oxygen Species (+metabolism)
+-Tumor Necrosis Factor-alpha (+metabolism; -pharmacology)
+
+pii:S0006-291X(09)01022-5
+doi:10.1016/j.bbrc.2009.05.078
+pubmed:19465002
+

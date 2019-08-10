@@ -1,0 +1,13 @@
+BioTechniques
+
+An improved Huffman coding method for archiving text, images, and music characters in DNA.
+
+M Ailenberg, O Rotstein
+
+An improved Huffman coding method for information storage in DNA is described. The method entails the utilization of modified unambiguous base assignment that enables efficient coding of characters. A plasmid-based library with efficient and reliable information retrieval and assembly with uniquely designed primers is described. We illustrate our approach by synthesis of DNA that encodes text, images, and music, which could easily be retrieved by DNA sequencing using the specific primers. The method is simple and lends itself to automated information retrieval.
+
+
+pii:000113218
+doi:10.2144/000113218
+pubmed:19852760
+

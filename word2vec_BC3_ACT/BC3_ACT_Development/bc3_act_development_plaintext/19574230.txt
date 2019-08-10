@@ -1,0 +1,26 @@
+J. Biol. Chem.
+
+FACT and the proteasome promote promoter chromatin disassembly and transcriptional initiation.
+
+M Ransom, SK Williams, ML Dechassa, C Das, J Linger, M Adkins, C Liu, B Bartholomew, JK Tyler
+
+The packaging of the eukaryotic genome into chromatin represses gene expression by blocking access of the general transcription machinery to the underlying DNA sequences. Accordingly, eukaryotes have developed a variety of mechanisms to disrupt, alter, or disassemble nucleosomes from promoter regions and open reading frames to allow transcription to occur. Although we know that chromatin disassembly from the yeast PHO5 promoter is triggered by the Pho4 activator, the mechanism is far from clear. Here we show that the Pho4 activator can occupy its nucleosome-bound DNA binding site within the PHO5 promoter. In contrast to the role of Saccharomyces cerevisiae FACT (facilitates chromatin transcription) complex in assembling chromatin within open reading frames, we find that FACT is involved in the disassembly of histones H2A/H2B from the PHO5 promoter during transcriptional induction. We have also discovered that the proteasome is required for efficient chromatin disassembly and transcriptional induction from the PHO5 promoter. Mutants of the degradation function of the proteasome have a defect in recruitment of the Pho4 activator, whereas mutants of the ATPase cap of the proteasome do recruit Pho4 but are still delayed for chromatin assembly. Finally, we rule out the possibility that the proteasome or ATPase cap is driving chromatin disassembly via a potential ATP-dependent chromatin remodeling activity.
+
+-Acid Phosphatase (-genetics; -metabolism)
++Chromatin Assembly and Disassembly
+-DNA-Binding Proteins (-genetics; +metabolism)
+-High Mobility Group Proteins (-genetics; +metabolism)
+-Histones (-genetics; -metabolism)
++Promoter Regions, Genetic
+-Proteasome Endopeptidase Complex (-genetics; +metabolism)
+-Protein Binding
+-Saccharomyces cerevisiae (+genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
++Transcription, Genetic
+-Transcriptional Elongation Factors (-genetics; +metabolism)
+
+pii:M109.019562
+doi:10.1074/jbc.M109.019562
+pubmed:19574230
+pmc:PMC2749120
+

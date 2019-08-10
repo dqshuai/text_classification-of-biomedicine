@@ -1,0 +1,24 @@
+BMC Plant Biol.
+
+Sequence diversity in three tomato species: SNPs, markers, and molecular evolution.
+
+JM Jiménez-Gómez, JN Maloof
+
+BACKGROUND: Tomato species are of significant agricultural and ecological interest, with cultivated tomato being among the most common vegetable crops grown. Wild tomato species are native to diverse habitats in South America and show great morphological and ecological diversity that has proven useful in breeding programs. However, relatively little is known about nucleotide diversity between tomato species. Until recently limited sequence information was available for tomato, preventing genome-wide evolutionary analyses. Now, an extensive collection of tomato expressed sequence tags (ESTs) is available at the SOL Genomics Network (SGN). This database holds sequences from several species, annotated with quality values, assembled into unigenes, and tested for homology against other genomes. Despite the importance of polymorphism detection for breeding and natural variation studies, such analyses in tomato have mostly been restricted to cultivated accessions. Importantly, previous polymorphisms surveys mostly ignored the linked meta-information, limiting functional and evolutionary analyses. The current data in SGN is thus an under-exploited resource. Here we describe a cross-species analysis taking full-advantage of available information. RESULTS: We mined 20,000 interspecific polymorphisms between Solanum lycopersicum and S. habrochaites or S. pennellii and 28,800 intraspecific polymorphisms within S. lycopersicum. Using the available meta-information we classified genes into functional categories and obtained estimations of single nucleotide polymorphisms (SNP) quality, position in the gene, and effect on the encoded proteins, allowing us to perform evolutionary analyses. Finally, we developed a set of more than 10,000 between-species molecular markers optimized by sequence quality and predicted intron position. Experimental validation of 491 of these molecular markers resulted in confirmation of 413 polymorphisms. CONCLUSION: We present a new analysis of the extensive tomato EST sequences available that represents the most comprehensive survey of sequence diversity across Solanum species to date. These SNPs, plus thousands of molecular makers designed to detect the polymorphisms are available to the community via a website. Evolutionary analyses on these polymorphism uncovered sets of genes potentially important for the evolution and domestication of tomato; interestingly these sets were enriched for genes involved in response to the environment.
+
+-DNA, Plant (-genetics)
++Evolution, Molecular
+-Expressed Sequence Tags
+-Genes, Plant
+-Genetic Markers
+-Genome, Plant
+-Lycopersicon esculentum (+genetics)
++Polymorphism, Single Nucleotide
+-Sequence Analysis, DNA
+-Solanum (+genetics)
+-Species Specificity
+
+pii:1471-2229-9-85
+doi:10.1186/1471-2229-9-85
+pubmed:19575805
+

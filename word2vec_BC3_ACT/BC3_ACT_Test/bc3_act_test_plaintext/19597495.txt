@@ -1,0 +1,32 @@
+Nat. Neurosci.
+
+Sensory transformations and the use of multiple reference frames for reach planning.
+
+LM McGuire, PN Sabes
+
+The sensory signals that drive movement planning arrive in a variety of 'reference frames', and integrating or comparing them requires sensory transformations. We propose a model in which the statistical properties of sensory signals and their transformations determine how these signals are used. This model incorporates the patterns of gaze-dependent errors that we found in our human psychophysics experiment when the sensory signals available for reach planning were varied. These results challenge the widely held ideas that error patterns directly reflect the reference frame of the underlying neural representation and that it is preferable to use a single common reference frame for movement planning. We found that gaze-dependent error patterns, often cited as evidence for retinotopic reach planning, can be explained by a transformation bias and are not exclusively linked to retinotopic representations. Furthermore, the presence of multiple reference frames allows for optimal use of available sensory information and explains task-dependent reweighting of sensory signals.
+
+-Arm (-innervation; -physiology)
+-Brain (-physiology)
+-Cognition (+physiology)
+-Feedback (-physiology)
+-Female
+-Fixation, Ocular (+physiology)
+-Humans
+-Male
+-Movement (+physiology)
+-Neuropsychological Tests
+-Orientation (+physiology)
+-Photic Stimulation (-methods)
+-Psychomotor Performance (+physiology)
+-Psychophysics (-methods)
+-Retina (-physiology)
+-Sensation (+physiology)
+-Visual Fields
+
+pii:nn.2357
+doi:10.1038/nn.2357
+pubmed:19597495
+mid:NIHMS121960
+pmc:PMC2749235
+

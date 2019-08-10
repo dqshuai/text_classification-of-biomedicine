@@ -1,0 +1,35 @@
+Genome Res.
+
+Deeply conserved chordate noncoding sequences preserve genome synteny but do not drive gene duplicate retention.
+
+AL Hufton, S Mathia, H Braun, U Georgi, H Lehrach, M Vingron, AJ Poustka, G Panopoulou
+
+Animal genomes possess highly conserved cis-regulatory sequences that are often found near genes that regulate transcription and development. Researchers have proposed that the strong conservation of these sequences may affect the evolution of the surrounding genome, both by repressing rearrangement, and possibly by promoting duplicate gene retention. Conflicting data, however, have made the validity of these propositions unclear. Here, we use a new computational method to identify phylogenetically conserved noncoding elements (PCNEs) in a manner that is not biased by rearrangement and duplication. This method is powerful enough to identify more than a thousand PCNEs that have been conserved between vertebrates and the basal chordate amphioxus. We test 42 of our PCNEs in transgenic zebrafish assays--including examples from vertebrates and amphioxus--and find that the majority are functional enhancers. We find that PCNEs are enriched around genes with ancient synteny conservation, and that this association is strongest for extragenic PCNEs, suggesting that cis-regulatory interdigitation plays a key role in repressing genome rearrangement. Next, we classify mouse and zebrafish genes according to association with PCNEs, synteny conservation, duplication history, and presence in bidirectional promoter pairs, and use these data to cluster gene functions into a series of distinct evolutionary patterns. These results demonstrate that subfunctionalization of conserved cis-regulation has not been the primary determinate of gene duplicate retention in vertebrates. Instead, the data support the gene balance hypothesis, which proposes that duplicate retention has been driven by selection against dosage imbalances in genes with many protein connections.
+
+-Animals
+-Binding Sites (-genetics)
+-Chordata, Nonvertebrate (-classification; +genetics)
+-Cluster Analysis
+-Computational Biology (-methods)
+-Conserved Sequence (+genetics)
+-Embryo, Nonmammalian (-embryology; -metabolism)
+-Enhancer Elements, Genetic (-genetics)
+-Evolution, Molecular
+-Gene Duplication
+-Gene Expression Regulation, Developmental
+-Genome (+genetics)
+-Genomics (-methods)
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Mice
+-Phylogeny
++Synteny
+-Takifugu (-genetics)
+-Transcription Factors (-metabolism)
+-Vertebrates (-classification; -genetics)
+-Zebrafish (-embryology; -genetics)
+
+pii:gr.093237.109
+doi:10.1101/gr.093237.109
+pubmed:19704032
+pmc:PMC2775584
+

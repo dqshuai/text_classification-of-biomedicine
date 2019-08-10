@@ -1,0 +1,20 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Evolution of cooperation by phenotypic similarity.
+
+T Antal, H Ohtsuki, J Wakeley, PD Taylor, MA Nowak
+
+The emergence of cooperation in populations of selfish individuals is a fascinating topic that has inspired much work in theoretical biology. Here, we study the evolution of cooperation in a model where individuals are characterized by phenotypic properties that are visible to others. The population is well mixed in the sense that everyone is equally likely to interact with everyone else, but the behavioral strategies can depend on distance in phenotype space. We study the interaction of cooperators and defectors. In our model, cooperators cooperate with those who are similar and defect otherwise. Defectors always defect. Individuals mutate to nearby phenotypes, which generates a random walk of the population in phenotype space. Our analysis brings together ideas from coalescence theory and evolutionary game dynamics. We obtain a precise condition for natural selection to favor cooperators over defectors. Cooperation is favored when the phenotypic mutation rate is large and the strategy mutation rate is small. In the optimal case for cooperators, in a one-dimensional phenotype space and for large population size, the critical benefit-to-cost ratio is given by b/c = 1 + 2/square root(3). We also derive the fundamental condition for any two-strategy symmetric game and consider high-dimensional phenotype spaces.
+
+-Computational Biology
+-Computer Simulation
++Evolution
+-Game Theory
+-Models, Genetic
+-Phenotype
+
+pii:0902528106
+doi:10.1073/pnas.0902528106
+pubmed:19416902
+pmc:PMC2688992
+

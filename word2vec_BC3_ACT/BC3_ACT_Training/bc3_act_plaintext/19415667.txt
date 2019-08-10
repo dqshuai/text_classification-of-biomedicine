@@ -1,0 +1,20 @@
+Proteomics
+
+Sample preparation issues for tissue imaging by imaging MS.
+
+BK Kaletaş, IM van der Wiel, J Stauber, C Güzel, JM Kros, TM Luider, RM Heeren
+
+Imaging MS is a powerful technique that combines the chemical and spatial analysis of surfaces. It allows spatial localization of multiple different compounds that are recorded in parallel without the need of a label. It is currently one of the rapidly developing techniques in the proteomics toolbox. Different complementary imaging MS methods, i.e. MALDI and secondary ion MS imaging for direct tissue analysis, can be applied on exactly the same tissue sample. This allows the identification of small molecules, peptides and proteins present on the same sample surface. Sample preparation is crucial to obtain high quality, reliable and reproducible complementary molecular images. It is essential to optimize the conditions for each step in the sample preparation protocol, ranging from sample collection and storage to surface modification. In this article, we review and discuss the importance of correct sample treatment in case of MALDI and secondary ion MS imaging experiments and describe the experimental requirements for optimal sample preparation.
+
+-Cerebellum (-chemistry)
++Histocytological Preparation Techniques
+-Humans
++Image Processing, Computer-Assisted
++Mass Spectrometry
+-Proteomics (+methods)
+-Specimen Handling (+methods)
++Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization
+
+doi:10.1002/pmic.200800364
+pubmed:19415667
+

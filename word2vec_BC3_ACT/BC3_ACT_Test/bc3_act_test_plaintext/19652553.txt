@@ -1,0 +1,28 @@
+Cell Cycle
+
+MicroRNA miR-210 modulates cellular response to hypoxia through the MYC antagonist MNT.
+
+Z Zhang, H Sun, H Dai, RM Walsh, M Imakura, J Schelter, J Burchard, X Dai, AN Chang, RL Diaz, JR Marszalek, SR Bartz, M Carleton, MA Cleary, PS Linsley, C Grandori
+
+The hypoxia-inducible factor (HIF) pathway is essential for cell survival under low oxygen and plays an important role in tumor cell homeostasis. We investigated the function of miR-210, the most prominent microRNA upregulated by hypoxia and a direct transcriptional target of HIFs. miR-210 expression was elevated in multiple cancer types and correlated with metastasis of breast and melanoma tumors. miR-210 overexpression in cancer cell lines bypassed hypoxia-induced cell cycle arrest and partially reversed the hypoxic gene expression signature. We identified MNT, a known MYC antagonist, as a miR-210 target. MNT mRNA contains multiple miR-210 binding sites in the 3' UTR and its knockdown phenocopied miR-210 overexpression. Furthermore, loss of MYC abolished miR-210-mediated override of hypoxia-induced cell cycle arrest. Comparison of miR-210 and MYC overexpression with MNT knockdown signatures also indicated that miR-210 triggered a "MYC-like" transcriptional response. Thus, miR-210 influences the hypoxia response in tumor cells through targeting a key transcriptional repressor of the MYC-MAX network.
+
+-Basic Helix-Loop-Helix Leucine Zipper Transcription Factors (-genetics; +metabolism)
+-Basic Helix-Loop-Helix Transcription Factors (-metabolism)
+-Binding Sites
+-Cell Cycle
+-Cell Hypoxia
+-Cell Line, Tumor
+-Cluster Analysis
+-Gene Knockdown Techniques
+-Humans
+-Hypoxia-Inducible Factor 1 (-metabolism)
+-MicroRNAs (+metabolism)
+-Models, Biological
+-Proto-Oncogene Proteins c-myc (+antagonists & inhibitors; -genetics; -metabolism)
+-RNA, Small Interfering (-metabolism)
+-Repressor Proteins (-genetics; +metabolism)
+-Up-Regulation
+
+pii:9387
+pubmed:19652553
+

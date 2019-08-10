@@ -1,0 +1,29 @@
+J. Bacteriol.
+
+Characterization of gamma-butyrolactone autoregulatory signaling gene homologs in the angucyclinone polyketide WS5995B producer Streptomyces acidiscabies.
+
+FG Healy, KP Eaton, P Limsirichai, JF Aldrich, AK Plowman, RR King
+
+Organisms belonging to the genus Streptomyces produce numerous important secondary metabolites and undergo a sophisticated morphological differentiation program. In many instances these processes are under the control of gamma-butyrolactone (GBL) autoregulatory systems. Streptomyces acidiscabies strain 84.104 produces the secondary metabolite aromatic angucyclinone polyketide WS5995B. In order to explore the role of GBL regulatory circuitry in WS5995B production and morphogenesis in S. acidiscabies, a gene cluster encoding GBL autoregulatory signaling homologs was identified and characterized. Two GBL receptor homologs, sabR and sabS, were found flanking a GBL synthase homolog sabA. Strains carrying mutations in sabS produced elevated levels of WS5995B and displayed conditional morphological defects reminiscent of defects seen in Streptomyces bldA mutants. Notably, sabS possesses a TTA codon predicted to be recognized by tRNA(leu). sabA mutants produced higher levels of WS5995B than the wild-type strain but to a lesser extent than the levels of WS5995B seen in sabS mutants. Purified recombinant SabR and SabS were tested for their abilities to bind predicted AT-rich autoregulatory element (ARE) boxes within the sabRAS region. SabS did not bind any DNA sequences in this region, while SabR bound an ARE box in the region upstream of sabS. Quantitative reverse transcription-PCR analysis revealed higher levels of sabS transcript in sabR mutants than in the wild-type strain, suggesting that sabS expression is repressed by SabR. Based on these data, we propose that the S. acidiscabies sabRAS genes encode components of a signaling pathway which participates in the regulation of WS5995B production and morphogenesis.
+
+-4-Butyrolactone (+metabolism)
+-Anthraquinones (-chemistry; +metabolism)
+-Bacterial Proteins (+genetics; -metabolism; -physiology)
+-Codon
+-Gene Expression Regulation, Bacterial
+-Macrolides (-chemistry; +metabolism)
+-Molecular Sequence Data
+-Molecular Structure
+-Multigene Family (-genetics; +physiology)
+-Mutation
+-Protein Binding
+-RNA, Transfer, Leu (-metabolism)
+-Recombinant Proteins (-genetics; -metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Streptomyces (+genetics; +metabolism)
+
+pii:JB.00437-09
+doi:10.1128/JB.00437-09
+pubmed:19465647
+pmc:PMC2715719
+

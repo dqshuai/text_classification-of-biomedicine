@@ -1,0 +1,25 @@
+J. Bacteriol.
+
+Genomic insights into the convergence and pathogenicity factors of Campylobacter jejuni and Campylobacter coli species.
+
+A Caro-Quintero, GP Rodriguez-Castaño, KT Konstantinidis
+
+Whether or not bacteria form coherent evolutionary groups via means of genetic exchange and, hence, elicit distinct species boundaries remains an unsettled issue. A recent report implied that not only may the former be true but also, in fact, the clearly distinct Campylobacter jejuni and Campylobacter coli species may be converging as a consequence of increased interspecies gene flow fostered, presumably, by the recent invasion of an overlapping ecological niche (S. K. Sheppard, N. D. McCarthy, D. Falush, and M. C. Maiden, Science 320:237-239, 2008). We have reanalyzed the Campylobacter multilocus sequence typing database used in the previous study and found that the number of interspecies gene transfer events may actually be too infrequent to account, unequivocally, for species convergence. For instance, only 1 to 2% of the 4,507 Campylobacter isolates examined appeared to have imported gene alleles from another Campylobacter species. Furthermore, by analyzing the available Campylobacter genomic sequences, we show that although there seems to be a slightly higher number of exchanged genes between C. jejuni and C. coli relative to other comparable species ( approximately 10% versus 2 to 3% of the total genes in the genome, respectively), the function and spatial distribution in the genome of the exchanged genes are far from random, and hence, inconsistent with the species convergence hypothesis. In fact, the exchanged genes appear to be limited to a few environmentally selected cellular functions. Accordingly, these genes may represent important pathogenic determinants of pathogenic Campylobacter, and convergence of (any) two bacterial species remains to be seen.
+
+-Bacterial Proteins (-genetics)
+-Campylobacter coli (-genetics; +pathogenicity)
+-Campylobacter jejuni (-genetics; +pathogenicity)
+-Databases, Genetic
++Evolution, Molecular
+-Gene Flow
++Gene Transfer, Horizontal
+-Genetic Speciation
+-Genome, Bacterial
++Genomics
+-Sequence Analysis, DNA (+methods)
+
+pii:JB.00519-09
+doi:10.1128/JB.00519-09
+pubmed:19617370
+pmc:PMC2737969
+

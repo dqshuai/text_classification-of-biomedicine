@@ -1,0 +1,27 @@
+Protein Sci.
+
+A chimeric mechanism for polyvalent trans-phosphorylation of PKA by PDK1.
+
+RA Romano, N Kannan, AP Kornev, CJ Allison, SS Taylor
+
+Phosphorylation on the activation loop of AGC kinases is typically mediated by PDK1. The precise mechanism for this in-trans phosphorylation is unknown; however, docking of a hydrophobic (HF) motif in the C-tail of the substrate kinase onto the N-lobe of PDK1 is likely an essential step. Using a peptide array of PKA to identify other PDK1-interacting sites, we discovered a second AGC-conserved motif in the C-tail that interacts with PDK1. Since this motif [FD(X)(1-2)Y/F] lies in the active site tether region and in PKA contributes to ATP binding, we call it the Adenosine binding (Ade) motif. The Ade motif is conserved as a PDK1-interacting site in Akt and PRK2, and we predict it will be a PDK1-interacting site for most AGC kinases. In PKA, the HF motif is only recognized when the turn motif Ser338 is phosphorylated, possibly serving as a phosphorylation "switch" that regulates how the Ade and HF motifs interact with PDK1. These results demonstrate that the extended AGC C-tail serves as a polyvalent element that trans-regulates PDK1 for catalysis. Modeling of the PKA C-tail onto PDK1 structure creates two chimeric sites; the ATP binding pocket, which is completed by the Ade motif, and the C-helix, which is positioned by the HF motif. Together, they demonstrate substrate-assisted catalysis involving two kinases that have co-evolved as symbiotic partners. The highly regulated turn motifs are the most variable part of the AGC C-tail. Elucidating the highly regulated cis and trans functions of the AGC tail is a significant future challenge.
+
+-Adenosine (-metabolism)
+-Amino Acid Sequence
+-Cyclic AMP-Dependent Protein Kinases (-chemistry; -genetics; +metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Phosphorylation
+-Protein Binding
+-Protein Conformation
+-Protein Interaction Domains and Motifs
+-Protein Interaction Mapping (-methods)
+-Protein-Serine-Threonine Kinases (-chemistry; -genetics; +metabolism)
+-Sequence Alignment
+-Stereoisomerism
+
+doi:10.1002/pro.146
+pubmed:19530248
+pmc:PMC2775216
+

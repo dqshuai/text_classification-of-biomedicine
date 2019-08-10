@@ -1,0 +1,34 @@
+EMBO J.
+
+Conserved function of RNF4 family proteins in eukaryotes: targeting a ubiquitin ligase to SUMOylated proteins.
+
+H Sun, JD Leverson, T Hunter
+
+The function of small ubiquitin-like modifier (SUMO)-binding proteins is key to understanding how SUMOylation regulates cellular processes. We identified two related Schizosaccharomyces pombe proteins, Rfp1 and Rfp2, each having an N-terminal SUMO-interacting motif (SIM) and a C-terminal RING-finger domain. Genetic analysis shows that Rfp1 and Rfp2 have redundant functions; together, they are essential for cell growth and genome stability. Mammalian RNF4, an active ubiquitin E3 ligase, is an orthologue of Rfp1/Rfp2. Rfp1 and Rfp2 lack E3 activity but recruit Slx8, an active RING-finger ubiquitin ligase, through a RING-RING interaction, to form a functional E3. RNF4 complements the growth and genomic stability defects of rfp1rfp2, slx8, and rfp1rfp2slx8 mutant cells. Both the Rfp-Slx8 complex and RNF4 specifically ubiquitylate artificial SUMO-containing substrates in vitro in a SUMO binding-dependent manner. SUMOylated proteins accumulate in rfp1rfp2 double-null cells, suggesting that Rfp/Slx8 proteins may promote ubiquitin-dependent degradation of SUMOylated targets. Hence, we describe a family of SIM-containing RING-finger proteins that potentially regulates eukaryotic genome stability through linking SUMO-interaction with ubiquitin conjugation.
+
+-Amino Acid Motifs
+-Amino Acid Sequence
+-Animals
+-Carrier Proteins (-chemistry; +metabolism)
+-Eukaryotic Cells (+metabolism)
++Evolution, Molecular
+-Genomic Instability
+-Mice
+-Molecular Sequence Data
++Multigene Family
+-Nuclear Proteins (+metabolism)
+-Protein Binding
+-Protein Transport
+-Schizosaccharomyces (-cytology; -genetics; -metabolism)
+-Schizosaccharomyces pombe Proteins (-chemistry; +metabolism)
+-Sequence Homology, Amino Acid
+-Small Ubiquitin-Related Modifier Proteins (+metabolism)
+-Transcription Factors (+metabolism)
+-Ubiquitin (-metabolism)
+-Ubiquitin-Protein Ligases (+metabolism)
+
+pii:7601839
+doi:10.1038/sj.emboj.7601839
+pubmed:17762864
+pmc:PMC2230674
+

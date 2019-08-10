@@ -1,0 +1,29 @@
+Cell
+
+SIRT6 links histone H3 lysine 9 deacetylation to NF-kappaB-dependent gene expression and organismal life span.
+
+TL Kawahara, E Michishita, AS Adler, M Damian, E Berber, M Lin, RA McCord, KC Ongaigui, LD Boxer, HY Chang, KF Chua
+
+Members of the sirtuin (SIRT) family of NAD-dependent deacetylases promote longevity in multiple organisms. Deficiency of mammalian SIRT6 leads to shortened life span and an aging-like phenotype in mice, but the underlying molecular mechanisms are unclear. Here we show that SIRT6 functions at chromatin to attenuate NF-kappaB signaling. SIRT6 interacts with the NF-kappaB RELA subunit and deacetylates histone H3 lysine 9 (H3K9) at NF-kappaB target gene promoters. In SIRT6-deficient cells, hyperacetylation of H3K9 at these target promoters is associated with increased RELA promoter occupancy and enhanced NF-kappaB-dependent modulation of gene expression, apoptosis, and cellular senescence. Computational genomics analyses revealed increased activity of NF-kappaB-driven gene expression programs in multiple Sirt6-deficient tissues in vivo. Moreover, haploinsufficiency of RelA rescues the early lethality and degenerative syndrome of Sirt6-deficient mice. We propose that SIRT6 attenuates NF-kappaB signaling via H3K9 deacetylation at chromatin, and hyperactive NF-kappaB signaling may contribute to premature and normal aging.
+
+-Acetylation
+-Animals
+-Cell Line
+-Chromatin (-metabolism)
+-Crosses, Genetic
+-Embryo, Mammalian (-cytology; -metabolism)
++Gene Expression Regulation, Developmental
+-Humans
+-Longevity (-genetics)
+-Mice
+-NF-kappa B (-genetics; +metabolism)
+-Promoter Regions, Genetic
+-Sirtuins (-genetics; +metabolism)
+-Transcription Factor RelA (-genetics; +metabolism)
+
+pii:S0092-8674(08)01446-3
+doi:10.1016/j.cell.2008.10.052
+pubmed:19135889
+mid:NIHMS90430
+pmc:PMC2757125
+

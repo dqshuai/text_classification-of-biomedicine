@@ -1,0 +1,28 @@
+PLoS Comput. Biol.
+
+Harvesting candidate genes responsible for serious adverse drug reactions from a chemical-protein interactome.
+
+L Yang, J Chen, L He
+
+Identifying genetic factors responsible for serious adverse drug reaction (SADR) is of critical importance to personalized medicine. However, genome-wide association studies are hampered due to the lack of case-control samples, and the selection of candidate genes is limited by the lack of understanding of the underlying mechanisms of SADRs. We hypothesize that drugs causing the same type of SADR might share a common mechanism by targeting unexpectedly the same SADR-mediating protein. Hence we propose an approach of identifying the common SADR-targets through constructing and mining an in silico chemical-protein interactome (CPI), a matrix of binding strengths among 162 drug molecules known to cause at least one type of SADR and 845 proteins. Drugs sharing the same SADR outcome were also found to possess similarities in their CPI profiles towards this 845 protein set. This methodology identified the candidate gene of sulfonamide-induced toxic epidermal necrolysis (TEN): all nine sulfonamides that cause TEN were found to bind strongly to MHC I (Cw*4), whereas none of the 17 control drugs that do not cause TEN were found to bind to it. Through an insight into the CPI, we found the Y116S substitution of MHC I (B*5703) enhances the unexpected binding of abacavir to its antigen presentation groove, which explains why B*5701, not B*5703, is the risk allele of abacavir-induced hypersensitivity. In conclusion, SADR targets and the patient-specific off-targets could be identified through a systematic investigation of the CPI, generating important hypotheses for prospective experimental validation of the candidate genes.
+
+-Cluster Analysis
+-Computational Biology (+methods)
+-Computer Simulation
+-Databases, Protein
+-Drug Toxicity (+genetics)
+-Humans
+-Models, Biological
+-Models, Molecular
+-Pharmaceutical Preparations (+metabolism)
+-Protein Binding
+-Protein Interaction Domains and Motifs (+genetics)
+-Proteins (-genetics; +metabolism)
+-Reproducibility of Results
+-Software
+-User-Computer Interface
+
+doi:10.1371/journal.pcbi.1000441
+pubmed:19629158
+pmc:PMC2704868
+

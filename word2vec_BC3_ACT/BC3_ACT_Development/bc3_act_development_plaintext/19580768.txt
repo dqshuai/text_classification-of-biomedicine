@@ -1,0 +1,25 @@
+Biophys. J.
+
+Thermodynamics of beta-sheet formation in polyglutamine.
+
+A Vitalis, N Lyle, RV Pappu
+
+The role of beta-sheets in the early stages of protein aggregation, specifically amyloid formation, remains unclear. Interpretations of kinetic data have led to a specific model for the role of beta-sheets in polyglutamine aggregation. According to this model, monomeric polyglutamine, which is intrinsically disordered, goes through a rare conversion into an ordered, metastable, beta-sheeted state that nucleates aggregation. It has also been proposed that the probability of forming the critical nucleus, a specific beta-sheet conformation for the monomer, increases with increasing chain length. Here, we test this model using molecular simulations. We quantified free energy profiles in terms of beta-content for monomeric polyglutamine as a function of chain length. In accord with estimates from experimental data, the free energy penalties for forming beta-rich states are in the 10-20 kcal/mol range. However, the length dependence of these free energy penalties does not mirror interpretations of kinetic data. In addition, although homodimerization of disordered molecules is spontaneous, the imposition of conformational restraints on polyglutamine molecules does not enhance the spontaneity of intermolecular associations. Our data lead to the proposal that beta-sheet formation is an attribute of peptide-rich phases such as high molecular weight aggregates rather than monomers or oligomers.
+
++Computer Simulation
+-Hydrogen Bonding
+-Kinetics
+-Linear Models
+-Models, Chemical
+-Peptides (+chemistry; -metabolism)
+-Protein Folding
+-Protein Multimerization
+-Protein Structure, Secondary
+-Temperature
+-Thermodynamics
+
+pii:S0006-3495(09)00906-0
+doi:10.1016/j.bpj.2009.05.003
+pubmed:19580768
+pmc:PMC2711364
+

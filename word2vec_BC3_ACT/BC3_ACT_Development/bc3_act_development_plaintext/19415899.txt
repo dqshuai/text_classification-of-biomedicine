@@ -1,0 +1,27 @@
+Biochemistry
+
+Chain-specific heparin-binding sequences in the laminin alpha chain LG45 modules.
+
+K Hozumi, N Suzuki, Y Uchiyama, F Katagiri, Y Kikkawa, M Nomizu
+
+Laminin alpha chains contain five tandem globular modules (LG1-5) at the C-terminus. Here, we focused on the LG45 module, which play a critical biological role via binding to heparin/heparan sulfate, and examined their chain-specific heparin-binding affinity. The relative heparin-binding affinity of recombinant laminin alpha chain LG45 proteins was as follows: alpha5 > alpha4 > alpha1 > alpha2 and alpha3. The alpha5 chain LG45 module also promoted the strongest cell attachment. We screened heparin-binding sequences using the recombinant alpha5LG45 protein and 43 synthetic peptides. Four peptides, A5G71 (GPLPSYLQFVGI) (IC(50) = 91.8 microM), A5G77 (LVLFLNHGHFVA) (IC(50) = 7.0 microM), A5G81 (AGQWHRVSVRWG) (IC(50) = 5.9 microM), and A5G94 (KMPYVSLELEMR) (IC(50) = 0.84 microM), inhibited the heparin-binding of rec-alpha5LG45. Additionally, the same four peptides exhibited dose-dependent heparin-binding activity in a solid-phase assay. We found that the alpha5 chain LG45 module contains four heparin-binding sequences, and this number is higher than that of the other LG45 modules (alpha2 and alpha3, one sequence; alpha1 and alpha4, two sequences). The data suggest that the active sequences identified from the synthetic peptide screening contribute to the heparin-binding activity of the LG45 module. Most of the heparin-binding sequences in the LG45 modules are located in the N-terminal regions of the LG4 module within the loop regions in the proteins. The data suggest that the N-terminal loop regions of the LG4 module are mainly involved in the heparin/heparan sulfate-mediated biological functions.
+
+-Amino Acid Sequence
+-Animals
+-Binding Sites
+-Cell Line
+-Cell Line, Tumor
+-Heparin (-chemistry; +metabolism)
+-Humans
+-Laminin (+chemistry; -metabolism)
+-Mice
+-Molecular Sequence Data
+-Peptides (-chemistry; -metabolism)
+-Recombinant Proteins (-chemistry; -metabolism)
+-Sequence Alignment
+
+doi:10.1021/bi900542u
+pubmed:19415899
+mid:NIHMS124766
+pmc:PMC2756285
+

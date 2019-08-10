@@ -1,0 +1,27 @@
+Breast Cancer Res.
+
+The spatial distribution of radiodense breast tissue: a longitudinal study.
+
+SM Pinto Pereira, VA McCormack, SM Moss, I dos Santos Silva
+
+INTRODUCTION: Mammographic breast density is one of the strongest known markers of susceptibility to breast cancer. To date research into density has relied on a single measure (for example, percent density (PD)) summarising the average level of density for the whole breast, with no consideration of how the radiodense tissue may be distributed. This study aims to investigate the spatial distribution of density within the breast using 493 mammographic images from a sample of 165 premenopausal women (~3 medio-lateral oblique views per woman). METHODS: Each breast image was divided into 48 regions and the PD for the whole breast (overall PD) and for each one of its regions (regional PD) was estimated. The spatial autocorrelation (Moran's I value) of regional PD for each image was calculated to investigate spatial clustering of density, whether the degree of clustering varied between a woman's two breasts and whether it was affected by age and other known density correlates. RESULTS: The median Moran's I value for 165 women was 0.31 (interquartile range: 0.26, 0.37), indicating a clustered pattern. High-density areas tended to cluster in the central regions of the breast, regardless of the level of overall PD, but with considerable between-woman variability in regional PD. The degree of clustering was similar between a woman's two breasts (mean within-woman difference in Moran's I values between left and right breasts = 0.00 (95% confidence interval (CI) = -0.01, 0.01); P = 0.76) and did not change with aging (mean within-woman difference in I values between screens taken on average 8 years apart = 0.01 (95% CI = -0.01, 0.02); P = 0.30). Neither parity nor age at first birth affected the level of spatial autocorrelation of density, but increasing body mass index (BMI) was associated with a decrease in the degree of spatial clustering. CONCLUSIONS: This study is the first to demonstrate that the distribution of radiodense tissue within the breast is spatially autocorrelated, generally with the high-density areas clustering in the central regions of the breast. The degree of clustering was similar within a woman's two breasts and between women, and was little affected by age or reproductive factors although it declined with increasing BMI.
+
+-Adult
+-Body Mass Index
+-Breast (-pathology)
+-Breast Neoplasms (+pathology)
+-Cluster Analysis
+-Disease Susceptibility
+-Early Detection of Cancer
+-Female
+-Humans
+-Mammography (+methods)
+-Middle Aged
+-Risk Factors
+-Time Factors
+
+pii:bcr2318
+doi:10.1186/bcr2318
+pubmed:19490643
+pmc:PMC2716501
+

@@ -1,0 +1,24 @@
+Nucleic Acids Res.
+
+Chemical synthesis, DNA incorporation and biological study of a new photocleavable 2'-deoxyadenosine mimic.
+
+N Berthet, C Crey-Desbiolles, M Kotera, P Dumy
+
+The phototriggered cleavage of chemical bonds has found numerous applications in biology, particularly in the field of gene sequencing through photoinduced DNA strand scission. However, only a small number of modified nucleosides that are able to cleave DNA at selected positions have been reported in the literature. Herein, we show that a new photoactivable deoxyadenosine analogue, 3-nitro-3-deaza-2'-deoxyadenosine (d(3-NiA)), was able to induce DNA backbone breakage upon irradiation (lambda > 320 nm). The d(3-NiA) nucleoside was chemically incorporated at desired positions into 40-mer oligonucleotides as a phosphoramidite monomer and subsequent hybridization studies confirmed that the resulting modified duplexes display a behaviour that is close to that of the related natural sequence. Enzymatic action of the Klenow fragment exonuclease free revealed the preferential incorporation of dAMP opposite the 3-NiA base. On the other hand, incorporation of the analogous 3-NiA triphosphate to a primer revealed high enzyme efficiency and selectivity for insertion opposite thymine. Furthermore, only the enzymatically synthesized base pair 3-NiA:T was a substrate for further extension by the enzyme. All the hybridization and enzymatic data indicate that this new photoactivable 3-NiA triphosphate can be considered as a photochemically cleavable dATP analogue.
+
+-Base Pairing
+-DNA (-biosynthesis; +chemistry; -radiation effects)
++DNA Cleavage
+-DNA Replication
+-DNA-Directed DNA Polymerase (-metabolism)
+-Deoxyadenine Nucleotides (-chemical synthesis; -chemistry; -metabolism)
+-Deoxyadenosines (+chemistry; -radiation effects)
+-Photochemical Processes
+-Templates, Genetic
+-Thermodynamics
+
+pii:gkp562
+doi:10.1093/nar/gkp562
+pubmed:19586934
+pmc:PMC2760783
+

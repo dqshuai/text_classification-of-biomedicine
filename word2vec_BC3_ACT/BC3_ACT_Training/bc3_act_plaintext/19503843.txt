@@ -1,0 +1,29 @@
+PLoS Comput. Biol.
+
+SpaK/SpaR two-component system characterized by a structure-driven domain-fusion method and in vitro phosphorylation studies.
+
+A Chakicherla, CL Ecale Zhou, ML Dang, V Rodriguez, JN Hansen, A Zemla
+
+Here we introduce a quantitative structure-driven computational domain-fusion method, which we used to predict the structures of proteins believed to be involved in regulation of the subtilin pathway in Bacillus subtilis, and used to predict a protein-protein complex formed by interaction between the proteins. Homology modeling of SpaK and SpaR yielded preliminary structural models based on a best template for SpaK comprising a dimer of a histidine kinase, and for SpaR a response regulator protein. Our LGA code was used to identify multi-domain proteins with structure homology to both modeled structures, yielding a set of domain-fusion templates then used to model a hypothetical SpaK/SpaR complex. The models were used to identify putative functional residues and residues at the protein-protein interface, and bioinformatics was used to compare functionally and structurally relevant residues in corresponding positions among proteins with structural homology to the templates. Models of the complex were evaluated in light of known properties of the functional residues within two-component systems involving His-Asp phosphorelays. Based on this analysis, a phosphotransferase complexed with a beryllofluoride was selected as the optimal template for modeling a SpaK/SpaR complex conformation. In vitro phosphorylation studies performed using wild type and site-directed SpaK mutant proteins validated the predictions derived from application of the structure-driven domain-fusion method: SpaK was phosphorylated in the presence of (32)P-ATP and the phosphate moiety was subsequently transferred to SpaR, supporting the hypothesis that SpaK and SpaR function as sensor and response regulator, respectively, in a two-component signal transduction system, and furthermore suggesting that the structure-driven domain-fusion approach correctly predicted a physical interaction between SpaK and SpaR. Our domain-fusion algorithm leverages quantitative structure information and provides a tool for generation of hypotheses regarding protein function, which can then be tested using empirical methods.
+
+-Bacillus subtilis (-enzymology; -genetics; -metabolism)
+-Bacterial Proteins (-chemistry; -genetics; -metabolism)
+-Computational Biology (+methods)
+-DNA-Binding Proteins (+chemistry; -genetics; -metabolism)
+-Escherichia coli (-genetics)
+-Models, Chemical
+-Models, Molecular
+-Phosphorylation
+-Protein Conformation
++Protein Interaction Domains and Motifs
+-Protein Interaction Mapping
+-Protein-Serine-Threonine Kinases (+chemistry; -genetics; -metabolism)
+-Recombinant Fusion Proteins (-chemistry; -genetics; -metabolism)
+-Reproducibility of Results
+-Structural Homology, Protein
+-Transcription Factors (+chemistry; -genetics; -metabolism)
+
+doi:10.1371/journal.pcbi.1000401
+pubmed:19503843
+pmc:PMC2686270
+

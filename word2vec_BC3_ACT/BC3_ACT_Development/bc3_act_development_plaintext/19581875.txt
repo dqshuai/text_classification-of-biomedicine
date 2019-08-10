@@ -1,0 +1,26 @@
+Nat. Biotechnol.
+
+Quantification of the yeast transcriptome by single-molecule sequencing.
+
+D Lipson, T Raz, A Kieu, DR Jones, E Giladi, E Thayer, JF Thompson, S Letovsky, P Milos, M Causey
+
+We present single-molecule sequencing digital gene expression (smsDGE), a high-throughput, amplification-free method for accurate quantification of the full range of cellular polyadenylated RNA transcripts using a Helicos Genetic Analysis system. smsDGE involves a reverse-transcription and polyA-tailing sample preparation procedure followed by sequencing that generates a single read per transcript. We applied smsDGE to the transcriptome of Saccharomyces cerevisiae strain DBY746, using 6 of the available 50 channels in a single sequencing run, yielding on average 12 million aligned reads per channel. Using spiked-in RNA, accurate quantitative measurements were obtained over four orders of magnitude. High correlation was demonstrated across independent flow-cell channels, instrument runs and sample preparations. Transcript counting in smsDGE is highly efficient due to the representation of each transcript molecule by a single read. This efficiency, coupled with the high throughput enabled by the single-molecule sequencing platform, provides an alternative method for expression profiling.
+
+-Base Sequence
+-Chromosome Mapping
+-Expressed Sequence Tags
+-Gene Expression Profiling (+methods)
+-Genome, Fungal
+-Molecular Sequence Data
+-RNA, Fungal (-genetics; -metabolism)
+-RNA, Messenger (-genetics; -metabolism)
+-Reproducibility of Results
+-Reverse Transcriptase Polymerase Chain Reaction
+-Saccharomyces cerevisiae (+genetics; +metabolism)
+-Sequence Alignment
+-Sequence Analysis, DNA (+methods)
+
+pii:nbt.1551
+doi:10.1038/nbt.1551
+pubmed:19581875
+

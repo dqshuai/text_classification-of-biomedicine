@@ -1,0 +1,23 @@
+Cell Cycle
+
+Unlike p53, p27 failed to exhibit an anti-tumor genetic interaction with Ku80.
+
+VB Holcomb, H Vogel, P Hasty
+
+Ku80 is often referred to as a tumor suppressor since it maintains the genome by repairing DNA double-strand breaks (DSBs) via the nonhomologous end joining (NHEJ) pathway. Even though Ku80 deletion causes hypersensitivity to gamma-radiation, DNA damage and chromosomal rearrangements, Ku80-mutant mice exhibit very low cancer levels. We previously hypothesized these low cancer levels were caused by enhanced cell cycle checkpoints that responded to inefficiently repaired DNA damage because Ku80-mutant fibroblasts exhibit premature cellular senescence that was dependent on a p53-mediated DNA damage response. In addition, Ku80 and p53 show a genetic interaction to suppress pro-B cell lymphoma and medulloblastoma. Here we tested for a similar anti-tumor genetic interaction between Ku80 and the cyclin kinase inhibitor, p27(Kip1) (p27) since p27 mutant mice showed elevated levels of pituitary adenoma that were exacerbated by gamma-radiation-induced DNA damage (damage repaired by Ku80). We found that deleting both Ku80 and p27 did not exacerbate cancer as compared to either single mutant. In addition, fibroblasts deleted for both exhibited premature cellular senescence similar to Ku80-mutant fibroblasts. Thus, p27 did not exhibit an obvious genetic interaction with Ku80 to suppress tumors. This observation suggests that DNA damage (or DNA damage responses) induced by either gamma-radiation or Ku80 deletion are not equivalent since gamma-radiation exacerbates oncogenesis in mice deleted for either p53 or p27 while Ku80 deletion exacerbates oncogenesis for only the former genotype.
+
+-Animals
+-Antigens, Nuclear (-genetics; +metabolism)
+-Cyclin-Dependent Kinase Inhibitor p27 (-genetics; +metabolism)
+-DNA Breaks, Double-Stranded
+-DNA Repair (-genetics; -physiology)
+-DNA-Binding Proteins (-genetics; +metabolism)
+-Gamma Rays (-adverse effects)
+-Mice
+-Mice, Knockout
+-Pituitary Neoplasms (-genetics; +metabolism)
+-Tumor Suppressor Protein p53 (-genetics; +metabolism)
+
+pii:9249
+pubmed:19597334
+

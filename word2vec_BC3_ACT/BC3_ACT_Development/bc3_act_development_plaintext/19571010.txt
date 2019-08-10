@@ -1,0 +1,23 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Many human large intergenic noncoding RNAs associate with chromatin-modifying complexes and affect gene expression.
+
+AM Khalil, M Guttman, M Huarte, M Garber, A Raj, D Rivea Morales, K Thomas, A Presser, BE Bernstein, A van Oudenaarden, A Regev, ES Lander, JL Rinn
+
+We recently showed that the mammalian genome encodes >1,000 large intergenic noncoding (linc)RNAs that are clearly conserved across mammals and, thus, functional. Gene expression patterns have implicated these lincRNAs in diverse biological processes, including cell-cycle regulation, immune surveillance, and embryonic stem cell pluripotency. However, the mechanism by which these lincRNAs function is unknown. Here, we expand the catalog of human lincRNAs to approximately 3,300 by analyzing chromatin-state maps of various human cell types. Inspired by the observation that the well-characterized lincRNA HOTAIR binds the polycomb repressive complex (PRC)2, we tested whether many lincRNAs are physically associated with PRC2. Remarkably, we observe that approximately 20% of lincRNAs expressed in various cell types are bound by PRC2, and that additional lincRNAs are bound by other chromatin-modifying complexes. Also, we show that siRNA-mediated depletion of certain lincRNAs associated with PRC2 leads to changes in gene expression, and that the up-regulated genes are enriched for those normally silenced by PRC2. We propose a model in which some lincRNAs guide chromatin-modifying complexes to specific genomic loci to regulate gene expression.
+
+-Chromatin (+genetics)
++Epigenesis, Genetic
+-Gene Expression Profiling
+-Gene Expression Regulation (+genetics)
+-Humans
++Models, Genetic
+-Oligonucleotide Array Sequence Analysis
+-RNA, Untranslated (+genetics; +metabolism)
+-Repressor Proteins (-genetics; +metabolism)
+
+pii:0904715106
+doi:10.1073/pnas.0904715106
+pubmed:19571010
+pmc:PMC2704857
+

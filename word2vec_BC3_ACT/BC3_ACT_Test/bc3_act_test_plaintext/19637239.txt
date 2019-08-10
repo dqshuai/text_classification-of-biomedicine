@@ -1,0 +1,19 @@
+Proteomics
+
+Accurate quantitation of standard peptides used for quantitative proteomics.
+
+NK Bordeerat, NI Georgieva, DG Klapper, LB Collins, TJ Cross, CH Borchers, JA Swenberg, G Boysen
+
+MS-based proteomics has become an indispensable tool in system biology generating a need for accurate and precise quantitation of peptide standards. The presented method utilizes ultra performance LC-MS/MS (UPLC-MS/MS) to accurately quantify peptide standards at concentrations of 0.1-10 microM. The ability for accurate quantitation of micro-molar concentrations has the advantages that quantitation can be performed routinely with high precision and the high sensitivity of the method minimizes the amounts required.
+
+-Chromatography, Liquid (-economics; -methods)
+-Peptides (+analysis)
+-Proteomics (-economics; +methods)
+-Sensitivity and Specificity
+-Tandem Mass Spectrometry (-economics; -methods)
+
+doi:10.1002/pmic.200900043
+pubmed:19637239
+mid:NIHMS146789
+pmc:PMC2766299
+

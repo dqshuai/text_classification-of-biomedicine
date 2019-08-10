@@ -1,0 +1,18 @@
+J. Am. Chem. Soc.
+
+Reactivity and regioselectivity in 1,3-dipolar cycloadditions of azides to strained alkynes and alkenes: a computational study.
+
+F Schoenebeck, DH Ess, GO Jones, KN Houk
+
+The transition states and activation barriers of the 1,3-dipolar cycloadditions of azides with cycloalkynes and cycloalkenes were explored using B3LYP density functional theory (DFT) and spin component scaled SCS-MP2 methods. A survey of benzyl azide cycloadditions to substituted cyclooctynes (OMe, Cl, F, CN) showed that fluorine substitution has the most dramatic effect on reactivity. Azide cycloadditions to 3-substituted cyclooctynes prefer 1,5-addition regiochemistry in the gas phase, but CPCM solvation abolishes the regioselectivity preference, in accord with experiments in solution. The activation energies for phenyl azide addition to cycloalkynes decrease considerably as the ring size is decreased (cyclononyne DeltaG(double dagger) = 29.2 kcal/mol, cyclohexyne DeltaG(double dagger) = 14.1 kcal/mol). The origin of this trend is explained by the distortion/interaction model. Cycloalkynes are predicted to be significantly more reactive dipolarophiles than cycloalkenes. The activation barriers for the cycloadditions of phenyl azide and picryl azide (2,4,6-trinitrophenyl azide) to five- through nine-membered cycloalkenes were also studied and compared to experiment. Picryl azide has considerably lower activation barriers than phenyl azide. Dissection of the transition state energies into distortion and interaction energies revealed that "strain-promoted" cycloalkyne and cycloalkene cycloaddition transition states must still pay an energetic penalty to achieve their transition state geometries, and the differences in reactivity are more closely related to differences in distortion energies than the amount of strain released in the product. Trans-cycloalkene dipolarophiles have much lower barriers than cis-cycloalkenes.
+
+-Alkenes (+chemistry)
+-Alkynes (+chemistry)
+-Azides (+chemistry)
++Computer Simulation
+-Cyclization
++Models, Chemical
+
+doi:10.1021/ja9003624
+pubmed:19459632
+

@@ -1,0 +1,40 @@
+J. Biol. Chem.
+
+Isoform specificity of the Na/K-ATPase association and regulation by phospholemman.
+
+J Bossuyt, S Despa, F Han, Z Hou, SL Robia, JB Lingrel, DM Bers
+
+Phospholemman (PLM) phosphorylation mediates enhanced Na/K-ATPase (NKA) function during adrenergic stimulation of the heart. Multiple NKA isoforms exist, and their function/regulation may differ. We combined fluorescence resonance energy transfer (FRET) and functional measurements to investigate isoform specificity of the NKA-PLM interaction. FRET was measured as the increase in the donor fluorescence (CFP-NKA-alpha1 or CFP-NKA-alpha2) during progressive acceptor (PLM-YFP) photobleach in HEK-293 cells. Both pairs exhibited robust FRET (maximum of 23.6 +/- 3.4% for NKA-alpha1 and 27.5 +/- 2.5% for NKA-alpha2). Donor fluorescence depended linearly on acceptor fluorescence, indicating a 1:1 PLM:NKA stoichiometry for both isoforms. PLM phosphorylation induced by cAMP-dependent protein kinase and protein kinase C activation drastically reduced the FRET with both NKA isoforms. However, submaximal cAMP-dependent protein kinase activation had less effect on PLM-NKA-alpha2 versus PLM-NKA-alpha1. Surprisingly, ouabain virtually abolished NKA-PLM FRET but only partially reduced co-immunoprecipitation. PLM-CFP also showed FRET to PLM-YFP, but the relationship during progressive photobleach was highly nonlinear, indicating oligomers involving >or=3 monomers. Using cardiac myocytes from wild-type mice and mice where NKA-alpha1 is ouabain-sensitive and NKA-alpha2 is ouabain-resistant, we assessed the effects of PLM phosphorylation on NKA-alpha1 and NKA-alpha2 function. Isoproterenol enhanced internal Na(+) affinity of both isoforms (K((1/2)) decreased from 18.1 +/- 2.0 to 11.5 +/- 1.9 mm for NKA-alpha1 and from 16.4 +/- 2.5 to 10.4 +/- 1.5 mm for NKA-alpha2) without altering maximum transport rate (V(max)). Protein kinase C activation also decreased K((1/2)) for both NKA-alpha1 and NKA-alpha2 (to 9.4 +/- 1.0 and 9.1 +/- 1.1 mm, respectively) but increased V(max) only for NKA-alpha2 (1.9 +/- 0.4 versus 1.2 +/- 0.5 mm/min). In conclusion, PLM associates with and modulates both NKA-alpha1 and NKA-alpha2 in a comparable but not identical manner.
+
+-Animals
+-Cell Line
+-Cells, Cultured
+-Cyclic AMP-Dependent Protein Kinases (-metabolism)
+-Enzyme Activation (-drug effects)
+-Female
+-Fluorescence Resonance Energy Transfer
+-Humans
+-Immunoprecipitation
+-Ion Transport (-drug effects)
+-Isoenzymes (-genetics; -metabolism)
+-Isoproterenol (-pharmacology)
+-Kinetics
+-Luminescent Proteins (-genetics; -metabolism)
+-Male
+-Membrane Proteins (-genetics; +metabolism)
+-Mice
+-Myocytes, Cardiac (-cytology; -drug effects; -metabolism)
+-Ouabain (-pharmacology)
+-Phorbol 12,13-Dibutyrate (-pharmacology)
+-Phosphoproteins (-genetics; +metabolism)
+-Phosphorylation
+-Protein Kinase C (-metabolism)
+-Sodium (-metabolism)
+-Sodium-Potassium-Exchanging ATPase (-antagonists & inhibitors; -genetics; +metabolism)
+-Transfection
+
+pii:M109.047357
+doi:10.1074/jbc.M109.047357
+pubmed:19638348
+pmc:PMC2785363
+

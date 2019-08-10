@@ -1,0 +1,22 @@
+J. Biol. Chem.
+
+A unitary anesthetic binding site at high resolution.
+
+LS Vedula, G Brannigan, NJ Economou, J Xi, MA Hall, R Liu, MJ Rossi, WP Dailey, KC Grasty, ML Klein, RG Eckenhoff, PJ Loll
+
+Propofol is the most widely used injectable general anesthetic. Its targets include ligand-gated ion channels such as the GABA(A) receptor, but such receptor-channel complexes remain challenging to study at atomic resolution. Until structural biology methods advance to the point of being able to deal with systems such as the GABA(A) receptor, it will be necessary to use more tractable surrogates to probe the molecular details of anesthetic recognition. We have previously shown that recognition of inhalational general anesthetics by the model protein apoferritin closely mirrors recognition by more complex and clinically relevant protein targets; here we show that apoferritin also binds propofol and related GABAergic anesthetics, and that the same binding site mediates recognition of both inhalational and injectable anesthetics. Apoferritin binding affinities for a series of propofol analogs were found to be strongly correlated with the ability to potentiate GABA responses at GABA(A) receptors, validating this model system for injectable anesthetics. High resolution x-ray crystal structures reveal that, despite the presence of hydrogen bond donors and acceptors, anesthetic recognition is mediated largely by van der Waals forces and the hydrophobic effect. Molecular dynamics simulations indicate that the ligands undergo considerable fluctuations about their equilibrium positions. Finally, apoferritin displays both structural and dynamic responses to anesthetic binding, which may mimic changes elicited by anesthetics in physiologic targets like ion channels.
+
+-Anesthetics, Intravenous (+chemistry; -metabolism)
+-Apoferritins (+chemistry; -metabolism)
++Binding Sites
+-Humans
++Models, Molecular
+-Propofol (+chemistry; -metabolism)
+-Protein Structure, Tertiary
+-Receptors, GABA-A (+chemistry; -metabolism)
+
+pii:M109.017814
+doi:10.1074/jbc.M109.017814
+pubmed:19605349
+pmc:PMC2782011
+

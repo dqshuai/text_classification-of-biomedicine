@@ -1,0 +1,20 @@
+Nucleic Acids Res.
+
+Transcription regulation of restriction-modification system Ecl18kI.
+
+A Protsenko, M Zakharova, M Nagornykh, A Solonin, K Severinov
+
+Restriction-modification (R-M) system Ecl18kI is representative of R-M systems whose coordinated transcription is achieved through a separate DNA-binding domain of the methyltransferase. M.Ecl18kI recognizes an operator sequence located in the noncoding region that separates the divergently transcribed R and M genes. Here we show that, contrary to previous predictions, the two ecl18kI promoters are not divergent, but actually face one another. The binding of M.Ecl18kI to its operator prevents RNA polymerase (RNAP) binding to the M promoter by steric exclusion, but has no direct effect on RNAP interaction with the R promoter. The start point for R transcription is located outside of the intergenic region, opposite the initiation codon of the M gene. Regulated transcription of the potentially toxic ecl18kI R gene is accomplished (i) at the stage of promoter complex formation, through direct competition from complexes formed at the M promoter, and (ii) at the stage of promoter clearance, since R promoter-bound RNAP escapes the promoter more slowly than RNAP bound to the M promoter.
+
+-DNA-Cytosine Methylases (-biosynthesis; +genetics)
+-Deoxyribonucleases, Type II Site-Specific (-biosynthesis; +genetics)
+-Enterobacter cloacae (-genetics)
++Gene Expression Regulation, Bacterial
+-Promoter Regions, Genetic
++Transcription, Genetic
+
+pii:gkp579
+doi:10.1093/nar/gkp579
+pubmed:19592424
+pmc:PMC2760811
+

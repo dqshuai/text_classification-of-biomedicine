@@ -1,0 +1,32 @@
+Mol. Cell
+
+A genome-wide siRNA screen reveals diverse cellular processes and pathways that mediate genome stability.
+
+RD Paulsen, DV Soni, R Wollman, AT Hahn, MC Yee, A Guan, JA Hesley, SC Miller, EF Cromwell, DE Solow-Cordero, T Meyer, KA Cimprich
+
+Signaling pathways that respond to DNA damage are essential for the maintenance of genome stability and are linked to many diseases, including cancer. Here, a genome-wide siRNA screen was employed to identify additional genes involved in genome stabilization by monitoring phosphorylation of the histone variant H2AX, an early mark of DNA damage. We identified hundreds of genes whose downregulation led to elevated levels of H2AX phosphorylation (gammaH2AX) and revealed links to cellular complexes and to genes with unclassified functions. We demonstrate a widespread role for mRNA-processing factors in preventing DNA damage, which in some cases is caused by aberrant RNA-DNA structures. Furthermore, we connect increased gammaH2AX levels to the neurological disorder Charcot-Marie-Tooth (CMT) syndrome, and we find a role for several CMT proteins in the DNA-damage response. These data indicate that preservation of genome stability is mediated by a larger network of biological processes than previously appreciated.
+
+-Charcot-Marie-Tooth Disease (-genetics)
+-Computational Biology
+-DNA Damage
+-DNA Repair (-genetics)
+-DNA Replication (-genetics)
+-Down-Regulation
+-Genes, cdc
++Genomic Instability
+-Genomic Library
+-Genomics
+-Hela Cells
+-Histones (-metabolism)
+-Humans
+-Phosphorylation
+-RNA, Messenger (-metabolism)
+-RNA, Small Interfering (-metabolism; +physiology)
++Signal Transduction
+
+pii:S1097-2765(09)00459-6
+doi:10.1016/j.molcel.2009.06.021
+pubmed:19647519
+mid:NIHMS130883
+pmc:PMC2772893
+

@@ -1,0 +1,24 @@
+BioTechniques
+
+Transcriptional effects of transfection: the potential for misinterpretation of gene expression data generated from transiently transfected cells.
+
+L Jacobsen, S Calvin, E Lobenhofer
+
+Transfection is used to introduce a gene of interest into a cell. To interpret the downstream results, understanding which effects are the true biological responses to the gene and which, if any, are off-target effects can be difficult. In order to discriminate true biological effects from off-target effects, we transfected a breast cancer cell line, MCF7, with a vector encoding either a reporter gene or the identical vector without the reporter gene insert. Both resulted in similar numbers of differentially expressed transcripts, suggesting that very few of the responses were directly due to the introduction of the reporter gene. We postulate that many differentially expressed transcripts are the result of the introduction of foreign DNA, as the biological processes associated with these genes are primarily associated with an immune response to a viral infection. Interestingly, different transfection reagents resulted in > 10-fold difference in the number of differentially expressed transcripts. This suggests the importance of testing multiple reagents and selecting the best transfection reagent along with the appropriate vector within the context of the experimental model system to ensure that the majority of the observed responses are biological effects of the gene of interest and not based on a particular transfection process used.
+
+-Breast Neoplasms (-genetics; -metabolism; -pathology)
+-Cell Line, Tumor
+-Female
++Gene Expression
+-Gene Expression Profiling
+-Genes, Reporter
+-Genetic Vectors
+-Humans
+-Time Factors
++Transcription, Genetic
++Transfection
+
+pii:000113132
+doi:10.2144/000113132
+pubmed:19594446
+

@@ -1,0 +1,27 @@
+Cell Death Differ.
+
+Interfering with multimerization of netrin-1 receptors triggers tumor cell death.
+
+F Mille, F Llambi, C Guix, C Delloye-Bourgeois, C Guenebeaud, S Castro-Obregon, DE Bredesen, C Thibert, P Mehlen
+
+Netrin-1 was recently proposed to control tumorigenesis by inhibiting apoptosis induced by the dependence receptors DCC (Deleted in colorectal cancer) and UNC5H. Although the loss of these dependence receptors' expression has been described as a selective advantage for tumor growth and progression in numerous cancers, recent observations have shown that some tumors may use an alternative strategy to block dependence receptor-induced programmed cell death: the autocrine expression of netrin-1. This alternative strategy has been observed in a large fraction of aggressive breast cancers, neuroblastoma, pancreatic adenocarcinoma, and lung cancer. This observation is of potential interest regarding future targeted therapy, as in such cases interfering with the ability of netrin-1 to inhibit DCC or UNC5H-induced cell death is associated with apoptosis of netrin-1-expressing tumor cells in vitro, and with inhibition of tumor growth or metastasis in different animal tumor models. The understanding of the mechanism by which netrin-1 inhibits cell death is therefore of interest. Here, we show that netrin-1 triggers the multimerization of both DCC and UNC5H2 receptors, and that multimerization of the intracellular domain of DCC and UNC5H2 is the critical step to inhibit the proapoptotic effects of both of these receptors. Taking advantage of this property, we utilized a recombinant specific domain of DCC that (i) interacts with netrin-1 and (ii) inhibits netrin-1-induced multimerization, to trigger apoptosis in netrin-dependent tumor cells.
+
+-Animals
++Apoptosis
+-Cell Line
+-Chickens
+-Disease Models, Animal
+-Humans
+-Neoplasms (+metabolism)
+-Nerve Growth Factors (+pharmacology)
+-Protein Multimerization (-drug effects)
+-Receptors, Cell Surface (+metabolism)
+-Recombinant Proteins (-pharmacology)
+-Tumor Suppressor Proteins (-metabolism; +pharmacology)
+
+pii:cdd200975
+doi:10.1038/cdd.2009.75
+pubmed:19543238
+mid:HALMS405392
+pmc:PMC2841642
+

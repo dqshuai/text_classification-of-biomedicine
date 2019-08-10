@@ -1,0 +1,14 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Grain boundaries exhibit the dynamics of glass-forming liquids.
+
+H Zhang, DJ Srolovitz, JF Douglas, JA Warren
+
+Polycrystalline materials are composites of crystalline particles or "grains" separated by thin "amorphous" grain boundaries (GBs). Although GBs have been exhaustively investigated at low temperatures, at which these regions are relatively ordered, much less is known about them at higher temperatures, where they exhibit significant mobility and structural disorder and characterization methods are limited. The time and spatial scales accessible to molecular dynamics (MD) simulation are appropriate for investigating the dynamical and structural properties of GBs at elevated temperatures, and we exploit MD to explore basic aspects of GB dynamics as a function of temperature. It has long been hypothesized that GBs have features in common with glass-forming liquids based on the processing characteristics of polycrystalline materials. We find remarkable support for this suggestion, as evidenced by string-like collective atomic motion and transient caging of atomic motion, and a non-Arrhenius GB mobility describing the average rate of large-scale GB displacement.
+
+
+pii:0900227106
+doi:10.1073/pnas.0900227106
+pubmed:19416913
+pmc:PMC2683136
+

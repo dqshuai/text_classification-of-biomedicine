@@ -1,0 +1,29 @@
+J. Bacteriol.
+
+An extracytoplasmic function sigma factor controls beta-lactamase gene expression in Bacillus anthracis and other Bacillus cereus group species.
+
+CL Ross, KS Thomason, TM Koehler
+
+The susceptibility of most Bacillus anthracis strains to beta-lactam antibiotics is intriguing considering that the closely related species Bacillus cereus and Bacillus thuringiensis typically produce beta-lactamases and the B. anthracis genome harbors two beta-lactamase genes, bla1 and bla2. We show that beta-lactamase activity associated with B. anthracis is affected by two genes, sigP (BA2502) and rsiP (BA2503), predicted to encode an extracytoplasmic function sigma factor and an anti-sigma factor, respectively. Deletion of the sigP-rsiP locus abolished beta-lactamase activity in a naturally occurring penicillin-resistant strain and had no effect on beta-lactamase activity in a prototypical penicillin-susceptible strain. Complementation with sigP and rsiP from the penicillin-resistant strain, but not with sigP and rsiP from the penicillin-susceptible strain, conferred constitutive beta-lactamase activity in both mutants. These results are attributed to a nucleotide deletion near the 5' end of rsiP in the penicillin-resistant strain that is predicted to result in a nonfunctional protein. B. cereus and B. thuringiensis sigP and rsiP homologues are required for inducible penicillin resistance in these species. Expression of the B. cereus or B. thuringiensis sigP and rsiP genes in a B. anthracis sigP-rsiP-null mutant confers inducible production of beta-lactamase activity, suggesting that while B. anthracis contains the genes necessary for sensing beta-lactam antibiotics, the B. anthracis sigP and rsiP gene products are not sufficient for bla induction.
+
+-Anti-Bacterial Agents (-pharmacology)
+-Bacillus anthracis (+enzymology)
+-Bacillus cereus (+enzymology)
+-Bacillus thuringiensis (-enzymology)
+-Bacterial Proteins (-genetics; +metabolism)
+-Base Sequence
+-Conserved Sequence
+-DNA, Bacterial (-genetics)
+-Gene Expression Regulation, Bacterial (-physiology)
+-Gene Expression Regulation, Enzymologic (-physiology)
+-Penicillin Resistance (-genetics; -physiology)
+-Penicillins (-pharmacology)
+-Sigma Factor (-genetics; +metabolism)
+-Transcription Initiation Site
+-beta-Lactamases (-genetics; +metabolism)
+
+pii:JB.00691-09
+doi:10.1128/JB.00691-09
+pubmed:19717606
+pmc:PMC2795285
+

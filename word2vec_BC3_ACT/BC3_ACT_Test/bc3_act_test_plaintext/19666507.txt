@@ -1,0 +1,25 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+The DNA-gate of Bacillus subtilis gyrase is predominantly in the closed conformation during the DNA supercoiling reaction.
+
+A Gubaev, M Hilbert, D Klostermeier
+
+Gyrase is the only type II topoisomerase that introduces negative supercoils into DNA. Supercoiling is catalyzed via a strand-passage mechanism, in which the gate DNA (gDNA) is transiently cleaved, and a second DNA segment, the transfer DNA (tDNA), is passed through the gap before the gDNA is religated. Strand passage requires an opening of the so-called DNA-gate by approximately 2 nm. A single-molecule FRET study reported equal populations of open and closed DNA-gate in topoisomerase II. We present here single-molecule FRET experiments that monitor the conformation of DNA bound to the DNA-gate of Bacillus subtilis gyrase and the conformation of the DNA-gate itself. DNA bound to gyrase adopts two different conformations, one slightly, one severely distorted. DNA distortion requires cleavage, but neither ATP nor the presence of a tDNA. At the same time, the DNA-gate of gyrase is predominantly in the closed conformation. In agreement with the single molecule data and with the danger of dsDNA breaks for genome integrity, <5% of cleavage complexes are detected in equilibrium. Quinolone inhibitors favor DNA cleavage by B. subtilis gyrase, but disfavor DNA distortion, and the DNA-gate remains in the closed conformation. Our results demonstrate that DNA binding, distortion and cleavage, and gate-opening are mechanistically distinct events. During the relaxation and supercoiling reactions, gyrase with an open DNA-gate is not significantly populated, consistent with gate-opening as a very rare event that only occurs briefly to allow for strand passage.
+
+-Bacillus subtilis (-drug effects; +enzymology)
+-DNA Gyrase (-antagonists & inhibitors; +chemistry; -metabolism)
+-DNA, Bacterial (+chemistry; -metabolism)
+-DNA, Superhelical (+chemistry; -metabolism)
+-Enzyme Inhibitors (-pharmacology)
+-Models, Molecular
++Nucleic Acid Conformation
+-Phosphates (-metabolism)
+-Plasmids (-chemistry)
+-Protein Binding (-drug effects)
+-Substrate Specificity (-drug effects)
+
+pii:0902493106
+doi:10.1073/pnas.0902493106
+pubmed:19666507
+pmc:PMC2726392
+

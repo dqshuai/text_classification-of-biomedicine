@@ -1,0 +1,22 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Molecular basis of substrate selection by the N-end rule adaptor protein ClpS.
+
+G Román-Hernández, RA Grant, RT Sauer, TA Baker
+
+The N-end rule is a conserved degradation pathway that relates the stability of a protein to its N-terminal amino acid. Here, we present crystal structures of ClpS, the bacterial N-end rule adaptor, alone and engaged with peptides containing N-terminal phenylalanine, leucine, and tryptophan. These structures, together with a previous structure of ClpS bound to an N-terminal tyrosine, illustrate the molecular basis of recognition of the complete set of primary N-end rule amino acids. In each case, the alpha-amino group and side chain of the N-terminal residue are the major determinants of recognition. The binding pocket for the N-end residue is preformed in the free adaptor, and only small adjustments are needed to accommodate N-end rule residues having substantially different sizes and shapes. M53A ClpS is known to mediate degradation of an expanded repertoire of substrates, including those with N-terminal valine or isoleucine. A structure of Met53A ClpS engaged with an N-end rule tryptophan reveals an essentially wild-type mechanism of recognition, indicating that the Met(53) side chain directly enforces specificity by clashing with and excluding beta-branched side chains. Finally, experimental and structural data suggest mechanisms that make proteins with N-terminal methionine bind very poorly to ClpS, explaining why these high-abundance proteins are not degraded via the N-end rule pathway in the cell.
+
+-Carrier Proteins (-chemistry; -genetics; +metabolism)
+-Caulobacter crescentus (+metabolism)
+-Crystallography, X-Ray
+-Endopeptidase Clp (-metabolism)
+-Methionine (-genetics; -metabolism)
+-Peptides (-chemistry; -genetics; -metabolism)
+-Protein Conformation
+-Substrate Specificity
+
+pii:0903614106
+doi:10.1073/pnas.0903614106
+pubmed:19451643
+pmc:PMC2690016
+

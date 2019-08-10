@@ -1,0 +1,23 @@
+Biochemistry
+
+The two active sites of Thermotoga maritima CheA dimers bind ATP with dramatically different affinities.
+
+AK Eaton, RC Stewart
+
+CheA is a central component of the chemotaxis signal transduction pathway that allows prokaryotic cells to control their movements in response to environmental cues. This dimeric protein histidine kinase autophosphorylates via an intersubunit phosphorylation reaction in which each protomer of the dimer binds ATP, at an active site located in its P4 domain and then catalyzes transfer of the gamma-phosphoryl group of ATP to the His(45) side chain within the P1 domain of the trans protomer. Here we utilize the fluorescent nucleotide analogue TNP-ATP [2'(3')-O-(2,4,6-trinitrophenyl)adenosine 5'-triphosphate] to investigate the two ATP-binding sites of the Thermotoga maritima CheA dimer (TmCheA) and the single site of the isolated TmP4 domain (a monomer). We define the affinity of CheA for TNP nucleotides and, by competition, for unmodified ATP. The two ATP-binding sites of the TmCheA dimer exhibit dramatically different affinities for TNP-ATP (K(d1)(TNP) approximately 0.0016 muM and K(d2)(TNP) approximately 22 muM at 4 degrees C in the presence of Mg(2+)) as well as for ATP (K(d1)(ATP) approximately 6 muM and K(d2)(ATP) approximately 5000 muM at 4 degrees C in the presence of Mg(2+)) and in their ability to influence the fluorescence of bound TNP-ATP. The ATP-binding site of the isolated TmP4 domain interacts with ATP and TNP-ATP in a manner similar to that of the high-affinity site of the TmCheA dimer. These results suggest that the two active sites of TmCheA homodimers exhibit large differences in their interactions with ATP. We consider possible implications of these differences for the CheA autophosphorylation mechanism and for CheA function in bacterial cells.
+
+-Adenosine Triphosphate (+metabolism)
+-Bacterial Proteins (-chemistry; +metabolism)
+-Binding Sites
+-Binding, Competitive
+-Dimerization
+-Phosphorylation
+-Protein Kinases (-metabolism)
+-Spectrometry, Fluorescence
+-Thermotoga maritima (+metabolism)
+
+doi:10.1021/bi900474g
+pubmed:19505148
+mid:NIHMS169916
+pmc:PMC2811258
+

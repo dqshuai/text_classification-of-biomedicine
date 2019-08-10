@@ -1,0 +1,28 @@
+Nat. Struct. Mol. Biol.
+
+LIN-28 and the poly(U) polymerase PUP-2 regulate let-7 microRNA processing in Caenorhabditis elegans.
+
+NJ Lehrbach, J Armisen, HL Lightfoot, KJ Murfitt, A Bugaut, S Balasubramanian, EA Miska
+
+The let-7 microRNA (miRNA) is an ultraconserved regulator of stem cell differentiation and developmental timing and a candidate tumor suppressor. Here we show that LIN-28 and the poly(U) polymerase PUP-2 regulate let-7 processing in Caenorhabditis elegans. We demonstrate that lin-28 is necessary and sufficient to block let-7 activity in vivo; LIN-28 directly binds let-7 pre-miRNA to prevent Dicer processing. Moreover, we have identified a poly(U) polymerase, PUP-2, which regulates the stability of LIN-28-blockaded let-7 pre-miRNA and contributes to LIN-28-dependent regulation of let-7 during development. We show that PUP-2 and LIN-28 interact directly, and that LIN-28 stimulates uridylation of let-7 pre-miRNA by PUP-2 in vitro. Our results demonstrate that LIN-28 and let-7 form an ancient regulatory switch, conserved from nematodes to humans, and provide insight into the mechanism of LIN-28 action in vivo. Uridylation by a PUP-2 ortholog might regulate let-7 and additional miRNAs in other species. Given the roles of Lin28 and let-7 in stem cell and cancer biology, we propose that such poly(U) polymerases are potential therapeutic targets.
+
+-Animals
+-Animals, Genetically Modified
+-Base Sequence
+-Caenorhabditis elegans
+-Caenorhabditis elegans Proteins (+genetics; +physiology)
+-Cell Differentiation
++Gene Expression Regulation
+-MicroRNAs (+genetics; -metabolism)
+-Models, Biological
+-Molecular Sequence Data
+-Nucleotidyltransferases (-metabolism; +physiology)
+-RNA Processing, Post-Transcriptional
+-Repressor Proteins (+genetics; +physiology)
+-Ribonuclease III (-metabolism)
+-Sequence Homology, Nucleic Acid
+
+pii:nsmb.1675
+doi:10.1038/nsmb.1675
+pubmed:19713957
+

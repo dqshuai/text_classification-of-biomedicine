@@ -1,0 +1,28 @@
+J. Mol. Biol.
+
+Structural basis of HIV-1 activation by NF-kappaB--a higher-order complex of p50:RelA bound to the HIV-1 LTR.
+
+JC Stroud, A Oltman, A Han, DL Bates, L Chen
+
+The activation and latency of human immunodeficiency virus type 1 (HIV-1) are tightly controlled by the transcriptional activity of its long terminal repeat (LTR) region. The LTR is regulated by viral proteins as well as host factors, including the nuclear factor kappaB (NF-kappaB) that becomes activated in virus-infected cells. The two tandem NF-kappaB sites of the LTR are among the most highly conserved sequence elements of the HIV-1 genome. Puzzlingly, these sites are arranged in a manner that seems to preclude simultaneous binding of both sites by NF-kappaB, although previous biochemical work suggests otherwise. Here, we have determined the crystal structure of p50:RelA bound to the tandem kappaB element of the HIV-1 LTR as a dimeric dimer, providing direct structural evidence that NF-kappaB can occupy both sites simultaneously. The two p50:RelA dimers bind the adjacent kappaB sites and interact through a protein contact that is accommodated by DNA bending. The two dimers clamp DNA from opposite faces of the double helix and form a topological trap of the bound DNA. Consistent with these structural features, our biochemical analyses indicate that p50:RelA binds the HIV-1 LTR tandem kappaB sites with an apparent anti-cooperativity but enhanced kinetic stability. The slow on and off rates we observe may be relevant to viral latency because viral activation requires sustained NF-kappaB activation. Furthermore, our work demonstrates that the specific arrangement of the two kappaB sites on the HIV-1 LTR can modulate the assembly kinetics of the higher-order NF-kappaB complex on the viral promoter. This phenomenon is unlikely restricted to the HIV-1 LTR but probably represents a general mechanism for the function of composite DNA elements in transcription.
+
+-Crystallography, X-Ray
+-DNA, Viral (+metabolism)
++HIV Long Terminal Repeat
+-HIV-1 (+physiology)
+-Host-Pathogen Interactions
+-Humans
+-Models, Molecular
+-NF-kappa B p50 Subunit (+chemistry; +metabolism)
+-Protein Binding
+-Protein Multimerization
+-Protein Structure, Quaternary
+-Transcription Factor RelA (+chemistry; +metabolism)
++Virus Activation
+
+pii:S0022-2836(09)00990-5
+doi:10.1016/j.jmb.2009.08.023
+pubmed:19683540
+mid:NIHMS139292
+pmc:PMC2753696
+

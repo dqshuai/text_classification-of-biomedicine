@@ -1,0 +1,34 @@
+Structure
+
+A crescent-shaped ALIX dimer targets ESCRT-III CHMP4 filaments.
+
+R Pires, B Hartlieb, L Signor, G Schoehn, S Lata, M Roessle, C Moriscot, S Popov, A Hinz, M Jamin, V Boyer, R Sadoul, E Forest, DI Svergun, HG Göttlinger, W Weissenhorn
+
+ALIX recruits ESCRT-III CHMP4 and is involved in membrane remodeling during endosomal receptor sorting, budding of some enveloped viruses, and cytokinesis. We show that ALIX dimerizes via the middle domain (ALIX(-V)) in solution. Structural modeling based on small angle X-ray scattering (SAXS) data reveals an elongated crescent-shaped conformation for dimeric ALIX lacking the proline-rich domain (ALIX(BRO1-V)). Mutations at the dimerization interface prevent dimerization and induce an open elongated monomeric conformation of ALIX(-V) as determined by SAXS modeling. ALIX dimerizes in vivo and dimeric ALIX colocalizes with CHMP4B upon coexpression. We show further that ALIX dimerization affects HIV-1 budding. C-terminally truncated activated CHMP4B retaining the ALIX binding site forms linear, circular, and helical filaments in vitro, which can be bridged by ALIX. Our data suggest that dimeric ALIX represents the active form that interacts with ESCRT-III CHMP4 polymers and functions as a scaffolding protein during membrane remodeling processes.
+
+-Binding Sites
+-Calcium-Binding Proteins (+chemistry; -genetics; +metabolism; -ultrastructure)
+-Carrier Proteins (+metabolism; -ultrastructure)
+-Cell Cycle Proteins (+chemistry; -genetics; +metabolism; -ultrastructure)
+-Cell Line
+-Dimerization
+-Endosomal Sorting Complexes Required for Transport
+-Endosomes (-metabolism; +virology)
+-Genetic Complementation Test
+-HIV-1 (-physiology)
+-Kidney (-cytology)
+-Models, Molecular
+-Molecular Weight
+-Mutation
+-Protein Binding
+-Protein Conformation
+-Protein Structure, Secondary (-genetics)
+-Protein Structure, Tertiary (-genetics; -physiology)
+-Recombinant Fusion Proteins (-chemistry; -metabolism)
+
+pii:S0969-2126(09)00188-9
+doi:10.1016/j.str.2009.04.007
+pubmed:19523902
+mid:NIHMS119918
+pmc:PMC2699623
+

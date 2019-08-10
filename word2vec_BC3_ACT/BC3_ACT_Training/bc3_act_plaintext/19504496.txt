@@ -1,0 +1,12 @@
+Proteomics
+
+Systematic study of protein sumoylation: Development of a site-specific predictor of SUMOsp 2.0.
+
+J Ren, X Gao, C Jin, M Zhu, X Wang, A Shaw, L Wen, X Yao, Y Xue
+
+Protein sumoylation is an important reversible post-translational modification on proteins, and orchestrates a variety of cellular processes. Recently, computational prediction of sumoylation sites has attracted much attention for its cost-efficiency and power in genomic data mining. In this work, we developed SUMOsp 2.0, an accurate computing program with an improved group-based phosphorylation scoring algorithm. Our analysis demonstrated that SUMOsp 2.0 has greater prediction accuracy than SUMOsp 1.0 and other existing tools, with a sensitivity of 88.17% and a specificity of 92.69% under the medium threshold. Previously, several large-scale experiments have identified a list of potential sumoylated substrates in Saccharomyces cerevisiae and Homo sapiens; however, the exact sumoylation sites in most of these proteins remain elusive. We have predicted potential sumoylation sites in these proteins using SUMOsp 2.0, which provides a great resource for researchers and an outline for further mechanistic studies of sumoylation in cellular plasticity and dynamics. The online service and local packages of SUMOsp 2.0 are freely available at: http://sumosp.biocuckoo.org/.
+
+
+doi:10.1002/pmic.200800646
+pubmed:19504496
+

@@ -1,0 +1,28 @@
+PLoS ONE
+
+Tracing the evolution of competence in Haemophilus influenzae.
+
+H Maughan, RJ Redfield
+
+Natural competence is the genetically encoded ability of some bacteria to take up DNA from the environment. Although most of the incoming DNA is degraded, occasionally intact homologous fragments can recombine with the chromosome, displacing one resident strand. This potential to use DNA as a source of both nutrients and genetic novelty has important implications for the ecology and evolution of competent bacteria. However, it is not known how frequently competence changes during evolution, or whether non-competent strains can persist for long periods of time. We have previously studied competence in H. influenzae and found that both the amount of DNA taken up and the amount recombined varies extensively between different strains. In addition, several strains are unable to become competent, suggesting that competence has been lost at least once. To investigate how many times competence has increased or decreased during the divergence of these strains, we inferred the evolutionary relationships of strains using the largest datasets currently available. However, despite the use of three datasets and multiple inference methods, few nodes were resolved with high support, perhaps due to extensive mixing by recombination. Tracing the evolution of competence in those clades that were well supported identified changes in DNA uptake and/or transformation in most strains. The recency of these events suggests that competence has changed frequently during evolution but the poor support of basal relationships precludes the determination of whether non-competent strains can persist for long periods of time. In some strains, changes in transformation have occurred that cannot be due to changes in DNA uptake, suggesting that selection can act on transformation independent of DNA uptake.
+
+-Bayes Theorem
+-Computational Biology (-methods)
+-DNA Repair
+-DNA, Bacterial (-genetics; -metabolism)
+-Ecology
+-Evolution, Molecular
+-Genes, Bacterial
+-Genome
+-Genome, Bacterial
+-Haemophilus influenzae (+genetics)
+-Models, Genetic
+-Phenotype
+-Phylogeny
+-Recombination, Genetic
+-Species Specificity
+
+doi:10.1371/journal.pone.0005854
+pubmed:19516897
+pmc:PMC2689351
+

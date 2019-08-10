@@ -1,0 +1,31 @@
+Nucleic Acids Res.
+
+Uracil DNA Glycosylase 2 negatively regulates HIV-1 LTR transcription.
+
+D Fenard, L Houzet, E Bernard, A Tupin, S Brun, M Mougel, C Devaux, N Chazal, L Briant
+
+Numerous cellular factors belonging to the DNA repair machineries, including RAD18, RAD52, XPB and XPD, have been described to counteract human immunodeficiency virus type 1 (HIV-1) replication. Recently, Uracil DNA glycosylase 2 (UNG2), a major determinant of the uracil base excision repair pathway, was shown to undergo rapid proteasome-dependent degradation following HIV-1 infection. However, the specific role of intracellular UNG2 depletion during the course of HIV-1 infection is not clearly understood. Our study shows for the first time that overexpression of UNG2 inhibits HIV-1 replication. We demonstrate that this viral inhibition is correlated with a marked decrease in transcription efficiency as shown by monitoring HIV-1 LTR promoter activity and quantification of HIV-1 RNA levels. Interestingly, UNG2 inhibits LTR activity when stimulated by Tat transactivator or TNFalpha, while barely affected using Phorbol ester activation. Mutational analysis of UNG2 indicates that antiviral activity may require the integrity of the UNG2 catalytic domain. Altogether, our data indicate that UNG2 is likely to represent a new host defense factor specifically counteracted by HIV-1 Vpr. The molecular mechanisms involved in the UNG2 antiviral activity still remain elusive but may rely on the sequestration of specific cellular factor(s) critical for viral transcription.
+
+-Catalytic Domain
+-Cell Line
+-HIV Integrase (-metabolism)
++HIV Long Terminal Repeat
+-HIV-1 (+genetics; -physiology)
+-HIV-2 (-physiology)
+-Humans
+-Promoter Regions, Genetic
+-Proteasome Endopeptidase Complex (-metabolism)
+-Tetradecanoylphorbol Acetate (-pharmacology)
++Transcription, Genetic (-drug effects)
+-Transcriptional Activation
+-Tumor Necrosis Factor-alpha (-pharmacology)
+-Uracil-DNA Glycosidase (-chemistry; +metabolism)
+-Virion (-physiology)
+-tat Gene Products, Human Immunodeficiency Virus (-metabolism)
+-vpr Gene Products, Human Immunodeficiency Virus (-metabolism)
+
+pii:gkp673
+doi:10.1093/nar/gkp673
+pubmed:19696076
+pmc:PMC2764447
+

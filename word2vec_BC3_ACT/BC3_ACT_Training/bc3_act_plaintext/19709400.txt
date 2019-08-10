@@ -1,0 +1,31 @@
+BMC Genomics
+
+Comparative 454 pyrosequencing of transcripts from two olive genotypes during fruit development.
+
+F Alagna, N D'Agostino, L Torchia, M Servili, R Rao, M Pietrella, G Giuliano, ML Chiusano, L Baldoni, G Perrotta
+
+BACKGROUND: Despite its primary economic importance, genomic information on olive tree is still lacking. 454 pyrosequencing was used to enrich the very few sequence data currently available for the Olea europaea species and to identify genes involved in expression of fruit quality traits. RESULTS: Fruits of Coratina, a widely cultivated variety characterized by a very high phenolic content, and Tendellone, an oleuropein-lacking natural variant, were used as starting material for monitoring the transcriptome. Four different cDNA libraries were sequenced, respectively at the beginning and at the end of drupe development. A total of 261,485 reads were obtained, for an output of about 58 Mb. Raw sequence data were processed using a four step pipeline procedure and data were stored in a relational database with a web interface. CONCLUSION: Massively parallel sequencing of different fruit cDNA collections has provided large scale information about the structure and putative function of gene transcripts accumulated during fruit development. Comparative transcript profiling allowed the identification of differentially expressed genes with potential relevance in regulating the fruit metabolism and phenolic content during ripening.
+
++Comparative Genomic Hybridization
+-DNA, Complementary (-genetics)
+-DNA, Plant (-genetics)
+-Databases, Genetic
+-Expressed Sequence Tags
+-Fruit (-genetics; +growth & development)
+-Gene Expression Profiling
+-Gene Expression Regulation, Developmental
+-Gene Expression Regulation, Plant
+-Gene Library
+-Genome, Plant
+-Genotype
+-Lipid Metabolism
+-Olea (+genetics; -metabolism)
+-Phenols (-metabolism)
+-Sequence Analysis, DNA
+-User-Computer Interface
+
+pii:1471-2164-10-399
+doi:10.1186/1471-2164-10-399
+pubmed:19709400
+pmc:PMC2748093
+

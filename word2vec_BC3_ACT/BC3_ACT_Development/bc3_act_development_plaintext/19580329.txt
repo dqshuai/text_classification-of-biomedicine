@@ -1,0 +1,21 @@
+Biochemistry
+
+RapA, the SWI/SNF subunit of Escherichia coli RNA polymerase, promotes the release of nascent RNA from transcription complexes.
+
+B Yawn, L Zhang, C Mura, MV Sukhodolets
+
+RapA, a prokaryotic member of the SWI/SNF protein superfamily, is an integral part of the RNA polymerase transcription complex. RapA's function and catalytic mechanism have been linked to nucleic acid remodeling. In this work, we show that mutations in the interface between RapA's SWI/SNF and double-stranded nucleic acid-binding domains significantly alter ATP hydrolysis in purified RapA. The effects of individual mutations on ATP hydrolysis loosely correlated with RapA's nucleic acid remodeling activity, indicating that the interaction between these domains may be important for the RapA-mediated remodeling of nonproductive transcription complexes. In this study, we introduced a model system for in vitro transcription of a full-length Escherichia coli gene (slyD). To study the function of RapA, we fractionated and identified in vitro transcription reaction intermediates in the presence or absence of RapA. These experiments demonstrated that RapA contributes to the formation of free RNA species during in vitro transcription. This work further refines our models for RapA function in vivo and establishes a new role in RNA management for a representative of the SWI/SNF protein superfamily.
+
+-Adenosine Triphosphate (-metabolism)
+-Chromosomal Proteins, Non-Histone (-chemistry; -genetics; +physiology)
+-DNA-Directed RNA Polymerases (-chemistry; -genetics; +physiology)
+-Escherichia coli Proteins (-chemistry; -genetics; +physiology)
+-Hydrolysis
+-Peptidylprolyl Isomerase (-chemistry; -genetics; -physiology)
+-Protein Subunits (-chemistry; -genetics; +physiology)
+-RNA, Bacterial (-biosynthesis; +secretion)
+-Transcription Factors (-chemistry; -genetics; +physiology)
+
+doi:10.1021/bi9004123
+pubmed:19580329
+

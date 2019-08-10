@@ -1,0 +1,31 @@
+Biochemistry
+
+Functional role for the conformationally mobile phenylalanine 223 in the reaction of methylenetetrahydrofolate reductase from Escherichia coli.
+
+MN Lee, D Takawira, AP Nikolova, DP Ballou, VC Furtado, NL Phung, BR Still, MK Thorstad, JJ Tanner, EE Trimmer
+
+The flavoprotein methylenetetrahydrofolate reductase from Escherichia coli catalyzes the reduction of 5,10-methylenetetrahydrofolate (CH(2)-H(4)folate) by NADH via a ping-pong reaction mechanism. Structures of the reduced enzyme in complex with NADH and of the oxidized Glu28Gln enzyme in complex with CH(3)-H(4)folate [Pejchal, R., Sargeant, R., and Ludwig, M. L. (2005) Biochemistry 44, 11447-11457] have revealed Phe223 as a conformationally mobile active site residue. In the NADH complex, the NADH adopts an unusual hairpin conformation and is wedged between the isoalloxazine ring of the FAD and the side chain of Phe223. In the folate complex, Phe223 swings out from its position in the NADH complex to stack against the p-aminobenzoate ring of the folate. Although Phe223 contacts each substrate in E. coli MTHFR, this residue is not invariant; for example, a leucine occurs at this site in the human enzyme. To examine the role of Phe223 in substrate binding and catalysis, we have constructed mutants Phe223Ala and Phe223Leu. As predicted, our results indicate that Phe223 participates in the binding of both substrates. The Phe223Ala mutation impairs NADH and CH(2)-H(4)folate binding each 40-fold yet slows catalysis of both half-reactions less than 2-fold. Affinity for CH(2)-H(4)folate is unaffected by the Phe223Leu mutation, and the variant catalyzes the oxidative half-reaction 3-fold faster than the wild-type enzyme. Structures of ligand-free Phe223Leu and Phe223Leu/Glu28Gln MTHFR in complex with CH(3)-H(4)folate have been determined at 1.65 and 1.70 A resolution, respectively. The structures show that the folate is bound in a catalytically competent conformation, and Leu223 undergoes a conformational change similar to that observed for Phe223 in the Glu28Gln-CH(3)-H(4)folate structure. Taken together, our results suggest that Leu may be a suitable replacement for Phe223 in the oxidative half-reaction of E. coli MTHFR.
+
+-Amino Acid Substitution
+-Animals
+-Catalytic Domain
+-Escherichia coli (+enzymology)
++Escherichia coli Proteins (-chemistry; -genetics; -metabolism)
+-Folic Acid (-metabolism)
+-Humans
++Methylenetetrahydrofolate Reductase (NADPH2) (-chemistry; -genetics; -metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Molecular Structure
+-Mutagenesis, Site-Directed
+-NAD (-metabolism)
+-Oxidation-Reduction
+-Phenylalanine (+chemistry; -genetics; +metabolism)
+-Protein Binding
++Protein Conformation
+
+doi:10.1021/bi9007325
+pubmed:19610625
+mid:NIHMS135251
+pmc:PMC2805098
+

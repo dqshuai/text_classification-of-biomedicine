@@ -1,0 +1,33 @@
+Nat. Struct. Mol. Biol.
+
+A molecular basis for phosphorylation-dependent SUMO conjugation by the E2 UBC9.
+
+F Mohideen, AD Capili, PM Bilimoria, T Yamada, A Bonni, CD Lima
+
+Phosphorylation and small ubiquitin-like modifier (SUMO) conjugation contribute to the spatial and temporal regulation of substrates containing phosphorylation-dependent SUMO consensus motifs (PDSMs). Myocyte-enhancement factor 2 (MEF2) is a transcription factor and PDSM substrate whose modification by SUMO drives postsynaptic dendritic differentiation. NMR analysis revealed that the human SUMO E2 interacted with model substrates for phosphorylated and nonphosphorylated MEF2 in similar extended conformations. Mutational and biochemical analysis identified a basic E2 surface that enhanced SUMO conjugation to phosphorylated PDSM substrates MEF2 and heat-shock transcription factor 1 (HSF1), but not to nonphosphorylated MEF2 or HSF1, nor the non-PDSM substrate p53. Mutant ubiquitin-conjugating enzyme UBC9 isoforms defective in promoting SUMO conjugation to phosphorylated MEF2 in vitro and in vivo also impair postsynaptic differentiation in organotypic cerebellar slices. These data support an E2-dependent mechanism that underlies phosphorylation-dependent SUMO conjugation in pathways that range from the heat-shock response to nuclear hormone signaling to brain development.
+
+-Amino Acid Motifs
+-Animals
+-Biocatalysis
+-Cell Line
+-Cerebellum (-metabolism)
+-Dendrites (-metabolism)
+-Humans
+-MADS Domain Proteins (-chemistry; -metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Phosphorylation
+-Protein Binding
+-Protein Structure, Tertiary
+-Rats
+-Sequence Alignment
+-Small Ubiquitin-Related Modifier Proteins (-chemistry; +metabolism)
+-Substrate Specificity
+-Ubiquitin-Conjugating Enzymes (-chemistry; -genetics; +metabolism)
+
+pii:nsmb.1648
+doi:10.1038/nsmb.1648
+pubmed:19684601
+mid:NIHMS129304
+pmc:PMC2771680
+

@@ -1,0 +1,29 @@
+Curr. Biol.
+
+Ska3 is required for spindle checkpoint silencing and the maintenance of chromosome cohesion in mitosis.
+
+JR Daum, JD Wren, JJ Daniel, S Sivakumar, JN McAvoy, TA Potapova, GJ Gorbsky
+
+The mitotic spindle checkpoint monitors proper bipolar attachment of chromosomes to the mitotic spindle. Previously, depletion of the novel kinetochore complex Ska1/Ska2 was found to induce a metaphase delay. By using bioinformatics, we identified C13orf3, predicted to associate with kinetochores. Recently, three laboratories independently indentified C13orf3 as an additional Ska complex component, and therefore we adopted the name Ska3. We found that cells depleted of Ska3 by RNAi achieve metaphase alignment but fail to silence the spindle checkpoint or enter anaphase. After hours of metaphase arrest, chromatids separate but retain robust kinetochore-microtubule attachments. Ska3-depleted cells accumulate high levels of the checkpoint protein Bub1 at kinetochores. Ska3 protein accumulation at kinetochores in prometaphase is dependent on Sgo1 protein. Sgo1, which accumulates at the centromeres earlier, in prophase, is not dependent on Ska3. Sgo1-depleted cells show a stronger premature chromatid separation phenotype than those depleted of Ska3. We hypothesize that Ska3 functions to coordinate checkpoint signaling from the microtubule binding sites within a kinetochore by laterally linking the individual binding sites. We suggest that this network plays a major role in silencing the spindle checkpoint when chromosomes are aligned at metaphase to allow timely anaphase onset and mitotic exit.
+
+-Cell Cycle Proteins (-metabolism)
+-Centromere (-metabolism)
++Chromosomes, Human
+-Computational Biology
+-Hela Cells
+-Humans
+-Kinetochores (-metabolism)
+-Microtubule-Associated Proteins (-genetics; -metabolism; +physiology)
+-Microtubules (-metabolism)
+-Mitosis (-genetics; +physiology)
+-Mitotic Spindle Apparatus (-metabolism)
+-Nuclear Envelope (-metabolism; -ultrastructure)
+-Protein-Serine-Threonine Kinases (-metabolism)
+-Signal Transduction
+
+pii:S0960-9822(09)01399-2
+doi:10.1016/j.cub.2009.07.017
+pubmed:19646878
+mid:NIHMS132109
+pmc:PMC2783354
+

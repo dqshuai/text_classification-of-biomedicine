@@ -1,0 +1,31 @@
+Cell Death Differ.
+
+An essential role for calcium flux in phagocytes for apoptotic cell engulfment and the anti-inflammatory response.
+
+MA Gronski, JM Kinchen, IJ Juncadella, NC Franc, KS Ravichandran
+
+Cells undergo programmed cell death/apoptosis throughout the lifespan of an organism. The subsequent immunologically silent removal of apoptotic cells plays a role in the maintenance of tolerance; defects in corpse clearance have been associated with autoimmune disease. A number of receptors and signaling molecules involved in this process have been identified, but intracellular signaling downstream of corpse recognition is only now being defined. Calcium plays a key role as a second messenger in many cell types, leading to the activation of downstream molecules and eventual transcription of effector genes; however, the role of calcium signaling during apoptotic cell removal is unclear. Here, using studies in cell lines and in the context of a whole organism, we show that apoptotic cell recognition induces both an acute and sustained calcium flux within phagocytes and that the genes required for calcium flux are essential for engulfment. Furthermore, we provide evidence that both the release of calcium from the endoplasmic reticulum and the entry of extracellular calcium through CRAC channels into the phagocytes are important during engulfment. Moreover, knockdown in Caenorhabditis elegans of stim-1 and jph-1, two genes linked to the entry of extracellular calcium into cells, led to increased persistence of apoptotic cells in the nematode. Loss of these genes seemed to affect early signaling events, leading to a decreased enrichment of actin adjacent to the apoptotic cell during corpse removal. We also show that calcium is crucial for the secretion of TGF-beta by the phagocytes during the engulfment of apoptotic cells. Taken together, these data point to an earlier unappreciated and evolutionarily conserved role for calcium flux at two distinguishable steps: the formation of the phagocytic cup and the internalization of the apoptotic cell, and the anti-inflammatory signaling induced in phagocytes by contact with apoptotic cells.
+
+-Animals
++Apoptosis
+-Caenorhabditis elegans (-genetics; -immunology)
+-Caenorhabditis elegans Proteins (-genetics; -metabolism)
+-Calcium (+metabolism)
+-Calcium Channels (-genetics; -metabolism)
+-Calcium Signaling
+-Cell Line
+-Humans
+-Jurkat Cells
+-Membrane Proteins (-genetics; -metabolism)
+-Mice
+-Phagocytes (+immunology)
++Phagocytosis
+-RNA, Small Interfering (-metabolism)
+-Transforming Growth Factor beta (-metabolism)
+
+pii:cdd200955
+doi:10.1038/cdd.2009.55
+pubmed:19461656
+mid:NIHMS187397
+pmc:PMC2856475
+

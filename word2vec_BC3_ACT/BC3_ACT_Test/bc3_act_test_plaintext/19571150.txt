@@ -1,0 +1,37 @@
+J. Neurosci.
+
+Odor-evoked neural oscillations in Drosophila are mediated by widely branching interneurons.
+
+NK Tanaka, K Ito, M Stopfer
+
+Stimulus-evoked oscillatory synchronization of neurons has been observed in a wide range of species. Here, we combined genetic strategies with paired intracellular and local field potential (LFP) recordings from the intact brain of Drosophila to study mechanisms of odor-evoked neural oscillations. We found common food odors at natural concentrations elicited oscillations in LFP recordings made from the mushroom body (MB), a site of sensory integration and analogous to the vertebrate piriform cortex. The oscillations were reversibly abolished by application of the GABA(a) blocker picrotoxin. Intracellular recordings from local and projection neurons within the antennal lobe (AL) (analogous to the olfactory bulb) revealed odor-elicited spikes and subthreshold membrane potential oscillations that were tightly phase locked to LFP oscillations recorded downstream in the MBs. These results suggested that, as in locusts, odors may elicit the oscillatory synchronization of AL neurons by means of GABAergic inhibition from local neurons (LNs). An analysis of the morphologies of genetically distinguished LNs revealed two populations of GABAergic neurons in the AL. One population of LNs innervated parts of glomeruli lacking terminals of receptor neurons, whereas the other branched more widely, innervating throughout the glomeruli, suggesting that the two populations might participate in different neural circuits. To test the functional roles of these LNs, we used the temperature-sensitive dynamin mutant gene shibire to conditionally and reversibly block chemical transmission from each or both of these populations of LNs. We found only the more widely branching population of LNs is necessary for generating odor-elicited oscillations.
+
+-Analysis of Variance
+-Animals
+-Animals, Genetically Modified
+-Biological Clocks (+physiology)
+-Biotin (-analogs & derivatives; -metabolism)
+-Drosophila
+-Drosophila Proteins (-genetics)
+-Dynamins (-genetics)
+-Evoked Potentials (-drug effects; -physiology)
+-Food
+-GABA Antagonists (-pharmacology)
+-Green Fluorescent Proteins (-genetics)
+-Interneurons (-classification; -drug effects; +physiology)
+-Membrane Potentials (-drug effects; -physiology)
+-Mushroom Bodies (+cytology; -drug effects; +physiology)
+-Nerve Tissue Proteins (-genetics)
+-Neural Pathways (-drug effects; -physiology)
++Odors
+-Picrotoxin (-pharmacology)
+-Temperature
+-Transcription Factors (-genetics)
+-gamma-Aminobutyric Acid (-metabolism)
+
+pii:29/26/8595
+doi:10.1523/JNEUROSCI.1455-09.2009
+pubmed:19571150
+mid:NIHMS128494
+pmc:PMC2753235
+

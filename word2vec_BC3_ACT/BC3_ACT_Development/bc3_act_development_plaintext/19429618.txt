@@ -1,0 +1,30 @@
+J. Bacteriol.
+
+orf4 of the Bacillus cereus sigB gene cluster encodes a general stress-inducible Dps-like bacterioferritin.
+
+SW Wang, CY Chen, JT Tseng, SH Liang, SC Chen, C Hsieh, YH Chen, CC Chen
+
+The function of orf4 in the sigB cluster in Bacillus cereus ATCC 14579 remains to be explored. Amino-acid sequence analysis has revealed that Orf4 is homologous with bacterioferritins and Dps. In this study, we generated an orf4-null mutant and produced recombinant protein rOrf4 to establish the role of orf4. In vitro, the purified rOrf4 was found to exist in two distinct forms, a dimeric form and a polymer form, through size exclusion analysis. The latter form exhibited a unique filament structure, in contrast to the typical spherical tetracosamer structure of bacterioferritins; the former can be induced to form rOrf4 polymers immediately after the addition of FeCl(2). Catalysis of the oxidation of ferrous irons by ferroxidase activity was detected with rOrf4, and the mineralized irons were subsequently sequestered only in the rOrf4 polymer. Moreover, rOrf4 exerted DNA-protective activity against oxidative damage via DNA binding in a nonspecific manner, as is seen with Dps. In vivo, deletion of orf4 had no effect on activation of the alternative sigma factor sigma(B), and therefore, orf4 is not associated with sigma(B) regulation; however, orf4 can be significantly upregulated upon environmental stress but not H(2)O(2) treatment. B. cereus strains with constitutive Orf4 expression exhibited a viability higher than that of the orf4-null mutant, under specific oxidative stress or heat shock. Taken together, these results suggest that Orf4 functions as a Dps-like bacterioferritin in response to environmental stress and can provide cell protection from oxidative damage through iron sequestration and DNA binding.
+
+-Bacillus cereus (+enzymology; -genetics)
+-Bacterial Proteins (-chemistry; +genetics; -isolation & purification; +metabolism)
+-Cytochrome b Group (-chemistry; +genetics; -isolation & purification; +metabolism)
+-DNA, Bacterial (-metabolism)
+-DNA-Binding Proteins (-genetics)
+-Ferric Compounds (-metabolism)
+-Ferritins (-chemistry; +genetics; -isolation & purification; +metabolism)
+-Gene Deletion
+-Hydrogen Peroxide (-toxicity)
+-Iron (-metabolism)
+-Microbial Viability
++Multigene Family
+-Oxidative Stress
+-Protein Binding
+-Protein Multimerization
+-Sigma Factor (-metabolism)
+
+pii:JB.00272-09
+doi:10.1128/JB.00272-09
+pubmed:19429618
+pmc:PMC2704712
+

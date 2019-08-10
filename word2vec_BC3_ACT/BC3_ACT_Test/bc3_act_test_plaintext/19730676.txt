@@ -1,0 +1,22 @@
+PLoS Comput. Biol.
+
+Googling food webs: can an eigenvector measure species' importance for coextinctions?
+
+S Allesina, M Pascual
+
+A major challenge in ecology is forecasting the effects of species' extinctions, a pressing problem given current human impacts on the planet. Consequences of species losses such as secondary extinctions are difficult to forecast because species are not isolated, but interact instead in a complex network of ecological relationships. Because of their mutual dependence, the loss of a single species can cascade in multiple coextinctions. Here we show that an algorithm adapted from the one Google uses to rank web-pages can order species according to their importance for coextinctions, providing the sequence of losses that results in the fastest collapse of the network. Moreover, we use the algorithm to bridge the gap between qualitative (who eats whom) and quantitative (at what rate) descriptions of food webs. We show that our simple algorithm finds the best possible solution for the problem of assigning importance from the perspective of secondary extinctions in all analyzed networks. Our approach relies on network structure, but applies regardless of the specific dynamical model of species' interactions, because it identifies the subset of coextinctions common to all possible models, those that will happen with certainty given the complete loss of prey of a given predator. Results show that previous measures of importance based on the concept of "hubs" or number of connections, as well as centrality measures, do not identify the most effective extinction sequence. The proposed algorithm provides a basis for further developments in the analysis of extinction risk in ecosystems.
+
++Algorithms
+-Animals
+-Biodiversity
+-Computer Simulation
++Ecosystem
++Extinction, Biological
++Food Chain
++Models, Biological
+-Systems Biology (+methods)
+
+doi:10.1371/journal.pcbi.1000494
+pubmed:19730676
+pmc:PMC2725316
+

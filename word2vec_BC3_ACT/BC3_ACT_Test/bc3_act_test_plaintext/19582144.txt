@@ -1,0 +1,21 @@
+PLoS ONE
+
+Quality of DNA extracted from mouthwashes.
+
+T Zayats, TL Young, DA Mackey, F Malecaze, P Calvas, JA Guggenheim
+
+BACKGROUND: A cost effective, safe and efficient method of obtaining DNA samples is essential in large scale genetic analyses. Buccal cells are an attractive source of DNA, as their collection is non-invasive and can be carried out by mail. However, little attention has been given to the quality of DNA extracted from mouthwashes. METHODOLOGY: Mouthwash-derived DNA was extracted from 500 subjects participating in a genetic study of high myopia. DNA quality was investigated using two standard techniques: agarose gel electrophoresis and quantitative polymerase chain reaction (qPCR). PRINCIPAL FINDINGS: Whereas the majority of mouthwash-derived DNA samples showed a single band of high molecular weight DNA by gel electrophoresis, 8.9% (95% CI: 7.1-10.7%) of samples contained only a smear of low-to-medium molecular weight, degraded DNA. The odds of DNA degradation in a subject's second mouthwash sample, given degradation of the first, was significantly greater than one (OR = 3.13; 95% CI: 1.22-7.39; Fisher's test P = 0.009), suggesting that DNA degradation was at least partially a subject-specific phenomenon. Approximately 12.4% (95% CI: 10.4-14.4%) of mouthwash-derived DNA failed to PCR amplify efficiently (using an approximately 200 bp microsatellite marker). However, we found there was no significant difference in amplification success rate between DNA samples judged to be degraded or non-degraded by gel electrophoresis (Fisher's test P = 0.5). CONCLUSIONS: This study demonstrated that DNA degradation affects a significant minority of saline mouthwashes, and that the phenomenon is partially subject-specific. Whilst the level of degradation did not significantly prevent successful amplification of short PCR fragments, previous studies suggest that such DNA degradation would compromise more demanding applications.
+
+-Base Sequence
+-DNA (+isolation & purification)
+-DNA Primers
+-Electrophoresis, Agar Gel
+-Humans
++Mouthwashes
+-Myopia (-genetics)
+-Polymerase Chain Reaction
+
+doi:10.1371/journal.pone.0006165
+pubmed:19582144
+pmc:PMC2701599
+

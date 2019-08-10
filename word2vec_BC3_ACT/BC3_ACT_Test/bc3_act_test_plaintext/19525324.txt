@@ -1,0 +1,31 @@
+Plant Physiol.
+
+BT2, a BTB protein, mediates multiple responses to nutrients, stresses, and hormones in Arabidopsis.
+
+KK Mandadi, A Misra, S Ren, TD McKnight
+
+The Arabidopsis (Arabidopsis thaliana) gene BT2 encodes a 41-kD protein that possesses an amino-terminal BTB domain, a central TAZ domain, and a carboxyl-terminal calmodulin-binding domain. We previously demonstrated that BT2 could activate telomerase expression in mature Arabidopsis leaves. Here, we report its distinct role in mediating diverse hormone, stress, and metabolic responses. We serendipitously discovered that steady-state expression of BT2 mRNA was regulated diurnally and controlled by the circadian clock, with maximum expression in the dark. This pattern of expression suggested that BT2 mRNA could be linked to the availability of photosynthate in the plant. Exogenous sugars decreased BT2 expression, whereas exogenous nitrogen increased expression. bt2 loss-of-function mutants displayed a hypersensitive response to both sugar-mediated inhibition of germination and abscisic acid (ABA)-mediated inhibition of germination, thus supporting a role of ABA in sugar signaling in germination and development. Moreover, constitutive expression of BT2 imparted resistance to both sugars and ABA at germination, suggesting that BT2 suppresses sugar and ABA responses. In support of the previously described antagonistic relationship between ABA and auxin, we found that BT2 positively regulated certain auxin responses in plants, as revealed by knocking down BT2 expression in the high-auxin mutant yucca. Accumulation of BT2 mRNA was affected by a variety of hormones, nutrients, and stresses, and BT2 was required for responses to many of these same factors. Together, these results suggest that BT2 is a central component of an interconnected signaling network that detects and responds to multiple inputs.
+
+-Abscisic Acid (-metabolism)
+-Arabidopsis (+drug effects; -genetics; +physiology; -radiation effects)
+-Arabidopsis Proteins (+chemistry; -genetics; +metabolism)
+-Biological Clocks (-drug effects; -radiation effects)
+-Carbohydrates (+pharmacology)
+-Circadian Rhythm (-drug effects; -radiation effects)
+-Gene Expression Regulation, Plant (-drug effects; -radiation effects)
+-Germination (-drug effects; -radiation effects)
+-Indoleacetic Acids (-metabolism)
+-Light
+-Nitrates (-pharmacology)
+-Phenotype
+-Plant Growth Regulators (+pharmacology)
+-Protein Structure, Tertiary
+-Signal Transduction (-drug effects; -radiation effects)
+-Stress, Physiological (+drug effects; -radiation effects)
+-Transcription Factors (+chemistry; -genetics; +metabolism)
+
+pii:pp.109.139220
+doi:10.1104/pp.109.139220
+pubmed:19525324
+pmc:PMC2719139
+

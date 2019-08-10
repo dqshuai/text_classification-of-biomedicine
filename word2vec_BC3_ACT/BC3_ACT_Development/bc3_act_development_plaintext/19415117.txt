@@ -1,0 +1,26 @@
+PLoS ONE
+
+Tissue and process specific microRNA-mRNA co-expression in mammalian development and malignancy.
+
+H Liu, IS Kohane, IS Kohane
+
+An association between enrichment and depletion of microRNA (miRNA) binding sites, 3' UTR length, and mRNA expression has been demonstrated in various developing tissues and tissues from different mature organs; but functional, context-dependent miRNA regulations have yet to be elucidated. Towards that goal, we examined miRNA-mRNA interactions by measuring miRNA and mRNA in the same tissue during development and also in malignant conditions. We identified significant miRNA-mediated biological process categories in developing mouse cerebellum and lung using non-targeted mRNA expression as the negative control. Although miRNAs in general suppress target mRNA messages, many predicted miRNA targets demonstrate a significantly higher level of co-expression than non-target genes in developing cerebellum. This phenomenon is tissue specific since it is not observed in developing lungs. Comparison of mouse cerebellar development and medulloblastoma demonstrates a shared miRNA-mRNA co-expression program for brain-specific neurologic processes such as synaptic transmission and exocytosis, in which miRNA target expression increases with the accumulation of multiple miRNAs in developing cerebellum and decreases with the loss of these miRNAs in brain tumors. These findings demonstrate the context-dependence of miRNA-mRNA co-expression.
+
+-3' Untranslated Regions
+-Animals
+-Binding Sites
+-Brain Stem Neoplasms (-genetics)
+-Cerebellum (+growth & development)
+-Computational Biology
+-Humans
+-Lung (+growth & development)
+-Lung Neoplasms (-genetics)
+-Mice
+-MicroRNAs (+analysis)
+-Oligonucleotide Array Sequence Analysis
+-RNA, Messenger (+analysis)
+
+doi:10.1371/journal.pone.0005436
+pubmed:19415117
+pmc:PMC2673043
+

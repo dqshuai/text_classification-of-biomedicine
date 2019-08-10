@@ -1,0 +1,26 @@
+BMC Mol. Biol.
+
+The STAR RNA binding proteins GLD-1, QKI, SAM68 and SLM-2 bind bipartite RNA motifs.
+
+A Galarneau, S Richard
+
+BACKGROUND: SAM68, SAM68-like mammalian protein 1 (SLM-1) and 2 (SLM-2) are members of the K homology (KH) and STAR (signal transduction activator of RNA metabolism) protein family. The function of these RNA binding proteins has been difficult to elucidate mainly because of lack of genetic data providing insights about their physiological RNA targets. In comparison, genetic studies in mice and C. elegans have provided evidence as to the physiological mRNA targets of QUAKING and GLD-1 proteins, two other members of the STAR protein family. The GLD-1 binding site is defined as a hexanucleotide sequence (NACUCA) that is found in many, but not all, physiological GLD-1 mRNA targets. Previously by using Systematic Evolution of Ligands by EXponential enrichment (SELEX), we defined the QUAKING binding site as a hexanucleotide sequence with an additional half-site (UAAY). This sequence was identified in QKI mRNA targets including the mRNAs for myelin basic proteins. RESULTS: Herein we report using SELEX the identification of the SLM-2 RNA binding site as direct U(U/A)AA repeats. The bipartite nature of the consensus sequence was essential for SLM-2 high affinity RNA binding. The identification of a bipartite mRNA binding site for QKI and now SLM-2 prompted us to determine whether SAM68 and GLD-1 also bind bipartite direct repeats. Indeed SAM68 bound the SLM-2 consensus and required both U(U/A)AA motifs. We also confirmed that GLD-1 also binds a bipartite RNA sequence in vitro with a short RNA sequence from its tra-2 physiological mRNA target. CONCLUSION: These data demonstrate that the STAR proteins QKI, GLD-1, SAM68 and SLM-2 recognize RNA with direct repeats as bipartite motifs. This information should help identify binding sites within physiological RNA targets.
+
+-Animals
+-Base Sequence
+-Binding Sites
+-Consensus Sequence
+-Humans
+-Molecular Sequence Data
++Multigene Family
+-Myelin Basic Proteins (-chemistry; -genetics; -metabolism)
+-Protein Binding
+-RNA, Messenger (+chemistry; -genetics; +metabolism)
+-RNA-Binding Proteins (-chemistry; -genetics; +metabolism)
+-Repetitive Sequences, Nucleic Acid
+
+pii:1471-2199-10-47
+doi:10.1186/1471-2199-10-47
+pubmed:19457263
+pmc:PMC2697983
+

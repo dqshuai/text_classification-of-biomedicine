@@ -1,0 +1,27 @@
+PLoS ONE
+
+Alteration of gene expression signatures of cortical differentiation and wound response in lethal clear cell renal cell carcinomas.
+
+H Zhao, Zongming Ma, R Tibshirani, JP Higgins, B Ljungberg, JD Brooks
+
+Clear cell renal cell carcinoma (ccRCC) is the most common malignancy of the adult kidney and displays heterogeneity in clinical outcomes. Through comprehensive gene expression profiling, we have identified previously a set of transcripts that predict survival following nephrectomy independent of tumor stage, grade, and performance status. These transcripts, designated as the SPC (supervised principal components) gene set, show no apparent biological or genetic features that provide insight into renal carcinogenesis or tumor progression. We explored the relationship of this gene list to a set of genes expressed in different anatomical segments of the normal kidney including the cortex (cortex gene set) and the glomerulus (glomerulus gene set), and a gene set expressed after serum stimulation of quiescent fibroblasts (the core serum response or CSR gene set). Interestingly, the normal cortex, glomerulus (part of the normal renal cortex), and CSR gene sets captured more than 1/5 of the genes in the highly prognostic SPC gene set. Based on gene expression patterns alone, the SPC gene set could be used to sort samples from normal adult kidneys by the anatomical regions from which they were dissected. Tumors whose gene expression profiles most resembled the normal renal cortex or glomerulus showed better survival than those that did not, and those with expression features more similar to CSR showed poorer survival. While the cortex, glomerulus, and CSR signatures predicted survival independent of traditional clinical parameters, they were not independent of the SPC gene list. Our findings suggest that critical biological features of lethal ccRCC include loss of normal cortical differentiation and activation of programs associated with wound healing.
+
+-Carcinoma, Renal Cell (-genetics; +metabolism)
+-Cell Differentiation
+-Cluster Analysis
+-DNA, Complementary (-metabolism)
++Gene Expression Profiling
++Gene Expression Regulation, Neoplastic
+-Humans
+-Kidney Cortex (-metabolism)
+-Kidney Glomerulus (-metabolism)
+-Kidney Neoplasms (-genetics; +metabolism)
+-Multivariate Analysis
+-Oligonucleotide Array Sequence Analysis
+-Prognosis
++Wound Healing
+
+doi:10.1371/journal.pone.0006039
+pubmed:19557179
+pmc:PMC2698218
+

@@ -1,0 +1,25 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Functional equivalence of HMGA- and histone H1-like domains in a bacterial transcriptional factor.
+
+F García-Heras, S Padmanabhan, FJ Murillo, M Elías-Arnanz
+
+Histone H1 and high-mobility group A (HMGA) proteins compete dynamically to modulate chromatin structure and regulate DNA transactions in eukaryotes. In prokaryotes, HMGA-like domains are known only in Myxococcus xanthus CarD and its Stigmatella aurantiaca ortholog. These have an N-terminal module absent in HMGA that interacts with CarG (a zinc-associated factor that does not bind DNA) to form a stable complex essential in regulating multicellular development, light-induced carotenogenesis, and other cellular processes. An analogous pair, CarD(Ad) and CarG(Ad), exists in another myxobacterium, Anaeromyxobacter dehalogenans. Intriguingly, the CarD(Ad) C terminus lacks the hallmark HMGA DNA-binding AT-hooks and instead resembles the C-terminal region (CTR) of histone H1. We find that CarD(Ad) alone could not replace CarD in M. xanthus. By contrast, when introduced with CarG(Ad), CarD(Ad) functionally replaced CarD in regulating not just 1 but 3 distinct processes in M. xanthus, despite the lower DNA-binding affinity of CarD(Ad) versus CarD in vitro. The ability of the cognate CarD(Ad)-CarG(Ad) pair to interact, but not the noncognate CarD(Ad)-CarG, rationalizes these data. Thus, in chimeras that conserve CarD-CarG interactions, the H1-like CTR of CarD(Ad) could replace the CarD HMGA AT-hooks with no loss of function in vivo. More tellingly, even chimeras with the CarD AT-hook region substituted by human histone H1 CTR or full-length H1 functioned in M. xanthus. Our domain-swap analyses showing functional equivalence of HMGA AT-hooks and H1 CTR in prokaryotic transcriptional regulation provide molecular insights into possible modes of action underlying their biological roles.
+
+-Bacterial Proteins (-chemistry; +metabolism)
+-DNA, Bacterial (-metabolism)
+-HMGA Proteins (+metabolism)
+-Histones (+chemistry; +metabolism)
+-Humans
+-Myxococcus xanthus (+metabolism)
+-Protein Binding
+-Protein Stability
+-Protein Structure, Tertiary
+-Recombinant Proteins (-metabolism)
+-Transcription Factors (-chemistry; +metabolism)
+
+pii:0902233106
+doi:10.1073/pnas.0902233106
+pubmed:19666574
+pmc:PMC2726384
+

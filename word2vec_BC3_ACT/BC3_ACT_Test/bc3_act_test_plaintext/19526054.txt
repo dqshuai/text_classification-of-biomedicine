@@ -1,0 +1,28 @@
+PLoS ONE
+
+Prediction of type III secretion signals in genomes of gram-negative bacteria.
+
+M Löwer, G Schneider
+
+BACKGROUND: Pathogenic bacteria infecting both animals as well as plants use various mechanisms to transport virulence factors across their cell membranes and channel these proteins into the infected host cell. The type III secretion system represents such a mechanism. Proteins transported via this pathway ("effector proteins") have to be distinguished from all other proteins that are not exported from the bacterial cell. Although a special targeting signal at the N-terminal end of effector proteins has been proposed in literature its exact characteristics remain unknown. METHODOLOGY/PRINCIPAL FINDINGS: In this study, we demonstrate that the signals encoded in the sequences of type III secretion system effectors can be consistently recognized and predicted by machine learning techniques. Known protein effectors were compiled from the literature and sequence databases, and served as training data for artificial neural networks and support vector machine classifiers. Common sequence features were most pronounced in the first 30 amino acids of the effector sequences. Classification accuracy yielded a cross-validated Matthews correlation of 0.63 and allowed for genome-wide prediction of potential type III secretion system effectors in 705 proteobacterial genomes (12% predicted candidates protein), their chromosomes (11%) and plasmids (13%), as well as 213 Firmicute genomes (7%). CONCLUSIONS/SIGNIFICANCE: We present a signal prediction method together with comprehensive survey of potential type III secretion system effectors extracted from 918 published bacterial genomes. Our study demonstrates that the analyzed signal features are common across a wide range of species, and provides a substantial basis for the identification of exported pathogenic proteins as targets for future therapeutic intervention. The prediction software is publicly accessible from our web server (www.modlab.org).
+
+-Artificial Intelligence
+-Bacterial Proteins (-chemistry; -genetics)
+-Gene Expression Regulation, Bacterial
+-Genes, Bacterial
++Genome, Bacterial
+-Gram-Negative Bacteria (-metabolism; +physiology)
+-Helicobacter pylori (-metabolism)
+-Models, Statistical
+-Protein Structure, Tertiary
+-Protein Transport (-genetics)
+-ROC Curve
+-Reproducibility of Results
+-Sequence Analysis, Protein (-methods)
+-Signal Transduction (-genetics)
+-Software
+
+doi:10.1371/journal.pone.0005917
+pubmed:19526054
+pmc:PMC2690842
+

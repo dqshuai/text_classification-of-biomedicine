@@ -1,0 +1,22 @@
+EMBO J.
+
+Telomere length regulation: coupling DNA end processing to feedback regulation of telomerase.
+
+D Shore, A Bianchi
+
+The conventional DNA polymerase machinery is unable to fully replicate the ends of linear chromosomes. To surmount this problem, nearly all eukaryotes use the telomerase enzyme, a specialized reverse transcriptase that utilizes its own RNA template to add short TG-rich repeats to chromosome ends, thus reversing their gradual erosion occurring at each round of replication. This unique, non-DNA templated mode of telomere replication requires a regulatory mechanism to ensure that telomerase acts at telomeres whose TG tracts are too short, but not at those with long tracts, thus maintaining the protective TG repeat 'cap' at an appropriate average length. The prevailing notion in the field is that telomere length regulation is brought about through a negative feedback mechanism that 'counts' TG repeat-bound protein complexes to generate a signal that regulates telomerase action. This review summarizes experiments leading up to this model and then focuses on more recent experiments, primarily from yeast, that begin to suggest how this 'counting' mechanism might work. The emerging picture is that of a complex interplay between the conventional DNA replication machinery, DNA damage response factors, and a specialized set of proteins that help to recruit and regulate the telomerase enzyme.
+
+-Animals
+-DNA Damage
+-DNA Replication
+-Humans
+-Saccharomyces cerevisiae (-enzymology; +genetics)
+-Saccharomyces cerevisiae Proteins (-genetics; -metabolism)
+-Telomerase (+genetics; +metabolism)
+-Telomere (+chemistry; +metabolism)
+
+pii:emboj2009195
+doi:10.1038/emboj.2009.195
+pubmed:19629031
+pmc:PMC2722252
+

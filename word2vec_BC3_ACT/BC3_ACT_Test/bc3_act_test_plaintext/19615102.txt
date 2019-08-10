@@ -1,0 +1,25 @@
+BMC Bioinformatics
+
+FISim: a new similarity measure between transcription factor binding sites based on the fuzzy integral.
+
+F Garcia, FJ Lopez, C Cano, A Blanco
+
+BACKGROUND: Regulatory motifs describe sets of related transcription factor binding sites (TFBSs) and can be represented as position frequency matrices (PFMs). De novo identification of TFBSs is a crucial problem in computational biology which includes the issue of comparing putative motifs with one another and with motifs that are already known. The relative importance of each nucleotide within a given position in the PFMs should be considered in order to compute PFM similarities. Furthermore, biological data are inherently noisy and imprecise. Fuzzy set theory is particularly suitable for modeling imprecise data, whereas fuzzy integrals are highly appropriate for representing the interaction among different information sources. RESULTS: We propose FISim, a new similarity measure between PFMs, based on the fuzzy integral of the distance of the nucleotides with respect to the information content of the positions. Unlike existing methods, FISim is designed to consider the higher contribution of better conserved positions to the binding affinity. FISim provides excellent results when dealing with sets of randomly generated motifs, and outperforms the remaining methods when handling real datasets of related motifs. Furthermore, we propose a new cluster methodology based on kernel theory together with FISim to obtain groups of related motifs potentially bound by the same TFs, providing more robust results than existing approaches. CONCLUSION: FISim corrects a design flaw of the most popular methods, whose measures favour similarity of low information content positions. We use our measure to successfully identify motifs that describe binding sites for the same TF and to solve real-life problems. In this study the reliability of fuzzy technology for motif comparison tasks is proven.
+
+-Algorithms
+-Base Sequence
+-Binding Sites
+-Cluster Analysis
+-Computational Biology (+methods)
+-DNA (-chemistry; -metabolism)
++Fuzzy Logic
+-Molecular Sequence Data
+-Sequence Alignment
++Software
+-Transcription Factors (+metabolism)
+
+pii:1471-2105-10-224
+doi:10.1186/1471-2105-10-224
+pubmed:19615102
+pmc:PMC2722654
+

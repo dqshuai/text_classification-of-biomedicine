@@ -1,0 +1,26 @@
+Biophys. J.
+
+Molecular dynamics simulations of PIP2 and PIP3 in lipid bilayers: determination of ring orientation, and the effects of surface roughness on a Poisson-Boltzmann description.
+
+Z Li, RM Venable, LA Rogers, D Murray, RW Pastor
+
+Molecular dynamics (MD) simulations of phosphatidylinositol (4,5)-bisphosphate (PIP2) and phosphatidylinositol (3,4,5)-trisphosphate (PIP3) in 1-palmitoyl 2-oleoyl phosphatidylcholine (POPC) bilayers indicate that the inositol rings are tilted approximately 40 degrees with respect to the bilayer surface, as compared with 17 degrees for the P-N vector of POPC. Multiple minima were obtained for the ring twist (analogous to roll for an airplane). The phosphates at position 1 of PIP2 and PIP3 are within an Angström of the plane formed by the phosphates of POPC; lipids in the surrounding shell are depressed by 0.5-0.8 A, but otherwise the phosphoinositides do not substantially perturb the bilayer. Finite size artifacts for ion distributions are apparent for systems of approximately 26 waters/lipid, but, based on simulations with a fourfold increase of the aqueous phase, the phosphoinositide positions and orientations do not show significant size effects. Electrostatic potentials evaluated from Poisson-Boltzmann (PB) calculations show a strong dependence of potential height and ring orientation, with the maxima on the -25 mV surfaces (17.1 +/- 0.1 A for PIP2 and 19.4 +/- 0.3 A for PIP3) occurring near the most populated orientations from MD. These surfaces are well above the background height of 10 A estimated for negatively charged cell membranes, as would be expected for lipids involved in cellular signaling. PB calculations on microscopically flat bilayers yield similar maxima as the MD-based (microscopically rough) systems, but show less fine structure and do not clearly indicate the most probable regions. Electrostatic free energies of interaction with pentalysine are also similar for the rough and flat systems. These results support the utility of a rigid/flat bilayer model for PB-based studies of PIP2 and PIP3 as long as the orientations are judiciously chosen.
+
+-Chlorides (-chemistry)
++Computer Simulation
+-Lipid Bilayers (+chemistry)
++Models, Chemical
+-Models, Molecular
+-Phosphatidylcholines (+chemistry)
+-Phosphatidylinositol 4,5-Diphosphate (+chemistry)
+-Phosphatidylinositol Phosphates (+chemistry)
+-Sodium (-chemistry)
+-Static Electricity
+-Surface Properties
+-Time Factors
+
+pii:S0006-3495(09)00903-5
+doi:10.1016/j.bpj.2009.04.037
+pubmed:19580753
+pmc:PMC2711355
+

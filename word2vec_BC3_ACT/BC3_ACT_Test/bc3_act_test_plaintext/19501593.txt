@@ -1,0 +1,29 @@
+J. Mol. Biol.
+
+Structural insights into regioselectivity in the enzymatic chlorination of tryptophan.
+
+X Zhu, W De Laurentis, K Leang, J Herrmann, K Ihlefeld, KH van Pée, JH Naismith
+
+The regioselectively controlled introduction of chlorine into organic molecules is an important biological and chemical process. This importance derives from the observation that many pharmaceutically active natural products contain a chlorine atom. Flavin-dependent halogenases are one of the principal enzyme families responsible for regioselective halogenation of natural products. Structural studies of two flavin-dependent tryptophan 7-halogenases (PrnA and RebH) have generated important insights into the chemical mechanism of halogenation by this enzyme family. These proteins comprise two modules: a flavin adenine dinucleotide (FAD)-binding module and a tryptophan-binding module. Although the 7-halogenase studies advance a hypothesis for regioselectivity, this has never been experimentally demonstrated. PyrH is a tryptophan 5-halogenase that catalyzes halogenation on tryptophan C5 position. We report the crystal structure of a tryptophan 5-halogenase (PyrH) bound to tryptophan and FAD. The FAD-binding module is essentially unchanged relative to PrnA (and RebH), and PyrH would appear to generate the same reactive species from Cl(-), O(2), and 1,5-dihydroflavin adenine dinucleotide. We report additional mutagenesis data that extend our mechanistic understanding of this process, in particular highlighting a strap region that regulates FAD binding, and may allow communication between the two modules. PyrH has a significantly different tryptophan-binding module. The data show that PyrH binds tryptophan and presents the C5 atom to the reactive chlorinating species, shielding other potential reactive sites. We have mutated residues identified by structural analysis as recognizing the tryptophan in order to confirm their role. This work establishes the method by which flavin-dependent tryptophan halogenases regioselectively control chlorine addition to tryptophan. This method would seem to be general across the superfamily.
+
+-Amino Acid Sequence
+-Amino Acid Substitution (-genetics)
+-Bacterial Proteins (+chemistry; -genetics; +metabolism)
+-Binding Sites
+-Crystallography, X-Ray
+-Flavin-Adenine Dinucleotide (-metabolism)
++Halogenation
+-Models, Molecular
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Protein Structure, Tertiary
+-Sequence Alignment
+-Streptomyces (+enzymology)
+-Tryptophan (+metabolism)
+
+pii:S0022-2836(09)00699-8
+doi:10.1016/j.jmb.2009.06.008
+pubmed:19501593
+mid:UKMS27215
+pmc:PMC2713781
+

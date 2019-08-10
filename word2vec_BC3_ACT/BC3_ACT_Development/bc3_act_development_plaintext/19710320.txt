@@ -1,0 +1,32 @@
+J. Neurosci.
+
+Modulation of the contrast response function by electrical microstimulation of the macaque frontal eye field.
+
+LB Ekstrom, PR Roelfsema, JT Arsenault, H Kolster, W Vanduffel
+
+Spatial attention influences representations in visual cortical areas as well as perception. Some models predict a contrast gain, whereas others a response or activity gain when attention is directed to a contrast-varying stimulus. Recent evidence has indicated that microstimulating the frontal eye field (FEF) can produce modulations of cortical area V4 neuronal firing rates that resemble spatial attention-like effects, and we have shown similar modulations of functional magnetic resonance imaging (fMRI) activity throughout the visual system. Here, we used fMRI in awake, fixating monkeys to first measure the response in 12 visual cortical areas to stimuli of varying luminance contrast. Next, we simultaneously microstimulated subregions of the FEF with movement fields that overlapped the stimulus locations and measured how microstimulation modulated these contrast response functions (CRFs) throughout visual cortex. In general, we found evidence for a nonproportional scaling of the CRF under these conditions, resembling a contrast gain effect. Representations of low-contrast stimuli were enhanced by stimulation of the FEF below the threshold needed to evoke saccades, whereas high-contrast stimuli were unaffected or in some areas even suppressed. Furthermore, we measured a characteristic spatial pattern of enhancement and suppression across the cortical surface, from which we propose a simple schematic of this contrast-dependent fMRI response.
+
+-Analysis of Variance
+-Animals
++Brain Mapping
+-Contrast Sensitivity (+physiology)
+-Electric Stimulation (+methods)
++Eye
+-Fixation, Ocular (-physiology)
+-Image Processing, Computer-Assisted (-methods)
+-Macaca mulatta
+-Magnetic Resonance Imaging (-methods)
+-Male
+-Models, Biological
+-Oxygen (-blood)
+-Photic Stimulation (-methods)
+-Visual Cortex (-blood supply; +physiology)
+-Visual Fields (+physiology)
+-Visual Pathways (-blood supply; -physiology)
+
+pii:29/34/10683
+doi:10.1523/JNEUROSCI.0673-09.2009
+pubmed:19710320
+mid:NIHMS143898
+pmc:PMC2749231
+

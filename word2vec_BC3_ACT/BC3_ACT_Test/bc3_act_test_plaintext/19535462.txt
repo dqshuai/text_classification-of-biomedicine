@@ -1,0 +1,26 @@
+RNA
+
+Efficient oligonucleotide-mediated degradation of nuclear noncoding RNAs in mammalian cultured cells.
+
+T Ideue, K Hino, S Kitao, T Yokoi, T Hirose
+
+Recent large-scale transcriptome analyses have revealed that large numbers of noncoding RNAs (ncRNAs) are transcribed from mammalian genomes. They include small nuclear RNAs (snRNAs), small nucleolar RNAs (snoRNAs), and longer ncRNAs, many of which are localized to the nucleus, but which have remained functionally elusive. Since ncRNAs are only known to exist in mammalian species, established experimental systems, including the Xenopus oocyte system and yeast genetics, are not available for functional analysis. RNA interference (RNAi), commonly used for analysis of protein-coding genes, is effective in eliminating cytoplasmic mRNAs, but not nuclear RNAs. To circumvent this problem, we have refined the system for knockdown of nuclear ncRNAs with chemically modified chimeric antisense oligonucleotides (ASO) that were efficiently introduced into the nucleus by nucleofection. Under optimized conditions, our system appeared to degrade at least 20 different nuclear ncRNA species in multiple mammalian cell lines with high efficiency and specificity. We also confirmed that our method had greatly improved knockdown efficiency compared with that of the previously reported method in which ASOs are introduced with transfection reagents. Furthermore, we have confirmed the expected phenotypic alterations following knockdown of HBII295 snoRNA and U7 snRNA, which resulted in a loss of site-specific methylation of the artificial RNA and the appearance of abnormal polyadenylated histone mRNA species with a concomitant delay of the cell cycle S phase, respectively. In summary, we believe that our system is a powerful tool to explore the biological functions of the large number of nuclear ncRNAs with unknown function.
+
+-Base Sequence
+-Hela Cells
+-Humans
+-Methylation
+-Nucleic Acid Conformation
+-Oligodeoxyribonucleotides, Antisense (-chemistry; -genetics; +metabolism)
+-Phenotype
+-RNA, Nuclear (-antagonists & inhibitors; -genetics; +metabolism)
+-RNA, Small Nuclear (-antagonists & inhibitors; -genetics; -metabolism)
+-RNA, Small Nucleolar (-antagonists & inhibitors; -genetics; -metabolism)
+-RNA, Untranslated (-antagonists & inhibitors; -genetics; +metabolism)
+-Transfection
+
+pii:rna.1657609
+doi:10.1261/rna.1657609
+pubmed:19535462
+pmc:PMC2714749
+

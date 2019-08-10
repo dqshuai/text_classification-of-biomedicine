@@ -1,0 +1,25 @@
+Genetics
+
+Statistical methods for evolutionary trees.
+
+AW Edwards
+
+In 1963 and 1964, L. L. Cavalli-Sforza and A. W. F. Edwards introduced novel methods for computing evolutionary trees from genetical data, initially for human populations from blood-group gene frequencies. The most important development was their introduction of statistical methods of estimation applied to stochastic models of evolution.
+
+-Computational Biology (-trends)
+-Data Interpretation, Statistical
++Evolution, Molecular
++Genetic Techniques (-history; -statistics & numerical data; -trends)
+-History, 20th Century
+-History, 21st Century
+-Humans
+-Likelihood Functions
++Models, Statistical
++Phylogeny
+-Portraits as Topic
+
+pii:183/1/5
+doi:10.1534/genetics.109.107847
+pubmed:19797062
+pmc:PMC2746166
+

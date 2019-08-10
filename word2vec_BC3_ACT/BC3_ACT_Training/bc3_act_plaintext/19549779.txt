@@ -1,0 +1,28 @@
+J. Biol. Chem.
+
+Engineering synthetic adaptors and substrates for controlled ClpXP degradation.
+
+JH Davis, TA Baker, RT Sauer
+
+Facile control of targeted intracellular protein degradation has many potential uses in basic science and biotechnology. One promising approach to this goal is to redesign adaptor proteins, which can regulate proteolytic specificity by tethering substrates to energy-dependent AAA+ proteases. Using the ClpXP protease, we have probed the minimal biochemical functions required for adaptor function by designing and characterizing variant substrates, adaptors, and ClpX enzymes. We find that substrate tethering mediated by heterologous interaction domains and a small bridging molecule mimics substrate delivery by the wild-type system. These results show that simple tethering is sufficient for synthetic adaptor function. In our engineered system, tethering and proteolysis depend on the presence of the macrolide rapamycin, providing a foundation for engineering highly specific degradation of target proteins in cells. Importantly, this degradation is regulated by a small molecule without the need for new adaptor or enzyme biosynthesis.
+
+-Adenosine Triphosphatases (-chemistry)
+-Dose-Response Relationship, Drug
+-Electrophoresis, Polyacrylamide Gel
+-Endopeptidase Clp (+chemistry; +physiology)
+-Escherichia coli (+metabolism)
+-Escherichia coli Proteins (+chemistry; +physiology)
+-Gene Expression Regulation, Bacterial
+-Green Fluorescent Proteins (-chemistry)
+-Kinetics
+-Models, Chemical
+-Peptide Hydrolases (-chemistry)
+-Protein Denaturation
+-Protein Engineering (-methods)
+-Protein Structure, Tertiary
+
+pii:M109.017624
+doi:10.1074/jbc.M109.017624
+pubmed:19549779
+pmc:PMC2755909
+

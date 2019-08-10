@@ -1,0 +1,23 @@
+Eukaryotic Cell
+
+Candida albicans hyphal formation and virulence assessed using a Caenorhabditis elegans infection model.
+
+R Pukkila-Worley, AY Peleg, E Tampakakis, E Mylonakis
+
+Candida albicans colonizes the human gastrointestinal tract and can cause life-threatening systemic infection in susceptible hosts. We study here C. albicans virulence determinants using the nematode Caenorhabditis elegans in a pathogenesis system that models candidiasis. The yeast form of C. albicans is ingested into the C. elegans digestive tract. In liquid media, the yeast cells then undergo morphological change to form hyphae, which results in aggressive tissue destruction and death of the nematode. Several lines of evidence demonstrate that hyphal formation is critical for C. albicans pathogenesis in C. elegans. First, two yeast species unable to form hyphae (Debaryomyces hansenii and Candida lusitaniae) were less virulent than C. albicans in the C. elegans assay. Second, three C. albicans mutant strains compromised in their ability to form hyphae (efg1Delta/efg1Delta, flo8Delta/flo8Delta, and cph1Delta/cph1Delta efg1Delta/efg1Delta) were dramatically attenuated for virulence. Third, the conditional tet-NRG1 strain, which enables the external manipulation of morphogenesis in vivo, was more virulent toward C. elegans when the assay was conducted under conditions that permit hyphal growth. Finally, we demonstrate the utility of the C. elegans assay in a screen for C. albicans virulence determinants, which identified several genes important for both hyphal formation in vivo and the killing of C. elegans, including the recently described CAS5 and ADA2 genes. These studies in a C. elegans-C. albicans infection model provide insights into the virulence mechanisms of an important human pathogen.
+
+-Animals
++Caenorhabditis elegans (-microbiology)
+-Candida albicans (-genetics; +growth & development; +pathogenicity; -physiology)
+-Candidiasis (+microbiology)
+-Fungal Proteins (-genetics; -metabolism)
+-Humans
+-Hyphae (-genetics; -growth & development; -pathogenicity; -physiology)
++Models, Animal
+-Virulence
+
+pii:EC.00163-09
+doi:10.1128/EC.00163-09
+pubmed:19666778
+pmc:PMC2772404
+

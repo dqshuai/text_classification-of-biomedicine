@@ -1,0 +1,21 @@
+Cell
+
+The localization of the Golgin GCC185 is independent of Rab6A/A' and Arl1.
+
+FJ Houghton, PL Chew, S Lodeho, B Goud, PA Gleeson
+
+Mammalian golgins of the trans-Golgi network (TGN) are small G protein effectors that are required for membrane transport and contain a Golgi targeting C-terminal GRIP domain. The localization of two TGN golgins, p230/golgin-245 and golgin-97, is mediated by the small GTPase Arl1, whereas recruitment of the TGN golgin GCC185 is controversial. Recently, GCC185 was proposed to localize to the Golgi by the co-operation of two small GTPases, Rab6A/A' and Arl1 (Burguete et al., 2008), a model based predominantly on in vitro interactions. Here we demonstrate that Golgi recruitment of endogenous GCC185 does not involve Rab6A/A' and Arl1. We find minimal colocalization between Rab6A/A' and endogenous GCC185 on Golgi membranes and failed to detect an interaction between Rab6A/A' and C-terminal domains of GCC185 by yeast two-hybrid analyses. Moreover, depletion of both Rab6A/A' and Arl1 also had no effect on the localization of endogenous GCC185 or the isolated GRIP domain of GCC185.
+
+-ADP-Ribosylation Factors (-analysis; +metabolism)
+-Cytosol
+-Golgi Apparatus (+chemistry)
+-Hela Cells
+-Humans
+-Membrane Proteins (-analysis; +metabolism)
+-Protein Transport
+-rab GTP-Binding Proteins (-analysis; +metabolism)
+
+pii:S0092-8674(09)00653-9
+doi:10.1016/j.cell.2009.05.048
+pubmed:19703403
+

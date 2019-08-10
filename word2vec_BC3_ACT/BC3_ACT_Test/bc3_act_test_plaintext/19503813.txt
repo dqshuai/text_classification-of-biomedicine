@@ -1,0 +1,27 @@
+PLoS ONE
+
+Multi-locus assortment (MLA) for transgene dispersal and elimination in mosquito populations.
+
+JL Rasgon
+
+BACKGROUND: Replacement of wild-type mosquito populations with genetically modified versions is being explored as a potential strategy to control vector-borne diseases. Due to lower expected relative fitness of transgenic individuals, transgenes must be driven into populations for these scenarios to be successful. Several gene drive mechanisms exist in a theoretical sense but none are currently workable in mosquitoes. Even if strategies were workable, it would be very difficult to recall released transgenes in the event of unforeseen consequences. What is needed is a way to test transgenes in the field for feasibility, efficacy and safety prior to releasing an active drive mechanism. METHODOLOGY/PRINCIPAL FINDINGS: We outline a method, termed Multi-locus assortment (MLA), to spread transgenes into vector populations by the release of genetically-modified mosquitoes carrying multiple stable transgene inserts. Simulations indicate that [1] insects do not have to carry transgenes at more than 4 loci, [2] transgenes can be maintained at high levels by sequential small releases, the frequency of which depends on the construct fitness cost, and [3] in the case of unforeseen negative non-target effects, transgenes can be eliminated from the population by halting transgenic releases and/or mass releases of wild-type insects. We also discuss potential methods to create MLA mosquito strains in the laboratory. CONCLUSIONS/SIGNIFICANCE: While not as efficient as active drive mechanisms, MLA has other advantages: [1] MLA strains can be constructed for some mosquito species with currently-available technology, [2] MLA will allow the ecological components of transgenic mosquito releases to be tested before actual gene drive mechanisms are ready to be deployed, [3] since MLA is not self-propagating, the risk of an accidental premature release into nature is minimized, and [4] in the case that active gene drive mechanisms prove impossible to develop, the MLA approach can be used as a back-up transgene dispersal mechanism for disease control efforts in some systems.
+
+-Aedes
+-Alleles
+-Animals
+-Animals, Genetically Modified
+-Computer Simulation
+-Culicidae
+-Dengue (-prevention & control; -transmission)
+-Female
+-Genotype
+-Insect Vectors
+-Malaria (-prevention & control; -transmission)
+-Male
+-Models, Genetic
++Transgenes
+
+doi:10.1371/journal.pone.0005833
+pubmed:19503813
+pmc:PMC2688761
+

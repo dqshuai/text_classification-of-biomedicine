@@ -1,0 +1,30 @@
+PLoS Pathog.
+
+A Novel extracytoplasmic function (ECF) sigma factor regulates virulence in Pseudomonas aeruginosa.
+
+MA Llamas, A van der Sar, BC Chu, M Sparrius, HJ Vogel, W Bitter
+
+Next to the two-component and quorum sensing systems, cell-surface signaling (CSS) has been recently identified as an important regulatory system in Pseudomonas aeruginosa. CSS systems sense signals from outside the cell and transmit them into the cytoplasm. They generally consist of a TonB-dependent outer membrane receptor, a sigma factor regulator (or anti-sigma factor) in the cytoplasmic membrane, and an extracytoplasmic function (ECF) sigma factor. Upon perception of the extracellular signal by the receptor the ECF sigma factor is activated and promotes the transcription of a specific set of gene(s). Although most P. aeruginosa CSS systems are involved in the regulation of iron uptake, we have identified a novel system involved in the regulation of virulence. This CSS system, which has been designated PUMA3, has a number of unusual characteristics. The most obvious difference is the receptor component which is considerably smaller than that of other CSS outer membrane receptors and lacks a beta-barrel domain. Homology modeling of PA0674 shows that this receptor is predicted to be a bilobal protein, with an N-terminal domain that resembles the N-terminal periplasmic signaling domain of CSS receptors, and a C-terminal domain that resembles the periplasmic C-terminal domains of the TolA/TonB proteins. Furthermore, the sigma factor regulator both inhibits the function of the ECF sigma factor and is required for its activity. By microarray analysis we show that PUMA3 regulates the expression of a number of genes encoding potential virulence factors, including a two-partner secretion (TPS) system. Using zebrafish (Danio rerio) embryos as a host we have demonstrated that the P. aeruginosa PUMA3-induced strain is more virulent than the wild-type. PUMA3 represents the first CSS system dedicated to the transcriptional activation of virulence functions in a human pathogen.
+
+-Animals
+-Antibodies, Bacterial (-blood)
+-Bacterial Proteins (-genetics; +metabolism)
+-Humans
+-Immunohistochemistry
+-Kaplan-Meiers Estimate
+-Microscopy, Fluorescence
+-Models, Genetic
+-Models, Molecular
+-Oligonucleotide Array Sequence Analysis
+-Oligopeptides (-metabolism)
+-Protein Stability
+-Pseudomonas aeruginosa (-genetics; +pathogenicity)
+-Reproducibility of Results
+-Sigma Factor (-genetics; +metabolism)
+-Virulence Factors (-genetics; +metabolism)
+-Zebrafish
+
+doi:10.1371/journal.ppat.1000572
+pubmed:19730690
+pmc:PMC2729926
+

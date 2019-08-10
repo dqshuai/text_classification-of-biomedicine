@@ -1,0 +1,40 @@
+Neuron
+
+A tyramine-gated chloride channel coordinates distinct motor programs of a Caenorhabditis elegans escape response.
+
+JK Pirri, AD McPherson, JL Donnelly, MM Francis, MJ Alkema
+
+A key feature of escape responses is the fast translation of sensory information into a coordinated motor output. In C. elegans, anterior touch initiates a backward escape response in which lateral head movements are suppressed. Here, we show that tyramine inhibits head movements and forward locomotion through the activation of a tyramine-gated chloride channel, LGC-55. lgc-55 mutant animals have defects in reversal behavior and fail to suppress head oscillations in response to anterior touch. lgc-55 is expressed in neurons and muscle cells that receive direct synaptic inputs from tyraminergic motor neurons. Therefore, tyramine can act as a classical inhibitory neurotransmitter. Activation of LGC-55 by tyramine coordinates the output of two distinct motor programs, locomotion and head movements that are critical for a C. elegans escape response.
+
+-Adrenergic Uptake Inhibitors (+pharmacology)
+-Analysis of Variance
+-Animals
+-Animals, Genetically Modified
+-Behavior, Animal
+-Caenorhabditis elegans (+physiology)
+-Caenorhabditis elegans Proteins
+-Chloride Channels (-genetics; +physiology)
+-Dose-Response Relationship, Drug
+-Electric Stimulation (-methods)
+-Escape Reaction (+physiology)
+-Gene Expression (-drug effects)
+-Green Fluorescent Proteins (-genetics)
+-Head Movements (-drug effects)
+-Ion Channel Gating (+drug effects)
+-Locomotion (-drug effects; -genetics)
+-Membrane Potentials (-drug effects; -genetics)
+-Mutation (-genetics)
+-Neck Muscles (-metabolism)
+-Oocytes (-drug effects; -physiology)
+-Patch-Clamp Techniques
+-Physical Stimulation (-methods)
+-Sequence Analysis, Protein
+-Tyramine (+pharmacology)
+-Xenopus laevis
+
+pii:S0896-6273(09)00294-3
+doi:10.1016/j.neuron.2009.04.013
+pubmed:19477154
+mid:NIHMS114942
+pmc:PMC2804440
+

@@ -1,0 +1,28 @@
+BMC Genomics
+
+Transcriptional analysis of the mammalian heart with special reference to its endocrine function.
+
+MF McGrath, AJ de Bold
+
+BACKGROUND: Pharmacological and gene ablation studies have demonstrated the crucial role of the endocrine function of the heart as mediated by the polypeptide hormones ANF and BNP in the maintenance of cardiovascular homeostasis. The importance of these studies lies on the fact that hypertension and chronic congestive heart failure are clinical entities that may be regarded as states of relative deficiency of ANF and BNP. These hormones are produced by the atrial muscle cells (cardiocytes), which display a dual secretory/muscle phenotype. In contrast, ventricular cardiocytes display mainly a muscle phenotype. Comparatively little information is available regarding the genetic background for this important phenotypic difference with particular reference to the endocrine function of the heart. We postulated that comparison of gene expression profiles between atrial and ventricular muscles would help identify gene transcripts that underlie the phenotypic differences associated with the endocrine function of the heart. RESULTS: Comparison of gene expression profiles in the rat heart revealed a total of 1415 differentially expressed genes between the atria and ventricles based on a 1.8 fold cut-off. The identification of numerous chamber specific transcripts, such as ANF for the atria and Irx4 for the ventricles among several others, support the soundness of the GeneChip data and demonstrates that the differences in gene expression profiles observed between the atrial and ventricular tissues were not spurious in nature. Pathway analysis revealed unique expression profiles in the atria for G protein signaling that included Galphao1, Ggamma2 and Ggamma3, AGS1, RGS2, and RGS6 and the related K+ channels GIRK1 and GIRK4. Transcripts involved in vesicle trafficking, hormone secretion as well as mechanosensors (e.g. the potassium channel TREK-1) were identified in relationship to the synthesis, storage and secretion of hormones. CONCLUSION: The data developed in this investigation describes for the first time data on gene expression particularly centred on the secretory function of the heart. This provides for a rational approach in the investigation of determinants of the endocrine of the heart in health and disease.
+
+-Animals
+-Atrial Natriuretic Factor (-genetics; -metabolism)
+-Endocrine System (+physiology)
+-GTP-Binding Proteins (-genetics; -metabolism)
++Gene Expression Profiling
+-Heart Atria (+metabolism)
+-Heart Ventricles (+metabolism)
+-Male
+-Natriuretic Peptide, Brain (-genetics; -metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Polymerase Chain Reaction
+-Rats
+-Rats, Sprague-Dawley
+-Signal Transduction
+
+pii:1471-2164-10-254
+doi:10.1186/1471-2164-10-254
+pubmed:19486520
+pmc:PMC2694839
+

@@ -1,0 +1,30 @@
+Genetics
+
+The association of yKu with subtelomeric core X sequences prevents recombination involving telomeric sequences.
+
+ME Marvin, MM Becker, P Noel, S Hardy, AA Bertuch, EJ Louis
+
+The yKu protein of Saccharomyces cerevisiae is important for genome stability by repressing recombination involving telomeric sequences. The mechanism of this repression is not known, but silent heterochromatin such as HML, HMR, and telomeres are compartmentalized at the nuclear periphery and yKu is proposed to interact with these regions and to play a role in telomeric silencing and tethering. We have utilized ChIP on chip, quantitative PCR, and quantitative recombination assays to analyze yKu binding and its effect on genome stability in wild-type and mutant backgrounds. Our data suggest that, although yKu binds to the TG1-3 repeats and other parts of the genome when needed, such as during nonhomologous end-joining, it specifically binds to core X sequences in addition to the mating-type loci, HML and HMR. Association with core X occurred in the absence of Sir proteins, and enhanced binding was observed at silenced ends compared to nonsilenced ends. In contrast, binding to HML and HMR was totally dependent on Sir2-4p and partially dependent on Sir1p with a stronger association at HML in both MATa and MATalpha strains. Using yku80 separation-of-function mutants, we show a direct correlation between core X binding and recombination rate. We believe our findings support our hypothesis that yKu and core X play a pivotal role in maintaining genome stability through nuclear architecture by mediating a defensive fold-back structure at yeast chromosome ends.
+
+-Binding Sites (-genetics)
+-Chromatin Immunoprecipitation (-methods)
+-Chromosomes, Fungal (-genetics)
+-DNA, Fungal (+genetics)
+-DNA-Binding Proteins (+genetics; -metabolism)
+-Genomic Instability
+-Heterochromatin (-genetics)
+-Models, Biological
+-Mutation
+-Protein Binding
+-Recombination, Genetic (+genetics)
+-Saccharomyces cerevisiae (-genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (+genetics; -metabolism)
+-Silent Information Regulator Proteins, Saccharomyces cerevisiae (-genetics; -metabolism)
+-Sirtuin 2 (-genetics; -metabolism)
+-Telomere (+genetics)
+
+pii:genetics.109.106682
+doi:10.1534/genetics.109.106682
+pubmed:19652176
+pmc:PMC2766309
+

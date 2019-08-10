@@ -1,0 +1,29 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Identification of a urate transporter, ABCG2, with a common functional polymorphism causing gout.
+
+OM Woodward, A Köttgen, J Coresh, E Boerwinkle, WB Guggino, M Köttgen
+
+Genome-wide association studies (GWAS) have successfully identified common single nucleotide polymorphisms (SNPs) associated with a wide variety of complex diseases, but do not address gene function or establish causality of disease-associated SNPs. We recently used GWAS to identify SNPs in a genomic region on chromosome 4 that associate with serum urate levels and gout, a consequence of elevated urate levels. Here we show using functional assays that human ATP-binding cassette, subfamily G, 2 (ABCG2), encoded by the ABCG2 gene contained in this region, is a hitherto unknown urate efflux transporter. We further show that native ABCG2 is located in the brush border membrane of kidney proximal tubule cells, where it mediates renal urate secretion. Introduction of the mutation Q141K encoded by the common SNP rs2231142 by site-directed mutagenesis resulted in 53% reduced urate transport rates compared to wild-type ABCG2 (P < 0.001). Data from a population-based study of 14,783 individuals support rs2231142 as the causal variant in the region and show highly significant associations with urate levels [whites: P = 10(-30), minor allele frequency (MAF) 0.11; blacks P = 10(-4), MAF 0.03] and gout (adjusted odds ratio 1.68 per risk allele, both races). Our data indicate that at least 10% of all gout cases in whites are attributable to this causal variant. With approximately 3 million US individuals suffering from often insufficiently treated gout, ABCG2 represents an attractive drug target. Our study completes the chain of evidence from association to causation and supports the common disease-common variant hypothesis in the etiology of gout.
+
+-ATP-Binding Cassette Transporters (-genetics; +physiology)
+-Amino Acid Sequence
+-Animals
+-Epithelial Cells (-metabolism)
+-Female
+-Gout (+genetics; -metabolism)
+-Humans
+-Hyperuricemia (+genetics)
+-Kidney Tubules, Proximal (+metabolism)
+-Molecular Sequence Data
+-Neoplasm Proteins (-genetics; +physiology)
+-Oocytes
+-Polymorphism, Single Nucleotide
+-Uric Acid (-blood; +metabolism)
+-Xenopus laevis
+
+pii:0901249106
+doi:10.1073/pnas.0901249106
+pubmed:19506252
+pmc:PMC2700910
+

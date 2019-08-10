@@ -1,0 +1,29 @@
+J. Neurosci.
+
+Spatial pattern coding of sensory information by climbing fiber-evoked calcium signals in networks of neighboring cerebellar Purkinje cells.
+
+SR Schultz, K Kitamura, A Post-Uiterweer, J Krupic, M Häusser
+
+Climbing fiber input produces complex spike synchrony across populations of cerebellar Purkinje cells oriented in the parasagittal axis. Elucidating the fine spatial structure of this synchrony is crucial for understanding its role in the encoding and processing of sensory information within the olivocerebellar cortical circuit. We investigated these issues using in vivo multineuron two-photon calcium imaging in combination with information theoretic analysis. Spontaneous dendritic calcium transients linked to climbing fiber input were observed in multiple neighboring Purkinje cells. Spontaneous synchrony of calcium transients between individual Purkinje cells falls off over approximately 200 microm mediolaterally, consistent with the presence of cerebellar microzones organized by climbing fiber input. Synchrony was increased after administration of harmaline, consistent with an olivary origin. Periodic sensory stimulation also resulted in a transient increase of synchrony after stimulus onset. To examine how synchrony affects the neural population code provided by the spatial pattern of complex spikes, we analyzed its information content. We found that spatial patterns of calcium events from small ensembles of cells provided substantially more stimulus information (59% more for seven-cell ensembles) than available by counting events across the pool without taking into account spatial origin. Information theoretic analysis indicated that, rather than contributing significantly to sensory coding via stimulus dependence, correlational effects on sensory coding are dominated by redundancy attributable to the prevalent spontaneous synchrony. The olivocerebellar circuit thus uses a labeled line code to report sensory signals, leaving open a role for synchrony in flexible selection of signals for output to deep cerebellar nuclei.
+
+-Action Potentials (-physiology)
+-Animals
+-Calcium (+metabolism)
+-Cerebellum (-anatomy & histology; +physiology)
+-Dendrites (-physiology)
+-Microscopy, Fluorescence, Multiphoton
+-Nerve Fibers (+physiology)
+-Nerve Net (-anatomy & histology; -physiology)
+-Neural Pathways (+physiology)
+-Neurons, Afferent (-physiology)
+-Olivary Nucleus (-physiology)
+-Purkinje Cells (+physiology)
+-Rats
+-Rats, Sprague-Dawley
+-Reaction Time (-physiology)
+-Signal Transduction (+physiology)
+
+pii:29/25/8005
+doi:10.1523/JNEUROSCI.4919-08.2009
+pubmed:19553440
+

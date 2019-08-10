@@ -1,0 +1,33 @@
+Virology
+
+The hepatitis delta virus RNA genome interacts with eEF1A1, p54(nrb), hnRNP-L, GAPDH and ASF/SF2.
+
+D Sikora, VS Greco-Stewart, P Miron, M Pelchat
+
+Because of its extremely limited coding capacity, the hepatitis delta virus (HDV) takes over cellular machineries for its replication and propagation. Despite the functional importance of host factors in both HDV biology and pathogenicity, little is known about proteins that associate with its RNA genome. Here, we report the identification of several host proteins interacting with an RNA corresponding to the right terminal stem-loop domain of HDV genomic RNA, using mass spectrometry on a UV crosslinked ribonucleoprotein complex, RNA affinity chromatography, and screening of a library of purified RNA-binding proteins. Co-immunoprecipitation was used to confirm the interactions of eEF1A1, p54(nrb), hnRNP-L, GAPDH and ASF/SF2 with the right terminal stem-loop domain of HDV genomic RNA in vitro, and with both polarities of HDV RNA within HeLa cells. Our discovery that HDV RNA associates with RNA-processing pathways and translation machinery during its replication provides new insights into HDV biology and its pathogenicity.
+
+-Base Sequence
+-Binding Sites (-genetics)
+-Cell Nucleus (-metabolism; -virology)
+-Genome, Viral
+-Glyceraldehyde-3-Phosphate Dehydrogenases (+metabolism)
+-Hela Cells
+-Hepatitis Delta Virus (+genetics; -pathogenicity; +physiology)
+-Heterogeneous-Nuclear Ribonucleoprotein L (+metabolism)
+-Host-Pathogen Interactions
+-Humans
+-Molecular Sequence Data
+-Nuclear Matrix-Associated Proteins (+metabolism)
+-Nuclear Proteins (+metabolism)
+-Nucleic Acid Conformation
+-Octamer Transcription Factors (+metabolism)
+-Peptide Elongation Factor 1 (+metabolism)
+-RNA Processing, Post-Transcriptional
+-RNA, Viral (-chemistry; +genetics; +metabolism)
+-RNA-Binding Proteins (+metabolism)
+-Virus Replication
+
+pii:S0042-6822(09)00284-0
+doi:10.1016/j.virol.2009.04.022
+pubmed:19464723
+

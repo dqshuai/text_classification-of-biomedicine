@@ -1,0 +1,32 @@
+Hum. Mol. Genet.
+
+Segregation of expression of mPeriod gene homologs in neurons and glia: possible divergent roles of mPeriod1 and mPeriod2 in the brain.
+
+HY Cheng, M Alvarez-Saavedra, H Dziema, YS Choi, A Li, K Obrietan
+
+The suprachiasmatic nuclei (SCN) of the mammalian hypothalamus function as the master circadian clock, coordinating the timing of diverse cell populations and organ systems. Dysregulation of clock timing is linked to a broad range of human conditions, including obesity, cardiovascular disease and a wide spectrum of neurological disorders. Aberrant regulation of expression of the PERIOD genes has been associated with improper cell division and human cancers, while the autosomal dominant disorder familial advanced sleep phase syndrome has been mapped to a single missense mutation within the critical clock gene hPERIOD2. An essential tool to begin to dissect the inherent molecular timing process is the clock gene reporter. Here, we functionally characterize two new mouse transgenic clock reporters, mPeriod1-Venus and mPeriod2-DsRED. Venus and DsRED are fluorescent proteins that can be used to monitor transcription in individual cells in real-time. Imaging of the SCN revealed oscillations, as well as light inducibility, in Venus and DsRED expression. Rhythmic Venus and DsRED expression was observed in distinct SCN cell populations, suggesting the existence of discrete cellular SCN clocks. Outside of the SCN, mPeriod1-Venus expression was broadly expressed in neuronal and non-neuronal populations. Conversely, mPeriod2-DsRED was expressed in glial populations and progenitor cells of the dentate gyrus; limited expression was detected in neurons. This distinct expression pattern of the two reporters reveals that the central nervous system possesses mechanistically distinct subpopulations of neuronal and non-neuronal cellular clocks. These novel mouse models will facilitate our understanding of clock timing and its role in human diseases.
+
+-Animals
+-Brain (-cytology; +metabolism)
+-Cell Cycle Proteins (+genetics; -metabolism)
+-Cell Line
+-Circadian Rhythm (-radiation effects)
++Gene Expression (-radiation effects)
+-Genes, Reporter
+-Humans
+-Intracellular Signaling Peptides and Proteins (+genetics; -metabolism)
+-Light
+-Mice
+-Mice, Inbred C57BL
+-Mice, Transgenic
+-Neuroglia (+metabolism)
+-Neurons (+metabolism)
+-Nuclear Proteins (+genetics; -metabolism)
+-Period Circadian Proteins
+-Transcription Factors (+genetics; -metabolism)
+
+pii:ddp252
+doi:10.1093/hmg/ddp252
+pubmed:19477955
+pmc:PMC2714730
+

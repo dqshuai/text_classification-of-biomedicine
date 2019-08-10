@@ -1,0 +1,24 @@
+J. Cell Biol.
+
+Regulation of glutamate receptor subunit availability by microRNAs.
+
+J Karr, V Vagin, K Chen, S Ganesan, O Olenkina, V Gvozdev, DE Featherstone
+
+The efficacy of synaptic transmission depends, to a large extent, on postsynaptic receptor abundance. The molecular mechanisms controlling receptor abundance are poorly understood. We tested whether abundance of postsynaptic glutamate receptors (GluRs) in Drosophila neuromuscular junctions is controlled by microRNAs, and provide evidence that it is. We show here that postsynaptic knockdown of dicer-1, the endoribonuclease necessary for microRNA synthesis, leads to large increases in postsynaptic GluR subunit messenger RNA and protein. Specifically, we measured increases in GluRIIA and GluRIIB but not GluRIIC. Further, knockout of MiR-284, a microRNA predicted to bind to GluRIIA and GluRIIB but not GluRIIC, increases expression of GluRIIA and GluRIIB but not GluRIIC proportional to the number of predicted binding sites in each transcript. Most of the de-repressed GluR protein, however, does not appear to be incorporated into functional receptors, and only minor changes in synaptic strength are observed, which suggests that microRNAs primarily regulate Drosophila receptor subunit composition rather than overall receptor abundance or synaptic strength.
+
+-Animals
+-Drosophila (-metabolism)
+-Drosophila Proteins (-metabolism)
+-MicroRNAs (+physiology)
+-Protein Subunits
+-RNA Helicases
+-RNA, Messenger (+metabolism)
+-Receptors, Glutamate (+metabolism)
+-Ribonuclease III
+-Synapses
+
+pii:jcb.200902062
+doi:10.1083/jcb.200902062
+pubmed:19433455
+pmc:PMC2711579
+

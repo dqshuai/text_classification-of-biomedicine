@@ -1,0 +1,24 @@
+Mol. Cell
+
+Quantitative proteomics reveals a dynamic interactome and phase-specific phosphorylation in the Neurospora circadian clock.
+
+CL Baker, AN Kettenbach, JJ Loros, SA Gerber, JC Dunlap
+
+Circadian systems are comprised of multiple proteins functioning together to produce feedback loops driving robust, approximately 24 hr rhythms. In all circadian systems, proteins in these loops are regulated through myriad physically and temporally distinct posttranslational modifications (PTMs). To better understand how PTMs impact a circadian oscillator, we implemented a proteomics-based approach by combining purification of endogenous FREQUENCY (FRQ) and its interacting partners with quantitative mass spectrometry (MS). We identify and quantify time-of-day-specific protein-protein interactions in the clock and show how these provide a platform for temporal and physical separation between the dual roles of FRQ. Additionally, by unambiguously identifying over 75 phosphorylated residues, following their quantitative change over a circadian cycle, and examining the phenotypes of strains that have lost these sites, we demonstrate how spatially and temporally regulated phosphorylation has opposing effects directly on overt circadian rhythms and FRQ stability.
+
+-Biological Clocks (+physiology)
+-Chromosome Mapping
+-Circadian Rhythm (+physiology)
+-Fungal Proteins (-genetics; +metabolism)
+-Gene Expression Regulation, Fungal
+-Neurospora crassa (-genetics; +metabolism)
+-Phosphorylation
+-Protein Interaction Mapping
++Proteomics
+
+pii:S1097-2765(09)00276-7
+doi:10.1016/j.molcel.2009.04.023
+pubmed:19450533
+mid:NIHMS119233
+pmc:PMC2711022
+

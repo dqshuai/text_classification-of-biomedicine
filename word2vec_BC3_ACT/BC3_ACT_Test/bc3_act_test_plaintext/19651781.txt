@@ -1,0 +1,31 @@
+J. Biol. Chem.
+
+Inducible nitric-oxide synthase expression is regulated by mitogen-activated protein kinase phosphatase-1.
+
+X Wang, Q Zhao, R Matta, X Meng, X Liu, CG Liu, LD Nelin, Y Liu
+
+Inducible nitric-oxide (NO) synthase (iNOS) plays a critical role in the eradication of intracellular pathogens. However, the excessive production of NO by iNOS has also been implicated in the pathogenesis of septic shock syndrome. Previously, we have demonstrated that mice deficient in mitogen-activated protein kinase phosphatase-1 (MKP-1) exhibit exaggerated inflammatory responses and rapidly succumb to lipopolysaccharide (LPS). In response to LPS, MKP-1(-/-) mice produce greater amounts of inflammatory cytokines and NO than do wild-type mice, and the MKP-1(-/-) mice exhibit severe hypotension. To understand the molecular basis for the increase in NO production, we studied the role of MKP-1 in the regulation of iNOS expression. We found that LPS challenge elicited a stronger iNOS induction in MKP-1 knock-out mice than in wild-type mice. Likewise, LPS treatment also resulted in greater iNOS expression in macrophages from MKP-1(-/-) mice than in macrophages from wild-type mice. Both accelerated gene transcription and enhanced mRNA stability contribute to the increases in iNOS expression in LPS-stimulated MKP-1(-/-) macrophages. We found that STAT-1, a transcription factor known to mediate iNOS induction by interferon-gamma, was more potently activated by LPS in MKP-1(-/-) macrophages than in wild-type cells. MicroRNA array analysis indicated that microRNA (miR)-155 expression was increased in MKP-1-deficient macrophages compared with wild-type macrophages. Transfection of miR-155 attenuated the expression of Suppressor of Cytokine Signal (SOCS)-1 and enhanced the expression of iNOS. Our results suggest that MKP-1 may negatively regulate iNOS expression by controlling the expression of miR-155 and consequently the STAT pathway via SOCS-1.
+
+-Animals
+-Cell Line
+-Dual Specificity Phosphatase 1 (-deficiency; -genetics; +metabolism)
++Gene Expression Regulation, Enzymologic
+-Gene Knockout Techniques
+-Lipopolysaccharides (-pharmacology)
+-Macrophages (-drug effects; -metabolism)
+-Mice
+-MicroRNAs (-genetics; -metabolism)
+-Nitric Oxide Synthase Type II (+genetics; -metabolism)
+-Phosphorylation (-drug effects)
+-RNA Processing, Post-Transcriptional
+-RNA Stability
+-RNA, Messenger (-chemistry; -metabolism)
+-STAT Transcription Factors (-metabolism)
+-Transcriptional Activation
+-Tyrosine (-metabolism)
+
+pii:M109.051235
+doi:10.1074/jbc.M109.051235
+pubmed:19651781
+pmc:PMC2785641
+

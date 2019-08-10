@@ -1,0 +1,22 @@
+PLoS ONE
+
+Using phylogenetic, functional and trait diversity to understand patterns of plant community productivity.
+
+MW Cadotte, J Cavender-Bares, D Tilman, TH Oakley
+
+BACKGROUND: Two decades of research showing that increasing plant diversity results in greater community productivity has been predicated on greater functional diversity allowing access to more of the total available resources. Thus, understanding phenotypic attributes that allow species to partition resources is fundamentally important to explaining diversity-productivity relationships. METHODOLOGY/PRINCIPAL FINDINGS: Here we use data from a long-term experiment (Cedar Creek, MN) and compare the extent to which productivity is explained by seven types of community metrics of functional variation: 1) species richness, 2) variation in 10 individual traits, 3) functional group richness, 4) a distance-based measure of functional diversity, 5) a hierarchical multivariate clustering method, 6) a nonmetric multidimensional scaling approach, and 7) a phylogenetic diversity measure, summing phylogenetic branch lengths connecting community members together and may be a surrogate for ecological differences. Although most of these diversity measures provided significant explanations of variation in productivity, the presence of a nitrogen fixer and phylogenetic diversity were the two best explanatory variables. Further, a statistical model that included the presence of a nitrogen fixer, seed weight and phylogenetic diversity was a better explanation of community productivity than other models. CONCLUSIONS: Evolutionary relationships among species appear to explain patterns of grassland productivity. Further, these results reveal that functional differences among species involve a complex suite of traits and that perhaps phylogenetic relationships provide a better measure of the diversity among species that contributes to productivity than individual or small groups of traits.
+
++Agriculture
++Genetic Variation
+-Models, Biological
+-Multivariate Analysis
+-Organ Size
++Phylogeny
+-Plants (+genetics; +growth & development)
++Quantitative Trait, Heritable
+-Seeds (-anatomy & histology)
+
+doi:10.1371/journal.pone.0005695
+pubmed:19479086
+pmc:PMC2682649
+

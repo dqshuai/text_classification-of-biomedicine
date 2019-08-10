@@ -1,0 +1,28 @@
+Biophys. J.
+
+Direct measurement of association and dissociation rates of DNA binding in live cells by fluorescence correlation spectroscopy.
+
+A Michelman-Ribeiro, D Mazza, T Rosales, TJ Stasevich, H Boukari, V Rishi, C Vinson, JR Knutson, JG McNally
+
+Measurement of live-cell binding interactions is vital for understanding the biochemical reactions that drive cellular processes. Here, we develop, characterize, and apply a new procedure to extract information about binding to an immobile substrate from fluorescence correlation spectroscopy (FCS) autocorrelation data. We show that existing methods for analyzing such data by two-component diffusion fits can produce inaccurate estimates of diffusion constants and bound fractions, or even fail altogether to fit FCS binding data. By analyzing live-cell FCS measurements, we show that our new model can satisfactorily account for the binding interactions introduced by attaching a DNA binding domain to the dimerization domain derived from a site-specific transcription factor (the vitellogenin binding protein (VBP)). We find that our FCS estimates are quantitatively consistent with our fluorescence recovery after photobleaching (FRAP) measurements on the same VBP domains. However, due to the fast binding interactions introduced by the DNA binding domain, FCS generates independent estimates for the diffusion constant (6.7 +/- 2.4 microm2/s) and the association (2 +/- 1.2 s(-1)) and dissociation (19 +/- 7 s(-1)) rates, whereas FRAP produces only a single, but a consistent, estimate, the effective-diffusion constant (4.4 +/- 1.4 microm2/s), which depends on all three parameters. We apply this new FCS method to evaluate the efficacy of a potential anticancer drug that inhibits DNA binding of VBP in vitro and find that in vivo the drug inhibits DNA binding in only a subset of cells. In sum, we provide a straightforward approach to directly measure binding rates from FCS data.
+
+-Algorithms
+-Animals
+-Binding Sites (-genetics)
+-DNA (+chemistry; -metabolism)
+-Diffusion
+-Fluorescence Recovery After Photobleaching
+-Mice
+-Microscopy, Confocal
+-Models, Theoretical
+-NIH 3T3 Cells
+-Protein Binding (-drug effects; -genetics)
+-Spectrometry, Fluorescence (+methods)
+-Transcription Factors (+chemistry; -genetics; -metabolism)
+-Vitellogenins (-chemistry; -genetics; -metabolism)
+
+pii:S0006-3495(09)00889-3
+doi:10.1016/j.bpj.2009.04.027
+pubmed:19580772
+pmc:PMC2711375
+

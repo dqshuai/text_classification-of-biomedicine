@@ -1,0 +1,22 @@
+J. Virol.
+
+Transient expression of herpes simplex virus type 1 ICP22 represses viral promoter activity and complements the replication of an ICP22 null virus.
+
+JJ Bowman, JS Orlando, DJ Davido, AS Kushnir, PA Schaffer
+
+Of the five herpes simplex virus type 1 immediate early (IE) proteins, the least is known about the function of ICP22 during productive infection and latency. Research characterizing the physical and functional properties of the protein has been limited because ICP22 has proven to be difficult to express in transient assays. In addition, genetic analysis of ICP22 has been complicated by the fact that the C terminus of ICP22 is expressed as a discrete protein product. In order to characterize properties of mutant and wild-type ICP22, we developed a transient expression system. We found that ICP22 can be expressed at detectable levels when placed under the control of the cytomegalovirus IE promoter, confirming recent observations by K. A. Fraser and S. A. Rice (J. Virol. 81:5091-5101, 2007). We extended this analysis to show that ICP22 can also be expressed from its own promoter in the presence of other viral factors, either by coexpression with ICP0 or by infection with an ICP22 null virus. Notably, infection of cells transfected with an ICP22 expression vector yielded ICP22 protein that was modified in a manner similar to that of ICP22 protein detected in wild-type-infected cells. We go on to demonstrate that the failure of ICP22 protein to be expressed in transiently transfected cells was not due to inactivity of the ICP22 promoter, but rather to the ability of ICP22 to inhibit expression of reporter gene activity, including its own, in transient assays. Of special note was the observation that expression of ICP22 was sufficient to prevent transactivation of reporter genes by ICP0. Finally, transient expression of ICP22 was sufficient to complement replication of an ICP22 null virus, demonstrating that this system can be used to study functional properties of ICP22. Collectively, this transient expression system facilitates tests of the physical and functional properties of ICP22 and ICP22 mutants prior to introduction of mutant genes into the viral genome.
+
+-Gene Deletion
++Gene Expression Regulation, Viral
+-Genetic Complementation Test
+-Herpesvirus 1, Human (-genetics; +physiology)
+-Immediate-Early Proteins (-genetics; +physiology)
+-Promoter Regions, Genetic
+-Ubiquitin-Protein Ligases (-physiology)
++Virus Replication
+
+pii:JVI.00810-09
+doi:10.1128/JVI.00810-09
+pubmed:19535441
+pmc:PMC2738139
+

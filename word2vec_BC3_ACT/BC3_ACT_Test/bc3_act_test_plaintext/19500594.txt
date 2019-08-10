@@ -1,0 +1,27 @@
+J. Mol. Biol.
+
+Two structurally independent domains of E. coli NusG create regulatory plasticity via distinct interactions with RNA polymerase and regulators.
+
+RA Mooney, K Schweimer, P Rösch, M Gottesman, R Landick
+
+NusG is a conserved regulatory protein that interacts with elongation complexes (ECs) of RNA polymerase, DNA, and RNA to modulate transcription in multiple and sometimes opposite ways. In Escherichia coli, NusG suppresses pausing and increases elongation rate, enhances termination by E. coli rho and phage HK022 Nun protein, and promotes antitermination by lambdaN and in ribosomal RNA operons. We report NMR studies that suggest that E. coli NusG consists of two largely independent N- and C-terminal structural domains, NTD and CTD, respectively. Based on tests of the functions of the NTD and CTD and variants of NusG in vivo and in vitro, we find that NTD alone is sufficient to suppress pausing and enhance transcript elongation in vitro. However, neither domain alone can enhance rho-dependent termination or support antitermination, indicating that interactions of both domains with ECs are required for these processes. We propose that the two domains of NusG mediate distinct interactions with ECs: the NTD interacts with RNA polymerase and the CTD interacts with rho and other regulators, providing NusG with different combinations of interactions to effect different regulatory outcomes.
+
+-DNA-Directed RNA Polymerases (+metabolism)
+-Escherichia coli (-genetics; +metabolism)
+-Escherichia coli Proteins (-chemistry; -genetics; +metabolism)
+-Genes, Dominant
+-Genes, Lethal
+-Peptide Elongation Factors (-chemistry; -genetics; +metabolism)
+-Protein Conformation
+-Protein Structure, Tertiary (-genetics)
+-Rho Factor (-metabolism)
+-Terminator Regions, Genetic
+-Transcription Factors (-chemistry; -genetics; +metabolism)
++Transcription, Genetic
+
+pii:S0022-2836(09)00672-X
+doi:10.1016/j.jmb.2009.05.078
+pubmed:19500594
+mid:NIHMS123140
+pmc:PMC2763281
+

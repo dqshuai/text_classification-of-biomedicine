@@ -1,0 +1,22 @@
+PLoS Comput. Biol.
+
+On the accessibility of adaptive phenotypes of a bacterial metabolic network.
+
+W Ndifon, JB Plotkin, J Dushoff
+
+The mechanisms by which adaptive phenotypes spread within an evolving population after their emergence are understood fairly well. Much less is known about the factors that influence the evolutionary accessibility of such phenotypes, a pre-requisite for their emergence in a population. Here, we investigate the influence of environmental quality on the accessibility of adaptive phenotypes of Escherichia coli's central metabolic network. We used an established flux-balance model of metabolism as the basis for a genotype-phenotype map (GPM). We quantified the effects of seven qualitatively different environments (corresponding to both carbohydrate and gluconeogenic metabolic substrates) on the structure of this GPM. We found that the GPM has a more rugged structure in qualitatively poorer environments, suggesting that adaptive phenotypes could be intrinsically less accessible in such environments. Nevertheless, on average approximately 74% of the genotype can be altered by neutral drift, in the environment where the GPM is most rugged; this could allow evolving populations to circumvent such ruggedness. Furthermore, we found that the normalized mutual information (NMI) of genotype differences relative to phenotype differences, which measures the GPM's capacity to transmit information about phenotype differences, is positively correlated with (simulation-based) estimates of the accessibility of adaptive phenotypes in different environments. These results are consistent with the predictions of a simple analytic theory that makes explicit the relationship between the NMI and the speed of adaptation. The results suggest an intuitive information-theoretic principle for evolutionary adaptation; adaptation could be faster in environments where the GPM has a greater capacity to transmit information about phenotype differences. More generally, our results provide insight into fundamental environment-specific differences in the accessibility of adaptive phenotypes, and they suggest opportunities for research at the interface between information theory and evolutionary biology.
+
+-Adaptation, Biological (+genetics)
+-Algorithms
+-Computer Simulation
+-Escherichia coli (+genetics; +metabolism)
+-Evolution, Molecular
+-Genotype
+-Metabolic Networks and Pathways (+genetics)
++Models, Genetic
+-Phenotype
+
+doi:10.1371/journal.pcbi.1000472
+pubmed:19696877
+pmc:PMC2716542
+

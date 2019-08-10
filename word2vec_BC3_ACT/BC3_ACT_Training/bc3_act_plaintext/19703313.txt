@@ -1,0 +1,29 @@
+BMC Biochem.
+
+Identification of a nuclear localization motif in the serine/arginine protein kinase PSRPK of physarum polycephalum.
+
+S Liu, Z Zhou, Z Lin, Q Ouyang, J Zhang, S Tian, M Xing
+
+BACKGROUND: Serine/arginine (SR) protein-specific kinases (SRPKs) are conserved in a wide range of organisms, from humans to yeast. Studies showed that SRPKs can regulate the nuclear import of SR proteins in cytoplasm, and regulate the sub-localization of SR proteins in the nucleus. But no nuclear localization signal (NLS) of SRPKs was found. We isolated an SRPK-like protein PSRPK (GenBank accession No. DQ140379) from Physarum polycephalum previously, and identified a NLS of PSRPK in this study. RESULTS: We carried out a thorough molecular dissection of the different domains of the PSRPK protein involved in its nuclear localization. By truncation of PSRPK protein, deletion of and single amino acid substitution in a putative NLS and transfection of mammalian cells, we observed the distribution of PSRPK fluorescent fusion protein in mammalian cells using confocal microscopy and found that the protein was mainly accumulated in the nucleus; this indicated that the motif contained a nuclear localization signal (NLS). Further investigation with truncated PSPRK peptides showed that the NLS (318PKKGDKYDKTD328) was localized in the alkaline Omega-loop of a helix-loop-helix motif (HLHM) of the C-terminal conserved domain. If the 318PKKGDK322 sequence was deleted from the loop or K320 was mutated to T320, the PSRPK fluorescent fusion protein could not enter and accumulate in the nucleus. CONCLUSION: This study demonstrated that the 318PKKGDKYDKTD328 peptides localized in the C-terminal conserved domain of PSRPK with the Omega-loop structure could play a crucial role in the NLS function of PSRPK.
+
+-Active Transport, Cell Nucleus
+-Animals
+-Biochemistry (+methods)
+-Cell Nucleus (+enzymology)
+-Cloning, Molecular
+-Conserved Sequence
+-Hela Cells
+-Humans
+-Physarum polycephalum (+enzymology; -ultrastructure)
+-Protein Kinases (-genetics; -isolation & purification; +metabolism)
+-Protein Sorting Signals (-genetics)
+-Protozoan Proteins (-genetics; -isolation & purification; +metabolism)
+-Recombinant Fusion Proteins (-genetics; +metabolism)
+-Sequence Deletion
+-Transfection
+
+pii:1471-2091-10-22
+doi:10.1186/1471-2091-10-22
+pubmed:19703313
+pmc:PMC2754491
+

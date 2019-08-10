@@ -1,0 +1,28 @@
+J. Proteome Res.
+
+Homeodomain-interacting protein kinase-2 (HIPK2) phosphorylates HMGA1a at Ser-35, Thr-52, and Thr-77 and modulates its DNA binding affinity.
+
+Q Zhang, Y Wang
+
+The chromosomal high-mobility group A (HMGA) proteins, composed of HMGA1a, HMGA1b and HMGA2, play important roles in the regulation of numerous processes in eukaryotic cells, such as transcriptional regulation, DNA repair, RNA processing, and chromatin remodeling. The biological activities of HMGA1 proteins are highly regulated by their post-translational modifications (PTMs), including acetylation, methylation, and phosphorylation. Recently, it was found that the homeodomain-interacting protein kinase-2 (HIPK2), a newly identified serine/threonine kinase, co-immunoprecipitated with, and phosphorylated, HMGA1 proteins. However, the sites and the biological significance of the phosphorylation have not been elucidated. Here, we found that HIPK2 phosphorylates HMGA1a at Ser-35, Thr-52, and Thr-77, and HMGA1b at Thr-41 and Thr-66. In addition, we demonstrated that cdc2, which is known to phosphorylate HMGA1 proteins, could induce the phosphorylation of HMGA1 proteins at the same Ser/Thr sites. The two kinases, however, exhibited different site preferences for the phosphorylation: The preference for HIPK2 phosphorylation followed the order of Thr-77 > Thr-52 > Ser-35, whereas the order for cdc2 phosphorylation was Thr-52 > Thr-77 > Ser-35. Moreover, we found that the HIPK2-phosphorylated HMGA1a reduced the binding affinity of HMGA1a to human germ line promoter, and the drop in binding affinity induced by HIPK2 phosphorylation was lower than that introduced by cdc2 phosphorylation, which is consistent with the notion that the second AT-hook in HMGA1a is more important for DNA binding than the third AT-hook.
+
+-Amino Acid Sequence
+-CDC2 Protein Kinase (-physiology)
+-Carrier Proteins (+physiology)
+-DNA (+metabolism)
+-HMGA1a Protein (-genetics; +metabolism)
+-HMGA1b Protein (-metabolism)
+-Humans
+-Molecular Sequence Data
+-Phosphorylation
+-Protein Binding (-physiology)
+-Protein Isoforms (-genetics; -metabolism)
+-Protein-Serine-Threonine Kinases (+physiology)
+-Serine (+metabolism)
+-Threonine (+metabolism)
+
+doi:10.1021/pr700571d
+pubmed:17960875
+mid:NIHMS62840
+pmc:PMC2547408
+

@@ -1,0 +1,30 @@
+J. Biol. Chem.
+
+Engineering a ubiquitin ligase reveals conformational flexibility required for ubiquitin transfer.
+
+SB Qian, L Waldron, N Choudhary, RE Klevit, WJ Chazin, C Patterson
+
+Protein ubiquitination regulates numerous cellular functions in eukaryotes. The prevailing view about the role of RING or U-box ubiquitin ligases (E3) is to provide precise positioning between the attached substrate and the ubiquitin-conjugating enzyme (E2). However, the mechanism of ubiquitin transfer remains obscure. Using the carboxyl terminus of Hsc70-interacting protein as a model E3, we show herein that although U-box binding is required, it is not sufficient to trigger the transfer of ubiquitin onto target substrates. Furthermore, additional regions of the E3 protein that have no direct contact with E2 play critical roles in mediating ubiquitin transfer from E2 to attached substrates. By combining computational structure modeling and protein engineering approaches, we uncovered a conformational flexibility of E3 that is required for substrate ubiquitination. Using an engineered version of the carboxyl terminus of Hsc70-interacting protein ubiquitin ligase as a research tool, we demonstrate a striking flexibility of ubiquitin conjugation that does not affect substrate specificity. Our results not only reveal conformational changes of E3 during ubiquitin transfer but also provide a promising approach to custom-made E3 for targeted proteolysis.
+
+-Binding Sites
+-Catalysis
+-Crystallization
+-Crystallography, X-Ray
+-Humans
+-Models, Molecular
+-Mutation
++Protein Conformation
+-Protein Engineering
+-Protein Multimerization
+-Protein Structure, Tertiary
+-Substrate Specificity
+-Ubiquitin (+metabolism)
+-Ubiquitin-Conjugating Enzymes (-chemistry; -genetics; -metabolism)
+-Ubiquitin-Protein Ligases (+chemistry; -genetics; +metabolism)
+-Ubiquitination
+
+pii:M109.032334
+doi:10.1074/jbc.M109.032334
+pubmed:19648119
+pmc:PMC2785368
+

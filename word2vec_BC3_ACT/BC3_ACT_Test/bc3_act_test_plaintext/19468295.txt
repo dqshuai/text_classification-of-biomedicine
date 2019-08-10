@@ -1,0 +1,21 @@
+PLoS Pathog.
+
+Intrinsic thermal sensing controls proteolysis of Yersinia virulence regulator RovA.
+
+K Herbst, M Bujara, AK Heroven, W Opitz, M Weichert, A Zimmermann, P Dersch
+
+Pathogens, which alternate between environmental reservoirs and a mammalian host, frequently use thermal sensing devices to adjust virulence gene expression. Here, we identify the Yersinia virulence regulator RovA as a protein thermometer. Thermal shifts encountered upon host entry lead to a reversible conformational change of the autoactivator, which reduces its DNA-binding functions and renders it more susceptible for proteolysis. Cooperative binding of RovA to its target promoters is significantly reduced at 37 degrees C, indicating that temperature control of rovA transcription is primarily based on the autoregulatory loop. Thermally induced reduction of DNA-binding is accompanied by an enhanced degradation of RovA, primarily by the Lon protease. This process is also subject to growth phase control. Studies with modified/chimeric RovA proteins indicate that amino acid residues in the vicinity of the central DNA-binding domain are important for proteolytic susceptibility. Our results establish RovA as an intrinsic temperature-sensing protein in which thermally induced conformational changes interfere with DNA-binding capacity, and secondarily render RovA susceptible to proteolytic degradation.
+
+-Bacterial Proteins (-chemistry; +physiology)
+-Blotting, Western
+-Gene Expression Regulation, Bacterial (+physiology)
+-Genes, Bacterial (-physiology)
+-Polymerase Chain Reaction
+-Temperature
+-Transcription Factors (-chemistry; +physiology)
+-Yersinia (+physiology)
+
+doi:10.1371/journal.ppat.1000435
+pubmed:19468295
+pmc:PMC2676509
+

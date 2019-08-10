@@ -1,0 +1,38 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Syntrophin mutation associated with long QT syndrome through activation of the nNOS-SCN5A macromolecular complex.
+
+K Ueda, C Valdivia, A Medeiros-Domingo, DJ Tester, M Vatta, G Farrugia, MJ Ackerman, JC Makielski
+
+Mutations in 11 genes that encode ion channels or their associated proteins cause inherited long QT syndrome (LQTS) and account for approximately 75-80% of cases (LQT1-11). Direct sequencing of SNTA1, the gene encoding alpha1-syntrophin, was performed in a cohort of LQTS patients that were negative for mutations in the 11 known LQTS-susceptibility genes. A missense mutation (A390V-SNTA1) was found in a patient with recurrent syncope and markedly prolonged QT interval (QTc, 530 ms). SNTA1 links neuronal nitric oxide synthase (nNOS) to the nNOS inhibitor plasma membrane Ca-ATPase subtype 4b (PMCA4b); SNTA1 also is known to associate with the cardiac sodium channel SCN5A. By using a GST-fusion protein of the C terminus of SCN5A, we showed that WT-SNTA1 interacted with SCN5A, nNOS, and PMCA4b. In contrast, A390V-SNTA1 selectively disrupted association of PMCA4b with this complex and increased direct nitrosylation of SCN5A. A390V-SNTA1 expressed with SCN5A, nNOS, and PMCA4b in heterologous cells increased peak and late sodium current compared with WT-SNTA1, and the increase was partially inhibited by NOS blockers. Expression of A390V-SNTA1 in cardiac myocytes also increased late sodium current. We conclude that the A390V mutation disrupted binding with PMCA4b, released inhibition of nNOS, caused S-nitrosylation of SCN5A, and was associated with increased late sodium current, which is the characteristic biophysical dysfunction for sodium-channel-mediated LQTS (LQT3). These results establish an SNTA1-based nNOS complex attached to SCN5A as a key regulator of sodium current and suggest that SNTA1 be considered a rare LQTS-susceptibility gene.
+
+-Adult
+-Amino Acid Sequence
+-Amino Acid Substitution
+-Animals
+-Calcium-Binding Proteins (-chemistry; +genetics)
+-Cell Line
+-Enzyme Activation
+-Female
++Genetic Predisposition to Disease
+-Genotype
+-Humans
+-Ion Channel Gating
+-Long QT Syndrome (+enzymology; +genetics)
+-Macromolecular Substances (-metabolism)
+-Membrane Proteins (-chemistry; +genetics)
+-Mice
+-Molecular Sequence Data
+-Muscle Proteins (-chemistry; +genetics; +metabolism)
+-Mutant Proteins (-metabolism)
+-Mutation (+genetics)
+-Myocytes, Cardiac (-metabolism; -pathology)
+-Nitric Oxide Synthase Type I (+metabolism)
+-Plasma Membrane Calcium-Transporting ATPases (-metabolism)
+-Sodium Channels (-chemistry; +metabolism)
+
+pii:0801294105
+doi:10.1073/pnas.0801294105
+pubmed:18591664
+pmc:PMC2442127
+

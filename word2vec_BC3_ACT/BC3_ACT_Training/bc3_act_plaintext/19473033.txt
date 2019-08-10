@@ -1,0 +1,24 @@
+Biochemistry
+
+23-Residue C-terminal alpha-helix governs kinetic cooperativity in monomeric human glucokinase.
+
+M Larion, BG Miller
+
+Human glucokinase is a monomeric enzyme that displays a sigmoidal steady-state kinetic response toward increasing glucose concentrations. The allosteric regulation produced by glucose is postulated to arise from the slow interconversion of multiple enzyme conformations during the course of catalysis. Crystallographic data suggest that structural rearrangements linked to glucokinase cooperativity involve a substrate-induced repositioning of an alpha-helix (alpha13) located at the C-terminus of the polypeptide. Here, we show that removal of helix alpha13 abolishes cooperativity and restores Michaelis-Menten kinetics, while reducing the k(cat) value of the wild-type enzyme by 160-fold. The impaired catalytic activity of the truncated enzyme is not rescued by the trans addition of a synthetic alpha13 peptide. Unexpectedly, the K(m glucose) value of a glucokinase variant lacking alpha13 is equivalent to the K(0.5 glucose) value of the full-length enzyme. Glucokinase steady-state kinetics is unaffected by the elongation of alpha13 via the addition of a C-terminal polyalanine tail. To explore the link between cooperativity and the primary sequence of alpha13, we randomized seven residues within the helix core. Genetic selection experiments in a glucokinase-deficient bacterium identified a variety of hyperactive alpha13 variants that display lower K(0.5 glucose) values, Hill coefficients near unity, and enhanced equilibrium binding affinities for glucose. The present results demonstrate that alpha13 plays an essential role in facilitating cooperativity. Our findings also establish a link between the primary amino acid sequence of helix alpha13 and the functional dynamics of the glucokinase scaffold that are required for allostery.
+
+-Allosteric Regulation (-genetics)
+-Amino Acid Substitution
++Biocatalysis
+-Gene Deletion
+-Glucokinase (+chemistry; -genetics; +metabolism)
+-Glucose (-chemistry)
+-Humans
+-Kinetics
+-Mutagenesis, Insertional
+-Protein Conformation
+-Recombinant Proteins (-chemistry)
+-Spectrometry, Fluorescence
+
+doi:10.1021/bi9007534
+pubmed:19473033
+

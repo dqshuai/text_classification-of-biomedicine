@@ -1,0 +1,25 @@
+Genetics
+
+Using RNA interference to identify specific modifiers of a temperature-sensitive, embryonic-lethal mutation in the Caenorhabditis elegans ubiquitin-like Nedd8 protein modification pathway E1-activating gene rfl-1.
+
+M Dorfman, JE Gomes, S O'Rourke, B Bowerman
+
+The essential Caenorhabditis elegans gene rfl-1 encodes one subunit of a heterodimeric E1-activating enzyme in the Nedd8 ubiquitin-like protein conjugation pathway. This pathway modifies the Cullin scaffolds of E3 ubiquitin ligases with a single Nedd8 moiety to promote ligase function. To identify genes that influence neddylation, we used a synthetic screen to identify genes that, when depleted with RNAi, enhance or suppress the embryonic lethality caused by or198ts, a temperature-sensitive (ts) mutation in rfl-1. We identified reproducible suppressor and enhancer genes and employed a systematic specificity analysis for each modifier using four unrelated ts embryonic lethal mutants. Results of this analysis highlight the importance of specificity controls in identifying genetic interactions relevant to a particular biological process because 8/14 enhancers and 7/21 suppressors modified lethality in other mutants. Depletion of the strongest specific suppressors rescued the early embryonic cell division defects in rfl-1(or198ts) mutants. RNAi knockdown of some specific suppressors partially restored Cullin neddylation in rfl-1(or198ts) mutants, consistent with their gene products normally opposing neddylation, and GFP fusions to several suppressors were detected in the cytoplasm or the nucleus, similar in pattern to Nedd8 conjugation pathway components in early embryonic cells. In contrast, depletion of the two strongest specific enhancers did not affect the early embryonic cell division defects observed in rfl-1(or198ts) mutants, suggesting that they may act at later times in other essential processes. Many of the specific modifiers are conserved in other organisms, and most are nonessential. Thus, when controlled properly for specificity, modifier screens using conditionally lethal C. elegans mutants can identify roles for nonessential but conserved genes in essential processes.
+
+-Animals
+-Caenorhabditis elegans (-embryology; +genetics)
+-Caenorhabditis elegans Proteins (+metabolism)
+-Embryo, Nonmammalian (-cytology)
+-Embryonic Development
++Genes, Lethal
++Mutation
++RNA Interference
+-Temperature
+-Ubiquitin-Activating Enzymes (+metabolism)
+-Ubiquitins (+genetics; -metabolism)
+
+pii:genetics.109.104885
+doi:10.1534/genetics.109.104885
+pubmed:19528325
+pmc:PMC2728846
+

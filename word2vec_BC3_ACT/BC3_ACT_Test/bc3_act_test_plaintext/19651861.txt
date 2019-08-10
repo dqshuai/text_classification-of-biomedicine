@@ -1,0 +1,40 @@
+Infect. Immun.
+
+The transcriptional regulator Rv0485 modulates the expression of a pe and ppe gene pair and is required for Mycobacterium tuberculosis virulence.
+
+RM Goldstone, SD Goonesekera, BR Bloom, SL Sampson
+
+The pe and ppe genes are unique to mycobacteria and are widely speculated to play a role in tuberculosis pathogenesis. However, little is known about how expression of these genes is controlled. Elucidating the regulatory control of genes found exclusively in mycobacteria, such as the pe and ppe gene families, may be key to understanding the success of this pathogen. In this study, we used a transposon mutagenesis approach to elucidate pe and ppe regulation. This resulted in the identification of Rv0485, a previously uncharacterized transcriptional regulator. Microarray and quantitative real-time PCR analysis confirmed that disruption of Rv0485 reduced the expression of the pe13 and ppe18 gene pair (Rv1195 and Rv1196), defined the Rv0485 regulon, and emphasized the lack of global regulation of pe and ppe genes. The in vivo phenotype of the Rv0485 transposon mutant strain (Rv0485::Tn) was investigated in the mouse model, where it was demonstrated that the mutation has minimal effect on bacterial organ burden. Despite this, disruption of Rv0485 allowed mice to survive for significantly longer, with substantially reduced lung pathology in comparison with mice infected with wild-type Mycobacterium tuberculosis. Infection of immune-deficient SCID mice with the Rv0485::Tn strain also resulted in extended survival times, suggesting that Rv0485 plays a role in modulation of innate immune responses. This is further supported by the finding that disruption of Rv0485 resulted in reduced secretion of proinflammatory cytokines by infected murine macrophages. In summary, we have demonstrated that disruption of a previously uncharacterized transcriptional regulator, Rv0485, results in reduced expression of pe13 and ppe18 and attenuation of M. tuberculosis virulence.
+
+-Amino Acid Sequence
+-Animal Structures (-microbiology)
+-Animals
+-Antigens, Bacterial (+biosynthesis)
+-Bacterial Proteins (-biosynthesis; -genetics; +physiology)
+-Colony Count, Microbial
+-DNA Transposable Elements
+-Female
+-Gene Expression Profiling
++Gene Expression Regulation, Bacterial
+-Gene Knockout Techniques
+-Lung (-pathology)
+-Mice
+-Mice, Inbred BALB C
+-Mice, SCID
+-Molecular Sequence Data
+-Mutagenesis, Insertional
+-Mycobacterium tuberculosis (+pathogenicity; +physiology)
+-Oligonucleotide Array Sequence Analysis
+-Reverse Transcriptase Polymerase Chain Reaction
+-Sequence Alignment
+-Survival Analysis
+-Trans-Activators (-genetics; +physiology)
+-Transcription Factors (-genetics; +physiology)
+-Tuberculosis (-microbiology; -pathology)
+-Virulence Factors (-genetics; +physiology)
+
+pii:IAI.01495-08
+doi:10.1128/IAI.01495-08
+pubmed:19651861
+pmc:PMC2747919
+

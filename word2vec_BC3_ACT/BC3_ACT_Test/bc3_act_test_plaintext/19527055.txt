@@ -1,0 +1,25 @@
+Biochemistry
+
+Structure-dependent DNA damage and repair in a trinucleotide repeat sequence.
+
+DA Jarem, NR Wilson, S Delaney
+
+Triplet repeat sequences, such as CAG/CTG, expand in the human genome to cause several neurological disorders. As part of the expansion process the formation of non-B DNA conformations by the repeat sequence has previously been proposed. Furthermore, the base excision repair enzyme 7,8-dihydro-8-oxoguanine glycosylase (OGG1) has recently been implicated in the repeat expansion [Kovtun, I. V., Liu, Y., Bjoras, M., Klugland, A., Wilson, S. H., and McMurray, C. T. (2007) Nature 447, 447-452]. In this work we have found that the non-B conformation adopted by (CAG)(10), a hairpin, is hypersusceptible to DNA damage relative to the (CAG)(10)/(CTG)(10) duplex and, in particular, that a hot spot for DNA damage exists. Specifically, we find that a single guanine in the loop of the hairpin is susceptible to modification by peroxynitrite. Interestingly, we find that human OGG1 (hOGG1) is able to excise 7,8-dihydro-8-oxoguanine (8-oxoG) from the loop of a hairpin substrate, albeit with a marked decrease in efficiency relative to duplex substrates; the hOGG1 enzyme removes 8-oxoG from the loop of a hairpin with a rate that is approximately 700-fold slower than that observed for DNA duplex. Thus, while damage is preferentially generated in the loop of the hairpin, DNA repair is less efficient. These observed structure-dependent patterns of DNA damage and repair may contribute to the OGG1-dependent mechanism of trinucleotide repeat expansion.
+
+-Base Sequence
++DNA Damage
+-DNA Glycosylases (-metabolism)
++DNA Repair (-drug effects)
+-Guanine (-analogs & derivatives; -metabolism)
+-Humans
+-Kinetics
+-Molecular Sequence Data
+-Nucleic Acid Conformation (-drug effects)
+-Peroxynitrous Acid (-pharmacology)
+-Substrate Specificity (-drug effects)
+-Time Factors
+-Trinucleotide Repeat Expansion (+genetics)
+
+doi:10.1021/bi9007403
+pubmed:19527055
+

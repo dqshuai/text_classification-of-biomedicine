@@ -1,0 +1,31 @@
+Plant Cell
+
+Arabidopsis WRKY38 and WRKY62 transcription factors interact with histone deacetylase 19 in basal defense.
+
+KC Kim, Z Lai, B Fan, Z Chen
+
+Arabidopsis thaliana WRKY38 and WRKY62, encoding two structurally similar type III WRKY transcription factors, are induced in a Nonexpressor of PR Gene1 (NPR1)-dependent manner by salicylic acid (SA) or by virulent Pseudomonas syringae. Disease resistance and SA-regulated Pathogenesis-Related1 (PR1) gene expression are enhanced in the wrky38 and wrky62 single mutants and, to a greater extent, in the double mutants. Overexpression of WRKY38 or WRKY62 reduces disease resistance and PR1 expression. Thus, WRKY38 and WRKY62 function additively as negative regulators of plant basal defense. WRKY38 and WRKY62 interact with Histone Deacetylase 19 (HDA19). Expression of HDA19 is also induced by P. syringae, and the stability of its induced transcripts depends on SA and NPR1 in infected plants. Disruption of HDA19 leads to compromised resistance, whereas its overexpression results in enhanced resistance to P. syringae. Thus, HDA19 has a role opposite from those of WRKY38 and WRKY62 in basal resistance to the bacterial pathogen. Both WRKY38 and WRKY62 are transcriptional activators in plant cells, but their activation activities are abolished by overexpressed HDA19. Interaction of WRKY38 and WRKY62 with HDA19 may act to fine-tune plant basal defense responses.
+
+-Arabidopsis (-genetics; +metabolism; -microbiology)
+-Arabidopsis Proteins (-genetics; +metabolism; -physiology)
+-Electrophoretic Mobility Shift Assay
+-Gene Expression Regulation, Plant (-drug effects)
+-Histone Deacetylases (-genetics; -metabolism; -physiology)
+-Immunity, Innate (-genetics)
+-Immunoprecipitation
+-Models, Biological
+-Plant Diseases (-genetics; -microbiology)
+-Plant Proteins (-genetics; -metabolism; -physiology)
+-Plants, Genetically Modified (-genetics; +metabolism; -microbiology)
+-Protein Binding
+-Pseudomonas syringae (-growth & development)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Salicylic Acid (-pharmacology)
+-Transcription Factors (-genetics; -metabolism; -physiology)
+-Two-Hybrid System Techniques
+
+pii:tpc.107.055566
+doi:10.1105/tpc.107.055566
+pubmed:18776063
+pmc:PMC2570728
+

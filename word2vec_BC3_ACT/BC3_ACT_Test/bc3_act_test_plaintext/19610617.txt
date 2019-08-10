@@ -1,0 +1,24 @@
+Biochemistry
+
+Folding path and funnel scenarios for two small disulfide-bridged proteins.
+
+I Kondov, A Verma, W Wenzel
+
+The presence of disulfide bonds leads to an interesting interplay between noncovalent intramolecular interactions and disulfide bond formation even in small proteins. Here we have investigated the folding mechanism of the 23-residue potassium channel blocker 1WQE and the 18-residue antimicrobial peptide protegrin-1 1PG1 , as two proteins containing disulfide bridges, in all-atom basin hopping simulations starting from completely extended conformations. The minimal-energy conformations deviate by only 2.1 and 1.2 A for 1WQE and 1PG1 , respectively, from their structurally conserved experimental conformations. A detailed analysis of their free energy surfaces demonstrates that the folding mechanism of disulfide-bridged proteins can vary dramatically from Levinthal's single-path scenario to a cooperative process consistent with the funnel paradigm of protein folding.
+
+-Amino Acid Sequence
+-Antimicrobial Cationic Peptides (+chemistry; -metabolism)
++Disulfides
++Models, Molecular
+-Molecular Sequence Data
+-Oxidation-Reduction
+-Potassium Channel Blockers (+chemistry; -metabolism)
+-Probability
++Protein Folding
+-Protein Structure, Secondary
+-Thermodynamics
+-Time Factors
+
+doi:10.1021/bi900702m
+pubmed:19610617
+

@@ -1,0 +1,26 @@
+J. Virol.
+
+Cochaperone activity of human butyrate-induced transcript 1 facilitates hepatitis C virus replication through an Hsp90-dependent pathway.
+
+S Taguwa, H Kambara, H Omori, H Tani, T Abe, Y Mori, T Suzuki, T Yoshimori, K Moriishi, Y Matsuura
+
+Hepatitis C virus (HCV) nonstructural protein 5A (NS5A) is a component of the replication complex consisting of several host and viral proteins. We have previously reported that human butyrate-induced transcript 1 (hB-ind1) recruits heat shock protein 90 (Hsp90) and FK506-binding protein 8 (FKBP8) to the replication complex through interaction with NS5A. To gain more insights into the biological functions of hB-ind1 in HCV replication, we assessed the potential cochaperone-like activity of hB-ind1, because it has significant homology with cochaperone p23, which regulates Hsp90 chaperone activity. The chimeric p23 in which the cochaperone domain was replaced with the p23-like domain of hB-ind1 exhibited cochaperone activity comparable to that of the authentic p23, inhibiting the glucocorticoid receptor signaling in an Hsp90-dependent manner. Conversely, the chimeric hB-ind1 in which the p23-like domain was replaced with the cochaperone domain of p23 resulted in the same level of recovery of HCV propagation as seen in the authentic hB-ind1 in cells with knockdown of the endogenous hB-ind1. Immunofluorescence analyses revealed that hB-ind1 was colocalized with NS5A, FKBP8, and double-stranded RNA in the HCV replicon cells. HCV replicon cells exhibited a more potent unfolded-protein response (UPR) than the parental and the cured cells upon treatment with an inhibitor for Hsp90. These results suggest that an Hsp90-dependent chaperone pathway incorporating hB-ind1 is involved in protein folding in the membranous web for the circumvention of the UPR and that it facilitates HCV replication.
+
+-Cell Line
+-Cell Line, Tumor
+-Gene Expression Regulation
+-HSP90 Heat-Shock Proteins (-genetics; +metabolism)
+-Hepacivirus (-drug effects; -metabolism; -pathogenicity; +physiology)
+-Humans
+-Intracellular Signaling Peptides and Proteins (-genetics; +metabolism)
+-Kidney (-cytology; -virology)
+-Liver (-cytology; -virology)
+-Molecular Chaperones (-genetics; -metabolism; -pharmacology)
+-Protein Folding
+-Virus Replication (-drug effects; +physiology)
+
+pii:JVI.01035-09
+doi:10.1128/JVI.01035-09
+pubmed:19656872
+pmc:PMC2753115
+

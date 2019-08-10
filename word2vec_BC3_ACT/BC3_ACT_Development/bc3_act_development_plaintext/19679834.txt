@@ -1,0 +1,37 @@
+Circ. Res.
+
+NADPH oxidase Nox2 is required for hypoxia-induced mobilization of endothelial progenitor cells.
+
+K Schröder, A Kohnen, A Aicher, EA Liehn, T Büchse, S Stein, C Weber, S Dimmeler, RP Brandes
+
+RATIONALE: Endothelial progenitor cells (EPCs, defined as sca-1(+)flk-1(+)lin(-) mononuclear blood cells) contribute to vascular repair. The role of hypoxia and reactive oxygen species (ROS) in mobilization and function of these cells is incompletely understood. OBJECTIVE: We studied the contribution of the NADPH oxidase Nox2, an important vascular source of ROS in this context. METHODS AND RESULTS: Hypoxia (10% oxygen) induced the mobilization of EPCs in wild-type (WT) and Nox1 but not in Nox2 knockout (Nox2(y/-)) mice. As erythropoietin (EPO) is known to induce EPC mobilization, we focused on this hormone. EPO induced the mobilization of EPCs in WT and Nox1(y/-) but not Nox2(y/-) animals. Transplantation of bone marrow from Nox2(y/-) mice into WT-mice blocked mobilization in response to hypoxia and EPO, whereas transplantation of WT bone marrow into Nox2(y/-) mice restored mobilization. Reendothelialization of the injured mouse carotid artery was enhanced by hypoxia as well as by EPO, and this effect was not observed in Nox2(y/-) mice or after transplantation of Nox2(y/-) bone marrow. In cultured EPCs from WT but not Nox2(y/-) mice, EPO induced ROS production, migration, and proliferation. EPO signaling involves the STAT5 transcription factor. EPO-induced STAT5-dependent reporter gene expression was absent in Nox2-deficient cells. siRNA against the redox-sensitive phosphatase SHP-2 restored EPO-mediated STAT5 induction and inhibition of SHP-2 restored EPO-induced migration in Nox2-deficient cells CONCLUSIONS: We conclude that Nox2-derived ROS inactivate SHP-2 and thereby facilitate EPO signaling in EPCs to promote hypoxia-induced mobilization and vascular repair by these cells.
+
+-Animals
+-Anoxia (+enzymology; -genetics; -pathology)
+-Antigens, Ly
+-Bone Marrow Transplantation
+-Carotid Arteries (-enzymology; -pathology)
+-Carotid Artery Injuries (-enzymology; -genetics; -pathology)
+-Cells, Cultured
+-Endothelial Cells (+enzymology; -pathology)
+-Erythropoietin (-metabolism)
+-Gene Expression Regulation (-genetics)
+-Leukocytes, Mononuclear (+enzymology; -metabolism; -pathology)
+-Membrane Glycoproteins (-genetics; +metabolism)
+-Membrane Proteins
+-Mice
+-Mice, Knockout
+-NADH, NADPH Oxidoreductases (-genetics; -metabolism)
+-NADPH Oxidase (-genetics; +metabolism)
+-Protein Tyrosine Phosphatase, Non-Receptor Type 11 (-metabolism)
+-Reactive Oxygen Species (-metabolism)
+-STAT5 Transcription Factor (-metabolism)
+-Signal Transduction (-genetics)
+-Stem Cells (+enzymology; -pathology)
+-Vascular Endothelial Growth Factor Receptor-2
+-Wound Healing (-genetics)
+
+pii:CIRCRESAHA.109.205138
+doi:10.1161/CIRCRESAHA.109.205138
+pubmed:19679834
+

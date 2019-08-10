@@ -1,0 +1,29 @@
+PLoS Biol.
+
+Inherent dynamics of the acid-sensing ion channel 1 correlates with the gating mechanism.
+
+H Yang, Y Yu, WG Li, F Yu, H Cao, TL Xu, H Jiang
+
+The acid-sensing ion channel 1 (ASIC1) is a key receptor for extracellular protons. Although numerous structural and functional studies have been performed on this channel, the structural dynamics underlying the gating mechanism remains unknown. We used normal mode analysis, mutagenesis, and electrophysiological methods to explore the relationship between the inherent dynamics of ASIC1 and its gating mechanism. Here we show that a series of collective motions among the domains and subdomains of ASIC1 correlate with its acid-sensing function. The normal mode analysis result reveals that the intrinsic rotation of the extracellular domain and the collective motions between the thumb and finger induced by proton binding drive the receptor to experience a deformation from the extracellular domain to the transmembrane domain, triggering the channel pore to undergo "twist-to-open" motions. The movements in the transmembrane domain indicate that the likely position of the channel gate is around Leu440. These motion modes are compatible with a wide body of our complementary mutations and electrophysiological data. This study provides the dynamic fundamentals of ASIC1 gating.
+
+-Amino Acid Sequence
+-Animals
+-CHO Cells
+-Computer Simulation
+-Cricetinae
+-Cricetulus
+-DNA, Complementary (-biosynthesis; -genetics)
+-Humans
++Ion Channel Gating
+-Models, Chemical
+-Molecular Sequence Data
+-Motion
+-Mutagenesis, Site-Directed
+-Nerve Tissue Proteins (+chemistry; -genetics)
+-Protein Structure, Tertiary
+-Sodium Channels (+chemistry; -genetics)
+
+doi:10.1371/journal.pbio.1000151
+pubmed:19597538
+pmc:PMC2701601
+

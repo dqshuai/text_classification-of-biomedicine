@@ -1,0 +1,32 @@
+BMC Genomics
+
+Computational identification of hepatitis C virus associated microRNA-mRNA regulatory modules in human livers.
+
+X Peng, Y Li, KA Walters, ER Rosenzweig, SL Lederer, LD Aicher, S Proll, MG Katze
+
+BACKGROUND: Hepatitis C virus (HCV) is a major cause of chronic liver disease by infecting over 170 million people worldwide. Recent studies have shown that microRNAs (miRNAs), a class of small non-coding regulatory RNAs, are involved in the regulation of HCV infection, but their functions have not been systematically studied. We propose an integrative strategy for identifying the miRNA-mRNA regulatory modules that are associated with HCV infection. This strategy combines paired expression profiles of miRNAs and mRNAs and computational target predictions. A miRNA-mRNA regulatory module consists of a set of miRNAs and their targets, in which the miRNAs are predicted to coordinately regulate the level of the target mRNA. RESULTS: We simultaneously profiled the expression of cellular miRNAs and mRNAs across 30 HCV positive or negative human liver biopsy samples using microarray technology. We constructed a miRNA-mRNA regulatory network, and using a graph theoretical approach, identified 38 miRNA-mRNA regulatory modules in the network that were associated with HCV infection. We evaluated the direct miRNA regulation of the mRNA levels of targets in regulatory modules using previously published miRNA transfection data. We analyzed the functional roles of individual modules at the systems level by integrating a large-scale protein interaction network. We found that various biological processes, including some HCV infection related canonical pathways, were regulated at the miRNA level during HCV infection. CONCLUSION: Our regulatory modules provide a framework for future experimental analyses. This report demonstrates the utility of our approach to obtain new insights into post-transcriptional gene regulation at the miRNA level in complex human diseases.
+
+-Adolescent
+-Adult
+-Aged
+-Computational Biology (-methods)
+-Gene Expression Profiling
+-Gene Expression Regulation
++Gene Regulatory Networks
+-Hepacivirus (-physiology)
+-Hepatitis C (+genetics; -metabolism)
+-Humans
+-Liver (+metabolism; -virology)
+-MicroRNAs (-genetics; +metabolism)
+-Middle Aged
+-Models, Genetic
+-Oligonucleotide Array Sequence Analysis
+-RNA, Messenger (-genetics; +metabolism)
+-Sequence Analysis, RNA (-methods)
+-Young Adult
+
+pii:1471-2164-10-373
+doi:10.1186/1471-2164-10-373
+pubmed:19671175
+pmc:PMC2907698
+

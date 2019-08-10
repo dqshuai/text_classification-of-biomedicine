@@ -1,0 +1,29 @@
+Virology
+
+Nef-mediated MHC class I down-regulation unmasks clonal differences in virus suppression by SIV-specific CD8(+) T cells independent of IFN-gamma and CD107a responses.
+
+JT Minang, MT Trivett, LV Coren, EV Barsov, M Piatak, DE Ott, C Ohlen
+
+CD8(+) T lymphocytes (CTL) play a role in controlling HIV/SIV infection. CTL antiviral activity is dependent on recognition of antigenic peptides associated with MHC class I molecules on infected target cells, and CTL activation can be impaired by Nef-mediated down-regulation of MHC class I molecules. We tested the ability of a series of rhesus macaque CD8(+) T-cell clones specific for the SIV Gag CM9 peptide to suppress SIV infection of autologous CD4(+) T cells. We used a set of SIV(mac)239 viruses with either wild-type Nef or Nef mutations that impair MHC class I down-regulation. All CTL clones efficiently suppressed virus replication in cells infected with mutant viruses with altered Nef function, phenotypically MHC class I(high) or MHC class I(intermediate). However, the ability of the clones to suppress virus replication was variably reduced in the presence of wild-type Nef (MHC class I(low)) despite the observations that all CTL clones showed similar IFN-gamma responses to titrated amounts of cognate peptide as well as to SIV-infected cells. In addition, the CTL clones showed variable CD107a (CTL degranulation marker) responses that did not correlate with their capacity to suppress virus replication. Thus, the clonal differences are not attributable to TCR avidity or typical effector responses, and point to a potential as yet unknown mechanism for CTL-mediated suppression of viral replication. These data emphasize that current assays for evaluating CTL responses in infected or vaccinated individuals do not fully capture the complex requirements for effective CTL-mediated control of virus replication.
+
+-Animals
+-CD4-Positive T-Lymphocytes (-immunology; -virology)
+-CD8-Positive T-Lymphocytes (+immunology; -virology)
+-Cells, Cultured
+-Down-Regulation
+-Gene Expression Regulation
+-Gene Products, nef (+metabolism)
+-Histocompatibility Antigens Class I (+immunology)
+-Interferon-gamma (-immunology)
+-Lysosomal-Associated Membrane Protein 1 (-immunology)
+-Macaca mulatta (-immunology; -virology)
+-RNA, Viral (-metabolism)
+-Simian immunodeficiency virus (+immunology; -physiology)
+-Virus Replication
+
+pii:S0042-6822(09)00352-3
+doi:10.1016/j.virol.2009.06.008
+pubmed:19555986
+mid:NIHMS122691
+pmc:PMC2716421
+

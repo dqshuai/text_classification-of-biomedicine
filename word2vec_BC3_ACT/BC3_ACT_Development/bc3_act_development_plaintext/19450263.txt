@@ -1,0 +1,29 @@
+BMC Genomics
+
+Gene organization and sequence analyses of transfer RNA genes in Trypanosomatid parasites.
+
+NE Padilla-Mejía, LE Florencio-Martínez, EE Figueroa-Angulo, RG Manning-Cela, R Hernández-Rivas, PJ Myler, S Martínez-Calvillo
+
+BACKGROUND: The protozoan pathogens Leishmania major, Trypanosoma brucei and Trypanosoma cruzi (the Tritryps) are parasites that produce devastating human diseases. These organisms show very unusual mechanisms of gene expression, such as polycistronic transcription. We are interested in the study of tRNA genes, which are transcribed by RNA polymerase III (Pol III). To analyze the sequences and genomic organization of tRNA genes and other Pol III-transcribed genes, we have performed an in silico analysis of the Tritryps genome sequences. RESULTS: Our analysis indicated the presence of 83, 66 and 120 genes in L. major, T. brucei and T. cruzi, respectively. These numbers include several previously unannotated selenocysteine (Sec) tRNA genes. Most tRNA genes are organized into clusters of 2 to 10 genes that may contain other Pol III-transcribed genes. The distribution of genes in the L. major genome does not seem to be totally random, like in most organisms. While the majority of the tRNA clusters do not show synteny (conservation of gene order) between the Tritryps, a cluster of 13 Pol III genes that is highly syntenic was identified. We have determined consensus sequences for the putative promoter regions (Boxes A and B) of the Tritryps tRNA genes, and specific changes were found in tRNA-Sec genes. Analysis of transcription termination signals of the tRNAs (clusters of Ts) showed differences between T. cruzi and the other two species. We have also identified several tRNA isodecoder genes (having the same anticodon, but different sequences elsewhere in the tRNA body) in the Tritryps. CONCLUSION: A low number of tRNA genes is present in Tritryps. The overall weak synteny that they show indicates a reduced importance of genome location of Pol III genes compared to protein-coding genes. The fact that some of the differences between isodecoder genes occur in the internal promoter elements suggests that differential control of the expression of some isoacceptor tRNA genes in Tritryps is possible. The special characteristics found in Boxes A and B from tRNA-Sec genes from Tritryps indicate that the mechanisms that regulate their transcription might be different from those of other tRNA genes.
+
+-Animals
+-Base Sequence
+-Consensus Sequence
+-Gene Order
+-Leishmania major (+genetics)
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-Promoter Regions, Genetic
+-RNA, Protozoan (-genetics)
+-RNA, Transfer (+genetics)
+-RNA, Transfer, Amino Acid-Specific (-genetics)
+-Sequence Analysis, RNA
+-Synteny
+-Trypanosoma brucei brucei (+genetics)
+-Trypanosoma cruzi (+genetics)
+
+pii:1471-2164-10-232
+doi:10.1186/1471-2164-10-232
+pubmed:19450263
+pmc:PMC2695483
+

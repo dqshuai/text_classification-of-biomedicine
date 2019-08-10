@@ -1,0 +1,30 @@
+J. Neurosci.
+
+Temporal-pattern recognition by single neurons in a sensory pathway devoted to social communication behavior.
+
+BA Carlson
+
+Sensory systems often encode stimulus information into the temporal pattern of action potential activity. However, little is known about how the information contained within these patterns is extracted by postsynaptic neurons. Similar to temporal coding by sensory neurons, social information in mormyrid fish is encoded into the temporal patterning of an electric organ discharge. In the current study, sensitivity to temporal patterns of electrosensory stimuli was found to arise within the midbrain posterior exterolateral nucleus (ELp). Whole-cell patch recordings from ELp neurons in vivo revealed three patterns of interpulse interval (IPI) tuning: low-pass neurons tuned to long intervals, high-pass neurons tuned to short intervals, and bandpass neurons tuned to intermediate intervals. Many neurons within each class also responded preferentially to either increasing or decreasing IPIs. Playback of electric signaling patterns recorded from freely behaving fish revealed that the IPI and direction tuning of ELp neurons resulted in selective responses to particular social communication displays characterized by distinct IPI patterns. The postsynaptic potential responses of many neurons indicated a combination of excitatory and inhibitory synaptic input, and the IPI tuning of ELp neurons was directly related to rate-dependent changes in the direction and amplitude of postsynaptic potentials. These results suggest that differences in the dynamics of short-term synaptic plasticity in excitatory and inhibitory pathways may tune central sensory neurons to particular temporal patterns of presynaptic activity. This may represent a general mechanism for the processing of behaviorally relevant stimulus information encoded into temporal patterns of activity by sensory neurons.
+
+-Action Potentials
+-Animals
+-Behavior, Animal (-physiology)
++Communication
+-Electric Fish
+-Electric Stimulation
+-Evoked Potentials, Somatosensory
+-Mesencephalon (-cytology; -physiology)
+-Neural Pathways (-physiology)
+-Neurons (-cytology; +physiology)
+-Patch-Clamp Techniques
++Social Behavior
+-Synaptic Potentials (-physiology)
+-Synaptic Transmission (-physiology)
+-Time Factors
+
+pii:29/30/9417
+doi:10.1523/JNEUROSCI.1980-09.2009
+pubmed:19641105
+mid:NIHMS170713
+pmc:PMC2819125
+

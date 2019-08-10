@@ -1,0 +1,23 @@
+BMC Genomics
+
+Exploring temporal transcription regulation structure of Aspergillus fumigatus in heat shock by state space model.
+
+JH Do, R Yamaguchi, S Miyano
+
+BACKGROUND: The thermotolerance of Aspergillus fumigatus plays a critical role in mammalian and avian infections. Thus, the identification of its adaptation mechanism to higher temperature is very important for an efficient anti-fungal drug development as well as fundamental understanding of its pathogenesis. We explored the temporal transcription regulation structure of this pathogenic fungus under heat shock conditions using the time series microarray data reported by Nierman et al. (Nature 2005, 438:1151-1156). RESULTS: The estimated transcription regulation structure of A. fumigatus shows that the heat shock proteins are strongly negatively associated with central metabolic pathway genes such as the tricarboxylic acid cycle (TCA cycle) and carbohydrate metabolism. It was 60 min and 120 min, respectively, after the growth temperature changes from 30 degrees C (corresponding to environments of tropical soil) to 37 degrees C and 48 degrees C (corresponding to temperatures in the human body and compost, respectively) that some of genes in TCA cycle were started to be upregulated. In these points, most of heat shock proteins showed lowest expression level after heat shocks. Among the heat shock proteins, the HSP30 (AFU6G06470), a single integral plasma membrane heat shock protein, presented most active role in transcription regulation structure in both heat shock conditions of 37 degrees C and 48 degrees C. The metabolic genes associated with multiple genes in the gene regulation network showed a tendency to have opposite expression patterns of heat shock proteins. The role of those metabolic genes was second regulator in the coherent feed-forward loop type of regulation structure having heat shock protein as its first regulator. This type of regulation structure might be very advantageous for the thermal adaptation of A. fumigatus under heat shock because a small amount of heat shock proteins can rapidly magnify their regulation effect on target genes. However, the coherent feed-forward loop type of regulation of heat shock proteins with metabolic genes became less frequent with increasing temperature. This might be the reason for dramatic increase in the expression of heat shock proteins and the number of heat shock response genes at heat shock of 48 degrees C. CONCLUSION: We systemically analysed the thermal adaption mechanism of A. fumigatus by state space model with times series microarray data in terms of transcription regulation structure. We suggest for the first time that heat shock proteins might efficiently regulate metabolic genes using the coherent feed-forward loop type of regulation structure. This type of regulation structure would also be efficient for adjustment to the other stresses requiring rapid change of metabolic mode as well as thermal adaptation.
+
+-Aspergillus fumigatus (+genetics; -metabolism)
+-Gene Expression Regulation, Fungal
+-Heat-Shock Response (+genetics)
+-Hot Temperature
+-Metabolome
++Models, Genetic
+-Oligonucleotide Array Sequence Analysis
+-Time Factors
++Transcription, Genetic
+
+pii:1471-2164-10-306
+doi:10.1186/1471-2164-10-306
+pubmed:19586549
+pmc:PMC2714559
+

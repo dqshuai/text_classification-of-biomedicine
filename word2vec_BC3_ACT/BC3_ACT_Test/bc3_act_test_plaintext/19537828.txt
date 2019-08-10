@@ -1,0 +1,28 @@
+J. Proteome Res.
+
+Capture of drug targets from live cells using a multipurpose immuno-chemo-proteomics tool.
+
+C Saxena, TM Bonacci, KL Huss, LJ Bloem, RE Higgs, JE Hale
+
+Recently we have described the development of an Immuno-chemo-proteomics method for drug target deconvolution and profiling the toxicity of known drugs ( Saxena , C. ; Zhen , E. ; Higgs , R. E. ; Hale , J. E. J. Proteome Res. 2008, 8 , 3490 - 3497 ). The orthogonal nature and advantage of the newly developed method over existing ones were presented. Most commonly, a small molecule was coupled to an epitope and used as an affinity probe to bind targets and later antibody against the epitope was used to isolate the probe-protein complex. However, such studies performed using cell lysates are prone to false positive identification because the protein source is not in its native physiological condition. Here we describe the development and application of a multipurpose soluble probe where a small molecule was coupled to a fluorophore-tagged cell-permeable peptide epitope, which was used to affinity isolate binding proteins from live cells. Fluorophore coupling allowed direct visualization of the compound in the cells, and cell permeability of the probe provided opportunity to capture the targets from the live cell. The GSK3-beta inhibitor Bisindolylmaleimide-III was coupled to a peptide containing the fluorescein-tagged TAT epitope. Following incubation with the live cells, the compound and associated proteins were affinity isolated using antifluorescein antibody beads. Using this approach, we captured the known Bisindolylmaleimide-III target GSK3-beta and previously unidentified targets from live cells. Dose-dependent inhibition of target binding to probe in the presence of uncoupled compound validated the approach. This method was directly compared with the one where cell lysate was used as the protein source providing an advanced strategy to aid in target deconvolution and help to eliminate false positives originating from non-native protein source.
+
+-Blotting, Western
+-Cell Line
+-Chromatography, Affinity (+methods)
+-Drug Delivery Systems (+methods)
+-False Positive Reactions
+-Fluorescein (-chemistry)
+-Fluorescent Dyes (-chemistry; -metabolism)
+-Glycogen Synthase Kinase 3 (-antagonists & inhibitors; -metabolism)
+-Humans
+-Indoles (-chemistry; -metabolism)
+-Maleimides (-chemistry; -metabolism)
+-Mass Spectrometry
+-Oligopeptides (-chemistry)
+-Proteins (-chemistry)
+-Proteomics (+methods)
+-Reproducibility of Results
+
+doi:10.1021/pr900277x
+pubmed:19537828
+

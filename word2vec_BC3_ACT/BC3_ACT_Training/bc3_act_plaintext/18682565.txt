@@ -1,0 +1,25 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+DNA replication checkpoint promotes G1-S transcription by inactivating the MBF repressor Nrm1.
+
+RA de Bruin, TI Kalashnikova, A Aslanian, J Wohlschlegel, C Chahwan, JR Yates, P Russell, C Wittenberg
+
+The cell cycle transcriptional program imposes order on events of the cell-cycle and is a target for signals that regulate cell-cycle progression, including checkpoints required to maintain genome integrity. Neither the mechanism nor functional significance of checkpoint regulation of the cell-cycle transcription program are established. We show that Nrm1, an MBF-specific transcriptional repressor acting at the transition from G(1) to S phase of the cell cycle, is at the nexus between the cell cycle transcriptional program and the DNA replication checkpoint in fission yeast. Phosphorylation of Nrm1 by the Cds1 (Chk2) checkpoint protein kinase, which is activated in response to DNA replication stress, promotes its dissociation from the MBF transcription factor. This leads to the expression of genes encoding components that function in DNA replication and repair pathways important for cell survival in response to arrested DNA replication.
+
+-DNA Repair (-physiology)
+-DNA Replication (+physiology)
+-DNA, Fungal (-genetics; +metabolism)
+-G1 Phase (+physiology)
+-Genome, Fungal (-physiology)
+-Phosphorylation
+-Protein-Serine-Threonine Kinases (-genetics; -metabolism)
+-Repressor Proteins (-genetics; +metabolism)
+-S Phase (+physiology)
+-Schizosaccharomyces (-genetics; +metabolism)
+-Schizosaccharomyces pombe Proteins (-genetics; +metabolism)
+
+pii:0801106105
+doi:10.1073/pnas.0801106105
+pubmed:18682565
+pmc:PMC2516226
+

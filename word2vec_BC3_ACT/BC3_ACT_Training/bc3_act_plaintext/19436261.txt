@@ -1,0 +1,23 @@
+Cell Res.
+
+Histone acetyltransferase GCN5 interferes with the miRNA pathway in Arabidopsis.
+
+W Kim, M Benhamed, C Servet, D Latrasse, W Zhang, M Delarue, DX Zhou
+
+MicroRNAs (miRNA) that guide sequence-specific posttranscriptional gene silencing play an important role in gene expression required for both developmental processes and responses to environmental conditions in plants. However, little is known about the transcriptional and posttranscriptional regulation of miRNA expression. Histone acetylation plays an important role in chromatin remodeling and is required for gene activation. By analyzing the accumulation of subset of miRNAs and the corresponding primary miRNAs in mutants of Arabidopsis, we show that histone acetyltransferase GCN5 (General control non-repressed protein5) has a general repressive effect on miRNA production, while it is required for the expression of a subset of (e.g. stress-inducible) MIRNA genes. The general negative function of GCN5 in miRNA production is likely achieved through an indirect repression of the miRNA machinery genes such as DICER LIKE1 (DCL1), SERRATE (SE), HYPONASTIC LEAVES1 (HYL1) and ARGONAUTE1 (AGO1). Chromatin immunoprecipitation assays revealed that GCN5 targets to a subset of MIRNA genes and is required for acetylation of histone H3 lysine 14 at these loci. Moreover, inhibition of histone deacetylation by trichostatin A treatment or in histone deacetylase gene mutants impaired the accumulation of certain miRNAs. These data together suggest that Arabidopsis GCN5 interferes with the miRNA pathway at both the transcriptional and posttranscriptional levels and histone acetylation/deacetylation is an epigenetic mechanism involved in the regulation of miRNA production.
+
+-Acetylation
+-Arabidopsis (-enzymology; +genetics)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Gene Silencing
+-Histone Acetyltransferases (-genetics; +metabolism)
+-Histones (-genetics; -metabolism)
+-Hydroxamic Acids (-pharmacology)
+-MicroRNAs (-genetics; +metabolism)
+-Mutation
+-Transcription Factors (-genetics; +metabolism)
+
+pii:cr200959
+doi:10.1038/cr.2009.59
+pubmed:19436261
+

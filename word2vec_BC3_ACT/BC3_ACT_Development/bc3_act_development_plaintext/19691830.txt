@@ -1,0 +1,28 @@
+BMC Genomics
+
+Involvement of potential pathways in malignant transformation from oral leukoplakia to oral squamous cell carcinoma revealed by proteomic analysis.
+
+Z Wang, X Feng, X Liu, L Jiang, X Zeng, N Ji, J Li, L Li, Q Chen
+
+BACKGROUND: Oral squamous cell carcinoma (OSCC) is one of the most common forms of cancer associated with the presence of precancerous oral leukoplakia. Given the poor prognosis associated with oral leukoplakia, and the difficulties in distinguishing it from cancer lesions, there is an urgent need to elucidate the molecular determinants and critical signal pathways underlying the malignant transformation of precancerous to cancerous tissue, and thus to identify novel diagnostic and therapeutic target. RESULTS: We have utilized two dimensional electrophoresis (2-DE) followed by ESI-Q-TOF-LC-MS/MS to identify proteins differentially expressed in six pairs of oral leukoplakia tissues with dysplasia and oral squamous cancer tissues, each pair was collected from a single patient. Approximately 85 differentially and constantly expressed proteins (> two-fold change, P < 0.05) were identified, including 52 up-regulated and 33 down-regulated. Gene ontological methods were employed to identify the biological processes that were over-represented in this carcinogenic stage. Biological networks were also constructed to reveal the potential links between those protein candidates. Among them, three homologs of proteosome activator PA28 a, b and g were shown to have up-regulated mRNA levels in OSCC cells relative to oral keratinocytes. CONCLUSION: Varying levels of differentially expressed proteins were possibly involved in the malignant transformation of oral leukoplakia. Their expression levels, bioprocess, and interaction networks were analyzed using a bioinformatics approach. This study shows that the three homologs of PA28 may play an important role in malignant transformation and is an example of a systematic biology study, in which functional proteomics were constructed to help to elucidate mechanistic aspects and potential involvement of proteins. Our results provide new insights into the pathogenesis of oral cancer. These differentially expressed proteins may have utility as useful candidate markers of OSCC.
+
+-Carcinoma, Squamous Cell (+genetics; -pathology)
+-Cell Line, Tumor
+-Chromatography, High Pressure Liquid
+-Electrophoresis, Gel, Two-Dimensional
+-Gene Expression Profiling
+-Gene Expression Regulation, Neoplastic
+-Humans
+-Leukoplakia, Oral (+genetics; -pathology)
+-Mouth Neoplasms (+genetics; -pathology)
+-Muscle Proteins (-genetics)
+-Proteasome Endopeptidase Complex (-genetics)
+-Proteomics (+methods)
+-Tandem Mass Spectrometry
+-Tumor Markers, Biological (-genetics)
+
+pii:1471-2164-10-383
+doi:10.1186/1471-2164-10-383
+pubmed:19691830
+pmc:PMC2746235
+

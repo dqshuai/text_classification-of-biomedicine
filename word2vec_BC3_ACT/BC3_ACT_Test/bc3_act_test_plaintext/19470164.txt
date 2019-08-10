@@ -1,0 +1,29 @@
+BMC Genomics
+
+Systems level analysis of two-component signal transduction systems in Erwinia amylovora: role in virulence, regulation of amylovoran biosynthesis and swarming motility.
+
+Y Zhao, D Wang, S Nakka, GW Sundin, SS Korban
+
+BACKGROUND: Two-component signal transduction systems (TCSTs), consisting of a histidine kinase (HK) and a response regulator (RR), represent a major paradigm for signal transduction in prokaryotes. TCSTs play critical roles in sensing and responding to environmental conditions, and in bacterial pathogenesis. Most TCSTs in Erwinia amylovora have either not been identified or have not yet been studied. RESULTS: We used a systems approach to identify TCST and related signal transduction genes in the genome of E. amylovora. Comparative genomic analysis of TCSTs indicated that E. amylovora TCSTs were closely related to those of Erwinia tasmaniensis, a saprophytic enterobacterium isolated from apple flowers, and to other enterobacteria. Forty-six TCST genes in E. amylovora including 17 sensor kinases, three hybrid kinases, 20 DNA- or ligand-binding RRs, four RRs with enzymatic output domain (EAL-GGDEF proteins), and two kinases were characterized in this study. A systematic TCST gene-knockout experiment was conducted, generating a total of 59 single-, double-, and triple-mutants. Virulence assays revealed that five of these mutants were non-pathogenic on immature pear fruits. Results from phenotypic characterization and gene expression experiments indicated that several groups of TCST systems in E. amylovora control amylovoran biosynthesis, one of two major virulence factors in E. amylovora. Both negative and positive regulators of amylovoran biosynthesis were identified, indicating a complex network may control this important feature of pathogenesis. Positive (non-motile, EnvZ/OmpR), negative (hypermotile, GrrS/GrrA), and intermediate regulators for swarming motility in E. amylovora were also identified. CONCLUSION: Our results demonstrated that TCSTs in E. amylovora played major roles in virulence on immature pear fruit and in regulating amylovoran biosynthesis and swarming motility. This suggested presence of regulatory networks governing expression of critical virulence genes in E. amylovora.
+
+-Comparative Genomic Hybridization
+-Computational Biology
+-DNA, Bacterial (-genetics)
+-Erwinia amylovora (+genetics; -metabolism; -pathogenicity; -physiology)
+-Gene Expression Regulation, Bacterial
+-Genes, Bacterial
+-Genetic Complementation Test
+-Genome, Bacterial
+-Mutagenesis
+-Plant Diseases (-microbiology)
+-Polysaccharides, Bacterial (+biosynthesis)
+-Pyrus (-microbiology)
+-Signal Transduction (+genetics)
+-Virulence
+-Virulence Factors (+biosynthesis)
+
+pii:1471-2164-10-245
+doi:10.1186/1471-2164-10-245
+pubmed:19470164
+pmc:PMC2698875
+

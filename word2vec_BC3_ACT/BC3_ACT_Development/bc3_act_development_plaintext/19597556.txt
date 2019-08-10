@@ -1,0 +1,25 @@
+PLoS ONE
+
+Use of an EZ-Tn5-based random mutagenesis system to identify a novel toxin regulatory locus in Clostridium perfringens strain 13.
+
+JE Vidal, J Chen, J Li, BA McClane
+
+BACKGROUND: Although useful for probing bacterial pathogenesis and physiology, current random mutagenesis systems suffer limitations for studying the toxin-producing bacterium Clostridium perfringens. METHODOLOGY/PRINCIPAL FINDINGS: An EZ-Tn5-based random mutagenesis approach was developed for use in C. perfringens. This mutagenesis system identified a new regulatory locus controlling toxin production by strain 13, a C. perfringens type A strain. The novel locus, encoding proteins with homology to the AgrB and AgrD components of the Agr quorum sensing system of Staphylococcus aureus and two hypothetical proteins, was found to regulate early production of both alpha toxin and perfringolysin O (PFO) by strain 13. PFO production by the strain 13 DeltaagrB mutant could be restored by genetic complementation or by physical complementation, i.e. by co-culture of the strain 13 DeltaagrB mutant with a pfoA mutant of either strain 13 or C. perfringens type C CN3685. A similar AgrB- and AgrD-encoding locus is identifiable in all sequenced C. perfringens strains, including type B, C, D, and E isolates, suggesting this regulatory locus contributes to toxin regulation by most C. perfringens strains. In strain 13, the agrB and agrD genes were found to be co-transcribed in an operon with two upstream genes encoding hypothetical proteins. CONCLUSIONS/SIGNIFICANCE: The new Tn5-based random mutagenesis system developed in this study is more efficient and random than previously reported C. perfringens random mutagenesis approaches. It allowed identification of a novel C. perfringens toxin regulatory locus with homology to the Agr system of S. aureus and which functions as expected of an Agr-like quorum sensing system. Since previous studies have shown that alpha toxin and perfringolysin O are responsible for strain 13-induced clostridial myonecrosis in the mouse model, the new agr regulatory locus may have importance for strain 13 virulence.
+
+-Bacterial Toxins (-biosynthesis; +genetics)
+-Base Sequence
+-Blotting, Southern
+-Blotting, Western
+-Clostridium perfringens (+genetics; -metabolism)
+-DNA Primers
++DNA Transposable Elements
+-Enzyme-Linked Immunosorbent Assay
+-Genes, Bacterial
++Mutagenesis
+-Quorum Sensing
+-Reverse Transcriptase Polymerase Chain Reaction
+
+doi:10.1371/journal.pone.0006232
+pubmed:19597556
+pmc:PMC2706048
+

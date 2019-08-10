@@ -1,0 +1,26 @@
+Nat. Struct. Mol. Biol.
+
+The Hsp82 molecular chaperone promotes a switch between unextendable and extendable telomere states.
+
+DC DeZwaan, OA Toogun, FJ Echtenkamp, BC Freeman
+
+Distinct protein assemblies are nucleated at telomeric DNA to both guard the ends from damage and lengthen the DNA after replication. In yeast, Cdc13 recruits either Stn1-Ten1 to form a protective cap or the telomerase holoenzyme to extend the DNA. We have established an in vitro yeast telomere system in which Stn1-Ten1-unextendable or telomerase-extendable states can be observed. Both assemblies are Cdc13 dependent, as the Cdc13 C-terminal region supports Stn1-Ten1 interactions and the N-terminal region contains a telomerase-activation function. Notably, the yeast Hsp90 chaperone Hsp82 mediates the switch between the telomere capping and extending structures by modulating the DNA binding activity of Cdc13. Taken together, our data show that the Hsp82 chaperone facilitates telomere DNA maintenance by promoting transitions between two operative complexes and by reducing the potential for binding events that would otherwise block the assembly of downstream structures.
+
+-Cell Cycle Proteins (-genetics; -metabolism)
+-Chromosomal Proteins, Non-Histone (-genetics; -metabolism)
+-DNA, Fungal (+chemistry; -metabolism)
+-Enzyme Activation
+-HSP90 Heat-Shock Proteins (-genetics; +metabolism)
++Nucleic Acid Conformation
++Saccharomyces cerevisiae (-genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Telomerase (-metabolism)
+-Telomere (+chemistry; -metabolism)
+-Telomere-Binding Proteins (-genetics; -metabolism)
+
+pii:nsmb.1616
+doi:10.1038/nsmb.1616
+pubmed:19525972
+mid:NIHMS115651
+pmc:PMC2744139
+

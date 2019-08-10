@@ -1,0 +1,31 @@
+Cell
+
+Lid2 is required for coordinating H3K4 and H3K9 methylation of heterochromatin and euchromatin.
+
+F Li, M Huarte, M Zaratiegui, MW Vaughn, Y Shi, R Martienssen, WZ Cande
+
+In most eukaryotes, histone methylation patterns regulate chromatin architecture and function: methylation of histone H3 lysine-9 (H3K9) demarcates heterochromatin, whereas H3K4 methylation demarcates euchromatin. We show here that the S. pombe JmjC-domain protein Lid2 is a trimethyl H3K4 demethylase responsible for H3K4 hypomethylation in heterochromatin. Lid2 interacts with the histone lysine-9 methyltransferase, Clr4, through the Dos1/Clr8-Rik1 complex, which also functions in the RNA interference pathway. Disruption of the JmjC domain alone results in severe heterochromatin defects and depletion of siRNA, whereas overexpressing Lid2 enhances heterochromatin silencing. The physical and functional link between H3K4 demethylation and H3K9 methylation suggests that the two reactions act in a coordinated manner. Surprisingly, crossregulation of H3K4 and H3K9 methylation in euchromatin also requires Lid2. We suggest that Lid2 enzymatic activity in euchromatin is regulated through a dynamic interplay with other histone-modification enzymes. Our findings provide mechanistic insight into the coordination of H3K4 and H3K9 methylation.
+
+-Chromosome Segregation
+-DNA-Binding Proteins (-metabolism)
+-Euchromatin (+metabolism)
+-Heterochromatin (+metabolism)
+-Histone-Lysine N-Methyltransferase
+-Histones (-chemistry; +metabolism)
+-Lysine (-metabolism)
+-Models, Biological
+-Oxidoreductases, N-Demethylating (-chemistry; +metabolism)
+-Point Mutation
+-Protein Methyltransferases (-metabolism)
+-Protein Structure, Tertiary
+-RNA Interference
+-Schizosaccharomyces (-chemistry; +genetics; +metabolism)
+-Schizosaccharomyces pombe Proteins (-chemistry; +metabolism)
+-Transcription Factors (-metabolism)
+
+pii:S0092-8674(08)01117-3
+doi:10.1016/j.cell.2008.08.036
+pubmed:18957202
+mid:NIHMS75058
+pmc:PMC2614271
+

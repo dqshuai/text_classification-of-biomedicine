@@ -1,0 +1,33 @@
+J. Exp. Med.
+
+CD95 co-stimulation blocks activation of naive T cells by inhibiting T cell receptor signaling.
+
+G Strauss, JA Lindquist, N Arhel, E Felder, S Karl, TL Haas, S Fulda, H Walczak, F Kirchhoff, KM Debatin
+
+CD95 is a multifunctional receptor that induces cell death or proliferation depending on the signal, cell type, and cellular context. Here, we describe a thus far unknown function of CD95 as a silencer of T cell activation. Naive human T cells triggered by antigen-presenting cells expressing a membrane-bound form of CD95 ligand (CD95L) or stimulated by anti-CD3 and -CD28 antibodies in the presence of recombinant CD95L had reduced activation and proliferation, whereas preactivated, CD95-sensitive T cells underwent apoptosis. Triggering of CD95 during T cell priming interfered with proximal T cell receptor signaling by inhibiting the recruitment of zeta-chain-associated protein of 70 kD, phospholipase-gamma, and protein kinase C- into lipid rafts, thereby preventing their mutual tyrosine protein phosphorylation. Subsequently, Ca(2+) mobilization and nuclear translocation of transcription factors NFAT, AP1, and NF-kappaB were strongly reduced, leading to impaired cytokine secretion. CD95-mediated inhibition of proliferation in naive T cells could not be reverted by the addition of exogenous interleukin-2 and T cells primed by CD95 co-stimulation remained partially unresponsive upon secondary T cell stimulation. HIV infection induced CD95L expression in primary human antigen-presenting cells, and thereby suppressed T cell activation, suggesting that CD95/CD95L-mediated silencing of T cell activation represents a novel mechanism of immune evasion.
+
+-Animals
+-Antigen-Presenting Cells (-cytology; -immunology)
+-Antigens, CD28 (-genetics; -immunology)
+-Antigens, CD3 (-genetics; -immunology)
+-Antigens, CD95 (-genetics; +immunology)
+-Caspases (-metabolism)
+-Cell Proliferation
+-Cells, Cultured
+-Cytokines (-immunology)
+-Enzyme Activation
+-Fas Ligand Protein (-genetics; +immunology)
+-HIV-1 (-immunology; -pathogenicity)
+-Humans
+-Lymphocyte Activation (+immunology)
+-Membrane Microdomains (-metabolism)
+-Mitogen-Activated Protein Kinases (-metabolism)
+-Receptors, Antigen, T-Cell (+immunology)
+-Signal Transduction (+immunology)
+-T-Lymphocytes (-cytology; +immunology)
+
+pii:jem.20082363
+doi:10.1084/jem.20082363
+pubmed:19487421
+pmc:PMC2715064
+

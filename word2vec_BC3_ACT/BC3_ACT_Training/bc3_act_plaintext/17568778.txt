@@ -1,0 +1,35 @@
+EMBO J.
+
+SINTBAD, a novel component of innate antiviral immunity, shares a TBK1-binding domain with NAP1 and TANK.
+
+G Ryzhakov, F Randow
+
+The expression of antiviral genes during infection is controlled by inducible transcription factors such as IRF3 (interferon regulatory factor). Activation of IRF3 requires its phosphorylation by TBK1 (TANK-binding kinase) or IKKi (inhibitor of nuclear factor kappaB kinase, inducible). We have identified a new and essential component of this pathway, the adaptor protein SINTBAD (similar to NAP1 TBK1 adaptor). SINTBAD constitutively binds TBK1 and IKKi but not related kinases. Upon infection with Sendai virus, SINTBAD is essential for the efficient induction of IRF-dependent transcription, as are two further TBK1 adaptors, TANK and NAP1. We identified a conserved TBK1/IKKi-binding domain (TBD) in the three adaptors, predicted to form an alpha-helix with residues essential for kinase binding clustering on one side. Isolated TBDs compete with adaptor binding to TBK1 and prevent poly(I:C)-induced IRF-dependent transcription. Our results suggest that efficient signal transduction upon viral infection requires SINTBAD, TANK and NAP1 because they link TBK1 and IKKi to virus-activated signalling cascades.
+
+-Adaptor Proteins, Signal Transducing (-chemistry; -genetics; +metabolism)
+-Amino Acid Sequence
+-Animals
+-Binding Sites
+-Cell Line
+-Conserved Sequence
+-Enzyme Activation
+-Humans
+-I-kappa B Kinase (-metabolism)
+-Immunity, Innate (-drug effects; +immunology)
+-Interferon Regulatory Factors (-metabolism)
+-Membrane Proteins (-chemistry; +metabolism)
+-Mice
+-Molecular Sequence Data
+-Poly I-C (-pharmacology)
+-Protein Binding
+-Protein-Serine-Threonine Kinases (+metabolism)
+-Proteins (-chemistry; +metabolism)
+-RNA Interference
+-Sendai virus (-immunology)
+-Sequence Alignment
+
+pii:7601743
+doi:10.1038/sj.emboj.7601743
+pubmed:17568778
+pmc:PMC1914091
+

@@ -1,0 +1,28 @@
+Biophys. J.
+
+Mechanism of interaction between the general anesthetic halothane and a model ion channel protein, III: Molecular dynamics simulation incorporating a cyanophenylalanine spectroscopic probe.
+
+H Zou, J Liu, JK Blasie
+
+A nitrile-derived amino acid, Phe(CN), has been used as an internal spectroscopic probe to study the binding of an inhalational anesthetic to a model membrane protein. The infrared spectra from experiment showed a blue-shift of the nitrile vibrational frequency in the presence of the anesthetic halothane. To interpret the infrared results and explore the nature of the interaction between halothane and the model protein, all-atom molecular dynamics (MD) simulations have been used to probe the structural and dynamic properties of the protein in the presence and absence of one halothane molecule. The frequency shift analyzed from MD simulations agrees well with the experimental infrared results. Decomposition of the forces acting on the nitrile probes demonstrates an indirect impact on the probes from halothane, namely a change of the protein's electrostatic local environment around the probes induced by halothane. Although the halothane remains localized within the designed hydrophobic binding cavity, it undergoes a significant amount of translational and rotational motion, modulated by the interaction of the trifluorine end of halothane with backbone hydrogens of the residues forming the cavity. This dominant interaction between halothane and backbone hydrogens outweighs the direct interaction between halothane and the nitrile groups, making it a good "spectator" probe of the halothane-protein interaction. These MD simulations provide insight into action of anesthetic molecules on the model membrane protein, and also support the further development of nitrile-labeled amino acids as spectroscopic probes within the designed binding cavity.
+
+-Alanine (+analogs & derivatives; -chemistry)
+-Anesthetics, General (+chemistry; -metabolism; -pharmacology)
+-Fluorescent Dyes (+chemistry)
+-Halothane (+chemistry; -metabolism; -pharmacology)
+-Hydrogen (-chemistry)
+-Ion Channels (+chemistry; -genetics; -metabolism)
++Models, Molecular
+-Molecular Conformation
+-Movement
+-Mutation
+-Nitriles (+chemistry)
+-Protein Binding
+-Spectrophotometry, Infrared
+-Vibration
+
+pii:S0006-3495(09)00609-2
+doi:10.1016/j.bpj.2009.01.054
+pubmed:19450489
+pmc:PMC2712203
+

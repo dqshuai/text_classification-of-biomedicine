@@ -1,0 +1,21 @@
+BMC Genomics
+
+Arabidopsis mRNA polyadenylation machinery: comprehensive analysis of protein-protein interactions and gene expression profiling.
+
+AG Hunt, R Xu, B Addepalli, S Rao, KP Forbes, LR Meeks, D Xing, M Mo, H Zhao, A Bandyopadhyay, L Dampanaboina, A Marion, C Von Lanken, QQ Li
+
+BACKGROUND: The polyadenylation of mRNA is one of the critical processing steps during expression of almost all eukaryotic genes. It is tightly integrated with transcription, particularly its termination, as well as other RNA processing events, i.e. capping and splicing. The poly(A) tail protects the mRNA from unregulated degradation, and it is required for nuclear export and translation initiation. In recent years, it has been demonstrated that the polyadenylation process is also involved in the regulation of gene expression. The polyadenylation process requires two components, the cis-elements on the mRNA and a group of protein factors that recognize the cis-elements and produce the poly(A) tail. Here we report a comprehensive pairwise protein-protein interaction mapping and gene expression profiling of the mRNA polyadenylation protein machinery in Arabidopsis. RESULTS: By protein sequence homology search using human and yeast polyadenylation factors, we identified 28 proteins that may be components of Arabidopsis polyadenylation machinery. To elucidate the protein network and their functions, we first tested their protein-protein interaction profiles. Out of 320 pair-wise protein-protein interaction assays done using the yeast two-hybrid system, 56 (approximately 17%) showed positive interactions. 15 of these interactions were further tested, and all were confirmed by co-immunoprecipitation and/or in vitro co-purification. These interactions organize into three distinct hubs involving the Arabidopsis polyadenylation factors. These hubs are centered around AtCPSF100, AtCLPS, and AtFIPS. The first two are similar to complexes seen in mammals, while the third one stands out as unique to plants. When comparing the gene expression profiles extracted from publicly available microarray datasets, some of the polyadenylation related genes showed tissue-specific expression, suggestive of potential different polyadenylation complex configurations. CONCLUSION: An extensive protein network was revealed for plant polyadenylation machinery, in which all predicted proteins were found to be connecting to the complex. The gene expression profiles are indicative that specialized sub-complexes may be formed to carry out targeted processing of mRNA in different developmental stages and tissue types. These results offer a roadmap for further functional characterizations of the protein factors, and for building models when testing the genetic contributions of these genes in plant growth and development.
+
+-Arabidopsis (+genetics; -metabolism)
+-Arabidopsis Proteins (+genetics)
++Gene Expression Profiling
++Polyadenylation
+-Protein Interaction Mapping
+-RNA, Messenger (+metabolism)
+-mRNA Cleavage and Polyadenylation Factors (+genetics)
+
+pii:1471-2164-9-220
+doi:10.1186/1471-2164-9-220
+pubmed:18479511
+pmc:PMC2391170
+

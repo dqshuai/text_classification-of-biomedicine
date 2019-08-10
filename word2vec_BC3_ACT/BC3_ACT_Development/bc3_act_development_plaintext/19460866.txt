@@ -1,0 +1,24 @@
+RNA
+
+The Bombyx ovary-derived cell line endogenously expresses PIWI/PIWI-interacting RNA complexes.
+
+S Kawaoka, N Hayashi, Y Suzuki, H Abe, S Sugano, Y Tomari, T Shimada, S Katsuma
+
+Genetic studies and large-scale sequencing experiments have revealed that the PIWI subfamily proteins and PIWI-interacting RNAs (piRNAs) play an important role in germ line development and transposon control. Biochemical studies in vitro have greatly contributed to the understanding of small interfering RNA (siRNA) and microRNA (miRNA) pathways. However, in vitro analyses of the piRNA pathway have been thus far quite challenging, because their expression is largely restricted to the germ line. Here we report that Bombyx mori ovary-derived cultured cell line, BmN4, endogenously expresses two PIWI subfamily proteins, silkworm Piwi (Siwi) and Ago3 (BmAgo3), and piRNAs associated with them. Siwi-bound piRNAs have a strong bias for uridine at their 5' end and BmAgo3-bound piRNAs are enriched for adenine at position 10. In addition, Siwi preferentially binds antisense piRNAs, whereas BmAgo3 binds sense piRNAs. Moreover, we identified many pairs in which Siwi-bound antisense and BmAgo3-bound sense piRNAs are overlapped by precisely 10 nt at their 5' ends. These signatures are known to be important for secondary piRNA biogenesis in other organisms. Taken together, BmN4 is a unique cell line in which both primary and secondary steps of piRNA biogenesis pathways are active. This cell line would provide useful tools for analysis of piRNA biogenesis and function.
+
+-Animals
+-Blotting, Northern
+-Bombyx (+physiology)
+-Female
+-Immunoprecipitation
+-Molecular Sequence Data
+-Ovary (-cytology; +metabolism)
+-RNA Interference
+-RNA, Small Interfering (-genetics; +metabolism)
+-RNA-Binding Proteins (-genetics; +metabolism)
+
+pii:rna.1452209
+doi:10.1261/rna.1452209
+pubmed:19460866
+pmc:PMC2704083
+

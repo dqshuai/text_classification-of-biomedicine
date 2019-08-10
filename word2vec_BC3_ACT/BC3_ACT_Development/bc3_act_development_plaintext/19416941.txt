@@ -1,0 +1,26 @@
+Genetics
+
+Binary trait mapping in experimental crosses with selective genotyping.
+
+A Manichaikul, KW Broman
+
+Selective genotyping is an efficient strategy for mapping quantitative trait loci. For binary traits, where there are only two distinct phenotypic values (e.g., affected/unaffected or present/absent), one may consider selective genotyping of affected individuals, while genotyping none or only some of the unaffected. If selective genotyping of this sort is employed, the usual method for binary trait mapping, which considers phenotypes conditional on genotypes, cannot be used. We present an alternative approach, instead considering genotypes conditional on phenotypes, and compare this to the more standard method of analysis, both analytically and by example. For studies of rare binary phenotypes, we recommend performing an initial genome scan with all affected individuals and an equal number of unaffected, followed by genotyping the full cross in genomic regions of interest to confirm results from the initial screen.
+
++Algorithms
+-Animals
+-Chromosome Mapping (+methods)
+-Crosses, Genetic
+-Female
+-Genome (-genetics)
+-Genotype
+-Likelihood Functions
+-Lod Score
+-Male
++Models, Genetic
+-Phenotype
+
+pii:genetics.108.098913
+doi:10.1534/genetics.108.098913
+pubmed:19416941
+pmc:PMC2710165
+

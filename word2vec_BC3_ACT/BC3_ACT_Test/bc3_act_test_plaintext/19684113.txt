@@ -1,0 +1,31 @@
+Genes Dev.
+
+Characterization of the rapamycin-sensitive phosphoproteome reveals that Sch9 is a central coordinator of protein synthesis.
+
+A Huber, B Bodenmiller, A Uotila, M Stahl, S Wanka, B Gerrits, R Aebersold, R Loewith
+
+The target of rapamycin complex 1 (TORC1) is an essential multiprotein complex conserved from yeast to humans. Under favorable growth conditions, and in the absence of the macrolide rapamycin, TORC1 is active, and influences virtually all aspects of cell growth. Although two direct effectors of yeast TORC1 have been reported (Tap42, a regulator of PP2A phosphatases and Sch9, an AGC family kinase), the signaling pathways that couple TORC1 to its distal effectors were not well understood. To elucidate these pathways we developed and employed a quantitative, label-free mass spectrometry approach. Analyses of the rapamycin-sensitive phosphoproteomes in various genetic backgrounds revealed both documented and novel TORC1 effectors and allowed us to partition phosphorylation events between Tap42 and Sch9. Follow-up detailed characterization shows that Sch9 regulates RNA polymerases I and III, the latter via Maf1, in addition to translation initiation and the expression of ribosomal protein and ribosome biogenesis genes. This demonstrates that Sch9 is a master regulator of protein synthesis.
+
+-Adaptor Proteins, Signal Transducing (-metabolism)
+-Antifungal Agents (-pharmacology)
+-Cycloheximide (-pharmacology)
+-Phosphorylation (-drug effects)
+-Protein Binding
+-Protein Biosynthesis (+physiology)
+-Protein Synthesis Inhibitors (-pharmacology)
+-Protein Transport
+-Protein-Serine-Threonine Kinases (+metabolism)
++Proteome (-drug effects)
+-RNA Polymerase I (-metabolism)
+-RNA Polymerase III (-metabolism)
+-Saccharomyces cerevisiae (-enzymology; -metabolism; +physiology)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+-Signal Transduction
+-Sirolimus (-pharmacology)
+-Transcription Factors (-metabolism)
+
+pii:23/16/1929
+doi:10.1101/gad.532109
+pubmed:19684113
+pmc:PMC2725941
+

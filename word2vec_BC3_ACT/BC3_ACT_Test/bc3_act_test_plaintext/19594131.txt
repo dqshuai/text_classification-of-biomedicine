@@ -1,0 +1,25 @@
+Biochemistry
+
+Functional importance of GGXG sequence motifs in putative reentrant loops of 2HCT and ESS transport proteins.
+
+A Dobrowolski, JS Lolkema
+
+The 2HCT and ESS families are two families of secondary transporters. Members of the two families are unrelated in amino acid sequence but share similar hydropathy profiles, which suggest a similar folding of the proteins in membranes. Structural models show two homologous domains containing five transmembrane segments (TMSs) each, with a reentrant or pore loop between the fourth and fifth TMSs in each domain. Here we show that GGXG sequence motifs present in the putative reentrant loops are important for the activity of the transporters. Mutation of the conserved Gly residues to Cys in the motifs of the Na(+)-citrate transporter CitS in the 2HCT family and the Na(+)-glutamate transporter GltS in the ESS family resulted in strongly reduced transport activity. Similarly, mutation of the variable residue "X" to Cys in the N-terminal half of GltS essentially inactivated the transporter. The corresponding mutations in the N- and C-terminal halves of CitS reduced transport activity to 60 and 25% of that of the wild type, respectively. Residual activity of any of the mutants could be further reduced by treatment with the membrane permeable thiol reagent N-ethylmaleimide (NEM). The X to Cys mutation (S405C) in the cytoplasmic loop in the C-terminal half of CitS rendered the protein sensitive to the bulky, membrane impermeable thiol reagent 4-acetamido-4'-maleimidylstilbene-2,2'-disulfonic acid (AmdiS) added at the periplasmic side of the membrane, providing further evidence that this part of the loop is positioned between the transmembrane segments. The putative reentrant loop in the C-terminal half of the ESS family does not contain the GGXG motif, but a conserved stretch rich in Gly residues. Cysteine-scanning mutagenesis of a stretch of 18 residues in the GltS protein revealed two residues important for function. Mutant N356C was completely inactivated by treatment with NEM, and mutant P351C appeared to be the counterpart of mutant S405C of CitS; the mutant was inactivated by AmdiS added at the periplasmic side of the membrane. The data support, in general, the structural and mechanistic similarity between the ESS and 2HCT transporters and, more particularly, the two-domain structure of the transporters and the presence and functional importance of the reentrant loops present in each domain. It is proposed that the GGXG motifs are at the vertex of the reentrant loops.
+
+-Amino Acid Motifs (-genetics)
+-Amino Acid Substitution (-genetics)
+-Amino Acid Transport Systems, Acidic (-chemistry; -genetics)
+-Bacterial Proteins (-chemistry; -genetics)
+-Carboxylic Acids (+chemistry)
+-Carrier Proteins (-chemistry; -genetics)
+-Escherichia coli Proteins (-chemistry; -genetics)
+-Glutamate Plasma Membrane Transport Proteins (-chemistry; -genetics; -physiology)
+-Glycine (+chemistry; -genetics)
+-Membrane Transport Proteins (+chemistry; -genetics; +physiology)
+-Models, Molecular
+-Protein Structure, Tertiary (-genetics)
+-Symporters (-chemistry; -genetics)
+
+doi:10.1021/bi9004914
+pubmed:19594131
+

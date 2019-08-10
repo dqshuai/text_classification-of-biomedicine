@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+GeneSet2miRNA: finding the signature of cooperative miRNA activities in the gene lists.
+
+AV Antonov, S Dietmann, P Wong, D Lutter, HW Mewes
+
+GeneSet2miRNA is the first web-based tool which is able to identify whether or not a gene list has a signature of miRNA-regulatory activity. As input, GeneSet2miRNA accepts a list of genes. As output, a list of miRNA-regulatory models is provided. A miRNA-regulatory model is a group of miRNAs (single, pair, triplet or quadruplet) that is predicted to regulate a significant subset of genes from the submitted list. GeneSet2miRNA provides a user friendly dialog-driven web page submission available for several model organisms. GeneSet2miRNA is freely available at http://mips.helmholtz-muenchen.de/proj/gene2mir/.
+
+-Animals
++Gene Expression Regulation
+-Genes
+-Humans
+-Internet
+-Mice
+-MicroRNAs (+metabolism)
+-Rats
++Software
+
+pii:gkp313
+doi:10.1093/nar/gkp313
+pubmed:19420064
+pmc:PMC2703952
+

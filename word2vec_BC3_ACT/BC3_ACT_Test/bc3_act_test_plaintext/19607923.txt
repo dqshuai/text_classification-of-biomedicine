@@ -1,0 +1,24 @@
+Methods
+
+Transposon-mediated mutagenesis of somatic cells in the mouse for cancer gene identification.
+
+DA Largaespada
+
+To successfully treat cancer we will likely need a much more detailed understanding of the genes and pathways meaningfully altered in individual cancer cases. One method for achieving this goal is to derive cancers in model organisms using unbiased forward genetic screens that allow cancer gene candidate discovery. We have developed a method using a "cut-and-paste" DNA transposon system called Sleeping Beauty (SB) to perform forward genetic screens for cancer genes in mice. Although the approach is conceptually similar to the use of replication competent retroviruses for cancer gene identification, the SB system promises to allow such screens in tissues previously not amenable to forward genetic screens such as the gastrointestinal tract, brain, and liver. This article describes the strains useful for SB-based screens for cancer genes in mice and how they are deployed in an experiment.
+
+-Animals
+-Crosses, Genetic
++DNA Transposable Elements
+-Genetic Testing (+methods)
+-Introns
+-Mice
+-Mice, Transgenic
+-Mutagenesis, Insertional (+methods)
+-Neoplasms (+genetics)
+
+pii:S1046-2023(09)00169-8
+doi:10.1016/j.ymeth.2009.07.002
+pubmed:19607923
+mid:NIHMS162969
+pmc:PMC2806649
+

@@ -1,0 +1,30 @@
+Plant Physiol.
+
+The mechanism of iron homeostasis in the unicellular cyanobacterium synechocystis sp. PCC 6803 and its relationship to oxidative stress.
+
+S Shcolnick, TC Summerfield, L Reytman, LA Sherman, N Keren
+
+In this article, we demonstrate the connection between intracellular iron storage and oxidative stress response in cyanobacteria. Iron is essential for the survival of all organisms. However, the redox properties that make iron a valuable cofactor also lead to oxidative interactions, resulting in the formation of harmful radicals. Therefore, iron accumulation in cells should be tightly regulated, a process in which ferritin family proteins play an important role. Synechocystis sp. PCC 6803 contains two ferritin-type storage complexes, bacterioferritin and MrgA. Previous studies demonstrated the role of bacterioferritin and MrgA in iron storage. In addition, MrgA was found to play a key role in oxidative stress response. Here, we examined the dual role of the ferritin family proteins using physiological and transcriptomic approaches. Microarray analysis of iron-limited wild-type and DeltamrgA cultures revealed a substantial up-regulation of oxidative stress-related genes in mutant cells. The PerR regulator was found to play an important role in that process. Furthermore, we were able to demonstrate the connection between internal iron quota, the presence of the two storage complexes, and the sensitivity to externally applied oxidative stress. These data suggest a pivotal role for the ferritin-type proteins of Synechocystis sp. PCC 6803 in coordinating iron homeostasis and in oxidative stress response. The combined action of the two complexes allows for the safe accumulation and release of iron from storage by minimizing damage resulting from interactions between reduced iron and the oxygen radicals that are produced in abundance by the photosynthetic apparatus.
+
+-Biomass
+-Chlorophyll (-metabolism)
+-Deferoxamine (-pharmacology)
+-Gene Expression Profiling
+-Gene Expression Regulation, Bacterial (-drug effects)
+-Genes, Bacterial
++Homeostasis (-drug effects)
+-Iron (+metabolism)
+-Iron Chelating Agents (-pharmacology)
+-Microbial Viability (-drug effects)
+-Models, Biological
+-Mutation (-genetics)
+-Oligonucleotide Array Sequence Analysis
++Oxidative Stress (-drug effects)
+-Spectrometry, Fluorescence
+-Synechocystis (+cytology; -genetics; +metabolism)
+
+pii:pp.109.141853
+doi:10.1104/pp.109.141853
+pubmed:19561120
+pmc:PMC2719147
+

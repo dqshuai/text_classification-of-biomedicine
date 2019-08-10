@@ -1,0 +1,36 @@
+Mol. Biol. Cell
+
+Estrogen inhibits ATR signaling to cell cycle checkpoints and DNA repair.
+
+A Pedram, M Razandi, AJ Evinger, E Lee, ER Levin
+
+DNA damage activates the ataxia telangiectasia-mutated and Rad3-related (ATR) kinase signal cascade. How this system is restrained is not understood. We find that in estrogen receptor (ER)-positive breast cancer cells, UV or ionizing radiation and hydroxyurea rapidly activate ATR-dependent phosphorylation of endogenous p53 and Chk1. 17-beta-estradiol (E(2)) substantially blocks ATR activity via plasma membrane-localized ERalpha. E(2)/ER reduces the enhanced association of ATR andTopBP1 proteins that follows DNA damage and strongly correlates to ATR activity. E(2) inhibits ATR activation through rapid PI3K/AKT signaling: AKT phosphorylates TopBP1 at Serine 1159, thereby preventing the enhanced association of ATR with TopBP1 after DNA damage. E(2) also inhibits Claspin:Chk1 protein association via AKT phosphorylation of Chk1, preventing Chk1 signaling to the G2/M checkpoint. ATR-phosphorylation of p53 induces p21 transcription, prevented by E(2)/ER. E(2) delays the assembly and prolongs the resolution of gammaH2AX and Rad51 nuclear foci and delays DNA repair. E(2)/ER also increases the chromosomal damage seen from cell exposure to IR. Therefore, the restraint of ATR cascade activation may be a novel estrogen action relevant to breast cancer.
+
+-Animals
+-Cell Cycle (+drug effects)
+-Cell Cycle Proteins (-antagonists & inhibitors; +metabolism)
+-Cell Line, Transformed
+-Cell Line, Tumor
+-DNA Repair (+drug effects)
+-Enzyme Activation (-drug effects)
+-Epithelial Cells (-cytology; -drug effects; -enzymology)
+-Estradiol (+pharmacology)
+-Estrogen Receptor alpha (-metabolism)
+-Female
+-Humans
+-Mammary Glands, Animal (-cytology)
+-Mice
+-Mice, Inbred C57BL
+-Models, Biological
+-Protein Kinase Inhibitors (-pharmacology)
+-Protein Kinases (-metabolism)
+-Protein-Serine-Threonine Kinases (-antagonists & inhibitors; +metabolism)
+-Proto-Oncogene Proteins c-akt (-metabolism)
+-Signal Transduction (+drug effects)
+-Substrate Specificity (-drug effects)
+
+pii:E09-01-0085
+doi:10.1091/mbc.E09-01-0085
+pubmed:19477925
+pmc:PMC2710824
+

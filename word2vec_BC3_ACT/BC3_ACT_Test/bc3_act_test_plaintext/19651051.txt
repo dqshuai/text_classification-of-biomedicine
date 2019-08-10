@@ -1,0 +1,25 @@
+Biophys. J.
+
+Impact of emission anisotropy on fluorescence spectroscopy and FRET distance measurements.
+
+V Ivanov, M Li, K Mizuuchi
+
+The objective of this report is to provide a practical and improved method for estimating Förster resonance energy transfer distance measurement error due to unknown angles in the dipole orientation factor based on emission anisotropy measurements. We improve on the method of Dale et al. (1979), which has minor mistakes and is frequently interpreted in overly optimistic ways in the literature. To facilitate proper fluorescence intensity measurements, we also evaluated instrument parameters that could impact the measurement. The apparent fluorescence intensity of isotropic samples depends on the sample emission anisotropy, fluorometer geometry, and optical apertures. We separate parameters of the sample, and those of the cylindrically symmetric illumination source and detector in the equations describing results of unpolarized and polarized fluorescence intensity measurements. This approach greatly simplifies calculations compared with the more universal method of Axelrod (1989). We provide a full computational method for calculating the Förster resonance energy transfer distance error and present a graph describing distance error in the simplest case.
+
+-Algorithms
++Anisotropy
+-Fluorescence
+-Fluorescence Resonance Energy Transfer (-instrumentation; +methods)
+-Fluorometry (-instrumentation; -methods)
+-HIV Integrase (-chemistry)
+-HIV-1
+-Lasers
+-Light
+-Spectrometry, Fluorescence (-instrumentation; +methods)
+-Uncertainty
+
+pii:S0006-3495(09)01030-3
+doi:10.1016/j.bpj.2009.05.025
+pubmed:19651051
+pmc:PMC2718156
+

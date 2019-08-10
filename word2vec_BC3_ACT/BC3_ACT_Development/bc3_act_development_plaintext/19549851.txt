@@ -1,0 +1,27 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+A multiscale model linking ion-channel molecular dynamics and electrostatics to the cardiac action potential.
+
+JR Silva, H Pan, D Wu, A Nekouzadeh, KF Decker, J Cui, NA Baker, D Sept, Y Rudy
+
+Ion-channel function is determined by its gating movement. Yet, molecular dynamics and electrophysiological simulations were never combined to link molecular structure to function. We performed multiscale molecular dynamics and continuum electrostatics calculations to simulate a cardiac K(+) channel (I(Ks)) gating and its alteration by mutations that cause arrhythmias and sudden death. An all-atom model of the I(Ks) alpha-subunit KCNQ1, based on the recent Kv1.2 structure, is used to calculate electrostatic energies during gating. Simulations are compared with experiments where varying degrees of positive charge-added via point mutation-progressively reduce current. Whole-cell simulations show that mutations cause action potential and ECG QT interval prolongation, consistent with clinical phenotypes. This framework allows integration of multiscale observations to study the molecular basis of excitation and its alteration by disease.
+
+-Action Potentials (+physiology)
+-Amino Acid Sequence
+-Electrocardiography
+-Heart (+physiology)
+-KCNQ1 Potassium Channel (-chemistry; +metabolism)
+-Kinetics
+-Models, Cardiovascular
++Models, Molecular
+-Molecular Sequence Data
+-Mutant Proteins (-chemistry; -metabolism)
+-Mutation (-genetics)
+-Protein Structure, Secondary
++Static Electricity
+
+pii:0904505106
+doi:10.1073/pnas.0904505106
+pubmed:19549851
+pmc:PMC2700153
+

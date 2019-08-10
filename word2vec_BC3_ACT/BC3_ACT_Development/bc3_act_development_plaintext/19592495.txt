@@ -1,0 +1,25 @@
+J. Biol. Chem.
+
+The structure of the Staphylococcus aureus sortase-substrate complex reveals how the universally conserved LPXTG sorting signal is recognized.
+
+N Suree, CK Liew, VA Villareal, W Thieu, EA Fadeev, JJ Clemens, ME Jung, RT Clubb
+
+In Gram-positive bacteria, sortase enzymes assemble surface proteins and pili in the cell wall envelope. Sortases catalyze a transpeptidation reaction that joins a highly conserved LPXTG sorting signal within their polypeptide substrate to the cell wall or to other pilin subunits. The molecular basis of transpeptidation and sorting signal recognition are not well understood, because the intermediates of catalysis are short lived. We have overcome this problem by synthesizing an analog of the LPXTG signal whose stable covalent complex with the enzyme mimics a key thioacyl catalytic intermediate. Here we report the solution structure and dynamics of its covalent complex with the Staphylococcus aureus SrtA sortase. In marked contrast to a previously reported crystal structure, we show that SrtA adaptively recognizes the LPXTG sorting signal by closing and immobilizing an active site loop. We have also used chemical shift mapping experiments to localize the binding site for the triglycine portion of lipid II, the second substrate to which surface proteins are attached. We propose a unified model of the transpeptidation reaction that explains the functions of key active site residues. Since the sortase-catalyzed anchoring reaction is required for the virulence of a number of bacterial pathogens, the results presented here may facilitate the development of new anti-infective agents.
+
+-Aminoacyltransferases (+chemistry; -metabolism)
+-Bacterial Proteins (+chemistry; -metabolism)
+-Catalytic Domain (-physiology)
+-Cysteine Endopeptidases (+chemistry; -metabolism)
++Models, Chemical
++Models, Molecular
+-Peptide Mapping (-methods)
++Protein Sorting Signals
+-Protein Structure, Quaternary
+-Protein Structure, Secondary (-physiology)
+-Staphylococcus aureus (+enzymology; -pathogenicity)
+
+pii:M109.022624
+doi:10.1074/jbc.M109.022624
+pubmed:19592495
+pmc:PMC2782039
+

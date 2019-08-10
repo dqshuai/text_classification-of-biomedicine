@@ -1,0 +1,21 @@
+Eukaryotic Cell
+
+Our paths might cross: the role of the fungal cell wall integrity pathway in stress response and cross talk with other stress response pathways.
+
+BB Fuchs, E Mylonakis
+
+Fungi occupy diverse environments and are subjected to many extreme conditions. Among the stressful conditions faced by fungi are pH changes, osmotic changes, thermal changes, oxide radicals, nutrient deprivation, and exposure to chemicals. These adversities can be found either in the environment or in animal and human hosts. The cell wall integrity (CWI) pathway provides a means to fortify and repair damages to the cell wall in order to withstand stressful environments. The CWI pathway in comprised of cell wall stress sensors that lead to activation of a mitogen-activated protein kinase (MAPK) cascade. Signaling through the MAPK cascade leads to expression of transcription factors that facilitate biosynthesis of cell wall components and actin organization. Given the relatively limited number of components of the CWI pathway and the very diverse stimuli, there must be a means of expanding the pathway. To manage the diverse stress conditions, the CWI pathway cross talks with other pathways or proteins, and these cross talk events enhance the signaling capabilities of the CWI pathway. Lateral influences that facilitate maintaining the cell wall under stress conditions are TOR signaling, calcineurin signaling, the high-osmolarity glycerol pathway, the cyclic AMP-protein kinase A pathway, and additional proteins. In this article, we highlight several of the cross talk events that have been described for Saccharomyces cerevisiae and several other fungi.
+
+-Cell Wall (-genetics; +metabolism)
+-Fungal Proteins (-genetics; -metabolism)
+-Fungi (-cytology; -genetics; +physiology)
+-Receptor Cross-Talk
+-Saccharomyces cerevisiae (-cytology; -genetics; +physiology)
++Signal Transduction
+-Stress, Physiological
+
+pii:EC.00193-09
+doi:10.1128/EC.00193-09
+pubmed:19717745
+pmc:PMC2772411
+

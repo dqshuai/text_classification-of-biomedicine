@@ -1,0 +1,25 @@
+Nucleic Acids Res.
+
+Using DNA mechanics to predict in vitro nucleosome positions and formation energies.
+
+AV Morozov, K Fortney, DA Gaykalova, VM Studitsky, J Widom, ED Siggia
+
+In eukaryotic genomes, nucleosomes function to compact DNA and to regulate access to it both by simple physical occlusion and by providing the substrate for numerous covalent epigenetic tags. While competition with other DNA-binding factors and action of chromatin remodeling enzymes significantly affect nucleosome formation in vivo, nucleosome positions in vitro are determined by steric exclusion and sequence alone. We have developed a biophysical model, DNABEND, for the sequence dependence of DNA bending energies, and validated it against a collection of in vitro free energies of nucleosome formation and a set of in vitro nucleosome positions mapped at high resolution. We have also made a first ab initio prediction of nucleosomal DNA geometries, and checked its accuracy against the nucleosome crystal structure. We have used DNABEND to design both strong and weak histone- binding sequences, and measured the corresponding free energies of nucleosome formation. We find that DNABEND can successfully predict in vitro nucleosome positions and free energies, providing a physical explanation for the intrinsic sequence dependence of histone-DNA interactions.
+
++Algorithms
+-Base Sequence
+-Crystallography, X-Ray
+-DNA (+chemistry)
+-DNA Footprinting
+-Gene Expression
+-Histones (-chemistry)
+-Models, Chemical
+-Nucleic Acid Conformation
+-Nucleosomes (+chemistry)
+-Nucleotides (-analysis)
+
+pii:gkp475
+doi:10.1093/nar/gkp475
+pubmed:19509309
+pmc:PMC2724288
+

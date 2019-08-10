@@ -1,0 +1,19 @@
+Nucleic Acids Res.
+
+Dynamics of RecA filaments on single-stranded DNA.
+
+MT van Loenhout, T van der Heijden, R Kanaar, C Wyman, C Dekker
+
+RecA, the key protein in homologous recombination, performs its actions as a helical filament on single-stranded DNA (ssDNA). ATP hydrolysis makes the RecA-ssDNA filament dynamic and is essential for successful recombination. RecA has been studied extensively by single-molecule techniques on double-stranded DNA (dsDNA). Here we directly probe the structure and kinetics of RecA interaction with its biologically most relevant substrate, long ssDNA molecules. We find that RecA ATPase activity is required for the formation of long continuous filaments on ssDNA. These filaments both nucleate and extend with a multimeric unit as indicated by the Hill coefficient of 5.4 for filament nucleation. Disassembly rates of RecA from ssDNA decrease with applied stretching force, corresponding to a mechanism where protein-induced stretching of the ssDNA aids in the disassembly. Finally, we show that RecA-ssDNA filaments can reversibly interconvert between an extended, ATP-bound, and a compressed, ADP-bound state. Taken together, our results demonstrate that ATP hydrolysis has a major influence on the structure and state of RecA filaments on ssDNA.
+
+-Adenosine Triphosphate (-metabolism)
+-DNA, Single-Stranded (-chemistry; +metabolism)
+-Kinetics
+-Protein Multimerization
+-Rec A Recombinases (-chemistry; +metabolism)
+
+pii:gkp326
+doi:10.1093/nar/gkp326
+pubmed:19429893
+pmc:PMC2709578
+

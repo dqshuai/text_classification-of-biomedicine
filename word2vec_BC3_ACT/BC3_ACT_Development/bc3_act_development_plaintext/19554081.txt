@@ -1,0 +1,13 @@
+PLoS ONE
+
+c-Myc accelerates S-Phase and requires WRN to avoid replication stress.
+
+K Robinson, N Asawachaicharn, DA Galloway, C Grandori
+
+c-Myc interacts with components of the pre-replication complex and directly regulates DNA replication [1]. However the consequences of this novel c-Myc function on cell cycle dynamics and replication-associated damage are unknown. Here, we show that c-Myc overexpression in primary human fibroblasts markedly accelerates S-phase while c-Myc deficient fibroblasts exhibit a prolonged S-phase. We also show that the Werner DNA helicase protein (WRN) plays a critical role in supporting c-Myc-driven S-phase, as depletion of WRN in c-Myc overexpressing cells increases DNA damage specifically at sites of DNA synthesis. This excess DNA damage activates a "replication stress" pathway involving ATR, CHK1, CHK2, and p53, leading to rapid senescence of WRN deficient c-Myc overexpressing cells. Indeed, depletion of p53 rescues this senescence response. We propose that WRN functions to repair abnormal replication structures caused by the acceleration of DNA replication by c-Myc. This work provides an additional mechanistic explanation for c-Myc-induced DNA damage and senescence, and reveals a vulnerability of c-Myc overexpressing cells that could potentially be exploited in cancer therapy.
+
+
+doi:10.1371/journal.pone.0005951
+pubmed:19554081
+pmc:PMC2694031
+

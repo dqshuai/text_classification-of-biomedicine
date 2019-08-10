@@ -1,0 +1,18 @@
+BMC Genomics
+
+RBT-GA: a novel metaheuristic for solving the Multiple Sequence Alignment problem.
+
+J Taheri, AY Zomaya
+
+BACKGROUND: Multiple Sequence Alignment (MSA) has always been an active area of research in Bioinformatics. MSA is mainly focused on discovering biologically meaningful relationships among different sequences or proteins in order to investigate the underlying main characteristics/functions. This information is also used to generate phylogenetic trees. RESULTS: This paper presents a novel approach, namely RBT-GA, to solve the MSA problem using a hybrid solution methodology combining the Rubber Band Technique (RBT) and the Genetic Algorithm (GA) metaheuristic. RBT is inspired by the behavior of an elastic Rubber Band (RB) on a plate with several poles, which is analogues to locations in the input sequences that could potentially be biologically related. A GA attempts to mimic the evolutionary processes of life in order to locate optimal solutions in an often very complex landscape. RBT-GA is a population based optimization algorithm designed to find the optimal alignment for a set of input protein sequences. In this novel technique, each alignment answer is modeled as a chromosome consisting of several poles in the RBT framework. These poles resemble locations in the input sequences that are most likely to be correlated and/or biologically related. A GA-based optimization process improves these chromosomes gradually yielding a set of mostly optimal answers for the MSA problem. CONCLUSION: RBT-GA is tested with one of the well-known benchmarks suites (BALiBASE 2.0) in this area. The obtained results show that the superiority of the proposed technique even in the case of formidable sequences.
+
+-Algorithms
+-Computational Biology (+methods)
+-Computer Simulation
+-Sequence Alignment (+methods)
+-Sequence Analysis, Protein (+methods)
+
+pii:1471-2164-10-S1-S10
+doi:10.1186/1471-2164-10-S1-S10
+pubmed:19594869
+

@@ -1,0 +1,23 @@
+PLoS ONE
+
+Impact of cigarette smoke exposure on innate immunity: a Caenorhabditis elegans model.
+
+RM Green, F Gally, JG Keeney, S Alper, B Gao, M Han, RJ Martin, AR Weinberger, SR Case, MN Minor, HW Chu
+
+BACKGROUND: Cigarette smoking is the major cause of chronic obstructive pulmonary disease (COPD) and lung cancer. Respiratory bacterial infections have been shown to be involved in the development of COPD along with impaired airway innate immunity. METHODOLOGY/PRINCIPAL FINDINGS: To address the in vivo impact of cigarette smoke (CS) exclusively on host innate defense mechanisms, we took advantage of Caenorhabditis elegans (C. elegans), which has an innate immune system but lacks adaptive immune function. Pseudomonas aeruginosa (PA) clearance from intestines of C. elegans was dampened by CS. Microarray analysis identified 6 candidate genes with a 2-fold or greater reduction after CS exposure, that have a human orthologue, and that may participate in innate immunity. To confirm a role of CS-down-regulated genes in the innate immune response to PA, RNA interference (RNAi) by feeding was carried out in C. elegans to inhibit the gene of interest, followed by PA infection to determine if the gene affected innate immunity. Inhibition of lbp-7, which encodes a lipid binding protein, resulted in increased levels of intestinal PA. Primary human bronchial epithelial cells were shown to express mRNA of human Fatty Acid Binding Protein 5 (FABP-5), the human orthologue of lpb-7. Interestingly, FABP-5 mRNA levels from human smokers with COPD were significantly lower (p = 0.036) than those from smokers without COPD. Furthermore, FABP-5 mRNA levels were up-regulated (7-fold) after bacterial (i.e., Mycoplasma pneumoniae) infection in primary human bronchial epithelial cell culture (air-liquid interface culture). CONCLUSIONS: Our results suggest that the C. elegans model offers a novel in vivo approach to specifically study innate immune deficiencies resulting from exposure to cigarette smoke, and that results from the nematode may provide insight into human airway epithelial cell biology and cigarette smoke exposure.
+
+-Animals
+-Caenorhabditis elegans (+immunology; -microbiology)
+-Cotinine (-metabolism)
++Immunity, Innate
++Models, Animal
+-Nicotine (-metabolism)
+-Pseudomonas aeruginosa (-isolation & purification)
+-RNA Interference
++Smoke
++Tobacco
+
+doi:10.1371/journal.pone.0006860
+pubmed:19718433
+pmc:PMC2729919
+

@@ -1,0 +1,27 @@
+Nature
+
+Evolution of pathogenicity and sexual reproduction in eight Candida genomes.
+
+G Butler, MD Rasmussen, MF Lin, MA Santos, S Sakthikumar, CA Munro, E Rheinbay, M Grabherr, A Forche, JL Reedy, I Agrafioti, MB Arnaud, S Bates, AJ Brown, S Brunke, MC Costanzo, DA Fitzpatrick, PW de Groot, D Harris, LL Hoyer, B Hube, FM Klis, C Kodira, N Lennard, ME Logue, R Martin, AM Neiman, E Nikolaou, MA Quail, J Quinn, MC Santos, FF Schmitzberger, G Sherlock, P Shah, KA Silverstein, MS Skrzypek, D Soll, R Staggs, I Stansfield, MP Stumpf, PE Sudbery, T Srikantha, Q Zeng, J Berman, M Berriman, J Heitman, NA Gow, MC Lorenz, BW Birren, M Kellis, CA Cuomo
+
+Candida species are the most common cause of opportunistic fungal infection worldwide. Here we report the genome sequences of six Candida species and compare these and related pathogens and non-pathogens. There are significant expansions of cell wall, secreted and transporter gene families in pathogenic species, suggesting adaptations associated with virulence. Large genomic tracts are homozygous in three diploid species, possibly resulting from recent recombination events. Surprisingly, key components of the mating and meiosis pathways are missing from several species. These include major differences at the mating-type loci (MTL); Lodderomyces elongisporus lacks MTL, and components of the a1/2 cell identity determinant were lost in other species, raising questions about how mating and cell types are controlled. Analysis of the CUG leucine-to-serine genetic-code change reveals that 99% of ancestral CUG codons were erased and new ones arose elsewhere. Lastly, we revise the Candida albicans gene catalogue, identifying many new genes.
+
+-Candida (-classification; -genetics; +pathogenicity; +physiology)
+-Codon (-genetics)
+-Conserved Sequence
+-Diploidy
++Evolution, Molecular
+-Genes, Fungal (-genetics)
+-Genome, Fungal (+genetics)
+-Meiosis (-genetics)
+-Polymorphism, Genetic
+-Reproduction (+genetics)
+-Saccharomyces (-classification; -genetics)
+-Virulence (-genetics)
+
+pii:nature08064
+doi:10.1038/nature08064
+pubmed:19465905
+mid:NIHMS111023
+pmc:PMC2834264
+

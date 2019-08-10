@@ -1,0 +1,32 @@
+Biophys. J.
+
+Divalent cations slow activation of EAG family K+ channels through direct binding to S4.
+
+X Zhang, B Bursulaya, CC Lee, B Chen, K Pivaroff, T Jegla
+
+Voltage-gated K+ channels share a common voltage sensor domain (VSD) consisting of four transmembrane helices, including a highly mobile S4 helix that contains the major gating charges. Activation of ether-a-go-go (EAG) family K+ channels is sensitive to external divalent cations. We show here that divalent cations slow the activation rate of two EAG family channels (Kv12.1 and Kv10.2) by forming a bridge between a residue in the S4 helix and acidic residues in S2. Histidine 328 in the S4 of Kv12.1 favors binding of Zn2+ and Cd2+, whereas the homologous residue Serine 321 in Kv10.2 contributes to effects of Mg2+ and Ni2+. This novel finding provides structural constraints for the position of transmembrane VSD helices in closed, ion-bound EAG family channels. Homology models of Kv12.1 and Kv10.2 VSD structures based on a closed-state model of the Shaker family K+ channel Kv1.2 match these constraints. Our results suggest close conformational conservation between closed EAG and Shaker family channels, despite large differences in voltage sensitivity, activation rates, and activation thresholds.
+
+-Amino Acid Sequence
+-Animals
+-Cadmium (-metabolism)
+-Cations, Divalent (+metabolism)
+-Ether-A-Go-Go Potassium Channels (+chemistry; -genetics; +metabolism)
+-Kv1.2 Potassium Channel (-metabolism)
+-Magnesium (-metabolism)
+-Membrane Potentials (-physiology)
+-Mice
+-Models, Molecular
+-Molecular Sequence Data
+-Mutation
+-Nickel (-metabolism)
+-Patch-Clamp Techniques
+-Protein Conformation
+-Sequence Homology, Amino Acid
+-Xenopus
+-Zinc (-metabolism)
+
+pii:S0006-3495(09)00897-2
+doi:10.1016/j.bpj.2009.04.032
+pubmed:19580749
+pmc:PMC2711382
+

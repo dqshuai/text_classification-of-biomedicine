@@ -1,0 +1,22 @@
+BMC Bioinformatics
+
+designGG: an R-package and web tool for the optimal design of genetical genomics experiments.
+
+Y Li, MA Swertz, G Vera, J Fu, R Breitling, RC Jansen
+
+BACKGROUND: High-dimensional biomolecular profiling of genetically different individuals in one or more environmental conditions is an increasingly popular strategy for exploring the functioning of complex biological systems. The optimal design of such genetical genomics experiments in a cost-efficient and effective way is not trivial. RESULTS: This paper presents designGG, an R package for designing optimal genetical genomics experiments. A web implementation for designGG is available at http://gbic.biol.rug.nl/designGG. All software, including source code and documentation, is freely available. CONCLUSION: DesignGG allows users to intelligently select and allocate individuals to experimental units and conditions such as drug treatment. The user can maximize the power and resolution of detecting genetic, environmental and interaction effects in a genome-wide or local mode by giving more weight to genome regions of special interest, such as previously detected phenotypic quantitative trait loci. This will help to achieve high power and more accurate estimates of the effects of interesting factors, and thus yield a more reliable biological interpretation of data. DesignGG is applicable to linkage analysis of experimental crosses, e.g. recombinant inbred lines, as well as to association analysis of natural populations.
+
+-Animals
++Data Interpretation, Statistical
+-Databases, Genetic
+-Genomics (+methods)
+-Internet
++Research Design
++Software
+-User-Computer Interface
+
+pii:1471-2105-10-188
+doi:10.1186/1471-2105-10-188
+pubmed:19538731
+pmc:PMC2706229
+

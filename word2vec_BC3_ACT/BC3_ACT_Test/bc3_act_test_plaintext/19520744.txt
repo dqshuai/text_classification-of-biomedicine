@@ -1,0 +1,24 @@
+Hum. Mol. Genet.
+
+Impaired DNA replication prompts deletions within palindromic sequences, but does not induce translocations in human cells.
+
+H Kurahashi, H Inagaki, T Kato, E Hosoba, H Kogo, T Ohye, M Tsutsumi, H Bolor, M Tong, BS Emanuel
+
+Palindromic regions are unstable and susceptible to deletion in prokaryotes and eukaryotes possibly due to stalled or slow replication. In the human genome, they also appear to become partially or completely deleted, while two palindromic AT-rich repeats (PATRR) contribute to known recurrent constitutional translocations. To explore the mechanism that causes the development of palindrome instabilities in humans, we compared the incidence of de novo translocations and deletions at PATRRs in human cells. Using a highly sensitive PCR assay that can detect single molecules, de novo deletions were detected neither in human somatic cells nor in sperm. However, deletions were detected at low frequency in cultured cell lines. Inhibition of DNA replication by administration of siRNA against the DNA polymerase alpha 1 (POLA1) gene or introduction of POLA inhibitors increased the frequency. This is in contrast to PATRR-mediated translocations that were never detected in similar conditions but were observed frequently in human sperm samples. Further deletions were found to take place during both leading- and lagging-strand synthesis. Our data suggest that stalled or slow replication induces deletions within PATRRs, but that other mechanisms might contribute to PATRR-mediated recurrent translocations in humans.
+
+-Cell Line
+-DNA (-genetics; -metabolism)
+-DNA Polymerase I (-genetics; -metabolism)
++DNA Replication
++Gene Deletion
+-Gene Expression Regulation
+-Humans
++Inverted Repeat Sequences
+-RNA, Small Interfering (-genetics)
+-Translocation, Genetic
+
+pii:ddp279
+doi:10.1093/hmg/ddp279
+pubmed:19520744
+pmc:PMC2729664
+

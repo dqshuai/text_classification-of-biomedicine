@@ -1,0 +1,28 @@
+Methods
+
+Constructing atomic-resolution RNA structural ensembles using MD and motionally decoupled NMR RDCs.
+
+AC Stelzer, AT Frank, MH Bailor, I Andricioaei, HM Al-Hashimi
+
+A broad structural landscape often needs to be characterized in order to fully understand how regulatory RNAs perform their biological functions at the atomic level. We present a protocol for visualizing thermally accessible RNA conformations at atomic-resolution and with timescales extending up to milliseconds. The protocol combines molecular dynamics (MD) simulations with experimental residual dipolar couplings (RDCs) measured in partially aligned (13)C/(15)N isotopically enriched elongated RNA samples. The structural ensembles generated in this manner provide insights into RNA dynamics and its role in functionally important transitions.
+
+-Base Sequence
+-Carbon Isotopes (-chemistry)
+-HIV-1 (-genetics)
+-Magnetic Resonance Spectroscopy (+methods)
+-Models, Molecular
+-Models, Statistical
+-Molecular Conformation
+-Molecular Sequence Data
+-Motion
+-Nitrogen Isotopes (-chemistry)
+-Nucleic Acid Conformation
+-RNA (+chemistry)
+-RNA, Viral (-chemistry)
+-Time Factors
+-Transcription, Genetic
+
+pii:S1046-2023(09)00201-1
+doi:10.1016/j.ymeth.2009.08.006
+pubmed:19699798
+

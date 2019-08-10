@@ -1,0 +1,31 @@
+Biochemistry
+
+Structural and functional analysis of Sulfolobus solfataricus Y-family DNA polymerase Dpo4-catalyzed bypass of the malondialdehyde-deoxyguanosine adduct.
+
+RL Eoff, JB Stafford, J Szekely, CJ Rizzo, M Egli, FP Guengerich, LJ Marnett
+
+Oxidative stress can induce the formation of reactive electrophiles, such as DNA peroxidation products, e.g., base propenals, and lipid peroxidation products, e.g., malondialdehyde. Base propenals and malondialdehyde react with DNA to form adducts, including 3-(2'-deoxy-beta-D-erythro-pentofuranosyl)pyrimido[1,2-alpha]purin-10(3H)-one (M1dG). When paired opposite cytosine in duplex DNA at physiological pH, M1dG undergoes ring opening to form N2-(3-oxo-1-propenyl)-dG (N2-OPdG). Previous work has shown that M1dG is mutagenic in bacteria and mammalian cells and that its mutagenicity in Escherichia coli is dependent on induction of the SOS response, indicating a role for translesion DNA polymerases in the bypass of M1dG. To probe the mechanism by which translesion polymerases bypass M1dG, kinetic and structural studies were conducted with a model Y-family DNA polymerase, Dpo4 from Sulfolobus solfataricus. The level of steady-state incorporation of dNTPs opposite M1dG was reduced 260-2900-fold and exhibited a preference for dATP incorporation. Liquid chromatography-tandem mass spectrometry analysis of the full-length extension products revealed a spectrum of products arising principally by incorporation of dC or dA opposite M1dG followed by partial or full-length extension. A greater proportion of -1 deletions were observed when dT was positioned 5' of M1dG. Two crystal structures were determined, including a "type II" frameshift deletion complex and another complex with Dpo4 bound to a dC.M1dG pair located in the postinsertion context. Importantly, M1dG was in the ring-closed state in both structures, and in the structure with dC opposite M1dG, the dC residue moved out of the Dpo4 active site, into the minor groove. The results are consistent with the reported mutagenicity of M1dG and illustrate how the lesion may affect replication events.
+
+-Animals
+-Archaeal Proteins (-chemistry; -genetics; +metabolism)
+-Base Sequence
+-Catalytic Domain
+-Crystallography, X-Ray
+-DNA (-chemistry)
+-DNA Adducts (-chemistry; -metabolism)
+-DNA Replication
+-DNA-Directed DNA Polymerase (+chemistry; -genetics; +metabolism)
++Deoxyguanosine (-chemistry; -metabolism)
+-Macromolecular Substances (-chemistry; -metabolism)
++Malondialdehyde (-chemistry; -metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Molecular Structure
+-Nucleic Acid Conformation
+-Protein Conformation
+-Sulfolobus solfataricus (+enzymology; -genetics)
+
+doi:10.1021/bi9003588
+pubmed:19492857
+pmc:PMC2717710
+

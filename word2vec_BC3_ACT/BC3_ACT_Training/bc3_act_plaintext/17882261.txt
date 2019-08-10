@@ -1,0 +1,29 @@
+EMBO J.
+
+Insights into histone code syntax from structural and biochemical studies of CARM1 methyltransferase.
+
+WW Yue, M Hassler, SM Roe, V Thompson-Vale, LH Pearl
+
+Coactivator-associated arginine methyltransferase (CARM1) is a transcriptional coactivator that methylates Arg17 and Arg26 in histone H3. CARM1 contains a conserved protein arginine methyltransferase (PRMT) catalytic core flanked by unique pre- and post-core regions. The crystal structures of the CARM1 catalytic core in the apo and holo states reveal cofactor-dependent formation of a substrate-binding groove providing a specific access channel for arginine to the active site. The groove is supported by the first eight residues of the post-core region (C-extension), not present in other PRMTs. In vitro methylation assays show that the C-extension is essential for all histone H3 methylation activity, whereas the pre-core region is required for methylation of Arg26, but not Arg17. Kinetic analysis shows Arg17 methylation is potentiated by pre-acetylation of Lys18, and this is reflected in k(cat) rather than K(m). Together with the absence of specificity subsites in the structure, this suggests an electrostatic sensing mechanism for communicating the modification status of vicinal residues as part of the syntax of the 'histone code.'
+
+-Amino Acid Sequence
+-Animals
+-Arginine (-chemistry)
+-Binding Sites
+-Crystallization
+-Crystallography, X-Ray
+-Histones (+chemistry)
+-Mice
+-Molecular Sequence Data
+-Protein Binding
+-Protein Structure, Secondary
+-Protein Structure, Tertiary
+-Protein-Arginine N-Methyltransferases (+chemistry)
+-Rats
+-Sequence Homology, Amino Acid
+
+pii:7601856
+doi:10.1038/sj.emboj.7601856
+pubmed:17882261
+pmc:PMC2034666
+

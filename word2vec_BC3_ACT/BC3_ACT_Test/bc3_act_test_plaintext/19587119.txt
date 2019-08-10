@@ -1,0 +1,26 @@
+Mol. Biol. Cell
+
+Divergent S phase checkpoint activation arising from prereplicative complex deficiency controls cell survival.
+
+E Lau, GG Chiang, RT Abraham, W Jiang
+
+The DNA replication machinery plays additional roles in S phase checkpoint control, although the identities of the replication proteins involved in checkpoint activation remain elusive. Here, we report that depletion of the prereplicative complex (pre-RC) protein Cdc6 causes human nontransformed diploid cells to arrest nonlethally in G1-G1/S and S phase, whereas multiple cancer cell lines undergo G1-G1/S arrest and cell death. These divergent phenotypes are dependent on the activation, or lack thereof, of an ataxia telangiectasia and Rad3-related (ATR)-dependent S phase checkpoint that inhibits replication fork progression. Although pre-RC deficiency induces chromatin structural alterations in both nontransformed and cancer cells that normally lead to ATR checkpoint activation, the sensor mechanisms in cancer cells seem to be compromised such that higher levels of DNA replication stress/damage are required to trigger checkpoint response. Our results suggest that therapy-induced disruption of pre-RC function might exert selective cytotoxic effects on tumor cells in human patients.
+
+-Aphidicolin (-metabolism)
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Cell Death (-physiology)
+-Cell Line, Tumor
++Cell Survival
+-Chromosomal Proteins, Non-Histone (-genetics; -metabolism)
++DNA Replication
+-Humans
+-Nuclear Proteins (-genetics; -metabolism)
+-Protein-Serine-Threonine Kinases (-genetics; -metabolism)
+-RNA, Small Interfering (-genetics; -metabolism)
+-S Phase (+physiology)
+
+pii:E09-01-0022
+doi:10.1091/mbc.E09-01-0022
+pubmed:19587119
+pmc:PMC2735493
+

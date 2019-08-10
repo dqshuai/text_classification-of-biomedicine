@@ -1,0 +1,25 @@
+J. Virol.
+
+Analysis of the kinetics of transcription and replication of the rotavirus genome by RNA interference.
+
+C Ayala-Breton, M Arias, R Espinosa, P Romero, CF Arias, S López
+
+Rotaviruses have a genome composed of 11 segments of double-stranded RNA (dsRNA) surrounded by three protein layers. The virus contains an RNA-dependent RNA polymerase that synthesizes RNA transcripts corresponding to all segments of the viral genome. These transcripts direct the synthesis of the viral proteins and also serve as templates for the synthesis of the complementary strand to form the dsRNA genome. In this work, we analyzed the kinetics of transcription and replication of the viral genome throughout the replication cycle of the virus using quantitative reverse transcription-PCR. The role of the proteins that form double-layered particles ([DLPs] VP1, VP2, VP3, and VP6) in replication and transcription of the viral genome was analyzed by silencing their expression in rotavirus-infected cells. All of them were shown to be essential for the replication of the dsRNA genome since in their absence there was little synthesis of viral mRNA and dsRNA. The characterization of the kinetics of RNA transcription and replication of the viral genome under conditions where these proteins were silenced provided direct evidence for a second round of transcription during the replication of the virus. Interestingly, despite the decrease in mRNA accumulation when any of the four proteins was silenced, the synthesis of viral proteins decreased when VP2 and VP6 were knocked down, whereas the absence of VP1 and VP3 did not have a severe impact on viral protein synthesis. Characterization of viral particle assembly in the absence of VP1 and VP3 showed that while the formation of triple-layered particles and DLPs was decreased, the amount of assembled lower-density particles, often referred to as empty particles, was not different from the amount in control-infected cells, suggesting that viral particles can assemble in the absence of either VP1 or VP3.
+
+-Gene Knockdown Techniques (-methods)
+-Kinetics
+-RNA Interference
+-RNA, Double-Stranded (-biosynthesis)
+-RNA, Viral (+biosynthesis)
+-Reverse Transcriptase Polymerase Chain Reaction (-methods)
+-Rotavirus (+physiology)
++Transcription, Genetic
+-Viral Structural Proteins (-antagonists & inhibitors; -metabolism)
+-Virus Assembly
++Virus Replication
+
+pii:JVI.02308-08
+doi:10.1128/JVI.02308-08
+pubmed:19553303
+pmc:PMC2738170
+

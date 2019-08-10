@@ -1,0 +1,24 @@
+PLoS ONE
+
+Regulation of ErbB2 receptor status by the proteasomal DUB POH1.
+
+H Liu, R Buus, MJ Clague, S Urbé
+
+Understanding the factors, which control ErbB2 and EGF receptor (EGFR) status in cells is likely to inform future therapeutic approaches directed at these potent oncogenes. ErbB2 is resistant to stimulus-induced degradation and high levels of over-expression can inhibit EGF receptor down-regulation. We now show that for HeLa cells expressing similar numbers of EGFR and ErbB2, EGFR down-regulation is efficient and insensitive to reduction of ErbB2 levels. Deubiquitinating enzymes (DUBs) may extend protein half-lives by rescuing ubiquitinated substrates from proteasomal degradation or from ubiquitin-dependent lysosomal sorting. Using a siRNA library directed at the full complement of human DUBs, we identified POH1 (also known as Rpn11 or PSMD14), a component of the proteasome lid, as a critical DUB controlling the apparent ErbB2 levels. Moreover, the effects on ErbB2 levels can be reproduced by administration of proteasomal inhibitors such as epoxomicin used at maximally tolerated doses. However, the extent of this apparent loss and specificity for ErbB2 versus EGFR could not be accounted for by changes in transcription or degradation rate. Further investigation revealed that cell surface ErbB2 levels are only mildly affected by POH1 knock-down and that the apparent loss can at least partially be explained by the accumulation of higher molecular weight ubiquitinated forms of ErbB2 that are detectable with an extracellular but not intracellular domain directed antibody. We propose that POH1 may deubiquitinate ErbB2 and that this activity is not necessarily coupled to proteasomal degradation.
+
+-Catalysis
+-Cells, Cultured
+-Down-Regulation
+-Flow Cytometry
+-Hela Cells
+-Humans
+-Proteasome Endopeptidase Complex (+metabolism)
+-RNA, Small Interfering (-genetics; -metabolism)
+-Receptor, erbB-2 (-genetics; +metabolism)
+-Trans-Activators (-genetics; +metabolism)
+-Ubiquitin (-metabolism)
+
+doi:10.1371/journal.pone.0005544
+pubmed:19436748
+pmc:PMC2677670
+

@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+A novel "four-component" two-component signal transduction mechanism regulates developmental progression in Myxococcus xanthus.
+
+S Jagadeesan, P Mann, CW Schink, PI Higgs
+
+Histidine-aspartate phosphorelays are employed by two-component signal transduction family proteins to mediate responses to specific signals or stimuli in microorganisms and plants. The RedCDEF proteins constitute a novel signaling system in which four two-component proteins comprising a histidine kinase, a histidine-kinase like protein, and two response regulators function together to regulate progression through the elaborate developmental program of Myxococcus xanthus. A combination of in vivo phenotypic analyses of in-frame deletions and non-functional point mutations in each gene as well as in vitro autophosphorylation and phosphotransfer analyses of recombinant proteins indicate that the RedC histidine kinase protein autophosphorylates and donates a phosphoryl group to the single domain response regulator, RedF, to repress progression through the developmental program. To relieve this developmental repression, RedC instead phosphorylates RedD, a dual receiver response regulator protein. Surprisingly, RedD transfers the phosphoryl group to the histidine kinase-like protein RedE, which itself appears to be incapable of autophosphorylation. Phosphorylation of RedE may render RedE accessible to RedF, where it removes the phosphoryl group from RedF-P, which is otherwise an unusually stable phosphoprotein. These analyses reveal a novel "four-component" signaling mechanism that has probably arisen to temporally coordinate signals controlling the developmental program in M. xanthus. The RedCDEF signaling system provides an important example of how the inherent plasticity and modularity of the basic two-component signaling domains comprise a highly adaptable framework well suited to expansion into complex signaling mechanisms.
+
+-Bacterial Proteins (-metabolism)
+-Cell Membrane (-metabolism)
+-Cloning, Molecular
+-Codon
+-Gene Deletion
++Gene Expression Regulation, Bacterial
+-Models, Biological
+-Mutation
+-Myxococcus xanthus (+metabolism)
+-Phosphorylation
+-Protein Kinases (-chemistry)
+-Recombinant Proteins (-chemistry)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Signal Transduction
+-Time Factors
+
+pii:M109.033415
+doi:10.1074/jbc.M109.033415
+pubmed:19535336
+pmc:PMC2755868
+

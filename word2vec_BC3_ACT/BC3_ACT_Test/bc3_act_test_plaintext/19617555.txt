@@ -1,0 +1,19 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Scaling laws of human interaction activity.
+
+D Rybski, SV Buldyrev, S Havlin, F Liljeros, HA Makse
+
+Even though people in our contemporary technological society are depending on communication, our understanding of the underlying laws of human communicational behavior continues to be poorly understood. Here we investigate the communication patterns in 2 social Internet communities in search of statistical laws in human interaction activity. This research reveals that human communication networks dynamically follow scaling laws that may also explain the observed trends in economic growth. Specifically, we identify a generalized version of Gibrat's law of social activity expressed as a scaling law between the fluctuations in the number of messages sent by members and their level of activity. Gibrat's law has been essential in understanding economic growth patterns, yet without an underlying general principle for its origin. We attribute this scaling law to long-term correlation patterns in human activity, which surprisingly span from days to the entire period of the available data of more than 1 year. Further, we provide a mathematical framework that relates the generalized version of Gibrat's law to the long-term correlated dynamics, which suggests that the same underlying mechanism could be the source of Gibrat's law in economics, ranging from large firms, research and development expenditures, gross domestic product of countries, to city population growth. These findings are also of importance for designing communication networks and for the understanding of the dynamics of social systems in which communication plays a role, such as economic markets and political systems.
+
++Communication
+-Humans
+-Internet
++Interpersonal Relations
+-Social Support
+
+pii:0902667106
+doi:10.1073/pnas.0902667106
+pubmed:19617555
+pmc:PMC2722366
+

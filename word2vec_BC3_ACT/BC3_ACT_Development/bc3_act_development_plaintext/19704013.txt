@@ -1,0 +1,31 @@
+Genetics
+
+The accuracy of Genomic Selection in Norwegian red cattle assessed by cross-validation.
+
+T Luan, JA Woolliams, S Lien, M Kent, M Svendsen, TH Meuwissen
+
+Genomic Selection (GS) is a newly developed tool for the estimation of breeding values for quantitative traits through the use of dense markers covering the whole genome. For a successful application of GS, accuracy of the prediction of genomewide breeding value (GW-EBV) is a key issue to consider. Here we investigated the accuracy and possible bias of GW-EBV prediction, using real bovine SNP genotyping (18,991 SNPs) and phenotypic data of 500 Norwegian Red bulls. The study was performed on milk yield, fat yield, protein yield, first lactation mastitis traits, and calving ease. Three methods, best linear unbiased prediction (G-BLUP), Bayesian statistics (BayesB), and a mixture model approach (MIXTURE), were used to estimate marker effects, and their accuracy and bias were estimated by using cross-validation. The accuracies of the GW-EBV prediction were found to vary widely between 0.12 and 0.62. G-BLUP gave overall the highest accuracy. We observed a strong relationship between the accuracy of the prediction and the heritability of the trait. GW-EBV prediction for production traits with high heritability achieved higher accuracy and also lower bias than health traits with low heritability. To achieve a similar accuracy for the health traits probably more records will be needed.
+
+-Algorithms
+-Animal Husbandry (-methods)
+-Animals
+-Bayes Theorem
+-Breeding (+methods)
+-Cattle (+genetics; -metabolism)
+-Female
+-Genome (+genetics)
+-Genome-Wide Association Study
+-Genotype
+-Male
+-Milk (-metabolism; -standards)
+-Norway
+-Polymorphism, Single Nucleotide (-genetics)
+-Quantitative Trait Loci (-genetics)
+-Reproducibility of Results
++Selection, Genetic
+
+pii:genetics.109.107391
+doi:10.1534/genetics.109.107391
+pubmed:19704013
+pmc:PMC2778964
+

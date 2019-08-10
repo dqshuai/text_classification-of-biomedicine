@@ -1,0 +1,21 @@
+Eukaryotic Cell
+
+Glycerol-3-phosphate acyltransferases gat1p and gat2p are microsomal phosphoproteins with differential contributions to polarized cell growth.
+
+MW Bratschi, DP Burrowes, A Kulaga, JF Cheung, AL Alvarez, J Kearley, V Zaremberg
+
+Glycerol-3-phosphate acyltransferase (GPAT) catalyzes the initial step in the synthesis of all glycerolipids. It is the committed and rate-limiting step and is redundant in Saccharomyces cerevisiae, mammals, and plants. GPAT controls the formation of lipid intermediates that serve not only as precursors of more-complex lipids but also as intracellular signaling molecules. Saccharomyces cerevisiae possesses two GPATs, encoded by the GAT1 and GAT2 genes. Metabolic analysis of yeast lacking either GAT1 or GAT2 indicated partitioning of the two main branches of phospholipid synthesis at the initial and rate-limiting GPAT step. We are particularly interested in identifying molecular determinants mediating lipid metabolic pathway partitioning; therefore, as a starting point, we have performed a detailed study of Gat1p and Gat2p cellular localization. We have compared Gat1p and Gat2p localization by fluorescence microscopy and subcellular fractionation using equilibrium density gradients. Our results indicate Gat1p and Gat2p overlap mostly in their localization and are in fact microsomal GPATs, localized to both perinuclear and cortical endoplasmic reticula in actively proliferating cells. A more detailed analysis suggests a differential enrichment of Gat1p and Gat2p in distinct ER fractions. Furthermore, overexpression of these enzymes in the absence of endogenous GPATs induces proliferation of distinct ER arrays, differentially affecting cortical ER morphology and polarized cell growth. In addition, our studies also uncovered a dynamic posttranslational regulation of Gat1p and Gat2p and a compensation mechanism through phosphorylation that responds to a cellular GPAT imbalance.
+
++Cell Polarity
+-Glycerol-3-Phosphate O-Acyltransferase (-genetics; +metabolism)
+-Microsomes (+enzymology)
+-Phosphoproteins (-genetics; +metabolism)
+-Protein Transport
+-Saccharomyces cerevisiae (+enzymology; -genetics; +growth & development; -physiology)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+
+pii:EC.00085-09
+doi:10.1128/EC.00085-09
+pubmed:19525420
+pmc:PMC2725570
+

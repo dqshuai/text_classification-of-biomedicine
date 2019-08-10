@@ -1,0 +1,32 @@
+J. Virol.
+
+Mutagenesis of varicella-zoster virus glycoprotein B: putative fusion loop residues are essential for viral replication, and the furin cleavage motif contributes to pathogenesis in skin tissue in vivo.
+
+SL Oliver, M Sommer, L Zerboni, J Rajamani, C Grose, AM Arvin
+
+Glycoprotein B (gB), the most conserved protein in the family Herpesviridae, is essential for the fusion of viral and cellular membranes. Information about varicella-zoster virus (VZV) gB is limited, but homology modeling showed that the structure of VZV gB was similar to that of herpes simplex virus (HSV) gB, including the putative fusion loops. In contrast to HSV gB, VZV gB had a furin recognition motif ([R]-X-[KR]-R-|-X, where | indicates the position at which the polypeptide is cleaved) at residues 491 to 494, thought to be required for gB cleavage into two polypeptides. To investigate their contribution, the putative primary fusion loop or the furin recognition motif was mutated in expression constructs and in the context of the VZV genome. Substitutions in the primary loop, W180G and Y185G, plus the deletion mutation Delta491RSRR494 and point mutation 491GSGG494 in the furin recognition motif did not affect gB expression or cellular localization in transfected cells. Infectious VZV was recovered from parental Oka (pOka)-bacterial artificial chromosomes that had either the Delta491RSRR494 or 491GSGG494 mutation but not the point mutations W180G and Y185G, demonstrating that residues in the primary loop of gB were essential but gB cleavage was not required for VZV replication in vitro. Virion morphology, protein localization, plaque size, and replication were unaffected for the pOka-gBDelta491RSRR494 or pOka-gB491GSGG494 virus compared to pOka in vitro. However, deletion of the furin recognition motif caused attenuation of VZV replication in human skin xenografts in vivo. This is the first evidence that cleavage of a herpesvirus fusion protein contributes to viral pathogenesis in vivo, as seen for fusion proteins in other virus families.
+
+-Amino Acid Motifs
+-Amino Acid Sequence
+-Animals
+-Cell Line, Tumor
+-Chickenpox (-metabolism; -pathology; +virology)
+-Furin (+metabolism)
+-Herpesvirus 3, Human (-chemistry; -genetics; +pathogenicity; -physiology)
+-Humans
+-Mice
+-Mice, SCID
+-Molecular Sequence Data
++Mutagenesis
+-Mutation
+-Protein Binding
+-Sequence Alignment
+-Skin (-metabolism; -pathology; +virology)
+-Viral Envelope Proteins (-chemistry; +genetics; -metabolism)
++Virus Replication
+
+pii:JVI.00400-09
+doi:10.1128/JVI.00400-09
+pubmed:19474103
+pmc:PMC2708640
+

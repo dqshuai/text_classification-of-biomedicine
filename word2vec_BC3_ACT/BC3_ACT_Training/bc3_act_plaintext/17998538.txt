@@ -1,0 +1,28 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+B1500, a small membrane protein, connects the two-component systems EvgS/EvgA and PhoQ/PhoP in Escherichia coli.
+
+Y Eguchi, J Itou, M Yamane, R Demizu, F Yamato, A Okada, H Mori, A Kato, R Utsumi
+
+Two-component signal-transduction systems (TCSs) of bacteria are considered to form an intricate signal network to cope with various environmental stresses. One example of such a network in Escherichia coli is the signal transduction cascade from the EvgS/EvgA system to the PhoQ/PhoP system, where activation of the EvgS/EvgA system promotes expression of PhoP-activated genes. As a factor connecting this signal transduction cascade, we have identified a small inner membrane protein (65 aa), B1500. Expression of the b1500 gene is directly regulated by the EvgS/EvgA system, and b1500 expression from a heterologous promoter simultaneously activated the expression of mgtA and other PhoP regulon genes. This activation was PhoQ/PhoP-dependent and EvgS/EvgA-independent. Furthermore, deletion of b1500 from an EvgS-activated strain suppressed mgtA expression. B1500 is localized in the inner membrane, and bacterial two-hybrid data showed that B1500 formed a complex with the sensor PhoQ. These results indicate that the small membrane protein, B1500, connected the signal transduction between EvgS/EvgA and PhoQ/PhoP systems by directly interacting with PhoQ, thus activating the PhoQ/PhoP system.
+
+-Amino Acid Sequence
+-Bacterial Proteins (-genetics; +metabolism)
+-Base Sequence
+-Cell Membrane (+metabolism)
+-Cloning, Molecular
+-Escherichia coli
+-Escherichia coli Proteins (-genetics; +metabolism)
+-Gene Expression Regulation, Bacterial
+-Membrane Proteins (-genetics; +metabolism)
+-Molecular Sequence Data
+-Protein Binding
+-Protein Kinases (-genetics; +metabolism)
+-Signal Transduction
+-Transcription Factors (-genetics; +metabolism)
+
+pii:0705768104
+doi:10.1073/pnas.0705768104
+pubmed:17998538
+pmc:PMC2141842
+

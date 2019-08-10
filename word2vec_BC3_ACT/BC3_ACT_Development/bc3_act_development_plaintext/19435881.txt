@@ -1,0 +1,26 @@
+Nucleic Acids Res.
+
+Intra- and inter-molecular recombination of mitochondrial DNA after in vivo induction of multiple double-strand breaks.
+
+SR Bacman, SL Williams, CT Moraes
+
+To investigate mtDNA recombination induced by multiple double strand breaks (DSBs) we used a mitochondria-targeted form of the ScaI restriction endonuclease to introduce DSBs in heteroplasmic mice and cells in which we were able to utilize haplotype differences to trace the origin of recombined molecules. ScaI cleaves multiple sites in each haplotype of the heteroplasmic mice (five in NZB and three in BALB mtDNA) and prolonged expression causes severe mtDNA depletion. After a short pulse of restriction enzyme expression followed by a long period of recovery, mitochondrial genomes with large deletions were detected by PCR. Curiously, we found that some ScaI sites were more commonly involved in recombined molecules than others. In intra-molecular recombination events, deletion breakpoints were close to or upstream of ScaI cleavage sites, confirming the recombinogenic character of DSBs in mtDNA. A region adjacent to the D-loop was preferentially involved in recombination of all molecules. Sequencing through NZB and BALB haplotype markers in recombined molecules enabled us to show that in addition to intra-molecular mtDNA recombination, rare inter-molecular mtDNA recombination events can also occur. This study underscores the role of DSBs in the generation of mtDNA rearrangements and supports the existence of recombination hotspots.
+
+-Animals
+-Cell Line
++DNA Breaks, Double-Stranded
++DNA Repair
+-DNA, Mitochondrial (-analysis; +chemistry)
+-Deoxyribonucleases, Type II Site-Specific (-genetics; -metabolism)
+-Haplotypes
+-Hepatocytes (-chemistry)
+-Mice
+-Mitochondria, Liver (-enzymology)
+-Polymerase Chain Reaction
++Recombination, Genetic
+
+pii:gkp348
+doi:10.1093/nar/gkp348
+pubmed:19435881
+pmc:PMC2715231
+

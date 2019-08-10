@@ -1,0 +1,24 @@
+J. Bacteriol.
+
+A new member of the Escherichia coli fad regulon: transcriptional regulation of fadM (ybaW).
+
+Y Feng, JE Cronan
+
+Recently, Nie and coworkers (L. Nie, Y. Ren, A. Janakiraman, S. Smith, and H. Schulz, Biochemistry 47:9618-9626, 2008) reported a new Escherichia coli thioesterase encoded by the ybaW gene that cleaves the thioester bonds of inhibitory acyl-coenzyme A (CoA) by-products generated during beta-oxidation of certain unsaturated fatty acids. These authors suggested that ybaW expression might be regulated by FadR, the repressor of the fad (fatty acid degradation) regulon. We report mapping of the ybaW promoter and show that ybaW transcription responded to FadR in vivo. Moreover, purified FadR bound to a DNA sequence similar to the canonical FadR binding site located upstream of the ybaW coding sequence and was released from the promoter upon the addition of long-chain acyl-CoA thioesters. We therefore propose the designation fadM in place of ybaW. Although FadR regulation of fadM expression had the pattern typical of fad regulon genes, its modulation by the cyclic AMP (cAMP) receptor protein-cAMP complex (CRP-cAMP) global regulator was the opposite of that normally observed. CRP-cAMP generally acts as an activator of fad gene expression, consistent with the low status of fatty acids as carbon sources. However, glucose growth stimulated fadM expression relative to acetate growth, as did inactivation of CRP-cAMP, indicating that the complex acts as a negative regulator of this gene. The stimulation of fadM expression seen upon deletion of the gene encoding adenylate cyclase (Deltacya) was reversed by supplementation of the growth medium with cAMP. Nie and coworkers also reported that growth on a conjugated linoleic acid isomer yields much higher levels of FadM thioesterase activity than does growth on oleic acid. In contrast, we found that the conjugated linoleic acid isomer was only a weak inducer of fadM expression. Although the gene is not essential for growth, the high basal level of fadM expression under diverse growth conditions suggests that the encoded thioesterase has functions in addition to beta-oxidation.
+
+-Bacterial Proteins (-genetics; -metabolism)
+-Base Sequence
+-Escherichia coli (-genetics; +metabolism)
+-Escherichia coli Proteins (-genetics; +metabolism)
+-Gene Expression Regulation, Bacterial (+physiology)
+-Molecular Sequence Data
+-Regulon
+-Repressor Proteins (-genetics; -metabolism)
+-Thiolester Hydrolases (-genetics; +metabolism)
+-Transcription, Genetic
+
+pii:JB.00835-09
+doi:10.1128/JB.00835-09
+pubmed:19684132
+pmc:PMC2753046
+

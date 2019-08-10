@@ -1,0 +1,29 @@
+Mol. Syst. Biol.
+
+Network-assisted protein identification and data interpretation in shotgun proteomics.
+
+J Li, LJ Zimmerman, BH Park, DL Tabb, DC Liebler, B Zhang
+
+Protein assembly and biological interpretation of the assembled protein lists are critical steps in shotgun proteomics data analysis. Although most biological functions arise from interactions among proteins, current protein assembly pipelines treat proteins as independent entities. Usually, only individual proteins with strong experimental evidence, that is, confident proteins, are reported, whereas many possible proteins of biological interest are eliminated. We have developed a clique-enrichment approach (CEA) to rescue eliminated proteins by incorporating the relationship among proteins as embedded in a protein interaction network. In several data sets tested, CEA increased protein identification by 8-23% with an estimated accuracy of 85%. Rescued proteins were supported by existing literature or transcriptome profiling studies at similar levels as confident proteins and at a significantly higher level than abandoned ones. Applying CEA on a breast cancer data set, rescued proteins coded by well-known breast cancer genes. In addition, CEA generated a network view of the proteins and helped show the modular organization of proteins that may underpin the molecular mechanisms of the disease.
+
+-Algorithms
+-Animals
+-Breast Neoplasms (+metabolism)
+-Computational Biology (-methods)
+-Databases, Genetic
+-Fungal Proteins (-genetics)
++Gene Expression Regulation, Neoplastic
+-Genome, Fungal
+-Humans
+-Peptides (-chemistry)
+-Protein Binding
+-Protein Interaction Mapping
+-Proteomics (+methods)
+-Software
+-Systems Biology
+
+pii:msb200954
+doi:10.1038/msb.2009.54
+pubmed:19690572
+pmc:PMC2736651
+

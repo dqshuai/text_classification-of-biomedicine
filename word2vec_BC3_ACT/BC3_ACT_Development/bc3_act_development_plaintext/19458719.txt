@@ -1,0 +1,13 @@
+Nature
+
+Five-dimensional optical recording mediated by surface plasmons in gold nanorods.
+
+P Zijlstra, JW Chon, M Gu
+
+Multiplexed optical recording provides an unparalleled approach to increasing the information density beyond 10(12) bits per cm(3) (1 Tbit cm(-3)) by storing multiple, individually addressable patterns within the same recording volume. Although wavelength, polarization and spatial dimensions have all been exploited for multiplexing, these approaches have never been integrated into a single technique that could ultimately increase the information capacity by orders of magnitude. The major hurdle is the lack of a suitable recording medium that is extremely selective in the domains of wavelength and polarization and in the three spatial domains, so as to provide orthogonality in all five dimensions. Here we show true five-dimensional optical recording by exploiting the unique properties of the longitudinal surface plasmon resonance (SPR) of gold nanorods. The longitudinal SPR exhibits an excellent wavelength and polarization sensitivity, whereas the distinct energy threshold required for the photothermal recording mechanism provides the axial selectivity. The recordings were detected using longitudinal SPR-mediated two-photon luminescence, which we demonstrate to possess an enhanced wavelength and angular selectivity compared to conventional linear detection mechanisms. Combined with the high cross-section of two-photon luminescence, this enabled non-destructive, crosstalk-free readout. This technique can be immediately applied to optical patterning, encryption and data storage, where higher data densities are pursued.
+
+
+pii:nature08053
+doi:10.1038/nature08053
+pubmed:19458719
+

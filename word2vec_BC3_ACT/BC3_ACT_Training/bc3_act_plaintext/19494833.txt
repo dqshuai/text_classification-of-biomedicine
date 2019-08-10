@@ -1,0 +1,29 @@
+EMBO J.
+
+The fungal RNA-binding protein Rrm4 mediates long-distance transport of ubi1 and rho3 mRNAs.
+
+J König, S Baumann, J Koepke, T Pohlmann, K Zarnack, M Feldbrügge
+
+Cytoskeletal transport promotes polar growth in filamentous fungi. In Ustilago maydis, the RNA-binding protein Rrm4 shuttles along microtubules and is crucial for polarity in infectious filaments. Mutations in the RNA-binding domain cause loss of function. However, it was unclear which RNAs are bound and transported. Here, we applied in vivo RNA binding studies and live imaging to determine the molecular function of Rrm4. This new combination revealed that Rrm4 mediates microtubule-dependent transport of distinct mRNAs encoding, for example, the ubiquitin fusion protein Ubi1 and the small G protein Rho3. These transcripts accumulate in ribonucleoprotein particles (mRNPs) that move bidirectionally along microtubules and co-localise with Rrm4. Importantly, the 3' untranslated region of ubi1 containing a CA-rich binding site functions as zipcode during mRNA transport. Furthermore, motile mRNPs are not formed when the RNA-binding domain of Rrm4 is deleted, although the protein is still shuttling. Thus, Rrm4 constitutes an integral component of the transport machinery. We propose that microtubule-dependent mRNP trafficking is crucial for hyphal growth introducing U. maydis as attractive model for studying mRNA transport in higher eukaryotes.
+
+-Base Sequence
+-Binding Sites
+-Cloning, Molecular
+-Cytoskeleton (-metabolism)
+-Escherichia coli K12 (-genetics)
+-Fungal Proteins (-analysis; +metabolism)
+-Microtubules (+metabolism)
+-Molecular Sequence Data
+-Mutation
++RNA Transport
+-RNA, Messenger (-analysis; -genetics; +metabolism)
+-RNA-Binding Proteins (-analysis; -genetics; +metabolism)
+-Ubiquitin (-genetics)
+-Ustilago (-genetics; +metabolism)
+-rho GTP-Binding Proteins (-genetics)
+
+pii:emboj2009145
+doi:10.1038/emboj.2009.145
+pubmed:19494833
+pmc:PMC2711182
+

@@ -1,0 +1,28 @@
+Nat. Biotechnol.
+
+Efficient targeting of expressed and silent genes in human ESCs and iPSCs using zinc-finger nucleases.
+
+D Hockemeyer, F Soldner, C Beard, Q Gao, M Mitalipova, RC DeKelver, GE Katibah, R Amora, EA Boydston, B Zeitler, X Meng, JC Miller, L Zhang, EJ Rebar, PD Gregory, FD Urnov, R Jaenisch
+
+Realizing the full potential of human embryonic stem cells (hESCs) and induced pluripotent stem cells (hiPSCs) requires efficient methods for genetic modification. However, techniques to generate cell type-specific lineage reporters, as well as reliable tools to disrupt, repair or overexpress genes by gene targeting, are inefficient at best and thus are not routinely used. Here we report the highly efficient targeting of three genes in human pluripotent cells using zinc-finger nuclease (ZFN)-mediated genome editing. First, using ZFNs specific for the OCT4 (POU5F1) locus, we generated OCT4-eGFP reporter cells to monitor the pluripotent state of hESCs. Second, we inserted a transgene into the AAVS1 locus to generate a robust drug-inducible overexpression system in hESCs. Finally, we targeted the PITX3 gene, demonstrating that ZFNs can be used to generate reporter cells by targeting non-expressed genes in hESCs and hiPSCs.
+
+-Cell Line
+-Deoxyribonucleases (-genetics; +metabolism)
+-Embryonic Stem Cells (+physiology)
+-Gene Expression
+-Gene Silencing
+-Gene Targeting (+methods)
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Homeodomain Proteins (-genetics; -metabolism)
+-Humans
+-Immunohistochemistry
+-Octamer Transcription Factor-3 (-genetics; -metabolism)
+-Pluripotent Stem Cells (+physiology)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Transcription Factors (-genetics; -metabolism)
+-Zinc Fingers (+physiology)
+
+pii:nbt.1562
+doi:10.1038/nbt.1562
+pubmed:19680244
+

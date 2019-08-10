@@ -1,0 +1,24 @@
+Genetics
+
+Frequency spectrum neutrality tests: one for all and all for one.
+
+G Achaz
+
+Neutrality tests based on the frequency spectrum (e.g., Tajima's D or Fu and Li's F) are commonly used by population geneticists as routine tests to assess the goodness-of-fit of the standard neutral model on their data sets. Here, I show that these neutrality tests are specific instances of a general model that encompasses them all. I illustrate how this general framework can be taken advantage of to devise new more powerful tests that better detect deviations from the standard model. Finally, I exemplify the usefulness of the framework on SNP data by showing how it supports the selection hypothesis in the lactase human gene by overcoming the ascertainment bias. The framework presented here paves the way for constructing novel tests optimized for specific violations of the standard model that ultimately will help to unravel scenarios of evolution.
+
+-Bias (Epidemiology)
+-Computer Simulation
+-Gene Frequency
++Genetic Drift
+-Genetic Variation (-physiology)
+-Genetics, Population (+methods)
+-Humans
+-Lactase (-genetics)
++Models, Genetic
+-Polymorphism, Single Nucleotide
+
+pii:genetics.109.104042
+doi:10.1534/genetics.109.104042
+pubmed:19546320
+pmc:PMC2746149
+

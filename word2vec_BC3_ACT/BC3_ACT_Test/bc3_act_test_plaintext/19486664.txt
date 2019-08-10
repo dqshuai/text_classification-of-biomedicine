@@ -1,0 +1,31 @@
+Biophys. J.
+
+Reconstruction and stability of secondary structure elements in the context of protein structure prediction.
+
+AA Podtelezhnikov, DL Wild
+
+Efficient and accurate reconstruction of secondary structure elements in the context of protein structure prediction is the major focus of this work. We present a novel approach capable of reconstructing alpha-helices and beta-sheets in atomic detail. The method is based on Metropolis Monte Carlo simulations in a force field of empirical potentials that are designed to stabilize secondary structure elements in room-temperature simulations. Particular attention is paid to lateral side-chain interactions in beta-sheets and between the turns of alpha-helices, as well as backbone hydrogen bonding. The force constants are optimized using contrastive divergence, a novel machine learning technique, from a data set of known structures. Using this approach, we demonstrate the applicability of the framework to the problem of reconstructing the overall protein fold for a number of commonly studied small proteins, based on only predicted secondary structure and contact map. For protein G and chymotrypsin inhibitor 2, we are able to reconstruct the secondary structure elements in atomic detail and the overall protein folds with a root mean-square deviation of <10 A. For cold-shock protein and the SH3 domain, we accurately reproduce the secondary structure elements and the topology of the 5-stranded beta-sheets, but not the barrel structure. The importance of high-quality secondary structure and contact map prediction is discussed.
+
+-Algorithms
+-Artificial Intelligence
+-Bacterial Proteins (-chemistry)
+-Computer Simulation
+-Escherichia coli
+-Hydrogen Bonding
++Models, Chemical
+-Models, Molecular
+-Monte Carlo Method
+-Nerve Tissue Proteins (-chemistry)
+-Peptides (-chemistry)
+-Plant Proteins (-chemistry)
++Protein Stability
++Protein Structure, Secondary
+-Temperature
+-src Homology Domains
+-src-Family Kinases (-chemistry)
+
+pii:S0006-3495(09)00673-0
+doi:10.1016/j.bpj.2009.02.057
+pubmed:19486664
+pmc:PMC2711490
+

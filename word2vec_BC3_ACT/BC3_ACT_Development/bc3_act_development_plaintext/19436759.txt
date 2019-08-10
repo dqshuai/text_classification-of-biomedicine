@@ -1,0 +1,24 @@
+PLoS ONE
+
+Characterizing structural transitions using localized free energy landscape analysis.
+
+NK Banavali, AD Mackerell
+
+BACKGROUND: Structural changes in molecules are frequently observed during biological processes like replication, transcription and translation. These structural changes can usually be traced to specific distortions in the backbones of the macromolecules involved. Quantitative energetic characterization of such distortions can greatly advance the atomic-level understanding of the dynamic character of these biological processes. METHODOLOGY/PRINCIPAL FINDINGS: Molecular dynamics simulations combined with a variation of the Weighted Histogram Analysis Method for potential of mean force determination are applied to characterize localized structural changes for the test case of cytosine (underlined) base flipping in a GTCAGCGCATGG DNA duplex. Free energy landscapes for backbone torsion and sugar pucker degrees of freedom in the DNA are used to understand their behavior in response to the base flipping perturbation. By simplifying the base flipping structural change into a two-state model, a free energy difference of upto 14 kcal/mol can be attributed to the flipped state relative to the stacked Watson-Crick base paired state. This two-state classification allows precise evaluation of the effect of base flipping on local backbone degrees of freedom. CONCLUSIONS/SIGNIFICANCE: The calculated free energy landscapes of individual backbone and sugar degrees of freedom expectedly show the greatest change in the vicinity of the flipping base itself, but specific delocalized effects can be discerned upto four nucleotide positions away in both 5' and 3' directions. Free energy landscape analysis thus provides a quantitative method to pinpoint the determinants of structural change on the atomic scale and also delineate the extent of propagation of the perturbation along the molecule. In addition to nucleic acids, this methodology is anticipated to be useful for studying conformational changes in all macromolecules, including carbohydrates, lipids, and proteins.
+
+-Base Pairing
+-Base Sequence
+-Binding Sites
+-Computer Simulation
+-DNA (+chemistry; -metabolism)
+-DNA Replication
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-Nucleotides (-chemistry; -metabolism)
+-Structure-Activity Relationship
++Thermodynamics
+
+doi:10.1371/journal.pone.0005525
+pubmed:19436759
+pmc:PMC2678196
+

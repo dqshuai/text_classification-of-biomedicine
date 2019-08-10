@@ -1,0 +1,23 @@
+PLoS Comput. Biol.
+
+Dynamic modeling of vaccinating behavior as a function of individual beliefs.
+
+FC Coelho, CT Codeço
+
+Individual perception of vaccine safety is an important factor in determining a person's adherence to a vaccination program and its consequences for disease control. This perception, or belief, about the safety of a given vaccine is not a static parameter but a variable subject to environmental influence. To complicate matters, perception of risk (or safety) does not correspond to actual risk. In this paper we propose a way to include the dynamics of such beliefs into a realistic epidemiological model, yielding a more complete depiction of the mechanisms underlying the unraveling of vaccination campaigns. The methodology proposed is based on Bayesian inference and can be extended to model more complex belief systems associated with decision models. We found the method is able to produce behaviors which approximate what has been observed in real vaccine and disease scare situations. The framework presented comprises a set of useful tools for an adequate quantitative representation of a common yet complex public-health issue. These tools include representation of beliefs as Bayesian probabilities, usage of logarithmic pooling to combine probability distributions representing opinions, and usage of natural conjugate priors to efficiently compute the Bayesian posterior. This approach allowed a comprehensive treatment of the uncertainty regarding vaccination behavior in a realistic epidemiological model.
+
+-Bayes Theorem
+-Behavior
++Culture
+-Decision Support Techniques
+-Humans
+-Mass Media
++Models, Psychological
+-Vaccination (-adverse effects; +psychology)
+-Yellow Fever (-epidemiology; -prevention & control)
+-Yellow Fever Vaccine (-administration & dosage; -adverse effects)
+
+doi:10.1371/journal.pcbi.1000425
+pubmed:19593365
+pmc:PMC2700262
+

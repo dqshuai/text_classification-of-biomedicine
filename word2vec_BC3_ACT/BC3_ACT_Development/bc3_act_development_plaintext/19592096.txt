@@ -1,0 +1,34 @@
+Mol. Immunol.
+
+Promoter activity 5' of Dbeta2 is coordinated by E47, Runx1, and GATA-3.
+
+RE McMillan, ML Sikes
+
+V(D)J recombination involves the stepwise assembly of B and T cell receptor genes as lymphocytes progress through the early stages of development. While the mechanisms that restrict each step in recombination to its appropriate developmental stage are largely unknown, they share many of the components that regulate transcription. For example, enhancer-dependent modifications in histone acetylation and methylation are essential for both germline transcription and rearrangement of antigen receptor genes. Promoters positioned proximal to individual D and J gene segments in Tcra, Tcrb, Tcrd, IgH, and Igk also contribute to antigen receptor gene assembly, though their effects appear more localized than those of enhancers. Tcrb assembly initiates with D-to-J joining at each of the two D-J-C gene segment clusters in DN1/2 thymocytes. DJ joints are fused with Vbeta elements to complete Tcrb recombination in DN3 cells. We have previously shown that Dbeta2 is flanked by upstream and downstream promoters, with the 5' promoter being held inactive until D-to-J recombination deletes the NFkappaB-dependent 3' promoter. We now report that activity of the 5' promoter reflects a complex interplay among Runx1, GATA-3, and E47 transcription factors. In particular, while multiple E47 and Runx1 binding sites clustered near the Dbeta2 5'RS and overlapping inr elements define the core 5'PDbeta2, they act in concert with an array of upstream GATA-3 sites to overcome the inhibitory effects of a 110bp distal polypurine.polypyrimidine (R.Y) tract. The dependence of 5'PDbeta2 on E47 is consistent with the reported role of E proteins in post-DN1 thymocyte development and V-to-DJbeta recombination.
+
+-Animals
+-Base Sequence
+-Cell Differentiation (-immunology)
+-Cell Line
+-Chromatin (-immunology; -metabolism)
+-Core Binding Factor Alpha 2 Subunit (+immunology; -metabolism)
+-GATA3 Transcription Factor (+immunology; -metabolism)
++Gene Rearrangement, beta-Chain T-Cell Antigen Receptor
+-Homeodomain Proteins (-genetics; -immunology; -metabolism)
+-Mice
+-Mice, Knockout
+-Molecular Sequence Data
++Promoter Regions, Genetic
+-Receptors, Antigen, T-Cell, alpha-beta (+genetics)
+-T-Lymphocytes (-immunology; -metabolism)
+-TCF Transcription Factors (+immunology; -metabolism)
+-Thymus Gland (-immunology; -metabolism)
+-Tumor Suppressor Protein p53 (-genetics; -immunology; -metabolism)
+-Upstream Stimulatory Factors (-immunology; -metabolism)
+
+pii:S0161-5890(09)00581-1
+doi:10.1016/j.molimm.2009.06.013
+pubmed:19592096
+mid:NIHMS127110
+pmc:PMC2732994
+

@@ -1,0 +1,20 @@
+Biophys. J.
+
+Importance of the peptide backbone description in modeling the selectivity filter in potassium channels.
+
+T Baştuğ, S Kuyucak
+
+A dihedral energy correction (CMAP) term has been recently included in the CHARMM force field to obtain a more accurate description of the peptide backbone. Its importance in improving dynamical properties of proteins and preserving their stability in long molecular-dynamics simulations has been established for several globular proteins. Here we investigate its role in maintaining the structure and function of two potassium channels, Shaker K(v)1.2 and KcsA, by performing molecular-dynamics simulations with and without the CMAP correction in otherwise identical systems. We show that without CMAP, it is not possible to maintain the experimentally observed orientations of the carbonyl groups in the selectivity filter in Shaker, and the channel loses its selectivity property. In the case of KcsA, the channel retains some selectivity even without CMAP because the carbonyl orientations are relatively better preserved compared to Shaker.
+
+-Crystallography, X-Ray
++Models, Molecular
+-Peptides (+chemistry; +metabolism)
+-Protein Conformation
+-Shaker Superfamily of Potassium Channels (+chemistry; +metabolism)
+-Substrate Specificity
+-Thermodynamics
+
+pii:S0006-3495(09)00590-6
+doi:10.1016/j.bpj.2009.02.041
+pubmed:19450472
+

@@ -1,0 +1,27 @@
+J. Virol.
+
+Mutations that increase DNA binding by the processivity factor of herpes simplex virus affect virus production and DNA replication fidelity.
+
+C Jiang, G Komazin-Meredith, W Tian, DM Coen, CB Hwang
+
+The interactions of the herpes simplex virus processivity factor UL42 with the catalytic subunit of the viral polymerase (Pol) and DNA are critical for viral DNA replication. Previous studies, including one showing that substitution of glutamine residue 282 with arginine (Q282R) results in an increase of DNA binding in vitro, have indicated that the positively charged back surface of UL42 interacts with DNA. To investigate the biological consequences of increased DNA binding by UL42 mutations, we constructed two additional UL42 mutants, including one with a double substitution of alanine for aspartic acid residues (D270A/D271A) and a triple mutant with the D270A/D271A and Q282R substitutions. These UL42 mutants exhibited increased and prolonged DNA binding without an effect on binding to a peptide corresponding to the C terminus of Pol. Plasmids expressing any of the three UL42 mutants with an increased positive charge on the back surface of UL42 were qualitatively competent for complementation of growth and DNA replication of a UL42 null mutant on Vero cells. We then engineered viruses expressing these mutant proteins. The UL42 mutants were more resistant to detergent extraction than wild-type UL42, suggesting that they are more tightly associated with DNA in infected cells. All three UL42 mutants formed smaller plaques on Vero cells and replicated to reduced yields compared with results for a control virus expressing wild-type UL42. Moreover, mutants with double and triple mutations, which contain D270A/D271A mutations, exhibited increased mutation frequencies, and mutants containing the Q282R mutation exhibited elevated ratios of virion DNA copies per PFU. These results suggest that herpes simplex virus has evolved so that UL42 neither binds DNA too tightly nor too weakly to optimize virus production and replication fidelity.
+
+-Animals
+-Cercopithecus aethiops
++DNA Replication
+-DNA, Viral (-genetics; -metabolism)
+-DNA-Binding Proteins (-genetics; +metabolism)
+-DNA-Directed DNA Polymerase (-genetics; +metabolism)
+-Exodeoxyribonucleases (-genetics; +metabolism)
+-Herpes Simplex (+virology)
++Mutation
+-Simplexvirus (-enzymology; +genetics; -physiology)
+-Vero Cells
+-Viral Proteins (-genetics; +metabolism)
++Virus Replication
+
+pii:JVI.00193-09
+doi:10.1128/JVI.00193-09
+pubmed:19474109
+pmc:PMC2708624
+

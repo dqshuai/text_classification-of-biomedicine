@@ -1,0 +1,23 @@
+Structure
+
+PSI-2: structural genomics to cover protein domain family space.
+
+BH Dessailly, R Nair, L Jaroszewski, JE Fajardo, A Kouranov, D Lee, A Fiser, A Godzik, B Rost, C Orengo
+
+One major objective of structural genomics efforts, including the NIH-funded Protein Structure Initiative (PSI), has been to increase the structural coverage of protein sequence space. Here, we present the target selection strategy used during the second phase of PSI (PSI-2). This strategy, jointly devised by the bioinformatics groups associated with the PSI-2 large-scale production centers, targets representatives from large, structurally uncharacterized protein domain families, and from structurally uncharacterized subfamilies in very large and diverse families with incomplete structural coverage. These very large families are extremely diverse both structurally and functionally, and are highly overrepresented in known proteomes. On the basis of several metrics, we then discuss to what extent PSI-2, during its first 3 years, has increased the structural coverage of genomes, and contributed structural and functional novelty. Together, the results presented here suggest that PSI-2 is successfully meeting its objectives and provides useful insights into structural and functional space.
+
+-Animals
+-Computational Biology
+-Genomics (+methods)
+-Humans
+-Multigene Family
+-Protein Conformation
+-Protein Structure, Tertiary (-genetics)
+-Proteins (+chemistry; -genetics; +metabolism)
+-Proteomics (+methods)
+-Sequence Analysis, Protein
+
+pii:S0969-2126(09)00183-X
+doi:10.1016/j.str.2009.03.015
+pubmed:19523904
+

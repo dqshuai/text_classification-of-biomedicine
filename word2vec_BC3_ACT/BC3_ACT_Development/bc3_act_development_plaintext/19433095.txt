@@ -1,0 +1,31 @@
+J. Mol. Biol.
+
+Decreased sensitivity to changes in the concentration of metal ions as the basis for the hyperactivity of DtxR(E175K).
+
+JA D'Aquino, AR Denninger, AG Moulin, KE D'Aquino, D Ringe
+
+The metal-ion-activated diphtheria toxin repressor (DtxR) is responsible for the regulation of virulence and other genes in Corynebacterium diphtheriae. A single point mutation in DtxR, DtxR(E175K), causes this mutant repressor to have a hyperactive phenotype. Mice infected with Mycobacterium tuberculosis transformed with plasmids carrying this mutant gene show reduced signs of the tuberculosis infection. Corynebacterial DtxR is able to complement mycobacterial IdeR and vice versa. To date, an explanation for the hyperactivity of DtxR(E175K) has remained elusive. In an attempt to address this issue, we have solved the first crystal structure of DtxR(E175K) and characterized this mutant using circular dichroism, isothermal titration calorimetry, and other biochemical techniques. The results show that although DtxR(E175K) and the wild type have similar secondary structures, DtxR(E175K) gains additional thermostability upon activation with metal ions, which may lead to this mutant requiring a lower concentration of metal ions to reach the same levels of thermostability as the wild-type protein. The E175K mutation causes binding site 1 to retain metal ion bound at all times, which can only be removed by incubation with an ion chelator. The crystal structure of DtxR(E175K) shows an empty binding site 2 without evidence of oxidation of Cys102. The association constant for this low-affinity binding site of DtxR(E175K) obtained from calorimetric titration with Ni(II) is K(a)=7.6+/-0.5x10(4), which is very similar to the reported value for the wild-type repressor, K(a)=6.3x10(4). Both the wild type and DtxR(E175K) require the same amount of metal ion to produce a shift in the electrophoretic mobility shift assay, but unlike the wild type, DtxR(E175K) binding to its cognate DNA [tox promoter-operator (toxPO)] does not require metal-ion supplementation in the running buffer. In the timescale of these experiments, the Mn(II)-DtxR(E175K)-toxPO complex is insensitive to changes in the environmental cation concentrations. In addition to Mn(II), Ni(II), Co(II), Cd(II), and Zn(II) are able to sustain the hyperactive phenotype. These results demonstrate a prominent role of binding site 1 in the activation of DtxR and support the hypothesis that DtxR(E175K) attenuates the expression of virulence due to the decreased ability of the Me(II)-DtxR(E175K)-toxPO complex to dissociate at low concentrations of metal ions.
+
+-Amino Acid Substitution (+genetics)
+-Bacterial Proteins (+chemistry; -genetics; +metabolism)
+-Calorimetry
+-Circular Dichroism
+-Crystallography, X-Ray
+-DNA, Bacterial (-metabolism)
+-DNA-Binding Proteins (+chemistry; -genetics; +metabolism)
+-Electrophoretic Mobility Shift Assay
+-Ions (+metabolism)
+-Kinetics
+-Metals (+metabolism)
+-Models, Molecular
++Mutation, Missense
+-Protein Binding
+-Protein Conformation
+-Protein Stability
+-Protein Structure, Secondary
+-Protein Structure, Tertiary
+
+pii:S0022-2836(09)00566-X
+doi:10.1016/j.jmb.2009.05.003
+pubmed:19433095
+

@@ -1,0 +1,23 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Temporal lenses for attosecond and femtosecond electron pulses.
+
+SA Hilbert, C Uiterwaal, B Barwick, H Batelaan, AH Zewail
+
+Here, we describe the "temporal lens" concept that can be used for the focus and magnification of ultrashort electron packets in the time domain. The temporal lenses are created by appropriately synthesizing optical pulses that interact with electrons through the ponderomotive force. With such an arrangement, a temporal lens equation with a form identical to that of conventional light optics is derived. The analog of ray diagrams, but for electrons, are constructed to help the visualization of the process of compressing electron packets. It is shown that such temporal lenses not only compensate for electron pulse broadening due to velocity dispersion but also allow compression of the packets to durations much shorter than their initial widths. With these capabilities, ultrafast electron diffraction and microscopy can be extended to new domains,and, just as importantly, electron pulses can be delivered directly on an ultrafast techniques target specimen.
+
+-Algorithms
++Electrons
+-Light
+-Microscopy (+instrumentation; -methods)
+-Microscopy, Electron (-instrumentation; -methods)
+-Models, Theoretical
+-Optical Processes
+-Scattering, Radiation
+-Time Factors
+
+pii:0904912106
+doi:10.1073/pnas.0904912106
+pubmed:19541639
+pmc:PMC2705614
+

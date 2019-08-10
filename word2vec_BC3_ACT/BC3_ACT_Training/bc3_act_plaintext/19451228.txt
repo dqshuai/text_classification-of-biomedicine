@@ -1,0 +1,33 @@
+Mol. Cell. Biol.
+
+High-affinity transporters for NAD+ precursors in Candida glabrata are regulated by Hst1 and induced in response to niacin limitation.
+
+B Ma, SJ Pan, R Domergue, T Rigby, M Whiteway, D Johnson, BP Cormack
+
+The yeast Candida glabrata is an opportunistic pathogen of humans. C. glabrata is a NAD(+) auxotroph, and its growth depends on the availability of niacin (environmental vitamin precursors of NAD(+)). We have previously shown that a virulence-associated adhesin, encoded by EPA6, is transcriptionally induced in response to niacin limitation. Here we used transcript profiling to characterize the transcriptional response to niacin limitation and the roles of the sirtuins Hst1, Hst2, and Sir2 in mediating this response. The majority of genes transcriptionally induced by niacin limitation are regulated by Hst1, suggesting that it is the primary sensor of niacin limitation in C. glabrata. We show that three highly induced genes, TNA1, TNR1, and TNR2, encode transporters which are necessary and sufficient for high-affinity uptake of NAD(+) precursors. Strikingly, if a tna1 tnr1 tnr2 mutant is starved for niacin, it exhibits an extended lag phase, suggesting a central role for the transporters in restoring NAD(+) homeostasis after niacin limitation. Lastly, we had previously shown that the adhesin encoded by EPA6 is induced during experimental urinary tract infection (UTI); we show here that EPA6 transcriptional induction during UTI is strongly enhanced in the tna1 tnr1 tnr2 mutant strain, implicating the transporters in the growth of C. glabrata during infection.
+
+-Animals
+-Binding, Competitive (-drug effects)
+-Candida glabrata (-genetics; +metabolism; -pathogenicity)
+-Candidiasis (-microbiology)
+-Fungal Proteins (-genetics; +metabolism)
+-Gene Expression Profiling
+-Gene Expression Regulation, Fungal (-drug effects)
+-Histone Deacetylases (-genetics; +metabolism)
+-Membrane Transport Proteins (-genetics; +metabolism)
+-Mice
+-Mice, Inbred BALB C
+-Mutation
+-NAD (+metabolism)
+-Niacin (-metabolism; -pharmacology)
+-Oligonucleotide Array Sequence Analysis
+-Open Reading Frames (-genetics)
+-Protein Binding (-drug effects)
+-Sirtuins (-genetics; +metabolism)
+-Vitamin B Complex (-metabolism; -pharmacology)
+
+pii:MCB.01461-08
+doi:10.1128/MCB.01461-08
+pubmed:19451228
+pmc:PMC2715804
+

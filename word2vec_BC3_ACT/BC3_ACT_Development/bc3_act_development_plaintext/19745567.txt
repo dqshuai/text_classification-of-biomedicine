@@ -1,0 +1,22 @@
+Genes Genet. Syst.
+
+Induction of extracytoplasmic function sigma factors in Bacillus subtilis cells with membranes of reduced phosphatidylglycerol content.
+
+M Hashimoto, H Takahashi, Y Hara, H Hara, K Asai, Y Sadaie, K Matsumoto
+
+The Bacillus subtilis gene pgsA, which codes for the phosphatidylglycerophosphate synthase that catalyzes the committed step for the synthesis of phosphatidylglycerol (PG), is essential since Pspac-pgsA cells require IPTG for growth. Removal of the inducer caused a dramatic decrease of PG content in the membranes of cells and retarded growth. At 60 min and 120 min after removal, it was reduced to 14.1% and 8.9% of total lipid, respectively, from an initial content of 28.1%. We conjectured that the activity of some extracytoplasmic function (ECF) sigma factors, most of which are caught and regulated directly by cognate transmembrane anti-sigma factors, are affected by altered lipid composition of the membranes. Induction of the activities of ECF sigma factors (sigma(M) and sigma(V)) was observed after removal of IPTG, though that of sigma(V) was small. But other ECF sigma factors (sigma(W), sigma(X), sigma(Y), sigma(YlaC) and sigma(Z)) and the general stress sigmas sigma(B) and sigma(I) were not induced. Especially sigma(M) was activated strongly with the reduction of PG content and sustained a high level of activity, in contrast to the transient activation in PG normal cells after exposure to high salinity. This study demonstrates a new relationship between the alterations of lipid composition in the membranes and the activation of ECF sigma factors.
+
+-Bacillus subtilis (+genetics; -metabolism; +ultrastructure)
+-Cytoplasm (-drug effects; -metabolism)
+-Gene Expression Regulation, Bacterial (-drug effects)
+-Genes, Bacterial
+-Isopropyl Thiogalactoside (-pharmacology)
+-Membranes (+chemistry; -drug effects; -metabolism)
+-Phosphatidylglycerols (-chemistry; +metabolism)
+-Sigma Factor (-genetics; -metabolism; +physiology)
+-Up-Regulation (-drug effects)
+-beta-Galactosidase (-genetics; -metabolism)
+
+pii:JST.JSTAGE/ggs/84.191
+pubmed:19745567
+

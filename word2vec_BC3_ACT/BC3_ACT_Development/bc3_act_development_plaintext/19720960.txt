@@ -1,0 +1,23 @@
+J. Gen. Physiol.
+
+Temperature dependence of proton permeation through a voltage-gated proton channel.
+
+M Kuno, H Ando, H Morihata, H Sakai, H Mori, M Sawada, S Oiki
+
+Voltage-gated proton channels are found in many different types of cells, where they facilitate proton movement through the membrane. The mechanism of proton permeation through the channel is an issue of long-term interest, but it remains an open question. To address this issue, we examined the temperature dependence of proton permeation. Under whole cell recordings, rapid temperature changes within a few milliseconds were imposed. This method allowed for the measurement of current amplitudes immediately before and after a temperature jump, from which the ratios of these currents (Iratio) were determined. The use of Iratio for evaluating the temperature dependence minimized the contributions of factors other than permeation. Temperature jumps of various degrees (DeltaT, -15 to 15 degrees C) were applied over a wide temperature range (4-49 degrees C), and the Q10s for the proton currents were evaluated from the Iratios. Q10 exhibited a high temperature dependence, varying from 2.2 at 10 degrees C to 1.3 at 40 degrees C. This implies that processes with different temperature dependencies underlie the observed Q10. A novel resistivity pulse method revealed that the access resistance with its low temperature dependence predominated in high temperature ranges. The measured temperature dependence of Q10 was decomposed into Q10 of the channel and of the access resistances. Finally, the Q10 for proton permeation through the voltage-gated proton channel itself was calculated and found to vary from 2.8 at 5 degrees C to 2.2 at 45 degrees C, as expected for an activation enthalpy of 64 kJ/mol. The thermodynamic features for proton permeation through proton-selective channels were discussed for the underlying mechanism.
+
+-Animals
+-Cells, Cultured
+-Cytosol (-metabolism)
+-Ion Channels (+metabolism)
+-Microglia (+metabolism)
+-Patch-Clamp Techniques
++Protons
+-Rats
++Temperature
+
+pii:jgp.200910213
+doi:10.1085/jgp.200910213
+pubmed:19720960
+pmc:PMC2740922
+

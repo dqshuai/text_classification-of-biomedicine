@@ -1,0 +1,20 @@
+Eukaryotic Cell
+
+Role of the cell wall integrity and filamentous growth mitogen-activated protein kinase pathways in cell wall remodeling during filamentous growth.
+
+B Birkaya, A Maddi, J Joshi, SJ Free, PJ Cullen
+
+Many fungal species including pathogens exhibit filamentous growth (FG) as a means of foraging for nutrients. Genetic screens were performed to identify genes required for FG in the budding yeast Saccharomyces cerevisiae. Genes encoding proteins with established functions in transcriptional activation (MCM1, MATalpha2, PHD1, MSN2, SIR4, and HMS2), cell wall integrity (MPT5, WSC2, and MID2), and cell polarity (BUD5) were identified as potential regulators of FG. The transcription factors MCM1 and MATalpha2 induced invasive growth by promoting diploid-specific bipolar budding in haploid cells. Components of the cell wall integrity pathway including the cell surface proteins Slg1p/Wsc1p, Wsc2p, Mid2p, and the mitogen-activated protein kinase (MAPK) Slt2p/Mpk1p contributed to multiple aspects of the FG response including cell elongation, cell-cell adherence, and agar invasion. Mid2p and Wsc2p stimulated the FG MAPK pathway through the signaling mucin Msb2p and components of the MAPK cascade. The FG pathway contributed to cell wall integrity in parallel with the cell wall integrity pathway and in opposition with the high osmolarity glycerol response pathway. Mass spectrometry approaches identified components of the filamentous cell wall including the mucin-like proteins Msb2p, Flo11p, and subtelomeric (silenced) mucin Flo10p. Secretion of Msb2p, which occurs as part of the maturation of the protein, was inhibited by the ss-1,3-glucan layer of the cell wall, which highlights a new regulatory aspect to cell wall remodeling in this organism. Disruption of ss-1,3-glucan linkages induced mucin shedding and resulted in defects in cell-cell adhesion and invasion of cells into the agar matrix.
+
+-Cell Wall (-genetics; +metabolism)
+-Gene Expression Regulation, Fungal
+-Mitogen-Activated Protein Kinases (-genetics; +metabolism)
+-Saccharomyces cerevisiae (-genetics; +growth & development; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; -metabolism)
++Signal Transduction
+
+pii:EC.00006-09
+doi:10.1128/EC.00006-09
+pubmed:19502582
+pmc:PMC2725558
+

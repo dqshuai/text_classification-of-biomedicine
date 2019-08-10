@@ -1,0 +1,27 @@
+FEBS J.
+
+Transcript profiling reveals diverse roles of auxin-responsive genes during reproductive development and abiotic stress in rice.
+
+M Jain, JP Khurana
+
+Auxin influences growth and development in plants by altering gene expression. Many auxin-responsive genes have been characterized in Arabidopsis in detail, but not in crop plants. Earlier, we reported the identification and characterization of the members of the GH3, Aux/IAA and SAUR gene families in rice. In this study, whole genome microarray analysis of auxin-responsive genes in rice was performed, with the aim of gaining some insight into the mechanism of auxin action. A comparison of expression profiles of untreated and auxin-treated rice seedlings identified 315 probe sets representing 298 (225 upregulated and 73 downregulated) unique genes as auxin-responsive. Functional categorization revealed that genes involved in various biological processes, including metabolism, transcription, signal transduction, and transport, are regulated by auxin. The expression profiles of auxin-responsive genes identified in this study and those of the members of the GH3, Aux/IAA, SAUR and ARF gene families were analyzed during various stages of vegetative and reproductive (panicle and seed) development by employing microarray analysis. Many of these genes are, indeed, expressed in a tissue-specific or developmental stage-specific manner, and the expression profiles of some of the representative genes were confirmed by real-time PCR. The differential expression of auxin-responsive genes during various stages of panicle and seed development implies their involvement in diverse developmental processes. Moreover, several auxin-responsive genes were differentially expressed under various abiotic stress conditions, indicating crosstalk between auxin and abiotic stress signaling.
+
+-Cluster Analysis
+-Cold Temperature
++Gene Expression Profiling
+-Gene Expression Regulation, Developmental (-drug effects)
+-Gene Expression Regulation, Plant (-drug effects)
+-Indoleacetic Acids (+pharmacology)
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Oryza sativa (+genetics; -growth & development)
+-Plant Growth Regulators (-pharmacology)
+-Plant Leaves (-genetics; -growth & development)
+-Plant Roots (-genetics; -growth & development)
+-Reproduction (-drug effects; -genetics)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Sodium Chloride (-pharmacology)
+
+pii:EJB7033
+doi:10.1111/j.1742-4658.2009.07033.x
+pubmed:19490115
+

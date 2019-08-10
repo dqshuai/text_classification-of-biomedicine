@@ -1,0 +1,36 @@
+DNA Repair (Amst.)
+
+Ribosomal protein S3: A multi-functional protein that interacts with both p53 and MDM2 through its KH domain.
+
+S Yadavilli, LD Mayo, M Higgins, S Lain, V Hegde, WA Deutsch
+
+The p53 protein responds to cellular stress and regulates genes involved in cell cycle, apoptosis, and DNA repair. Under normal conditions, p53 levels are kept low through MDM2-mediated ubiquitination and proteosomal degradation. In search for novel proteins that participate in this regulatory loop, we performed an MDM2 peptide pull-down assay and mass spectrometry to screen for potential interacting partners of MDM2. We identified ribosomal protein S3 (RPS3), whose interaction with MDM2, and notably p53, was further established by His and GST pull-down assays, fluorescence resonance energy transfer and an in situ proximity ligation assay. Additionally, in cells exposed to oxidative stress, p53 levels increased slightly over 24h, whereas MDM2 levels declined after 6h exposure, but rose over the next 18h of exposure. Conversely, in cells exposed to oxidative stress and harboring siRNA to knockdown RPS3 expression, decreased p53 levels and loss of the E3 ubiquitin ligase domain possessed by MDM2 were observed. DNA pull-down assays using a 7,8-dihydro-8-oxoguanine duplex oligonucleotide as a substrate found that RPS3 acted as a scaffold for the additional binding of MDM2 and p53, suggesting that RPS3 interacts with important proteins involved in maintaining genomic integrity.
+
+-Amino Acid Sequence
+-Animals
+-Biotinylation
+-Cell Line
+-Chemical Precipitation
+-DNA (-chemistry; -metabolism)
+-Fluorescence Resonance Energy Transfer
+-Gene Knockdown Techniques
+-Guanine (-analogs & derivatives; -metabolism)
+-Humans
+-Immobilized Proteins (-chemistry; -deficiency; -genetics; -metabolism)
+-Mice
+-Molecular Sequence Data
+-Peptides (-metabolism)
+-Protein Binding
+-Protein Structure, Tertiary
+-Proto-Oncogene Proteins c-mdm2 (-chemistry; +metabolism)
+-Ribosomal Proteins (+chemistry; -deficiency; -genetics; +metabolism)
+-Streptavidin (-metabolism)
+-Tumor Suppressor Protein p53 (+metabolism)
+-Ubiquitination
+
+pii:S1568-7864(09)00170-0
+doi:10.1016/j.dnarep.2009.07.003
+pubmed:19656744
+mid:NIHMS136797
+pmc:PMC2748156
+

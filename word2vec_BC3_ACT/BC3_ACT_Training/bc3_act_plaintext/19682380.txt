@@ -1,0 +1,20 @@
+Genome Biol.
+
+MouseCyc: a curated biochemical pathways database for the laboratory mouse.
+
+AV Evsikov, ME Dolan, MP Genrich, E Patek, CJ Bult
+
+Linking biochemical genetic data to the reference genome for the laboratory mouse is important for comparative physiology and for developing mouse models of human biology and disease. We describe here a new database of curated metabolic pathways for the laboratory mouse called MouseCyc http://mousecyc.jax.org. MouseCyc has been integrated with genetic and genomic data for the laboratory mouse available from the Mouse Genome Informatics database and with pathway data from other organisms, including human.
+
+-Animals
++Biosynthetic Pathways
++Databases, Genetic
+-Disease Models, Animal
+-Humans
+-Mice (+genetics)
+
+pii:gb-2009-10-8-r84
+doi:10.1186/gb-2009-10-8-r84
+pubmed:19682380
+pmc:PMC2745765
+

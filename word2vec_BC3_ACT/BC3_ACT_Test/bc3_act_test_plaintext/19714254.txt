@@ -1,0 +1,24 @@
+PLoS ONE
+
+Selective and irreversible inhibitors of mosquito acetylcholinesterases for controlling malaria and other mosquito-borne diseases.
+
+YP Pang, F Ekström, GA Polsinelli, Y Gao, S Rana, DH Hua, B Andersson, PO Andersson, L Peng, SK Singh, RK Mishra, KY Zhu, AM Fallon, DW Ragsdale, S Brimijoin
+
+New insecticides are urgently needed because resistance to current insecticides allows resurgence of disease-transmitting mosquitoes while concerns for human toxicity from current compounds are growing. We previously reported the finding of a free cysteine (Cys) residue at the entrance of the active site of acetylcholinesterase (AChE) in some insects but not in mammals, birds, and fish. These insects have two AChE genes (AP and AO), and only AP-AChE carries the Cys residue. Most of these insects are disease vectors such as the African malaria mosquito (Anopheles gambiae sensu stricto) or crop pests such as aphids. Recently we reported a Cys-targeting small molecule that irreversibly inhibited all AChE activity extracted from aphids while an identical exposure caused no effect on the human AChE. Full inhibition of AChE in aphids indicates that AP-AChE contributes most of the enzymatic activity and suggests that the Cys residue might serve as a target for developing better aphicides. It is therefore worth investigating whether the Cys-targeting strategy is applicable to mosquitocides. Herein, we report that, under conditions that spare the human AChE, a methanethiosulfonate-containing molecule at 6 microM irreversibly inhibited 95% of the AChE activity extracted from An. gambiae s. str. and >80% of the activity from the yellow fever mosquito (Aedes aegypti L.) or the northern house mosquito (Culex pipiens L.) that is a vector of St. Louis encephalitis. This type of inhibition is fast ( approximately 30 min) and due to conjugation of the inhibitor to the active-site Cys of mosquito AP-AChE, according to our observed reactivation of the methanethiosulfonate-inhibited AChE by 2-mercaptoethanol. We also note that our sulfhydryl agents partially and irreversibly inhibited the human AChE after prolonged exposure (>4 hr). This slow inhibition is due to partial enzyme denaturation by the inhibitor and/or micelles of the inhibitor, according to our studies using atomic force microscopy, circular dichroism spectroscopy, X-ray crystallography, time-resolved fluorescence spectroscopy, and liquid chromatography triple quadrupole mass spectrometry. These results support our view that the mosquito-specific Cys is a viable target for developing new mosquitocides to control disease vectors and to alleviate resistance problems with reduced toxicity toward non-target species.
+
+-Acetylcholinesterase (-chemistry; +drug effects; -metabolism)
+-Animals
+-Anopheles gambiae (+enzymology)
+-Cholinesterase Inhibitors (+pharmacology)
+-Circular Dichroism
+-Crystallography, X-Ray
++Disease Vectors
+-Malaria (+prevention & control)
+-Mice
+-Microscopy, Atomic Force
+-Protein Conformation
+
+doi:10.1371/journal.pone.0006851
+pubmed:19714254
+pmc:PMC2731169
+

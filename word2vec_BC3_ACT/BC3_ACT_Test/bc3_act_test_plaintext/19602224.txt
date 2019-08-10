@@ -1,0 +1,19 @@
+BMC Mol. Biol.
+
+Selection and validation of a set of reliable reference genes for quantitative RT-PCR studies in the brain of the Cephalopod Mollusc Octopus vulgaris.
+
+M Sirakov, I Zarrella, M Borra, F Rizzo, E Biffali, MI Arnone, G Fiorito
+
+BACKGROUND: Quantitative real-time polymerase chain reaction (RT-qPCR) is valuable for studying the molecular events underlying physiological and behavioral phenomena. Normalization of real-time PCR data is critical for a reliable mRNA quantification. Here we identify reference genes to be utilized in RT-qPCR experiments to normalize and monitor the expression of target genes in the brain of the cephalopod mollusc Octopus vulgaris, an invertebrate. Such an approach is novel for this taxon and of advantage in future experiments given the complexity of the behavioral repertoire of this species when compared with its relatively simple neural organization. RESULTS: We chose 16S, and 18S rRNA, actB, EEF1A, tubA and ubi as candidate reference genes (housekeeping genes, HKG). The expression of 16S and 18S was highly variable and did not meet the requirements of candidate HKG. The expression of the other genes was almost stable and uniform among samples. We analyzed the expression of HKG into two different set of animals using tissues taken from the central nervous system (brain parts) and mantle (here considered as control tissue) by BestKeeper, geNorm and NormFinder. We found that HKG expressions differed considerably with respect to brain area and octopus samples in an HKG-specific manner. However, when the mantle is treated as control tissue and the entire central nervous system is considered, NormFinder revealed tubA and ubi as the most suitable HKG pair. These two genes were utilized to evaluate the relative expression of the genes FoxP, creb, dat and TH in O. vulgaris. CONCLUSION: We analyzed the expression profiles of some genes here identified for O. vulgaris by applying RT-qPCR analysis for the first time in cephalopods. We validated candidate reference genes and found the expression of ubi and tubA to be the most appropriate to evaluate the expression of target genes in the brain of different octopuses. Our results also underline the importance of choosing a proper normalization strategy when analyzing gene expression by qPCR taking into appropriate account the experimental setting and variability of the sample of animals (and tissues), thus providing a set of HGK which expression appears to be unaffected by the experimental factor(s).
+
+-Animals
++Brain (-metabolism)
+-Gene Expression
+-Octopodiformes (+genetics)
+-Reverse Transcriptase Polymerase Chain Reaction
+
+pii:1471-2199-10-70
+doi:10.1186/1471-2199-10-70
+pubmed:19602224
+pmc:PMC2722649
+

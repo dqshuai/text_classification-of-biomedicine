@@ -1,0 +1,30 @@
+Biophys. J.
+
+Molecular-dynamics simulations of ELIC-a prokaryotic homologue of the nicotinic acetylcholine receptor.
+
+X Cheng, I Ivanov, H Wang, SM Sine, JA McCammon
+
+The ligand-gated ion channel from Erwinia chrysanthemi (ELIC) is a prokaryotic homolog of the eukaryotic nicotinic acetylcholine receptor (nAChR) that responds to the binding of neurotransmitter acetylcholine and mediates fast signal transmission. ELIC is similar to the nAChR in its primary sequence and overall subunit organization, but despite their structural similarity, it is not clear whether these two ligand-gated ion channels operate in a similar manner. Further, it is not known to what extent mechanistic insights gleaned from the ELIC structure translate to eukaryotic counterparts such as the nAChR. Here we use molecular-dynamics simulations to probe the conformational dynamics and hydration of the transmembrane pore of ELIC. The results are compared with those from our previous simulation of the human alpha7 nAChR. Overall, ELIC displays increased stability compared to the nAChR, whereas the two proteins exhibit remarkable similarity in their global motion and flexibility patterns. The majority of the increased stability of ELIC does not stem from the deficiency of the models used in the simulations, and but rather seems to have a structural basis. Slightly altered dynamical correlation features are also observed among several loops within the membrane region. In sharp contrast to the nAChR, ELIC is completely dehydrated from the pore center to the extracellular end throughout the simulation. Finally, the simulation of an ELIC mutant substantiates the important role of F246 on the stability, hydration and possibly function of the ELIC channel.
+
+-Amino Acid Sequence
+-Bacterial Proteins (+chemistry; -genetics)
++Computer Simulation
+-Elasticity
+-Humans
+-Ion Channels (+chemistry; -genetics)
+-Lipid Bilayers (-chemistry)
++Models, Chemical
+-Models, Molecular
+-Motion
+-Mutation
+-Pectobacterium chrysanthemi
+-Protein Conformation
+-Protein Stability
+-Receptors, Nicotinic (-chemistry)
+-Water (-chemistry)
+
+pii:S0006-3495(09)00754-1
+doi:10.1016/j.bpj.2009.03.018
+pubmed:19486673
+pmc:PMC2711484
+

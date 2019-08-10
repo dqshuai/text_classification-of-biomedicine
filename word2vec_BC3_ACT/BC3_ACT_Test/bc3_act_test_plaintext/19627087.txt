@@ -1,0 +1,25 @@
+J. Med. Chem.
+
+Modern homology modeling of G-protein coupled receptors: which structural template to use?
+
+JC Mobarec, R Sanchez, M Filizola
+
+The recent availability in the literature of new crystal structures of inactive G-protein coupled receptors (GPCRs) prompted us to study the extent to which these crystal structures constitute an advantage over the former prototypic rhodopsin template for homology modeling of the transmembrane (TM) region of human class A GPCRs. Our results suggest that better templates than those currently available are required by the majority of these GPCRs to generate homology models that are accurate enough for simple virtual screening aimed at computer-aided drug discovery. Thus, we investigated: (1) which class A GPCRs would have the highest impact as potential templates for homology modeling of other GPCRs, if their structures were solved, and (2) the extent to which multiple-template homology modeling (using all currently available GPCR crystal structures) provides an improvement over single-template homology modeling, as evaluated by the accuracy of rigid protein-flexible ligand docking on these models.
+
+-Animals
+-Binding Sites
+-Cattle
+-Crystallography, X-Ray
+-Humans
+-Ligands
++Models, Molecular
+-Protein Conformation
+-Receptors, G-Protein-Coupled (+chemistry)
+-Rhodopsin (-chemistry)
++Sequence Homology, Amino Acid
+
+doi:10.1021/jm9005252
+pubmed:19627087
+mid:NIHMS134651
+pmc:PMC2891345
+

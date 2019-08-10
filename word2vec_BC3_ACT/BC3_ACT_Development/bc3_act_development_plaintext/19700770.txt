@@ -1,0 +1,21 @@
+Nucleic Acids Res.
+
+An N-terminal clamp restrains the motor domains of the bacterial transcription-repair coupling factor Mfd.
+
+MN Murphy, P Gong, K Ralto, L Manelyte, NJ Savery, K Theis
+
+Motor proteins that translocate on nucleic acids are key players in gene expression and maintenance. While the function of these proteins is diverse, they are driven by highly conserved core motor domains. In transcription-coupled DNA repair, motor activity serves to remove RNA polymerase stalled on damaged DNA, making the lesion accessible for repair. Structural and biochemical data on the bacterial transcription-repair coupling factor Mfd suggest that this enzyme undergoes large conformational changes from a dormant state to an active state upon substrate binding. Mfd can be functionally dissected into an N-terminal part instrumental in recruiting DNA repair proteins (domains 1-3, MfdN), and a C-terminal part harboring motor activity (domains 4-7, MfdC). We show that isolated MfdC has elevated ATPase and motor activities compared to the full length protein. While MfdN has large effects on MfdC activity and thermostability in cis, these effects are not observed in trans. The structure of MfdN is independent of interactions with MfdC, implying that MfdN acts as a clamp that restrains motions of the motor domains in the dormant state. We conclude that releasing MfdN:MfdC interactions serves as a central molecular switch that upregulates Mfd functions during transcription-coupled DNA repair.
+
+-Adenosine Triphosphatases (-metabolism)
+-Bacterial Proteins (+chemistry; -metabolism)
+-DNA (-metabolism)
+-Models, Molecular
+-Protein Structure, Tertiary
+-Temperature
+-Transcription Factors (+chemistry; -metabolism)
+
+pii:gkp680
+doi:10.1093/nar/gkp680
+pubmed:19700770
+pmc:PMC2764443
+

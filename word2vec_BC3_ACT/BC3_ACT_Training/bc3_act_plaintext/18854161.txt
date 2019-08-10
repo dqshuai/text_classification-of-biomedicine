@@ -1,0 +1,29 @@
+Cell
+
+ACF7 regulates cytoskeletal-focal adhesion dynamics and migration and has ATPase activity.
+
+X Wu, A Kodama, E Fuchs
+
+Coordinated interactions between microtubule (MT) and actin cytoskeletons are involved in many polarized cellular processes. Spectraplakins are enormous (>500 kDa) proteins able to bind both MTs and actin filaments (F-actin) directly. To elucidate the physiological significance and functions of mammalian spectraplakin ACF7, we've conditionally targeted it in skin epidermis. Intriguingly, ACF7 deficiency compromises the targeting of microtubules along F-actin to focal adhesions (FAs), stabilizes FA-actin networks, and impairs epidermal migration. Exploring underlying mechanisms, we show that ACF7's binding domains for F-actin, MTs, and MT plus-end proteins are not sufficient to rescue the defects in FA-cytoskeletal dynamics and migration functions of ACF7 null keratinocytes. We've uncovered an intrinsic actin-regulated ATPase domain in ACF7 and demonstrate that it is both functional and essential for these roles. Our findings provide insight into the functions of this important cytoskeletal crosslinking protein in regulating dynamic interactions between MTs and F-actin to sustain directional cell movement.
+
+-Actins (-metabolism)
+-Adenosine Triphosphatases (-metabolism)
+-Animals
+-Cell Movement
+-Cytoskeleton (+metabolism)
+-Epidermis (+metabolism)
+-Extracellular Matrix (-metabolism)
++Focal Adhesions
+-Mice
+-Mice, Knockout
+-Microfilament Proteins (+metabolism)
+-Microtubules (-metabolism)
+-Signal Transduction
+-Wound Healing
+
+pii:S0092-8674(08)01011-8
+doi:10.1016/j.cell.2008.07.045
+pubmed:18854161
+mid:NIHMS112826
+pmc:PMC2703712
+

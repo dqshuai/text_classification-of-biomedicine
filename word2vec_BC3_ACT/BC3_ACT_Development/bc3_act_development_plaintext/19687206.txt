@@ -1,0 +1,30 @@
+Infect. Immun.
+
+A multifunctional, synthetic Gaussia princeps luciferase reporter for live imaging of Candida albicans infections.
+
+B Enjalbert, A Rachini, G Vediyappan, D Pietrella, R Spaccapelo, A Vecchiarelli, AJ Brown, C d'Enfert
+
+Real-time monitoring of the spatial and temporal progression of infection/gene expression in animals will contribute greatly to our understanding of host-pathogen interactions while reducing the number of animals required to generate statistically significant data sets. Sensitive in vivo imaging technologies can detect low levels of light emitted from luciferase reporters in vivo, but the existing reporters are not optimal for fungal infections. Therefore, our aim was to develop a novel reporter system for imaging Candida albicans infections that overcomes the limitations of current luciferase reporters for this major fungal pathogen. This luciferase reporter was constructed by fusing a synthetic, codon-optimized version of the Gaussia princeps luciferase gene to C. albicans PGA59, which encodes a glycosylphosphatidylinositol-linked cell wall protein. Luciferase expressed from this PGA59-gLUC fusion (referred to as gLUC59) was localized at the C. albicans cell surface, allowing the detection of luciferase in intact cells. The analysis of fusions to strong (ACT1 and EFT3), oxidative stress-induced (TRX1, TRR1, and IPF9996), and morphogenesis-dependent (HWP1) promoters confirmed that gLUC59 is a convenient and sensitive reporter for studies of gene regulation in yeast or hyphal cells, as well as a flexible screening tool. Moreover, the ACT1-gLUC59 fusion represented a powerful tool for the imaging of disease progression in superficial and subcutaneous C. albicans infections. gLUC59 and related cell surface-exposed luciferase reporters might find wide applications in molecular biology, cell biology, pathobiology, and high-throughput screens.
+
+-Animals
+-Artificial Gene Fusion (+methods)
+-Base Sequence
+-Candida albicans
+-Candidiasis (+genetics; -metabolism)
+-Copepoda (-genetics)
+-Female
+-Gene Expression
+-Gene Expression Regulation, Fungal
+-Genes, Fungal (+genetics)
++Genes, Reporter
+-Humans
+-Luciferases (+genetics)
+-Mice
+-Molecular Sequence Data
+-Neutrophils (-immunology)
+
+pii:IAI.00223-09
+doi:10.1128/IAI.00223-09
+pubmed:19687206
+pmc:PMC2772526
+

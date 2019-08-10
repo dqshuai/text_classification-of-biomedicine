@@ -1,0 +1,35 @@
+Structure
+
+The interplay of functional tuning, drug resistance, and thermodynamic stability in the evolution of the M2 proton channel from the influenza A virus.
+
+AL Stouffer, C Ma, L Cristian, Y Ohigashi, RA Lamb, JD Lear, LH Pinto, WF DeGrado
+
+We explore the interplay between amino acid sequence, thermodynamic stability, and functional fitness in the M2 proton channel of influenza A virus. Electrophysiological measurements show that drug-resistant mutations have minimal effects on M2's specific activity, and suggest that resistance is achieved by altering a binding site within the pore rather than a less direct allosteric mechanism. In parallel, we measure the effects of these mutations on the free energy of assembling the homotetrameric transmembrane pore from monomeric helices in micelles and bilayers. Although there is no simple correlation between the evolutionary fitness of the mutants and their stability, all variants formed more stable tetramers in bilayers, and the least-fit mutants showed the smallest increase in stability upon moving from a micelle to a bilayer environment. We speculate that the folding landscape of a micelle is rougher than that of a bilayer, and more accommodating of conformational variations in nonoptimized mutants.
+
+-Amantadine (-pharmacology)
+-Amino Acid Sequence
+-Animals
+-Antiviral Agents (-pharmacology)
+-Cells, Cultured
+-Disulfides (-chemistry)
+-Drug Resistance, Viral (+genetics)
+-Evolution, Molecular
+-Ion Channels (+chemistry; -genetics; -metabolism)
+-Lipid Bilayers (-chemistry)
+-Micelles
+-Models, Molecular
+-Molecular Sequence Data
+-Mutation
+-Patch-Clamp Techniques
+-Phospholipids (-chemistry)
++Protons
+-Thermodynamics
+-Viral Matrix Proteins (+chemistry; -genetics; -metabolism)
+-Xenopus laevis
+
+pii:S0969-2126(08)00216-5
+doi:10.1016/j.str.2008.04.011
+pubmed:18611380
+mid:NIHMS66221
+pmc:PMC2594009
+

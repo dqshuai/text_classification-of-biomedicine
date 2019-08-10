@@ -1,0 +1,33 @@
+Br. J. Cancer
+
+Dasatinib synergizes with doxorubicin to block growth, migration, and invasion of breast cancer cells.
+
+CS Pichot, SM Hartig, L Xia, C Arvanitis, D Monisvais, FY Lee, JA Frost, SJ Corey
+
+BACKGROUND: Src family kinases control multiple cancer cell properties including cell cycle progression, survival, and metastasis. Recent studies suggest that the Src inhibitor dasatinib blocks these critical cancer cell functions. METHODS: Because the molecular mechanism of action of dasatinib in breast cancers has not been investigated, we evaluated the effects of dasatinib as a single agent and in combination with the commonly used chemotherapeutic doxorubicin, on the proliferation, viability, and invasive capacity of breast cancer cells lines earlier categorised as dasatinib-sensitive (MDA-MB-231) and moderately resistant (MCF7 and T47D). We also tested the effects of these drugs on the actin cytoskeleton and associated signalling pathways. RESULTS: The cell lines tested varied widely in sensitivity to growth inhibition (IC(50)=0.16-12.3 microM), despite comparable Src kinase inhibition by dasatinib (IC(50)=17-37 nM). In the most sensitive cell line, MDA-MB-231, dasatinib treatment induced significant G(1) accumulation with little apoptosis, disrupted cellular morphology, blocked migration, inhibited invasion through Matrigel (P<0.01), and blocked the formation of invadopodia (P<0.001). Importantly, combination treatment with doxorubicin resulted in synergistic growth inhibition in all cell lines and blocked the migration and invasion of the highly metastatic, triple-negative MDA-MB-231 cell line. CONCLUSION: The observed synergy between dasatinib and doxorubicin warrants the re-evaluation of dasatinib as an effective agent in multi-drug regimens for the treatment of invasive breast cancers.
+
+-Actins (-metabolism)
+-Antibiotics, Antineoplastic (-administration & dosage; +pharmacology)
+-Antineoplastic Combined Chemotherapy Protocols (+pharmacology)
+-Breast Neoplasms (+drug therapy; -enzymology; -metabolism; -pathology)
+-Cell Growth Processes (-drug effects)
+-Cell Line, Tumor
+-Cell Movement (-drug effects)
+-Cytoskeleton (-drug effects; -metabolism; -pathology)
+-Doxorubicin (+administration & dosage)
+-Drug Screening Assays, Antitumor
+-Drug Synergism
+-G1 Phase (-drug effects)
+-Humans
+-Neoplasm Invasiveness
+-Protein Kinase Inhibitors (-administration & dosage; +pharmacology)
+-Pyrimidines (-administration & dosage; +pharmacology)
+-Thiazoles (-administration & dosage; +pharmacology)
+-Tubulin (-metabolism)
+-src-Family Kinases (-antagonists & inhibitors)
+
+pii:6605101
+doi:10.1038/sj.bjc.6605101
+pubmed:19513066
+pmc:PMC2713704
+

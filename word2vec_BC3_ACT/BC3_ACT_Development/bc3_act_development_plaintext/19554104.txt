@@ -1,0 +1,13 @@
+PLoS ONE
+
+Fine-scale dissection of functional protein network organization by statistical network analysis.
+
+K Komurov, MH Gunes, MA White
+
+Revealing organizational principles of biological networks is an important goal of systems biology. In this study, we sought to analyze the dynamic organizational principles within the protein interaction network by studying the characteristics of individual neighborhoods of proteins within the network based on their gene expression as well as protein-protein interaction patterns. By clustering proteins into distinct groups based on their neighborhood gene expression characteristics, we identify several significant trends in the dynamic organization of the protein interaction network. We show that proteins with distinct neighborhood gene expression characteristics are positioned in specific localities in the protein interaction network thereby playing specific roles in the dynamic network connectivity. Remarkably, our analysis reveals a neighborhood characteristic that corresponds to the most centrally located group of proteins within the network. Further, we show that the connectivity pattern displayed by this group is consistent with the notion of "rich club connectivity" in complex networks. Importantly, our findings are largely reproducible in networks constructed using independent and different datasets.
+
+
+doi:10.1371/journal.pone.0006017
+pubmed:19554104
+pmc:PMC2699632
+

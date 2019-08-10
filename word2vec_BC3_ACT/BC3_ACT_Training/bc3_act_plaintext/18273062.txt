@@ -1,0 +1,31 @@
+EMBO J.
+
+A novel switch region regulates H-ras membrane orientation and signal output.
+
+D Abankwa, M Hanzal-Bayer, N Ariotti, SJ Plowman, AA Gorfe, RG Parton, JA McCammon, JF Hancock
+
+The plasma membrane nanoscale distribution of H-ras is regulated by guanine nucleotide binding. To explore the structural basis of H-ras membrane organization, we combined molecular dynamic simulations and medium-throughput FRET measurements on live cells. We extracted a set of FRET values, termed a FRET vector, to describe the lateral segregation and orientation of H-ras with respect to a large set of nanodomain markers. We show that mutation of basic residues in helix alpha4 or the hypervariable region (HVR) selectively alter the FRET vectors of GTP- or GDP-loaded H-ras, demonstrating a critical role for these residues in stabilizing GTP- or GDP-H-ras interactions with the plasma membrane. By a similar analysis, we find that the beta2-beta3 loop and helix alpha5 are involved in a novel conformational switch that operates through helix alpha4 and the HVR to reorient the H-ras G-domain with respect to the plasma membrane. Perturbation of these switch elements enhances MAPK activation by stabilizing GTP-H-ras in a more productive signalling conformation. The results illustrate how the plasma membrane spatially constrains signalling conformations by acting as a semi-neutral interaction partner.
+
+-Animals
+-Cell Line
+-Cell Membrane
+-Cloning, Molecular
+-Cricetinae
+-Flow Cytometry
+-Fluorescence Resonance Energy Transfer
+-Guanosine Diphosphate (-metabolism)
+-Guanosine Triphosphate (-metabolism)
+-Humans
+-Models, Molecular
+-Mutagenesis, Site-Directed
+-Point Mutation
+-Protein Structure, Tertiary
+-Proto-Oncogene Proteins c-raf (-genetics; -metabolism)
+-Proto-Oncogene Proteins p21(ras) (+chemistry; -genetics; +metabolism)
+-Signal Transduction
+
+pii:emboj200810
+doi:10.1038/emboj.2008.10
+pubmed:18273062
+pmc:PMC2265749
+

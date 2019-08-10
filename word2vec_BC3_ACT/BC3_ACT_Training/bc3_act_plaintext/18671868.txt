@@ -1,0 +1,28 @@
+Genome Biol.
+
+Whole proteome identification of plant candidate G-protein coupled receptors in Arabidopsis, rice, and poplar: computational prediction and in-vivo protein coupling.
+
+TE Gookin, J Kim, SM Assmann
+
+BACKGROUND: The classic paradigm of heterotrimeric G-protein signaling describes a heptahelical, membrane-spanning G-protein coupled receptor that physically interacts with an intracellular G alpha subunit of the G-protein heterotrimer to transduce signals. G-protein coupled receptors comprise the largest protein superfamily in metazoa and are physiologically important as they sense highly diverse stimuli and play key roles in human disease. The heterotrimeric G-protein signaling mechanism is conserved across metazoa, and also readily identifiable in plants, but the low sequence conservation of G-protein coupled receptors hampers the identification of novel ones. Using diverse computational methods, we performed whole-proteome analyses of the three dominant model plant species, the herbaceous dicot Arabidopsis thaliana (mouse-eared cress), the monocot Oryza sativa (rice), and the woody dicot Populus trichocarpa (poplar), to identify plant protein sequences most likely to be GPCRs. RESULTS: Our stringent bioinformatic pipeline allowed the high confidence identification of candidate G-protein coupled receptors within the Arabidopsis, Oryza, and Populus proteomes. We extended these computational results through actual wet-bench experiments where we tested over half of our highest ranking Arabidopsis candidate G-protein coupled receptors for the ability to physically couple with GPA1, the sole G alpha in Arabidopsis. We found that seven out of eight tested candidate G-protein coupled receptors do in fact interact with GPA1. We show through G-protein coupled receptor classification and molecular evolutionary analyses that both individual G-protein coupled receptor candidates and candidate G-protein coupled receptor families are conserved across plant species and that, in some cases, this conservation extends to metazoans. CONCLUSION: Our computational and wet-bench results provide the first step toward understanding the diversity, conservation, and functional roles of plant candidate G-protein coupled receptors.
+
+-Amino Acid Sequence
+-Arabidopsis (-metabolism)
+-Arabidopsis Proteins (-chemistry; +classification; +metabolism)
+-Computational Biology (-methods)
+-GTP-Binding Protein alpha Subunits (-metabolism)
+-Molecular Sequence Data
+-Oryza sativa (-genetics; -metabolism)
+-Phylogeny
+-Plant Proteins (-chemistry; +classification; +metabolism)
+-Populus (-genetics; -metabolism)
+-Proteome (-chemistry)
+-Receptors, G-Protein-Coupled (-chemistry; +classification; +metabolism)
+-Sequence Analysis, Protein
+-Sequence Homology, Amino Acid
+
+pii:gb-2008-9-7-r120
+doi:10.1186/gb-2008-9-7-r120
+pubmed:18671868
+pmc:PMC2530877
+

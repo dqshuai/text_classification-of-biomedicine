@@ -1,0 +1,36 @@
+Breast Cancer Res.
+
+Dynamics of different-sized solid-state nanocrystals as tracers for a drug-delivery system in the interstitium of a human tumor xenograft.
+
+M Kawai, H Higuchi, M Takeda, Y Kobayashi, N Ohuchi
+
+INTRODUCTION : Recent anticancer drugs have been made larger to pass selectively through tumor vessels and stay in the interstitium. Understanding drug movement in association with its size at the single-molecule level and estimating the time needed to reach the targeted organ is indispensable for optimizing drug delivery because single cell-targeted therapy is the ongoing paradigm. This report describes the tracking of single solid nanoparticles in tumor xenografts and the estimation of arrival time. METHODS : Different-sized nanoparticles measuring 20, 40, and 100 nm were injected into the tail vein of the female Balb/c nu/nu mice bearing human breast cancer on their backs. The movements of the nanoparticles were visualized through the dorsal skin-fold chamber with the high-speed confocal microscopy that we manufactured. RESULTS : An analysis of the particle trajectories revealed diffusion to be inversely related to the particle size and position in the tumor, whereas the velocity of the directed movement was related to the position. The difference in the velocity was the greatest for 40-nm particles in the perivascular to the intercellular region: difference = 5.8 nm/s. The arrival time of individual nanoparticles at tumor cells was simulated. The estimated times for the 20-, 40-, and 100-nm particles to reach the tumor cells were 158.0, 218.5, and 389.4 minutes, respectively, after extravasation. CONCLUSIONS : This result suggests that the particle size can be individually designed for each goal. These data and methods are also important for understanding drug pharmacokinetics. Although this method may be subject to interference by surface molecules attached on the particles, it has the potential to elucidate the pharmacokinetics involved in constructing novel drug-delivery systems involving cell-targeted therapy.
+
+-Algorithms
+-Animals
+-Breast Neoplasms (-drug therapy; +pathology)
+-Diffusion
++Drug Carriers
+-Equipment Design
+-Extravasation of Diagnostic and Therapeutic Materials
+-Female
+-Fluorescent Dyes (-administration & dosage; -diagnostic use; +pharmacokinetics)
+-Humans
+-Injections, Intravenous
+-Mice
+-Mice, Inbred BALB C
+-Mice, Nude
+-Microscopy, Confocal (+instrumentation)
+-Nanoparticles (-administration & dosage; +diagnostic use)
+-Neovascularization, Pathologic (-pathology)
+-Particle Size
+-Quantum Dots
+-Skin Window Technique
+-Tissue Distribution
+-Xenograft Model Antitumor Assays (+methods)
+
+pii:bcr2330
+doi:10.1186/bcr2330
+pubmed:19575785
+pmc:PMC2750102
+

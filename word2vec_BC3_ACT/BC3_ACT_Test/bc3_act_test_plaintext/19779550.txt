@@ -1,0 +1,25 @@
+PLoS Comput. Biol.
+
+Statistical use of argonaute expression and RISC assembly in microRNA target identification.
+
+SA Stanhope, S Sengupta, J den Boon, P Ahlquist, MA Newton
+
+MicroRNAs (miRNAs) posttranscriptionally regulate targeted messenger RNAs (mRNAs) by inducing cleavage or otherwise repressing their translation. We address the problem of detecting m/miRNA targeting relationships in homo sapiens from microarray data by developing statistical models that are motivated by the biological mechanisms used by miRNAs. The focus of our modeling is the construction, activity, and mediation of RNA-induced silencing complexes (RISCs) competent for targeted mRNA cleavage. We demonstrate that regression models accommodating RISC abundance and controlling for other mediating factors fit the expression profiles of known target pairs substantially better than models based on m/miRNA expressions alone, and lead to verifications of computational target pair predictions that are more sensitive than those based on marginal expression levels. Because our models are fully independent of exogenous results from sequence-based computational methods, they are appropriate for use as either a primary or secondary source of information regarding m/miRNA target pair relationships, especially in conjunction with high-throughput expression studies.
+
+-Computational Biology
+-Databases, Genetic
+-E2F1 Transcription Factor (+genetics; -metabolism)
++Gene Expression Regulation
+-MicroRNAs (+genetics; -metabolism)
+-Models, Genetic
++Models, Statistical
+-RNA, Messenger (-genetics; -metabolism)
+-RNA-Induced Silencing Complex (+genetics; -metabolism)
+-Random Allocation
+-Regression Analysis
+-Reproducibility of Results
+
+doi:10.1371/journal.pcbi.1000516
+pubmed:19779550
+pmc:PMC2739424
+

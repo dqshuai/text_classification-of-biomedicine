@@ -1,0 +1,21 @@
+Biochemistry
+
+Probing protein folding using site-specifically encoded unnatural amino acids as FRET donors with tryptophan.
+
+SJ Miyake-Stoner, AM Miller, JT Hammill, JC Peeler, KR Hess, RA Mehl, SH Brewer
+
+The experimental study of protein folding is enhanced by the use of nonintrusive probes that are sensitive to local conformational changes in the protein structure. Here, we report the selection of an aminoacyl-tRNA synthetase/tRNA pair for the cotranslational, site-specific incorporation of two unnatural amino acids that can function as fluorescence resonance energy transfer (FRET) donors with Trp to probe the disruption of the hydrophobic core upon protein unfolding. l-4-Cyanophenylalanine (pCNPhe) and 4-ethynylphenylalanine (pENPhe) were incorporated into the hydrophobic core of the 171-residue protein, T4 lysozyme. The FRET donor ability of pCNPhe and pENPhe is evident by the overlap of the emission spectra of pCNPhe and pENPhe with the absorbance spectrum of Trp. The incorporation of both unnatural amino acids in place of a phenylalanine in the hydrophobic core of T4 lysozyme was well tolerated by the protein, due in part to the small size of the cyano and ethynyl groups. The hydrophobic nature of the ethynyl group of pENPhe suggests that this unnatural amino acid is a more conservative substitution into the hydrophobic core of the protein compared to pCNPhe. The urea-induced disruption of the hydrophobic core of the protein was probed by the change in FRET efficiency between either pCNPhe or pENPhe and the Trp residues in T4 lysozyme. The methodology for the study of protein conformational changes using FRET presented here is of general applicability to the study of protein structural changes, since the incorporation of the unnatural amino acids is not inherently limited by the size of the protein.
+
+-Amino Acid Substitution (+genetics)
+-Escherichia coli Proteins (-chemistry; -genetics; -metabolism)
++Fluorescence Resonance Energy Transfer (-methods)
+-Phenylalanine-tRNA Ligase (+chemistry; -genetics; -metabolism)
+-Protein Conformation
+-Protein Denaturation
++Protein Folding
+-RNA, Transfer, Trp (+chemistry; -genetics; -metabolism)
+-Tryptophan-tRNA Ligase (+chemistry; -genetics; -metabolism)
+
+doi:10.1021/bi900426d
+pubmed:19492814
+

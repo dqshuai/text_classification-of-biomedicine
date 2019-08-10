@@ -1,0 +1,24 @@
+EMBO J.
+
+Interactions between UPF1, eRFs, PABP and the exon junction complex suggest an integrated model for mammalian NMD pathways.
+
+PV Ivanov, NH Gehring, JB Kunz, MW Hentze, AE Kulozik
+
+Nonsense-mediated mRNA decay (NMD) represents a key mechanism to control the expression of wild-type and aberrant mRNAs. Phosphorylation of the protein UPF1 in the context of translation termination contributes to committing mRNAs to NMD. We report that translation termination is inhibited by UPF1 and stimulated by cytoplasmic poly(A)-binding protein (PABPC1). UPF1 binds to eRF1 and to the GTPase domain of eRF3 both in its GTP- and GDP-bound states. Importantly, mutation studies show that UPF1 can interact with the exon junction complex (EJC) alternatively through either UPF2 or UPF3b to become phosphorylated and to activate NMD. On this basis, we discuss an integrated model where UPF1 halts translation termination and is phosphorylated by SMG1 if the termination-promoting interaction of PABPC1 with eRF3 cannot readily occur. The EJC, with UPF2 or UPF3b as a cofactor, interferes with physiological termination through UPF1. This model integrates previously competing models of NMD and suggests a mechanistic basis for alternative NMD pathways.
+
+-Exons
+-Hela Cells
+-Humans
+-Models, Biological
+-Peptide Termination Factors (+metabolism)
+-Poly(A)-Binding Protein I (+metabolism)
+-RNA, Messenger (-metabolism)
+-RNA-Binding Proteins (-metabolism)
+-Trans-Activators (+metabolism)
+-Transcription Factors (-metabolism)
+
+pii:emboj200817
+doi:10.1038/emboj.2008.17
+pubmed:18256688
+pmc:PMC2265754
+

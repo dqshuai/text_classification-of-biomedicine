@@ -1,0 +1,34 @@
+J. Cell. Sci.
+
+KDP-1 is a nuclear envelope KASH protein required for cell-cycle progression.
+
+MD McGee, I Stagljar, DA Starr
+
+Klarsicht, ANC-1 and Syne homology (KASH) proteins localize to the outer nuclear membrane where they connect the nucleus to the cytoskeleton. KASH proteins interact with Sad1-UNC-84 (SUN) proteins to transfer forces across the nuclear envelope to position nuclei or move chromosomes. A new KASH protein, KDP-1, was identified in a membrane yeast two-hybrid screen of a Caenorhabditis elegans library using the SUN protein UNC-84 as bait. KDP-1 also interacted with SUN-1. KDP-1 was enriched at the nuclear envelope in a variety of tissues and required SUN-1 for nuclear envelope localization in the germline. Genetic analyses showed that kdp-1 was essential for embryonic viability, larval growth and germline development. kdp-1(RNAi) delayed the entry into mitosis in embryos, led to a small mitotic zone in the germline, and caused an endomitotic phenotype. Aspects of these phenotypes were similar to those seen in sun-1(RNAi), suggesting that KDP-1 functions with SUN-1 in the germline and early embryo. The data suggest that KDP-1 is a novel KASH protein that functions to ensure the timely progression of the cell cycle between the end of S phase and the entry into mitosis.
+
+-Amino Acid Sequence
+-Animals
+-Caenorhabditis elegans (+cytology; -embryology; -genetics; +metabolism)
+-Caenorhabditis elegans Proteins (-chemistry; -genetics; +metabolism)
++Cell Cycle
+-Cell Cycle Proteins (-chemistry; -genetics; +metabolism)
+-Chromosome Pairing
+-Embryo Loss (-metabolism)
+-Embryo, Nonmammalian (-cytology; -metabolism)
+-Genes, Essential
+-Genes, Helminth
+-Gonads (-cytology; -embryology; -metabolism)
+-Meiosis
+-Molecular Sequence Data
+-Nuclear Envelope (+metabolism)
+-Nuclear Proteins (-chemistry; -genetics; +metabolism)
+-Protein Structure, Tertiary
+-Protein Transport
+-RNA Interference
+-X Chromosome (-metabolism)
+
+pii:jcs.051607
+doi:10.1242/jcs.051607
+pubmed:19638405
+pmc:PMC2724607
+

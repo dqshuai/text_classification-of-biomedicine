@@ -1,0 +1,23 @@
+BMC Genomics
+
+MicroPC (microPC): A comprehensive resource for predicting and comparing plant microRNAs.
+
+W Mhuantong, D Wichadakul
+
+BACKGROUND: Plant microRNA (miRNA) has an important role in controlling gene regulation in various biological processes such as cell development, signal transduction, and environmental responses. While information on plant miRNAs and their targets is widely available, accessible online plant miRNA resources are limited; most of them are intended for economically important crops or plant model organisms. With abundant sequence data of numerous plants in public databases such as NCBI and PlantGDB, the identification of their miRNAs and targets would benefit researchers as a central resource for the comparative studies of plant miRNAs. RESULTS: MicroPC (microPC) is an online plant miRNA resource resulted from large-scale Expressed Sequence Tag (EST) analysis. It consists of 4,006 potential miRNA candidates in 128 families of 125 plant species and 2,995 proteins (4,953 EST sequences) potentially targeted by 78 families of miRNA candidates. In addition, it is incorporated with 1,727 previously reported plant mature miRNA sequences from miRBase. The microPC enables users to compare stored mature or precursor miRNAs and user-supplied sequences among plant species. The search utility allows users to investigate the predicted miRNAs and miRNA targets in detail via various search options such as miRNA family and plant species. To enhance the database usage, the prediction utility provides interactive steps for determining a miRNA or miRNA targets from an input nucleotide sequence and links the prediction results to their homologs in the microPC. CONCLUSION: The microPC constitutes the first online resource that enables users to comprehensively compare and predict plant miRNAs and their targets. It imparts a basis for further research on revealing miRNA conservation, function, and evolution across plant species and classification. The microPC is available at http://www.biotec.or.th/isl/micropc.
+
+-Base Sequence
++Databases, Nucleic Acid
+-MicroRNAs (+chemistry)
+-Molecular Sequence Data
+-Nucleic Acid Conformation
++Online Systems
+-Phylogeny
+-RNA, Plant (+chemistry)
+-Sequence Analysis, RNA
+
+pii:1471-2164-10-366
+doi:10.1186/1471-2164-10-366
+pubmed:19660144
+pmc:PMC2907689
+

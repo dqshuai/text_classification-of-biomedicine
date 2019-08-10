@@ -1,0 +1,33 @@
+Mol. Biol. Cell
+
+Regulation of cell death by recycling endosomes and golgi membrane dynamics via a pathway involving Src-family kinases, Cdc42 and Rab11a.
+
+MC Landry, A Sicotte, C Champagne, JN Lavoie
+
+Actin dynamics and membrane trafficking influence cell commitment to programmed cell death through largely undefined mechanisms. To investigate how actin and recycling endosome (RE) trafficking can engage death signaling, we studied the death program induced by the adenovirus early region 4 open reading frame 4 (E4orf4) protein as a model. We found that in the early stages of E4orf4 expression, Src-family kinases (SFKs), Cdc42, and actin perturbed the organization of the endocytic recycling compartment and promoted the transport of REs to the Golgi apparatus, while inhibiting recycling of protein cargos to the plasma membrane. The resulting changes in Golgi membrane dynamics that relied on actin-regulated Rab11a membrane trafficking triggered scattering of Golgi membranes and contributed to the progression of cell death. A similar mobilization of RE traffic mediated by SFKs, Cdc42 and Rab11a also contributed to Golgi fragmentation and to cell death progression in response to staurosporine, in a caspase-independent manner. Collectively, these novel findings suggest that diversion of RE trafficking to the Golgi complex through a pathway involving SFKs, Cdc42, and Rab11a plays a general role in death signaling by mediating regulated changes in Golgi dynamics.
+
+-Actins (-metabolism)
+-Biological Transport (-drug effects)
+-Caspases (-metabolism)
+-Cell Compartmentation (-drug effects)
+-Cell Death (-drug effects)
+-Cell Line, Tumor
+-Cell Membrane (-drug effects; -metabolism)
++Endocytosis (-drug effects)
+-Endosomes (-drug effects; +enzymology)
+-Golgi Apparatus (-drug effects; +enzymology)
+-Humans
+-Intracellular Membranes (-drug effects; +enzymology)
+-Models, Biological
+-Signal Transduction (-drug effects)
+-Staurosporine (-pharmacology)
+-Viral Proteins (-metabolism)
+-cdc42 GTP-Binding Protein (+metabolism)
+-rab GTP-Binding Proteins (+metabolism)
+-src-Family Kinases (+metabolism)
+
+pii:E09-01-0057
+doi:10.1091/mbc.E09-01-0057
+pubmed:19641023
+pmc:PMC2743627
+

@@ -1,0 +1,26 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Structure of PlcR: Insights into virulence regulation and evolution of quorum sensing in Gram-positive bacteria.
+
+N Declerck, L Bouillaut, D Chaix, N Rugani, L Slamti, F Hoh, D Lereclus, ST Arold
+
+Gram-positive bacteria use a wealth of extracellular signaling peptides, so-called autoinducers, to regulate gene expression according to population densities. These "quorum sensing" systems control vital processes such as virulence, sporulation, and gene transfer. Using x-ray analysis, we determined the structure of PlcR, the major virulence regulator of the Bacillus cereus group, and obtained mechanistic insights into the effects of autoinducer binding. Our structural and phylogenetic analysis further suggests that all of those quorum sensors that bind directly to their autoinducer peptide derive from a common ancestor and form a single family (the RNPP family, for Rap/NprR/PlcR/PrgX) with conserved features. As a consequence, fundamentally different processes in different bacterial genera appear regulated by essentially the same autoinducer recognition mechanism. Our results shed light on virulence control by PlcR and elucidate origin and evolution of multicellular behavior in bacteria.
+
+-Bacterial Proteins (+chemistry; -classification; -genetics; +metabolism)
+-Crystallography, X-Ray
++Evolution, Molecular
+-Gram-Positive Bacteria (-chemistry; -genetics; +metabolism; +pathogenicity)
+-Models, Molecular
+-Protein Binding
+-Protein Structure, Quaternary
+-Protein Structure, Tertiary
++Quorum Sensing
+-Structural Homology, Protein
+-Trans-Activators (+chemistry; -classification; -genetics; +metabolism)
+-Virulence
+
+pii:0704501104
+doi:10.1073/pnas.0704501104
+pubmed:17998541
+pmc:PMC2141804
+

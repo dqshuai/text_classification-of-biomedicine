@@ -1,0 +1,34 @@
+Leukemia
+
+Activation of p53 by Nutlin-3a, an antagonist of MDM2, induces apoptosis and cellular senescence in adult T-cell leukemia cells.
+
+H Hasegawa, Y Yamada, H Iha, K Tsukasaki, K Nagai, S Atogami, K Sugahara, K Tsuruda, A Ishizaki, S Kamihira
+
+It has been reported that the induction of cellular senescence through p53 activation is an effective strategy in tumor regression. Unfortunately, however, tumors including adult T-cell leukemia/lymphoma (ATL) have disadvantages such as p53 mutations and a lack of p16(INK4a) and/or p14(ARF). In this study we characterized Nutlin-3a-induced cell death in 16 leukemia/lymphoma cell lines. Eight cell lines, including six ATL-related cell lines, had wild-type p53 and Nutlin-3a-activated p53, and the cell lines underwent apoptosis or cell-cycle arrest, whereas eight cell lines with mutated p53 were resistant. Interestingly, senescence-associated-beta-galactosidase (SA-beta-gal) staining revealed that only ATL-related cell lines with wild-type p53 showed cellular senescence, although they lack both p16(INK4a) and p14(ARF). These results indicate that cellular senescence is an important event in p53-dependent cell death in ATL cells and is inducible without p16(INK4a) and p14(ARF). Furthermore, knockdown of Tp53-induced glycolysis and apoptosis regulator (TIGAR), a novel target gene of p53, by small interfering RNA(siRNA) indicated its important role in the induction of cellular senescence. As many patients with ATL carry wild-type p53, our study suggests that p53 activation by Nutlin-3a is a promising strategy in ATL. We also found synergism with a combination of Nutlin-3a and tumor necrosis factor-related apoptosis-inducing ligand (TRAIL), suggesting the application of Nutlin-3a-based therapy to be broader than expected.
+
+-Adult
+-Apoptosis (+drug effects)
+-Burkitt Lymphoma (-drug therapy; -pathology)
+-Cell Aging (-drug effects)
+-Cell Cycle (-drug effects)
+-Cell Line, Transformed
+-Cell Line, Tumor
+-Cell Proliferation (-drug effects)
+-Cyclin-Dependent Kinase Inhibitor p16 (-genetics)
+-Drug Synergism
+-Humans
+-Imidazoles (-metabolism; +pharmacology)
+-Intracellular Signaling Peptides and Proteins (-genetics)
+-Jurkat Cells
+-Leukemia-Lymphoma, Adult T-Cell (+drug therapy; +pathology)
+-Piperazines (-metabolism; +pharmacology)
+-Proto-Oncogene Proteins c-mdm2 (-antagonists & inhibitors)
+-RNA, Small Interfering
+-TNF-Related Apoptosis-Inducing Ligand (-pharmacology)
+-Tumor Suppressor Protein p14ARF (-genetics)
+-Tumor Suppressor Protein p53 (-genetics; +metabolism)
+
+pii:leu2009171
+doi:10.1038/leu.2009.171
+pubmed:19710698
+

@@ -1,0 +1,32 @@
+Oncogene
+
+Anticancer DNA intercalators cause p53-dependent mitochondrial DNA nucleoid re-modelling.
+
+N Ashley, J Poulton
+
+Many anticancer drugs, such as doxorubicin (DXR), intercalate into nuclear DNA of cancer cells, thereby inhibiting their growth. However, it is not well understood how such drugs interact with mitochondrial DNA (mtDNA). Using cell and molecular studies of cultured cells, we show that DXR and other DNA intercalators, such as ethidium bromide, can rapidly intercalate into mtDNA within living cells, causing aggregation of mtDNA nucleoids and altering the distribution of nucleoid proteins. Remodelled nucleoids excluded DXR and maintained mtDNA synthesis, whereas non-remodelled nucleoids became heavily intercalated with DXR, which inhibited their replication, thus leading to mtDNA depletion. Remodelling was accompanied by extensive mitochondrial elongation or interconnection, and was suppressed in cells lacking mitofusin 1 and optic atrophy 1 (OPA1), the key proteins for mitochondrial fusion. In contrast, remodelling was significantly increased by p53 or ataxia telangiectasia mutated inhibition (ATM), indicating a link between nucleoid dynamics and the genomic DNA damage response. Collectively, our results show that DNA intercalators can trigger a common mitochondrial response, which likely contributes to the marked clinical toxicity associated with these drugs.
+
+-Animals
+-Antibiotics, Antineoplastic (-pharmacology)
+-Cell Cycle Proteins (-genetics; -metabolism)
+-Cell Line
+-DNA Damage (+drug effects)
+-DNA, Mitochondrial (+metabolism)
+-DNA-Binding Proteins (-genetics; -metabolism)
+-Doxorubicin (+pharmacology)
+-Ethidium (+pharmacology)
+-GTP Phosphohydrolases (-genetics; -metabolism)
+-Humans
+-Intercalating Agents (+pharmacology)
+-Membrane Proteins (-genetics; -metabolism)
+-Membrane Transport Proteins (-genetics; -metabolism)
+-Mitochondrial Proteins (-genetics; -metabolism)
+-Protein-Serine-Threonine Kinases (-genetics; -metabolism)
+-Rats
+-Tumor Suppressor Protein p53 (+metabolism)
+-Tumor Suppressor Proteins (-genetics; -metabolism)
+
+pii:onc2009242
+doi:10.1038/onc.2009.242
+pubmed:19684617
+

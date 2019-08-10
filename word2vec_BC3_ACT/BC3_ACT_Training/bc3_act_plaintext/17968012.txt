@@ -1,0 +1,26 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Analysis of sigma32 mutants defective in chaperone-mediated feedback control reveals unexpected complexity of the heat shock response.
+
+T Yura, E Guisbert, M Poritz, CZ Lu, E Campbell, CA Gross
+
+Protein quality control is accomplished by inducing chaperones and proteases in response to an altered cellular folding state. In Escherichia coli, expression of chaperones and proteases is positively regulated by sigma32. Chaperone-mediated negative feedback control of sigma32 activity allows this transcription factor to sense the cellular folding state. We identified point mutations in sigma32 altered in feedback control. Surprisingly, such mutants are resistant to inhibition by both the DnaK/J and GroEL/S chaperones in vivo and also show dramatically increased stability. Further characterization of the most defective mutant revealed that it has almost normal binding to chaperones and RNA polymerase and is competent for chaperone-mediated inactivation in vitro. We suggest that the mutants identify a regulatory step downstream of chaperone binding that is required for both inactivation and degradation of sigma32.
+
+-Amino Acid Sequence
+-Base Sequence
+-Escherichia coli (-enzymology; +genetics)
+-Escherichia coli Proteins (-genetics; -physiology)
+-Feedback
+-Gene Expression Regulation, Bacterial
+-Heat-Shock Proteins (+genetics)
+-Molecular Chaperones (-genetics; -physiology)
+-Mutation
+-Plasmids
+-Point Mutation
+-Sigma Factor (+genetics)
+
+pii:0708819104
+doi:10.1073/pnas.0708819104
+pubmed:17968012
+pmc:PMC2077055
+

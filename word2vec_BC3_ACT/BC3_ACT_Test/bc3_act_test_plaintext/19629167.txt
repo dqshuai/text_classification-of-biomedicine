@@ -1,0 +1,20 @@
+PLoS Genet.
+
+On quality control measures in genome-wide association studies: a test to assess the genotyping quality of individual probands in family-based association studies and an application to the HapMap data.
+
+DW Fardo, I Ionita-Laza, C Lange
+
+Allele transmissions in pedigrees provide a natural way of evaluating the genotyping quality of a particular proband in a family-based, genome-wide association study. We propose a transmission test that is based on this feature and that can be used for quality control filtering of genome-wide genotype data for individual probands. The test has one degree of freedom and assesses the average genotyping error rate of the genotyped SNPs for a particular proband. As we show in simulation studies, the test is sufficiently powerful to identify probands with an unreliable genotyping quality that cannot be detected with standard quality control filters. This feature of the test is further exemplified by an application to the third release of the HapMap data. The test is ideally suited as the final layer of quality control filters in the cleaning process of genome-wide association studies. It identifies probands with insufficient genotyping quality that were not removed by standard quality control filtering.
+
+-Genome-Wide Association Study (+standards)
+-Genotype
+-Humans
+-Linkage Disequilibrium
+-Pedigree
+-Polymorphism, Single Nucleotide
++Software
+
+doi:10.1371/journal.pgen.1000572
+pubmed:19629167
+pmc:PMC2706974
+

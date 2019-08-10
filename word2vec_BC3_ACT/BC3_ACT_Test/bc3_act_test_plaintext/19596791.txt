@@ -1,0 +1,37 @@
+Mol. Cell. Biol.
+
+Coupling phosphate homeostasis to cell cycle-specific transcription: mitotic activation of Saccharomyces cerevisiae PHO5 by Mcm1 and Forkhead proteins.
+
+S Pondugula, DW Neef, WP Voth, RP Darst, A Dhasarathy, MM Reynolds, S Takahata, DJ Stillman, MP Kladde
+
+Cells devote considerable resources to nutrient homeostasis, involving nutrient surveillance, acquisition, and storage at physiologically relevant concentrations. Many Saccharomyces cerevisiae transcripts coding for proteins with nutrient uptake functions exhibit peak periodic accumulation during M phase, indicating that an important aspect of nutrient homeostasis involves transcriptional regulation. Inorganic phosphate is a central macronutrient that we have previously shown oscillates inversely with mitotic activation of PHO5. The mechanism of this periodic cell cycle expression remains unknown. To date, only two sequence-specific activators, Pho4 and Pho2, were known to induce PHO5 transcription. We provide here evidence that Mcm1, a MADS-box protein, is essential for PHO5 mitotic activation. In addition, we found that cells simultaneously lacking the forkhead proteins, Fkh1 and Fkh2, exhibited a 2.5-fold decrease in PHO5 expression. The Mcm1-Fkh2 complex, first shown to transactivate genes within the CLB2 cluster that drive G(2)/M progression, also associated directly at the PHO5 promoter in a cell cycle-dependent manner in chromatin immunoprecipitation assays. Sds3, a component specific to the Rpd3L histone deacetylase complex, was also recruited to PHO5 in G(1). These findings provide (i) further mechanistic insight into PHO5 mitotic activation, (ii) demonstrate that Mcm1-Fkh2 can function combinatorially with other activators to yield late M/G(1) induction, and (iii) couple the mitotic cell cycle progression machinery to cellular phosphate homeostasis.
+
+-Acid Phosphatase (-chemistry; -genetics; -metabolism)
+-Amino Acid Sequence
+-Binding Sites
+-Cell Cycle Proteins (-metabolism)
+-DNA-Binding Proteins (-metabolism)
+-Enzyme Activation
+-Forkhead Transcription Factors (-metabolism)
+-G1 Phase
+-G2 Phase
+-Gene Deletion
++Homeostasis
++Mitosis
+-Models, Genetic
+-Molecular Sequence Data
+-Mutation (-genetics)
+-Phosphates (+metabolism)
+-Polyphosphates (-metabolism)
+-Promoter Regions, Genetic (-genetics)
+-Protein Binding
+-Saccharomyces cerevisiae (+cytology; -enzymology; +genetics)
+-Saccharomyces cerevisiae Proteins (-chemistry; -genetics; +metabolism)
+-Transcription Factors (-metabolism)
++Transcription, Genetic
+
+pii:MCB.00222-09
+doi:10.1128/MCB.00222-09
+pubmed:19596791
+pmc:PMC2738290
+

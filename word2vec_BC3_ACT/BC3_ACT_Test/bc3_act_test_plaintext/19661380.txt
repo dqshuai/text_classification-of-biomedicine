@@ -1,0 +1,13 @@
+Science
+
+Complete methods set for scalable ion trap quantum information processing.
+
+JP Home, D Hanneke, JD Jost, JM Amini, D Leibfried, DJ Wineland
+
+Large-scale quantum information processors must be able to transport and maintain quantum information and repeatedly perform logical operations. Here, we show a combination of all of the fundamental elements required to perform scalable quantum computing through the use of qubits stored in the internal states of trapped atomic ions. We quantified the repeatability of a multiple-qubit operation and observed no loss of performance despite qubit transport over macroscopic distances. Key to these results is the use of different pairs of 9Be+ hyperfine states for robust qubit storage, readout, and gates, and simultaneous trapping of 24Mg+ "re-cooling" ions along with the qubit ions.
+
+
+pii:1177077
+doi:10.1126/science.1177077
+pubmed:19661380
+

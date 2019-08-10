@@ -1,0 +1,26 @@
+J. Bacteriol.
+
+Nucleotide excision repair is a predominant mechanism for processing nitrofurazone-induced DNA damage in Escherichia coli.
+
+KR Ona, CT Courcelle, J Courcelle
+
+Nitrofurazone is reduced by cellular nitroreductases to form N(2)-deoxyguanine (N(2)-dG) adducts that are associated with mutagenesis and lethality. Much attention recently has been given to the role that the highly conserved polymerase IV (Pol IV) family of polymerases plays in tolerating adducts induced by nitrofurazone and other N(2)-dG-generating agents, yet little is known about how nitrofurazone-induced DNA damage is processed by the cell. In this study, we characterized the genetic repair pathways that contribute to survival and mutagenesis in Escherichia coli cultures grown in the presence of nitrofurazone. We find that nucleotide excision repair is a primary mechanism for processing damage induced by nitrofurazone. The contribution of translesion synthesis to survival was minor compared to that of nucleotide excision repair and depended upon Pol IV. In addition, survival also depended on both the RecF and RecBCD pathways. We also found that nitrofurazone acts as a direct inhibitor of DNA replication at higher concentrations. We show that the direct inhibition of replication by nitrofurazone occurs independently of DNA damage and is reversible once the nitrofurazone is removed. Previous studies that reported nucleotide excision repair mutants that were fully resistant to nitrofurazone used high concentrations of the drug (200 microM) and short exposure times. We demonstrate here that these conditions inhibit replication but are insufficient in duration to induce significant levels of DNA damage.
+
+-DNA Damage (+drug effects)
+-DNA Repair (-genetics; +physiology)
+-DNA Replication (-drug effects)
+-DNA-Binding Proteins (-metabolism)
+-Escherichia coli (+drug effects; +genetics; -growth & development; -metabolism)
+-Escherichia coli Proteins (-metabolism)
+-Exodeoxyribonuclease V (-metabolism)
+-Gene Expression Regulation, Bacterial (-drug effects; -genetics)
+-Mutagenesis
+-Nitrofurazone (+toxicity)
+-Signal Transduction (-genetics; -physiology)
+-Ultraviolet Rays
+
+pii:JB.00495-09
+doi:10.1128/JB.00495-09
+pubmed:19465649
+pmc:PMC2715711
+

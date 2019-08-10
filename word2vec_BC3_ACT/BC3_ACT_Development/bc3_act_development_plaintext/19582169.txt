@@ -1,0 +1,18 @@
+PLoS ONE
+
+Multiple horizontal gene transfer events and domain fusions have created novel regulatory and metabolic networks in the oomycete genome.
+
+PF Morris, LR Schlosser, KD Onasch, T Wittenschlaeger, R Austin, N Provart
+
+Complex enzymes with multiple catalytic activities are hypothesized to have evolved from more primitive precursors. Global analysis of the Phytophthora sojae genome using conservative criteria for evaluation of complex proteins identified 273 novel multifunctional proteins that were also conserved in P. ramorum. Each of these proteins contains combinations of protein motifs that are not present in bacterial, plant, animal, or fungal genomes. A subset of these proteins were also identified in the two diatom genomes, but the majority of these proteins have formed after the split between diatoms and oomycetes. Documentation of multiple cases of domain fusions that are common to both oomycetes and diatom genomes lends additional support for the hypothesis that oomycetes and diatoms are monophyletic. Bifunctional proteins that catalyze two steps in a metabolic pathway can be used to infer the interaction of orthologous proteins that exist as separate entities in other genomes. We postulated that the novel multifunctional proteins of oomycetes could function as potential Rosetta Stones to identify interacting proteins of conserved metabolic and regulatory networks in other eukaryotic genomes. However ortholog analysis of each domain within our set of 273 multifunctional proteins against 39 sequenced bacterial and eukaryotic genomes, identified only 18 candidate Rosetta Stone proteins. Thus the majority of multifunctional proteins are not Rosetta Stones, but they may nonetheless be useful in identifying novel metabolic and regulatory networks in oomycetes. Phylogenetic analysis of all the enzymes in three pathways with one or more novel multifunctional proteins was conducted to determine the probable origins of individual enzymes. These analyses revealed multiple examples of horizontal transfer from both bacterial genomes and the photosynthetic endosymbiont in the ancestral genome of Stramenopiles. The complexity of the phylogenetic origins of these metabolic pathways and the paucity of Rosetta Stones relative to the total number of multifunctional proteins suggests that the proteome of oomycetes has few features in common with other Kingdoms.
+
++Gene Fusion
++Gene Transfer, Horizontal
++Genome, Fungal
+-Oomycetes (+genetics; -metabolism)
+-Species Specificity
+
+doi:10.1371/journal.pone.0006133
+pubmed:19582169
+pmc:PMC2705460
+

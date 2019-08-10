@@ -1,0 +1,29 @@
+PLoS Pathog.
+
+Rapid pathogen-induced apoptosis: a mechanism used by dendritic cells to limit intracellular replication of Legionella pneumophila.
+
+CV Nogueira, T Lindsten, AM Jamieson, CL Case, S Shin, CB Thompson, CR Roy
+
+Dendritic cells (DCs) are specialized phagocytes that internalize exogenous antigens and microbes at peripheral sites, and then migrate to lymphatic organs to display foreign peptides to naïve T cells. There are several examples where DCs have been shown to be more efficient at restricting the intracellular replication of pathogens compared to macrophages, a property that could prevent DCs from enhancing pathogen dissemination. To understand DC responses to pathogens, we investigated the mechanisms by which mouse DCs are able to restrict replication of the intracellular pathogen Legionella pneumophila. We show that both DCs and macrophages have the ability to interfere with L. pneumophila replication through a cell death pathway mediated by caspase-1 and Naip5. L. pneumophila that avoided Naip5-dependent responses, however, showed robust replication in macrophages but remained unable to replicate in DCs. Apoptotic cell death mediated by caspase-3 was found to occur much earlier in DCs following infection by L. pneumophila compared to macrophages infected similarly. Eliminating the pro-apoptotic proteins Bax and Bak or overproducing the anti-apoptotic protein Bcl-2 were both found to restore L. pneumophila replication in DCs. Thus, DCs have a microbial response pathway that rapidly activates apoptosis to limit pathogen replication.
+
+-Animals
++Apoptosis
+-Caspase 1 (-metabolism)
+-Caspase 3 (-metabolism)
+-DNA Fragmentation
+-Dendritic Cells (-immunology; +microbiology; +physiology)
+-Legionella pneumophila (+growth & development)
+-Legionnaires' Disease (+immunology; -microbiology)
+-Macrophages (-immunology; -microbiology)
+-Mice
+-Mice, Inbred C57BL
+-Microscopy, Fluorescence
+-Proto-Oncogene Proteins c-bcl-2 (-metabolism)
+-Signal Transduction
+-bcl-2 Homologous Antagonist-Killer Protein (-metabolism)
+-bcl-2-Associated X Protein (-metabolism)
+
+doi:10.1371/journal.ppat.1000478
+pubmed:19521510
+pmc:PMC2689937
+

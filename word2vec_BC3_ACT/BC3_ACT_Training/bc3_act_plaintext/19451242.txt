@@ -1,0 +1,27 @@
+Infect. Immun.
+
+CovS simultaneously activates and inhibits the CovR-mediated repression of distinct subsets of group A Streptococcus virulence factor-encoding genes.
+
+J Treviño, N Perez, E Ramirez-Peña, Z Liu, SA Shelburne, JM Musser, P Sumby
+
+To colonize and cause disease at distinct anatomical sites, bacterial pathogens must tailor gene expression in a microenvironment-specific manner. The molecular mechanisms that control the ability of the human bacterial pathogen group A Streptococcus (GAS) to transition between infection sites have yet to be fully elucidated. A key regulator of GAS virulence gene expression is the CovR-CovS two-component regulatory system (also known as CsrR-CsrS). covR and covS mutant strains arise spontaneously during invasive infections and, in in vivo models of infection, rapidly become dominant. Here, we compared wild-type GAS with covR, covS, and covRS isogenic mutant strains to investigate the heterogeneity in the types of natural mutations that occur in covR and covS and the phenotypic consequences of covR or covS mutation. We found that the response regulator CovR retains some regulatory function in the absence of CovS and that CovS modulates CovR to significantly enhance repression of one group of genes (e.g., the speA, hasA, and ska genes) while it reduces repression of a second group of genes (e.g., the speB, grab, and spd3 genes). We also found that different in vivo-induced covR mutations can lead to strikingly different transcriptomes. While covS mutant strains show increased virulence in several invasive models of infection, we determined that these mutants are significantly outcompeted by wild-type GAS during growth in human saliva, an ex vivo model of upper respiratory tract infection. We propose that CovS-mediated regulation of CovR activity plays an important role in the ability of GAS to cycle between pharyngeal and invasive infections.
+
+-Animals
+-Bacterial Proteins (-genetics; +physiology)
+-Gene Deletion
+-Gene Expression Profiling
++Gene Expression Regulation, Bacterial
+-Humans
+-Intracellular Signaling Peptides and Proteins (-genetics; +physiology)
+-Oligonucleotide Array Sequence Analysis
+-Repressor Proteins (-genetics; +physiology)
+-Saliva (-microbiology)
+-Streptococcus pyogenes (-genetics; -pathogenicity; +physiology)
+-Virulence
+-Virulence Factors (+biosynthesis)
+
+pii:IAI.01560-08
+doi:10.1128/IAI.01560-08
+pubmed:19451242
+pmc:PMC2715666
+

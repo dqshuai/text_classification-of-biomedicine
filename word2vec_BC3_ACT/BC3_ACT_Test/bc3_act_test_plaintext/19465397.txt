@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+HotSpot Wizard: a web server for identification of hot spots in protein engineering.
+
+A Pavelka, E Chovancova, J Damborsky
+
+HotSpot Wizard is a web server for automatic identification of 'hot spots' for engineering of substrate specificity, activity or enantioselectivity of enzymes and for annotation of protein structures. The web server implements the protein engineering protocol, which targets evolutionarily variable amino acid positions located in the active site or lining the access tunnels. The 'hot spots' for mutagenesis are selected through the integration of structural, functional and evolutionary information obtained from: (i) the databases RCSB PDB, UniProt, PDBSWS, Catalytic Site Atlas and nr NCBI and (ii) the tools CASTp, CAVER, BLAST, CD-HIT, MUSCLE and Rate4Site. The protein structure and e-mail address are the only obligatory inputs for the calculation. In the output, HotSpot Wizard lists annotated residues ordered by estimated mutability. The results of the analysis are mapped on the enzyme structure and visualized in the web browser using Jmol. The HotSpot Wizard server should be useful for protein engineers interested in exploring the structure of their favourite protein and for the design of mutations in site-directed mutagenesis and focused directed evolution experiments. HotSpot Wizard is available at http://loschmidt.chemi.muni.cz/hotspotwizard/.
+
+-Glycoside Hydrolases (-chemistry)
+-Hydrolases (-chemistry)
+-Internet
+-Phosphoric Triester Hydrolases (-chemistry)
++Protein Engineering
+-Reproducibility of Results
++Software
+-User-Computer Interface
+-beta-Lactamases (-chemistry)
+
+pii:gkp410
+doi:10.1093/nar/gkp410
+pubmed:19465397
+pmc:PMC2703904
+

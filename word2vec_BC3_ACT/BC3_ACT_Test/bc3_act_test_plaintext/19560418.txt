@@ -1,0 +1,27 @@
+Mol. Cell
+
+KSR2 is a calcineurin substrate that promotes ERK cascade activation in response to calcium signals.
+
+MK Dougherty, DA Ritt, M Zhou, SI Specht, DM Monson, TD Veenstra, DK Morrison
+
+Protein scaffolds have emerged as important regulators of MAPK cascades, facilitating kinase activation and providing crucial spatio/temporal control to their signaling outputs. Using a proteomics approach to compare the binding partners of the two mammalian KSR scaffolds, we find that both KSR1 and KSR2 interact with the kinase components of the ERK cascade and have a common function in promoting RTK-mediated ERK signaling. Strikingly, we find that the protein phosphatase calcineurin selectively interacts with KSR2 and that KSR2 uniquely contributes to Ca2+-mediated ERK signaling. Calcineurin dephosphorylates KSR2 on specific sites in response to Ca2+ signals, thus regulating KSR2 localization and activity. Moreover, we find that depletion of endogenous KSR2 impairs Ca2+-mediated ERK activation and ERK-dependent signaling responses in INS1 pancreatic beta-cells and NG108 neuroblastoma cells. These findings identify KSR2 as a Ca2+-regulated ERK scaffold and reveal a new mechanism whereby Ca2+ impacts Ras to ERK pathway signaling.
+
+-Animals
+-COS Cells
+-Calcineurin (+metabolism)
++Calcium Signaling
+-Cercopithecus aethiops
+-Extracellular Signal-Regulated MAP Kinases (+metabolism)
+-Humans
++MAP Kinase Signaling System
+-Mice
+-Protein-Serine-Threonine Kinases (-analysis; -chemistry; -metabolism; +physiology)
+-RNA Interference
+-Rats
+
+pii:S1097-2765(09)00392-X
+doi:10.1016/j.molcel.2009.06.001
+pubmed:19560418
+mid:NIHMS124944
+pmc:PMC2737517
+

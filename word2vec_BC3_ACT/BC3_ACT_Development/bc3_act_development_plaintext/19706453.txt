@@ -1,0 +1,29 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Out of Africa: modern human origins special feature: explaining worldwide patterns of human genetic variation using a coalescent-based serial founder model of migration outward from Africa.
+
+M DeGiorgio, M Jakobsson, NA Rosenberg
+
+Studies of worldwide human variation have discovered three trends in summary statistics as a function of increasing geographic distance from East Africa: a decrease in heterozygosity, an increase in linkage disequilibrium (LD), and a decrease in the slope of the ancestral allele frequency spectrum. Forward simulations of unlinked loci have shown that the decline in heterozygosity can be described by a serial founder model, in which populations migrate outward from Africa through a process where each of a series of populations is formed from a subset of the previous population in the outward expansion. Here, we extend this approach by developing a retrospective coalescent-based serial founder model that incorporates linked loci. Our model both recovers the observed decline in heterozygosity with increasing distance from Africa and produces the patterns observed in LD and the ancestral allele frequency spectrum. Surprisingly, although migration between neighboring populations and limited admixture between modern and archaic humans can be accommodated in the model while continuing to explain the three trends, a competing model in which a wave of outward modern human migration expands into a series of preexisting archaic populations produces nearly opposite patterns to those observed in the data. We conclude by developing a simpler model to illustrate that the feature that permits the serial founder model but not the archaic persistence model to explain the three trends observed with increasing distance from Africa is its incorporation of a cumulative effect of genetic drift as humans colonized the world.
+
+-Africa
+-Animals
+-Anthropology, Physical (-methods)
++Evolution
+-Evolution, Molecular
+-Fossils
+-Founder Effect
++Genetic Variation
+-Genetics, Population
+-Heterozygote
+-Hominidae (-anatomy & histology; -classification; +genetics)
+-Humans
+-Linkage Disequilibrium
+-Models, Genetic
+-Population Dynamics
+
+pii:0903341106
+doi:10.1073/pnas.0903341106
+pubmed:19706453
+pmc:PMC2752555
+

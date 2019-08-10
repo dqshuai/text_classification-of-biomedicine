@@ -1,0 +1,26 @@
+J. Bacteriol.
+
+Identification of a terminal rhamnopyranosyltransferase (RptA) involved in Corynebacterium glutamicum cell wall biosynthesis.
+
+HL Birch, LJ Alderwick, D Rittmann, K Krumbach, H Etterich, A Grzegorzewicz, MR McNeil, L Eggeling, GS Besra
+
+A bioinformatics approach identified a putative integral membrane protein, NCgl0543, in Corynebacterium glutamicum, with 13 predicted transmembrane domains and a glycosyltransferase motif (RXXDE), features that are common to the glycosyltransferase C superfamily of glycosyltransferases. The deletion of C. glutamicum NCgl0543 resulted in a viable mutant. Further glycosyl linkage analyses of the mycolyl-arabinogalactan-peptidoglycan complex revealed a reduction of terminal rhamnopyranosyl-linked residues and, as a result, a corresponding loss of branched 2,5-linked arabinofuranosyl residues, which was fully restored upon the complementation of the deletion mutant by NCgl0543. As a result, we have now termed this previously uncharacterized open reading frame, rhamnopyranosyltransferase A (rptA). Furthermore, an analysis of base-stable extractable lipids from C. glutamicum revealed the presence of decaprenyl-monophosphorylrhamnose, a putative substrate for the cognate cell wall transferase.
+
+-Amino Acid Sequence
+-Bacterial Proteins (-genetics; +metabolism)
+-Cell Wall (-chemistry; +enzymology; -genetics; +metabolism)
+-Chromatography, Gas
+-Corynebacterium glutamicum (-chemistry; +enzymology; -genetics; +metabolism)
+-Gas Chromatography-Mass Spectrometry
+-Genome, Bacterial (-genetics; -physiology)
+-Glycolipids (-chemistry; -metabolism)
+-Glycosyltransferases (-genetics; +metabolism)
+-Models, Biological
+-Molecular Sequence Data
+-Sequence Homology, Amino Acid
+
+pii:JB.00296-09
+doi:10.1128/JB.00296-09
+pubmed:19482925
+pmc:PMC2715713
+

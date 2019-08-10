@@ -1,0 +1,27 @@
+Eukaryotic Cell
+
+Phosphatidylinositol-4,5-bisphosphate and phospholipase D-generated phosphatidic acid specify SNARE-mediated vesicle fusion for prospore membrane formation.
+
+R Mendonsa, J Engebrecht
+
+The soluble N-ethylmaleimide sensitive factor attachment protein receptor (SNARE) family of proteins is required for eukaryotic intracellular membrane fusions. Vesicle fusion for formation of the prospore membrane (PSM), a membrane compartment that forms de novo during yeast sporulation, requires SNARE function, phosphatidylinositol-4,5-bisphosphate [PI(4,5)P(2)], and the activity of the phospholipase D (PLD) Spo14p, which generates phosphatidic acid (PA). The SNARE syntaxin Sso1p is essential for PSM production while the functionally redundant homolog in vegetative growth, Sso2p, is not. We demonstrate that Sso1p and Sso2p bind similarly in vitro to PA or phosphoinositide-containing liposomes and that the conserved SNARE (H3) domain largely mediates PA-binding. Both green fluorescent protein-Sso fusion proteins localize to the developing PSM in wild-type cells and to the spindle pole body in spo14Delta cells induced to sporulate. However, the autoregulatory region of Sso1p binds PI(4,5)P(2)-containing liposomes in vitro with a greater ability than the equivalent region of Sso2p. Overexpression of the phosphatidylinositol-4-phosphate 5-kinase MSS4 in sso1Delta cells induced to sporulate stimulates PSM production; PLD activity is not increased under these conditions, indicating that PI(4,5)P(2) has roles in addition to stimulating PLD in PSM formation. These data suggest that PLD-generated PA and PI(4,5)P(2) collaborate at multiple levels to promote SNARE-mediated fusion for PSM formation.
+
+-Amino Acid Sequence
+-Cytoplasmic Vesicles (-physiology)
++Membrane Fusion
+-Molecular Sequence Data
+-Phosphatidic Acids (+metabolism)
+-Phosphatidylinositol 4,5-Diphosphate (+metabolism)
+-Phospholipase D (-genetics; +metabolism)
+-Protein Binding
+-Protein Structure, Tertiary
+-Qa-SNARE Proteins (-chemistry; -genetics; +metabolism)
+-Saccharomyces cerevisiae (-enzymology; -genetics; +physiology)
+-Saccharomyces cerevisiae Proteins (-chemistry; -genetics; +metabolism)
+-Spores, Fungal (-enzymology; -genetics; +physiology)
+
+pii:EC.00076-09
+doi:10.1128/EC.00076-09
+pubmed:19502581
+pmc:PMC2725554
+

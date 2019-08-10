@@ -1,0 +1,24 @@
+BioTechniques
+
+Nanoliter high-throughput RT-qPCR: a statistical analysis and assessment.
+
+JM Dixon, M Lubomirski, D Amaratunga, TB Morrison, CJ Brenan, SE Ilyin
+
+Biomarkers discovered from gene expression profiles using hybridization microarrays have made great inroads in the diagnosis and development of safer and efficacious drugs. The candidate gene set is biologically validated by quantitative measurement with reverse transcriptase quantitative PCR (RT-qPCR) and is an effective strategy when implemented with microplates if the number of candidate genes and samples is small. With the trend toward informative candidate gene panels increasing from tens to hundreds of genes and sample cohorts exceeding several hundred, an alternative fluidic approach is needed that preserves the intrinsic analytical precision, large dynamic range, and high sensitivity of RT-qPCR, yet is scalable to high throughputs. We have evaluated the performance of a nanoliter fluidic system that enables up to 3072 nanoliter RT-qPCR assays simultaneously in a high-density array format. We measured the transcription from two different adult human tissues to assess measurement reproducibility across replicates, measurement accuracy, precision, specificity, and sensitivity; determined the false positive rate (FPR) and false negative rate (FNR) of the expressed transcript copies; and determined differences in kinase gene expression reflecting tissue and dosage differences. Using our methodology, we confirm the potential of this technology in advancing pharmaceutical research and development.
+
+-False Negative Reactions
+-Gene Expression Profiling
+-Gene Expression Regulation
+-Green Fluorescent Proteins (-metabolism)
+-Humans
+-Liver (-metabolism)
+-Myocardium (-metabolism)
+-Nanotechnology (+methods)
+-Oligonucleotide Array Sequence Analysis
+-Principal Component Analysis
+-Reverse Transcriptase Polymerase Chain Reaction (+methods)
+
+pii:000112746
+doi:10.2144/000112746
+pubmed:19480642
+

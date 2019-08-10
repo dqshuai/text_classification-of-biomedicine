@@ -1,0 +1,25 @@
+PLoS Genet.
+
+A genome-wide association study of hypertension and blood pressure in African Americans.
+
+A Adeyemo, N Gerry, G Chen, A Herbert, A Doumatey, H Huang, J Zhou, K Lashley, Y Chen, M Christman, C Rotimi
+
+The evidence for the existence of genetic susceptibility variants for the common form of hypertension ("essential hypertension") remains weak and inconsistent. We sought genetic variants underlying blood pressure (BP) by conducting a genome-wide association study (GWAS) among African Americans, a population group in the United States that is disproportionately affected by hypertension and associated complications, including stroke and kidney diseases. Using a dense panel of over 800,000 SNPs in a discovery sample of 1,017 African Americans from the Washington, D.C., metropolitan region, we identified multiple SNPs reaching genome-wide significance for systolic BP in or near the genes: PMS1, SLC24A4, YWHA7, IPO7, and CACANA1H. Two of these genes, SLC24A4 (a sodium/potassium/calcium exchanger) and CACNA1H (a voltage-dependent calcium channel), are potential candidate genes for BP regulation and the latter is a drug target for a class of calcium channel blockers. No variant reached genome wide significance for association with diastolic BP (top scoring SNP rs1867226, p = 5.8 x 10(-7)) or with hypertension as a binary trait (top scoring SNP rs9791170, p = 5.1 x 10(-7)). We replicated some of the significant SNPs in a sample of West Africans. Pathway analysis revealed that genes harboring top-scoring variants cluster in pathways and networks of biologic relevance to hypertension and BP regulation. This is the first GWAS for hypertension and BP in an African American population. The findings suggests that, in addition to or in lieu of relying solely on replicated variants of moderate-to-large effect reaching genome-wide significance, pathway and network approaches may be useful in identifying and prioritizing candidate genes/loci for further experiments.
+
+-African Americans (+genetics)
+-Antiporters (-genetics)
+-Blood Pressure (+genetics)
+-Cluster Analysis
++Genome-Wide Association Study
+-Humans
+-Hypertension (+genetics)
+-Karyopherins (-genetics)
+-Neoplasm Proteins (-genetics)
+-Polymorphism, Single Nucleotide
+-Receptors, Cytoplasmic and Nuclear (-genetics)
+-United States (-epidemiology; -ethnology)
+
+doi:10.1371/journal.pgen.1000564
+pubmed:19609347
+pmc:PMC2702100
+

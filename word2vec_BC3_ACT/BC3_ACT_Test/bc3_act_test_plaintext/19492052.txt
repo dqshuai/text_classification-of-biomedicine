@@ -1,0 +1,27 @@
+PLoS ONE
+
+Resolution of ultramicroscopy and field of view analysis.
+
+U Leischner, W Zieglgänsberger, HU Dodt
+
+In a recent publication we described a microscopical technique called Ultramicroscopy, combined with a histological procedure that makes biological samples transparent. With this combination we can gather three-dimensional image data of large biological samples. Here we present the theoretical analysis of the z-resolution. By analyzing the cross-section of the illuminating sheet of light we derive resolution values according to the Rayleigh-criterion. Next we investigate the resolution adjacent to the focal point of the illumination beam, analyze throughout what extend the illumination beam is of acceptable sharpness and investigate the resolution improvements caused by the objective lens. Finally we conclude with a useful rule for the sampling rates. These findings are of practical importance for researchers working with Ultramicroscopy to decide on adequate sampling rates. They are also necessary to modify deconvolution techniques to gain further image improvements.
+
+-Algorithms
+-Animals
+-Animals, Genetically Modified
+-Equipment Design
+-Fluorescent Dyes (-pharmacology)
+-Fourier Analysis
+-Green Fluorescent Proteins (-chemistry)
+-Image Processing, Computer-Assisted
+-Immunohistochemistry (-methods)
+-Light
+-Microscopy (+instrumentation; +methods)
+-Models, Statistical
+-Models, Theoretical
++Optics and Photonics
+
+doi:10.1371/journal.pone.0005785
+pubmed:19492052
+pmc:PMC2685988
+

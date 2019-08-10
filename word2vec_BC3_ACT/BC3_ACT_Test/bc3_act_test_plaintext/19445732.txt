@@ -1,0 +1,22 @@
+BMC Plant Biol.
+
+GarlicESTdb: an online database and mining tool for garlic EST sequences.
+
+DW Kim, TS Jung, SH Nam, HR Kwon, A Kim, SH Chae, SH Choi, DW Kim, RN Kim, HS Park
+
+BACKGROUND: Allium sativum., commonly known as garlic, is a species in the onion genus (Allium), which is a large and diverse one containing over 1,250 species. Its close relatives include chives, onion, leek and shallot. Garlic has been used throughout recorded history for culinary, medicinal use and health benefits. Currently, the interest in garlic is highly increasing due to nutritional and pharmaceutical value including high blood pressure and cholesterol, atherosclerosis and cancer. For all that, there are no comprehensive databases available for Expressed Sequence Tags(EST) of garlic for gene discovery and future efforts of genome annotation. That is why we developed a new garlic database and applications to enable comprehensive analysis of garlic gene expression. DESCRIPTION: GarlicESTdb is an integrated database and mining tool for large-scale garlic (Allium sativum) EST sequencing. A total of 21,595 ESTs collected from an in-house cDNA library were used to construct the database. The analysis pipeline is an automated system written in JAVA and consists of the following components: automatic preprocessing of EST reads, assembly of raw sequences, annotation of the assembled sequences, storage of the analyzed information into MySQL databases, and graphic display of all processed data. A web application was implemented with the latest J2EE (Java 2 Platform Enterprise Edition) software technology (JSP/EJB/JavaServlet) for browsing and querying the database, for creation of dynamic web pages on the client side, and for mapping annotated enzymes to KEGG pathways, the AJAX framework was also used partially. The online resources, such as putative annotation, single nucleotide polymorphisms (SNP) and tandem repeat data sets, can be searched by text, explored on the website, searched using BLAST, and downloaded. To archive more significant BLAST results, a curation system was introduced with which biologists can easily edit best-hit annotation information for others to view. The GarlicESTdb web application is freely available at http://garlicdb.kribb.re.kr. CONCLUSION: GarlicESTdb is the first incorporated online information database of EST sequences isolated from garlic that can be freely accessed and downloaded. It has many useful features for interactive mining of EST contigs and datasets from each library, including curation of annotated information, expression profiling, information retrieval, and summary of statistics of functional annotation. Consequently, the development of GarlicESTdb will provide a crucial contribution to biologists for data-mining and more efficient experimental studies.
+
+-DNA, Plant (-genetics)
++Databases, Genetic
++Expressed Sequence Tags
+-Garlic (+genetics)
+-Gene Library
+-Genes, Plant
+-Sequence Analysis, DNA
+-Software
+
+pii:1471-2229-9-61
+doi:10.1186/1471-2229-9-61
+pubmed:19445732
+pmc:PMC2689220
+

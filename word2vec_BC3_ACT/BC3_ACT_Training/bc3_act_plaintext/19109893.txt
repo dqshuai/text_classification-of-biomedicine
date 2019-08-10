@@ -1,0 +1,26 @@
+Cell
+
+Structural basis of UV DNA-damage recognition by the DDB1-DDB2 complex.
+
+A Scrima, R Konícková, BK Czyzewski, Y Kawasaki, PD Jeffrey, R Groisman, Y Nakatani, S Iwai, NP Pavletich, NH Thomä
+
+Ultraviolet (UV) light-induced pyrimidine photodimers are repaired by the nucleotide excision repair pathway. Photolesions have biophysical parameters closely resembling undamaged DNA, impeding discovery through damage surveillance proteins. The DDB1-DDB2 complex serves in the initial detection of UV lesions in vivo. Here we present the structures of the DDB1-DDB2 complex alone and bound to DNA containing either a 6-4 pyrimidine-pyrimidone photodimer (6-4PP) lesion or an abasic site. The structure shows that the lesion is held exclusively by the WD40 domain of DDB2. A DDB2 hairpin inserts into the minor groove, extrudes the photodimer into a binding pocket, and kinks the duplex by approximately 40 degrees. The tightly localized probing of the photolesions, combined with proofreading in the photodimer pocket, enables DDB2 to detect lesions refractory to detection by other damage surveillance proteins. The structure provides insights into damage recognition in chromatin and suggests a mechanism by which the DDB1-associated CUL4 ubiquitin ligase targets proteins surrounding the site of damage.
+
+-Animals
+-DNA Damage
++DNA Repair
+-DNA-Binding Proteins (-chemistry; +metabolism)
+-Humans
+-Models, Molecular
+-Pyrimidine Dimers (-chemistry; -metabolism)
++Ultraviolet Rays
+-Xeroderma Pigmentosum (-genetics; -metabolism)
+-Zebrafish
+-Zebrafish Proteins (-metabolism)
+
+pii:S0092-8674(08)01383-4
+doi:10.1016/j.cell.2008.10.045
+pubmed:19109893
+mid:HHMIMS85720
+pmc:PMC2676164
+

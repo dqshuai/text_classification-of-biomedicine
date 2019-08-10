@@ -1,0 +1,25 @@
+PLoS ONE
+
+The small molecule inhibitor QLT0267 Radiosensitizes squamous cell carcinoma cells of the head and neck.
+
+I Eke, F Leonhardt, K Storch, S Hehlgans, N Cordes
+
+BACKGROUND: The constant increase of cancer cell resistance to radio- and chemotherapy hampers improvement of patient survival and requires novel targeting approaches. Integrin-Linked Kinase (ILK) has been postulated as potent druggable cancer target. On the basis of our previous findings clearly showing that ILK transduces antisurvival signals in cells exposed to ionizing radiation, this study evaluated the impact of the small molecule inhibitor QLT0267, reported as putative ILK inhibitor, on the cellular radiation survival response of human head and neck squamous cell carcinoma cells (hHNSCC). METHODOLOGY/PRINCIPAL FINDINGS: Parental FaDu cells and FaDu cells stably transfected with a constitutively active ILK mutant (FaDu-IH) or empty vectors, UTSCC45 cells, ILK(floxed/floxed(fl/fl)) and ILK(-/-) mouse fibroblasts were used. Cells grew either two-dimensionally (2D) on or three-dimensionally (3D) in laminin-rich extracellular matrix. Cells were treated with QLT0267 alone or in combination with irradiation (X-rays, 0-6 Gy single dose). ILK knockdown was achieved by small interfering RNA transfection. ILK kinase activity, clonogenic survival, number of residual DNA double strand breaks (rDSB; gammaH2AX/53BP1 foci assay), cell cycle distribution, protein expression and phosphorylation (e.g. Akt, p44/42 mitogen-activated protein kinase (MAPK)) were measured. Data on ILK kinase activity and phosphorylation of Akt and p44/42 MAPK revealed a broad inhibitory spectrum of QLT0267 without specificity for ILK. QLT0267 significantly reduced basal cell survival and enhanced the radiosensitivity of FaDu and UTSCC45 cells in a time- and concentration-dependent manner. QLT0267 exerted differential, cell culture model-dependent effects with regard to radiogenic rDSB and accumulation of cells in the G2 cell cycle phase. Relative to corresponding controls, FaDu-IH and ILK(fl/fl) fibroblasts showed enhanced radiosensitivity, which failed to be antagonized by QLT0267. A knockdown of ILK revealed no change in clonogenic survival of the tested cell lines as compared to controls. CONCLUSIONS/SIGNIFICANCE: Our data clearly show that the small molecule inhibitor QLT0267 has potent cytotoxic and radiosensitizing capability in hHNSCC cells. However, QLT0267 is not specific for ILK. Further in vitro and in vivo studies are necessary to clarify the potential of QLT0267 as a targeted therapeutic in the clinic.
+
+-Animals
+-Carcinoma, Squamous Cell (+pathology)
+-Cell Line, Tumor
+-Cell Survival (-radiation effects)
+-DNA Damage
+-G2 Phase
+-Head and Neck Neoplasms (+pathology)
+-Humans
+-Mice
+-Phosphorylation
+-Protein-Serine-Threonine Kinases (-metabolism)
+-Radiation-Sensitizing Agents (+pharmacology)
+
+doi:10.1371/journal.pone.0006434
+pubmed:19649326
+pmc:PMC2713401
+

@@ -1,0 +1,31 @@
+J. Biol. Chem.
+
+Cytosine methylation effects on the repair of O6-methylguanines within CG dinucleotides.
+
+R Guza, L Ma, Q Fang, AE Pegg, N Tretyakova
+
+O(6)-alkyldeoxyguanine adducts induced by tobacco-specific nitrosamines are repaired by O(6)-alkylguanine DNA alkyltransferase (AGT), which transfers the O(6)-alkyl group from the damaged base to a cysteine residue within the protein. In the present study, a mass spectrometry-based approach was used to analyze the effects of cytosine methylation on the kinetics of AGT repair of O(6)-methyldeoxyguanosine (O(6)-Me-dG) adducts placed within frequently mutated 5'-CG-3' dinucleotides of the p53 tumor suppressor gene. O(6)-Me-dG-containing DNA duplexes were incubated with human recombinant AGT protein, followed by rapid quenching, acid hydrolysis, and isotope dilution high pressure liquid chromatography-electrospray ionization tandem mass spectrometry analysis of unrepaired O(6)-methylguanine. Second-order rate constants were calculated in the absence or presence of the C-5 methyl group at neighboring cytosine residues. We found that the kinetics of AGT-mediated repair of O(6)-Me-dG were affected by neighboring 5-methylcytosine ((Me)C) in a sequence-dependent manner. AGT repair of O(6)-Me-dG adducts placed within 5'-CG-3' dinucleotides of p53 codons 245 and 248 was hindered when (Me)C was present in both DNA strands. In contrast, cytosine methylation within p53 codon 158 slightly increased the rate of O(6)-Me-dG repair by AGT. The effects of (Me)C located immediately 5' and in the base paired position to O(6)-Me-dG were not additive as revealed by experiments with hypomethylated sequences. Furthermore, differences in dealkylation rates did not correlate with AGT protein affinity for cytosine-methylated and unmethylated DNA duplexes or with the rates of AGT-mediated nucleotide flipping, suggesting that (Me)C influences other kinetic steps involved in repair, e.g. the rate of alkyl transfer from DNA to AGT.
+
+-Alkyl and Aryl Transferases (-genetics; -metabolism)
+-Chromatography, High Pressure Liquid
+-Circular Dichroism
+-Codon (-genetics)
+-Cytosine (+metabolism)
+-DNA Methylation
+-DNA Repair (-genetics; +physiology)
+-Dinucleoside Phosphates (-genetics; +metabolism)
+-Electrophoretic Mobility Shift Assay
+-Genes, p53 (-genetics)
+-Guanine (+analogs & derivatives; -metabolism)
+-Humans
+-Protein Binding
+-Recombinant Proteins (-genetics; -metabolism)
+-Spectrometry, Mass, Electrospray Ionization
+-Tandem Mass Spectrometry
+-Ultraviolet Rays
+
+pii:M109.000919
+doi:10.1074/jbc.M109.000919
+pubmed:19531487
+pmc:PMC2755667
+

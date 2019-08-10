@@ -1,0 +1,24 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Quantum control experiment reveals solvation-induced decoherence.
+
+P van der Walle, MT Milder, L Kuipers, JL Herek
+
+Coherent control holds the promise of becoming a powerful spectroscopic tool for the study of complex molecular systems. Achieving control requires coherence in the quantum system under study. In the condensed phase, coherence is typically lost rapidly because of fluctuating interactions between the solvated molecule and its surrounding environment. We investigate the degree of attainable control on a dye molecule when the fluctuations of its environment are systematically varied. A single successful learning curve for optimizing stimulated emission from the dye in solution is reapplied for a range of solvents with varying viscosity, revealing a striking trend that is correlated directly with the dephasing time. Our results provide clear evidence that the environment limits the leverage of control on the molecular system. This insight can be used to enhance the yield of control experiments greatly.
+
+-Algorithms
+-Biophysics (+methods)
+-Coloring Agents (-chemistry)
+-Coumarins (-chemistry)
+-Lasers
+-Pharmaceutical Solutions
+-Quantum Theory
+-Solutions
+-Solvents (+chemistry)
+-Viscosity
+
+pii:0901833106
+doi:10.1073/pnas.0901833106
+pubmed:19416881
+pmc:PMC2683126
+

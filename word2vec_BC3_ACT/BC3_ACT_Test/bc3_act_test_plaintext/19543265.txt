@@ -1,0 +1,31 @@
+Nature
+
+The CREB coactivator CRTC2 links hepatic ER stress and fasting gluconeogenesis.
+
+Y Wang, L Vera, WH Fischer, M Montminy
+
+In fasted mammals, circulating pancreatic glucagon stimulates hepatic gluconeogenesis in part through the CREB regulated transcription coactivator 2 (CRTC2, also referred to as TORC2). Hepatic glucose production is increased in obesity, reflecting chronic increases in endoplasmic reticulum (ER) stress that promote insulin resistance. Whether ER stress also modulates the gluconeogenic program directly, however, is unclear. Here we show that CRTC2 functions as a dual sensor for ER stress and fasting signals. Acute increases in ER stress triggered the dephosphorylation and nuclear entry of CRTC2, which in turn promoted the expression of ER quality control genes through an association with activating transcription factor 6 alpha (ATF6alpha, also known as ATF6)--an integral branch of the unfolded protein response. In addition to mediating CRTC2 recruitment to ER stress inducible promoters, ATF6alpha also reduced hepatic glucose output by disrupting the CREB-CRTC2 interaction and thereby inhibiting CRTC2 occupancy over gluconeogenic genes. Conversely, hepatic glucose output was upregulated when hepatic ATF6alpha protein amounts were reduced, either by RNA interference (RNAi)-mediated knockdown or as a result of persistent stress in obesity. Because ATF6alpha overexpression in the livers of obese mice reversed CRTC2 effects on the gluconeogenic program and lowered hepatic glucose output, our results demonstrate how cross-talk between ER stress and fasting pathways at the level of a transcriptional coactivator contributes to glucose homeostasis.
+
+-Animals
+-Cell Nucleus (-metabolism)
+-Cyclic AMP Response Element-Binding Protein (-metabolism)
+-Endoplasmic Reticulum (+metabolism)
+-Fasting (+physiology)
+-Gene Expression Regulation
+-Gluconeogenesis (+physiology)
+-Liver (+metabolism)
+-Male
+-Membrane Proteins (-metabolism)
+-Mice
+-Obesity (-physiopathology)
+-Protein Transport
+-Stress, Physiological (+physiology)
+-Trans-Activators (+metabolism)
+-Transcription Factors (+metabolism)
+
+pii:nature08111
+doi:10.1038/nature08111
+pubmed:19543265
+mid:NIHMS116149
+pmc:PMC2730924
+

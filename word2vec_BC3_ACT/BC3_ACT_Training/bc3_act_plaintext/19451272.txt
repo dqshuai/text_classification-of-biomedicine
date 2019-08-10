@@ -1,0 +1,26 @@
+J. Cell Biol.
+
+RAD51C facilitates checkpoint signaling by promoting CHK2 phosphorylation.
+
+S Badie, C Liao, M Thanasoula, P Barber, MA Hill, M Tarsounas
+
+The RAD51 paralogues act in the homologous recombination (HR) pathway of DNA repair. Human RAD51C (hRAD51C) participates in branch migration and Holliday junction resolution and thus is important for processing HR intermediates late in the DNA repair process. Evidence for early involvement of RAD51 during DNA repair also exists, but its function in this context is not understood. In this study, we demonstrate that RAD51C accumulates at DNA damage sites concomitantly with the RAD51 recombinase and is retained after RAD51 disassembly, which is consistent with both an early and a late function for RAD51C. RAD51C recruitment depends on ataxia telangiectasia mutated, NBS1, and replication protein A, indicating it functions after DNA end resection but before RAD51 assembly. Furthermore, we find that RAD51C is required for activation of the checkpoint kinase CHK2 and cell cycle arrest in response to DNA damage. This suggests that hRAD51C contributes to the protection of genome integrity by transducing DNA damage signals in addition to engaging the HR machinery.
+
+-Cell Cycle
+-Cell Cycle Proteins
+-DNA Damage
++DNA Repair
+-DNA-Binding Proteins (+physiology)
+-Humans
+-Nuclear Proteins
+-Phosphorylation
+-Protein-Serine-Threonine Kinases (+metabolism)
+-Rad51 Recombinase
+-Replication Protein A
+-Signal Transduction
+
+pii:jcb.200811079
+doi:10.1083/jcb.200811079
+pubmed:19451272
+pmc:PMC2711581
+

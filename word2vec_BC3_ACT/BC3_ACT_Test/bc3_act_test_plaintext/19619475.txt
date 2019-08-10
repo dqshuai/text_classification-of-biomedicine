@@ -1,0 +1,25 @@
+Biophys. J.
+
+Secondary structure propensities in peptide folding simulations: a systematic comparison of molecular mechanics interaction schemes.
+
+D Matthes, BL de Groot
+
+We present a systematic study directed toward the secondary structure propensity and sampling behavior in peptide folding simulations with eight different molecular dynamics force-field variants in explicit solvent. We report on the combinational result of force field, water model, and electrostatic interaction schemes and compare to available experimental characterization of five studied model peptides in terms of reproduced structure and dynamics. The total simulation time exceeded 18 mus and included simulations that started from both folded and extended conformations. Despite remaining sampling issues, a number of distinct trends in the folding behavior of the peptides emerged. Pronounced differences in the propensity of finding prominent secondary structure motifs in the different applied force fields suggest that problems point in particular to the balance of the relative stabilities of helical and extended conformations.
+
+-Amino Acid Sequence
+-Magnetic Resonance Spectroscopy
++Models, Molecular
+-Molecular Sequence Data
+-Peptides (+chemistry)
+-Principal Component Analysis
++Protein Folding
+-Protein Structure, Secondary
+-Static Electricity
+-Thermodynamics
+-Water (-chemistry)
+
+pii:S0006-3495(09)00980-1
+doi:10.1016/j.bpj.2009.04.061
+pubmed:19619475
+pmc:PMC2711344
+

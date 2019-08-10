@@ -1,0 +1,33 @@
+PLoS ONE
+
+Polycomb mediated epigenetic silencing and replication timing at the INK4a/ARF locus during senescence.
+
+H Agherbi, A Gaussmann-Wenger, C Verthuy, L Chasson, M Serrano, M Djabali
+
+BACKGROUND: The INK4/ARF locus encodes three tumor suppressor genes (p15(Ink4b), Arf and p16(Ink4a)) and is frequently inactivated in a large number of human cancers. Mechanisms regulating INK4/ARF expression are not fully characterized. PRINCIPAL FINDINGS: Here we show that in young proliferating embryonic fibroblasts (MEFs) the Polycomb Repressive Complex 2 (PRC2) member EZH2 together with PRC1 members BMI1 and M33 are strongly expressed and localized at the INK4/ARF regulatory domain (RD) identified as a DNA replication origin. When cells enter senescence the binding to RD of both PRC1 and PRC2 complexes is lost leading to a decreased level of histone H3K27 trimethylation (H3K27me3). This loss is accompanied with an increased expression of the histone demethylase Jmjd3 and with the recruitment of the MLL1 protein, and correlates with the expression of the Ink4a/Arf genes. Moreover, we show that the Polycomb protein BMI1 interacts with CDC6, an essential regulator of DNA replication in eukaryotic cells. Finally, we demonstrate that Polycomb proteins and associated epigenetic marks are crucial for the control of the replication timing of the INK4a/ARF locus during senescence. CONCLUSIONS: We identified the replication licencing factor CDC6 as a new partner of the Polycomb group member BMI1. Our results suggest that in young cells Polycomb proteins are recruited to the INK4/ARF locus through CDC6 and the resulting silent locus is replicated during late S-phase. Upon senescence, Jmjd3 is overexpressed and the MLL1 protein is recruited to the locus provoking the dissociation of Polycomb from the INK4/ARF locus, its transcriptional activation and its replication during early S-phase. Together, these results provide a unified model that integrates replication, transcription and epigenetics at the INK4/ARF locus.
+
+-Animals
++Cell Aging
+-Cell Cycle Proteins (-metabolism)
+-Cyclin-Dependent Kinase Inhibitor p16 (-chemistry; -genetics; +metabolism)
++DNA Replication Timing
+-Embryo, Mammalian (-cytology)
+-Fibroblasts (+cytology; +metabolism)
++Gene Silencing
+-Histone-Lysine N-Methyltransferase (-metabolism)
+-Histones (-metabolism)
+-Methylation
+-Mice
+-Models, Biological
+-Myeloid-Lymphoid Leukemia Protein (-metabolism)
+-NIH 3T3 Cells
+-Nuclear Proteins (-metabolism)
+-Protein Binding
+-Protein Structure, Tertiary
+-Proto-Oncogene Proteins (-metabolism)
+-Repressor Proteins (+metabolism)
+
+doi:10.1371/journal.pone.0005622
+pubmed:19462008
+pmc:PMC2680618
+

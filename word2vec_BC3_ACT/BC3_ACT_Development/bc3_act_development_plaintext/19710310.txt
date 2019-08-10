@@ -1,0 +1,31 @@
+J. Neurosci.
+
+Natural scene categories revealed in distributed patterns of activity in the human brain.
+
+DB Walther, E Caddigan, L Fei-Fei, DM Beck
+
+Human subjects are extremely efficient at categorizing natural scenes, despite the fact that different classes of natural scenes often share similar image statistics. Thus far, however, it is unknown where and how complex natural scene categories are encoded and discriminated in the brain. We used functional magnetic resonance imaging (fMRI) and distributed pattern analysis to ask what regions of the brain can differentiate natural scene categories (such as forests vs mountains vs beaches). Using completely different exemplars of six natural scene categories for training and testing ensured that the classification algorithm was learning patterns associated with the category in general and not specific exemplars. We found that area V1, the parahippocampal place area (PPA), retrosplenial cortex (RSC), and lateral occipital complex (LOC) all contain information that distinguishes among natural scene categories. More importantly, correlations with human behavioral experiments suggest that the information present in the PPA, RSC, and LOC is likely to contribute to natural scene categorization by humans. Specifically, error patterns of predictions based on fMRI signals in these areas were significantly correlated with the behavioral errors of the subjects. Furthermore, both behavioral categorization performance and predictions from PPA exhibited a significant decrease in accuracy when scenes were presented up-down inverted. Together these results suggest that a network of regions, including the PPA, RSC, and LOC, contribute to the human ability to categorize natural scenes.
+
+-Adult
+-Attention (-physiology)
+-Brain (-anatomy & histology; -blood supply; +physiology)
++Brain Mapping
++Environment
+-Female
+-Humans
+-Image Processing, Computer-Assisted (-methods)
+-Magnetic Resonance Imaging (-methods)
+-Male
+-Oxygen (-blood)
+-Pattern Recognition, Visual (+physiology)
+-Photic Stimulation (-methods)
+-Spatial Behavior (+physiology)
+-Statistics as Topic
+-Young Adult
+
+pii:29/34/10573
+doi:10.1523/JNEUROSCI.0559-09.2009
+pubmed:19710310
+mid:NIHMS143895
+pmc:PMC2774133
+

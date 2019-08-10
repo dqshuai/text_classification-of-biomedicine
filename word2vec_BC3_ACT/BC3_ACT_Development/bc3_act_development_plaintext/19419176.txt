@@ -1,0 +1,27 @@
+Biochemistry
+
+A ZnS(4) structural zinc site in the Helicobacter pylori ferric uptake regulator.
+
+S Vitale, C Fauquant, D Lascoux, K Schauer, C Saint-Pierre, I Michaud-Soret
+
+The ferric uptake regulator, Fur, is a global bacterial transcriptional regulator using iron as a cofactor to bind to specific DNA sequences. This paper describes the biochemical characterization of the native ferric uptake regulator from Helicobacter pylori (HpFur): oligomeric state, metal content, and characterization of a structural metal-binding site. HpFur contains six cysteines with two CxxC motifs, which makes it closer to Bacillus subtilis PerR (BsPerR) than to Escherichia coli Fur (EcFur). Chemical modifications of cysteine residues using iodoacetamide followed by mass spectrometry after enzymatic digestion strongly suggest that these two CxxC motifs containing cysteines 102-105 and 142-145 are involved in zinc binding in a ZnS(4) metal site. The other two cysteines (78 and 150) are not essential for DNA binding activity and do not perturb metal binding as demonstrated with the characterization of a FurC78SC150S double mutant. Chelating agent such as EDTA disrupts the dimeric structure into monomer which did not contain zinc anymore. Reconstitution of dimer from monomer requires reduction and Zn(2+) binding. Cadmium(II) substitution allows also dimer formation from monomer, and Cd(II)-substituted FurC78SC150S mutant presents a characteristic absorption of a Cd(II)Cys(4) metal-binding site. These results establish that coordination of the zinc ion in HpFur is ZnCys(4), therefore closer to the zinc site in BsPerR than in EcFur. Furthermore, the redox state of the cysteines and the zinc binding are essential to hold the H. pylori Fur in a dimeric state.
+
+-Amino Acid Motifs
+-Amino Acid Sequence
+-Bacterial Proteins (+chemistry; -metabolism)
+-Binding Sites
+-Cloning, Molecular
+-Cysteine (-genetics; -metabolism)
+-Helicobacter pylori (+metabolism)
+-Models, Biological
+-Molecular Sequence Data
+-Oxidation-Reduction
+-Protein Conformation
+-Protein Multimerization
+-Repressor Proteins (+chemistry; -metabolism)
+-Sequence Alignment
+-Zinc (+chemistry; -metabolism)
+
+doi:10.1021/bi9004396
+pubmed:19419176
+

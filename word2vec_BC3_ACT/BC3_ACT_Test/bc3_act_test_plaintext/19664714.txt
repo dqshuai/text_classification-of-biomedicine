@@ -1,0 +1,29 @@
+Methods
+
+Subdivision meshes for organizing spatial biomedical data.
+
+T Ju, J Carson, L Liu, J Warren, M Bello, I Kakadiaris
+
+As biomedical images and volumes are being collected at an increasing speed, there is a growing demand for efficient means to organize spatial information for comparative analysis. In many scenarios, such as determining gene expression patterns by in situ hybridization, the images are collected from multiple subjects over a common anatomical region, such as the brain. A fundamental challenge in comparing spatial data from different images is how to account for the shape variations among subjects, which make direct image-to-image comparisons meaningless. In this paper, we describe subdivision meshes as a geometric means to efficiently organize 2D images and 3D volumes collected from different subjects for comparison. The key advantages of a subdivision mesh for this purpose are its light-weight geometric structure and its explicit modeling of anatomical boundaries, which enable efficient and accurate registration. The multi-resolution structure of a subdivision mesh also allows development of fast comparison algorithms among registered images and volumes.
+
+-Animals
+-Artificial Intelligence
+-Brain (-pathology)
+-Brain Mapping (+methods)
+-Computational Biology (+methods)
+-Gene Expression Profiling
+-Humans
+-Image Enhancement (-methods)
+-Imaging, Three-Dimensional
+-In Situ Hybridization (+methods)
+-Mice
+-Models, Anatomic
+-Models, Statistical
+-Pattern Recognition, Automated (-methods)
+
+pii:S1046-2023(09)00183-2
+doi:10.1016/j.ymeth.2009.07.012
+pubmed:19664714
+mid:NIHMS137854
+pmc:PMC2818072
+

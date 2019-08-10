@@ -1,0 +1,36 @@
+Cell
+
+A polymorphism in CALHM1 influences Ca2+ homeostasis, Abeta levels, and Alzheimer's disease risk.
+
+U Dreses-Werringloer, JC Lambert, V Vingtdeux, H Zhao, H Vais, A Siebert, A Jain, J Koppel, A Rovelet-Lecrux, D Hannequin, F Pasquier, D Galimberti, E Scarpini, D Mann, C Lendon, D Campion, P Amouyel, P Davies, JK Foskett, F Campagne, P Marambaud
+
+Alzheimer's disease (AD) is a genetically heterogeneous disorder characterized by early hippocampal atrophy and cerebral amyloid-beta (Abeta) peptide deposition. Using TissueInfo to screen for genes preferentially expressed in the hippocampus and located in AD linkage regions, we identified a gene on 10q24.33 that we call CALHM1. We show that CALHM1 encodes a multipass transmembrane glycoprotein that controls cytosolic Ca(2+) concentrations and Abeta levels. CALHM1 homomultimerizes, shares strong sequence similarities with the selectivity filter of the NMDA receptor, and generates a large Ca(2+) conductance across the plasma membrane. Importantly, we determined that the CALHM1 P86L polymorphism (rs2986017) is significantly associated with AD in independent case-control studies of 3404 participants (allele-specific OR = 1.44, p = 2 x 10(-10)). We further found that the P86L polymorphism increases Abeta levels by interfering with CALHM1-mediated Ca(2+) permeability. We propose that CALHM1 encodes an essential component of a previously uncharacterized cerebral Ca(2+) channel that controls Abeta levels and susceptibility to late-onset AD.
+
+-Aged
+-Aged, 80 and over
+-Alzheimer Disease (+genetics)
+-Amino Acid Sequence
+-Amyloid beta-Protein (+metabolism)
+-Calcium (+metabolism)
+-Calcium Channels
+-Cell Membrane (-metabolism)
+-Chromosomes, Human, Pair 10
+-Cytosol (-metabolism)
+-Female
++Genetic Predisposition to Disease
+-Genome, Human
+-Humans
+-Male
+-Membrane Glycoproteins (-chemistry; +genetics; +metabolism)
+-Middle Aged
+-Molecular Sequence Data
+-Phylogeny
++Polymorphism, Genetic
+-Sequence Alignment
+
+pii:S0092-8674(08)00751-4
+doi:10.1016/j.cell.2008.05.048
+pubmed:18585350
+mid:NIHMS56596
+pmc:PMC2577842
+

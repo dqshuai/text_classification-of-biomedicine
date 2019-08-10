@@ -1,0 +1,24 @@
+Nucleic Acids Res.
+
+High-throughput sequencing reveals suppressors of Vibrio cholerae rpoE mutations: one fewer porin is enough.
+
+BM Davis, MK Waldor
+
+Analyses of suppressor mutations have been extremely valuable in understanding gene function. However, techniques for mapping suppressor mutations are not available for most bacterial species. Here, we used high-throughput sequencing technology to identify spontaneously arising suppressor mutations that enabled disruption of rpoE (which encodes sigma(E)) in Vibrio cholerae, the agent of cholera. The alternative sigma factor sigma(E), which is activated by envelope stress, promotes expression of factors that help preserve and/or restore cell envelope integrity. In Escherichia coli, rpoE is an essential gene that can only be disrupted in the presence of additional suppressor mutations. Among a panel of independent V. cholerae rpoE mutants, more than 75% contain suppressor mutations that reduce production of OmpU, V. cholerae's principal outer membrane porin. OmpU appears to be a key determinant of V. cholerae's requirement for and production of sigma(E). Such dependence upon a single factor contrasts markedly with regulation of sigma(E) in E. coli, in which numerous factors contribute to its activation and none is dominant. We also identified a suppressor mutation that differs from all previously described suppressors in that it elevates, rather than reduces, sigma(E)'s activity. Finally, analyses of a panel of rpoE mutants shed light on the mechanisms by which suppressor mutations may arise in V. cholerae.
+
+-Adhesins, Bacterial (+genetics)
+-Bacterial Outer Membrane Proteins (-genetics)
+-Bacterial Proteins (-genetics; -metabolism)
+-Genome, Bacterial
+-Mutation
+-Porins (+genetics; -metabolism)
+-Sequence Analysis, DNA
+-Sigma Factor (+genetics; -metabolism)
++Suppression, Genetic
+-Vibrio cholerae (+genetics; -growth & development; -metabolism)
+
+pii:gkp568
+doi:10.1093/nar/gkp568
+pubmed:19620211
+pmc:PMC2761261
+

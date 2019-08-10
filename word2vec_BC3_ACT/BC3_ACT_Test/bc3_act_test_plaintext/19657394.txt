@@ -1,0 +1,28 @@
+PLoS ONE
+
+A versatile viral system for expression and depletion of proteins in mammalian cells.
+
+E Campeau, VE Ruhl, F Rodier, CL Smith, BL Rahmberg, JO Fuss, J Campisi, P Yaswen, PK Cooper, PD Kaufman
+
+The ability to express or deplete proteins in living cells is crucial for the study of biological processes. Viral vectors are often useful to deliver DNA constructs to cells that are difficult to transfect by other methods. Lentiviruses have the additional advantage of being able to integrate into the genomes of non-dividing mammalian cells. However, existing viral expression systems generally require different vector backbones for expression of cDNA, small hairpin RNA (shRNA) or microRNA (miRNA) and provide limited drug selection markers. Furthermore, viral backbones are often recombinogenic in bacteria, complicating the generation and maintenance of desired clones. Here, we describe a collection of 59 vectors that comprise an integrated system for constitutive or inducible expression of cDNAs, shRNAs or miRNAs, and use a wide variety of drug selection markers. These vectors are based on the Gateway technology (Invitrogen) whereby the cDNA, shRNA or miRNA of interest is cloned into an Entry vector and then recombined into a Destination vector that carries the chosen viral backbone and drug selection marker. This recombination reaction generates the desired product with >95% efficiency and greatly reduces the frequency of unwanted recombination in bacteria. We generated Destination vectors for the production of both retroviruses and lentiviruses. Further, we characterized each vector for its viral titer production as well as its efficiency in expressing or depleting proteins of interest. We also generated multiple types of vectors for the production of fusion proteins and confirmed expression of each. We demonstrated the utility of these vectors in a variety of functional studies. First, we show that the FKBP12 Destabilization Domain system can be used to either express or deplete the protein of interest in mitotically-arrested cells. Also, we generate primary fibroblasts that can be induced to senesce in the presence or absence of DNA damage. Finally, we determined that both isoforms of the AT-Rich Interacting Domain 4B (ARID4B) protein could induce G1 arrest when overexpressed. As new technologies emerge, the vectors in this collection can be easily modified and adapted without the need for extensive recloning.
+
+-Animals
+-Base Sequence
+-Cell Line
+-DNA Primers
+-DNA, Complementary (-genetics)
+-Electrophoresis, Polyacrylamide Gel
+-Flow Cytometry
+-Fluorescent Antibody Technique
++Genetic Vectors
+-Humans
+-Proteins (+genetics)
+-RNA (-genetics)
+-RNA Interference
+-Recombination, Genetic
+-Retroviridae (+genetics)
+
+doi:10.1371/journal.pone.0006529
+pubmed:19657394
+pmc:PMC2717805
+

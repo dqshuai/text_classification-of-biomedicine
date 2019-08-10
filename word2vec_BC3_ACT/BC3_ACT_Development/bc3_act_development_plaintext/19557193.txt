@@ -1,0 +1,28 @@
+PLoS Comput. Biol.
+
+Optimal control predicts human performance on objects with internal degrees of freedom.
+
+AJ Nagengast, DA Braun, DM Wolpert
+
+On a daily basis, humans interact with a vast range of objects and tools. A class of tasks, which can pose a serious challenge to our motor skills, are those that involve manipulating objects with internal degrees of freedom, such as when folding laundry or using a lasso. Here, we use the framework of optimal feedback control to make predictions of how humans should interact with such objects. We confirm the predictions experimentally in a two-dimensional object manipulation task, in which subjects learned to control six different objects with complex dynamics. We show that the non-intuitive behavior observed when controlling objects with internal degrees of freedom can be accounted for by a simple cost function representing a trade-off between effort and accuracy. In addition to using a simple linear, point-mass optimal control model, we also used an optimal control model, which considers the non-linear dynamics of the human arm. We find that the more realistic optimal control model captures aspects of the data that cannot be accounted for by the linear model or other previous theories of motor control. The results suggest that our everyday interactions with objects can be understood by optimality principles and advocate the use of more realistic optimal control models for the study of human motor neuroscience.
+
+-Adult
+-Algorithms
+-Arm (-physiology)
+-Computer Simulation
+-Feedback (-physiology)
+-Female
+-Humans
+-Linear Models
+-Male
++Models, Biological
+-Motor Skills (+physiology)
+-Nonlinear Dynamics
+-Robotics
++Task Performance and Analysis
+-User-Computer Interface
+
+doi:10.1371/journal.pcbi.1000419
+pubmed:19557193
+pmc:PMC2694986
+

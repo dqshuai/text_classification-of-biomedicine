@@ -1,0 +1,32 @@
+Plant Cell
+
+Two distinct interacting classes of nuclear envelope-associated coiled-coil proteins are required for the tissue-specific nuclear envelope targeting of Arabidopsis RanGAP.
+
+Q Zhao, J Brkljacic, I Meier
+
+Ran GTPase plays essential roles in multiple cellular processes, including nucleocytoplasmic transport, spindle formation, and postmitotic nuclear envelope (NE) reassembly. The cytoplasmic Ran GTPase activating protein RanGAP is critical to establish a functional RanGTP/RanGDP gradient across the NE and is associated with the outer surface of the NE in metazoan and higher plant cells. Arabidopsis thaliana RanGAP association with the root tip NE requires a family of likely plant-specific nucleoporins combining coiled-coil and transmembrane domains (CC-TMD) and WPP domain-interacting proteins (WIPs). We have now identified, by tandem affinity purification coupled with mass spectrometry, a second family of CC-TMD proteins, structurally similar, yet clearly distinct from the WIP family, that is required for RanGAP NE association in root tip cells. A combination of loss-of-function mutant analysis and protein interaction data indicates that at least one member of each NE-associated CC-TMD protein family is required for RanGAP targeting in root tip cells, while both families are dispensable in other plant tissues. This suggests an unanticipated complexity of RanGAP NE targeting in higher plant cells, contrasting both the single nucleoporin anchor in metazoans and the lack of targeting in fungi and proposes an early evolutionary divergence of the underlying plant and animal mechanisms.
+
+-Amino Acid Sequence
+-Arabidopsis (-genetics; +metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Binding Sites
+-GTPase-Activating Proteins (-genetics; +metabolism)
+-Gene Expression Regulation, Plant
+-Immunoblotting
+-Mass Spectrometry
+-Membrane Proteins (-genetics; -metabolism)
+-Meristem (-genetics; -metabolism)
+-Microscopy, Confocal
+-Models, Biological
+-Molecular Sequence Data
+-Nuclear Envelope (+metabolism)
+-Protein Binding
+-Reverse Transcriptase Polymerase Chain Reaction
+-Sequence Homology, Amino Acid
+-Two-Hybrid System Techniques
+
+pii:tpc.108.059220
+doi:10.1105/tpc.108.059220
+pubmed:18591351
+pmc:PMC2483365
+

@@ -1,0 +1,23 @@
+EMBO Rep.
+
+Caenorhabditis elegans WNK-STE20 pathway regulates tube formation by modulating ClC channel activity.
+
+N Hisamoto, T Moriguchi, S Urushiyama, S Mitani, H Shibuya, K Matsumoto
+
+WNK kinases are a small group of unique serine/threonine protein kinases that are conserved among multicellular organisms. Mutations in WNK1-4 cause pseudohypoaldosteronism type II-a form of hypertension. WNKs have been linked to the STE20 kinases and ion carriers, but the underlying molecular mechanisms by which WNKs regulate cellular processes in whole animals are unknown. The Caenorhabditis elegans WNK-like kinase WNK-1 interacts with and phosphorylates germinal centre kinase (GCK)-3--a STE20-like kinase--which is known to inactivate CLH-3, a CIC chloride channel. The wnk-1 or gck-3 deletion mutation causes an Exc phenotype, a defect in the tubular extension of excretory canals. Expression of the activated form of GCK-3 or the clh-3 deletion mutation can partly suppress wnk-1 or gck-3 defects, respectively. These results indicate that WNK-1 controls the tubular formation of excretory canals by activating GCK-3, resulting in downregulation of CIC channel activity.
+
+-Animals
+-Caenorhabditis elegans (+anatomy & histology; -cytology; +enzymology)
+-Caenorhabditis elegans Proteins (-genetics; +metabolism)
+-Cell Line
+-Chloride Channels (+metabolism)
+-Humans
+-Models, Biological
+-Mutation (-genetics)
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+
+pii:7401128
+doi:10.1038/sj.embor.7401128
+pubmed:18049475
+pmc:PMC2246628
+

@@ -1,0 +1,30 @@
+J. Bacteriol.
+
+The PqrR transcriptional repressor of Pseudomonas aeruginosa transduces redox signals via an iron-containing prosthetic group.
+
+W Rungrassamee, KC Ryan, MJ Maroney, PJ Pomposiello
+
+Inducible defenses against oxidative stress are coordinated by redox-sensitive transcription factors that transduce oxidative damage into differential gene expression. The opportunistic human pathogen Pseudomonas aeruginosa has evolved under physiological and host-derived sources of oxidative stress. Previous work showed that the pqrABC and pqrR genes of P. aeruginosa, all lacking known functions, were induced by treatment of three different isolates of P. aeruginosa with paraquat (PQ), a superoxide-producing agent. Insertional mutation of the pqrABCR genes resulted in hypersensitive phenotypes to a variety of oxidants, although the hypersensitivity to PQ was marginal. Mutation of pqrR and complementation assays showed that PqrR regulated the pqrABC genes in response to PQ. PqrR, a member of the MarR family of transcriptional regulators, contains a C-terminal region with four conserved cysteines, which suggested redox-regulated transcriptional activity. Purified PqrR bound to two discrete sites at the pqrA and pqrR regulatory regions. The in vitro DNA binding activity of PqrR was decreased by exposure to air and reconstituted by treatment with dl-dithiothreitol. Elemental analysis and preliminary electron paramagnetic resonance experiments showed that PqrR contains iron. Interestingly, site-directed mutagenesis of C-terminal cysteines demonstrated that the four conserved cysteine residues are essential for in vivo redox sensing by PqrR.
+
+-Amino Acid Sequence
+-Anti-Bacterial Agents (-pharmacology)
+-Bacterial Proteins (-genetics; +metabolism)
+-Diamide (-pharmacology)
+-Gene Expression Regulation, Bacterial (+physiology)
+-Iron (+chemistry)
+-Molecular Sequence Data
+-Mutation
+-Naphthoquinones (-pharmacology)
+-Oxidation-Reduction
+-Oxidative Stress (-drug effects; -physiology)
+-Paraquat (-pharmacology)
+-Pseudomonas aeruginosa (-drug effects; -genetics; +metabolism)
+-Signal Transduction (+physiology)
+-Silencer Elements, Transcriptional (+physiology)
+-Transcription, Genetic
+
+pii:JB.00932-09
+doi:10.1128/JB.00932-09
+pubmed:19717597
+pmc:PMC2795298
+

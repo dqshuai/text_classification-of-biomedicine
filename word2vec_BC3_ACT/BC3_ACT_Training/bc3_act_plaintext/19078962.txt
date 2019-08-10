@@ -1,0 +1,32 @@
+EMBO J.
+
+RodZ (YfgA) is required for proper assembly of the MreB actin cytoskeleton and cell shape in E. coli.
+
+FO Bendezú, CA Hale, TG Bernhardt, PA de Boer
+
+The bacterial MreB actin cytoskeleton is required for cell shape maintenance in most non-spherical organisms. In rod-shaped cells such as Escherichia coli, it typically assembles along the long axis in a spiral-like configuration just underneath the cytoplasmic membrane. How this configuration is controlled and how it helps dictate cell shape is unclear. In a new genetic screen for cell shape mutants, we identified RodZ (YfgA) as an important transmembrane component of the cytoskeleton. Loss of RodZ leads to misassembly of MreB into non-spiral structures, and a consequent loss of cell shape. A juxta-membrane domain of RodZ is essential to maintain rod shape, whereas other domains on either side of the membrane have critical, but partially redundant, functions. Though one of these domains resembles a DNA-binding motif, our evidence indicates that it is primarily responsible for association of RodZ with the cytoskeleton.
+
+-Actins (+metabolism)
+-Amino Acid Sequence
+-Cell Membrane (-metabolism)
+-Chromosome Segregation
+-Conserved Sequence
+-Cytoskeletal Proteins (-chemistry; +metabolism)
+-Cytoskeleton (+metabolism)
+-DNA (-metabolism)
+-Escherichia coli (+cytology; -growth & development; +metabolism)
+-Escherichia coli Proteins (-chemistry; +metabolism)
+-Membrane Proteins (-chemistry; -metabolism)
+-Molecular Sequence Data
+-Phenotype
+-Protein Binding
+-Protein Structure, Tertiary
+-Protein Transport
+-Recombinant Fusion Proteins (-metabolism)
+-Two-Hybrid System Techniques
+
+pii:emboj2008264
+doi:10.1038/emboj.2008.264
+pubmed:19078962
+pmc:PMC2637328
+

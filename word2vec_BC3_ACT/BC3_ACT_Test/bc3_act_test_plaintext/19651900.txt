@@ -1,0 +1,29 @@
+Mol. Cell. Biol.
+
+The HECT-type E3 ubiquitin ligase AIP2 inhibits activation-induced T-cell death by catalyzing EGR2 ubiquitination.
+
+A Chen, B Gao, J Zhang, T McEwen, SQ Ye, D Zhang, D Fang
+
+E3 ubiquitin ligases, which target specific molecules for proteolytic destruction, have emerged as key regulators of immune functions. Several E3 ubiquitin ligases, including c-Cbl, Cbl-b, GRAIL, Itch, and Nedd4, have been shown to negatively regulate T-cell activation. Here, we report that the HECT-type E3 ligase AIP2 positively regulates T-cell activation. Ectopic expression of AIP2 in mouse primary T cells enhances their proliferation and interleukin-2 production by suppressing the apoptosis of T cells. AIP2 interacts with and promotes ubiquitin-mediated degradation of EGR2, a zinc finger transcription factor that has been found to regulate Fas ligand (FasL) expression during activation-induced T-cell death. Suppression of AIP2 expression by small RNA interference upregulates EGR2, inhibits EGR2 ubiquitination and FasL expression, and enhances the apoptosis of T cells. Therefore, AIP2 regulates activation-induced T-cell death by suppressing EGR2-mediated FasL expression via the ubiquitin pathway.
+
+-Animals
+-Apoptosis
+-Biocatalysis
+-Cells, Cultured
+-Early Growth Response Protein 2 (+metabolism)
+-Ether-A-Go-Go Potassium Channels (+metabolism)
+-Fas Ligand Protein (-metabolism)
+-Humans
+-Lymphocyte Activation
+-Mice
+-Mice, Inbred C57BL
+-RNA, Small Interfering (-genetics)
+-T-Lymphocytes (-cytology; +immunology; +metabolism)
+-Ubiquitin-Protein Ligases (-genetics; +metabolism)
++Ubiquitination
+
+pii:MCB.00407-09
+doi:10.1128/MCB.00407-09
+pubmed:19651900
+pmc:PMC2747983
+

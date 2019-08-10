@@ -1,0 +1,26 @@
+BMC Genomics
+
+Genomic resources of Magnaporthe oryzae (GROMO): a comprehensive and integrated database on rice blast fungus.
+
+S Thakur, S Jha, S Roy-Barman, B Chattoo
+
+BACKGROUND: Magnaporthe oryzae, rice blast fungus, is the most devastating pathogen of rice. It has emerged as a model phytopathogen for the study of host-pathogen interactions. A large body of data has been generated on different aspects of biology of this fungus and on host-pathogen interactions. However, most of the data is scattered and is not available as a single resource for researchers in this field. DESCRIPTION: Genomic Resources of Magnaporthe oyzae (GROMO), is a specialized, and comprehensive database for rice blast fungus, integrating information from several resources. GROMO contains information on genomic sequence, mutants available, gene expression, localization of proteins obtained from a variety of repositories, as primary data. In addition, prediction of domains, pathways, protein-protein interactions, sumolyation sites and biochemical properties that were obtained after computational analysis of protein sequences have also been included as derived data. This database has an intuitive user interface that shall prompt the user to explore various possible information resources available on a given gene or a protein, from a single source. CONCLUSION: Currently, information on M. oryzae is available from different resources like BROAD MIT Magnaporthe database, Agrobacterium tumefaciens-mediated transformation (ATMT) M. oryzae database, Magnaporthe grisea--Oryza sativa (MGOS) and Massive Parallel Signature Sequencing (MPSS) databases. In the GROMO project, an effort has been made to integrate information from all these databases, derive some new data based on the available information analyzed by relevant programs and make more insightful predictions to better understand the biology of M. oryzae. The database is currently available at: http://gromo.msubiotech.ac.in/
+
+-Computational Biology
++Databases, Genetic
+-Gene Expression Profiling
++Genome, Fungal
+-Internet
+-Magnaporthe (+genetics)
+-Oryza sativa (+microbiology)
+-Plant Diseases (-microbiology)
+-Protein Interaction Domains and Motifs
+-Sequence Analysis, Protein
+-Software
+-User-Computer Interface
+
+pii:1471-2164-10-316
+doi:10.1186/1471-2164-10-316
+pubmed:19604367
+pmc:PMC2721851
+

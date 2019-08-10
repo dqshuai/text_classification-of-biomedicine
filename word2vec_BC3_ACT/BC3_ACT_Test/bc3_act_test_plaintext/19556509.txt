@@ -1,0 +1,32 @@
+Science
+
+Synthetic heterochromatin bypasses RNAi and centromeric repeats to establish functional centromeres.
+
+A Kagansky, HD Folco, R Almeida, AL Pidoux, A Boukaba, F Simmer, T Urano, GL Hamilton, RC Allshire
+
+In the central domain of fission yeast centromeres, the kinetochore is assembled on CENP-A(Cnp1) nucleosomes. Normally, small interfering RNAs generated from flanking outer repeat transcripts direct histone H3 lysine 9 methyltransferase Clr4 to homologous loci to form heterochromatin. Outer repeats, RNA interference (RNAi), and centromeric heterochromatin are required to establish CENP-A(Cnp1) chromatin. We demonstrated that tethering Clr4 via DNA-binding sites at euchromatic loci induces heterochromatin assembly, with or without active RNAi. This synthetic heterochromatin completely substitutes for outer repeats on plasmid-based minichromosomes, promoting de novo CENP-A(Cnp1) and kinetochore assembly, to allow their mitotic segregation, even with RNAi inactive. Thus, the role of outer repeats in centromere establishment is simply the provision of RNAi substrates to direct heterochromatin formation; H3K9 methylation-dependent heterochromatin is alone sufficient to form functional centromeres.
+
+-Binding Sites
+-Cell Cycle Proteins (-metabolism)
+-Centromere (-chemistry; +metabolism; -ultrastructure)
++Chromatin Assembly and Disassembly
+-Chromosomal Proteins, Non-Histone (-metabolism)
+-Chromosome Segregation
+-DNA-Binding Proteins (-genetics; -metabolism)
+-Heterochromatin (+metabolism)
+-Histones (-metabolism)
+-Kinetochores (-metabolism)
+-Methyltransferases (-metabolism)
+-Mitosis
++RNA Interference
+-Recombinant Fusion Proteins (-metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; -metabolism)
+-Schizosaccharomyces (-genetics; +metabolism)
+-Schizosaccharomyces pombe Proteins (-metabolism)
+-Transcription Factors (-genetics; -metabolism)
+-Transcription, Genetic
+
+pii:324/5935/1716
+doi:10.1126/science.1172026
+pubmed:19556509
+

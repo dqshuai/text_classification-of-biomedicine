@@ -1,0 +1,23 @@
+Methods
+
+Investigating transcriptional regulation: from analysis of complex networks to discovery of cis-regulatory elements.
+
+R Janky, J Helden, MM Babu
+
+Regulation of gene expression at the transcriptional level is a fundamental mechanism that is well conserved in all cellular systems. Due to advances in large-scale experimental analyses, we now have a wealth of information on gene regulation such as mRNA expression level across multiple conditions, genome-wide location data of transcription factors and data on transcription factor binding sites. This knowledge can be used to reconstruct transcriptional regulatory networks. Such networks are usually represented as directed graphs where regulatory interactions are depicted as directed edges from the transcription factor nodes to the target gene nodes. This abstract representation allows us to apply graph theory to study transcriptional regulation at global and local levels, to predict regulatory motifs and regulatory modules such as regulons and to compare the regulatory network of different genomes. Here we review some of the available computational methodologies for studying transcriptional regulatory networks as well as their interpretation.
+
+-Base Sequence
+-Computational Biology
+-Databases, Genetic
++Gene Expression Regulation
++Gene Regulatory Networks
+-Genetic Complementation Test (-methods)
++Regulatory Sequences, Nucleic Acid
+-Regulon (-genetics)
+-Software
+-Transcription Factors (+genetics)
+
+pii:S1046-2023(09)00096-6
+doi:10.1016/j.ymeth.2009.04.022
+pubmed:19450688
+

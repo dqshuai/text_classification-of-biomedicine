@@ -1,0 +1,23 @@
+Mol. Plant Microbe Interact.
+
+The majority of the type III effector inventory of Pseudomonas syringae pv. tomato DC3000 can suppress plant immunity.
+
+M Guo, F Tian, Y Wamboldt, JR Alfano
+
+The Pseudomonas syringae type III protein secretion system (T3SS) and the type III effectors it injects into plant cells are required for plant pathogenicity and the ability to elicit a hypersensitive response (HR). The HR is a programmed cell death that is associated with effector-triggered immunity (ETI). A primary function of P. syringae type III effectors appears to be the suppression of ETI and pathogen-associated molecular pattern-triggered immunity (PTI), which is induced by conserved molecules on microorganisms. We reported that seven type III effectors from P. syringae pv. tomato DC3000 were capable of suppressing an HR induced by P. fluorescens(pHIR11) and have now tested 35 DC3000 type III effectors in this assay, finding that the majority of them can suppress the HR induced by HopA1. One newly identified type III effector with particularly strong HR suppression activity was HopS2. We used the pHIR11 derivative pLN1965, which lacks hopA1, in related assays and found that a subset of the type III effectors that suppressed HopA1-induced ETI also suppressed an ETI response induced by AvrRpm1 in Arabidopsis thaliana. A. thaliana plants expressing either HopAO1 or HopF2, two type III effectors that suppressed the HopA1-induced HR, were reduced in the flagellin-induced PTI response as well as PTI induced by other PAMPs and allowed enhanced in planta growth of P. syringae. Collectively, our results suggest that the majority of DC3000 type III effectors can suppress plant immunity. Additionally, the construct pLN1965 will likely be a useful tool in determining whether other type III effectors or effectors from other types of pathogens can suppress either ETI, PTI, or both.
+
+-Arabidopsis (-genetics; -immunology; -microbiology)
+-Bacterial Proteins (+metabolism)
+-Genes, Bacterial
+-Genes, Suppressor
+-Immunity (+immunology)
+-Mutation (-genetics)
+-Plants, Genetically Modified
+-Pseudomonas syringae (-genetics; -growth & development; +metabolism)
+-Receptors, Pattern Recognition (-metabolism)
+
+doi:10.1094/MPMI-22-9-1069
+pubmed:19656042
+mid:NIHMS154785
+pmc:PMC2778199
+

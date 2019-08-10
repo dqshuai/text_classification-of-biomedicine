@@ -1,0 +1,32 @@
+DNA Repair (Amst.)
+
+Comparative analysis of in vivo interactions between Rev1 protein and other Y-family DNA polymerases in animals and yeasts.
+
+JN Kosarek, RV Woodruff, A Rivera-Begeman, C Guo, S D'Souza, EV Koonin, GC Walker, EC Friedberg
+
+Eukaryotes are endowed with multiple specialized DNA polymerases, some (if not all) of which are believed to play important roles in the tolerance of base damage during DNA replication. Among these DNA polymerases, Rev1 protein (a deoxycytidyl transferase) from vertebrates interacts with several other specialized polymerases via a highly conserved C-terminal region. The present studies assessed whether these interactions are retained in more experimentally tractable model systems, including yeasts, flies, and the nematode C. elegans. We observed a physical interaction between Rev1 protein and other Y-family polymerases in the fruit fly Drosophila melanogaster. However, despite the fact that the C-terminal region of Drosophila and yeast Rev1 are conserved from vertebrates to a similar extent, such interactions were not observed in Saccharomyces cerevisiae or Schizosaccharomyces pombe. With respect to regions in specialized DNA polymerases that are required for interaction with Rev1, we find predicted disorder to be an underlying structural commonality. The results of this study suggest that special consideration should be exercised when making mechanistic extrapolations regarding translesion DNA synthesis from one eukaryotic system to another.
+
+-Amino Acid Sequence
+-Animals
+-Caenorhabditis elegans (+metabolism)
+-DNA-Directed DNA Polymerase (+metabolism)
+-Drosophila melanogaster (+metabolism)
+-Immunoblotting
+-Immunoprecipitation
+-Mice
+-Molecular Sequence Data
+-Nucleotidyltransferases (+metabolism)
+-Phylogeny
+-Saccharomyces cerevisiae (+metabolism)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+-Schizosaccharomyces (+metabolism)
+-Sequence Homology, Amino Acid
+-Two-Hybrid System Techniques
+-beta-Galactosidase (-metabolism)
+
+pii:S1568-7864(07)00414-4
+doi:10.1016/j.dnarep.2007.11.016
+pubmed:18242152
+mid:NIHMS42029
+pmc:PMC2363158
+

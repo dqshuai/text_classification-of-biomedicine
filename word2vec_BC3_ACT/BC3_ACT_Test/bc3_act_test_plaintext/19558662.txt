@@ -1,0 +1,24 @@
+BMC Genomics
+
+Construction and sequence sampling of deep-coverage, large-insert BAC libraries for three model lepidopteran species.
+
+C Wu, D Proestou, D Carter, E Nicholson, F Santos, S Zhao, HB Zhang, MR Goldsmith
+
+BACKGROUND: Manduca sexta, Heliothis virescens, and Heliconius erato represent three widely-used insect model species for genomic and fundamental studies in Lepidoptera. Large-insert BAC libraries of these insects are critical resources for many molecular studies, including physical mapping and genome sequencing, but not available to date. RESULTS: We report the construction and characterization of six large-insert BAC libraries for the three species and sampling sequence analysis of the genomes. The six BAC libraries were constructed with two restriction enzymes, two libraries for each species, and each has an average clone insert size ranging from 152-175 kb. We estimated that the genome coverage of each library ranged from 6-9 x, with the two combined libraries of each species being equivalent to 13.0-16.3 x haploid genomes. The genome coverage, quality and utility of the libraries were further confirmed by library screening using 6 approximately 8 putative single-copy probes. To provide a first glimpse into these genomes, we sequenced and analyzed the BAC ends of approximately 200 clones randomly selected from the libraries of each species. The data revealed that the genomes are AT-rich, contain relatively small fractions of repeat elements with a majority belonging to the category of low complexity repeats, and are more abundant in retro-elements than DNA transposons. Among the species, the H. erato genome is somewhat more abundant in repeat elements and simple repeats than those of M. sexta and H. virescens. The BLAST analysis of the BAC end sequences suggested that the evolution of the three genomes is widely varied, with the genome of H. virescens being the most conserved as a typical lepidopteran, whereas both genomes of H. erato and M. sexta appear to have evolved significantly, resulting in a higher level of species- or evolutionary lineage-specific sequences. CONCLUSION: The high-quality and large-insert BAC libraries of the insects, together with the identified BACs containing genes of interest, provide valuable information, resources and tools for comprehensive understanding and studies of the insect genomes and for addressing many fundamental questions in Lepidoptera. The sample of the genomic sequences provides the first insight into the constitution and evolution of the insect genomes.
+
+-Animals
+-Chromosomes, Artificial, Bacterial (-genetics)
+-Female
++Gene Library
+-Genes, Insect
++Genome, Insect
+-Lepidoptera (+genetics)
+-Male
+-Mutagenesis, Insertional
+-Sequence Analysis, DNA
+
+pii:1471-2164-10-283
+doi:10.1186/1471-2164-10-283
+pubmed:19558662
+pmc:PMC2718931
+

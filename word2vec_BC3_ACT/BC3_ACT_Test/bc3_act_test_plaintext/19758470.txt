@@ -1,0 +1,25 @@
+BMC Bioinformatics
+
+From SNPs to pathways: integration of functional effect of sequence variations on models of cell signalling pathways.
+
+A Bauer-Mehren, LI Furlong, M Rautschka, F Sanz
+
+BACKGROUND: Single nucleotide polymorphisms (SNPs) are the most frequent type of sequence variation between individuals, and represent a promising tool for finding genetic determinants of complex diseases and understanding the differences in drug response. In this regard, it is of particular interest to study the effect of non-synonymous SNPs in the context of biological networks such as cell signalling pathways. UniProt provides curated information about the functional and phenotypic effects of sequence variation, including SNPs, as well as on mutations of protein sequences. However, no strategy has been developed to integrate this information with biological networks, with the ultimate goal of studying the impact of the functional effect of SNPs in the structure and dynamics of biological networks. RESULTS: First, we identified the different challenges posed by the integration of the phenotypic effect of sequence variants and mutations with biological networks. Second, we developed a strategy for the combination of data extracted from public resources, such as UniProt, NCBI dbSNP, Reactome and BioModels. We generated attribute files containing phenotypic and genotypic annotations to the nodes of biological networks, which can be imported into network visualization tools such as Cytoscape. These resources allow the mapping and visualization of mutations and natural variations of human proteins and their phenotypic effect on biological networks (e.g. signalling pathways, protein-protein interaction networks, dynamic models). Finally, an example on the use of the sequence variation data in the dynamics of a network model is presented. CONCLUSION: In this paper we present a general strategy for the integration of pathway and sequence variation data for visualization, analysis and modelling purposes, including the study of the functional impact of protein sequence variations on the dynamics of signalling pathways. This is of particular interest when the SNP or mutation is known to be associated to disease. We expect that this approach will help in the study of the functional impact of disease-associated SNPs on the behaviour of cell signalling pathways, which ultimately will lead to a better understanding of the mechanisms underlying complex diseases.
+
+-Computer Simulation
+-Information Storage and Retrieval (+methods)
++Models, Biological
+-Phenotype
++Polymorphism, Single Nucleotide
+-Proteins (-chemistry; -physiology)
+-Receptor, Epidermal Growth Factor
+-Sequence Analysis, Protein
+-Signal Transduction (+physiology)
+-Systems Biology (+methods)
+-User-Computer Interface
+
+pii:1471-2105-10-S8-S6
+doi:10.1186/1471-2105-10-S8-S6
+pubmed:19758470
+pmc:PMC2745588
+

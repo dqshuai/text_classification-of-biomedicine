@@ -1,0 +1,27 @@
+Mol. Biol. Cell
+
+Peroxisome size provides insights into the function of autophagy-related proteins.
+
+TY Nazarko, JC Farré, S Subramani
+
+Autophagy is a major pathway of intracellular degradation mediated by formation of autophagosomes. Recently, autophagy was implicated in the degradation of intracellular bacteria, whose size often exceeds the capacity of normal autophagosomes. However, the adaptations of the autophagic machinery for sequestration of large cargos were unknown. Here we developed a yeast model system to study the effect of cargo size on the requirement of autophagy-related (Atg) proteins. We controlled the size of peroxisomes before their turnover by pexophagy, the selective autophagy of peroxisomes, and found that peroxisome size determines the requirement of Atg11 and Atg26. Small peroxisomes can be degraded without these proteins. However, Atg26 becomes essential for degradation of medium peroxisomes. Additionally, the pexophagy-specific phagophore assembly site, organized by the dual interaction of Atg30 with functionally active Atg11 and Atg17, becomes essential for degradation of large peroxisomes. In contrast, Atg28 is partially required for all autophagy-related pathways independent of cargo size, suggesting it is a component of the core autophagic machinery. As a rule, the larger the cargo, the more cargo-specific Atg proteins become essential for its sequestration.
+
+-Autophagy (+physiology)
+-Carrier Proteins (-genetics; -metabolism)
+-Ethanol (-pharmacology)
+-Fungal Proteins (-genetics; +metabolism)
+-Glucosyltransferases (-genetics; -metabolism)
+-Humans
+-Oleic Acid (-pharmacology)
+-Peroxisomes (-drug effects; -metabolism; +ultrastructure)
+-Phagosomes (-metabolism)
+-Pichia (+cytology; -physiology)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; -metabolism)
+-Vesicular Transport Proteins (-genetics; -metabolism)
+
+pii:E09-03-0221
+doi:10.1091/mbc.E09-03-0221
+pubmed:19605559
+pmc:PMC2735482
+

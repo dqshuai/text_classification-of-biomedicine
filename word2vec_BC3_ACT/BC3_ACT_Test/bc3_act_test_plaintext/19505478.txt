@@ -1,0 +1,26 @@
+J. Mol. Biol.
+
+Crystallographic and biochemical analysis of the Ran-binding zinc finger domain.
+
+JR Partridge, TU Schwartz
+
+The nuclear pore complex (NPC) resides in circular openings within the nuclear envelope and serves as the sole conduit to facilitate nucleocytoplasmic transport in eukaryotes. The asymmetric distribution of the small G protein Ran across the nuclear envelope regulates directionality of protein transport. Ran interacts with the NPC of metazoa via two asymmetrically localized components, Nup153 at the nuclear face and Nup358 at the cytoplasmic face. Both nucleoporins contain a stretch of distinct, Ran-binding zinc finger domains. Here, we present six crystal structures of Nup153-zinc fingers in complex with Ran and a 1.48 A crystal structure of RanGDP. Crystal engineering allowed us to obtain well diffracting crystals so that all ZnF-Ran complex structures are refined to high resolution. Each of the four zinc finger modules of Nup153 binds one Ran molecule in apparently non-allosteric fashion. The affinity is measurably higher for RanGDP than for RanGTP and varies modestly between the individual zinc fingers. By microcalorimetric and mutational analysis, we determined that one specific hydrogen bond accounts for most of the differences in the binding affinity of individual zinc fingers. Genomic analysis reveals that only in animals do NPCs contain Ran-binding zinc fingers. We speculate that these organisms evolved a mechanism to maintain a high local concentration of Ran at the vicinity of the NPC, using this zinc finger domain as a sink.
+
+-Amino Acid Sequence
+-Animals
+-Crystallography
+-DNA Mutational Analysis
+-Molecular Sequence Data
+-Nuclear Pore Complex Proteins (+chemistry; -genetics)
+-Protein Structure, Tertiary (-genetics)
+-Rats
+-Sequence Alignment
++Zinc Fingers (-genetics)
+-ran GTP-Binding Protein (+chemistry; -genetics)
+
+pii:S0022-2836(09)00702-5
+doi:10.1016/j.jmb.2009.06.011
+pubmed:19505478
+mid:NIHMS123129
+pmc:PMC2716403
+

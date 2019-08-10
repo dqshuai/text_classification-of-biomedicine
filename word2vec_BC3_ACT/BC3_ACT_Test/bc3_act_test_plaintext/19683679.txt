@@ -1,0 +1,29 @@
+Cell Host Microbe
+
+The S. Typhimurium effector SopE induces caspase-1 activation in stromal cells to initiate gut inflammation.
+
+AJ Müller, C Hoffmann, M Galle, A Van Den Broeke, M Heikenwalder, L Falter, B Misselwitz, M Kremer, R Beyaert, WD Hardt
+
+In the healthy intestinal mucosa, homeostasis between the immune system and commensal microflora prevents detrimental inflammatory responses. Infection with acute enteropathogens such as Salmonella enterica serovar Typhimurium disturbs this homeostasis and triggers inflammation, but the underlying mechanisms are poorly understood. We found that bacterial delivery or ectopic expression of the S. Typhimurium type III effector protein SopE, a known activator of host cellular Rho GTPases, led to proinflammatory caspase-1 activation and consequent maturation and secretion of the cytokine IL-1beta. In vivo, SopE triggered mucosal inflammation in wild-type but not caspase-1(-/-), IL-1R(-/-), or IL-18(-/-) mice. Bone marrow chimeras indicated that caspase-1 was more important in stromal cells, most likely enterocytes, than in bone marrow-derived cells. SopE-mediated caspase-1 activation in vitro was mediated by cellular Rho GTPases Rac-1 and Cdc42. These findings implicate SopE-driven Rho GTPase-mediated caspase-1 activation in stromal cells as a mechanism eliciting mucosal inflammation during S. Typhimurium infection.
+
+-Animals
+-Bacterial Proteins (+metabolism)
+-Caspase 1 (+biosynthesis; -deficiency)
+-Gastrointestinal Tract (+cytology; +microbiology; -pathology)
+-Inflammation (+pathology)
+-Interleukin-18 (-deficiency)
+-Interleukin-1beta (-secretion)
+-Intestinal Mucosa (-pathology)
+-Mice
+-Mice, Inbred C57BL
+-Mice, Knockout
+-Neuropeptides (-metabolism)
+-Receptors, Interleukin-1 (-deficiency)
+-Salmonella typhimurium (+pathogenicity)
+-Stromal Cells (-microbiology)
+-rac GTP-Binding Proteins (-metabolism)
+
+pii:S1931-3128(09)00253-4
+doi:10.1016/j.chom.2009.07.007
+pubmed:19683679
+

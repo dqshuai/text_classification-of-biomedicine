@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+Tumor suppressor density-enhanced phosphatase-1 (DEP-1) inhibits the RAS pathway by direct dephosphorylation of ERK1/2 kinases.
+
+F Sacco, M Tinti, A Palma, E Ferrari, AP Nardozza, R Hooft van Huijsduijnen, T Takahashi, L Castagnoli, G Cesareni
+
+Density-enhanced phosphatase-1 (DEP-1) is a trans-membrane receptor protein-tyrosine phosphatase that plays a recognized prominent role as a tumor suppressor. However, the mechanistic details underlying its function are poorly understood because its primary physiological substrate(s) have not been firmly established. To shed light on the mechanisms underlying the anti-proliferative role of this phosphatase, we set out to identify new DEP-1 substrates by a novel approach based on screening of high density peptide arrays. The results of the array experiment were combined with a bioinformatics filter to identify eight potential DEP-1 targets among the proteins annotated in the MAPK pathway. In this study we show that one of these potential targets, the ERK1/2, is indeed a direct DEP-1 substrate in vivo. Pulldown and in vitro dephosphorylation assays confirmed our prediction and demonstrated an overall specificity of DEP-1 in targeting the phosphorylated tyrosine 204 of ERK1/2. After epidermal growth factor stimulation, the phosphorylation of the activation loop of ERK1/2 can be modulated by changing the concentration of DEP-1, without affecting the activity of the upstream kinase MEK. In addition, we show that DEP-1 contains a KIM-like motif to recruit ERK1/2 proteins by a docking mechanism mediated by the common docking domain in ERK1/2. ERK proteins that are mutated in the conserved docking domain become insensitive to DEP-1 de-phosphorylation. Overall this study provides novel insights into the anti-proliferative role of this phosphatase and proposes a new mechanism that may also be relevant for the regulation of density-dependent growth inhibition.
+
+-Amino Acid Sequence
+-Cell Proliferation
+-Computational Biology
+-Epidermal Growth Factor (-metabolism)
+-Escherichia coli (-metabolism)
+-Humans
+-Microscopy, Fluorescence (-methods)
+-Mitogen-Activated Protein Kinase 1 (+metabolism)
+-Mitogen-Activated Protein Kinase 3 (+metabolism)
+-Molecular Sequence Data
+-Phosphorylation
+-Protein Array Analysis
+-Receptor-Like Protein Tyrosine Phosphatases, Class 3 (-metabolism)
+-Sequence Homology, Amino Acid
+-ras Proteins (+metabolism)
+
+pii:M109.002758
+doi:10.1074/jbc.M109.002758
+pubmed:19494114
+pmc:PMC2755929
+

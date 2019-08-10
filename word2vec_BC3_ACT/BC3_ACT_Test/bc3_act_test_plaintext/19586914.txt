@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+Two D-2-hydroxy-acid dehydrogenases in Arabidopsis thaliana with catalytic capacities to participate in the last reactions of the methylglyoxal and beta-oxidation pathways.
+
+M Engqvist, MF Drincovich, UI Flügge, VG Maurino
+
+The Arabidopsis thaliana locus At5g06580 encodes an ortholog to Saccharomyces cerevisiae d-lactate dehydrogenase (AtD-LDH). The recombinant protein is a homodimer of 59-kDa subunits with one FAD per monomer. A substrate screen indicated that AtD-LDH catalyzes the oxidation of d- and l-lactate, d-2-hydroxybutyrate, glycerate, and glycolate using cytochrome c as an electron acceptor. AtD-LDH shows a clear preference for d-lactate, with a catalytic efficiency 200- and 2000-fold higher than that for l-lactate and glycolate, respectively, and a K(m) value for d-lactate of approximately 160 microm. Knock-out mutants showed impaired growth in the presence of d-lactate or methylglyoxal. Collectively, the data indicated that the protein is a d-LDH that participates in planta in the methylglyoxal pathway. Web-based bioinformatic tools revealed the existence of a paralogous protein encoded by locus At4g36400. The recombinant protein is a homodimer of 61-kDa subunits with one FAD per monomer. A substrate screening revealed highly specific d-2-hydroxyglutarate (d-2HG) conversion in the presence of an organic cofactor with a K(m) value of approximately 580 microm. Thus, the enzyme was characterized as a d-2HG dehydrogenase (AtD-2HGDH). Analysis of knock-out mutants demonstrated that AtD-2HGDH is responsible for the total d-2HGDH activity present in A. thaliana. Gene coexpression analysis indicated that AtD-2HGDH is in the same network as several genes involved in beta-oxidation and degradation of branched-chain amino acids and chlorophyll. It is proposed that AtD-2HGDH participates in the catabolism of d-2HG most probably during the mobilization of alternative substrates from proteolysis and/or lipid degradation.
+
+-Arabidopsis (+metabolism)
+-Catalysis
+-Chlorophyll (-chemistry)
+-Computational Biology (-methods)
+-Cytochromes c (-chemistry)
+-Dimerization
+-Kinetics
+-Lactate Dehydrogenases (+chemistry; -metabolism)
+-Lipids (-chemistry)
+-Mutation
+-Oxygen (+chemistry)
+-Phylogeny
+-Pyruvaldehyde (+chemistry)
+-Recombinant Proteins (-chemistry)
+-Substrate Specificity
+
+pii:M109.021253
+doi:10.1074/jbc.M109.021253
+pubmed:19586914
+pmc:PMC2757207
+

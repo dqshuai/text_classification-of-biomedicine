@@ -1,0 +1,23 @@
+PLoS ONE
+
+Detection of cancer with serum miRNAs on an oligonucleotide microarray.
+
+MJ Lodes, M Caraballo, D Suciu, S Munro, A Kumar, B Anderson
+
+Micro RNAs (miRNAs) are a class of small, non-coding RNA species that play critical roles throughout cellular development and regulation. miRNA expression patterns taken from various tissue types often point to the cellular lineage of an individual tissue type, thereby being a more invariant hallmark of tissue type. Recent work has shown that these miRNA expression patterns can be used to classify tumor cells, and that this classification can be more accurate than the classification achieved by using messenger RNA gene expression patterns. One aspect of miRNA biogenesis that makes them particularly attractive as a biomarker is the fact that they are maintained in a protected state in serum and plasma, thus allowing the detection of miRNA expression patterns directly from serum. This study is focused on the evaluation of miRNA expression patterns in human serum for five types of human cancer, prostate, colon, ovarian, breast and lung, using a pan-human microRNA, high density microarray. This microarray platform enables the simultaneous analysis of all human microRNAs by either fluorescent or electrochemical signals, and can be easily redesigned to include newly identified miRNAs. We show that sufficient miRNAs are present in one milliliter of serum to detect miRNA expression patterns, without the need for amplification techniques. In addition, we are able to use these expression patterns to correctly discriminate between normal and cancer patient samples.
+
+-Aged
+-Cluster Analysis
+-Female
+-Humans
+-Male
+-MicroRNAs (+blood)
+-Middle Aged
+-Neoplasms (-blood; +diagnosis)
++Oligonucleotide Array Sequence Analysis
+-Sensitivity and Specificity
+
+doi:10.1371/journal.pone.0006229
+pubmed:19597549
+pmc:PMC2704963
+

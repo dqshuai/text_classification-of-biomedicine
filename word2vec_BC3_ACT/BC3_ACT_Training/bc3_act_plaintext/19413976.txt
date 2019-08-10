@@ -1,0 +1,22 @@
+Biophys. J.
+
+Hidden Markov analysis of nucleosome unwrapping under force.
+
+M Kruithof, J van Noort
+
+Transient conformational changes of DNA-protein complexes play an important role in the DNA metabolism but are generally difficult to resolve. Single molecule force spectroscopy has the unique capability to follow such reactions but Brownian fluctuations in the end-to-end distance of a DNA tether can obscure these events. Here we measured the force-induced unwrapping of DNA from a single nucleosome and show that hidden Markov analysis, adopted for the nonlinear force-extension of DNA, can readily resolve unwrapping events that are significantly smaller than the Brownian fluctuations. The resulting probability distributions of the tether length are used to accurately resolve small changes in contour length and persistence length. The latter is shown to be directly related to the DNA bending angle of the complex. The wormlike chain-adapted hidden Markov analysis can be used for any transient DNA-protein complex and provides a robust method for the investigation of these transient events.
+
+-Algorithms
+-Computer Simulation
+-DNA (+chemistry)
++Markov Chains
++Nucleic Acid Conformation
+-Nucleosomes (+chemistry; -metabolism)
+-Probability
+-Spectrum Analysis
+
+pii:S0006-3495(09)00553-0
+doi:10.1016/j.bpj.2009.01.048
+pubmed:19413976
+pmc:PMC2711431
+

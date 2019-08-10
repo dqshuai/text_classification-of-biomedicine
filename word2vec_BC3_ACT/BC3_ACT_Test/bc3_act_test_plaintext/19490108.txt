@@ -1,0 +1,25 @@
+FEBS J.
+
+Perturbation of membranes by the amyloid beta-peptide--a molecular dynamics study.
+
+JA Lemkul, DR Bevan
+
+The etiology of Alzheimer's disease is considered to be linked to interactions between amyloid beta-peptide (Abeta) and neural cell membranes. Membrane disruption and increased ion conductance have been observed in vitro in the presence of Abeta, and it is assumed that these same phenomena occur in the brain of an individual afflicted with Alzheimer's. The effects of Abeta on lipid behavior have been characterized experimentally, but details are lacking regarding how Abeta induces these effects. Simulations of Abeta in a bilayer environment can provide the resolution necessary to explain how the peptide interacts with the surrounding lipids. In the present study, we present an extensive analysis of lipid parameters for a model dipalmitoylphosphatidylcholine bilayer in the presence of the 40-residue Abeta peptide (Abeta40). The simulated systems examine the effects of the insertion depth of the peptide, temperature, the protonation state of the peptide, and ionic strength on the features of the lipid bilayer. The results show that Abeta40 is capable of disordering nearby lipids, as well as decreasing bilayer thickness and area per lipid headgroup. These phenomena arise as a result of the unfolding process of the peptide, which leads to a disordered, extended conformation that is capable of extensive electrostatic and hydrogen-bonding interactions between the peptide and the lipid headgroups. Comparisons are made using melittin-dipalmitoylphosphatidylcholine systems as positive controls of a membrane-disrupting peptide because these systems have previously been characterized experimentally as well as in molecular dynamics simulations.
+
+-1,2-Dipalmitoylphosphatidylcholine (+chemistry)
+-Amyloid beta-Protein (+chemistry)
+-Computer Simulation
+-Deuterium (-chemistry)
+-Kinetics
+-Lipid Bilayers (+chemistry)
+-Models, Molecular
+-Molecular Conformation
+-Osmolar Concentration
+-Peptide Fragments (+chemistry)
+-Temperature
+-Water (-chemistry)
+
+pii:EJB7024
+doi:10.1111/j.1742-4658.2009.07024.x
+pubmed:19490108
+

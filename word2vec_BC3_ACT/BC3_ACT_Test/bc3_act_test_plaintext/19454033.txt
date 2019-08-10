@@ -1,0 +1,31 @@
+BMC Genomics
+
+A Plasmodium falciparum FcB1-schizont-EST collection providing clues to schizont specific gene structure and polymorphism.
+
+I Florent, BM Porcel, E Guillaume, C Da Silva, F Artiguenave, E Maréchal, L Bréhélin, O Gascuel, S Charneau, P Wincker, P Grellier
+
+BACKGROUND: The Plasmodium falciparum genome (3D7 strain) published in 2002, revealed ~5,400 genes, mostly based on in silico predictions. Experimental data is therefore required for structural and functional assessments of P. falciparum genes and expression, and polymorphic data are further necessary to exploit genomic information to further qualify therapeutic target candidates. Here, we undertook a large scale analysis of a P. falciparum FcB1-schizont-EST library previously constructed by suppression subtractive hybridization (SSH) to study genes expressed during merozoite morphogenesis, with the aim of: 1) obtaining an exhaustive collection of schizont specific ESTs, 2) experimentally validating or correcting P. falciparum gene models and 3) pinpointing genes displaying protein polymorphism between the FcB1 and 3D7 strains. RESULTS: A total of 22,125 clones randomly picked from the SSH library were sequenced, yielding 21,805 usable ESTs that were then clustered on the P. falciparum genome. This allowed identification of 243 protein coding genes, including 121 previously annotated as hypothetical. Statistical analysis of GO terms, when available, indicated significant enrichment in genes involved in "entry into host-cells" and "actin cytoskeleton". Although most ESTs do not span full-length gene reading frames, detailed sequence comparison of FcB1-ESTs versus 3D7 genomic sequences allowed the confirmation of exon/intron boundaries in 29 genes, the detection of new boundaries in 14 genes and identification of protein polymorphism for 21 genes. In addition, a large number of non-protein coding ESTs were identified, mainly matching with the two A-type rRNA units (on chromosomes 5 and 7) and to a lower extent, two atypical rRNA loci (on chromosomes 1 and 8), TARE subtelomeric regions (several chromosomes) and the recently described telomerase RNA gene (chromosome 9). CONCLUSION: This FcB1-schizont-EST analysis confirmed the actual expression of 243 protein coding genes, allowing the correction of structural annotations for a quarter of these sequences. In addition, this analysis demonstrated the actual transcription of several remarkable non-protein coding loci: 2 atypical rRNA, TARE region and telomerase RNA gene. Together with other collections of P. falciparum ESTs, usually generated from mixed parasite stages, this collection of FcB1-schizont-ESTs provides valuable data to gain further insight into the P. falciparum gene structure, polymorphism and expression.
+
+-Animals
+-Exons
++Expressed Sequence Tags
+-Gene Library
+-Genes, Protozoan
++Genome, Protozoan
+-Introns
+-Models, Genetic
+-Molecular Sequence Data
+-Plasmodium falciparum (+genetics)
+-Polymorphism, Genetic
+-Protozoan Proteins (-genetics)
+-RNA, Protozoan (-genetics)
+-RNA, Ribosomal (-genetics)
+-Schizonts (-metabolism)
+-Sequence Alignment
+-Sequence Analysis, DNA
+
+pii:1471-2164-10-235
+doi:10.1186/1471-2164-10-235
+pubmed:19454033
+pmc:PMC2695484
+

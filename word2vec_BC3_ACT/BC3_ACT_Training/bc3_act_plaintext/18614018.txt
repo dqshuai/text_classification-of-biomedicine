@@ -1,0 +1,27 @@
+Cell
+
+WHAMM is an Arp2/3 complex activator that binds microtubules and functions in ER to Golgi transport.
+
+KG Campellone, NJ Webb, EA Znameroski, MD Welch
+
+The Arp2/3 complex is an actin nucleator that plays a critical role in many cellular processes. Its activities are regulated by nucleation-promoting factors (NPFs) that function primarily during plasma membrane dynamics. Here we identify a mammalian NPF called WHAMM (WASP homolog associated with actin, membranes, and microtubules) that localizes to the cis-Golgi apparatus and tubulo-vesicular membrane transport intermediates. The modular organization of WHAMM includes an N-terminal domain that mediates Golgi membrane association, a coiled-coil region that binds microtubules, and a WCA segment that stimulates Arp2/3-mediated actin polymerization. Overexpression and depletion studies indicate that WHAMM is important for maintaining Golgi structure and facilitating anterograde membrane transport. The ability of WHAMM to interact with microtubules plays a role in membrane tubulation, while its capacity to induce actin assembly promotes tubule elongation. Thus, WHAMM is an important regulator of membrane dynamics functioning at the interface of the microtubule and actin cytoskeletons.
+
+-Actin-Related Protein 2-3 Complex (+metabolism)
+-Actins (-metabolism)
+-Animals
+-COS Cells
+-Cercopithecus aethiops
+-Endoplasmic Reticulum (+metabolism)
+-Golgi Apparatus (+metabolism)
+-Humans
+-Mice
+-Microtubules (+metabolism)
+-NIH 3T3 Cells
+-Spodoptera
+
+pii:S0092-8674(08)00693-4
+doi:10.1016/j.cell.2008.05.032
+pubmed:18614018
+mid:NIHMS59762
+pmc:PMC2556884
+

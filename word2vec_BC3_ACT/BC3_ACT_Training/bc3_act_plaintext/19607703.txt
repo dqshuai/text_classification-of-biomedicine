@@ -1,0 +1,25 @@
+BMC Genomics
+
+A method for identifying alternative or cryptic donor splice sites within gene and mRNA sequences. Comparisons among sequences from vertebrates, echinoderms and other groups.
+
+KM Buckley, LD Florea, LC Smith
+
+BACKGROUND: As the amount of genome sequencing data grows, so does the problem of computational gene identification, and in particular, the splicing signals that flank exon borders. Traditional methods for identifying splicing signals have been created and optimized using sequences from model organisms, mostly vertebrate and yeast species. However, as genome sequencing extends across the animal kingdom and includes various invertebrate species, the need for mechanisms to recognize splice signals in these organisms increases as well. With that aim in mind, we generated a model for identifying donor and acceptor splice sites that was optimized using sequences from the purple sea urchin, Strongylocentrotus purpuratus. This model was then used to assess the possibility of alternative or cryptic splicing within the highly variable immune response gene family known as 185/333. RESULTS: A donor splice site model was generated from S. purpuratus sequences that incorporates non-adjacent dependences among positions within the 9 nt splice signal and uses position weight matrices to determine the probability that the site is used for splicing. The Purpuratus model was shown to predict splice signals better than a similar model created from vertebrate sequences. Although the Purpuratus model was able to correctly predict the true splice sites within the 185/333 genes, no evidence for alternative or trans-gene splicing was observed. CONCLUSION: The data presented herein describe the first published analyses of echinoderm splice sites and suggest that the previous methods of identifying splice signals that are based largely on vertebrate sequences may be insufficient. Furthermore, alternative or trans-gene splicing does not appear to be acting as a diversification mechanism in the 185/333 gene family.
+
+-Alternative Splicing
+-Animals
+-Computational Biology (-methods)
+-Genomics (-methods)
++Models, Genetic
+-Multigene Family
++RNA Splice Sites
++RNA Splicing
+-RNA, Messenger (+genetics)
+-Sea Urchins (+genetics)
+-Sequence Analysis, RNA
+
+pii:1471-2164-10-318
+doi:10.1186/1471-2164-10-318
+pubmed:19607703
+pmc:PMC2721852
+

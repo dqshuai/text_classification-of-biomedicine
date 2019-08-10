@@ -1,0 +1,23 @@
+PLoS Pathog.
+
+Early steps of HIV-1 fusion define the sensitivity to inhibitory peptides that block 6-helix bundle formation.
+
+K Miyauchi, MM Kozlov, GB Melikyan
+
+The HIV envelope (Env) glycoprotein mediates membrane fusion through sequential interactions with CD4 and coreceptors, followed by the refolding of the transmembrane gp41 subunit into the stable 6-helix bundle (6HB) conformation. Synthetic peptides derived from the gp41 C-terminal heptad repeat domain (C-peptides) potently inhibit fusion by binding to the gp41 pre-bundle intermediates and blocking their conversion into the 6HB. Our recent work revealed that HIV-1 enters cells by fusing with endosomes, but not with the plasma membrane. These studies also showed that, for the large part, gp41 pre-bundles progress toward 6HBs in endosomal compartments and are thus protected from external fusion inhibitors. Here, we examined the consequences of endocytic entry on the gp41 pre-bundle exposure and on the virus' sensitivity to C-peptides. The rates of CD4 and coreceptor binding, as well as the rate of productive receptor-mediated endocytosis, were measured by adding specific inhibitors of these steps at varied times of virus-cell incubation. Following the CD4 binding, CCR5-tropic viruses recruited a requisite number of coreceptors much faster than CXCR4-tropic viruses. The rate of subsequent uptake of ternary Env-CD4-coreceptor complexes did not correlate with the kinetics of coreceptor engagement. These measurements combined with kinetic analyses enabled the determination of the lifetime of pre-bundle intermediates on the cell surface. Overall, these lifetimes correlated with the inhibitory potency of C-peptides. On the other hand, the basal sensitivity to peptides varied considerably among diverse HIV-1 isolates and ranked similarly with their susceptibility to inactivation by soluble CD4. We conclude that both the longevity of gp41 intermediates and the extent of irreversible conformational changes in Env upon CD4 binding determine the antiviral potency of C-peptides.
+
+-Antigens, CD4 (-metabolism)
+-Endosomes (-metabolism)
+-HIV Envelope Protein gp41 (-metabolism; +pharmacology)
+-HIV Fusion Inhibitors (+pharmacology)
+-HIV-1 (+drug effects; -metabolism)
+-Hela Cells
+-Humans
+-Membrane Fusion (+drug effects)
+-Protein Binding (-drug effects)
+-Protein Structure, Tertiary (+drug effects)
+
+doi:10.1371/journal.ppat.1000585
+pubmed:19763181
+pmc:PMC2736578
+

@@ -1,0 +1,28 @@
+Dev. Cell
+
+CENP-C functions as a scaffold for effectors with essential kinetochore functions in mitosis and meiosis.
+
+K Tanaka, HL Chang, A Kagami, Y Watanabe
+
+The conserved kinetochore protein CENP-C plays a fundamental role in chromosome segregation, but its specific functions remain elusive. We have gained insights into the role of CENP-C through identification of interacting effector proteins required for kinetochore function in fission yeast. Fta1/CENP-L is a primary effector that associates directly with Cnp3/CENP-C, and ectopic localization of Fta1 largely suppresses the mitotic kinetochore defects of cnp3Delta cells. Pcs1 functions downstream of Cnp3 to prevent merotelic attachment. In meiosis, Cnp3 further associates with and recruits Moa1, a meiosis-specific protein exclusively required for the mono-orientation of kinetochores. Genetic and biochemical analyses identified Cnp3 mutants that preserve intact mitotic kinetochore function but abolish the association with Moa1 and meiotic mono-orientation. Overall, therefore, our studies identify effectors of CENP-C in mitosis and meiosis and establish the concept that CENP-C serves as a scaffold for the specific recruitment of essential kinetochore proteins.
+
+-Chromatin Immunoprecipitation
+-Chromosomal Proteins, Non-Histone (-metabolism; +physiology)
++Chromosome Segregation
+-Fungal Proteins (+metabolism)
+-Genome, Fungal
+-Kinetics
+-Kinetochores (+metabolism)
++Meiosis
++Mitosis
+-Models, Biological
+-Mutation
+-Protein Structure, Tertiary
+-Schizosaccharomyces (+metabolism)
+-Temperature
+-Two-Hybrid System Techniques
+
+pii:S1534-5807(09)00341-4
+doi:10.1016/j.devcel.2009.08.004
+pubmed:19758558
+

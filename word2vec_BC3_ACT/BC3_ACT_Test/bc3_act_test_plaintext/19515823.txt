@@ -1,0 +1,14 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Universal oscillations in counting statistics.
+
+C Flindt, C Fricke, F Hohls, T Novotny, K Netocny, T Brandes, RJ Haug
+
+Noise is a result of stochastic processes that originate from quantum or classical sources. Higher-order cumulants of the probability distribution underlying the stochastic events are believed to contain details that characterize the correlations within a given noise source and its interaction with the environment, but they are often difficult to measure. Here we report measurements of the transient cumulants n(m) of the number n of passed charges to very high orders (up to m = 15) for electron transport through a quantum dot. For large m, the cumulants display striking oscillations as functions of measurement time with magnitudes that grow factorially with m. Using mathematical properties of high-order derivatives in the complex plane we show that the oscillations of the cumulants in fact constitute a universal phenomenon, appearing as functions of almost any parameter, including time in the transient regime. These ubiquitous oscillations and the factorial growth are system-independent and our theory provides a unified interpretation of previous theoretical studies of high-order cumulants as well as our new experimental data.
+
+
+pii:0901002106
+doi:10.1073/pnas.0901002106
+pubmed:19515823
+pmc:PMC2700917
+

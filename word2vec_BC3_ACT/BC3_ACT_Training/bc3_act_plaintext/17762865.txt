@@ -1,0 +1,38 @@
+EMBO J.
+
+SUMO-targeted ubiquitin ligases in genome stability.
+
+J Prudden, S Pebernard, G Raffa, DA Slavin, JJ Perry, JA Tainer, CH McGowan, MN Boddy
+
+We identify the SUMO-Targeted Ubiquitin Ligase (STUbL) family of proteins and propose that STUbLs selectively ubiquitinate sumoylated proteins and proteins that contain SUMO-like domains (SLDs). STUbL recruitment to sumoylated/SLD proteins is mediated by tandem SUMO interaction motifs (SIMs) within the STUbLs N-terminus. STUbL-mediated ubiquitination maintains sumoylation pathway homeostasis by promoting target protein desumoylation and/or degradation. Thus, STUbLs establish a novel mode of communication between the sumoylation and ubiquitination pathways. STUbLs are evolutionarily conserved and include: Schizosaccharomyces pombe Slx8-Rfp (founding member), Homo sapiens RNF4, Dictyostelium discoideum MIP1 and Saccharomyces cerevisiae Slx5-Slx8. Cells lacking Slx8-Rfp accumulate sumoylated proteins, display genomic instability, and are hypersensitive to genotoxic stress. These phenotypes are suppressed by deletion of the major SUMO ligase Pli1, demonstrating the specificity of STUbLs as regulators of sumoylated proteins. Notably, human RNF4 expression restores SUMO pathway homeostasis in fission yeast lacking Slx8-Rfp, underscoring the evolutionary functional conservation of STUbLs. The DNA repair factor Rad60 and its human homolog NIP45, which contain SLDs, are candidate STUbL targets. Consistently, Rad60 and Slx8-Rfp mutants have similar DNA repair defects.
+
+-Adaptation, Physiological (-drug effects)
+-Amino Acid Motifs
+-Amino Acid Sequence
+-Conserved Sequence
+-DNA Damage
+-DNA Repair (-drug effects)
+-DNA Replication (-drug effects)
+-Evolution, Molecular
+-Gene Deletion
++Genomic Instability (-drug effects)
+-Homeostasis (-drug effects)
+-Humans
+-Microbial Viability (-drug effects)
+-Models, Biological
+-Molecular Sequence Data
+-Mutagens (-pharmacology)
+-Phenotype
+-Protein Binding (-drug effects)
+-Saccharomyces cerevisiae (-cytology; -drug effects; -enzymology)
+-Schizosaccharomyces (-drug effects; +enzymology; +genetics)
+-Schizosaccharomyces pombe Proteins (-chemistry)
+-Sequence Homology, Amino Acid
+-Small Ubiquitin-Related Modifier Proteins (+metabolism)
+-Ubiquitin-Conjugating Enzymes (+metabolism)
+
+pii:7601838
+doi:10.1038/sj.emboj.7601838
+pubmed:17762865
+pmc:PMC2230673
+

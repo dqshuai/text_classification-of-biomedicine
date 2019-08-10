@@ -1,0 +1,26 @@
+Plant Cell
+
+The high light response in Arabidopsis involves ABA signaling between vascular and bundle sheath cells.
+
+G Galvez-Valdivieso, MJ Fryer, T Lawson, K Slattery, W Truman, N Smirnoff, T Asami, WJ Davies, AM Jones, NR Baker, PM Mullineaux
+
+Previously, it has been shown that Arabidopsis thaliana leaves exposed to high light accumulate hydrogen peroxide (H2O2) in bundle sheath cell (BSC) chloroplasts as part of a retrograde signaling network that induces ASCORBATE PEROXIDASE2 (APX2). Abscisic acid (ABA) signaling has been postulated to be involved in this network. To investigate the proposed role of ABA, a combination of physiological, pharmacological, bioinformatic, and molecular genetic approaches was used. ABA biosynthesis is initiated in vascular parenchyma and activates a signaling network in neighboring BSCs. This signaling network includes the Galpha subunit of the heterotrimeric G protein complex, the OPEN STOMATA1 protein kinase, and extracellular H2O2, which together coordinate with a redox-retrograde signal from BSC chloroplasts to activate APX2 expression. High light-responsive genes expressed in other leaf tissues are subject to a coordination of chloroplast retrograde signaling and transcellular signaling activated by ABA synthesized in vascular cells. ABA is necessary for the successful adjustment of the leaf to repeated episodes of high light. This process involves maintenance of photochemical quenching, which is required for dissipation of excess excitation energy.
+
+-Abscisic Acid (+metabolism)
+-Arabidopsis (+metabolism; -radiation effects)
+-Arabidopsis Proteins (-metabolism)
+-Computational Biology
+-Gene Expression Regulation, Plant (-radiation effects)
+-Genotype
+-Hydrogen Peroxide (-metabolism)
++Light
+-Plant Leaves (-cytology; +metabolism)
+-Protein Kinases (-metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Signal Transduction (-radiation effects)
+
+pii:tpc.108.061507
+doi:10.1105/tpc.108.061507
+pubmed:19638476
+pmc:PMC2729609
+

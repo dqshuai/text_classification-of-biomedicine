@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+Amplitude control of protein kinase C by RINCK, a novel E3 ubiquitin ligase.
+
+D Chen, C Gould, R Garza, T Gao, RY Hampton, AC Newton
+
+Protein kinase C (PKC) isozymes play a central role in cellular signaling. Levels of PKC control the amplitude of agonist-induced signaling and alterations in these levels are associated with disease states, most notably cancer, yet mechanisms that control the turnover of the protein are poorly understood. Here we identify an E3 ligase that catalyzes the ubiquitin-mediated degradation of PKC. Specifically, we identified a RING finger domain-containing protein, RINCK (for RING-finger protein that interacts with C kinase) from a yeast two-hybrid screen using the amino terminus of PKCbeta as bait. RINCK encodes a protein of 581 amino acids that contains a RING finger domain, a B-box, and two coiled-coil regions, the three domains that form the signature motif of the large family of diverse TRIM (tripartite motif) proteins. Co-immunoprecipitation studies using tsA201 cells reveal that RINCK and PKC associate with each other in cells. Studies using fragments of PKCbeta reveal that this interaction is mediated by the C1A domain of PKC. RINCK induces the ubiquitination of PKC both in vitro and in cells. Overexpression of RINCK reduces the levels of PKC in cells, whereas genetic knockdown of endogenous RINCK increases the levels of PKC. This increase was observed for all PKC isozymes examined (including conventional, novel, and atypical). The RINCK-mediated degradation of PKC occurs independently of the classic phorbol ester-mediated down-regulation: genetic depletion of RINCK had no effect on the phorbol ester-mediated down-regulation and, additionally, up-regulated the levels of isozymes that cannot bind phorbol esters. Our data reveal a novel mechanism that provides amplitude control in PKC signaling through ubiquitination catalyzed by RINCK, an E3 ligase that specifically recognizes the C1 domain of PKC isoforms.
+
+-Amino Acid Sequence
+-Animals
+-Carrier Proteins (+chemistry; +physiology)
+-Cloning, Molecular
++Gene Expression Regulation, Enzymologic
+-Humans
+-Mice
+-Molecular Sequence Data
+-Nuclear Proteins (+chemistry; +physiology)
+-Phorbol Esters (-chemistry)
+-Protein Binding
+-Protein Structure, Tertiary
+-Rats
+-Two-Hybrid System Techniques
+-Ubiquitin (-chemistry)
+-Ubiquitin-Protein Ligases (+chemistry)
+
+pii:M703320200
+doi:10.1074/jbc.M703320200
+pubmed:17893151
+

@@ -1,0 +1,14 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Impossibility of successful classification when useful features are rare and weak.
+
+J Jin
+
+We study a two-class classification problem with a large number of features, out of which many are useless and only a few are useful, but we do not know which ones they are. The number of features is large compared with the number of training observations. Calibrating the model with 4 key parameters--the number of features, the size of the training sample, the fraction, and strength of useful features--we identify a region in parameter space where no trained classifier can reliably separate the two classes on fresh data. The complement of this region--where successful classification is possible--is also briefly discussed.
+
+
+pii:0903931106
+doi:10.1073/pnas.0903931106
+pubmed:19447927
+pmc:PMC2682944
+

@@ -1,0 +1,24 @@
+BMC Genomics
+
+Proteomic-based identification of maternal proteins in mature mouse oocytes.
+
+P Zhang, X Ni, Y Guo, X Guo, Y Wang, Z Zhou, R Huo, J Sha
+
+BACKGROUND: The mature mouse oocyte contains the full complement of maternal proteins required for fertilization, reprogramming, zygotic gene activation (ZGA), and the early stages of embryogenesis. However, due to limitations of traditional proteomics strategies, only a few abundantly expressed proteins have yet been identified. Our laboratory applied a more effective strategy: one-dimensional sodium dodecyl sulfate polyacrylamide gel electrophoresis (1D SDS-PAGE) and reverse-phase liquid chromatography tandem mass spectrometry (RP-LC-MS/MS) were employed to analyze the mature oocyte proteome in depth. RESULTS: Using this high-performance proteomic approach, we successfully identified 625 different proteins from 2700 mature mouse oocytes lacking zona pellucidae. This is the largest catalog of mature mouse oocyte proteins compiled to date. According to their pattern of expression, we screened 76 maternal proteins with high levels of mRNA expression both in oocytes and fertilized eggs. Many well-known maternal effect proteins were included in this subset, including MATER and NPM2. In addition, our mouse oocyte proteome was compared with a recently published mouse embryonic stem cell (ESC) proteome and 371 overlapping proteins were identified. CONCLUSION: This proteomics analysis will be a valuable resource to aid in the characterization of important maternal proteins involved in oogenesis, fertilization, early embryonic development and in revealing their mechanisms of action.
+
+-Animals
++Cell Differentiation
+-Female
+-Gene Expression
+-Humans
+-Mice
+-Mice, Inbred ICR
+-Oocytes (+chemistry; -cytology; -metabolism)
+-Proteomics
+-RNA, Messenger (-metabolism)
+
+pii:1471-2164-10-348
+doi:10.1186/1471-2164-10-348
+pubmed:19646285
+pmc:PMC2730056
+

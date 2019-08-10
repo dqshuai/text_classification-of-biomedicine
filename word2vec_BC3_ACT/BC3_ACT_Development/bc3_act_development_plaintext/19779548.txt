@@ -1,0 +1,27 @@
+PLoS Comput. Biol.
+
+A computational analysis of ATP binding of SV40 large tumor antigen helicase motor.
+
+Y Shi, H Liu, D Gai, J Ma, XS Chen
+
+Simian virus 40 large tumor antigen (LTag) is an efficient helicase motor that unwinds and translocates DNA. The DNA unwinding and translocation of LTag is powered by ATP binding and hydrolysis at the nucleotide pocket between two adjacent subunits of an LTag hexamer. Based on the set of high-resolution hexameric structures of LTag helicase in different nucleotide binding states, we simulated a conformational transition pathway of the ATP binding process using the targeted molecular dynamics method and calculated the corresponding energy profile using the linear response approximation (LRA) version of the semi-macroscopic Protein Dipoles Langevin Dipoles method (PDLD/S). The simulation results suggest a three-step process for the ATP binding from the initial interaction to the final tight binding at the nucleotide pocket, in which ATP is eventually "locked" by three pairs of charge-charge interactions across the pocket. Such a "cross-locking" ATP binding process is similar to the binding zipper model reported for the F1-ATPase hexameric motor. The simulation also shows a transition mechanism of Mg2+ coordination to form the Mg-ATP complex during ATP binding, which is accompanied by the large conformational changes of LTag. This simulation study of the ATP binding process to an LTag and the accompanying conformational changes in the context of a hexamer leads to a refined cooperative iris model that has been proposed previously.
+
+-Adenosine Triphosphate (-chemistry; +metabolism)
+-Antigens, Polyomavirus Transforming (-chemistry; +metabolism)
+-Computational Biology (+methods)
+-Computer Simulation
+-DNA Helicases (-chemistry; +metabolism)
+-Hydrogen Bonding
+-Magnesium (-metabolism)
+-Models, Molecular
+-Protein Binding
+-Protein Conformation
+-Protein Structure, Tertiary
+-Simian virus 40 (-chemistry; -enzymology; +metabolism)
+-Thermodynamics
+-Water (-metabolism)
+
+doi:10.1371/journal.pcbi.1000514
+pubmed:19779548
+pmc:PMC2739275
+

@@ -1,0 +1,28 @@
+PLoS ONE
+
+A genetic screen in Drosophila reveals novel cytoprotective functions of the autophagy-lysosome pathway.
+
+AM Arsham, TP Neufeld
+
+The highly conserved autophagy-lysosome pathway is the primary mechanism for breakdown and recycling of macromolecular and organellar cargo in the eukaryotic cell. Autophagy has recently been implicated in protection against cancer, neurodegeneration, and infection, and interest is increasing in additional roles of autophagy in human health, disease, and aging. To search for novel cytoprotective features of this pathway, we carried out a genetic mosaic screen for mutations causing increased lysosomal and/or autophagic activity in the Drosophila melanogaster larval fat body. By combining Drosophila genetics with live-cell imaging of the fluorescent dye LysoTracker Red and fixed-cell imaging of autophagy-specific fluorescent protein markers, the screen was designed to identify essential metazoan genes whose disruption causes increased flux through the autophagy-lysosome pathway. The screen identified a large number of genes associated with the protein synthesis and ER-secretory pathways (e.g. aminoacyl tRNA synthetases, Oligosaccharyl transferase, Sec61alpha), and with mitochondrial function and dynamics (e.g. Rieske iron-sulfur protein, Dynamin-related protein 1). We also observed that increased lysosomal and autophagic activity were consistently associated with decreased cell size. Our work demonstrates that disruption of the synthesis, transport, folding, or glycosylation of ER-targeted proteins at any of multiple steps leads to autophagy induction. In addition to illuminating cytoprotective features of autophagy in response to cellular damage, this screen establishes a genetic methodology for investigating cell biological phenotypes in live cells, in the context of viable wild type organisms.
+
+-Animals
++Autophagy
+-Drosophila melanogaster (+genetics; +physiology)
+-Endoplasmic Reticulum (-metabolism)
+-Fluorescent Dyes (-pharmacology)
++Gene Expression Profiling
+-Lysosomes (+metabolism)
+-Mitochondria (-metabolism)
+-Mitosis
+-Models, Biological
+-Models, Genetic
+-Mutagenesis
+-Mutation
+-Phenotype
+-Recombination, Genetic
+
+doi:10.1371/journal.pone.0006068
+pubmed:19562034
+pmc:PMC2698153
+

@@ -1,0 +1,31 @@
+PLoS Pathog.
+
+A lipid receptor sorts polyomavirus from the endolysosome to the endoplasmic reticulum to cause infection.
+
+M Qian, D Cai, KJ Verhey, B Tsai
+
+The mechanisms by which receptors guide intracellular virus transport are poorly characterized. The murine polyomavirus (Py) binds to the lipid receptor ganglioside GD1a and traffics to the endoplasmic reticulum (ER) where it enters the cytosol and then the nucleus to initiate infection. How Py reaches the ER is unclear. We show that Py is transported initially to the endolysosome where the low pH imparts a conformational change that enhances its subsequent ER-to-cytosol membrane penetration. GD1a stimulates not viral binding or entry, but rather sorting of Py from late endosomes and/or lysosomes to the ER, suggesting that GD1a binding is responsible for ER targeting. Consistent with this, an artificial particle coated with a GD1a antibody is transported to the ER. Our results provide a rationale for transport of Py through the endolysosome, demonstrate a novel endolysosome-to-ER transport pathway that is regulated by a lipid, and implicate ganglioside binding as a general ER targeting mechanism.
+
+-Animals
+-Biological Transport, Active
+-Cell Membrane (-metabolism)
+-Cell Nucleus (-metabolism; -virology)
+-Endoplasmic Reticulum (+metabolism; -virology)
+-Endosomes (-metabolism; -virology)
+-Gangliosides (+metabolism)
+-Hydrogen-Ion Concentration
+-Lysosomes (+metabolism; -virology)
+-Mice
+-Microscopy, Fluorescence
+-NIH 3T3 Cells
+-Polyomavirus (-chemistry; +metabolism)
+-Polyomavirus Infections (+virology)
+-Quantum Dots
+-Receptors, Virus (+metabolism)
+-rab GTP-Binding Proteins (-genetics; -metabolism)
+-rab5 GTP-Binding Proteins (-genetics; -metabolism)
+
+doi:10.1371/journal.ppat.1000465
+pubmed:19503604
+pmc:PMC2685006
+

@@ -1,0 +1,28 @@
+J. Mol. Biol.
+
+The ATPase cycle of PcrA helicase and its coupling to translocation on DNA.
+
+CP Toseland, MM Martinez-Senac, AF Slatter, MR Webb
+
+The superfamily 1 bacterial helicase PcrA has a role in the replication of certain plasmids, acting with the initiator protein (RepD) that binds to and nicks the double-stranded origin of replication. PcrA also translocates single-stranded DNA with discrete steps of one base per ATP hydrolyzed. Individual rate constants have been determined for the DNA helicase PcrA ATPase cycle when bound to either single-stranded DNA or a double-stranded DNA junction that also has RepD bound. The fluorescent ATP analogue 2'(3')-O-(N-methylanthraniloyl)ATP was used throughout all experiments to provide a complete ATPase cycle for a single nucleotide species. Fluorescence intensity and anisotropy stopped-flow measurements were used to determine rate constants for binding and release. Quenched-flow measurements provided the kinetics of the hydrolytic cleavage step. The fluorescent phosphate sensor MDCC-PBP was used to measure phosphate release kinetics. The chemical cleavage step is the rate-limiting step in the cycle and is essentially irreversible and would result in the bound ATP complex being a major component at steady state. This cleavage step is greatly accelerated by bound DNA, producing the high activation of this protein compared to the protein alone. The data suggest the possibility that ADP is released in two steps, which would result in bound ADP also being a major intermediate, with bound ADP.P(i) being a very small component. It therefore seems likely that the major transition in structure occurs during the cleavage step, rather than P(i) release. ATP rebinding could then cause reversal of this structural transition. The kinetic mechanism of the PcrA ATPase cycle is very little changed by potential binding to RepD, supporting the idea that RepD increases the processivity of PcrA by increasing affinity to DNA rather than affecting the enzymatic properties per se.
+
+-Adenosine Triphosphatases (+metabolism)
+-Adenosine Triphosphate (-metabolism)
+-Bacterial Proteins (+metabolism)
+-Base Sequence
+-DNA (-metabolism)
+-DNA Helicases (+metabolism)
+-DNA, Bacterial (+metabolism)
+-Geobacillus stearothermophilus (+enzymology; -genetics; -metabolism)
+-Hydrolysis
+-Models, Biological
+-Molecular Sequence Data
+-Oxygen (-metabolism)
+-Phosphates (-metabolism)
+-Protein Binding
+-Protein Transport
+
+pii:S0022-2836(09)00937-1
+doi:10.1016/j.jmb.2009.07.071
+pubmed:19647000
+

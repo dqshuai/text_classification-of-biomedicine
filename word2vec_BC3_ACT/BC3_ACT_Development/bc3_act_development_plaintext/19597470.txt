@@ -1,0 +1,26 @@
+Oncogene
+
+MicroRNA-330 acts as tumor suppressor and induces apoptosis of prostate cancer cells through E2F1-mediated suppression of Akt phosphorylation.
+
+KH Lee, YL Chen, SD Yeh, M Hsiao, JT Lin, YG Goan, PJ Lu
+
+MicroRNAs (miRNAs) make up a novel class of gene regulators; they function as oncogenes or tumor suppressors by targeting tumor-suppressor genes or oncogenes. A recent study that analysed a large number of human cancer cell lines showed that miR-330 is a potential tumor-suppressor gene. However, the function and molecular mechanism of miR-330 in determining the aggressiveness of human prostate cancer has not been studied. Here, we show that miR-330 is significantly lower expressed in human prostate cancer cell lines than in nontumorigenic prostate epithelial cells. Bioinformatics analyses reveal a conserved target site for miR-330 in the 3'-untranslated region (UTR) of E2F1 at nucleotides 1018-1024. MiR-330 significantly suppressed the activity of a luciferase reporter containing the E2F1-3'-UTR in the cells. This activity could be abolished with the transfection of anti-miR-330 or mutated E2F1-3'-UTR. In addition, the expression level of miR-330 and E2F1 was inversely correlated in cell lines and prostate cancer specimens. After overexpressing of miR-330 in PC-3 cells, cell growth was suppressed by reducing E2F1-mediated Akt phosphorylation and thereby inducing apoptosis. Collectively, this is the first study to show that E2F1 is negatively regulated by miR-330 and also show that miR-330 induces apoptosis in prostate cancer cells through E2F1-mediated suppression of Akt phosphorylation.
+
+-3' Untranslated Regions (-genetics)
++Apoptosis
+-Cell Line, Tumor
+-Cell Survival
+-Down-Regulation
+-E2F1 Transcription Factor (-genetics; +physiology)
+-Genes, Tumor Suppressor (+physiology)
+-Humans
+-Male
+-MicroRNAs (+physiology)
+-Phosphorylation
+-Prostatic Neoplasms (-pathology; +prevention & control)
+-Proto-Oncogene Proteins c-akt (+metabolism)
+
+pii:onc2009192
+doi:10.1038/onc.2009.192
+pubmed:19597470
+

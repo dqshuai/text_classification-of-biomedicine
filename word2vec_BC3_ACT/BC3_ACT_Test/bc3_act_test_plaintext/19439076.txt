@@ -1,0 +1,23 @@
+BMC Genomics
+
+An improved method for genome wide DNA methylation profiling correlated to transcription and genomic instability in two breast cancer cell lines.
+
+J Li, F Gao, N Li, S Li, G Yin, G Tian, S Jia, K Wang, X Zhang, H Yang, AL Nielsen, L Bolund
+
+BACKGROUND: DNA methylation is a widely studied epigenetic mechanism known to correlate with gene repression and genomic stability. Development of sensitive methods for global detection of DNA methylation events is of particular importance. RESULTS: We here describe a technique, called modified methylation-specific digital karyotyping (MMSDK) based on methylation-specific digital karyotyping (MSDK) with a novel sequencing approach. Briefly, after a tandem digestion of genomic DNA with a methylation-sensitive mapping enzyme and a fragmenting enzyme, short sequence tags are obtained. These tags are amplified, followed by direct, massively parallel sequencing (Solexa 1G Genome Analyzer). This method allows high-throughput and low-cost genome-wide DNA methylation mapping. We applied this method to investigate global DNA methylation profiles for widely used breast cancer cell lines, MCF-7 and MDA-MB-231, which are representatives for luminal-like and mesenchymal-like cancer types, respectively. By comparison, a highly similar overall DNA methylation pattern was revealed for the two cell lines. However a cohort of individual genomic loci with significantly different DNA methylation status between two cell lines was identified. Furthermore, we revealed a genome-wide significant correlation between gene expression and the methylation status of gene promoters with CpG islands (CGIs) in the two cancer cell lines, and a correlation of gene expression and the methylation status of promoters without CGIs in MCF-7 cells. CONCLUSION: The MMSDK method will be a valuable tool to increase the current knowledge of genome wide DNA methylation profiles.
+
+-Cell Line, Tumor
+-Comparative Genomic Hybridization
+-DNA Fingerprinting (+methods)
++DNA Methylation
+-Gene Expression Profiling
++Genomic Instability
+-Genomics (+methods)
+-Humans
+-Karyotyping (-methods)
+
+pii:1471-2164-10-223
+doi:10.1186/1471-2164-10-223
+pubmed:19439076
+pmc:PMC2696471
+

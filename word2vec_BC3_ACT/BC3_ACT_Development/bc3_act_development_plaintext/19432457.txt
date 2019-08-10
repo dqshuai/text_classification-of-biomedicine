@@ -1,0 +1,29 @@
+Biochemistry
+
+Structure, stability, and flexibility of ribosomal protein L14e from Sulfolobus solfataricus.
+
+SP Edmondson, J Turri, K Smith, A Clark, JW Shriver
+
+Ribosomal protein L14e is a component of the large ribosomal subunit in both archaea and eukaryotes. We report here a high-resolution NMR solution structure of recombinant L14e and show that the N-terminal 57 residues adopt a classic SH3 fold. The protein contains a tight turn between strands 1 and 2 instead of the typical SH3 RT-loop, indicating that it is unlikely to interact with neighboring ribosomal proteins using the common SH3 site for proline-rich sequences. The remainder of the protein (39 residues) forms a largely extended chain with a short helix which packs onto the surface of the SH3 domain via hydrophobic interactions. It has the potential of adopting an alternative structure to expose a hydrophobic surface for protein-protein interactions in the ribosome without disruption of the SH3 fold. (15)N relaxation data demonstrate that the majority of the C-terminal chain is well-defined on the SH3 surface. The globular protein unfolds reversibly with a T(m) of 102.8 degrees C at pH 7, making it one of the most stable SH3 domain proteins described to date. The structure of L14e is expected to serve as a model for other members of the L14e family, along with members of the COG2163 group, including L6e and L27e. Interestingly, the N-terminal sequence of L14e shows the greatest similarity of any Sulfolobus protein to the reported N-terminal sequence of Sac8b, a DNA-binding protein reported by Grote et al. ((1986) Biochim. Biophys. Acta 873, 405-413). The likelihood that L14e and Sac8b are the same protein is discussed.
+
+-Amino Acid Sequence
+-Archaeal Proteins (+chemistry; -metabolism)
+-Binding Sites
+-Calorimetry, Differential Scanning
+-Circular Dichroism
+-Models, Molecular
+-Molecular Sequence Data
+-Nuclear Magnetic Resonance, Biomolecular
+-Protein Conformation
+-Protein Folding
+-Ribosomal Proteins (+chemistry; -metabolism)
+-Sequence Alignment
+-Sulfolobus solfataricus (+metabolism)
+-Temperature
+-src Homology Domains
+
+doi:10.1021/bi9003205
+pubmed:19432457
+mid:NIHMS120156
+pmc:PMC2703186
+

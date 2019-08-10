@@ -1,0 +1,31 @@
+Mol. Cell. Biol.
+
+The nucleosome binding protein HMGN3 modulates the transcription profile of pancreatic beta cells and affects insulin secretion.
+
+T Ueda, T Furusawa, T Kurahashi, L Tessarollo, M Bustin
+
+Improper glucose-stimulated insulin secretion from pancreatic beta cells is a major factor in the onset of type 2 diabetes. We now report that HMGN3, a nuclear protein that binds to nucleosomes and affects chromatin function, is highly expressed in beta cells and that in mice, loss of HMGN3 impairs glucose-stimulated insulin secretion and leads to a diabetic phenotype. In pancreatic beta cells, loss of HMGN3 affects the transcription of several genes involved in glucose-stimulated insulin secretion, including that of the Glut2 glucose transporter. Chromatin immunoprecipitation reveals that HMGN3 and the transcription factor PDX1 mutually reinforce their specific binding to the chromatin in the promoter of the Glut2 gene, thereby regulating GLUT2 protein levels in pancreatic islets and in beta cells. Our results identify a new regulator of glucose homeostasis and demonstrate a link between the activity of a nucleosome binding structural protein and the regulation of insulin secretion.
+
+-Animals
+-Blood Glucose (-metabolism)
+-Cell Line
+-Diabetes Mellitus, Type 2 (-genetics; -metabolism)
++Gene Expression Profiling
+-Glucose Transporter Type 2 (-genetics; -metabolism)
+-HMGN Proteins (-deficiency; -genetics; +metabolism)
+-Humans
+-Insulin (-metabolism; +secretion)
+-Insulin-Secreting Cells (+metabolism; +secretion)
+-Mice
+-Mice, Inbred C57BL
+-Mice, Knockout
+-Nucleosomes (+metabolism)
+-Promoter Regions, Genetic
+-Protein Binding
+-Transcription, Genetic
+
+pii:MCB.00526-09
+doi:10.1128/MCB.00526-09
+pubmed:19651901
+pmc:PMC2747976
+

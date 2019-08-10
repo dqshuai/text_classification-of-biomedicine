@@ -1,0 +1,26 @@
+BMC Bioinformatics
+
+Pairwise and higher-order correlations among drug-resistance mutations in HIV-1 subtype B protease.
+
+O Haq, RM Levy, AV Morozov, M Andrec
+
+BACKGROUND: The reaction of HIV protease to inhibitor therapy is characterized by the emergence of complex mutational patterns which confer drug resistance. The response of HIV protease to drugs often involves both primary mutations that directly inhibit the action of the drug, and a host of accessory resistance mutations that may occur far from the active site but may contribute to restoring the fitness or stability of the enzyme. Here we develop a probabilistic approach based on connected information that allows us to study residue, pair level and higher-order correlations within the same framework. RESULTS: We apply our methodology to a database of approximately 13,000 sequences which have been annotated by the treatment history of the patients from which the samples were obtained. We show that including pair interactions is essential for agreement with the mutational data, since neglect of these interactions results in order-of-magnitude errors in the probabilities of the simultaneous occurence of many mutations. The magnitude of these pair correlations changes dramatically between sequences obtained from patients that were or were not exposed to drugs. Higher-order effects make a contribution of as much as 10% for residues taken three at a time, but increase to more than twice that for 10 to 15-residue groups. The sequence data is insufficient to determine the higher-order effects for larger groups. We find that higher-order interactions have a significant effect on the predicted frequencies of sequences with large numbers of mutations. While relatively rare, such sequences are more prevalent after multi-drug therapy. The relative importance of these higher-order interactions increases with the number of drugs the patient had been exposed to. CONCLUSION: Correlations are critical for the understanding of mutation patterns in HIV protease. Pair interactions have substantial qualitative effects, while higher-order interactions are individually smaller but may have a collective effect. Together they lead to correlations which could have an important impact on the dynamics of the evolution of cross-resistance, by allowing the virus to pass through otherwise unlikely mutational states. These findings also indicate that pairwise and possibly higher-order effects should be included in the models of protein evolution, instead of assuming that all residues mutate independently of one another.
+
+-Amino Acid Sequence
+-Computational Biology (+methods)
+-Databases, Protein
+-Drug Resistance, Viral
+-HIV Protease (+genetics)
+-HIV Protease Inhibitors (-pharmacology)
+-HIV-1 (+enzymology; +genetics)
+-Linear Models
+-Models, Molecular
++Mutation
+-Sequence Alignment
+-Thermodynamics
+
+pii:1471-2105-10-S8-S10
+doi:10.1186/1471-2105-10-S8-S10
+pubmed:19758465
+pmc:PMC2745583
+

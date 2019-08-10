@@ -1,0 +1,26 @@
+Genetics
+
+Candidate gene association mapping of Arabidopsis flowering time.
+
+IM Ehrenreich, Y Hanzawa, L Chou, JL Roe, PX Kover, MD Purugganan
+
+The pathways responsible for flowering time in Arabidopsis thaliana comprise one of the best characterized genetic networks in plants. We harness this extensive molecular genetic knowledge to identify potential flowering time quantitative trait genes (QTGs) through candidate gene association mapping using 51 flowering time loci. We genotyped common single nucleotide polymorphisms (SNPs) at these genes in 275 A. thaliana accessions that were also phenotyped for flowering time and rosette leaf number in long and short days. Using structured association techniques, we find that haplotype-tagging SNPs in 27 flowering time genes show significant associations in various trait/environment combinations. After correction for multiple testing, between 2 and 10 genes remain significantly associated with flowering time, with CO arguably possessing the most promising associations. We also genotyped a subset of these flowering time gene SNPs in an independent recombinant inbred line population derived from the intercrossing of 19 accessions. Approximately one-third of significant polymorphisms that were associated with flowering time in the accessions and genotyped in the outbred population were replicated in both mapping populations, including SNPs at the CO, FLC, VIN3, PHYD, and GA1 loci, and coding region deletions at the FRI gene. We conservatively estimate that approximately 4-14% of known flowering time genes may harbor common alleles that contribute to natural variation in this life history trait.
+
+-Arabidopsis (+genetics; -growth & development)
+-Chromosome Mapping
+-Crosses, Genetic
+-Flowers (+genetics)
+-Gene Expression Regulation, Developmental
+-Gene Expression Regulation, Plant
+-Gene Regulatory Networks
++Genes, Plant (-physiology)
+-Genotype
++Linkage (Genetics)
+-Polymorphism, Single Nucleotide
+-Time Factors
+
+pii:genetics.109.105189
+doi:10.1534/genetics.109.105189
+pubmed:19581446
+pmc:PMC2746157
+

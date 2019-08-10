@@ -1,0 +1,26 @@
+Mol. Syst. Biol.
+
+Quantifying epistatic interactions among the components constituting the protein translation system.
+
+T Matsuura, Y Kazuta, T Aita, J Adachi, T Yomo
+
+In principle, the accumulation of knowledge regarding the molecular basis of biological systems should allow the development of large-scale kinetic models of their functions. However, the development of such models requires vast numbers of parameters, which are difficult to obtain in practice. Here, we used an in vitro translation system, consisting of 69 defined components, to quantify the epistatic interactions among changes in component concentrations through Bahadur expansion, thereby obtaining a coarse-grained model of protein synthesis activity. Analyses of the data measured using various combinations of component concentrations indicated that the contributions of larger than 2-body inter-component epistatic interactions are negligible, despite the presence of larger than 2-body physical interactions. These findings allowed the prediction of protein synthesis activity at various combinations of component concentrations from a small number of samples, the principle of which is applicable to analysis and optimization of other biological systems. Moreover, the average ratio of 2- to 1-body terms was estimated to be as small as 0.1, implying high adaptability and evolvability of the protein translation system.
+
+-Algorithms
+-Computational Biology
++Epistasis, Genetic
+-Escherichia coli (-genetics)
+-Genes, Bacterial
+-Green Fluorescent Proteins (-metabolism)
+-Models, Biological
+-Models, Statistical
++Protein Biosynthesis
+-Proteins (+genetics)
+-Systems Biology (+methods)
+-Time Factors
+
+pii:msb200950
+doi:10.1038/msb.2009.50
+pubmed:19690566
+pmc:PMC2736649
+

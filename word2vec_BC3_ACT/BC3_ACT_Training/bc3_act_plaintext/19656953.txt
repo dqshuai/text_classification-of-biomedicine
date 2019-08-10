@@ -1,0 +1,27 @@
+Nucleic Acids Res.
+
+Human telomeres that contain (CTAGGG)n repeats show replication dependent instability in somatic cells and the male germline.
+
+A Mendez-Bermudez, M Hills, HA Pickett, AT Phan, JL Mergny, JF Riou, NJ Royle
+
+A number of different processes that impact on telomere length dynamics have been identified but factors that affect the turnover of repeats located proximally within the telomeric DNA are poorly defined. We have identified a particular repeat type (CTAGGG) that is associated with an extraordinarily high mutation rate (20% per gamete) in the male germline. The mutation rate is affected by the length and sequence homogeneity of the (CTAGGG)n array. This level of instability was not seen with other sequence-variant repeats, including the TCAGGG repeat type that has the same composition. Telomeres carrying a (CTAGGG)n array are also highly unstable in somatic cells with the mutation process resulting in small gains or losses of repeats that also occasionally result in the deletion of the whole (CTAGGG)n array. These sequences are prone to quadruplex formation in vitro but adopt a different topology from (TTAGGG)n (see accompanying article). Interestingly, short (CTAGGG)2 oligonucleotides induce a DNA damage response (gammaH2AX foci) as efficiently as (TTAGGG)2 oligos in normal fibroblast cells, suggesting they recruit POT1 from the telomere. Moreover, in vitro assays show that (CTAGGG)n repeats bind POT1 more efficiently than (TTAGGG)n or (TCAGGG)n. We estimate that 7% of human telomeres contain (CTAGGG)n repeats and when present, they create additional problems that probably arise during telomere replication.
+
+-Alleles
+-DNA Damage
+-DNA Replication
+-G-Quadruplexes
++Germ-Line Mutation
+-Humans
+-Male
+-Mutation
+-Oligonucleotides (-chemistry)
++Repetitive Sequences, Nucleic Acid
+-Telomere (+chemistry)
+-Telomere-Binding Proteins (-metabolism)
+-Telomeric Repeat Binding Protein 2 (-metabolism)
+
+pii:gkp629
+doi:10.1093/nar/gkp629
+pubmed:19656953
+pmc:PMC2764434
+

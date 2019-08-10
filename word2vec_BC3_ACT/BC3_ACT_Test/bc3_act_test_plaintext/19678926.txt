@@ -1,0 +1,21 @@
+BMC Bioinformatics
+
+OnEX: Exploring changes in life science ontologies.
+
+M Hartung, T Kirsten, A Gross, E Rahm
+
+BACKGROUND: Numerous ontologies have recently been developed in life sciences to support a consistent annotation of biological objects, such as genes or proteins. These ontologies underlie continuous changes which can impact existing annotations. Therefore, it is valuable for users of ontologies to study the stability of ontologies and to see how many and what kind of ontology changes occurred. RESULTS: We present OnEX (Ontology Evolution EXplorer) a system for exploring ontology changes. Currently, OnEX provides access to about 560 versions of 16 well-known life science ontologies. The system is based on a three-tier architecture including an ontology version repository, a middleware component and the OnEX web application. Interactive workflows allow a systematic and explorative change analysis of ontologies and their concepts as well as the semi-automatic migration of out-dated annotations to the current version of an ontology. CONCLUSION: OnEX provides a user-friendly web interface to explore information about changes in current life science ontologies. It is available at http://www.izbi.de/onex.
+
+-Computational Biology (+methods)
+-Databases, Factual
+-Gene Expression Profiling
+-Internet
++Software
+-User-Computer Interface
+-Vocabulary, Controlled
+
+pii:1471-2105-10-250
+doi:10.1186/1471-2105-10-250
+pubmed:19678926
+pmc:PMC2746816
+

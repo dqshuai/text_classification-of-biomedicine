@@ -1,0 +1,32 @@
+J. Biol. Chem.
+
+Identification of protein domains that control proton and calcium sensitivity of ASIC1a.
+
+T Sherwood, R Franke, S Conneely, J Joyner, P Arumugan, C Askwith
+
+The acid-sensing ion channels (ASICs) open in response to extracellular acidic pH, and individual subunits display differential sensitivity to protons and calcium. ASIC1a acts as a high affinity proton sensor, whereas ASIC2a requires substantially greater proton concentrations to activate. Using chimeras composed of ASIC1a and ASIC2a, we determined that two regions of the extracellular domain (residues 87-197 and 323-431) specify the high affinity proton response of ASIC1a. These two regions appear to undergo intersubunit interactions within the multimeric channel to specify proton sensitivity. Single amino acid mutations revealed that amino acids around Asp(357) play a prominent role in determining the pH dose response of ASIC1a. Within the same region, mutation F352L abolished PcTx1 modulation of ASIC1a. Surprisingly, we determined that another area of the extracellular domain was required for calcium-dependent regulation of ASIC1a activation, and this region functioned independently of high affinity proton sensing. These results indicate that specific regions play overlapping roles in pH-dependent gating and PcTx1-dependent modulation of ASIC1a activity, whereas a distinct region determines the calcium dependence of ASIC1a activation.
+
+-Amino Acid Sequence
+-Animals
+-Calcium (+metabolism)
+-Epithelial Sodium Channel (+chemistry; -genetics; +metabolism)
+-Humans
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Nerve Tissue Proteins (+chemistry; -genetics; +metabolism)
+-Oocytes (-cytology; -physiology)
+-Patch-Clamp Techniques
+-Point Mutation
++Protein Isoforms (-chemistry; -genetics; -metabolism)
+-Protein Structure, Tertiary
++Protons
++Recombinant Fusion Proteins (-chemistry; -genetics; -metabolism)
++Sodium Channels (-chemistry; -genetics; -metabolism)
+-Spider Venoms (-metabolism)
+-Xenopus laevis
+
+pii:M109.029009
+doi:10.1074/jbc.M109.029009
+pubmed:19654327
+pmc:PMC2788841
+

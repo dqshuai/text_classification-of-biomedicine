@@ -1,0 +1,28 @@
+Hum. Mol. Genet.
+
+Antagonistic SR proteins regulate alternative splicing of tumor-related Rac1b downstream of the PI3-kinase and Wnt pathways.
+
+V Gonçalves, P Matos, P Jordan
+
+The small GTPase Rac1 regulates signaling pathways controlling actin-dependent cell motility as well as gene transcription. An alternative splicing variant Rac1b is overexpressed in a subset of colorectal tumors and is required to sustain tumor cell viability. Thus, it is of therapeutic interest to understand the molecular mechanism behind the overexpression of Rac1b through alternative splicing. Here we describe that ASF/SF2 and SRp20 are two antagonistic splicing factors regulating Rac1b expression in colorectal tumor cells. Using an Rac1 minigene, we identified that SRp20 increased skipping of alternative exon 3b in HT29 colorectal cells, whereas ASF/SF2 increased its inclusion. The depletion of the endogenous expression of these splicing factors by specific small interfering RNA confirmed that ASF/SF2 acts as an enhancer of endogenous Rac1b splicing, whereas SRp20 acts as a silencer. Point mutations in exon 3b defined two adjacent regulatory regions required for skipping or inclusion of exon 3b, which are recognized in vitro by SRp20 and ASF/SF2, respectively. Both splicing factors were found to be regulated by upstream signaling pathways: the inhibition of the phosphatidylinositol 3-kinase pathway increased protein levels of ASF/SF2 and promoted Rac1b, whereas activation of beta-catenin/TCF4 increased expression of SRp20 and inhibited that of Rac1b. Together, these data reveal that signaling pathways act in concert to target independent splicing factors and achieve the correct combinatorial code to regulate alternative splicing of the small GTPase Rac1.
+
+-1-Phosphatidylinositol 3-Kinase (-genetics; +metabolism)
++Alternative Splicing
+-Base Sequence
+-Cell Line, Tumor
+-Colorectal Neoplasms (+genetics; -metabolism)
+-Gene Expression Regulation, Neoplastic
+-Humans
+-Molecular Sequence Data
+-Nuclear Proteins (-genetics; +metabolism)
+-Protein Binding
+-RNA-Binding Proteins (-genetics; +metabolism)
+-Sequence Alignment
++Signal Transduction
+-Wnt Proteins (-genetics; +metabolism)
+-rac1 GTP-Binding Protein (+genetics; -metabolism)
+
+pii:ddp317
+doi:10.1093/hmg/ddp317
+pubmed:19602482
+

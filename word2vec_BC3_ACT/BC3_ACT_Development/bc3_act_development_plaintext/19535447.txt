@@ -1,0 +1,28 @@
+J. Virol.
+
+Identification of a novel WxSLVK motif in the N terminus of human immunodeficiency virus and simian immunodeficiency virus Vif that is critical for APOBEC3G and APOBEC3F neutralization.
+
+Y Dang, X Wang, T Zhou, IA York, YH Zheng
+
+The function of lentiviral Vif proteins is to neutralize the host antiviral cytidine deaminases APOBEC3G (A3G) and APOBEC3F (A3F). Vif bridges a cullin 5-based E3 ubiquitin ligase with A3G and A3F and mediates their degradation by proteasomes. Recent studies have found that Vif uses different domains to bind to A3G and A3F. A (14)DRMR(17) domain binds to A3F, (40)YRHHY(44) binds to A3G, and (69)YxxL(72) binds to both A3G and A3F. Here, we report another functional domain of Vif. Previously, we demonstrated that human immunodeficiency virus type 1 (HIV-1) Vif failed to mediate A3G proteasomal degradation when all 16 lysines were mutated to arginines. Here, we show that K26, and to a lesser extent K22, is critical for A3G neutralization. K22 and K26 are part of a conserved (21)WxSLVK(26) (x represents N, K, or H) motif that is found in most primate lentiviruses and that shows species-specific variation. Both K22 and K26 in this motif regulated Vif specificity only for A3G, whereas the SLV residues regulated Vif specificity for both A3F and A3G. Interestingly, SLV and K26 in HIV-1 Vif did not directly mediate Vif interaction with either A3G or A3F. Previously, other groups have reported an important role for W21 in A3F and A3G neutralization. Thus, (21)WxSLVK(26) is a novel functional domain that regulates Vif activity toward both A3F and A3G and is a potential drug target to inhibit Vif activity and block HIV-1 replication.
+
++Amino Acid Motifs
+-Amino Acid Sequence
+-Animals
+-Cell Line
+-Cells, Cultured
+-Cytidine Deaminase (+antagonists & inhibitors)
+-Cytosine Deaminase (+antagonists & inhibitors)
+-Gene Products, vif (-genetics; +metabolism)
+-HIV-1 (-genetics; +physiology)
+-Humans
+-Molecular Sequence Data
+-Sequence Alignment
+-Simian immunodeficiency virus (-genetics; +physiology)
++Virus Replication
+
+pii:JVI.00651-09
+doi:10.1128/JVI.00651-09
+pubmed:19535447
+pmc:PMC2738151
+

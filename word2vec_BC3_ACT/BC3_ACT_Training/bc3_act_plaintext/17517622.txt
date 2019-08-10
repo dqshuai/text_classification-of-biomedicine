@@ -1,0 +1,29 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Functional characterization of human PFTK1 as a cyclin-dependent kinase.
+
+F Shu, S Lv, Y Qin, X Ma, X Wang, X Peng, Y Luo, BE Xu, X Sun, J Wu
+
+Cyclin-dependent kinases (CDKs) are crucial regulators of the eukaryotic cell cycle whose activities are controlled by associated cyclins. PFTK1 shares limited homology to CDKs, but its ability to associate with any cyclins and its biological functions remain largely unknown. Here, we report the functional characterization of human PFTK1 as a CDK. PFTK1 specifically interacted with cyclin D3 (CCND3) and formed a ternary complex with the cell cycle inhibitor p21(Cip1) in mammalian cells. We demonstrated that the kinase activity of PFTK1 depended on CCND3 and was negatively regulated by p21(Cip1). Moreover, we identified the tumor suppressor Rb as a potential downstream substrate for the PFTK1/CCND3 complex. Importantly, knocking down PFTK1 expression by using siRNA caused cell cycle arrest at G(1), whereas ectopic expression of PFTK1 promoted cell proliferation. Taken together, our data strongly suggest that PFTK1 acts as a CDK that regulates cell cycle progression and cell proliferation.
+
+-CDC2 Protein Kinase (-genetics; +metabolism)
+-Cell Line
+-Cyclin D3
+-Cyclin-Dependent Kinase Inhibitor p21 (-genetics; -metabolism)
+-Cyclins (-genetics; -metabolism)
+-Enzyme Activation
+-G1 Phase
+-Gene Expression Regulation
+-Humans
+-Phosphorylation
+-Protein Binding
+-RNA, Small Interfering (-genetics)
+-Retinoblastoma Protein (-metabolism)
+-Saccharomyces cerevisiae (-genetics; -metabolism)
+-Two-Hybrid System Techniques
+
+pii:0703327104
+doi:10.1073/pnas.0703327104
+pubmed:17517622
+pmc:PMC1890480
+

@@ -1,0 +1,34 @@
+Cell
+
+Dissecting the ER-associated degradation of a misfolded polytopic membrane protein.
+
+K Nakatsukasa, G Huyer, S Michaelis, JL Brodsky
+
+It remains unclear how misfolded membrane proteins are selected and destroyed during endoplasmic reticulum-associated degradation (ERAD). For example, chaperones are thought to solubilize aggregation-prone motifs, and some data suggest that these proteins are degraded at the ER. To better define how membrane proteins are destroyed, the ERAD of Ste6p(*), a 12 transmembrane protein, was reconstituted. We found that specific Hsp70/40s act before ubiquitination and facilitate Ste6p(*) association with an E3 ubiquitin ligase, suggesting an active role for chaperones. Furthermore, polyubiquitination was a prerequisite for retrotranslocation, which required the Cdc48 complex and ATP. Surprisingly, the substrate was soluble, and extraction was independent of a ubiquitin chain extension enzyme (Ufd2p). However, Ufd2p increased the degree of ubiquitination and facilitated degradation. These data indicate that polytopic membrane proteins can be extracted from the ER, and define the point of action of chaperones and the requirement for Ufd2p during membrane protein quality control.
+
+-ATP-Binding Cassette Transporters (-chemistry; +metabolism)
+-Adenosine Triphosphatases (-metabolism)
+-Adenosine Triphosphate (-metabolism)
+-Cell Cycle Proteins (-metabolism)
+-Endoplasmic Reticulum (-genetics; +metabolism; -ultrastructure)
+-Glycoproteins (-chemistry; +metabolism)
+-Heat-Shock Proteins (-metabolism)
+-Heat-Shock Response (-physiology)
+-Membrane Proteins (-chemistry; +metabolism)
+-Molecular Chaperones (-metabolism)
+-Oxidative Stress (-physiology)
+-Protein Conformation
++Protein Folding
+-Protein Transport (-physiology)
+-Saccharomyces cerevisiae (-genetics; +metabolism; -ultrastructure)
+-Saccharomyces cerevisiae Proteins (-chemistry; +metabolism)
+-Ubiquitin-Conjugating Enzymes (+metabolism)
+-Ubiquitin-Protein Ligases (-metabolism)
+-Ubiquitination (-physiology)
+
+pii:S0092-8674(07)01475-4
+doi:10.1016/j.cell.2007.11.023
+pubmed:18191224
+mid:NIHMS37888
+pmc:PMC2219389
+

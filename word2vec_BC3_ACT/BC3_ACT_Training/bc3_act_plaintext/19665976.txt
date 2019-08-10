@@ -1,0 +1,23 @@
+Cell
+
+A class of dynamin-like GTPases involved in the generation of the tubular ER network.
+
+J Hu, Y Shibata, PP Zhu, C Voss, N Rismanchi, WA Prinz, TA Rapoport, C Blackstone
+
+The endoplasmic reticulum (ER) consists of tubules that are shaped by the reticulons and DP1/Yop1p, but how the tubules form an interconnected network is unknown. Here, we show that mammalian atlastins, which are dynamin-like, integral membrane GTPases, interact with the tubule-shaping proteins. The atlastins localize to the tubular ER and are required for proper network formation in vivo and in vitro. Depletion of the atlastins or overexpression of dominant-negative forms inhibits tubule interconnections. The Sey1p GTPase in S. cerevisiae is likely a functional ortholog of the atlastins; it shares the same signature motifs and membrane topology and interacts genetically and physically with the tubule-shaping proteins. Cells simultaneously lacking Sey1p and a tubule-shaping protein have ER morphology defects. These results indicate that formation of the tubular ER network depends on conserved dynamin-like GTPases. Since atlastin-1 mutations cause a common form of hereditary spastic paraplegia, we suggest ER-shaping defects as a neuropathogenic mechanism.
+
+-Animals
+-Dynamin I (+metabolism)
+-Dynamins (-metabolism)
+-Endoplasmic Reticulum (+metabolism)
+-GTP Phosphohydrolases (+metabolism)
+-Saccharomyces cerevisiae (-metabolism)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+-Vesicular Transport Proteins (+metabolism)
+
+pii:S0092-8674(09)00628-X
+doi:10.1016/j.cell.2009.05.025
+pubmed:19665976
+mid:HHMIMS138658
+pmc:PMC2746359
+

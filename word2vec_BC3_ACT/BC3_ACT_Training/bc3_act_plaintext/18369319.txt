@@ -1,0 +1,30 @@
+EMBO J.
+
+G protein-coupled receptor kinase 2 positively regulates epithelial cell migration.
+
+P Penela, C Ribas, I Aymerich, N Eijkelkamp, O Barreiro, CJ Heijnen, A Kavelaars, F Sánchez-Madrid, F Mayor
+
+Cell migration requires integration of signals arising from both the extracellular matrix and messengers acting through G protein-coupled receptors (GPCRs). We find that increased levels of G protein-coupled receptor kinase 2 (GRK2), a key player in GPCR regulation, potentiate migration of epithelial cells towards fibronectin, whereas such process is decreased in embryonic fibroblasts from hemizygous GRK2 mice or upon knockdown of GRK2 expression. Interestingly, the GRK2 effect on fibronectin-mediated cell migration involves the paracrine/autocrine activation of a sphingosine-1-phosphate (S1P) Gi-coupled GPCR. GRK2 positively modulates the activity of the Rac/PAK/MEK/ERK pathway in response to adhesion and S1P by a mechanism involving the phosphorylation-dependent, dynamic interaction of GRK2 with GIT1, a key scaffolding protein in cell migration processes. Furthermore, decreased GRK2 levels in hemizygous mice result in delayed wound healing rate in vivo, consistent with a physiological role of GRK2 as a regulator of coordinated integrin and GPCR-directed epithelial cell migration.
+
+-Animals
+-COS Cells
+-Cell Line
+-Cell Line, Transformed
++Cell Movement (-genetics)
+-Cercopithecus aethiops
+-Epithelial Cells (+cytology; +physiology)
+-Fibronectins (-physiology)
+-G-Protein-Coupled Receptor Kinase 2 (-genetics; +physiology)
+-Hela Cells
+-Humans
+-Integrins (-physiology)
+-Mice
+-Mice, Inbred C57BL
+-Phosphorylation
+-Receptors, G-Protein-Coupled (-metabolism)
+
+pii:emboj200855
+doi:10.1038/emboj.2008.55
+pubmed:18369319
+pmc:PMC2367399
+

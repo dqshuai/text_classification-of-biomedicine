@@ -1,0 +1,34 @@
+Nat. Struct. Mol. Biol.
+
+Coding sequence targeting by MicC RNA reveals bacterial mRNA silencing downstream of translational initiation.
+
+V Pfeiffer, K Papenfort, S Lucchini, JC Hinton, J Vogel
+
+Bacterial small noncoding RNAs (sRNAs) generally recognize target mRNAs in the 5' region to prevent 30S ribosomes from initiating translation. It was thought that the mRNA coding sequence (CDS) was refractory to sRNA-mediated repression, because elongating 70S ribosomes have an efficient RNA helicase activity that prevents stable target pairing. We report that the Hfq-associated MicC sRNA silences Salmonella typhimurium ompD mRNA via a <or=12-bp RNA duplex within the CDS (codons 23-26) that is essential and sufficient for repression. MicC does not inhibit translational initiation at this downstream position but instead acts by accelerating RNase E-dependent ompD mRNA decay. We propose an alternative gene-silencing pathway within bacterial CDS wherein sRNAs repress targets by endonucleolytic mRNA destabilization rather than by the prototypical inhibition of translational initiation. The discovery of CDS targeting markedly expands the sequence space for sRNA target predictions in bacteria.
+
+-Bacterial Proteins (-genetics; -metabolism)
+-Base Sequence
+-Blotting, Northern
+-Blotting, Western
+-Electrophoresis, Polyacrylamide Gel
+-Endoribonucleases (-metabolism)
+-Gene Expression Profiling
+-Gene Expression Regulation, Bacterial
+-Molecular Sequence Data
+-Mutation
+-Open Reading Frames (+genetics)
+-Peptide Chain Initiation, Translational (-genetics)
+-Porins (-genetics)
+-Protein Biosynthesis (+genetics)
+-RNA Stability
+-RNA, Bacterial (-genetics; -metabolism)
+-RNA, Messenger (+genetics; -metabolism)
+-RNA, Untranslated (+genetics; -metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Ribosomes (-metabolism)
+-Salmonella typhimurium (-genetics; -metabolism)
+
+pii:nsmb.1631
+doi:10.1038/nsmb.1631
+pubmed:19620966
+

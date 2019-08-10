@@ -1,0 +1,30 @@
+Cell Death Differ.
+
+Polypyrimidine tract binding proteins (PTB) regulate the expression of apoptotic genes and susceptibility to caspase-dependent apoptosis in differentiating cardiomyocytes.
+
+J Zhang, N Bahi, M Llovera, JX Comella, D Sanchis
+
+Cardiac morphologic abnormalities in mice deficient for key regulators of the caspase-dependent signaling underscored its role in heart development. However, the mechanisms regulating apoptotic gene expression in the developing heart are unknown. As polypyrimidine tract binding proteins (PTB) determine gene isoform expression during myoblast differentiation and contribute to Apaf-1 translation in cell lines, we investigated whether PTB regulate apoptotic gene expression in differentiating cardiomyocytes. Our results show that PTB are expressed in the embryonic heart and are silenced during development, coinciding with a reduction in the expression of apoptotic genes. Overexpression of PTB in postnatal cardiomyocytes, which express low levels of PTB and apoptotic genes, induced an increase in the amount of pro-apoptotic proteins without affecting abundance of their respective transcripts. Translation of the reporter gene Firefly Luciferase preceded by the 5'-untranslated region of Apaf-1 or Caspase-3 was enhanced by PTB in cardiomyocytes. PTB silencing in fibroblasts induced a decrease of apoptotic protein levels. PTB overexpression in cardiomyocytes induced caspase activity and caspase-dependent DNA fragmentation during ischemia, which is otherwise caspase-independent in differentiated cardiomyocytes. Our results show that PTB contribute to apoptotic gene expression and modulate the susceptibility to caspase activation in differentiating rat cardiomyocytes.
+
+-5' Untranslated Regions
+-Animals
++Apoptosis
+-Apoptosis Regulatory Proteins (-genetics; -metabolism)
+-Apoptotic Protease-Activating Factor 1 (-metabolism)
+-Caspase 3 (-genetics; +metabolism)
+-Cell Differentiation
+-DNA Fragmentation
+-Gene Expression Regulation, Developmental
+-Gene Knockdown Techniques
+-Humans
+-Mice
+-Myocytes, Cardiac (+cytology)
+-Polypyrimidine Tract-Binding Protein (-genetics; +metabolism)
+-Protein Isoforms (-genetics; -metabolism)
+-Rats
+-Signal Transduction
+
+pii:cdd200987
+doi:10.1038/cdd.2009.87
+pubmed:19590510
+

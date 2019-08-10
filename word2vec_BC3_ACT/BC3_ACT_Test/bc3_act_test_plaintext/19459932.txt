@@ -1,0 +1,23 @@
+FEBS J.
+
+The structural basis for catalytic function of GMD and RMD, two closely related enzymes from the GDP-D-rhamnose biosynthesis pathway.
+
+JD King, KK Poon, NA Webb, EM Anderson, DJ McNally, JR Brisson, P Messner, RM Garavito, JS Lam
+
+The rare 6-deoxysugar D-rhamnose is a component of bacterial cell surface glycans, including the D-rhamnose homopolymer produced by Pseudomonas aeruginosa, called A-band O polysaccharide. GDP-D-rhamnose synthesis from GDP-D-mannose is catalyzed by two enzymes. The first is a GDP-D-mannose-4,6-dehydratase (GMD). The second enzyme, RMD, reduces the GMD product (GDP-6-deoxy-D-lyxo-hexos-4-ulose) to GDP-d-rhamnose. Genes encoding GMD and RMD are present in P. aeruginosa, and genetic evidence indicates they act in A-band O-polysaccharide biosynthesis. Details of their enzyme functions have not, however, been previously elucidated. We aimed to characterize these enzymes biochemically, and to determine the structure of RMD to better understand what determines substrate specificity and catalytic activity in these enzymes. We used capillary electrophoresis and NMR analysis of reaction products to precisely define P. aeruginosa GMD and RMD functions. P. aeruginosa GMD is bifunctional, and can catalyze both GDP-d-mannose 4,6-dehydration and the subsequent reduction reaction to produce GDP-D-rhamnose. RMD catalyzes the stereospecific reduction of GDP-6-deoxy-D-lyxo-hexos-4-ulose, as predicted. Reconstitution of GDP-D-rhamnose biosynthesis in vitro revealed that the P. aeruginosa pathway may be regulated by feedback inhibition in the cell. We determined the structure of RMD from Aneurinibacillus thermoaerophilus at 1.8 A resolution. The structure of A. thermoaerophilus RMD is remarkably similar to that of P. aeruginosa GMD, which explains why P. aeruginosa GMD is also able to catalyze the RMD reaction. Comparison of the active sites and amino acid sequences suggests that a conserved amino acid side chain (Arg185 in P. aeruginosa GMD) may be crucial for orienting substrate and cofactor in GMD enzymes.
+
+-Biocatalysis
+-Electrophoresis, Capillary
+-Guanosine Diphosphate Sugars (+biosynthesis)
+-Hydro-Lyases (+chemistry; +metabolism)
+-Ketone Oxidoreductases (+chemistry; +metabolism)
+-Kinetics
+-Models, Molecular
+-Nuclear Magnetic Resonance, Biomolecular
+-Protein Conformation
+-Pseudomonas aeruginosa (-enzymology)
+
+pii:EJB6993
+doi:10.1111/j.1742-4658.2009.06993.x
+pubmed:19459932
+

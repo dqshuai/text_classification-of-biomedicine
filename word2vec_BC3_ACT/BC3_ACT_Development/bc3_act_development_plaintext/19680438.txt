@@ -1,0 +1,28 @@
+PLoS Genet.
+
+The Drosophila SH2B family adaptor Lnk acts in parallel to chico in the insulin signaling pathway.
+
+C Werz, K Köhler, E Hafen, H Stocker
+
+Insulin/insulin-like growth factor signaling (IIS) plays a pivotal role in the regulation of growth at the cellular and the organismal level during animal development. Flies with impaired IIS are developmentally delayed and small due to fewer and smaller cells. In the search for new growth-promoting genes, we identified mutations in the gene encoding Lnk, the single fly member of the SH2B family of adaptor molecules. Flies lacking lnk function are viable but severely reduced in size. Furthermore, lnk mutants display phenotypes reminiscent of reduced IIS, such as developmental delay, female sterility, and accumulation of lipids. Genetic epistasis analysis places lnk downstream of the insulin receptor (InR) and upstream of phosphoinositide 3-kinase (PI3K) in the IIS cascade, at the same level as chico (encoding the single fly insulin receptor substrate [IRS] homolog). Both chico and lnk mutant larvae display a similar reduction in IIS activity as judged by the localization of a PIP(3) reporter and the phosphorylation of protein kinase B (PKB). Furthermore, chico; lnk double mutants are synthetically lethal, suggesting that Chico and Lnk fulfill independent but partially redundant functions in the activation of PI3K upon InR stimulation.
+
+-Adaptor Proteins, Signal Transducing (-chemistry; -genetics; +metabolism)
+-Amino Acid Sequence
+-Animals
+-Body Size
+-Drosophila Proteins (-chemistry; -genetics; +metabolism)
+-Drosophila melanogaster (-chemistry; -genetics; -growth & development; +metabolism)
+-Insulin (-genetics; +metabolism)
+-Intracellular Signaling Peptides and Proteins (-genetics; +metabolism)
+-Molecular Sequence Data
++Multigene Family
+-Mutation
+-Receptor, Insulin (-genetics; -metabolism)
+-Sequence Alignment
++Signal Transduction
+-src Homology Domains
+
+doi:10.1371/journal.pgen.1000596
+pubmed:19680438
+pmc:PMC2716533
+

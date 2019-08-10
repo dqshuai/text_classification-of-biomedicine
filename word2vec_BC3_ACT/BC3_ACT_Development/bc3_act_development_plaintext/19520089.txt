@@ -1,0 +1,35 @@
+J. Mol. Biol.
+
+Insights into tRNA-dependent amidotransferase evolution and catalysis from the structure of the Aquifex aeolicus enzyme.
+
+J Wu, W Bu, K Sheppard, M Kitabatake, ST Kwon, D Söll, JL Smith
+
+Many bacteria form Gln-tRNA(Gln) and Asn-tRNA(Asn) by conversion of the misacylated Glu-tRNA(Gln) and Asp-tRNA(Asn) species catalyzed by the GatCAB amidotransferase in the presence of ATP and an amide donor (glutamine or asparagine). Here, we report the crystal structures of GatCAB from the hyperthermophilic bacterium Aquifex aeolicus, complexed with glutamine, asparagine, aspartate, ADP, or ATP. In contrast to the Staphylococcus aureus GatCAB, the A. aeolicus enzyme formed acyl-enzyme intermediates with either glutamine or asparagine, in line with the equally facile use by the amidotransferase of these amino acids as amide donors in the transamidation reaction. A water-filled ammonia channel is open throughout the length of the A. aeolicus GatCAB from the GatA active site to the synthetase catalytic pocket in the B-subunit. A non-catalytic Zn(2+) site in the A. aeolicus GatB stabilizes subunit contacts and the ammonia channel. Judged from sequence conservation in the known GatCAB sequences, the Zn(2+) binding motif was likely present in the primordial GatB/E, but became lost in certain lineages (e.g., S. aureus GatB). Two divalent metal binding sites, one permanent and the other transient, are present in the catalytic pocket of the A. aeolicus GatB. The two sites enable GatCAB to first phosphorylate the misacylated tRNA substrate and then amidate the activated intermediate to form the cognate products, Gln-tRNA(Gln) or Asn-tRNA(Asn).
+
+-Adenosine Diphosphate (-metabolism)
+-Adenosine Triphosphate (-metabolism)
+-Amino Acid Sequence
+-Asparagine (-metabolism)
+-Aspartic Acid (-metabolism)
+-Bacteria (+enzymology; -genetics)
++Catalysis
+-Catalytic Domain
+-Crystallography, X-Ray
++Evolution, Molecular
+-Genetic Complementation Test
+-Glutamine (-metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Molecular Structure
++Nitrogenous Group Transferases (-chemistry; -genetics; -metabolism)
++Protein Structure, Quaternary
+-RNA, Transfer (-genetics; +metabolism)
+-Substrate Specificity
+-Zinc (-chemistry)
+
+pii:S0022-2836(09)00717-7
+doi:10.1016/j.jmb.2009.06.014
+pubmed:19520089
+mid:NIHMS133768
+pmc:PMC2830067
+

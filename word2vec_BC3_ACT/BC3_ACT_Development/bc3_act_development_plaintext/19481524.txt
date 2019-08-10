@@ -1,0 +1,31 @@
+Mol. Cell
+
+A convergence of rRNA and mRNA quality control pathways revealed by mechanistic analysis of nonfunctional rRNA decay.
+
+SE Cole, FJ LaRiviere, CN Merrikh, MJ Moore
+
+Eukaryotes possess numerous quality control systems that monitor both the synthesis of RNA and the integrity of the finished products. We previously demonstrated that Saccharomyces cerevisiae possesses a quality control mechanism, nonfunctional rRNA decay (NRD), capable of detecting and eliminating translationally defective rRNAs. Here we show that NRD can be divided into two mechanistically distinct pathways: one that eliminates rRNAs with deleterious mutations in the decoding site (18S NRD) and one that eliminates rRNAs containing deleterious mutations in the peptidyl transferase center (25S NRD). 18S NRD is dependent on translation elongation and utilizes the same proteins as those participating in no-go mRNA decay (NGD). In cells that accumulate 18S NRD and NGD decay intermediates, both RNA types can be seen in P-bodies. We propose that 18S NRD and NGD are different observable outcomes of the same initiating event: a ribosome stalled inappropriately at a sense codon during translation elongation.
+
+-Adaptor Proteins, Signal Transducing
+-Animals
+-Biological Markers (-metabolism)
+-Cell Nucleus (-metabolism)
+-Exoribonucleases (-genetics; -metabolism)
+-GTP-Binding Proteins (-genetics; -metabolism)
+-HSP70 Heat-Shock Proteins (-genetics; -metabolism)
+-Humans
+-In Situ Hybridization, Fluorescence
+-Peptide Elongation Factors (-genetics; -metabolism)
++RNA Stability
++RNA, Messenger (-genetics; -metabolism)
++RNA, Ribosomal (-genetics; -metabolism)
++RNA, Ribosomal, 18S (-genetics; -metabolism)
++Saccharomyces cerevisiae (-genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; -metabolism)
+
+pii:S1097-2765(09)00270-6
+doi:10.1016/j.molcel.2009.04.017
+pubmed:19481524
+mid:NIHMS121327
+pmc:PMC2712825
+

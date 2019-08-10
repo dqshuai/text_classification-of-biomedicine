@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+The MmeI family: type II restriction-modification enzymes that employ single-strand modification for host protection.
+
+RD Morgan, EA Dwinell, TK Bhatia, EM Lang, YA Luyten
+
+The type II restriction endonucleases form one of the largest families of biochemically-characterized proteins. These endonucleases typically share little sequence similarity, except among isoschizomers that recognize the same sequence. MmeI is an unusual type II restriction endonuclease that combines endonuclease and methyltransferase activities in a single polypeptide. MmeI cuts DNA 20 bases from its recognition sequence and modifies just one DNA strand for host protection. Using MmeI as query we have identified numerous putative genes highly similar to MmeI in database sequences. We have cloned and characterized 20 of these MmeI homologs. Each cuts DNA at the same distance as MmeI and each modifies a conserved adenine on only one DNA strand for host protection. However each enzyme recognizes a unique DNA sequence, suggesting these enzymes are undergoing rapid evolution of DNA specificity. The MmeI family thus provides a rich source of novel endonucleases while affording an opportunity to observe the evolution of DNA specificity. Because the MmeI family enzymes employ modification of only one DNA strand for host protection, unlike previously described type II systems, we propose that such single-strand modification systems be classified as a new subgroup, the type IIL enzymes, for Lone strand DNA modification.
+
+-Amino Acid Sequence
+-DNA (-chemistry; -metabolism)
+-DNA Cleavage
+-Deoxyribonucleases, Type II Site-Specific (+classification; -genetics; +metabolism)
+-Genomics
+-Phylogeny
+-Protein Structure, Tertiary
+-Sequence Alignment
+-Site-Specific DNA-Methyltransferase (Adenine-Specific) (+classification; -genetics; +metabolism)
+
+pii:gkp534
+doi:10.1093/nar/gkp534
+pubmed:19578066
+pmc:PMC2731913
+

@@ -1,0 +1,25 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Essential role for a long-term depression mechanism in ocular dominance plasticity.
+
+BJ Yoon, GB Smith, AJ Heynen, RL Neve, MF Bear
+
+The classic example of experience-dependent cortical plasticity is the ocular dominance (OD) shift in visual cortex after monocular deprivation (MD). The experimental model of homosynaptic long-term depression (LTD) was originally introduced to study the mechanisms that could account for deprivation-induced loss of visual responsiveness. One established LTD mechanism is a loss of sensitivity to the neurotransmitter glutamate caused by internalization of postsynaptic alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionic acid receptors (AMPARs). Although it has been shown that MD similarly causes a loss of AMPARs from visual cortical synapses, the contribution of this change to the OD shift has not been established. Using an herpes simplex virus (HSV) vector, we expressed in visual cortical neurons a peptide (G2CT) designed to block AMPAR internalization by hindering the association of the C-terminal tail of the AMPAR GluR2 subunit with the AP2 clathrin adaptor complex. We found that G2CT expression interferes with NMDA receptor (NMDAR)-dependent AMPAR endocytosis and LTD, without affecting baseline synaptic transmission. When expressed in vivo, G2CT completely blocked the OD shift and depression of deprived-eye responses after MD without affecting baseline visual responsiveness or experience-dependent response potentiation in layer 4 of visual cortex. These data suggest that AMPAR internalization is essential for the loss of synaptic strength caused by sensory deprivation in visual cortex.
+
+-Animals
+-Cells, Cultured
++Dominance, Ocular
+-Evoked Potentials, Visual
+-Male
+-Mice
+-Mice, Inbred C57BL
+-Neuronal Plasticity
+-Receptors, AMPA (-metabolism)
+-Synapses (+physiology)
+-Visual Cortex (-cytology; -physiology)
+
+pii:0901305106
+doi:10.1073/pnas.0901305106
+pubmed:19470483
+pmc:PMC2685742
+

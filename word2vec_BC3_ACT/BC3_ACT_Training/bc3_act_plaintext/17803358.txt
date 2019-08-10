@@ -1,0 +1,23 @@
+PLoS Biol.
+
+Down-regulation of NF-kappaB target genes by the AP-1 and STAT complex during the innate immune response in Drosophila.
+
+LK Kim, UY Choi, HS Cho, JS Lee, WB Lee, J Kim, K Jeong, J Shim, J Kim-Ha, YJ Kim
+
+The activation of several transcription factors is required for the elimination of infectious pathogens via the innate immune response. The transcription factors NF-kappaB, AP-1, and STAT play major roles in the synthesis of immune effector molecules during innate immune responses. However, the fact that these immune responses can have cytotoxic effects requires their tight regulation to achieve restricted and transient activation, and mis-regulation of the damping process has pathological consequences. Here we show that AP-1 and STAT are themselves the major inhibitors responsible for damping NF-kappaB-mediated transcriptional activation during the innate immune response in Drosophila. As the levels of dAP-1 and Stat92E increase due to continuous immune signaling, they play a repressive role by forming a repressosome complex with the Drosophila HMG protein, Dsp1. The dAP-1-, Stat92E-, and Dsp1-containing complexes replace Relish at the promoters of diverse immune effector genes by binding to evolutionarily conserved cis-elements, and they recruit histone deacetylase to inhibit transcription. Reduction by mutation of dAP-1, Stat92E, or Dsp1 results in hyperactivation of Relish target genes and reduces the viability of bacterially infected flies despite more efficient pathogen clearance. These defects are rescued by reducing the Relish copy number, thus confirming that mis-regulation of Relish, not inadequate activation of dAP-1, Stat92E, or Dsp1 target genes, is responsible for the reduced survival of the mutants. We conclude that an inhibitory effect of AP-1 and STAT on NF-kappaB is required for properly balanced immune responses and appears to be evolutionarily conserved.
+
+-Animals
+-Cell Line
++Down-Regulation (-genetics)
+-Drosophila
+-Drosophila Proteins (+genetics)
++Immunity, Innate
+-NF-kappa B (-antagonists & inhibitors; +genetics)
+-STAT Transcription Factors (-metabolism; +physiology)
+-Transcription Factor AP-1 (-metabolism; +physiology)
+
+pii:06-PLBI-RA-1483
+doi:10.1371/journal.pbio.0050238
+pubmed:17803358
+pmc:PMC1964775
+

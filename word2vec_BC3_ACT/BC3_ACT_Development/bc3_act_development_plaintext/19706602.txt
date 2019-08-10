@@ -1,0 +1,30 @@
+J. Biol. Chem.
+
+T cell receptor signaling co-regulates multiple Golgi genes to enhance N-glycan branching.
+
+HL Chen, CF Li, A Grigorian, W Tian, M Demetriou
+
+T cell receptor (TCR) signaling enhances beta1,6GlcNAc-branching in N-glycans, a phenotype that promotes growth arrest and inhibits autoimmunity by increasing surface retention of cytotoxic T lymphocyte antigen-4 (CTLA-4) via interactions with galectins. N-Acetylglucosaminyltransferase V (MGAT5) mediates beta1,6GlcNAc-branching by transferring N-acetylglucosamine (GlcNAc) from UDP-GlcNAc to N-glycan substrates produced by the sequential action of Golgi alpha1,2-mannosidase I (MIa,b,c), MGAT1, alpha1,2-mannosidase II (MII, IIx), and MGAT2. Here we report that TCR signaling enhances mRNA levels of MIa,b,c and MII,IIx in parallel with MGAT5, whereas limiting levels of MGAT1 and MGAT2. Blocking the increase in MI or MII enzyme activity induced by TCR signaling with deoxymannojirimycin or swainsonine, respectively, limits beta1,6GlcNAc-branching, suggesting that enhanced MI and MII activity are both required for this phenotype. MGAT1 and MGAT2 have an approximately 250- and approximately 20-fold higher affinity for UDP-GlcNAc than MGAT5, respectively, and increasing MGAT1 expression paradoxically inhibits beta1,6GlcNAc branching by limiting UDP-GlcNAc supply to MGAT5, suggesting that restricted changes in MGAT1 and MGAT2 mRNA levels in TCR-stimulated cells serves to enhance availability of UDP-GlcNAc to MGAT5. Together, these data suggest that TCR signaling differentially regulates multiple N-glycan-processing enzymes at the mRNA level to cooperatively promote beta1,6GlcNAc branching, and by extension, CTLA-4 surface expression, T cell growth arrest, and self-tolerance.
+
+-Animals
+-Antigens, CD (-metabolism)
+-Cell Proliferation
+-Golgi Apparatus (+metabolism)
+-Humans
+-Jurkat Cells
+-Mice
+-N-Acetylglucosaminyltransferases (-metabolism)
+-Nerve Tissue Proteins (-metabolism)
+-Phenotype
+-Polysaccharides (+chemistry)
+-Protein Binding
+-Protein Structure, Tertiary
+-RNA, Messenger (-metabolism)
+-Receptors, Antigen, T-Cell (+metabolism)
+-Signal Transduction
+
+pii:M109.023630
+doi:10.1074/jbc.M109.023630
+pubmed:19706602
+pmc:PMC2781660
+

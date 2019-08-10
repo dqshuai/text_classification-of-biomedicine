@@ -1,0 +1,34 @@
+Cell Host Microbe
+
+Influenza A virus NS1 targets the ubiquitin ligase TRIM25 to evade recognition by the host viral RNA sensor RIG-I.
+
+MU Gack, RA Albrecht, T Urano, KS Inn, IC Huang, E Carnero, M Farzan, S Inoue, JU Jung, A García-Sastre
+
+The ubiquitin ligase TRIM25 mediates Lysine 63-linked ubiquitination of the N-terminal CARD domains of the viral RNA sensor RIG-I to facilitate type I interferon (IFN) production and antiviral immunity. Here, we report that the influenza A virus nonstructural protein 1 (NS1) specifically inhibits TRIM25-mediated RIG-I CARD ubiquitination, thereby suppressing RIG-I signal transduction. A novel domain in NS1 comprising E96/E97 residues mediates its interaction with the coiled-coil domain of TRIM25, thus blocking TRIM25 multimerization and RIG-I CARD domain ubiquitination. Furthermore, a recombinant influenza A virus expressing an E96A/E97A NS1 mutant is defective in blocking TRIM25-mediated antiviral IFN response and loses virulence in mice. Our findings reveal a mechanism by which influenza virus inhibits host IFN response and also emphasize the vital role of TRIM25 in modulating antiviral defenses.
+
+-Animals
+-Cell Line
+-DEAD-box RNA Helicases (-genetics; +metabolism)
+-Female
++Host-Pathogen Interactions
+-Humans
+-Influenza A virus (-chemistry; -genetics; +metabolism)
+-Influenza, Human (-immunology; +metabolism; -virology)
+-Interferon Type I (-immunology)
+-Mice
+-Mice, Inbred BALB C
+-Protein Binding
+-Protein Structure, Tertiary
+-Protein Transport
+-Signal Transduction
+-Transcription Factors (-chemistry; -genetics; +metabolism)
+-Ubiquitin-Protein Ligases (-chemistry; -genetics; +metabolism)
+-Ubiquitination
+-Viral Nonstructural Proteins (-chemistry; -genetics; +metabolism)
+
+pii:S1931-3128(09)00107-3
+doi:10.1016/j.chom.2009.04.006
+pubmed:19454348
+mid:NIHMS119750
+pmc:PMC2737813
+

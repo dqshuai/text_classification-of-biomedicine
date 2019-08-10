@@ -1,0 +1,25 @@
+FEBS J.
+
+Cyanobacteria contain a structural homologue of the Hfq protein with altered RNA-binding properties.
+
+A Bøggild, M Overgaard, P Valentin-Hansen, DE Brodersen
+
+Hfq proteins are common in many species of enterobacteria, where they participate in RNA folding and translational regulation through pairing of small RNAs and messenger RNAs. Hfq proteins share the distinctive Sm fold, and form ring-shaped structures similar to those of the Sm/Lsm proteins regulating mRNA turnover in eukaryotes. However, bacterial Hfq proteins are homohexameric, whereas eukaryotic Sm/Lsm proteins are heteroheptameric. Recently, Hfq proteins with poor sequence conservation were identified in archaea and cyanobacteria. In this article, we describe crystal structures of the Hfq proteins from the cyanobacteria Synechocystis sp. PCC 6803 and Anabaena PCC 7120 at 1.3 and 2.3 A resolution, respectively, and show that they retain the classic Sm fold despite low sequence conservation. In addition, the intersubunit contacts and RNA-binding site are divergent, and we show biochemically that the proteins bind very weakly to known Escherichia coli Hfq target RNAs in vitro. Moreover, when expressed in E. coli, the proteins cannot mediate Hfq-dependent RNA regulation. It therefore appears that the cyanobacterial proteins constitute a specialized subfamily of Hfq proteins that bind relatively weakly to A/U-rich tracks of regulatory RNAs. The results have implications for our understanding of the evolution of the Sm fold and the Hfq proteins in the bacterial kingdom in general.
+
+-Amino Acid Sequence
+-Anabaena (+chemistry; -metabolism)
+-Bacterial Proteins (+chemistry; -metabolism)
+-Binding Sites
+-Crystallography, X-Ray
+-Host Factor 1 Protein (+chemistry; -metabolism)
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-Protein Structure, Quaternary
+-Protein Structure, Tertiary
+-RNA (+chemistry; +metabolism)
+-Sequence Alignment
++Structural Homology, Protein
+-Synechocystis (+chemistry; -metabolism)
+
+pubmed:19777643
+

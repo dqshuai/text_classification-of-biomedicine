@@ -1,0 +1,23 @@
+J. Bacteriol.
+
+Multiple replication origins of Halobacterium sp. strain NRC-1: properties of the conserved orc7-dependent oriC1.
+
+JA Coker, P DasSarma, M Capes, T Wallace, K McGarrity, R Gessler, J Liu, H Xiang, R Tatusov, BR Berquist, S DasSarma
+
+The eukaryote-like DNA replication system of the model haloarchaeon Halobacterium NRC-1 is encoded within a circular chromosome and two large megaplasmids or minichromosomes, pNRC100 and pNRC200. We previously showed by genetic analysis that 2 (orc2 and orc10) of the 10 genes coding for Orc-Cdc6 replication initiator proteins were essential, while a third (orc7), located near a highly conserved autonomously replicating sequence, oriC1, was nonessential for cell viability. Here we used whole-genome marker frequency analysis (MFA) and found multiple peaks, indicative of multiple replication origins. The largest chromosomal peaks were located proximal to orc7 (oriC1) and orc10 (oriC2), and the largest peaks on the extrachromosomal elements were near orc9 (oriP1) in both pNRC100 and -200 and near orc4 (oriP2) in pNRC200. MFA of deletion strains containing different combinations of chromosomal orc genes showed that replication initiation at oriC1 requires orc7 but not orc6 and orc8. The initiation sites at oriC1 were determined by replication initiation point analysis and found to map divergently within and near an AT-rich element flanked by likely Orc binding sites. The oriC1 region, Orc binding sites, and orc7 gene orthologs were conserved in all sequenced haloarchaea. Serial deletion of orc genes resulted in the construction of a minimal strain containing not only orc2 and orc10 but also orc9. Our results suggest that replication in this model system is intriguing and more complex than previously thought. We discuss these results from the perspective of the replication strategy and evolution of haloarchaeal genomes.
+
+-Base Sequence
+-Chromosomes, Bacterial (-genetics)
+-Computational Biology
+-Halobacterium (+genetics)
+-Molecular Sequence Data
+-Mutation
+-Oligonucleotide Array Sequence Analysis
+-Replication Origin (+genetics)
+-Sequence Homology, Nucleic Acid
+
+pii:JB.00210-09
+doi:10.1128/JB.00210-09
+pubmed:19502403
+pmc:PMC2725591
+

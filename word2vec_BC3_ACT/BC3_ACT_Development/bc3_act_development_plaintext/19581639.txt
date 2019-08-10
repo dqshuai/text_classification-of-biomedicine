@@ -1,0 +1,25 @@
+J. Biol. Chem.
+
+Dissecting an allosteric switch in caspase-7 using chemical and mutational probes.
+
+JA Hardy, JA Wells
+
+Apoptotic caspases, such as caspase-7, are stored as inactive protease zymogens, and when activated, lead to a fate-determining switch to induce cell death. We previously discovered small molecule thiol-containing inhibitors that when tethered revealed an allosteric site and trapped a conformation similar to the zymogen form of the enzyme. We noted three structural transitions that the compounds induced: (i) breaking of an interaction between Tyr-223 and Arg-187 in the allosteric site, which prevents proper ordering of the catalytic cysteine; (ii) pinning the L2' loop over the allosteric site, which blocks critical interactions for proper ordering of the substrate-binding groove; and (iii) a hinge-like rotation at Gly-188 positioned after the catalytic Cys-186 and Arg-187. Here we report a systematic mutational analysis of these regions to dissect their functional importance to mediate the allosteric transition induced by these compounds. Mutating the hinge Gly-188 to the restrictive proline causes a massive approximately 6000-fold reduction in catalytic efficiency. Mutations in the Arg-187-Tyr-223 couple have a far less dramatic effect (3-20-fold reductions). Interestingly, although the allosteric couple mutants still allow binding and allosteric inhibition, they partially relieve the mutual exclusivity of binding between inhibitors at the active and allosteric sites. These data highlight a small set of residues critical for mediating the transition from active to inactive zymogen-like states.
+
+-Allosteric Regulation (-drug effects; -physiology)
+-Allosteric Site (+physiology)
+-Amino Acid Substitution
+-Caspase 7 (-antagonists & inhibitors; +chemistry; -genetics; -metabolism)
+-Catalysis (-drug effects)
+-Humans
++Models, Molecular
+-Mutation, Missense
+-Protease Inhibitors (+chemistry; -metabolism)
+-Protein Binding (-drug effects; -physiology)
+-Protein Structure, Secondary (-physiology)
+
+pii:M109.001826
+doi:10.1074/jbc.M109.001826
+pubmed:19581639
+pmc:PMC2758006
+

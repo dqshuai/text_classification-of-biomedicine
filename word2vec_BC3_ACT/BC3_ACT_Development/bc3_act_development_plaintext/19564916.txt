@@ -1,0 +1,29 @@
+PLoS ONE
+
+A MAP kinase dependent feedback mechanism controls Rho1 GTPase and actin distribution in yeast.
+
+S Guo, X Shen, G Yan, D Ma, X Bai, S Li, Y Jiang
+
+In the yeast Saccharomyces cerevisiae the guanosine triphosphatase (GTPase) Rho1 controls actin polarization and cell wall expansion. When cells are exposed to various environmental stresses that perturb the cell wall, Rho1 activates Pkc1, a mammalian Protein Kinase C homologue, and Mpk1, a mitogen activated protein kinase (MAPK), resulting in actin depolarization and cell wall remodeling. In this study, we demonstrate a novel feedback loop in this Rho1-mediated Pkc1-MAPK pathway that involves regulation of Rom2, the guanine nucleotide exchange factor of Rho1, by Mpk1, the end kinase of the pathway. This previously unrecognized Mpk1-dependent feedback is a critical step in regulating Rho1 function. Activation of this feedback mechanism is responsible for redistribution of Rom2 and cell wall synthesis activity from the bud to cell periphery under stress conditions. It is also required for terminating Rho1 activity toward the Pkc1-MAPK pathway and for repolarizing actin cytoskeleton and restoring growth after the stressed cells become adapted.
+
+-Actins (+metabolism)
+-Cell Wall (-metabolism)
++Feedback, Physiological
+-Fungal Proteins (+metabolism)
++Gene Expression Regulation, Enzymologic
++Gene Expression Regulation, Fungal
+-Guanine Nucleotide Exchange Factors (-metabolism)
+-Hot Temperature
++MAP Kinase Signaling System
+-Microscopy, Fluorescence (-methods)
+-Mitogen-Activated Protein Kinases (-metabolism)
+-Models, Biological
+-Phosphorylation
+-Saccharomyces cerevisiae (+genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (+biosynthesis; -metabolism)
+-rho GTP-Binding Proteins (+biosynthesis)
+
+doi:10.1371/journal.pone.0006089
+pubmed:19564916
+pmc:PMC2699537
+

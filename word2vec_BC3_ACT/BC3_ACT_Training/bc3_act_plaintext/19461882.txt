@@ -1,0 +1,27 @@
+PLoS Pathog.
+
+Deaminase-independent inhibition of parvoviruses by the APOBEC3A cytidine deaminase.
+
+I Narvaiza, DC Linfesty, BN Greener, Y Hakata, DJ Pintel, E Logue, NR Landau, MD Weitzman
+
+The APOBEC3 proteins form a multigene family of cytidine deaminases with inhibitory activity against viruses and retrotransposons. In contrast to APOBEC3G (A3G), APOBEC3A (A3A) has no effect on lentiviruses but dramatically inhibits replication of the parvovirus adeno-associated virus (AAV). To study the contribution of deaminase activity to the antiviral activity of A3A, we performed a comprehensive mutational analysis of A3A. By mutation of non-conserved residues, we found that regions outside of the catalytic active site contribute to both deaminase and antiviral activities. Using A3A point mutants and A3A/A3G chimeras, we show that deaminase activity is not required for inhibition of recombinant AAV production. We also found that deaminase-deficient A3A mutants block replication of both wild-type AAV and the autonomous parvovirus minute virus of mice (MVM). In addition, we identify specific residues of A3A that confer activity against AAV when substituted into A3G. In summary, our results demonstrate that deaminase activity is not necessary for the antiviral activity of A3A against parvoviruses.
+
+-Amino Acid Sequence
+-Cell Line, Transformed
+-Cell Line, Tumor
+-Cytidine Deaminase (-chemistry; -genetics; +physiology)
+-DNA, Recombinant (-genetics; -metabolism)
+-Dependovirus (+physiology)
+-Fluorescence Resonance Energy Transfer
+-Fluorescent Antibody Technique
+-Humans
+-Minute virus of mice (+physiology)
+-Molecular Sequence Data
+-Protein Structure, Tertiary
+-Proteins (-chemistry; -genetics; +physiology)
++Virus Replication
+
+doi:10.1371/journal.ppat.1000439
+pubmed:19461882
+pmc:PMC2678267
+

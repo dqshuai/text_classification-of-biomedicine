@@ -1,0 +1,32 @@
+PLoS ONE
+
+Optimization and validation of FePro cell labeling method.
+
+B Janic, AM Rad, EK Jordan, AS Iskander, MM Ali, NR Varma, JA Frank, AS Arbab
+
+Current method to magnetically label cells using ferumoxides (Fe)-protamine (Pro) sulfate (FePro) is based on generating FePro complexes in a serum free media that are then incubated overnight with cells for the efficient labeling. However, this labeling technique requires long (>12-16 hours) incubation time and uses relatively high dose of Pro (5-6 microg/ml) that makes large extracellular FePro complexes. These complexes can be difficult to clean with simple cell washes and may create low signal intensity on T2* weighted MRI that is not desirable. The purpose of this study was to revise the current labeling method by using low dose of Pro and adding Fe and Pro directly to the cells before generating any FePro complexes. Human tumor glioma (U251) and human monocytic leukemia cell (THP-1) lines were used as model systems for attached and suspension cell types, respectively and dose dependent (Fe 25 to 100 microg/ml and Pro 0.75 to 3 microg/ml) and time dependent (2 to 48 h) labeling experiments were performed. Labeling efficiency and cell viability of these cells were assessed. Prussian blue staining revealed that more than 95% of cells were labeled. Intracellular iron concentration in U251 cells reached approximately 30-35 pg-iron/cell at 24 h when labeled with 100 microg/ml of Fe and 3 microg/ml of Pro. However, comparable labeling was observed after 4 h across the described FePro concentrations. Similarly, THP-1 cells achieved approximately 10 pg-iron/cell at 48 h when labeled with 100 microg/ml of Fe and 3 microg/ml of Pro. Again, comparable labeling was observed after 4 h for the described FePro concentrations. FePro labeling did not significantly affect cell viability. There was almost no extracellular FePro complexes observed after simple cell washes. To validate and to determine the effectiveness of the revised technique, human T-cells, human hematopoietic stem cells (hHSC), human bone marrow stromal cells (hMSC) and mouse neuronal stem cells (mNSC C17.2) were labeled. Labeling for 4 hours using 100 microg/ml of Fe and 3 microg/ml of Pro resulted in very efficient labeling of these cells, without impairing their viability and functional capability. The new technique with short incubation time using 100 microg/ml of Fe and 3 microg/ml of Pro is effective in labeling cells for cellular MRI.
+
+-Animals
+-Antigens, CD (-biosynthesis)
+-Antigens, CD3 (-biosynthesis)
+-Cell Line, Tumor
+-Cell Survival
+-Contrast Media (-pharmacology)
+-Ferrosoferric Oxide (-chemistry; +pharmacology)
+-Fetal Blood (-cytology)
+-Glioma (+therapy)
+-Glycoproteins (-biosynthesis)
+-Hematopoietic Stem Cells (-cytology)
+-Humans
+-Magnetic Resonance Imaging (-methods)
+-Mice
+-Microscopy, Electron (+instrumentation; -methods)
+-Nanoparticles (-chemistry)
+-Peptides
+-Protamines (-chemistry; +pharmacology)
+-T-Lymphocytes (-metabolism)
+
+doi:10.1371/journal.pone.0005873
+pubmed:19517015
+pmc:PMC2690694
+

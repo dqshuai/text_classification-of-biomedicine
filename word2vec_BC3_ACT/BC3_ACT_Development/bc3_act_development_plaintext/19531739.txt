@@ -1,0 +1,22 @@
+Nucleic Acids Res.
+
+Using reads to annotate the genome: influence of length, background distribution, and sequence errors on prediction capacity.
+
+N Philippe, A Boureux, L Bréhélin, J Tarhio, T Commes, E Rivals
+
+Ultra high-throughput sequencing is used to analyse the transcriptome or interactome at unprecedented depth on a genome-wide scale. These techniques yield short sequence reads that are then mapped on a genome sequence to predict putatively transcribed or protein-interacting regions. We argue that factors such as background distribution, sequence errors, and read length impact on the prediction capacity of sequence census experiments. Here we suggest a computational approach to measure these factors and analyse their influence on both transcriptomic and epigenomic assays. This investigation provides new clues on both methodological and biological issues. For instance, by analysing chromatin immunoprecipitation read sets, we estimate that 4.6% of reads are affected by SNPs. We show that, although the nucleotide error probability is low, it significantly increases with the position in the sequence. Choosing a read length above 19 bp practically eliminates the risk of finding irrelevant positions, while above 20 bp the number of uniquely mapped reads decreases. With our procedure, we obtain 0.6% false positives among genomic locations. Hence, even rare signatures should identify biologically relevant regions, if they are mapped on the genome. This indicates that digital transcriptomics may help to characterize the wealth of yet undiscovered, low-abundance transcripts.
+
+-Chromatin Immunoprecipitation
+-Chromosome Mapping
+-Gene Expression Profiling
+-Genome, Human
+-Genomics (+methods)
+-Humans
+-Polymorphism, Single Nucleotide
+-Sequence Analysis, DNA
+
+pii:gkp492
+doi:10.1093/nar/gkp492
+pubmed:19531739
+pmc:PMC2731892
+

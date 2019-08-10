@@ -1,0 +1,32 @@
+Biochemistry
+
+Two secondary carbohydrate binding sites on the surface of barley alpha-amylase 1 have distinct functions and display synergy in hydrolysis of starch granules.
+
+MM Nielsen, S Bozonnet, ES Seo, JA Mótyán, JM Andersen, A Dilokpimol, M Abou Hachem, G Gyémánt, H Naested, L Kandra, BW Sigurskjold, B Svensson
+
+Some polysaccharide processing enzymes possess secondary carbohydrate binding sites situated on the surface far from the active site. In barley alpha-amylase 1 (AMY1), two such sites, SBS1 and SBS2, are found on the catalytic (beta/alpha)(8)-barrel and the noncatalytic C-terminal domain, respectively. Site-directed mutagenesis of Trp(278) and Trp(279), stacking onto adjacent ligand glucosyl residues at SBS1, and of Tyr(380) and His(395), making numerous ligand contacts at SBS2, suggested that SBS1 and SBS2 act synergistically in degradation of starch granules. While SBS1 makes the major contribution to binding and hydrolysis of starch granules, SBS2 exhibits a higher affinity for the starch mimic beta-cyclodextrin. Compared to that of wild-type AMY1, the K(d) of starch granule binding by the SBS1 W278A, W279A, and W278A/W279A mutants thus increased 15-35 times; furthermore, the k(cat)/K(m) of W278A/W279A was 2%, whereas both affinity and activity for Y380A at SBS2 were 10% of the wild-type values. Dual site double and triple SBS1/SBS2 substitutions eliminated binding to starch granules, and the k(cat)/K(m) of W278A/W279A/Y380A AMY1 was only 0.4% of the wild-type value. Surface plasmon resonance analysis of mutants showed that beta-cyclodextrin binds to SBS2 and SBS1 with K(d,1) and K(d,2) values of 0.07 and 1.40 mM, respectively. A model that accounts for the observed synergy in starch hydrolysis, where SBS1 and SBS2 bind ordered and free alpha-glucan chains, respectively, thus targeting the enzyme to single alpha-glucan chains accessible for hydrolysis, is proposed. SBS1 and SBS2 also influence the kinetics of hydrolysis for amylose and maltooligosaccharides, the degree of multiple attack on amylose, and subsite binding energies.
+
+-Amino Acid Sequence
+-Amylose (-metabolism)
+-Animals
+-Binding Sites
++Carbohydrate Metabolism
+-Catalytic Domain
+-Hordeum (+enzymology)
+-Hydrolysis
+-Models, Molecular
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Plant Proteins (+chemistry; -genetics; +metabolism)
+-Protein Binding
+-Protein Structure, Tertiary
+-Sequence Alignment
+-Starch (+metabolism)
+-Surface Plasmon Resonance
+-Surface Properties
+-alpha-Amylases (+chemistry; -genetics; +metabolism)
+-beta-Cyclodextrins (-metabolism)
+
+doi:10.1021/bi900795a
+pubmed:19606835
+

@@ -1,0 +1,22 @@
+Biochemistry
+
+Interaction of human DNA polymerase alpha and DNA polymerase I from Bacillus stearothermophilus with hypoxanthine and 8-oxoguanine nucleotides.
+
+JN Patro, M Urban, RD Kuchta
+
+To better understand how DNA polymerases interact with mutagenic bases, we examined how human DNA polymerase alpha (pol alpha), a B family enzyme, and DNA polymerase from Bacillus stearothermophilus (BF), an A family enzyme, generate adenine:hypoxanthine and adenine:8-oxo-7,8-dihydroguanine (8-oxoG) base pairs. Pol alpha strongly discriminated against polymerizing dATP opposite 8-oxoG, and removing N1, N(6), or N7 further inhibited incorporation, whereas removing N3 from dATP dramatically increased incorporation (32-fold). Eliminating N(6) from 3-deaza-dATP now greatly reduced incorporation, suggesting that incorporation of dATP (analogues) opposite 8-oxoguanine proceeds via a Hoogsteen base pair and that pol alpha uses N3 of a purine dNTP to block this incorporation. Pol alpha also polymerized 8-oxo-dGTP across from a templating A, and removing N(6) from the template adenine inhibited incorporation of 8-oxoG. The effects of N1, N(6), and N7 demonstrated a strong interdependence during formation of adenine:hypoxanthine base pairs by pol alpha, and N3 of dATP again helps prevent polymerization opposite a templating hypoxanthine. BF very efficiently polymerized 8-oxo-dGTP opposite adenine, and N1 and N7 of adenine appear to play important roles. BF incorporates dATP opposite 8-oxoG less efficiently, and modifying N1, N(6), or N7 greatly inhibits incorporation. N(6) and, to a lesser extent, N1 help drive hypoxanthine:adenine base-pair formation by BF. The mechanistic implications of these results showing that different polymerases interact very differently with base lesions are discussed.
+
+-DNA Polymerase I (+metabolism)
+-Geobacillus stearothermophilus (+enzymology)
+-Guanine (+analogs & derivatives; -chemistry; -metabolism)
+-Humans
+-Hypoxanthine (+chemistry; -metabolism)
+-Polymers (-chemistry; -metabolism)
+-Protein Binding
+-Purine Nucleotides (+chemistry; +metabolism)
+
+doi:10.1021/bi900777s
+pubmed:19642651
+mid:NIHMS137474
+pmc:PMC2761430
+

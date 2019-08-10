@@ -1,0 +1,26 @@
+Biophys. J.
+
+Biomolecule association rates do not provide a complete description of bond formation.
+
+P Robert, L Limozin, A Pierres, P Bongrand
+
+The efficiency of many cell-surface receptors is dependent on the rate of binding soluble or surface-attached ligands. Much effort was exerted to measure association rates between soluble molecules (three-dimensional k(on)) and, more recently, between surface-attached molecules (two-dimensional [2D] k(on)). According to a generally accepted assumption, the probability of bond formation between receptors and ligands is proportional to the first power of encounter duration. Here we provide new experimental evidence and review published data demonstrating that this simple assumption is not always warranted. Using as a model system the (2D) interaction between ICAM-1-coated surfaces and flowing microspheres coated with specific anti-ICAM-1 antibodies, we show that the probability of bond formation may scale as a power of encounter duration that is significantly higher than 1. Further, we show that experimental data may be accounted for by modeling ligand-receptor interaction as a displacement along a single path of a rough energy landscape. Under a wide range of conditions, the probability that an encounter of duration t resulted in bond formation varied as erfc[(t(0)/t)(1/2)], where t(0) was on the order of 10 ms. We conclude that the minimum contact time for bond formation may be a useful parameter to describe a ligand-receptor interaction, in addition to conventional association rates.
+
+-Algorithms
+-Analysis of Variance
+-Antibodies (-chemistry)
+-Computer Simulation
+-Diffusion
+-Intercellular Adhesion Molecule-1 (-chemistry)
++Kinetics
++Models, Chemical
+-Motion
+-Probability
++Protein Binding
+-Regression Analysis
+
+pii:S0006-3495(09)00759-0
+doi:10.1016/j.bpj.2009.03.020
+pubmed:19486686
+pmc:PMC2711500
+

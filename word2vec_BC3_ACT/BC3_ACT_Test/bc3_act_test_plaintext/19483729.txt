@@ -1,0 +1,22 @@
+Oncogene
+
+Pim-1 plays a pivotal role in hypoxia-induced chemoresistance.
+
+J Chen, M Kobayashi, S Darmanin, Y Qiao, C Gully, R Zhao, SC Yeung, MH Lee
+
+Hypoxia changes the responses of cancer cells to many chemotherapy agents, resulting in chemoresistance. The underlying molecular mechanism of hypoxia-induced drug resistance remains unclear. Pim-1 is a survival kinase, which phosphorylates Bad at serine 112 to antagonize drug-induced apoptosis. Here we show that hypoxia increases Pim-1 in a hypoxia-inducible factor-1alpha-independent manner. Inhibition of Pim-1 function by dominant-negative Pim-1 dramatically restores the drug sensitivity to apoptosis induced by chemotherapy under hypoxic conditions in both in vitro and in vivo tumor models. Introduction of siRNAs for Pim-1 also resensitizes cancer cells to chemotherapy drugs under hypoxic conditions, whereas forced overexpression of Pim-1 endows solid tumor cells with resistance to cisplatin, even under normoxia. Dominant-negative Pim-1 prevents a decrease in mitochondrial transmembrane potential in solid tumor cells, which is normally induced by cisplatin (CDDP), followed by the reduced activity of Caspase-3 and Caspase-9, indicating that Pim-1 participates in hypoxia-induced drug resistance through the stabilization of mitochondrial transmembrane potential. Our results demonstrate that Pim-1 is a pivotal regulator involved in hypoxia-induced chemoresistance. Targeting Pim-1 may improve the chemotherapeutic strategy for solid tumors.
+
+-Antineoplastic Agents (-pharmacology)
++Cell Hypoxia
+-Cell Line, Tumor
+-Cisplatin (-pharmacology)
++Drug Resistance, Neoplasm
+-Humans
+-Hypoxia-Inducible Factor 1, alpha Subunit (-physiology)
+-Proto-Oncogene Proteins c-pim-1 (+metabolism)
+-Up-Regulation
+
+pii:onc2009124
+doi:10.1038/onc.2009.124
+pubmed:19483729
+

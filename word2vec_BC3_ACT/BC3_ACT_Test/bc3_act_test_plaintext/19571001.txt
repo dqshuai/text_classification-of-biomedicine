@@ -1,0 +1,24 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Design of therapeutic proteins with enhanced stability.
+
+N Chennamsetty, V Voynov, V Kayser, B Helk, BL Trout
+
+Therapeutic proteins such as antibodies constitute the most rapidly growing class of pharmaceuticals for use in diverse clinical settings including cancer, chronic inflammatory diseases, kidney transplantation, cardiovascular medicine, and infectious diseases. Unfortunately, they tend to aggregate when stored under the concentrated conditions required in their usage. Aggregation leads to a decrease in antibody activity and could elicit an immunological response. Using full antibody atomistic molecular dynamics simulations, we identify the antibody regions prone to aggregation by using a technology that we developed called spatial aggregation propensity (SAP). SAP identifies the location and size of these aggregation prone regions, and allows us to perform target mutations of those regions to engineer antibodies for stability. We apply this method to therapeutic antibodies and demonstrate the significantly enhanced stability of our mutants compared with the wild type. The technology described here could be used to incorporate developability in a rational way during the screening of antibodies in the discovery phase for several diseases.
+
+-Animals
+-Antibodies (+chemistry; +therapeutic use)
++Drug Design
+-Drug Stability
+-Models, Molecular
+-Mutant Proteins (-chemistry)
+-Mutation (-genetics)
+-Protein Engineering
+-Protein Stability
+-Protein Structure, Quaternary
+
+pii:0904191106
+doi:10.1073/pnas.0904191106
+pubmed:19571001
+pmc:PMC2715526
+

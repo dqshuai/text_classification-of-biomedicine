@@ -1,0 +1,26 @@
+PLoS ONE
+
+Golden gate shuffling: a one-pot DNA shuffling method based on type IIs restriction enzymes.
+
+C Engler, R Gruetzner, R Kandzia, S Marillonnet
+
+We have developed a protocol to assemble in one step and one tube at least nine separate DNA fragments together into an acceptor vector, with 90% of recombinant clones obtained containing the desired construct. This protocol is based on the use of type IIs restriction enzymes and is performed by simply subjecting a mix of 10 undigested input plasmids (nine insert plasmids and the acceptor vector) to a restriction-ligation and transforming the resulting mix in competent cells. The efficiency of this protocol allows generating libraries of recombinant genes by combining in one reaction several fragment sets prepared from different parental templates. As an example, we have applied this strategy for shuffling of trypsinogen from three parental templates (bovine cationic trypsinogen, bovine anionic trypsinogen and human cationic trypsinogen) each divided in 9 separate modules. We show that one round of shuffling using the 27 trypsinogen entry plasmids can easily produce the 19,683 different possible combinations in one single restriction-ligation and that expression screening of a subset of the library allows identification of variants that can lead to higher expression levels of trypsin activity. This protocol, that we call 'Golden Gate shuffling', is robust, simple and efficient, can be performed with templates that have no homology, and can be combined with other shuffling protocols in order to introduce any variation in any part of a given gene.
+
+-Animals
+-Base Sequence
+-Cattle
+-Cloning, Molecular
+-DNA Shuffling (+methods)
+-DNA, Recombinant (-genetics)
++Deoxyribonucleases, Type II Site-Specific
+-Genetic Variation
+-Genetic Vectors
+-Humans
+-Models, Genetic
+-Molecular Sequence Data
+-Trypsinogen (-chemistry)
+
+doi:10.1371/journal.pone.0005553
+pubmed:19436741
+pmc:PMC2677662
+

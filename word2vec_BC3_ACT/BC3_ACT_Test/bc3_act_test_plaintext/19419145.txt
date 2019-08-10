@@ -1,0 +1,22 @@
+J. Am. Chem. Soc.
+
+Electrostatic redesign of the [myoglobin, cytochrome b5] interface to create a well-defined docked complex with rapid interprotein electron transfer.
+
+P Xiong, JM Nocek, AK Griffin, J Wang, BM Hoffman
+
+Cyt b(5) is the electron-carrier "repair" protein that reduces met-Mb and met-Hb to their O(2)-carrying ferroheme forms. Studies of electron transfer (ET) between Mb and cyt b(5) revealed that they react on a "Dynamic Docking" (DD) energy landscape on which binding and reactivity are uncoupled: binding is weak and involves an ensemble of nearly isoenergetic configurations, only a few of which are reactive; those few contribute negligibly to binding. We set the task of redesigning the surface of Mb so that its reaction with cyt b(5) instead would occur on a conventional "simple docking" (SD) energy landscape, on which a complex exhibits a well-defined (set of) reactive binding configuration(s), with binding and reactivity thus no longer being decoupled. We prepared a myoglobin (Mb) triple mutant (D44K/D60K/E85K; Mb(+6)) substituted with Zn-deuteroporphyrin and monitored cytochrome b(5) (cyt b(5)) binding and electron transfer (ET) quenching of the (3)ZnMb(+6) triplet state. In contrast, to Mb(WT), the three charge reversals around the "front-face" heme edge of Mb(+6) have directed cyt b(5) to a surface area of Mb adjacent to its heme, created a well-defined, most-stable structure that supports good ET pathways, and apparently coupled binding and ET: both K(a) and k(et) are increased by the same factor of approximately 2 x 10(2), creating a complex that exhibits a large ET rate constant, k(et) = 10(6 1) s(-1), and is in slow exchange (k(off) << k(et)). In short, these mutations indeed appear to have created the sought-for conversion from DD to simple docking (SD) energy landscapes.
+
+-Computer Simulation
+-Cytochromes b5 (+chemistry; -metabolism)
+-Kinetics
+-Models, Molecular
+-Myoglobin (+chemistry; -metabolism)
+-Protein Binding
+-Static Electricity
+-Thermodynamics
+
+doi:10.1021/ja902131d
+pubmed:19419145
+mid:NIHMS183217
+pmc:PMC2844781
+

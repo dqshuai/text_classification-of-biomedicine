@@ -1,0 +1,30 @@
+Cell
+
+Mre11 dimers coordinate DNA end bridging and nuclease processing in double-strand-break repair.
+
+RS Williams, G Moncalian, JS Williams, Y Yamada, O Limbo, DS Shin, LM Groocock, D Cahill, C Hitomi, G Guenther, D Moiani, JP Carney, P Russell, JA Tainer
+
+Mre11 forms the core of the multifunctional Mre11-Rad50-Nbs1 (MRN) complex that detects DNA double-strand breaks (DSBs), activates the ATM checkpoint kinase, and initiates homologous recombination (HR) repair of DSBs. To define the roles of Mre11 in both DNA bridging and nucleolytic processing during initiation of DSB repair, we combined small-angle X-ray scattering (SAXS) and crystal structures of Pyrococcus furiosus Mre11 dimers bound to DNA with mutational analyses of fission yeast Mre11. The Mre11 dimer adopts a four-lobed U-shaped structure that is critical for proper MRN complex assembly and for binding and aligning DNA ends. Further, mutations blocking Mre11 endonuclease activity impair cell survival after DSB induction without compromising MRN complex assembly or Mre11-dependant recruitment of Ctp1, an HR factor, to DSBs. These results show how Mre11 dimerization and nuclease activities initiate repair of DSBs and collapsed replication forks, as well as provide a molecular foundation for understanding cancer-causing Mre11 mutations in ataxia telangiectasia-like disorder (ATLD).
+
+-Archaeal Proteins (-chemistry; -genetics; +metabolism)
+-Crystallography, X-Ray
+-DNA (-chemistry; +metabolism)
+-DNA Breaks, Double-Stranded
+-DNA Mutational Analysis
++DNA Repair
+-Dimerization
+-Endodeoxyribonucleases (-chemistry; -genetics; +metabolism)
+-Exodeoxyribonucleases (-chemistry; -genetics; +metabolism)
+-Models, Molecular
+-Pyrococcus furiosus (+chemistry)
+-Scattering, Small Angle
+-Schizosaccharomyces (-genetics)
+-Two-Hybrid System Techniques
+-X-Ray Diffraction
+
+pii:S0092-8674(08)01062-3
+doi:10.1016/j.cell.2008.08.017
+pubmed:18854158
+mid:NIHMS73536
+pmc:PMC2681233
+

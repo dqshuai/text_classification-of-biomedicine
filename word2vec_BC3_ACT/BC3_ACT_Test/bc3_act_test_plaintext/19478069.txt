@@ -1,0 +1,20 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Modeling the physics of FtsZ assembly and force generation.
+
+HP Erickson
+
+The tubulin homolog FtsZ is the major cytoskeletal protein in bacterial cytokinesis. It can generate a constriction force on the bacterial membrane or inside tubular liposomes. Several models have recently been proposed for how this force might be generated. These fall into 2 categories. The first is based on a conformational change from a straight to a curved protofilament. The simplest "hydrolyze and bend" model proposes a 22 degrees bend at every interface containing a GDP. New evidence suggests another curved conformation with a 2.5 degrees bend at every interface and that the relation of curvature to GTP hydrolysis is more complicated than previously thought. However, FtsZ protofilaments do appear to be mechanically rigid enough to bend membranes. A second category of models is based on lateral bonding between protofilaments, postulating that a contraction could be generated when protofilaments slide to increase the number of lateral bonds. Unfortunately these lateral bond models have ignored the contribution of subunit entropy when adding bond energies; if included, the mechanism is seen to be invalid. Finally, I address recent models that try to explain how protofilaments 1-subunit-thick show a cooperative assembly.
+
+-Bacterial Proteins (+chemistry; +metabolism)
+-Cytoskeletal Proteins (+chemistry; +metabolism)
+-Escherichia coli (+metabolism)
+-Guanosine Triphosphate (-metabolism)
+-Models, Biological
+-Tubulin (-metabolism)
+
+pii:0902258106
+doi:10.1073/pnas.0902258106
+pubmed:19478069
+pmc:PMC2695047
+

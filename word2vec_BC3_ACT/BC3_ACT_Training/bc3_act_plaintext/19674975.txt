@@ -1,0 +1,39 @@
+J. Biol. Chem.
+
+Homologous recombination but not nucleotide excision repair plays a pivotal role in tolerance of DNA-protein cross-links in mammalian cells.
+
+T Nakano, A Katafuchi, M Matsubara, H Terato, T Tsuboi, T Masuda, T Tatsumoto, SP Pack, K Makino, DL Croteau, B Van Houten, K Iijima, H Tauchi, H Ide
+
+DNA-protein cross-links (DPCs) are unique among DNA lesions in their unusually bulky nature. The steric hindrance imposed by cross-linked proteins (CLPs) will hamper DNA transactions, such as replication and transcription, posing an enormous threat to cells. In bacteria, DPCs with small CLPs are eliminated by nucleotide excision repair (NER), whereas oversized DPCs are processed exclusively by RecBCD-dependent homologous recombination (HR). Here we have assessed the roles of NER and HR for DPCs in mammalian cells. We show that the upper size limit of CLPs amenable to mammalian NER is relatively small (8-10 kDa) so that NER cannot participate in the repair of chromosomal DPCs in mammalian cells. Moreover, CLPs are not polyubiquitinated and hence are not subjected to proteasomal degradation prior to NER. In contrast, HR constitutes the major pathway in tolerance of DPCs as judged from cell survival and RAD51 and gamma-H2AX nuclear foci formation. Induction of DPCs results in the accumulation of DNA double strand breaks in HR-deficient but not HR-proficient cells, suggesting that fork breakage at the DPC site initiates HR and reactivates the stalled fork. DPCs activate both ATR and ATM damage response pathways, but there is a time lag between two responses. These results highlight the differential involvement of NER in the repair of DPCs in bacterial and mammalian cells and demonstrate the versatile and conserved role of HR in tolerance of DPCs among species.
+
+-Animals
+-Ataxia Telangiectasia (-genetics; -metabolism)
+-Azacitidine (-analogs & derivatives; -pharmacology)
+-BRCA2 Protein (-metabolism)
+-Base Sequence
+-Cell Cycle Proteins (-metabolism)
+-Cell Line
+-Chromosomes (-metabolism)
+-Cricetinae
+-Cross-Linking Reagents (+pharmacology)
+-DNA (-chemistry; -genetics; +metabolism)
+-DNA Breaks, Double-Stranded (-drug effects)
++DNA Repair
+-Deoxyribonucleotides (+genetics)
+-Escherichia coli (-cytology; -genetics; -metabolism)
+-Fanconi Anemia Complementation Group D2 Protein (-metabolism)
+-Formaldehyde (-pharmacology)
+-Histones (-metabolism)
+-Humans
+-Molecular Weight
+-Mutation
+-Proteasome Endopeptidase Complex (-metabolism)
+-Proteins (-chemistry; +metabolism)
+-Rad51 Recombinase (-metabolism)
++Recombination, Genetic
+
+pii:M109.019174
+doi:10.1074/jbc.M109.019174
+pubmed:19674975
+pmc:PMC2785636
+

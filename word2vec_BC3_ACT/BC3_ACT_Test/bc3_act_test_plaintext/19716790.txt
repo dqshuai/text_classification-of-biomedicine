@@ -1,0 +1,29 @@
+Mol. Cell
+
+Common design principles in the spliceosomal RNA helicase Brr2 and in the Hel308 DNA helicase.
+
+V Pena, SM Jovin, P Fabrizio, J Orlowski, JM Bujnicki, R Lührmann, MC Wahl
+
+Brr2 is a unique DExD/H box protein required for catalytic activation and disassembly of the spliceosome. It contains two tandem helicase cassettes that both comprise dual RecA-like domains and a noncanonical Sec63 unit. The latter may bestow the enzyme with unique properties. We have determined crystal structures of the C-terminal Sec63 unit of yeast Brr2, revealing three domains, two of which resemble functional modules of a DNA helicase, Hel308, despite lacking significant sequence similarity. This structural similarity together with sequence conservation between the enzymes throughout the RecA-like domains and a winged helix domain allowed us to devise a structural model of the N-terminal active cassette of Brr2. We consolidated the model by rational mutagenesis combined with splicing and U4/U6 di-snRNA unwinding assays, highlighting how the RecA-like domains and the Sec63 unit form a functional entity that appears suitable for unidirectional and processive RNA duplex unwinding during spliceosome activation and disassembly.
+
+-Binding Sites
+-Catalytic Domain
+-Crystallography, X-Ray
+-DNA Helicases (+chemistry; -genetics; -metabolism)
+-Fungal Proteins (+chemistry; -genetics; -metabolism)
+-Models, Molecular
+-Mutagenesis, Site-Directed
+-Mutation
+-Protein Conformation
+-Protein Structure, Tertiary
+-RNA (-metabolism)
+-RNA Helicases (+chemistry; -genetics; -metabolism)
+-Spliceosomes (+enzymology)
+-Structure-Activity Relationship
+-Time Factors
+-Yeasts (+enzymology; -genetics)
+
+pii:S1097-2765(09)00552-8
+doi:10.1016/j.molcel.2009.08.006
+pubmed:19716790
+

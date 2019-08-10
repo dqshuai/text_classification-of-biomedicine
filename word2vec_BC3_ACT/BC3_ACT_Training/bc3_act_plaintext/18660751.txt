@@ -1,0 +1,29 @@
+EMBO Rep.
+
+PCSK9 is required for the disposal of non-acetylated intermediates of the nascent membrane protein BACE1.
+
+MC Jonas, C Costantini, L Puglielli
+
+We have recently identified a new form of post-translational regulation of BACE1 (beta-site amyloid precursor protein (APP)-cleaving enzyme 1), a membrane protein that acts as the rate-limiting enzyme in the generation of the Alzheimer disease amyloid beta-peptide (Abeta). Specifically, BACE1 is transiently acetylated on seven lysine residues in the lumen of the endoplasmic reticulum/endoplasmic reticulum-Golgi intermediate compartment (ER/ERGIC). The acetylated intermediates of the nascent protein are able to reach the Golgi apparatus, whereas the non-acetylated ones are retained and degraded in a post-ER compartment. Here, we report that the serine protease PCSK9 (proprotein convertase subtilisin kexin type 9) contributes to the disposal of non-acetylated BACE1. Both overexpression and small interfering RNA-mediated downregulation of PCSK9 affected the levels of BACE1. The downregulation of PCSK9 affected the levels of the loss-of-acetylation mutants (BACE1(Ala) and BACE1(Arg)) but not those of the gain-of-acetylation mutant (BACE1(Gln)). In addition, Pcsk9(-/-) mice showed increased levels of BACE1 and Abeta in the brain. Finally, we found that nascent low-density lipoprotein receptor, a known substrate of PCSK9, is also acetylated.
+
+-Acetylation
+-Amyloid Precursor Protein Secretases (-genetics; +metabolism)
+-Animals
+-Aspartic Acid Endopeptidases (-genetics; +metabolism)
+-Blotting, Western
+-CHO Cells
+-Cricetinae
+-Cricetulus
+-Electrophoresis, Polyacrylamide Gel
+-Humans
+-Mice
+-Mutation
+-RNA, Small Interfering (-genetics)
+-Serine Endopeptidases (-genetics; +metabolism)
+-Transfection
+
+pii:embor2008132
+doi:10.1038/embor.2008.132
+pubmed:18660751
+pmc:PMC2529349
+

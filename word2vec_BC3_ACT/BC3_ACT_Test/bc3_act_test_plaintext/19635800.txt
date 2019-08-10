@@ -1,0 +1,30 @@
+J. Biol. Chem.
+
+Structural basis for the mechanism of respiratory complex I.
+
+JM Berrisford, LA Sazanov
+
+Complex I plays a central role in cellular energy production, coupling electron transfer between NADH and quinone to proton translocation. The mechanism of this highly efficient enzyme is currently unknown. Mitochondrial complex I is a major source of reactive oxygen species, which may be one of the causes of aging. Dysfunction of complex I is implicated in many human neurodegenerative diseases. We have determined several x-ray structures of the oxidized and reduced hydrophilic domain of complex I from Thermus thermophilus at up to 3.1 A resolution. The structures reveal the mode of interaction of complex I with NADH, explaining known kinetic data and providing implications for the mechanism of reactive oxygen species production at the flavin site of complex I. Bound metals were identified in the channel at the interface with the frataxin-like subunit Nqo15, indicating possible iron-binding sites. Conformational changes upon reduction of the complex involve adjustments in the nucleotide-binding pocket, as well as small but significant shifts of several alpha-helices at the interface with the membrane domain. These shifts are likely to be driven by the reduction of nearby iron-sulfur clusters N2 and N6a/b. Cluster N2 is the electron donor to quinone and is coordinated by unique motif involving two consecutive (tandem) cysteines. An unprecedented "on/off switch" (disconnection) of coordinating bonds between the tandem cysteines and this cluster was observed upon reduction. Comparison of the structures suggests a novel mechanism of coupling between electron transfer and proton translocation, combining conformational changes and protonation/deprotonation of tandem cysteines.
+
+-Animals
+-Bacterial Proteins (+chemistry; -metabolism)
+-Binding Sites (-physiology)
+-Crystallography, X-Ray
+-Electron Transport Complex I (+chemistry; -metabolism)
+-Flavins (-chemistry; -metabolism)
+-Humans
+-Iron (+chemistry; -metabolism)
+-Iron-Binding Proteins (-chemistry; -metabolism)
+-NAD (+chemistry; -metabolism)
+-Oxidation-Reduction
+-Protein Structure, Quaternary (-physiology)
+-Protein Structure, Secondary (-physiology)
+-Reactive Oxygen Species (+chemistry; -metabolism)
+-Structure-Activity Relationship
+-Thermus thermophilus (+enzymology)
+
+pii:M109.032144
+doi:10.1074/jbc.M109.032144
+pubmed:19635800
+pmc:PMC2785608
+

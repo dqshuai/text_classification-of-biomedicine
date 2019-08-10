@@ -1,0 +1,20 @@
+Cell
+
+BASL controls asymmetric cell division in Arabidopsis.
+
+J Dong, CA MacAlister, DC Bergmann
+
+Development in multicellular organisms requires the organized generation of differences. A universal mechanism for creating such differences is asymmetric cell division. In plants, as in animals, asymmetric divisions are correlated with the production of cellular diversity and pattern; however, structural constraints imposed by plant cell walls and the absence of homologs of known animal or fungal cell polarity regulators necessitates that plants utilize new molecules and mechanisms to create asymmetries. Here, we identify BASL, a novel regulator of asymmetric divisions in Arabidopsis. In asymmetrically dividing stomatal-lineage cells, BASL accumulates in a polarized crescent at the cell periphery before division, and then localizes differentially to the nucleus and a peripheral crescent in self-renewing cells and their sisters after division. BASL presence at the cell periphery is critical for its function, and we propose that BASL represents a plant-specific solution to the challenge of asymmetric cell division.
+
+-Arabidopsis (+cytology; +metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Cell Cycle Proteins (-genetics; +metabolism)
++Cell Division
+-Cell Nucleus
+-Cell Polarity
+-Plant Stomata (-cytology)
+
+pii:S0092-8674(09)00443-7
+doi:10.1016/j.cell.2009.04.018
+pubmed:19523675
+

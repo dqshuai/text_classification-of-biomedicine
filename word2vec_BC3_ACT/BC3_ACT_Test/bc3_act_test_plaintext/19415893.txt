@@ -1,0 +1,28 @@
+J. Proteome Res.
+
+Construction of functional interaction networks through consensus localization predictions of the human proteome.
+
+S Park, JS Yang, SK Jang, S Kim
+
+Characterizing the subcellular localization of a protein provides a key clue for understanding protein function. However, different protein localization prediction programs often deliver conflicting results regarding the localization of the same protein. As the number of available localization prediction programs continues to grow, there is a need for a consensus prediction approach. To address this need, we developed a consensus localization prediction method called ConLoc based on a large-scale, systematic integration of 13 available programs that make predictions for five major subcellular localizations (cytosol, extracellular, mitochondria, nucleus, and plasma membrane). The ability of ConLoc to accurately predict protein localization was substantially better than existing programs. Using ConLoc prediction, we built a localization-guided functional interaction network of the human proteome and mapped known disease associations within this network. We found a high degree of shared disease associations among functionally interacting proteins that are localized to the same cellular compartment. Thus, the use of consensus localization prediction, such as ConLoc, is a new approach for the identification of novel disease associated genes.
+
+-Cell Nucleus (-metabolism)
+-Computational Biology (+methods)
+-Databases, Protein
+-Humans
+-Mass Spectrometry (-methods)
+-Mitochondria (-metabolism)
+-Models, Statistical
+-Protein Interaction Mapping
+-Proteins (-chemistry)
++Proteome
+-Proteomics (+methods)
+-Reproducibility of Results
+-Sensitivity and Specificity
+-Sequence Analysis, Protein
+-Software
+-Subcellular Fractions (-metabolism)
+
+doi:10.1021/pr900018z
+pubmed:19415893
+

@@ -1,0 +1,22 @@
+EMBO J.
+
+The DNA replication checkpoint aids survival of plants deficient in the novel replisome factor ETG1.
+
+N Takahashi, T Lammens, V Boudolf, S Maes, T Yoshizumi, G De Jaeger, E Witters, D Inzé, L De Veylder
+
+Complete and accurate chromosomal DNA replication is essential for the maintenance of the genetic integrity of all organisms. Errors in replication are buffered by the activation of DNA stress checkpoints; however, in plants, the relative importance of a coordinated induction of DNA repair and cell cycle-arresting genes in the survival of replication mutants is unknown. In a systematic screen for Arabidopsis thaliana E2F target genes, the E2F TARGET GENE 1 (ETG1) was identified as a novel evolutionarily conserved replisome factor. ETG1 was associated with the minichromosome maintenance complex and was crucial for efficient DNA replication. Plants lacking the ETG1 gene had serrated leaves due to cell cycle inhibition triggered by the DNA replication checkpoints, as shown by the transcriptional induction of DNA stress checkpoint genes. The importance of checkpoint activation was highlighted by double mutant analysis: whereas etg1 mutant plants developed relatively normally, a synthetically lethal interaction was observed between etg1 and the checkpoint mutants wee1 and atr, demonstrating that activation of a G2 cell cycle checkpoint accounts for survival of ETG1-deficient plants.
+
+-Arabidopsis (-cytology; +genetics; +metabolism)
+-Arabidopsis Proteins (-analysis; +metabolism)
+-Cell Cycle
+-Cell Cycle Proteins (-analysis; +metabolism)
+-Cell Division
+-Cell Nucleus (-chemistry)
++DNA Replication
+-E2F Transcription Factors (-metabolism)
+
+pii:emboj2008107
+doi:10.1038/emboj.2008.107
+pubmed:18528439
+pmc:PMC2486427
+

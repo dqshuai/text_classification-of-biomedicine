@@ -1,0 +1,28 @@
+PLoS Pathog.
+
+Trans-dominant inhibition of prion propagation in vitro is not mediated by an accessory cofactor.
+
+JC Geoghegan, MB Miller, AH Kwak, BT Harris, S Supattapone
+
+Previous studies identified prion protein (PrP) mutants which act as dominant negative inhibitors of prion formation through a mechanism hypothesized to require an unidentified species-specific cofactor termed protein X. To study the mechanism of dominant negative inhibition in vitro, we used recombinant PrP(C) molecules expressed in Chinese hamster ovary cells as substrates in serial protein misfolding cyclic amplification (sPMCA) reactions. Bioassays confirmed that the products of these reactions are infectious. Using this system, we find that: (1) trans-dominant inhibition can be dissociated from conversion activity, (2) dominant-negative inhibition of prion formation can be reconstituted in vitro using only purified substrates, even when wild type (WT) PrP(C) is pre-incubated with poly(A) RNA and PrP(Sc) template, and (3) Q172R is the only hamster PrP mutant tested that fails to convert into PrP(Sc) and that can dominantly inhibit conversion of WT PrP at sub-stoichiometric levels. These results refute the hypothesis that protein X is required to mediate dominant inhibition of prion propagation, and suggest that PrP molecules compete for binding to a nascent seeding site on newly formed PrP(Sc) molecules, most likely through an epitope containing residue 172.
+
+-Animals
+-Biological Assay (-methods)
+-Brain Chemistry
+-Brain Stem (-chemistry; -metabolism)
+-CHO Cells
+-Cricetinae
+-Cricetulus
+-Histocytochemistry
+-Mice
+-Models, Biological
+-PrPC Proteins (-chemistry; -metabolism)
+-Prion Diseases (+metabolism)
+-Prions (-antagonists & inhibitors; -chemistry; +metabolism)
+-Protein Folding
+-RNA, Messenger (-metabolism)
+
+doi:10.1371/journal.ppat.1000535
+pubmed:19649330
+pmc:PMC2713408
+

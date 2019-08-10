@@ -1,0 +1,20 @@
+Nucleic Acids Res.
+
+A real-time fluorescence method for enzymatic characterization of specialized human DNA polymerases.
+
+D Dorjsuren, DM Wilson, WA Beard, JP McDonald, CP Austin, R Woodgate, SH Wilson, A Simeonov
+
+Specialized DNA polymerases are involved in DNA synthesis during base-excision repair and translesion synthesis across a wide range of chemically modified DNA templates. Notable features of these enzymes include low catalytic efficiency, low processivity and low fidelity. Traditionally, in vitro studies of these enzymes have utilized radiolabeled substrates and gel electrophoretic separation of products. We have developed a simple homogeneous fluorescence-based method to study the enzymology of specialized DNA polymerases in real time. The method is based on fluorescent reporter strand displacement from a tripartite substrate containing a quencher-labeled template strand, an unlabeled primer and a fluorophore-labeled reporter. With this method, we could follow the activity of human DNA polymerases beta, eta, iota and kappa under different reaction conditions, and we investigated incorporation of the aberrant nucleotide, 8-oxodGTP, as well as bypass of an abasic site or 8-oxoG DNA template lesion in different configurations. Lastly, we demonstrate that the method can be used for small molecule inhibitor discovery and characterization in highly miniaturized settings, and we report the first nanomolar inhibitors of Y-family DNA polymerases iota and eta. The fluorogenic method presented here should facilitate mechanistic and inhibitor investigations of these polymerases and is also applicable to the study of highly processive replicative polymerases.
+
+-Cations, Divalent
+-DNA Damage
+-DNA-Directed DNA Polymerase (+metabolism)
+-Fluorometry (+methods)
+-Humans
+-Metals (-chemistry)
+
+pii:gkp641
+doi:10.1093/nar/gkp641
+pubmed:19684079
+pmc:PMC2770649
+

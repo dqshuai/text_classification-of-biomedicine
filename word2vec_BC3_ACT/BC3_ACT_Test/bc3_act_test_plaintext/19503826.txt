@@ -1,0 +1,32 @@
+PLoS Comput. Biol.
+
+Integrating statistical predictions and experimental verifications for enhancing protein-chemical interaction predictions in virtual screening.
+
+N Nagamine, T Shirakawa, Y Minato, K Torii, H Kobayashi, M Imoto, Y Sakakibara
+
+Predictions of interactions between target proteins and potential leads are of great benefit in the drug discovery process. We present a comprehensively applicable statistical prediction method for interactions between any proteins and chemical compounds, which requires only protein sequence data and chemical structure data and utilizes the statistical learning method of support vector machines. In order to realize reasonable comprehensive predictions which can involve many false positives, we propose two approaches for reduction of false positives: (i) efficient use of multiple statistical prediction models in the framework of two-layer SVM and (ii) reasonable design of the negative data to construct statistical prediction models. In two-layer SVM, outputs produced by the first-layer SVM models, which are constructed with different negative samples and reflect different aspects of classifications, are utilized as inputs to the second-layer SVM. In order to design negative data which produce fewer false positive predictions, we iteratively construct SVM models or classification boundaries from positive and tentative negative samples and select additional negative sample candidates according to pre-determined rules. Moreover, in order to fully utilize the advantages of statistical learning methods, we propose a strategy to effectively feedback experimental results to computational predictions with consideration of biological effects of interest. We show the usefulness of our approach in predicting potential ligands binding to human androgen receptors from more than 19 million chemical compounds and verifying these predictions by in vitro binding. Moreover, we utilize this experimental validation as feedback to enhance subsequent computational predictions, and experimentally validate these predictions again. This efficient procedure of the iteration of the in silico prediction and in vitro or in vivo experimental verifications with the sufficient feedback enabled us to identify novel ligand candidates which were distant from known ligands in the chemical space.
+
+-Algorithms
+-Amino Acid Sequence
+-Area Under Curve
++Artificial Intelligence
+-Binding Sites
++Computer Simulation
+-Databases, Protein
+-Drug Discovery (+methods)
+-Feedback
+-Ligands
+-Models, Chemical
++Models, Statistical
+-Protein Binding
+-Protein Interaction Domains and Motifs
+-Protein Interaction Mapping
++Proteins (-chemistry; -metabolism)
+-Receptors, Androgen (-chemistry; -metabolism)
+-Reproducibility of Results
+-Sequence Analysis, Protein
+
+doi:10.1371/journal.pcbi.1000397
+pubmed:19503826
+pmc:PMC2685987
+

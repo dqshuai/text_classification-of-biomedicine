@@ -1,0 +1,23 @@
+Dev. Cell
+
+The polycomb complex protein mes-2/E(z) promotes the transition from developmental plasticity to differentiation in C. elegans embryos.
+
+T Yuzyuk, TH Fakhouri, J Kiefer, SE Mango
+
+We have used expression profiling and in vivo imaging to characterize Caenorhabditis elegans embryos as they transit from a developmentally plastic state to the onset of differentiation. Normally, this transition is accompanied by activation of developmental regulators and differentiation genes, downregulation of early-expressed genes, and large-scale reorganization of chromatin. We find that loss of plasticity and differentiation onset depends on the Polycomb complex protein mes-2/E(Z). mes-2 mutants display prolonged developmental plasticity in response to heterologous developmental regulators. Early-expressed genes remain active, differentiation genes fail to reach wild-type levels, and chromatin retains a decompacted morphology in mes-2 mutants. By contrast, loss of the developmental regulators pha-4/FoxA or end-1/GATA does not prolong plasticity. This study establishes a model by which to analyze developmental plasticity within an intact embryo. mes-2 orchestrates large-scale changes in chromatin organization and gene expression to promote the timely loss of developmental plasticity. Our findings indicate that loss of plasticity can be uncoupled from cell fate specification.
+
+-Animals
+-Caenorhabditis elegans (+embryology; -metabolism)
+-Caenorhabditis elegans Proteins (-genetics; +metabolism)
++Cell Differentiation
+-Embryo, Nonmammalian (-metabolism)
+-Gene Expression Profiling
+-Mutation
+-Repressor Proteins (-genetics; -metabolism)
+
+pii:S1534-5807(09)00127-0
+doi:10.1016/j.devcel.2009.03.008
+pubmed:19460346
+mid:NIHMS103958
+pmc:PMC2693235
+

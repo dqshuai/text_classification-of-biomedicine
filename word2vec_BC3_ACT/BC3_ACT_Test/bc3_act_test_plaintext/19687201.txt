@@ -1,0 +1,22 @@
+Infect. Immun.
+
+Ce-Duox1/BLI-3 generates reactive oxygen species as a protective innate immune mechanism in Caenorhabditis elegans.
+
+V Chávez, A Mohri-Shiomi, DA Garsin
+
+Caenorhabditis elegans was recently developed as a model system to study both pathogen virulence mechanisms and host defense responses. We previously demonstrated that C. elegans produces reactive oxygen species (ROS) in response to exposure to the important gram-positive nosocomial pathogen Enterococcus faecalis. We also presented evidence of oxidative stress and upregulation of stress responses after exposure to the pathogen. As in mammalian systems, this new work shows that production of ROS for innate immune functions occurs via an NADPH oxidase. Specifically, reducing expression of a dual oxidase, Ce-Duox1/BLI-3, causes a decrease in ROS production in response to E. faecalis. We also present evidence that reduction of expression of Ce-Duox1/BLI-3 increases susceptibility to this pathogen, specifically when expression is reduced in the intestine and the hypodermis. Ce-Duox1/BLI-3 was previously characterized as having a role in cuticle cross-linking. Two C. elegans mutants with point mutations in the peroxidase domain that exhibit severe cuticle defects were discovered to be unaffected in ROS production or pathogen susceptibility. These results demonstrate an important biological role for the peroxidase domain in cuticle cross-linking that is unrelated to ROS production. To further demonstrate the protective effects of the pathogen-induced ROS production, we show that antioxidants that scavenge ROS increase the sensitivity of the nematode to the infection, in stark contrast to their longevity-promoting effects under nonpathogenic conditions. In conclusion, we postulate that the generation of ROS by NADPH oxidases in the barrier epithelium is an ancient, highly conserved innate immune defense mechanism.
+
+-Animals
+-Caenorhabditis elegans (+immunology)
+-Caenorhabditis elegans Proteins (-biosynthesis; +immunology)
+-Gram-Positive Bacterial Infections (+immunology)
+-Host-Parasite Interactions (+immunology)
++Immunity, Innate
+-NADPH Oxidase (-biosynthesis; +immunology)
+-Reactive Oxygen Species (+immunology)
+
+pii:IAI.00627-09
+doi:10.1128/IAI.00627-09
+pubmed:19687201
+pmc:PMC2772517
+

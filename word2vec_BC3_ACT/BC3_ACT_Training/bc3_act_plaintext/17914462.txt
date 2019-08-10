@@ -1,0 +1,32 @@
+EMBO J.
+
+Commensal bacteria modulate cullin-dependent signaling via generation of reactive oxygen species.
+
+A Kumar, H Wu, LS Collier-Hyams, JM Hansen, T Li, K Yamoah, ZQ Pan, DP Jones, AS Neish
+
+The resident prokaryotic microflora of the mammalian intestine influences diverse homeostatic functions of the gut, including regulation of cellular growth and immune responses; however, it is unknown how commensal prokaryotic organisms mechanistically influence eukaryotic signaling networks. We have shown that bacterial coculture with intestinal epithelial cells modulates ubiquitin-mediated degradation of important signaling intermediates, including beta-catenin and the NF-kappaB inhibitor IkappaB-alpha. Ubiquitination of these proteins as well as others is catalyzed by the SCF(betaTrCP) ubiquitin ligase, which itself requires regulated modification of the cullin-1 subunit by the ubiquitin-like protein NEDD8. Here we show that epithelia contacted by enteric commensal bacteria in vitro and in vivo rapidly generate reactive oxygen species (ROS). Bacterially induced ROS causes oxidative inactivation of the catalytic cysteine residue of Ubc12, the NEDD8-conjugating enzyme, resulting in complete but transient loss of cullin-1 neddylation and consequent effects on NF-kappaB and beta-catenin signaling. Our results demonstrate that commensal bacteria directly modulate a critical control point of the ubiquitin-proteasome system, and suggest how enteric commensal bacterial flora influences the regulatory pathways of the mammalian intestinal epithelia.
+
+-Animals
+-Bacteroides (-metabolism)
+-Cell Cycle Proteins (+metabolism)
+-Cullin Proteins (+metabolism)
+-Epithelial Cells (-microbiology)
+-Escherichia coli (-metabolism)
+-Humans
+-I-kappa B Proteins (-metabolism)
+-Intestines (-microbiology)
+-Lactobacillus rhamnosus (-metabolism)
+-NF-kappa B (-metabolism)
+-Oxidative Stress
+-Rats
++Reactive Oxygen Species
+-Signal Transduction
+-Ubiquitin (-metabolism)
+-Ubiquitins (-metabolism)
+-beta Catenin (-metabolism)
+
+pii:7601867
+doi:10.1038/sj.emboj.7601867
+pubmed:17914462
+pmc:PMC2063476
+

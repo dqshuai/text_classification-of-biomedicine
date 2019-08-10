@@ -1,0 +1,25 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Proteomics analyses reveal the evolutionary conservation and divergence of N-terminal acetyltransferases from yeast and humans.
+
+T Arnesen, P Van Damme, B Polevoda, K Helsens, R Evjenth, N Colaert, JE Varhaug, J Vandekerckhove, JR Lillehaug, F Sherman, K Gevaert
+
+N(alpha)-terminal acetylation is one of the most common protein modifications in eukaryotes. The COmbined FRActional DIagonal Chromatography (COFRADIC) proteomics technology that can be specifically used to isolate N-terminal peptides was used to determine the N-terminal acetylation status of 742 human and 379 yeast protein N termini, representing the largest eukaryotic dataset of N-terminal acetylation. The major N-terminal acetyltransferase (NAT), NatA, acts on subclasses of proteins with Ser-, Ala-, Thr-, Gly-, Cys- and Val- N termini. NatA is composed of subunits encoded by yARD1 and yNAT1 in yeast and hARD1 and hNAT1 in humans. A yeast ard1-Delta nat1-Delta strain was phenotypically complemented by hARD1 hNAT1, suggesting that yNatA and hNatA are similar. However, heterologous combinations, hARD1 yNAT1 and yARD1 hNAT1, were not functional in yeast, suggesting significant structural subunit differences between the species. Proteomics of a yeast ard1-Delta nat1-Delta strain expressing hNatA demonstrated that hNatA acts on nearly the same set of yeast proteins as yNatA, further revealing that NatA from humans and yeast have identical or nearly identical specificities. Nevertheless, all NatA substrates in yeast were only partially N-acetylated, whereas the corresponding NatA substrates in HeLa cells were mainly completely N-acetylated. Overall, we observed a higher proportion of N-terminally acetylated proteins in humans (84%) as compared with yeast (57%). N-acetylation occurred on approximately one-half of the human proteins with Met-Lys- termini, but did not occur on yeast proteins with such termini. Thus, although we revealed different N-acetylation patterns in yeast and humans, the major NAT, NatA, acetylates the same substrates in both species.
+
+-Acetylation
+-Acetyltransferases (+genetics)
+-Arylamine N-Acetyltransferase (-genetics)
++Evolution, Molecular
+-Fungal Proteins (+genetics)
+-Hela Cells
+-Humans
+-Isoenzymes (-genetics)
+-Protein Subunits
+-Proteomics (+methods)
+-Substrate Specificity
+
+pii:0901931106
+doi:10.1073/pnas.0901931106
+pubmed:19420222
+pmc:PMC2688859
+

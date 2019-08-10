@@ -1,0 +1,29 @@
+Mol. Syst. Biol.
+
+A mechanical bottleneck explains the variation in cup growth during FcgammaR phagocytosis.
+
+JS van Zon, G Tzircotis, E Caron, M Howard
+
+Phagocytosis is the process by which cells internalize particulate material, and is of central importance to immunity, homeostasis and development. Here, we study the internalization of immunoglobulin G-coated particles in cells transfected with Fcgamma receptors (FcgammaRs) through the formation of an enveloping phagocytic cup. Using confocal microscopy, we precisely track the location of fluorescently tagged FcgammaRs during cup growth. Surprisingly, we found that phagocytic cups growing around identical spherical particles showed great variability even within a single cell and exhibited two eventual fates: a cup either stalled before forming a half-cup or it proceeded until the particle was fully enveloped. We explain these observations in terms of a mechanical bottleneck using a simple mathematical model of the overall process of cup growth. The model predicts that reducing F-actin concentration levels, and hence the deforming force, does not necessarily lead to stalled cups, a prediction we verify experimentally. Our analysis gives a coherent explanation for the importance of geometry in phagocytic uptake and provides a unifying framework for integrating the key processes, both biochemical and mechanical, occurring during cup growth.
+
+-Actins (-chemistry)
+-Animals
+-COS Cells
+-Cell Membrane (-metabolism)
+-Cercopithecus aethiops
+-Diffusion
+-Green Fluorescent Proteins (-chemistry)
+-Humans
+-Microscopy, Confocal (-methods)
+-Models, Biological
+-Models, Theoretical
+-Phagocytosis
+-Receptors, IgG (+chemistry)
+-Signal Transduction
+-Systems Biology (-methods)
+
+pii:msb200959
+doi:10.1038/msb.2009.59
+pubmed:19690567
+pmc:PMC2736656
+

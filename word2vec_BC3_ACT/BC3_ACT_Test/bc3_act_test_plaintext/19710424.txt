@@ -1,0 +1,28 @@
+Mol. Biol. Cell
+
+Pob1 participates in the Cdc42 regulation of fission yeast actin cytoskeleton.
+
+SA Rincón, Y Ye, MA Villar-Tajadura, B Santos, SG Martin, P Pérez
+
+Rho GTPases regulate the actin cytoskeleton in all eukaryotes. Fission yeast Cdc42 is involved in actin cable assembly and formin For3 regulation. We isolated cdc42-879 as a thermosensitive strain with actin cable and For3 localization defects. In a multicopy suppressor screening, we identified pob1(+) as suppressor of cdc42-879 thermosensitivity. Pob1 overexpression also partially restores actin cables and localization of For3 in the mutant strain. Pob1 interacts with Cdc42 and this GTPase regulates Pob1 localization and/or stability. The C-terminal pleckstrin homology (PH) domain of Pob1 is required for Cdc42 binding. Pob1 also binds to For3 through its N-terminal sterile alpha motif (SAM) domain and contributes to the formin localization at the cell tips. The previously described pob1-664 mutant strain (Mol. Biol. Cell. 10, 2745-2757, 1999), which carries a mutation in the PH domain, as well as pob1 mutant strains in which Pob1 lacks the N-terminal region (pob1DeltaN) or the SAM domain (pob1DeltaSAM), have cytoskeletal defects similar to that of cdc42-879 cells. Expression of constitutively active For3DAD* partially restores actin organization in cdc42-879, pob1-664, pob1DeltaN, and pob1DeltaSAM. Therefore, we propose that Pob1 is required for For3 localization to the tips and facilitates Cdc42-mediated relief of For3 autoinhibition to stimulate actin cable formation.
+
+-Actins (-metabolism)
+-Amino Acid Substitution
+-Cell Cycle Proteins (-chemistry; -physiology)
+-Cell Polarity
+-Cytoskeleton (+ultrastructure)
+-Gene Expression Regulation, Fungal
+-Guanosine Triphosphate (-physiology)
+-Microfilaments (-metabolism; +ultrastructure)
+-Protein Interaction Mapping
+-Protein Structure, Tertiary
+-Schizosaccharomyces (+metabolism; -ultrastructure)
+-Schizosaccharomyces pombe Proteins (-chemistry; -genetics; +physiology)
+-cdc42 GTP-Binding Protein (-chemistry; -genetics; +physiology)
+-rho GTP-Binding Proteins (-chemistry; +physiology)
+
+pii:E09-03-0207
+doi:10.1091/mbc.E09-03-0207
+pubmed:19710424
+pmc:PMC2762138
+

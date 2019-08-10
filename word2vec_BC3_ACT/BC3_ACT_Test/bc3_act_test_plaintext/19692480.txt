@@ -1,0 +1,27 @@
+J. Virol.
+
+A quantitative affinity-profiling system that reveals distinct CD4/CCR5 usage patterns among human immunodeficiency virus type 1 and simian immunodeficiency virus strains.
+
+SH Johnston, MA Lobritz, S Nguyen, K Lassen, S Delair, F Posta, YJ Bryson, EJ Arts, T Chou, B Lee
+
+The affinity of human immunodeficiency virus (HIV) envelope for CD4 and CCR5 appears to be associated with aspects of R5 virus (virus using the CCR5 coreceptor) pathogenicity. However, entry efficiency results from complex interactions between the viral envelope glycoprotein and both CD4 and CCR5, which limits attempts to correlate viral pathogenicity with surrogate measures of envelope CD4 and CCR5 affinities. Here, we present a system that provides a quantitative and comprehensive characterization of viral entry efficiency as a direct interdependent function of both CD4 and CCR5 levels. This receptor affinity profiling system also revealed heretofore unappreciated complexities underlying CD4/CCR5 usage. We first developed a dually inducible cell line in which CD4 and CCR5 could be simultaneously and independently regulated within a physiologic range of surface expression. Infection by multiple HIV type 1 (HIV-1) and simian immunodeficiency virus isolates could be examined simultaneously for up to 48 different combinations of CD4/CCR5 expression levels, resulting in a distinct usage pattern for each virus. Thus, each virus generated a unique three-dimensional surface plot in which viral infectivity varied as a function of both CD4 and CCR5 expression. From this functional form, we obtained a sensitivity vector along with corresponding metrics that quantified an isolate's overall efficiency of CD4/CCR5 usage. When applied to viral isolates with well-characterized sensitivities to entry/fusion inhibitors, the vector metrics were able to encapsulate their known biological phenotypes. The application of the vector metrics also indicated that envelopes derived from elite suppressors had overall-reduced entry efficiencies compared to those of envelopes derived from chronically infected viremic progressors. Our affinity-profiling system may help to refine studies of R5 virus tropism and pathogenesis.
+
+-Affinity Labels
+-Animals
+-Antigens, CD4 (-genetics; +physiology)
+-Cell Line
+-Ecdysterone (-analogs & derivatives; -metabolism)
+-HIV-1 (+physiology)
+-Humans
+-Mathematical Concepts
+-Minocycline (-metabolism)
+-Receptors, CCR5 (-genetics; +physiology)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Simian immunodeficiency virus (+physiology)
++Virus Internalization
+
+pii:JVI.01242-09
+doi:10.1128/JVI.01242-09
+pubmed:19692480
+pmc:PMC2772777
+

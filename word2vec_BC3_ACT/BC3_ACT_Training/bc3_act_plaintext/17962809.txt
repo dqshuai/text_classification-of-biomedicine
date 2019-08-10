@@ -1,0 +1,36 @@
+EMBO J.
+
+Phosphorylation at Ser244 by CK1 determines nuclear localization and substrate targeting of PKD2.
+
+J von Blume, U Knippschild, F Dequiedt, G Giamas, A Beck, A Auer, J Van Lint, G Adler, T Seufferlein
+
+Protein kinase D2 (PKD2), a member of the PKD family of serine/threonine kinases, is localized in various subcellular compartments including the nucleus where the kinase accumulates upon activation of G-protein-coupled receptors. We define three critical post-translational modifications required for nuclear accumulation of PKD2 in response to activation of the CCK2 receptor (CCK2R): phosphorylation at Ser706 and Ser710 within the activation loop by PKC eta leading to catalytic activity and phosphorylation at Ser244 within the zinc-finger domain, which is crucial for blocking nuclear export of active PKD2 by preventing its interaction with the Crm-1 export machinery. We identify CK1delta and epsilon as upstream activated kinases by CCK2R that phosphorylate PKD2 at Ser244. Moreover, nuclear accumulation of active PKD2 is a prerequisite for efficient phosphorylation of its nuclear substrate, HDAC7. Only nuclear, active PKD2 mediates CCK2R-induced HDAC7 phosphorylation and Nur77 expression. Thus, we define a novel, compartment-specific signal transduction pathway downstream of CCK2R that phosphorylates PKD2 at three specific sites, results in nuclear accumulation of the active kinase and culminates in efficient phosphorylation of nuclear PKD2 substrates in human gastric cancer cells.
+
+-Animals
+-COS Cells
+-Casein Kinase Idelta (+metabolism)
+-Casein Kinase Iepsilon (+metabolism)
+-Cell Line
+-Cell Line, Tumor
+-Cell Nucleus (-metabolism)
+-Cercopithecus aethiops
+-DNA-Binding Proteins (-metabolism)
+-Gastrins (-pharmacology)
+-Hela Cells
+-Histone Deacetylases (-metabolism)
+-Humans
+-Nuclear Receptor Subfamily 4, Group A, Member 1
+-Phosphorylation
+-Protein Kinase C (-metabolism)
+-Protein Kinases (+metabolism)
+-Receptor, Cholecystokinin B (+metabolism)
+-Receptors, Cytoplasmic and Nuclear (-metabolism)
+-Receptors, Steroid (-metabolism)
+-Serine (-metabolism)
+-Transcription Factors (-metabolism)
+
+pii:7601891
+doi:10.1038/sj.emboj.7601891
+pubmed:17962809
+pmc:PMC2080801
+

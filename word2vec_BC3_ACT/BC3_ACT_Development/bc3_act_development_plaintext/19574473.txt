@@ -1,0 +1,25 @@
+Plant Physiol.
+
+Mechanism of REP27 protein action in the D1 protein turnover and photosystem II repair from photodamage.
+
+D Dewez, S Park, JG García-Cerdán, P Lindberg, A Melis
+
+The function of the REP27 protein (GenBank accession no. EF127650) in the photosystem II (PSII) repair process was elucidated. REP27 is a nucleus-encoded and chloroplast-targeted protein containing two tetratricopeptide repeat (TPR) motifs, two putative transmembrane domains, and an extended carboxyl (C)-terminal region. Cell fractionation and western-blot analysis localized the REP27 protein in the Chlamydomonas reinhardtii chloroplast thylakoids. A folding model for REP27 suggested chloroplast stroma localization for amino- and C-terminal regions as well as the two TPRs. A REP27 gene knockout strain of Chlamydomonas, termed the rep27 mutant, was employed for complementation studies. The rep27 mutant was aberrant in the PSII-repair process and had substantially lower than wild-type levels of D1 protein. Truncated REP27 cDNA constructs were made for complementation of rep27, whereby TPR1, TPR2, TPR1+TPR2, or the C-terminal domains were deleted. rep27-complemented strains minus the TPR motifs showed elevated levels of D1 in thylakoids, comparable to those in the wild type, but the PSII photochemical efficiency of these strains was not restored, suggesting that the functionality of the PSII reaction center could not be recovered in the absence of the TPR motifs. It is suggested that TPR motifs play a role in the functional activation of the newly integrated D1 protein in the PSII reaction center. rep27-complemented strains missing the C-terminal domain showed low levels of D1 protein in thylakoids as well as low PSII photochemical efficiency, comparable to those in the rep27 mutant. Therefore, the C-terminal domain is needed for a de novo biosynthesis and/or assembly of D1 in the photodamaged PSII template. We conclude that REP27 plays a dual role in the regulation of D1 protein turnover by facilitating cotranslational biosynthesis insertion (C-terminal domain) and activation (TPR motifs) of the nascent D1 during the PSII repair process.
+
+-Animals
+-Chlamydomonas reinhardtii (+metabolism)
+-Gene Expression Regulation, Plant (-physiology)
+-Models, Molecular
+-Mutagenesis, Insertional
+-Mutation
+-Photosynthesis (-physiology)
+-Photosystem II Protein Complex (+metabolism)
+-Plant Proteins (+metabolism)
+-Protein Transport
+-Thylakoids (+metabolism)
+
+pii:pp.109.140798
+doi:10.1104/pp.109.140798
+pubmed:19574473
+pmc:PMC2736001
+

@@ -1,0 +1,21 @@
+PLoS ONE
+
+Resolution of joint molecules by RuvABC and RecG following cleavage of the Escherichia coli chromosome by EcoKI.
+
+L Wardrope, E Okely, D Leach
+
+DNA double-strand breaks can be repaired by homologous recombination involving the formation and resolution of Holliday junctions. In Escherichia coli, the RuvABC resolvasome and the RecG branch-migration enzyme have been proposed to act in alternative pathways for the resolution of Holliday junctions. Here, we have studied the requirements for RuvABC and RecG in DNA double-strand break repair after cleavage of the E. coli chromosome by the EcoKI restriction enzyme. We show an asymmetry in the ability of RuvABC and RecG to deal with joint molecules in vivo. We detect linear DNA products compatible with the cleavage-ligation of Holliday junctions by the RuvABC pathway but not by the RecG pathway. Nevertheless we show that the XerCD-mediated pathway of chromosome dimer resolution is required for survival regardless of whether the RuvABC or the RecG pathway is active, suggesting that crossing-over is a common outcome irrespective of the pathway utilised. This poses a problem. How can cells resolve joint molecules, such as Holliday junctions, to generate crossover products without cleavage-ligation? We suggest that the mechanism of bacterial DNA replication provides an answer to this question and that RecG can facilitate replication through Holliday junctions.
+
++Chromosomes, Bacterial
+-DNA Damage
+-DNA Helicases (-genetics; +isolation & purification; -metabolism)
+-DNA Repair
+-DNA Restriction Enzymes (+metabolism)
+-Escherichia coli (+genetics)
+-Escherichia coli Proteins (-genetics; +isolation & purification; -metabolism)
+-Mutation
+
+doi:10.1371/journal.pone.0006542
+pubmed:19657385
+pmc:PMC2716532
+

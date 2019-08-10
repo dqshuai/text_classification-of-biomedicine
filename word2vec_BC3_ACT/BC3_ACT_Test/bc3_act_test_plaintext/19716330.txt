@@ -1,0 +1,39 @@
+Mol. Cell
+
+Mammalian miRNA RISC recruits CAF1 and PABP to affect PABP-dependent deadenylation.
+
+MR Fabian, G Mathonnet, T Sundermeier, H Mathys, JT Zipprich, YV Svitkin, F Rivas, M Jinek, J Wohlschlegel, JA Doudna, CY Chen, AB Shyu, JR Yates, GJ Hannon, W Filipowicz, TF Duchaine, N Sonenberg
+
+MicroRNAs (miRNAs) inhibit mRNA expression in general by base pairing to the 3'UTR of target mRNAs and consequently inhibiting translation and/or initiating poly(A) tail deadenylation and mRNA destabilization. Here we examine the mechanism and kinetics of miRNA-mediated deadenylation in mouse Krebs-2 ascites extract. We demonstrate that miRNA-mediated mRNA deadenylation occurs subsequent to initial translational inhibition, indicating a two-step mechanism of miRNA action, which serves to consolidate repression. We show that a let-7 miRNA-loaded RNA-induced silencing complex (miRISC) interacts with the poly(A)-binding protein (PABP) and the CAF1 and CCR4 deadenylases. In addition, we demonstrate that miRNA-mediated deadenylation is dependent upon CAF1 activity and PABP, which serves as a bona fide miRNA coactivator. Importantly, we present evidence that GW182, a core component of the miRISC, directly interacts with PABP via its C-terminal region and that this interaction is required for miRNA-mediated deadenylation.
+
+-Animals
+-Ascites (-genetics; -metabolism)
+-Autoantigens (-metabolism)
+-Binding Sites
+-Carcinoma, Krebs 2 (-genetics; -metabolism)
+-Cell-Free System
+-Eukaryotic Initiation Factor-2 (-metabolism)
+-Eukaryotic Initiation Factor-4G (-metabolism)
++Gene Silencing
+-Hela Cells
+-Humans
+-Kinetics
+-Mice
+-MicroRNAs (+metabolism)
+-Poly(A)-Binding Proteins (-genetics; +metabolism)
+-Protein Biosynthesis
+-Protein Structure, Tertiary
+-Proteins (-genetics; +metabolism)
++RNA Processing, Post-Transcriptional
+-RNA Stability
+-RNA, Messenger (+metabolism)
+-RNA-Induced Silencing Complex (-genetics; +metabolism)
+-Receptors, CCR4 (-metabolism)
+-Transfection
+
+pii:S1097-2765(09)00550-4
+doi:10.1016/j.molcel.2009.08.004
+pubmed:19716330
+mid:NIHMS162970
+pmc:PMC2803087
+

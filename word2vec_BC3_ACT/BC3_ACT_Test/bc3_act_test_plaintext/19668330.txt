@@ -1,0 +1,26 @@
+PLoS ONE
+
+Multisite phosphorylation of the guanine nucleotide exchange factor Cdc24 during yeast cell polarization.
+
+SC Wai, SA Gerber, R Li
+
+BACKGROUND: Cell polarization is essential for processes such as cell migration and asymmetric cell division. A common regulator of cell polarization in most eukaryotic cells is the conserved Rho GTPase, Cdc42. In budding yeast, Cdc42 is activated by a single guanine nucleotide exchange factor, Cdc24. The mechanistic details of Cdc24 activation at the onset of yeast cell polarization are unclear. Previous studies have suggested an important role for phosphorylation of Cdc24, which may regulate activity or function of the protein, representing a key step in the symmetry breaking process. METHODOLOGY/PRINCIPAL FINDINGS: Here, we directly ask whether multisite phosphorylation of Cdc24 plays a role in its regulation. We identify through mass spectrometry analysis over thirty putative in vivo phosphorylation sites. We first focus on sites matching consensus sequences for cyclin-dependent and p21-activated kinases, two kinase families that have been previously shown to phosphorylate Cdc24. Through site-directed mutagenesis, yeast genetics, and light and fluorescence microscopy, we show that nonphosphorylatable mutations of these consensus sites do not lead to any detectable consequences on growth rate, morphology, kinetics of polarization, or localization of the mutant protein. We do, however, observe a change in the mobility shift of mutant Cdc24 proteins on SDS-PAGE, suggesting that we have indeed perturbed its phosphorylation. Finally, we show that mutation of all identified phosphorylation sites does not cause observable defects in growth rate or morphology. CONCLUSIONS/SIGNIFICANCE: We conclude that lack of phosphorylation on Cdc24 has no overt functional consequences in budding yeast. Yeast cell polarization may be more tightly regulated by inactivation of Cdc42 by GTPase activating proteins or by alternative methods of Cdc24 regulation, such as conformational changes or oligomerization.
+
+-Blotting, Western
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Cell Division
++Cell Polarity
+-Electrophoresis, Polyacrylamide Gel
+-Guanine Nucleotide Exchange Factors (-genetics; +metabolism)
+-Microscopy, Fluorescence
+-Mutagenesis, Site-Directed
+-Phosphorylation
+-Plasmids
+-Saccharomyces cerevisiae (+cytology; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Tandem Mass Spectrometry
+
+doi:10.1371/journal.pone.0006563
+pubmed:19668330
+pmc:PMC2718613
+

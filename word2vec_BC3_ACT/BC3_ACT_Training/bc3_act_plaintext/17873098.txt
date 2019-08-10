@@ -1,0 +1,33 @@
+Plant Cell
+
+The Arabidopsis BEL1-LIKE HOMEODOMAIN proteins SAW1 and SAW2 act redundantly to regulate KNOX expression spatially in leaf margins.
+
+R Kumar, K Kushalappa, D Godt, MS Pidkowich, S Pastorelli, SR Hepworth, GW Haughn
+
+In Arabidopsis thaliana, the BEL1-like TALE homeodomain protein family consists of 13 members that form heterodimeric complexes with the Class 1 KNOX TALE homeodomain proteins, including SHOOTMERISTEMLESS (STM) and BREVIPEDICELLUS (BP). The BEL1-like protein BELLRINGER (BLR) functions together with STM and BP in the shoot apex to regulate meristem identity and function and to promote correct shoot architecture. We have characterized two additional BEL1-LIKE HOMEODOMAIN (BLH) proteins, SAWTOOTH1 (BLH2/SAW1) and SAWTOOTH2 (BLH4/SAW2) that, in contrast with BLR, are expressed in lateral organs and negatively regulate BP expression. saw1 and saw2 single mutants have no obvious phenotype, but the saw1 saw2 double mutant has increased leaf serrations and revolute margins, indicating that SAW1 and SAW2 act redundantly to limit leaf margin growth. Consistent with this hypothesis, overexpression of SAW1 suppresses overall growth of the plant shoot. BP is ectopically expressed in the leaf serrations of saw1 saw2 double mutants. Ectopic expression of Class 1 KNOX genes in leaves has been observed previously in loss-of-function mutants of ASYMMETRIC LEAVES (AS1). Overexpression of SAW1 in an as1 mutant suppresses the as1 leaf phenotype and reduces ectopic BP leaf expression. Taken together, our data suggest that BLH2/SAW1 and BLH4/SAW2 establish leaf shape by repressing growth in specific subdomains of the leaf at least in part by repressing expression of one or more of the KNOX genes.
+
+-Alleles
+-Arabidopsis (+genetics)
+-Arabidopsis Proteins (+metabolism)
+-Cell Count
+-Cell Size
+-Flowers (-cytology; -genetics)
++Gene Expression Regulation, Plant
+-Genes, Plant
+-Genetic Complementation Test
+-Homeodomain Proteins (-genetics; +metabolism)
+-Molecular Sequence Data
+-Mutation (-genetics)
+-Phenotype
+-Plant Epidermis (-cytology)
+-Plant Leaves (+genetics)
+-Plant Proteins (+genetics)
+-Plant Shoots (-growth & development)
+-Protein Binding
+-Transcription Factors (+metabolism)
+
+pii:tpc.106.048769
+doi:10.1105/tpc.106.048769
+pubmed:17873098
+pmc:PMC2048708
+

@@ -1,0 +1,28 @@
+Genetics
+
+Genome engineering-based analysis of Bearded family genes reveals both functional redundancy and a nonessential function in lateral inhibition in Drosophila.
+
+S Chanet, N Vodovar, V Mayau, F Schweisguth
+
+Lateral inhibition mediated by Notch receptor signaling regulates the determination of sensory organ precursor cells (SOPs) in Drosophila. The selection of SOPs from proneural cluster cells appears to rely on a negative feedback loop linking activation of the Notch receptor to downregulation of its ligand Delta within each cell. The molecular basis of this regulatory feedback mechanism is not known. Here, we have tested the role of the Bearded (Brd) family genes in this process. The Drosophila genome encodes eight Brd family members that interact with the E3 ubiquitin ligase Neuralized (Neur) and act as inhibitors of Neur-mediated Delta signaling. Genome engineering technologies were used to create specific deletions of all eight Brd family genes. We find that the Brd family genes malpha, m4, and m6 encoded by the Enhancer of split Complex (E(spl)-C) are dispensable for Drosophila development and that deletion of the five Brd family genes encoded by the Brd Complex only reduces viability. However, deletion of all Brd family genes results in embryonic lethality. Additionally, the malpha, m4, and m6 genes act redundantly with the other five Brd family genes to spatially restrict Notch activation in stage 5 embryos. These data reveal that the Brd family genes have an essential but redundant activity. While the activity of all eight Brd genes appears to be dispensable for SOP determination, clone border studies indicate that both the relative activity levels of Neur and Brd family members influence competition for the SOP fate during lateral inhibition. We propose that inhibition of Neur-Delta interaction by Brd family members is part of the feedback loop that underlies lateral inhibition in Drosophila.
+
+-Animals
+-DNA-Binding Proteins (+genetics)
+-Drosophila (+embryology; -genetics)
+-Drosophila Proteins (+genetics; -metabolism)
++Feedback, Physiological
+-Gene Expression Regulation, Developmental
+-Genes, Insect
+-Genetic Engineering (-methods)
+-Genome, Insect
+-Receptors, Notch (+genetics)
+-Sense Organs (-cytology; -embryology)
+-Sequence Deletion
+-Stem Cells
+-Ubiquitin-Protein Ligases (-metabolism)
+
+pii:genetics.109.105023
+doi:10.1534/genetics.109.105023
+pubmed:19528324
+pmc:PMC2728851
+

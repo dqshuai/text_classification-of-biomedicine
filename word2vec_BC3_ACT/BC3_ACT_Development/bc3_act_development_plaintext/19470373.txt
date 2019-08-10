@@ -1,0 +1,30 @@
+Biochem. Biophys. Res. Commun.
+
+In vivo identification of promoter elements and transcription factors mediating activation of hepatic HMG-CoA reductase by T3.
+
+LR Boone, MI Niesen, M Jaroszeski, GC Ness
+
+The promoter elements and transcription factors necessary for triiodothyronine (T3) induction of hepatic HMG-CoA reductase (HMGR) were investigated by transfecting rat livers with wild type and mutant HMGR promoter-luciferase constructs using in vivo electroporation. Mutations in the sterol response element (SRE), nuclear factor-y (NF-Y) site, and the newly identified upstream transcription factor-2 (USF-2) site essentially abolished the T3 response. Chromatin immunoprecipitation (ChIP) analysis demonstrated that T(3) treatment caused a 4-fold increase in in vivo binding of USF-2 to the HMGR promoter. Co-transfection of the wild type HMGR promoter with siRNAs to USF-2, SREBP-2, or NF-Y nearly abolished the T3 induction, as measured by promoter activity. These data provide in vivo evidence for functional roles for USF-2, SREBP-2, and NF-Y in mediating the T3-induction of hepatic HMGR transcription.
+
+-Animals
+-Base Sequence
+-CCAAT-Binding Factor (-metabolism)
+-Hydroxymethylglutaryl CoA Reductases (+genetics)
+-Liver (-drug effects; +enzymology)
+-Male
+-Molecular Sequence Data
++Promoter Regions, Genetic (-drug effects)
+-RNA, Small Interfering (-genetics)
+-Rats
+-Rats, Sprague-Dawley
+-Sterol Regulatory Element Binding Protein 2 (-metabolism)
+-Transcription Factors (+metabolism)
+-Triiodothyronine (-drug effects; +metabolism)
+-Upstream Stimulatory Factors (-metabolism)
+
+pii:S0006-291X(09)01053-5
+doi:10.1016/j.bbrc.2009.05.093
+pubmed:19470373
+mid:NIHMS125643
+pmc:PMC2748396
+

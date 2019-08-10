@@ -1,0 +1,14 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+The elastic modulus, percolation, and disaggregation of strongly interacting, intersecting antiplane cracks.
+
+PM Davis, L Knopoff
+
+We study the modulus of a medium containing a varying density of nonintersecting and intersecting antiplane cracks. The modulus of nonintersecting, strongly interacting, 2D antiplane cracks obeys a mean-field theory for which the mean field on a crack inserted in a random ensemble is the applied stress. The result of a self-consistent calculation in the nonintersecting case predicts zero modulus at finite packing, which is physically impossible. Differential self-consistent theories avoid the zero modulus problem, but give results that are more compliant than those of both mean-field theory and computer simulations. For problems in which antiplane cracks are allowed to intersect and form crack clusters or larger effective cracks, percolation at finite packing is expected when the shear modulus vanishes. At low packing factor, the modulus follows the dilute, mean-field curve, but with increased packing, mutual interactions cause the modulus to be less than the mean-field result and to vanish at the percolation threshold. The "nodes-links-blobs" model predicts a power-law approach to the percolation threshold at a critical packing factor of p(c) = 4.426. We conclude that a power-law variation of modulus with packing, with exponent 1.3 drawn tangentially to the mean-field nonintersecting relation and passing through the percolation threshold, can be expected to be a good approximation. The approximation is shown to be consistent with simulations of intersecting rectangular cracks at all packing densities through to the percolation value for this geometry, p(c) = 0.4072.
+
+
+pii:0903014106
+doi:10.1073/pnas.0903014106
+pubmed:19443684
+pmc:PMC2722342
+

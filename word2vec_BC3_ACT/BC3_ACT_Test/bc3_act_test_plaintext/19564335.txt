@@ -1,0 +1,35 @@
+J. Biol. Chem.
+
+Hypoxia-induced expression of carbonic anhydrase 9 is dependent on the unfolded protein response.
+
+T van den Beucken, M Koritzinsky, H Niessen, L Dubois, K Savelkouls, H Mujcic, B Jutten, J Kopacek, S Pastorekova, AJ van der Kogel, P Lambin, W Voncken, KM Rouschop, BG Wouters
+
+Adaptation to tumor hypoxia is mediated in large part by changes in protein expression. These are driven by multiple pathways, including activation of the hypoxia inducible factor-1 (HIF-1) transcription factor and the PKR-like endoplasmic reticulum kinase PERK, a component of the unfolded protein response. Through gene expression profiling we discovered that induction of the HIF-1 target gene CA9 was defective in mouse embryo fibroblasts derived from mice harboring an eIF2alpha S51A knock-in mutation. This finding was confirmed in two isogenic human cell lines with an engineered defect in eIF2alpha phosphorylation. We show that impaired CA9 expression was not due to changes in HIF activity or CA9 mRNA stability. Using chromatin immunoprecipitation we show that the eIF2alpha-dependent translationally regulated gene ATF4 binds directly to the CA9 promoter and is associated with loss of the transcriptional repressive histone 3 lysine 27 tri-methylation mark. Loss or overexpression of ATF4 confirmed its role in CA9 induction during hypoxia. Our data indicate that expression of CA9 is regulated through both the HIF-1 and unfolded protein response hypoxia response pathways in vitro and in vivo.
+
+-Activating Transcription Factor 4 (-metabolism)
+-Animals
+-Antigens, Neoplasm (+biosynthesis)
+-Carbonic Anhydrases (+biosynthesis)
+-Cell Hypoxia
+-Cell Line, Tumor
+-Eukaryotic Initiation Factor-2 (-metabolism)
+-Female
++Gene Expression Regulation, Enzymologic
++Gene Expression Regulation, Neoplastic
+-Histones (-metabolism)
+-Humans
+-Hypoxia-Inducible Factor 1 (-metabolism)
+-Mice
+-Mice, Nude
+-Neoplasm Proteins (+metabolism)
+-Neoplasms (+enzymology)
+-Phosphorylation
+-Promoter Regions, Genetic
++Protein Folding
+-eIF-2 Kinase (-metabolism)
+
+pii:M109.006510
+doi:10.1074/jbc.M109.006510
+pubmed:19564335
+pmc:PMC2782014
+

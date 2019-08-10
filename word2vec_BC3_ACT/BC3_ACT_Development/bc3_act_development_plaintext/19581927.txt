@@ -1,0 +1,35 @@
+Oncogene
+
+C/EBPalpha expression is partially regulated by C/EBPbeta in response to DNA damage and C/EBPalpha-deficient fibroblasts display an impaired G1 checkpoint.
+
+R Ranjan, EA Thompson, K Yoon, RC Smart
+
+We observed that CCAAT/enhancer-binding protein (C/EBP)alpha is highly inducible in primary fibroblasts by DNA-damaging agents that induce strand breaks, alkylate and crosslink DNA as well as those that produce bulky DNA lesions. Fibroblasts deficient in C/EBPalpha (C/EBPalpha(-/-)) display an impaired G1 checkpoint as evidenced by an inappropriate entry into the S-phase in response to DNA damage, and these cells also display an enhanced G1/S transition in response to mitogens. The induction of C/EBPalpha by DNA damage in fibroblasts does not require p53. Electrophoretic mobility shift assay (EMSA) analysis of nuclear extracts prepared from ultraviolet B (UVB)- and N-methyl-N'-nitro-N-nitrosoguanidine (MNNG)-treated fibroblasts showed increased binding of C/EBPbeta to a C/EBP consensus sequence and chromatin immunoprecipitation (ChIP) analysis also showed increased C/EBPbeta binding to the C/EBPalpha promoter. To determine whether C/EBPbeta has a function in the regulation of C/EBPalpha, we treated C/EBPbeta(-/-) fibroblasts with UVB or MNNG. We observed that C/EBPalpha induction was impaired in both UVB- and MNNG-treated C/EBPbeta(-/-) fibroblasts. Our study shows a novel function for C/EBPbeta in the regulation of C/EBPalpha in response to DNA damage and provides definitive genetic evidence that C/EBPalpha has a critical role in the DNA damage G1 checkpoint.
+
+-Animals
+-Blotting, Western
+-CCAAT-Enhancer-Binding Protein-alpha (-genetics; +metabolism)
+-CCAAT-Enhancer-Binding Protein-beta (-genetics; +metabolism)
++DNA Damage
+-Female
+-Fibroblasts (-drug effects; +metabolism; -radiation effects)
+-Flow Cytometry
++G1 Phase
+-Gene Expression
+-Male
+-Methylnitronitrosoguanidine (-toxicity)
+-Mice
+-Mice, Inbred C57BL
+-Mice, Inbred Strains
+-Mice, Knockout
+-Reverse Transcriptase Polymerase Chain Reaction
+-S Phase
+-Time Factors
+-Ultraviolet Rays
+
+pii:onc2009176
+doi:10.1038/onc.2009.176
+pubmed:19581927
+mid:NIHMS119946
+pmc:PMC2741539
+

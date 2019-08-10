@@ -1,0 +1,21 @@
+J. Neurosci.
+
+Neural representations of individual stimuli in humans revealed by gamma-band electrocorticographic activity.
+
+J Jacobs, MJ Kahana
+
+A fundamental question in neuroscience concerns how the human brain represents perceptual and conceptual information. Traditionally, researchers probed this issue by identifying single neurons that increased their firing rate when an animal encountered certain stimuli. Here we provide evidence of a complementary scheme in which gamma-band (25-128 Hz) electrocorticographic (ECoG) activity -- a phenomenon involving large groups of neurons -- encodes the active cognitive representation. We analyzed intracranial brain recordings from neurosurgical patients while they studied lists of visually presented letters and found that the amplitude of gamma-band activity encoded the identity of the current letter. These letter-specific patterns occurred during periods of overall increased gamma amplitude and were linked to the phase of simultaneous theta (4-8 Hz) oscillations. In occipital cortex, these patterns sometimes reflected the shape of the viewed letter, but, in other brain regions, this phenomenon was not related to letter form. Our findings show that gamma-band activity encodes a range of perceptual and conceptual information, suggesting that ECoG recordings can reveal neural correlates of specific human cognitive representations.
+
+-Brain (-physiology)
+-Electroencephalography (+methods)
+-Humans
+-Neurons (+physiology)
+-Photic Stimulation (+methods)
+-Psychomotor Performance (-physiology)
+
+pii:29/33/10203
+doi:10.1523/JNEUROSCI.2187-09.2009
+pubmed:19692595
+mid:NIHMS141291
+pmc:PMC2752642
+

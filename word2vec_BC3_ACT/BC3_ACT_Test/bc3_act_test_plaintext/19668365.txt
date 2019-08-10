@@ -1,0 +1,17 @@
+PLoS ONE
+
+Testing and validation of high density resequencing microarray for broad range biothreat agents detection.
+
+TA Leski, B Lin, AP Malanoski, Z Wang, NC Long, CE Meador, B Barrows, S Ibrahim, JP Hardick, M Aitichou, JM Schnur, C Tibbetts, DA Stenger
+
+Rapid and effective detection and identification of emerging microbiological threats and potential biowarfare agents is very challenging when using traditional culture-based methods. Contemporary molecular techniques, relying upon reverse transcription and/or polymerase chain reaction (RT-PCR/PCR) provide a rapid and effective alternative, however, such assays are generally designed and optimized to detect only a limited number of targets, and seldom are capable of differentiation among variants of detected targets. To meet these challenges, we have designed a broad-range resequencing pathogen microarray (RPM) for detection of tropical and emerging infectious agents (TEI) including biothreat agents: RPM-TEI v 1.0 (RPM-TEI). The scope of the RPM-TEI assay enables detection and differential identification of 84 types of pathogens and 13 toxin genes, including most of the class A, B and C select agents as defined by the Centers for Disease Control and Prevention (CDC, Atlanta, GA). Due to the high risks associated with handling these particular target pathogens, the sensitivity validation of the RPM-TEI has been performed using an innovative approach, in which synthetic DNA fragments are used as templates for testing the assay's limit of detection (LOD). Assay specificity and sensitivity was subsequently confirmed by testing with full-length genomic nucleic acids of selected agents. The LOD for a majority of the agents detected by RPM-TEI was determined to be at least 10(4) copies per test. Our results also show that the RPM-TEI assay not only detects and identifies agents, but is also able to differentiate near neighbors of the same agent types, such as closely related strains of filoviruses of the Ebola Zaire group, or the Machupo and Lassa arenaviruses. Furthermore, each RPM-TEI assay results in specimen-specific agent gene sequence information that can be used to assess pathogenicity, mutations, and virulence markers, results that are not generally available from multiplexed RT-PCR/PCR-based detection assays.
+
++Biological Warfare
+-Limit of Detection
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Polymerase Chain Reaction
+
+doi:10.1371/journal.pone.0006569
+pubmed:19668365
+pmc:PMC2719057
+

@@ -1,0 +1,19 @@
+PLoS ONE
+
+Several distinct polycomb complexes regulate and co-localize on the INK4a tumor suppressor locus.
+
+GN Maertens, S El Messaoudi-Aubert, T Racek, JK Stock, J Nicholls, M Rodriguez-Niedenführ, J Gil, G Peters
+
+Misexpression of Polycomb repressive complex 1 (PRC1) components in human cells profoundly influences the onset of cellular senescence by modulating transcription of the INK4a tumor suppressor gene. Using tandem affinity purification, we find that CBX7 and CBX8, two Polycomb (Pc) homologs that repress INK4a, both participate in PRC1-like complexes with at least two Posterior sex combs (Psc) proteins, MEL18 and BMI1. Each complex contains a single representative of the Pc and Psc families. In primary human fibroblasts, CBX7, CBX8, MEL18 and BMI1 are present at the INK4a locus and shRNA-mediated knockdown of any one of these components results in de-repression of INK4a and proliferative arrest. Sequential chromatin immunoprecipitation (ChIP) reveals that CBX7 and CBX8 bind simultaneously to the same region of chromatin and knockdown of one of the Pc or Psc proteins results in release of the other, suggesting that the binding of PRC1 complexes is interdependent. Our findings provide the first evidence that a single gene can be regulated by several distinct PRC1 complexes and raise important questions about their configuration and relative functions.
+
+-Cells, Cultured
+-Chromatin Immunoprecipitation
+-Cyclin-Dependent Kinase Inhibitor p16 (+genetics; -metabolism)
++Genes, Tumor Suppressor
+-Humans
+-Protein Binding
+
+doi:10.1371/journal.pone.0006380
+pubmed:19636380
+pmc:PMC2713427
+

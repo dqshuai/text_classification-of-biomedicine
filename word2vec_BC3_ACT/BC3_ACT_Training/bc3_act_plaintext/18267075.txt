@@ -1,0 +1,30 @@
+Cell
+
+Chloroplastic protein NRIP1 mediates innate immune receptor recognition of a viral effector.
+
+JL Caplan, P Mamillapalli, TM Burch-Smith, K Czymmek, SP Dinesh-Kumar
+
+Plant innate immunity relies on the recognition of pathogen effector molecules by nucleotide-binding-leucine-rich repeat (NB-LRR) immune receptor families. Previously we have shown the N immune receptor, a member of TIR-NB-LRR family, indirectly recognizes the 50 kDa helicase (p50) domain of Tobacco mosaic virus (TMV) through its TIR domain. We have identified an N receptor-interacting protein, NRIP1, that directly interacts with both N's TIR domain and p50. NRIP1 is a functional rhodanese sulfurtransferase and is required for N to provide complete resistance to TMV. Interestingly, NRIP1 that normally localizes to the chloroplasts is recruited to the cytoplasm and nucleus by the p50 effector. As a consequence, NRIP1 interacts with N only in the presence of the p50 effector. Our findings show that a chloroplastic protein is intimately involved in pathogen recognition. We propose that N's activation requires a prerecognition complex containing the p50 effector and NRIP1.
+
+-Adaptor Proteins, Signal Transducing (-analysis; +immunology; -metabolism)
+-Antigens, Viral (-immunology)
+-Cell Nucleus (-chemistry)
+-Chloroplasts (-chemistry)
+-Cytoplasm (-chemistry)
+-Immunity, Innate
+-Nuclear Proteins (-analysis; +immunology; -metabolism)
+-Plant Diseases (+immunology)
+-Plant Proteins (-analysis; +immunology; -metabolism)
+-Protein Structure, Tertiary
+-Receptors, Virus (-analysis; +immunology; -metabolism)
+-Thiosulfate Sulfurtransferase (-metabolism)
+-Tobacco (+immunology; -virology)
+-Tobacco Mosaic Virus (+immunology)
+-Two-Hybrid System Techniques
+
+pii:S0092-8674(08)00052-4
+doi:10.1016/j.cell.2007.12.031
+pubmed:18267075
+mid:NIHMS40359
+pmc:PMC2267721
+

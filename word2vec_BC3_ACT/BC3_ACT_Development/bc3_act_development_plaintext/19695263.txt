@@ -1,0 +1,31 @@
+J. Mol. Biol.
+
+Determinants for the activation and autoinhibition of the diguanylate cyclase response regulator WspR.
+
+N De, MV Navarro, RV Raghavan, H Sondermann
+
+The bacterial second messenger bis-(3'-5')-cyclic dimeric guanosine monophosphate (c-di-GMP) controls secretion, cell adhesion, and motility, leading to biofilm formation and increased cytotoxicity. Diguanylate cyclases containing GGDEF and phosphodiesterases containing EAL or HD-GYP domains have been identified as the enzymes controlling cellular c-di-GMP levels, yet less is known regarding the molecular mechanisms governing regulation and signaling specificity. We recently determined a product-inhibition pathway for the diguanylate cyclase response regulator WspR from Pseudomonas, a potent molecular switch that controls biofilm formation. In WspR, catalytic activity is modulated by a helical stalk motif that connects its phospho-receiver and GGDEF domains. The stalks facilitate the formation of distinct oligomeric states that contribute to both activation and autoinhibition. Here, we provide novel insights into the regulation of diguanylate cyclase activity in WspR based on the crystal structures of full-length WspR, the isolated GGDEF domain, and an artificially dimerized catalytic domain. The structures highlight that inhibition is achieved by restricting the mobility of rigid GGDEF domains, mediated by c-di-GMP binding to an inhibitory site at the GGDEF domain. Kinetic measurements and biochemical characterization corroborate a model in which the activation of WspR requires the formation of a tetrameric species. Tetramerization occurs spontaneously at high protein concentration or upon addition of the phosphomimetic compound beryllium fluoride. Our analyses elucidate common and WspR-specific mechanisms for the fine-tuning of diguanylate cyclase activity.
+
+-Amino Acid Motifs
+-Bacterial Proteins (+antagonists & inhibitors; -chemistry)
+-Beryllium (-pharmacology)
+-Crystallography, X-Ray
+-Cyclic GMP (-analogs & derivatives)
+-Enzyme Activation (-drug effects)
+-Fluorides (-pharmacology)
+-Kinetics
+-Models, Molecular
+-Mutant Proteins (-chemistry)
+-Phosphorus-Oxygen Lyases (+metabolism)
+-Protein Structure, Quaternary
+-Protein Structure, Secondary
+-Protein Structure, Tertiary
+-Pseudomonas syringae (+enzymology)
+-Recombinant Fusion Proteins (-metabolism)
+
+pii:S0022-2836(09)01026-2
+doi:10.1016/j.jmb.2009.08.030
+pubmed:19695263
+mid:NIHMS140485
+pmc:PMC2760619
+

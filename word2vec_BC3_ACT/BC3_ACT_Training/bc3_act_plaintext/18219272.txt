@@ -1,0 +1,28 @@
+EMBO J.
+
+Cohesins localize with CTCF at the KSHV latency control region and at cellular c-myc and H19/Igf2 insulators.
+
+W Stedman, H Kang, S Lin, JL Kissil, MS Bartolomei, PM Lieberman
+
+Cohesins, which mediate sister chromatin cohesion, and CTCF, which functions at chromatin boundaries, play key roles in the structural and functional organization of chromosomes. We examined the binding of these two factors on the Kaposi's sarcoma-associated herpesvirus (KSHV) episome during latent infection and found a striking colocalization within the control region of the major latency transcript responsible for expressing LANA (ORF73), vCyclin (ORF72), vFLIP (ORF71), and vmiRNAs. Deletion of the CTCF-binding site from the viral genome disrupted cohesin binding, and crippled colony formation in 293 cells. Clonal instability correlated with elevated expression of lytic cycle gene products, notably the neighbouring promoter for K14 and vGPCR (ORF74). siRNA depletion of RAD21 from latently infected cells caused an increase in K14 and ORF74, and lytic inducers caused a rapid dissociation of RAD21 from the viral genome. RAD21 and SMC1 also associate with the cellular CTCF sites at mammalian c-myc promoter and H19/Igf2 imprinting control region. We conclude that cohesin subunits associate with viral and cellular CTCF sites involved in complex gene regulation and chromatin organization.
+
+-Cell Cycle Proteins (+metabolism)
+-Cell Line
+-Chromosomal Proteins, Non-Histone (+metabolism)
+-DNA-Binding Proteins (+metabolism)
+-Hela Cells
+-Herpesvirus 8, Human (+physiology)
+-Humans
+-Insulin-Like Growth Factor II (-metabolism)
+-Nuclear Proteins (+metabolism)
+-Promoter Regions, Genetic
+-Proto-Oncogene Proteins c-myc (-metabolism)
+-RNA, Untranslated (-metabolism)
+-Repressor Proteins (+metabolism)
++Virus Latency
+
+pii:emboj20081
+doi:10.1038/emboj.2008.1
+pubmed:18219272
+pmc:PMC2262040
+

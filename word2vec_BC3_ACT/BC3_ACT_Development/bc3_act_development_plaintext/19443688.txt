@@ -1,0 +1,25 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Diverse roles of HP1 proteins in heterochromatin assembly and functions in fission yeast.
+
+T Fischer, B Cui, J Dhakshnamoorthy, M Zhou, C Rubin, M Zofall, TD Veenstra, SI Grewal
+
+Conserved chromosomal HP1 proteins capable of binding to histone H3 methylated at lysine 9 are believed to provide a dynamic platform for the recruitment and/or spreading of various regulatory proteins involved in diverse chromosomal processes. The fission yeast Schizosaccharomyces pombe HP1 family members Chp2 and Swi6 are important for heterochromatin assembly and transcriptional silencing, but their precise roles are not fully understood. Here, we show that Swi6 and Chp2 associate with histone deacetylase (HDAC) protein complexes containing class I HDAC Clr6 and class II HDAC Clr3 (a component of Snf2/HDAC repressor complex), which are critical for transcriptional silencing of centromeric repeats targeted by the heterochromatin machinery. Mapping of RNA polymerase (Pol) II distribution in single and double mutant backgrounds revealed that Swi6 and Chp2 proteins and their associated HDAC complexes have overlapping functions in limiting Pol II occupancy across pericentromeric heterochromatin domains. The purified Swi6 fraction also contains factors involved in various chromosomal processes such as chromatin remodeling and DNA replication. Also, Swi6 copurifies with Mis4 protein, a cohesin loading factor essential for sister chromatid cohesion, and with centromere-specific histone H3 variant CENP-A, which is incorporated into chromatin in a heterochromatin-dependent manner. These analyses suggest that among other functions, HP1 proteins associate with chromatin-modifying factors that in turn cooperate to assemble repressive chromatin; thus, precluding accessibility of underlying DNA sequences to transcriptional machinery.
+
+-Cell Cycle Proteins (-metabolism)
+-Centromere (-genetics; +metabolism)
+-Chromatin Immunoprecipitation
+-Chromosomal Proteins, Non-Histone (-genetics; +metabolism)
+-DNA Polymerase II (-metabolism)
++Gene Silencing
+-Heterochromatin (+metabolism)
+-Histone Deacetylases (-metabolism)
+-Repressor Proteins (-metabolism)
+-Schizosaccharomyces (-genetics; +metabolism)
+-Schizosaccharomyces pombe Proteins (-genetics; +metabolism)
+
+pii:0813063106
+doi:10.1073/pnas.0813063106
+pubmed:19443688
+pmc:PMC2690032
+

@@ -1,0 +1,25 @@
+Plant Cell
+
+Arabidopsis DUO POLLEN3 is a key regulator of male germline development and embryogenesis.
+
+L Brownfield, S Hafidh, A Durbarry, H Khatab, A Sidorova, P Doerner, D Twell
+
+Male germline development in angiosperms produces the pair of sperm cells required for double fertilization. A key regulator of this process in Arabidopsis thaliana is the male germline-specific transcription factor DUO POLLEN1 (DUO1) that coordinates germ cell division and gamete specification. Here, we uncover the role of DUO3, a nuclear protein that has a distinct, but overlapping role with DUO1 in male germline development. DUO3 is a conserved protein in land plants and is related to GON-4, a cell lineage regulator of gonadogenesis in Caenorhabditis elegans. Mutant duo3-1 germ cells either fail to divide or show a delay in division, and we show that, unlike DUO1, DUO3 promotes entry into mitosis independent of the G2/M regulator CYCB1;1. We also show that DUO3 is required for the expression of a subset of germline genes under DUO1 control and that like DUO1, DUO3 is essential for sperm cell specification and fertilization. Furthermore, we demonstrate an essential sporophytic role for DUO3 in cell division and embryo patterning. Our findings demonstrate essential developmental roles for DUO3 in cell cycle progression and cell specification in both gametophytic and sporophytic tissues.
+
+-Arabidopsis (+cytology; +embryology; -genetics)
+-Arabidopsis Proteins (-genetics; +physiology)
+-Cell Cycle (-genetics; -physiology)
+-Cell Division (-genetics; -physiology)
+-Computational Biology
+-Embryonic Development (-genetics; +physiology)
+-Gene Expression Regulation, Plant (-genetics; -physiology)
+-Microscopy, Confocal
+-Molecular Sequence Data
+-Pollen (-cytology; -genetics)
+-Reverse Transcriptase Polymerase Chain Reaction
+
+pii:tpc.109.066373
+doi:10.1105/tpc.109.066373
+pubmed:19638475
+pmc:PMC2729611
+

@@ -1,0 +1,26 @@
+Biophys. J.
+
+A free-energy approach for all-atom protein simulation.
+
+A Verma, W Wenzel
+
+All-atom free-energy methods offer a promising alternative to kinetic molecular mechanics simulations of protein folding and association. Here we report an accurate, transferable all-atom biophysical force field (PFF02) that stabilizes the native conformation of a wide range of proteins as the global optimum of the free-energy landscape. For 32 proteins of the ROSETTA decoy set and six proteins that we have previously folded with PFF01, we find near-native conformations with an average backbone RMSD of 2.14 A to the native conformation and an average Z-score of -3.46 to the corresponding decoy set. We used nonequilibrium sampling techniques starting from completely extended conformations to exhaustively sample the energy surface of three nonhomologous hairpin-peptides, a three-stranded beta-sheet, the all-helical 40 amino-acid HIV accessory protein, and a zinc-finger beta beta alpha motif, and find near-native conformations for the minimal energy for each protein. Using a massively parallel evolutionary algorithm, we also obtain a near-native low-energy conformation for the 54 amino-acid engrailed homeodomain. Our force field thus stabilized near-native conformations for a total of 20 proteins of all structure classes with an average RMSD of only 3.06 A to their respective experimental conformations.
+
+-Algorithms
+-Amino Acid Motifs
++Computer Simulation
+-Homeodomain Proteins (-chemistry)
++Models, Molecular
+-Protein Binding
++Protein Conformation
++Protein Folding
+-Protein Structure, Secondary
+-Protein Structure, Tertiary
+-Proteins (+chemistry)
+-Thermodynamics
+
+pii:S0006-3495(09)00387-7
+doi:10.1016/j.bpj.2008.12.3921
+pubmed:19413955
+pmc:PMC2711412
+

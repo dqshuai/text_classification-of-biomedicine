@@ -1,0 +1,18 @@
+PLoS ONE
+
+The TCL1A oncoprotein interacts directly with the NF-kappaB inhibitor IkappaB.
+
+V Ropars, G Despouy, MH Stern, S Benichou, C Roumestand, ST Arold
+
+The T cell leukaemia/lymphoma 1A (TCL1A) oncoprotein plays key roles in several B and T cell malignancies. Lacking enzymatic activity, TCL1A's transforming action was linked to its capacity to co-activate the protein kinase AKT via binding to its pleckstrin homology (PH) domain. However, perturbation of AKT signalling alone was recently shown insufficient to explain TCL1A oncogenesis, suggesting that TCL1A has additional cellular partners. Searching for such additional targets, we found that TCL1A binds specifically and directly to the ankyrin domain of IkappaB, the inhibitor of the NF-kappaB transcription factors. Through binding assays and a structural analysis by small angle X-ray scattering, we show that TCL1A and IkappaB interact in yeast-two-hybrid systems, when transiently overexpressed in 293 cells, and as recombinant proteins in vitro. We further establish that the association between TCL1A and IkappaB is compatible with AKT binding to TCL1A, but incompatible with IkappaB binding to NF-kappaB. By interfering with the inhibition of NF-kappaB by IkappaB, TCL1A may increase the concentration of free NF-kappaB molecules sufficiently to trigger expression of anti-apoptotic genes. Thus our data suggest an additional route by which TCL1A might cause cancer.
+
+-Humans
+-I-kappa B Kinase (+metabolism)
+-Protein Binding
+-Proto-Oncogene Proteins (+metabolism)
+-Scattering, Radiation
+
+doi:10.1371/journal.pone.0006567
+pubmed:19668332
+pmc:PMC2718698
+

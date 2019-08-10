@@ -1,0 +1,32 @@
+PLoS Genet.
+
+Repair-mediated duplication by capture of proximal chromosomal DNA has shaped vertebrate genome evolution.
+
+JK Pace, SK Sen, MA Batzer, C Feschotte
+
+DNA double-strand breaks (DSBs) are a common form of cellular damage that can lead to cell death if not repaired promptly. Experimental systems have shown that DSB repair in eukaryotic cells is often imperfect and may result in the insertion of extra chromosomal DNA or the duplication of existing DNA at the breakpoint. These events are thought to be a source of genomic instability and human diseases, but it is unclear whether they have contributed significantly to genome evolution. Here we developed an innovative computational pipeline that takes advantage of the repetitive structure of genomes to detect repair-mediated duplication events (RDs) that occurred in the germline and created insertions of at least 50 bp of genomic DNA. Using this pipeline we identified over 1,000 probable RDs in the human genome. Of these, 824 were intra-chromosomal, closely linked duplications of up to 619 bp bearing the hallmarks of the synthesis-dependent strand-annealing repair pathway. This mechanism has duplicated hundreds of sequences predicted to be functional in the human genome, including exons, UTRs, intron splice sites and transcription factor binding sites. Dating of the duplication events using comparative genomics and experimental validation revealed that the mechanism has operated continuously but with decreasing intensity throughout primate evolution. The mechanism has produced species-specific duplications in all primate species surveyed and is contributing to genomic variation among humans. Finally, we show that RDs have also occurred, albeit at a lower frequency, in non-primate mammals and other vertebrates, indicating that this mechanism has been an important force shaping vertebrate genome evolution.
+
+-Animals
+-Base Sequence
+-Biometry
+-DNA (-genetics)
+-DNA Breaks, Double-Stranded
+-DNA Repair (+genetics)
++Evolution, Molecular
++Gene Duplication
+-Genetic Techniques
+-Genetic Variation
+-Genome, Human
+-Humans
+-Models, Genetic
+-Polymorphism, Genetic
+-Primates (-genetics)
+-Sequence Homology, Nucleic Acid
+-Species Specificity
+-Time Factors
+-Vertebrates (+genetics)
+
+doi:10.1371/journal.pgen.1000469
+pubmed:19424419
+pmc:PMC2671141
+

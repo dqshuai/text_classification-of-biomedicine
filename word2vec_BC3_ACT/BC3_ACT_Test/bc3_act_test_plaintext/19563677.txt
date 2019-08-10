@@ -1,0 +1,27 @@
+BMC Genomics
+
+In silico genomic analyses reveal three distinct lineages of Escherichia coli O157:H7, one of which is associated with hyper-virulence.
+
+CR Laing, C Buchanan, EN Taboada, Y Zhang, MA Karmali, JE Thomas, VP Gannon
+
+BACKGROUND: Many approaches have been used to study the evolution, population structure and genetic diversity of Escherichia coli O157:H7; however, observations made with different genotyping systems are not easily relatable to each other. Three genetic lineages of E. coli O157:H7 designated I, II and I/II have been identified using octamer-based genome scanning and microarray comparative genomic hybridization (mCGH). Each lineage contains significant phenotypic differences, with lineage I strains being the most commonly associated with human infections. Similarly, a clade of hyper-virulent O157:H7 strains implicated in the 2006 spinach and lettuce outbreaks has been defined using single-nucleotide polymorphism (SNP) typing. In this study an in silico comparison of six different genotyping approaches was performed on 19 E. coli genome sequences from 17 O157:H7 strains and single O145:NM and K12 MG1655 strains to provide an overall picture of diversity of the E. coli O157:H7 population, and to compare genotyping methods for O157:H7 strains. RESULTS: In silico determination of lineage, Shiga-toxin bacteriophage integration site, comparative genomic fingerprint, mCGH profile, novel region distribution profile, SNP type and multi-locus variable number tandem repeat analysis type was performed and a supernetwork based on the combination of these methods was produced. This supernetwork showed three distinct clusters of strains that were O157:H7 lineage-specific, with the SNP-based hyper-virulent clade 8 synonymous with O157:H7 lineage I/II. Lineage I/II/clade 8 strains clustered closest on the supernetwork to E. coli K12 and E. coli O55:H7, O145:NM and sorbitol-fermenting O157 strains. CONCLUSION: The results of this study highlight the similarities in relationships derived from multi-locus genome sampling methods and suggest a "common genotyping language" may be devised for population genetics and epidemiological studies. Future genotyping methods should provide data that can be stored centrally and accessed locally in an easily transferable, informative and extensible format based on comparative genomic analyses.
+
+-Bacterial Typing Techniques
+-Cluster Analysis
++Comparative Genomic Hybridization
+-DNA Fingerprinting
+-DNA, Bacterial (-genetics)
+-Escherichia coli O157 (-classification; +genetics; -pathogenicity)
++Genome, Bacterial
+-Genomics (+methods)
+-Genotype
+-Oligonucleotide Array Sequence Analysis
+-Polymorphism, Single Nucleotide
+-Sequence Analysis, DNA
+-Virulence
+
+pii:1471-2164-10-287
+doi:10.1186/1471-2164-10-287
+pubmed:19563677
+pmc:PMC2719669
+

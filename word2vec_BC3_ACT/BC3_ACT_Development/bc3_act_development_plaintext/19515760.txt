@@ -1,0 +1,28 @@
+J. Virol.
+
+A strongly transdominant mutation in the human immunodeficiency virus type 1 gag gene defines an Achilles heel in the virus life cycle.
+
+SK Lee, J Harris, R Swanstrom
+
+The human immunodeficiency virus type 1 (HIV-1) protease (PR) makes five obligatory cleavages in the viral Gag polyprotein precursor. The cleavage events release the virion structural proteins from the precursor and allow the virion to undergo maturation to become infectious. The protease cleavage between the matrix protein (MA) domain and the adjacent capsid protein (CA) domain releases CA from the membrane-anchored MA and allows the N terminus of CA to refold into a structure that facilitates the formation of hexamer arrays that represent the structural unit of the capsid shell. In this study, we analyzed the extent to which each of the HIV-1 Gag processing sites must be cleaved by substituting the P1-position amino acid at each processing site with Ile. A mutation that blocks cleavage at the MA/CA processing site (Y132I) displayed a strong transdominant effect when tested in a phenotypic mixing strategy, inhibiting virion infectivity with a 50% inhibitory concentration of only 4% of the mutant relative to the wild type. This mutation is 10- to 20-fold more potent in phenotypic mixing than an inactivating mutation in the viral protease, the target of many successful inhibitors, and more potent than an inactivating mutation at any of the other Gag cleavage sites. The transdominant effect is manifested as the assembly of an aberrant virion core. Virus containing 20% of the Y132I mutant and 80% of the wild type (to assess the transdominant effect on infectivity) was blocked either before reverse transcription (RT) or at an early RT step. The ability of a small amount of the MA/CA fusion protein to poison the oligomeric assembly of infectious virus identifies an essential step in the complex process of virion formation and maturation. The effect of a small-molecule inhibitor that is able to block MA/CA cleavage even partially would be amplified by this transdominant negative effect on the highly orchestrated process of virion assembly.
+
+-Amino Acid Substitution (-genetics)
+-Animals
+-HIV Antigens (-metabolism)
+-HIV Core Protein p24 (-metabolism)
+-HIV Protease (+metabolism)
+-HIV-1 (-genetics; +physiology)
+-Humans
+-Mutagenesis, Site-Directed
++Mutation, Missense
+-Protein Multimerization
+-Protein Processing, Post-Translational
++Virus Assembly
++Virus Replication
+-gag Gene Products, Human Immunodeficiency Virus (-genetics; +metabolism)
+
+pii:JVI.00317-09
+doi:10.1128/JVI.00317-09
+pubmed:19515760
+pmc:PMC2738153
+

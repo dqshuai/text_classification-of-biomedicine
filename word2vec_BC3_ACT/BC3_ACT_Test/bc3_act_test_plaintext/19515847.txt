@@ -1,0 +1,28 @@
+J. Biol. Chem.
+
+Conformational changes during nucleotide selection by Sulfolobus solfataricus DNA polymerase Dpo4.
+
+RL Eoff, R Sanchez-Ponce, FP Guengerich
+
+The mechanism of nucleotide selection by Y-family DNA polymerases has been the subject of intense study, but significant structural contacts and/or conformational changes that relate to polymerase fidelity have been difficult to identify. Here we report on the conformational dynamics of a model Y-family polymerase Dpo4 from Sulfolobus solfataricus. Hydrogen-deuterium exchange in tandem with mass spectrometry was used to monitor changes in Dpo4 structure as a function of time and the presence or absence of specific substrates and ligands. Analysis of the data revealed previously unrecognized structural changes that accompany steps in the catalytic cycle leading up to phosphoryl transfer. For example, the solvent accessibility of the alphaB-loop-alphaC region in the finger domain decreased in the presence of all four dNTP insertion events, but the rate of deuterium exchange, an indicator of conformational flexibility, only decreased during an accurate insertion event. Of particular note is a change in the region surrounding the H-helix of the thumb domain. Upon binding DNA and Mg2+, the H-helix showed a decrease in solvent accessibility and flexibility that was relaxed only upon addition of dCTP, which forms a Watson-Crick base pair with template dG and not during mispairing events. The current study expands upon a previous report from our group that used a fluorescent probe located near the thumb domain to measure the kinetic properties of Dpo4 conformational changes. We now present a model for nucleotide selection by Dpo4 that arises from a synthesis of both structural and kinetic data.
+
+-Amino Acid Sequence
+-DNA Primers (-metabolism)
+-DNA-Directed DNA Polymerase (+chemistry; +metabolism)
+-Deuterium
+-Kinetics
+-Magnesium Chloride (-pharmacology)
+-Mass Spectrometry
+-Molecular Sequence Data
+-Nucleotides (+metabolism)
+-Peptides (-analysis; -chemistry)
+-Protein Structure, Secondary
+-Protein Structure, Tertiary
+-Sulfolobus solfataricus (+enzymology)
+-Templates, Genetic
+
+pii:M109.009506
+doi:10.1074/jbc.M109.009506
+pubmed:19515847
+pmc:PMC2742873
+

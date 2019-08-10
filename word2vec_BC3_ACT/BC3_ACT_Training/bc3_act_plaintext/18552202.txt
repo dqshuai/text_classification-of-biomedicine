@@ -1,0 +1,28 @@
+Plant Cell
+
+Arabidopsis DREB2A-interacting proteins function as RING E3 ligases and negatively regulate plant drought stress-responsive gene expression.
+
+F Qin, Y Sakuma, LS Tran, K Maruyama, S Kidokoro, Y Fujita, M Fujita, T Umezawa, Y Sawano, K Miyazono, M Tanokura, K Shinozaki, K Yamaguchi-Shinozaki
+
+The DEHYDRATION-RESPONSIVE ELEMENT BINDING PROTEIN2A (DREB2A) transcription factor controls water deficit-inducible gene expression and requires posttranslational modification for its activation. The activation mechanism is not well understood; however, the stability of this protein in the nucleus was recently found to be important for its activation. Here, we report the isolation of Arabidopsis thaliana DREB2A-INTERACTING PROTEIN1 (DRIP1) and DRIP2, C3HC4 RING domain-containing proteins that interact with the DREB2A protein in the nucleus. An in vitro ubiquitination assay showed that they function as E3 ubiquitin ligases and are capable of mediating DREB2A ubiquitination. Overexpression of DRIP1 in Arabidopsis delayed the expression of DREB2A-regulated drought-responsive genes. Drought-inducible gene expression was slightly enhanced in the single T-DNA mutants of drip1-1 and drip2-1. By contrast, significantly enhanced gene expression was revealed in the drip1 drip2 double mutant under dehydration stress. Collectively, these data imply that DRIP1 and DRIP2 function negatively in the response of plants to drought stress. Moreover, overexpression of full-length DREB2A protein was more stable in drip1-1 than in the wild-type background. These results suggest that DRIP1 and DRIP2 act as novel negative regulators in drought-responsive gene expression by targeting DREB2A to 26S proteasome proteolysis.
+
+-Arabidopsis (-genetics; +metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Blotting, Northern
+-Blotting, Western
++Droughts
+-Gene Expression Profiling
+-Gene Expression Regulation, Plant
+-Oligonucleotide Array Sequence Analysis
+-Plants, Genetically Modified (-genetics; -metabolism)
+-Protein Binding
+-Reverse Transcriptase Polymerase Chain Reaction
+-Transcription Factors (-genetics; +metabolism)
+-Two-Hybrid System Techniques
+-Ubiquitin-Protein Ligases (-genetics; +metabolism)
+
+pii:tpc.107.057380
+doi:10.1105/tpc.107.057380
+pubmed:18552202
+pmc:PMC2483357
+

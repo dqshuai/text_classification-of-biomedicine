@@ -1,0 +1,20 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Expanding wave solutions of the Einstein equations that induce an anomalous acceleration into the Standard Model of Cosmology.
+
+B Temple, J Smoller
+
+We derive a system of three coupled equations that implicitly defines a continuous one-parameter family of expanding wave solutions of the Einstein equations, such that the Friedmann universe associated with the pure radiation phase of the Standard Model of Cosmology is embedded as a single point in this family. By approximating solutions near the center to leading order in the Hubble length, the family reduces to an explicit one-parameter family of expanding spacetimes, given in closed form, that represents a perturbation of the Standard Model. By introducing a comoving coordinate system, we calculate the correction to the Hubble constant as well as the exact leading order quadratic correction to the redshift vs. luminosity relation for an observer at the center. The correction to redshift vs. luminosity entails an adjustable free parameter that introduces an anomalous acceleration. We conclude (by continuity) that corrections to the redshift vs. luminosity relation observed after the radiation phase of the Big Bang can be accounted for, at the leading order quadratic level, by adjustment of this free parameter. The next order correction is then a prediction. Since nonlinearities alone could actuate dissipation and decay in the conservation laws associated with the highly nonlinear radiation phase and since noninteracting expanding waves represent possible time-asymptotic wave patterns that could result, we propose to further investigate the possibility that these corrections to the Standard Model might be the source of the anomalous acceleration of the galaxies, an explanation not requiring the cosmological constant or dark energy.
+
++Algorithms
+-Astronomy (+methods; -statistics & numerical data)
++Galaxies
+-Gravitation
++Models, Statistical
+-Nonlinear Dynamics
+
+pii:0901627106
+doi:10.1073/pnas.0901627106
+pubmed:19706502
+pmc:PMC2732867
+

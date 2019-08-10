@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+X-linked inhibitor of apoptosis protein and its E3 ligase activity promote transforming growth factor-{beta}-mediated nuclear factor-{kappa}B activation during breast cancer progression.
+
+JR Neil, M Tian, WP Schiemann
+
+The precise sequence of events that enable mammary tumorigenesis to convert transforming growth factor-beta (TGF-beta) from a tumor suppressor to a tumor promoter remains incompletely understood. We show here that X-linked inhibitor of apoptosis protein (xIAP) is essential for the ability of TGF-beta to stimulate nuclear factor-kappaB (NF-kappaB) in metastatic 4T1 breast cancer cells. Indeed whereas TGF-beta suppressed NF-kappaB activity in normal mammary epithelial cells, those engineered to overexpress xIAP demonstrated activation of NF-kappaB when stimulated with TGF-beta. Additionally up-regulated xIAP expression also potentiated the basal and TGF-beta-stimulated transcriptional activities of Smad2/3 and NF-kappaB. Mechanistically xIAP (i) interacted physically with the TGF-beta type I receptor, (ii) mediated the ubiquitination of TGF-beta-activated kinase 1 (TAK1), and (iii) facilitated the formation of complexes between TAK1-binding protein 1 (TAB1) and IkappaB kinase beta that enabled TGF-beta to activate p65/RelA and to induce the expression of prometastatic (i.e. cyclooxygenase-2 and plasminogen activator inhibitor-1) and prosurvival (i.e. survivin) genes. We further observed that inhibiting the E3 ubiquitin ligase function of xIAP or expressing a mutant ubiquitin protein (i.e. K63R-ubiquitin) was capable of blocking xIAP- and TGF-beta-mediated activation of NF-kappaB. Functionally xIAP deficiency dramatically reduced the coupling of TGF-beta to Smad2/3 in NMuMG cells as well as inhibited their expression of mesenchymal markers in response to TGF-beta. More importantly, xIAP deficiency also abrogated the formation of TAB1.IkappaB kinase beta complexes in 4T1 breast cancer cells, thereby diminishing their activation of NF-kappaB, their expression of prosurvival/metastatic genes, their invasion through synthetic basement membranes, and their growth in soft agar. Collectively our findings have defined a novel role for xIAP in mediating oncogenic signaling by TGF-beta in breast cancer cells.
+
+-Animals
+-Breast Neoplasms (+metabolism; -pathology)
+-Cell Line, Tumor
+-Disease Progression
++Gene Expression Regulation, Neoplastic
+-Humans
+-Mammary Neoplasms, Animal (+metabolism)
+-Mice
+-Models, Biological
+-NF-kappa B (-metabolism)
+-Neoplasm Metastasis
+-Transforming Growth Factor beta (+metabolism)
+-Ubiquitin (-metabolism)
+-Ubiquitin-Protein Ligases (+metabolism)
+-X-Linked Inhibitor of Apoptosis Protein (+biosynthesis)
+
+pii:M109.018374
+doi:10.1074/jbc.M109.018374
+pubmed:19531477
+pmc:PMC2755844
+

@@ -1,0 +1,31 @@
+Science
+
+Complete resequencing of 40 genomes reveals domestication events and genes in silkworm (Bombyx).
+
+Q Xia, Y Guo, Z Zhang, D Li, Z Xuan, Z Li, F Dai, Y Li, D Cheng, R Li, T Cheng, T Jiang, C Becquet, X Xu, C Liu, X Zha, W Fan, Y Lin, Y Shen, L Jiang, J Jensen, I Hellmann, S Tang, P Zhao, H Xu, C Yu, G Zhang, J Li, J Cao, S Liu, N He, Y Zhou, H Liu, J Zhao, C Ye, Z Du, G Pan, A Zhao, H Shao, W Zeng, P Wu, C Li, M Pan, J Li, X Yin, D Li, J Wang, H Zheng, W Wang, X Zhang, S Li, H Yang, C Lu, R Nielsen, Z Zhou, J Wang, Z Xiang, J Wang
+
+A single-base pair resolution silkworm genetic variation map was constructed from 40 domesticated and wild silkworms, each sequenced to approximately threefold coverage, representing 99.88% of the genome. We identified ~16 million single-nucleotide polymorphisms, many indels, and structural variations. We find that the domesticated silkworms are clearly genetically differentiated from the wild ones, but they have maintained large levels of genetic variability, suggesting a short domestication event involving a large number of individuals. We also identified signals of selection at 354 candidate genes that may have been important during domestication, some of which have enriched expression in the silk gland, midgut, and testis. These data add to our understanding of the domestication processes and may have applications in devising pest control strategies and advancing the use of silkworms as efficient bioreactors.
+
+-Animals
+-Bombyx (-classification; +genetics)
+-Digestive System (-metabolism)
+-Exocrine Glands (-metabolism)
+-Female
+-Gene Expression
++Genes, Insect
++Genetic Variation
++Genome, Insect
+-INDEL Mutation
+-Linkage Disequilibrium
+-Male
+-Phylogeny
+-Polymorphism, Single Nucleotide
+-Principal Component Analysis
+-Selection, Genetic
++Sequence Analysis, DNA
+-Testis (-metabolism)
+
+pii:1176620
+doi:10.1126/science.1176620
+pubmed:19713493
+

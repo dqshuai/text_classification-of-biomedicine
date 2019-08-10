@@ -1,0 +1,30 @@
+FEBS J.
+
+The effect of hfq on global gene expression and virulence in Neisseria gonorrhoeae.
+
+M Dietrich, R Munke, M Gottschald, E Ziska, JP Boettcher, H Mollenkopf, A Friedrich
+
+Hfq is an RNA chaperone that functions as a pleiotropic regulator for RNA metabolism in bacteria. In several pathogenic bacteria, Hfq contributes indirectly to virulence by binding to riboregulators that modulate the stability or translation efficiency of RNA transcripts. To characterize the role of Hfq in the pathogenicity of Neisseria gonorrhoeae, we generated an N. gonorrhoeae hfq mutant. Infectivity and global changes in gene expression caused by the hfq mutation in N. gonorrhoeae strain MS11 were analyzed. Transcriptional analysis using a custom-made N. gonorrhoeae microarray revealed that 369 ORFs were differentially regulated in the hfq mutant, MS11hfq, in comparison with the wild-type strain (202 were upregulated, and 167 were downregulated). The loss-of-function mutation in hfq led to pleiotropic phenotypic effects, including an altered bacterial growth rate and reduced adherence to epithelial cells. Twitching motility and microcolony formation were not affected. Hfq also appears to play a minor role in inducing the inflammatory response of infected human epithelial cells. Interleukin-8 production was slightly decreased, and activation of c-Jun N-terminal kinase, a mitogen-activated protein kinase, was reduced in MS11hfq-infected epithelial cells in comparison with wild type-infected cells. However, activation of nuclear factor kappa B, extracellular signal-regulated kinase 1/2 and p38 remained unchanged. The data presented suggest that Hfq plays an important role as a post-transcriptional regulator in N. gonorrhoeae strain MS11 but does not contribute significantly to its virulence in cell culture models.
+
+-Bacterial Adhesion (-genetics; -physiology)
+-Cell Line
+-Epithelial Cells (-immunology; -microbiology)
+-Gene Expression
++Genes, Bacterial
+-Genetic Complementation Test
+-Host Factor 1 Protein (+genetics; -metabolism)
+-Humans
+-Interleukin-8 (-biosynthesis)
+-Microscopy, Electron, Transmission
+-Mutagenesis
+-Mutation
+-Neisseria gonorrhoeae (+genetics; +pathogenicity; -physiology; -ultrastructure)
+-RNA Processing, Post-Transcriptional
+-RNA, Bacterial (-genetics; -metabolism)
+-Recombinant Proteins (-genetics; -metabolism)
+-Virulence (-genetics)
+
+pii:EJB7234
+doi:10.1111/j.1742-4658.2009.07234.x
+pubmed:19691497
+

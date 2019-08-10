@@ -1,0 +1,30 @@
+Mol. Biol. Cell
+
+Dissection of a hypoxia-induced, nitric oxide-mediated signaling cascade.
+
+PF Dijkers, PH O'Farrell
+
+Befitting oxygen's key role in life's processes, hypoxia engages multiple signaling systems that evoke pervasive adaptations. Using surrogate genetics in a powerful biological model, we dissect a poorly understood hypoxia-sensing and signal transduction system. Hypoxia triggers NO-dependent accumulation of cyclic GMP and translocation of cytoplasmic GFP-Relish (an NFkappaB/Rel transcription factor) to the nucleus in Drosophila S2 cells. An enzyme capable of eliminating NO interrupted signaling specifically when it was targeted to the mitochondria, arguing for a mitochondrial NO signal. Long pretreatment with an inhibitor of nitric oxide synthase (NOS), L-NAME, blocked signaling. However, addition shortly before hypoxia was without effect, suggesting that signaling is supported by the prior action of NOS and is independent of NOS action during hypoxia. We implicated the glutathione adduct, GSNO, as a signaling mediator by showing that overexpression of the cytoplasmic enzyme catalyzing its destruction, GSNOR, blocks signaling, whereas knockdown of this activity caused reporter translocation in the absence of hypoxia. In downstream steps, cGMP accumulated, and calcium-dependent signaling was subsequently activated via cGMP-dependent channels. These findings reveal the use of unconventional steps in an NO pathway involved in sensing hypoxia and initiating signaling.
+
+-Animals
+-Calcium Signaling (-drug effects)
+-Cell Hypoxia (-drug effects)
+-Cell Line
+-Cyclic GMP (-metabolism)
+-Drosophila melanogaster (-cytology; -drug effects; -metabolism)
+-Free Radical Scavengers (-pharmacology)
+-Ion Channel Gating (-drug effects)
+-Ion Channels (-metabolism)
+-Mitochondria (-drug effects; -metabolism)
+-Models, Biological
+-Nitric Oxide (+metabolism)
+-Protein Transport (-drug effects)
+-Proto-Oncogene Proteins c-rel (-metabolism)
+-S-Nitrosoglutathione (-pharmacology)
++Signal Transduction (-drug effects)
+
+pii:E09-05-0362
+doi:10.1091/mbc.E09-05-0362
+pubmed:19625446
+pmc:PMC2743626
+

@@ -1,0 +1,25 @@
+PLoS Genet.
+
+The fission yeast homeodomain protein Yox1p binds to MBF and confines MBF-dependent cell-cycle transcription to G1-S via negative feedback.
+
+S Aligianni, DH Lackner, S Klier, G Rustici, BT Wilhelm, S Marguerat, S Codlin, A Brazma, RA de Bruin, J Bähler
+
+The regulation of the G1- to S-phase transition is critical for cell-cycle progression. This transition is driven by a transient transcriptional wave regulated by transcription factor complexes termed MBF/SBF in yeast and E2F-DP in mammals. Here we apply genomic, genetic, and biochemical approaches to show that the Yox1p homeodomain protein of fission yeast plays a critical role in confining MBF-dependent transcription to the G1/S transition of the cell cycle. The yox1 gene is an MBF target, and Yox1p accumulates and preferentially binds to MBF-regulated promoters, via the MBF components Res2p and Nrm1p, when they are transcriptionally repressed during the cell cycle. Deletion of yox1 results in constitutively high transcription of MBF target genes and loss of their cell cycle-regulated expression, similar to deletion of nrm1. Genome-wide location analyses of Yox1p and the MBF component Cdc10p reveal dozens of genes whose promoters are bound by both factors, including their own genes and histone genes. In addition, Cdc10p shows promiscuous binding to other sites, most notably close to replication origins. This study establishes Yox1p as a new regulatory MBF component in fission yeast, which is transcriptionally induced by MBF and in turn inhibits MBF-dependent transcription. Yox1p may function together with Nrm1p to confine MBF-dependent transcription to the G1/S transition of the cell cycle via negative feedback. Compared to the orthologous budding yeast Yox1p, which indirectly functions in a negative feedback loop for cell-cycle transcription, similarities but also notable differences in the wiring of the regulatory circuits are evident.
+
++Cell Cycle
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Down-Regulation
++Feedback, Physiological
+-Gene Expression Regulation, Fungal
+-Homeodomain Proteins (-genetics; +metabolism)
+-Promoter Regions, Genetic
+-Protein Binding
+-Schizosaccharomyces (+cytology; -genetics; +metabolism)
+-Schizosaccharomyces pombe Proteins (-genetics; +metabolism)
+-Transcription Factors (-genetics; +metabolism)
+-Transcription, Genetic
+
+doi:10.1371/journal.pgen.1000626
+pubmed:19714215
+pmc:PMC2726434
+

@@ -1,0 +1,25 @@
+Biochemistry
+
+Evidence for conformational heterogeneity of fission protein Fis1 from Saccharomyces cerevisiae.
+
+LK Picton, S Casares, AC Monahan, A Majumdar, RB Hill
+
+Fission 1 (Fis1) is an evolutionarily conserved, type II integral membrane protein implicated in maintaining the proper morphology of mitochondria and peroxisomes. A concave surface on the cytosolic domain of Fis1 from Saccharomyces cerevisiae is implicated in binding other fission proteins, yet structural studies reveal that this surface is sterically occluded by its N-terminal arm. Here we address the question of whether the N-terminal arm of yeast Fis1 exists in a dynamic equilibrium that would allow access to this functionally important surface. NMR measurements sensitive to dynamics occurring on a wide range of time scales (picoseconds to minutes) were used to assess whether the Fis1 arm is dynamic. Hydrogen-deuterium exchange experiments revealed that the Fis1 arm, alpha-helix 6, and proximal loops were not protected from solvent exchange, consistent with motions on the second to minute time scale. An engineered cysteine, I85C, located on the concave surface that lies underneath the Fis1 arm, was readily modified by a fluorescent probe, revealing more solvent accessibility of this position than would be predicted from the structure. Chemical denaturation, NMR chemical shift perturbation, and residual dipolar coupling experiments support the idea that the dynamic equilibrium can be shifted on the basis of changing pH and temperature, with the changes primarily localizing to the Fis1 arm and proximal regions. The data as a whole are consistent with the Fis1 arm adopting a primarily "closed" conformational state able to undergo dynamic excursions that reveal the concave surface and therefore may be important for binding other fission factors and for Fis1 function.
+
+-Amino Acids (-metabolism)
+-Hydrogen-Ion Concentration
+-Magnetic Resonance Spectroscopy
+-Mitochondrial Proteins (+chemistry; -metabolism)
+-Mutant Proteins (-chemistry; -metabolism)
+-Protein Conformation
+-Protein Denaturation
+-Saccharomyces cerevisiae (+metabolism)
+-Saccharomyces cerevisiae Proteins (+chemistry; -metabolism)
+-Temperature
+-Thermodynamics
+
+doi:10.1021/bi802221h
+pubmed:19522466
+mid:NIHMS158511
+pmc:PMC2785846
+

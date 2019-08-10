@@ -1,0 +1,28 @@
+PLoS ONE
+
+Delineating bacteriostatic and bactericidal targets in mycobacteria using IPTG inducible antisense expression.
+
+P Kaur, S Agarwal, S Datta
+
+In order to identify novel high value antibacterial targets it is desirable to delineate whether the inactivation of the target enzyme will lead to bacterial death or stasis. This knowledge is particularly important in slow growing organisms, like mycobacteria, where most of the viable anti-tubercular agents are bactericidal. A bactericidal target can be identified through the conditional deletion or inactivation of the target gene at a relatively high cell number and subsequently following the time course of survival for the bacteria. A simple protocol to execute conditional inactivation of a gene is by antisense expression. We have developed a mycobacteria specific IPTG inducible vector system and monitored the effect of antisense inhibition of several known essential genes in mycobacteria by following their survival kinetics. By this method, we could differentiate between genes whose down regulation lead to bacteriostatic or bactericidal effect. Targets for standard anti-tubercular drugs like inhA for isoniazid, rpoB and C for rifampicin, and gyr A/B for flouroquinolones were shown to be bactericidal. In contrast targets like FtsZ behaved in a bacteriostatic manner. Induction of antisense expression in embB and ribosomal RNA genes, viz., rplJ and rpsL showed only a marginal growth inhibition. The specificity of the antisense inhibition was conclusively shown in the case of auxotrophic gene ilvB. The bactericidal activity following antisense expression of ilvB was completely reversed when the growth media was supplemented with the isoleucine, leucine, valine and pantothenate. Additionally, under these conditions the expression of several genes in branched chain amino acid pathway was severely suppressed indicating targeted gene inactivation.
+
+-Anti-Bacterial Agents (+pharmacology)
+-Antitubercular Agents (-pharmacology)
+-Bacterial Proteins (-metabolism)
+-Cloning, Molecular
+-Fluoroquinolones (-pharmacology)
+-Gene Expression Regulation, Bacterial (-drug effects)
+-Isoniazid (-pharmacology)
+-Isopropyl Thiogalactoside (+pharmacology)
+-Kinetics
+-Mycobacterium (+metabolism)
+-Mycobacterium tuberculosis (-drug effects; -metabolism)
+-Oligonucleotides, Antisense (-chemistry; +pharmacology)
+-Plasmids (-metabolism)
+-Repressor Proteins (-metabolism)
+-Rifampin (-pharmacology)
+
+doi:10.1371/journal.pone.0005923
+pubmed:19526063
+pmc:PMC2691988
+

@@ -1,0 +1,26 @@
+PLoS ONE
+
+The probability to initiate X chromosome inactivation is determined by the X to autosomal ratio and X chromosome specific allelic properties.
+
+K Monkhorst, B de Hoon, I Jonkers, E Mulugeta Achame, W Monkhorst, J Hoogerbrugge, E Rentmeester, HV Westerhoff, F Grosveld, JA Grootegoed, J Gribnau
+
+BACKGROUND: In female mammalian cells, random X chromosome inactivation (XCI) equalizes the dosage of X-encoded gene products to that in male cells. XCI is a stochastic process, in which each X chromosome has a probability to be inactivated. To obtain more insight in the factors setting up this probability, we studied the role of the X to autosome (X ratio A) ratio in initiation of XCI, and have used the experimental data in a computer simulation model to study the cellular population dynamics of XCI. METHODOLOGY/PRINCIPAL FINDINGS: To obtain more insight in the role of the XratioA ratio in initiation of XCI, we generated triploid mouse ES cells by fusion of haploid round spermatids with diploid female and male ES cells. These fusion experiments resulted in only XXY triploid ES cells. XYY and XXX ES lines were absent, suggesting cell death related either to insufficient X-chromosomal gene dosage (XYY) or to inheritance of an epigenetically modified X chromosome (XXX). Analysis of active (Xa) and inactive (Xi) X chromosomes in the obtained triploid XXY lines indicated that the initiation frequency of XCI is low, resulting in a mixed population of XaXiY and XaXaY cells, in which the XaXiY cells have a small proliferative advantage. This result, and findings on XCI in diploid and tetraploid ES cell lines with different X ratio A ratios, provides evidence that the X ratio A ratio determines the probability for a given X chromosome to be inactivated. Furthermore, we found that the kinetics of the XCI process can be simulated using a probability for an X chromosome to be inactivated that is proportional to the X ratio A ratio. These simulation studies re-emphasize our hypothesis that the probability is a function of the concentration of an X-encoded activator of XCI, and of X chromosome specific allelic properties determining the threshold for this activator. CONCLUSIONS: The present findings reveal that the probability for an X chromosome to be inactivated is proportional to the X ratio A ratio. This finding supports the presence of an X-encoded activator of the XCI process.
+
++Alleles
+-Animals
+-Cells, Cultured
+-Female
+-Genes, X-Linked (+genetics)
+-In Situ Hybridization, Fluorescence
+-Karyotyping
+-Male
+-Mice
+-Polyploidy
+-Reverse Transcriptase Polymerase Chain Reaction
+-X Chromosome (+genetics)
+-X Chromosome Inactivation (+genetics)
+
+doi:10.1371/journal.pone.0005616
+pubmed:19440388
+pmc:PMC2680018
+

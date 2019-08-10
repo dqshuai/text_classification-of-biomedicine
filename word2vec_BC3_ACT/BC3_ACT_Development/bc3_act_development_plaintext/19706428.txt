@@ -1,0 +1,33 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+STIM1 and calmodulin interact with Orai1 to induce Ca2+-dependent inactivation of CRAC channels.
+
+FM Mullins, CY Park, RE Dolmetsch, RS Lewis
+
+Ca(2+)-dependent inactivation (CDI) is a key regulator and hallmark of the Ca(2+) release-activated Ca(2+) (CRAC) channel, a prototypic store-operated Ca(2+) channel. Although the roles of the endoplasmic reticulum Ca(2+) sensor STIM1 and the channel subunit Orai1 in CRAC channel activation are becoming well understood, the molecular basis of CDI remains unclear. Recently, we defined a minimal CRAC activation domain (CAD; residues 342-448) that binds directly to Orai1 to activate the channel. Surprisingly, CAD-induced CRAC currents lack fast inactivation, revealing a critical role for STIM1 in this gating process. Through truncations of full-length STIM1, we identified a short domain (residues 470-491) C-terminal to CAD that is required for CDI. This domain contains a cluster of 7 acidic amino acids between residues 475 and 483. Neutralization of aspartate or glutamate pairs in this region either reduced or enhanced CDI, whereas the combined neutralization of six acidic residues eliminated inactivation entirely. Based on bioinformatics predictions of a calmodulin (CaM) binding site on Orai1, we also investigated a role for CaM in CDI. We identified a membrane-proximal N-terminal domain of Orai1 (residues 68-91) that binds CaM in a Ca(2+)-dependent manner and mutations that eliminate CaM binding abrogate CDI. These studies identify novel structural elements of STIM1 and Orai1 that are required for CDI and support a model in which CaM acts in concert with STIM1 and the N terminus of Orai1 to evoke rapid CRAC channel inactivation.
+
+-Calcium Channels (+metabolism)
+-Calmodulin (+metabolism)
+-Cell Line
+-Computational Biology
+-DNA Primers (-genetics)
+-DNA, Complementary (-genetics)
+-Electrophysiology
+-Humans
+-Immunoblotting
+-Immunoprecipitation
+-Ion Channel Gating (+physiology)
+-Membrane Proteins (+metabolism)
+-Models, Biological
+-Mutagenesis
+-Neoplasm Proteins (+metabolism)
+-Plasmids (-genetics)
+-Protein Binding
+-Protein Structure, Tertiary (-genetics)
+-Transfection
+
+pii:0906781106
+doi:10.1073/pnas.0906781106
+pubmed:19706428
+pmc:PMC2741279
+

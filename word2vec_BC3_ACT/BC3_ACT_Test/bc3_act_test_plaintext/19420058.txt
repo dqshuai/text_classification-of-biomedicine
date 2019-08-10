@@ -1,0 +1,19 @@
+Nucleic Acids Res.
+
+BioMart Central Portal--unified access to biological data.
+
+S Haider, B Ballester, D Smedley, J Zhang, P Rice, A Kasprzyk
+
+BioMart Central Portal (www.biomart.org) offers a one-stop shop solution to access a wide array of biological databases. These include major biomolecular sequence, pathway and annotation databases such as Ensembl, Uniprot, Reactome, HGNC, Wormbase and PRIDE; for a complete list, visit, http://www.biomart.org/biomart/martview. Moreover, the web server features seamless data federation making cross querying of these data sources in a user friendly and unified way. The web server not only provides access through a web interface (MartView), it also supports programmatic access through a Perl API as well as RESTful and SOAP oriented web services. The website is free and open to all users and there is no login requirement.
+
+-Biology
++Databases, Genetic
+-Internet
++Software
+-User-Computer Interface
+
+pii:gkp265
+doi:10.1093/nar/gkp265
+pubmed:19420058
+pmc:PMC2703988
+

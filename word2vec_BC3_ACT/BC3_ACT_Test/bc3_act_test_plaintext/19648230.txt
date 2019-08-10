@@ -1,0 +1,33 @@
+Plant Physiol.
+
+CHOTTO1, a putative double APETALA2 repeat transcription factor, is involved in abscisic acid-mediated repression of gibberellin biosynthesis during seed germination in Arabidopsis.
+
+R Yano, Y Kanno, Y Jikumaru, K Nakabayashi, Y Kamiya, E Nambara
+
+The phytohormones abscisic acid (ABA) and gibberellins (GAs) are the primary signals that regulate seed dormancy and germination. In this study, we investigated the role of a double APETALA2 repeat transcription factor, CHOTTO1 (CHO1), in seed dormancy, germination, and phytohormone metabolism of Arabidopsis (Arabidopsis thaliana). Wild-type seeds were dormant when freshly harvested seeds were sown, and these seeds were released from dormancy after a particular period of dry storage (after-ripening). The cho1 mutant seeds germinated easily even in a shorter period of storage than wild-type seeds. The cho1 mutants showed reduced responsiveness to ABA, whereas transgenic plants constitutively expressing CHO1 (p35SCHO1) showed an opposite phenotype. Notably, after-ripening reduced the ABA responsiveness of the wild type, cho1 mutants, and p35SCHO1 lines. Hormone profiling demonstrated that after-ripening treatment decreased the levels of ABA and salicylic acid and increased GA(4), jasmonic acid, and isopentenyl adenine when wild-type seeds were imbibed. Expression analysis showed that the transcript levels of genes for ABA and GA metabolism were altered in the wild type by after-ripening. Hormone profiling and expression analyses indicate that cho1 seeds, with a short period of storage, resembled fully after-ripened wild-type seeds. Genetic analysis showed that the cho1 mutation partially restored delayed seed germination and reduced GA biosynthesis activity in the ABA-overaccumulating cyp707a2-1 mutant background but did not restore seed germination in the GA-deficient ga1-3 mutant background. These results indicate that CHO1 acts downstream of ABA to repress GA biosynthesis during seed germination.
+
+-Abscisic Acid (+metabolism)
+-Arabidopsis (-genetics; +growth & development)
+-Arabidopsis Proteins (-chemistry; -genetics; +metabolism)
+-Base Sequence
+-Electrophoretic Mobility Shift Assay
+-Gene Expression Regulation, Plant
++Germination
+-Gibberellins (+biosynthesis)
+-Glucuronidase (-metabolism)
+-Homeodomain Proteins (+chemistry)
+-Molecular Sequence Data
+-Mutation (-genetics)
+-Nuclear Proteins (+chemistry)
+-Plant Growth Regulators (-metabolism)
+-Protein Structure, Tertiary
+-Regulatory Sequences, Nucleic Acid (-genetics)
+-Repetitive Sequences, Amino Acid
+-Seeds (-genetics; +growth & development; -metabolism)
+-Transcription Factors (-genetics; +metabolism)
+
+pii:pp.109.142018
+doi:10.1104/pp.109.142018
+pubmed:19648230
+pmc:PMC2754653
+

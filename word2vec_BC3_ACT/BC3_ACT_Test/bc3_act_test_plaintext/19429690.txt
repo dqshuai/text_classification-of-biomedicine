@@ -1,0 +1,28 @@
+Nucleic Acids Res.
+
+Molecular characterization of SMILE as a novel corepressor of nuclear receptors.
+
+YB Xie, B Nedumaran, HS Choi
+
+SMILE (small heterodimer partner interacting leucine zipper protein) has been identified as a coregulator in ER signaling. In this study, we have examined the effects of SMILE on other NRs (nuclear receptors). SMILE inhibits GR, CAR and HNF4 alpha-mediated transactivation. Knockdown of SMILE gene expression increases the transactivation of the NRs. SMILE interacts with GR, CAR and HNF4 alpha in vitro and in vivo. SMILE and these NRs colocalize in the nucleus. SMILE binds to the ligand-binding domain or AF2 domain of the NRs. Competitions between SMILE and the coactivators GRIP1 or PGC-1 alpha have been demonstrated in vitro and in vivo. Furthermore, an intrinsic repressive activity of SMILE is observed in Gal4-fusion system, and the intrinsic repressive domain is mapped to the C-terminus of SMILE, spanning residues 203-354. Moreover, SMILE interacts with specific HDACs (histone deacetylases) and SMILE-mediated repression is released by HDAC inhibitor trichostatin A, in a NR-specific manner. Finally, ChIP (chromatin immunoprecipitation) assays reveal that SMILE associates with the NRs on the target gene promoters. Adenoviral overexpression of SMILE represses GR-, CAR- and HNF4 alpha-mediated target gene expression. Overall, these results suggest that SMILE functions as a novel corepressor of NRs via competition with coactivators and the recruitment of HDACs.
+
+-Adenoviridae (-genetics)
+-Basic-Leucine Zipper Transcription Factors (-antagonists & inhibitors; -chemistry; +metabolism)
+-Cell Line
++Gene Expression Regulation
+-Hepatocyte Nuclear Factor 4 (-antagonists & inhibitors; -metabolism)
+-Histone Deacetylases (-metabolism)
+-Humans
+-Protein Interaction Domains and Motifs
+-Protein Multimerization
+-Receptors, Cytoplasmic and Nuclear (+antagonists & inhibitors; -metabolism)
+-Receptors, Glucocorticoid (-antagonists & inhibitors; -metabolism)
+-Repressor Proteins (-chemistry; +metabolism)
+-Trans-Activators (-metabolism)
+-Transcriptional Activation
+
+pii:gkp333
+doi:10.1093/nar/gkp333
+pubmed:19429690
+pmc:PMC2709580
+

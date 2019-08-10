@@ -1,0 +1,21 @@
+J. Mol. Biol.
+
+Identification of interacting regions within the coiled coil of the Escherichia coli structural maintenance of chromosomes protein MukB.
+
+Y Li, CS Weitzel, RJ Arnold, MG Oakley
+
+MukB, a divergent structural maintenance of chromosomes (SMC) protein, is important for chromosome segregation and condensation in Escherichia coli and other gamma-proteobacteria. MukB and canonical SMC proteins share a common five-domain structure in which globular N- and C-terminal regions combine to form an ABC-like ATPase domain. This ATPase domain is connected to a central, globular dimerization domain, commonly called the "hinge" domain, by a long antiparallel coiled coil. Although the ATPase and hinge domains of SMC proteins have been the subject of extensive investigation, little is known about the coiled coil, in spite of its clear importance for SMC function. This limited knowledge is primarily due to a lack of structural information. We report here the first experimental constraints on the relative alignment of the N- and C-terminal halves of the MukB coiled coil, obtained by a combination of limited proteolysis and site-directed cross-linking approaches. Using these experimental constraints, phylogenetic data, and coiled-coil prediction algorithms, we propose a pairing scheme for the discontinuous segments in the coiled coil. This structural model will not only facilitate the study of the physiological role of this unusually long and flexible antiparallel coiled coil but also help to delineate the boundaries between MukB domains.
+
+-Chromosomal Proteins, Non-Histone (+chemistry; -genetics; +metabolism)
+-Escherichia coli (-chemistry; -genetics; +physiology)
+-Escherichia coli Proteins (+chemistry; -genetics; +metabolism)
+-Models, Molecular
+-Mutagenesis, Site-Directed
+-Protein Conformation
++Protein Interaction Domains and Motifs
+-Protein Structure, Tertiary
+
+pii:S0022-2836(09)00652-4
+doi:10.1016/j.jmb.2009.05.070
+pubmed:19482037
+

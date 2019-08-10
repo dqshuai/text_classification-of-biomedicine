@@ -1,0 +1,25 @@
+J. Biol. Chem.
+
+Spontaneous assembly of photosynthetic supramolecular complexes as mediated by the intrinsically unstructured protein CP12.
+
+L Marri, P Trost, X Trivelli, L Gonnelli, P Pupillo, F Sparla
+
+CP12 is a protein of 8.7 kDa that contributes to Calvin cycle regulation by acting as a scaffold element in the formation of a supramolecular complex with glyceraldehyde-3-phosphate dehydrogenase (GAPDH) and phosphoribulokinase (PRK) in photosynthetic organisms. NMR studies of recombinant CP12 (isoform 2) of Arabidopsis thaliana show that CP12-2 is poorly structured. CP12-2 is monomeric in solution and contains four cysteines, which can form two intramolecular disulfides with midpoint redox potentials of -326 and -352 mV, respectively, at pH 7.9. Site-specific mutants indicate that the C-terminal disulfide is involved in the interaction between CP12-2 and GAPDH (isoform A(4)), whereas the N-terminal disulfide is involved in the interaction between this binary complex and PRK. In the presence of NAD, oxidized CP12-2 interacts with A(4)-GAPDH (K(D) = 0.18 microm) to form a binary complex of 170 kDa with (A(4)-GAPDH)-(CP12-2)(2) stoichiometry, as determined by isothermal titration calorimetry and multiangle light scattering analysis. PRK is a dimer and by interacting with this binary complex (K(D) = 0.17 microm) leads to a 498-kDa ternary complex constituted by two binary complexes and two PRK dimers, i.e. ((A(4)-GAPDH)-(CP12-2)(2)-(PRK))(2). Thermodynamic parameters indicate that assembly of both binary and ternary complexes is exoergonic although penalized by a decrease in entropy that suggests an induced folding of CP12-2 upon binding to partner proteins. The redox dependence of events leading to supramolecular complexes is consistent with a role of CP12 in coordinating the reversible inactivation of chloroplast enzymes A(4)-GAPDH and PRK during darkness in photosynthetic tissues.
+
+-Arabidopsis (-genetics; +metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Glyceraldehyde-3-Phosphate Dehydrogenases (-genetics; -metabolism)
+-Isoenzymes (-genetics; -metabolism)
+-Mutagenesis, Site-Directed
+-Mutation, Missense
+-Oxidation-Reduction
+-Phosphotransferases (Alcohol Group Acceptor) (-genetics; -metabolism)
+-Photosynthesis (+physiology)
+-Photosynthetic Reaction Center Complex Proteins (-genetics; +metabolism)
+-Plant Proteins (-genetics; +metabolism)
+-Protein Binding (-genetics)
+
+pii:M705650200
+doi:10.1074/jbc.M705650200
+pubmed:17947231
+

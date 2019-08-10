@@ -1,0 +1,22 @@
+PLoS Biol.
+
+Dual regulation by pairs of cyclin-dependent protein kinases and histone deacetylases controls G1 transcription in budding yeast.
+
+D Huang, S Kaluarachchi, D van Dyk, H Friesen, R Sopko, W Ye, N Bastajian, J Moffat, H Sassi, M Costanzo, BJ Andrews
+
+START-dependent transcription in Saccharomyces cerevisiae is regulated by two transcription factors SBF and MBF, whose activity is controlled by the binding of the repressor Whi5. Phosphorylation and removal of Whi5 by the cyclin-dependent kinase (CDK) Cln3-Cdc28 alleviates the Whi5-dependent repression on SBF and MBF, initiating entry into a new cell cycle. This Whi5-SBF/MBF transcriptional circuit is analogous to the regulatory pathway in mammalian cells that features the E2F family of G1 transcription factors and the retinoblastoma tumor suppressor protein (Rb). Here we describe genetic and biochemical evidence for the involvement of another CDK, Pcl-Pho85, in regulating G1 transcription, via phosphorylation and inhibition of Whi5. We show that a strain deleted for both PHO85 and CLN3 has a slow growth phenotype, a G1 delay, and is severely compromised for SBF-dependent reporter gene expression, yet all of these defects are alleviated by deletion of WHI5. Our biochemical and genetic tests suggest Whi5 mediates repression in part through interaction with two histone deacetylases (HDACs), Hos3 and Rpd3. In a manner analogous to cyclin D/CDK4/6, which phosphorylates Rb in mammalian cells disrupting its association with HDACs, phosphorylation by the early G1 CDKs Cln3-Cdc28 and Pcl9-Pho85 inhibits association of Whi5 with the HDACs. Contributions from multiple CDKs may provide the precision and accuracy necessary to activate G1 transcription when both internal and external cues are optimal.
+
+-CDC28 Protein Kinase, S cerevisiae (-metabolism)
+-Cyclin-Dependent Kinases (+metabolism)
+-Cyclins (+metabolism)
+-G1 Phase (-drug effects; +physiology)
+-Histone Deacetylases (+metabolism)
+-Repressor Proteins (+metabolism)
+-Saccharomyces cerevisiae (+growth & development)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+-Transcription Factors (-metabolism)
+
+doi:10.1371/journal.pbio.1000188
+pubmed:19823668
+pmc:PMC2730531
+

@@ -1,0 +1,26 @@
+Biochemistry
+
+Ternary complexes of iron, amyloid-beta, and nitrilotriacetic acid: binding affinities, redox properties, and relevance to iron-induced oxidative stress in Alzheimer's disease.
+
+D Jiang, X Li, R Williams, S Patel, L Men, Y Wang, F Zhou
+
+The interaction of amyloid-beta (Abeta) and redox-active metals, two important biomarkers present in the senile plaques of Alzheimer's disease (AD) brain, has been suggested to enhance the Abeta aggregation or facilitate the generation of reactive oxygen species (ROS). This study investigates the nature of the interaction between the metal-binding domain of Abeta, viz., Abeta(1-16), and the Fe(III) or Fe(II) complex with nitrilotriacetic acid (NTA). Using electrospray ionization mass spectrometry (ESI-MS), the formation of a ternary complex of Abeta(1-16), Fe(III), and NTA with a stoichiometry of 1:1:1 was identified. MS also revealed that the NTA moiety can be detached via collision-induced dissociation. The cumulative dissociation constants of both Abeta-Fe(III)-NTA and Abeta-Fe(II)-NTA complexes were deduced to be 6.3 x 10(-21) and 5.0 x 10(-12) M(2), respectively, via measurement of the fluorescence quenching of the sole tyrosine residue on Abeta upon formation of the complex. The redox properties of these two complexes were investigated by cyclic voltammetry. The redox potential of the Abeta-Fe(III)-NTA complex was found to be 0.03 V versus Ag/AgCl, which is negatively shifted by 0.54 V when compared to the redox potential of free Fe(III)/Fe(II). Despite such a large potential modulation, the redox potential of the Abeta-Fe(III)-NTA complex is still sufficiently high for a range of redox reactions with cellular species to occur. The Abeta-Fe(II)-NTA complex electrogenerated from the Abeta-Fe(III)-NTA complex was also found to catalyze the reduction of oxygen to produce H(2)O(2). These findings provide significant insight into the role of iron and Abeta in the development of AD. The binding of iron by Abeta modulates the redox potential to a level at which its redox cycling occurs. In the presence of a biological reductant (antioxidant), redox cycling of iron could disrupt the redox balance within the cellular milieu. As a consequence, not only is ROS continuously produced, but oxygen and biological reductants can also be depleted. A cascade of biological processes can therefore be affected. In addition, the strong binding affinity of Abeta toward Fe(III) and Fe(II) indicates Abeta could compete for iron against other iron-containing proteins. In particular, its strong affinity for Fe(II), which is 8 orders of magnitude stronger than that of transferrin, would greatly interfere with iron homeostasis.
+
+-Alzheimer Disease (+metabolism; -pathology)
+-Amino Acid Sequence
+-Amyloid beta-Protein (+chemistry; +metabolism)
+-Binding Sites
+-Ferric Compounds (+chemistry; +metabolism)
+-Ferrous Compounds (-chemistry; -metabolism)
+-Humans
+-Hydrogen-Ion Concentration
+-Molecular Sequence Data
+-Nitrilotriacetic Acid (-chemistry; +metabolism)
+-Oxidation-Reduction
+-Oxidative Stress (+physiology)
+
+doi:10.1021/bi900907a
+pubmed:19601593
+mid:NIHMS133559
+pmc:PMC2757041
+

@@ -1,0 +1,23 @@
+Biophys. J.
+
+Random walk simulation of the MRI apparent diffusion coefficient in a geometrical model of the acinar tree.
+
+JM Pérez-Sánchez, I Rodríguez, J Ruiz-Cabello
+
+Apparent diffusion coefficient (ADC) measurement in the lung using gas magnetic resonance imaging is a promising technique with potential for reflecting changes in lung microstructure. Despite some recent impressive human applications, full interpretation of ADC measures remains an elusive goal, due to a lack of detailed knowledge about the structure dependency of ADC. In an attempt to fill this gap we have performed random walk simulations in a three-dimensional geometrical model of the lung acinus, the distal alveolated sections of the lung tree accounting for approximately 90% of the total lung volume. Simulations were carried out adjusting model parameters after published morphological data for the rat peripheral airway system, which predict an ADC behavior as microstructure changes with lung inflation in partial agreement with measured ADCs at different airway pressures. The approach used to relate experimental ADCs to lung microstructural changes does not make any assumption about the cause of the changes, so it could be applied to other scenarios such as chronic obstructive pulmonary disease, lung development, etc. The work presented here predicts numerically for the first time ADC values measured in the lung from independent morphological measures of lung microstructure taken at different inflation stages during the breath cycle.
+
+-Animals
+-Computer Simulation
++Diffusion
+-Lung Volume Measurements
++Magnetic Resonance Imaging
++Models, Anatomic
++Models, Biological
+-Pulmonary Alveoli (+anatomy & histology; +metabolism; -physiology)
+-Rats
+
+pii:S0006-3495(09)00911-4
+doi:10.1016/j.bpj.2009.04.050
+pubmed:19619480
+pmc:PMC2711347
+

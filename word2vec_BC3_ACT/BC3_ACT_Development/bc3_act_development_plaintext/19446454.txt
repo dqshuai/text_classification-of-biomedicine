@@ -1,0 +1,21 @@
+Curr. Biol.
+
+Decoding the representation of multiple simultaneous objects in human occipitotemporal cortex.
+
+SP Macevoy, RA Epstein
+
+Previous work using functional magnetic resonance imaging has shown that the identities of isolated objects viewed by human subjects can be extracted from distributed patterns of brain activity. Outside the laboratory, however, objects almost never appear in isolation; thus it is important to understand how multiple simultaneously occurring objects are encoded by the visual system. We used multivoxel pattern analysis to examine this issue, testing whether activity patterns in the lateral occipital complex (LOC) evoked by object pairs showed an ordered relationship to patterns evoked by their constituent objects. Applying a searchlight analysis to identify voxels with the highest signal-to-noise ratios, we found that responses to object pairs within these informative voxels were well predicted by the averages of responses to their constituent objects. Consistent with this result, we were able to classify object pairs by using synthetic patterns created by averaging single-object patterns. These results indicate that the representation of multiple objects in LOC is governed by a response normalization mechanism similar to that reported in visual areas of several nonhuman species. They also suggest a population coding scheme that preserves information about multiple objects under conditions of distributed attention, facilitating fast object and scene recognition during natural vision.
+
+-Brain Mapping
+-Humans
+-Magnetic Resonance Imaging
+-Photic Stimulation
+-Visual Cortex (+physiology)
+-Visual Perception (+physiology)
+
+pii:S0960-9822(09)00980-4
+doi:10.1016/j.cub.2009.04.020
+pubmed:19446454
+mid:NIHMS196184
+pmc:PMC2875119
+

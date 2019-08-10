@@ -1,0 +1,25 @@
+PLoS Pathog.
+
+Production of infectious genotype 1b virus particles in cell culture and impairment by replication enhancing mutations.
+
+T Pietschmann, M Zayas, P Meuleman, G Long, N Appel, G Koutsoudakis, S Kallis, G Leroux-Roels, V Lohmann, R Bartenschlager
+
+With the advent of subgenomic hepatitis C virus (HCV) replicons, studies of the intracellular steps of the viral replication cycle became possible. These RNAs are capable of self-amplification in cultured human hepatoma cells, but save for the genotype 2a isolate JFH-1, efficient replication of these HCV RNAs requires replication enhancing mutations (REMs), previously also called cell culture adaptive mutations. These mutations cluster primarily in the central region of non-structural protein 5A (NS5A), but may also reside in the NS3 helicase domain or at a distinct position in NS4B. Most efficient replication has been achieved by combining REMs residing in NS3 with distinct REMs located in NS4B or NS5A. However, in spite of efficient replication of HCV genomes containing such mutations, they do not support production of infectious virus particles. By using the genotype 1b isolate Con1, in this study we show that REMs interfere with HCV assembly. Strongest impairment of virus formation was found with REMs located in the NS3 helicase (E1202G and T1280I) as well as NS5A (S2204R), whereas a highly adaptive REM in NS4B still allowed virus production although relative levels of core release were also reduced. We also show that cells transfected with the Con1 wild type genome or the genome containing the REM in NS4B release HCV particles that are infectious both in cell culture and in vivo. Our data provide an explanation for the in vitro and in vivo attenuation of cell culture adapted HCV genomes and may open new avenues for the development of fully competent culture systems covering the therapeutically most relevant HCV genotypes.
+
+-Cell Line
+-Enzyme-Linked Immunosorbent Assay
+-Hepacivirus (+genetics; +physiology)
+-Hepatitis C Antigens (-genetics; -metabolism)
+-Humans
++Mutation
+-Viral Core Proteins (-genetics; -metabolism)
+-Viral Envelope Proteins (-genetics; -metabolism)
+-Viral Nonstructural Proteins (-genetics; -metabolism)
+-Virion (-chemistry; -pathogenicity; +physiology)
+-Virus Cultivation
+-Virus Replication (+physiology)
+
+doi:10.1371/journal.ppat.1000475
+pubmed:19521536
+pmc:PMC2691593
+

@@ -1,0 +1,22 @@
+Genome Res.
+
+Whole genome sequence of Desulfovibrio magneticus strain RS-1 revealed common gene clusters in magnetotactic bacteria.
+
+H Nakazawa, A Arakaki, S Narita-Yamada, I Yashiro, K Jinno, N Aoki, A Tsuruyama, Y Okamura, S Tanikawa, N Fujita, H Takeyama, T Matsunaga
+
+Magnetotactic bacteria are ubiquitous microorganisms that synthesize intracellular magnetite particles (magnetosomes) by accumulating Fe ions from aquatic environments. Recent molecular studies, including comprehensive proteomic, transcriptomic, and genomic analyses, have considerably improved our hypotheses of the magnetosome-formation mechanism. However, most of these studies have been conducted using pure-cultured bacterial strains of alpha-proteobacteria. Here, we report the whole-genome sequence of Desulfovibrio magneticus strain RS-1, the only isolate of magnetotactic microorganisms classified under delta-proteobacteria. Comparative genomics of the RS-1 and four alpha-proteobacterial strains revealed the presence of three separate gene regions (nuo and mamAB-like gene clusters, and gene region of a cryptic plasmid) conserved in all magnetotactic bacteria. The nuo gene cluster, encoding NADH dehydrogenase (complex I), was also common to the genomes of three iron-reducing bacteria exhibiting uncontrolled extracellular and/or intracellular magnetite synthesis. A cryptic plasmid, pDMC1, encodes three homologous genes that exhibit high similarities with those of other magnetotactic bacterial strains. In addition, the mamAB-like gene cluster, encoding the key components for magnetosome formation such as iron transport and magnetosome alignment, was conserved only in the genomes of magnetotactic bacteria as a similar genomic island-like structure. Our findings suggest the presence of core genetic components for magnetosome biosynthesis; these genes may have been acquired into the magnetotactic bacterial genomes by multiple gene-transfer events during proteobacterial evolution.
+
+-Desulfovibrio (+genetics; -metabolism)
+-Energy Metabolism (-genetics)
++Genes, Bacterial (-physiology)
++Genome, Bacterial
+-Genomics (-methods)
+-Magnetosomes (-genetics)
+-Magnetospirillum (+genetics; -metabolism)
++Multigene Family (-physiology)
+
+pii:gr.088906.108
+doi:10.1101/gr.088906.108
+pubmed:19675025
+pmc:PMC2765288
+

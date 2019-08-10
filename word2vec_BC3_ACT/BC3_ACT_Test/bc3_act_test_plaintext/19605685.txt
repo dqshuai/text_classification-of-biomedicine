@@ -1,0 +1,21 @@
+Genes Dev.
+
+Paracrine signaling in a bacterium.
+
+D López, H Vlamakis, R Losick, R Kolter
+
+Cellular differentiation is triggered by extracellular signals that cause target cells to adopt a particular fate. Differentiation in bacteria typically involves autocrine signaling in which all cells in the population produce and respond to the same signal. Here we present evidence for paracrine signaling in bacterial populations-some cells produce a signal to which only certain target cells respond. Biofilm formation in Bacillus involves two centrally important signaling molecules, ComX and surfactin. ComX triggers the production of surfactin. In turn, surfactin causes a subpopulation of cells to produce an extracellular matrix. Cells that produced surfactin were themselves unable to respond to it. Likewise, once surfactin-responsive cells commenced matrix production, they no longer responded to ComX and could not become surfactin producers. Insensitivity to ComX was the consequence of the extracellular matrix as mutant cells unable to make matrix responded to both ComX and surfactin. Our results demonstrate that extracellular signaling was unidirectional, with one subpopulation producing a signal and a different subpopulation responding to it. Paracrine signaling in a bacterial population ensures the maintenance, over generations, of particular cell types even in the presence of molecules that would otherwise cause those cells to differentiate into other cell types.
+
+-Bacillus subtilis (-growth & development; -metabolism; +physiology)
+-Bacterial Proteins (-metabolism)
+-Extracellular Matrix (-metabolism)
+-Gene Expression Regulation, Bacterial
+-Lipopeptides (-metabolism)
++Paracrine Communication
+-Peptides, Cyclic (-metabolism)
+
+pii:23/14/1631
+doi:10.1101/gad.1813709
+pubmed:19605685
+pmc:PMC2714712
+

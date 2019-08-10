@@ -1,0 +1,25 @@
+PLoS Comput. Biol.
+
+A probabilistic model of RNA conformational space.
+
+J Frellsen, I Moltke, M Thiim, KV Mardia, J Ferkinghoff-Borg, T Hamelryck
+
+The increasing importance of non-coding RNA in biology and medicine has led to a growing interest in the problem of RNA 3-D structure prediction. As is the case for proteins, RNA 3-D structure prediction methods require two key ingredients: an accurate energy function and a conformational sampling procedure. Both are only partly solved problems. Here, we focus on the problem of conformational sampling. The current state of the art solution is based on fragment assembly methods, which construct plausible conformations by stringing together short fragments obtained from experimental structures. However, the discrete nature of the fragments necessitates the use of carefully tuned, unphysical energy functions, and their non-probabilistic nature impairs unbiased sampling. We offer a solution to the sampling problem that removes these important limitations: a probabilistic model of RNA structure that allows efficient sampling of RNA conformations in continuous space, and with associated probabilities. We show that the model captures several key features of RNA structure, such as its rotameric nature and the distribution of the helix lengths. Furthermore, the model readily generates native-like 3-D conformations for 9 out of 10 test structures, solely using coarse-grained base-pairing information. In conclusion, the method provides a theoretical and practical solution for a major bottleneck on the way to routine prediction and simulation of RNA structure and dynamics in atomic detail.
+
+-Algorithms
+-Bayes Theorem
+-Computer Simulation
+-Databases, Nucleic Acid
+-Imaging, Three-Dimensional (-methods)
+-Markov Chains
+-Models, Molecular
++Models, Statistical
+-Monte Carlo Method
++Nucleic Acid Conformation
+-RNA (+chemistry)
+-Software
+
+doi:10.1371/journal.pcbi.1000406
+pubmed:19543381
+pmc:PMC2691987
+

@@ -1,0 +1,27 @@
+Genes Dev.
+
+The PRC1 Polycomb group complex interacts with PLZF/RARA to mediate leukemic transformation.
+
+H Boukarabila, AJ Saurin, E Batsché, N Mossadegh, M van Lohuizen, AP Otte, J Pradel, C Muchardt, M Sieweke, E Duprez
+
+Ectopic repression of retinoic acid (RA) receptor target genes by PML/RARA and PLZF/RARA fusion proteins through aberrant recruitment of nuclear corepressor complexes drives cellular transformation and acute promyelocytic leukemia (APL) development. In the case of PML/RARA, this repression can be reversed through treatment with all-trans RA (ATRA), leading to leukemic remission. However, PLZF/RARA ectopic repression is insensitive to ATRA, resulting in persistence of the leukemic diseased state after treatment, a phenomenon that is still poorly understood. Here we show that, like PML/RARA, PLZF/RARA expression leads to recruitment of the Polycomb-repressive complex 2 (PRC2) Polycomb group (PcG) complex to RA response elements. However, unlike PML/RARA, PLZF/RARA directly interacts with the PcG protein Bmi-1 and forms a stable component of the PRC1 PcG complex, resulting in PLZF/RARA-dependent ectopic recruitment of PRC1 to RA response elements. Upon treatment with ATRA, ectopic recruitment of PRC2 by either PML/RARA or PLZF/RARA is lost, whereas PRC1 recruited by PLZF/RARA remains, resulting in persistent RA-insensitive gene repression. We further show that Bmi-1 is essential for the PLZF/RARA cellular transformation property and implicates a central role for PRC1 in PLZF/RARA-mediated myeloid leukemic development.
+
+-Antineoplastic Agents (-pharmacology)
++Cell Transformation, Neoplastic
+-Chromatin (-metabolism)
+-Humans
+-Leukemia (+physiopathology)
+-Nuclear Proteins (-metabolism)
+-Oncogene Proteins, Fusion (+metabolism)
+-Protein Binding (-drug effects)
+-Protein Structure, Tertiary
+-Proto-Oncogene Proteins (-metabolism)
+-Repressor Proteins (+metabolism)
+-Tretinoin (-pharmacology)
+-U937 Cells
+
+pii:23/10/1195
+doi:10.1101/gad.512009
+pubmed:19451220
+pmc:PMC2685534
+

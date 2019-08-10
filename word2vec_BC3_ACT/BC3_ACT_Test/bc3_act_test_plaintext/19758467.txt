@@ -1,0 +1,33 @@
+BMC Bioinformatics
+
+Improved mutation tagging with gene identifiers applied to membrane protein stability prediction.
+
+R Winnenburg, C Plake, M Schroeder
+
+BACKGROUND: The automated retrieval and integration of information about protein point mutations in combination with structure, domain and interaction data from literature and databases promises to be a valuable approach to study structure-function relationships in biomedical data sets. RESULTS: We developed a rule- and regular expression-based protein point mutation retrieval pipeline for PubMed abstracts, which shows an F-measure of 87% for the mutation retrieval task on a benchmark dataset. In order to link mutations to their proteins, we utilize a named entity recognition algorithm for the identification of gene names co-occurring in the abstract, and establish links based on sequence checks. Vice versa, we could show that gene recognition improved from 77% to 91% F-measure when considering mutation information given in the text. To demonstrate practical relevance, we utilize mutation information from text to evaluate a novel solvation energy based model for the prediction of stabilizing regions in membrane proteins. For five G protein-coupled receptors we identified 35 relevant single mutations and associated phenotypes, of which none had been annotated in the UniProt or PDB database. In 71% reported phenotypes were in compliance with the model predictions, supporting a relation between mutations and stability issues in membrane proteins. CONCLUSION: We present a reliable approach for the retrieval of protein mutations from PubMed abstracts for any set of genes or proteins of interest. We further demonstrate how amino acid substitution information from text can be utilized for protein structure stability studies on the basis of a novel energy model.
+
+-Algorithms
+-Amino Acid Substitution
+-Animals
+-Computational Biology (+methods)
+-Databases, Genetic
+-Genes
+-Genomics
+-Humans
+-Information Storage and Retrieval (+methods)
+-Membrane Proteins (-chemistry; +genetics)
+-Models, Genetic
++Mutation
+-Pattern Recognition, Automated
+-Periodicals as Topic
+-Phenotype
+-Point Mutation
+-Protein Stability
+-PubMed
+-Sequence Analysis
+
+pii:1471-2105-10-S8-S3
+doi:10.1186/1471-2105-10-S8-S3
+pubmed:19758467
+pmc:PMC2745585
+

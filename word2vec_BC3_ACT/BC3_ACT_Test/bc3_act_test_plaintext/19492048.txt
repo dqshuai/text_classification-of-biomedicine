@@ -1,0 +1,26 @@
+PLoS ONE
+
+Emergence of a code in the polymerization of amino acids along RNA templates.
+
+J Lehmann, M Cibils, A Libchaber
+
+The origin of the genetic code in the context of an RNA world is a major problem in the field of biophysical chemistry. In this paper, we describe how the polymerization of amino acids along RNA templates can be affected by the properties of both molecules. Considering a system without enzymes, in which the tRNAs (the translation adaptors) are not loaded selectively with amino acids, we show that an elementary translation governed by a Michaelis-Menten type of kinetics can follow different polymerization regimes: random polymerization, homopolymerization and coded polymerization. The regime under which the system is running is set by the relative concentrations of the amino acids and the kinetic constants involved. We point out that the coding regime can naturally occur under prebiotic conditions. It generates partially coded proteins through a mechanism which is remarkably robust against non-specific interactions (mismatches) between the adaptors and the RNA template. Features of the genetic code support the existence of this early translation system.
+
+-Amino Acids (-chemistry)
+-Biochemistry (-methods)
+-Biophysics (-methods)
+-Codon
+-Genetic Code
+-Kinetics
+-Models, Genetic
+-Models, Statistical
+-Models, Theoretical
++Protein Biosynthesis
+-Proteins (-chemistry)
+-RNA (+chemistry)
+-RNA, Transfer (-chemistry)
+
+doi:10.1371/journal.pone.0005773
+pubmed:19492048
+pmc:PMC2685977
+

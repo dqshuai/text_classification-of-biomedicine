@@ -1,0 +1,19 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Replica exchange with nonequilibrium switches.
+
+AJ Ballard, C Jarzynski
+
+We introduce a replica exchange (parallel tempering) method in which attempted configuration swaps are generated using nonequilibrium work simulations. By effectively increasing phase space overlap, this approach mitigates the need for many replicas. We illustrate our method by using a model system and show that it is able to achieve the computational efficiency of ordinary replica exchange, using fewer replicas.
+
++Algorithms
++Computer Simulation
+-Kinetics
++Models, Chemical
+-Monte Carlo Method
+
+pii:0900406106
+doi:10.1073/pnas.0900406106
+pubmed:19592512
+pmc:PMC2718341
+

@@ -1,0 +1,29 @@
+BMC Genomics
+
+A supervised learning approach for taxonomic classification of core-photosystem-II genes and transcripts in the marine environment.
+
+S Tzahor, D Man-Aharonovich, BC Kirkup, T Yogev, I Berman-Frank, MF Polz, O Béjà, Y Mandel-Gutfreund
+
+BACKGROUND: Cyanobacteria of the genera Synechococcus and Prochlorococcus play a key role in marine photosynthesis, which contributes to the global carbon cycle and to the world oxygen supply. Recently, genes encoding the photosystem II reaction center (psbA and psbD) were found in cyanophage genomes. This phenomenon suggested that the horizontal transfer of these genes may be involved in increasing phage fitness. To date, a very small percentage of marine bacteria and phages has been cultured. Thus, mapping genomic data extracted directly from the environment to its taxonomic origin is necessary for a better understanding of phage-host relationships and dynamics. RESULTS: To achieve an accurate and rapid taxonomic classification, we employed a computational approach combining a multi-class Support Vector Machine (SVM) with a codon usage position specific scoring matrix (cuPSSM). Our method has been applied successfully to classify core-photosystem-II gene fragments, including partial sequences coming directly from the ocean, to seven different taxonomic classes. Applying the method on a large set of DNA and RNA psbA clones from the Mediterranean Sea, we studied the distribution of cyanobacterial psbA genes and transcripts in their natural environment. Using our approach, we were able to simultaneously examine taxonomic and ecological distributions in the marine environment. CONCLUSION: The ability to accurately classify the origin of individual genes and transcripts coming directly from the environment is of great importance in studying marine ecology. The classification method presented in this paper could be applied further to classify other genes amplified from the environment, for which training data is available.
+
+-Bacteriophages (-classification; +genetics)
+-Cluster Analysis
+-Computational Biology (+methods)
+-Genes, Bacterial
+-Genes, Viral
+-Genome, Bacterial
+-Genome, Viral
+-Genomics (-methods)
+-Mediterranean Sea
+-Photosystem II Protein Complex (+classification; -genetics)
+-Principal Component Analysis
+-Prochlorococcus (-classification; +genetics)
+-Seawater (-microbiology)
+-Sequence Analysis, DNA
+-Synechococcus (-classification; +genetics)
+
+pii:1471-2164-10-229
+doi:10.1186/1471-2164-10-229
+pubmed:19445709
+pmc:PMC2696472
+

@@ -1,0 +1,21 @@
+Biochemistry
+
+Amphipol-assisted in vitro folding of G protein-coupled receptors.
+
+T Dahmane, M Damian, S Mary, JL Popot, JL Banères
+
+G protein-coupled receptors (GPCRs) regulate numerous physiological functions. The primary difficulty presented by their study in vitro is to obtain them in sufficient amounts under a functional and stable form. Escherichia coli is a host of choice for producing recombinant proteins for structural studies. However, the insertion of GPCRs into its plasma membrane usually results in bacterial death. An alternative approach consists of targeting recombinant receptors to inclusion bodies, where they accumulate without affecting bacterial growth, and then folding them in vitro. This approach, however, stumbles over the very low folding yields typically achieved, whether in detergent solutions or in detergent-lipid mixtures. Here, we show that synthetic polymers known as amphipols provide a highly efficient medium for folding GPCRs. Using a generic protocol, we have folded four class A GPCRs to their functional state, as evidenced by the binding of their respective ligands. This strategy thus appears to have the potential to be generalized to a large number of GPCRs. These data are also of interest from a more fundamental point of view: they indicate that the structural information stored in the sequence of these four receptors allows them to reach their correct three-dimensional structure in an environment that bears no similarity, beyond the amphiphilic character, to lipid bilayers.
+
+-Animals
+-Chromatography, Gel
+-Humans
+-Mice
+-Polymers (+metabolism)
+-Propylamines (+metabolism)
++Protein Folding
+-Receptors, G-Protein-Coupled (-isolation & purification; +metabolism)
+-Spectrophotometry, Ultraviolet
+
+doi:10.1021/bi801729z
+pubmed:19534448
+

@@ -1,0 +1,32 @@
+Mol. Cell. Biol.
+
+Serine 58 of 14-3-3zeta is a molecular switch regulating ASK1 and oxidant stress-induced cell death.
+
+J Zhou, Z Shao, R Kerkela, H Ichijo, AJ Muslin, C Pombo, T Force
+
+Oxidant stress is a ubiquitous stressor with negative impacts on multiple cell types. ASK1 is a central mediator of oxidant injury, but while mechanisms of its inhibition, such as sequestration by 14-3-3 proteins and thioredoxin, have been identified, mechanisms of activation have remained obscure and the signaling pathways regulating this are not clear. Here, we report that phosphorylation of 14-3-3zeta at serine 58 (S58) is dynamically regulated in the cell and that the phosphorylation status of S58 is a critical factor regulating oxidant stress-induced cell death. Phosphorylation of S58 releases ASK1 from 14-3-3zeta, and ASK1 then activates stress-activated protein kinases, leading to cell death. While several members of the mammalian sterile 20 (Mst) family of kinases can phosphorylate S58 when overexpressed, we identify Ste20/oxidant stress response kinase 1 (SOK-1), an Mst family member known to be activated by oxidant stress, as a central endogenous regulator of S58 phosphorylation and thereby of ASK1-mediated cell death. Our findings identify a novel pathway that regulates ASK1 activation and oxidant stress-induced cell death.
+
+-14-3-3 Proteins (-genetics; +metabolism)
+-Animals
+-Apoptosis (+drug effects)
+-Cells, Cultured
+-Fibroblasts (-cytology; -drug effects; -metabolism)
+-Hydrogen Peroxide (+pharmacology)
+-Immunoblotting
+-Immunoprecipitation
+-Intracellular Signaling Peptides and Proteins (-genetics; -metabolism)
+-MAP Kinase Kinase Kinase 5 (-genetics; +metabolism)
+-Mice
+-Mice, Knockout
+-Mutation
+-Oxidants (-pharmacology)
+-Phosphorylation (-drug effects)
+-Protein-Serine-Threonine Kinases (-genetics; -metabolism)
+-RNA Interference
+-Serine (-genetics; +metabolism)
+
+pii:MCB.01067-08
+doi:10.1128/MCB.01067-08
+pubmed:19451227
+pmc:PMC2715813
+

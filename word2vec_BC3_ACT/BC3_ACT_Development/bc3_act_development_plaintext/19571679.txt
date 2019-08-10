@@ -1,0 +1,24 @@
+Cell Cycle
+
+Chking and executing cell division to prevent genomic instability.
+
+S Peddibhotla, JM Rosen
+
+Eukaryotic cell division is an orderly and timely process involving the error-free segregation of chromosomes and cytoplasmic components to give rise to two separate daughter cells. Defects in genome maintenance mechanisms such as cell cycle checkpoints and DNA repair can impact the segregation of the genome during mitosis leading to multiple chromosomal imbalances. In mammals, the DNA damage checkpoint effector Checkpoint Kinase 1 (Chk1) is essential for responses to DNA replication errors, external DNA damage, and chromatin breaks. We reported recently that Chk1 also was essential for chromosome segregation and completion of cytokinesis to prevent genomic instability. Our studies demonstrated that Chk1 deficiency in mitotic cells causes chromosome mis-alignment, lagging chromosomes, chromosome mis-segregation, cytokinetic regression and binucleation. In addition, abrogation of Chk1 resulted in aberrant localization of mitotic Aurora B kinase at the metaphase plate, anaphase spindle midzone, and cytokinetic midbody as studied both in various cell lines and in a mouse model. Therefore, inappropriate regulation of Chk1 levels during cell cycle progression will result in failed cell division and enhanced genomic instability.
+
+-Animals
+-Cell Division (+physiology)
+-Chromosome Segregation (+physiology)
+-Chromosomes (-physiology)
+-DNA Damage (+physiology)
+-DNA Replication (+physiology)
+-Genomic Instability (+physiology)
+-Humans
+-Mitotic Spindle Apparatus (-metabolism)
+-Phosphorylation (-physiology)
+-Protein Kinases (+metabolism)
+-Protein-Serine-Threonine Kinases (-metabolism)
+
+pii:9169
+pubmed:19571679
+

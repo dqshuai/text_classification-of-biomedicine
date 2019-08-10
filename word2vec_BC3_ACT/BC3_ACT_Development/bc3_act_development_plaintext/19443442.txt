@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+iCODEHOP: a new interactive program for designing COnsensus-DEgenerate Hybrid Oligonucleotide Primers from multiply aligned protein sequences.
+
+R Boyce, P Chilana, TM Rose
+
+PCR amplification using COnsensus DEgenerate Hybrid Oligonucleotide Primers (CODEHOPs) has proven to be highly effective for identifying unknown pathogens and characterizing novel genes. We describe iCODEHOP; a new interactive web application that simplifies the process of designing and selecting CODEHOPs from multiply-aligned protein sequences. iCODEHOP intelligently guides the user through the degenerate primer design process including uploading sequences, creating a multiple alignment, deriving CODEHOPs and calculating their annealing temperatures. The user can quickly scan over an entire set of degenerate primers designed by the program to assess their relative quality and select individual primers for further analysis. The program displays phylogenetic information for input sequences and allows the user to easily design new primers from selected sequence sub-clades. It also allows the user to bias primer design to favor specific clades or sequences using sequence weights. iCODEHOP is freely available to all interested researchers at https://icodehop.cphi.washington.edu/i-codehop-context/Welcome.
+
+-Amino Acid Sequence
+-Consensus Sequence
+-DNA Primers (+chemistry)
+-Internet
+-Polymerase Chain Reaction
++Sequence Alignment
++Sequence Analysis, Protein
++Software
+-User-Computer Interface
+
+pii:gkp379
+doi:10.1093/nar/gkp379
+pubmed:19443442
+pmc:PMC2703993
+

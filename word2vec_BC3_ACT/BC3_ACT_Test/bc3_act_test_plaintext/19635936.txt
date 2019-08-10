@@ -1,0 +1,29 @@
+Genetics
+
+Phenotypic consequences of purine nucleotide imbalance in Saccharomyces cerevisiae.
+
+C Saint-Marc, B Pinson, F Coulpier, L Jourdren, O Lisova, B Daignan-Fornier
+
+Coordinating homeostasis of multiple metabolites is a major task for living organisms, and complex interconversion pathways contribute to achieving the proper balance of metabolites. AMP deaminase (AMPD) is such an interconversion enzyme that allows IMP synthesis from AMP. In this article, we show that, under specific conditions, lack of AMPD activity impairs growth. Under these conditions, we found that the intracellular guanylic nucleotide pool was severely affected. In vivo studies of two AMPD homologs, Yjl070p and Ybr284p, indicate that these proteins have no detectable AMP, adenosine, or adenine deaminase activity; we show that overexpression of YJL070c instead mimics a loss of AMPD function. Expression of the yeast transcriptome was monitored in a AMPD-deficient mutant in a strain overexpressing YJL070c and in cells treated with the immunosuppressive drug mycophenolic acid, three conditions that lead to severe depletion of the guanylic nucleotide pool. These three conditions resulted in the up- or downregulation of multiple transcripts, 244 of which are common to at least two conditions and 71 to all three conditions. These transcriptome results, combined with specific mutant analysis, point to threonine metabolism as exquisitely sensitive to the purine nucleotide balance.
+
+-AMP Deaminase (-genetics; +metabolism)
+-Biosynthetic Pathways (-drug effects)
+-Cell Division (-drug effects)
+-Gene Expression Profiling
+-Gene Expression Regulation, Fungal (-genetics)
+-Guanosine Diphosphate (-metabolism)
+-Guanosine Triphosphate (-metabolism)
+-Inosine Monophosphate (-biosynthesis; -metabolism)
+-Mutation
+-Mycophenolic Acid (-pharmacology)
+-Phenotype
+-Purine Nucleotides (+metabolism)
+-Saccharomyces cerevisiae (-cytology; -genetics; +metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Threonine (-metabolism)
+
+pii:genetics.109.105858
+doi:10.1534/genetics.109.105858
+pubmed:19635936
+pmc:PMC2766314
+

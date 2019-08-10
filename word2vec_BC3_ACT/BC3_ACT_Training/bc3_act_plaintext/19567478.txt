@@ -1,0 +1,28 @@
+J. Exp. Bot.
+
+AtTRP1 encodes a novel TPR protein that interacts with the ethylene receptor ERS1 and modulates development in Arabidopsis.
+
+Z Lin, CW Ho, D Grierson
+
+Arabidopsis AtTRP1 is an orthologue of SlTPR1, a tomato tetratricopeptide repeat protein that interacts with the tomato ethylene receptors LeETR1 and NR in yeast 2-hybrid assays and in vitro, and modulates plant development. AtTRP1 is encoded by a single copy gene in the Arabidopsis genome, and is related to TCC1, a human protein that competes with Raf-1 for Ras binding, and distantly related to the immunophilin-like FK-binding proteins TWD1 and PAS1. The former is involved in auxin transport and the latter is translocated to the nucleus in response to auxin. AtTRP1 interacted preferentially with the Arabidopsis ethylene receptor ERS1 in yeast two-hybrid assays. This association was confirmed by in vivo co-immunoprecipitation. AtTRP1 promoter-GUS was highly expressed in vascular tissue, mature anthers, the abscission zone, and was induced by ACC. Overexpression of AtTRP1 in wild-type Arabidopsis resulted in dwarf plants with reduced fertility, altered leaf/silique morphology, and enhanced expression of the ethylene responsive gene AtChitB. Exogenous GA did not reverse the dwarf habit. Etiolated transgenic seedlings overexpressing AtTRP1 displayed enhanced sensitivity to low ACC and this was correlated with the transgene expression. Seedlings overexpressing AtTRP1 at high levels exhibited shortened and swollen hypocotyls, inhibited root growth, and an altered apical hook. Plants overexpressing AtTRP1 also showed a reduced response to exogenous IAA and altered expression of a subset of auxin early responsive genes. These results indicated that overexpression of AtTRP1 affects cross-talk between ethylene and auxin signalling and enhances some ethylene responses and alters some auxin responses. A model for AtTRP1 action is proposed.
+
+-Amino Acid Sequence
+-Arabidopsis (-chemistry; -genetics; +growth & development; +metabolism)
+-Arabidopsis Proteins (-chemistry; -genetics; +metabolism)
+-Base Sequence
+-Carrier Proteins
+-Ethylenes (-metabolism)
++Gene Expression Regulation, Developmental
+-Gene Expression Regulation, Plant
+-Indoleacetic Acids (-metabolism)
+-Molecular Sequence Data
+-Receptors, Cell Surface (-chemistry; -genetics; +metabolism)
+-Sequence Alignment
+-Signal Transduction
+-Telomere-Binding Proteins (-chemistry; -genetics; +metabolism)
+
+pii:erp209
+doi:10.1093/jxb/erp209
+pubmed:19567478
+pmc:PMC2736885
+

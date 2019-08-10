@@ -1,0 +1,26 @@
+J. Bacteriol.
+
+CsrRS regulates group B Streptococcus virulence gene expression in response to environmental pH: a new perspective on vaccine development.
+
+I Santi, R Grifantini, SM Jiang, C Brettoni, G Grandi, MR Wessels, M Soriani
+
+To identify factors involved in the response of group B streptococci (GBS) to environmental pH, we performed a comparative global gene expression analysis of GBS at acidic and neutral pHs. We found that the transcription of 317 genes was increased at pH 5.5 relative to that at pH 7.0, while 61 genes were downregulated. The global response to acid stress included the differential expression of genes involved in transport, metabolism, stress response, and virulence. Known vaccine candidates, such as BibA and pilus components, were also regulated by pH. We observed that many of the genes involved in the GBS response to pH are known to be controlled by the CsrRS two-component system. Comparison of the regulon of wild-type strain 2603 V/R with that of a csrRS deletion mutant strain revealed that the pH-dependent regulation of 90% of the downregulated genes and 59.3% of the up-regulated genes in strain 2603 V/R was CsrRS dependent and that many virulence factors were overexpressed at high pH. Beta-hemolysin regulation was abrogated by selective inactivation of csrS, suggesting the implication of the CsrS protein in pH sensing. These results imply that the translocation of GBS from the acidic milieu of the vagina to the neutral pH of the neonatal lung signals the up-regulation of GBS virulence factors and conversion from a colonizing to an invasive phenotype. In addition, the fact that increased exposure of BibA on the bacterial surface at pH 7.0 induced opsonophagocytic killing of GBS in immune serum highlights the importance of pH regulation in the protective efficacy of specific antibodies to surface-exposed GBS proteins.
+
+-Acids (-pharmacology)
+-Anti-Bacterial Agents (-pharmacology)
+-Bacterial Proteins (-genetics; +physiology)
+-Gene Deletion
+-Gene Expression Profiling
++Gene Expression Regulation, Bacterial
+-Hydrogen-Ion Concentration
+-Protein Kinases (-genetics; +physiology)
+-Streptococcal Vaccines (+immunology)
+-Streptococcus agalactiae (-drug effects; -immunology; +physiology)
+-Stress, Physiological
+-Virulence Factors (+biosynthesis; -immunology)
+
+pii:JB.00370-09
+doi:10.1128/JB.00370-09
+pubmed:19542277
+pmc:PMC2725634
+

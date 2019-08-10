@@ -1,0 +1,25 @@
+J. Biol. Chem.
+
+Dominant-negative inhibitors of the Clostridium perfringens epsilon-toxin.
+
+TM Pelish, MS McClain
+
+The Clostridium perfringens epsilon-toxin is responsible for a severe, often lethal intoxication. In this study, we characterized dominant-negative inhibitors of the epsilon-toxin. Site-specific mutations were introduced into the gene encoding epsilon-toxin, and recombinant proteins were expressed in Escherichia coli. Paired cysteine substitutions were introduced at locations predicted to form a disulfide bond. One cysteine in each mutant was introduced into the membrane insertion domain of the toxin; the second cysteine was introduced into the protein backbone. Mutant proteins with cysteine substitutions at amino acid positions I51/A114 and at V56/F118 lacked detectable cytotoxic activity in a MDCK cell assay. Cytotoxic activity could be reconstituted in both mutant proteins by incubation with dithiothreitol, indicating that the lack of cytotoxic activity was attributable to the formation of a disulfide bond. Fluorescent labeling of the cysteines also indicated that the introduced cysteines participated in a disulfide bond. When equimolar mixtures of wild-type epsilon-toxin and mutant proteins were added to MDCK cells, the I51C/A114C and V56C/F118C mutant proteins each inhibited the activity of wild-type epsilon-toxin. Further analysis of the inhibitory activity of the I51C/A114C and V56C/F118C mutant proteins indicated that these proteins inhibit the ability of the active toxin to form stable oligomeric complexes in the context of MDCK cells. These results provide further insight into the properties of dominant-negative inhibitors of oligomeric pore-forming toxins and provide the basis for developing new therapeutics for treating intoxication by epsilon-toxin.
+
++Amino Acid Substitution
+-Animals
+-Bacterial Toxins (+antagonists & inhibitors; +chemistry; -genetics; -pharmacology)
+-Cell Line
+-Clostridium perfringens (-chemistry; -genetics)
+-Dogs
+-Escherichia coli (-genetics)
+-Mutagenesis, Site-Directed (-methods)
++Mutation, Missense
+-Protein Structure, Tertiary (-genetics)
+-Recombinant Proteins (-chemistry; -genetics)
+
+pii:M109.021782
+doi:10.1074/jbc.M109.021782
+pubmed:19720828
+pmc:PMC2785577
+

@@ -1,0 +1,22 @@
+Biochemistry
+
+A rate-limiting conformational step in the catalytic pathway of the glmS ribozyme.
+
+KM Brooks, KJ Hampel
+
+The glmS ribozyme is a conserved riboswitch in numerous Gram-positive bacteria and is located upstream of the glucosamine-6-phosphate (GlcN6P) synthetase reading frame. Binding of GlcN6P activates site-specific self-cleavage of the glmS mRNA, resulting in the downregulation of glmS gene expression. Unlike other riboswitches, the glmS ribozyme does not undergo structural rearrangement upon metabolite binding, indicating that the metabolite binding pocket is preformed in the absence of ligand. This observation led us to test if individual steps in the reaction pathway could be dissected by initiating the cleavage reaction before or after Mg(2+)-dependent folding. Here we show that self-cleavage reactions initiated with simultaneous addition of Mg(2+) and GlcN6P are slow (3 min(-1)) compared to reactions initiated by addition of GlcN6P to glmS RNA that has been prefolded in Mg(2+)-containing buffer (72 min(-1)). These data indicate that some level of Mg(2+)-dependent folding is rate-limiting for catalysis. Reactions initiated by addition of GlcN6P to the prefolded ribozyme also resulted in a 30-fold increase in the apparent ligand K(d) compared to those of reactions initiated by a global folding step. Time-resolved hydroxyl-radical footprinting was employed to determine if global tertiary structure formation is the rate-limiting step. The results of these experiments provided evidence for fast and largely concerted folding of the global tertiary structure (>13 min(-1)). This indicates that the rate-limiting step that we have identified either is a slow folding step between the fast initial folding and ligand binding events or represents the rate of escape from a nativelike folding trap.
+
+-Bacillus subtilis (-metabolism)
+-Base Sequence
+-Binding Sites
+-Catalysis
+-Glutamine-Fructose-6-Phosphate Transaminase (Isomerizing) (-chemistry; -metabolism)
+-Kinetics
+-Ligands
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-RNA, Catalytic (+chemistry; -metabolism)
+
+doi:10.1021/bi900183r
+pubmed:19449899
+

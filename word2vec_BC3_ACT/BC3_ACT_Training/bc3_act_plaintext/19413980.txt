@@ -1,0 +1,28 @@
+Biophys. J.
+
+Urea impedes the hydrophobic collapse of partially unfolded proteins.
+
+MC Stumpe, H Grubmüller
+
+Proteins are denatured in aqueous urea solution. The nature of the molecular driving forces has received substantial attention in the past, whereas the question how urea acts at different phases of unfolding is not yet well understood at the atomic level. In particular, it is unclear whether urea actively attacks folded proteins or instead stabilizes unfolded conformations. Here we investigated the effect of urea at different phases of unfolding by molecular dynamics simulations, and the behavior of partially unfolded states in both aqueous urea solution and in pure water was compared. Whereas the partially unfolded protein in water exhibited hydrophobic collapses as primary refolding events, it remained stable or even underwent further unfolding steps in aqueous urea solution. Further, initial unfolding steps of the folded protein were found not to be triggered by urea, but instead, stabilized. The underlying mechanism of this stabilization is a favorable interaction of urea with transiently exposed, less-polar residues and the protein backbone, thereby impeding back-reactions. Taken together, these results suggest that, quite generally, urea-induced protein unfolding proceeds primarily not by active attack. Rather, thermal fluctuations toward the unfolded state are stabilized and the hydrophobic collapse of partially unfolded proteins toward the native state is impeded. As a result, the equilibrium is shifted toward the unfolded state.
+
+-Bacillus
+-Bacterial Proteins (+chemistry)
++Computer Simulation
+-Heat-Shock Proteins (+chemistry)
+-Hydrophobicity
+-Kinetics
+-Markov Chains
++Models, Molecular
++Protein Folding
+-Protein Stability
+-Protein Structure, Secondary
+-Temperature
+-Urea (+chemistry)
+-Water
+
+pii:S0006-3495(09)00579-7
+doi:10.1016/j.bpj.2009.01.051
+pubmed:19413980
+pmc:PMC2711416
+

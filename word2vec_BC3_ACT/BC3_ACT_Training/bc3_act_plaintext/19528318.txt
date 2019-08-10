@@ -1,0 +1,32 @@
+Genes Dev.
+
+Metabolic intermediates selectively stimulate transcription factor interaction and modulate phosphate and purine pathways.
+
+B Pinson, S Vaur, I Sagot, F Coulpier, S Lemoine, B Daignan-Fornier
+
+Cells use strategic metabolites to sense the metabolome and accordingly modulate gene expression. Here, we show that the purine and phosphate pathways are positively regulated by the metabolic intermediate AICAR (5'-phosphoribosyl-5-amino-4-imidazole carboxamide). The transcription factor Pho2p is required for up-regulation of all AICAR-responsive genes. Accordingly, the binding of Pho2p to purine and phosphate pathway gene promoters is enhanced upon AICAR accumulation. In vitro, AICAR binds both Pho2p and Pho4p transcription factors and stimulates the interaction between Pho2p and either Bas1p or Pho4p in vivo. In contrast, SAICAR (succinyl-AICAR) only affects Pho2p-Bas1p interaction and specifically up-regulates purine regulon genes. Together, our data show that Bas1p and Pho4p compete for Pho2p binding, hence leading to the concerted regulation of cellular nucleotide synthesis and phosphate consumption.
+
+-Aminoimidazole Carboxamide (-analogs & derivatives; -metabolism)
+-Cell Nucleus (-metabolism)
+-DNA-Binding Proteins (-metabolism)
++Gene Expression Regulation
+-Homeodomain Proteins (-metabolism)
+-Homeostasis
+-Phosphates (+metabolism)
+-Promoter Regions, Genetic (-genetics)
+-Protein Binding
+-Protein Transport
+-Purines (+biosynthesis)
+-Regulon (-genetics)
+-Ribonucleotides (-metabolism)
+-Saccharomyces cerevisiae (-genetics; +physiology)
+-Saccharomyces cerevisiae Proteins (-metabolism)
+-Trans-Activators (-metabolism)
+-Transcription Factors (+metabolism)
+-Up-Regulation
+
+pii:23/12/1399
+doi:10.1101/gad.521809
+pubmed:19528318
+pmc:PMC2701576
+

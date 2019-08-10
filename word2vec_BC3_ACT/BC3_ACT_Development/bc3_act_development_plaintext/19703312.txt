@@ -1,0 +1,21 @@
+BMC Bioinformatics
+
+Assessing the druggability of protein-protein interactions by a supervised machine-learning method.
+
+N Sugaya, K Ikeda
+
+BACKGROUND: Protein-protein interactions (PPIs) are challenging but attractive targets of small molecule drugs for therapeutic interventions of human diseases. In this era of rapid accumulation of PPI data, there is great need for a methodology that can efficiently select drug target PPIs by holistically assessing the druggability of PPIs. To address this need, we propose here a novel approach based on a supervised machine-learning method, support vector machine (SVM). RESULTS: To assess the druggability of the PPIs, 69 attributes were selected to cover a wide range of structural, drug and chemical, and functional information on the PPIs. These attributes were used as feature vectors in the SVM-based method. Thirty PPIs known to be druggable were carefully selected from previous studies; these were used as positive instances. Our approach was applied to 1,295 human PPIs with tertiary structures of their protein complexes already solved. The best SVM model constructed discriminated the already-known target PPIs from others at an accuracy of 81% (sensitivity, 82%; specificity, 79%) in cross-validation. Among the attributes, the two with the greatest discriminative power in the best SVM model were the number of interacting proteins and the number of pathways. CONCLUSION: Using the model, we predicted several promising candidates for druggable PPIs, such as SMAD4/SKI. As more PPI data are accumulated in the near future, our method will have increased ability to accelerate the discovery of druggable PPIs.
+
++Artificial Intelligence
+-Binding Sites
+-Computational Biology (+methods)
+-Databases, Protein
+-Pharmaceutical Preparations (+chemistry; -metabolism)
+-Protein Interaction Mapping (+methods)
+-Proteins (+chemistry; +metabolism)
+
+pii:1471-2105-10-263
+doi:10.1186/1471-2105-10-263
+pubmed:19703312
+pmc:PMC2739204
+

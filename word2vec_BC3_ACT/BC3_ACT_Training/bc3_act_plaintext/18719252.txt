@@ -1,0 +1,29 @@
+Science
+
+High-quality binary protein interaction map of the yeast interactome network.
+
+H Yu, P Braun, MA Yildirim, I Lemmens, K Venkatesan, J Sahalie, T Hirozane-Kishikawa, F Gebreab, N Li, N Simonis, T Hao, JF Rual, A Dricot, A Vazquez, RR Murray, C Simon, L Tardivo, S Tam, N Svrzikapa, C Fan, AS de Smet, A Motyl, ME Hudson, J Park, X Xin, ME Cusick, T Moore, C Boone, M Snyder, FP Roth, AL Barabási, J Tavernier, DE Hill, M Vidal
+
+Current yeast interactome network maps contain several hundred molecular complexes with limited and somewhat controversial representation of direct binary interactions. We carried out a comparative quality assessment of current yeast interactome data sets, demonstrating that high-throughput yeast two-hybrid (Y2H) screening provides high-quality binary interaction information. Because a large fraction of the yeast binary interactome remains to be mapped, we developed an empirically controlled mapping framework to produce a "second-generation" high-quality, high-throughput Y2H data set covering approximately 20% of all yeast binary interactions. Both Y2H and affinity purification followed by mass spectrometry (AP/MS) data are of equally high quality but of a fundamentally different and complementary nature, resulting in networks with different topological and biological properties. Compared to co-complex interactome models, this binary map is enriched for transient signaling interactions and intercomplex connections with a highly significant clustering between essential proteins. Rather than correlating with essentiality, protein connectivity correlates with genetic pleiotropy.
+
+-Computational Biology
+-Gene Regulatory Networks
+-Mass Spectrometry
+-Metabolic Networks and Pathways
+-Protein Array Analysis
+-Protein Binding
++Protein Interaction Mapping (-methods; -standards)
+-Proteome (-metabolism)
+-Proteomics
+-Saccharomyces cerevisiae (-genetics; +metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; -isolation & purification; +metabolism)
+-Signal Transduction
+-Transcription Factors (-metabolism)
+-Two-Hybrid System Techniques
+
+pii:1158684
+doi:10.1126/science.1158684
+pubmed:18719252
+mid:NIHMS120147
+pmc:PMC2746753
+

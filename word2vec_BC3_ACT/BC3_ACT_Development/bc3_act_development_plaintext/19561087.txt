@@ -1,0 +1,26 @@
+J. Biol. Chem.
+
+A portable hot spot recognition loop transfers sequence preferences from APOBEC family members to activation-induced cytidine deaminase.
+
+RM Kohli, SR Abrams, KS Gajula, RW Maul, PJ Gearhart, JT Stivers
+
+Enzymes of the AID/APOBEC family, characterized by the targeted deamination of cytosine to generate uracil within DNA, mediate numerous critical immune responses. One family member, activation-induced cytidine deaminase (AID), selectively introduces uracil into antibody variable and switch regions, promoting antibody diversity through somatic hypermutation or class switching. Other family members, including APOBEC3F and APOBEC3G, play an important role in retroviral defense by acting on viral reverse transcripts. These enzymes are distinguished from one another by targeting cytosine within different DNA sequence contexts; however, the reason for these differences is not known. Here, we report the identification of a recognition loop of 9-11 amino acids that contributes significantly to the distinct sequence motifs of individual family members. When this recognition loop is grafted from the donor APOBEC3F or 3G proteins into the acceptor scaffold of AID, the mutational signature of AID changes toward that of the donor proteins. These loop-graft mutants of AID provide useful tools for dissecting the biological impact of DNA sequence preferences upon generation of antibody diversity, and the results have implications for the evolution and specialization of the AID/APOBEC family.
+
+-Amino Acid Motifs (-genetics; -physiology)
+-Amino Acid Sequence
+-Cytidine Deaminase (+chemistry; -genetics; +metabolism)
+-Cytosine Deaminase (-chemistry; -genetics; -metabolism)
+-Drug Resistance, Bacterial (-genetics)
+-Enzyme Inhibitors (-pharmacology)
+-Escherichia coli (-drug effects; -genetics)
+-Humans
+-Molecular Sequence Data
+-Mutation
+-Rifampin (-pharmacology)
+-Sequence Homology, Amino Acid
+
+pii:M109.025536
+doi:10.1074/jbc.M109.025536
+pubmed:19561087
+pmc:PMC2755697
+

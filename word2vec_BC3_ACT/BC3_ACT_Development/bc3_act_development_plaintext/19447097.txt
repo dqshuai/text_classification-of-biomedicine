@@ -1,0 +1,27 @@
+Neuron
+
+Beyond Poisson: increased spike-time regularity across primate parietal cortex.
+
+G Maimon, JA Assad
+
+Cortical areas differ in their patterns of connectivity, cellular composition, and functional architecture. Spike trains, on the other hand, are commonly assumed to follow similarly irregular dynamics across neocortex. We examined spike-time statistics in four parietal areas using a method that accounts for nonstationarities in firing rate. We found that, whereas neurons in visual areas fire irregularly, many cells in association and motor-like parietal regions show increasingly regular spike trains by comparison. Regularity was evident both in the shape of interspike interval distributions and in spike-count variability across trials. Thus, Poisson-like randomness is not a universal feature of neocortex. Rather, many parietal cells have reduced trial-to-trial variability in spike counts that could provide for more reliable firing-rate signals. These results suggest that spiking dynamics may play different roles in different cortical areas and should not be assumed to arise from fundamentally irreducible noise sources.
+
+-Action Potentials (+physiology)
+-Animals
++Artifacts
+-Brain Mapping (+methods)
+-Evoked Potentials, Motor (-physiology)
+-Evoked Potentials, Visual (-physiology)
+-Macaca mulatta
+-Male
+-Models, Biological
+-Neurons (+physiology)
+-Parietal Lobe (-cytology; +physiology)
+-Poisson Distribution
+
+pii:S0896-6273(09)00246-3
+doi:10.1016/j.neuron.2009.03.021
+pubmed:19447097
+mid:NIHMS114309
+pmc:PMC2743683
+

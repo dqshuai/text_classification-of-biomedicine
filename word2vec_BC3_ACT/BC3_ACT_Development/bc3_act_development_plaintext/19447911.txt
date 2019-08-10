@@ -1,0 +1,26 @@
+J. Bacteriol.
+
+Activation of the promoter of the fengycin synthetase operon by the UP element.
+
+WJ Ke, BY Chang, TP Lin, ST Liu
+
+Bacillus subtilis F29-3 produces an antifungal peptidic antibiotic that is synthesized nonribosomally by fengycin synthetases. Our previous work established that the promoter of the fengycin synthetase operon is located 86 nucleotides upstream of the translational initiation codon of fenC. This investigation involved transcriptional fusions with a DNA fragment that contains the region between positions -105 and +80 and determined that deleting the region between positions -55 and -42 reduces the promoter activity by 64.5%. Transcriptional fusions in the B. subtilis DB2 chromosome also indicated that mutating the sequence markedly reduces the promoter activity. An in vitro transcription analysis confirmed that the transcription is inefficient when the sequence in this region is mutated. Electrophoretic mobility shift and footprinting analyses demonstrated that the C-terminal domain of the RNA polymerase alpha subunit binds to the region between positions -55 and -39. These results indicated that the sequence is an UP element. Finally, this UP element is critical for the production of fengycin, since mutating the UP sequence in the chromosome of B. subtilis F29-3 reduces the transcription of the fen operon by 85% and prevents the cells from producing enough fengycin to suppress the germination of Paecilomyces variotii spores on agar plates.
+
+-Bacillus subtilis (+enzymology; -genetics)
+-Base Sequence
+-DNA Footprinting
+-DNA-Directed RNA Polymerases (-metabolism)
+-Electrophoretic Mobility Shift Assay
++Enhancer Elements, Genetic
++Gene Expression
+-Molecular Sequence Data
++Operon
+-Peptide Synthases (+biosynthesis)
++Promoter Regions, Genetic
+-Protein Binding
+
+pii:JB.00255-09
+doi:10.1128/JB.00255-09
+pubmed:19447911
+pmc:PMC2704709
+

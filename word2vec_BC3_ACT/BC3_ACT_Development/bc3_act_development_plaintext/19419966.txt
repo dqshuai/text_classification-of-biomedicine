@@ -1,0 +1,28 @@
+J. Biol. Chem.
+
+The tyrosine kinase c-Src enhances RIG-I (retinoic acid-inducible gene I)-elicited antiviral signaling.
+
+IB Johnsen, TT Nguyen, B Bergstroem, KA Fitzgerald, MW Anthonsen
+
+Antiviral immune responses are initiated through Toll-like receptors (TLRs) and RIG-I (retinoic acid-inducible gene-I)-like RNA helicases that recognize nucleic acids from distinct viruses. In this study, we show that the tyrosine kinase c-Src participates in antiviral responses induced by the cytoplasmic RNA helicase RIG-I. Sendai virus (SV), which is recognized by RIG-I, induced c-Src phosphorylation. Functional impairment of c-Src through chemical inhibition or transient expression of a c-Src kinase-inactive mutant attenuated production of endogenous antiviral proteins after SV infection or after expression of RIG-I or its adapter protein MAVS. Importantly, SV-stimulated synthesis of antiviral proteins was significantly impaired in cells treated with c-Src small interfering RNA and in cells from c-Src-deficient mice. In addition, we found that c-Src interacted with components of the RIG-I pathway: RIG-I, MAVS, and TRAF3 (tumor necrosis factor receptor-associated factor-3). The interaction between c-Src and TRAF3 was found to occur within the RING domain of TRAF3. Taken together, our results suggest that c-Src enhances RIG-I-mediated signaling, acting at the level of TRAF3.
+
+-Animals
+-Antiviral Agents (+metabolism)
+-DEAD-box RNA Helicases (+metabolism)
++Gene Expression Regulation
+-Genes, Reporter
+-Humans
+-Interferon Regulatory Factor-3 (-metabolism)
+-Mice
+-Models, Biological
+-RNA, Small Interfering (-metabolism)
+-Sendai virus (-metabolism)
+-Signal Transduction
+-TNF Receptor-Associated Factor 3 (+metabolism)
+-src-Family Kinases (-metabolism; +physiology)
+
+pii:M808233200
+doi:10.1074/jbc.M808233200
+pubmed:19419966
+pmc:PMC2707193
+

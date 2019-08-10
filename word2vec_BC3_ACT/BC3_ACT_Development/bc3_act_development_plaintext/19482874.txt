@@ -1,0 +1,25 @@
+Hum. Mol. Genet.
+
+DNMT3B interacts with constitutive centromere protein CENP-C to modulate DNA methylation and the histone code at centromeric regions.
+
+S Gopalakrishnan, BA Sullivan, S Trazzi, G Della Valle, KD Robertson
+
+DNA methylation is an epigenetically imposed mark of transcriptional repression that is essential for maintenance of chromatin structure and genomic stability. Genome-wide methylation patterns are mediated by the combined action of three DNA methyltransferases: DNMT1, DNMT3A and DNMT3B. Compelling links exist between DNMT3B and chromosome stability as emphasized by the mitotic defects that are a hallmark of ICF syndrome, a disease arising from germline mutations in DNMT3B. Centromeric and pericentromeric regions are essential for chromosome condensation and the fidelity of segregation. Centromere regions contain distinct epigenetic marks, including dense DNA hypermethylation, yet the mechanisms by which DNA methylation is targeted to these regions remains largely unknown. In the present study, we used a yeast two-hybrid screen and identified a novel interaction between DNMT3B and constitutive centromere protein CENP-C. CENP-C is itself essential for mitosis. We confirm this interaction in mammalian cells and map the domains responsible. Using siRNA knock downs, bisulfite genomic sequencing and ChIP, we demonstrate for the first time that CENP-C recruits DNA methylation and DNMT3B to both centromeric and pericentromeric satellite repeats and that CENP-C and DNMT3B regulate the histone code in these regions, including marks characteristic of centromeric chromatin. Finally, we demonstrate that loss of CENP-C or DNMT3B leads to elevated chromosome misalignment and segregation defects during mitosis and increased transcription of centromeric repeats. Taken together, our data reveal a novel mechanism by which DNA methylation is targeted to discrete regions of the genome and contributes to chromosomal stability.
+
+-Cell Line
+-Centromere (-genetics; +metabolism)
+-Chromosomal Proteins, Non-Histone (-genetics; +metabolism)
+-DNA (Cytosine-5-)-Methyltransferase (-genetics; +metabolism)
++DNA Methylation
+-HCT116 Cells
+-Hela Cells
++Histone Code
+-Humans
+-Protein Binding
+-Two-Hybrid System Techniques
+
+pii:ddp256
+doi:10.1093/hmg/ddp256
+pubmed:19482874
+pmc:PMC2722982
+

@@ -1,0 +1,22 @@
+BMC Bioinformatics
+
+BSMAP: whole genome bisulfite sequence MAPping program.
+
+Y Xi, W Li
+
+BACKGROUND: Bisulfite sequencing is a powerful technique to study DNA cytosine methylation. Bisulfite treatment followed by PCR amplification specifically converts unmethylated cytosines to thymine. Coupled with next generation sequencing technology, it is able to detect the methylation status of every cytosine in the genome. However, mapping high-throughput bisulfite reads to the reference genome remains a great challenge due to the increased searching space, reduced complexity of bisulfite sequence, asymmetric cytosine to thymine alignments, and multiple CpG heterogeneous methylation. RESULTS: We developed an efficient bisulfite reads mapping algorithm BSMAP to address the above issues. BSMAP combines genome hashing and bitwise masking to achieve fast and accurate bisulfite mapping. Compared with existing bisulfite mapping approaches, BSMAP is faster, more sensitive and more flexible. CONCLUSION: BSMAP is the first general-purpose bisulfite mapping software. It is able to map high-throughput bisulfite reads at whole genome level with feasible memory and CPU usage. It is freely available under GPL v3 license at http://code.google.com/p/bsmap/.
+
+-Base Sequence
+-DNA (-chemistry)
++DNA Methylation
+-Genomics (+methods)
+-Sequence Alignment
+-Sequence Analysis, DNA (+methods)
++Software
+-Sulfites (-chemistry)
+
+pii:1471-2105-10-232
+doi:10.1186/1471-2105-10-232
+pubmed:19635165
+pmc:PMC2724425
+

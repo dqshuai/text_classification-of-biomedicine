@@ -1,0 +1,28 @@
+J. Immunol.
+
+The impact of TCR-binding properties and antigen presentation format on T cell responsiveness.
+
+AS Chervin, JD Stone, PD Holler, A Bai, J Chen, HN Eisen, DM Kranz
+
+TCR interactions with cognate peptide-MHC (pepMHC) ligands are generally low affinity. This feature, together with the requirement for CD8/CD4 participation, has made it difficult to dissect relationships between TCR-binding parameters and T cell activation. Interpretations are further complicated when comparing different pepMHC, because these can vary greatly in stability. To examine the relationships between TCR-binding properties and T cell responses, in this study we characterized the interactions and activities mediated by a panel of TCRs that differed widely in their binding to the same pepMHC. Monovalent binding of soluble TCR was characterized by surface plasmon resonance, and T cell hybridomas that expressed these TCR, with or without CD8 coexpression, were tested for their binding of monomeric and oligomeric forms of the pepMHC and for subsequent responses (IL-2 release). The binding threshold for eliciting this response in the absence of CD8 (K(D) = 600 nM) exhibited a relatively sharp cutoff between full activity and no activity, consistent with a switchlike response to pepMHC on APCs. However, when the pepMHC was immobilized (plate bound), T cells with the lowest affinity TCRs (e.g., K(D) = 30 microM) responded, even in the absence of CD8, indicating that these TCR are signaling competent. Surprisingly, even cells that expressed high-affinity (K(D) = 16 nM) TCRs along with CD8 were unresponsive to oligomers in solution. The findings suggest that to drive downstream T cell responses, pepMHC must be presented in a form that supports formation of appropriate supramolecular clusters.
+
+-Animals
++Antigen Presentation
+-Antigen-Presenting Cells
+-CD4-Positive T-Lymphocytes (-immunology)
+-CD8-Positive T-Lymphocytes (-immunology)
+-Hybridomas
+-Ligands
+-Mice
+-Peptides (-chemical synthesis; +chemistry; +immunology)
+-Protein Binding (-immunology)
+-Receptors, Antigen, T-Cell (+immunology)
+-Surface Plasmon Resonance
+-T-Lymphocytes (+immunology)
+
+pii:jimmunol.0900054
+doi:10.4049/jimmunol.0900054
+pubmed:19553539
+mid:NIHMS182270
+pmc:PMC2841305
+

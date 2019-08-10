@@ -1,0 +1,34 @@
+Biochemistry
+
+Kinetic, dynamic, ligand binding properties, and structural models of a dual-substrate specific nudix hydrolase from Schizosaccharomyces pombe.
+
+JA Garza, U Ilangovan, AP Hinck, LD Barnes
+
+Schizosaccharomyces pombe Aps1 is a nudix hydrolase that catalyzes the hydrolysis of both diadenosine 5',5'''-P(1),P(n)-oligophosphates and diphosphoinositol polyphosphates in vitro. Nudix hydrolases act upon a wide variety of substrates, despite having a common 23 amino acid catalytic motif; hence, the residues responsible for substrate specificity are considered to reside outside the common catalytic nudix motif. The specific residues involved in binding each substrate of S. pombe Aps1 are unknown. In this study, we have conducted mutational and kinetic studies in combination with structural homology modeling and NMR spectroscopic analyses to identify potential residues involved in binding each class of substrates. This study demonstrates several major findings with regard to Aps1. First, the determination of the kinetic parameters of K(m) and k(cat) indicated that the initial 31 residues of Aps1 are not involved in substrate binding or catalysis with respect to Ap(6)A. Second, NMR spectroscopic analyses revealed the secondary structure and three dynamic backbone regions, one of which corresponds to a large insert in Aps1 as compared to other putative fungal orthologues. Third, two structural models of Aps1Delta2-19, based on the crystal structures of human DIPP1 and T. thermophilus Ndx1, were generated using homology modeling. The structural models were in excellent agreement with the NMR-derived secondary structure of Aps1Delta2-19. Fourth, NMR chemical shift mapping in conjunction with structural homology models indicated several residues outside the catalytic nudix motif that are involved in specific binding of diphosphoinositol polyphosphate or diadenosine oligophosphate ligands.
+
+-Amino Acid Sequence
+-Binding Sites
+-Biocatalysis
+-Catalytic Domain
+-Dinucleoside Phosphates (-chemistry; -metabolism)
+-Gene Deletion
+-Inositol Phosphates (-chemistry; -metabolism)
+-Kinetics
+-Magnesium Chloride (-chemistry)
+-Models, Molecular
+-Molecular Sequence Data
+-Nuclear Magnetic Resonance, Biomolecular
+-Phytic Acid (-chemistry; -metabolism)
+-Protein Binding
+-Protein Conformation
+-Protein Structure, Secondary
+-Pyrophosphatases (+chemistry; -genetics; -metabolism)
+-Recombinant Proteins (-chemistry)
+-Schizosaccharomyces (-enzymology)
+-Schizosaccharomyces pombe Proteins (+chemistry; -genetics; -metabolism)
+-Sequence Homology, Amino Acid
+-Titrimetry
+
+doi:10.1021/bi802266g
+pubmed:19462967
+

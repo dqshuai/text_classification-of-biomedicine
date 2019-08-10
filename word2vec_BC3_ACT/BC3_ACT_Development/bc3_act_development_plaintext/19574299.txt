@@ -1,0 +1,24 @@
+Genes Dev.
+
+The axial element protein HTP-3 promotes cohesin loading and meiotic axis assembly in C. elegans to implement the meiotic program of chromosome segregation.
+
+AF Severson, L Ling, V van Zuylen, BJ Meyer
+
+Faithful transmission of the genome through sexual reproduction requires reduction of genome copy number during meiosis to produce haploid sperm and eggs. Meiosis entails steps absent from mitosis to achieve this goal. When meiosis begins, sisters are held together by sister chromatid cohesion (SCC), mediated by the cohesin complex. Homologs then become linked through crossover recombination. SCC subsequently holds both sisters and homologs together. Separation of homologs and then sisters requires two successive rounds of chromosome segregation and the stepwise removal of Rec8, a meiosis-specific cohesin subunit. We show that HTP-3, a known component of the C. elegans axial element (AE), molecularly links these meiotic innovations. We identified HTP-3 in a genetic screen for factors necessary to maintain SCC until meiosis II. Our data show that interdependent loading of HTP-3 and cohesin is a principal step in assembling the meiotic chromosomal axis and in establishing SCC. HTP-3 recruits all known AE components to meiotic chromosomes and promotes cohesin loading, the first known involvement of an AE protein in this process. Furthermore, REC-8 and two paralogs, called COH-3 and COH-4, together mediate meiotic SCC, but they perform specialized functions. REC-8 alone is necessary and sufficient for the persistence of SCC after meiosis I. In htp-3 and rec-8 mutants, sister chromatids segregate away from one another in meiosis I (equational division), rather than segregating randomly, as expected if SCC were completely eliminated. AE assembly fails only when REC-8, COH-3, and COH-4 are simultaneously disrupted. Premature equational sister separation in rec8 mutants of other organisms suggests the involvement of multiple REC-8 paralogs, which may have masked a conserved requirement for cohesin in AE assembly.
+
+-Animals
+-Caenorhabditis elegans (+genetics; +metabolism)
+-Caenorhabditis elegans Proteins (+metabolism)
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Chromosomal Proteins, Non-Histone (+metabolism)
+-Chromosome Segregation (+genetics)
+-Esterases (-genetics)
+-Meiosis (+genetics)
+-Mutation
+-Synaptonemal Complex (-metabolism)
+
+pii:gad.1808809
+doi:10.1101/gad.1808809
+pubmed:19574299
+pmc:PMC2720254
+

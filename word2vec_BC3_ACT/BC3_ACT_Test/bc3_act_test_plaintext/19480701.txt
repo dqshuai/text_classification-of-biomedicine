@@ -1,0 +1,24 @@
+BMC Mol. Biol.
+
+Cloning and analysis of a bifunctional methyltransferase/restriction endonuclease TspGWI, the prototype of a Thermus sp. enzyme family.
+
+A Zylicz-Stachula, JM Bujnicki, PM Skowron
+
+BACKGROUND: Restriction-modification systems are a diverse class of enzymes. They are classified into four major types: I, II, III and IV. We have previously proposed the existence of a Thermus sp. enzyme family, which belongs to type II restriction endonucleases (REases), however, it features also some characteristics of types I and III. Members include related thermophilic endonucleases: TspGWI, TaqII, TspDTI, and Tth111II. RESULTS: Here we describe cloning, mutagenesis and analysis of the prototype TspGWI enzyme that recognises the 5'-ACGGA-3' site and cleaves 11/9 nt downstream. We cloned, expressed, and mutagenised the tspgwi gene and investigated the properties of its product, the bifunctional TspGWI restriction/modification enzyme. Since TspGWI does not cleave DNA completely, a cloning method was devised, based on amino acid sequencing of internal proteolytic fragments. The deduced amino acid sequence of the enzyme shares significant sequence similarity with another representative of the Thermus sp. family - TaqII. Interestingly, these enzymes recognise similar, yet different sequences in the DNA. Both enzymes cleave DNA at the same distance, but differ in their ability to cleave single sites and in the requirement of S-adenosylmethionine as an allosteric activator for cleavage. Both the restriction endonuclease (REase) and methyltransferase (MTase) activities of wild type (wt) TspGWI (either recombinant or isolated from Thermus sp.) are dependent on the presence of divalent cations. CONCLUSION: TspGWI is a bifunctional protein comprising a tandem arrangement of Type I-like domains; particularly noticeable is the central HsdM-like module comprising a helical domain and a highly conserved S-adenosylmethionine-binding/catalytic MTase domain, containing DPAVGTG and NPPY motifs. TspGWI also possesses an N-terminal PD-(D/E)XK nuclease domain related to the corresponding domains in HsdR subunits, but lacks the ATP-dependent translocase module of the HsdR subunit and the additional domains that are involved in subunit-subunit interactions in Type I systems. The MTase and REase activities of TspGWI are autonomous and can be uncoupled. Structurally and functionally, the TspGWI protomer appears to be a streamlined 'half' of a Type I enzyme.
+
+-Amino Acid Sequence
++Cloning, Molecular
+-DNA Modification Methylases (-chemistry; +genetics; +metabolism)
+-DNA Restriction Enzymes (-chemistry; +genetics; +metabolism)
+-DNA Restriction-Modification Enzymes
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Protein Structure, Tertiary
+-Sequence Alignment
+-Thermus (+enzymology)
+
+pii:1471-2199-10-52
+doi:10.1186/1471-2199-10-52
+pubmed:19480701
+pmc:PMC2700111
+

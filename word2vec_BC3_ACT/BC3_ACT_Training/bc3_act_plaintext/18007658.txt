@@ -1,0 +1,24 @@
+EMBO Rep.
+
+SM-protein-controlled ER-associated degradation discriminates between different SNAREs.
+
+S Braun, S Jentsch
+
+Endoplasmic reticulum (ER)-associated degradation (ERAD) is a specialized activity of the ubiquitin-proteasome system that is involved in clearing the ER of aberrant proteins and regulating the levels of specific ER-resident proteins. Here we show that the yeast ER-SNARE Ufe1, a syntaxin (Qa-SNARE) involved in ER membrane fusion and retrograde transport from the Golgi to the ER, is prone to degradation by an ERAD-like mechanism. Notably, Ufe1 is protected against degradation through binding to Sly1, a known SNARE regulator of the Sec1-Munc18 (SM) protein family. This mechanism is specific for Ufe1, as the stability of another Sly1 partner, the Golgi Qa-SNARE Sed5, is not influenced by Sly1 interaction. Thus, our findings identify Sly1 as a discriminating regulator of SNARE levels and indicate that Sly1-controlled ERAD might regulate the balance between different Qa-SNARE proteins.
+
+-Blotting, Western
+-Electrophoresis, Polyacrylamide Gel
+-Endoplasmic Reticulum (+metabolism)
+-Munc18 Proteins (-genetics; +metabolism)
+-Protein Binding
+-Qa-SNARE Proteins (-genetics; -metabolism)
+-SNARE Proteins (+metabolism)
+-Saccharomyces cerevisiae (-genetics; -growth & development; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Ubiquitination
+
+pii:7401105
+doi:10.1038/sj.embor.7401105
+pubmed:18007658
+pmc:PMC2267232
+

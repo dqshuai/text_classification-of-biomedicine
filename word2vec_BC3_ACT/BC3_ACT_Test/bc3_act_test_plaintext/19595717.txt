@@ -1,0 +1,26 @@
+Mol. Cell
+
+Multiple pathways regulate 3' overhang generation at S. cerevisiae telomeres.
+
+D Bonetti, M Martina, M Clerici, G Lucchini, MP Longhese
+
+Generation of 3' G strand overhangs at telomere ends may play a role in regulating telomerase action and occurs by still unclear mechanisms. We show by an inducible short telomere assay that Sae2 and the Sgs1 RecQ helicase control two distinct but partially complementary pathways for nucleolytic processing of S. cerevisiae telomeres, with Sae2 function requiring its serine 267 phosphorylation. No processing activity is detectable in sae2Delta sgs1Delta cells, while the Exo1 exonuclease contributes to telomere end processing and elongation in both sae2Delta and sgs1Delta cells, suggesting that Exo1 telomeric function requires either Sgs1 or Sae2 action. Moreover, Dna2 might also support Sgs1 activity, as it acts redundantly with Exo1, but not with Sgs1. Finally, both length maintenance and G strand overhang generation at native telomeres are affected in sae2Delta sgs1Delta cells, further supporting the notion that Sae2 and Sgs1 combined activities control telomere length by regulating telomere processing.
+
+-Blotting, Southern
+-DNA Helicases (-genetics; -metabolism)
+-DNA, Fungal (-genetics)
+-DNA, Single-Stranded (-chemistry; +genetics)
+-Endonucleases (-genetics; -metabolism)
+-Exodeoxyribonucleases (-genetics; -metabolism)
+-Mutation
+-Phosphorylation
+-RecQ Helicases (-genetics; -metabolism)
+-Saccharomyces cerevisiae (+genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (+genetics; -metabolism)
+-Serine (-genetics; -metabolism)
+-Telomere (-chemistry; +genetics)
+
+pii:S1097-2765(09)00348-7
+doi:10.1016/j.molcel.2009.05.015
+pubmed:19595717
+

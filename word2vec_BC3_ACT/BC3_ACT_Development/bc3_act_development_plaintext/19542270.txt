@@ -1,0 +1,24 @@
+J. Bacteriol.
+
+Role of the sigmaD-dependent autolysins in Bacillus subtilis population heterogeneity.
+
+R Chen, SB Guttenplan, KM Blair, DB Kearns
+
+Exponentially growing populations of Bacillus subtilis contain two morphologically and functionally distinct cell types: motile individuals and nonmotile multicellular chains. Motility differentiation arises because RNA polymerase and the alternative sigma factor sigma(D) activate expression of flagellin in a subpopulation of cells. Here we demonstrate that the peptidoglycan-remodeling autolysins under sigma(D) control, LytC, LytD, and LytF, are expressed in the same subpopulation of cells that complete flagellar synthesis. Morphological heterogeneity is explained by the expression of LytF that is necessary and sufficient for cell separation. Moreover, LytC is required for motility but not at the level of cell separation or flagellum biosynthesis. Rather, LytC appears to be important for flagellar function, and motility was restored to a LytC mutant by mutation of either lonA, encoding the LonA protease, or a gene encoding a previously unannotated swarming motility inhibitor, SmiA. We conclude that heterogeneous activation of sigma(D)-dependent gene expression is sufficient to explain both the morphological heterogeneity and functional heterogeneity present in vegetative B. subtilis populations.
+
+-Bacillus subtilis (-genetics; +growth & development; -metabolism; +physiology)
+-Bacterial Proteins (-genetics; -metabolism)
+-Culture Media
+-DNA Transposable Elements
+-Flagella (-physiology)
++Gene Expression Regulation, Bacterial
+-Microscopy, Fluorescence
+-Mutagenesis, Insertional
+-N-Acetylmuramoyl-L-alanine Amidase (-genetics; +metabolism)
+-Sigma Factor (-genetics; +metabolism)
+
+pii:JB.00521-09
+doi:10.1128/JB.00521-09
+pubmed:19542270
+pmc:PMC2737971
+

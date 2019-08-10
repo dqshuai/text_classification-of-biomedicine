@@ -1,0 +1,22 @@
+J. Bacteriol.
+
+Thioredoxin is involved in U(VI) and Cr(VI) reduction in Desulfovibrio desulfuricans G20.
+
+X Li, LR Krumholz
+
+A transposon insertion mutant has been identified in a Desulfovibrio desulfuricans G20 mutant library that does not grow in the presence of 2 mM U(VI) in lactate-sulfate medium. This mutant has also been shown to be deficient in the ability to grow with 100 microM Cr(VI) and 20 mM As(V). Experiments with washed cells showed that this mutant had lost the ability to reduce U(VI) or Cr(VI), providing an explanation for the lower tolerance. A gene encoding a cyclic AMP (cAMP) receptor protein (CRP) was identified as the site of the transposon insertion. The remainder of the mre operon (metal reduction) contains genes encoding a thioredoxin, thioredoxin reductase, and an additional oxidoreductase whose substrate has not been predicted. Expression studies showed that in the mutant, the entire operon is downregulated, suggesting that the CRP may be involved in regulating expression of the whole operon. Exposure of the cells to U(VI) resulted in upregulation of the entire operon. CdCl(2), a specific inhibitor of thioredoxin activity, inhibits U(VI) reduction by washed cells and inhibits growth of cells in culture when U(VI) is present, confirming a role for thioredoxin in U(VI) reduction. The entire mre operon was cloned into Escherichia coli JM109 and the transformant developed increased U(VI) resistance and the ability to reduce U(VI) to U(IV). The oxidoreductase protein (MreG) from this operon was expressed and purified from E. coli. In the presence of thioredoxin, thioredoxin reductase, and NADPH, this protein was shown to reduce both U(VI) and Cr(VI), providing a mechanism for the cytoplasmic reduction of these metals.
+
+-Bacterial Proteins (-genetics; -metabolism)
+-Chromium (+metabolism)
+-Desulfovibrio desulfuricans (-growth & development; +metabolism)
+-Operon (-genetics; -physiology)
+-Oxidation-Reduction
+-Oxidoreductases (-genetics; -metabolism)
+-Thioredoxins (+metabolism)
+-Uranium (+metabolism)
+
+pii:JB.00197-09
+doi:10.1128/JB.00197-09
+pubmed:19482922
+pmc:PMC2715717
+

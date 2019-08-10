@@ -1,0 +1,20 @@
+Nat. Methods
+
+Digital transcriptome profiling using selective hexamer priming for cDNA synthesis.
+
+CD Armour, JC Castle, R Chen, T Babak, P Loerch, S Jackson, JK Shah, J Dey, CA Rohl, JM Johnson, CK Raymond
+
+We developed a procedure for the preparation of whole transcriptome cDNA libraries depleted of ribosomal RNA from only 1 microg of total RNA. The method relies on a collection of short, computationally selected oligonucleotides, called 'not-so-random' (NSR) primers, to obtain full-length, strand-specific representation of nonribosomal RNA transcripts. In this study we validated the technique by profiling human whole brain and universal human reference RNA using ultra-high-throughput sequencing.
+
+-Brain (+metabolism)
+-Cloning, Molecular
+-DNA, Complementary (+genetics)
+-Gene Expression Profiling (+methods)
++Gene Library
+-Humans
+-RNA (-genetics; -metabolism)
+
+pii:nmeth.1360
+doi:10.1038/nmeth.1360
+pubmed:19668204
+

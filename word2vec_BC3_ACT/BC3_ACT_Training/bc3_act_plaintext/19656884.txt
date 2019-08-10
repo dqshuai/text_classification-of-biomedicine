@@ -1,0 +1,27 @@
+J. Virol.
+
+The matrix protein of measles virus regulates viral RNA synthesis and assembly by interacting with the nucleocapsid protein.
+
+M Iwasaki, M Takeda, Y Shirogane, Y Nakatsu, T Nakamura, Y Yanagi
+
+The genome of measles virus (MV) is encapsidated by the nucleocapsid (N) protein and associates with RNA-dependent RNA polymerase to form the ribonucleoprotein complex. The matrix (M) protein is believed to play an important role in MV assembly by linking the ribonucleoprotein complex with envelope glycoproteins. Analyses using a yeast two-hybrid system and coimmunoprecipitation in mammalian cells revealed that the M protein interacts with the N protein and that two leucine residues at the carboxyl terminus of the N protein (L523 and L524) are critical for the interaction. In MV minigenome reporter gene assays, the M protein inhibited viral RNA synthesis only when it was able to interact with the N protein. The N protein colocalized with the M protein at the plasma membrane when the proteins were coexpressed in plasmid-transfected or MV-infected cells. In contrast, the N protein formed small dots in the perinuclear area when it was expressed without the M protein, or it was incapable of interacting with the M protein. Furthermore, a recombinant MV possessing a mutant N protein incapable of interacting with the M protein grew much less efficiently than the parental virus. Since the M protein has an intrinsic ability to associate with the plasma membrane, it may retain the ribonucleoprotein complex at the plasma membrane by binding to the N protein, thereby stopping viral RNA synthesis and promoting viral particle production. Consequently, our results indicate that the M protein regulates MV RNA synthesis and assembly via its interaction with the N protein.
+
+-Animals
+-Cell Line
+-Cercopithecus aethiops
++Gene Expression Regulation, Viral
+-Hela Cells
+-Humans
+-Measles virus (-genetics; +metabolism)
+-Nucleocapsid Proteins (-genetics; +metabolism)
+-RNA, Viral (-genetics; +metabolism)
+-Two-Hybrid System Techniques
+-Vero Cells
+-Viral Matrix Proteins (-genetics; +metabolism)
++Virus Assembly
+
+pii:JVI.01056-09
+doi:10.1128/JVI.01056-09
+pubmed:19656884
+pmc:PMC2753126
+

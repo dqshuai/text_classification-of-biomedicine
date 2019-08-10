@@ -1,0 +1,31 @@
+Biophys. J.
+
+Size of bicelle defects probed via diffusion nuclear magnetic resonance of PEG.
+
+R Soong, D Majonis, PM Macdonald
+
+Diffusion of various poly(ethylene glycol) (PEG) tracers of well-defined molecular weight and narrow polydispersity confined within the aqueous interstices between positively magnetically aligned bicelles was measured using pulsed-field-gradient (1)H nuclear magnetic resonance. The bicelles consisted of mixtures of dimyristoylphosphatidylcholine (DMPC), dimyristoylphosphatidylglycerol (DMPG), and dihexanoylphosphatidylcholine (DHPC) in the molar ratios q = [100 DMPC +5 DMPG]/[DHPC] = 3.5, 4.5, and 5.5, to which Yb(3+) had been added in the ratio 1:75 Yb(3+)/phospholipid. The field gradients were applied such that diffusion was measured in the direction parallel to the normal to the bicelles' planar regions, thereby rendering the experiment sensitive to the ability of PEG to traverse lamellar defects within the bicelles. The pulsed-field-gradient nuclear magnetic resonance diffusive intensity decays were diffusion-time-independent in all cases, with diffusive displacements corresponding to many hundreds of bicellar lamellae. This permitted a description of such diffusive decays in terms of a mean behavior involving a combination of straight obstruction effects common to all PEG, with hindrance to diffusion proportional to the relative size of a given PEG with respect to the size of the lamellar defects. Across the range of PEG molecular weights (200-4600) and bicelle compositions examined, the apparent radial dimension of the lamellar defects decreased from 165 A with q = 3.5 to 125 A with q = 5.5. This is opposite to the trend predicted from static geometric models of either bicelle disks or perforated lamellae. Qualitatively, the observed trend suggests that mobility of the obstructions to diffusion will need to be considered to reconcile these differences.
+
+-Algorithms
+-Chromatography
+-Diffusion
+-Dimyristoylphosphatidylcholine (-chemistry)
+-Magnetic Resonance Spectroscopy
++Membranes, Artificial
++Micelles
+-Models, Chemical
+-Phosphatidylcholines (-chemistry)
+-Phosphatidylglycerols (-chemistry)
+-Phospholipids (+chemistry)
+-Phosphorus Isotopes
+-Polyethylene Glycols (+chemistry)
+-Protons
+-Time Factors
+-Water (-chemistry)
+-Ytterbium (-chemistry)
+
+pii:S0006-3495(09)01043-1
+doi:10.1016/j.bpj.2009.05.034
+pubmed:19651038
+pmc:PMC2718149
+

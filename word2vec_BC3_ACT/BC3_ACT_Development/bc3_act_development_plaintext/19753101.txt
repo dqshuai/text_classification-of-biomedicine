@@ -1,0 +1,28 @@
+PLoS Biol.
+
+Loss of mitogen-activated protein kinase kinase kinase 4 (MAP3K4) reveals a requirement for MAPK signalling in mouse sex determination.
+
+D Bogani, P Siggers, R Brixey, N Warr, S Beddow, J Edwards, D Williams, D Wilhelm, P Koopman, RA Flavell, H Chi, H Ostrer, S Wells, M Cheeseman, A Greenfield
+
+Sex determination in mammals is controlled by the presence or absence of the Y-linked gene SRY. In the developing male (XY) gonad, sex-determining region of the Y (SRY) protein acts to up-regulate expression of the related gene, SOX9, a transcriptional regulator that in turn initiates a downstream pathway of testis development, whilst also suppressing ovary development. Despite the requirement for a number of transcription factors and secreted signalling molecules in sex determination, intracellular signalling components functioning in this process have not been defined. Here we report a role for the phylogenetically ancient mitogen-activated protein kinase (MAPK) signalling pathway in mouse sex determination. Using a forward genetic screen, we identified the recessive boygirl (byg) mutation. On the C57BL/6J background, embryos homozygous for byg exhibit consistent XY gonadal sex reversal. The byg mutation is an A to T transversion causing a premature stop codon in the gene encoding MAP3K4 (also known as MEKK4), a mitogen-activated protein kinase kinase kinase. Analysis of XY byg/byg gonads at 11.5 d post coitum reveals a growth deficit and a failure to support mesonephric cell migration, both early cellular processes normally associated with testis development. Expression analysis of mutant XY gonads at the same stage also reveals a dramatic reduction in Sox9 and, crucially, Sry at the transcript and protein levels. Moreover, we describe experiments showing the presence of activated MKK4, a direct target of MAP3K4, and activated p38 in the coelomic region of the XY gonad at 11.5 d post coitum, establishing a link between MAPK signalling in proliferating gonadal somatic cells and regulation of Sry expression. Finally, we provide evidence that haploinsufficiency for Map3k4 accounts for T-associated sex reversal (Tas). These data demonstrate that MAP3K4-dependent signalling events are required for normal expression of Sry during testis development, and create a novel entry point into the molecular and cellular mechanisms underlying sex determination in mice and disorders of sexual development in humans.
+
+-Animals
+-Female
+-Gene Expression Regulation, Developmental
+-Humans
+-MAP Kinase Kinase Kinase 4 (+deficiency; -genetics)
++MAP Kinase Signaling System
+-Male
+-Mice
+-Mice, Inbred C57BL
+-Ovary (-cytology; -embryology)
+-Point Mutation
++Sex Determination (Genetics)
+-Sex Reversal, Gonadal
+-Sex-Determining Region Y Protein (-genetics; -metabolism)
+-Testis (-cytology; -embryology)
+
+doi:10.1371/journal.pbio.1000196
+pubmed:19753101
+pmc:PMC2733150
+

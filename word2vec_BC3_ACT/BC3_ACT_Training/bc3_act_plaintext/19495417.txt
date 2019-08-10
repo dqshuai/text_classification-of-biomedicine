@@ -1,0 +1,27 @@
+PLoS ONE
+
+N-Myc regulates expression of pluripotency genes in neuroblastoma including lif, klf2, klf4, and lin28b.
+
+R Cotterman, PS Knoepfler
+
+myc genes are best known for causing tumors when overexpressed, but recent studies suggest endogenous myc regulates pluripotency and self-renewal of stem cells. For example, N-myc is associated with a number of tumors including neuroblastoma, but also plays a central role in the function of normal neural stem and precursor cells (NSC). Both c- and N-myc also enhance the production of induced pluripotent stem cells (iPSC) and are linked to neural tumor stem cells. The mechanisms by which myc regulates normal and neoplastic stem-related functions remain largely open questions. Here from a global, unbiased search for N-Myc bound genes using ChIP-chip assays in neuroblastoma, we found lif as a putative N-Myc bound gene with a number of strong N-Myc binding peaks in the promoter region enriched for E-boxes. Amongst putative N-Myc target genes in expression microarray studies in neuroblastoma we also found lif and three additional important embryonic stem cell (ESC)-related factors that are linked to production of iPSC: klf2, klf4, and lin28b. To examine the regulation of these genes by N-Myc, we measured their expression using neuroblastoma cells that contain a Tet-regulatable N-myc transgene (TET21N) as well as NSC with a nestin-cre driven N-myc knockout. N-myc levels closely correlated with the expression of all of these genes in neuroblastoma and all but lif in NSC. Direct ChIP assays also indicate that N-Myc directly binds the lif promoter. N-Myc regulates trimethylation of lysine 4 of histone H3 in the promoter of lif and possibly in the promoters of several other stem-related genes. Together these findings indicate that N-Myc regulates overlapping stem-related gene expression programs in neuroblastoma and NSC, supporting a novel model by which amplification of the N-myc gene may drive formation of neuroblastoma. They also suggest mechanisms by which Myc proteins more generally contribute to maintenance of pluripotency and self-renewal of ESC as well as to iPSC formation.
+
+-DNA-Binding Proteins (+biosynthesis)
+-Embryonic Stem Cells (-metabolism)
++Gene Expression Regulation, Neoplastic
+-Genes, myc
+-Humans
+-Kruppel-Like Transcription Factors (+biosynthesis)
+-Leukemia Inhibitory Factor (+biosynthesis)
+-Methylation
+-Neuroblastoma (+metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Promoter Regions, Genetic
+-Proto-Oncogene Proteins c-myc (-metabolism; +physiology)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Transgenes
+
+doi:10.1371/journal.pone.0005799
+pubmed:19495417
+pmc:PMC2686170
+

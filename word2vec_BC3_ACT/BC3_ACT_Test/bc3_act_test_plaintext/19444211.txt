@@ -1,0 +1,13 @@
+Nature
+
+Thermal vestige of the zero-temperature jamming transition.
+
+Z Zhang, N Xu, DT Chen, P Yunker, AM Alsayed, KB Aptowicz, P Habdas, AJ Liu, SR Nagel, AG Yodh
+
+When the packing fraction is increased sufficiently, loose particulates jam to form a rigid solid in which the constituents are no longer free to move. In typical granular materials and foams, the thermal energy is too small to produce structural rearrangements. In this zero-temperature (T = 0) limit, multiple diverging and vanishing length scales characterize the approach to a sharp jamming transition. However, because thermal motion becomes relevant when the particles are small enough, it is imperative to understand how these length scales evolve as the temperature is increased. Here we used both colloidal experiments and computer simulations to progress beyond the zero-temperature limit to track one of the key parameters-the overlap distance between neighbouring particles-which vanishes at the T = 0 jamming transition. We find that this structural feature retains a vestige of its T = 0 behaviour and evolves in an unusual manner, which has masked its appearance until now. It is evident as a function of packing fraction at fixed temperature, but not as a function of temperature at fixed packing fraction or pressure. Our results conclusively demonstrate that length scales associated with the T = 0 jamming transition persist in thermal systems, not only in simulations but also in laboratory experiments.
+
+
+pii:nature07998
+doi:10.1038/nature07998
+pubmed:19444211
+

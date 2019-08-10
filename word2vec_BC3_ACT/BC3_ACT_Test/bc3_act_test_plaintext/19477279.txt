@@ -1,0 +1,26 @@
+Methods
+
+Consensus-degenerate hybrid oligonucleotide primers (CODEHOPs) for the detection of novel viruses in non-human primates.
+
+JP Staheli, JT Ryan, AG Bruce, R Boyce, TM Rose
+
+Consensus-degenerate hybrid oligonucleotide primers (CODEHOPs) have proven to be a powerful tool for the identification of novel genes. CODEHOPs are designed from highly-conserved regions of multiply-aligned protein sequences from members of a gene family and are used in PCR amplification to identify distantly-related genes. The CODEHOP approach has been used to identify novel pathogens by targeting amino acid motifs conserved in specific pathogen families. We initiated a program utilizing the CODEHOP approach to develop PCR-based assays targeting a variety of viral families that are pathogens in non-human primates. We have also developed and further improved a computer program and website to facilitate the design of CODEHOP PCR primers. Here, we detail the method for the development of pathogen-specific CODEHOP PCR assays using the papillomavirus family as a target. Papillomaviruses constitute a diverse virus family infecting a wide variety of mammalian species, including humans and non-human primates. We demonstrate that our pan-papillomavirus CODEHOP assay is broadly reactive with all major branches of the virus family and show its utility in identifying a novel non-human primate papillomavirus in cynomolgus macaques.
+
+-Animals
++Conserved Sequence
++DNA Primers (-genetics)
+-DNA, Viral (-genetics)
+-Humans
+-Phylogeny
+-Polymerase Chain Reaction
+-Primate Diseases (+virology)
+-Primates (+genetics; +virology)
+-Virus Diseases (+virology)
+-Viruses (+genetics)
+
+pii:S1046-2023(09)00133-9
+doi:10.1016/j.ymeth.2009.05.011
+pubmed:19477279
+mid:NIHMS144258
+pmc:PMC2751581
+

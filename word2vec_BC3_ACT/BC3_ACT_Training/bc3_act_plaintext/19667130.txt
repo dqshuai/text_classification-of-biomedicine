@@ -1,0 +1,25 @@
+J. Cell Biol.
+
+Multiparametric analysis of focal adhesion formation by RNAi-mediated gene knockdown.
+
+SE Winograd-Katz, S Itzkovitz, Z Kam, B Geiger
+
+Cell adhesion to the extracellular matrix is mediated by elaborate networks of multiprotein complexes consisting of adhesion receptors, cytoskeletal components, signaling molecules, and diverse adaptor proteins. To explore how specific molecular pathways function in the assembly of focal adhesions (FAs), we performed a high-throughput, high-resolution, microscopy-based screen. We used small interfering RNAs (siRNAs) to target human kinases, phosphatases, and migration- and adhesion-related genes. Multiparametric image analysis of control and of siRNA-treated cells revealed major correlations between distinct morphological FA features. Clustering analysis identified different gene families whose perturbation induced similar effects, some of which uncoupled the interfeature correlations. Based on these findings, we propose a model for the molecular hierarchy of FA formation, and tested its validity by dynamic analysis of FA formation and turnover. This study provides a comprehensive information resource on the molecular regulation of multiple cell adhesion features, and sheds light on signaling mechanisms regulating the formation of integrin adhesions.
+
+-Cell Shape (-genetics; -physiology)
+-Cluster Analysis
+-Focal Adhesions (+genetics; +metabolism)
+-Gene Knockdown Techniques
+-Gene Library
+-Hela Cells
+-Humans
+-Phosphoric Monoester Hydrolases (-genetics; -metabolism)
+-Protein Kinases (-genetics; -metabolism)
+-RNA, Small Interfering (+genetics)
+-Signal Transduction
+
+pii:jcb.200901105
+doi:10.1083/jcb.200901105
+pubmed:19667130
+pmc:PMC2728402
+

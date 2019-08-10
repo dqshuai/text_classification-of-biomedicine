@@ -1,0 +1,32 @@
+J. Neurosci.
+
+Low-conductance HCN1 ion channels augment the frequency response of rod and cone photoreceptors.
+
+AJ Barrow, SM Wu
+
+Hyperpolarization-activated cyclic nucleotide-gated (HCN) ion channels are expressed in several tissues throughout the body, including the heart, the CNS, and the retina. HCN channels are found in many neurons in the retina, but their most established role is in generating the hyperpolarization-activated current, I(h), in photoreceptors. This current makes the light response of rod and cone photoreceptors more transient, an effect similar to that of a high-pass filter. A unique property of HCN channels is their small single-channel current, which is below the thermal noise threshold of measuring electronics. We use nonstationary fluctuation analysis (NSFA) in the intact retina to estimate the conductance of single HCN channels, revealing a conductance of approximately 650 fS in both rod and cone photoreceptors. We also analyze the properties of HCN channels in salamander rods and cones, from the biophysical to the functional level, showing that HCN1 is the predominant isoform in both cells, and demonstrate how HCN1 channels speed up the light response of both rods and cones under distinct adaptational conditions. We show that in rods and cones, HCN channels increase the natural frequency response of single cells by modifying the photocurrent input, which is limited in its frequency response by the speed of a molecular signaling cascade. In doing so, HCN channels form the first of several systems in the retina that augment the speed of the visual response, allowing an animal to perceive visual stimuli that change more quickly than the underlying photocurrent.
+
+-Animals
+-Biophysics
+-Computer Simulation
+-Cyclic Nucleotide-Gated Cation Channels (-classification; -metabolism; +physiology)
+-Ion Channel Gating
+-Light
+-Membrane Potentials (-drug effects; +physiology)
+-Models, Neurological
+-Nerve Net (-physiology)
+-Patch-Clamp Techniques (-methods)
+-Potassium Channels (-classification; -metabolism; +physiology)
+-Protein Binding (-physiology)
+-Retina (-cytology)
+-Retinal Cone Photoreceptor Cells (+physiology)
+-Retinal Rod Photoreceptor Cells (+physiology)
+-Signal Transduction (-physiology)
+-Urodela
+
+pii:29/18/5841
+doi:10.1523/JNEUROSCI.5746-08.2009
+pubmed:19420251
+mid:NIHMS115576
+pmc:PMC2695939
+

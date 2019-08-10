@@ -1,0 +1,32 @@
+J. Neurosci.
+
+A role for blind DN2 clock neurons in temperature entrainment of the Drosophila larval brain.
+
+M Picot, A Klarsfeld, E Chélot, S Malpel, F Rouyer
+
+Circadian clocks synchronize to the solar day by sensing the diurnal changes in light and temperature. In adult Drosophila, the brain clock that controls rest-activity rhythms relies on neurons showing Period oscillations. Nine of these neurons are present in each larval brain hemisphere. They can receive light inputs through Cryptochrome (CRY) and the visual system, but temperature input pathways are unknown. Here, we investigate how the larval clock network responds to light and temperature. We focused on the CRY-negative dorsal neurons (DN2s), in which light-dark (LD) cycles set molecular oscillations almost in antiphase to all other clock neurons. We first showed that the phasing of the DN2s in LD depends on the pigment-dispersing factor (PDF) neuropeptide in four lateral neurons (LNs), and on the PDF receptor in the DN2s. In the absence of PDF signaling, these cells appear blind, but still synchronize to temperature cycles. Period oscillations in the DN2s were stronger in thermocycles than in LD, but with a very similar phase. Conversely, the oscillations of LNs were weaker in thermocycles than in LD, and were phase-shifted in synchrony with the DN2s, whereas the phase of the three other clock neurons was advanced by a few hours. In the absence of any other functional clock neurons, the PDF-positive LNs were entrained by LD cycles but not by temperature cycles. Our results show that the larval clock neurons respond very differently to light and temperature, and strongly suggest that the CRY-negative DN2s play a prominent role in the temperature entrainment of the network.
+
+-Analysis of Variance
+-Animals
+-Animals, Genetically Modified
+-Behavior, Animal
+-Biological Clocks (-physiology)
+-Brain (+cytology; -physiology)
+-Cryptochromes
+-Drosophila (+physiology)
+-Drosophila Proteins (-genetics; +metabolism)
+-Eye Proteins (-genetics; -metabolism)
+-Green Fluorescent Proteins (-genetics)
+-Larva
++Light
+-Neurons (+physiology)
+-Neuropeptides (-genetics; +metabolism)
+-Receptors, G-Protein-Coupled (-genetics; -metabolism)
+-Signal Transduction (-physiology)
++Temperature
+-Time Factors
+
+pii:29/26/8312
+doi:10.1523/JNEUROSCI.0279-08.2009
+pubmed:19571122
+

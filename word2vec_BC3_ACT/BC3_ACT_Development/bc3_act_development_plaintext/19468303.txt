@@ -1,0 +1,20 @@
+PLoS Biol.
+
+Lineage-specific biology revealed by a finished genome assembly of the mouse.
+
+DM Church, L Goodstadt, LW Hillier, MC Zody, S Goldstein, X She, CJ Bult, R Agarwala, JL Cherry, M DiCuccio, W Hlavina, Y Kapustin, P Meric, D Maglott, Z Birtle, AC Marques, T Graves, S Zhou, B Teague, K Potamousis, C Churas, M Place, J Herschleb, R Runnheim, D Forrest, J Amos-Landgraf, DC Schwartz, Z Cheng, K Lindblad-Toh, EE Eichler, CP Ponting
+
+The mouse (Mus musculus) is the premier animal model for understanding human disease and development. Here we show that a comprehensive understanding of mouse biology is only possible with the availability of a finished, high-quality genome assembly. The finished clone-based assembly of the mouse strain C57BL/6J reported here has over 175,000 fewer gaps and over 139 Mb more of novel sequence, compared with the earlier MGSCv3 draft genome assembly. In a comprehensive analysis of this revised genome sequence, we are now able to define 20,210 protein-coding genes, over a thousand more than predicted in the human genome (19,042 genes). In addition, we identified 439 long, non-protein-coding RNAs with evidence for transcribed orthologs in human. We analyzed the complex and repetitive landscape of 267 Mb of sequence that was missing or misassembled in the previously published assembly, and we provide insights into the reasons for its resistance to sequencing and assembly by whole-genome shotgun approaches. Duplicated regions within newly assembled sequence tend to be of more recent ancestry than duplicates in the published draft, correcting our initial understanding of recent evolution on the mouse lineage. These duplicates appear to be largely composed of sequence regions containing transposable elements and duplicated protein-coding genes; of these, some may be fixed in the mouse population, but at least 40% of segmentally duplicated sequences are copy number variable even among laboratory mouse strains. Mouse lineage-specific regions contain 3,767 genes drawn mainly from rapidly-changing gene families associated with reproductive functions. The finished mouse genome assembly, therefore, greatly improves our understanding of rodent-specific biology and allows the delineation of ancestral biological functions that are shared with human from derived functions that are not.
+
+-Animals
+-Computational Biology (+methods)
+-Databases, Genetic
+-Gene Duplication
+-Genome (+genetics; -physiology)
+-Humans
+-Mice
+
+doi:10.1371/journal.pbio.1000112
+pubmed:19468303
+pmc:PMC2680341
+

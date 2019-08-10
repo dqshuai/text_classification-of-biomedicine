@@ -1,0 +1,19 @@
+PLoS ONE
+
+Mutational biases and selective forces shaping the structure of Arabidopsis genes.
+
+S Camiolo, D Rau, A Porceddu
+
+Recently features of gene expression profiles have been associated with structural parameters of gene sequences in organisms representing a diverse set of taxa. The emerging picture indicates that natural selection, mediated by gene expression profiles, has a significant role in determining genic structures. However the current situation is less clear in plants as the available data indicates that the effect of natural selection mediated by gene expression is very weak. Moreover, the direction of the patterns in plants appears to contradict those observed in animal genomes. In the present work we analized expression data for >18000 Arabidopsis genes retrieved from public datasets obtained with different technologies (MPSS and high density chip arrays) and compared them with gene parameters. Our results show that the impact of natural selection mediated by expression on genes sequences is significant and distinguishable from the effects of regional mutational biases. In addition, we provide evidence that the level and the breadth of gene expression are related in opposite ways to many structural parameters of gene sequences. Higher levels of expression abundance are associated with smaller transcripts, consistent with the need to reduce costs of both transcription and translation. Expression breadth, however, shows a contrasting pattern, i.e. longer genes have higher breadth of expression, possibly to ensure those structural features associated with gene plasticity. Based on these results, we propose that the specific balance between these two selective forces play a significant role in shaping the structure of Arabidopsis genes.
+
+-3' Untranslated Regions
+-5' Untranslated Regions
+-Arabidopsis (+genetics)
+-Databases, Genetic
++Genes, Plant
++Mutation
+
+doi:10.1371/journal.pone.0006356
+pubmed:19633720
+pmc:PMC2712092
+

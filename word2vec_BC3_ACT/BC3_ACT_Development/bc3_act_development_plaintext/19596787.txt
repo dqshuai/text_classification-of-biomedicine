@@ -1,0 +1,33 @@
+Mol. Cell. Biol.
+
+A Cds1-mediated checkpoint protects the MBF activator Rep2 from ubiquitination by anaphase-promoting complex/cyclosome-Ste9 at S-phase arrest in fission yeast.
+
+Z Chu, M Eshaghi, SY Poon, J Liu
+
+Transcription of the MluI cell cycle box (MCB) motif-containing genes at G(1) phase is regulated by the MCB-binding factors (MBF) (also called DSC1) in Schizosaccharomyces pombe. Upon S-phase arrest, the MBF transcriptional activity is induced through the accumulation of the MBF activator Rep2. In this study, we show that the turnover of Rep2 is attributable to ubiquitin-mediated proteolysis. Levels of Rep2 oscillate during the cell cycle, with a peak at G(1) phase, coincident with the MBF activity. Furthermore, we show that Rep2 ubiquitination requires the function of the E3 ligase anaphase-promoting complex/cyclosome (APC/C). Ste9 can be phosphorylated by the checkpoint kinase Cds1 in vitro, and its inhibition/phosphorylation at S-phase arrest is dependent on the function of Cds1. Our data indicate that the Cds1-dependent stabilization of Rep2 is achieved through the inhibition/phosphorylation of APC/C-Ste9 at the onset of S-phase arrest. Stabilization of Rep2 is important for stimulating transcription of the MBF-dependent genes to ensure a sufficient supply of proteins essential for cell recovery from S-phase arrest. We propose that oscillation of Rep2 plays a role in regulation of periodic transcription of the MBF-dependent genes during cell cycle progression.
+
+-Amino Acid Sequence
+-Cell Cycle Proteins (+metabolism)
+-DNA-Binding Proteins (-metabolism)
+-G1 Phase (-drug effects)
+-Hydroxyurea (-pharmacology)
+-Mutation (-genetics)
+-Phosphorylation (-drug effects)
+-Proteasome Endopeptidase Complex (-metabolism)
+-Protein Binding (-drug effects)
+-Protein Processing, Post-Translational (-drug effects)
+-Protein Stability (-drug effects)
+-Protein-Serine-Threonine Kinases (+metabolism)
++S Phase (-drug effects)
+-Schizosaccharomyces (+cytology; -drug effects; +enzymology; -genetics)
+-Schizosaccharomyces pombe Proteins (-chemistry; +metabolism)
+-Trans-Activators (-chemistry; +metabolism)
+-Transcription, Genetic (-drug effects)
+-Ubiquitin-Protein Ligase Complexes (+metabolism)
+-Ubiquitination (-drug effects)
+
+pii:MCB.00562-09
+doi:10.1128/MCB.00562-09
+pubmed:19596787
+pmc:PMC2738293
+

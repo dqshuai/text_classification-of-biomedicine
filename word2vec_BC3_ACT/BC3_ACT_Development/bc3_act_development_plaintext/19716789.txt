@@ -1,0 +1,39 @@
+Mol. Cell
+
+The F box protein Fbx6 regulates Chk1 stability and cellular sensitivity to replication stress.
+
+YW Zhang, J Brognard, C Coughlin, Z You, M Dolled-Filhart, A Aslanian, G Manning, RT Abraham, T Hunter
+
+ATR and Chk1 are two key protein kinases in the replication checkpoint. Activation of ATR-Chk1 has been extensively investigated, but checkpoint termination and replication fork restart are less well understood. Here, we report that DNA damage not only activates Chk1, but also exposes a degron-like region at the carboxyl terminus of Chk1 to an Fbx6-containing SCF (Skp1-Cul1-F box) E3 ligase, which mediates the ubiquitination and degradation of Chk1 and, in turn, terminates the checkpoint. The protein levels of Chk1 and Fbx6 showed an inverse correlation in both cultured cancer cells and in human breast tumor tissues. Further, we show that low levels of Fbx6 and consequent impairment of replication stress-induced Chk1 degradation are associated with cancer cell resistance to the chemotherapeutic agent, camptothecin. We propose that Fbx6-dependent Chk1 degradation contributes to S phase checkpoint termination and that a defect in this mechanism might increase tumor cell resistance to certain anticancer drugs.
+
+-Antineoplastic Agents, Phytogenic (-pharmacology)
+-Camptothecin (-pharmacology)
+-Cell Cycle (-drug effects)
+-Cell Cycle Proteins (-metabolism)
+-Cell Death (-drug effects)
+-Cell Line, Tumor
++DNA Damage
++DNA Replication
+-Dose-Response Relationship, Drug
+-Drug Resistance, Neoplasm
+-Enzyme Activation
+-Humans
+-Lysine
+-Neoplasms (+enzymology; -genetics; -pathology)
+-Phosphorylation
+-Protein Kinases (-genetics; +metabolism)
++Protein Processing, Post-Translational
+-Protein Structure, Tertiary
+-Protein-Serine-Threonine Kinases (-metabolism)
+-RNA Interference
+-SKP Cullin F-Box Protein Ligases (-genetics; +metabolism)
++Stress, Physiological
+-Time Factors
+-Ubiquitination
+
+pii:S1097-2765(09)00471-7
+doi:10.1016/j.molcel.2009.06.030
+pubmed:19716789
+mid:NIHMS133389
+pmc:PMC2736145
+

@@ -1,0 +1,21 @@
+BMC Genet.
+
+LD2SNPing: linkage disequilibrium plotter and RFLP enzyme mining for tag SNPs.
+
+HW Chang, LY Chuang, YJ Chang, YH Cheng, YC Hung, HC Chen, CH Yang
+
+BACKGROUND: Linkage disequilibrium (LD) mapping is commonly used to evaluate markers for genome-wide association studies. Most types of LD software focus strictly on LD analysis and visualization, but lack supporting services for genotyping. RESULTS: We developed a freeware called LD2SNPing, which provides a complete package of mining tools for genotyping and LD analysis environments. The software provides SNP ID- and gene-centric online retrievals for SNP information and tag SNP selection from dbSNP/NCBI and HapMap, respectively. Restriction fragment length polymorphism (RFLP) enzyme information for SNP genotype is available to all SNP IDs and tag SNPs. Single and multiple SNP inputs are possible in order to perform LD analysis by online retrieval from HapMap and NCBI. An LD statistics section provides D, D', r2, deltaQ, rho, and the P values of the Hardy-Weinberg Equilibrium for each SNP marker, and Chi-square and likelihood-ratio tests for the pair-wise association of two SNPs in LD calculation. Finally, 2D and 3D plots, as well as plain-text output of the results, can be selected. CONCLUSION: LD2SNPing thus provides a novel visualization environment for multiple SNP input, which facilitates SNP association studies. The software, user manual, and tutorial are freely available at http://bio.kuas.edu.tw/LD2NPing.
+
+-Databases, Genetic
+-Genotype
++Linkage Disequilibrium
++Polymorphism, Restriction Fragment Length
++Polymorphism, Single Nucleotide
++Software
+-User-Computer Interface
+
+pii:1471-2156-10-26
+doi:10.1186/1471-2156-10-26
+pubmed:19500380
+pmc:PMC2709117
+

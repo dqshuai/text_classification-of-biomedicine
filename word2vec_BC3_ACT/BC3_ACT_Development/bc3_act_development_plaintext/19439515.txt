@@ -1,0 +1,24 @@
+Genome Res.
+
+Mobile elements create structural variation: analysis of a complete human genome.
+
+J Xing, Y Zhang, K Han, AH Salem, SK Sen, CD Huff, Q Zhou, EF Kirkness, S Levy, MA Batzer, LB Jorde
+
+Structural variants (SVs) are common in the human genome. Because approximately half of the human genome consists of repetitive, transposable DNA sequences, it is plausible that these elements play an important role in generating SVs in humans. Sequencing of the diploid genome of one individual human (HuRef) affords us the opportunity to assess, for the first time, the impact of mobile elements on SVs in an individual in a thorough and unbiased fashion. In this study, we systematically evaluated more than 8000 SVs to identify mobile element-associated SVs as small as 100 bp and specific to the HuRef genome. Combining computational and experimental analyses, we identified and validated 706 mobile element insertion events (including Alu, L1, SVA elements, and nonclassical insertions), which added more than 305 kb of new DNA sequence to the HuRef genome compared with the Human Genome Project (HGP) reference sequence (hg18). We also identified 140 mobile element-associated deletions, which removed approximately 126 kb of sequence from the HuRef genome. Overall, approximately 10% of the HuRef-specific indels larger than 100 bp are caused by mobile element-associated events. More than one-third of the insertion/deletion events occurred in genic regions, and new Alu insertions occurred in exons of three human genes. Based on the number of insertions and the estimated time to the most recent common ancestor of HuRef and the HGP reference genome, we estimated the Alu, L1, and SVA retrotransposition rates to be one in 21 births, 212 births, and 916 births, respectively. This study presents the first comprehensive analysis of mobile element-related structural variants in the complete DNA sequence of an individual and demonstrates that mobile elements play an important role in generating inter-individual structural variation.
+
+-Alu Elements
+-Computational Biology (+methods)
+-DNA Transposable Elements (+genetics)
+-Gene Deletion
++Genetic Variation
++Genome, Human
+-Humans
+-Molecular Sequence Data
+-Polymorphism, Single Nucleotide
+-Sequence Analysis, DNA
+
+pii:gr.091827.109
+doi:10.1101/gr.091827.109
+pubmed:19439515
+pmc:PMC2752133
+

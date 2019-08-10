@@ -1,0 +1,26 @@
+Biophys. J.
+
+A stochastic four-state model of contingent gating of gap junction channels containing two "fast" gates sensitive to transjunctional voltage.
+
+N Paulauskas, M Pranevicius, H Pranevicius, FF Bukauskas
+
+Connexins, a family of membrane proteins, form gap junction (GJ) channels that provide a direct pathway for electrical and metabolic signaling between cells. We developed a stochastic four-state model describing gating properties of homotypic and heterotypic GJ channels each composed of two hemichannels (connexons). GJ channel contain two "fast" gates (one per hemichannel) oriented opposite in respect to applied transjunctional voltage (V(j)). The model uses a formal scheme of peace-linear aggregate and accounts for voltage distribution inside the pore of the channel depending on the state, unitary conductances and gating properties of each hemichannel. We assume that each hemichannel can be in the open state with conductance gamma(h,o) and in the residual state with conductance gamma(h,res), and that both gamma(h,o) and gamma(h,res) rectifies. Gates can exhibit the same or different gating polarities. Gating of each hemichannel is determined by the fraction of V(j) that falls across the hemichannel, and takes into account contingent gating when gating of one hemichannel depends on the state of apposed hemichannel. At the single-channel level, the model revealed the relationship between unitary conductances of hemichannels and GJ channels and how this relationship is affected by gamma(h,o) and gamma(h,res) rectification. Simulation of junctions containing up to several thousands of homotypic or heterotypic GJs has been used to reproduce experimentally measured macroscopic junctional current and V(j)-dependent gating of GJs formed from different connexin isoforms. V(j)-gating was simulated by imitating several frequently used experimental protocols: 1), consecutive V(j) steps rising in amplitude, 2), slowly rising V(j) ramps, and 3), series of V(j) steps of high frequency. The model was used to predict V(j)-gating of heterotypic GJs from characteristics of corresponding homotypic channels. The model allowed us to identify the parameters of V(j)-gates under which small changes in the difference of holding potentials between cells forming heterotypic junctions effectively modulates cell-to-cell signaling from bidirectional to unidirectional. The proposed model can also be used to simulate gating properties of unapposed hemichannels.
+
+-Animals
+-Connexins (-chemistry; +metabolism)
+-Electric Conductivity
+-Gap Junctions (+chemistry; +metabolism)
+-Hela Cells
+-Humans
+-Ion Channel Gating
++Models, Biological
+-Porosity
+-Protein Isoforms (-chemistry; -metabolism)
+-Stochastic Processes
+-Time Factors
+
+pii:S0006-3495(09)00666-3
+doi:10.1016/j.bpj.2009.01.059
+pubmed:19450466
+pmc:PMC2712155
+

@@ -1,0 +1,25 @@
+BMC Genomics
+
+Biases in Drosophila melanogaster protein trap screens.
+
+J Aleksic, R Lazic, I Müller, SR Russell, B Adryan
+
+BACKGROUND: The ability to localise or follow endogenous proteins in real time in vivo is of tremendous utility for cell biology or systems biology studies. Protein trap screens utilise the random genomic insertion of a transposon-borne artificial reporter exon (e.g. encoding the green fluorescent protein, GFP) into an intron of an endogenous gene to generate a fluorescent fusion protein. Despite recent efforts aimed at achieving comprehensive coverage of the genes encoded in the Drosophila genome, the repertoire of genes that yield protein traps is still small. RESULTS: We analysed the collection of available protein trap lines in Drosophila melanogaster and identified potential biases that are likely to restrict genome coverage in protein trap screens. The protein trap screens investigated here primarily used P-element vectors and thus exhibit some of the same positional biases associated with this transposon that are evident from the comprehensive Drosophila Gene Disruption Project. We further found that protein trap target genes usually exhibit broad and persistent expression during embryonic development, which is likely to facilitate better detection. In addition, we investigated the likely influence of the GFP exon on host protein structure and found that protein trap insertions have a significant bias for exon-exon boundaries that encode disordered protein regions. 38.8% of GFP insertions land in disordered protein regions compared with only 23.4% in the case of non-trapping P-element insertions landing in coding sequence introns (p < 10(-4)). Interestingly, even in cases where protein domains are predicted, protein trap insertions frequently occur in regions encoding surface exposed areas that are likely to be functionally neutral. Considering the various biases observed, we predict that less than one third of intron-containing genes are likely to be amenable to trapping by the existing methods. CONCLUSION: Our analyses suggest that the utility of P-element vectors for protein trap screens has largely been exhausted, and that approximately 2,800 genes may still be amenable using piggyBac vectors. Thus protein trap strategies based on current approaches are unlikely to offer true genome-wide coverage. We suggest that either transposons with reduced insertion bias or recombineering-based targeting techniques will be required for comprehensive genome coverage in Drosophila.
+
+-Animals
++DNA Transposable Elements
+-Drosophila Proteins (+genetics; -metabolism)
+-Drosophila melanogaster (-genetics; +metabolism)
+-Gene Expression
+-Genes, Insect
+-Genomics (+methods)
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Introns
+-Models, Genetic
+-Mutagenesis, Insertional
+
+pii:1471-2164-10-249
+doi:10.1186/1471-2164-10-249
+pubmed:19476619
+pmc:PMC2695487
+

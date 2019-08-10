@@ -1,0 +1,24 @@
+EMBO Rep.
+
+The ER-resident ubiquitin-specific protease 19 participates in the UPR and rescues ERAD substrates.
+
+GC Hassink, B Zhao, R Sompallae, M Altun, S Gastaldello, NV Zinin, MG Masucci, K Lindsten
+
+Ubiquitination regulates membrane events such as endocytosis, membrane trafficking and endoplasmic-reticulum-associated degradation (ERAD). Although the involvement of membrane-associated ubiquitin-conjugating enzymes and ligases in these processes is well documented, their regulation by ubiquitin deconjugases is less well understood. By screening a database of human deubiquitinating enzymes (DUBs), we have identified a putative transmembrane domain in ubiquitin-specific protease (USP)19. We show that USP19 is a tail-anchored ubiquitin-specific protease localized to the ER and is a target of the unfolded protein response. USP19 rescues the ERAD substrates cystic fibrosis transmembrane conductance regulator (CFTR)DeltaF508 and T-cell receptor-alpha (TCRalpha) from proteasomal degradation. A catalytically inactive USP19 was still able to partly rescue TCRalpha but not CFTRDeltaF508, suggesting that USP19 might also exert a non-catalytic function on specific ERAD substrates. Thus, USP19 is the first example of a membrane-anchored DUB involved in the turnover of ERAD substrates.
+
+-Cell Membrane (-enzymology)
+-Endopeptidases (-chemistry; -genetics; +metabolism)
+-Endoplasmic Reticulum (+enzymology; -pathology)
+-Gene Expression Regulation
+-Humans
++Protein Folding
++Protein Processing, Post-Translational
+-Protein Structure, Tertiary
+-RNA, Messenger (-genetics; -metabolism)
+-Substrate Specificity
+
+pii:embor200969
+doi:10.1038/embor.2009.69
+pubmed:19465887
+pmc:PMC2727442
+

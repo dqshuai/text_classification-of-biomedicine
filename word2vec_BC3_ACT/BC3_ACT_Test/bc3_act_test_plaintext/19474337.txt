@@ -1,0 +1,21 @@
+Nucleic Acids Res.
+
+PathExpress update: the enzyme neighbourhood method of associating gene-expression data with metabolic pathways.
+
+N Goffard, T Frickey, G Weiller
+
+The post-genomic era presents us with the challenge of linking the vast amount of raw data obtained with transcriptomic and proteomic techniques to relevant biological pathways. We present an update of PathExpress, a web-based tool to interpret gene-expression data and explore the metabolic network without being restricted to predefined pathways. We define the Enzyme Neighbourhood (EN) as a sub-network of linked enzymes with a limited path length to identify the most relevant sub-networks affected in gene-expression experiments. PathExpress is freely available at: http://bioinfoserver.rsbs.anu.edu.au/utils/PathExpress/.
+
+-Enzymes (+metabolism)
++Gene Expression Profiling
+-Internet
+-Medicago truncatula (-enzymology; -genetics)
++Metabolic Networks and Pathways
+-Oligonucleotide Array Sequence Analysis
++Software
+
+pii:gkp432
+doi:10.1093/nar/gkp432
+pubmed:19474337
+pmc:PMC2703986
+

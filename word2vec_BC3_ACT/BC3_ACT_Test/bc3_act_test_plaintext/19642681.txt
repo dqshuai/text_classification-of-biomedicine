@@ -1,0 +1,22 @@
+J. Am. Chem. Soc.
+
+Matching active site and substrate structures for an RNA editing reaction.
+
+S Pokharel, P Jayalath, O Maydanovych, RA Goodman, SC Wang, DJ Tantillo, PA Beal
+
+The RNA-editing adenosine deaminases (ADARs) catalyze deamination of adenosine to inosine in a double-stranded structure found in various RNA substrates, including mRNAs. Here we present recent efforts to define structure/activity relationships for the ADAR reaction. We describe the synthesis of new phosphoramidites for the incorporation of 7-substituted-8-aza-7-deazaadenosine derivatives into RNA. These reagents were used to introduce the analogues into mimics of the R/G-editing site found in the pre-mRNA for the human glutamate receptor B subunit (GluR B). Analysis of the kinetics of the ADAR2 reaction with analogue-containing RNAs indicated 8-aza-7-deazaadenosine is an excellent substrate for this enzyme with a deamination rate eight times greater than that for adenosine. However, replacing the C7 hydrogen in this analogue with bromine, iodine, or propargyl alcohol failed to increase the deamination rate further but rather decreased the rate. Modeling of nucleotide binding in the enzyme active site suggested amino acid residues that may be involved in nucleotide recognition. We carried out a functional screen of a library of ADAR2 mutants expressed in S. cerevisiae that varied the identity of these residues to identify active deaminases with altered active sites. One of these mutants (ADAR2 R455A) was able to substantially overcome the inhibitory effect of the bulky C7 substituents (-Br, -I, propargyl alcohol). These results advance our understanding of the importance of functional groups found in the edited nucleotide and the role of specific active site residues of ADAR2.
+
+-Adenosine Deaminase (+chemistry; +metabolism)
+-Base Sequence
++Catalytic Domain
+-Deoxyadenosines (-chemistry)
+-Humans
+-Ligands
+-Models, Molecular
+-Oligonucleotides (-metabolism)
+-RNA (+chemistry; -genetics; +metabolism)
++RNA Editing
+
+doi:10.1021/ja9034076
+pubmed:19642681
+

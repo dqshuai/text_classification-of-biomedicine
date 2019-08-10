@@ -1,0 +1,26 @@
+Nucleic Acids Res.
+
+An integrative genomics approach identifies Hypoxia Inducible Factor-1 (HIF-1)-target genes that form the core response to hypoxia.
+
+Y Benita, H Kikuchi, AD Smith, MQ Zhang, DC Chung, RJ Xavier
+
+The transcription factor Hypoxia-inducible factor 1 (HIF-1) plays a central role in the transcriptional response to oxygen flux. To gain insight into the molecular pathways regulated by HIF-1, it is essential to identify the downstream-target genes. We report here a strategy to identify HIF-1-target genes based on an integrative genomic approach combining computational strategies and experimental validation. To identify HIF-1-target genes microarrays data sets were used to rank genes based on their differential response to hypoxia. The proximal promoters of these genes were then analyzed for the presence of conserved HIF-1-binding sites. Genes were scored and ranked based on their response to hypoxia and their HIF-binding site score. Using this strategy we recovered 41% of the previously confirmed HIF-1-target genes that responded to hypoxia in the microarrays and provide a catalogue of predicted HIF-1 targets. We present experimental validation for ANKRD37 as a novel HIF-1-target gene. Together these analyses demonstrate the potential to recover novel HIF-1-target genes and the discovery of mammalian-regulatory elements operative in the context of microarray data sets.
+
+-Binding Sites
+-Cell Hypoxia
+-Cell Line
+-Gene Expression Profiling
++Gene Expression Regulation
+-Gene Regulatory Networks
+-Genomics (+methods)
+-Humans
+-Hypoxia-Inducible Factor 1 (+metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Promoter Regions, Genetic
+-Transcription, Genetic
+
+pii:gkp425
+doi:10.1093/nar/gkp425
+pubmed:19491311
+pmc:PMC2724271
+

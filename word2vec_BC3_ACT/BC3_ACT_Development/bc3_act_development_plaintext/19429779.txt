@@ -1,0 +1,32 @@
+Eukaryotic Cell
+
+Spliceosomal proteomics in Trypanosoma brucei reveal new RNA splicing factors.
+
+D Luz Ambrósio, JH Lee, AK Panigrahi, TN Nguyen, RM Cicarelli, A Günzl
+
+In trypanosomatid parasites, spliced leader (SL) trans splicing is an essential nuclear mRNA maturation step which caps mRNAs posttranscriptionally and, in conjunction with polyadenylation, resolves individual mRNAs from polycistronic precursors. While all trypanosomatid mRNAs are trans spliced, intron removal by cis splicing is extremely rare and predicted to occur in only four pre-mRNAs. trans- and cis-splicing reactions are carried out by the spliceosome, which consists of U-rich small nuclear ribonucleoprotein particles (U snRNPs) and of non-snRNP factors. Mammalian and yeast spliceosome complexes are well characterized and found to be associated with up to 170 proteins. Despite the central importance of trans splicing in trypanosomatid gene expression, only the core RNP proteins and a few snRNP-specific proteins are known. To characterize the trypanosome spliceosomal protein repertoire, we conducted a proteomic analysis by tagging and tandem affinity-purifying the canonical core RNP protein SmD1 in Trypanosoma brucei and by identifying copurified proteins by mass spectrometry. The set of 47 identified proteins harbored nearly all spliceosomal snRNP factors characterized in trypanosomes thus far and 21 proteins lacking a specific annotation. A bioinformatic analysis combined with protein pull-down assays and immunofluorescence microscopy identified 10 divergent orthologues of known splicing factors, including the missing U1-specific protein U1A. In addition, a novel U5-specific, and, as we show, an essential splicing factor was identified that shares a short, highly conserved N-terminal domain with the yeast protein Cwc21p and was thus tentatively named U5-Cwc21. Together, these data strongly indicate that most of the identified proteins are components of the spliceosome.
+
+-Animals
+-Computational Biology (-methods)
+-Conserved Sequence (-physiology)
+-Evolution, Molecular
+-Mass Spectrometry
+-Protein Structure, Tertiary (-physiology)
+-Proteome (-analysis; -genetics; +metabolism)
+-Proteomics
+-Protozoan Proteins (-analysis; -metabolism)
+-RNA Splicing (+physiology)
+-RNA, Messenger (+biosynthesis; -genetics)
+-RNA-Binding Proteins (-analysis; -genetics; +metabolism)
+-Ribonucleoprotein, U1 Small Nuclear (-genetics; -metabolism)
+-Ribonucleoproteins (-analysis; -genetics; -metabolism)
+-Species Specificity
+-Spliceosomes (-genetics; +metabolism)
+-Trypanosoma brucei brucei (-genetics; +metabolism)
+-snRNP Core Proteins (-genetics; -metabolism)
+
+pii:EC.00075-09
+doi:10.1128/EC.00075-09
+pubmed:19429779
+pmc:PMC2708463
+

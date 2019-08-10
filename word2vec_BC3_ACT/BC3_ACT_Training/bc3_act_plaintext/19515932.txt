@@ -1,0 +1,20 @@
+Nucleic Acids Res.
+
+Conditional gene silencing of multiple genes with antisense RNAs and generation of a mutator strain of Escherichia coli.
+
+N Nakashima, T Tamura
+
+In this study, we describe a method of simultaneous conditional gene silencing of up to four genes in Escherichia coli by using antisense RNAs. We used antisense RNAs with paired termini, which carried flanking inverted repeats to create paired double-stranded RNA termini; these RNAs have been proven to have high silencing efficacy. To express antisense RNAs, we constructed four IPTG-inducible vectors carrying different but compatible replication origins. When the lacZ antisense RNA was expressed using these vectors, lacZ expression was successfully silenced by all the vectors, but the expression level of the antisense RNA and silencing efficacy differed depending on the used vectors. All the vectors were co-transformable; the antisense RNAs against lacZ, ackA, pta and pepN were co-expressed, and silencing of all the target genes was confirmed. Furthermore, when antisense RNAs were targeted to the mutator genes mutS, mutD (dnaQ) and ndk, which are involved in DNA replication or DNA mismatch repair, spontaneous mutation frequencies increased over 2000-fold. The resulting mutator strain is useful for random mutagenesis of plasmids. The method provides a robust tool for investigating functional relationships between multiple genes or altering cell phenotypes for biotechnological and industrial applications.
+
+-Escherichia coli (+genetics)
++Gene Silencing
+-Genetic Vectors
++Mutation
+-Operon
++RNA, Antisense (-biosynthesis; -chemistry)
+
+pii:gkp498
+doi:10.1093/nar/gkp498
+pubmed:19515932
+pmc:PMC2731896
+

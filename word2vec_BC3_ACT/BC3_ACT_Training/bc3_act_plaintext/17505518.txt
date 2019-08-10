@@ -1,0 +1,26 @@
+EMBO J.
+
+Agrobacterium ParA/MinD-like VirC1 spatially coordinates early conjugative DNA transfer reactions.
+
+K Atmakuri, E Cascales, OT Burton, LM Banta, PJ Christie
+
+Agrobacterium tumefaciens translocates T-DNA through a polar VirB/D4 type IV secretion (T4S) system. VirC1, a factor required for efficient T-DNA transfer, bears a deviant Walker A and other sequence motifs characteristic of ParA and MinD ATPases. Here, we show that VirC1 promotes conjugative T-DNA transfer by stimulating generation of multiple copies per cell of the T-DNA substrate (T-complex) through pairwise interactions with the processing factors VirD2 relaxase, VirC2, and VirD1. VirC1 also associates with the polar membrane and recruits T-complexes to cell poles, the site of VirB/D4 T4S machine assembly. VirC1 Walker A mutations abrogate T-complex generation and polar recruitment, whereas the native protein recruits T-complexes to cell poles independently of other polar processing factors (VirC2, VirD1) or T4S components (VirD4 substrate receptor, VirB channel subunits). We propose that A. tumefaciens has appropriated a progenitor ParA/MinD-like ATPase to promote conjugative DNA transfer by: (i) nucleating relaxosome assembly at oriT-like T-DNA border sequences and (ii) spatially positioning the transfer intermediate at the cell pole to coordinate substrate-T4S channel docking.
+
+-Adenosine Triphosphatases (-chemistry; -genetics; +metabolism)
+-Amino Acid Motifs
+-Amino Acid Sequence
++Conjugation, Genetic
+-DNA, Bacterial (+metabolism)
+-Escherichia coli (-genetics; -growth & development)
+-Glutathione Transferase (-metabolism)
+-In Situ Hybridization, Fluorescence
+-Plasmids
+-Recombinant Proteins (-isolation & purification; -metabolism)
+-Rhizobium radiobacter (+pathogenicity)
+-Virulence Factors (-genetics; +metabolism)
+
+pii:7601696
+doi:10.1038/sj.emboj.7601696
+pubmed:17505518
+pmc:PMC1868908
+

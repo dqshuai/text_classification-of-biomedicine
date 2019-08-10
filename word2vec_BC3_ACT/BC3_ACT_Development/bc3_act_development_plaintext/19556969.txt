@@ -1,0 +1,33 @@
+EMBO J.
+
+Unusual bipartite mode of interaction between the nonsense-mediated decay factors, UPF1 and UPF2.
+
+M Clerici, A Mourão, I Gutsche, NH Gehring, MW Hentze, A Kulozik, J Kadlec, M Sattler, S Cusack
+
+Nonsense-mediated decay (NMD) is a eukaryotic quality control mechanism that degrades mRNAs carrying premature stop codons. In mammalian cells, NMD is triggered when UPF2 bound to UPF3 on a downstream exon junction complex interacts with UPF1 bound to a stalled ribosome. We report structural studies on the interaction between the C-terminal region of UPF2 and intact UPF1. Crystal structures, confirmed by EM and SAXS, show that the UPF1 CH-domain is docked onto its helicase domain in a fixed configuration. The C-terminal region of UPF2 is natively unfolded but binds through separated alpha-helical and beta-hairpin elements to the UPF1 CH-domain. The alpha-helical region binds sixfold more weakly than the beta-hairpin, whereas the combined elements bind 80-fold more tightly. Cellular assays show that NMD is severely affected by mutations disrupting the beta-hairpin binding, but not by those only affecting alpha-helix binding. We propose that the bipartite mode of UPF2 binding to UPF1 brings the ribosome and the EJC in close proximity by forming a tight complex after an initial weak encounter with either element.
+
+-Amino Acid Sequence
+-Crystallography, X-Ray
+-DNA Mutational Analysis
+-Microscopy, Electron
+-Molecular Sequence Data
+-Mutation, Missense
+-Nuclear Magnetic Resonance, Biomolecular
+-Protein Binding
+-Protein Interaction Domains and Motifs
++Protein Interaction Mapping
+-Protein Structure, Quaternary
+-Protein Structure, Secondary
+-Protein Structure, Tertiary
++RNA Stability
+-RNA, Messenger (+metabolism)
+-Scattering, Small Angle
+-Sequence Alignment
+-Trans-Activators (-chemistry; +metabolism)
+-Transcription Factors (-chemistry; +metabolism)
+
+pii:emboj2009175
+doi:10.1038/emboj.2009.175
+pubmed:19556969
+pmc:PMC2726699
+

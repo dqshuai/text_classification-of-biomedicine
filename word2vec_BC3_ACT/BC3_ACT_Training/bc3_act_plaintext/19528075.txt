@@ -1,0 +1,25 @@
+Nucleic Acids Res.
+
+Overestimation of alternative splicing caused by variable probe characteristics in exon arrays.
+
+D Gaidatzis, K Jacobeit, EJ Oakeley, MB Stadler
+
+In higher eukaryotes, alternative splicing is a common mechanism for increasing transcriptome diversity. Affymetrix exon arrays were designed as a tool for monitoring the relative expression levels of hundreds of thousands of known and predicted exons with a view to detecting alternative splicing events. In this article, we have analyzed exon array data from many different human and mouse tissues and have uncovered a systematic relationship between transcript-fold change and alternative splicing as reported by the splicing index. Evidence from dilution experiments and deep sequencing suggest that this effect is of technical rather than biological origin and that it is driven by sequence features of the probes. This effect is substantial and results in a 12-fold overestimation of alternative splicing events in genes that are differentially expressed. By cross-species exon array comparison, we could further show that the systematic bias persists even across species boundaries. Failure to consider this effect in data analysis would result in the reproducible false detection of apparently conserved alternative splicing events. Finally, we have developed a software in R called COSIE (Corrected Splicing Indices for Exon arrays) that for any given set of new exon array experiments corrects for the observed bias and improves the detection of alternative splicing (available at www.fmi.ch/groups/gbioinfo).
+
++Alternative Splicing
+-Animals
+-Exons
+-Gene Expression
+-Humans
+-Mice
+-Nucleotides (-chemistry)
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Oligonucleotide Probes (+chemistry)
+-Sequence Analysis, RNA
+-Software
+
+pii:gkp508
+doi:10.1093/nar/gkp508
+pubmed:19528075
+pmc:PMC2760813
+

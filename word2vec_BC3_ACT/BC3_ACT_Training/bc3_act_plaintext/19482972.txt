@@ -1,0 +1,23 @@
+Plant Cell
+
+A role for Arabidopsis PUCHI in floral meristem identity and bract suppression.
+
+MR Karim, A Hirota, D Kwiatkowska, M Tasaka, M Aida
+
+At the onset of flowering, the Arabidopsis thaliana primary inflorescence meristem starts to produce flower meristems on its flank. Determination of floral fate is associated with changes in the growth pattern and expression of meristem identity genes and suppression of a subtending leaf called a bract. Here, we show a role in floral fate determination and bract suppression for the PUCHI gene, an AP2/EREBP family gene that has previously been reported to play roles in lateral root morphogenesis. Mutations in PUCHI cause partial conversion of flowers to inflorescences, indicating that PUCHI is required for flower meristem identity. PUCHI is transiently expressed in the early flower meristem and accelerates meristem bulging while it prevents the growth of the bract primordium. The function of PUCHI in floral fate determination and bract suppression overlaps that of the BLADE-ON-PETIOLE1 (BOP1) and BOP2 genes, which encode a pair of redundant regulatory proteins involved in various developmental processes, including leaf morphogenesis and flower patterning. We also show that PUCHI acts together with BOP1 and BOP2 to promote expression of LEAFY and APETALA1, two central regulators of floral meristem identity. Expression patterns of the PUCHI and BOP genes point to a role in spatial control of flower-specific activation of these meristem identity genes.
+
+-Arabidopsis (-cytology; -genetics; +growth & development)
+-Arabidopsis Proteins (-genetics; -metabolism; +physiology)
+-Cell Differentiation (-genetics)
+-Flowers (-cytology; -genetics; -growth & development)
+-MADS Domain Proteins (-genetics; -metabolism)
+-Meristem (+cytology; -genetics; -growth & development)
+-Models, Biological
+-Molecular Sequence Data
+-Transcription Factors (-genetics; -metabolism; +physiology)
+
+pii:tpc.109.067025
+doi:10.1105/tpc.109.067025
+pubmed:19482972
+pmc:PMC2700531
+

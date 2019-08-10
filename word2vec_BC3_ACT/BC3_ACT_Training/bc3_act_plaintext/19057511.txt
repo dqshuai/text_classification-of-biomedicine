@@ -1,0 +1,26 @@
+EMBO J.
+
+PTEN regulation by Akt-EGR1-ARF-PTEN axis.
+
+J Yu, SS Zhang, K Saito, S Williams, Y Arimura, Y Ma, Y Ke, V Baron, D Mercola, GS Feng, E Adamson, T Mustelin
+
+The PTEN tumour suppressor gene is induced by the early growth response 1 (EGR1) transcription factor, which also transactivates p53, p73, and p300/CBP as well as other proapoptotic and anti-cancer genes. Here, we describe a novel Akt-EGR1-alternate reading frame (ARF)-PTEN axis, in which PTEN activation in vivo requires p14ARF-mediated sumoylation of EGR1. This modification is dependent on the phosphorylation of EGR1 at S350 and T309 by Akt, which promotes interaction of EGR1 with ARF at K272 in its repressor domain by the ARF/Ubc9/SUMO system. EGR1 sumoylation is decreased by ARF reduction, and no EGR1 sumoylation is detected in ARF(-/-) mice, which also exhibit reduced amounts of PTEN. Our model predicts that perturbation of any of the clinically important tumour suppressors, PTEN, EGR1, and ARF, will cause some degree of dysfunction of the others. These results also explain the known negative feedback regulation by PTEN on its own synthesis through PI3 kinase inhibition.
+
+-Animals
+-Cell Line
+-Cyclin-Dependent Kinase Inhibitor p16 (+metabolism)
+-Early Growth Response Protein 1 (+metabolism)
++Gene Expression Regulation
+-Humans
+-Mice
+-Mice, Knockout
+-Models, Biological
+-Oncogene Protein v-akt (+metabolism)
+-PTEN Phosphohydrolase (+biosynthesis)
+-Phosphorylation
+
+pii:emboj2008238
+doi:10.1038/emboj.2008.238
+pubmed:19057511
+pmc:PMC2633077
+

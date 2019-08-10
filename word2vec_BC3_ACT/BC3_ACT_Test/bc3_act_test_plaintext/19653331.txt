@@ -1,0 +1,19 @@
+Yeast
+
+New selectable host-marker systems for multiple genetic manipulations based on TRP1, MET2 and ADE2 in the methylotrophic yeast Hansenula polymorpha.
+
+SA Cheon, J Choo, VM Ubiyvovk, JN Park, MW Kim, DB Oh, O Kwon, AA Sibirny, JY Kim, HA Kang
+
+Interest has been increasing in the thermotolerant methylotrophic yeast Hansenula polymorpha as a useful system for fundamental research and applied purposes. Only a few genetic marker genes and auxotrophic hosts are yet available for this yeast. Here we isolated and developed H. polymorpha TRP1, MET2 and ADE2 genes as selectable markers for multiple genetic manipulations. The H. polymorpha TRP1 (HpTRP1), MET2 (HpMET2) and ADE2 (HpADE2) genes were sequentially disrupted, using an HpURA3 pop-out cassette in H. polymorpha to generate a series of new multiple auxotrophic strains, including up to a quintuple auxotrophic strain. Unexpectedly, the HpTRP1 deletion mutants required additional tryptophan supplementation for their full growth, even on complex media such as YPD. Despite the clearly increased resistance to 5-fluoroanthranilic acid of the HpTRP1 deletion mutants, the HpTRP1 blaster cassette does not appear to be usable as a counter-selection marker in H. polymorpha. Expression vectors carrying HpADE2, HpTRP1 or HpMET2 with their own promoters and terminators as selectable markers were constructed and used to co-transform the quintuple auxotrophic strain for the targeted expression of a heterologous gene, Aspergillus saitoi MsdS, at the ER, the Golgi and the cell surface, respectively.
+
+-Autotrophic Processes
+-Cloning, Molecular
+-Fungal Proteins (-genetics; +metabolism)
++Genetic Engineering
+-Genetic Vectors (-genetics)
+-Molecular Sequence Data
+-Pichia (+genetics; +metabolism)
+
+doi:10.1002/yea.1701
+pubmed:19653331
+

@@ -1,0 +1,26 @@
+J. Exp. Bot.
+
+Subcellular localization and biochemical comparison of cytosolic and secreted cytokinin dehydrogenase enzymes from maize.
+
+M Smehilová, P Galuszka, KD Bilyeu, P Jaworek, M Kowalska, M Sebela, M Sedlárová, JT English, I Frébort
+
+Cytokinin dehydrogenase (CKX; EC 1.5.99.12) degrades cytokinin hormones in plants. There are several differently targeted isoforms of CKX in plant cells. While most CKX enzymes appear to be localized in the apoplast or vacuoles, there is generally only one CKX per plant genome that lacks a translocation signal and presumably functions in the cytosol. The only extensively characterized maize CKX is the apoplastic ZmCKX1; a maize gene encoding a non-secreted CKX has not previously been cloned or characterized. Thus, the aim of this work was to characterize the maize non-secreted CKX gene (ZmCKX10), elucidate the subcellular localization of ZmCKX10, and compare its biochemical properties with those of ZmCKX1. Expression profiling of ZmCKX1 and ZmCKX10 was performed in maize tissues to determine their transcript abundance and organ-specific expression. For determination of the subcellular localization, the CKX genes were fused with green fluorescent protein (GFP) and overexpressed in tomato hairy roots. Using confocal microscopy, the ZmCKX1-GFP signal was confirmed to be present in the apoplast, whereas ZmCKX10-GFP was detected in the cytosol. No interactions of ZmCKX1 with the plasma membrane were observed. While roots overexpressing ZmCKX1-GFP formed significantly more mass in comparison with the control, non-secreted CKX overexpression resulted in a small reduction in root mass accumulation. Biochemical characterization of ZmCKX10 was performed using recombinant protein produced in Pichia pastoris. In contrast to the preference for 2,6-dichlorophenolindophenol (DCPIP) as an electron acceptor and trans-zeatin, N(6)-(Delta(2)-isopentenyl)adenine (iP) and N(6)-(Delta(2)-isopentenyl)adenosine (iPR) as substrates for ZmCKX1, the non-secreted ZmCKX10 had a range of suitable electron acceptors, and the enzyme had a higher preference for cis-zeatin and cytokinin N-glucosides as substrates.
+
+-Amino Acid Sequence
+-Cytosol (-chemistry; +enzymology)
+-Extracellular Space (-chemistry; +enzymology; -genetics)
++Gene Expression Regulation, Enzymologic
+-Gene Expression Regulation, Plant
+-Molecular Sequence Data
+-Oxidoreductases (-chemistry; -genetics; +metabolism)
+-Plant Proteins (-chemistry; -genetics; +metabolism)
+-Protein Isoforms (-chemistry; -genetics; -metabolism)
+-Protein Transport
+-Sequence Alignment
+-Substrate Specificity
+-Zea mays (+enzymology; -genetics)
+
+pii:erp126
+doi:10.1093/jxb/erp126
+pubmed:19436049
+

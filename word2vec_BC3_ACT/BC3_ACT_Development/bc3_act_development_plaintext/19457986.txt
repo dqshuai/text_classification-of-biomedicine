@@ -1,0 +1,24 @@
+J. Virol.
+
+The nucleocapsid region of human immunodeficiency virus type 1 Gag assists in the coordination of assembly and Gag processing: role for RNA-Gag binding in the early stages of assembly.
+
+DE Ott, LV Coren, T Shatzer
+
+Human immunodeficiency virus type 1 (HIV-1) Gag-RNA interactions are required for virus assembly. However, our prior study found that a defect in particle production exhibited by an HIV-1 proviral mutant with a severe deletion in the RNA-binding nucleocapsid (NC) region of Gag, NX, could be reversed by eliminating its protease activity. While our follow-up study indicated that a secondary RNA-binding site in Gag can also provide the required RNA-binding function, how protease activity inhibits NX virion production is still unclear. Therefore, we tested three possible mechanisms: NX virions are unstable and fall apart after budding; NX Gag assembly is slowed, allowing protease processing to start before particle formation; or the protease region within NX Gag-Pol becomes activated prematurely and processes the assembling Gag. We found that NX particles were as stable as wild-type virions. Furthermore, even a modest slowing of protease activity could rescue NX. Pulse-chase analysis revealed that the initial particle production by NC-deleted Gag was delayed compared to that of wild type Gag, but once started, the rate of production was similar, revealing a defect in the initiation of assembly. Wild-type Gag particle production was not eliminated or decreased in the presence of excess NX Gag-Pol, inconsistent with a premature activation of protease. Overall, these results indicate that the particle formation defect of NX is due to delayed initiation of assembly caused by the absence of NC in Gag, making it vulnerable to protease processing before budding can occur. Therefore, NC plays an important initiating role in Gag assembly.
+
+-Cell Line
+-HIV Infections (+virology)
+-HIV-1 (-genetics; +physiology)
+-Humans
+-Nucleocapsid (-genetics; +metabolism)
+-Protein Binding
++Protein Processing, Post-Translational
+-RNA, Viral (-genetics; +metabolism)
++Virus Assembly
+-gag Gene Products, Human Immunodeficiency Virus (-genetics; +metabolism)
+
+pii:JVI.00099-09
+doi:10.1128/JVI.00099-09
+pubmed:19457986
+pmc:PMC2708646
+

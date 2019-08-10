@@ -1,0 +1,23 @@
+BMC Genet.
+
+A strategy for constructing aneuploid yeast strains by transient nondisjunction of a target chromosome.
+
+KR Anders, JR Kudrna, KE Keller, B Kinghorn, EM Miller, D Pauw, AT Peck, CE Shellooe, IJ Strong
+
+BACKGROUND: Most methods for constructing aneuploid yeast strains that have gained a specific chromosome rely on spontaneous failures of cell division fidelity. In Saccharomyces cerevisiae, extra chromosomes can be obtained when errors in meiosis or mitosis lead to nondisjunction, or when nuclear breakdown occurs in heterokaryons. We describe a strategy for constructing N+1 disomes that does not require such spontaneous failures. The method combines two well-characterized genetic tools: a conditional centromere that transiently blocks disjunction of one specific chromosome, and a duplication marker assay that identifies disomes among daughter cells. To test the strategy, we targeted chromosomes III, IV, and VI for duplication. RESULTS: The centromere of each chromosome was replaced by a centromere that can be blocked by growth in galactose, and ura3::HIS3, a duplication marker. Transient exposure to galactose induced the appearance of colonies carrying duplicated markers for chromosomes III or IV, but not VI. Microarray-based comparative genomic hybridization (CGH) confirmed that disomic strains carrying extra chromosome III or IV were generated. Chromosome VI contains several genes that are known to be deleterious when overexpressed, including the beta-tubulin gene TUB2. To test whether a tubulin stoichiometry imbalance is necessary for the apparent lethality caused by an extra chromosome VI, we supplied the parent strain with extra copies of the alpha-tubulin gene TUB1, then induced nondisjunction. Galactose-dependent chromosome VI disomes were produced, as revealed by CGH. Some chromosome VI disomes also carried extra, unselected copies of additional chromosomes. CONCLUSION: This method causes efficient nondisjunction of a targeted chromosome and allows resulting disomic cells to be identified and maintained. We used the method to test the role of tubulin imbalance in the apparent lethality of disomic chromosome VI. Our results indicate that a tubulin imbalance is necessary for disomic VI lethality, but it may not be the only dosage-dependent effect.
+
++Aneuploidy
+-Centromere (-metabolism)
+-Chromosomes, Fungal
+-Comparative Genomic Hybridization
++Nondisjunction, Genetic
+-Plasmids
+-Saccharomyces cerevisiae (+genetics)
+-Saccharomyces cerevisiae Proteins (-genetics)
+-Tubulin (-genetics)
+
+pii:1471-2156-10-36
+doi:10.1186/1471-2156-10-36
+pubmed:19594932
+pmc:PMC2725114
+

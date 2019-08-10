@@ -1,0 +1,31 @@
+Cancer Res.
+
+Differentiation of lung adenocarcinoma, pleural mesothelioma, and nonmalignant pulmonary tissues using DNA methylation profiles.
+
+BC Christensen, CJ Marsit, EA Houseman, JJ Godleski, JL Longacker, S Zheng, RF Yeh, MR Wrensch, JL Wiemels, MR Karagas, R Bueno, DJ Sugarbaker, HH Nelson, JK Wiencke, KT Kelsey
+
+Pathologic differentiation of tissue of origin in tumors found in the lung can be challenging, with differentiation of mesothelioma and lung adenocarcinoma emblematic of this problem. Indeed, proper classification is essential for determination of treatment regimen for these diseases, making accurate and early diagnosis critical. Here, we investigate the potential of epigenetic profiles of lung adenocarcinoma, mesothelioma, and nonmalignant pulmonary tissues (n = 285) as differentiation markers in an analysis of DNA methylation at 1413 autosomal CpG loci associated with 773 cancer-related genes. Using an unsupervised recursively partitioned mixture modeling technique for all samples, the derived methylation profile classes were significantly associated with sample type (P < 0.0001). In a similar analysis restricted to tumors, methylation profile classes significantly predicted tumor type (P < 0.0001). Random forests classification of CpG methylation of tumors--which splits the data into training and test sets--accurately differentiated mesothelioma from lung adenocarcinoma over 99% of the time (P < 0.0001). In a locus-by-locus comparison of CpG methylation between tumor types, 1266 CpG loci had significantly different methylation between tumors following correction for multiple comparisons (Q < 0.05); 61% had higher methylation in adenocarcinoma. Using the CpG loci with significant differential methylation in a pathway analysis revealed significant enrichment of methylated gene-loci in Cell Cycle Regulation, DNA Damage Response, PTEN Signaling, and Apoptosis Signaling pathways in lung adenocarcinoma when compared with mesothelioma. Methylation profile-based differentiation of lung adenocarcinoma and mesothelioma is highly accurate, informs on the distinct etiologies of these diseases, and holds promise for clinical application.
+
+-Adenocarcinoma (-diagnosis; +genetics)
+-Adult
+-Aged
+-Aged, 80 and over
+-CpG Islands
+-Cytosine (-metabolism)
++DNA Methylation
+-Diagnosis, Differential
+-Female
+-Humans
+-Lung Diseases (-diagnosis; +genetics)
+-Lung Neoplasms (-diagnosis; +genetics)
+-Male
+-Mesothelioma (-diagnosis; +genetics)
+-Middle Aged
+-Pleural Neoplasms (-diagnosis; +genetics)
+
+pii:0008-5472.CAN-09-1073
+doi:10.1158/0008-5472.CAN-09-1073
+pubmed:19638575
+mid:NIHMS120641
+pmc:PMC2755616
+

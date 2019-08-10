@@ -1,0 +1,22 @@
+Biophys. J.
+
+An intersubunit salt bridge near the selectivity filter stabilizes the active state of Kir1.1.
+
+H Sackin, M Nanazashvili, H Li, LG Palmer, DE Walters
+
+ROMK (Kir1.1) potassium channels are closed by internal acidification with a pKa of 6.7 +/- 0.01 in 100 mM external K and a pKa of 7.0 +/- 0.01 in 1 mM external K. Internal acidification in 1 mM K (but not 100 mM K) not only closed the pH gate but also inactivated Kir1.1, such that realkalization did not restore channel activity until high K was returned to the bath. We identified a new putative intersubunit salt bridge (R128-E132-Kir1.1b) in the P-loop of the channel near the selectivity filter that affected the K sensitivity of the inactivation process. Mutation of either R128-Kir1.1b or E132-Kir1.1b caused inactivation in both 1 mM and 100 mM external K during oocyte acidification. However, 300 mM external K (but not 200 mM Na + 100 mM K) protected both E132Q and R128Y from inactivation. External application of a modified honey-bee toxin, tertiapin Q (TPNQ), also protected Kir1.1 from inactivation in 1 mM K and protected E132Q and R128Y from inactivation in 100 mM K, which suggests that TPNQ binding to the outer mouth of the channel stabilizes the active state. Pretreatment of Kir1.1 with external Ba prevented Kir1.1 inactivation, similar to pretreatment with TPNQ. In addition, mutations that disrupted transmembrane helix H-bonding (K61M-Kir1.1b) or stabilized a selectivity filter to helix-pore linkage (V121T-Kir1.1b) also protected both E132Q and R128Y from inactivation in 1 mM K and 100 mM K. Our results are consistent with Kir inactivation arising from conformational changes near the selectivity filter, analogous to C-type inactivation.
+
+-Animals
+-Cell Line
+-Ion Channel Gating (+physiology)
+-Oocytes (+physiology)
+-Potassium Channels, Inwardly Rectifying (+chemistry; +physiology)
+-Protein Subunits
+-Salts (-chemistry; -metabolism)
+-Xenopus laevis
+
+pii:S0006-3495(09)01150-3
+doi:10.1016/j.bpj.2009.05.056
+pubmed:19686653
+pmc:PMC2726312
+

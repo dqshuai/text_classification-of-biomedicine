@@ -1,0 +1,30 @@
+Science
+
+Extensive demethylation of repetitive elements during seed development underlies gene imprinting.
+
+M Gehring, KL Bubb, S Henikoff
+
+DNA methylation is an epigenetic mark associated with transposable element silencing and gene imprinting in flowering plants and mammals. In plants, imprinting occurs in the endosperm, which nourishes the embryo during seed development. We have profiled Arabidopsis DNA methylation genome-wide in the embryo and endosperm and found that large-scale methylation changes accompany endosperm development and endosperm-specific gene expression. Transposable element fragments are extensively demethylated in the endosperm. We discovered new imprinted genes by the identification of candidates associated with regions of reduced endosperm methylation and preferential expression in endosperm relative to other parts of the plant. These data suggest that imprinting in plants evolved from targeted methylation of transposable element insertions near genic regulatory elements followed by positive selection when the resulting expression change was advantageous.
+
+-Alleles
+-Arabidopsis (+embryology; +genetics; -growth & development)
+-Crosses, Genetic
++DNA Methylation
++DNA Transposable Elements
+-DNA, Plant (-genetics; -metabolism)
+-Epigenesis, Genetic
+-Gene Expression Regulation, Developmental
+-Gene Expression Regulation, Plant
+-Genes, Plant
+-Genome, Plant
++Genomic Imprinting
++Repetitive Sequences, Nucleic Acid
+-Seeds (+genetics; -growth & development)
+-Selection, Genetic
+
+pii:324/5933/1447
+doi:10.1126/science.1171609
+pubmed:19520961
+mid:HHMIMS199238
+pmc:PMC2886585
+

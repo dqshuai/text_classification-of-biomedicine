@@ -1,0 +1,27 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Model structure of APOBEC3C reveals a binding pocket modulating ribonucleic acid interaction required for encapsidation.
+
+B Stauch, H Hofmann, M Perkovic, M Weisel, F Kopietz, K Cichutek, C Münk, G Schneider
+
+Human APOBEC3 (A3) proteins form part of the intrinsic immunity to retroviruses. Carrying 1 or 2 copies of a cytidine deaminase motif, A3s act by deamination of retroviral genomes during reverse transcription. HIV-1 overcomes this inhibition by the Vif protein, which prevents incorporation of A3 into virions. In this study we modeled and probed the structure of APOBEC3C (A3C), a single-domain A3 with strong antilentiviral activity. The 3-dimensional protein model was used to predict the effect of mutations on antiviral activity, which was tested in a Deltavif simian immunodeficiency virus (SIV) reporter virus assay. We found that A3C activity requires protein dimerization for antiviral activity against SIV. Furthermore, by using a structure-based algorithm for automated pocket extraction, we detected a putative substrate binding pocket of A3C distal from the zinc-coordinating deaminase motif. Mutations in this region diminished antiviral activity by excluding A3C from virions. We found evidence that the small 5.8S RNA specifically binds to this locus and mediates incorporation of A3C into virus particles.
+
+-Binding Sites
+-Capsid (+metabolism)
+-Cell Line
+-Cytosine Deaminase (+chemistry; +metabolism)
+-Humans
+-Immunoblotting
++Models, Molecular
+-Mutant Proteins (-metabolism)
+-Protein Multimerization
+-Protein Processing, Post-Translational
+-Protein Structure, Secondary
+-RNA (+metabolism)
+-vif Gene Products, Human Immunodeficiency Virus (-metabolism)
+
+pii:0900979106
+doi:10.1073/pnas.0900979106
+pubmed:19581596
+pmc:PMC2715496
+

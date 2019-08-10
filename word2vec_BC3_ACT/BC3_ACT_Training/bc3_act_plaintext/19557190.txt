@@ -1,0 +1,22 @@
+PLoS Genet.
+
+An integrated strategy to study muscle development and myofilament structure in Caenorhabditis elegans.
+
+B Meissner, A Warner, K Wong, N Dube, A Lorch, SJ McKay, J Khattra, T Rogalski, A Somasiri, I Chaudhry, RM Fox, DM Miller, DL Baillie, RA Holt, SJ Jones, MA Marra, DG Moerman
+
+A crucial step in the development of muscle cells in all metazoan animals is the assembly and anchorage of the sarcomere, the essential repeat unit responsible for muscle contraction. In Caenorhabditis elegans, many of the critical proteins involved in this process have been uncovered through mutational screens focusing on uncoordinated movement and embryonic arrest phenotypes. We propose that additional sarcomeric proteins exist for which there is a less severe, or entirely different, mutant phenotype produced in their absence. We have used Serial Analysis of Gene Expression (SAGE) to generate a comprehensive profile of late embryonic muscle gene expression. We generated two replicate long SAGE libraries for sorted embryonic muscle cells, identifying 7,974 protein-coding genes. A refined list of 3,577 genes expressed in muscle cells was compiled from the overlap between our SAGE data and available microarray data. Using the genes in our refined list, we have performed two separate RNA interference (RNAi) screens to identify novel genes that play a role in sarcomere assembly and/or maintenance in either embryonic or adult muscle. To identify muscle defects in embryos, we screened specifically for the Pat embryonic arrest phenotype. To visualize muscle defects in adult animals, we fed dsRNA to worms producing a GFP-tagged myosin protein, thus allowing us to analyze their myofilament organization under gene knockdown conditions using fluorescence microscopy. By eliminating or severely reducing the expression of 3,300 genes using RNAi, we identified 122 genes necessary for proper myofilament organization, 108 of which are genes without a previously characterized role in muscle. Many of the genes affecting sarcomere integrity have human homologs for which little or nothing is known.
+
+-Animals
+-Caenorhabditis elegans (-chemistry; -embryology; +genetics; -metabolism)
+-Caenorhabditis elegans Proteins (-genetics; -metabolism)
+-Gene Expression Profiling (+methods)
+-Gene Expression Regulation, Developmental
+-Microfilaments (+chemistry; -genetics; -metabolism)
++Muscle Development
+-Muscles (-chemistry; -embryology; -metabolism)
+-Sarcomeres (-genetics; -metabolism)
+
+doi:10.1371/journal.pgen.1000537
+pubmed:19557190
+pmc:PMC2694363
+

@@ -1,0 +1,32 @@
+Nat. Struct. Mol. Biol.
+
+Structural and functional analyses of minimal phosphopeptides targeting the polo-box domain of polo-like kinase 1.
+
+SM Yun, T Moulaei, D Lim, JK Bang, JE Park, SR Shenoy, F Liu, YH Kang, C Liao, NK Soung, S Lee, DY Yoon, Y Lim, DH Lee, A Otaka, E Appella, JB McMahon, MC Nicklaus, TR Burke, MB Yaffe, A Wlodawer, KS Lee
+
+Polo-like kinase-1 (Plk1) has a pivotal role in cell proliferation and is considered a potential target for anticancer therapy. The noncatalytic polo-box domain (PBD) of Plk1 forms a phosphoepitope binding module for protein-protein interaction. Here, we report the identification of minimal phosphopeptides that specifically interact with the PBD of human PLK1, but not those of the closely related PLK2 and PLK3. Comparative binding studies and analyses of crystal structures of the PLK1 PBD in complex with the minimal phosphopeptides revealed that the C-terminal SpT dipeptide functions as a high-affinity anchor, whereas the N-terminal residues are crucial for providing specificity and affinity to the interaction. Inhibition of the PLK1 PBD by phosphothreonine mimetic peptides was sufficient to induce mitotic arrest and apoptotic cell death. The mode of interaction between the minimal peptide and PBD may provide a template for designing therapeutic agents that target PLK1.
+
+-Amino Acid Sequence
+-Binding Sites
+-Binding, Competitive
+-Cell Cycle Proteins (-chemistry; -genetics; +metabolism)
+-Hela Cells
+-Humans
+-Immunoblotting
+-Models, Molecular
+-Molecular Sequence Data
+-Phosphopeptides (-chemical synthesis; -chemistry; +metabolism)
+-Phosphorylation
+-Protein Binding
++Protein Structure, Tertiary
+-Protein-Serine-Threonine Kinases (-chemistry; -genetics; +metabolism)
+-Proto-Oncogene Proteins (-chemistry; -genetics; +metabolism)
+-Thermodynamics
+-Threonine (-metabolism)
+
+pii:nsmb.1628
+doi:10.1038/nsmb.1628
+pubmed:19597481
+mid:NIHMS121962
+pmc:PMC2721907
+

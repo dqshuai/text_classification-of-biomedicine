@@ -1,0 +1,32 @@
+Biophys. J.
+
+Optimal velocity and safety of discontinuous conduction through the heterogeneous Purkinje-ventricular junction.
+
+OV Aslanidi, P Stewart, MR Boyett, H Zhang
+
+Slow and discontinuous wave conduction through nonuniform junctions in cardiac tissues is generally considered unsafe and proarrythmogenic. However, the relationships between tissue structure, wave conduction velocity, and safety at such junctions are unknown. We have developed a structurally and electrophysiologically detailed model of the canine Purkinje-ventricular junction (PVJ) and varied its heterogeneity parameters to determine such relationships. We show that neither very fast nor very slow conduction is safe, and there exists an optimal velocity that provides the maximum safety factor for conduction through the junction. The resultant conduction time delay across the PVJ is a natural consequence of the electrophysiological and morphological differences between the Purkinje fiber and ventricular tissue. The delay allows the PVJ to accumulate and pass sufficient charge to excite the adjacent ventricular tissue, but is not long enough for the source-to-load mismatch at the junction to be enhanced over time. The observed relationships between the conduction velocity and safety factor can provide new insights into optimal conditions for wave propagation through nonuniform junctions between various cardiac tissues.
+
+-Animals
+-Calcium (-metabolism)
+-Calcium Channels, L-Type (-metabolism)
+-Calcium Channels, T-Type (-metabolism)
+-Computer Simulation
+-Delayed Rectifier Potassium Channels (-metabolism)
+-Dogs
+-Membrane Potentials (-physiology)
++Models, Cardiovascular
+-Potassium (-metabolism)
+-Potassium Channels (-metabolism)
+-Potassium Channels, Inwardly Rectifying (-metabolism)
+-Purkinje Fibers (+physiology)
+-Signal Transduction (+physiology)
+-Sodium (-metabolism)
+-Sodium Channels (-metabolism)
+-Time Factors
+-Ventricular Function (+physiology)
+
+pii:S0006-3495(09)00852-2
+doi:10.1016/j.bpj.2009.03.061
+pubmed:19580741
+pmc:PMC2711367
+

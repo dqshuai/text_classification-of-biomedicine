@@ -1,0 +1,24 @@
+PLoS ONE
+
+Studying the salt dependence of the binding of sigma70 and sigma32 to core RNA polymerase using luminescence resonance energy transfer.
+
+BT Glaser, V Bergendahl, LC Anthony, B Olson, RR Burgess
+
+The study of protein-protein interactions is becoming increasingly important for understanding the regulation of many cellular processes. The ability to quantify the strength with which two binding partners interact is desirable but the accurate determination of equilibrium binding constants is a difficult process. The use of Luminescence Resonance Energy Transfer (LRET) provides a homogeneous binding assay that can be used for the detection of protein-protein interactions. Previously, we developed an LRET assay to screen for small molecule inhibitors of the interaction of sigma70 with thebeta' coiled-coil fragment (amino acids 100-309). Here we describe an LRET binding assay used to monitor the interaction of E. coli sigma70 and sigma32 with core RNA polymerase along with the controls to verify the system. This approach generates fluorescently labeled proteins through the random labeling of lysine residues which enables the use of the LRET assay for proteins for which the creation of single cysteine mutants is not feasible. With the LRET binding assay, we are able to show that the interaction of sigma70 with core RNAP is much more sensitive to NaCl than to potassium glutamate (KGlu), whereas the sigma32 interaction with core RNAP is insensitive to both salts even at concentrations >500 mM. We also find that the interaction of sigma32 with core RNAP is stronger than sigma70 with core RNAP, under all conditions tested. This work establishes a consistent set of conditions for the comparison of the binding affinities of the E.coli sigma factors with core RNA polymerase. The examination of the importance of salt conditions in the binding of these proteins could have implications in both in vitro assay conditions and in vivo function.
+
+-DNA-Directed RNA Polymerases (+metabolism)
+-Electrophoresis, Polyacrylamide Gel
+-Energy Transfer
+-Fluorescent Dyes (-chemistry)
+-Glutamates (+chemistry)
+-Heat-Shock Proteins (+metabolism)
+-Luminescence
+-Protein Binding
+-Sigma Factor (+metabolism)
+-Sodium Chloride (+chemistry)
+-Spectrophotometry, Ultraviolet
+
+doi:10.1371/journal.pone.0006490
+pubmed:19649256
+pmc:PMC2715106
+

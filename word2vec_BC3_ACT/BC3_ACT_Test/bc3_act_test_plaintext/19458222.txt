@@ -1,0 +1,31 @@
+J. Neurosci.
+
+Equalization of ocular dominance columns induced by an activity-dependent learning rule and the maturation of inhibition.
+
+T Toyoizumi, KD Miller
+
+Early in development, the cat primary visual cortex (V1) is dominated by inputs driven by the contralateral eye. The pattern then reorganizes into ocular dominance columns that are roughly equally distributed between inputs serving the two eyes. This reorganization does not occur if the eyes are kept closed. The mechanism of this equalization is unknown. It has been argued that it is unlikely to involve Hebbian activity-dependent learning rules, on the assumption that these would favor an initially dominant eye. The reorganization occurs at the onset of the critical period (CP) for monocular deprivation (MD), the period when MD can cause a shift of cortical innervation in favor of the nondeprived eye. In mice, the CP is opened by the maturation of cortical inhibition, which does not occur if the eyes are kept closed. Here we show how these observations can be united: under Hebbian rules of activity-dependent synaptic modification, strengthening of intracortical inhibition can lead to equalization of the two eyes' inputs. Furthermore, when the effects of homeostatic synaptic plasticity or certain other mechanisms are incorporated, activity-dependent learning can also explain how MD causes a shift toward the open eye during the CP despite the drive by inhibition toward equalization of the two eyes' inputs. Thus, assuming similar mechanisms underlie the onset of the CP in cats as in mice, this and activity-dependent learning rules can explain the interocular equalization observed in cat V1 and its failure to occur without visual experience.
+
+-Animals
+-Animals, Newborn
+-Computer Simulation
+-Critical Period (Psychology)
+-Dominance, Ocular (+physiology)
+-Learning (+physiology)
+-Mathematics
+-Models, Neurological
+-Neural Inhibition (+physiology)
+-Neuronal Plasticity (-physiology)
+-Neurons (+physiology)
+-Photic Stimulation (-methods)
+-Sensory Deprivation (-physiology)
+-Synapses (-physiology)
++Vision, Ocular
++Visual Cortex (-cytology; -growth & development)
+-Visual Pathways (-physiology)
+-Visual Perception (-physiology)
+
+pii:29/20/6514
+doi:10.1523/JNEUROSCI.0492-08.2009
+pubmed:19458222
+

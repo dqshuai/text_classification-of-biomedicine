@@ -1,0 +1,34 @@
+J. Biol. Chem.
+
+Activation induces structural changes in the liganded angiotensin II type 1 receptor.
+
+M Clément, J Cabana, BJ Holleran, R Leduc, G Guillemette, P Lavigne, E Escher
+
+The octapeptide hormone angiotensin II (AngII) binds to and activates the human angiotensin II type 1 receptor (hAT(1)) of the G protein-coupled receptor class A family. Several activation mechanisms have been proposed for this family, but they have not yet been experimentally validated. We previously used the methionine proximity assay to show that 11 residues in transmembrane domain (TMD) III, VI, and VII of the hAT(1) receptor reside in close proximity to the C-terminal residue of AngII. With the exception of a single change in TMD VI, the same contacts are present on N111G-hAT(1), a constitutively active mutant; this N111G-hAT(1) is a model for the active form of the receptor. In this study, two series of 53 individual methionine mutations were constructed in TMD I, II, IV, and V on both receptor forms. The mutants were photolabeled with a neutral antagonist, (125)I-[Sar(1),p-benzoyl-L-Phe(8)]AngII, and the resulting complexes were digested with cyanogen bromide. Although no new contacts were found for the hAT(1) mutants, two were found in the constitutively active mutants, Phe-77 in TMD II and Asn-200 in TMD V. To our knowledge, this is the first time that a direct ligand contact with TMD II and TMD V has been reported. These contact point differences were used to identify the structural changes between the WT-hAT(1) and N111G-hAT(1) complexes through homology-based modeling and restrained molecular dynamics. The model generated revealed an important structural rearrangement of several TMDs from the basal to the activated form in the WT-hAT(1) receptor.
+
+-Amino Acid Sequence
+-Angiotensin II (+metabolism)
+-Animals
+-Binding Sites (-genetics)
+-COS Cells
+-Cercopithecus aethiops
+-Cyanogen Bromide (-chemistry)
+-Electrophoresis, Polyacrylamide Gel
+-Humans
+-Inositol Phosphates (-metabolism)
+-Ligands
+-Methionine (-genetics)
+-Models, Biological
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
++Mutation
+-Photoaffinity Labels
+-Protein Binding
+-Receptor, Angiotensin, Type 1 (-chemistry; -genetics; +metabolism)
+-Transfection
+
+pii:M109.012922
+doi:10.1074/jbc.M109.012922
+pubmed:19635801
+pmc:PMC2785348
+

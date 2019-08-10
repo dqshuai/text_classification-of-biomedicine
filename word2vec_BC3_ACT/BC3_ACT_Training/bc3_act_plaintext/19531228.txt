@@ -1,0 +1,19 @@
+BMC Bioinformatics
+
+FuGEFlow: data model and markup language for flow cytometry.
+
+Y Qian, O Tchuvatkina, J Spidlen, P Wilkinson, M Gasparetto, AR Jones, FJ Manion, RH Scheuermann, RP Sekaly, RR Brinkman
+
+BACKGROUND: Flow cytometry technology is widely used in both health care and research. The rapid expansion of flow cytometry applications has outpaced the development of data storage and analysis tools. Collaborative efforts being taken to eliminate this gap include building common vocabularies and ontologies, designing generic data models, and defining data exchange formats. The Minimum Information about a Flow Cytometry Experiment (MIFlowCyt) standard was recently adopted by the International Society for Advancement of Cytometry. This standard guides researchers on the information that should be included in peer reviewed publications, but it is insufficient for data exchange and integration between computational systems. The Functional Genomics Experiment (FuGE) formalizes common aspects of comprehensive and high throughput experiments across different biological technologies. We have extended FuGE object model to accommodate flow cytometry data and metadata. METHODS: We used the MagicDraw modelling tool to design a UML model (Flow-OM) according to the FuGE extension guidelines and the AndroMDA toolkit to transform the model to a markup language (Flow-ML). We mapped each MIFlowCyt term to either an existing FuGE class or to a new FuGEFlow class. The development environment was validated by comparing the official FuGE XSD to the schema we generated from the FuGE object model using our configuration. After the Flow-OM model was completed, the final version of the Flow-ML was generated and validated against an example MIFlowCyt compliant experiment description. RESULTS: The extension of FuGE for flow cytometry has resulted in a generic FuGE-compliant data model (FuGEFlow), which accommodates and links together all information required by MIFlowCyt. The FuGEFlow model can be used to build software and databases using FuGE software toolkits to facilitate automated exchange and manipulation of potentially large flow cytometry experimental data sets. Additional project documentation, including reusable design patterns and a guide for setting up a development environment, was contributed back to the FuGE project. CONCLUSION: We have shown that an extension of FuGE can be used to transform minimum information requirements in natural language to markup language in XML. Extending FuGE required significant effort, but in our experiences the benefits outweighed the costs. The FuGEFlow is expected to play a central role in describing flow cytometry experiments and ultimately facilitating data exchange including public flow cytometry repositories currently under development.
+
+-Computational Biology (+methods)
+-Databases, Factual
++Flow Cytometry
+-Information Storage and Retrieval (+methods)
++Programming Languages
+
+pii:1471-2105-10-184
+doi:10.1186/1471-2105-10-184
+pubmed:19531228
+pmc:PMC2711079
+

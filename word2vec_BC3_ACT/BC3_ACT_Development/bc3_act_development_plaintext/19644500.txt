@@ -1,0 +1,29 @@
+EMBO Rep.
+
+ARF stimulates XPC to trigger nucleotide excision repair by regulating the repressor complex of E2F4.
+
+C Dominguez-Brauer, YJ Chen, PM Brauer, J Pimkina, P Raychaudhuri
+
+The tumour suppressor ARF (alternative reading frame), which is mutated or silenced in various tumours, has a crucial role in tumour surveillance to suppress unwarranted cell growth and proliferation. ARF has also been linked to the DNA-damage-induced response of p53 because of its ability to inhibit murine double minute 2 (MDM2). Here, however, we provide genetic evidence for a role of ARF in nucleotide excision repair (NER) that is independent of p53. Cells lacking ARF are deficient in NER. Expression of ARF restores the repair activity, which coincides with increased expression of the damaged-DNA recognition protein xeroderma pigmentosum, complementation group C (XPC). We provide evidence that, by disrupting the interaction between E2F transcription factor 4 (E2F4) and DRTF polypeptide 1 (DP1), ARF reduces the interaction of the E2F4-p130 repressor complex with the promoter of XPC to ensure high-level expression of XPC. Together, our results point to an important 'care-taker'-type tumour-suppression function for ARF in NER through the increased expression of XPC.
+
+-Animals
+-Base Sequence
+-Cell Line
+-Cyclin-Dependent Kinase Inhibitor p16 (-deficiency; -genetics; +metabolism)
+-DNA (+metabolism)
++DNA Repair
+-DNA-Binding Proteins (-genetics; +metabolism)
+-E2F4 Transcription Factor (+metabolism)
+-Gene Expression Regulation
+-Mice
+-Mice, Knockout
+-Protein Binding
+-Proto-Oncogene Proteins c-mdm2 (-deficiency; -metabolism)
+-Pyrimidine Dimers (-metabolism)
+-Tumor Suppressor Protein p53 (-deficiency; -metabolism)
+
+pii:embor2009139
+doi:10.1038/embor.2009.139
+pubmed:19644500
+pmc:PMC2750060
+

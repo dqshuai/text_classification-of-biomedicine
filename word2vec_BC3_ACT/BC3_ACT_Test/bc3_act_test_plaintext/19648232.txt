@@ -1,0 +1,31 @@
+Plant Physiol.
+
+BRASSINOSTEROID UPREGULATED1, encoding a helix-loop-helix protein, is a novel gene involved in brassinosteroid signaling and controls bending of the lamina joint in rice.
+
+A Tanaka, H Nakagawa, C Tomita, Z Shimatani, M Ohtake, T Nomura, CJ Jiang, JG Dubouzet, S Kikuchi, H Sekimoto, T Yokota, T Asami, T Kamakura, M Mori
+
+Brassinosteroids (BRs) are involved in many developmental processes and regulate many subsets of downstream genes throughout the plant kingdom. However, little is known about the BR signal transduction and response network in monocots. To identify novel BR-related genes in rice (Oryza sativa), we monitored the transcriptomic response of the brassinosteroid deficient1 (brd1) mutant, with a defective BR biosynthetic gene, to brassinolide treatment. Here, we describe a novel BR-induced rice gene BRASSINOSTEROID UPREGULATED1 (BU1), encoding a helix-loop-helix protein. Rice plants overexpressing BU1 (BU1:OX) showed enhanced bending of the lamina joint, increased grain size, and resistance to brassinazole, an inhibitor of BR biosynthesis. In contrast to BU1:OX, RNAi plants designed to repress both BU1 and its homologs displayed erect leaves. In addition, compared to the wild type, the induction of BU1 by exogenous brassinolide did not require de novo protein synthesis and it was weaker in a BR receptor mutant OsbriI (Oryza sativa brassinosteroid insensitive1, d61) and a rice G protein alpha subunit (RGA1) mutant d1. These results indicate that BU1 protein is a positive regulator of BR response: it controls bending of the lamina joint in rice and it is a novel primary response gene that participates in two BR signaling pathways through OsBRI1 and RGA1. Furthermore, expression analyses showed that BU1 is expressed in several organs including lamina joint, phloem, and epithelial cells in embryos. These results indicate that BU1 may participate in some other unknown processes modulated by BR in rice.
+
+-Amino Acid Sequence
+-Cholestanols (+metabolism; -pharmacology)
+-Computational Biology
+-Gene Expression Regulation, Plant (-drug effects)
+-Genes, Plant
++Helix-Loop-Helix Motifs
+-Models, Biological
+-Molecular Sequence Data
+-Oryza sativa (-anatomy & histology; -drug effects; +genetics)
+-Phenotype
+-Plant Leaves (+anatomy & histology; +genetics)
+-Plant Proteins (+chemistry; +genetics; -metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Sequence Analysis, Protein
+-Sequence Homology, Amino Acid
+-Signal Transduction (-drug effects; -genetics)
+-Steroids, Heterocyclic (+metabolism; -pharmacology)
+
+pii:pp.109.140806
+doi:10.1104/pp.109.140806
+pubmed:19648232
+pmc:PMC2754635
+

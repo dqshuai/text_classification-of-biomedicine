@@ -1,0 +1,23 @@
+Protein Sci.
+
+Delineating Anopheles gambiae coactivator associated arginine methyltransferase 1 automethylation using top-down high resolution tandem mass spectrometry.
+
+P Kuhn, Q Xu, E Cline, D Zhang, Y Ge, W Xu
+
+Coactivator-associated arginine methyltransferase 1 (CARM1), originally defined as a coactivator for steroid receptors, is a member of the protein arginine methyltransferases. Here, we report the discovery and characterization of an automethylation event by AgCARM1, a CARM1 homologue in the mosquito Anopheles gambiae, using top-down high resolution tandem mass spectrometry, which allows fine mapping of modifications in the intact protein accurately and quantitatively without priori knowledge. Unexpectedly, we found that AgCARM1 has already been predominantly dimethylated during its expression in Escherichia coli. A single arginine methylation site, R485, was identified which is conserved among CARM1 in insects. No methylation was observed in the intact AgCARM1(R485K) mutant where R485 is mutated to lysine, which confirms that R485 is the only detectable methylation site. Using AgCARM1 methyltransferase defective mutants, we confirmed that this is an automethylation event and show the automethylation of AgCARM1 occurs intermolecularly. This study represents the first comprehensive characterization of an automethylation event by top-down mass spectrometry. The unexpected high percentage of automethylated recombinant AgCARM1 expressed in E. coli may shed light on other bacterially expressed post-translational modifying enzymes, which could be modified but overlooked in biochemical and structural studies. Top-down high resolution tandem mass spectrometry thus provides unique opportunities for revealing unexpected protein modification, localizing specific modification to one amino acid, and delineating molecular mechanism of an enzyme.
+
+-Amino Acid Sequence
+-Animals
+-Anopheles gambiae (+enzymology)
+-Methylation
+-Molecular Sequence Data
+-Mutant Proteins (-chemistry; -genetics; -metabolism)
+-Protein-Arginine N-Methyltransferases (+chemistry; -genetics; -metabolism)
+-Recombinant Proteins (-chemistry; -genetics; -metabolism)
+-Tandem Mass Spectrometry
+-Transfection
+
+doi:10.1002/pro.139
+pubmed:19472346
+pmc:PMC2774437
+

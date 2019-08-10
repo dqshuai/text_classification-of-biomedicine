@@ -1,0 +1,31 @@
+Mol. Cell. Biol.
+
+Acetylated NPM1 localizes in the nucleoplasm and regulates transcriptional activation of genes implicated in oral cancer manifestation.
+
+J Shandilya, V Swaminathan, SS Gadad, R Choudhari, GS Kodaganur, TK Kundu
+
+Nucleophosmin (NPM1) is a multifunctional protein involved in the regulation of centrosome duplication, ribosome biogenesis, genomic stability, histone chaperone function, and transcription. Overexpression of NPM1 is associated with cancers of diverse histological origins. Here, we have found that p300-mediated acetylation of NPM1 modulates its subcellular localization and augments its oncogenic potential. Acetylated NPM1 is predominantly localized in the nucleoplasm, where it associates with transcriptionally active RNA polymerase II. Deacetylation of NPM1 is brought about by human SIRT1 and reduces its transcriptional activation potential. Remarkably, increased levels of acetylated NPM1 were found in grade II and III oral squamous cell carcinoma (OSCC) patient samples. Small interfering RNA (siRNA)-mediated knockdown of NPM1 in an OSCC cell line, followed by microarray analysis and chromatin immunoprecipitation experiments, revealed that some of the genes involved in oral cancer malignancy are regulated by NPM1 and have acetylated NPM1 localized at their promoters. Either suppression of p300 by siRNA or mutation of acetylatable lysine residues of NPM1 resulted in reduced occupancy of acetylated NPM1 on the target gene promoter concomitant with its decreased transcript levels. These observations suggest that acetylated NPM1 transcriptionally regulates genes involved in cell survival and proliferation during carcinogenesis.
+
+-Acetylation
+-Cell Line, Tumor
+-Cell Nucleus (+metabolism)
+-E1A-Associated p300 Protein (-metabolism)
++Gene Expression Regulation, Neoplastic
+-Gene Knockdown Techniques
++Genes, Neoplasm
+-Humans
+-Mouth Neoplasms (-enzymology; +genetics; -pathology)
+-Nuclear Proteins (+metabolism)
+-Promoter Regions, Genetic (-genetics)
+-Protein Transport
+-RNA Polymerase II (-metabolism)
+-Sirtuin 1
+-Sirtuins (-metabolism)
+-Transcriptional Activation (+genetics)
+-Tumor Necrosis Factor-alpha (-genetics)
+
+pii:MCB.01969-08
+doi:10.1128/MCB.01969-08
+pubmed:19581289
+pmc:PMC2738287
+

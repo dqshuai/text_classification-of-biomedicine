@@ -1,0 +1,35 @@
+Cancer Res.
+
+KLF6-SV1 is a novel antiapoptotic protein that targets the BH3-only protein NOXA for degradation and whose inhibition extends survival in an ovarian cancer model.
+
+A Difeo, F Huang, J Sangodkar, EA Terzo, D Leake, G Narla, JA Martignetti
+
+Defects in apoptosis are not only a hallmark of cancer initiation and progression but can also underlie the development of chemoresistance. How the tightly regulated cascade of protein-protein interactions between members of three competing protein families regulating the apoptotic cascade is subverted in tumor cells is incompletely understood. Here, we show that KLF6-SV1, whose overexpression is associated with poor survival in several different cancers and is an alternatively spliced isoform of the Krüppel-like tumor suppressor KLF6, is a critical prosurvival/antiapoptotic protein. KLF6-SV1 binds the proapoptotic BH3-only protein NOXA, which results in their mutual HDM2-dependent degradation. In turn, this increases the intracellular concentration of the prosurvival binding partner of NOXA, Mcl-1, and effectively blocks apoptosis. In an ovarian cancer model, systemically delivered small interfering RNA against KLF6-SV1 induces spontaneous apoptosis of tumor cells, decreases tumor burden, and restores cisplatin sensitivity in vivo. Moreover, i.p. delivery of siKLF6-SV1 RNA halts ovarian tumor progression and improves median and overall survival (progression-free for >15 months; P < 0.0002) in mice in a dose-dependent manner. Thus, KLF6-SV1 represents a novel regulator of protein interactions in the apoptotic cascade and a therapeutically targetable control point.
+
+-Animals
+-Antineoplastic Agents (-therapeutic use)
+-Apoptosis Regulatory Proteins (-antagonists & inhibitors; -metabolism; -physiology)
+-Female
+-Humans
+-Kruppel-Like Transcription Factors (+antagonists & inhibitors; -metabolism; +physiology)
+-Mice
+-Mice, Inbred BALB C
+-Mice, Nude
+-Ovarian Neoplasms (+drug therapy; -mortality)
+-Protein Binding
++Protein Processing, Post-Translational
+-Protein Structure, Tertiary
+-Proto-Oncogene Proteins (+antagonists & inhibitors; -metabolism; +physiology)
+-Proto-Oncogene Proteins c-bcl-2 (-chemistry; +metabolism)
+-RNA, Small Interfering (+therapeutic use)
+-Survival Analysis
+-Time Factors
+-Tumor Cells, Cultured
+-Xenograft Model Antitumor Assays
+
+pii:0008-5472.CAN-08-4282
+doi:10.1158/0008-5472.CAN-08-4282
+pubmed:19435908
+mid:NIHMS181564
+pmc:PMC2834948
+

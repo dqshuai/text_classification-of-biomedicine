@@ -1,0 +1,29 @@
+J. Proteome Res.
+
+Mass spectrometry (LC-MS/MS) site-mapping of N-glycosylated membrane proteins for breast cancer biomarkers.
+
+SA Whelan, M Lu, J He, W Yan, RE Saxton, KF Faull, JP Whitelegge, HR Chang
+
+Cancer cell membrane proteins are released into the plasma/serum by exterior protein cleavage, membrane sloughing, cellular secretion or cell lysis, and represent promising candidates for interrogation. Because many known disease biomarkers are both glycoproteins and membrane bound, we chose the hydrazide method to specifically target, enrich, and identify glycosylated proteins from breast cancer cell membrane fractions using the LTQ Orbitrap mass spectrometer. Our initial goal was to select membrane proteins from breast cancer cell lines and then to use the hydrazide method to identify the N-linked proteome as a prelude to evaluation of plasma/serum proteins from cancer patients. A combination of steps facilitated identification of the glycopeptides and also defined the glycosylation sites. In MCF-7, MDA-MB-453 and MDA-MB-468 cell membrane fractions, use of the hydrazide method facilitated an initial enrichment and site mapping of 27 N-linked glycosylation sites in 25 different proteins. However, only three N-linked glycosylated proteins, galectin-3 binding protein, lysosome associated membrane glycoprotein 1, and oxygen regulated protein, were identified in all three breast cancer cell lines. In addition, MCF-7 cells shared an additional 3 proteins with MDA-MB-453. Interestingly, the hydrazide method isolated a number of other N-linked glycoproteins also known to be involved in breast cancer, including epidermal growth factor receptor (EGFR), CD44, and the breast cancer 1, and early onset isoform 1 (BRCA1) biomarker. Analyzing the N-glycoproteins from membranes of breast cancer cell lines highlights the usefulness of the procedure for generating a practical set of potential biomarkers.
+
+-Amino Acid Sequence
+-Antigens, CD44 (-metabolism)
+-Breast Neoplasms (+metabolism)
+-Cell Line, Tumor
+-Chromatography, Liquid (+methods)
+-Galectin 3 (-metabolism)
+-Glycoproteins (+analysis)
+-Glycosylation
+-Humans
+-Membrane Proteins (+analysis)
+-Molecular Sequence Data
+-Neoplasm Proteins (+analysis)
+-Proteomics (-methods)
+-Tandem Mass Spectrometry (+methods)
+-Tumor Markers, Biological (-analysis)
+
+doi:10.1021/pr900322g
+pubmed:19522481
+mid:NIHMS133542
+pmc:PMC2761014
+

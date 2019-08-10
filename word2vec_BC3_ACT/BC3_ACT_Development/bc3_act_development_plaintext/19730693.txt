@@ -1,0 +1,33 @@
+PLoS Pathog.
+
+CD8(+) T cells restrict Yersinia pseudotuberculosis infection: bypass of anti-phagocytosis by targeting antigen-presenting cells.
+
+MA Bergman, WP Loomis, J Mecsas, MN Starnbach, RR Isberg
+
+All Yersinia species target and bind to phagocytic cells, but uptake and destruction of bacteria are prevented by injection of anti-phagocytic Yop proteins into the host cell. Here we provide evidence that CD8(+) T cells, which canonically eliminate intracellular pathogens, are important for restricting Yersinia, even though bacteria are primarily found in an extracellular locale during the course of disease. In a model of infection with attenuated Y. pseudotuberculosis, mice deficient for CD8(+) T cells were more susceptible to infection than immunocompetent mice. Although exposure to attenuated Y. pseudotuberculosis generated T(H)1-type antibody responses and conferred protection against challenge with fully virulent bacteria, depletion of CD8(+) T cells during challenge severely compromised protective immunity. Strikingly, mice lacking the T cell effector molecule perforin also succumbed to Y. pseudotuberculosis infection. Given that the function of perforin is to kill antigen-presenting cells, we reasoned that cell death marks bacteria-associated host cells for internalization by neighboring phagocytes, thus allowing ingestion and clearance of the attached bacteria. Supportive of this model, cytolytic T cell killing of Y. pseudotuberculosis-associated host cells results in engulfment by neighboring phagocytes of both bacteria and target cells, bypassing anti-phagocytosis. Our findings are consistent with a novel function for cell-mediated immune responses protecting against extracellular pathogens like Yersinia: perforin and CD8(+) T cells are critical for hosts to overcome the anti-phagocytic action of Yops.
+
+-Animals
+-Antigen-Presenting Cells (+immunology)
+-Bacterial Vaccines (-immunology)
+-CD8-Positive T-Lymphocytes (+immunology)
+-Disease Models, Animal
+-Host-Pathogen Interactions (-immunology)
+-Immunoglobulin G (-metabolism)
+-Kaplan-Meiers Estimate
+-Liver (-immunology; -microbiology)
+-Lymphoid Tissue (-immunology; -microbiology)
+-Mice
+-Mice, Inbred C57BL
+-Phagocytosis
+-Pore Forming Cytotoxic Proteins (-immunology)
+-Statistics, Nonparametric
+-T-Lymphocytes, Cytotoxic (-immunology)
+-T-Lymphocytes, Helper-Inducer (-immunology)
+-Vaccines, Attenuated (-immunology)
+-Yersinia pseudotuberculosis (+immunology; -pathogenicity)
+-Yersinia pseudotuberculosis Infections (+immunology)
+
+doi:10.1371/journal.ppat.1000573
+pubmed:19730693
+pmc:PMC2731216
+

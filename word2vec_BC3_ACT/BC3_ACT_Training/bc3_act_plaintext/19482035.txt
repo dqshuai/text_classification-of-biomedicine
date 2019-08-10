@@ -1,0 +1,23 @@
+J. Mol. Biol.
+
+Molecular simulation studies of monovalent counterion-mediated interactions in a model RNA kissing loop.
+
+AA Chen, DE Draper, RV Pappu
+
+A kissing loop is a highly stable complex formed by loop-loop base-pairing between two RNA hairpins. This common structural motif is utilized in a wide variety of RNA-mediated processes, including antisense recognition, substrate recognition in riboswitches, and viral replication. Recent work has shown that the Tar-Tar(*) complex, an archetypal kissing loop, can form without Mg(2+), so long as high concentrations of alkali chloride salts are present. Interestingly, the stability of the complex is found to decrease with increasing cation size. In this work, we used molecular simulations to develop a molecular-level understanding of the origins of the observed counterion specificity. The ionic atmosphere of the Tar-Tar(*) complex was examined in the presence of 800 mm (where m denotes molality) NaCl, KCl, or CsCl. We used spatial free-energy density profiles to analyze differences in counterion accumulation at different spatial extents from the RNA molecule. We found that the lowest free-energy levels, which are situated in the vicinity of the loop-loop interface, can accommodate roughly two counterions, irrespective of counterion type. However, as we moved into higher free-energy levels, which are farther from the loop-loop interface, we observed increased differences in the numbers of accumulated counterions, with this number being largest for Na(+) and smallest for Cs(+). We analyzed the source of these differences and were able to attribute these to two distinct features: The extent of partial dehydration varies based on cation type; the smaller the cation, the greater the degree of dehydration. While smaller ions bind their first-hydration-shell water molecules more tightly than larger ions, they are also able to shed these water molecules for stronger electrostatic interactions with the RNA molecule. Secondly, we observed a distinct asymmetry in the numbers of accumulated cations around each hairpin in the Tar-Tar(*) complex. We were able to ascribe this asymmetry to the presence of a guanine tract in the Tar hairpin, which facilitates partial dehydration of the counterions. However, the smaller ions compensate for this asymmetry by forming a belt around the loop-loop interface in intermediate free-energy levels. As a result, the degree of asymmetry in counterion accumulation around individual hairpins shows an inverse correlation with the experimentally observed cation specificity for the stability of Tar-Tar(*) (i.e., the smaller the asymmetry, the greater the experimentally observed stability). This in turn provides a plausible explanation for why the smaller cations help stabilize the Tar-Tar(*) complex better than the larger cations. These findings suggest that the specific sequence and structural features of the Tar-Tar(*) complex may be the source of the experimentally observed cation specificity in Tar-Tar(*) stability. Our results lead to testable predictions for how changes in sequence might alter the observed counterion specificity in kissing loop stability.
+
+-Base Pairing
+-Cations, Monovalent (-chemistry)
+-Computer Simulation
+-Metals, Alkali (+chemistry)
+-Models, Molecular
+-Nucleic Acid Conformation
+-RNA (+chemistry)
+-RNA Stability
+-Static Electricity
+-Thermodynamics
+
+pii:S0022-2836(09)00653-6
+doi:10.1016/j.jmb.2009.05.071
+pubmed:19482035
+

@@ -1,0 +1,27 @@
+PLoS ONE
+
+Shared visual attention and memory systems in the Drosophila brain.
+
+B van Swinderen, A McCartney, S Kauffman, K Flores, K Agrawal, J Wagner, A Paulk
+
+BACKGROUND: Selective attention and memory seem to be related in human experience. This appears to be the case as well in simple model organisms such as the fly Drosophila melanogaster. Mutations affecting olfactory and visual memory formation in Drosophila, such as in dunce and rutabaga, also affect short-term visual processes relevant to selective attention. In particular, increased optomotor responsiveness appears to be predictive of visual attention defects in these mutants. METHODOLOGY/PRINCIPAL FINDINGS: To further explore the possible overlap between memory and visual attention systems in the fly brain, we screened a panel of 36 olfactory long term memory (LTM) mutants for visual attention-like defects using an optomotor maze paradigm. Three of these mutants yielded high dunce-like optomotor responsiveness. We characterized these three strains by examining their visual distraction in the maze, their visual learning capabilities, and their brain activity responses to visual novelty. We found that one of these mutants, D0067, was almost completely identical to dunce(1) for all measures, while another, D0264, was more like wild type. Exploiting the fact that the LTM mutants are also Gal4 enhancer traps, we explored the sufficiency for the cells subserved by these elements to rescue dunce attention defects and found overlap at the level of the mushroom bodies. Finally, we demonstrate that control of synaptic function in these Gal4 expressing cells specifically modulates a 20-30 Hz local field potential associated with attention-like effects in the fly brain. CONCLUSIONS/SIGNIFICANCE: Our study uncovers genetic and neuroanatomical systems in the fly brain affecting both visual attention and odor memory phenotypes. A common component to these systems appears to be the mushroom bodies, brain structures which have been traditionally associated with odor learning but which we propose might be also involved in generating oscillatory brain activity required for attention-like processes in the fly brain.
+
+-Animals
+-Brain (+physiology)
+-Brain Mapping
+-Drosophila Proteins (-genetics)
+-Drosophila melanogaster (+metabolism; +physiology)
+-Electrophysiology (-methods)
+-Maze Learning
++Memory
+-Models, Genetic
++Mutation
+-Neurons (-metabolism)
+-Oscillometry
+-Phenotype
++Vision, Ocular
+
+doi:10.1371/journal.pone.0005989
+pubmed:19543525
+pmc:PMC2694981
+

@@ -1,0 +1,30 @@
+PLoS Comput. Biol.
+
+Building disease-specific drug-protein connectivity maps from molecular interaction networks and PubMed abstracts.
+
+J Li, X Zhu, JY Chen
+
+The recently proposed concept of molecular connectivity maps enables researchers to integrate experimental measurements of genes, proteins, metabolites, and drug compounds under similar biological conditions. The study of these maps provides opportunities for future toxicogenomics and drug discovery applications. We developed a computational framework to build disease-specific drug-protein connectivity maps. We integrated gene/protein and drug connectivity information based on protein interaction networks and literature mining, without requiring gene expression profile information derived from drug perturbation experiments on disease samples. We described the development and application of this computational framework using Alzheimer's Disease (AD) as a primary example in three steps. First, molecular interaction networks were incorporated to reduce bias and improve relevance of AD seed proteins. Second, PubMed abstracts were used to retrieve enriched drug terms that are indirectly associated with AD through molecular mechanistic studies. Third and lastly, a comprehensive AD connectivity map was created by relating enriched drugs and related proteins in literature. We showed that this molecular connectivity map development approach outperformed both curated drug target databases and conventional information retrieval systems. Our initial explorations of the AD connectivity map yielded a new hypothesis that diltiazem and quinidine may be investigated as candidate drugs for AD treatment. Molecular connectivity maps derived computationally can help study molecular signature differences between different classes of drugs in specific disease contexts. To achieve overall good data coverage and quality, a series of statistical methods have been developed to overcome high levels of data noise in biological networks and literature mining results. Further development of computational molecular connectivity maps to cover major disease areas will likely set up a new model for drug development, in which therapeutic/toxicological profiles of candidate drugs can be checked computationally before costly clinical trials begin.
+
+-Algorithms
+-Alzheimer Disease (-drug therapy)
+-Animals
+-Cluster Analysis
++Databases, Protein
+-Drug Therapy
+-Genes (-drug effects)
+-Genomics (+methods)
+-Humans
+-Pharmaceutical Preparations (+chemistry)
++Pharmacology
+-Proteins (+chemistry; -metabolism)
++PubMed
+-ROC Curve
+-Reproducibility of Results
+-Sensitivity and Specificity
+-Systems Biology (+methods)
+
+doi:10.1371/journal.pcbi.1000450
+pubmed:19649302
+pmc:PMC2709445
+

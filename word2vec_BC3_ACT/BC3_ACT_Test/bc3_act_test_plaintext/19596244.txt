@@ -1,0 +1,23 @@
+Cell
+
+Intrinsic protein disorder and interaction promiscuity are widely associated with dosage sensitivity.
+
+T Vavouri, JI Semple, R Garcia-Verdugo, B Lehner
+
+Why are genes harmful when they are overexpressed? By testing possible causes of overexpression phenotypes in yeast, we identify intrinsic protein disorder as an important determinant of dosage sensitivity. Disordered regions are prone to make promiscuous molecular interactions when their concentration is increased, and we demonstrate that this is the likely cause of pathology when genes are overexpressed. We validate our findings in two animals, Drosophila melanogaster and Caenorhabditis elegans. In mice and humans the same properties are strongly associated with dosage-sensitive oncogenes, such that mass-action-driven molecular interactions may be a frequent cause of cancer. Dosage-sensitive genes are tightly regulated at the transcriptional, RNA, and protein levels, which may serve to prevent harmful increases in protein concentration under physiological conditions. Mass-action-driven interaction promiscuity is a single theoretical framework that can be used to understand, predict, and possibly treat the effects of increased gene expression in evolution and disease.
+
+-Animals
+-Caenorhabditis elegans (-genetics; -metabolism)
+-Drosophila melanogaster (-genetics; -metabolism)
++Gene Expression
+-Humans
+-Mice
+-Neoplasms (-metabolism)
+-Proteins (+metabolism; +toxicity)
+-RNA, Messenger (-metabolism)
+-Saccharomyces cerevisiae (-genetics; -metabolism)
+
+pii:S0092-8674(09)00454-1
+doi:10.1016/j.cell.2009.04.029
+pubmed:19596244
+

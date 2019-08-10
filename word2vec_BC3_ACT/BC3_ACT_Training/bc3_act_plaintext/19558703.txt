@@ -1,0 +1,20 @@
+BMC Bioinformatics
+
+ResBoost: characterizing and predicting catalytic residues in enzymes.
+
+R Alterovitz, A Arvey, S Sankararaman, C Dallett, Y Freund, K Sjölander
+
+BACKGROUND: Identifying the catalytic residues in enzymes can aid in understanding the molecular basis of an enzyme's function and has significant implications for designing new drugs, identifying genetic disorders, and engineering proteins with novel functions. Since experimentally determining catalytic sites is expensive, better computational methods for identifying catalytic residues are needed. RESULTS: We propose ResBoost, a new computational method to learn characteristics of catalytic residues. The method effectively selects and combines rules of thumb into a simple, easily interpretable logical expression that can be used for prediction. We formally define the rules of thumb that are often used to narrow the list of candidate residues, including residue evolutionary conservation, 3D clustering, solvent accessibility, and hydrophilicity. ResBoost builds on two methods from machine learning, the AdaBoost algorithm and Alternating Decision Trees, and provides precise control over the inherent trade-off between sensitivity and specificity. We evaluated ResBoost using cross-validation on a dataset of 100 enzymes from the hand-curated Catalytic Site Atlas (CSA). CONCLUSION: ResBoost achieved 85% sensitivity for a 9.8% false positive rate and 73% sensitivity for a 5.7% false positive rate. ResBoost reduces the number of false positives by up to 56% compared to the use of evolutionary conservation scoring alone. We also illustrate the ability of ResBoost to identify recently validated catalytic residues not listed in the CSA.
+
+-Binding Sites
+-Catalysis
+-Computational Biology (+methods)
+-Databases, Protein
+-Enzymes (+chemistry)
++Software
+
+pii:1471-2105-10-197
+doi:10.1186/1471-2105-10-197
+pubmed:19558703
+pmc:PMC2713229
+

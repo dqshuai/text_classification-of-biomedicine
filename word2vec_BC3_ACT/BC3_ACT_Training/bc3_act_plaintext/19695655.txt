@@ -1,0 +1,28 @@
+Virology
+
+Affinity maturation by targeted diversification of the CDR-H2 loop of a monoclonal Fab derived from a synthetic naïve human antibody library and directed against the internal trimeric coiled-coil of gp41 yields a set of Fabs with improved HIV-1 neutralization potency and breadth.
+
+E Gustchina, JM Louis, C Frisch, F Ylera, A Lechner, CA Bewley, GM Clore
+
+Previously we reported a broadly HIV-1 neutralizing mini-antibody (Fab 3674) of modest potency that was derived from a human non-immune phage library by panning against the chimeric gp41-derived construct N(CCG)-gp41. This construct presents the N-heptad repeat of the gp41 ectodomain as a stable, helical, disulfide-linked trimer that extends in helical phase from the six-helix bundle of gp41. In this paper, Fab 3674 was subjected to affinity maturation against the N(CCG)-gp41 antigen by targeted diversification of the CDR-H2 loop to generate a panel of Fabs with diverse neutralization activity. Three affinity-matured Fabs selected for further study, Fabs 8060, 8066 and 8068, showed significant increases in both potency and breadth of neutralization against HIV-1 pseudotyped with envelopes of primary isolates from the standard subtype B and C HIV-1 reference panels. The parental Fab 3674 is 10-20-fold less potent in monovalent than bivalent format over the entire B and C panels of HIV-1 pseudotypes. Of note is that the improved neutralization activity of the affinity-matured Fabs relative to the parental Fab 3674 was, on average, significantly greater for the Fabs in monovalent than bivalent format. This suggests that the increased avidity of the Fabs for the target antigen in bivalent format can be partially offset by kinetic and/or steric advantages afforded by the smaller monovalent Fabs. Indeed, the best affinity-matured Fab (8066) in monovalent format ( approximately 50 kDa) was comparable in HIV-1 neutralization potency to the parental Fab 3674 in bivalent format ( approximately 120 kDa) across the subtype B and C reference panels.
+
+-Amino Acid Sequence
+-Antibodies, Monoclonal (-genetics; +immunology)
+-Antibody Affinity
+-Directed Molecular Evolution
+-HIV Antibodies (-genetics; +immunology)
+-HIV Envelope Protein gp41 (+immunology)
+-HIV-1 (+immunology)
+-Humans
+-Inhibitory Concentration 50
+-Molecular Sequence Data
+-Neutralization Tests
+-Peptide Library
+-Sequence Alignment
+
+pii:S0042-6822(09)00452-8
+doi:10.1016/j.virol.2009.07.019
+pubmed:19695655
+mid:NIHMS135234
+pmc:PMC2759307
+

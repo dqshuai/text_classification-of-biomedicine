@@ -1,0 +1,19 @@
+Nucleic Acids Res.
+
+QMEAN server for protein model quality estimation.
+
+P Benkert, M Künzli, T Schwede
+
+Model quality estimation is an essential component of protein structure prediction, since ultimately the accuracy of a model determines its usefulness for specific applications. Usually, in the course of protein structure prediction a set of alternative models is produced, from which subsequently the most accurate model has to be selected. The QMEAN server provides access to two scoring functions successfully tested at the eighth round of the community-wide blind test experiment CASP. The user can choose between the composite scoring function QMEAN, which derives a quality estimate on the basis of the geometrical analysis of single models, and the clustering-based scoring function QMEANclust which calculates a global and local quality estimate based on a weighted all-against-all comparison of the models from the ensemble provided by the user. The web server performs a ranking of the input models and highlights potentially problematic regions for each model. The QMEAN server is available at http://swissmodel.expasy.org/qmean.
+
++Models, Molecular
++Protein Conformation
+-Reproducibility of Results
++Software
+-User-Computer Interface
+
+pii:gkp322
+doi:10.1093/nar/gkp322
+pubmed:19429685
+pmc:PMC2703985
+

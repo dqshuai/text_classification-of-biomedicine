@@ -1,0 +1,32 @@
+Genome Biol.
+
+Comparative genomic analysis of C4 photosynthetic pathway evolution in grasses.
+
+X Wang, U Gowik, H Tang, JE Bowers, P Westhoff, AH Paterson
+
+BACKGROUND: Sorghum is the first C4 plant and the second grass with a full genome sequence available. This makes it possible to perform a whole-genome-level exploration of C4 pathway evolution by comparing key photosynthetic enzyme genes in sorghum, maize (C4) and rice (C3), and to investigate a long-standing hypothesis that a reservoir of duplicated genes is a prerequisite for the evolution of C4 photosynthesis from a C3 progenitor. RESULTS: We show that both whole-genome and individual gene duplication have contributed to the evolution of C4 photosynthesis. The C4 gene isoforms show differential duplicability, with some C4 genes being recruited from whole genome duplication duplicates by multiple modes of functional innovation. The sorghum and maize carbonic anhydrase genes display a novel mode of new gene formation, with recursive tandem duplication and gene fusion accompanied by adaptive evolution to produce C4 genes with one to three functional units. Other C4 enzymes in sorghum and maize also show evidence of adaptive evolution, though differing in level and mode. Intriguingly, a phosphoenolpyruvate carboxylase gene in the C3 plant rice has also been evolving rapidly and shows evidence of adaptive evolution, although lacking key mutations that are characteristic of C4 metabolism. We also found evidence that both gene redundancy and alternative splicing may have sheltered the evolution of new function. CONCLUSIONS: Gene duplication followed by functional innovation is common to evolution of most but not all C4 genes. The apparently long time-lag between the availability of duplicates for recruitment into C4 and the appearance of C4 grasses, together with the heterogeneity of origins of C4 genes, suggests that there may have been a long transition process before the establishment of C4 photosynthesis.
+
+-Amino Acid Sequence
+-Amino Acid Substitution
+-Arabidopsis (-genetics)
+-Carbon (+metabolism)
+-Carbonic Anhydrases (-genetics)
++Evolution, Molecular
+-Gene Duplication
+-Genome, Plant (+genetics)
+-Isoenzymes (-genetics)
+-Malate Dehydrogenase (-metabolism)
+-Oryza sativa (-genetics)
+-Phosphoenolpyruvate Carboxylase (-genetics)
+-Photosynthesis (+genetics)
+-Phylogeny
+-Poaceae (-enzymology; +genetics)
+-Pyruvate, Orthophosphate Dikinase (-genetics)
+-Sorghum (-enzymology; -genetics)
+-Zea mays (-enzymology; -genetics)
+
+pii:gb-2009-10-6-r68
+doi:10.1186/gb-2009-10-6-r68
+pubmed:19549309
+pmc:PMC2718502
+

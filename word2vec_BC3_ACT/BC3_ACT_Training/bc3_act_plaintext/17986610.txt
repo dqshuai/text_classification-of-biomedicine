@@ -1,0 +1,26 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Mechanism of degradation of CPEB during Xenopus oocyte maturation.
+
+D Setoyama, M Yamashita, N Sagata
+
+CPEB, a cytoplasmic polyadenylation element-binding protein, plays an important role in translational control of maternal mRNAs in early animal development. During Xenopus oocyte maturation, CPEB undergoes a Cdc2-mediated phosphorylation- and ubiquitin-dependent degradation that is required for proper entry into meiosis II. However, the precise mechanism of CPEB degradation, including the identity of the responsible E3 ubiquitin ligase, is not known. Here, we show that the SCF(beta-TrCP) E3 ubiquitin ligase complex targets CPEB for degradation during Xenopus oocyte maturation. beta-TrCP, the F-box protein of SCF(beta-TrCP), specifically binds to a sequence (190)TSGFSS(195) (termed here the TSG motif) of CPEB, thereby targeting CPEB for degradation. beta-TrCP binding depends on phosphorylation of Thr-190, Ser-191, and Ser-195 in the TSG motif. Among these residues, Ser-191 is phosphorylated by the Polo-like kinase Plx1, which binds CPEB at a specific Thr-125 residue prephosphorylated by Cdc2. Finally, Cdc2-mediated phosphorylation of other multiple Ser residues, previously implicated in CPEB degradation, is required for both Thr-125 phosphorylation and beta-TrCP binding, presumably causing conformational changes of CPEB. We propose that Cdc2 and Plx1 sequentially phosphorylate CPEB and target it for SCF(beta-TrCP)-dependent degradation in Xenopus oocytes. We suggest that many other proteins carrying the TSG-like motif may be targeted by SCF(beta-TrCP).
+
+-Amino Acid Sequence
+-Animals
+-Binding Sites
+-Hydrolysis
+-Molecular Sequence Data
+-Oocytes (+cytology)
+-Phosphorylation
+-SKP Cullin F-Box Protein Ligases (-metabolism)
+-Transcription Factors (-chemistry; +metabolism)
+-Xenopus
+-Xenopus Proteins (-chemistry; +metabolism)
+-mRNA Cleavage and Polyadenylation Factors (-chemistry; +metabolism)
+
+pii:0706952104
+doi:10.1073/pnas.0706952104
+pubmed:17986610
+pmc:PMC2084286
+

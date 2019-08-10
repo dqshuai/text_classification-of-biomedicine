@@ -1,0 +1,21 @@
+Virology
+
+RIG-I is cleaved during picornavirus infection.
+
+PM Barral, D Sarkar, PB Fisher, VR Racaniello
+
+The innate immune system senses RNA virus infections through membrane-bound Toll-like receptors or the cytoplasmic proteins RIG-I and MDA-5. RIG-I is believed to recognize the 5'-triphosphate present on many viral RNAs, and hence is important for sensing infections by paramyxoviruses, influenza viruses, rhabdoviruses, and flaviviruses. MDA-5 recognizes dsRNA, and senses infection with picornaviruses, whose RNA 5'-ends are linked to a viral protein, VPg, not a 5'-triphosphate. We previously showed that MDA-5 is degraded in cells infected with different picornaviruses, and suggested that such cleavage might be a mechanism to antagonize production of type I IFN in response to viral infection. Here we examined the state of RIG-I during picornavirus infection. RIG-I is degraded in cells infected with poliovirus, rhinoviruses, echovirus, and encephalomyocarditis virus. In contrast to MDA-5, cleavage of RIG-I is not accomplished by cellular caspases or the proteasome. Rather, the viral proteinase 3C(pro) cleaves RIG-I, both in vitro and in cells. Cleavage of RIG-I during picornavirus infection may constitute another mechanism for attenuating the innate response to viral infection.
+
+-Cell Line
+-Cysteine Endopeptidases (+metabolism)
+-DEAD-box RNA Helicases (+metabolism)
+-Humans
+-Picornaviridae (+immunology; +physiology)
+-Viral Proteins (+metabolism)
+
+pii:S0042-6822(09)00407-3
+doi:10.1016/j.virol.2009.06.045
+pubmed:19628239
+mid:NIHMS134464
+pmc:PMC2743091
+

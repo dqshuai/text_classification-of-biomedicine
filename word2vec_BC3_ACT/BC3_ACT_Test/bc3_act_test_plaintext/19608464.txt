@@ -1,0 +1,37 @@
+DNA Repair (Amst.)
+
+Characterization of DNA damage-dependent cell cycle checkpoints in a menin-deficient model.
+
+MC Kottemann, AE Bale
+
+MEN1, the gene responsible for the cancer predisposition syndrome multiple endocrine neoplasia type I, has been implicated in DNA repair, cell cycle control, and transcriptional regulation. It is unclear to what degree these processes are integrated into a single encompassing function in normal cellular physiology and how deficiency of the MEN1-encoded protein, "menin", contributes to cancer pathogenesis. In this study, we found that loss of Men1 in mouse embryonic fibroblasts caused abrogation of the G1/S and intra-S checkpoints following ionizing radiation. The cyclin-dependent kinase inhibitor, p21, failed to be upregulated in the mutant although upstream checkpoint signaling remained intact. Menin localized to the p21 promoter in a DNA damage-dependent manner. The MLL histone methyltransferase, a positive transcriptional regulator, bound to the same region in the presence of menin but not in Men1(-/-) cells. Finally, p53 retained damage-responsive binding to the p21 promoter in the Men1 mutant. These data indicate that menin participates in the checkpoint response in a transcriptional capacity, upregulating the DNA damage-responsive target p21.
+
+-Animals
++Cell Cycle (-drug effects; -radiation effects)
+-Cell Cycle Proteins (-metabolism)
+-Cyclin-Dependent Kinase Inhibitor p21 (-genetics; -metabolism)
++DNA Damage
+-Embryo, Mammalian (-cytology)
+-Fibroblasts (-drug effects; -metabolism; -radiation effects)
+-G1 Phase (-drug effects; -radiation effects)
+-Mice
++Models, Biological
+-Mutagens (-pharmacology)
+-Mutation (-genetics)
+-Myeloid-Lymphoid Leukemia Protein (-metabolism)
+-Phenotype
+-Promoter Regions, Genetic (-genetics)
+-Protein Binding (-drug effects; -radiation effects)
+-Protein-Serine-Threonine Kinases (-metabolism)
+-Proto-Oncogene Proteins (+deficiency; -metabolism)
+-Radiation, Ionizing
+-S Phase (-drug effects; -radiation effects)
+-Tumor Suppressor Protein p53 (-metabolism)
+-Up-Regulation (-drug effects; -radiation effects)
+
+pii:S1568-7864(09)00160-8
+doi:10.1016/j.dnarep.2009.06.001
+pubmed:19608464
+mid:NIHMS132488
+pmc:PMC2745199
+

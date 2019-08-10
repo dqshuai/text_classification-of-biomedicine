@@ -1,0 +1,19 @@
+J. Mol. Biol.
+
+Solvent friction changes the folding pathway of the tryptophan zipper TZ2.
+
+R Narayanan, L Pelakh, SJ Hagen
+
+Because the rate of a diffusional process such as protein folding is controlled by friction encountered along the reaction pathway, the speed of folding is readily tunable through adjustment of solvent viscosity. The precise relationship between solvent viscosity and the rate of diffusion is complex and even conformation-dependent, however, because both solvent friction and protein internal friction contribute to the total reaction friction. The heterogeneity of the reaction friction along the folding pathway may have subtle consequences. For proteins that fold on a multidimensional free-energy surface, an increase in solvent friction may drive a qualitative change in folding trajectory. Our time-resolved experiments on the rapidly and heterogeneously folding beta-hairpin TZ2 show a shift in the folding pathway as viscosity increases, even though the energetics of folding is unaltered. We also observe a nonlinear or saturating behavior of the folding relaxation time with rising solvent viscosity, potentially an experimental signature of the shifting pathway for unfolding. Our results show that manipulations of solvent viscosity in folding experiments and simulations may have subtle and unexpected consequences on the folding dynamics being studied.
+
+-Kinetics
+-Models, Molecular
++Protein Folding
+-Proteins (+chemistry)
+-Solvents
+-Viscosity
+
+pii:S0022-2836(09)00587-7
+doi:10.1016/j.jmb.2009.05.021
+pubmed:19450609
+

@@ -1,0 +1,34 @@
+Plant Physiol.
+
+Expression of Pyrococcus furiosus superoxide reductase in Arabidopsis enhances heat tolerance.
+
+YJ Im, M Ji, A Lee, R Killens, AM Grunden, WF Boss
+
+Plants produce reactive oxygen species (ROS) in response to environmental stresses sending signaling cues, which, if uncontrolled, result in cell death. Like other aerobic organisms, plants have ROS-scavenging enzymes, such as superoxide dismutase (SOD), which removes superoxide anion radical (O(2)(-)) and prevents the production and buildup of toxic free radicals. However, increasing the expression of cytosolic SODs is complex, and increasing their production in vivo has proven to be challenging. To avoid problems with endogenous regulation of gene expression, we expressed a gene from the archaeal hyperthermophile Pyrococcus furiosus that reduces O(2)(-). P. furiosus uses superoxide reductase (SOR) rather than SOD to remove superoxide. SOR is a thermostable enzyme that reduces O(2)(-) in a one-electron reduction without producing oxygen. We show that P. furiosus SOR can be produced as a functional enzyme in planta and that plants producing SOR have enhanced tolerance to heat, light, and chemically induced ROS. Stress tolerance in the SOR-producing plants correlates positively with a delayed increase in ROS-sensitive transcripts and a decrease in ascorbate peroxidase activity. The SOR plants provide a good model system to study the impact of cytosolic ROS on downstream signaling in plant growth and development. Furthermore, this work demonstrates that this synthetic approach for reducing cytosolic ROS holds promise as a means for improving stress tolerance in crop plants.
+
++Adaptation, Physiological
+-Arabidopsis (-genetics; +metabolism)
+-Arabidopsis Proteins (-genetics; -metabolism)
+-Chlorophyll (-metabolism)
+-Gene Expression Regulation, Plant
+-Germination
+-Heat-Shock Response
++Hot Temperature
+-Hydrogen Peroxide (-metabolism)
+-Immunoprecipitation
+-Oxidoreductases (-genetics; +metabolism)
+-Peroxidases (-metabolism)
+-Plant Extracts (-metabolism)
+-Plant Leaves (-metabolism)
+-Plant Roots (-metabolism)
+-Plants, Genetically Modified
+-Pyrococcus furiosus (+enzymology)
+-RNA, Messenger (-genetics; -metabolism)
+-Seedling (-enzymology)
+-Seeds (-metabolism)
+
+pii:pp.109.145409
+doi:10.1104/pp.109.145409
+pubmed:19684226
+pmc:PMC2754621
+

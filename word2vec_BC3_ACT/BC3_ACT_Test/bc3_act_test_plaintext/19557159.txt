@@ -1,0 +1,36 @@
+PLoS Pathog.
+
+Epstein-barr virus latency in B cells leads to epigenetic repression and CpG methylation of the tumour suppressor gene Bim.
+
+K Paschos, P Smith, E Anderton, JM Middeldorp, RE White, MJ Allday
+
+In human B cells infected with Epstein-Barr virus (EBV), latency-associated virus gene products inhibit expression of the pro-apoptotic Bcl-2-family member Bim and enhance cell survival. This involves the activities of the EBV nuclear proteins EBNA3A and EBNA3C and appears to be predominantly directed at regulating Bim mRNA synthesis, although post-transcriptional regulation of Bim has been reported. Here we show that protein and RNA stability make little or no contribution to the EBV-associated repression of Bim in latently infected B cells. However, treatment of cells with inhibitors of histone deacetylase (HDAC) and DNA methyltransferase (DNMT) enzymes indicated that epigenetic mechanisms are involved in the down-regulation of Bim. This was initially confirmed by chromatin immunoprecipitation analysis of histone acetylation levels on the Bim promoter. Consistent with this, methylation-specific PCR (MSP) and bisulphite sequencing of regions within the large CpG island located at the 5' end of Bim revealed significant methylation of CpG dinucleotides in all EBV-positive, but not EBV-negative B cells examined. Genomic DNA samples exhibiting methylation of the Bim promoter included extracts from a series of explanted EBV-positive Burkitt's lymphoma (BL) biopsies. Subsequent analyses of the histone modification H3K27-Me3 (trimethylation of histone H3 lysine 27) and CpG methylation at loci throughout the Bim promoter suggest that in EBV-positive B cells repression of Bim is initially associated with this repressive epigenetic histone mark gradually followed by DNA methylation at CpG dinucleotides. We conclude that latent EBV initiates a chain of events that leads to epigenetic repression of the tumour suppressor gene Bim in infected B cells and their progeny. This reprogramming of B cells could have important implications for our understanding of EBV persistence and the pathogenesis of EBV-associated disease, in particular BL.
+
+-Acetylation
+-Apoptosis Regulatory Proteins (-biosynthesis; +genetics; -metabolism)
+-B-Lymphocytes (-metabolism; +physiology; +virology)
+-Cell Line, Tumor
+-CpG Islands
+-DNA (Cytosine-5-)-Methyltransferase (-metabolism)
++DNA Methylation
+-Epigenesis, Genetic
+-Gene Expression
+-Genes, Tumor Suppressor
+-Herpesvirus 4, Human (+physiology)
+-Histone Deacetylases (-metabolism)
+-Histones (-metabolism)
+-Humans
+-Membrane Proteins (-biosynthesis; +genetics; -metabolism)
+-Polymerase Chain Reaction
+-Promoter Regions, Genetic
+-Proteasome Endopeptidase Complex (-metabolism)
+-Proto-Oncogene Proteins (-biosynthesis; +genetics; -metabolism)
+-RNA Stability
+-Sequence Analysis, DNA
+-Tumor Cells, Cultured
+-Virus Latency (+physiology)
+
+doi:10.1371/journal.ppat.1000492
+pubmed:19557159
+pmc:PMC2695769
+

@@ -1,0 +1,29 @@
+PLoS Genet.
+
+Redundant and specific roles of the ARGONAUTE proteins AGO1 and ZLL in development and small RNA-directed gene silencing.
+
+AC Mallory, A Hinze, MR Tucker, N Bouché, V Gasciolli, T Elmayan, D Lauressergues, V Jauvion, H Vaucheret, T Laux
+
+The Arabidopsis ARGONAUTE1 (AGO1) and ZWILLE/PINHEAD/AGO10 (ZLL) proteins act in the miRNA and siRNA pathways and are essential for multiple processes in development. Here, we analyze what determines common and specific function of both proteins. Analysis of ago1 mutants with partially compromised AGO1 activity revealed that loss of ZLL function re-establishes both siRNA and miRNA pathways for a subset of AGO1 target genes. Loss of ZLL function in ago1 mutants led to increased AGO1 protein levels, whereas AGO1 mRNA levels were unchanged, implicating ZLL as a negative regulator of AGO1 at the protein level. Since ZLL, unlike AGO1, is not subjected to small RNA-mediated repression itself, this cross regulation has the potential to adjust RNA silencing activity independent of feedback dynamics. Although AGO1 is expressed in a broader pattern than ZLL, expression of AGO1 from the ZLL promoter restored transgene PTGS and most developmental defects of ago1, whereas ZLL rescued only a few AGO1 functions when expressed from the AGO1 promoter, suggesting that the specific functions of AGO1 and ZLL are mainly determined by their protein sequence. Protein domain swapping experiments revealed that the PAZ domain, which in AGO1 is involved in binding small RNAs, is interchangeable between both proteins, suggesting that this common small RNA-binding domain contributes to redundant functions. By contrast, the conserved MID and PIWI domains, which are involved in 5'-end small RNA selectivity and mRNA cleavage, and the non-conserved N-terminal domain, to which no function has been assigned, provide specificity to AGO1 and ZLL protein function.
+
+-Amino Acid Sequence
+-Arabidopsis (-cytology; -embryology; +genetics; +growth & development)
+-Arabidopsis Proteins (-chemistry; -genetics; +metabolism)
+-Chimera (-metabolism)
+-Gene Expression Regulation, Plant
++Gene Silencing
+-Genes, Reporter
+-Meristem (-cytology; -metabolism)
+-MicroRNAs (-metabolism)
+-Plant Leaves (-cytology; -genetics; -growth & development; -metabolism)
+-Protein Structure, Tertiary
+-RNA, Small Interfering (+metabolism)
+-Seedling (-metabolism)
+-Seeds (-cytology; -metabolism)
+-Suppression, Genetic
+-Transgenes
+
+doi:10.1371/journal.pgen.1000646
+pubmed:19763164
+pmc:PMC2730571
+

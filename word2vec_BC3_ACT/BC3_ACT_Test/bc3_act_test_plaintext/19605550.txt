@@ -1,0 +1,24 @@
+Plant Physiol.
+
+RiceArrayNet: a database for correlating gene expression from transcriptome profiling, and its application to the analysis of coexpressed genes in rice.
+
+TH Lee, YK Kim, TT Pham, SI Song, JK Kim, KY Kang, G An, KH Jung, DW Galbraith, M Kim, UH Yoon, BH Nahm
+
+Microarray data can be used to derive understanding of the relationships between the genes involved in various biological systems of an organism, given the availability of databases of gene expression measurements from the complete spectrum of experimental conditions and materials. However, there have been no reports, to date, of such a database being constructed for rice (Oryza sativa). Here, we describe the construction of such a database, called RiceArrayNet (RAN; http://www.ggbio.com/arraynet/), which provides information on coexpression between genes in terms of correlation coefficients (r values). The average number of coexpressed genes is 214, with sd of 440 at r >or= 0.5. Given the correlation between genes in a gene pair, the degrees of closeness between genes can be visualized in a relational tree and a relational network. The distribution of correlated genes according to degree of stringency shows how each gene is related to other genes. As an application of RAN, the 16-member L7Ae ribosomal protein family was explored for coexpressed genes and gene expression values within and between rice and Arabidopsis (Arabidopsis thaliana), and common and unique features in coexpression partners and expression patterns were observed for these family members. We observed a correlation pattern between Os01g0968800, a drought-responsive element-binding transcription factor, Os02g0790500, a trehalose-6-phosphate synthase, and Os06g0219500, a small heat shock factor, reflecting the fact that genes responding to the same biological stresses are regulated together. The RAN database can be used as a tool to gain insight into a particular gene by examining its coexpression partners.
+
+-Arabidopsis (-genetics; -metabolism)
++Databases, Factual
++Gene Expression Profiling
+-Gene Expression Regulation, Plant (+physiology)
+-Multigene Family
+-Oligonucleotide Array Sequence Analysis
+-Oryza sativa (+genetics; +metabolism)
+-Phylogeny
+-Plant Proteins (-genetics; -metabolism)
+-Water (-metabolism)
+
+pii:pp.109.139030
+doi:10.1104/pp.109.139030
+pubmed:19605550
+pmc:PMC2735985
+

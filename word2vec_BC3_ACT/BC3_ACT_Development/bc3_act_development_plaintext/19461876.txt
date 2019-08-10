@@ -1,0 +1,30 @@
+PLoS Pathog.
+
+P58(IPK): a novel "CIHD" member of the host innate defense response against pathogenic virus infection.
+
+AG Goodman, JL Fornek, GR Medigeshi, LA Perrone, X Peng, MD Dyer, SC Proll, SE Knoblaugh, VS Carter, MJ Korth, JA Nelson, TM Tumpey, MG Katze
+
+To support their replication, viruses take advantage of numerous cellular factors and processes. Recent large-scale screens have identified hundreds of such factors, yet little is known about how viruses exploit any of these. Influenza virus infection post-translationally activates P58(IPK), a cellular inhibitor of the interferon-induced, dsRNA-activated eIF2alpha kinase, PKR. Here, we report that infection of P58(IPK) knockout mice with influenza virus resulted in increased lung pathology, immune cell apoptosis, PKR activation, and mortality. Analysis of lung transcriptional profiles, including those induced by the reconstructed 1918 pandemic virus, revealed increased expression of genes associated with the cell death, immune, and inflammatory responses. These experiments represent the first use of a mammalian infection model to demonstrate the role of P58(IPK) in the antiviral response. Our results suggest that P58(IPK) represents a new class of molecule, a cellular inhibitor of the host defense (CIHD), as P58(IPK) is activated during virus infection to inhibit virus-induced apoptosis and inflammation to prolong host survival, even while prolonging viral replication.
+
+-Animals
+-Apoptosis (-genetics)
+-Eukaryotic Initiation Factor-2 (-metabolism)
+-HSP40 Heat-Shock Proteins (-genetics; +metabolism)
+-Immunity, Innate
+-Inflammation
+-Influenza A virus (-pathogenicity; +physiology)
+-Interferon-beta (-genetics; -metabolism)
+-Interleukin-6 (-genetics; -metabolism)
+-Lung (-metabolism; -pathology; -virology)
+-Mice
+-Mice, Knockout
+-Oligonucleotide Array Sequence Analysis
+-Orthomyxoviridae Infections (+immunology; -metabolism; -mortality; -virology)
+-Phosphorylation
+-Virus Replication (-genetics)
+-eIF-2 Kinase (-metabolism)
+
+doi:10.1371/journal.ppat.1000438
+pubmed:19461876
+pmc:PMC2677460
+

@@ -1,0 +1,25 @@
+Genetics
+
+Signature of diversifying selection on members of the pentatricopeptide repeat protein family in Arabidopsis lyrata.
+
+JP Foxe, SI Wright
+
+Pentatricopeptide repeat (PPR) proteins compose a family of nuclear-encoded transcriptional regulators of cytoplasmic genes. They have shown dramatic expansion in copy number in plants, and although the functional importance of many remains unclear, a subset has been repeatedly implicated as nuclear restorers for cytoplasmic male sterility. Here we investigate the molecular population genetics and molecular evolution of seven single-copy PPR genes in the outcrossing model plant Arabidopsis lyrata. In comparison with neutral reference loci, we find, on average, elevated levels of polymorphism and an excess of high-frequency variants at these PPR genes, suggesting that natural selection is maintaining polymorphism at some of these loci. This elevation in diversity persists when we control for divergence and generally decreases in the flanking regions, suggesting that these genes are themselves the targets of selection. Some of the PPR genes also demonstrate elevated population differentiation, which is consistent with spatially varying selection. In contrast, no comparable patterns are observed at these loci in A. thaliana, providing no evidence for the action of balancing selection in this selfing species. Taken together, these results suggest that a subset of PPR genes may be subject to balancing selection associated with ongoing cytonuclear coevolution in the outcrossing A. lyrata, which is possibly mediated either by intergenomic conflict or by compensatory evolution.
+
+-Arabidopsis (+genetics)
+-Arabidopsis Proteins (+genetics)
+-DNA, Plant (-chemistry; -genetics)
+-Evolution, Molecular
+-Genetic Variation
+-Models, Genetic
+-Molecular Sequence Data
++Polymorphism, Genetic
++Selection, Genetic
+-Sequence Analysis, DNA
+-Species Specificity
+
+pii:genetics.109.104778
+doi:10.1534/genetics.109.104778
+pubmed:19635937
+pmc:PMC2766325
+

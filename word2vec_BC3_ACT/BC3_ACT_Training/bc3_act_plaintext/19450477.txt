@@ -1,0 +1,26 @@
+Biophys. J.
+
+A kinetic model of the inositol trisphosphate receptor based on single-channel data.
+
+E Gin, M Falcke, LE Wagner, DI Yule, J Sneyd
+
+In many cell types, the inositol trisphosphate receptor is one of the important components controlling intracellular calcium dynamics, and an understanding of this receptor is necessary for an understanding of calcium oscillations and waves. Based on single-channel data from the type-I inositol trisphosphate receptor, and using a Markov chain Monte Carlo approach, we show that the most complex time-dependent model that can be unambiguously determined from steady-state data is one with three closed states and one open state, and we determine how the rate constants depend on calcium. Because the transitions between these states are complex functions of calcium concentration, each model state must correspond to a group of physical states. We fit two different topologies and find that both models predict that the main effect of [Ca(2+)] is to modulate the probability that the receptor is in a state that is able to open, rather than to modulate the transition rate to the open state.
+
+-Animals
+-Bayes Theorem
+-Calcium (-metabolism)
+-Cell Line
+-Inositol 1,4,5-Trisphosphate Receptors (+metabolism)
+-Ion Channel Gating
+-Kinetics
+-Markov Chains
++Models, Biological
+-Monte Carlo Method
+-Phosphorylation
+-Rats
+
+pii:S0006-3495(09)00604-3
+doi:10.1016/j.bpj.2008.12.3964
+pubmed:19450477
+pmc:PMC2712151
+

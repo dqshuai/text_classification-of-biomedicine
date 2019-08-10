@@ -1,0 +1,26 @@
+Plant Cell
+
+Global identification of targets of the Arabidopsis MADS domain protein AGAMOUS-Like15.
+
+Y Zheng, N Ren, H Wang, AJ Stromberg, SE Perry
+
+AGAMOUS-Like15 (AGL15) is a MADS domain transcriptional regulator that promotes somatic embryogenesis by binding DNA and regulating gene expression. Chromatin immunoprecipitation (ChIP) analysis previously identified DNA fragments with which AGL15 associates in vivo, and a low-throughput approach revealed a role for AGL15 in gibberellic acid catabolism that is relevant to embryogenesis. However, higher throughput methods are needed to identify targets of AGL15. Here, we mapped AGL15 in vivo binding sites using a ChIP-chip approach and the Affymetrix tiling arrays for Arabidopsis thaliana and found that approximately 2000 sites represented in three biological replicates of the experiment are annotated to nearby genes. These results were combined with high-throughput measurement of gene expression in response to AGL15 accumulation to discriminate responsive direct targets from those further downstream in the network. LEAFY COTYLEDON2, FUSCA3, and ABA INSENSITIVE3, which encode B3 domain transcription factors that are key regulators of embryogenesis, were identified and verified as direct target genes of AGL15. Genes identified as targets of the B3 genes are also targets of AGL15, and we found that INDOLEACETIC ACID-INDUCED PROTEIN30 is involved in promotion of somatic embryo development. The data presented here and elsewhere suggest that much cross-regulation occurs in gene regulatory networks underpinning embryogenesis.
+
+-Arabidopsis (-embryology; +genetics; -metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Binding Sites
+-Chromatin Immunoprecipitation
+-DNA, Plant (-genetics)
+-Gene Expression Profiling
+-Gene Expression Regulation, Plant
++Gene Regulatory Networks
+-Genes, Plant
+-MADS Domain Proteins (-genetics; +metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Transcription Factors (-genetics; -metabolism)
+
+pii:tpc.109.068890
+doi:10.1105/tpc.109.068890
+pubmed:19767455
+pmc:PMC2768919
+

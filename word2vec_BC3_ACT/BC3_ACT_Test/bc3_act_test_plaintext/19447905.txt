@@ -1,0 +1,30 @@
+J. Bacteriol.
+
+Redundant hydrogen peroxide scavengers contribute to Salmonella virulence and oxidative stress resistance.
+
+M Hébrard, JP Viala, S Méresse, F Barras, L Aussel
+
+Salmonella enterica serovar Typhimurium is an intracellular pathogen that can survive and replicate within macrophages. One of the host defense mechanisms that Salmonella encounters during infection is the production of reactive oxygen species by the phagocyte NADPH oxidase. Among them, hydrogen peroxide (H(2)O(2)) can diffuse across bacterial membranes and damage biomolecules. Genome analysis allowed us to identify five genes encoding H(2)O(2) degrading enzymes: three catalases (KatE, KatG, and KatN) and two alkyl hydroperoxide reductases (AhpC and TsaA). Inactivation of the five cognate structural genes yielded the HpxF(-) mutant, which exhibited a high sensitivity to exogenous H(2)O(2) and a severe survival defect within macrophages. When the phagocyte NADPH oxidase was inhibited, its proliferation index increased 3.7-fold. Moreover, the overexpression of katG or tsaA in the HpxF(-) background was sufficient to confer a proliferation index similar to that of the wild type in macrophages and a resistance to millimolar H(2)O(2) in rich medium. The HpxF(-) mutant also showed an attenuated virulence in a mouse model. These data indicate that Salmonella catalases and alkyl hydroperoxide reductases are required to degrade H(2)O(2) and contribute to the virulence. This enzymatic redundancy highlights the evolutionary strategies developed by bacterial pathogens to survive within hostile environments.
+
+-Animals
+-Bacterial Proteins (-genetics; -metabolism)
+-Catalase (-genetics; -metabolism)
+-Colony Count, Microbial
+-Free Radical Scavengers (+metabolism)
+-Gene Knockout Techniques
+-Hydrogen Peroxide (+toxicity)
+-Macrophages (-immunology; -microbiology)
+-Mice
+-Microbial Viability
++Oxidative Stress
+-Peroxiredoxins (-genetics; -metabolism)
+-Salmonella Infections, Animal
+-Salmonella typhimurium (-metabolism; -pathogenicity; +physiology)
++Stress, Physiological
+-Virulence
+
+pii:JB.00144-09
+doi:10.1128/JB.00144-09
+pubmed:19447905
+pmc:PMC2704729
+

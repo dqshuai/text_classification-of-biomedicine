@@ -1,0 +1,18 @@
+PLoS ONE
+
+Network analytical tool for monitoring global food safety highlights China.
+
+T Nepusz, A Petróczi, DP Naughton
+
+BACKGROUND: The Beijing Declaration on food safety and security was signed by over fifty countries with the aim of developing comprehensive programs for monitoring food safety and security on behalf of their citizens. Currently, comprehensive systems for food safety and security are absent in many countries, and the systems that are in place have been developed on different principles allowing poor opportunities for integration. METHODOLOGY/PRINCIPAL FINDINGS: We have developed a user-friendly analytical tool based on network approaches for instant customized analysis of food alert patterns in the European dataset from the Rapid Alert System for Food and Feed. Data taken from alert logs between January 2003-August 2008 were processed using network analysis to i) capture complexity, ii) analyze trends, and iii) predict possible effects of interventions by identifying patterns of reporting activities between countries. The detector and transgressor relationships are readily identifiable between countries which are ranked using i) Google's PageRank algorithm and ii) the HITS algorithm of Kleinberg. The program identifies Iran, China and Turkey as the transgressors with the largest number of alerts. However, when characterized by impact, counting the transgressor index and the number of countries involved, China predominates as a transgressor country. CONCLUSIONS/SIGNIFICANCE: This study reports the first development of a network analysis approach to inform countries on their transgressor and detector profiles as a user-friendly aid for the adoption of the Beijing Declaration. The ability to instantly access the country-specific components of the several thousand annual reports will enable each country to identify the major transgressors and detectors within its trading network. Moreover, the tool can be used to monitor trading countries for improved detector/transgressor ratios.
+
+-Algorithms
+-China
++Food
++Safety Management
++World Health
+
+doi:10.1371/journal.pone.0006680
+pubmed:19688088
+pmc:PMC2722732
+

@@ -1,0 +1,28 @@
+Genome Res.
+
+Analysis of the human E2 ubiquitin conjugating enzyme protein interaction network.
+
+G Markson, C Kiel, R Hyde, S Brown, P Charalabous, A Bremm, J Semple, J Woodsmith, S Duley, K Salehi-Ashtiani, M Vidal, D Komander, L Serrano, P Lehner, CM Sanderson
+
+In eukaryotic cells the stability and function of many proteins are regulated by the addition of ubiquitin or ubiquitin-like peptides. This process is dependent upon the sequential action of an E1-activating enzyme, an E2-conjugating enzyme, and an E3 ligase. Different combinations of these proteins confer substrate specificity and the form of protein modification. However, combinatorial preferences within ubiquitination networks remain unclear. In this study, yeast two-hybrid (Y2H) screens were combined with true homology modeling methods to generate a high-density map of human E2/E3-RING interactions. These data include 535 experimentally defined novel E2/E3-RING interactions and >1300 E2/E3-RING pairs with more favorable predicted free-energy values than the canonical UBE2L3-CBL complex. The significance of Y2H predictions was assessed by both mutagenesis and functional assays. Significantly, 74/80 (>92%) of Y2H predicted complexes were disrupted by point mutations that inhibit verified E2/E3-RING interactions, and a approximately 93% correlation was observed between Y2H data and the functional activity of E2/E3-RING complexes in vitro. Analysis of the high-density human E2/E3-RING network reveals complex combinatorial interactions and a strong potential for functional redundancy, especially within E2 families that have undergone evolutionary expansion. Finally, a one-step extended human E2/E3-RING network, containing 2644 proteins and 5087 edges, was assembled to provide a resource for future functional investigations.
+
+-Amino Acid Sequence
+-False Positive Reactions
+-Humans
+-K562 Cells
++Metabolic Networks and Pathways
+-Mutagenesis, Site-Directed
+-Protein Binding (-genetics)
+-Protein Interaction Domains and Motifs (-genetics)
+-Sequence Analysis, Protein (-methods)
+-Sequence Homology, Amino Acid
+-Two-Hybrid System Techniques
+-Ubiquitin-Conjugating Enzymes (-genetics; +metabolism; -physiology)
+-Ubiquitin-Protein Ligases (-metabolism)
+-Ubiquitination
+
+pii:gr.093963.109
+doi:10.1101/gr.093963.109
+pubmed:19549727
+pmc:PMC2765280
+

@@ -1,0 +1,30 @@
+PLoS Genet.
+
+Ancient mtDNA genetic variants modulate mtDNA transcription and replication.
+
+S Suissa, Z Wang, J Poole, S Wittkopp, J Feder, TE Shutt, DC Wallace, GS Shadel, D Mishmar
+
+Although the functional consequences of mitochondrial DNA (mtDNA) genetic backgrounds (haplotypes, haplogroups) have been demonstrated by both disease association studies and cell culture experiments, it is not clear which of the mutations within the haplogroup carry functional implications and which are "evolutionary silent hitchhikers". We set forth to study the functionality of haplogroup-defining mutations within the mtDNA transcription/replication regulatory region by in vitro transcription, hypothesizing that haplogroup-defining mutations occurring within regulatory motifs of mtDNA could affect these processes. We thus screened >2500 complete human mtDNAs representing all major populations worldwide for natural variation in experimentally established protein binding sites and regulatory regions comprising a total of 241 bp in each mtDNA. Our screen revealed 77/241 sites showing point mutations that could be divided into non-fixed (57/77, 74%) and haplogroup/sub-haplogroup-defining changes (i.e., population fixed changes, 20/77, 26%). The variant defining Caucasian haplogroup J (C295T) increased the binding of TFAM (Electro Mobility Shift Assay) and the capacity of in vitro L-strand transcription, especially of a shorter transcript that maps immediately upstream of conserved sequence block 1 (CSB1), a region associated with RNA priming of mtDNA replication. Consistent with this finding, cybrids (i.e., cells sharing the same nuclear genetic background but differing in their mtDNA backgrounds) harboring haplogroup J mtDNA had a >2 fold increase in mtDNA copy number, as compared to cybrids containing haplogroup H, with no apparent differences in steady state levels of mtDNA-encoded transcripts. Hence, a haplogroup J regulatory region mutation affects mtDNA replication or stability, which may partially account for the phenotypic impact of this haplogroup. Our analysis thus demonstrates, for the first time, the functional impact of particular mtDNA haplogroup-defining control region mutations, paving the path towards assessing the functionality of both fixed and un-fixed genetic variants in the mitochondrial genome.
+
+-Binding Sites (-genetics)
+-DNA Replication (-genetics)
+-DNA, Mitochondrial (+genetics; +metabolism)
+-DNA-Binding Proteins (-metabolism)
++Evolution, Molecular
+-Gene Dosage
++Genetic Variation
+-Genome, Human
+-Genome, Mitochondrial
+-Haplotypes
+-Humans
+-Mitochondrial Proteins (-metabolism)
+-Phenotype
+-Point Mutation
+-Regulatory Sequences, Nucleic Acid
+-Transcription Factors (-metabolism)
+-Transcription, Genetic
+
+doi:10.1371/journal.pgen.1000474
+pubmed:19424428
+pmc:PMC2673036
+

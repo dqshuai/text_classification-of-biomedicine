@@ -1,0 +1,31 @@
+EMBO Rep.
+
+Plexin-B1 is a GTPase activating protein for M-Ras, remodelling dendrite morphology.
+
+Y Saito, I Oinuma, S Fujimoto, M Negishi
+
+Plexins are receptors for axonal guidance molecules known as semaphorins. We recently reported that the semaphorin 4D (Sema4D) receptor, Plexin-B1, induces axonal growth cone collapse by functioning as an R-Ras GTPase activating protein (GAP). Here, we report that Plexin-B1 shows GAP activity for M-Ras, another member of the Ras family of GTPases. In cortical neurons, the expression of M-Ras was upregulated during dendritic development. Knockdown of endogenous M-Ras-but not R-Ras-reduced dendritic outgrowth and branching, whereas overexpression of constitutively active M-Ras, M-Ras(Q71L), enhanced dendritic outgrowth and branching. Sema4D suppressed M-Ras activity and reduced dendritic outgrowth and branching, but this reduction was blocked by M-Ras(Q71L). M-Ras(Q71L) stimulated extracellular signal-regulated kinase (ERK) activation, inducing dendrite growth, whereas Sema4D suppressed ERK activity and down-regulation of ERK was required for a Sema4D-induced reduction of dendrite growth. Thus, we conclude that Plexin-B1 is a dual functional GAP for R-Ras and M-Ras, remodelling axon and dendrite morphology, respectively.
+
+-Animals
+-Antigens, CD (-metabolism)
+-COS Cells
+-Cercopithecus aethiops
+-Dendrites (+enzymology)
+-Down-Regulation
+-Extracellular Signal-Regulated MAP Kinases
+-GTP Phosphohydrolases (+metabolism)
+-GTPase-Activating Proteins (+metabolism)
+-Gene Knockdown Techniques
+-Humans
+-Mice
+-Monomeric GTP-Binding Proteins (+metabolism)
+-Nerve Tissue Proteins (+metabolism)
+-Rats
+-Receptors, Cell Surface (+metabolism)
+-Semaphorins (-metabolism)
+
+pii:embor200963
+doi:10.1038/embor.2009.63
+pubmed:19444311
+pmc:PMC2711840
+

@@ -1,0 +1,25 @@
+Genetics
+
+Sexual isolation in Acinetobacter baylyi is locus-specific and varies 10,000-fold over the genome.
+
+JL Ray, K Harms, OG Wikmark, I Starikova, PJ Johnsen, KM Nielsen
+
+Naturally transformable bacteria acquire chromosomal DNA from related species at lower frequencies than from cognate DNA sources. To determine how genome location affects heterogamic transformation in bacteria, we inserted an nptI marker into random chromosome locations in 19 different strains of the Acinetobacter genus (>24% divergent at the mutS/trpE loci). DNA from a total of 95 nptI-tagged isolates was used to transform the recipient Acinetobacter baylyi strain ADP1. A total of >1300 transformation assays revealed that at least one nptI-tagged isolate for each of the strains/species tested resulted in detectable integration of the nptI marker into the ADP1 genome. Transformation frequencies varied up to approximately 10,000-fold among independent nptI insertions within a strain. The location and local sequence divergence of the nptI flanking regions were determined in the transformants. Heterogamic transformation depended on RecA and was hampered by DNA mismatch repair. Our studies suggest that single-locus-based studies, and inference of transfer frequencies from general estimates of genomic sequence divergence, is insufficient to predict the recombination potential of chromosomal DNA fragments between more divergent genomes. Interspecies differences in overall gene content, and conflicts in local gene organization and synteny are likely important determinants of the genomewide variation in recombination rates between bacterial species.
+
+-Acinetobacter (+genetics)
+-Base Sequence
+-Chromosomes, Bacterial
++Genetic Loci
+-Genetic Markers
+-Genome, Bacterial (+genetics; -physiology)
+-Kinetics
+-Models, Genetic
+-Molecular Sequence Data
+-Recombination, Genetic
+-Transformation, Bacterial (+genetics)
+
+pii:genetics.109.103127
+doi:10.1534/genetics.109.103127
+pubmed:19474200
+pmc:PMC2728857
+

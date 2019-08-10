@@ -1,0 +1,18 @@
+Biophys. J.
+
+Quantitative modeling and optimization of magnetic tweezers.
+
+J Lipfert, X Hao, NH Dekker
+
+Magnetic tweezers are a powerful tool to manipulate single DNA or RNA molecules and to study nucleic acid-protein interactions in real time. Here, we have modeled the magnetic fields of permanent magnets in magnetic tweezers and computed the forces exerted on superparamagnetic beads from first principles. For simple, symmetric geometries the magnetic fields can be calculated semianalytically using the Biot-Savart law. For complicated geometries and in the presence of an iron yoke, we employ a finite-element three-dimensional PDE solver to numerically solve the magnetostatic problem. The theoretical predictions are in quantitative agreement with direct Hall-probe measurements of the magnetic field and with measurements of the force exerted on DNA-tethered beads. Using these predictive theories, we systematically explore the effects of magnet alignment, magnet spacing, magnet size, and of adding an iron yoke to the magnets on the forces that can be exerted on tethered particles. We find that the optimal configuration for maximal stretching forces is a vertically aligned pair of magnets, with a minimal gap between the magnets and minimal flow cell thickness. Following these principles, we present a configuration that allows one to apply > or = 40 pN stretching forces on approximately 1-microm tethered beads.
+
+-Finite Element Analysis
+-Iron
+-Magnetics (-instrumentation; +methods)
++Models, Theoretical
+
+pii:S0006-3495(09)00788-7
+doi:10.1016/j.bpj.2009.03.055
+pubmed:19527664
+pmc:PMC2712044
+

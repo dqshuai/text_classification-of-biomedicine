@@ -1,0 +1,30 @@
+J. Neurosci.
+
+Adaptive coding of action values in the human rostral cingulate zone.
+
+G Jocham, J Neumann, TA Klein, C Danielmeier, M Ullsperger
+
+Correctly selecting appropriate actions in an uncertain environment requires gathering experience about the available actions by sampling them over several trials. Recent findings suggest that the human rostral cingulate zone (RCZ) is important for the integration of extended action-outcome associations across multiple trials and in coding the subjective value of each action. During functional magnetic resonance imaging, healthy volunteers performed two versions of a probabilistic reversal learning task with high (HP) or low (LP) reward probabilities that required them to integrate action-outcome relations over lower or higher numbers of trials, respectively. In the HP session, subjects needed fewer trials to adjust their behavior in response to a reversal of response-reward contingencies. Similarly, the learning rate derived from a reinforcement learning model was higher in the HP condition. This was accompanied by a stronger response of the RCZ to negative feedback upon reversals in the HP condition. Furthermore, RCZ activity related to negative reward prediction errors varied as a function of the learning rate, which determines to what extent the prediction error is used to update action values. These data show that RCZ responses vary as a function of the information content provided by the environment. The more likely a negative event indicates the need for behavioral adaptations, the more prominent is the response of the RCZ. Thus, both the window of trials over which reinforcement information is integrated and adjustment of action values in the RCZ covary with the stochastics of the environment.
+
+-Adaptation, Psychological
+-Adult
+-Algorithms
+-Analysis of Variance
+-Female
+-Gyrus Cinguli (+physiology)
+-Humans
++Knowledge of Results (Psychology)
+-Magnetic Resonance Imaging
+-Male
+-Probability
+-Reversal Learning (+physiology)
+-Reward
+-Time Factors
+-Young Adult
+
+pii:29/23/7489
+doi:10.1523/JNEUROSCI.0349-09.2009
+pubmed:19515916
+mid:NIHMS124473
+pmc:PMC2734938
+

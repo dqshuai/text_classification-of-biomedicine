@@ -1,0 +1,27 @@
+EMBO Rep.
+
+Nuclear transit of the RNA-binding protein She2 is required for translational control of localized ASH1 mRNA.
+
+TG Du, S Jellbauer, M Müller, M Schmid, D Niessing, RP Jansen
+
+Cytoplasmic localization and localized translation of messenger RNAs contribute to asymmetrical protein distribution. Recognition of localized mRNAs by RNA-binding proteins can occur in the cytoplasm or, alternatively, co- or post-transcriptionally in the nucleus. In budding yeast, mRNAs destined for localization are bound by the She2 protein before their nuclear export. Here, we show that a specific transcript, known as ASH1 mRNA, and She2 localize specifically to the nucleolus when their nuclear export is blocked. Nucleolar She2 localization is enhanced in a She2 mutant that cannot bind to RNA. A fusion protein of the amino terminus of She3 and She2 (She3N-She2) fails to enter the nucleus, but does not impair ASH1 mRNA localization. Instead, these cells fail to distribute Ash1 protein asymmetrically, which is caused by a defective translational control of ASH1 mRNA. Our results indicate that the nucleolar transit of RNA-binding proteins such as She2 is necessary for the correct assembly of translationally silenced localizing messenger ribonucleoproteins.
+
+-Biological Transport
+-Cell Nucleus (-metabolism)
+-Cytoplasm (-metabolism)
+-DNA-Binding Proteins (-genetics; +metabolism)
+-Immunoprecipitation
+-Microscopy, Fluorescence
++Protein Biosynthesis
+-RNA, Messenger (-genetics; +metabolism)
+-RNA-Binding Proteins (-genetics; +metabolism)
+-Repressor Proteins (-genetics; +metabolism)
+-Ribonucleoproteins
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Temperature
+
+pii:embor2008112
+doi:10.1038/embor.2008.112
+pubmed:18566598
+pmc:PMC2515214
+

@@ -1,0 +1,23 @@
+Nat. Methods
+
+Global discovery of adaptive mutations.
+
+H Goodarzi, AK Hottes, S Tavazoie
+
+Although modern DNA sequencing enables rapid identification of genetic variation, characterizing the phenotypic consequences of individual mutations remains a labor-intensive task. Here we describe array-based discovery of adaptive mutations (ADAM), a technology that searches an entire bacterial genome for mutations that contribute to selectable phenotypic variation between an evolved strain and its parent. We found that ADAM identified adaptive mutations in laboratory-evolved Escherichia coli strains with high sensitivity and specificity.
+
+-Adaptation, Biological
+-DNA Mutational Analysis (+methods)
+-DNA Transposable Elements
+-Drug Resistance, Bacterial (-genetics)
+-Escherichia coli (+genetics)
+-Escherichia coli Proteins (-genetics)
++Mutation
+-Sensitivity and Specificity
+
+pii:nmeth.1352
+doi:10.1038/nmeth.1352
+pubmed:19597501
+mid:NIHMS126699
+pmc:PMC2762608
+

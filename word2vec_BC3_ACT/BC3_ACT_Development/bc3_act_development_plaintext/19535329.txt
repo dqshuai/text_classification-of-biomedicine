@@ -1,0 +1,25 @@
+J. Biol. Chem.
+
+NHERF3 (PDZK1) contributes to basal and calcium inhibition of NHE3 activity in Caco-2BBe cells.
+
+NC Zachos, X Li, O Kovbasnjuk, B Hogema, R Sarker, LJ Lee, M Li, H de Jonge, M Donowitz
+
+Elevated intracellular Ca(2+) ([Ca(2+)](i)) inhibition of NHE3 is reconstituted by NHERF2, but not NHERF1, by a mechanism involving the formation of multiprotein signaling complexes. To further evaluate the specificity of the NHERF family in calcium regulation of NHE3 activity, the current study determined whether NHERF3 reconstitutes elevated [Ca(2+)](i) regulation of NHE3. In vitro, NHERF3 bound the NHE3 C terminus between amino acids 588 and 667. In vivo, NHE3 and NHERF3 associate under basal conditions as indicated by co-immunoprecipitation, confocal microscopy, and fluorescence resonance energy transfer. Treatment of PS120/NHE3/NHERF3 cells, but not PS120/NHE3 cells, with the Ca(2+) ionophore, 4-bromo-A23187 (0.5 mum): 1) inhibited NHE3 V(max) activity; 2) decreased NHE3 surface amount; 3) dissociated NHE3 and NHERF3 at the plasma membrane by confocal immunofluorescence and fluorescence resonance energy transfer. Similarly, in Caco-2BBe cells, NHERF3 and NHE3 colocalized in the BB under basal conditions but after elevation of [Ca(2+)](i) by carbachol, this overlap was abolished. NHERF3 short hairpin RNA knockdown (>50%) in Caco-2BBe cells significantly reduced basal NHE3 activity by decreasing BB NHE3 amount. Also, carbachol-mediated inhibition of NHE3 activity was abolished in Caco-2BBe cells in which NHERF3 protein expression was significantly reduced. In summary: 1) NHERF3 colocalizes and directly binds NHE3 at the plasma membrane under basal conditions; 2) NHERF3 reconstitutes [Ca(2+)](i) inhibition of NHE3 activity and dissociates from NHE3 in fibroblasts and polarized intestinal epithelial cells with elevated [Ca(2+)](i); 3) NHERF3 short hairpin RNA significantly reduced NHE3 basal activity and brush border expression in Caco-2BBe cells. These results demonstrate that NHERF3 reconstitutes calcium inhibition of NHE3 activity by anchoring NHE3 basally and releasing it with elevated Ca(2+).
+
+-Amino Acid Motifs
+-Caco-2 Cells
+-Calcium (+metabolism)
+-Carrier Proteins (-genetics; +metabolism)
+-Cell Line
+-Cell Membrane (-genetics; -metabolism)
++Down-Regulation
+-Humans
+-Protein Binding
+-Protein Transport
+-Sodium-Hydrogen Antiporter (-chemistry; -genetics; +metabolism)
+
+pii:M109.012641
+doi:10.1074/jbc.M109.012641
+pubmed:19535329
+pmc:PMC2749145
+

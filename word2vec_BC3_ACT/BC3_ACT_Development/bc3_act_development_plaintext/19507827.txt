@@ -1,0 +1,20 @@
+Biochemistry
+
+Polarization and polarizability assessed by protein amide acidity.
+
+G Hernández, JS Anderson, DM LeMaster
+
+Hydroxide-catalyzed exchange rate constants were determined for those amides of FK506-binding protein (FKBP12), ubiquitin, and chymotrypsin inhibitor 2 (CI2) that are solvent-accessible in the high-resolution X-ray structures. When combined with previous hydrogen exchange results for the rubredoxin from Pyrococcus furiosus, the acidity of these amides was calculated by continuum dielectric methods as a function of the nonpolarizable electrostatic parameter set, internal dielectric, and the charge distribution of the peptide anion. The CHARMM22 parameter set with an internal dielectric value of 3 and an ab initio-derived anion charge distribution yielded an rmsd value of 7 for the 56 amide exchange rate constants ranging from 10(0.67) to 10(9.0) M(-1) s(-1). The OPLS-AA parameter set yielded comparably robust predictions, while that of PARSE, AMBER parm99, and AMBER ff03 performed more poorly. The small value for the optimal internal dielectric, combined with the brief lifetime of the peptide anion intermediate and the uniformity of the correlation between predicted and observed amide acidities, is consistent with electronic polarizability providing the dominant contribution to dielectric shielding. By construction, nonpolarizable force fields do not model electric field attenuation by electronic polarizability. Accurate prediction of the total electrostatic energy by such force fields necessitates the hyperpolarization of the atomic charge values in order to match the average electric field energy density (1/2)epsilon(tau)E(2)(tau) when epsilon(tau) is set to the in vacuo dielectric value of 1. The resulting predictions of the experimental hydrogen exchange data demonstrate the substantial systematic errors in the predicted electrostatic potential that can arise when dielectric shielding due to electronic polarizability is neglected.
+
+-Acids (+chemistry)
+-Amides (+chemistry)
+-Gene Expression
+-Hydrogen-Ion Concentration
+-Models, Molecular
+-Nuclear Magnetic Resonance, Biomolecular
+-Proteins (+chemistry; -genetics)
+-X-Ray Diffraction
+
+doi:10.1021/bi900526z
+pubmed:19507827
+

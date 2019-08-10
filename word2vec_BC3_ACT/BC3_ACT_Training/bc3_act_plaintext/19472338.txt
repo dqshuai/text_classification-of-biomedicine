@@ -1,0 +1,23 @@
+Protein Sci.
+
+Green fluorescence induced by EF-hand assembly in a split GFP system.
+
+S Lindman, I Johansson, E Thulin, S Linse
+
+The affinity between the 1-157 and 158-238 fragments of green fluorescent protein (GFP) is too low for spontaneous in vivo reassembly of the protein upon co-expression of the two fragments. This prevents chromophore maturation and the cells lack GFP fluorescence. We have utilized the very high affinity between the two EF-hands of calbindin D(9k) to facilitate GFP assembly from its fragments and to introduce a calcium dependent molecular switch. In GFPN-EF1, residues 1-157 of GFP are fused to residues 1-43 of calbindin, and in EF2-GFPC, residues 44-75 of calbindin are fused to residues 158-238 of GFP. When co-expressed, GFPN-EF1 and EF2-GFPC associate spontaneously and rapidly resulting in a folded reconstituted protein with bright GFP fluorescence. The high affinity of GFPN-EF1 for EF2-GFPC leads to brighter fluorescence of the cells compared to cells with a control constructs carrying leucine zippers (Wilson et al., Nature Methods 2004;3:255). The complex of GFPN-EF1 and EF2-GFPC was purified from cells using metal-ion chelate chromatography and the temperature dependence of GFP fluorescence was found to be calcium dependent. The GFPN-EF1 and EF2-GFPC fragments were separated by ion exchange chromatography. The assembly of the fragments was found to be reversible and the complex was regained upon mixing, as evidenced by surface plasmon resonance (SPR) data. The affinity between GFPN-EF1 and EF2-GFPC as well as rates of association and dissociation were found to be Ca(2+)-dependent.
+
+-Animals
+-Calcium (-chemistry; -metabolism)
+-Calcium-Binding Protein, Vitamin D-Dependent (+chemistry; -genetics; -metabolism)
+-Cattle
+-Cloning, Molecular
++EF Hand Motifs (-genetics)
++Fluorescence
+-Green Fluorescent Proteins (+chemistry; -genetics)
+-Recombinant Fusion Proteins (-chemistry; -genetics; -metabolism)
+-Surface Plasmon Resonance
+
+doi:10.1002/pro.131
+pubmed:19472338
+pmc:PMC2774432
+

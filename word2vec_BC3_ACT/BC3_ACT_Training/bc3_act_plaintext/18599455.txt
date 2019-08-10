@@ -1,0 +1,22 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Integration of auxin and brassinosteroid pathways by Auxin Response Factor 2.
+
+G Vert, CL Walcher, J Chory, JL Nemhauser
+
+Plant form is shaped by a complex network of intrinsic and extrinsic signals. Light-directed growth of seedlings (photomorphogenesis) depends on the coordination of several hormone signals, including brassinosteroids (BRs) and auxin. Although the close relationship between BRs and auxin has been widely reported, the molecular mechanism for combinatorial control of shared target genes has remained elusive. Here we demonstrate that BRs synergistically increase seedling sensitivity to auxin and show that combined treatment with both hormones can increase the magnitude and duration of gene expression. Moreover, we describe a direct connection between the BR-regulated BIN2 kinase and ARF2, a member of the Auxin Response Factor family of transcriptional regulators. Phosphorylation by BIN2 results in loss of ARF2 DNA binding and repression activities. arf2 mutants are less sensitive to changes in endogenous BR levels, whereas a large proportion of genes affected in an arf2 background are returned to near wild-type levels by altering BR biosynthesis. Together, these data suggest a model where BIN2 increases expression of auxin-induced genes by directly inactivating repressor ARFs, leading to synergistic increases in transcription.
+
+-Arabidopsis Proteins (+physiology)
++Gene Expression Regulation, Plant
+-Indoleacetic Acids (+metabolism)
+-Plant Growth Regulators (+metabolism)
+-Plant Proteins (+metabolism; -physiology)
+-Protein Kinases (-physiology)
+-Repressor Proteins (+physiology)
+-Transcription, Genetic
+
+pii:0803996105
+doi:10.1073/pnas.0803996105
+pubmed:18599455
+pmc:PMC2474533
+

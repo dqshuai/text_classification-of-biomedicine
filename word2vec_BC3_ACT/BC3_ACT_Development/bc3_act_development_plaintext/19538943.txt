@@ -1,0 +1,21 @@
+Biochem. Biophys. Res. Commun.
+
+A graph model based study on regulatory impacts of transcription factors of Drosophila melanogaster and comparison across species.
+
+F Tian, J Chen, S Bao, L Shi, X Liu, R Grossman
+
+Transcription factor binding sites and the cis-regulatory modules they compose are central determinants of gene regulation. The gene regulations in some model species have been well addressed. However, not as much is known about the fly due to the lack of experimental data. To study the transcription regulation of Drosophila melanogaster genes, we analyzed the regulation data from ChIP chip experiments as well as the regulatory database. A graph-based approach is applied to study the impacts of each transcription factor to the regulatory network. The model is also applied to Saccharomyces cerevisiae and Homo sapiens to study the behaviors of transcription factors in different species. Gene ontology annotations were used for further studies of the biological significance of studied transcription factors.
+
+-Animals
+-Base Sequence
+-Binding Sites
+-Drosophila melanogaster (+genetics)
++Gene Expression Regulation
++Gene Regulatory Networks
++Models, Biological
+-Transcription Factors (+metabolism)
+
+pii:S0006-291X(09)01189-9
+doi:10.1016/j.bbrc.2009.06.055
+pubmed:19538943
+

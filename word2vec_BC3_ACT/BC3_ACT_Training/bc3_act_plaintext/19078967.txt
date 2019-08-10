@@ -1,0 +1,28 @@
+EMBO J.
+
+A coordinated phosphorylation cascade initiated by p38MAPK/MSK1 directs RARalpha to target promoters.
+
+N Bruck, D Vitoux, C Ferry, V Duong, A Bauer, H de Thé, C Rochette-Egly
+
+The nuclear retinoic acid (RA) receptor alpha (RARalpha) is a transcriptional transregulator that controls the expression of specific gene subsets through binding at response elements and dynamic interactions with coregulators, which are coordinated by the ligand. Here, we highlighted a novel paradigm in which the transcription of RARalpha target genes is controlled by phosphorylation cascades initiated by the rapid RA activation of the p38MAPK/MSK1 pathway. We demonstrate that MSK1 phosphorylates RARalpha at S369 located in the ligand-binding domain, allowing the binding of TFIIH and thereby phosphorylation of the N-terminal domain at S77 by cdk7/cyclin H. MSK1 also phosphorylates histone H3 at S10. Finally, the phosphorylation cascade initiated by MSK1 controls the recruitment of RARalpha/TFIIH complexes to response elements and subsequently RARalpha target gene activation. Cancer cells characterized by a deregulated p38MAPK/MSK1 pathway, do not respond to RA, outlining the essential contribution of the RA-triggered phosphorylation cascade in RA signalling.
+
+-Animals
+-Cell Line
+-Cyclin-Dependent Kinases (-metabolism)
++Gene Expression Regulation
+-Histones (-metabolism)
+-Mice
+-Models, Biological
+-Phosphorylation
++Promoter Regions, Genetic
+-Protein Binding
+-Receptors, Retinoic Acid (+metabolism)
+-Ribosomal Protein S6 Kinases, 90-kDa (+metabolism)
+-Transcription Factor TFIIH (-metabolism)
+-p38 Mitogen-Activated Protein Kinases (+metabolism)
+
+pii:emboj2008256
+doi:10.1038/emboj.2008.256
+pubmed:19078967
+pmc:PMC2633082
+

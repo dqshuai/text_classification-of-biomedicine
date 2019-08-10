@@ -1,0 +1,26 @@
+Nucleic Acids Res.
+
+Translation of intronless RNAs is strongly stimulated by the Epstein-Barr virus mRNA export factor EB2.
+
+EP Ricci, F Mure, H Gruffat, D Decimo, C Medina-Palazon, T Ohlmann, E Manet
+
+The Epstein-Barr virus protein (EB2) allows the nuclear export of a particular subset of early and late viral RNAs derived from intronless genes. EB2 is conserved among most herpesvirus members and its presence is essential for the production of infectious particles. Here we show that, besides its role as a nuclear export factor, EB2 strongly stimulates translation of unspliced mRNAs without affecting overall cellular translation. Interestingly, this effect can be reversed by the addition of an intron within the gene. The spliced mRNA is then efficiently exported and translated even in the absence of EB2. Moreover, we show that EB2 associates with translating ribosomes and increases the proportion of its target RNA in the polyribosomal fraction. Finally, testing of EB2 homolog proteins derived from EBV-related herpesviruses, shows that, even if they play similar roles within the replication cycle of their respective virus, their mechanisms of action are different.
+
+-Cell Line
+-Genes, Reporter
+-Herpesvirus 4, Human (+genetics)
+-Humans
+-Introns
+-Phosphoproteins (+metabolism)
+-Polyribosomes (-metabolism)
++Protein Biosynthesis
+-RNA Transport
+-RNA, Messenger (-chemistry; -metabolism)
+-Trans-Activators (+metabolism)
+-Viral Proteins (-metabolism)
+
+pii:gkp497
+doi:10.1093/nar/gkp497
+pubmed:19528074
+pmc:PMC2731895
+

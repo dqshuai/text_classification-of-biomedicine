@@ -1,0 +1,12 @@
+J. Am. Chem. Soc.
+
+Can one predict changes from S(N)1 to S(N)2 mechanisms?
+
+TB Phan, C Nolte, S Kobayashi, AR Ofial, H Mayr
+
+The reactions of substituted benzhydryl bromides Ar(2)CHBr with primary and secondary amines in DMSO yield benzhydryl amines Ar(2)CHNRR', benzophenones Ar(2)C=O, and benzhydrols Ar(2)CHOH. Kinetic investigations at 20 degrees C revealed the rate law -d[Ar(2)CHBr]/dt = (k(1) + k(2)[HNRR'])[Ar(2)CHBr], where the amine independent term k(1) gave rise to the formation of Ar(2)C=O and Ar(2)CHOH and the amine-dependent term k(2)[HNRR'] was responsible for the formation of Ar(2)CHNRR'. Clear evidence for concomitant S(N)1 and S(N)2 processes was obtained. While the rate constants of the S(N)1 reactions correlate with Hammett's sigma(+) constants (rho = -3.22), the second-order rate constants k(2) for the S(N)2 reactions are not correlated with the electron releasing abilities of the substituents, indicating that the transition states of the S(N)2 reactions do not merge with the transition states of the S(N)1 reactions. The correlation equation log k(20 degrees C) = s(E + N), where nucleophiles are characterized by N and s and electrophiles are characterized by E (J. Am. Chem. Soc. 2001, 123, 9500-9512), was used to calculate the lifetimes of benzhydrylium ions in the presence of amines and DMSO. The change from S(N)1 to S(N)2 mechanism occurred close to the point where the calculated rate constant for the collapse of the benzhydrylium ions with the amines just reaches the vibrational limit; that is, the concerted S(N)2 mechanism was only followed when it was enforced by the lifetime of the intermediate. The nucleophile-specific parameters N and s needed for this analysis were determined by studying the kinetics of the reactions of a variety of amines with amino-substituted benzhydrylium tetrafluoroborates (Ar(2)CH(+)BF(4)(-)) of known electrophilicity E in DMSO. Analogously, the rates of the reactions of laser flash photolytically generated benzhydrylium ions Ar(2)CH(+) with DMSO in acetonitrile were employed to determine the nucleophile-specific parameters N and s of DMSO, and it is reported that DMSO is a significantly stronger O-nucleophile than water and ordinary alcohols.
+
+
+doi:10.1021/ja903207b
+pubmed:19634906
+

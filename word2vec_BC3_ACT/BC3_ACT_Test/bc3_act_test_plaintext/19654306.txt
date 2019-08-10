@@ -1,0 +1,30 @@
+Cancer Res.
+
+Sin3B expression is required for cellular senescence and is up-regulated upon oncogenic stress.
+
+KB Grandinetti, P Jelinic, T DiMauro, J Pellegrino, R Fernández Rodríguez, PM Finnerty, R Ruoff, N Bardeesy, SK Logan, G David
+
+Serial passage of primary mammalian cells or strong mitogenic signals induce a permanent exit from the cell cycle called senescence. A characteristic of senescent cells is the heterochromatinization of loci encoding pro-proliferative genes, leading to their transcriptional silencing. Senescence is thought to represent a defense mechanism against uncontrolled proliferation and cancer. Consequently, genetic alterations that allow senescence bypass are associated with susceptibility to oncogenic transformation. We show that fibroblasts genetically inactivated for the chromatin-associated Sin3B protein are refractory to replicative and oncogene-induced senescence. Conversely, overexpression of Sin3B triggers senescence and the formation of senescence-associated heterochromatic foci. Although Sin3B is strongly up-regulated upon oncogenic stress, decrease in expression of Sin3B is associated with tumor progression in vivo, suggesting that expression of Sin3B may represent a barrier against transformation. Together, these results underscore the contribution of senescence in tumor suppression and suggest that expression of chromatin modifiers is modulated at specific stages of cellular transformation. Consequently, these findings suggest that modulation of Sin3B-associated activities may represent new therapeutic opportunities for treatment of cancers.
+
+-Animals
+-Cell Aging (+genetics)
+-Cell Transformation, Neoplastic (+genetics)
+-Cells, Cultured
++DNA Damage (-genetics)
+-E2F Transcription Factors (-physiology)
+-Gene Knockdown Techniques
+-Gene Silencing (-physiology)
+-Genes, ras (-genetics; -physiology)
+-Heterochromatin (-metabolism)
+-Humans
+-Promoter Regions, Genetic
+-Protein Binding
+-Repressor Proteins (-genetics; -metabolism; +physiology)
+-Up-Regulation (-physiology)
+
+pii:0008-5472.CAN-09-0537
+doi:10.1158/0008-5472.CAN-09-0537
+pubmed:19654306
+mid:NIHMS125619
+pmc:PMC2782780
+

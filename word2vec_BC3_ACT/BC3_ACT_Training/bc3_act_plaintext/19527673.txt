@@ -1,0 +1,22 @@
+Biophys. J.
+
+Stochastic actin polymerization and steady retrograde flow determine growth cone advancement.
+
+T Betz, D Koch, D Lim, JA Käs
+
+Neuronal growth is an extremely complex yet reliable process that is directed by a dynamic lamellipodial structure at the tip of every growing neurite, called the growth cone. Lamellipodial edge fluctuations are controlled by the interplay between actin polymerization pushing the edge forward and molecular motor driven retrograde actin flow retracting the actin network. The leading edge switches randomly between extension and retraction processes. We identify switching of "on/off" states in actin polymerization as the main determinant of lamellipodial advancement. Our analysis of motility statistics allows for a prediction of growth direction. This was used in simulations explaining the amazing signal detection capabilities of neuronal growth by the experimentally found biased stochastic processes. Our measurements show that the intensity of stochastic fluctuations depend on changes in the underlying active intracellular processes and we find a power law eta = a*x(alpha) with exponent alpha = 2.63 +/- 0.12 between noise intensity eta and growth cone activity x, defined as the sum of protrusion and retraction velocity. Differences in the lamellipodial dynamics between primary neurons and a neuronal cell line further suggests that active processes tune the observed stochastic fluctuations. This hints at a possible role of noise intensity in determining signal detection sensitivity.
+
+-Actins (+chemistry; +metabolism)
+-Animals
+-Cells, Cultured
+-Growth Cones (+chemistry; +metabolism)
+-Protein Binding
+-Rats
+-Reproducibility of Results
+-Stochastic Processes
+
+pii:S0006-3495(09)00796-6
+doi:10.1016/j.bpj.2009.03.045
+pubmed:19527673
+pmc:PMC2712033
+

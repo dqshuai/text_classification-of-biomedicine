@@ -1,0 +1,19 @@
+Genome Res.
+
+Analysis of the genome sequences of three Drosophila melanogaster spontaneous mutation accumulation lines.
+
+PD Keightley, U Trivedi, M Thomson, F Oliver, S Kumar, ML Blaxter
+
+We inferred the rate and properties of new spontaneous mutations in Drosophila melanogaster by carrying out whole-genome shotgun sequencing-by-synthesis of three mutation accumulation (MA) lines that had been maintained by close inbreeding for an average of 262 generations. We tested for the presence of new mutations by generating alignments of each MA line to the D. melanogaster reference genome sequence and then compared these alignments base by base. We determined empirically that at least five reads at a site within each line are required for accurate single nucleotide mutation calling. We mapped a total of 174 single-nucleotide mutations, giving a single nucleotide mutation rate of 3.5 x 10(-9) per site per generation. There were no false positives in a random sample of 40 of these mutations checked by Sanger sequencing. Variation in the numbers of mutations among the MA lines was small and nonsignificant. Numbers of transition and transversion mutations were 86 and 88, respectively, implying that transition mutation rate is close to 2x the transversion rate. We observed 1.5x as many G or C --> A or T as A or T --> G or C mutations, implying that the G or C --> A or T mutation rate is close to 2x the A or T --> G or C mutation rate. The base composition of the genome is therefore not at an equilibrium determined solely by mutation. The predicted G + C content at mutational equilibrium (33%) is similar to that observed in transposable element remnants. Nearest-neighbor mutational context dependencies are nonsignificant, suggesting that this is a weak phenomenon in Drosophila. We also saw nonsignificant differences in the mutation rate between transcribed and untranscribed regions, implying that any transcription-coupled repair process is weak. Of seven short indel mutations confirmed, six were deletions, consistent with the deletion bias that is thought to exist in Drosophila.
+
+-Animals
+-DNA, Mitochondrial (+genetics)
+-Drosophila melanogaster (+genetics)
++Genome, Insect
+-Mutation (+genetics)
+
+pii:gr.091231.109
+doi:10.1101/gr.091231.109
+pubmed:19439516
+pmc:PMC2704435
+

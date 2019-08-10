@@ -1,0 +1,25 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Computer simulations predict that chromosome movements and rotations accelerate mitotic spindle assembly without compromising accuracy.
+
+R Paul, R Wollman, WT Silkworth, IK Nardi, D Cimini, A Mogilner
+
+The mitotic spindle self-assembles in prometaphase by a combination of centrosomal pathway, in which dynamically unstable microtubules search in space until chromosomes are captured, and a chromosomal pathway, in which microtubules grow from chromosomes and focus to the spindle poles. Quantitative mechanistic understanding of how spindle assembly can be both fast and accurate is lacking. Specifically, it is unclear how, if at all, chromosome movements and combining the centrosomal and chromosomal pathways affect the assembly speed and accuracy. We used computer simulations and high-resolution microscopy to test plausible pathways of spindle assembly in realistic geometry. Our results suggest that an optimal combination of centrosomal and chromosomal pathways, spatially biased microtubule growth, and chromosome movements and rotations is needed to complete prometaphase in 10-20 min while keeping erroneous merotelic attachments down to a few percent. The simulations also provide kinetic constraints for alternative error correction mechanisms, shed light on the dual role of chromosome arm volume, and compare well with experimental data for bipolar and multipolar HT-29 colorectal cancer cells.
+
+-Cell Line, Tumor
+-Chromosomes (+physiology; +ultrastructure)
++Computer Simulation
+-Humans
+-Imaging, Three-Dimensional
+-Kinetochores (-physiology; -ultrastructure)
+-Microtubules (-physiology; -ultrastructure)
+-Mitotic Spindle Apparatus (+physiology; +ultrastructure)
++Models, Biological
+-Movement
+-Rotation
+
+pii:0908261106
+doi:10.1073/pnas.0908261106
+pubmed:19717443
+pmc:PMC2747184
+

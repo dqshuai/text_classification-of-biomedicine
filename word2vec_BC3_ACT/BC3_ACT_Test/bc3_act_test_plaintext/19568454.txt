@@ -1,0 +1,20 @@
+J Biomol Tech
+
+Multiplex amplicon genotyping by high-resolution melting.
+
+MT Seipp, JD Durtschi, KV Voelkerding, CT Wittwer
+
+High-resolution amplicon melting is a simple method for genotyping that uses only generic PCR primers and a saturating DNA dye. Multiplex amplicon genotyping has previously been reported in a single color, but two instruments were required: a carousel-based rapid cycler and a high-resolution melting instrument for capillaries. Manual transfer of capillaries between instruments and sequential melting of each capillary at 0.1 degrees C/s seriously limited the throughput. In this report, a single instrument that combines rapid-cycle real-time PCR with high-resolution melting [LightScanner-32 (LS-32), Idaho Technology, Salt Lake City, UT] was used for multiplex amplicon genotyping. The four most common mutations associated with thrombophilia, F5 (factor V Leiden 1691G>A), F2 (prothrombin 20210G>A), and methylenetetrahydrofolate reductase (MTHFR; 1298A>C and 677C>T) were genotyped in a single homogeneous assay with internal controls to adjust for minor chemistry and instrument variation. Forty temperature cycles required 9.2 min, and each capillary required 2.2 min by melting at 0.3 degrees C/s, 3x the prior rate. Sample volume was reduced from 20 microl to 10 microl. In a blinded study of 109 samples (436 genotypes), complete concordance with standard assays was obtained. In addition, the rare variant MTHFR 1317T>C was genotyped correctly when present. The LS-32 simplifies more complex high-resolution melting assays by reducing hands-on manipulation, total time of analysis, and reagent cost while maintaining the resolution necessary for multiplex amplicon genotyping.
+
+-Factor V (-genetics)
++Genotype
+-Humans
+-Methylenetetrahydrofolate Reductase (NADPH2) (-genetics)
+-Mutation
+-Polymerase Chain Reaction (+methods)
+-Prothrombin (-genetics)
+-Thrombophilia (-genetics)
+
+pubmed:19568454
+pmc:PMC2700465
+

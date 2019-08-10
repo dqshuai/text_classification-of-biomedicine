@@ -1,0 +1,27 @@
+BMC Plant Biol.
+
+Cold- and light-induced changes in the transcriptome of wheat leading to phase transition from vegetative to reproductive growth.
+
+MO Winfield, C Lu, ID Wilson, JA Coghill, KJ Edwards
+
+BACKGROUND: For plants to flower at the appropriate time, they must be able to perceive and respond to various internal and external cues. Wheat is generally a long-day plant that will go through phase transition from vegetative to floral growth as days are lengthening in spring and early summer. In addition to this response to day-length, wheat cultivars may be classified as either winter or spring varieties depending on whether they require to be exposed to an extended period of cold in order to become competent to flower. Using a growth regime to mimic the conditions that occur during a typical winter in Britain, and a microarray approach to determine changes in gene expression over time, we have surveyed the genes of the major pathways involved in floral transition. We have paid particular attention to wheat orthologues and functional equivalents of genes involved in the phase transition in Arabidopsis. We also surveyed all the MADS-box genes that could be identified as such on the Affymetrix genechip wheat genome array. RESULTS: We observed novel responses of several genes thought to be of major importance in vernalisation-induced phase transition, and identified several MADS-box genes that might play an important role in the onset of flowering. In addition, we saw responses in genes of the Gibberellin pathway that would indicate that this pathway also has some role to play in phase transition. CONCLUSION: Phase transition in wheat is more complex than previously reported, and there is evidence that day-length has an influence on genes that were once thought to respond exclusively to an extended period of cold.
+
+-Arabidopsis (-genetics; -growth & development; -radiation effects)
++Cold Temperature
+-Flowers (-genetics; -growth & development)
++Gene Expression Profiling
+-Gene Expression Regulation, Developmental
+-Gene Expression Regulation, Plant
++Light
+-MADS Domain Proteins (-genetics; -metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Photoperiod
+-Plant Proteins (-genetics; -metabolism)
+-RNA, Plant (-genetics)
+-Triticum (-genetics; +growth & development; -radiation effects)
+
+pii:1471-2229-9-55
+doi:10.1186/1471-2229-9-55
+pubmed:19432994
+pmc:PMC2685395
+

@@ -1,0 +1,21 @@
+BMC Plant Biol.
+
+An archived activation tagged population of Arabidopsis thaliana to facilitate forward genetics approaches.
+
+SJ Robinson, LH Tang, BA Mooney, SJ McKay, WE Clarke, MG Links, S Karcz, S Regan, YY Wu, MY Gruber, D Cui, M Yu, IA Parkin
+
+BACKGROUND: Functional genomics tools provide researchers with the ability to apply high-throughput techniques to determine the function and interaction of a diverse range of genes. Mutagenized plant populations are one such resource that facilitate gene characterisation. They allow complex physiological responses to be correlated with the expression of single genes in planta, through either reverse genetics where target genes are mutagenized to assay the affect, or through forward genetics where populations of mutant lines are screened to identify those whose phenotype diverges from wild type for a particular trait. One limitation of these types of populations is the prevalence of gene redundancy within plant genomes, which can mask the affect of individual genes. Activation or enhancer populations, which not only provide knock-out but also dominant activation mutations, can facilitate the study of such genes. RESULTS: We have developed a population of almost 50,000 activation tagged A. thaliana lines that have been archived as individual lines to the T3 generation. The population is an excellent tool for both reverse and forward genetic screens and has been used successfully to identify a number of novel mutants. Insertion site sequences have been generated and mapped for 15,507 lines to enable further application of the population, while providing a clear distribution of T-DNA insertions across the genome. The population is being screened for a number of biochemical and developmental phenotypes, provisional data identifying novel alleles and genes controlling steps in proanthocyanidin biosynthesis and trichome development is presented. CONCLUSION: This publicly available population provides an additional tool for plant researcher's to assist with determining gene function for the many as yet uncharacterised genes annotated within the Arabidopsis genome sequence http://aafc-aac.usask.ca/FST. The presence of enhancer elements on the inserted T-DNA molecule allows both knock-out and dominant activation phenotypes to be identified for traits of interest.
+
+-Arabidopsis (+genetics)
+-DNA Mutational Analysis
+-DNA, Bacterial (-genetics)
+-DNA, Plant (-genetics)
+-Genes, Plant
++Genome, Plant
+-Genomics (+methods)
++Mutagenesis, Insertional
+
+pii:1471-2229-9-101
+doi:10.1186/1471-2229-9-101
+pubmed:19646253
+

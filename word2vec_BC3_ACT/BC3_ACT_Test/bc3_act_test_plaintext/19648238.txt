@@ -1,0 +1,25 @@
+J. Bacteriol.
+
+Identification of the [FeFe]-hydrogenase responsible for hydrogen generation in Thermoanaerobacterium saccharolyticum and demonstration of increased ethanol yield via hydrogenase knockout.
+
+AJ Shaw, DA Hogsett, LR Lynd
+
+Three putative hydrogenase enzyme systems in Thermoanaerobacterium saccharolyticum were investigated at the genetic, mRNA, enzymatic, and phenotypic levels. A four-gene operon containing two [FeFe]-hydrogenase genes, provisionally termed hfs (hydrogenase-Fe-S), was found to be the main enzymatic catalyst of hydrogen production. hfsB, perhaps the most interesting gene of the operon, contains an [FeFe]-hydrogenase and a PAS sensory domain and has several conserved homologues among clostridial saccharolytic, cellulolytic, and pathogenic bacteria. A second hydrogenase gene cluster, hyd, exhibited methyl viologen-linked hydrogenase enzymatic activity, but hyd gene knockouts did not influence the hydrogen yield of cultures grown in closed-system batch fermentations. This result, combined with the observation that hydB contains NAD(P)+ and FMN binding sites, suggests that the hyd genes are specific to the transfer of electrons from NAD(P)H to hydrogen ions. A third gene cluster, a putative [NiFe]-hydrogenase with homology to the ech genes, did not exhibit hydrogenase activity under any of the conditions tested. Deletion of the hfs and hydA genes resulted in a loss of detectable methyl viologen-linked hydrogenase activity. Strains with a deletion of the hfs genes exhibited a 95% reduction in hydrogen and acetic acid production. A strain with hfs and ldh deletions exhibited an increased ethanol yield from consumed carbohydrates and represents a new strategy for engineering increased ethanol yields in T. saccharolyticum.
+
+-Acetic Acid (-metabolism)
+-Bacterial Proteins (-genetics; -metabolism)
+-Carbohydrate Metabolism
+-Ethanol (+metabolism)
+-Fermentation
+-Gene Deletion
+-Gene Expression Regulation, Bacterial (-physiology)
+-Hydrogen (+metabolism)
+-Hydrogenase (+genetics; +metabolism)
+-Multigene Family
+-Thermoanaerobacterium (+enzymology; -genetics; -metabolism)
+
+pii:JB.00497-09
+doi:10.1128/JB.00497-09
+pubmed:19648238
+pmc:PMC2753037
+

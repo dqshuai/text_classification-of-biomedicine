@@ -1,0 +1,36 @@
+EMBO Rep.
+
+The tumour suppressor CYLD is a negative regulator of RIG-I-mediated antiviral response.
+
+CS Friedman, MA O'Donnell, D Legarda-Addison, A Ng, WB Cárdenas, JS Yount, TM Moran, CF Basler, A Komuro, CM Horvath, R Xavier, AT Ting
+
+On detecting viral RNAs, the RNA helicase retinoic acid-inducible gene I (RIG-I) activates the interferon regulatory factor 3 (IRF3) signalling pathway to induce type I interferon (IFN) gene transcription. How this antiviral signalling pathway might be negatively regulated is poorly understood. Microarray and bioinformatic analysis indicated that the expression of RIG-I and that of the tumour suppressor CYLD (cylindromatosis), a deubiquitinating enzyme that removes Lys 63-linked polyubiquitin chains, are closely correlated, suggesting a functional association between the two molecules. Ectopic expression of CYLD inhibits the IRF3 signalling pathway and IFN production triggered by RIG-I; conversely, CYLD knockdown enhances the response. CYLD removes polyubiquitin chains from RIG-I as well as from TANK binding kinase 1 (TBK1), the kinase that phosphorylates IRF3, coincident with an inhibition of the IRF3 signalling pathway. Furthermore, CYLD protein level is reduced in the presence of tumour necrosis factor and viral infection, concomitant with enhanced IFN production. These findings show that CYLD is a negative regulator of RIG-I-mediated innate antiviral response.
+
+-Adaptor Proteins, Signal Transducing (-genetics; -metabolism)
+-Animals
+-Cell Line
+-Cercopithecus aethiops
+-Cluster Analysis
+-DEAD-box RNA Helicases (-genetics; +metabolism)
+-Gene Expression Profiling
+-Host-Pathogen Interactions
+-Humans
+-I-kappa B Kinase (-genetics; -metabolism)
+-Immunoblotting
+-Immunoprecipitation
+-Interferon Regulatory Factor-3 (-genetics; -metabolism)
+-Interferons (-metabolism)
+-Mutation
+-Polyubiquitin (-metabolism)
+-Protein Binding
+-Protein-Serine-Threonine Kinases (-genetics; -metabolism)
+-Sendai virus (-physiology)
+-Transfection
+-Tumor Suppressor Proteins (-genetics; +metabolism)
+-Vero Cells
+
+pii:embor2008136
+doi:10.1038/embor.2008.136
+pubmed:18636086
+pmc:PMC2529351
+

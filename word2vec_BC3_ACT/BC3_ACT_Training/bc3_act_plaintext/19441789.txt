@@ -1,0 +1,18 @@
+J. Am. Chem. Soc.
+
+Accurate measurement of methyl 13C chemical shifts by solid-state NMR for the determination of protein side chain conformation: the influenza a M2 transmembrane peptide as an example.
+
+M Hong, TV Mishanina, SD Cady
+
+The use of side chain methyl (13)C chemical shifts for the determination of the rotameric conformation of Val and Leu residues in proteins by solid-state NMR spectroscopy is described. Examination of the solution NMR stereospecifically assigned methyl groups shows significant correlation between the difference in the two methyl carbons' chemical shifts and the side chain conformation. It is found that alpha-helical and beta-sheet backbones cause different side chain methyl chemical shift trends. In alpha-helical Leu's, a relatively large absolute methyl (13)C shift difference of 2.89 ppm is found for the most populated mt rotamer (chi(1) = -60 degrees, chi(2) = 180 degrees), while a much smaller value of 0.73 ppm is found for the next populated tp rotamer (chi(1) = 180 degrees, chi(2) = 60 degrees). For alpha-helical Val residues, the dominant t rotamer (chi(1) = 180 degrees) has more downfield Cgamma2 chemical shifts than Cgamma1 by 1.71 ppm, while the next populated m rotamer (chi(1) = -60 degrees) shows the opposite trend of more downfield Cgamma1 chemical shift by 1.23 ppm. These significantly different methyl (13)C chemical shifts exist despite the likelihood of partial rotameric averaging at ambient temperature. We show that these conformation-dependent methyl (13)C chemical shifts can be utilized for side chain structure determination once the methyl (13)C resonances are accurately measured by double-quantum (DQ) filtered 2D correlation experiments, most notably the dipolar DQ to single-quantum (SQ) correlation technique. The advantage of the DQ-SQ correlation experiment over simple 2D SQ-SQ correlation experiments is demonstrated on the transmembrane peptide of the influenza A M2 proton channel. The methyl chemical shifts led to predictions of the side chain rotameric states for several Val and Leu residues in this tetrameric helical bundle. The predicted Val rotamers were further verified by dipolar correlation experiments that directly measure the chi(1) torsion angles. It was found that the chemical-shift-predicted side chain conformations are fully consistent with the direct torsion angle results; moreover, the methyl (13)C chemical shifts are sensitive to approximately 5 degrees changes in the chi(1) torsion angle due to drug binding.
+
+-Amantadine (-chemistry)
+-Apoproteins (-chemistry)
+-Carbon Isotopes
+-Nuclear Magnetic Resonance, Biomolecular (+methods)
+-Protein Conformation
+-Viral Matrix Proteins (+chemistry)
+
+doi:10.1021/ja901550q
+pubmed:19441789
+

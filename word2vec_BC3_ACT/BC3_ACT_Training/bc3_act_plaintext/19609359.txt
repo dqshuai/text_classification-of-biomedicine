@@ -1,0 +1,25 @@
+PLoS Pathog.
+
+Structural basis for functional tetramerization of lentiviral integrase.
+
+S Hare, F Di Nunzio, A Labeja, J Wang, A Engelman, P Cherepanov
+
+Experimental evidence suggests that a tetramer of integrase (IN) is the protagonist of the concerted strand transfer reaction, whereby both ends of retroviral DNA are inserted into a host cell chromosome. Herein we present two crystal structures containing the N-terminal and the catalytic core domains of maedi-visna virus IN in complex with the IN binding domain of the common lentiviral integration co-factor LEDGF. The structures reveal that the dimer-of-dimers architecture of the IN tetramer is stabilized by swapping N-terminal domains between the inner pair of monomers poised to execute catalytic function. Comparison of four independent IN tetramers in our crystal structures elucidate the basis for the closure of the highly flexible dimer-dimer interface, allowing us to model how a pair of active sites become situated for concerted integration. Using a range of complementary approaches, we demonstrate that the dimer-dimer interface is essential for HIV-1 IN tetramerization, concerted integration in vitro, and virus infectivity. Our structures moreover highlight adaptable changes at the interfaces of individual IN dimers that allow divergent lentiviruses to utilize a highly-conserved, common integration co-factor.
+
+-Crystallography, X-Ray
+-HIV Integrase (-chemistry; -genetics; -metabolism)
+-HIV-1 (-enzymology; -genetics; -pathogenicity)
+-Integrases (+chemistry; -genetics; -metabolism)
+-Intercellular Signaling Peptides and Proteins (-chemistry)
+-Models, Molecular
+-Mutation
+-Protein Interaction Domains and Motifs
+-Protein Multimerization
+-Viral Proteins (+chemistry; -genetics; -metabolism)
+-Visna-maedi virus (+enzymology; -genetics)
+-vpr Gene Products, Human Immunodeficiency Virus (-metabolism)
+
+doi:10.1371/journal.ppat.1000515
+pubmed:19609359
+pmc:PMC2705190
+

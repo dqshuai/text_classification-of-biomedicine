@@ -1,0 +1,20 @@
+PLoS Comput. Biol.
+
+Evaluation of objective uncertainty in the visual system.
+
+S Barthelmé, P Mamassian
+
+The role of sensory systems is to provide an organism with information about its environment. Because sensory information is noisy and insufficient to uniquely determine the environment, natural perceptual systems have to cope with systematic uncertainty. The extent of that uncertainty is often crucial to the organism: for instance, in judging the potential threat in a stimulus. Inducing uncertainty by using visual noise, we had human observers perform a task where they could improve their performance by choosing the less uncertain among pairs of visual stimuli. Results show that observers had access to a reliable measure of visual uncertainty in their decision-making, showing that subjective uncertainty in this case is connected to objective uncertainty. Based on a Bayesian model of the task, we discuss plausible computational schemes for that ability.
+
+-Bayes Theorem
++Decision Making
+-Humans
++Models, Biological
+-Psychometrics
++Uncertainty
+-Visual Perception (+physiology)
+
+doi:10.1371/journal.pcbi.1000504
+pubmed:19750003
+pmc:PMC2730538
+

@@ -1,0 +1,24 @@
+Cell
+
+Sites of regulated phosphorylation that control K-Cl cotransporter activity.
+
+J Rinehart, YD Maksimova, JE Tanis, KL Stone, CA Hodson, J Zhang, M Risinger, W Pan, D Wu, CM Colangelo, B Forbush, CH Joiner, EE Gulcicek, PG Gallagher, RP Lifton
+
+Modulation of intracellular chloride concentration ([Cl(-)](i)) plays a fundamental role in cell volume regulation and neuronal response to GABA. Cl(-) exit via K-Cl cotransporters (KCCs) is a major determinant of [Cl(-)](I); however, mechanisms governing KCC activities are poorly understood. We identified two sites in KCC3 that are rapidly dephosphorylated in hypotonic conditions in cultured cells and human red blood cells in parallel with increased transport activity. Alanine substitutions at these sites result in constitutively active cotransport. These sites are highly phosphorylated in plasma membrane KCC3 in isotonic conditions, suggesting that dephosphorylation increases KCC3's intrinsic transport activity. Reduction of WNK1 expression via RNA interference reduces phosphorylation at these sites. Homologous sites are phosphorylated in all human KCCs. KCC2 is partially phosphorylated in neonatal mouse brain and dephosphorylated in parallel with KCC2 activation. These findings provide insight into regulation of [Cl(-)](i) and have implications for control of cell volume and neuronal function.
+
+-Amino Acid Sequence
+-Amino Acid Substitution
+-Animals
+-Humans
+-Mice
+-Molecular Sequence Data
+-Phosphorylation
+-Sequence Alignment
+-Symporters (+chemistry; +metabolism)
+
+pii:S0092-8674(09)00634-5
+doi:10.1016/j.cell.2009.05.031
+pubmed:19665974
+mid:NIHMS157235
+pmc:PMC2811214
+

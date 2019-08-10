@@ -1,0 +1,23 @@
+J. Am. Chem. Soc.
+
+Aromatic amino acids as stepping stones in charge transfer in respiratory complex I: an unusual mechanism deduced from atomistic theory and bioinformatics.
+
+C Wittekindt, M Schwarz, T Friedrich, T Koslowski
+
+With the help of a recent X-ray structure analysis of the hydrophilic part of the bacterial respiratory complex I, we present a theoretical and numerical study of the charge transfer properties of this protein. Our analysis is based upon an atomistic electronic structure model that accounts for the formation of chemical bonds, spin polarization on transition metal atoms, and solvent polarization effects. Solving this model at the Hartree-Fock mean-field level, we are able to access the energy parameters required to compute charge transfer rates, making use of Marcus's theory of nonadiabatic electron transfer. Besides iron-sulfur clusters, aromatic amino acids are identified as essential centers of localization that participate in the electron transfer process. This novel perspective of charge transfer in complex I is substantiated by a multiple sequence analysis of a broad spectrum of genomes, revealing that the amino acids identified as stepping stones in the electron transfer chain are conserved during the evolution of complex I.
+
+-Amino Acid Sequence
+-Amino Acids, Aromatic (+chemistry)
+-Animals
+-Crystallography, X-Ray
+-Electron Transport
+-Electron Transport Complex I (+chemistry)
++Evolution, Molecular
+-Humans
++Models, Chemical
+-Molecular Sequence Data
+-Sequence Analysis
+
+doi:10.1021/ja900352t
+pubmed:19507904
+

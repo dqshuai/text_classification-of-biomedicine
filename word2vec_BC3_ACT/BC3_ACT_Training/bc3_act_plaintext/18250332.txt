@@ -1,0 +1,25 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Phosphorylation of inositol 1,4,5-trisphosphate receptors by protein kinase B/Akt inhibits Ca2+ release and apoptosis.
+
+T Szado, V Vanderheyden, JB Parys, H De Smedt, K Rietdorf, L Kotelevets, E Chastre, F Khan, U Landegren, O Söderberg, MD Bootman, HL Roderick
+
+Imbalance of signals that control cell survival and death results in pathologies, including cancer and neurodegeneration. Two pathways that are integral to setting the balance between cell survival and cell death are controlled by lipid-activated protein kinase B (PKB)/Akt and Ca(2+). PKB elicits its effects through the phosphorylation and inactivation of proapoptotic factors. Ca(2+) stimulates many prodeath pathways, among which is mitochondrial permeability transition. We identified Ca(2+) release through inositol 1,4,5-trisphosphate receptor (InsP(3)R) intracellular channels as a prosurvival target of PKB. We demonstrated that in response to survival signals, PKB interacts with and phosphorylates InsP(3)Rs, significantly reducing their Ca(2+) release activity. Moreover, phosphorylation of InsP(3)Rs by PKB reduced cellular sensitivity to apoptotic stimuli through a mechanism that involved diminished Ca(2+) flux from the endoplasmic reticulum to the mitochondria. In glioblastoma cells that exhibit hyperactive PKB, the same prosurvival effect of PKB on InsP(3)R was found to be responsible for the insensitivity of these cells to apoptotic stimuli. We propose that PKB-mediated abolition of InsP(3)-induced Ca(2+) release may afford tumor cells a survival advantage.
+
+-Animals
++Apoptosis (-drug effects)
+-Calcium (-agonists; +metabolism)
+-Cell Line
+-Cercopithecus aethiops
+-Glioblastoma (-metabolism; -pathology)
+-Humans
+-Inositol 1,4,5-Trisphosphate Receptors (-genetics; +metabolism)
+-Phosphorylation
+-Proto-Oncogene Proteins c-akt (+metabolism)
+-Serine (-genetics; -metabolism)
+
+pii:0711324105
+doi:10.1073/pnas.0711324105
+pubmed:18250332
+pmc:PMC2268153
+

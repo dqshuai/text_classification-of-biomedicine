@@ -1,0 +1,21 @@
+BMC Bioinformatics
+
+Measure of synonymous codon usage diversity among genes in bacteria.
+
+H Suzuki, R Saito, M Tomita
+
+BACKGROUND: In many bacteria, intragenomic diversity in synonymous codon usage among genes has been reported. However, no quantitative attempt has been made to compare the diversity levels among different genomes. Here, we introduce a mean dissimilarity-based index (Dmean) for quantifying the level of diversity in synonymous codon usage among all genes within a genome. RESULTS: The application of Dmean to 268 bacterial genomes shows that in bacteria with extremely biased genomic G+C compositions there is little diversity in synonymous codon usage among genes. Furthermore, our findings contradict previous reports. For example, a low level of diversity in codon usage among genes has been reported for Helicobacter pylori, but based on Dmean, the diversity level of this species is higher than those of more than half of bacteria tested here. The discrepancies between our findings and previous reports are probably due to differences in the methods used for measuring codon usage diversity. CONCLUSION: We recommend that Dmean be used to measure the diversity level of codon usage among genes. This measure can be applied to other compositional features such as amino acid usage and dinucleotide relative abundance as a genomic signature.
+
+-Base Composition
++Codon (-chemistry; -genetics)
+-Data Interpretation, Statistical
++Genes, Bacterial
+-Genome, Bacterial
+-Helicobacter pylori (-genetics)
+-Models, Genetic
+
+pii:1471-2105-10-167
+doi:10.1186/1471-2105-10-167
+pubmed:19480720
+pmc:PMC2697163
+

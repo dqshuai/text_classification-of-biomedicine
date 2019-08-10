@@ -1,0 +1,35 @@
+J. Biol. Chem.
+
+DLX5 (distal-less homeobox 5) promotes tumor cell proliferation by transcriptionally regulating MYC.
+
+J Xu, JR Testa
+
+The human DLX homeobox genes, which are related to Dll (Drosophila distal-less gene), encode transcription factors that are expressed primarily in embryonic development. Recently, DLX5 was reported to act as an oncogene in lymphomas and lung cancers, although the mechanism is not known. The identification of target genes of DLX5 can facilitate our understanding of oncogenic mechanisms driven by overexpression of DLX5. The MYC oncogene is aberrantly expressed in many human cancers and regulates transcription of numerous target genes involved in tumorigenesis. Here we demonstrate by luciferase assay that the MYC promoter is specifically activated by overexpression of DLX5 and that two DLX5 binding sites in the MYC promoter are important for transcriptional activation of MYC. We also show that DLX5 binds to the MYC promoter both in vitro and in vivo and that transfection of a DLX5 expression plasmid promotes the expression of MYC in a dose-dependent manner in mammalian cells. Furthermore, overexpression of DLX5 results in increased cell proliferation by up-regulating MYC. Knockdown of DLX5 in lung cancer cells overexpressing DLX5 resulted in decreased expression of MYC and reduced cell proliferation, which was rescued by overexpression of MYC. Because DLX5 has a restricted pattern of expression in adult tissues, it may serve as a potential therapeutic target for the treatment of cancers that overexpress DLX5.
+
+-Animals
+-Base Sequence
+-Cell Line, Tumor
+-Cell Proliferation
++Gene Expression Regulation, Neoplastic
+-Homeodomain Proteins (-genetics; +metabolism)
+-Humans
+-Lung Neoplasms (-genetics; -pathology)
+-Lymphocyte Specific Protein Tyrosine Kinase p56(lck) (-metabolism)
+-Lymphoma (-enzymology; -genetics; -pathology)
+-Mice
+-Mice, Transgenic
+-Molecular Sequence Data
+-Neoplasms (+genetics; +pathology)
+-Promoter Regions, Genetic (-genetics)
+-Protein Binding
+-Proto-Oncogene Proteins c-akt (-metabolism)
+-Proto-Oncogene Proteins c-myc (-genetics; -metabolism)
+-Transcription Factors (-genetics; +metabolism)
++Transcription, Genetic
+-Up-Regulation (-genetics)
+
+pii:M109.021477
+doi:10.1074/jbc.M109.021477
+pubmed:19497851
+pmc:PMC2742824
+

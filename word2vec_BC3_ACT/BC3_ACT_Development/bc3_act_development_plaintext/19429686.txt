@@ -1,0 +1,26 @@
+Nucleic Acids Res.
+
+ATIVS: analytical tool for influenza virus surveillance.
+
+YC Liao, CY Ko, MH Tsai, MS Lee, CA Hsiung
+
+The WHO Global Influenza Surveillance Network has routinely performed genetic and antigenic analyses of human influenza viruses to monitor influenza activity. Although these analyses provide supporting data for the selection of vaccine strains, it seems desirable to have user-friendly tools to visualize the antigenic evolution of influenza viruses for the purpose of surveillance. To meet this need, we have developed a web server, ATIVS (Analytical Tool for Influenza Virus Surveillance), for analyzing serological data of all influenza viruses and hemagglutinin sequence data of human influenza A/H3N2 viruses so as to generate antigenic maps for influenza surveillance and vaccine strain selection. Functionalities are described and examples are provided to illustrate its usefulness and performance. The ATIVS web server is available at http://influenza.nhri.org.tw/ATIVS/.
+
+-Antibodies, Viral (+blood)
+-Antigenic Variation
+-Antigens, Viral (-chemistry; -genetics; +immunology)
+-Computer Graphics
+-Hemagglutinin Glycoproteins, Influenza Virus (-immunology)
+-Humans
+-Influenza A Virus, H3N2 Subtype (+immunology)
+-Influenza, Human (-epidemiology)
+-Orthomyxoviridae (-classification; +immunology)
+-Population Surveillance
+-Sequence Analysis
++Software
+
+pii:gkp321
+doi:10.1093/nar/gkp321
+pubmed:19429686
+pmc:PMC2703974
+

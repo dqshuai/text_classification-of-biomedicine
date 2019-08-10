@@ -1,0 +1,22 @@
+J. Gen. Physiol.
+
+Multiple intermediate states precede pore block during N-type inactivation of a voltage-gated potassium channel.
+
+A Prince-Carter, PJ Pfaffinger
+
+N-type inactivation of voltage-gated potassium channels is an autoinhibitory process that occurs when the N terminus binds within the channel pore and blocks conduction. N-type inactivation and recovery occur with single-exponential kinetics, consistent with a single-step reaction where binding and block occur simultaneously. However, recent structure-function studies have suggested the presence of a preinactivated state whose formation and loss regulate inactivation and recovery kinetics. Our studies on N-type inactivation of the Shaker-type AKv1 channel support a multiple-step inactivation process involving a series of conformational changes in distinct regions of the N terminus that we have named the polar, flex, and latch regions. The highly charged polar region forms interactions with the surface of the channel leading up to the side window openings between the T1 domain and the channel transmembrane domains, before the rate-limiting step occurs. This binding culminates with a specific electrostatic interaction between R18 and EDE161-163 located at the entrance to the side windows. The latch region appears to work together with the flex region to block the pore after polar region binding occurs. Analysis of tail currents for a latch region mutant shows that both blocked and unblocked states exist after the rate-limiting transition is passed. Our results suggest that at least two intermediate states exist for N-type inactivation: a polar region-bound state that is formed before the rate-limiting step, and a pre-block state that is formed by the flex and latch regions during the rate-limiting step.
+
+-Animals
+-Cell Membrane (+chemistry; +physiology)
+-Cells, Cultured
+-Ion Channel Gating (+physiology)
+-Oocytes (+physiology)
+-Porosity
+-Shaker Superfamily of Potassium Channels (+chemistry; +physiology)
+-Xenopus laevis
+
+pii:jgp.200910219
+doi:10.1085/jgp.200910219
+pubmed:19528261
+pmc:PMC2712980
+

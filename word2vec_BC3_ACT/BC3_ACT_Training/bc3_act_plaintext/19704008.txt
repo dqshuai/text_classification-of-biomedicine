@@ -1,0 +1,32 @@
+Mol. Cell. Biol.
+
+Human UPF1 participates in small RNA-induced mRNA downregulation.
+
+H Jin, MR Suh, J Han, KH Yeom, Y Lee, I Heo, M Ha, S Hyun, VN Kim
+
+MicroRNAs (miRNAs) are endogenous antisense regulators that trigger endonucleolytic mRNA cleavage, translational repression, and/or mRNA decay. miRNA-mediated gene regulation is important for numerous biological pathways, yet the underlying mechanisms are still under rigorous investigation. Here we identify human UPF1 (hUPF1) as a protein that contributes to RNA silencing. When hUPF1 is knocked down, miRNA targets are upregulated. The depletion of hUPF1 also increases the off-target messages of small interfering RNAs (siRNAs), which are imperfectly complementary to transfected siRNAs. Conversely, when overexpressed, wild-type hUPF1 downregulates miRNA targets. The helicase domain mutant of hUPF1 fails to suppress miRNA targets. hUPF1 interacts with human Argonaute 1 (hAGO1) and hAGO2 and colocalizes with hAGO1 and hAGO2 in processing bodies, which are known to be the sites for translational repression and mRNA destruction. We further find that the amounts of target messages bound to hAGO2 are reduced when hUPF1 is depleted. Our data thus suggest that hUPF1 may participate in RNA silencing by facilitating the binding of the RNA-induced silencing complex to the target and by accelerating the decay of the mRNA.
+
+-Cytoplasmic Structures (-metabolism)
+-Down-Regulation (+genetics)
+-Eukaryotic Initiation Factor-2 (-metabolism)
+-Gene Knockdown Techniques
+-Gene Silencing
+-Hela Cells
+-Humans
+-MicroRNAs (+metabolism)
+-Models, Biological
+-Molecular Mimicry
+-Protein Binding
+-Protein Transport
+-RNA Stability
+-RNA, Messenger (-genetics; -metabolism)
+-RNA, Small Interfering (+metabolism)
+-RNA-Induced Silencing Complex (-metabolism)
+-Subcellular Fractions (-metabolism)
+-Trans-Activators (+metabolism)
+
+pii:MCB.00653-09
+doi:10.1128/MCB.00653-09
+pubmed:19704008
+pmc:PMC2772725
+

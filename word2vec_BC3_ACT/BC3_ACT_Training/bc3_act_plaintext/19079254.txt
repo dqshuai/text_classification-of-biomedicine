@@ -1,0 +1,22 @@
+Nat. Methods
+
+Cost-effective strategies for completing the interactome.
+
+AS Schwartz, J Yu, KR Gardenour, RL Finley, T Ideker
+
+Comprehensive protein-interaction mapping projects are underway for many model species and humans. A key step in these projects is estimating the time, cost and personnel required for obtaining an accurate and complete map. Here we modeled the cost of interaction-map completion for various experimental designs. We showed that current efforts may require up to 20 independent tests covering each protein pair to approach completion. We explored designs for reducing this cost substantially, including prioritization of protein pairs, probability thresholding and interaction prediction. The best experimental designs lowered cost by fourfold overall and >100-fold in early stages of mapping. We demonstrate the best strategy in an ongoing project in Drosophila melanogaster, in which we mapped 450 high-confidence interactions using 47 microtiter plates, versus thousands of plates expected using current designs. This study provides a framework for assessing the feasibility of interaction mapping projects and for future efforts to increase their efficiency.
+
+-Animals
+-Computer Simulation
+-Drosophila Proteins (-metabolism)
+-Drosophila melanogaster
+-Humans
+-Models, Biological
+-Protein Interaction Mapping (+economics; +methods)
+
+pii:nmeth.1283
+doi:10.1038/nmeth.1283
+pubmed:19079254
+mid:NIHMS79895
+pmc:PMC2613168
+

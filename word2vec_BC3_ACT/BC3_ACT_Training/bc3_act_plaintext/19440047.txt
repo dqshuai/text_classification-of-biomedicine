@@ -1,0 +1,32 @@
+Cell Cycle
+
+Aurora B kinase inhibition in mitosis: strategies for optimising the use of aurora kinase inhibitors such as AT9283.
+
+J Curry, H Angove, L Fazal, J Lyons, M Reule, N Thompson, N Wallis
+
+Aurora kinases play a key role in regulating mitotic division and are attractive oncology targets. AT9283, a multi-targeted kinase inhibitor with potent activity against Aurora A and B kinases, inhibited growth and survival of multiple solid tumor cell lines and was efficacious in mouse xenograft models. AT9283-treatment resulted in endoreduplication and ablation of serine-10 histone H3 phosphorylation in both cells and tumor samples, confirming that in these models it acts as an Aurora B kinase inhibitor. In vitro studies demonstrated that exposure to AT9283 for one complete cell cycle committed an entire population of p53 checkpoint-compromised cells (HCT116) to multinucleation and death whereas treatment of p53 checkpoint-competent cells (HMEC, A549) for a similar length of time led to a reversible arrest of cells with 4N DNA. Further studies in synchronized cell populations suggested that exposure to AT9283 during mitosis was critical for optimal cytotoxicity. We therefore investigated ways in which these properties might be exploited to optimize the efficacy and therapeutic index of Aurora kinase inhibitors for p53 checkpoint compromised tumors in vivo. Combining Aurora B kinase inhibition with paclitaxel, which arrests cells in mitosis, in a xenograft model resulted in promising efficacy without additional toxicity. These findings have implications for optimizing the efficacy of Aurora kinase inhibitors in clinical practice.
+
+-Animals
+-Antineoplastic Agents (+pharmacology)
+-Apoptosis (-drug effects; -physiology)
+-Benzimidazoles (+pharmacology)
+-Cell Cycle (-drug effects; -physiology)
+-Cell Line, Tumor
+-Collagen Type XI (-drug effects; -metabolism)
+-Humans
+-Mice
+-Mice, Inbred BALB C
+-Mice, Nude
+-Mimosine (-pharmacology)
+-Mitosis (+drug effects; -physiology)
+-Neoplasms (+enzymology)
+-Paclitaxel (-pharmacology)
+-Protein Kinase Inhibitors (+pharmacology)
+-Protein-Serine-Threonine Kinases (+antagonists & inhibitors; -metabolism)
+-Tumor Suppressor Protein p53 (-drug effects; -metabolism)
+-Urea (+analogs & derivatives; -pharmacology)
+-Xenograft Model Antitumor Assays
+
+pii:8741
+pubmed:19440047
+

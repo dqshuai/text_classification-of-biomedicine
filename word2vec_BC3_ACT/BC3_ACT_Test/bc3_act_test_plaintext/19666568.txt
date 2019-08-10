@@ -1,0 +1,31 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Peptides modulating conformational changes in secreted chaperones: from in silico design to preclinical proof of concept.
+
+Y Kliger, O Levy, A Oren, H Ashkenazy, Z Tiran, A Novik, A Rosenberg, A Amir, A Wool, A Toporik, E Schreiber, D Eshel, Z Levine, Y Cohen, C Nold-Petry, CA Dinarello, I Borukhov
+
+Blocking conformational changes in biologically active proteins holds therapeutic promise. Inspired by the susceptibility of viral entry to inhibition by synthetic peptides that block the formation of helix-helix interactions in viral envelope proteins, we developed a computational approach for predicting interacting helices. Using this approach, which combines correlated mutations analysis and Fourier transform, we designed peptides that target gp96 and clusterin, 2 secreted chaperones known to shift between inactive and active conformations. In human blood mononuclear cells, the gp96-derived peptide inhibited the production of TNFalpha, IL-1beta, IL-6, and IL-8 induced by endotoxin by >80%. When injected into mice, the peptide reduced circulating levels of endotoxin-induced TNFalpha, IL-6, and IFNgamma by >50%. The clusterin-derived peptide arrested proliferation of several neoplastic cell lines, and significantly enhanced the cytostatic activity of taxol in vitro and in a xenograft model of lung cancer. Also, the predicted mode of action of the active peptides was experimentally verified. Both peptides bound to their parent proteins, and their biological activity was abolished in the presence of the peptides corresponding to the counterpart helices. These data demonstrate a previously uncharacterized method for rational design of protein antagonists.
+
+-Animals
+-Antineoplastic Agents (-pharmacology)
+-Clusterin (-chemistry)
+-Computational Biology (+methods)
+-Female
+-Interleukin-1beta (-metabolism)
+-Interleukin-6 (-metabolism)
+-Interleukin-8 (-metabolism)
+-Leukocytes, Mononuclear (-drug effects; -metabolism)
+-Membrane Glycoproteins (-chemistry)
+-Mice
+-Mice, Nude
+-Molecular Chaperones
+-Neoplasm Transplantation
+-Peptides (+chemistry)
+-Protein Conformation
+-Tumor Necrosis Factor-alpha (-metabolism)
+
+pii:0906514106
+doi:10.1073/pnas.0906514106
+pubmed:19666568
+pmc:PMC2728974
+

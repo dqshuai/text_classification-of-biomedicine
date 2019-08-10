@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+VisANT 3.5: multi-scale network visualization, analysis and inference based on the gene ontology.
+
+Z Hu, JH Hung, Y Wang, YC Chang, CL Huang, M Huyck, C DeLisi
+
+Despite its wide usage in biological databases and applications, the role of the gene ontology (GO) in network analysis is usually limited to functional annotation of genes or gene sets with auxiliary information on correlations ignored. Here, we report on new capabilities of VisANT--an integrative software platform for the visualization, mining, analysis and modeling of the biological networks--which extend the application of GO in network visualization, analysis and inference. The new VisANT functions can be classified into three categories. (i) Visualization: a new tree-based browser allows visualization of GO hierarchies. GO terms can be easily dropped into the network to group genes annotated under the term, thereby integrating the hierarchical ontology with the network. This facilitates multi-scale visualization and analysis. (ii) Flexible annotation schema: in addition to conventional methods for annotating network nodes with the most specific functional descriptions available, VisANT also provides functions to annotate genes at any customized level of abstraction. (iii) Finding over-represented GO terms and expression-enriched GO modules: two new algorithms have been implemented as VisANT plugins. One detects over-represented GO annotations in any given sub-network and the other finds the GO categories that are enriched in a specified phenotype or perturbed dataset. Both algorithms take account of network topology (i.e. correlations between genes based on various sources of evidence). VisANT is freely available at http://visant.bu.edu.
+
+-Algorithms
+-Cell Cycle (-genetics)
+-Computer Graphics
++Gene Regulatory Networks
+-Humans
+-Internet
++Models, Genetic
++Software
+-Systems Integration
+
+pii:gkp406
+doi:10.1093/nar/gkp406
+pubmed:19465394
+pmc:PMC2703932
+

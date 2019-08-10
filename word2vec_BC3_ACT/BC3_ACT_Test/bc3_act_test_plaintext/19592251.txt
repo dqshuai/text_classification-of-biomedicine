@@ -1,0 +1,31 @@
+Curr. Biol.
+
+ITCH K63-ubiquitinates the NOD2 binding protein, RIP2, to influence inflammatory signaling pathways.
+
+M Tao, PC Scacheri, JM Marinis, EW Harhaj, LE Matesic, DW Abbott
+
+BACKGROUND: The inability to coordinate the signaling pathways that lead to proper cytokine responses characterizes the pathogenesis of inflammatory diseases such as Crohn's disease. The Crohn's disease susceptibility protein, NOD2, helps coordinate cytokine responses upon intracellular exposure to bacteria, and this signal coordination by NOD2 is accomplished, in part, through K63-linked polyubiquitin chains that create binding surfaces for the scaffolding of signaling complexes. RESULTS: In this work, we show that the NOD2 signaling partner, RIP2, is directly K63-polyubiquitinated by ITCH, an E3 ubiquitin ligase that when lost genetically causes widespread inflammatory disease at mucosal surfaces. We show that ITCH is responsible for RIP2 polyubiquitination in response to infection with listeria monocytogenes. We also show that NOD2 can bind polyubiquitinated RIP2 and that whereas ITCH E3 ligase activity is required for optimal NOD2:RIP2-induced p38 and JNK activation, ITCH inhibits NOD2:RIP2-induced nuclear factor kappa B (NFkappaB) activation. This effect can be seen independently at the whole-genome level by microarray analysis of muramyl dipeptide (MDP)-treated Itch(-/-) primary macrophages. CONCLUSIONS: These findings suggest that ITCH helps regulate NOD2-dependent signal transduction pathways and, as such, may be involved in the pathogenesis of NOD2-mediated inflammatory disease.
+
+-Acetylmuramyl-Alanyl-Isoglutamine
+-Cell Line
+-Crohn Disease (+metabolism)
+-Humans
+-Immunoblotting
+-Immunoprecipitation
+-Listeria monocytogenes
+-NF-kappa B (-metabolism)
+-Nod2 Signaling Adaptor Protein (+metabolism)
+-Oligonucleotide Array Sequence Analysis
+-RNA, Small Interfering (-genetics)
+-Receptor-Interacting Protein Serine-Threonine Kinase 2 (+metabolism)
+-Repressor Proteins (+metabolism)
+-Signal Transduction (+physiology)
+-Ubiquitin-Protein Ligases (+metabolism)
+-Ubiquitination
+
+pii:S0960-9822(09)01314-1
+doi:10.1016/j.cub.2009.06.038
+pubmed:19592251
+mid:NIHMS128654
+pmc:PMC2741418
+

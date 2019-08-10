@@ -1,0 +1,28 @@
+PLoS Pathog.
+
+Connecting quorum sensing, c-di-GMP, pel polysaccharide, and biofilm formation in Pseudomonas aeruginosa through tyrosine phosphatase TpbA (PA3885).
+
+A Ueda, TK Wood
+
+With the opportunistic pathogen Pseudomonas aeruginosa, quorum sensing based on homoserine lactones was found to influence biofilm formation. Here we discern a mechanism by which quorum sensing controls biofilm formation by screening 5850 transposon mutants of P. aeruginosa PA14 for altered biofilm formation. This screen identified the PA3885 mutant, which had 147-fold more biofilm than the wild-type strain. Loss of PA3885 decreased swimming, abolished swarming, and increased attachment, although this did not affect production of rhamnolipids. The PA3885 mutant also had a wrinkly colony phenotype, formed pronounced pellicles, had substantially more aggregation, and had 28-fold more exopolysaccharide production. Expression of PA3885 in trans reduced biofilm formation and abolished aggregation. Whole transcriptome analysis showed that loss of PA3885 activated expression of the pel locus, an operon that encodes for the synthesis of extracellular matrix polysaccharide. Genetic screening identified that loss of PelABDEG and the PA1120 protein (which contains a GGDEF-motif) suppressed the phenotypes of the PA3885 mutant, suggesting that the function of the PA3885 protein is to regulate 3,5-cyclic diguanylic acid (c-di-GMP) concentrations as a phosphatase since c-di-GMP enhances biofilm formation by activating PelD, and c-di-GMP inhibits swarming. Loss of PA3885 protein increased cellular c-di-GMP concentrations; hence, PA3885 protein is a negative regulator of c-di-GMP production. Purified PA3885 protein has phosphatase activity against phosphotyrosine peptides and is translocated to the periplasm. Las-mediated quorum sensing positively regulates expression of the PA3885 gene. These results show that the PA3885 protein responds to AHL signals and likely dephosphorylates PA1120, which leads to reduced c-di-GMP production. This inhibits matrix exopolysaccharide formation, which leads to reduced biofilm formation; hence, we provide a mechanism for quorum sensing control of biofilm formation through the pel locus and suggest PA3885 should be named TpbA for tyrosine phosphatase related to biofilm formation and PA1120 should be TpbB.
+
+-Adhesins, Bacterial (-metabolism)
+-Bacterial Proteins (-metabolism)
+-Biofilms (+growth & development)
+-Cyclic GMP (+analogs & derivatives; -metabolism)
+-Gene Expression Regulation, Bacterial
+-Glycolipids (-biosynthesis; -metabolism)
+-Mutation
+-Periplasm (-chemistry)
+-Phenotype
+-Polysaccharides, Bacterial (-metabolism)
+-Protein Tyrosine Phosphatases (-genetics; +metabolism)
+-Pseudomonas aeruginosa (-enzymology; -genetics; -growth & development; +physiology)
+-Quorum Sensing (+physiology)
+-Second Messenger Systems
+-Tyrosine (-metabolism)
+
+doi:10.1371/journal.ppat.1000483
+pubmed:19543378
+pmc:PMC2691606
+

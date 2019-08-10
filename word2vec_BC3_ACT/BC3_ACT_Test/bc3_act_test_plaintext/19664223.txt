@@ -1,0 +1,27 @@
+BMC Genomics
+
+The adult boar testicular and epididymal transcriptomes.
+
+B Guyonnet, G Marot, JL Dacheux, MJ Mercat, S Schwob, F Jaffrézic, JL Gatti
+
+BACKGROUND: Mammalians gamete production takes place in the testis but when they exit this organ, although spermatozoa have acquired a specialized and distinct morphology, they are immotile and infertile. It is only after their travel in the epididymis that sperm gain their motility and fertility. Epididymis is a crescent shaped organ adjacent to the testis that can be divided in three gross morphological regions, head (caput), body (corpus) and tail (cauda). It contains a long and unique convoluted tubule connected to the testis via the efferent ducts and finished by joining the vas deferens in its caudal part. RESULTS: In this study, the testis, the efferent ducts (vas efferens, VE), nine distinct successive epididymal segments and the deferent duct (vas deferens, VD) of four adult boars of known fertility were isolated and their mRNA extracted. The gene expression of each of these samples was analyzed using a pig generic 9 K nylon microarray (AGENAE program; GEO accession number: GPL3729) spotted with 8931 clones derived from normalized cDNA banks from different pig tissues including testis and epididymis. Differentially expressed transcripts were obtained with moderated t-tests and F-tests and two data clustering algorithms based either on partitioning around medoid (top down PAM) or hierarchical clustering (bottom up HCL) were combined for class discovery and gene expression analysis. Tissue clustering defined seven transcriptomic units: testis, vas efferens and five epididymal transcriptomic units. Meanwhile transcripts formed only four clusters related to the tissues. We have then used a specific statistical method to sort out genes specifically over-expressed (markers) in testis, VE or in each of the five transcriptomic units of the epididymis (including VD). The specific regional expression of some of these genes was further validated by PCR and Q-PCR. We also searched for specific pathways and functions using available gene ontology information. CONCLUSION: This study described for the first time the complete transcriptomes of the testis, the epididymis, the vas efferens and the vas deferens on the same species. It described new genes or genes not yet reported over-expressed in these boar tissues, as well as new control mechanisms. It emphasizes and fulfilled the gap between studies done in rodents and human, and provides tools that will be useful for further studies on the biochemical processes responsible for the formation and maintain of the epididymal regionalization and the development of a fertile spermatozoa.
+
+-Animals
+-Cluster Analysis
+-Epididymis (+metabolism)
++Gene Expression Profiling
+-Gene Library
+-Humans
+-Male
+-Mice
+-Oligonucleotide Array Sequence Analysis
+-RNA, Messenger (-metabolism)
+-Rats
+-Swine (+genetics)
+-Testis (+metabolism)
+
+pii:1471-2164-10-369
+doi:10.1186/1471-2164-10-369
+pubmed:19664223
+pmc:PMC2738690
+

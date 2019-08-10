@@ -1,0 +1,32 @@
+Mol. Cell. Biol.
+
+Interaction of SOS2 with nucleoside diphosphate kinase 2 and catalases reveals a point of connection between salt stress and H2O2 signaling in Arabidopsis thaliana.
+
+PE Verslues, G Batelli, S Grillo, F Agius, YS Kim, J Zhu, M Agarwal, S Katiyar-Agarwal, JK Zhu
+
+SOS2, a class 3 sucrose-nonfermenting 1-related kinase, has emerged as an important mediator of salt stress response and stress signaling through its interactions with proteins involved in membrane transport and in regulation of stress responses. We have identified additional SOS2-interacting proteins that suggest a connection between SOS2 and reactive oxygen signaling. SOS2 was found to interact with the H2O2 signaling protein nucleoside diphosphate kinase 2 (NDPK2) and to inhibit its autophosphorylation activity. A sos2-2 ndpk2 double mutant was more salt sensitive than a sos2-2 single mutant, suggesting that NDPK2 and H2O2 are involved in salt resistance. However, the double mutant did not hyperaccumulate H2O2 in response to salt stress, suggesting that it is altered signaling rather than H2O2 toxicity alone that is responsible for the increased salt sensitivity of the sos2-2 ndpk2 double mutant. SOS2 was also found to interact with catalase 2 (CAT2) and CAT3, further connecting SOS2 to H2O2 metabolism and signaling. The interaction of SOS2 with both NDPK2 and CATs reveals a point of cross talk between salt stress response and other signaling factors including H2O2.
+
+-Amino Acid Sequence
+-Arabidopsis (+physiology)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Catalase (-genetics; +metabolism)
++Dehydration
+-Hydrogen Peroxide (+metabolism)
+-Isoenzymes (-genetics; -metabolism)
+-Molecular Sequence Data
+-Nucleoside-Diphosphate Kinase (-genetics; +metabolism)
+-Oxidants (-metabolism)
+-Phenotype
+-Protein Structure, Tertiary
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-Salts (+metabolism)
+-Seedling (-physiology)
+-Sequence Alignment
+-Signal Transduction (+physiology)
+-Two-Hybrid System Techniques
+
+pii:MCB.00429-07
+doi:10.1128/MCB.00429-07
+pubmed:17785451
+pmc:PMC2169147
+

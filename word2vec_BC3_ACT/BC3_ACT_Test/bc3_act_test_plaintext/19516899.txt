@@ -1,0 +1,27 @@
+PLoS ONE
+
+Numerical analysis of etoposide induced DNA breaks.
+
+A Muslimović, S Nyström, Y Gao, O Hammarsten
+
+BACKGROUND: Etoposide is a cancer drug that induces strand breaks in cellular DNA by inhibiting topoisomerase II (topoII) religation of cleaved DNA molecules. Although DNA cleavage by topoisomerase II always produces topoisomerase II-linked DNA double-strand breaks (DSBs), the action of etoposide also results in single-strand breaks (SSBs), since religation of the two strands are independently inhibited by etoposide. In addition, recent studies indicate that topoisomerase II-linked DSBs remain undetected unless topoisomerase II is removed to produce free DSBs. METHODOLOGY/PRINCIPAL FINDINGS: To examine etoposide-induced DNA damage in more detail we compared the relative amount of SSBs and DSBs, survival and H2AX phosphorylation in cells treated with etoposide or calicheamicin, a drug that produces free DSBs and SSBs. With this combination of methods we found that only 3% of the DNA strand breaks induced by etoposide were DSBs. By comparing the level of DSBs, H2AX phosphorylation and toxicity induced by etoposide and calicheamicin, we found that only 10% of etoposide-induced DSBs resulted in histone H2AX phosphorylation and toxicity. There was a close match between toxicity and histone H2AX phosphorylation for calicheamicin and etoposide suggesting that the few etoposide-induced DSBs that activated H2AX phosphorylation were responsible for toxicity. CONCLUSIONS/SIGNIFICANCE: These results show that only 0.3% of all strand breaks produced by etoposide activate H2AX phosphorylation and suggests that over 99% of the etoposide induced DNA damage does not contribute to its toxicity.
+
+-Antineoplastic Agents, Phytogenic (-pharmacology)
+-Cell Line, Tumor
+-Cell Separation
+-Cell Survival
+-DNA Breaks, Double-Stranded (+drug effects)
+-DNA Damage (+drug effects)
+-Dose-Response Relationship, Drug
+-Etoposide (+pharmacology)
+-Flow Cytometry
+-Histones (-metabolism)
+-Humans
+-Models, Theoretical
+-Phosphorylation
+-Time Factors
+
+doi:10.1371/journal.pone.0005859
+pubmed:19516899
+pmc:PMC2689654
+

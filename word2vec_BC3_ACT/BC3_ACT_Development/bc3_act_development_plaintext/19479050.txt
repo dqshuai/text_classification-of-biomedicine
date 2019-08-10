@@ -1,0 +1,23 @@
+PLoS ONE
+
+Errors in 'BED'-derived estimates of HIV incidence will vary by place, time and age.
+
+TB Hallett, P Ghys, T Bärnighausen, P Yan, GP Garnett
+
+BACKGROUND: The BED Capture Enzyme Immunoassay, believed to distinguish recent HIV infections, is being used to estimate HIV incidence, although an important property of the test--how specificity changes with time since infection--has not been not measured. METHODS: We construct hypothetical scenarios for the performance of BED test, consistent with current knowledge, and explore how this could influence errors in BED estimates of incidence using a mathematical model of six African countries. The model is also used to determine the conditions and the sample sizes required for the BED test to reliably detect trends in HIV incidence. RESULTS: If the chance of misclassification by BED increases with time since infection, the overall proportion of individuals misclassified could vary widely between countries, over time, and across age-groups, in a manner determined by the historic course of the epidemic and the age-pattern of incidence. Under some circumstances, changes in BED estimates over time can approximately track actual changes in incidence, but large sample sizes (50,000+) will be required for recorded changes to be statistically significant. CONCLUSIONS: The relationship between BED test specificity and time since infection has not been fully measured, but, if it decreases, errors in estimates of incidence could vary by place, time and age-group. This means that post-assay adjustment procedures using parameters from different populations or at different times may not be valid. Further research is urgently needed into the properties of the BED test, and the rate of misclassification in a wide range of populations.
+
+-Adolescent
+-Adult
+-Africa (-epidemiology)
+-Aging (+pathology)
+-HIV Infections (+epidemiology)
+-Humans
+-Immunoassay (+methods)
+-Middle Aged
++Research Design
+-Time Factors
+
+doi:10.1371/journal.pone.0005720
+pubmed:19479050
+pmc:PMC2684620
+

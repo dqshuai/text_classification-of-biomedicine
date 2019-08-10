@@ -1,0 +1,21 @@
+J. Bacteriol.
+
+Involvement of NADH:acceptor oxidoreductase and butyryl coenzyme A dehydrogenase in reversed electron transport during syntrophic butyrate oxidation by Syntrophomonas wolfei.
+
+N Müller, D Schleheck, B Schink
+
+Methanogenic oxidation of butyrate to acetate requires a tight cooperation between the syntrophically fermenting Syntrophomonas wolfei and the methanogen Methanospirillum hungatei, and a reversed electron transport system in S. wolfei was postulated to shift electrons from butyryl coenzyme A (butyryl-CoA) oxidation to the redox potential of NADH for H(2) generation. The metabolic activity of butyrate-oxidizing S. wolfei cells was measured via production of formazan and acetate from butyrate, with 2,3,5-triphenyltetrazolium chloride as electron acceptor. This activity was inhibited by trifluoperazine (TPZ), an antitubercular agent known to inhibit NADH:menaquinone oxidoreductase. In cell extracts of S. wolfei, the oxidation of NADH could be measured with quinones, viologens, and tetrazolium dyes as electron acceptors, and also this activity was inhibited by TPZ. The TPZ-sensitive NADH:acceptor oxidoreductase activity appeared to be membrane associated but could be dissociated from the membrane as a soluble protein and was semipurified by anion-exchange chromatography. Recovered proteins were identified by peptide mass fingerprinting, which indicated the presence of an NADH:acceptor oxidoreductase as part of a three-component [FeFe] hydrogenase complex and a selenocysteine-containing formate dehydrogenase. Furthermore, purification of butyryl-CoA dehydrogenase (Bcd) activity and peptide mass fingerprinting revealed two Bcd proteins different from the Bcd subunit of the Bcd/electron-transfer flavoprotein complex (Bcd/EtfAB) predicted from the genome sequence of S. wolfei. The results suggest that syntrophic oxidation of butyrate in S. wolfei involves a membrane-associated TPZ-sensitive NADH:acceptor oxidoreductase as part of a hydrogenase complex similar to the recently discovered "bifurcating" hydrogenase in Thermotoga maritima and butyryl-CoA dehydrogenases that are different from Bcd of the Bcd/EtfAB complex.
+
+-Bacteria, Anaerobic (-drug effects; +enzymology; +metabolism)
+-Bacterial Proteins (-antagonists & inhibitors; -metabolism)
+-Butyryl-CoA Dehydrogenase (-antagonists & inhibitors; +metabolism)
+-Electron Transport (+drug effects)
+-Enzyme Activation (-drug effects)
+-NADH, NADPH Oxidoreductases (-antagonists & inhibitors; +metabolism)
+-Trifluoperazine (-pharmacology)
+
+pii:JB.01605-08
+doi:10.1128/JB.01605-08
+pubmed:19648244
+pmc:PMC2747885
+

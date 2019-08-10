@@ -1,0 +1,26 @@
+J. Proteome Res.
+
+Evaluation of affinity-tagged protein expression strategies using local and global isotope ratio measurements.
+
+WJ Hervey, G Khalsa-Moyers, PK Lankford, ET Owens, CK McKeown, TY Lu, LJ Foote, KG Asano, JL Morrell-Falvey, WH McDonald, DA Pelletier, GB Hurst
+
+Elucidation of protein-protein interactions can provide new knowledge on protein function. Enrichments of affinity-tagged (or "bait") proteins with interaction partners generally include background, nonspecific protein artifacts. Furthermore, in vivo bait expression may introduce additional artifacts arising from altered physiology or metabolism. In this study, we compared these effects for chromosome and plasmid encoding strategies for bait proteins in two microbes: Escherichia coli and Rhodopseudomonas palustris. Differential metabolic labeling of strains expressing bait protein relative to the wild-type strain in each species allowed comparison by liquid chromatography tandem mass spectrometry (LC-MS-MS). At the local level of the protein complex, authentic interacting proteins of RNA polymerase (RNAP) were successfully discerned from artifactual proteins by the isotopic differentiation of interactions as random or targeted (I-DIRT, Tackett, A. J.; et al. J. Proteome Res. 2005, 4, 1752-1756). To investigate global effects of bait protein production, we compared proteomes from strains harboring a plasmid encoding an affinity-tagged subunit (RpoA) of RNAP with the corresponding wild-type strains. The RpoA abundance ratios of 0.8 for R. palustris and 1.7 for E. coli in plasmid strains versus wild-type indicated only slightly altered expression. While most other proteins also showed no appreciable difference in abundance, several that did show altered levels were involved in amino acid metabolism. Measurements at both local and global levels proved useful for evaluating in vitro and in vivo artifacts of plasmid-encoding strategies for bait protein expression.
+
+-Chromatography, Liquid (-methods)
+-Chromosomes
+-DNA-Directed RNA Polymerases (-chemistry)
+-Escherichia coli (-metabolism)
+-Ions
+-Isotopes (+chemistry)
+-Mass Spectrometry (-methods)
+-Metabolomics (+methods)
+-Peptides (-chemistry)
+-Plasmids (-metabolism)
+-Proteins (-chemistry)
+-Proteome
+-Proteomics (+methods)
+-Rhodopseudomonas (-metabolism)
+
+doi:10.1021/pr801088f
+pubmed:19459691
+

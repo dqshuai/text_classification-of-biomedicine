@@ -1,0 +1,30 @@
+Cell
+
+Structural basis for signal-sequence recognition by the translocase motor SecA as determined by NMR.
+
+I Gelis, AM Bonvin, D Keramisanou, M Koukaki, G Gouridis, S Karamanou, A Economou, CG Kalodimos
+
+Recognition of signal sequences by cognate receptors controls the entry of virtually all proteins to export pathways. Despite its importance, this process remains poorly understood. Here, we present the solution structure of a signal peptide bound to SecA, the 204 kDa ATPase motor of the Sec translocase. Upon encounter, the signal peptide forms an alpha-helix that inserts into a flexible and elongated groove in SecA. The mode of binding is bimodal, with both hydrophobic and electrostatic interactions mediating recognition. The same groove is used by SecA to recognize a diverse set of signal sequences. Impairment of the signal-peptide binding to SecA results in significant translocation defects. The C-terminal tail of SecA occludes the groove and inhibits signal-peptide binding, but autoinhibition is relieved by the SecB chaperone. Finally, it is shown that SecA interconverts between two conformations in solution, suggesting a simple mechanism for polypeptide translocation.
+
+-Adenosine Triphosphatases (+chemistry; -genetics; +metabolism)
+-Amino Acid Sequence
+-Bacterial Proteins (+chemistry; -genetics; +metabolism)
+-Membrane Transport Proteins (+chemistry; -genetics; +metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Nuclear Magnetic Resonance, Biomolecular
+-Nucleic Acid Conformation
+-Peptides (-chemistry; -metabolism)
+-Protein Binding
++Protein Sorting Signals
++Protein Structure, Secondary
++Protein Structure, Tertiary
+-Sequence Alignment
+-Static Electricity
+
+pii:S0092-8674(07)01269-X
+doi:10.1016/j.cell.2007.09.039
+pubmed:18022369
+mid:NIHMS35016
+pmc:PMC2170882
+

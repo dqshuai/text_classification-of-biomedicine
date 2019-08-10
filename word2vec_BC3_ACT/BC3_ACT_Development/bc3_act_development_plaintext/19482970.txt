@@ -1,0 +1,32 @@
+Plant Cell
+
+Chromatin and DNA modifications in the Opaque2-mediated regulation of gene transcription during maize endosperm development.
+
+S Locatelli, P Piatti, M Motto, V Rossi
+
+The maize (Zea mays) Opaque2 (O2) gene encodes an endosperm-specific bZIP-type transcription activator. In this study, we analyzed O2 targets for chromatin and DNA modifications and transcription factors binding during endosperm development and in leaves. In leaves, O2 targets exhibit high cytosine methylation levels and transcriptionally silent chromatin, enriched with histones H3 dimethylated at Lys-9 (H3K9me2) and Lys-27 (H3K27me2). Transcriptional activation in the endosperm occurs through a two-step process, with an early potentiated state and a later activated state. The potentiated state has cytosine demethylation at symmetric sites, substitution of H3K9me2 and H3K27me2 with histones H3 acetylated at Lys-14 (H3K14ac) and dimethylated at Lys-4 (H3K4me2), and increased DNaseI sensitivity. During the activated state, the mRNA of O2 targets accumulates in correspondence to RNPII, O2, and Ada2/Gcn5 coactivator binding. The active state also exhibits further increases of H3K14ac/H3K4me2 and DNaseI accessibility levels and deposition of histone H3 acetylated at Lys-9 and trimethylated at Lys-4. Analysis of o2 mutants revealed that O2 targets differ in their dependence on O2 activity for coactivator recruitment and for formation of specific chromatin modification profiles. These results indicate gene-specific involvement of mechanisms that modify chromatin states in the O2-mediated regulation of transcription.
+
+-Acetylation
+-Binding Sites
++Chromatin Assembly and Disassembly
+-Cytosine (-metabolism)
+-DNA Methylation
+-DNA, Plant (+metabolism)
+-DNA-Binding Proteins (+physiology)
+-Deoxyribonuclease I (-metabolism)
++Gene Expression Regulation, Plant
+-Histones (-metabolism)
+-Nucleosomes (-metabolism)
+-Plant Proteins (-metabolism; +physiology)
+-Promoter Regions, Genetic
+-RNA Polymerase II (-metabolism)
+-RNA, Messenger (-metabolism)
+-Seeds (-genetics; +growth & development)
+-Transcription Factors (+physiology)
+-Zea mays (-embryology; +genetics; -growth & development)
+
+pii:tpc.109.067256
+doi:10.1105/tpc.109.067256
+pubmed:19482970
+pmc:PMC2700540
+

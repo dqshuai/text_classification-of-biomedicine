@@ -1,0 +1,23 @@
+PLoS Genet.
+
+Evolutionary processes acting on candidate cis-regulatory regions in humans inferred from patterns of polymorphism and divergence.
+
+DG Torgerson, AR Boyko, RD Hernandez, A Indap, X Hu, TJ White, JJ Sninsky, M Cargill, MD Adams, CD Bustamante, AG Clark
+
+Analysis of polymorphism and divergence in the non-coding portion of the human genome yields crucial information about factors driving the evolution of gene regulation. Candidate cis-regulatory regions spanning more than 15,000 genes in 15 African Americans and 20 European Americans were re-sequenced and aligned to the chimpanzee genome in order to identify potentially functional polymorphism and to characterize and quantify departures from neutral evolution. Distortions of the site frequency spectra suggest a general pattern of selective constraint on conserved non-coding sites in the flanking regions of genes (CNCs). Moreover, there is an excess of fixed differences that cannot be explained by a Gamma model of deleterious fitness effects, suggesting the presence of positive selection on CNCs. Extensions of the McDonald-Kreitman test identified candidate cis-regulatory regions with high probabilities of positive and negative selection near many known human genes, the biological characteristics of which exhibit genome-wide trends that differ from patterns observed in protein-coding regions. Notably, there is a higher probability of positive selection in candidate cis-regulatory regions near genes expressed in the fetal brain, suggesting that a larger portion of adaptive regulatory changes has occurred in genes expressed during brain development. Overall we find that natural selection has played an important role in the evolution of candidate cis-regulatory regions throughout hominid evolution.
+
+-Animals
+-Disease (-genetics)
+-Ethnic Groups (-genetics)
++Evolution, Molecular
+-Gene Expression
++Genome, Human
+-Humans
+-Pan troglodytes (-genetics)
++Polymorphism, Genetic
++Regulatory Sequences, Nucleic Acid
+
+doi:10.1371/journal.pgen.1000592
+pubmed:19662163
+pmc:PMC2714078
+

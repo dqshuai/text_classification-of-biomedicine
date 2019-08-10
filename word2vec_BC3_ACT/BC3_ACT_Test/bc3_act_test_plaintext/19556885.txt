@@ -1,0 +1,27 @@
+Cell Cycle
+
+Analysis of DRAM-related proteins reveals evolutionarily conserved and divergent roles in the control of autophagy.
+
+J O'Prey, J Skommer, S Wilkinson, KM Ryan
+
+Autophagy is a membrane-trafficking process that serves to deliver cytoplasmic proteins and organelles to the lysosome for degradation. The process is genetically defined and many of the factors involved are conserved from yeast to man. Recently, a number of new autophagy regulators have been defined, including the Damage-Regulated Autophagy Modulator (DRAM), which is a lysosomal protein that links autophagy and the tumor suppressor, p53. We describe here analysis of DRAM-related proteins which reveals evolutionary conservation and divergence of DRAM's role in autophagy. We report that humans have 5 other proteins that show significant homology to DRAM. The closest of these, which we have termed DRAM2, displays 45% identity and 67% conservation when compared to DRAM. Interestingly, although similar to DRAM in terms of homology, DRAM2 is different from DRAM as it not induced by p53 or p73. DRAM2 is also a lysosomal protein, but again unlike DRAM its overexpression does not modulate autophagy. In contrast to humans, the Drosophila genome only encodes one DRAM-like protein, which is approximately equal in similarity to human DRAM and DRAM2. This questions, therefore, whether DRAM function is conserved from fly to man or whether DRAM's capacity to regulate autophagy has evolved in higher eukaryotes. Expression of DmDRAM, however, clearly revealed an ability to modulate autophagy. This points, therefore, to a conserved role of DRAM in this process and that additional human proteins have more recently evolved which, while potentially sharing some similarities with DRAM, may not be as intrinsically connected to autophagy regulation.
+
+-Amino Acid Sequence
+-Animals
++Autophagy
+-Cell Line, Tumor
+-DNA-Binding Proteins (-metabolism)
+-Drosophila
+-Evolution, Molecular
+-Humans
+-Membrane Proteins
+-Molecular Sequence Data
+-Nuclear Proteins (-metabolism)
+-Proteins (+metabolism)
+-Sequence Homology, Amino Acid
+-Tumor Suppressor Protein p53 (-metabolism)
+-Tumor Suppressor Proteins (-metabolism)
+
+pii:9050
+pubmed:19556885
+

@@ -1,0 +1,26 @@
+PLoS Pathog.
+
+Expression and processing of a small nucleolar RNA from the Epstein-Barr virus genome.
+
+R Hutzinger, R Feederle, J Mrazek, N Schiefermeier, PJ Balwierz, M Zavolan, N Polacek, HJ Delecluse, A Hüttenhofer
+
+Small nucleolar RNAs (snoRNAs) are localized within the nucleolus, a sub-nuclear compartment, in which they guide ribosomal or spliceosomal RNA modifications, respectively. Up until now, snoRNAs have only been identified in eukaryal and archaeal genomes, but are notably absent in bacteria. By screening B lymphocytes for expression of non-coding RNAs (ncRNAs) induced by the Epstein-Barr virus (EBV), we here report, for the first time, the identification of a snoRNA gene within a viral genome, designated as v-snoRNA1. This genetic element displays all hallmark sequence motifs of a canonical C/D box snoRNA, namely C/C'- as well as D/D'-boxes. The nucleolar localization of v-snoRNA1 was verified by in situ hybridisation of EBV-infected cells. We also confirmed binding of the three canonical snoRNA proteins, fibrillarin, Nop56 and Nop58, to v-snoRNA1. The C-box motif of v-snoRNA1 was shown to be crucial for the stability of the viral snoRNA; its selective deletion in the viral genome led to a complete down-regulation of v-snoRNA1 expression levels within EBV-infected B cells. We further provide evidence that v-snoRNA1 might serve as a miRNA-like precursor, which is processed into 24 nt sized RNA species, designated as v-snoRNA1(24pp). A potential target site of v-snoRNA1(24pp) was identified within the 3'-UTR of BALF5 mRNA which encodes the viral DNA polymerase. V-snoRNA1 was found to be expressed in all investigated EBV-positive cell lines, including lymphoblastoid cell lines (LCL). Interestingly, induction of the lytic cycle markedly up-regulated expression levels of v-snoRNA1 up to 30-fold. By a computational approach, we identified a v-snoRNA1 homolog in the rhesus lymphocryptovirus genome. This evolutionary conservation suggests an important role of v-snoRNA1 during gamma-herpesvirus infection.
+
+-Animals
+-B-Lymphocytes (-virology)
+-Base Sequence
+-Cell Line, Tumor
++Gene Expression Regulation, Viral
++Genome, Viral
+-Herpesvirus 4, Human (+genetics)
+-Humans
+-In Situ Hybridization, Fluorescence
+-Macaca mulatta
+-Molecular Sequence Data
+-RNA, Small Nucleolar (+genetics)
+-RNA, Viral (-genetics)
+
+doi:10.1371/journal.ppat.1000547
+pubmed:19680535
+pmc:PMC2718842
+

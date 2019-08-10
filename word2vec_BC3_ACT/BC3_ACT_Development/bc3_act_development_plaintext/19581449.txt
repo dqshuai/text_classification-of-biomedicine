@@ -1,0 +1,32 @@
+Genetics
+
+KlAft, the Kluyveromyces lactis ortholog of Aft1 and Aft2, mediates activation of iron-responsive transcription through the PuCACCC Aft-type sequence.
+
+N Conde e Silva, IR Gonçalves, M Lemaire, E Lesuisse, JM Camadro, PL Blaiseau
+
+Iron homeostasis in fungi is regulated at the transcriptional level by two different mechanisms. It is mediated by a conserved GATA-type repressor in most fungi except in the yeast Saccharomyces cerevisiae, where it is controlled by the transcription activators Aft1 and Aft2. These activators are encoded by the paralogous genes AFT1 and AFT2, which result from the whole-genome duplication. Here, we explore regulation of iron homeostasis in the yeast Kluyveromyces lactis that diverged from S. cerevisiae before this event. We identify an ortholog of AFT1/AFT2, designated KlAFT, whose deletion leads to the inability to grow under iron limitation. We show with quantitative real-time PCR analysis that KlAft activates the transcription of all homologs of the Aft1-target genes involved in the iron transport at the cell surface in response to iron limitation. However, homologs of Aft2-specific target genes encoding intracellular iron transporters are regulated neither by KlAft nor by iron. Both bioinformatic and DNA binding and transcription analyses demonstrate that KlAft activates iron-responsive gene expression through the PuCACCC Aft-type sequence. Thus, K. lactis is the first documented species with a positive iron-transcriptional control mediated by only one copy of the Aft-type regulator. This indicates that this function was acquired before the whole-genome duplication and was then diversified into two regulators in S. cerevisiae.
+
+-14-3-3 Proteins (-metabolism; +physiology)
+-Amino Acid Sequence
+-Cell Proliferation (-drug effects)
+-Computational Biology
+-Fungal Proteins (-metabolism; -physiology)
+-Gene Deletion
+-Gene Expression Regulation, Fungal (-drug effects)
+-Iron (-metabolism; -pharmacology)
+-Iron-Regulatory Proteins (+genetics)
+-Kluyveromyces (-drug effects; +genetics; -growth & development; -metabolism)
+-Molecular Sequence Data
+-Response Elements (+physiology)
+-Saccharomyces cerevisiae Proteins (-genetics)
+-Sequence Homology
+-Trans-Activators (-genetics; -metabolism; -physiology)
+-Transcription Factors (-genetics)
+-Transcription, Genetic (-drug effects)
++Transcriptional Activation (-drug effects)
+
+pii:genetics.109.104364
+doi:10.1534/genetics.109.104364
+pubmed:19581449
+pmc:PMC2746170
+

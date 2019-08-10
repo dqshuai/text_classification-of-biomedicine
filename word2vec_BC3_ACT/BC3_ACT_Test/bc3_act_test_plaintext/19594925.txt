@@ -1,0 +1,26 @@
+Genome Biol.
+
+Dosage compensation on the active X chromosome minimizes transcriptional noise of X-linked genes in mammals.
+
+S Yin, P Wang, W Deng, H Zheng, L Hu, LD Hurst, X Kong
+
+BACKGROUND: Theory predicts that haploid-expressed genes should have noisier expression than comparable diploid-expressed ones with the same expression level. However, in mammals there are several classes of gene that are monoallelically expressed, including X-linked genes, imprinted genes and some other autosomal genes. Does it follow that the evolution of X chromosomes in eukaryotes comes at the cost of increased transcriptional noise in the heterogametic sex? Moreover, is escaping X-inactivation in mammalian females associated with an increase in transcriptional variation? To address these questions, we analyze gene expression variation between replicate samples of diverse mammalian cell lines in steady-state using microarray data. RESULTS: We observe that transcriptional variation of X-linked genes is no different to that of autosomal genes both before and after control for transcript abundance. By contrast, autosomal genes subject to allelic exclusion do have unusually high noise levels even allowing for their low transcript abundance. The prior theory we suggest was insufficient, at least as regards X-chromosomes, as it failed to appreciate the regulatory complexity of gene expression, not least the effects of genomic neighborhood. CONCLUSIONS: These results suggest that high noise is not a necessary consequence of haploid expression and emphasize the primacy of expression level as a determinant of noise. The latter has consequences for understanding the etiology of haplo-insufficiency and the evolution of gene expression levels. Given the coupling between expression level and noise on the X-chromosome, we suggest that part of the selective advantage of dosage compensation is noise abatement of X-linked genes.
+
+-Algorithms
+-Animals
+-Cell Line
+-Databases, Nucleic Acid
++Dosage Compensation, Genetic
+-Gene Expression Profiling (+statistics & numerical data)
+-Genes, X-Linked (+genetics)
+-Humans
+-Mammals (+genetics)
+-Oligonucleotide Array Sequence Analysis (-statistics & numerical data)
+-Transcription, Genetic
+-X Chromosome Inactivation
+
+pii:gb-2009-10-7-r74
+doi:10.1186/gb-2009-10-7-r74
+pubmed:19594925
+pmc:PMC2728528
+

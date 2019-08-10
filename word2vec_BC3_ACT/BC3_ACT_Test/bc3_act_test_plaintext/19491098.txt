@@ -1,0 +1,35 @@
+J. Biol. Chem.
+
+Aquifex aeolicus tRNA (N2,N2-guanine)-dimethyltransferase (Trm1) catalyzes transfer of methyl groups not only to guanine 26 but also to guanine 27 in tRNA.
+
+T Awai, S Kimura, C Tomikawa, A Ochi, Ihsanawati, Y Bessho, S Yokoyama, S Ohno, K Nishikawa, T Yokogawa, T Suzuki, H Hori
+
+Transfer RNA (N2,N2-guanine)-dimethyltransferase (Trm1) catalyzes N2,N2-dimethylguanine formation at position 26 (m(2)(2)G26) in tRNA. In the reaction, N2-guanine at position 26 (m(2)G26) is generated as an intermediate. The trm1 genes are found only in archaea and eukaryotes, although it has been reported that Aquifex aeolicus, a hyper-thermophilic eubacterium, has a putative trm1 gene. To confirm whether A. aeolicus Trm1 has tRNA methyltransferase activity, we purified recombinant Trm1 protein. In vitro methyl transfer assay revealed that the protein has a strong tRNA methyltransferase activity. We confirmed that this gene product is expressed in living A. aeolicus cells and that the enzymatic activity exists in cell extract. By preparing 22 tRNA transcripts and testing their methyl group acceptance activities, it was demonstrated that this Trm1 protein has a novel tRNA specificity. Mass spectrometry analysis revealed that it catalyzes methyl transfers not only to G26 but also to G27 in substrate tRNA. Furthermore, it was confirmed that native tRNA(Cys) has an m(2)(2)G26m(2)G27 or m(2)(2)G26m(2)(2)G27 sequence, demonstrating that these modifications occur in living cells. Kinetic studies reveal that the m2G26 formation is faster than the m(2)G27 formation and that disruption of the G27-C43 base pair accelerates velocity of the G27 modification. Moreover, we prepared an additional 22 mutant tRNA transcripts and clarified that the recognition sites exist in the T-arm structure. This long distance recognition results in multisite recognition by the enzyme.
+
+-Amino Acid Sequence
+-Bacteria (-cytology; +enzymology; -genetics)
+-Bacterial Proteins (-chemistry; -genetics; -isolation & purification; +metabolism)
+-Base Sequence
++Biocatalysis
+-Gene Expression Regulation, Bacterial
+-Genes, Bacterial
+-Guanine (+metabolism)
+-Kinetics
+-Mass Spectrometry
+-Methylation
+-Microbial Viability
+-Models, Biological
+-Molecular Sequence Data
+-Mutant Proteins (-metabolism)
+-Nucleic Acid Conformation
+-RNA, Messenger (-genetics; -metabolism)
+-RNA, Transfer (-chemistry; -genetics; -isolation & purification; +metabolism)
+-Recombinant Proteins (-isolation & purification; -metabolism)
+-S-Adenosylmethionine (-metabolism)
+-tRNA Methyltransferases (-chemistry; -genetics; -isolation & purification; +metabolism)
+
+pii:M109.020024
+doi:10.1074/jbc.M109.020024
+pubmed:19491098
+pmc:PMC2742811
+

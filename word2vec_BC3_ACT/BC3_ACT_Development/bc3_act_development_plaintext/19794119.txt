@@ -1,0 +1,32 @@
+Plant Cell
+
+The ABC transporter PXA1 and peroxisomal beta-oxidation are vital for metabolism in mature leaves of Arabidopsis during extended darkness.
+
+HH Kunz, M Scharnewski, K Feussner, I Feussner, UI Flügge, M Fulda, M Gierth
+
+Fatty acid beta-oxidation is essential for seedling establishment of oilseed plants, but little is known about its role in leaf metabolism of adult plants. Arabidopsis thaliana plants with loss-of-function mutations in the peroxisomal ABC-transporter1 (PXA1) or the core beta-oxidation enzyme keto-acyl-thiolase 2 (KAT2) have impaired peroxisomal beta-oxidation. pxa1 and kat2 plants developed severe leaf necrosis, bleached rapidly when returned to light, and died after extended dark treatment, whereas the wild type was unaffected. Dark-treated pxa1 plants showed a decrease in photosystem II efficiency early on and accumulation of free fatty acids, mostly alpha-linolenic acid [18:3(n-3)] and pheophorbide a, a phototoxic chlorophyll catabolite causing the rapid bleaching. Isolated wild-type and pxa1 chloroplasts challenged with comparable alpha-linolenic acid concentrations both showed an 80% reduction in photosynthetic electron transport, whereas intact pxa1 plants were more susceptible to the toxic effects of alpha-linolenic acid than the wild type. Furthermore, starch-free mutants with impaired PXA1 function showed the phenotype more quickly, indicating a link between energy metabolism and beta-oxidation. We conclude that the accumulation of free polyunsaturated fatty acids causes membrane damage in pxa1 and kat2 plants and propose a model in which fatty acid respiration via peroxisomal beta-oxidation plays a major role in dark-treated plants after depletion of starch reserves.
+
+-ATP-Binding Cassette Transporters (-genetics; +metabolism)
+-Adenosine Triphosphate (-metabolism)
+-Arabidopsis (+genetics; -metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Chlorophyll (-analogs & derivatives; -metabolism)
+-Cloning, Molecular
+-DNA, Bacterial (-genetics)
+-Darkness
+-Mutagenesis, Insertional
+-Mutation
+-Oxidation-Reduction
+-Peroxisomes (-genetics; +metabolism)
+-Photosynthesis
+-Photosystem II Protein Complex (-metabolism)
+-Plant Leaves (-genetics; +metabolism)
+-Potassium Channels, Voltage-Gated (-genetics; -metabolism)
+-Starch (-metabolism)
+-alpha-Linolenic Acid (-metabolism)
+
+pii:tpc.108.064857
+doi:10.1105/tpc.108.064857
+pubmed:19794119
+pmc:PMC2768912
+

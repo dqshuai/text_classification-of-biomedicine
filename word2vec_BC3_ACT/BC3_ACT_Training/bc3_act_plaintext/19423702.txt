@@ -1,0 +1,28 @@
+J. Biol. Chem.
+
+Bacterial toxin HigB associates with ribosomes and mediates translation-dependent mRNA cleavage at A-rich sites.
+
+JM Hurley, NA Woychik
+
+Most pathogenic Proteus species are primarily associated with urinary tract infections, especially in persons with indwelling catheters or functional/anatomic abnormalities of the urinary tract. Urinary tract infections caused by Proteus vulgaris typically form biofilms and are resistant to commonly used antibiotics. The Rts1 conjugative plasmid from a clinical isolate of P. vulgaris carries over 300 predicted open reading frames, including antibiotic resistance genes. The maintenance of the Rts1 plasmid is ensured in part by the HigBA toxin-antitoxin system. We determined the precise mechanism of action of the HigB toxin in vivo, which is distinct from other known toxins. We demonstrate that HigB is an endoribonuclease whose enzymatic activity is dependent on association with ribosomes through the 50 S subunit. Using primer extension analysis of several test mRNAs, we showed that HigB cleaved extensively across the entire length of coding regions only at specific recognition sequences. HigB mediated cleavage of 100% of both in-frame and out-of-frame AAA sequences. In addition, HigB cleaved approximately 20% of AA sequences in coding regions and occasionally cut single As. Remarkably, the cleavage specificity of HigB coincided with one of the most frequently used codons in the AT-rich Proteus spp., AAA (lysine). Therefore, the HigB-mediated plasmid maintenance system for the Rts1 plasmid highlights the intimate relationship between host cells and extrachromosomal DNA that enables the dynamic acquisition of genes that impart a spectrum of survival advantages, including those encoding multidrug resistance and virulence factors.
+
+-Bacterial Proteins (-metabolism; +physiology)
+-Bacterial Toxins (-chemistry; -metabolism)
+-Binding Sites
+-Biofilms
+-Drug Resistance, Multiple
+-Escherichia coli Proteins (-metabolism; +physiology)
+-Lysine (-chemistry)
+-Models, Biological
+-Mutagenesis
++Protein Biosynthesis
+-Proteus vulgaris
+-RNA, Messenger (-metabolism)
+-Ribosomes (+chemistry)
+-Time Factors
+
+pii:M109.008763
+doi:10.1074/jbc.M109.008763
+pubmed:19423702
+pmc:PMC2707191
+

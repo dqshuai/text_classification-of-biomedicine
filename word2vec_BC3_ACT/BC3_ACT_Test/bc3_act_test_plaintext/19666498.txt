@@ -1,0 +1,19 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+A stochastic modeling methodology based on weighted Wiener chaos and Malliavin calculus.
+
+X Wan, B Rozovskii, GE Karniadakis
+
+In many stochastic partial differential equations (SPDEs) involving random coefficients, modeling the randomness by spatial white noise may lead to ill-posed problems. Here we consider an elliptic problem with spatial Gaussian coefficients and present a methodology that resolves this issue. It is based on stochastic convolution implemented via generalized Malliavin operators in conjunction with weighted Wiener spaces that ensure the ellipticity condition. We present theoretical and numerical results that demonstrate the fast convergence of the method in the proper norm. Our approach is general and can be extended to other SPDEs and other types of multiplicative noise.
+
++Algorithms
+-Computer Simulation
++Finite Element Analysis
++Models, Statistical
+-Stochastic Processes
+
+pii:0902348106
+doi:10.1073/pnas.0902348106
+pubmed:19666498
+pmc:PMC2732816
+

@@ -1,0 +1,32 @@
+J. Bacteriol.
+
+Biochemical evidence for ToxR and ToxJ binding to the tox operons of Burkholderia glumae and mutational analysis of ToxR.
+
+J Kim, J Oh, O Choi, Y Kang, H Kim, E Goo, J Ma, T Nagamatsu, JS Moon, I Hwang
+
+Burkholderia glumae produces toxoflavin, a phytotoxin with a broad host range, which is a key virulence factor in bacterial rice grain rot. Based on genetic analysis, we previously reported that ToxR, a LysR-type regulator, activates both the toxABCDE (toxoflavin biosynthesis genes) and toxFGHI (toxoflavin transporter genes) operons in the presence of toxoflavin as a coinducer. Quorum sensing regulates the expression of the transcriptional activator ToxJ that is required for tox gene expression. Here, we used gel mobility shift and DNase I protection analyses to demonstrate that both ToxR and ToxJ bind simultaneously to the regulatory regions of both tox operons. ToxR and ToxJ both bound to the toxA and toxF regulatory regions, and the sequences for the binding of ToxR to the regulatory regions of both tox operons possessed T-N(11)-A motifs. Following random mutagenesis of toxR, 10 ToxR mutants were isolated. We constructed a reporter strain, S6K34 (toxR'A'::Omega toxF::Tn3-gusA34) to evaluate which amino acid residues are important for ToxR activity. Several single amino acid substitutions identified residues that might be important for ToxR binding to DNA and toxoflavin binding. When various toxoflavin derivatives were tested to determine whether toxoflavin is a specific coinducer of ToxR in the S6K34 strain, ToxR, together with toxoflavin, conferred toxF expression, whereas 4,8-dihydrotoxoflavin did so only slightly. With these results, we have demonstrated biochemically that B. glumae cells control toxoflavin production tightly by the requirement of both ToxJ and toxoflavin as coinducers of ToxR.
+
+-Bacterial Proteins (-chemistry; -genetics; +metabolism)
+-Binding Sites (-genetics; -physiology)
+-Burkholderia (+genetics; +metabolism)
+-Chromatography, Gel
+-DNA Footprinting
+-DNA Mutational Analysis
+-DNA-Binding Proteins (-chemistry; -genetics; +metabolism)
+-Electrophoretic Mobility Shift Assay
+-Gene Expression Regulation, Bacterial (-genetics; -physiology)
+-Molecular Structure
+-Mutagenesis
+-Operon (+genetics)
+-Protein Binding (-genetics; -physiology)
+-Protein Multimerization (-genetics; -physiology)
+-Pyrimidinones (-chemistry; -metabolism)
+-Quorum Sensing
+-Transcription Factors (-chemistry; -genetics; +metabolism)
+-Triazines (-chemistry; -metabolism)
+
+pii:JB.01561-08
+doi:10.1128/JB.01561-08
+pubmed:19465657
+pmc:PMC2715727
+

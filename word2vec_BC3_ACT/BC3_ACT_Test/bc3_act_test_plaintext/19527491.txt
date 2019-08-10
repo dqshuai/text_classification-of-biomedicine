@@ -1,0 +1,21 @@
+BMC Bioinformatics
+
+Computing paths and cycles in biological interaction graphs.
+
+S Klamt, A von Kamp
+
+BACKGROUND: Interaction graphs (signed directed graphs) provide an important qualitative modeling approach for Systems Biology. They enable the analysis of causal relationships in cellular networks and can even be useful for predicting qualitative aspects of systems dynamics. Fundamental issues in the analysis of interaction graphs are the enumeration of paths and cycles (feedback loops) and the calculation of shortest positive/negative paths. These computational problems have been discussed only to a minor extent in the context of Systems Biology and in particular the shortest signed paths problem requires algorithmic developments. RESULTS: We first review algorithms for the enumeration of paths and cycles and show that these algorithms are superior to a recently proposed enumeration approach based on elementary-modes computation. The main part of this work deals with the computation of shortest positive/negative paths, an NP-complete problem for which only very few algorithms are described in the literature. We propose extensions and several new algorithm variants for computing either exact results or approximations. Benchmarks with various concrete biological networks show that exact results can sometimes be obtained in networks with several hundred nodes. A class of even larger graphs can still be treated exactly by a new algorithm combining exhaustive and simple search strategies. For graphs, where the computation of exact solutions becomes time-consuming or infeasible, we devised an approximative algorithm with polynomial complexity. Strikingly, in realistic networks (where a comparison with exact results was possible) this algorithm delivered results that are very close or equal to the exact values. This phenomenon can probably be attributed to the particular topology of cellular signaling and regulatory networks which contain a relatively low number of negative feedback loops. CONCLUSION: The calculation of shortest positive/negative paths and cycles in interaction graphs is an important method for network analysis in Systems Biology. This contribution draws the attention of the community to this important computational problem and provides a number of new algorithms, partially specifically tailored for biological interaction graphs. All algorithms have been implemented in the CellNetAnalyzer framework which can be downloaded for academic use at http://www.mpi-magdeburg.mpg.de/projects/cna/cna.html.
+
++Algorithms
+-Computer Graphics
+-Feedback, Physiological (+physiology)
++Models, Biological
++Models, Statistical
+-Signal Transduction (-physiology)
+-Systems Biology (+methods)
+
+pii:1471-2105-10-181
+doi:10.1186/1471-2105-10-181
+pubmed:19527491
+pmc:PMC2708159
+

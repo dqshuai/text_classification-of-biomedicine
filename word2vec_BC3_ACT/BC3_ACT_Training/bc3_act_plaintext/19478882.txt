@@ -1,0 +1,22 @@
+PLoS Pathog.
+
+Host cell factors in HIV replication: meta-analysis of genome-wide studies.
+
+FD Bushman, N Malani, J Fernandes, I D'Orso, G Cagney, TL Diamond, H Zhou, DJ Hazuda, AS Espeseth, R König, S Bandyopadhyay, T Ideker, SP Goff, NJ Krogan, AD Frankel, JA Young, SK Chanda
+
+We have analyzed host cell genes linked to HIV replication that were identified in nine genome-wide studies, including three independent siRNA screens. Overlaps among the siRNA screens were very modest (<7% for any pairwise combination), and similarly, only modest overlaps were seen in pairwise comparisons with other types of genome-wide studies. Combining all genes from the genome-wide studies together with genes reported in the literature to affect HIV yields 2,410 protein-coding genes, or fully 9.5% of all human genes (though of course some of these are false positive calls). Here we report an "encyclopedia" of all overlaps between studies (available at http://www.hostpathogen.org), which yielded a more extensively corroborated set of host factors assisting HIV replication. We used these genes to calculate refined networks that specify cellular subsystems recruited by HIV to assist in replication, and present additional analysis specifying host cell genes that are attractive as potential therapeutic targets.
+
+-Cluster Analysis
++Databases, Protein
+-Genome, Human (+genetics)
+-HIV (+physiology)
+-Host-Pathogen Interactions (+genetics)
+-Humans
+-Internet
+-Protein Binding
++Virus Replication
+
+doi:10.1371/journal.ppat.1000437
+pubmed:19478882
+pmc:PMC2682202
+

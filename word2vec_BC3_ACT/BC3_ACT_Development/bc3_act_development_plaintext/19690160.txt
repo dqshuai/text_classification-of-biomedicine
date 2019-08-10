@@ -1,0 +1,32 @@
+J. Biol. Chem.
+
+Rearrangements in the relative orientation of cytoplasmic domains induced by a membrane-anchored protein mediate modulations in Kv channel gating.
+
+A Lvov, D Greitzer, S Berlin, D Chikvashvili, S Tsuk, I Lotan, I Michaelevski
+
+Interdomain interactions between intracellular N and C termini have been described for various K(+) channels, including the voltage-gated Kv2.1, and suggested to affect channel gating. However, no channel regulatory protein directly affecting N/C interactions has been demonstrated. Most Kv2.1 channel interactions with regulatory factors occur at its C terminus. The vesicular SNARE that is also present at a high concentration in the neuronal plasma membrane, VAMP2, is the only protein documented to affect Kv2.1 gating by binding to its N terminus. As its binding target has been mapped near a site implicated in Kv2.1 N/C interactions, we hypothesized that VAMP2 binding to the N terminus requires concomitant conformational changes in the C terminus, which wraps around the N terminus from the outside, to give VAMP2 access. Here, we first determined that the Kv2.1 N terminus, although crucial, is not sufficient to convey functional interaction with VAMP2, and that, concomitant to its binding to the "docking loop" at the Kv2.1 N terminus, VAMP2 binds to the proximal part of the Kv2.1 C terminus, C1a. Next, using computational biology approaches (ab initio modeling, docking, and molecular dynamics simulations) supported by molecular biology, biochemical, electrophysiological, and fluorescence resonance energy transfer analyses, we mapped the interaction sites on both VAMP2 and Kv2.1 and found that this interaction is accompanied by rearrangements in the relative orientation of Kv2.1 cytoplasmic domains. We propose that VAMP2 modulates Kv2.1 inactivation by interfering with the interaction between the docking loop and C1a, a mechanism for gating regulation that may pertain also to other Kv channels.
+
+-Amino Acid Sequence
+-Animals
+-Cell Membrane (+metabolism)
+-Computer Simulation
+-Fluorescence Resonance Energy Transfer
+-Ion Channel Gating (+physiology)
+-Models, Molecular
+-Molecular Sequence Data
+-Oocytes (-cytology; -physiology)
+-Patch-Clamp Techniques
+-Protein Binding
++Protein Structure, Tertiary
+-Protein Subunits (-chemistry; -genetics; -metabolism)
+-Rats
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Shab Potassium Channels (+chemistry; -genetics; +metabolism)
+-Vesicle-Associated Membrane Protein 2 (-genetics; +metabolism)
+-Xenopus laevis
+
+pii:M109.028761
+doi:10.1074/jbc.M109.028761
+pubmed:19690160
+pmc:PMC2788879
+

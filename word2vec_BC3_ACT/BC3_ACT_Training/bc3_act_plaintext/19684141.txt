@@ -1,0 +1,27 @@
+J. Bacteriol.
+
+Identification of Francisella tularensis live vaccine strain CuZn superoxide dismutase as critical for resistance to extracellularly generated reactive oxygen species.
+
+AA Melillo, M Mahawar, TJ Sellati, M Malik, DW Metzger, JA Melendez, CS Bakshi
+
+Francisella tularensis is an intracellular pathogen whose survival is in part dependent on its ability to resist the microbicidal activity of host-generated reactive oxygen species (ROS) and reactive nitrogen species (RNS). In numerous bacterial pathogens, CuZn-containing superoxide dismutases (SodC) are important virulence factors, localizing to the periplasm to offer protection from host-derived superoxide radicals (O(2)(-)). In the present study, mutants of F. tularensis live vaccine strain (LVS) deficient in superoxide dismutases (SODs) were used to examine their role in defense against ROS/RNS-mediated microbicidal activity of infected macrophages. An in-frame deletion F. tularensis mutant of sodC (DeltasodC) and a F. tularensis DeltasodC mutant with attenuated Fe-superoxide dismutase (sodB) gene expression (sodB DeltasodC) were constructed and evaluated for susceptibility to ROS and RNS in gamma interferon (IFN-gamma)-activated macrophages and a mouse model of respiratory tularemia. The F. tularensis DeltasodC and sodB DeltasodC mutants showed attenuated intramacrophage survival in IFN-gamma-activated macrophages compared to the wild-type F. tularensis LVS. Transcomplementing the sodC gene in the DeltasodC mutant or inhibiting the IFN-gamma-dependent production of O(2)(-) or nitric oxide (NO) enhanced intramacrophage survival of the sod mutants. The DeltasodC and sodB DeltasodC mutants were also significantly attenuated for virulence in intranasally challenged C57BL/6 mice compared to the wild-type F. tularensis LVS. As observed for macrophages, the virulence of the DeltasodC mutant was restored in ifn-gamma(-/-), inos(-/-), and phox(-/-) mice, indicating that SodC is required for resisting host-generated ROS. To conclude, this study demonstrates that SodB and SodC act to confer protection against host-derived oxidants and contribute to intramacrophage survival and virulence of F. tularensis in mice.
+
+-Animals
+-Bacterial Proteins (-genetics; -metabolism)
++Bacterial Vaccines
+-Francisella tularensis (-classification; -drug effects; +enzymology; -pathogenicity)
+-Gene Expression Regulation, Bacterial (-physiology)
+-Macrophages, Alveolar (-microbiology)
+-Mice
+-Mutation
+-Reactive Nitrogen Species
+-Reactive Oxygen Species (+pharmacology)
+-Superoxide Dismutase (+metabolism)
+-Tularemia (-microbiology)
+-Virulence
+
+pii:JB.00534-09
+doi:10.1128/JB.00534-09
+pubmed:19684141
+pmc:PMC2753026
+

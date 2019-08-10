@@ -1,0 +1,22 @@
+Protein Sci.
+
+Rational design of a fusion partner for membrane protein expression in E. coli.
+
+J Luo, J Choulet, JC Samuelson
+
+We have designed a novel protein fusion partner (P8CBD) to utilize the co-translational SRP pathway in order to target heterologous proteins to the E. coli inner membrane. SRP-dependence was demonstrated by analyzing the membrane translocation of P8CBD-PhoA fusion proteins in wt and SRP-ffh77 mutant cells. We also demonstrate that the P8CBD N-terminal fusion partner promotes over-expression of a Thermotoga maritima polytopic membrane protein by replacement of the native signal anchor sequence. Furthermore, the yeast mitochondrial inner membrane protein Oxa1p was expressed as a P8CBD fusion and shown to function within the E. coli inner membrane. In this example, the mitochondrial targeting peptide was replaced by P8CBD. Several practical features were incorporated into the P8CBD expression system to aid in protein detection, purification, and optional in vitro processing by enterokinase. The basis of membrane protein over-expression toxicity is discussed and solutions to this problem are presented. We anticipate that this optimized expression system will aid in the isolation and study of various recombinant forms of membrane-associated protein.
+
+-Electron Transport Complex IV (-metabolism)
+-Escherichia coli (+metabolism)
+-Membrane Proteins (+biosynthesis; -genetics)
+-Membranes (-metabolism)
+-Mitochondria (-metabolism)
+-Mitochondrial Proteins (-metabolism)
+-Nuclear Proteins (-metabolism)
+-Protein Engineering (+methods)
+-Recombinant Fusion Proteins (+biosynthesis; -genetics)
+
+doi:10.1002/pro.189
+pubmed:19530231
+pmc:PMC2771104
+

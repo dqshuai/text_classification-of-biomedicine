@@ -1,0 +1,22 @@
+BMC Genomics
+
+Correlations between RNA and protein expression profiles in 23 human cell lines.
+
+M Gry, R Rimini, S Strömberg, A Asplund, F Pontén, M Uhlén, P Nilsson
+
+BACKGROUND: The Central Dogma of biology holds, in famously simplified terms, that DNA makes RNA makes proteins, but there is considerable uncertainty regarding the general, genome-wide correlation between levels of RNA and corresponding proteins. Therefore, to assess degrees of this correlation we compared the RNA profiles (determined using both cDNA- and oligo-based microarrays) and protein profiles (determined immunohistochemically in tissue microarrays) of 1066 gene products in 23 human cell lines. RESULTS: A high mean correlation coefficient (0.52) was obtained from the pairwise comparison of RNA levels determined by the two platforms. Significant correlations, with correlation coefficients exceeding 0.445, between protein and RNA levels were also obtained for a third of the specific gene products. However, the correlation coefficients between levels of RNA and protein products of specific genes varied widely, and the mean correlations between the protein and corresponding RNA levels determined using the cDNA- and oligo-based microarrays were 0.25 and 0.20, respectively. CONCLUSION: Significant correlations were found in one third of the examined RNA species and corresponding proteins. These results suggest that RNA profiling might provide indirect support to antibodies' specificity, since whenever a evident correlation between the RNA and protein profiles exists, this can sustain that the antibodies used in the immunoassay recognized their cognate antigens.
+
+-Cell Line
++Gene Expression Profiling
+-Humans
+-Oligonucleotide Array Sequence Analysis
+-Protein Array Analysis
+-Proteins (+metabolism)
+-RNA (+genetics)
+-Reverse Transcriptase Polymerase Chain Reaction
+
+pii:1471-2164-10-365
+doi:10.1186/1471-2164-10-365
+pubmed:19660143
+pmc:PMC2728742
+

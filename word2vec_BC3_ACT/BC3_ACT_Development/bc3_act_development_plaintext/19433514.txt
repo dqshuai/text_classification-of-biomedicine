@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+PEP-FOLD: an online resource for de novo peptide structure prediction.
+
+J Maupetit, P Derreumaux, P Tuffery
+
+Rational peptide design and large-scale prediction of peptide structure from sequence remain a challenge for chemical biologists. We present PEP-FOLD, an online service, aimed at de novo modelling of 3D conformations for peptides between 9 and 25 amino acids in aqueous solution. Using a hidden Markov model-derived structural alphabet (SA) of 27 four-residue letters, PEP-FOLD first predicts the SA letter profiles from the amino acid sequence and then assembles the predicted fragments by a greedy procedure driven by a modified version of the OPEP coarse-grained force field. Starting from an amino acid sequence, PEP-FOLD performs series of 50 simulations and returns the most representative conformations identified in terms of energy and population. Using a benchmark of 25 peptides with 9-23 amino acids, and considering the reproducibility of the runs, we find that, on average, PEP-FOLD locates lowest energy conformations differing by 2.6 A Calpha root mean square deviation from the full NMR structures. PEP-FOLD can be accessed at http://bioserv.rpbs.univ-paris-diderot.fr/PEP-FOLD.
+
+-Algorithms
+-Internet
+-Models, Molecular
+-Peptides (+chemistry)
+-Protein Conformation
+-Reproducibility of Results
+-Sequence Analysis, Protein
++Software
+-User-Computer Interface
+
+pii:gkp323
+doi:10.1093/nar/gkp323
+pubmed:19433514
+pmc:PMC2703897
+

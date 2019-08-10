@@ -1,0 +1,28 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Glucose controls CREB activity in islet cells via regulated phosphorylation of TORC2.
+
+D Jansson, AC Ng, A Fu, C Depatie, M Al Azzabi, RA Screaton
+
+CREB is a cAMP- and calcium-responsive transcriptional activator that is required for islet beta cell proliferation and survival. Glucose and incretin hormones elicit beta cell insulin secretion and promote synergistic CREB activity by inducing the nuclear relocalization of TORC2 (also known as Crtc2), a coactivator for CREB. In islet cells under basal conditions when CREB activity is low, TORC2 is phosphorylated and sequestered in the cytoplasm by 14-3-3 proteins. In response to feeding stimuli, TORC2 is dephosphorylated, enters the nucleus, and binds to CREB located at target gene promoters. The dephosphorylation of TORC2 at Ser-171 in response to cAMP is insufficient to account for the dynamics of TORC2 localization and CREB activity in islet cells. Here, we identify Ser-275 of TORC2 as a 14-3-3 binding site that is phosphorylated under low glucose conditions and which becomes dephosphorylated by calcineurin in response to glucose influx. Dephosphorylation of Ser-275 is essential for both glucose and cAMP-mediated activation of CREB in beta cells and islets. Using a cell-based screen of 180 human protein kinases, we identified MARK2, a member of the AMPK family of Ser/Thr kinases, as a Ser-275 kinase that blocks TORC2:CREB activity. Taken together, these data provide the mechanistic underpinning for how cAMP and glucose cooperatively promote a transcriptional program critical for islet cell survival, and identifies MARK2 as a potential target for diabetes treatment.
+
+-14-3-3 Proteins (-metabolism)
+-Binding Sites
+-Calcineurin (-metabolism)
+-Cell Line
+-Cyclic AMP (-metabolism)
+-Cyclic AMP Response Element-Binding Protein (+metabolism)
+-Glucose (+metabolism; -pharmacology)
+-Humans
+-Islets of Langerhans (-drug effects; +metabolism)
+-Phosphorylation
+-Protein-Serine-Threonine Kinases (-metabolism)
+-Serine (-chemistry)
+-Signal Transduction
+-Transcription Factors (-chemistry; +metabolism)
+
+pii:0800796105
+doi:10.1073/pnas.0800796105
+pubmed:18626018
+pmc:PMC2481316
+

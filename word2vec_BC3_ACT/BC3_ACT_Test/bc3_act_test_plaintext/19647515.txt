@@ -1,0 +1,30 @@
+Mol. Cell
+
+Translation initiation from the ribosomal A site or the P site, dependent on the conformation of RNA pseudoknot I in dicistrovirus RNAs.
+
+N Kamoshita, A Nomoto, UL RajBhandary
+
+Translation initiation of the second ORF of insect dicistrovirus RNA depends on an internal ribosomal entry site (IRES) in its intergenic region (IGR) and is exceptional in using a codon other than AUG and in not using the canonical initiator methionine tRNA. Studies in vitro suggest that pseudoknot I (PKI) immediately preceding the initiation codon occupies the ribosomal P site and that an elongator tRNA initiates translation from the ribosomal A site. Using dicistronic reporters carrying mutations in the initiation codon of the second ORF and mutant elongator or initiator tRNAs capable of reading these codons, we provide direct evidence for initiation from the A site in mammalian cells and, under certain conditions, also from the P site. Initiation from the A but not the P site requires PKI. Thus, PKI structure may be dynamic, and optimal IGR IRES-mediated translation of dicistroviral RNAs may require trans-acting factors to stabilize PKI.
+
+-Codon, Initiator
+-Codon, Terminator
+-Genes, Reporter
+-Humans
+-Luciferases (-genetics; -metabolism)
+-Mutation
+-Open Reading Frames
+-Picornaviridae (+genetics)
+-Protein Biosynthesis (+physiology)
+-RNA, Transfer (-genetics; -metabolism; -physiology)
+-RNA, Transfer, Met
+-Ribosomes (+chemistry; -physiology)
+-Transfection
+-Untranslated Regions
+-Viral Proteins (-genetics; -metabolism)
+
+pii:S1097-2765(09)00385-2
+doi:10.1016/j.molcel.2009.05.024
+pubmed:19647515
+mid:NIHMS124066
+pmc:PMC2720879
+

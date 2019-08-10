@@ -1,0 +1,37 @@
+PLoS ONE
+
+Functional analysis of a dominant negative mutation of interferon regulatory factor 5.
+
+L Yang, T Zhao, X Shi, P Nakhaei, Y Wang, Q Sun, J Hiscott, R Lin
+
+BACKGROUND: Interferon regulatory factor (IRF) family members have been implicated as critical transcription factors that function in immune response, hematopoietic differentiation and cell growth regulation. Activation of IRF-5 results in the production of pro-inflammatory cytokines such as TNFalpha, IL6 and IL12p40, as well as type I interferons. METHODOLOGY/PRINCIPAL FINDINGS: In this study, we identify a G202C (position relative to translation start codon) missense-mutation transcript of IRF-5 in transformed B and T cell lines, which were either infected or non-infected by viruses, and peripheral blood from ATL or CLL patients. The mutated transcript encodes a novel protein in which the sixty-eighth amino acid, Alanine, is substituted by Proline (IRF-5P68) in the DNA binding domain of IRF-5. IRF-5P68 phenotype results in a complete loss of its DNA-binding activity and functions as a dominant negative molecule through interacting with wild type IRF-5. Co-expression of IRF-5P68 inhibits MyD88-mediated IRF-5 transactivation. Moreover, Toll-like receptor (TLR)-dependent IL6 and IL12P40 production induced by lipopolysaccharide (LPS), R837 or CpG ODN 1826 was reduced in IRF-5 (P68) expressing cells as compared to the control cells. CONCLUSION: IRF-5P68 acts as a dominant negative regulator that interferes with IRF-5-mediated production of pro-inflammatory cytokines. The functional characterization of the novel IRF-5 mutant in transformed B and T cell lines and in ATL and CLL patients may lead to a better understanding of the role of these transcriptional regulators in hematopoietic malignancies.
+
+-Animals
+-Cell Line
+-Cell Line, Tumor
+-Electrophoretic Mobility Shift Assay
+-Genes, Dominant
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Humans
+-Immunoblotting
+-Immunoprecipitation
+-Interferon Regulatory Factors (+genetics; -metabolism; -physiology)
+-Interleukin-12 (-genetics; -metabolism)
+-Interleukin-6 (-genetics; -metabolism)
+-Jurkat Cells
+-Leukemia, Lymphocytic, Chronic, B-Cell (-blood; -pathology)
+-Leukemia-Lymphoma, Adult T-Cell (-blood; -pathology)
+-Lipopolysaccharides (-pharmacology)
+-Lymphocytes (-metabolism; -pathology)
+-Mice
+-Monocytes (-cytology; -drug effects; -metabolism)
+-Mutant Proteins (+genetics; -metabolism; -physiology)
+-Protein Binding
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
++Transcriptional Activation
+
+doi:10.1371/journal.pone.0005500
+pubmed:19430534
+pmc:PMC2677155
+

@@ -1,0 +1,27 @@
+Mol. Cell. Biol.
+
+The recombination protein RAD52 cooperates with the excision repair protein OGG1 for the repair of oxidative lesions in mammalian cells.
+
+NC de Souza-Pinto, S Maynard, K Hashiguchi, J Hu, M Muftuoglu, VA Bohr
+
+Oxidized bases are common types of DNA modifications. Their accumulation in the genome is linked to aging and degenerative diseases. These modifications are commonly repaired by the base excision repair (BER) pathway. Oxoguanine DNA glycosylase (OGG1) initiates BER of oxidized purine bases. A small number of protein interactions have been identified for OGG1, while very few appear to have functional consequences. We report here that OGG1 interacts with the recombination protein RAD52 in vitro and in vivo. This interaction has reciprocal functional consequences as OGG1 inhibits RAD52 catalytic activities and RAD52 stimulates OGG1 incision activity, likely increasing its turnover rate. RAD52 colocalizes with OGG1 after oxidative stress to cultured cells, but not after the direct induction of double-strand breaks by ionizing radiation. Human cells depleted of RAD52 via small interfering RNA knockdown, and mouse cells lacking the protein via gene knockout showed increased sensitivity to oxidative stress. Moreover, cells depleted of RAD52 show higher accumulation of oxidized bases in their genome than cells with normal levels of RAD52. Our results indicate that RAD52 cooperates with OGG1 to repair oxidative DNA damage and enhances the cellular resistance to oxidative stress. Our observations suggest a coordinated action between these proteins that may be relevant when oxidative lesions positioned close to strand breaks impose a hindrance to RAD52 catalytic activities.
+
+-Animals
+-Cell Line
+-DNA Damage
+-DNA Glycosylases (-genetics; +metabolism)
++DNA Repair
+-Deoxyguanosine (-analogs & derivatives; -metabolism)
+-Humans
+-Mice
+-Mice, Knockout
+-Oxidation-Reduction
++Oxidative Stress
+-Protein Isoforms (-genetics; -metabolism)
+-Rad52 DNA Repair and Recombination Protein (-genetics; +metabolism)
+
+pii:MCB.00265-09
+doi:10.1128/MCB.00265-09
+pubmed:19506022
+pmc:PMC2725742
+

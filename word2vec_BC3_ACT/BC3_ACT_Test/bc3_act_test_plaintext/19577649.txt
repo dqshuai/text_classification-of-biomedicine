@@ -1,0 +1,13 @@
+Methods
+
+Optimization of in vivo high-resolution DTI of non-human primates on a 3T human scanner.
+
+X Liu, T Zhu, T Gu, J Zhong
+
+Magnetic resonance (MR) diffusion tensor imaging (DTI) has emerged as a unique technique to reveal small anatomical structures of brain by characterizing the diffusion process of water molecules within an image voxel. Combined with fiber tractography techniques, DTI can be further used to reveal white matter fibers and connectivity in the brain non-invasively. The non-human primate brain study provides important supplemental means for human brain exploration since the two species share close anatomical and functional similarities. There is therefore increasing interest in in vivo non-human primate DTI studies. However, several technical challenges need to be addressed to perform non-human primate brain DTI and fiber tractography. We have established an imaging protocol together with a post-acquisition procedure for high-resolution in vivo non-human primate DTI studies using a 3T human clinical scanner. Data acquired with this procedure is appropriate for accurate diffusion tensor quantification and fiber tractography, and is accessible within an acceptable scan time. We investigated in detail the effects of spatial resolution and SNR on diffusion tensor-derived quantities and fiber tractography. Our results should be of general utility for implementation of in vivo non-human primate DTI studies.
+
+
+pii:S1046-2023(09)00167-4
+doi:10.1016/j.ymeth.2009.06.008
+pubmed:19577649
+

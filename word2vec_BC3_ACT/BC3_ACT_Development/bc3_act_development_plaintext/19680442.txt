@@ -1,0 +1,19 @@
+PLoS Genet.
+
+The population and evolutionary dynamics of homologous gene recombination in bacterial populations.
+
+BR Levin, OE Cornejo
+
+In bacteria, recombination is a rare event, not a part of the reproductive process. Nevertheless, recombination -- broadly defined to include the acquisition of genes from external sources, i.e., horizontal gene transfer (HGT) -- plays a central role as a source of variation for adaptive evolution in many species of bacteria. Much of niche expansion, resistance to antibiotics and other environmental stresses, virulence, and other characteristics that make bacteria interesting and problematic, is achieved through the expression of genes and genetic elements obtained from other populations of bacteria of the same and different species, as well as from eukaryotes and archaea. While recombination of homologous genes among members of the same species has played a central role in the development of the genetics and molecular biology of bacteria, the contribution of homologous gene recombination (HGR) to bacterial evolution is not at all clear. Also, not so clear are the selective pressures responsible for the evolution and maintenance of transformation, the only bacteria-encoded form of HGR. Using a semi-stochastic simulation of mutation, recombination, and selection within bacterial populations and competition between populations, we explore (1) the contribution of HGR to the rate of adaptive evolution in these populations and (2) the conditions under which HGR will provide a bacterial population a selective advantage over non-recombining or more slowly recombining populations. The results of our simulation indicate that, under broad conditions: (1) HGR occurring at rates in the range anticipated for bacteria like Streptococcus pneumoniae, Escherichia coli, Haemophilus influenzae, and Bacillus subtilis will accelerate the rate at which a population adapts to environmental conditions; (2) once established in a population, selection for this capacity to increase rates of adaptive evolution can maintain bacteria-encoded mechanisms of recombination and prevent invasion of non-recombining populations, even when recombination engenders a modest fitness cost; and (3) because of the density- and frequency-dependent nature of HGR in bacteria, this capacity to increase rates of adaptive evolution is not sufficient as a selective force to provide a recombining population a selective advantage when it is rare. Under realistic conditions, homologous gene recombination will increase the rate of adaptive evolution in bacterial populations and, once established, selection for higher rates of evolution will promote the maintenance of bacteria-encoded mechanisms for HGR. On the other hand, increasing rates of adaptive evolution by HGR is unlikely to be the sole or even a dominant selective pressure responsible for the original evolution of transformation.
+
+-Bacteria (+genetics)
++Evolution, Molecular
+-Models, Genetic
+-Mutation
++Recombination, Genetic
+-Selection, Genetic
+
+doi:10.1371/journal.pgen.1000601
+pubmed:19680442
+pmc:PMC2717328
+

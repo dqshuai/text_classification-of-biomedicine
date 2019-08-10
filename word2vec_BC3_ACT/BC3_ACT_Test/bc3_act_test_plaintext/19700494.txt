@@ -1,0 +1,20 @@
+J. Exp. Bot.
+
+An inducible, modular system for spatio-temporal control of gene expression in stomatal guard cells.
+
+TC Xiong, CM Hann, JP Chambers, M Surget, CK Ng
+
+Stomata, flanked by pairs of guard cells, are small pores on the leaf surfaces of plants and they function to control gas exchange between plants and the atmosphere. Stomata will open when water is available to allow for the uptake of carbon dioxide for photosynthesis. During periods of drought, stomata will close to reduce desiccation stress. As such, optimal functioning of stomata will impact on water use efficiency by plants. The development of an inducible, modular system for robust and targeted gene expression in stomatal guard cells is reported here. It is shown that application of ethanol vapour to activate the gene expression system did not affect the ability of stomata to respond to ABA in bioassays to determine the promotion of stomatal closure and the inhibition of stomatal opening. The system that has been developed allows for robust spatio-temporal control of gene expression in all cells of the stomatal lineage, thereby enabling molecular engineering of stomatal function as well as studies on stomatal development.
+
+-Arabidopsis (-cytology; +genetics; -growth & development)
++Gene Expression Regulation, Plant
++Genetic Techniques
+-Microscopy, Confocal
+-Plant Leaves
+-Plant Stomata (+cytology; +genetics; -growth & development)
+
+pii:erp246
+doi:10.1093/jxb/erp246
+pubmed:19700494
+pmc:PMC2755031
+

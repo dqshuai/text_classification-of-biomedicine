@@ -1,0 +1,29 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Suppressor of gamma response 1 (SOG1) encodes a putative transcription factor governing multiple responses to DNA damage.
+
+K Yoshiyama, PA Conklin, ND Huefner, AB Britt
+
+The Arabidopsis sog1-1 (suppressor of gamma response) mutant was originally isolated as a second-site suppressor of the radiosensitive phenotype of seeds defective in the repair endonuclease XPF. Here, we report that SOG1 encodes a putative transcription factor. This gene is a member of the NAC domain [petunia NAM (no apical meristem) and Arabidopsis ATAF1, 2 and CUC2] family (a family of proteins unique to land plants). Hundreds of genes are normally up-regulated in Arabidopsis within an hour of treatment with ionizing radiation; the induction of these genes requires the damage response protein kinase ATM, but not the related kinase ATR. Here, we find that SOG1 is also required for this transcriptional up-regulation. In contrast, the SOG1-dependent checkpoint response observed in xpf mutant seeds requires ATR, but does not require ATM. Thus, phenotype of the sog1-1 mutant mimics aspects of the phenotypes of both atr and atm mutants in Arabidopsis, suggesting that SOG1 participates in pathways governed by both of these sensor kinases. We propose that, in plants, signals related to genomic stress are processed through a single, central transcription factor, SOG1.
+
+-Arabidopsis (+genetics; +radiation effects)
+-Arabidopsis Proteins (-genetics; -physiology)
+-Cell Cycle
+-Cell Cycle Proteins (-physiology)
+-Cyclin-Dependent Kinases (-genetics)
++DNA Damage
++Gamma Rays
++Genes, Plant
+-Histones (-metabolism)
+-Loss of Heterozygosity
+-Phosphorylation
+-Protein-Serine-Threonine Kinases (-physiology)
+-Qa-SNARE Proteins (-genetics)
+-Transcription Factors (+genetics)
+-Transcription, Genetic (-radiation effects)
+
+pii:0810304106
+doi:10.1073/pnas.0810304106
+pubmed:19549833
+pmc:PMC2722309
+

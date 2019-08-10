@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+RNA polymerase III can drive polycistronic expression of functional interfering RNAs designed to resemble microRNAs.
+
+LL Snyder, I Ahmed, LF Steel
+
+In both research and therapeutic applications of RNA interference, it is often advantageous to silence several targets simultaneously. Toward this end, several groups have developed vectors that utilize the model of endogenously encoded micro (mi) RNAs, where a single RNA polymerase II promoter can drive the expression of multiple interfering RNAs. Stronger pol III promoters have been used to drive individual short hairpin (sh) RNAs, but to date, it has been necessary to repeat the promoter in each silencing cassette to achieve multiplexed expression from a single vector. Here, we show that it is possible to drive polycistronic expression from a single pol III promoter when the interfering RNAs are formatted to resemble miRNAs rather than shRNAs. As many as four miRNAs designed to target hepatitis B virus (HBV) transcripts are shown to be processed and functional in reporter assays as well as in the context of replicating virus in cell culture systems. Although it has been observed that high levels of expression of shRNAs can lead to cytotoxicity, we find no significant evidence in transient transfection assays that the HBV-miRNAs produced by our vectors compete for the activity of endogenously produced miR-122 or for processing of an exogenously expressed miR-EGFP.
+
+-Cell Line, Tumor
+-Hepatitis B virus (-genetics; -physiology)
+-Humans
+-MicroRNAs (-chemistry; -metabolism)
+-Promoter Regions, Genetic
++RNA Interference
+-RNA Polymerase III (+metabolism)
+-RNA, Small Interfering (-chemistry; -metabolism)
+-Virus Replication
+
+pii:gkp657
+doi:10.1093/nar/gkp657
+pubmed:19679642
+pmc:PMC2770651
+

@@ -1,0 +1,31 @@
+Oncogene
+
+RASSF2 associates with and stabilizes the proapoptotic kinase MST2.
+
+WN Cooper, LB Hesson, D Matallanas, A Dallol, A von Kriegsheim, R Ward, W Kolch, F Latif
+
+RASSF2 is a tumour suppressor that in common with the rest of the RASSF family contains Ras association and SARAH domains. We identified the proapoptotic kinases, MST1 and MST2, as the most significant binding partners of RASSF2, confirmed the interactions at endogenous levels and showed that RASSF2 immunoprecipitates active MST1/2. We then showed that RASSF2 can be phosphorylated by a co-immunoprecipitating kinase that is likely to be MST1/2. Furthermore, we showed that RASSF2 and MST2 do indeed colocalize, but whereas RASSF2 alone is nuclear, the presence of MST1 or MST2 results in colocalization in the cytoplasm. Expression of RASSF2 (stably in MCF7 or transiently in HEK-293) increases MST2 levels and knockdown of RASSF2 in HEK-293 cells reduces MST2 levels, in addition colorectal tumour cell lines and primary tumours with low RASSF2 levels show decreased MST2 protein levels. This is likely to be mediated by RASSF2-dependent protection of MST2 against proteolytic degradation. Our findings suggest that MST2 and RASSF2 form an active complex in vivo, in which RASSF2 is maintained in a phosphorylated state and protects MST2 from degradation and turnover. Thus, we propose that the frequent loss of RASSF2 in tumours results in the destablization of MST2 and thus decreased apoptotic potential.
+
+-Amino Acid Sequence
+-Animals
++Apoptosis
+-COS Cells
+-Cell Line, Tumor
+-Cercopithecus aethiops
+-Cytoplasm (-metabolism)
+-Epigenesis, Genetic
+-Hepatocyte Growth Factor (-metabolism)
+-Humans
+-Molecular Sequence Data
+-Protein Structure, Tertiary
+-Protein-Serine-Threonine Kinases (-metabolism; +physiology)
+-Proteomics (-methods)
+-Proto-Oncogene Proteins (-metabolism)
+-Tumor Suppressor Proteins (-metabolism; +physiology)
+
+pii:onc2009152
+doi:10.1038/onc.2009.152
+pubmed:19525978
+mid:UKMS28785
+pmc:PMC2829092
+

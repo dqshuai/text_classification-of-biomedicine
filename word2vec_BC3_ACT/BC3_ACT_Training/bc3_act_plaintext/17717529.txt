@@ -1,0 +1,35 @@
+EMBO J.
+
+Poliovirus entry into human brain microvascular cells requires receptor-induced activation of SHP-2.
+
+CB Coyne, KS Kim, JM Bergelson
+
+Viruses use specific receptor molecules to bind selectively to target cells. Receptors have often been considered as mere docking sites, but they may also possess intrinsic signaling capacities that serve to prime the cell for entry and infection. Poliovirus (PV) initiates infection by binding to the PV receptor (PVR) and causes paralytic poliomyelitis by replicating within motor neurons of the brain and spinal cord. We have examined the process by which PV enters cultured human brain microvascular endothelial cells (HBMEC), an in vitro model of the blood-brain barrier. We found that PV enters HBMEC by dynamin-dependent caveolar endocytosis, and that entry depends on intracellular signals triggered by virus attachment to PVR. Tyrosine kinase and RhoA GTPase activation initiated by PVR ligation were both essential. Virus attachment also induced tyrosine phosphorylation of PVR; this permitted the association of PVR with SHP-2, a protein tyrosine phosphatase whose activation was required for entry and infection. The results indicate that receptor-induced signals promote virus entry and suggest a role for tyrosine phosphatases in viral pathogenesis.
+
+-Brain (+blood supply)
+-Caveolins (-metabolism)
+-Cells, Cultured
+-Dynamins (-metabolism)
+-Endocytosis
+-Endothelial Cells (-metabolism; +virology)
+-Endothelium, Vascular (-cytology; -metabolism; +virology)
+-Enzyme Activation
+-Humans
+-Intracellular Signaling Peptides and Proteins (+metabolism)
+-Membrane Proteins (-metabolism)
+-Microcirculation (-virology)
+-Phosphorylation
+-Poliovirus (+physiology)
+-Protein Tyrosine Phosphatase, Non-Receptor Type 11
+-Protein Tyrosine Phosphatases (+metabolism)
+-Receptors, Virus (-metabolism)
+-Signal Transduction
+-Tyrosine (-metabolism)
+-Virus Attachment
++Virus Internalization
+
+pii:7601831
+doi:10.1038/sj.emboj.7601831
+pubmed:17717529
+pmc:PMC1994131
+

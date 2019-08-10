@@ -1,0 +1,21 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Phase matching of high harmonic generation in the soft and hard X-ray regions of the spectrum.
+
+T Popmintchev, MC Chen, A Bahabad, M Gerrity, P Sidorenko, O Cohen, IP Christov, MM Murnane, HC Kapteyn
+
+We show how bright, tabletop, fully coherent hard X-ray beams can be generated through nonlinear upconversion of femtosecond laser light. By driving the high-order harmonic generation process using longer-wavelength midinfrared light, we show that, in theory, fully phase-matched frequency upconversion can extend into the hard X-ray region of the spectrum. We verify our scaling predictions experimentally by demonstrating phase matching in the soft X-ray region of the spectrum around 330 eV, using ultrafast driving laser pulses at 1.3-microm wavelength, in an extended, high-pressure, weakly ionized gas medium. We also show through calculations that scaling of the overall conversion efficiency is surprisingly favorable as the wavelength of the driving laser is increased, making tabletop, fully coherent, multi-keV X-ray sources feasible. The rapidly decreasing microscopic single-atom yield, predicted for harmonics driven by longer-wavelength lasers, is compensated macroscopically by an increased optimal pressure for phase matching and a rapidly decreasing reabsorption of the generated X-rays.
+
+-Algorithms
+-Computer-Aided Design
++Lasers
+-Models, Theoretical
+-Photons
+-Spectrum Analysis
++X-Rays
+
+pii:0903748106
+doi:10.1073/pnas.0903748106
+pubmed:19541611
+pmc:PMC2698889
+

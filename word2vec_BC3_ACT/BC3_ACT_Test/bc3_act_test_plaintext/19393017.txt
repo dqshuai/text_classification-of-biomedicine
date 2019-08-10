@@ -1,0 +1,34 @@
+J. Neurochem.
+
+Differential gene expression in LPS/IFNgamma activated microglia and macrophages: in vitro versus in vivo.
+
+CD Schmid, B Melchior, K Masek, SS Puntambekar, PE Danielson, DD Lo, JG Sutcliffe, MJ Carson
+
+Two different macrophage populations contribute to CNS neuroinflammation: CNS-resident microglia and CNS-infiltrating peripheral macrophages. Markers distinguishing these two populations in tissue sections have not been identified. Therefore, we compared gene expression between LPS (lipopolysaccharide)/interferon (IFN)gamma-treated microglia from neonatal mixed glial cultures and similarly treated peritoneal macrophages. Fifteen molecules were identified by quantative PCR (qPCR) as being enriched from 2-fold to 250-fold in cultured neonatal microglia when compared with peritoneal macrophages. Only three of these molecules (C1qA, Trem2, and CXCL14) were found by qPCR to be also enriched in adult microglia isolated from LPS/IFNgamma-injected CNS when compared with infiltrating peripheral macrophages from the same CNS. The discrepancy between the in vitro and in vivo qPCR data sets was primarily because of induced expression of the 'microglial' molecules (such as the tolerance associated transcript, Tmem176b) in CNS-infiltrating macrophages. Bioinformatic analysis of the approximately 19000 mRNAs detected by TOGA gene profiling confirmed that LPS/IFNgamma-activated microglia isolated from adult CNS displayed greater similarity in total gene expression to CNS-infiltrating macrophages than to microglia isolated from unmanipulated healthy adult CNS. In situ hybridization analysis revealed that nearly all microglia expressed high levels of C1qA, while subsets of microglia expressed Trem2 and CXCL14. Expression of C1qA and Trem2 was limited to microglia, while large numbers of GABA+ neurons expressed CXCL14. These data suggest that (i) CNS-resident microglia are heterogeneous and thus a universal microglia-specific marker may not exist; (ii) the CNS micro-environment plays significant roles in determining the phenotypes of both CNS-resident microglia and CNS-infiltrating macrophages; (iii) the CNS microenvironment may contribute to immune privilege by inducing macrophage expression of anti-inflammatory molecules.
+
+-Animals
+-Blotting, Northern
+-Cells, Cultured
+-Computational Biology
+-Dendritic Cells (-metabolism)
+-Gene Expression (+drug effects)
+-Gene Expression Profiling
+-In Situ Hybridization
+-Interferon-gamma (+pharmacology)
+-Lipopolysaccharides (+pharmacology)
+-Macrophage Activation (-drug effects; +physiology)
+-Macrophages (-drug effects; +metabolism)
+-Mice
+-Mice, Inbred C57BL
+-Microglia (-drug effects; +metabolism)
+-Models, Neurological
+-RNA (-biosynthesis; -isolation & purification)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Reverse Transcription
+
+pii:JNC5984
+doi:10.1111/j.1471-4159.2009.05984.x
+pubmed:19393017
+mid:NIHMS106279
+pmc:PMC2766614
+

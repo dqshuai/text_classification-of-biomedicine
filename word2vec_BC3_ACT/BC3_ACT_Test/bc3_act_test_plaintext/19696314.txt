@@ -1,0 +1,28 @@
+Science
+
+Creating bacterial strains from genomes that have been cloned and engineered in yeast.
+
+C Lartigue, S Vashee, MA Algire, RY Chuang, GA Benders, L Ma, VN Noskov, EA Denisova, DG Gibson, N Assad-Garcia, N Alperovich, DW Thomas, C Merryman, CA Hutchison, HO Smith, JC Venter, JI Glass
+
+We recently reported the chemical synthesis, assembly, and cloning of a bacterial genome in yeast. To produce a synthetic cell, the genome must be transferred from yeast to a receptive cytoplasm. Here we describe methods to accomplish this. We cloned a Mycoplasma mycoides genome as a yeast centromeric plasmid and then transplanted it into Mycoplasma capricolum to produce a viable M. mycoides cell. While in yeast, the genome was altered by using yeast genetic systems and then transplanted to produce a new strain of M. mycoides. These methods allow the construction of strains that could not be produced with genetic tools available for this bacterium.
+
+-Centromere
++Cloning, Molecular
+-DNA Methylation
+-DNA Restriction Enzymes (-genetics; -metabolism)
+-Deoxyribonucleases, Type III Site-Specific (-genetics)
++Gene Transfer Techniques
++Genetic Engineering
++Genome, Bacterial
+-Mycoplasma capricolum (+genetics)
+-Mycoplasma mycoides (+genetics; -growth & development; -isolation & purification)
+-Plasmids
+-Saccharomyces cerevisiae (+genetics)
+-Sequence Analysis, DNA
+-Sequence Deletion
+-Transformation, Bacterial
+
+pii:1173759
+doi:10.1126/science.1173759
+pubmed:19696314
+

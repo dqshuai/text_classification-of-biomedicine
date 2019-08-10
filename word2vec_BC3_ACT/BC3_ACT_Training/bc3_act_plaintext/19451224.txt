@@ -1,0 +1,26 @@
+Mol. Cell. Biol.
+
+Expression of bacterial Rho factor in yeast identifies new factors involved in the functional interplay between transcription and mRNP biogenesis.
+
+C Mosrin-Huaman, R Honorine, AR Rahmouni
+
+In eukaryotic cells, the nascent pre-mRNA molecule is coated sequentially with a large set of processing and binding proteins that mediate its transformation into an export-competent ribonucleoprotein particle (mRNP) that is ready for translation in the cytoplasm. We have implemented an original assay that monitors the dynamic interplay between transcription and mRNP biogenesis and that allows the screening for new factors linking mRNA synthesis to translation in Saccharomyces cerevisiae. The assay is based on the perturbation of gene expression induced by the bacterial Rho factor, an RNA-dependent helicase/translocase that acts as a competitor at one or several steps of mRNP biogenesis in yeast. We show that the expression of Rho in yeast leads to a dose-dependent growth defect that stems from its action on RNA polymerase II-mediated transcription. Rho expression induces the production of aberrant transcripts that are degraded by the nuclear exosome. A screen for dosage suppressors of the Rho-induced growth defect identified several genes that are involved in the different steps of mRNP biogenesis and export, as well as other genes with both known functions in transcription regulation and unknown functions. Our results provide evidence for an extensive cross talk between transcription, mRNP biogenesis, and export. They also uncover new factors that potentially are involved in these interconnected events.
+
+-Blotting, Northern
+-Blotting, Western
+-Cell Nucleus (-metabolism)
+-Escherichia coli Proteins (-genetics; +metabolism)
+-Gene Expression
+-Mutation
+-Plasmids (-genetics)
+-RNA Polymerase II (-genetics; -metabolism)
+-Rho Factor (+genetics; -metabolism)
+-Ribonucleoproteins (+metabolism)
+-Saccharomyces cerevisiae (+genetics; -metabolism)
+-Transcription, Genetic (+genetics)
+
+pii:MCB.00272-09
+doi:10.1128/MCB.00272-09
+pubmed:19451224
+pmc:PMC2715799
+

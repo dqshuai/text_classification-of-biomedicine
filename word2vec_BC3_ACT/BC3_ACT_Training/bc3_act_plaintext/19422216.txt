@@ -1,0 +1,15 @@
+J. Am. Chem. Soc.
+
+Robust NMR screening for lead compounds using tryptophan-containing proteins.
+
+M Bista, K Kowalska, W Janczyk, A Dömling, TA Holak
+
+NMR-based drug screening methods provide the most reliable characterization of binding propensities of ligands to their target proteins. Unique to NMR is its capability to detect weak microM-mM bindings. NMR assays are, however, one of the least effective methods in terms of the amount of protein required and the time needed for acquiring NMR experiments. We have recently described a time efficient 1D proton NMR assay for studying the effect of antagonists on protein-protein interactions. The method, named AIDA-NMR (for Antagonist Induced Dissociation Assay-NMR), can provide information on whether an antagonist of a protein-protein interaction is strong enough to dissociate the complex and, in addition, whether its interaction is through denaturation, precipitation, or release of a protein in its functional folded state. AIDA requires a large protein fragment (larger than ca. 30 kDa) to bind to a small reporter protein (smaller than ca.12 kDa). Here, we present an extension of this method, named SEI AIDA (SEI, for Selective Excitation-Inversion). The SEI AIDA uses tryptophan-bearing proteins, and by selectively exciting only the proton NMR signals of the (N)H(epsilon) indole side chains of tryptophans, the acquisition time of the AIDA experiment can be reduced by an order of magnitude relative to the corresponding 1D AIDA that uses hard pulses. Thus, at 600 MHz, the (N)H(epsilon) signal of a 35 microM protein complex can be acquired in only 2.5 min, making the SEI AIDA suitable for high-throughput screening pipelines in drug discovery.
+
+-Nuclear Magnetic Resonance, Biomolecular (+methods)
+-Proteins (-analysis; +chemistry)
+-Tryptophan (+chemistry)
+
+doi:10.1021/ja901863h
+pubmed:19422216
+

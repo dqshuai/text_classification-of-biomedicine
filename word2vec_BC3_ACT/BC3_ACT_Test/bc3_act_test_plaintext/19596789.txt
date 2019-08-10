@@ -1,0 +1,29 @@
+Mol. Cell. Biol.
+
+The tumor suppressor functions of p27(kip1) include control of the mesenchymal/amoeboid transition.
+
+S Berton, B Belletti, K Wolf, V Canzonieri, F Lovat, A Vecchione, A Colombatti, P Friedl, G Baldassarre
+
+In many human cancers, p27 downregulation correlates with a worse prognosis, suggesting that p27 levels could represent an important determinant in cell transformation and cancer development. Using a mouse model system based on v-src-induced transformation, we show here that p27 absence is always linked to a more aggressive phenotype. When cultured in three-dimensional contexts, v-src-transformed p27-null fibroblasts undergo a morphological switch from an elongated to a rounded cell shape, accompanied by amoeboid-like morphology and motility. Importantly, the acquisition of the amoeboid motility is associated with a greater ability to move and colonize distant sites in vivo. The reintroduction of different p27 mutants in v-src-transformed p27-null cells demonstrates that the control of cell proliferation and motility represents two distinct functions of p27, both necessary for it to fully act as a tumor suppressor. Thus, we highlight here a new p27 function in driving cell plasticity that is associated with its C-terminal portion and does not depend on the control of cyclin-dependent kinase activity.
+
+-Animals
+-Cell Line, Transformed
+-Cell Movement
+-Cell Proliferation
++Cell Shape
+-Cyclin-Dependent Kinase Inhibitor p27 (-deficiency; +metabolism)
+-Fibroblasts (-cytology; -metabolism)
+-Mesoderm (+cytology; -metabolism)
+-Mice
+-Microtubules (-metabolism)
+-Mutant Proteins (-metabolism)
+-Neoplasms (-pathology)
+-Oncogene Protein pp60(v-src) (-metabolism)
+-Phenotype
+-rhoA GTP-Binding Protein (-metabolism)
+
+pii:MCB.00144-09
+doi:10.1128/MCB.00144-09
+pubmed:19596789
+pmc:PMC2738297
+

@@ -1,0 +1,28 @@
+Mol. Syst. Biol.
+
+Metabolomics-driven quantitative analysis of ammonia assimilation in E. coli.
+
+J Yuan, CD Doucette, WU Fowler, XJ Feng, M Piazza, HA Rabitz, NS Wingreen, JD Rabinowitz
+
+Despite extensive study of individual enzymes and their organization into pathways, the means by which enzyme networks control metabolite concentrations and fluxes in cells remains incompletely understood. Here, we examine the integrated regulation of central nitrogen metabolism in Escherichia coli through metabolomics and ordinary-differential-equation-based modeling. Metabolome changes triggered by modulating extracellular ammonium centered around two key intermediates in nitrogen assimilation, alpha-ketoglutarate and glutamine. Many other compounds retained concentration homeostasis, indicating isolation of concentration changes within a subset of the metabolome closely linked to the nutrient perturbation. In contrast to the view that saturated enzymes are insensitive to substrate concentration, competition for the active sites of saturated enzymes was found to be a key determinant of enzyme fluxes. Combined with covalent modification reactions controlling glutamine synthetase activity, such active-site competition was sufficient to explain and predict the complex dynamic response patterns of central nitrogen metabolites.
+
+-Ammonia (+metabolism)
+-Catalytic Domain
+-Chromatography, High Pressure Liquid
+-Escherichia coli (+genetics; +metabolism)
+-Genetic Techniques
+-Glutamine (-metabolism)
+-Ketoglutaric Acids (-metabolism)
+-Mass Spectrometry (-methods)
+-Metabolome
+-Metabolomics (+methods)
+-Models, Genetic
+-Nitrogen (-metabolism)
+-Quaternary Ammonium Compounds
+-Systems Biology (-methods)
+
+pii:msb200960
+doi:10.1038/msb.2009.60
+pubmed:19690571
+pmc:PMC2736657
+

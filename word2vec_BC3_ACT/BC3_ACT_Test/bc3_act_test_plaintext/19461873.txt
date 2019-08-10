@@ -1,0 +1,31 @@
+PLoS Genet.
+
+HIF-1 modulates dietary restriction-mediated lifespan extension via IRE-1 in Caenorhabditis elegans.
+
+D Chen, EL Thomas, P Kapahi
+
+Dietary restriction (DR) extends lifespan in various species and also slows the onset of age-related diseases. Previous studies from flies and yeast have demonstrated that the target of rapamycin (TOR) pathway is essential for longevity phenotypes resulting from DR. TOR is a conserved protein kinase that regulates growth and metabolism in response to nutrients and growth factors. While some of the downstream targets of TOR have been implicated in regulating lifespan, it is still unclear whether additional targets of this pathway also modulate lifespan. It has been shown that the hypoxia inducible factor-1 (HIF-1) is one of the targets of the TOR pathway in mammalian cells. HIF-1 is a transcription factor complex that plays key roles in oxygen homeostasis, tumor formation, glucose metabolism, cell survival, and inflammatory response. Here, we describe a novel role for HIF-1 in modulating lifespan extension by DR in Caenorhabditis elegans. We find that HIF-1 deficiency results in extended lifespan, which overlaps with that by inhibition of the RSKS-1/S6 kinase, a key component of the TOR pathway. Using a modified DR method based on variation of bacterial food concentrations on solid agar plates, we find that HIF-1 modulates longevity in a nutrient-dependent manner. The hif-1 loss-of-function mutant extends lifespan under rich nutrient conditions but fails to show lifespan extension under DR. Conversely, a mutation in egl-9, which increases HIF-1 activity, diminishes the lifespan extension under DR. This deficiency is rescued by tissue-specific expression of egl-9 in specific neurons and muscles. Increased lifespan by hif-1 or DR is dependent on the endoplasmic reticulum (ER) stress regulator inositol-requiring protein-1 (IRE-1) and is associated with lower levels of ER stress. Therefore, our results demonstrate a tissue-specific role for HIF-1 in the lifespan extension by DR involving the IRE-1 ER stress pathway.
+
+-Animals
+-Base Sequence
+-Caenorhabditis elegans (-genetics; +physiology)
+-Caenorhabditis elegans Proteins (-genetics; +physiology)
++Caloric Restriction
+-DNA Primers (-genetics)
+-Endoplasmic Reticulum (-metabolism)
+-Genes, Helminth
+-Hypoxia-Inducible Factor 1 (-deficiency; -genetics; +physiology)
+-Inositol (-metabolism)
+-Longevity (-genetics; +physiology)
+-Models, Genetic
+-Muscles (-metabolism)
+-Mutation
+-Neurons (-metabolism)
+-RNA Interference
+-Ribosomal Protein S6 Kinases (-metabolism)
+-Stress, Physiological
+
+doi:10.1371/journal.pgen.1000486
+pubmed:19461873
+pmc:PMC2676694
+

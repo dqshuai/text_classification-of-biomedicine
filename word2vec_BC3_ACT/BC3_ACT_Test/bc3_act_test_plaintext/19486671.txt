@@ -1,0 +1,28 @@
+Biophys. J.
+
+Statistical determinants of selective ionic complexation: ions in solvent, transport proteins, and other "hosts".
+
+DL Bostick, CL Brooks
+
+To provide utility in understanding the molecular evolution of ion-selective biomembrane channels/transporters, globular proteins, and ionophoric compounds, as well as in guiding their modification and design, we present a statistical mechanical basis for deconstructing the impact of the coordination structure and chemistry of selective multidentate ionic complexes. The deconstruction augments familiar ideas in liquid structure theory to realize the ionic complex as an open ion-ligated system acting under the influence of an "external field" provided by the host (or surrounding medium). Using considerations derived from this basis, we show that selective complexation arises from exploitation of a particular ion's coordination preferences. These preferences derive from a balance of interactions much like that which dictates the Hofmeister effect. By analyzing the coordination-state space of small family IA and VIIA ions in simulated fluid media, we derive domains of coordinated states that confer selectivity for a given ion upon isolating and constraining particular attributes (order parameters) of a complex comprised of a given type of ligand. We demonstrate that such domains may be used to rationalize the ion-coordinated environments provided by selective ionophores and biological ion channels/transporters of known structure, and that they can serve as a means toward deriving rational design principles for ion-selective hosts.
+
+-Algorithms
+-Bromine (-chemistry)
+-Chlorides (-chemistry)
+-Computer Simulation
+-Fluorine (-chemistry)
+-Ions (+chemistry)
+-Lithium (-chemistry)
+-Membrane Transport Proteins (+chemistry)
++Models, Chemical
+-Oxygen (-chemistry)
+-Potassium (-chemistry)
+-Sodium (-chemistry)
+-Solvents (+chemistry)
+-Water (-chemistry)
+
+pii:S0006-3495(09)00677-8
+doi:10.1016/j.bpj.2009.03.001
+pubmed:19486671
+pmc:PMC2894556
+

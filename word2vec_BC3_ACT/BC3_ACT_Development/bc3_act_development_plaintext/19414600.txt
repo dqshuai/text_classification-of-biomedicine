@@ -1,0 +1,34 @@
+Mol. Cell. Biol.
+
+Adenine nucleotide translocator cooperates with core cell death machinery to promote apoptosis in Caenorhabditis elegans.
+
+Q Shen, F Qin, Z Gao, J Cui, H Xiao, Z Xu, C Yang
+
+In Caenorhabditis elegans, the central cell-killing process is essentially controlled by the interplay of four apoptotic factors: EGL-1/BH3-only protein, CED-9/Bcl2, CED-4/Apaf1, and CED-3/caspase. In cells destined to die, EGL-1 binds to CED-9 and results in the release of CED-4 from the mitochondrion-tethered CED-9-CED-4 complex to the perinucleus, which facilitates processing of the CED-3 caspase to cause apoptosis. However, whether additional factors exist to regulate the cell-killing process remains largely unknown. We have identified here WAN-1, the C. elegans ortholog of mammalian adenine nucleotide translocator, as an important cell death regulator. Genetic inactivation of wan-1 significantly suppressed both somatic and germ line cell deaths in C. elegans. Consistently, chemical inhibition of WAN-1 activity also caused strong reduction of germ line apoptosis. WAN-1 localizes to mitochondria and can form complex with both CED-4 and CED-9. Importantly, the cell death initiator EGL-1 can disrupt the interaction between CED-9 and WAN-1. In addition, overexpression of WAN-1 induced ectopic cell killing dependently on the core cell death pathway. These findings suggest that WAN-1 is involved in the central cell-killing process and cooperates with the core cell death machinery to promote programmed cell death in C. elegans.
+
+-Animals
+-Apoptosis (-drug effects; +physiology)
+-Atractyloside (-pharmacology)
+-Bongkrekic Acid (-pharmacology)
+-Caenorhabditis elegans (+cytology; -drug effects; +physiology)
+-Caenorhabditis elegans Proteins (-antagonists & inhibitors; -genetics; +physiology)
+-Calcium-Binding Proteins (-genetics; -physiology)
+-Caspases (-genetics; -physiology)
+-Cell Line
+-Gene Deletion
+-Gene Expression
+-Genes, Helminth
+-Germ Cells (-cytology; -metabolism)
+-Humans
+-Mitochondria (-metabolism)
+-Mitochondrial ADP, ATP Translocases (-antagonists & inhibitors; -genetics; +physiology)
+-Multiprotein Complexes
+-Proto-Oncogene Proteins c-bcl-2 (-genetics; -physiology)
+-RNA Interference
+-Repressor Proteins (-genetics; -physiology)
+
+pii:MCB.01509-08
+doi:10.1128/MCB.01509-08
+pubmed:19414600
+pmc:PMC2704750
+

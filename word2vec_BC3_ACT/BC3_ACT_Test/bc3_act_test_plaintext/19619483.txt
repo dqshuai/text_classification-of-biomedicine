@@ -1,0 +1,32 @@
+Biophys. J.
+
+Determination of dissociation constants in living zebrafish embryos with single wavelength fluorescence cross-correlation spectroscopy.
+
+X Shi, YH Foo, T Sudhaharan, SW Chong, V Korzh, S Ahmed, T Wohland
+
+The quantification of biological interactions is very important in life sciences. Here we report for the first time, to our knowledge, the determination of a biomolecular dissociation constant (K(D)) in living zebrafish embryos at physiological protein expression levels. For that purpose, we extend the application of single wavelength fluorescence cross-correlation spectroscopy into small organisms and measure the interaction of Cdc42, a small Rho-GTPase, and IQGAP1, an actin-binding scaffolding protein. Cdc42 and IQGAP1 were labeled with monomeric red fluorescent protein and enhanced green fluorescent protein, respectively. Both fluorophores were excited at a single wavelength of 514 nm, simplifying the fluorescence spectroscopy measurements and allowing quantification. For the determination of the interaction, we used two Cdc42 mutants, the constitutively active Cdc42(G12V) which is in a predominantly GTP-bound form and the dominant-negative GDP-bound Cdc42(T17N). While Cdc42(G12V) binds to IQGAP1 with an apparent K(D) of approximately 100 nM, Cdc42(T17N) has at least a one-order-of-magnitude lower affinity for the same protein. As a comparison, we measure the same protein-protein interactions in Chinese hamster ovary cell cultures but observe significant differences in protein mobility and K(D) from the zebrafish measurements, supporting the notion that bimolecular interactions depend on the biological system under investigation and are best performed under physiologically relevant conditions.
+
+-Actins (-metabolism)
+-Animals
+-CHO Cells
+-Calibration
+-Cell Movement
+-Cell Polarity
+-Cricetinae
+-Cricetulus
+-Gene Expression Regulation, Developmental
+-Microtubules (-metabolism)
+-Models, Biological
+-Mutation
+-Protein Binding
+-Protein Structure, Tertiary
+-Spectrometry, Fluorescence
+-Zebrafish (+embryology)
+-cdc42 GTP-Binding Protein (-genetics; -metabolism)
+-ras GTPase-Activating Proteins (-chemistry; -metabolism)
+
+pii:S0006-3495(09)00955-2
+doi:10.1016/j.bpj.2009.05.006
+pubmed:19619483
+pmc:PMC2711317
+

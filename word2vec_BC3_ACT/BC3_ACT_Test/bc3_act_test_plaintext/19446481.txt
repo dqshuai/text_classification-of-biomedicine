@@ -1,0 +1,29 @@
+Mol. Cell
+
+Crystal structure of the rad9-rad1-hus1 DNA damage checkpoint complex--implications for clamp loading and regulation.
+
+AS Doré, ML Kilkenny, NJ Rzechorzek, LH Pearl
+
+Rad9, Rad1, and Hus1 form a heterotrimeric complex (9-1-1) that is loaded onto DNA at sites of DNA damage. DNA-loaded 9-1-1 activates signaling through the Chk1 arm of the DNA damage checkpoint response via recruitment and stimulation of ATR. Additionally, 9-1-1 may play a direct role in facilitating DNA damage repair via interaction with a number of DNA repair enzymes. We have now determined the crystal structure of the human 9-1-1 complex, revealing a toroidal structure with a similar architecture to the homotrimeric PCNA DNA-binding clamp. The structure explains the formation of a unique heterotrimeric arrangement and reveals significant differences among the three subunits in the sites implicated in binding to the clamp loader and to ligand proteins. Biochemical analysis reveals a single repair enzyme-binding site on 9-1-1 that can be blocked competitively by the PCNA-binding cell-cycle regulator p21(cip1/waf1).
+
+-Binding Sites
+-Cell Cycle Proteins (+chemistry; -genetics; -metabolism)
+-Crystallography, X-Ray
+-Cyclin-Dependent Kinase Inhibitor p15 (-metabolism)
+-Cyclin-Dependent Kinase Inhibitor p21 (-metabolism)
++DNA Damage
+-DNA Repair
+-Evolution, Molecular
+-Exonucleases (+chemistry; -genetics; -metabolism)
+-Flap Endonucleases (-metabolism)
+-Humans
+-Models, Molecular
+-Phylogeny
+-Protein Processing, Post-Translational
+-Protein Structure, Quaternary
+-Protein Subunits (-chemistry; -genetics; -metabolism)
+
+pii:S1097-2765(09)00280-9
+doi:10.1016/j.molcel.2009.04.027
+pubmed:19446481
+

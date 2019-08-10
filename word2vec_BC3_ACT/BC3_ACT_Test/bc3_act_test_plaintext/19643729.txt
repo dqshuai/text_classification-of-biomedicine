@@ -1,0 +1,32 @@
+J. Biol. Chem.
+
+Redox mechanisms involved in the selective activation of Nrf2-mediated resistance versus p53-dependent apoptosis in adenocarcinoma cells.
+
+S Piccirillo, G Filomeni, B Brüne, G Rotilio, MR Ciriolo
+
+We have investigated the role of reactive oxygen species and thiol-oxidizing agents in the induction of cell death and have shown that adenocarcinoma gastric (AGS) cells respond differently to the oxidative challenge according to the signaling pathways activated. In particular, apoptosis in AGS cells is induced via the mitochondrial pathway upon treatment with thiol-oxidizing agents, such as diamide. Apoptosis is associated with persistent oxidative damage, as evidenced by the increase in carbonylated proteins and the expression/activation of DNA damage-sensitive proteins histone H2A.X and DNA-dependent protein kinase. Resistance to hydrogen peroxide is instead associated with Keap1 oxidation and rapid translocation of Nrf2 into the nucleus. Sensitivity to diamide and resistance to hydrogen peroxide are correlated with GSH redox changes, with diamide severely increasing GSSG, and hydrogen peroxide transiently inducing protein-GSH mixed disulfides. We show that p53 is activated in response to diamide treatment by the oxidative induction of the Trx1/p38(MAPK) signaling pathway. Similar results were obtained with another carcinoma cell line, CaCo2, indicating that these findings are not limited to AGS cells. Our data suggest that thiol-oxidizing agents could be exploited as inducers of apoptosis in tumor histotypes resistant to ROS-producing chemotherapeutics.
+
+-Adenocarcinoma (+pathology)
++Apoptosis (-drug effects)
+-Cell Line, Tumor
+-Cell Survival (-drug effects)
+-Diamide (-pharmacology)
+-Humans
+-Hydrogen Peroxide (-pharmacology)
+-Intracellular Space (-drug effects; -metabolism)
+-Mitochondria (-drug effects; -metabolism)
+-NF-E2-Related Factor 2 (+metabolism)
+-Oxidation-Reduction
+-Oxidative Stress (-drug effects)
+-Phosphorylation (-drug effects)
+-Signal Transduction
+-Substrate Specificity
+-Thioredoxins (-metabolism)
+-Tumor Suppressor Protein p53 (+metabolism)
+-p38 Mitogen-Activated Protein Kinases (-metabolism)
+
+pii:M109.014837
+doi:10.1074/jbc.M109.014837
+pubmed:19643729
+pmc:PMC2785700
+

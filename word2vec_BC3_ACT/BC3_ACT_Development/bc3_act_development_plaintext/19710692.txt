@@ -1,0 +1,28 @@
+Genes Immun.
+
+Octamer binding protein 2 (Oct2) regulates PD-L2 gene expression in B-1 cells through lineage-specific activity of a unique, intronic promoter.
+
+H Kaku, TL Rothstein
+
+Programmed death-1 ligand 2 (PD-L2) expression extends beyond macrophages/dendritic cells to B-1 B cells, a distinct B-cell lineage that is responsible for natural immunoglobulin and which is repertoire skewed toward autoreactive specificities. PD-L2 expression is constitutive in B-1 cells, whereas it is inducible in other cell types, suggesting that PD-L2 is regulated differently in the former versus the latter, and this proved to be the case, both in transcription and promotion. B-1 cells express a PD-L2 transcript that lacks exon 1, in contrast to macrophages/dendritic cells for which exon1 is included, reflecting a unique start site upstream of exon 2. PD-L2 transcription in B-1 cells is regulated by a novel intronic promoter located between exons 1 and 2. This intronic promoter binds Octamer binding protein 1 (Oct1) and Oct2, and although these transcription factors are present in all B cells, Oct2 binding is found in vivo only in B-1 cells and not PD-L2-negative B-2 cells. Moreover, the proximal promoter upstream of exon 1 that is active in macrophages is inactive in B-1 cells. Thus, PD-L2 expression is regulated by two different promoters that function in a lineage-specific manner, with the B-1-specific promoter being constitutively active as a result of Oct1 and Oct2 binding.
+
+-Animals
+-B-Lymphocytes (+metabolism)
+-Cell Line, Tumor
+-Gene Expression Regulation (+physiology)
+-Macrophages, Peritoneal (-metabolism)
+-Mice
+-Mice, Inbred BALB C
+-Octamer Transcription Factor-1 (-genetics; -metabolism)
+-Octamer Transcription Factor-2 (-genetics; +metabolism)
+-Organ Specificity (-physiology)
+-Peptides (+metabolism)
+-Promoter Regions, Genetic (+physiology)
+-Transcription, Genetic (-physiology)
+
+pii:gene200968
+doi:10.1038/gene.2009.68
+pubmed:19710692
+mid:NIHMS134471
+pmc:PMC2809120
+

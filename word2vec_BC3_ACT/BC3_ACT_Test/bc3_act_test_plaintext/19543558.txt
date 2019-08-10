@@ -1,0 +1,28 @@
+Acta Biochim. Pol.
+
+Reference genes for gene expression studies on non-small cell lung cancer.
+
+P Gresner, J Gromadzinska, W Wasowicz
+
+STUDY OBJECTIVE: The aim of this study was to test a panel of 6 reference genes in order to identify and validate the most suitable reference genes for expression studies in paired healthy and non-small cell lung cancer tissues. METHOD: Quantitative real-time PCR followed by the NormFinder- and geNorm-based analysis was employed. The study involved 21 non-small cell lung cancer patients. RESULTS: The analysis of experimental data revealed HPRT1 as the most stable gene followed by RPLP0 and ESD. In contrast, GAPDH was found to be the least stable gene. HPRT1 together with ESD was revealed as the pair of genes introducing the least systematic error into data normalization. Validation by bootstrap random sampling technique and by normalizing exemplary gene expression data confirmed the results. CONCLUSION: Although HPRT1 and ESD may by recommended for data normalization in gene expression studies on non-small cell lung cancer, the suitability of selected reference genes must be unconditionally validated prior to each study.
+
+-Aged
+-Carboxylesterase (-analysis)
+-Carcinoma, Non-Small-Cell Lung (+genetics; -metabolism)
+-DNA Primers
+-Female
++Gene Expression
+-Humans
+-Hypoxanthine Phosphoribosyltransferase (-analysis)
+-Lung (-metabolism)
+-Lung Neoplasms (+genetics; -metabolism)
+-Male
+-Middle Aged
+-Polymerase Chain Reaction (+standards)
+-RNA, Messenger (-chemistry; -metabolism)
+-Reference Standards
+-Software
+
+pii:20091806
+pubmed:19543558
+

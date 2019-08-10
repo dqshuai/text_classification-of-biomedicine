@@ -1,0 +1,33 @@
+EMBO Rep.
+
+Distinct roles of ATR and DNA-PKcs in triggering DNA damage responses in ATM-deficient cells.
+
+N Tomimatsu, B Mukherjee, S Burma
+
+The cellular response to DNA double-strand breaks involves direct activation of ataxia telangiectasia mutated (ATM) and indirect activation of ataxia telangiectasia and Rad3 related (ATR) in an ATM/Mre11/cell-cycle-dependent manner. Here, we report that the crucial checkpoint signalling proteins-p53, structural maintainance of chromosomes 1 (SMC1), p53 binding protein 1 (53BP1), checkpoint kinase (Chk)1 and Chk2-are phosphorylated rapidly by ATR in an ATM/Mre11/cell-cycle-independent manner, albeit at low levels. We observed the sequential recruitment of replication protein A (RPA) and ATR to the sites of DNA damage in ATM-deficient cells, which provides a mechanistic basis for the observed phosphorylations. The recruitment of ATR and consequent phosphorylations do not require Mre11 but are dependent on Exo1. We show that these low levels of phosphorylation are biologically important, as ATM-deficient cells enforce an early G2/M checkpoint that is ATR-dependent. ATR is also essential for the late G2 accumulation that is peculiar to irradiated ATM-deficient cells. Interestingly, phosphorylation of KRAB associated protein 1 (KAP-1), a protein involved in chromatin remodelling, is mediated by DNA-dependent protein kinase catalytic subunit (DNA-PKcs) in a spatio-temporal manner in addition to ATM. We posit that ATM substrates involved in cell-cycle checkpoint signalling can be minimally phosphorylated independently by ATR, while a small subset of proteins involved in chromatin remodelling are phosphorylated by DNA-PKcs in addition to ATM.
+
+-Ataxia Telangiectasia (-enzymology)
+-Cell Cycle Proteins (+metabolism)
+-Cell Line
+-DNA Breaks, Double-Stranded
++DNA Damage
+-DNA Repair
+-DNA Repair Enzymes (-metabolism)
+-DNA-Activated Protein Kinase (+metabolism)
+-DNA-Binding Proteins (+deficiency)
+-Exodeoxyribonucleases (-metabolism)
+-G2 Phase
+-Humans
+-Nuclear Proteins (+metabolism)
+-Phosphorylation
+-Protein Transport
+-Protein-Serine-Threonine Kinases (+deficiency; +metabolism)
+-Replication Protein A (-metabolism)
+-Repressor Proteins (-metabolism)
+-Tumor Suppressor Proteins (+deficiency)
+
+pii:embor200960
+doi:10.1038/embor.2009.60
+pubmed:19444312
+pmc:PMC2711839
+

@@ -1,0 +1,30 @@
+Mol. Cell. Biol.
+
+Base flipping in V(D)J recombination: insights into the mechanism of hairpin formation, the 12/23 rule, and the coordination of double-strand breaks.
+
+J Bischerour, C Lu, DB Roth, R Chalmers
+
+Tn5 transposase cleaves the transposon end using a hairpin intermediate on the transposon end. This involves a flipped base that is stacked against a tryptophan residue in the protein. However, many other members of the cut-and-paste transposase family, including the RAG1 protein, produce a hairpin on the flanking DNA. We have investigated the reversed polarity of the reaction for RAG recombination. Although the RAG proteins appear to employ a base-flipping mechanism using aromatic residues, the putatively flipped base is not at the expected location and does not appear to stack against any of the said aromatic residues. We propose an alternative model in which a flipped base is accommodated in a nonspecific pocket or cleft within the recombinase. This is consistent with the location of the flipped base at position -1 in the coding flank, which can be occupied by purine or pyrimidine bases that would be difficult to stabilize using a single, highly specific, interaction. Finally, during this work we noticed that the putative base-flipping events on either side of the 12/23 recombination signal sequence paired complex are coupled to the nicking steps and serve to coordinate the double-strand breaks on either side of the complex.
+
+-Animals
+-Base Pairing (+genetics)
+-Chromosome Pairing (-drug effects)
+-Cross-Linking Reagents (-metabolism)
++DNA Breaks, Double-Stranded (-drug effects)
+-Homeodomain Proteins (-metabolism)
+-Manganese Compounds (-pharmacology)
+-Mice
++Models, Genetic
+-Mutation (-genetics)
++Nucleic Acid Conformation (-drug effects)
+-Oxides (-pharmacology)
+-Pyrimidine Dimers
+-Recombination, Genetic (-drug effects; +genetics)
+-Signal Transduction (-drug effects)
+-VDJ Exons (+genetics)
+
+pii:MCB.00187-09
+doi:10.1128/MCB.00187-09
+pubmed:19720743
+pmc:PMC2772739
+

@@ -1,0 +1,29 @@
+Nucleic Acids Res.
+
+Studying vertebrate topoisomerase 2 function using a conditional knockdown system in DT40 cells.
+
+M Johnson, HH Phua, SC Bennett, JM Spence, CJ Farr
+
+DT40 is a B-cell lymphoma-derived avian cell line widely used to study cell autonomous gene function because of the high rates with which DNA constructs are homologously recombined into its genome. Here, we demonstrate that the power of the DT40 system can be extended yet further through the use of RNA interference as an alternative to gene targeting. We have generated and characterized stable DT40 transfectants in which both topo 2 genes have been in situ tagged using gene targeting, and from which the mRNA of both topoisomerase 2 isoforms can be conditionally depleted through the tetracycline-induced expression of short hairpin RNAs. The cell cycle phenotype of topo 2-depleted DT40 cells has been compared with that previously reported for other vertebrate cells depleted either of topo 2alpha through gene targeting, or depleted of both isoforms simultaneously by transient RNAi. In addition, the DT40 knockdown system has been used to explore whether excess catenation arising through topo 2 depletion is sufficient to trigger the G2 catenation (or decatenation) checkpoint, proposed to exist in differentiated vertebrate cells.
+
+-Animals
+-Cell Cycle
+-Cell Death
+-Cell Line, Tumor
+-Cell Proliferation
+-Chickens (-genetics)
+-DNA Topoisomerases, Type II, Eukaryotic (-antagonists & inhibitors; +genetics)
++Gene Knockdown Techniques
+-Genes, Lethal
+-Isoenzymes (-antagonists & inhibitors; -genetics)
+-Mitotic Index
+-Phenotype
+-Ploidies
++RNA Interference
+-Transgenes
+
+pii:gkp480
+doi:10.1093/nar/gkp480
+pubmed:19494182
+pmc:PMC2724289
+

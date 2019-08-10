@@ -1,0 +1,21 @@
+DNA Repair (Amst.)
+
+Checkpoint mechanisms at the intersection between DNA damage and repair.
+
+F Lazzaro, M Giannattasio, F Puddu, M Granata, A Pellicioli, P Plevani, M Muzi-Falconi
+
+In response to genomic insults cells trigger a signal transduction pathway, known as DNA damage checkpoint, whose role is to help the cell to cope with the damage by coordinating cell cycle progression, DNA replication and DNA repair mechanisms. Accumulating evidence suggests that activation of the first checkpoint kinase in the cascade is not due to the lesion itself, but it requires recognition and initial processing of the lesion by a specific repair mechanism. Repair enzymes likely convert a variety of physically and chemically different lesions to a unique common structure, a ssDNA region, which is the checkpoint triggering signal. Checkpoint kinases can modify the activity of repair mechanisms, allowing for efficient repair, on one side, and modulating the generation of the ssDNA signal, on the other. This strategy may be important to allow the most effective repair and a prompt recovery from the damage condition. Interestingly, at least in some cases, if the damage level is low enough the cell can deal with the lesions and it does not need to activate the checkpoint response. On the other hand if damage level is high or if the lesions are not rapidly repairable, checkpoint mechanisms become important for cell survival and preservation of genome integrity.
+
+-Animals
+-Base Pair Mismatch (-radiation effects)
++Cell Cycle (-radiation effects)
+-DNA (-biosynthesis)
++DNA Damage
++DNA Repair (-radiation effects)
+-Humans
+-Ultraviolet Rays
+
+pii:S1568-7864(09)00111-6
+doi:10.1016/j.dnarep.2009.04.022
+pubmed:19497792
+

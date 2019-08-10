@@ -1,0 +1,25 @@
+RNA
+
+Computational identification of riboswitches based on RNA conserved functional sequences and conformations.
+
+TH Chang, HD Huang, LC Wu, CT Yeh, BJ Liu, JT Horng
+
+Riboswitches are cis-acting genetic regulatory elements within a specific mRNA that can regulate both transcription and translation by interacting with their corresponding metabolites. Recently, an increasing number of riboswitches have been identified in different species and investigated for their roles in regulatory functions. Both the sequence contexts and structural conformations are important characteristics of riboswitches. None of the previously developed tools, such as covariance models (CMs), Riboswitch finder, and RibEx, provide a web server for efficiently searching homologous instances of known riboswitches or considers two crucial characteristics of each riboswitch, such as the structural conformations and sequence contexts of functional regions. Therefore, we developed a systematic method for identifying 12 kinds of riboswitches. The method is implemented and provided as a web server, RiboSW, to efficiently and conveniently identify riboswitches within messenger RNA sequences. The predictive accuracy of the proposed method is comparable with other previous tools. The efficiency of the proposed method for identifying riboswitches was improved in order to achieve a reasonable computational time required for the prediction, which makes it possible to have an accurate and convenient web server for biologists to obtain the results of their analysis of a given mRNA sequence. RiboSW is now available on the web at http://RiboSW.mbc.nctu.edu.tw/.
+
+-Base Sequence
+-Conserved Sequence
+-Gene Expression Regulation, Bacterial
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-Open Reading Frames (+genetics)
+-RNA, Bacterial (+genetics)
+-RNA, Messenger (+chemistry; -metabolism)
++Regulatory Sequences, Ribonucleic Acid
+-Sequence Analysis, DNA
++Software
+
+pii:rna.1623809
+doi:10.1261/rna.1623809
+pubmed:19460868
+pmc:PMC2704089
+

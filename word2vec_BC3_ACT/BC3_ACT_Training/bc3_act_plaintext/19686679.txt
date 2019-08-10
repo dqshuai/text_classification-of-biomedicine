@@ -1,0 +1,28 @@
+Dev. Cell
+
+Integrin-alpha9 is required for fibronectin matrix assembly during lymphatic valve morphogenesis.
+
+E Bazigou, S Xie, C Chen, A Weston, N Miura, L Sorokin, R Adams, AF Muro, D Sheppard, T Makinen
+
+Dysfunction of lymphatic valves underlies human lymphedema, yet the process of valve morphogenesis is poorly understood. Here, we show that during embryogenesis, lymphatic valve leaflet formation is initiated by upregulation of integrin-alpha9 expression and deposition of its ligand fibronectin-EIIIA (FN-EIIIA) in the extracellular matrix. Endothelial cell-specific deletion of Itga9 (encoding integrin-alpha9) in mouse embryos results in the development of rudimentary valve leaflets characterized by disorganized FN matrix, short cusps, and retrograde lymphatic flow. Similar morphological and functional defects are observed in mice lacking the EIIIA domain of FN. Mechanistically, we demonstrate that in primary human lymphatic endothelial cells, the integrin-alpha9-EIIIA interaction directly regulates FN fibril assembly, which is essential for the formation of the extracellular matrix core of valve leaflets. Our findings reveal an important role for integrin-alpha9 signaling during lymphatic valve morphogenesis and implicate it as a candidate gene for primary lymphedema caused by valve defects.
+
+-Animals
+-Antigens, CD31 (-metabolism)
+-Endothelial Cells (-cytology; +metabolism)
+-Extracellular Matrix (+metabolism)
+-Fibronectins (+metabolism)
+-Humans
+-Integrin alpha Chains (-genetics; +metabolism)
+-Laminin (-metabolism)
+-Lymphatic Vessels (-abnormalities; +anatomy & histology; -metabolism)
+-Mice
+-Mice, Knockout
+-Morphogenesis (+physiology)
+-RNA, Small Interfering (-genetics; -metabolism)
+
+pii:S1534-5807(09)00259-7
+doi:10.1016/j.devcel.2009.06.017
+pubmed:19686679
+mid:NIHMS141065
+pmc:PMC2747264
+

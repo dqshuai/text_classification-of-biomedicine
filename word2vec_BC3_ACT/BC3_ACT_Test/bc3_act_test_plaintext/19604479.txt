@@ -1,0 +1,37 @@
+Structure
+
+EM-fold: De novo folding of alpha-helical proteins guided by intermediate-resolution electron microscopy density maps.
+
+S Lindert, R Staritzbichler, N Wötzel, M Karakaş, PL Stewart, J Meiler
+
+In medium-resolution (7-10 A) cryo-electron microscopy (cryo-EM) density maps, alpha helices can be identified as density rods whereas beta-strand or loop regions are not as easily discerned. We are proposing a computational protein structure prediction algorithm "EM-Fold" that resolves the density rod connectivity ambiguity by placing predicted alpha helices into the density rods and adding missing backbone coordinates in loop regions. In a benchmark of 11 mainly alpha-helical proteins of known structure a native-like model is identified in eight cases (rmsd 3.9-7.9 A). The three failures can be attributed to inaccuracies in the secondary structure prediction step that precedes EM-Fold. EM-Fold has been applied to the approximately 6 A resolution cryo-EM density map of protein IIIa from human adenovirus. We report the first topological model for the alpha-helical 400 residue N-terminal region of protein IIIa. EM-Fold also has the potential to interpret medium-resolution density maps in X-ray crystallography.
+
+-Adenoviruses, Human (-chemistry; -ultrastructure)
+-Algorithms
+-Amino Acid Sequence
+-Animals
+-Cattle
+-Computational Biology
+-Computer Simulation
+-Cryoelectron Microscopy
+-Crystallography, X-Ray
+-Databases, Protein
+-Humans
++Microscopy, Electron
+-Models, Chemical
+-Models, Molecular
+-Molecular Sequence Data
+-Monte Carlo Method
+-Protein Conformation
++Protein Folding
++Protein Structure, Secondary
+-Proteins (+chemistry)
+-ROC Curve
+-Rhodopsin (-chemistry; -ultrastructure)
+-Sequence Homology, Amino Acid
++Software
+
+pii:S0969-2126(09)00223-8
+doi:10.1016/j.str.2009.06.001
+pubmed:19604479
+

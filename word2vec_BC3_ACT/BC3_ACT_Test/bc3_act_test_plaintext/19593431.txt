@@ -1,0 +1,24 @@
+PLoS ONE
+
+Biomarkers for early and late stage chronic allograft nephropathy by proteogenomic profiling of peripheral blood.
+
+SM Kurian, R Heilman, TS Mondala, A Nakorchevsky, JA Hewel, D Campbell, EH Robison, L Wang, W Lin, L Gaber, K Solez, H Shidban, R Mendez, RL Schaffer, JS Fisher, SM Flechner, SR Head, S Horvath, JR Yates, CL Marsh, DR Salomon
+
+BACKGROUND: Despite significant improvements in life expectancy of kidney transplant patients due to advances in surgery and immunosuppression, Chronic Allograft Nephropathy (CAN) remains a daunting problem. A complex network of cellular mechanisms in both graft and peripheral immune compartments complicates the non-invasive diagnosis of CAN, which still requires biopsy histology. This is compounded by non-immunological factors contributing to graft injury. There is a pressing need to identify and validate minimally invasive biomarkers for CAN to serve as early predictors of graft loss and as metrics for managing long-term immunosuppression. METHODS: We used DNA microarrays, tandem mass spectroscopy proteomics and bioinformatics to identify genomic and proteomic markers of mild and moderate/severe CAN in peripheral blood of two distinct cohorts (n = 77 total) of kidney transplant patients with biopsy-documented histology. FINDINGS: Gene expression profiles reveal over 2400 genes for mild CAN, and over 700 for moderate/severe CAN. A consensus analysis reveals 393 (mild) and 63 (moderate/severe) final candidates as CAN markers with predictive accuracy of 80% (mild) and 92% (moderate/severe). Proteomic profiles show over 500 candidates each, for both stages of CAN including 302 proteins unique to mild and 509 unique to moderate/severe CAN. CONCLUSIONS: This study identifies several unique signatures of transcript and protein biomarkers with high predictive accuracies for mild and moderate/severe CAN, the most common cause of late allograft failure. These biomarkers are the necessary first step to a proteogenomic classification of CAN based on peripheral blood profiling and will be the targets of a prospective clinical validation study.
+
+-Biological Markers (+blood)
+-Chromatography, Liquid
++Gene Expression Profiling
++Genomics
+-Humans
+-Kidney Diseases (+blood)
++Kidney Transplantation
+-Oligonucleotide Array Sequence Analysis
++Proteomics
+-Tandem Mass Spectrometry
++Transplantation, Homologous
+
+doi:10.1371/journal.pone.0006212
+pubmed:19593431
+pmc:PMC2703807
+

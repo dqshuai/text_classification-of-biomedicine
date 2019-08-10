@@ -1,0 +1,25 @@
+Biophys. J.
+
+Adaptive-control model for neutrophil orientation in the direction of chemical gradients.
+
+D Irimia, G Balázsi, N Agrawal, M Toner
+
+Neutrophils have a remarkable ability to detect the direction of chemoattractant gradients and move directionally in response to bacterial infections and tissue injuries. For their role in health and disease, neutrophils have been extensively studied, and many of the molecules involved in the signaling mechanisms of gradient detection and chemotaxis have been identified. However, the cellular-scale mechanisms of gradient sensing and directional neutrophil migration have been more elusive, and existent models provide only limited insight into these processes. Here, we propose a what we believe is a novel adaptive-control model for the initiation of cell polarization in response to gradients. In this model, the neutrophils first sample the environment by extending protrusions in random directions and subsequently adapt their sensitivity depending on localized, temporal changes in stimulation levels. Our results suggest that microtubules may play a critical role in integrating all the sensing events from the cellular periphery through their redistribution inside the neutrophils, and may also be involved in modulating local signaling. An unexpected finding was that model neutrophils exhibit significant randomness in timing and directionality of activation, comparable to our experimental observations in microfluidic devices. Moreover, their responses are robust against alterations of the rate and amplitude of the signaling reactions, and for a broad range in chemoattractant concentrations and spatial gradients.
+
+-Biophysical Processes (-drug effects)
+-Chemotactic Factors (+pharmacology)
+-Chemotaxis, Leukocyte (-drug effects)
+-Cytoskeleton (-drug effects; -metabolism)
+-Humans
+-Microfluidic Analytical Techniques
+-Microtubules (-drug effects; -metabolism)
++Models, Biological
+-Neutrophils (+cytology; +drug effects; -metabolism)
+-Signal Transduction (-drug effects)
+-Stochastic Processes
+
+pii:S0006-3495(09)00606-7
+doi:10.1016/j.bpj.2008.12.3967
+pubmed:19450463
+pmc:PMC2712156
+

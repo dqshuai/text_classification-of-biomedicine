@@ -1,0 +1,18 @@
+PLoS Genet.
+
+Statistical power of model selection strategies for genome-wide association studies.
+
+Z Wu, H Zhao
+
+Genome-wide association studies (GWAS) aim to identify genetic variants related to diseases by examining the associations between phenotypes and hundreds of thousands of genotyped markers. Because many genes are potentially involved in common diseases and a large number of markers are analyzed, it is crucial to devise an effective strategy to identify truly associated variants that have individual and/or interactive effects, while controlling false positives at the desired level. Although a number of model selection methods have been proposed in the literature, including marginal search, exhaustive search, and forward search, their relative performance has only been evaluated through limited simulations due to the lack of an analytical approach to calculating the power of these methods. This article develops a novel statistical approach for power calculation, derives accurate formulas for the power of different model selection strategies, and then uses the formulas to evaluate and compare these strategies in genetic model spaces. In contrast to previous studies, our theoretical framework allows for random genotypes, correlations among test statistics, and a false-positive control based on GWAS practice. After the accuracy of our analytical results is validated through simulations, they are utilized to systematically evaluate and compare the performance of these strategies in a wide class of genetic models. For a specific genetic model, our results clearly reveal how different factors, such as effect size, allele frequency, and interaction, jointly affect the statistical power of each strategy. An example is provided for the application of our approach to empirical research. The statistical approach used in our derivations is general and can be employed to address the model selection problems in other random predictor settings. We have developed an R package markerSearchPower to implement our formulas, which can be downloaded from the Comprehensive R Archive Network (CRAN) or http://bioinformatics.med.yale.edu/group/.
+
+-Genome-Wide Association Study (+methods; +statistics & numerical data)
++Models, Genetic
+-Models, Statistical
+-Polymorphism, Single Nucleotide
+-Software
+
+doi:10.1371/journal.pgen.1000582
+pubmed:19649321
+pmc:PMC2712761
+

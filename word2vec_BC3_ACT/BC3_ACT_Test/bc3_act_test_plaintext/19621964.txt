@@ -1,0 +1,22 @@
+J. Am. Chem. Soc.
+
+Interaction of radical pairs through-bond and through-space: scope and limitations of the point-dipole approximation in electron paramagnetic resonance spectroscopy.
+
+C Riplinger, JP Kao, GM Rosen, V Kathirvelu, GR Eaton, SS Eaton, A Kutateladze, F Neese
+
+The validity of the popular point-dipole approximation for interpretation of the zero-field splitting (ZFS) parameter (D-value) in EPR spectroscopy is studied. This approximation is of central importance for the determination of distances by analysis of EPR data. In this work, a detailed experimental (EPR spectroscopy and X-ray crystallography) and theoretical study for a model system (2,2',5,5'-tetra(tert-butyl)-4,4'-bis(ethoxy-carbonyl)-3,3'-bipyrrolyl-1,1'-dioxyl) was performed to understand the scope and limitations of the point-dipole model in EPR spectroscopy. For this diradical, the radical-radical distance derived with the point-dipole approximation deviates significantly (by approximately 40%) from the results derived from the X-ray analysis. Explicit quantum chemical calculation of the D-value on the basis of B3LYP density functional calculations leads to excellent quantitative agreement with the measured D-value. The quantitative accuracy of the employed methodology was confirmed for two additional systems that have previously been experimentally characterized. We therefore analyzed the contributions to the D-value of the target system in detail. This analysis leads to insight into the reasons for the failure of the point-dipole approximation. The analysis was then extended to an in silico study of five classes of model systems. Linkers of varying length and bond saturation were introduced between the radical-carrying groups. This allows for the analysis of the distance dependence of the D-parameter as well as the through-bond and through-space spin-spin interaction. From these results we established the limitations of the point-dipole approximation. The results of this analysis demonstrate that even very modest amounts of spin delocalization can cause significant deviations from pure point-dipole behavior and consequently cause the EPR derived distances to deviate from the N-O midpoint distance by up to several angstroms. If unsaturated linkers are used, the distance dependence of D does not follow the inverse cubic behavior predicted by the point-dipole model. However, for commonly used nonaromatic nitroxide rings connected by a saturated linker, the point-dipole approximation works well. Among the various point-dipole variants tested in this work for delocalized spins, the most successful one is based on distributed point-dipoles with spin populations derived from quantum chemical calculations. The distance dependence of the isotropic Heisenberg exchange parameter J has also been studied theoretically. The decay was found to be monoexponential with a decay constant of approximately 1 A(-1). Thus at linker lengths between 6-8 carbon atoms between a nitroxide radical pair, a switch from the strong to the weak exchange limit is predicted.
+
+-Computer Simulation
+-Cyclic N-Oxides (+chemistry)
+-Electron Spin Resonance Spectroscopy (-methods)
+-Free Radicals (+chemistry)
+-Models, Chemical
+-Molecular Structure
+-Pyrroles (+chemistry)
+-Quantum Theory
+
+doi:10.1021/ja901150j
+pubmed:19621964
+mid:NIHMS129876
+pmc:PMC2716015
+

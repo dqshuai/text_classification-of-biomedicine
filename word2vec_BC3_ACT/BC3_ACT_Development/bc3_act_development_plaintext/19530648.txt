@@ -1,0 +1,18 @@
+Biochemistry
+
+Direct kinetic evidence that lysine 215 is involved in the phospho-transfer step of human 3-phosphoglycerate kinase.
+
+A Varga, C Lionne, P Lallemand, J Szabó, N Adamek, C Valentin, M Vas, T Barman, L Chaloin
+
+3-Phosphoglycerate kinase (PGK) is a promising candidate for the activation of nucleotide analogues used in antiviral and anticancer therapies. PGK is a key enzyme in glycolysis; it catalyzes the reversible reaction 1,3-bisphosphoglycerate + ADP <--> 3-phosphoglycerate + ATP. Here we explored the catalytic role in human PGK of the highly conserved Lys 215 that has been proposed to be essential for PGK function by a transient and equilibrium kinetic study with the active site mutant K215A. By the stopped-flow method we show that the kinetics of substrate binding and the associated protein isomerization steps are fast and identical for the wild-type PGK and mutant K215A. By the use of a chemical sampling method (rapid quench flow) under multiple and single turnover conditions and in both directions of the reaction, we show that the rate-limiting step with wild-type PGK follows product formation (presumably product release), whereas with the mutant it is the phospho-transfer step itself that is rate-limiting. Mutant K215A has a low inherent phosphotransferase activity, and to explain this, we carried out a molecular modeling study. This suggests that with the mutant the conserved Arg 65 replaces the missing Lys 215 by helping to position the transferable phospho group during the reaction. Molecular dynamics simulations suggest that in the mutant the closed conformation of the enzyme is stabilized by a salt bridge between Asp 218 and Arg 170 rather than Arg 65 in the wild-type PGK.
+
+-Catalytic Domain
+-Humans
+-Kinetics
+-Lysine (+metabolism)
+-Models, Molecular
+-Phosphoglycerate Kinase (-chemistry; +metabolism)
+
+doi:10.1021/bi900396h
+pubmed:19530648
+

@@ -1,0 +1,27 @@
+PLoS ONE
+
+Scale-free music of the brain.
+
+D Wu, CY Li, DZ Yao
+
+BACKGROUND: There is growing interest in the relation between the brain and music. The appealing similarity between brainwaves and the rhythms of music has motivated many scientists to seek a connection between them. A variety of transferring rules has been utilized to convert the brainwaves into music; and most of them are mainly based on spectra feature of EEG. METHODOLOGY/PRINCIPAL FINDINGS: In this study, audibly recognizable scale-free music was deduced from individual Electroencephalogram (EEG) waveforms. The translation rules include the direct mapping from the period of an EEG waveform to the duration of a note, the logarithmic mapping of the change of average power of EEG to music intensity according to the Fechner's law, and a scale-free based mapping from the amplitude of EEG to music pitch according to the power law. To show the actual effect, we applied the deduced sonification rules to EEG segments recorded during rapid-eye movement sleep (REM) and slow-wave sleep (SWS). The resulting music is vivid and different between the two mental states; the melody during REM sleep sounds fast and lively, whereas that in SWS sleep is slow and tranquil. 60 volunteers evaluated 25 music pieces, 10 from REM, 10 from SWS and 5 from white noise (WN), 74.3% experienced a happy emotion from REM and felt boring and drowsy when listening to SWS, and the average accuracy for all the music pieces identification is 86.8%(kappa = 0.800, P<0.001). We also applied the method to the EEG data from eyes closed, eyes open and epileptic EEG, and the results showed these mental states can be identified by listeners. CONCLUSIONS/SIGNIFICANCE: The sonification rules may identify the mental states of the brain, which provide a real-time strategy for monitoring brain activities and are potentially useful to neurofeedback therapy.
+
+-Adolescent
+-Adult
+-Brain (+physiology)
+-Brain Mapping
+-Electroencephalography (+methods)
+-Epilepsy (-physiopathology)
+-Female
+-Humans
+-Male
++Music
+-Reproducibility of Results
+-Sleep Stages
+-Sleep, REM
+-Wakefulness
+
+doi:10.1371/journal.pone.0005915
+pubmed:19526057
+pmc:PMC2691588
+

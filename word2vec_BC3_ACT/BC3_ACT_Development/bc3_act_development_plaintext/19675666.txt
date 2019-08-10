@@ -1,0 +1,25 @@
+PLoS Comput. Biol.
+
+How thioredoxin dissociates its mixed disulfide.
+
+G Roos, N Foloppe, K Van Laer, L Wyns, L Nilsson, P Geerlings, J Messens
+
+The dissociation mechanism of the thioredoxin (Trx) mixed disulfide complexes is unknown and has been debated for more than twenty years. Specifically, opposing arguments for the activation of the nucleophilic cysteine as a thiolate during the dissociation of the complex have been put forward. As a key model, the complex between Trx and its endogenous substrate, arsenate reductase (ArsC), was used. In this structure, a Cys29(Trx)-Cys89(ArsC) intermediate disulfide is formed by the nucleophilic attack of Cys29(Trx) on the exposed Cys82(ArsC)-Cys89(ArsC) in oxidized ArsC. With theoretical reactivity analysis, molecular dynamics simulations, and biochemical complex formation experiments with Cys-mutants, Trx mixed disulfide dissociation was studied. We observed that the conformational changes around the intermediate disulfide bring Cys32(Trx) in contact with Cys29(Trx). Cys32(Trx) is activated for its nucleophilic attack by hydrogen bonds, and Cys32(Trx) is found to be more reactive than Cys82(ArsC). Additionally, Cys32(Trx) directs its nucleophilic attack on the more susceptible Cys29(Trx) and not on Cys89(ArsC). This multidisciplinary approach provides fresh insights into a universal thiol/disulfide exchange reaction mechanism that results in reduced substrate and oxidized Trx.
+
+-Arsenate Reductases (+chemistry; -metabolism)
+-Computer Simulation
+-Cysteine (-chemistry; -metabolism)
+-Disulfides (+chemistry; -metabolism)
+-Kinetics
+-Linear Models
+-Models, Chemical
+-Models, Molecular
+-Oxidation-Reduction
+-Protein Conformation
+-Sulfhydryl Compounds (-chemistry; -metabolism)
+-Thioredoxins (+chemistry; -metabolism)
+
+doi:10.1371/journal.pcbi.1000461
+pubmed:19675666
+pmc:PMC2714181
+

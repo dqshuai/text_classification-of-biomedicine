@@ -1,0 +1,27 @@
+J. Exp. Bot.
+
+Transcriptional profiling of maturing tomato (Solanum lycopersicum L.) microspores reveals the involvement of heat shock proteins, ROS scavengers, hormones, and sugars in the heat stress response.
+
+G Frank, E Pressman, R Ophir, L Althan, R Shaked, M Freedman, S Shen, N Firon
+
+Above-optimal temperatures reduce yield in tomato largely because of the high heat stress (HS) sensitivity of the developing pollen grains. The high temperature response, especially at this most HS-sensitive stage of the plant, is poorly understood. To obtain an overview of molecular mechanisms underlying the HS response (HSR) of microspores, a detailed transcriptomic analysis of heat-stressed maturing tomato microspores was carried out using a combination of Affymetrix Tomato Genome Array and cDNA-amplified fragment length polymorphism (AFLP) techniques. The results were corroborated by reverse transcription-PCR (RT-PCR) and immunoblot analyses. The data obtained reveal the involvement of specific members of the small heat shock protein (HSP) gene family, HSP70 and HSP90, in addition to the HS transcription factors A2 (HSFA2) and HSFA3, as well as factors other than the classical HS-responsive genes. The results also indicate HS regulation of reactive oxygen species (ROS) scavengers, sugars, plant hormones, and regulatory genes that were previously implicated in other types of stress. The use of cDNA-AFLP enabled the detection of genes representing pollen-specific functions that are missing from the tomato Affymetrix chip, such as those involved in vesicle-mediated transport and a pollen-specific, calcium-dependent protein kinase (CDPK2). For several genes, including LeHSFA2, LeHSP17.4-CII, as well as homologues of LeHSP90 and AtVAMP725, higher basal expression levels were detected in microspores of cv. Hazera 3042 (a heat-tolerant cultivar) compared with microspores of cv. Hazera 3017 (a heat-sensitive cultivar), marking these genes as candidates for taking part in microspore thermotolerance. This work provides a comprehensive analysis of the molecular events underlying the HSR of maturing microspores of a crop plant, tomato.
+
+-Carbohydrate Metabolism
+-DNA-Binding Proteins (-genetics; -metabolism)
+-Free Radical Scavengers (-metabolism)
++Gene Expression Profiling
+-Gene Expression Regulation, Developmental
+-Heat-Shock Proteins (-genetics; +metabolism)
++Heat-Shock Response
+-Lycopersicon esculentum (-genetics; +growth & development; -metabolism)
+-Plant Growth Regulators (+metabolism)
+-Plant Proteins (-genetics; +metabolism)
+-Pollen (-genetics; -growth & development; -metabolism)
+-Reactive Oxygen Species (-metabolism)
+-Transcription Factors (-genetics; -metabolism)
+
+pii:erp234
+doi:10.1093/jxb/erp234
+pubmed:19628571
+pmc:PMC2736902
+

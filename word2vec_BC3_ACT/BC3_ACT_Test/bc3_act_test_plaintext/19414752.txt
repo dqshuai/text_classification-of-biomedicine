@@ -1,0 +1,25 @@
+J. Immunol.
+
+A network modeling approach to analysis of the Th2 memory responses underlying human atopic disease.
+
+A Bosco, KL McKenna, MJ Firth, PD Sly, PG Holt
+
+Complex cellular functions within immunoinflammatory cascades are conducted by networks of interacting genes. In this study, we employed a network modeling approach to dissect and interpret global gene expression patterns in allergen-induced Th cell responses that underpin human atopic disease. We demonstrate that a subnet of interconnected genes enriched for Th2 and regulatory T cell-associated signatures plus many novel genes is hardwired into the atopic response and is a hallmark of atopy at the systems level. We show that activation of this subnet is stabilized via hyperconnected "hub" genes, the selective disruption of which can collapse the entire network in a comprehensive fashion. Finally, we investigated gene expression in different Th cell subsets and show that regulatory T cell- and Th2-associated signatures partition at different stages of Th memory cell differentiation. Moreover, we demonstrate the parallel presence of a core element of the Th2-associated gene signature in bystander naive cells, which can be reproduced by rIL-4. These findings indicate that network analysis provides significant additional insight into atopic mechanisms beyond that achievable with conventional microarray analyses, predicting functional interactions between novel genes and previously recognized members of the allergic cascade. This approach provides novel opportunities for design of therapeutic strategies that target entire networks of genes rather than individual effector molecules.
+
+-Adolescent
+-Adult
+-Gene Expression Profiling
+-Humans
+-Hypersensitivity, Immediate (+genetics; -immunology)
+-Immunologic Memory (+genetics; -immunology)
+-Middle Aged
++Models, Immunological
+-Models, Theoretical
+-Oligonucleotide Array Sequence Analysis
+-Reverse Transcriptase Polymerase Chain Reaction
+-Th2 Cells (+immunology)
+
+pii:182/10/6011
+doi:10.4049/jimmunol.0804125
+pubmed:19414752
+

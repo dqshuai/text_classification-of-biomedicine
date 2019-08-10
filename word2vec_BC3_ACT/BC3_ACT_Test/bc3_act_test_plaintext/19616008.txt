@@ -1,0 +1,28 @@
+J. Mol. Biol.
+
+Characterization of two novel aldo-keto reductases from Arabidopsis: expression patterns, broad substrate specificity, and an open active-site structure suggest a role in toxicant metabolism following stress.
+
+PJ Simpson, C Tantitadapitak, AM Reed, OC Mather, CM Bunce, SA White, JP Ride
+
+Aldo-keto reductases (AKRs) are widely distributed in nature and play numerous roles in the metabolism of steroids, sugars, and other carbonyls. They have also frequently been implicated in the metabolism of exogenous and endogenous toxicants, including those stimulated by stress. Although the Arabidopsis genome includes at least 21 genes with the AKR signature, very little is known of their functions. In this study, we have screened the Arabidopsis thaliana genomic sequence for genes with significant homology to members of the mammalian AKR1 family and identified four homologues for further study. Following alignment of the predicted protein sequences with representatives from the AKR superfamily, the proteins were ascribed not to the AKR1 family but to the AKR4C subfamily, with the individual designations of AKR4C8, AKR4C9, AKR4C10, and AKR4C11. Expression of two of the genes, AKR4C8 and AKR4C9, has been shown to be coordinately regulated and markedly induced by various forms of stress. The genes have been overexpressed in bacteria, and recombinant proteins have been purified and crystallized. Both enzymes display NADPH-dependent reduction of carbonyl compounds, typical of the superfamily, but will accept a very wide range of substrates, reducing a range of steroids, sugars, and aliphatic and aromatic aldehydes/ketones, although there are distinct differences between the two enzymes. We have obtained high-resolution crystal structures of AKR4C8 (1.4 A) and AKR4C9 (1.25 A) in ternary complexes with NADP(+) and acetate. Three extended loops, present in all AKRs and responsible for defining the cofactor- and substrate-binding sites, are shorter in the 4C subfamily compared to other AKRs. Consequently, the crystal structures reveal open and accommodative substrate-binding sites, which correlates with their broad substrate specificity. It is suggested that the primary role of these enzymes may be to detoxify a range of toxic aldehydes and ketones produced during stress, although the precise nature of the principal natural substrates remains to be determined.
+
+-Alcohol Oxidoreductases (+chemistry; +genetics; -metabolism)
+-Amino Acid Sequence
+-Arabidopsis (+enzymology; -physiology)
+-Catalytic Domain
+-Computational Biology (-methods)
+-Crystallography, X-Ray
+-Gene Expression Profiling
+-Molecular Sequence Data
+-NADP (-metabolism)
+-Phylogeny
+-Plant Proteins (+chemistry; +genetics; -metabolism)
+-Protein Structure, Tertiary
+-Sequence Alignment
+-Stress, Physiological
+-Substrate Specificity
+
+pii:S0022-2836(09)00863-8
+doi:10.1016/j.jmb.2009.07.023
+pubmed:19616008
+

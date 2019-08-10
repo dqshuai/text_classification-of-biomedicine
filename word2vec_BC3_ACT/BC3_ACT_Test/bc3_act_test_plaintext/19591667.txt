@@ -1,0 +1,24 @@
+BMC Plant Biol.
+
+Profiling microRNA expression in Arabidopsis pollen using microRNA array and real-time PCR.
+
+C Chambers, B Shuai
+
+BACKGROUND: MicroRNAs (miRNAs) are approximately 22-nt small non-coding RNAs that regulate the expression of specific target genes in many eukaryotes. In higher plants, miRNAs are involved in developmental processes and stress responses. Sexual reproduction in flowering plants relies on pollen, the male gametophyte, to deliver sperm cells to fertilize the egg cell hidden in the embryo sac. Studies indicated that post-transcriptional processes are important for regulating gene expression during pollen function. However, we still have very limited knowledge on the involved gene regulatory mechanisms. Especially, the function of miRNAs in pollen remains unknown. RESULTS: Using miRCURY LNA array technology, we have profiled the expression of 70 known miRNAs (representing 121 miRBase IDs) in Arabidopsis mature pollen, and compared the expression of these miRNAs in pollen and young inflorescence. Thirty-seven probes on the array were identified using RNAs isolated from mature pollen, 26 of which showed significant differences in expression between mature pollen and inflorescence. Real-time PCR based on TaqMan miRNA assays confirmed the expression of 22 miRNAs in mature pollen, and identified 8 additional miRNAs that were expressed at low level in mature pollen. However, the expression of 11 miRNA that were identified on the array could not be confirmed by the Taqman miRNA assays. Analyses of transcriptome data for some miRNA target genes indicated that miRNAs are functional in pollen. CONCLUSION: In summary, our results showed that some known miRNAs were expressed in Arabidopsis mature pollen, with most of them being low abundant. The results can be utilized in future research to study post-transcriptional gene regulation in pollen function.
+
+-Arabidopsis (+genetics; -metabolism)
+-Gene Expression Profiling
+-Gene Expression Regulation, Plant
+-MicroRNAs (+metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Pollen (+genetics; -metabolism)
+-RNA Interference
+-RNA, Plant (+metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Sequence Analysis, RNA
+
+pii:1471-2229-9-87
+doi:10.1186/1471-2229-9-87
+pubmed:19591667
+pmc:PMC2715406
+

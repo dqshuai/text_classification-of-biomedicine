@@ -1,0 +1,35 @@
+DNA Repair (Amst.)
+
+PIKK-dependent phosphorylation of Mre11 induces MRN complex inactivation by disassembly from chromatin.
+
+M Di Virgilio, CY Ying, J Gautier
+
+The role of Mre11 phosphorylation in the cellular response to DNA double-strand breaks (DSBs) is not well understood. Here, we show that phosphorylation of Mre11 at SQ/TQ motifs by PIKKs (PI3 Kinase-related Kinases) induces MRN (Mre11-Rad50-Nbs1) complex dissociation from chromatin by reducing Mre11 affinity for DNA. Whereas phosphorylation of Mre11 at these residues is not required for DSB-induced ATM (Ataxia-Telangiectasia mutated) activation, abrogation of Mre11 dephosphorylation impairs ATM signaling. Our study provides a functional characterization of the DNA damage-induced Mre11 phosphorylation, and suggests that MRN inactivation participates in the down-regulation of damage signaling during checkpoint recovery following DSB repair.
+
+-Amino Acid Sequence
+-Animals
+-Carrier Proteins (+metabolism)
+-Cell Cycle Proteins (-metabolism)
+-Cell Line
++Chromatin Assembly and Disassembly
+-DNA Breaks, Double-Stranded
+-DNA Repair
+-DNA-Binding Proteins (-chemistry; +metabolism)
+-Enzyme Activation
+-Humans
+-Molecular Sequence Data
+-Phosphorylation
+-Protein Binding
+-Protein Kinases (+metabolism)
+-Protein-Serine-Threonine Kinases (-metabolism)
+-Sequence Alignment
+-Tumor Suppressor Proteins (+metabolism)
+-Xenopus Proteins (-chemistry; +metabolism)
+-Xenopus laevis (+metabolism)
+
+pii:S1568-7864(09)00188-8
+doi:10.1016/j.dnarep.2009.07.006
+pubmed:19709933
+mid:NIHMS135704
+pmc:PMC2764007
+

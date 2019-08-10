@@ -1,0 +1,25 @@
+RNA
+
+The XIAP IRES activates 3' cistron expression by inducing production of monocistronic mRNA in the betagal/CAT bicistronic reporter system.
+
+HA Saffran, JR Smiley
+
+X-chromosome linked inhibitor of apoptosis (XIAP) mRNA has been proposed to bear a stress-activated internal ribosome entry site (IRES) that stimulates translation under conditions that inhibit cap-dependent initiation. However, several reports have indicated that the strong activity of the XIAP IRES in certain bicistronic reporter assay systems stems from production of unintended monocistronic transcripts through splicing or cryptic promoter activity. Here we extend these findings by providing evidence that the XIAP IRES similarly provokes the production of monocistronic mRNA encompassing the 3' cistron in the betagal/CAT bicistronic reporter plasmid that was originally used to identify and characterize this putative IRES, through cryptic promoter activity.
+
+-Chloramphenicol O-Acetyltransferase (+genetics; -metabolism)
++Gene Expression
++Genes, Reporter
+-Hela Cells
+-Humans
+-Promoter Regions, Genetic
+-RNA Splicing
+-RNA, Messenger (+biosynthesis; -genetics)
+-RNA, Small Interfering
+-X-Linked Inhibitor of Apoptosis Protein (+genetics; -metabolism)
+-beta-Galactosidase (+genetics; -metabolism)
+
+pii:rna.1557809
+doi:10.1261/rna.1557809
+pubmed:19713328
+pmc:PMC2764481
+

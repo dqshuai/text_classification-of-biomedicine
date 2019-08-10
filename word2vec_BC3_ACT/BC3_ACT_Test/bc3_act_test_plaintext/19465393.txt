@@ -1,0 +1,28 @@
+Nucleic Acids Res.
+
+The Walker B motif in avian FANCM is required to limit sister chromatid exchanges but is dispensable for DNA crosslink repair.
+
+IV Rosado, W Niedzwiedz, AF Alpi, KJ Patel
+
+FANCM, the most highly conserved component of the Fanconi Anaemia (FA) pathway can resolve recombination intermediates and remodel synthetic replication forks. However, it is not known if these activities are relevant to how this conserved protein activates the FA pathway and promotes DNA crosslink repair. Here we use chicken DT40 cells to systematically dissect the function of the helicase and nuclease domains of FANCM. Our studies reveal that these domains contribute distinct roles in the tolerance of crosslinker, UV light and camptothecin-induced DNA damage. Although the complete helicase domain is critical for crosslink repair, a predicted inactivating mutation of the Walker B box domain has no impact on FA pathway associated functions. However, this mutation does result in elevated sister chromatid exchanges (SCE). Furthermore, our genetic dissection indicates that FANCM functions with the Blm helicase to suppress spontaneous SCE events. Overall our results lead us to reappraise the role of helicase domain associated activities of FANCM with respect to the activation of the FA pathway, crosslink repair and in the resolution of recombination intermediates.
+
+-Alleles
+-Amino Acid Motifs
+-Animals
+-Avian Proteins (+chemistry; -genetics; -metabolism)
+-Cell Line
+-Chickens
+-DNA Helicases (+chemistry; -genetics; -metabolism)
++DNA Repair
+-Fanconi Anemia Complementation Group Proteins (+chemistry; -genetics; -metabolism)
+-Genetic Complementation Test
+-Phenotype
+-Point Mutation
+-Protein Structure, Tertiary
++Sister Chromatid Exchange
+
+pii:gkp365
+doi:10.1093/nar/gkp365
+pubmed:19465393
+pmc:PMC2715236
+

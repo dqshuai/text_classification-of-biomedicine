@@ -1,0 +1,26 @@
+Nucleic Acids Res.
+
+Homologs of the small RNA SgrS are broadly distributed in enteric bacteria but have diverged in size and sequence.
+
+RS Horler, CK Vanderpool
+
+Sugar phosphate stress in Escherichia coli is sensed and managed by the transcriptional regulator SgrR and the small RNA (sRNA) SgrS. SgrS is a dual function RNA that performs base pairing-dependent regulation of mRNA targets and encodes a small protein, SgrT. Homologs of SgrR were analyzed for gene synteny and inter-homolog identity to identify those that are likely to be functionally analogous. These 22 SgrR homologs were used to manually locate adjacent sRNAs functionally analogous to SgrS. SgrS homologs shared little sequence identity with E. coli SgrS, but most shared several structural features. The most conserved feature of SgrS homologs was the base pairing region while the most variable feature was the sgrT-coding sequence. Analyses of predicted interactions between SgrS:ptsG mRNA pairs in different organisms revealed interesting differences in the patterns of base pairing interactions. RNA pairs with more interrupted regions of complementarity had a higher proportion of G:C base pairs than those with longer contiguous stretches of complementarity. The identification of this set of homologous sRNAs and their targets sets the stage for future studies to further elucidate the molecular requirements for regulation by SgrS.
+
+-Amino Acid Sequence
+-Bacterial Proteins (+chemistry; -classification; -genetics)
+-Base Pairing
+-Escherichia coli Proteins (-chemistry; -classification)
+-Gammaproteobacteria (-genetics)
+-Molecular Sequence Data
+-Phylogeny
+-RNA, Bacterial (+chemistry)
+-RNA, Messenger (-chemistry)
+-Sequence Homology, Amino Acid
+-Synteny
+-Transcription Factors (+chemistry; -classification; -genetics)
+
+pii:gkp501
+doi:10.1093/nar/gkp501
+pubmed:19531735
+pmc:PMC2760817
+

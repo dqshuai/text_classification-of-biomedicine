@@ -1,0 +1,31 @@
+PLoS Genet.
+
+The variant rs1867277 in FOXE1 gene confers thyroid cancer susceptibility through the recruitment of USF1/USF2 transcription factors.
+
+I Landa, S Ruiz-Llorente, C Montero-Conde, L Inglada-Pérez, F Schiavi, S Leskelä, G Pita, R Milne, J Maravall, I Ramos, V Andía, P Rodríguez-Poyo, A Jara-Albarrán, A Meoro, C del Peso, L Arribas, P Iglesias, J Caballero, J Serrano, A Picó, F Pomares, G Giménez, P López-Mondéjar, R Castello, I Merante-Boschin, MR Pelizzo, D Mauricio, G Opocher, C Rodríguez-Antona, A González-Neira, X Matías-Guiu, P Santisteban, M Robledo
+
+In order to identify genetic factors related to thyroid cancer susceptibility, we adopted a candidate gene approach. We studied tag- and putative functional SNPs in genes involved in thyroid cell differentiation and proliferation, and in genes found to be differentially expressed in thyroid carcinoma. A total of 768 SNPs in 97 genes were genotyped in a Spanish series of 615 cases and 525 controls, the former comprising the largest collection of patients with this pathology from a single population studied to date. SNPs in an LD block spanning the entire FOXE1 gene showed the strongest evidence of association with papillary thyroid carcinoma susceptibility. This association was validated in a second stage of the study that included an independent Italian series of 482 patients and 532 controls. The strongest association results were observed for rs1867277 (OR[per-allele] = 1.49; 95%CI = 1.30-1.70; P = 5.9x10(-9)). Functional assays of rs1867277 (NM_004473.3:c.-283G>A) within the FOXE1 5' UTR suggested that this variant affects FOXE1 transcription. DNA-binding assays demonstrated that, exclusively, the sequence containing the A allele recruited the USF1/USF2 transcription factors, while both alleles formed a complex in which DREAM/CREB/alphaCREM participated. Transfection studies showed an allele-dependent transcriptional regulation of FOXE1. We propose a FOXE1 regulation model dependent on the rs1867277 genotype, indicating that this SNP is a causal variant in thyroid cancer susceptibility. Our results constitute the first functional explanation for an association identified by a GWAS and thereby elucidate a mechanism of thyroid cancer susceptibility. They also attest to the efficacy of candidate gene approaches in the GWAS era.
+
+-Adult
+-Base Sequence
+-Binding Sites
+-Case-Control Studies
+-Female
+-Forkhead Transcription Factors (-chemistry; +genetics; -metabolism)
++Genetic Predisposition to Disease
++Genetic Variation
+-Humans
+-Male
+-Middle Aged
+-Molecular Sequence Data
+-Polymorphism, Single Nucleotide
+-Promoter Regions, Genetic
+-Protein Binding
+-Spain
+-Thyroid Neoplasms (-genetics; +metabolism)
+-Upstream Stimulatory Factors (-genetics; +metabolism)
+
+doi:10.1371/journal.pgen.1000637
+pubmed:19730683
+pmc:PMC2727793
+

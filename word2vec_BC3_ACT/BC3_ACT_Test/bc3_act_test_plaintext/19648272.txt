@@ -1,0 +1,32 @@
+J. Immunol.
+
+Requirement for DNA CpG content in TLR9-dependent dendritic cell activation induced by DNA-containing immune complexes.
+
+K Yasuda, C Richez, MB Uccellini, RJ Richards, RG Bonegio, S Akira, M Monestier, RB Corley, GA Viglianti, A Marshak-Rothstein, IR Rifkin
+
+Although TLR9 was originally thought to specifically recognize microbial DNA, it is now evident that mammalian DNA can be an effective TLR9 ligand. However, the DNA sequence required for TLR9 activation is controversial, as studies have shown conflicting results depending on the nature of the DNA backbone, the route of DNA uptake, and the cell type being studied. In systemic lupus erythematosus, a major route whereby DNA gains access to intracellular TLR9, and thereby activates dendritic cells (DCs), is through uptake as a DNA-containing immune complex. In this report, we used defined dsDNA fragments with a natural (phosphodiester) backbone and show that unmethylated CpG dinucleotides within dsDNA are required for murine DC TLR9 activation induced by a DNA-containing immune complex. The strongest activation is seen with dsDNA fragments containing optimal CpG motifs (purine-purine-CpG-pyrimidine-pyrimidine) that are common in microbial DNA but rare in mammalian DNA. Importantly, however, activation can also be induced by CpG-rich DNA fragments that lack these optimal CpG motifs and that we show are plentiful in CpG islands within mammalian DNA. No activation is induced by DNA fragments lacking CpG dinucleotides, although this CpG-free DNA can induce DC activation if internalized by liposomal transfection instead of as an immune complex. Overall, the data suggest that the release of CpG-rich DNA from mammalian DNA may contribute to the pathogenesis of autoimmune diseases such as systemic lupus erythematosus and psoriasis in which activation of TLR9 in DCs by self DNA has been implicated in disease pathogenesis.
+
+-Adjuvants, Immunologic (-genetics; -physiology; -secretion)
+-Animals
+-Antigen-Antibody Complex (+chemistry; +genetics; -physiology)
+-Cells, Cultured
+-CpG Islands (-genetics; +immunology)
+-DNA (+chemistry; +physiology; -secretion)
+-DNA Fragmentation
+-DNA Methylation (-immunology)
+-Dendritic Cells (-chemistry; +immunology; -secretion)
+-Humans
+-Lupus Erythematosus, Systemic (-genetics; -immunology; -metabolism)
+-Mice
+-Mice, Inbred BALB C
+-Mice, Knockout
+-Phosphorothioate Oligonucleotides (-chemistry; -genetics; +physiology)
+-Psoriasis (-genetics; -immunology; -metabolism)
+-Toll-Like Receptor 9 (-deficiency; -metabolism; +physiology)
+
+pii:jimmunol.0900399
+doi:10.4049/jimmunol.0900399
+pubmed:19648272
+mid:NIHMS193399
+pmc:PMC2860771
+

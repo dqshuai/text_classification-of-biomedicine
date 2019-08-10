@@ -1,0 +1,27 @@
+J. Mol. Biol.
+
+A gating model for the archeal voltage-dependent K(+) channel KvAP in DPhPC and POPE:POPG decane lipid bilayers.
+
+D Schmidt, SR Cross, R MacKinnon
+
+Voltage-dependent K(+) (Kv) channels form the basis of the excitability of nerves and muscles. KvAP is a well-characterized archeal Kv channel that has been widely used to investigate many aspects of Kv channel biochemistry, biophysics, and structure. In this study, a minimal kinetic gating model for KvAP function in two different phospholipid decane bilayers is developed. In most aspects, KvAP gating is similar to the well-studied eukaryotic Shaker Kv channel: conformational changes occur within four voltage sensors, followed by pore opening. Unlike the Shaker Kv channel, KvAP possesses an inactivated state that is accessible from the pre-open state of the channel. Changing the lipid composition of the membrane influences multiple gating transitions in the model, but, most dramatically, the rate of recovery from inactivation. Inhibition by the voltage sensor toxin VSTx1 is most easily explained if VSTx1 binds only to the depolarized conformation of the voltage sensor. By delaying the voltage sensor's return to the hyperpolarized conformation, VSTx1 favors the inactivated state of KvAP.
+
+-Alkanes (-metabolism)
+-Archaea (+metabolism)
++Ion Channel Gating (-drug effects)
+-Kinetics
+-Lipid Bilayers (+metabolism)
+-Peptides (-pharmacology)
+-Phosphatidylcholines (+metabolism)
+-Phosphatidylethanolamines (+metabolism)
+-Phosphatidylglycerols (+metabolism)
+-Potassium Channels, Voltage-Gated (+metabolism)
+-Shaker Superfamily of Potassium Channels (-metabolism)
+-Spider Venoms (-pharmacology)
+
+pii:S0022-2836(09)00644-5
+doi:10.1016/j.jmb.2009.05.062
+pubmed:19481093
+mid:NIHMS119991
+pmc:PMC2778279
+

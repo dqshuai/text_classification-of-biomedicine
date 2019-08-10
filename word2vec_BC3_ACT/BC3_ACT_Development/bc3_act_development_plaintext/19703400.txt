@@ -1,0 +1,21 @@
+Cell
+
+The sequential action of miR156 and miR172 regulates developmental timing in Arabidopsis.
+
+G Wu, MY Park, SR Conway, JW Wang, D Weigel, RS Poethig
+
+The transition from the juvenile to the adult phase of shoot development in plants is accompanied by changes in vegetative morphology and an increase in reproductive potential. Here, we describe the regulatory mechanism of this transition. We show that miR156 is necessary and sufficient for the expression of the juvenile phase, and regulates the timing of the juvenile-to-adult transition by coordinating the expression of several pathways that control different aspects of this process. miR156 acts by repressing the expression of functionally distinct SPL transcription factors. miR172 acts downstream of miR156 to promote adult epidermal identity. miR156 regulates the expression of miR172 via SPL9 which, redundantly with SPL10, directly promotes the transcription of miR172b. Thus, like the larval-to-adult transition in Caenorhabditis elegans, the juvenile-to-adult transition in Arabidopsis is mediated by sequentially operating miRNAs. miR156 and miR172 are positively regulated by the transcription factors they target, suggesting that negative feedback loops contribute to the stability of the juvenile and adult phases.
+
+-Arabidopsis (-genetics; +growth & development; +metabolism)
+-Arabidopsis Proteins (-metabolism)
++Gene Expression Regulation, Developmental
++Gene Expression Regulation, Plant
+-MicroRNAs (-genetics; +metabolism)
+-Transcription Factors (-metabolism)
+
+pii:S0092-8674(09)00778-8
+doi:10.1016/j.cell.2009.06.031
+pubmed:19703400
+mid:NIHMS130056
+pmc:PMC2732587
+

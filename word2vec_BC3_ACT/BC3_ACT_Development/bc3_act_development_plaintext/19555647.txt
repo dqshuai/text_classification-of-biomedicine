@@ -1,0 +1,34 @@
+Neuron
+
+Hippocampal CA3 output is crucial for ripple-associated reactivation and consolidation of memory.
+
+T Nakashiba, DL Buhl, TJ McHugh, S Tonegawa
+
+A widely held memory consolidation theory posits that memory of events and space is initially stored in the hippocampus (HPC) in a time-limited manner and is consolidated in the neocortex for permanent storage. Although posttraining HPC lesions result in temporally graded amnesia, the precise HPC circuits and mechanisms involved in remote memory storage remain poorly understood. To investigate the role of the trisynaptic pathway in the consolidation process we employed the CA3-TeTX transgenic mouse, in which CA3 output can be specifically and inducibly controlled. We found that posttraining blockade of CA3 output for up to 4 weeks impairs the consolidation of contextual fear memory. Moreover, in vivo hippocampal recordings revealed a reduced intrinsic frequency of CA1 ripples and a significant decrease in the experience-dependent, ripple-associated coordinated reactivation of CA1 cell pairs. Collectively, these results suggest that the posttraining integrity of the trisynaptic pathway and the ripple-associated reactivation of hippocampal memory engram are crucial for memory consolidation.
+
+-Animals
+-Behavior, Animal
+-Conditioning, Classical (-physiology)
+-Electric Stimulation
+-Electrophysiology
+-Excitatory Postsynaptic Potentials (-genetics)
+-Fear
+-Freezing Reaction, Cataleptic (-physiology)
+-Hippocampus (+cytology)
+-Long-Term Potentiation (-genetics)
+-Male
+-Memory (+physiology)
+-Mice
+-Mice, Inbred C57BL
+-Mice, Transgenic
+-Nerve Net (+physiology)
+-Neurons (-classification; -physiology)
+-Synapses (-genetics; +physiology)
+-Tetanus Toxin (-genetics)
+
+pii:S0896-6273(09)00388-2
+doi:10.1016/j.neuron.2009.05.013
+pubmed:19555647
+mid:NIHMS130113
+pmc:PMC2728553
+

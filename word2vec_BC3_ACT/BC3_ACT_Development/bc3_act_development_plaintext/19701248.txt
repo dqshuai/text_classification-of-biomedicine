@@ -1,0 +1,31 @@
+Oncogene
+
+Functional interaction of HTLV-1 tax protein with the POZ domain of the transcriptional repressor BCL6.
+
+J Dean, K Hashimoto, T Tsuji, V Gautier, WW Hall, N Sheehy
+
+The Tax protein encoded by human T-cell leukaemia virus type 1 (HTLV-1) has a pivotal role in T-cell transformation by deregulating cellular signalling pathways. Using the yeast two-hybrid system to screen a human leukocyte cDNA library, we identified BCL6 (B-cell lymphoma 6) as a cellular protein, which interacts with Tax 1. The BCL6 gene encodes a sequence-specific transcriptional repressor that contains a conserved N-terminal poxvirus and zinc finger (POZ) repressor domain and a C-terminal Kruppel-like zinc finger DNA binding domain. Using both in vivo and in vitro methods, we demonstrate that the POZ domain of BCL6 is sufficient for its interaction with Tax 1. Using functional assays, we demonstrate that Tax 1 enhanced the repressive activity of BCL6 and increased the levels of apoptosis induced by BCL6 in osteosarcoma cells indicating that both proteins cooperate in vivo to cause a physiological affect. Furthermore, BCL6 recruited Tax 1 into punctate nuclear structures, which suggests that Tax 1 colocalizes with BCL6 in repressor complexes in vivo. BCL6 expression significantly downregulated both basal and Tax-induced nuclear factor-kappaB and long terminal repeat activation. This suggests that the expression of BCL6 in HTLV infected cells may contribute to the silencing of viral gene expression and to the long clinical latency associated with HTLV infection.
+
+-Apoptosis
+-Cell Line, Tumor
+-DNA-Binding Proteins (+chemistry; +metabolism)
+-Gene Expression Regulation, Viral
+-Gene Products, tax (+metabolism)
+-Gene Silencing
+-HTLV-I Infections (-pathology)
++Human T-lymphotropic virus 1 (-genetics)
+-Humans
+-Kruppel-Like Transcription Factors (-chemistry; -metabolism)
+-NF-kappa B (-metabolism)
++Poxviridae
+-Protein Binding
+-Protein Structure, Tertiary
+-Signal Transduction
+-Terminal Repeat Sequences
+-Two-Hybrid System Techniques
++Zinc Fingers
+
+pii:onc2009230
+doi:10.1038/onc.2009.230
+pubmed:19701248
+

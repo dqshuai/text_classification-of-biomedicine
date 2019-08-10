@@ -1,0 +1,30 @@
+EMBO J.
+
+Somatic cell type specific gene transfer reveals a tumor-promoting function for p21(Waf1/Cip1).
+
+Y Liu, N Yeh, XH Zhu, M Leversha, C Cordon-Cardo, R Ghossein, B Singh, E Holland, A Koff
+
+How proteins participate in tumorigenesis can be obscured by their multifunctional nature. For example, depending on the cellular context, the cdk inhibitors can affect cell proliferation, cell motility, apoptosis, receptor tyrosine kinase signaling, and transcription. Thus, to determine how a protein contributes to tumorigenesis, we need to evaluate which functions are required in the developing tumor. Here we demonstrate that the RCAS/TvA system, originally developed to introduce oncogenes into somatic cells of mice, can be adapted to allow us to define the contribution that different functional domains make to tumor development. Studying the development of growth-factor-induced oligodendroglioma, we identified a critical role for the Cy elements in p21, and we showed that cyclin D1T286A, which accumulates in the nucleus of p21-deficient cells and binds to cdk4, could bypass the requirement for p21 during tumor development. These genetic results suggest that p21 acts through the cyclin D1-cdk4 complex to support tumor growth, and establish the utility of using a somatic cell modeling system for defining the contribution proteins make to tumor development.
+
+-Animals
+-Avian Proteins (-metabolism)
+-Cell Line
+-Chickens
+-Cyclin D
+-Cyclin-Dependent Kinase 4 (+metabolism)
+-Cyclin-Dependent Kinase Inhibitor p21 (-deficiency; -genetics; +metabolism)
+-Cyclins (-genetics; +metabolism)
+-Gene Transfer Techniques
+-Genetic Vectors
+-Mice
+-Mice, Transgenic
+-Oligodendroglioma (-genetics; +metabolism)
+-Platelet-Derived Growth Factor (-metabolism)
+-Receptors, Virus (-metabolism)
+-Retroviridae (-genetics)
+
+pii:7601886
+doi:10.1038/sj.emboj.7601886
+pubmed:17948060
+pmc:PMC2048756
+

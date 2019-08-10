@@ -1,0 +1,21 @@
+PLoS ONE
+
+Molecular dynamics simulation of phosphorylated KID post-translational modification.
+
+HF Chen
+
+BACKGROUND: Kinase-inducible domain (KID) as transcriptional activator can stimulate target gene expression in signal transduction by associating with KID interacting domain (KIX). NMR spectra suggest that apo-KID is an unstructured protein. After post-translational modification by phosphorylation, KID undergoes a transition from disordered to well folded protein upon binding to KIX. However, the mechanism of folding coupled to binding is poorly understood. METHODOLOGY: To get an insight into the mechanism, we have performed ten trajectories of explicit-solvent molecular dynamics (MD) for both bound and apo phosphorylated KID (pKID). Ten MD simulations are sufficient to capture the average properties in the protein folding and unfolding. CONCLUSIONS: Room-temperature MD simulations suggest that pKID becomes more rigid and stable upon the KIX-binding. Kinetic analysis of high-temperature MD simulations shows that bound pKID and apo-pKID unfold via a three-state and a two-state process, respectively. Both kinetics and free energy landscape analyses indicate that bound pKID folds in the order of KIX access, initiation of pKID tertiary folding, folding of helix alpha(B), folding of helix alpha(A), completion of pKID tertiary folding, and finalization of pKID-KIX binding. Our data show that the folding pathways of apo-pKID are different from the bound state: the foldings of helices alpha(A) and alpha(B) are swapped. Here we also show that Asn139, Asp140 and Leu141 with large Phi-values are key residues in the folding of bound pKID. Our results are in good agreement with NMR experimental observations and provide significant insight into the general mechanisms of binding induced protein folding and other conformational adjustment in post-translational modification.
+
+-Models, Molecular
+-Phosphorylation
+-Phosphotransferases (+metabolism)
+-Protein Binding
+-Protein Conformation
+-Protein Folding
++Protein Processing, Post-Translational
+-Temperature
+
+doi:10.1371/journal.pone.0006516
+pubmed:19654879
+pmc:PMC2717803
+

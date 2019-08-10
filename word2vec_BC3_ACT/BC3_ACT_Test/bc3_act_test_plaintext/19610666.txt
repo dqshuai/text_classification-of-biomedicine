@@ -1,0 +1,19 @@
+Biochemistry
+
+Elucidating the formation of 6-deoxyheptose: biochemical characterization of the GDP-D-glycero-d-manno-heptose C6 dehydratase, DmhA, and its associated C4 reductase, DmhB.
+
+FD Butty, M Aucoin, L Morrison, N Ho, G Shaw, C Creuzenet
+
+6-Deoxyheptose is found within the surface polysaccharides of several bacterial pathogens. In Yersinia pseudotuberculosis, it is important for the barrier function of the O-antigen in vitro and for bacterial dissemination in vivo. The putative C6 dehydratase DmhA and C4 reductase DmhB, that were identified as responsible for 6-deoxyheptose synthesis based on genetics data, represent potential therapeutical targets. Their detailed biochemical characterization is presented herein. The substrate, GDP-D-glycero-D-manno-heptose, was synthesized enzymatically from sedoheptulose 7-phosphate using overexpressed and purified GmhA/B/C/D enzymes from Aneurinibacillus thermoaerophilus. Overexpressed and purified DmhA used this substrate with high efficiency, as indicated by its K(m) of 0.23 mM and k(cat) of 1.1 s(-1). The mass spectrometry (MS) analysis of the reaction product was consistent with a C6 dehydration reaction. DmhB could readily reduce this compound in the presence of NAD(P)H to produce GDP-6-deoxy-D-manno-heptose, as indicated by MS and NMR analyses. DmhA also used GDP-mannose as a substrate with a K(m) of 0.32 mM and a k(cat) of 0.25 min(-1). This kinetic analysis indicates that although the K(m) values for GDP-mannose and GDP-manno-heptose were similar, the genuine substrate for DmhA is GDP-manno-heptose. DmhB was also able to reduce the GDP-4-keto-6-deoxymannose produced by DmhA, although with poor efficiency and exclusively in the presence of NADPH. This study is the first complete biochemical characterization of the 6-deoxyheptose biosynthesis pathway. Also, it allows the screening for inhibitors, the elucidation of substrate specificity determinants, and the synthesis of carbohydrate antigens of therapeutic relevance.
+
+-Bacterial Proteins (-chemistry; -genetics; +metabolism)
++Heptoses (-chemistry; -metabolism)
+-Hydro-Lyases (-chemistry; -genetics; +metabolism)
+-Molecular Structure
+-Nuclear Magnetic Resonance, Biomolecular
+-Oxidoreductases (-chemistry; -genetics; +metabolism)
+-Yersinia pseudotuberculosis (-enzymology)
+
+doi:10.1021/bi901065t
+pubmed:19610666
+

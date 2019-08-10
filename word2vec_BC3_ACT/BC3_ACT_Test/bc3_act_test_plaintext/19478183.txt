@@ -1,0 +1,32 @@
+Science
+
+Synthetic gene networks that count.
+
+AE Friedland, TK Lu, X Wang, D Shi, G Church, JJ Collins
+
+Synthetic gene networks can be constructed to emulate digital circuits and devices, giving one the ability to program and design cells with some of the principles of modern computing, such as counting. A cellular counter would enable complex synthetic programming and a variety of biotechnology applications. Here, we report two complementary synthetic genetic counters in Escherichia coli that can count up to three induction events: the first, a riboregulated transcriptional cascade, and the second, a recombinase-based cascade of memory units. These modular devices permit counting of varied user-defined inputs over a range of frequencies and can be expanded to count higher numbers.
+
+-Arabinose (-metabolism)
+-DNA, Bacterial (+genetics)
+-DNA-Directed RNA Polymerases (-genetics; -metabolism)
+-Escherichia coli K12 (+genetics)
+-Gene Expression Regulation, Bacterial
++Gene Regulatory Networks
+-Genetic Engineering
+-Green Fluorescent Proteins (-biosynthesis)
+-Models, Genetic
+-Plasmids
+-Promoter Regions, Genetic
++Protein Biosynthesis
+-RNA, Bacterial (-genetics; -metabolism)
+-Recombinases (-genetics; +metabolism)
++Regulatory Elements, Transcriptional
++Transcription, Genetic
+-Viral Proteins (-genetics; -metabolism)
+
+pii:324/5931/1199
+doi:10.1126/science.1172005
+pubmed:19478183
+mid:NIHMS107099
+pmc:PMC2690711
+

@@ -1,0 +1,31 @@
+Nucleic Acids Res.
+
+Increased sister chromatid cohesion and DNA damage response factor localization at an enzyme-induced DNA double-strand break in vertebrate cells.
+
+H Dodson, CG Morrison
+
+The response to DNA damage in vertebrate cells involves successive recruitment of DNA signalling and repair factors. We used light microscopy to monitor the genetic dependencies of such localization to a single, induced DNA double strand break (DSB) in vertebrate cells. We used an inducible version of the rare-cutting I-SceI endonuclease to cut a chromosomally integrated I-SceI site beside a Tet operator array that was visualized by binding a Tet repressor-GFP fusion. Formation of gamma-H2AX foci at a single DSB was independent of ATM or Ku70. ATM-deficient cells showed normal kinetics of 53Bp1 recruitment to DSBs, but Rad51 localization was retarded. 53Bp1 and Rad51 foci formation at a single DSB was greatly reduced in H2AX-null DT40 cells. We also observed decreased inter-sister chromatid distances after DSB induction, suggesting that cohesin loading at DSBs causes elevated sister chromatid cohesion. Loss of ATM reduced DSB-induced cohesion, consistent with cohesin being an ATM target in the DSB response. These data show that the same genetic pathways control how cells respond to single DSBs and to multiple lesions induced by whole-cell DNA damage.
+
+-Animals
+-Antigens, Nuclear (-metabolism)
+-Cell Cycle Proteins (-metabolism)
+-Cell Line
+-Chickens
+-Chromatids (+physiology)
++DNA Breaks, Double-Stranded
++DNA Repair
+-DNA-Binding Proteins (-metabolism)
+-Deoxyribonucleases, Type II Site-Specific
+-Histones (-analysis; -metabolism)
+-Humans
+-Ovalbumin (-genetics)
+-Protein-Serine-Threonine Kinases (-metabolism)
+-Rad51 Recombinase (-analysis)
+-Saccharomyces cerevisiae Proteins
+-Tumor Suppressor Proteins (-metabolism)
+
+pii:gkp684
+doi:10.1093/nar/gkp684
+pubmed:19700769
+pmc:PMC2764452
+

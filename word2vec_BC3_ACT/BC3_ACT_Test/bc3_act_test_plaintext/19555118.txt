@@ -1,0 +1,30 @@
+Biochemistry
+
+Arrestin2/clathrin interaction is regulated by key N- and C-terminal regions in arrestin2.
+
+RC Kern, DS Kang, JL Benovic
+
+The interaction of nonvisual arrestins with clathrin is an important step in mediating the endocytosis of cell surface receptors. Previous studies have shown that mutation of the clathrin-binding box in arrestin leads to severe defects in arrestin-mediated trafficking. However, little is known about how arrestin/clathrin interaction is regulated. Here we show that both the N- and C-terminal regions of arrestin2 function to inhibit basal interaction with clathrin. Truncation analysis revealed that clathrin binding increases as the C-tail of arrestin2 is shortened while site-directed mutagenesis identified Glu-404, Glu-405, and Glu-406 as being primarily responsible for this inhibition. Mutagenesis also identified Lys-4, Arg-7, Lys-10, and Lys-11 within the N-terminus as playing a key role in regulating clathrin binding. Based on similarities with visual arrestin, Lys-10 and Lys-11 likely function as phospho sensors in arrestin2 to initially discriminate the phosphorylation status of target receptors. Analysis of the arrestin2 structure reveals that Arg-7, Lys-10, and Lys-11 are in close proximity to Glu-389 and Asp-390, suggesting that these residues may form intramolecular interactions. In fact, simultaneous mutation of Glu-389 and Asp-390 also leads to enhanced clathrin binding. These results reveal that multiple intramolecular interactions coordinately regulate arrestin2 interaction with clathrin, highlighting this interaction as a critical step in regulating receptor trafficking.
+
+-Amino Acid Sequence
+-Animals
+-Arrestins (+chemistry; -genetics; +metabolism)
+-Cattle
+-Cell Line
+-Clathrin (+chemistry; -genetics; +metabolism)
+-Endocytosis (-physiology)
+-Humans
+-Models, Molecular
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Protein Binding
+-Protein Conformation
+-Protein Isoforms (+chemistry; -genetics; +metabolism)
+-Recombinant Fusion Proteins (-chemistry; -genetics; -metabolism)
+-Sequence Alignment
+
+doi:10.1021/bi900369c
+pubmed:19555118
+mid:NIHMS129874
+pmc:PMC2739310
+

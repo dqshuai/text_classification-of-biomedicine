@@ -1,0 +1,29 @@
+Cancer Res.
+
+Human papillomavirus 16 E7 oncoprotein attenuates DNA damage checkpoint control by increasing the proteolytic turnover of claspin.
+
+N Spardy, K Covella, E Cha, EE Hoskins, SI Wells, A Duensing, S Duensing
+
+The human papillomavirus (HPV) 16 E7 oncoprotein has been reported previously to stimulate DNA damage and to activate host cell DNA damage checkpoints. How HPV-16 E7 maintains proliferation despite activated DNA damage checkpoints is incompletely understood. Here, we provide evidence that cells expressing the HPV-16 E7 oncoprotein can enter mitosis in the presence of DNA damage. We show that this activity of HPV-16 E7 involves attenuation of DNA damage checkpoint control by accelerating the proteolytic turnover of claspin. Claspin mediates the activation of CHK1 by ATR in response to replication stress, and its degradation plays a critical role in DNA damage checkpoint recovery. Expression of a nondegradable mutant of claspin was shown to inhibit mitotic entry in HPV-16 E7-expressing cells. Multiple components of the SCF(beta-TrCP)-based claspin degradation machinery were found deregulated in the presence of HPV-16 E7, including cullin 1, beta-TrCP, Aurora A, and Polo-like kinase-1 (PLK1). In contrast, no difference in the expression level of the claspin deubiquitinating enzyme USP7 was detected. Levels of Aurora A and PLK1 as well as phosphorylated PLK1 at threonine 210, a prerequisite for DNA damage checkpoint recovery, remained detectable following replication stress in HPV-16 E7-expressing cells but not in control cells. In summary, our results suggest that the HPV-16 E7 oncoprotein alleviates DNA damage checkpoint responses and promotes mitotic entry by accelerating claspin degradation through a mechanism that involves deregulation of components of the SCF(beta-TrCP)-based claspin degradation machinery.
+
+-Adaptor Proteins, Signal Transducing (-genetics; +metabolism)
+-Cell Cycle Proteins (-metabolism)
+-Cullin Proteins (-metabolism)
++DNA Damage
+-Gene Expression Regulation, Viral
+-Human papillomavirus 16 (+genetics)
+-Humans
+-Hydrolysis
+-Mitosis (+genetics)
+-Oncogene Proteins, Viral (+genetics)
+-Papillomavirus Infections (+genetics; -metabolism; -pathology; -virology)
+-Protein-Serine-Threonine Kinases (-metabolism)
+-Proto-Oncogene Proteins (-metabolism)
+-beta-Transducin Repeat-Containing Proteins (-metabolism)
+
+pii:0008-5472.CAN-09-0925
+doi:10.1158/0008-5472.CAN-09-0925
+pubmed:19706760
+mid:NIHMS132271
+pmc:PMC2737077
+

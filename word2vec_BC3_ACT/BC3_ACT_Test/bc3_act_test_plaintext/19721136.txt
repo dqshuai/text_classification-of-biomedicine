@@ -1,0 +1,34 @@
+J. Biol. Chem.
+
+Ischemic preconditioning augments survival of stem cells via miR-210 expression by targeting caspase-8-associated protein 2.
+
+HW Kim, HK Haider, S Jiang, M Ashraf
+
+MicroRNAs (miRs) participate in most cellular functions by posttranscriptional regulation of gene expression albeit with little information regarding their role in ischemic preconditioning (IP) of stem cells. We report that IP of bone marrow-derived mesenchymal stem cells (MSCs) with two cycles of 30-min ischemia/reoxygenation (I/R) supported their survival under subsequent longer exposure to anoxia and following engraftment in the infarcted heart. IP significantly reduced apoptosis in MSCs through activation of Akt (Ser(473)) and ERK1/2 (Thr(202)/Tyr(204)) and nuclear translocation of hypoxia-inducible factor-1alpha (HIF-1alpha). We observed concomitant induction of miR-210 in the preconditioned MSCs ((PC)MSCs). Inhibition of HIF-1alpha or of miR-210 abrogated the cytoprotective effects of preconditioning. Extrapolation of these data to in vivo studies in a rat model of acute myocardial infarction predominantly improved stem cell survival after engraftment with a role for miR-210. Notably, multiple I/R cycles more effectively regulated the miR-210 and hence promoted MSC survival compared with single-cycle hypoxia of an equal duration. Real time PCR array for rat apoptotic genes, computational target gene analyses, and luciferase reporter assay identified FLICE-associated huge protein (FLASH)/caspase-8-associated protein-2 (Casp8ap2) in (PC)MSCs as the target gene of miR-210. Induction of FLASH/CASP8AP2 in miR-210 knocked-down (PC)MSCs resulted in increased cell apoptosis. Taken together, these data demonstrated that cytoprotection afforded by IP was regulated by miR-210 induction via FLASH/Casp8ap2 suppression. These results highlighted that IP by multiple short episodes of I/R is a novel strategy to promote stem cell survival.
+
+-Animals
++Apoptosis
+-Blotting, Western
+-Carrier Proteins (+genetics; -metabolism)
+-Cell Hypoxia
+-Cell Survival
+-Cells, Cultured
+-Female
+-Gene Expression
+-Hypoxia-Inducible Factor 1, alpha Subunit (-genetics; -metabolism)
+-In Situ Nick-End Labeling
+-Ischemic Preconditioning
+-Male
+-Mesenchymal Stem Cell Transplantation
+-Mesenchymal Stem Cells (-cytology; +metabolism)
+-MicroRNAs (+genetics; -metabolism)
+-Myocardial Infarction (-surgery)
+-RNA Interference
+-Rats
+-Rats, Inbred F344
+
+pii:M109.020925
+doi:10.1074/jbc.M109.020925
+pubmed:19721136
+pmc:PMC2785158
+

@@ -1,0 +1,22 @@
+PLoS ONE
+
+Using biotic interaction networks for prediction in biodiversity and emerging diseases.
+
+CR Stephens, JG Heau, C González, CN Ibarra-Cerdeña, V Sánchez-Cordero, C González-Salazar
+
+Networks offer a powerful tool for understanding and visualizing inter-species ecological and evolutionary interactions. Previously considered examples, such as trophic networks, are just representations of experimentally observed direct interactions. However, species interactions are so rich and complex it is not feasible to directly observe more than a small fraction. In this paper, using data mining techniques, we show how potential interactions can be inferred from geographic data, rather than by direct observation. An important application area for this methodology is that of emerging diseases, where, often, little is known about inter-species interactions, such as between vectors and reservoirs. Here, we show how using geographic data, biotic interaction networks that model statistical dependencies between species distributions can be used to infer and understand inter-species interactions. Furthermore, we show how such networks can be used to build prediction models. For example, for predicting the most important reservoirs of a disease, or the degree of disease risk associated with a geographical area. We illustrate the general methodology by considering an important emerging disease--Leishmaniasis. This data mining methodology allows for the use of geographic data to construct inferential biotic interaction networks which can then be used to build prediction models with a wide range of applications in ecology, biodiversity and emerging diseases.
+
+-Animals
++Biodiversity
+-Disease Reservoirs
+-Disease Vectors
++Ecosystem
+-Geography
+-Leishmania
+-Leishmaniasis (+metabolism)
+-Mexico
+
+doi:10.1371/journal.pone.0005725
+pubmed:19478956
+pmc:PMC2685974
+

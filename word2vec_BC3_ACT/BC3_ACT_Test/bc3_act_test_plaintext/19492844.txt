@@ -1,0 +1,23 @@
+J. Proteome Res.
+
+Improving peptide identification in proteome analysis by a two-dimensional retention time filtering approach.
+
+N Pfeifer, A Leinenbach, CG Huber, O Kohlbacher
+
+The combination of a two-dimensional peptide separation scheme based on reversed-phase and ion-pair reversed phase HPLC with a computational method to model and predict retention times in both dimensions is described. The algorithm utilizes statistical learning to establish a retention model from about 200 peptide retention times and their corresponding sequences. The application of retention time prediction to the peptides facilitated an increase in true positive peptide identifications upon lowering mass spectrometric scoring thresholds and concomitantly filtering out false positives on the basis of predicted retention times. An approximately 19% increase in the number of peptide identifications at a q-value of 0.01 was achievable in a whole proteome measurement.
+
++Artificial Intelligence
+-Chromatography, High Pressure Liquid (-methods)
+-Hydrogen-Ion Concentration
+-Myxococcales (-chemistry)
+-Peptide Fragments (+analysis)
+-Peptides (+analysis)
+-Proteomics (+methods)
+-Regression Analysis
+-Reproducibility of Results
+-Tandem Mass Spectrometry (-methods)
+-Time Factors
+
+doi:10.1021/pr900064b
+pubmed:19492844
+

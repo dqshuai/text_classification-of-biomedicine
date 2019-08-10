@@ -1,0 +1,33 @@
+J. Biol. Chem.
+
+Identification of DNA-dependent protein kinase as a cofactor for the forkhead transcription factor FoxA2.
+
+A Nock, JM Ascano, T Jones, MJ Barrero, N Sugiyama, M Tomita, Y Ishihama, S Malik
+
+Forkhead factors are important regulators of animal development and homeostasis. They are among the earliest to bind quiescent genes, which they activate in conjunction with other transcription factors. Many liver-specific genes are under the control of FoxA2, a liver-enriched forkhead protein. Here we confirmed by chromatin immunoprecipitation that FoxA2 is one of the factors bound to the promoter-proximal enhancer of the gene encoding apolipoprotein AI (a component of high density lipoprotein) and that it functions in synergy with the nuclear receptor hepatocyte nuclear factor-4alpha. Furthermore, toward identifying additional cofactors that could potentially regulate FoxA2 activity, we identified DNA-dependent protein kinase (DNA-PK) as a FoxA2-associated factor upon affinity purification of epitope-tagged FoxA2. We show that FoxA2, found to be a phosphoprotein in vivo, is also an efficient substrate for DNA-PK, which targets serine 283. This residue is contained within a conserved serine-glutamine phosphorylation signal for DNA-PK, located within the C-terminal third of the polypeptide, just distal to its winged-helix DNA binding domain. We establish that this residue is critical for FoxA2 function because FoxA2 bearing a mutation at this site is severely compromised in its ability to activate a reporter gene under the control of its cognate DNA-binding site (apoAI site B). Complementary experiments rule out that this mutation compromises the ability of FoxA2 to either translocate to the nucleus or to bind site B. We therefore conclude that DNA-PK-dependent phosphorylation of FoxA2 plays a critical role in its transcriptional activation function per se.
+
+-Animals
+-Apolipoprotein A-I (-genetics)
+-Binding Sites
+-Cell Nucleus (-chemistry)
+-Cytoplasm (-metabolism)
+-DNA (-chemistry; -metabolism)
+-DNA-Activated Protein Kinase (+metabolism)
+-Hela Cells
+-Hepatocyte Nuclear Factor 3-beta (-analysis; +genetics; +metabolism)
+-Hepatocyte Nuclear Factor 4 (-metabolism)
+-Humans
+-Mutagenesis, Site-Directed
+-Phosphorylation
+-Promoter Regions, Genetic
+-Protein Binding
+-Protein Interaction Domains and Motifs
+-Rats
+-Substrate Specificity
++Transcriptional Activation
+
+pii:M109.016295
+doi:10.1074/jbc.M109.016295
+pubmed:19478084
+pmc:PMC2740417
+

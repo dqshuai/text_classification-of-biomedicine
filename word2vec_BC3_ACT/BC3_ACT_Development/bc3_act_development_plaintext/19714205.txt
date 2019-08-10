@@ -1,0 +1,26 @@
+PLoS Genet.
+
+Genome-wide association study implicates chromosome 9q21.31 as a susceptibility locus for asthma in mexican children.
+
+DB Hancock, I Romieu, M Shi, JJ Sienra-Monge, H Wu, GY Chiu, H Li, BE del Rio-Navarro, SA Willis-Owen, SA Willis-Owens, ST Weiss, BA Raby, H Gao, C Eng, R Chapela, EG Burchard, H Tang, PF Sullivan, SJ London
+
+Many candidate genes have been studied for asthma, but replication has varied. Novel candidate genes have been identified for various complex diseases using genome-wide association studies (GWASs). We conducted a GWAS in 492 Mexican children with asthma, predominantly atopic by skin prick test, and their parents using the Illumina HumanHap 550 K BeadChip to identify novel genetic variation for childhood asthma. The 520,767 autosomal single nucleotide polymorphisms (SNPs) passing quality control were tested for association with childhood asthma using log-linear regression with a log-additive risk model. Eleven of the most significantly associated GWAS SNPs were tested for replication in an independent study of 177 Mexican case-parent trios with childhood-onset asthma and atopy using log-linear analysis. The chromosome 9q21.31 SNP rs2378383 (p = 7.10x10(-6) in the GWAS), located upstream of transducin-like enhancer of split 4 (TLE4), gave a p-value of 0.03 and the same direction and magnitude of association in the replication study (combined p = 6.79x10(-7)). Ancestry analysis on chromosome 9q supported an inverse association between the rs2378383 minor allele (G) and childhood asthma. This work identifies chromosome 9q21.31 as a novel susceptibility locus for childhood asthma in Mexicans. Further, analysis of genome-wide expression data in 51 human tissues from the Novartis Research Foundation showed that median GWAS significance levels for SNPs in genes expressed in the lung differed most significantly from genes not expressed in the lung when compared to 50 other tissues, supporting the biological plausibility of our overall GWAS findings and the multigenic etiology of childhood asthma.
+
+-Adolescent
+-Adult
+-Asthma (+genetics)
+-Case-Control Studies
+-Child
+-Chromosomes, Human, Pair 9 (+genetics)
+-Female
++Genetic Predisposition to Disease
++Genome-Wide Association Study
+-Humans
+-Male
+-Mexico
+-Young Adult
+
+doi:10.1371/journal.pgen.1000623
+pubmed:19714205
+pmc:PMC2722731
+

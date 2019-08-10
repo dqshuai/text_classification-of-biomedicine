@@ -1,0 +1,25 @@
+Biophys. J.
+
+Spike inference from calcium imaging using sequential Monte Carlo methods.
+
+JT Vogelstein, BO Watson, AM Packer, R Yuste, B Jedynak, L Paninski
+
+As recent advances in calcium sensing technologies facilitate simultaneously imaging action potentials in neuronal populations, complementary analytical tools must also be developed to maximize the utility of this experimental paradigm. Although the observations here are fluorescence movies, the signals of interest--spike trains and/or time varying intracellular calcium concentrations--are hidden. Inferring these hidden signals is often problematic due to noise, nonlinearities, slow imaging rate, and unknown biophysical parameters. We overcome these difficulties by developing sequential Monte Carlo methods (particle filters) based on biophysical models of spiking, calcium dynamics, and fluorescence. We show that even in simple cases, the particle filters outperform the optimal linear (i.e., Wiener) filter, both by obtaining better estimates and by providing error bars. We then relax a number of our model assumptions to incorporate nonlinear saturation of the fluorescence signal, as well external stimulus and spike history dependence (e.g., refractoriness) of the spike trains. Using both simulations and in vitro fluorescence observations, we demonstrate temporal superresolution by inferring when within a frame each spike occurs. Furthermore, the model parameters may be estimated using expectation maximization with only a very limited amount of data (e.g., approximately 5-10 s or 5-40 spikes), without the requirement of any simultaneous electrophysiology or imaging experiments.
+
+-Animals
+-Calcium (+metabolism)
+-Fluorescence
+-Intracellular Space (-metabolism)
+-Mice
+-Mice, Inbred C57BL
++Models, Biological
++Monte Carlo Method
+-Neurons (-cytology; -metabolism)
+-Probability
+-Time Factors
+
+pii:S0006-3495(09)00311-7
+doi:10.1016/j.bpj.2008.08.005
+pubmed:19619479
+pmc:PMC2711341
+

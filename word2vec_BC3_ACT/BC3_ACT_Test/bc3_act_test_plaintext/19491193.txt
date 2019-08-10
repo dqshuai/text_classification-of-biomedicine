@@ -1,0 +1,43 @@
+Genome Res.
+
+Genome-wide screen of promoter methylation identifies novel markers in melanoma.
+
+Y Koga, M Pelizzola, E Cheng, M Krauthammer, M Sznol, S Ariyan, D Narayan, AM Molinaro, R Halaban, SM Weissman
+
+DNA methylation is an important component of epigenetic modifications, which influences the transcriptional machinery aberrant in many human diseases. In this study we present the first genome-wide integrative analysis of promoter methylation and gene expression for the identification of methylation markers in melanoma. Genome-wide promoter methylation and gene expression of eight early-passage human melanoma cell strains were compared with newborn and adult melanocytes. We used linear mixed effect models (LME) in combination with a series of filters based on the localization of promoter methylation relative to the transcription start site, overall promoter CpG content, and differential gene expression to discover DNA methylation markers. This approach identified 76 markers, of which 68 were hyper- and eight hypomethylated (LME, P < 0.05). Promoter methylation and differential gene expression of five markers (COL1A2, NPM2, HSPB6, DDIT4L, MT1G) were validated by sequencing of bisulfite-modified DNA and real-time reverse transcriptase PCR, respectively. Importantly, the incidence of promoter methylation of the validated markers increased moderately in early and significantly in advanced-stage melanomas, using early-passage cell strains and snap-frozen tissues (n = 18 and n = 24, respectively) compared with normal melanocytes and nevi (n = 11 and n = 9, respectively). Our approach allows robust identification of methylation markers that can be applied to other studies involving genome-wide promoter methylation. In conclusion, this study represents the first unbiased systematic effort to determine methylation markers in melanoma and revealed several novel genes regulated by promoter methylation that were not described in cancer cells before.
+
+-Adult
+-Aged
+-Cells, Cultured
+-Cluster Analysis
+-Collagen (-genetics)
++DNA Methylation
+-Female
+-Gene Expression Profiling
+-Genome, Human (-genetics)
+-Genome-Wide Association Study (+methods)
+-HSP20 Heat-Shock Proteins (-genetics)
+-Humans
+-Infant, Newborn
+-Male
+-Melanoma (+genetics; -pathology)
+-Metallothionein (-genetics)
+-Middle Aged
+-Molecular Chaperones (-genetics)
+-Nuclear Proteins (-genetics)
+-Nucleoplasmins
+-Oligonucleotide Array Sequence Analysis (-methods)
+-Phosphoproteins (-genetics)
+-Promoter Regions, Genetic (+genetics)
+-Proteins (-genetics)
+-Reproducibility of Results
+-Reverse Transcriptase Polymerase Chain Reaction
+-Sequence Analysis, DNA
+-Tumor Cells, Cultured
+-Tumor Markers, Biological (+genetics)
+
+pii:gr.091447.109
+doi:10.1101/gr.091447.109
+pubmed:19491193
+pmc:PMC2720187
+

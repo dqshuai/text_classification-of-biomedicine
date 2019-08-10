@@ -1,0 +1,31 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Identification of a consensus motif in substrates bound by a Type I Hsp40.
+
+P Kota, DW Summers, HY Ren, DM Cyr, NV Dokholyan
+
+Protein aggregation is a hallmark of a large and diverse number of conformational diseases. Molecular chaperones of the Hsp40 family (Escherichia coli DnaJ homologs) recognize misfolded disease proteins and suppress the accumulation of toxic protein species. Type I Hsp40s are very potent at suppressing protein aggregation and facilitating the refolding of damaged proteins. Yet, the molecular mechanism for the recognition of nonnative polypeptides by Type I Hsp40s such as yeast Ydj1 is not clear. Here we computationally identify a unique motif that is selectively recognized by Ydj1p. The motif is characterized by the consensus sequence GX[LMQ]{P}X{P}{CIMPVW}, where [XY] denotes either X or Y and {XY} denotes neither X nor Y. We further verify the validity of the motif by site-directed mutagenesis and show that substrate binding by Ydj1 requires recognition of this motif. A yeast proteome screen revealed that many proteins contain more than one stretch of residues that contain the motif and are separated by varying numbers of amino acids. In light of our results, we propose a 2-site peptide-binding model and a plausible mechanism of peptide presentation by Ydj1p to the chaperones of the Hsp70 family. Based on our results, and given that Ydj1p and its human ortholog Hdj2 are functionally interchangeable, we hypothesize that our results can be extended to understanding human diseases.
+
+-Amino Acid Motifs
+-Amino Acid Sequence
+-Amino Acids
+-Binding Sites
+-Computational Biology
++Consensus Sequence
+-DNA Mutational Analysis
+-HSP40 Heat-Shock Proteins (+chemistry; -classification; +metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Peptides (-chemistry; -metabolism)
+-Protein Binding
+-Protein Structure, Secondary
+-Reproducibility of Results
+-Saccharomyces cerevisiae (+metabolism)
+-Saccharomyces cerevisiae Proteins (+chemistry; -classification; +metabolism)
+-Substrate Specificity
+
+pii:0900746106
+doi:10.1073/pnas.0900746106
+pubmed:19549854
+pmc:PMC2708756
+

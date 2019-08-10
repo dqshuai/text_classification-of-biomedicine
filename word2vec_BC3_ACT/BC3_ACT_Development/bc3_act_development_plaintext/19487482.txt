@@ -1,0 +1,34 @@
+Infect. Immun.
+
+The manganese transporter MntH is a critical virulence determinant for Brucella abortus 2308 in experimentally infected mice.
+
+ES Anderson, JT Paulley, JM Gaines, MW Valderas, DW Martin, E Menscher, TD Brown, CS Burns, RM Roop
+
+The gene designated BAB1_1460 in the Brucella abortus 2308 genome sequence is predicted to encode the manganese transporter MntH. Phenotypic analysis of an isogenic mntH mutant indicates that MntH is the sole high-affinity manganese transporter in this bacterium but that MntH does not play a detectable role in the transport of Fe(2+), Zn(2+), Co(2+), or Ni(2+). Consistent with the apparent selectivity of the corresponding gene product, the expression of the mntH gene in B. abortus 2308 is repressed by Mn(2+), but not Fe(2+), and this Mn-responsive expression is mediated by a Mur-like repressor. The B. abortus mntH mutant MWV15 exhibits increased susceptibility to oxidative killing in vitro compared to strain 2308, and a comparative analysis of the superoxide dismutase activities present in these two strains indicates that the parental strain requires MntH in order to make wild-type levels of its manganese superoxide dismutase SodA. The B. abortus mntH mutant also exhibits extreme attenuation in both cultured murine macrophages and experimentally infected C57BL/6 mice. These experimental findings indicate that Mn(2+) transport mediated by MntH plays an important role in the physiology of B. abortus 2308, particularly during its intracellular survival and replication in the host.
+
+-Animals
+-Bacterial Proteins (+physiology)
+-Brucella abortus (+pathogenicity)
+-Brucellosis (+microbiology)
+-Cation Transport Proteins (-deficiency; +physiology)
+-Cells, Cultured
+-Colony Count, Microbial
+-Cytoplasm (-microbiology)
+-Female
+-Gene Deletion
+-Gene Expression Profiling
+-Gene Expression Regulation, Bacterial
+-Genetic Complementation Test
+-Macrophages, Peritoneal (-immunology; -microbiology)
+-Manganese (-metabolism)
+-Mice
+-Mice, Inbred C57BL
+-Spleen (-microbiology)
+-Virulence
+-Virulence Factors (-deficiency; +physiology)
+
+pii:IAI.00444-09
+doi:10.1128/IAI.00444-09
+pubmed:19487482
+pmc:PMC2715675
+

@@ -1,0 +1,19 @@
+Nucleic Acids Res.
+
+Conformational analysis of nucleic acids revisited: Curves+.
+
+R Lavery, M Moakher, JH Maddocks, D Petkeviciute, K Zakrzewska
+
+We describe Curves+, a new nucleic acid conformational analysis program which is applicable to a wide range of nucleic acid structures, including those with up to four strands and with either canonical or modified bases and backbones. The program is algorithmically simpler and computationally much faster than the earlier Curves approach, although it still provides both helical and backbone parameters, including a curvilinear axis and parameters relating the position of the bases to this axis. It additionally provides a full analysis of groove widths and depths. Curves+ can also be used to analyse molecular dynamics trajectories. With the help of the accompanying program Canal, it is possible to produce a variety of graphical output including parameter variations along a given structure and time series or histograms of parameter variations during dynamics.
+
+-Base Pairing
+-DNA (-chemistry)
+-Models, Molecular
++Nucleic Acid Conformation
++Software
+
+pii:gkp608
+doi:10.1093/nar/gkp608
+pubmed:19625494
+pmc:PMC2761274
+

@@ -1,0 +1,26 @@
+J. Biol. Chem.
+
+Importin-beta is a GDP-to-GTP exchange factor of Ran: implications for the mechanism of nuclear import.
+
+TG Lonhienne, JK Forwood, M Marfori, G Robin, B Kobe, BJ Carroll
+
+Ran-GTP interacts strongly with importin-beta, and this interaction promotes the release of the importin-alpha-nuclear localization signal cargo from importin-beta. Ran-GDP also interacts with importin-beta, but this interaction is 4 orders of magnitude weaker than the Ran-GTP.importin-beta interaction. Here we use the yeast complement of nuclear import proteins to show that the interaction between Ran-GDP and importin-beta promotes the dissociation of GDP from Ran. The release of GDP from the Ran-GDP-importin-beta complex stabilizes the complex, which cannot be dissociated by importin-alpha. Although Ran has a higher affinity for GDP compared with GTP, Ran in complex with importin-beta has a higher affinity for GTP. This feature is responsible for the generation of Ran-GTP from Ran-GDP by importin-beta. Ran-binding protein-1 (RanBP1) activates this reaction by forming a trimeric complex with Ran-GDP and importin-beta. Importin-alpha inhibits the GDP exchange reaction by sequestering importin-beta, whereas RanBP1 restores the GDP nucleotide exchange by importin-beta by forming a tetrameric complex with importin-beta, Ran, and importin-alpha. The exchange is also inhibited by nuclear-transport factor-2 (NTF2). We suggest a mechanism for nuclear import, additional to the established RCC1 (Ran-guanine exchange factor)-dependent pathway that incorporates these results.
+
+-Active Transport, Cell Nucleus (-genetics; +physiology)
+-Chromatography, Gel
+-Chromatography, High Pressure Liquid
+-Guanine Nucleotide Exchange Factors (+metabolism)
+-Guanosine Diphosphate (-metabolism)
+-Guanosine Triphosphate (-metabolism)
+-Humans
+-Nuclear Proteins (-metabolism)
+-Protein Binding
+-alpha Karyopherins (-metabolism)
+-beta Karyopherins (+metabolism)
+-ran GTP-Binding Protein (+metabolism)
+
+pii:M109.019935
+doi:10.1074/jbc.M109.019935
+pubmed:19549784
+pmc:PMC2755662
+

@@ -1,0 +1,38 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Validation-based insertional mutagenesis identifies lysine demethylase FBXL11 as a negative regulator of NFkappaB.
+
+T Lu, MW Jackson, AD Singhi, ES Kandel, M Yang, Y Zhang, AV Gudkov, GR Stark
+
+We describe a highly efficient use of lentiviral validation-based insertional mutagenesis (VBIM) to generate large populations of mammalian cells in which a strong promoter is inserted into many different genomic loci, causing greatly increased expression of downstream sequences. Many different selections or screens can follow, to isolate dominant mutant clones with a desired phenotypic change. The inserted promoter can be excised or silenced at will, to prove that the insertion caused the mutation. Cloning DNA flanking the insertion site identifies the locus precisely. VBIM virus particles are pseudotyped with VSV G protein, allowing efficient infection of most mammalian cell types, including non-dividing cells, and features are included that give high yields of stable virus stocks. In several different selections, useful mutants have been obtained at frequencies of approximately 10(-6) or higher. We used the VBIM technique to isolate mutant human cells in which the F-box leucine-rich protein 11 (FBXL11), a histone H3K36 demethylase, is shown to be a negative regulator of NFkappaB. High levels of FBXL11 block the ability of NFkappaB to bind to DNA or activate gene expression, and siRNA-mediated reduction of FBXL11 expression has the opposite effects. The H212A mutation of FBXL11 abolishes both its histone H3K36 demethylase activity and its ability to inhibit NFkappaB. Thus, we have used a powerful tool for mutagenesis of mammalian cells to reveal an aspect of the complex regulation of NFkappaB-dependent signaling.
+
+-Antibiotics, Antineoplastic (-pharmacology)
+-Bleomycin (-pharmacology)
+-Blotting, Northern
+-Blotting, Western
+-Cell Line
+-Cell Survival (-drug effects)
+-F-Box Proteins (-genetics; +metabolism)
+-Genetic Vectors (-genetics)
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-HT29 Cells
+-Histones (-metabolism)
+-Humans
+-Jumonji Domain-Containing Histone Demethylases
+-Lysine (-metabolism)
+-Methylation
+-Microscopy, Fluorescence
+-Mutagenesis, Insertional (+methods)
+-Mutation
+-NF-kappa B (-genetics; +metabolism)
+-Oxidoreductases, N-Demethylating (-genetics; +metabolism)
+-RNA, Small Interfering (-genetics)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Transfection
+
+pii:0908560106
+doi:10.1073/pnas.0908560106
+pubmed:19805303
+pmc:PMC2736141
+

@@ -1,0 +1,30 @@
+BMC Struct. Biol.
+
+Three dimensional shape comparison of flexible proteins using the local-diameter descriptor.
+
+Y Fang, YS Liu, K Ramani
+
+BACKGROUND: Techniques for inferring the functions of the protein by comparing their shape similarity have been receiving a lot of attention. Proteins are functional units and their shape flexibility occupies an essential role in various biological processes. Several shape descriptors have demonstrated the capability of protein shape comparison by treating them as rigid bodies. But this may give rise to an incorrect comparison of flexible protein shapes. RESULTS: We introduce an efficient approach for comparing flexible protein shapes by adapting a local diameter (LD) descriptor. The LD descriptor, developed recently to handle skeleton based shape deformations 1, is adapted in this work to capture the invariant properties of shape deformations caused by the motion of the protein backbone. Every sampled point on the protein surface is assigned a value measuring the diameter of the 3D shape in the neighborhood of that point. The LD descriptor is built in the form of a one dimensional histogram from the distribution of the diameter values. The histogram based shape representation reduces the shape comparison problem of the flexible protein to a simple distance calculation between 1D feature vectors. Experimental results indicate how the LD descriptor accurately treats the protein shape deformation. In addition, we use the LD descriptor for protein shape retrieval and compare it to the effectiveness of conventional shape descriptors. A sensitivity-specificity plot shows that the LD descriptor performs much better than the conventional shape descriptors in terms of consistency over a family of proteins and discernibility across families of different proteins. CONCLUSION: Our study provides an effective technique for comparing the shape of flexible proteins. The experimental results demonstrate the insensitivity of the LD descriptor to protein shape deformation. The proposed method will be potentially useful for molecule retrieval with similar shapes and rapid structure retrieval for proteins. The demos and supplemental materials are available on https://engineering.purdue.edu/PRECISE/LDD.
+
++Algorithms
+-Amino Acid Sequence
+-Artificial Intelligence
++Computational Biology
+-Computer Simulation
+-Database Management Systems
+-Databases, Protein
+-Image Interpretation, Computer-Assisted
+-Information Storage and Retrieval
+-Molecular Sequence Data
+-Pattern Recognition, Automated (+methods)
+-Pliability
++Protein Conformation
+-Proteins (+chemistry)
+-Sequence Analysis, Protein
++Structure-Activity Relationship
+
+pii:1472-6807-9-29
+doi:10.1186/1472-6807-9-29
+pubmed:19435524
+pmc:PMC2685140
+

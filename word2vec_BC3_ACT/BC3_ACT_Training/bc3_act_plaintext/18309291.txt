@@ -1,0 +1,35 @@
+EMBO J.
+
+Spindle assembly checkpoint gene mdf-1 regulates germ cell proliferation in response to nutrition signals in C. elegans.
+
+S Watanabe, TG Yamamoto, R Kitagawa
+
+When newly hatched Caenorhabditis elegans larvae are starved, their primordial germ cells (PGCs) arrest in the post-S phase. This starvation-induced PGC arrest is mediated by the DAF-18/PTEN-AKT-1/PKB nutrient-sensing pathway. Here, we report that the conserved spindle assembly checkpoint (SAC) component MDF-1/MAD1 is required for the PGC arrest. We identified 2 Akt kinase phosphorylation sites on MDF-1. Expression of a non-phosphorylatable mutant MDF-1 partially suppressed the defect in the starvation-induced PGC arrest in L1 larvae lacking DAF-18, suggesting that MDF-1 regulates germ cell proliferation as a downstream target of AKT-1, thereby demonstrating a functional link between cell-cycle regulation by the SAC components and nutrient sensing by DAF-18-AKT-1 during post-embryonic development. The phosphorylation status of MDF-1 affects its binding to another SAC component, MDF-2/MAD2. The loss of MDF-2 or another SAC component also caused inappropriate germ cell proliferation, but the defect was less severe than that caused by mdf-1 hemizygosity, suggesting that MDF-1 causes the PGC arrest by two mechanisms, one involving MDF-2 and another that is independent of other SAC components.
+
+-Alleles
+-Animals
+-Apoptosis
+-Caenorhabditis elegans (+cytology)
+-Caenorhabditis elegans Proteins (+genetics; -metabolism)
+-Cell Cycle Proteins (+genetics)
+-Cell Proliferation
++Food
+-Food Deprivation
+-Germ Cells (+cytology; -enzymology)
+-Heterozygote
+-Homozygote
+-Larva
+-Mitotic Spindle Apparatus (+metabolism)
+-Models, Biological
+-Mutation (-genetics)
+-Phosphorylation
+-Protein Binding
+-Proto-Oncogene Proteins c-akt (-metabolism)
++Signal Transduction
+-Threonine (-metabolism)
+
+pii:emboj200832
+doi:10.1038/emboj.2008.32
+pubmed:18309291
+pmc:PMC2323251
+

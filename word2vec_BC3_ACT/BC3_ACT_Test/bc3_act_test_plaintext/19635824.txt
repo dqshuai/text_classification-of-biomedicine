@@ -1,0 +1,33 @@
+Infect. Immun.
+
+Community-wide response of the gut microbiota to enteropathogenic Citrobacter rodentium infection revealed by deep sequencing.
+
+C Hoffmann, DA Hill, N Minkah, T Kirn, A Troy, D Artis, F Bushman
+
+We investigated the spatial and temporal response of the murine gut microbiome to infection with Citrobacter rodentium, an attaching-and-effacing bacterium that provokes innate and adaptive immune responses, resulting in transient bacterial colitis. Previous studies have suggested that C. rodentium-induced inflammation is associated with an increased abundance of Enterobacteriaceae. We report here a deeper analysis of this model using DNA bar coding and 454 pyrosequencing to characterize 101,894 partial 16S rRNA gene sequences from 85 microbial samples from tissue-adhered and luminal bacteria of the cecum, proximal colon, and distal colon, which allowed us to identify previously unappreciated spatial and kinetic changes in multiple bacterial lineages. The deep sequencing data revealed that C. rodentium was most abundantly associated with the cecal mucosa at day 9 postinfection and then diminished in abundance, providing the first reported use of deep sequencing to track a pathogen in vivo through the course of infection. Notable changes were associated with both the mucosally adhered and luminal microbiota at both day 9 and day 14 postinfection. Alterations in abundance were seen for Proteobacteria, Deferribacteres, Clostridia, and others; however, changes in Enterobacteriaceae could be accounted for by the presence of C. rodentium itself, which is a member of this family. The Lactobacillus group decreased in abundance during infection, which may be important for pathogenesis because members of this lineage modulate the composition of the gut microbiota and are used as probiotics. Thus, deep sequencing provides previously inaccessible information on how Citrobacter infection and clearance reshapes the gut microbial community in space and time.
+
+-Animals
+-Bacteria (+classification; -isolation & purification)
++Biodiversity
+-Cecum (+microbiology)
+-Citrobacter rodentium (+growth & development)
+-Cluster Analysis
+-Colitis (+microbiology)
+-Colon (+microbiology)
+-DNA, Bacterial (-chemistry; -genetics)
+-DNA, Ribosomal (-chemistry; -genetics)
+-Enterobacteriaceae Infections (+microbiology)
+-Female
+-Male
+-Mice
+-Mice, Inbred C57BL
+-Molecular Sequence Data
+-Phylogeny
+-RNA, Ribosomal, 16S (-genetics)
+-Sequence Analysis, DNA
+
+pii:IAI.00493-09
+doi:10.1128/IAI.00493-09
+pubmed:19635824
+pmc:PMC2747949
+

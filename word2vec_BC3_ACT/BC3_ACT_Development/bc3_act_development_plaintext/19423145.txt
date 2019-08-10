@@ -1,0 +1,29 @@
+Virology
+
+Porcine reproductive and respiratory syndrome virus as a vector: immunogenicity of green fluorescent protein and porcine circovirus type 2 capsid expressed from dedicated subgenomic RNAs.
+
+Y Pei, DC Hodgins, J Wu, SK Welch, JG Calvert, G Li, Y Du, C Song, D Yoo
+
+Porcine reproductive and respiratory syndrome virus (PRRSV) is the causative agent of PRRS, which is characterized by late-term abortions in sows and respiratory disease in young pigs. Using an infectious cDNA clone of North American PRRSV strain P129, the viral genome was engineered to transcribe an additional subgenomic RNA initiating between non-structural and structural genes. Two unique restriction sites and a copy of the transcription regulatory sequence for ORF6 (TRS6) were inserted between ORFs 1b and 2a, yielding a general purpose expression vector. The enhanced green fluorescent protein (GFP) gene was cloned between the unique sites such that the inserted gene was transcribed from TRS2 which was located upstream within ORF1b, while the copy of TRS6 drives ORF2a/b transcription. Upon transfection of cells with this plasmid, PRRSV infection was initiated and progeny virus "P129-GFP" was obtained. Cells infected with P129-GFP showed fluorescence and the inserted gene was phenotypically stable for at least 37 serial in vitro passages. Subsequently, a capsid (C) protein gene was cloned from porcine circovirus type 2 (PCV2) recovered from an outbreak of porcine multisystemic wasting syndrome (PMWS) and inserted into the PRRSV infectious clone vector, generating virus "P129-PCV". To determine the immunogenicity of the recombinant viruses, pigs were immunized intramuscularly with P129-WT (wild-type), P129-GFP, or P129-PCV2. By 5 weeks post-infection, specific antibody responses to GFP and PCV2 capsid were elicited. This is the first report of foreign gene expression using PRRSV from dedicated subgenomic RNAs and demonstrates the potential use of PRRSV as a vaccine vector for swine pathogens.
+
+-Animals
+-Antibodies, Viral (-immunology)
+-Capsid Proteins (-genetics; +immunology; -metabolism)
+-Cell Line
+-Cercopithecus aethiops
+-Circoviridae Infections (-immunology; -virology)
+-Circovirus (-genetics; +immunology)
+-DNA, Complementary (-genetics)
+-Gene Expression Regulation, Viral
++Genetic Vectors
+-Genome, Viral
+-Green Fluorescent Proteins (-genetics; -immunology; -metabolism)
+-Porcine respiratory and reproductive syndrome virus (+genetics; -metabolism)
+-RNA, Viral (-metabolism)
+-Swine
+-Swine Diseases (-immunology; -virology)
+
+pii:S0042-6822(09)00234-7
+doi:10.1016/j.virol.2009.03.036
+pubmed:19423145
+

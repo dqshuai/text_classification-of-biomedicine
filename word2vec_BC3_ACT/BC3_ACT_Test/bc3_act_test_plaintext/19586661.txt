@@ -1,0 +1,33 @@
+Mol. Immunol.
+
+Enhanced interaction between Hsp90 and raptor regulates mTOR signaling upon T cell activation.
+
+GM Delgoffe, TP Kole, RJ Cotter, JD Powell
+
+The mammalian target of rapamycin (mTOR) is an evolutionarily conserved kinase which plays a role in integrating environmental cues. mTOR signals via two complexes: TORC1, which contains the Regulatory Associated Protein of TOR (raptor), and TORC2, which contains the Rapamycin-insensitive Companion of TOR (rictor). The immunosuppressive/anti-cancer agent rapamycin inhibits TORC1 function by disrupting the mTOR-raptor interaction. In an effort to understand the downstream consequences of TORC1 activation in T cells we performed a proteomic analysis of raptor binding proteins. Using this approach we have identified Hsp90 as an activation-induced binding partner of raptor in T cells. Pharmacologic inhibition of Hsp90 leads to a decrease in raptor expression and TORC1 activity. Furthermore, full T cell activation during Hsp90 blockade leads to T cell tolerance in the form of anergy. Overall, our findings suggest that Hsp90 inhibitors might represent a novel means of promoting T cell tolerance.
+
+-Animals
+-Carrier Proteins (+metabolism)
+-Chromatography, High Pressure Liquid
+-Electrophoresis, Polyacrylamide Gel
+-HSP90 Heat-Shock Proteins (+metabolism)
+-Immunoblotting
+-Immunosuppressive Agents (-pharmacology)
+-Lymphocyte Activation (-drug effects)
+-Mass Spectrometry
+-Mice
+-Protein Binding
+-Protein Kinases (+metabolism)
+-Proteome (-isolation & purification; -metabolism)
+-Proteomics (-methods)
++Signal Transduction
+-Sirolimus (-pharmacology)
+-T-Lymphocytes (-cytology; -drug effects; +metabolism)
+-Transcription Factors (-metabolism)
+
+pii:S0161-5890(09)00410-6
+doi:10.1016/j.molimm.2009.05.185
+pubmed:19586661
+mid:NIHMS123322
+pmc:PMC2768125
+

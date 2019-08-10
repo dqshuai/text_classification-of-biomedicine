@@ -1,0 +1,31 @@
+J. Neurosci.
+
+Corticocortical interactions between and within three cortical auditory areas specialized for time-domain signal processing.
+
+J Tang, N Suga
+
+In auditory cortex of the mustached bat, the FF (F means frequency modulation), dorsal fringe (DF), and ventral fringe (VF) areas consist of "combination-sensitive" neurons tuned to the pair of an emitted biosonar pulse and its echo with a specific delay (best delay: BD). The DF and VF areas are hierarchically at a higher level than the FF area. Focal electric stimulation of the FF area evokes "centrifugal" BD shifts of DF neurons, i.e., shifts away from the BD of the stimulated FF neurons, whereas stimulation of the DF neurons evokes "centripetal" BD shifts of FF neurons, i.e., shifts toward the BD of the stimulated DF neurons. In our current studies, we found that the feedforward projection from FF neurons evokes centrifugal BD shifts of VF neurons, that the feedback projection from VF neurons evokes centripetal BD shifts of FF neurons, that the contralateral projection from DF neurons evokes centripetal BD shifts of DF neurons, and that the centripetal BD shifts evoked by the DF and VF neurons are 2.5 times larger than the centrifugal BD shifts evoked by the FF neurons. The centrifugal BD shifts shape the selective neural representation of a specific target distance, whereas the centripetal BD shifts expand the representation of the selected specific target distance to focus on the processing of the target information at a specific distance. The centrifugal and centripetal BD shifts evoked by the feedforward and feedback projections promote finer analysis of a target at shorter distances.
+
+-Acoustic Stimulation (-methods)
+-Analysis of Variance
+-Animals
+-Auditory Cortex (-cytology; +physiology)
+-Auditory Pathways (-physiology)
+-Biofeedback, Psychology
+-Brain Mapping
+-Chiroptera
+-Echolocation (+physiology)
+-Electric Stimulation (-methods)
+-Evoked Potentials (-physiology)
+-Functional Laterality (-physiology)
+-Nerve Net (+physiology)
+-Reaction Time (-drug effects)
+-Sensory Receptor Cells (+physiology)
+-Signal Detection, Psychological (+physiology)
+
+pii:29/22/7230
+doi:10.1523/JNEUROSCI.0373-09.2009
+pubmed:19494145
+mid:NIHMS122734
+pmc:PMC2752974
+

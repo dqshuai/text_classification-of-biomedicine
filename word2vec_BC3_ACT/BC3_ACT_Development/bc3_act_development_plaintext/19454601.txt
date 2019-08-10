@@ -1,0 +1,21 @@
+Nucleic Acids Res.
+
+Hyperlink Management System and ID Converter System: enabling maintenance-free hyperlinks among major biological databases.
+
+T Imanishi, H Nakaoka
+
+Hyperlink Management System (HMS) is a system for automatically updating and maintaining hyperlinks among major public databases in the field of life science. We daily create corresponding tables of data IDs of major databases for human genes and proteins, and provide a CGI-program that returns correct and up-to-date URLs for showing data of various databases that correspond to user-specified IDs. The HMS can deal with various IDs: accession numbers of International Nucleotide Sequence Databases, HUGO Gene Symbols and IDs of UniProt, PDB, H-InvDB and others, and it can return URLs of various databases: H-InvDB, HUGO Gene Nomenclature Committee Database, NCBI Entrez Gene, UniProt, PDB and others. For example, 23 297 pages of Locus view of H-InvDB are reachable by using HUGO Gene Symbols through the HMS. Not only the CGI-program, the HMS provides a Web page for finding and opening URLs of these databases. Although hyperlinking is an effective way of relating biological data among different databases, updating hyperlinks has been a laborious work. The HMS fully automates the job, enabling maintenance-free hyperlinks. We also developed the ID Converter System (ICS) for simply converting data IDs by using corresponding tables in the HMS. The HMS and ICS are freely available at http://biodb.jp/.
+
+-Biology
++Database Management Systems
++Databases, Genetic
+-Humans
+-Internet
++Software
+-Systems Integration
+
+pii:gkp355
+doi:10.1093/nar/gkp355
+pubmed:19454601
+pmc:PMC2703917
+

@@ -1,0 +1,31 @@
+Biochemistry
+
+Determination of the mechanism of action of anti-FasL antibody by epitope mapping and homology modeling.
+
+VH Obungu, V Gelfanova, R Rathnachalam, A Bailey, J Sloan-Lancaster, L Huang
+
+Fas ligand (FasL) is a 40-kDa type II transmembrane protein belonging to the tumor necrosis factor (TNF) family of proteins and binds to its specific receptor, Fas, a member of the TNF receptor family. Membrane-bound FasL can be processed into a soluble form by a metalloprotease similar to that which cleaves TNFalpha. Elevated levels of FasL have been implicated in a wide variety of diseases ranging from cancer to inflammatory abnormalities, which could be targeted by antibody therapy. We generated a fully human high-affinity antibody against FasL that binds to and neutralizes the activity of both soluble and membrane-associated human FasL. In order to elucidate the mechanism of function of this antibody, we have mapped the region and critical residues involved in the recognition of FasL using a combination of homology modeling, immunoprecipitation, hydrogen-deuterium exchange mass spectrometry (H/DXMS), and alanine scanning site-directed mutagenesis. These studies have revealed the antibody binding site on human FasL. Furthermore, through molecular homology modeling, we have proposed a mechanism for the neutralizing activity of this antibody that involves interference with the docking of the ligand to its receptor by the antibody.
+
+-Amino Acid Sequence
+-Animals
++Antibodies (-chemistry; -immunology)
+-Apoptosis (-immunology)
+-Binding Sites
+-Epitope Mapping
+-Epitopes (+chemistry; -immunology)
+-Fas Ligand Protein (+chemistry; -genetics; +immunology)
+-Humans
+-Jurkat Cells
+-Mice
+-Models, Molecular
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Protein Binding
+-Protein Structure, Tertiary
+-Recombinant Fusion Proteins (-chemistry; -genetics; -immunology)
+-Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization
+-Trypsin (-metabolism)
+
+doi:10.1021/bi900296g
+pubmed:19588926
+

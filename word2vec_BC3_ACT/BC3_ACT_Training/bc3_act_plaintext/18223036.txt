@@ -1,0 +1,36 @@
+Plant Cell
+
+Characterization of Arabidopsis and rice DWD proteins and their roles as substrate receptors for CUL4-RING E3 ubiquitin ligases.
+
+JH Lee, W Terzaghi, G Gusmaroli, JB Charron, HJ Yoon, H Chen, YJ He, Y Xiong, XW Deng
+
+A subset of WD40 proteins that contain a DWD motif (for DDB1 binding WD40) is reported to act as substrate receptors for DDB1-CUL4-ROC1 (for Damaged DNA Binding 1-Cullin 4-Regulator of Cullins 1) based E3 ubiquitin ligases in humans. Here, we report 85 Arabidopsis thaliana and 78 rice (Oryza sativa) proteins containing the conserved 16-amino acid DWD motif. We show by yeast two-hybrid and in vivo coimmunoprecipitation that 11 Arabidopsis DWD proteins directly interact with DDB1 and thus may serve as substrate receptors for the DDB1-CUL4 machinery. We further examine whether the DWD protein PRL1 (for Pleiotropic Regulatory Locus 1) may act as part of a CUL4-based E3 ligase. PRL1 directly interacts with DDB1, and prl1 and cul4cs mutants exhibited similar phenotypes, including altered responses to a variety of stimuli. Moreover, AKIN10 (for Arabidopsis SNF1 Kinase Homolog 10) was degraded more slowly in cell extracts of prl1 and cul4cs than in cell extracts of the wild type. Thus, both genetic and biochemical analyses support the conclusion that PRL1 is the substrate receptor of a CUL4-ROC1-DDB1-PRL1 E3 ligase involved in the degradation of AKIN10. This work adds a large new family to the current portfolio of plant E3 ubiquitin ligases.
+
+-Abscisic Acid (-pharmacology)
++Amino Acid Motifs
+-Anthocyanins (-metabolism)
+-Arabidopsis (-drug effects; +enzymology; -genetics)
+-Arabidopsis Proteins (-chemistry; +metabolism)
+-Carbohydrates (-pharmacology)
+-Cotyledon (-drug effects; -metabolism)
+-Cullin Proteins (-metabolism)
+-Cytokinins (-pharmacology)
+-Genes, Plant
+-Intracellular Signaling Peptides and Proteins (-metabolism)
+-Mutation (-genetics)
+-Nuclear Proteins (-metabolism)
+-Oryza sativa (-cytology; -drug effects; +enzymology)
+-Phenotype
+-Plant Proteins (+chemistry; +metabolism)
+-Protein Binding (-drug effects)
+-Protein Processing, Post-Translational (-drug effects)
+-Seedling (-drug effects; -metabolism)
+-Substrate Specificity (-drug effects)
+-Transcription, Genetic (-drug effects)
+-Ubiquitin-Protein Ligases (+metabolism)
+
+pii:tpc.107.055418
+doi:10.1105/tpc.107.055418
+pubmed:18223036
+pmc:PMC2254929
+

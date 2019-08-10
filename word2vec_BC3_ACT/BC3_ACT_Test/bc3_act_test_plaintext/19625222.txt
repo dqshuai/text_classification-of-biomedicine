@@ -1,0 +1,29 @@
+DNA Repair (Amst.)
+
+Cellular pathways for DNA repair and damage tolerance of formaldehyde-induced DNA-protein crosslinks.
+
+B de Graaf, A Clore, AK McCullough
+
+Although it is well established that DNA-protein crosslinks are formed as a consequence of cellular exposure to agents such as formaldehyde, transplatin, ionizing and ultraviolet radiation, the biochemical pathways that promote cellular survival via repair or tolerance of these lesions are poorly understood. To investigate the mechanisms that function to limit DNA-protein crosslink-induced cytotoxicity, the Saccharomyces cerevisiae non-essential gene deletion library was screened for increased sensitivity to formaldehyde exposure. Following low dose, chronic exposure, strains containing deletions in genes mediating homologous recombination showed the greatest sensitivity, while under the same exposure conditions, deletions in genes associated with nucleotide excision repair conferred only low to moderate sensitivities. However, when the exposure regime was changed to a high dose acute (short-term) formaldehyde treatment, the genes that conferred maximal survival switched to the nucleotide excision repair pathway, with little contribution of the homologous recombination genes. Data are presented which suggest that following acute formaldehyde exposure, repair and/or tolerance of DNA-protein crosslinks proceeds via formation of nucleotide excision repair-dependent single-strand break intermediates and without a detectable accumulation of double-strand breaks. These data clearly demonstrate a differential pathway response to chronic versus acute formaldehyde exposures and may have significance and implications for risk extrapolation in human exposure studies.
+
+-Cross-Linking Reagents (-toxicity)
+-DNA Breaks, Double-Stranded (-drug effects)
+-DNA Breaks, Single-Stranded (-drug effects)
++DNA Damage
+-DNA Repair (+drug effects)
+-DNA, Fungal (+chemistry; -metabolism)
+-Formaldehyde (+toxicity)
+-Fungal Proteins (+chemistry; -metabolism)
+-Gene Deletion
+-Gene Library
+-Protein Binding (-drug effects)
+-Recombination, Genetic (-drug effects)
+-Saccharomyces cerevisiae (+cytology; -drug effects; -genetics; -metabolism)
+-Time Factors
+
+pii:S1568-7864(09)00167-0
+doi:10.1016/j.dnarep.2009.06.007
+pubmed:19625222
+mid:NIHMS130024
+pmc:PMC2748227
+

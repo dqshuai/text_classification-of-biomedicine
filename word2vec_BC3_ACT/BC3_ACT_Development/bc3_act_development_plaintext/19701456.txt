@@ -1,0 +1,27 @@
+PLoS ONE
+
+Quorum sensing regulation of the two hcp alleles in Vibrio cholerae O1 strains.
+
+T Ishikawa, PK Rompikuntal, B Lindmark, DL Milton, SN Wai
+
+BACKGROUND: The type VI secretion system (T6SS) has emerged as a protein secretion system important to several gram-negative bacterial species. One of the common components of the system is Hcp, initially described as a hemolysin co-regulated protein in a serotype O17 strain of Vibrio cholerae. Homologs to V. cholerae hcp genes have been found in all characterized type VI secretion systems and they are present also in the serotype O1 strains of V. cholerae that are the cause of cholera diseases but seemed to have non-functional T6SS. METHODOLOGY/PRINCIPAL FINDINGS: The serotype O1 V. cholerae strain A1552 was shown to express detectable levels of Hcp as determined by immunoblot analyses using polyclonal anti-Hcp antiserum. We found that the expression of Hcp was growth phase dependent. The levels of Hcp in quorum sensing deficient mutants of V. cholerae were compared with the levels in wild type V. cholerae O1 strain A1552. The expression of Hcp was positively and negatively regulated by the quorum sensing regulators HapR and LuxO, respectively. In addition, we observed that expression of Hcp was dependent on the cAMP-CRP global transcriptional regulatory complex and required the RpoN sigma factor. CONCLUSION/SIGNIFICANCE: Our results show that serotype O1 strains of V. cholerae do express Hcp which is regarded as one of the important T6SS components and is one of the secreted substrates in non-O1 non-O139 V. cholerae isolates. We found that expression of Hcp was strictly regulated by the quorum sensing system in the V. cholerae O1 strain. In addition, the expression of Hcp required the alternative sigma factor RpoN and the cAMP-CRP global regulatory complex. Interestingly, the environmental isolates of V. cholerae O1 strains that showed higher levels of the HapR quorum sensing regulator in comparison with our laboratory standard serotype O1 strain A1552 where also expressing higher levels of Hcp.
+
++Alleles
+-Amino Acid Sequence
+-Bacterial Proteins (-chemistry; +genetics)
+-Base Sequence
+-DNA Primers
+-DNA, Bacterial
++Gene Expression Regulation, Bacterial
++Genes, Bacterial
+-Hemolysin Proteins (-chemistry; +genetics)
+-Molecular Sequence Data
+-Polymerase Chain Reaction
++Quorum Sensing
+-Species Specificity
+-Vibrio cholerae (-genetics; +physiology)
+
+doi:10.1371/journal.pone.0006734
+pubmed:19701456
+pmc:PMC2726435
+

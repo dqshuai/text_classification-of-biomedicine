@@ -1,0 +1,22 @@
+Retrovirology
+
+Discovery of novel targets for multi-epitope vaccines: screening of HIV-1 genomes using association rule mining.
+
+S Paul, H Piontkivska
+
+BACKGROUND: Studies have shown that in the genome of human immunodeficiency virus (HIV-1) regions responsible for interactions with the host's immune system, namely, cytotoxic T-lymphocyte (CTL) epitopes tend to cluster together in relatively conserved regions. On the other hand, "epitope-less" regions or regions with relatively low density of epitopes tend to be more variable. However, very little is known about relationships among epitopes from different genes, in other words, whether particular epitopes from different genes would occur together in the same viral genome. To identify CTL epitopes in different genes that co-occur in HIV genomes, association rule mining was used. RESULTS: Using a set of 189 best-defined HIV-1 CTL/CD8+ epitopes from 9 different protein-coding genes, as described by Frahm, Linde & Brander (2007), we examined the complete genomic sequences of 62 reference HIV sequences (including 13 subtypes and sub-subtypes with approximately 4 representative sequences for each subtype or sub-subtype, and 18 circulating recombinant forms). The results showed that despite inclusion of recombinant sequences that would be expected to break-up associations of epitopes in different genes when two different genomes are recombined, there exist particular combinations of epitopes (epitope associations) that occur repeatedly across the world-wide population of HIV-1. For example, Pol epitope LFLDGIDKA is found to be significantly associated with epitopes GHQAAMQML and FLKEKGGL from Gag and Nef, respectively, and this association rule is observed even among circulating recombinant forms. CONCLUSION: We have identified CTL epitope combinations co-occurring in HIV-1 genomes including different subtypes and recombinant forms. Such co-occurrence has important implications for design of complex vaccines (multi-epitope vaccines) and/or drugs that would target multiple HIV-1 regions at once and, thus, may be expected to overcome challenges associated with viral escape.
+
+-AIDS Vaccines (-genetics; -immunology)
+-Computational Biology (+methods)
+-Epitopes, T-Lymphocyte (+genetics; -immunology)
++Genome, Viral
+-HIV Infections (-immunology; +virology)
+-HIV-1 (+genetics; -immunology)
+-Humans
+-T-Lymphocytes, Cytotoxic (-immunology)
+
+pii:1742-4690-6-62
+doi:10.1186/1742-4690-6-62
+pubmed:19580659
+pmc:PMC2716299
+

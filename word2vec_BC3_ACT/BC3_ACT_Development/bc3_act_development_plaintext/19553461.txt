@@ -1,0 +1,35 @@
+J. Neurosci.
+
+Hyperdopaminergia and NMDA receptor hypofunction disrupt neural phase signaling.
+
+K Dzirasa, AJ Ramsey, DY Takahashi, J Stapleton, JM Potes, JK Williams, RR Gainetdinov, K Sameshima, MG Caron, MA Nicolelis
+
+Neural phase signaling has gained attention as a putative coding mechanism through which the brain binds the activity of neurons across distributed brain areas to generate thoughts, percepts, and behaviors. Neural phase signaling has been shown to play a role in various cognitive processes, and it has been suggested that altered phase signaling may play a role in mediating the cognitive deficits observed across neuropsychiatric illness. Here, we investigated neural phase signaling in two mouse models of cognitive dysfunction: mice with genetically induced hyperdopaminergia [dopamine transporter knock-out (DAT-KO) mice] and mice with genetically induced NMDA receptor hypofunction [NMDA receptor subunit-1 knockdown (NR1-KD) mice]. Cognitive function in these mice was assessed using a radial-arm maze task, and local field potentials were recorded from dorsal hippocampus and prefrontal cortex as DAT-KO mice, NR1-KD mice, and their littermate controls engaged in behavioral exploration. Our results demonstrate that both DAT-KO and NR1-KD mice display deficits in spatial cognitive performance. Moreover, we show that persistent hyperdopaminergia alters interstructural phase signaling, whereas NMDA receptor hypofunction alters interstructural and intrastructural phase signaling. These results demonstrate that dopamine and NMDA receptor dependent glutamate signaling play a critical role in coordinating neural phase signaling, and encourage further studies to investigate the role that deficits in phase signaling play in mediating cognitive dysfunction.
+
+-Animals
++Cognition
+-Dopamine (+metabolism)
+-Dopamine Plasma Membrane Transport Proteins (+deficiency; -genetics)
+-Electrophysiology
+-Evoked Potentials
+-Exploratory Behavior
+-Hippocampus (-metabolism; +physiopathology)
+-Maze Learning
++Memory
+-Mice
+-Mice, Inbred C57BL
+-Mice, Knockout
+-Mice, Transgenic
+-Neural Pathways (-physiopathology)
+-Neurons (+metabolism)
+-Prefrontal Cortex (-metabolism; +physiopathology)
+-Receptors, N-Methyl-D-Aspartate (+deficiency; -genetics)
++Signal Transduction
+-Space Flight
+
+pii:29/25/8215
+doi:10.1523/JNEUROSCI.1773-09.2009
+pubmed:19553461
+mid:NIHMS124439
+pmc:PMC2731697
+

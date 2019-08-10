@@ -1,0 +1,24 @@
+J. Mol. Biol.
+
+DNA recognition and wrapping by Escherichia coli RcnR.
+
+JS Iwig, PT Chivers
+
+Escherichia coli RcnR is a founding member of a recently discovered large and widespread structural family of bacterial transcription factors that are predicted to respond to a variety of environmental stresses. RcnR directly regulates transcription of the gene encoding the RcnA nickel and cobalt efflux protein by coordination of DNA-binding and metal-binding activities. A crystal structure of a Cu(I)-sensing homolog from Mycobacterium tuberculosis did not reveal how the novel all-alpha-helical fold of this protein family interacts with DNA because it lacks a well-characterized DNA-binding motif. In this study, we investigated the biophysical properties of the RcnR-DNA interaction using isothermal titration calorimetry and footprinting techniques. We found that an RcnR tetramer recognizes a TACT-G(6)-N-AGTA motif, of which there are two in the rcnA-rcnR intergenic region. G-tracts are found in many predicted binding sites of other RcnR/CsoR proteins, and here we show that they endow A-form DNA characteristics to the RcnR operator sites. Interestingly, RcnR also interacts nonspecifically with the approximately 50 base pairs flanking the core binding site, resulting in DNA wrapping and the introduction of a single negative supercoil into plasmid DNA. Comparisons with other RcnR/CsoR proteins reveal likely key differences in DNA binding among members of this family that result from variations in the number and sequence of operator sites.
+
+-Amino Acid Sequence
+-Bacterial Proteins (+chemistry; -genetics; +metabolism)
+-Binding Sites
+-Circular Dichroism
+-DNA (+metabolism)
+-DNA Footprinting
+-Electrophoretic Mobility Shift Assay
+-Molecular Sequence Data
+-Protein Binding
+-Repressor Proteins (+chemistry; -genetics; +metabolism)
+-Sequence Homology, Amino Acid
+
+pii:S0022-2836(09)01043-2
+doi:10.1016/j.jmb.2009.08.038
+pubmed:19703465
+

@@ -1,0 +1,27 @@
+J. Proteome Res.
+
+Identification of astrocyte secreted proteins with a combination of shotgun proteomics and bioinformatics.
+
+JA Dowell, JA Johnson, L Li
+
+Astrocytes are important regulators of normal brain function in mammals, including roles in synaptic signaling, synapse formation, and neuronal health and survival. Many of these functions are executed via secreted proteins. To analyze the astrocyte secretome, a combination of shotgun proteomics and bioinformatics was employed to analyze conditioned media from primary murine astrocyte cultures. Both two- and one-dimensional LC-MS/MS were used to analyze astrocyte secreted proteins, resulting in the identification of over 420 proteins. To refine our results, the intracellular protein contaminants were removed in silico using a cytoplasmic control. In additional rounds of refinement, putative secreted proteins were subjected to analysis by SignalP, SecretomeP, and gene ontology analysis, yielding a refined list of 187 secreted proteins. In conclusion, the use of shotgun proteomics combined with multiple rounds of data refinement produced a high quality catalog of astrocyte secreted proteins.
+
+-Animals
+-Astrocytes (-metabolism; +secretion)
+-Cells, Cultured
+-Chromatography, Liquid
+-Computational Biology (+methods)
+-Computer Simulation
+-Databases, Protein
+-Mice
+-Nerve Tissue Proteins (+analysis; -metabolism; -secretion)
+-Peptide Mapping (+methods)
+-Proteomics (+methods)
+-Specimen Handling
+-Tandem Mass Spectrometry
+
+doi:10.1021/pr900248y
+pubmed:19469553
+mid:NIHMS189651
+pmc:PMC2866504
+

@@ -1,0 +1,25 @@
+PLoS Pathog.
+
+Trypanosoma brucei PUF9 regulates mRNAs for proteins involved in replicative processes over the cell cycle.
+
+SK Archer, VD Luu, RA de Queiroz, S Brems, C Clayton
+
+Many genes that are required at specific points in the cell cycle exhibit cell cycle-dependent expression. In the early-diverging model eukaryote and important human pathogen Trypanosoma brucei, regulation of gene expression in the cell cycle and other processes is almost entirely post-transcriptional. Here, we show that the T. brucei RNA-binding protein PUF9 stabilizes certain transcripts during S-phase. Target transcripts of PUF9--LIGKA, PNT1 and PNT2--were identified by affinity purification with TAP-tagged PUF9. RNAi against PUF9 caused an accumulation of cells in G2/M phase and unexpectedly destabilized the PUF9 target mRNAs, despite the fact that most known Puf-domain proteins promote degradation of their target mRNAs. The levels of the PUF9-regulated transcripts were cell cycle dependent, peaking in mid- to late- S-phase, and this effect was abolished when PUF9 was targeted by RNAi. The sequence UUGUACC was over-represented in the 3' UTRs of PUF9 targets; a point mutation in this motif abolished PUF9-dependent stabilization of a reporter transcript carrying the PNT1 3' UTR. LIGKA is involved in replication of the kinetoplast, and here we show that PNT1 is also kinetoplast-associated and its over-expression causes kinetoplast-related defects, while PNT2 is localized to the nucleus in G1 phase and redistributes to the mitotic spindle during mitosis. PUF9 targets may constitute a post-transcriptional regulon, encoding proteins involved in temporally coordinated replicative processes in early G2 phase.
+
+-Animals
+-Cell Cycle (-physiology)
+-G2 Phase
+-Immunohistochemistry
+-Oligonucleotide Array Sequence Analysis
+-Protozoan Proteins (-chemistry; -genetics; +metabolism)
+-RNA Interference
+-RNA, Messenger (+genetics; -metabolism)
+-RNA-Binding Proteins (-chemistry; -genetics; +metabolism)
+-Reproducibility of Results
+-S Phase
+-Trypanosoma brucei brucei (+genetics)
+
+doi:10.1371/journal.ppat.1000565
+pubmed:19714224
+pmc:PMC2727004
+

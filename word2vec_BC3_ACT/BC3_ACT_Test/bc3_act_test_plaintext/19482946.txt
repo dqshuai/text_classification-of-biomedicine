@@ -1,0 +1,26 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Zinc-finger directed double-strand breaks within CAG repeat tracts promote repeat instability in human cells.
+
+D Mittelman, C Moye, J Morton, K Sykoudis, Y Lin, D Carroll, JH Wilson
+
+Expanded triplet repeats have been identified as the genetic basis for a growing number of neurological and skeletal disorders. To examine the contribution of double-strand break repair to CAG x CTG repeat instability in mammalian systems, we developed zinc finger nucleases (ZFNs) that recognize and cleave CAG repeat sequences. Engineered ZFNs use a tandem array of zinc fingers, fused to the FokI DNA cleavage domain, to direct double-strand breaks (DSBs) in a site-specific manner. We first determined that the ZFNs cleave CAG repeats in vitro. Then, using our previously described tissue culture assay for identifying modifiers of CAG repeat instability, we found that transfection of ZFN-expression vectors induced up to a 15-fold increase in changes to the CAG repeat in human and rodent cell lines, and that longer repeats were much more sensitive to cleavage than shorter ones. Analysis of individual colonies arising after treatment revealed a spectrum of events consistent with ZFN-induced DSBs and dominated by repeat contractions. We also found that expressing a dominant-negative form of RAD51 in combination with a ZFN, dramatically reduced the effect of the nuclease, suggesting that DSB-induced repeat instability is mediated, in part, through homology directed repair. These studies identify a ZFN as a useful reagent for characterizing the effects of DSBs on CAG repeats in cells.
+
+-Animals
+-Base Sequence
+-CHO Cells
+-Cricetinae
+-Cricetulus
+-DNA
++DNA Damage
++Genomic Instability
+-Humans
+-Mutation
++Trinucleotide Repeats
++Zinc Fingers
+
+pii:0902420106
+doi:10.1073/pnas.0902420106
+pubmed:19482946
+pmc:PMC2701052
+

@@ -1,0 +1,30 @@
+Mol. Immunol.
+
+Ca v 1.2 L-type Ca2+ channel protects mast cells against activation-induced cell death by preventing mitochondrial integrity disruption.
+
+Y Suzuki, T Yoshimaru, T Inoue, C Ra
+
+In non-excitable cells, store-operated Ca(2+) channels (SOCs) are the principal routes of Ca(2+) entry. Recently, store-independent Ca(2+) channels which are pharmacologically and/or immunologically similar to L-type Ca(2+) channels (LTCCs) have been shown to exist in various hematopoietic cells, including T cells, B cells and neutrophils. We previously reported that mast cells express LTCCs which regulate mast cell effector responses in a distinct manner from SOCs. In the present study, we examined the possible role for LTCCs in mast cell survival. Both RBL-2H3 mast cells and bone marrow-derived mast cells underwent considerable apoptosis after treatment with thapsigargin (Tg) but not stimulation through the high-affinity IgE receptor (Fc epsilon RI). The LTCC-selective antagonists such as nifedipine greatly augmented Fc epsilon RI-mediated apoptosis, while the LTCC-selective agonist (S)-BayK8644 blocked Tg-induced apoptosis. The modulation of apoptosis was accompanied by altered mitochondrial integrity, as measured with the mitochondrial membrane potential, cytochrome c release and caspase-3/7 activation. Fc epsilon RI stimulation induced mitochondrial Ca(2+) ([Ca(2+)](m)) entry through both SOCs and LTCCs, while Tg evoked [Ca(2+)](m) entry through LTCCs but not SOCs. The LTCC-selective antagonists blocked [Ca(2+)](m) entry, whereas (S)-BayK8644 augmented Tg-induced [Ca(2+)](m) entry. Moreover, blockade of the expression of the alpha(1C) subunit of Ca(v)1.2 LTCC using small-interfering RNA strongly augmented Fc epsilon RI-mediated apoptosis, mitochondrial integrity, and mitochondrial Ca(2+) collapse, and abolished the protective effects of (S)-BayK8644 against Tg-induced apoptosis. These findings suggest that Ca(v)1.2 LTCC protects mast cells against activation-induced cell death by preventing mitochondrial integrity disruption.
+
+-3-Pyridinecarboxylic acid, 1,4-dihydro-2,6-dimethyl-5-nitro-4-(2-(trifluoromethyl)phenyl)-, Methyl ester (-pharmacology)
+-Animals
++Apoptosis
+-Bone Marrow Cells (-drug effects; -physiology)
+-Calcium Channels, L-Type (+physiology)
+-Calcium Signaling
+-Cell Line
+-Cell Survival
+-Ion Channel Gating
+-Mast Cells (-drug effects; +physiology)
+-Membrane Potential, Mitochondrial
+-Mice
+-Mitochondria (-drug effects; +physiology)
+-Nifedipine (-pharmacology)
+-Protein Subunits (-drug effects; -physiology)
+-Receptors, IgE (-metabolism)
+-Thapsigargin (-pharmacology)
+
+pii:S0161-5890(09)00138-2
+doi:10.1016/j.molimm.2009.03.017
+pubmed:19447492
+

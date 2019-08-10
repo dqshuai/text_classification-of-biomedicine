@@ -1,0 +1,24 @@
+Methods
+
+Cost-effective sequence-based nonhuman primate MHC class I genotyping from RNA.
+
+JA Karl, RW Wiseman, DH O'Connor
+
+The major histocompatibility complex (MHC) class I region of nonhuman primates (NHPs) is highly polymorphic and has undergone complex segmental duplications such that the number of expressed genes differs between individuals. In addition the relative abundance of transcripts varies more than 100-fold between NHP class I genes. This unparalleled complexity makes rapid, efficient class I genotyping difficult for NHPs. The 'gold standard' of cDNA library construction, screening and sequencing is both costly and labor-intensive. Several rapid genotyping methods have been utilized, but all require some degree of prior sequence knowledge. Here, we describe a method for sequence-based MHC class I genotyping which reduces cost by (1) pooling molecularly barcoded class I cDNA-PCR amplicons for cloning and (2) targeting sequencing of a region of concentrated polymorphism spanning the two exons encoding the peptide binding domain. This method can efficiently genotype both known and novel MHC class I alleles. In addition, full-length cDNA amplicons with novel sequences can be resequenced in their entireties to expand the repertoire of characterized MHC class I sequences for NHPs.
+
+-Alleles
+-Animals
+-Genes, MHC Class I (+genetics)
+-Genotype
+-Macaca mulatta
++Major Histocompatibility Complex
+-Polymerase Chain Reaction
+-RNA (+genetics)
+-Sequence Analysis, RNA (+economics; +methods)
+
+pii:S1046-2023(09)00110-8
+doi:10.1016/j.ymeth.2009.05.002
+pubmed:19442739
+mid:NIHMS117461
+pmc:PMC2732760
+

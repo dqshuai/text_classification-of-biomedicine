@@ -1,0 +1,24 @@
+Plant Cell
+
+bearded-ear encodes a MADS box transcription factor critical for maize floral development.
+
+BE Thompson, L Bartling, C Whipple, DH Hall, H Sakai, R Schmidt, S Hake
+
+Although many genes that regulate floral development have been identified in Arabidopsis thaliana, relatively few are known in the grasses. In normal maize (Zea mays), each spikelet produces an upper and lower floral meristem, which initiate floral organs in a defined phyllotaxy before being consumed in the production of an ovule. The bearded-ear (bde) mutation affects floral development differently in the upper and lower meristem. The upper floral meristem initiates extra floral organs that are often mosaic or fused, while the lower floral meristem initiates additional floral meristems. We cloned bde by positional cloning and found that it encodes zea agamous3 (zag3), a MADS box transcription factor in the conserved AGAMOUS-LIKE6 clade. Mutants in the maize homolog of AGAMOUS, zag1, have a subset of bde floral defects. bde zag1 double mutants have a severe ear phenotype, not observed in either single mutant, in which floral meristems are converted to branch-like meristems, indicating that bde and zag1 redundantly promote floral meristem identity. In addition, BDE and ZAG1 physically interact. We propose a model in which BDE functions in at least three distinct complexes to regulate floral development in the maize ear.
+
+-Cloning, Molecular
+-Flowers (-genetics; +growth & development)
+-Gene Expression Regulation, Plant
+-MADS Domain Proteins (-genetics; +metabolism)
+-Meristem (-genetics; -growth & development)
+-Mutation
+-Plant Proteins (-genetics; +metabolism)
+-Protein Interaction Mapping
+-RNA, Plant (-genetics)
+-Zea mays (+genetics; -growth & development; -metabolism)
+
+pii:tpc.109.067751
+doi:10.1105/tpc.109.067751
+pubmed:19749152
+pmc:PMC2768933
+

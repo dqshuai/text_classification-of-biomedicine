@@ -1,0 +1,27 @@
+Nat. Cell Biol.
+
+Silencing by small RNAs is linked to endosomal trafficking.
+
+YS Lee, S Pressman, AP Andress, K Kim, JL White, JJ Cassidy, X Li, K Lubell, do H Lim, IS Cho, K Nakahara, JB Preall, P Bellare, EJ Sontheimer, RW Carthew
+
+Small RNAs direct RNA-induced silencing complexes (RISCs) to regulate stability and translation of mRNAs. RISCs associated with target mRNAs often accumulate in discrete cytoplasmic foci known as GW-bodies. However, RISC proteins can associate with membrane compartments such as the Golgi and endoplasmic reticulum. Here, we show that GW-bodies are associated with late endosomes (multivesicular bodies, MVBs). Blocking the maturation of MVBs into lysosomes by loss of the tethering factor HPS4 (ref. 5) enhances short interfering RNA (siRNA)- and micro RNA (miRNA)-mediated silencing in Drosophila melanogaster and humans. It also triggers over-accumulation of GW-bodies. Blocking MVB formation by ESCRT (endosomal sorting complex required for transport) depletion results in impaired miRNA silencing and loss of GW-bodies. These results indicate that active RISCs are physically and functionally coupled to MVBs. We further show that MVBs promote the competence of RISCs in loading small RNAs. We suggest that the recycling of RISCs is promoted by MVBs, resulting in RISCs more effectively engaging with small RNA effectors and possibly target RNAs. It may provide a means to enhance the dynamics of RNA silencing in the cytoplasm.
+
+-Animals
+-Biological Transport
+-Drosophila Proteins (-metabolism)
+-Drosophila melanogaster (-cytology; +metabolism)
+-Endosomes (+metabolism)
++Gene Silencing
+-Hela Cells
+-Humans
+-MicroRNAs (-metabolism)
+-RNA, Small Interfering (+metabolism)
+-RNA-Induced Silencing Complex (-metabolism)
+-Ubiquitination
+
+pii:ncb1930
+doi:10.1038/ncb1930
+pubmed:19684574
+mid:NIHMS125606
+pmc:PMC2737091
+

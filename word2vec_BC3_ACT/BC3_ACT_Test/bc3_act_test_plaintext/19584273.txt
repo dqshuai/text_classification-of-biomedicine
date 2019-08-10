@@ -1,0 +1,29 @@
+Cancer Res.
+
+MicroRNA classifiers for predicting prognosis of squamous cell lung cancer.
+
+M Raponi, L Dossey, T Jatkoe, X Wu, G Chen, H Fan, DG Beer
+
+Non-small cell lung cancer (NSCLC), which is comprised mainly of adenocarcinoma and squamous cell carcinoma (SCC), is the cause of 80% of all lung cancer deaths in the United States. NSCLC is also associated with a high rate of relapse after clinical treatment and, therefore, requires robust prognostic markers to better manage therapy options. The aim of this study was to identify microRNA (miRNA) expression profiles in SCC of the lung that would better predict prognosis. Total RNA from 61 SCC samples and 10 matched normal lung samples was processed for small RNA species and profiled on MirVana miRNA Bioarrays (version 2, Ambion). We identified 15 miRNAs that were differentially expressed between normal lung and SCC, including members of the miR-17-92 cluster and its paralogues. We also identified miRNAs, including miR-155 and let-7, which had previously been shown to have prognostic value in adenocarcinoma. Based on cross-fold validation analyses, miR-146b alone was found to have the strongest prediction accuracy for stratifying prognostic groups at approximately 78%. The miRNA signatures were superior in predicting overall survival than a previously described 50-gene prognostic signature. Whereas there was no overlap between the mRNAs targeted by the prognostic miRNAs and the 50-gene expression signature, there was a significant overlap in the corresponding biological pathways, including fibroblast growth factor and interleukin-6 signaling. Our data indicate that miRNAs may have greater clinical utility in predicting the prognosis of patients with squamous cell lung carcinomas than mRNA-based signatures.
+
+-Aged
+-Aged, 80 and over
+-Carcinoma, Squamous Cell (-classification; +genetics; -pathology)
+-Female
+-Follow-Up Studies
++Gene Expression Profiling
+-Gene Expression Regulation, Neoplastic
+-Humans
+-Lung Neoplasms (-classification; +genetics; -pathology)
+-Male
+-MicroRNAs (+genetics)
+-Middle Aged
+-Oligonucleotide Array Sequence Analysis
+-Prognosis
+-Reverse Transcriptase Polymerase Chain Reaction
+-Survival Analysis
+
+pii:0008-5472.CAN-09-0587
+doi:10.1158/0008-5472.CAN-09-0587
+pubmed:19584273
+

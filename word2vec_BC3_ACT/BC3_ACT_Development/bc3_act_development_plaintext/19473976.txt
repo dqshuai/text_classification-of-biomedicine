@@ -1,0 +1,33 @@
+J. Biol. Chem.
+
+Studies on the DIDS-binding site of monocarboxylate transporter 1 suggest a homology model of the open conformation and a plausible translocation cycle.
+
+MC Wilson, D Meredith, C Bunnun, RB Sessions, AP Halestrap
+
+Site-directed mutagenesis of MCT1 was performed on exofacial lysines Lys(38), Lys(45), Lys(282), and Lys(413). K38Q-MCT1 and K38R-MCT1 were inactive when expressed at the plasma membrane of Xenopus laevis oocytes, whereas K45R/K282R/K413R-MCT1 and K45Q/K282Q/K413Q-MCT1 were active. The former exhibited normal reversible and irreversible inhibition by DIDS, whereas the latter showed less reversible and no irreversible inhibition. K45Q/K413Q-MCT1 retained some irreversible inhibition, whereas K45Q/K282Q-MCT1 and K282Q/K413Q-MCT1 did not. These data suggest that the two DIDS SO(3)(-) groups interact with positively charged Lys(282) together with Lys(45) and/or Lys(413). This positions one DIDS isothiocyanate group close to Lys(38), leading to its covalent modification and irreversible inhibition. Additional mutagenesis revealed that DIDS cross-links MCT1 to its ancillary protein embigin using either Lys(38) or Lys(290) of MCT1 and Lys(160) or Lys(164) of embigin. We have modeled a possible structure for the outward facing (open) conformation of MCT1 by employing modest rotations of the C-terminal domain of the inner facing conformation modeled previously. The resulting model structure has a DIDS-binding site consistent with experimental data and locates Lys(38) in a hydrophobic environment at the bottom of a substrate-binding channel. Our model suggests a translocation cycle in which Lys(38) accepts a proton before binding lactate. Both the lactate and proton are then passed through the channel via Asp(302-) and Asp(306+), an ion pair already identified as important for transport and located adjacent to Phe(360), which controls channel selectivity. The cross-linking data have also been used to model a structure of MCT1 bound to embigin that is consistent with published data.
+
+-4,4'-Diisothiocyanostilbene-2,2'-Disulfonic Acid (+metabolism)
+-Animals
+-Binding Sites
+-Biological Transport
+-COS Cells
+-Cercopithecus aethiops
+-Erythrocyte Membrane (-metabolism)
+-Glycoproteins (-metabolism)
+-Lysine (-genetics; -metabolism)
+-Models, Molecular
+-Monocarboxylic Acid Transporters (-antagonists & inhibitors; -chemistry; +genetics; +metabolism)
+-Mutagenesis, Site-Directed
+-Oocytes (-metabolism)
+-Protein Binding
+-Protein Conformation
+-Rabbits
+-Rats
+-Symporters (-antagonists & inhibitors; -chemistry; +genetics; +metabolism)
+-Xenopus laevis (-genetics; -metabolism)
+
+pii:M109.014217
+doi:10.1074/jbc.M109.014217
+pubmed:19473976
+pmc:PMC2740427
+

@@ -1,0 +1,24 @@
+PLoS Comput. Biol.
+
+Model-based deconvolution of cell cycle time-series data reveals gene expression details at high resolution.
+
+D Siegal-Gaskins, JN Ash, S Crosson
+
+In both prokaryotic and eukaryotic cells, gene expression is regulated across the cell cycle to ensure "just-in-time" assembly of select cellular structures and molecular machines. However, present in all time-series gene expression measurements is variability that arises from both systematic error in the cell synchrony process and variance in the timing of cell division at the level of the single cell. Thus, gene or protein expression data collected from a population of synchronized cells is an inaccurate measure of what occurs in the average single-cell across a cell cycle. Here, we present a general computational method to extract "single-cell"-like information from population-level time-series expression data. This method removes the effects of 1) variance in growth rate and 2) variance in the physiological and developmental state of the cell. Moreover, this method represents an advance in the deconvolution of molecular expression data in its flexibility, minimal assumptions, and the use of a cross-validation analysis to determine the appropriate level of regularization. Applying our deconvolution algorithm to cell cycle gene expression data from the dimorphic bacterium Caulobacter crescentus, we recovered critical features of cell cycle regulation in essential genes, including ctrA and ftsZ, that were obscured in population-based measurements. In doing so, we highlight the problem with using population data alone to decipher cellular regulatory mechanisms and demonstrate how our deconvolution algorithm can be applied to produce a more realistic picture of temporal regulation in a cell.
+
++Algorithms
+-Bacterial Proteins (+genetics; -metabolism)
+-Caulobacter crescentus (-genetics)
+-Cell Cycle (+genetics)
+-Cell Cycle Proteins (+genetics; -metabolism)
+-Computational Biology (+methods)
+-Databases, Genetic
+-Gene Expression
+-Gene Expression Profiling (+methods)
+-Models, Biological
+-Reproducibility of Results
+
+doi:10.1371/journal.pcbi.1000460
+pubmed:19680537
+pmc:PMC2718844
+

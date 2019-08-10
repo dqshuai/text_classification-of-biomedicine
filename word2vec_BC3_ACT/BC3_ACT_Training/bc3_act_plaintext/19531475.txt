@@ -1,0 +1,25 @@
+J. Biol. Chem.
+
+Direct Bre1-Paf1 complex interactions and RING finger-independent Bre1-Rad6 interactions mediate histone H2B ubiquitylation in yeast.
+
+J Kim, RG Roeder
+
+Recent yeast genetic studies have implicated the ubiquitin-conjugating enzyme and ubiquitin ligase functions of yRad6 and yBre1, respectively, in H2B ubiquitylation. However, there have been no corresponding biochemical analyses demonstrating intrinsic enzyme activities of yRad6 and yBre1 or related mechanistic details. Here, we describe a robust in vitro chromatin ubiquitylation assay that involves purified H2B ubiquitylation factors and natural nucleosomes. Our results indicate that yRad6 has an in vitro ability to nonspecifically ubiquitylate all core histones in the absence of an ubiquitin ligase but that yBre1 functions, through direct interactions with yRad6, to direct the ubiquitin conjugating activity of yRad6 toward the physiological H2B ubiquitylation site. Moreover, a yRad6 domain mapping analysis shows that an intact UBC domain is required for binding to yBre1, whereas the C-terminal acidic tail domain that is not required for a stable yBre1-yRad6 interaction is necessary for full enzyme activity of yRad6. We also find that, analogous to heteromeric complex formation by BRE1 paralogues in other organisms, yBre1 forms a homo-multimeric complex. Of special significance, our detailed biochemical analyses further show that the yBre1 RING finger domain is essential for H2B ubiquitylation but, surprisingly, dispensable for interaction of yBre1 with yRad6. In further support of the genetically identified requirement of the RNA polymerase II-associated yPaf1 complex for H2B ubiquitylation, protein interaction studies reveal that a purified yPaf1 complex directly and selectively interacts with yBre1 and thus serves to link the H2B ubiquitylation and general transcription machineries. These studies provide a more detailed mechanistic basis for H2B ubiquitylation in yeast.
+
+-Histones (+metabolism)
+-Lysine (-metabolism)
+-Models, Biological
+-Nuclear Proteins (+metabolism)
+-Protein Binding
++RING Finger Domains
+-Saccharomyces cerevisiae (+metabolism)
+-Saccharomyces cerevisiae Proteins (-chemistry; +metabolism)
+-Ubiquitin (-metabolism)
+-Ubiquitin-Conjugating Enzymes (-chemistry; +metabolism)
++Ubiquitination
+
+pii:M109.017442
+doi:10.1074/jbc.M109.017442
+pubmed:19531475
+pmc:PMC2742823
+

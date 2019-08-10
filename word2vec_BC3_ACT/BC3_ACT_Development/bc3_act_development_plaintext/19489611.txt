@@ -1,0 +1,19 @@
+Biochemistry
+
+Immobilization of the influenza A M2 transmembrane peptide in virus envelope-mimetic lipid membranes: a solid-state NMR investigation.
+
+W Luo, SD Cady, M Hong
+
+The dynamic and structural properties of membrane proteins are intimately affected by the lipid bilayer. One property of membrane proteins is uniaxial rotational diffusion, which depends on the membrane viscosity and thickness. This rotational diffusion is readily manifested in solid-state NMR spectra as characteristic line shapes and temperature-dependent line narrowing or broadening. We show here that this whole-body uniaxial diffusion is suppressed in lipid bilayers mimicking the composition of eukaryotic cell membranes, which are rich in cholesterol and sphingomyelin. We demonstrate this membrane-induced immobilization on the transmembrane peptide of the influenza A M2 (AM2-TM) proton channel protein. At physiological temperature, AM2-TM undergoes uniaxial diffusion faster than approximately 10(5) s(-1) in DLPC, DMPC, and POPC bilayers, but the motion is slowed by 2 orders of magnitude, to <10(3) s(-1), in a cholesterol-rich virus envelope-mimetic membrane ("viral membrane"). The immobilization is manifested as near rigid-limit (2)H quadrupolar couplings and (13)C-(1)H, (15)N-(1)H, and (13)C-(15)N dipolar couplings for all labeled residues. The immobilization suppresses intermediate time scale broadening of the NMR spectra, thus allowing high-sensitivity and high-resolution spectra to be measured at physiological temperature. The conformation of the protein in the viral membrane is more homogeneous than in model PC membranes, as evidenced by the narrow (15)N lines. The immobilization of the M2 helical bundle by the membrane composition change indicates the importance of studying membrane proteins in environments as native as possible. It also suggests that eukaryote-mimetic lipid membranes may greatly facilitate structure determination of membrane proteins by solid-state NMR.
+
+-Cholesterol (-analysis)
++Lipid Bilayers
++Molecular Mimicry
+-Nuclear Magnetic Resonance, Biomolecular (+methods)
+-Sphingomyelins (-analysis)
+-Viral Envelope Proteins (+chemistry)
+-Viral Matrix Proteins (+chemistry)
+
+doi:10.1021/bi900716s
+pubmed:19489611
+

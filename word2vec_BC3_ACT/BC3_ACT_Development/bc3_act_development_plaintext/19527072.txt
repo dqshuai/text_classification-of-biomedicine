@@ -1,0 +1,32 @@
+Biochemistry
+
+Protein kinase C isoforms differentially phosphorylate Ca(v)1.2 alpha(1c).
+
+L Yang, D Doshi, J Morrow, A Katchman, X Chen, SO Marx
+
+The regulation of Ca(2+) influx through the phosphorylation of the L-type Ca(2+) channel, Ca(v)1.2, is important for the modulation of excitation-contraction (E-C) coupling in the heart. Ca(v)1.2 is thought to be the target of multiple kinases that mediate the signals of both the renin-angiotensin and sympathetic nervous systems. Detailed biochemical information regarding the protein phosphorylation reactions involved in the regulation of Ca(v)1.2 is limited. The protein kinase C (PKC) family of kinases can modulate cardiac contractility in a complex manner, such that contractility is either enhanced or depressed and relaxation is either accelerated or slowed. We have previously reported that Ser(1928) in the C-terminus of alpha(1c) was a target for PKCalpha, -zeta, and -epsilon phosphorylation. Here, we report the identification of seven PKC phosphorylation sites within the alpha(1c) subunit. Using phospho-epitope specific antibodies to Ser(1674) and Ser(1928), we demonstrate that both sites within the C-terminus are phosphorylated in HEK cells in response to PMA. Phosphorylation was inhibited with a PKC inhibitor, bisindolylmaleimide. In Langendorff-perfused rat hearts, both Ser(1674) and Ser(1928) were phosphorylated in response to PMA. Phosphorylation of Ser(1674), but not Ser(1928), is PKC isoform specific, as only PKCalpha, -betaI, -betaII, -gamma, -delta, and -theta, but not PKCepsilon, -zeta, and -eta, were able to phosphorylate this site. Our results identify a molecular mechanism by which PKC isoforms can have different effects on channel activity by phosphorylating different residues.
+
+-Amino Acid Sequence
+-Animals
+-Calcium Channels, L-Type (+metabolism)
+-Cell Line
+-Humans
+-Isoenzymes (-chemistry; -metabolism)
+-Mice
+-Mice, Knockout
+-Molecular Sequence Data
+-Myocytes, Cardiac (-drug effects; -enzymology)
+-Phosphorylation (-drug effects)
+-Phosphoserine (-metabolism)
+-Protein Kinase C (-chemistry; +metabolism)
+-Protein Structure, Secondary
+-Rabbits
+-Rats
+-Recombinant Fusion Proteins (-metabolism)
+-Tetradecanoylphorbol Acetate (-pharmacology)
+
+doi:10.1021/bi900322a
+pubmed:19527072
+mid:NIHMS175174
+pmc:PMC2846607
+

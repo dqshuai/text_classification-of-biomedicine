@@ -1,0 +1,28 @@
+BMC Struct. Biol.
+
+Analysis of proteins with the 'hot dog' fold: prediction of function and identification of catalytic residues of hypothetical proteins.
+
+LS Pidugu, K Maity, K Ramaswamy, N Surolia, K Suguna
+
+BACKGROUND: The hot dog fold has been found in more than sixty proteins since the first report of its existence about a decade ago. The fold appears to have a strong association with fatty acid biosynthesis, its regulation and metabolism, as the proteins with this fold are predominantly coenzyme A-binding enzymes with a variety of substrates located at their active sites. RESULTS: We have analyzed the structural features and sequences of proteins having the hot dog fold. This study reveals that though the basic architecture of the fold is well conserved in these proteins, significant differences exist in their sequence, nature of substrate and oligomerization. Segments with certain conserved sequence motifs seem to play crucial structural and functional roles in various classes of these proteins. CONCLUSION: The analysis led to predictions regarding the functional classification and identification of possible catalytic residues of a number of hot dog fold-containing hypothetical proteins whose structures were determined in high throughput structural genomics projects.
+
+-Amino Acid Sequence
+-Animals
+-Catalytic Domain
+-Computational Biology
++Conserved Sequence
+-Escherichia coli Proteins (+chemistry)
+-Fatty Acids (-biosynthesis)
+-Humans
+-Hydro-Lyases (+chemistry)
+-Phylogeny
+-Protein Folding
++Protein Structure, Tertiary
+-Sequence Analysis, Protein
+-Thiolester Hydrolases (+chemistry)
+
+pii:1472-6807-9-37
+doi:10.1186/1472-6807-9-37
+pubmed:19473548
+pmc:PMC2698920
+

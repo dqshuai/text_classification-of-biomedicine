@@ -1,0 +1,30 @@
+Cell Cycle
+
+WRN helicase promotes repair of DNA double-strand breaks caused by aberrant mismatch repair of chromium-DNA adducts.
+
+A Zecevic, H Menard, V Gurel, E Hagan, R DeCaro, A Zhitkovich
+
+Recent studies in yeast have found that processing of DNA double-strand breaks (DSB) for recombination repair involves Sgs1 helicase. Human cells have five Sgs1 homologues with unknown selectivity and significance for repair of different DSB types. Here we examined the importance of WRN helicase in repair of G(2)-specific DSB caused by abnormal mismatch repair (MMR) of ternary Cr-DNA adducts. We found that Cr(VI) induced a rapid dispersal of WRN from the nucleolus resulting in its prolonged retention in the nucleoplasm. The loss of MSH2 or MLH1 MMR proteins abolished the long-term but not the initial WRN relocalization. WRN-deficient fibroblasts were hypersensitive to Cr(VI)-induced clonogenic death and contained high levels of persistent DSB detected by gamma-H2AX/53BP1 foci and pulsed-field gel electrophoresis. WRN was involved in recombination repair of Cr-induced DNA damage, as evidenced by WRN-RAD51 colocalization and defective formation of RAD51 foci in the absence of WRN. The accumulation of unrepaired DSB in WRN-depleted cells was rescued by the inactivation of MMR, indicating that MMR-generated DSB were a key substrate for WRN action in Cr(VI)-treated cells. Competition for the limited amounts of WRN in primary cells between G(2) processes of telomere rebuilding and recombinational repair is expected to increase persistence of Cr-induced DSB and may cause telomeric abnormalities in tissues of chronically chromate-exposed workers. Our work provides the first demonstration of the major importance of WRN in repair of a specific class of DSB in human cells.
+
+-Cell Line
+-Cell Survival
+-Chromium (+chemistry; -toxicity)
+-DNA Adducts (-chemistry; +metabolism)
++DNA Breaks, Double-Stranded
++DNA Mismatch Repair
+-DNA-Binding Proteins (-metabolism)
+-Exodeoxyribonucleases (-genetics; +metabolism)
+-G2 Phase
+-Gene Knockdown Techniques
+-Histones (-metabolism)
+-Humans
+-Intracellular Signaling Peptides and Proteins (-metabolism)
+-MutS Homolog 2 Protein (-genetics; -metabolism)
+-RNA Interference
+-Rad51 Recombinase (-metabolism)
+-RecQ Helicases (-genetics; +metabolism)
+-Recombination, Genetic
+
+pii:9410
+pubmed:19652551
+

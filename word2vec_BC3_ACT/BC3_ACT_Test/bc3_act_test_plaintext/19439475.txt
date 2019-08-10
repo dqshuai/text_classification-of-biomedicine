@@ -1,0 +1,30 @@
+J. Virol.
+
+Requirements for the formation of membrane pores by the reovirus myristoylated micro1N peptide.
+
+L Zhang, MA Agosto, T Ivanovic, DS King, ML Nibert, SC Harrison
+
+The outer capsid of the nonenveloped mammalian reovirus contains 200 trimers of the micro1 protein, each complexed with three copies of the protector protein sigma3. Conformational changes in micro1 following the proteolytic removal of sigma3 lead to release of the myristoylated N-terminal cleavage fragment micro1N and ultimately to membrane penetration. The micro1N fragment forms pores in red blood cell (RBC) membranes. In this report, we describe the interaction of recombinant micro1 trimers and synthetic micro1N peptides with both RBCs and liposomes. The micro1 trimer mediates hemolysis and liposome disruption under conditions that promote the micro1 conformational change, and mutations that inhibit micro1 conformational change in the context of intact virus particles also prevent liposome disruption by particle-free micro1 trimer. Autolytic cleavage to form micro1N is required for hemolysis but not for liposome disruption. Pretreatment of RBCs with proteases rescues hemolysis activity, suggesting that micro1N cleavage is not required when steric barriers are removed. Synthetic myristoylated micro1N peptide forms size-selective pores in liposomes, as measured by fluorescence dequenching of labeled dextrans of different sizes. Addition of a C-terminal solubility tag to the peptide does not affect activity, but sequence substitution V13N or L36D reduces liposome disruption. These substitutions are in regions of alternating hydrophobic residues. Their locations, the presence of an N-terminal myristoyl group, and the full activity of a C-terminally extended peptide, along with circular dichroism data that indicate prevalence of beta-strand secondary structure, suggest a model in which micro1N beta-hairpins assemble in the membrane to form a beta-barrel pore.
+
+-Amino Acid Sequence
+-Animals
+-Capsid Proteins (-chemistry; -genetics; +metabolism)
+-Cell Line
+-Cell Membrane (-chemistry; +metabolism; -virology)
+-Chickens
+-Erythrocytes (-chemistry; -metabolism; -virology)
+-Humans
+-Liposomes (-chemistry; -metabolism)
+-Mice
+-Molecular Sequence Data
+-Orthoreovirus, Mammalian (-chemistry; -genetics; +physiology)
+-Protein Conformation
+-Protein Processing, Post-Translational
+-Reoviridae Infections (+metabolism; -virology)
+-Virus Assembly
+
+pii:JVI.00377-09
+doi:10.1128/JVI.00377-09
+pubmed:19439475
+pmc:PMC2704788
+

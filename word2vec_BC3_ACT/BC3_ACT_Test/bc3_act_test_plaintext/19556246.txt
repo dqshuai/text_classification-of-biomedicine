@@ -1,0 +1,30 @@
+J. Biol. Chem.
+
+Reduced expression of an RNA-binding protein by prolactin leads to translational silencing of programmed cell death protein 4 and apoptosis in newt spermatogonia.
+
+K Eto, K Eda, M Hayano, S Goto, K Nagao, T Kawasaki, H Kashimura, H Tarui, O Nishimura, K Agata, S Abe
+
+Recent studies indicate that the balance between cell survival and proapoptotic signals determines which cells commit to life or death. We have shown that the balance between follicle-stimulating hormone and prolactin determines differentiation or apoptosis in 7th generation spermatogonia during newt spermatogenesis; however, the molecular mechanisms specifying their fate are poorly understood. Here we show that the newt RNA-binding protein (nRBP) plays a critical role in determining their fate. nRBP was identified as a clone whose mRNA is decreased by prolactin, resulting in the reduction of the protein, which is otherwise expressed predominantly in the spermatogonia. nRBP protein associated with the mRNA for newt programmed cell death protein 4 (nPdcd4) at the 3'-untranslated region. nRBP reduction increased nPdcd4 mRNA but decreased its protein. In a cell-free system, cytoplasmic extracts containing reduced amounts of nRBP and nPdcd4 protein induced apoptosis, whereas adding nRBP protein to the extracts blocked apoptosis. Furthermore, overexpression of nRBP protected cells from apoptosis, stabilized the chimeric transcript containing the nPdcd4 3'-untranslated region, and accelerated its translation. These data suggest that, in the absence of nRBP, nPdcd4 mRNA is not stabilized and its translation is suppressed, leading to apoptosis in the spermatogonia.
+
+-Amino Acid Sequence
+-Amphibian Proteins (-chemistry; +genetics; -metabolism)
+-Animals
++Apoptosis
+-Apoptosis Regulatory Proteins (-chemistry; +genetics; -metabolism)
+-Female
+-Male
+-Molecular Sequence Data
+-Prolactin (-chemistry; -genetics; +metabolism)
+-Protein Binding
+-Protein Biosynthesis
++RNA Interference
+-RNA-Binding Proteins (-chemistry; -genetics; -metabolism)
+-Salamandridae (-genetics; +metabolism)
+-Sequence Alignment
+-Spermatogonia (-chemistry; -cytology; +metabolism)
+
+pii:M109.018622
+doi:10.1074/jbc.M109.018622
+pubmed:19556246
+pmc:PMC2749100
+

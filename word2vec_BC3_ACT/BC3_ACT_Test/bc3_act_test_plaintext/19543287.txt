@@ -1,0 +1,26 @@
+Nat. Methods
+
+Filter-based hybridization capture of subgenomes enables resequencing and copy-number detection.
+
+DS Herman, GK Hovingh, O Iartchouk, HL Rehm, R Kucherlapati, JG Seidman, CE Seidman
+
+To exploit contemporary sequencing technologies for targeted genetic analyses, we developed a hybridization enrichment strategy for DNA capture that uses PCR products as subgenomic traps. We applied this strategy to 115 kilobases of the human genome encompassing 47 genes implicated in cardiovascular disease. Massively parallel sequencing of captured subgenomic libraries interrogated 99.8% of targeted nucleotides >or=20 times ( approximately 40,000-fold enrichment), enabling sensitive and specific detection of sequence variation and copy-number variation.
+
+-Cardiovascular Diseases (-genetics)
+-Filtration
++Gene Dosage
+-Genome, Human
+-Genomic Library
+-Genomics (-methods; -statistics & numerical data)
+-Humans
+-Nucleic Acid Hybridization (+methods)
+-Polymerase Chain Reaction
+-Sensitivity and Specificity
+-Sequence Analysis, DNA (+methods; -statistics & numerical data)
+
+pii:nmeth.1343
+doi:10.1038/nmeth.1343
+pubmed:19543287
+mid:NIHMS120194
+pmc:PMC2773433
+

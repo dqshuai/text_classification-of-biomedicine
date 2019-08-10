@@ -1,0 +1,26 @@
+BMC Genomics
+
+Streptococcus pneumoniae nasopharyngeal colonization induces type I interferons and interferon-induced gene expression.
+
+EA Joyce, SJ Popper, S Falkow
+
+BACKGROUND: We employed DNA microarray technology to investigate the host response to Streptococcus pneumoniae in a mouse model of asymptomatic carriage. Over a period of six weeks, we profiled transcript abundance and complexity in the Nasal Associated Lymphoid Tissue (NALT) to identify genes whose expression differed between pneumococcal-colonized and uncolonized states. RESULTS: Colonization with S. pneumoniae altered the expression of hundreds of genes over the course of the study, demonstrating that carriage is a dynamic process characterized by increased expression of a set of early inflammatory responses, including induction of a Type I Interferon response, and the production of several antimicrobial factors. Subsequent to this initial inflammatory response, we observed increases in transcripts associated with T cell development and activation, as well as wounding, basement membrane remodeling, and cell proliferation. Our analysis suggests that microbial colonization induced expression of genes encoding components critical for controlling JAK/STAT signaling, including stat1, stat2, socs3, and mapk1, as well as induction of several Type I Interferon-inducible genes and other antimicrobial factors at the earliest stages of colonization. CONCLUSION: Examining multiple time points over six weeks of colonization demonstrated that asymptomatic carriage stimulates a dynamic host response characterized by temporal waves with distinct biological programs. Our data suggest that the usual response to the presence of the pneumocccus is an initial controlled inflammatory response followed by activation of host physiological processes such as response to wounding, basement membrane remodeling, and increasing cellular numbers that ultimately allow the host to maintain an intact epithelium and eventually mount a preventive adaptive immune response.
+
+-Animals
+-Female
+-Gene Expression Profiling
+-Gene Expression Regulation
++Host-Pathogen Interactions
+-Immunity, Innate
+-Interferon Type I (-genetics; -immunology; +metabolism)
+-Mice
+-Mice, Inbred BALB C
+-Nasopharynx (-immunology; +microbiology)
+-Oligonucleotide Array Sequence Analysis
+-Pneumococcal Infections (+genetics; -immunology)
+
+pii:1471-2164-10-404
+doi:10.1186/1471-2164-10-404
+pubmed:19712482
+pmc:PMC2743716
+

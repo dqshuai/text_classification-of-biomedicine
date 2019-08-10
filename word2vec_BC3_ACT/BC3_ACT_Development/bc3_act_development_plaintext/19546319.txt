@@ -1,0 +1,32 @@
+Genetics
+
+Mosaic genetic screen for suppressors of the de2f1 mutant phenotype in Drosophila.
+
+AM Ambrus, VI Rasheva, BN Nicolay, MV Frolov
+
+The growth suppressive function of the retinoblastoma (pRB) tumor suppressor family is largely attributed to its ability to negatively regulate the family of E2F transcriptional factors and, as a result, to repress E2F-dependent transcription. Deregulation of the pRB pathway is thought to be an obligatory event in most types of cancers. The large number of mammalian E2F proteins is one of the major obstacles that complicate their genetic analysis. In Drosophila, the E2F family consists of only two members. They are classified as an activator (dE2F1) and a repressor (dE2F2). It has been previously shown that proliferation of de2f1 mutant cells is severely reduced due to unchecked activity of the repressor dE2F2 in these cells. We report here a mosaic screen utilizing the de2f1 mutant phenotype to identify suppressors that overcome the dE2F2/RBF-dependent proliferation block. We have isolated l(3)mbt and B52, which are known to be required for dE2F2 function, as well as genes that were not previously linked to the E2F/pRB pathway such as Doa, gfzf, and CG31133. Inactivation of gfzf, Doa, or CG31133 does not relieve repression by dE2F2. We have shown that gfzf and CG31133 potentiate E2F-dependent activation and synergize with inactivation of RBF, suggesting that they may act in parallel to dE2F. Thus, our results demonstrate the efficacy of the described screening strategy for studying regulation of the dE2F/RBF pathway in vivo.
+
+-Algorithms
+-Animals
+-Animals, Genetically Modified
+-Cell Proliferation
+-Cells, Cultured
+-Drosophila Proteins (+genetics)
+-Drosophila melanogaster (+genetics)
+-Female
+-Genetic Complementation Test (-methods)
+-Genetic Testing (+methods)
+-Male
+-Models, Genetic
+-Mosaicism
+-Mutant Proteins (-genetics; -physiology)
+-Phenotype
+-Retinoblastoma Protein (-genetics)
++Suppression, Genetic (-genetics)
+-Transcription Factors (+genetics)
+
+pii:genetics.109.104661
+doi:10.1534/genetics.109.104661
+pubmed:19546319
+pmc:PMC2746169
+

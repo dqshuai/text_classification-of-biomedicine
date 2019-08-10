@@ -1,0 +1,21 @@
+Biochem. Soc. Trans.
+
+The evolution of protein domain families.
+
+M Buljan, A Bateman
+
+Protein domains are the common currency of protein structure and function. Over 10,000 such protein families have now been collected in the Pfam database. Using these data along with animal gene phylogenies from TreeFam allowed us to investigate the gain and loss of protein domains. Most gains and losses of domains occur at protein termini. We show that the nature of changes is similar after speciation or duplication events. However, changes in domain architecture happen at a higher frequency after gene duplication. We suggest that the bias towards protein termini is largely because insertion and deletion of domains at most positions in a protein are likely to disrupt the structure of existing domains. We can also use Pfam to trace the evolution of specific families. For example, the immunoglobulin superfamily can be traced over 500 million years during its expansion into one of the largest families in the human genome. It can be shown that this protein family has its origins in basic animals such as the poriferan sponges where it is found in cell-surface-receptor proteins. We can trace how the structure and sequence of this family diverged during vertebrate evolution into constant and variable domains that are found in the antibodies of our immune system as well as in neural and muscle proteins.
+
+-Animals
+-Databases, Protein
++Evolution, Molecular
+-Humans
+-Immunoglobulins (-chemistry; -classification; -metabolism)
+-Protein Structure, Tertiary (+genetics)
+-Proteins (+chemistry; +classification; -metabolism)
+-Structure-Activity Relationship
+
+pii:BST0370751
+doi:10.1042/BST0370751
+pubmed:19614588
+

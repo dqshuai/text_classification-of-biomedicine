@@ -1,0 +1,19 @@
+Genome Biol.
+
+Co-evolutionary networks of genes and cellular processes across fungal species.
+
+T Tuller, M Kupiec, E Ruppin
+
+BACKGROUND: The introduction of measures such as evolutionary rate and propensity for gene loss have significantly advanced our knowledge of the evolutionary history and selection forces acting upon individual genes and cellular processes. RESULTS: We present two new measures, the 'relative evolutionary rate pattern' (rERP), which records the relative evolutionary rates of conserved genes across the different branches of a species' phylogenetic tree, and the 'copy number pattern' (CNP), which quantifies the rate of gene loss of less conserved genes. Together, these measures yield a high-resolution study of the co-evolution of genes in 9 fungal species, spanning 3,540 sets of orthologs. We find that the evolutionary tempo of conserved genes varies in different evolutionary periods. The co-evolution of genes' Gene Ontology categories exhibits a significant correlation with their functional distance in the Gene Ontology hierarchy, but not with their location on chromosomes, showing that cellular functions are a more important driving force in gene co-evolution than their chromosomal proximity. Two fundamental patterns of co-evolution of conserved genes, cooperative and reciprocal, are identified; only genes co-evolving cooperatively functionally back each other up. The co-evolution of conserved and less conserved genes exhibits both commonalities and differences; DNA metabolism is positively correlated with nuclear traffic, transcription processes and vacuolar biology in both analyses. CONCLUSIONS: Overall, this study charts the first global network view of gene co-evolution in fungi. The future application of the approach presented here to other phylogenetic trees holds much promise in characterizing the forces that shape cellular co-evolution.
+
+-Evolution, Molecular
+-Fungi (+genetics)
+-Gene Dosage
++Gene Regulatory Networks
+-Phylogeny
+
+pii:gb-2009-10-5-r48
+doi:10.1186/gb-2009-10-5-r48
+pubmed:19416514
+pmc:PMC2718514
+

@@ -1,0 +1,29 @@
+BMC Cancer
+
+Staurosporine augments EGF-mediated EMT in PMC42-LA cells through actin depolymerisation, focal contact size reduction and Snail1 induction - a model for cross-modulation.
+
+HJ Hugo, R Wafai, T Blick, EW Thompson, DF Newgreen
+
+BACKGROUND: A feature of epithelial to mesenchymal transition (EMT) relevant to tumour dissemination is the reorganization of actin cytoskeleton/focal contacts, influencing cellular ECM adherence and motility. This is coupled with the transcriptional repression of E-cadherin, often mediated by Snail1, Snail2 and Zeb1/deltaEF1. These genes, overexpressed in breast carcinomas, are known targets of growth factor-initiated pathways, however it is less clear how alterations in ECM attachment cross-modulate to regulate these pathways. EGF induces EMT in the breast cancer cell line PMC42-LA and the kinase inhibitor staurosporine (ST) induces EMT in embryonic neural epithelial cells, with F-actin de-bundling and disruption of cell-cell adhesion, via inhibition of aPKC. METHODS: PMC42-LA cells were treated for 72 h with 10 ng/ml EGF, 40 nM ST, or both, and assessed for expression of E-cadherin repressor genes (Snail1, Snail2, Zeb1/deltaEF1) and EMT-related genes by QRT-PCR, multiplex tandem PCR (MT-PCR) and immunofluorescence +/- cycloheximide. Actin and focal contacts (paxillin) were visualized by confocal microscopy. A public database of human breast cancers was assessed for expression of Snail1 and Snail2 in relation to outcome. RESULTS: When PMC42-LA were treated with EGF, Snail2 was the principal E-cadherin repressor induced. With ST or ST+EGF this shifted to Snail1, with more extreme EMT and Zeb1/deltaEF1 induction seen with ST+EGF. ST reduced stress fibres and focal contact size rapidly and independently of gene transcription. Gene expression analysis by MT-PCR indicated that ST repressed many genes which were induced by EGF (EGFR, CAV1, CTGF, CYR61, CD44, S100A4) and induced genes which alter the actin cytoskeleton (NLF1, NLF2, EPHB4). Examination of the public database of breast cancers revealed tumours exhibiting higher Snail1 expression have an increased risk of disease-recurrence. This was not seen for Snail2, and Zeb1/deltaEF1 showed a reverse correlation with lower expression values being predictive of increased risk. CONCLUSION: ST in combination with EGF directed a greater EMT via actin depolymerisation and focal contact size reduction, resulting in a loosening of cell-ECM attachment along with Snail1-Zeb1/deltaEF1 induction. This appeared fundamentally different to the EGF-induced EMT, highlighting the multiple pathways which can regulate EMT. Our findings add support for a functional role for Snail1 in invasive breast cancer.
+
+-Actins (-metabolism)
+-Breast Neoplasms (-metabolism)
+-Cadherins (-metabolism)
+-Cell Line, Tumor
+-Cytoskeleton (-metabolism)
+-Enzyme Inhibitors (-pharmacology)
+-Epidermal Growth Factor (+metabolism)
+-Epithelium (-metabolism)
+-Humans
+-Mesoderm (-metabolism)
+-Microscopy, Confocal (-methods)
+-Microscopy, Fluorescence (-methods)
+-Staurosporine (+pharmacology)
+-Transcription Factors (+metabolism)
+-Tumor Cells, Cultured
+
+pii:1471-2407-9-235
+doi:10.1186/1471-2407-9-235
+pubmed:19604397
+pmc:PMC2717979
+

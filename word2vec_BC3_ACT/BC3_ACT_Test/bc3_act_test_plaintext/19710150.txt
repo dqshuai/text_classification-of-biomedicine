@@ -1,0 +1,26 @@
+J. Virol.
+
+Bimolecular complementation of paramyxovirus fusion and hemagglutinin-neuraminidase proteins enhances fusion: implications for the mechanism of fusion triggering.
+
+SA Connolly, GP Leser, TS Jardetzky, RA Lamb
+
+For paramyxoviruses, entry requires a receptor-binding protein (hemagglutinin-neuraminidase [HN], H, or G) and a fusion protein (F). Like other class I viral fusion proteins, F is expressed as a prefusion metastable protein that undergoes a refolding event to induce fusion. HN binding to its receptor triggers F refolding by an unknown mechanism. HN may serve as a clamp that stabilizes F in its prefusion state until HN binds the target cell (the "clamp model"). Alternatively, HN itself may undergo a conformational change after receptor binding that destabilizes F and causes F to trigger (the "provocateur model"). To examine F-HN interactions by bimolecular fluorescence complementation (BiFC), the cytoplasmic tails of parainfluenza virus 5 (PIV5) F and HN were fused to complementary fragments of yellow fluorescent protein (YFP). Coexpression of the BiFC constructs resulted in fluorescence; however, coexpression with unrelated BiFC constructs also produced fluorescence. The affinity of the two halves of YFP presumably superseded the F-HN interaction. Unexpectedly, coexpression of the BiFC F and HN constructs greatly enhanced fusion in multiple cell types. We hypothesize that the increase in fusion occurs because the BiFC tags bring F and HN together more frequently than occurs in a wild-type (wt) scenario. This implies that normally much of wt F is not associated with wt HN, in conflict with the clamp model for activation. Correspondingly, we show that wt PIV5 fusion occurs in an HN concentration-dependent manner. Also inconsistent with the clamp model are the findings that BiFC F does not adopt a postfusion conformation when expressed in the absence of HN and that HN coexpression does not provide resistance to the heat-induced triggering of F. In support of a provocateur model of F activation, we demonstrate by analysis of the morphology of soluble F trimers that the hyperfusogenic mutation S443P has a destabilizing effect on F.
+
+-Animals
+-Cell Line
+-Gene Expression Regulation, Viral
+-HN Protein (-genetics; +metabolism)
+-Humans
+-Mutation
+-Neuraminidase (-metabolism)
+-Paramyxovirinae (-genetics; +metabolism)
+-Recombinant Fusion Proteins (-genetics; +metabolism)
+-Viral Fusion Proteins (-genetics; +metabolism)
++Virus Attachment
++Virus Internalization
+
+pii:JVI.01191-09
+doi:10.1128/JVI.01191-09
+pubmed:19710150
+pmc:PMC2772755
+

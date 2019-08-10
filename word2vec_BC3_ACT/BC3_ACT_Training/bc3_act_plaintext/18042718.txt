@@ -1,0 +1,25 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Protein protein interaction inhibition (2P2I) combining high throughput and virtual screening: Application to the HIV-1 Nef protein.
+
+S Betzi, A Restouin, S Opi, ST Arold, I Parrot, F Guerlesquin, X Morelli, Y Collette
+
+Protein-protein recognition is the cornerstone of multiple cellular and pathological functions. Therefore, protein-protein interaction inhibition (2P2I) is endowed with great therapeutic potential despite the initial belief that 2P2I was refractory to small-molecule intervention. Improved knowledge of complex molecular binding surfaces has recently stimulated renewed interest for 2P2I, especially after identification of "hot spots" and first inhibitory compounds. However, the combination of target complexity and lack of starting compound has thwarted experimental results and created intellectual barriers. Here we combined virtual and experimental screening when no previously known inhibitors can be used as starting point in a structure-based research program that targets an SH3 binding surface of the HIV type I Nef protein. High-throughput docking and application of a pharmacophoric filter on one hand and search for analogy on the other hand identified drug-like compounds that were further confirmed to bind Nef in the micromolar range (isothermal titration calorimetry), to target the Nef SH3 binding surface (NMR experiments), and to efficiently compete for Nef-SH3 interactions (cell-based assay, GST pull-down). Initial identification of these compounds by virtual screening was validated by screening of the very same library of compounds in the cell-based assay, demonstrating that a significant enrichment factor was attained by the in silico screening. To our knowledge, our results identify the first set of drug-like compounds that functionally target the HIV-1 Nef SH3 binding surface and provide the basis for a powerful discovery process that should help to speed up 2P2I strategies and open avenues for new class of antiviral molecules.
+
+-Animals
+-Anti-HIV Agents (+chemistry; +isolation & purification; -pharmacology)
+-COS Cells
+-Cercopithecus aethiops
+-Computer Simulation
++Drug Design
+-Drug Evaluation, Preclinical (-methods)
+-Protein Conformation
+-Two-Hybrid System Techniques
+-nef Gene Products, Human Immunodeficiency Virus (+antagonists & inhibitors; -chemistry; -metabolism)
+-src Homology Domains (+drug effects)
+
+pii:0707130104
+doi:10.1073/pnas.0707130104
+pubmed:18042718
+pmc:PMC2148277
+

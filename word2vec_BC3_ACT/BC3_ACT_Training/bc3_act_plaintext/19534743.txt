@@ -1,0 +1,19 @@
+BMC Bioinformatics
+
+Annotation and visualization of endogenous retroviral sequences using the Distributed Annotation System (DAS) and eBioX.
+
+AM Barrio, E Lagercrantz, GO Sperber, J Blomberg, E Bongcam-Rudloff
+
+BACKGROUND: The Distributed Annotation System (DAS) is a widely used network protocol for sharing biological information. The distributed aspects of the protocol enable the use of various reference and annotation servers for connecting biological sequence data to pertinent annotations in order to depict an integrated view of the data for the final user. RESULTS: An annotation server has been devised to provide information about the endogenous retroviruses detected and annotated by a specialized in silico tool called RetroTector. We describe the procedure to implement the DAS 1.5 protocol commands necessary for constructing the DAS annotation server. We use our server to exemplify those steps. Data distribution is kept separated from visualization which is carried out by eBioX, an easy to use open source program incorporating multiple bioinformatics utilities. Some well characterized endogenous retroviruses are shown in two different DAS clients. A rapid analysis of areas free from retroviral insertions could be facilitated by our annotations. CONCLUSION: The DAS protocol has shown to be advantageous in the distribution of endogenous retrovirus data. The distributed nature of the protocol is also found to aid in combining annotation and visualization along a genome in order to enhance the understanding of ERV contribution to its evolution. Reference and annotation servers are conjointly used by eBioX to provide visualization of ERV annotations as well as other data sources. Our DAS data source can be found in the central public DAS service repository, http://www.dasregistry.org, or at http://loka.bmc.uu.se/das/sources.
+
+-Base Sequence
+-Computational Biology (+methods)
++Computer Communication Networks
+-Endogenous Retroviruses (+genetics)
++Software
+
+pii:1471-2105-10-S6-S18
+doi:10.1186/1471-2105-10-S6-S18
+pubmed:19534743
+pmc:PMC2697641
+

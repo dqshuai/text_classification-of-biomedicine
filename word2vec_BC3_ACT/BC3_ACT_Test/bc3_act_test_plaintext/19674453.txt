@@ -1,0 +1,27 @@
+BMC Genomics
+
+Application of massive parallel sequencing to whole genome SNP discovery in the porcine genome.
+
+AJ Amaral, HJ Megens, HH Kerstens, HC Heuven, B Dibbits, RP Crooijmans, JT den Dunnen, MA Groenen
+
+BACKGROUND: Although the Illumina 1 G Genome Analyzer generates billions of base pairs of sequence data, challenges arise in sequence selection due to the varying sequence quality. Therefore, in the framework of the International Porcine SNP Chip Consortium, this pilot study aimed to evaluate the impact of the quality level of the sequenced bases on mapping quality and identification of true SNPs on a large scale. RESULTS: DNA pooled from five animals from a commercial boar line was digested with DraI; 150-250-bp fragments were isolated and end-sequenced using the Illumina 1 G Genome Analyzer, yielding 70,348,064 sequences 36-bp long. Rules were developed to select sequences, which were then aligned to unique positions in a reference genome. Sequences were selected based on quality, and three thresholds of sequence quality (SQ) were compared. The highest threshold of SQ allowed identification of a larger number of SNPs (17,489), distributed widely across the pig genome. In total, 3,142 SNPs were validated with a success rate of 96%. The correlation between estimated minor allele frequency (MAF) and genotyped MAF was moderate, and SNPs were highly polymorphic in other pig breeds. Lowering the SQ threshold and maintaining the same criteria for SNP identification resulted in the discovery of fewer SNPs (16,768), of which 259 were not identified using higher SQ levels. Validation of SNPs found exclusively in the lower SQ threshold had a success rate of 94% and a low correlation between estimated MAF and genotyped MAF. Base change analysis suggested that the rate of transitions in the pig genome is likely to be similar to that observed in humans. Chromosome X showed reduced nucleotide diversity relative to autosomes, as observed for other species. CONCLUSION: Large numbers of SNPs can be identified reliably by creating strict rules for sequence selection, which simultaneously decreases sequence ambiguity. Selection of sequences using a higher SQ threshold leads to more reliable identification of SNPs. Lower SQ thresholds can be used to guarantee sufficient sequence coverage, resulting in high success rate but less reliable MAF estimation. Nucleotide diversity varies between porcine chromosomes, with the X chromosome showing less variation as observed in other species.
+
+-Algorithms
+-Animals
+-Chromosome Mapping (-methods)
+-Chromosomes, Mammalian (-genetics)
++Genome
+-Genomic Library
+-Genotype
+-Male
+-Pilot Projects
++Polymorphism, Single Nucleotide
+-Sequence Alignment
+-Sequence Analysis, DNA (+methods)
+-Sus scrofa (+genetics)
+
+pii:1471-2164-10-374
+doi:10.1186/1471-2164-10-374
+pubmed:19674453
+pmc:PMC2739861
+

@@ -1,0 +1,27 @@
+J. Am. Chem. Soc.
+
+Real-time monitoring of cell-free translation on a quartz-crystal microbalance.
+
+S Takahashi, M Iida, H Furusawa, Y Shimizu, T Ueda, Y Okahata
+
+The efficiency of protein synthesis is often regulated post-transcriptionally by sequences within the mRNA. To investigate the reactions of protein translation, we established a system that allowed real-time monitoring of protein synthesis using a cell-free translation mixture and a 27 MHz quartz-crystal microbalance (QCM). Using an mRNA that encoded a fusion polypeptide comprising the streptavidin-binding peptide (SBP) tag, a portion of Protein D as a spacer, and the SecM arrest sequence, we could follow the binding of the SBP tag, while it was displayed on the 70S ribosome, to a streptavidin-modified QCM over time. Thus, we could follow a single turnover of protein synthesis as a change in mass. This approach allowed us to evaluate the effects of different antibiotics and mRNA sequences on the different steps of translation. From the results of this study, we have determined that both the formation of the initiation complex from the 70S ribosome, mRNA, and fMet-tRNA(fMet) and the accommodation of the second aminoacyl-tRNA to the initiation complex are rate-limiting steps in protein synthesis.
+
+-Amino Acid Sequence
+-Anti-Bacterial Agents (-pharmacology)
+-Base Sequence
+-Biosensing Techniques (+methods)
+-Carrier Proteins (-chemistry; -genetics; +metabolism)
+-Escherichia coli (-genetics; +metabolism)
+-Escherichia coli Proteins (-chemistry; -genetics; +metabolism)
+-Molecular Sequence Data
+-Protein Binding
++Protein Biosynthesis (-drug effects)
+-Quartz (+chemistry)
+-RNA, Messenger (-chemistry; -genetics)
+-Ribosomal Proteins (-chemistry; -genetics; +metabolism)
+-Ribosome Subunits, Large, Bacterial (-genetics; -metabolism)
+-Streptavidin (-chemistry; -metabolism)
+
+doi:10.1021/ja9019947
+pubmed:19518055
+

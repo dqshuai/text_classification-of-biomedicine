@@ -1,0 +1,25 @@
+Genetics
+
+The fractionated orthology of Bs2 and Rx/Gpa2 supports shared synteny of disease resistance in the Solanaceae.
+
+M Mazourek, ET Cirulli, SM Collier, LG Landry, BC Kang, EA Quirin, JM Bradeen, P Moffett, MM Jahn
+
+Comparative genomics provides a powerful tool for the identification of genes that encode traits shared between crop plants and model organisms. Pathogen resistance conferred by plant R genes of the nucleotide-binding-leucine-rich-repeat (NB-LRR) class is one such trait with great agricultural importance that occupies a critical position in understanding fundamental processes of pathogen detection and coevolution. The proposed rapid rearrangement of R genes in genome evolution would make comparative approaches tenuous. Here, we test the hypothesis that orthology is predictive of R-gene genomic location in the Solanaceae using the pepper R gene Bs2. Homologs of Bs2 were compared in terms of sequence and gene and protein architecture. Comparative mapping demonstrated that Bs2 shared macrosynteny with R genes that best fit criteria determined to be its orthologs. Analysis of the genomic sequence encompassing solanaceous R genes revealed the magnitude of transposon insertions and local duplications that resulted in the expansion of the Bs2 intron to 27 kb and the frequently detected duplications of the 5'-end of R genes. However, these duplications did not impact protein expression or function in transient assays. Taken together, our results support a conservation of synteny for NB-LRR genes and further show that their distribution in the genome has been consistent with global rearrangements.
+
+-Capsicum (-genetics)
+-Gene Rearrangement
+-Genes, Plant
+-Genome, Plant (+genetics)
+-Genomics (-methods)
+-Immunity, Innate (+genetics)
+-Plant Diseases (-immunology)
+-Plant Proteins (+genetics)
+-Solanaceae (+genetics)
+-Solanum tuberosum (-genetics)
+-Synteny (+genetics)
+
+pii:genetics.109.101022
+doi:10.1534/genetics.109.101022
+pubmed:19474202
+pmc:PMC2728872
+

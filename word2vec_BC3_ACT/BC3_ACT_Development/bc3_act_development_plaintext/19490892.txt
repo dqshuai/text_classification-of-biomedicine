@@ -1,0 +1,26 @@
+Cell
+
+Synthetic lethal interaction between oncogenic KRAS dependency and STK33 suppression in human cancer cells.
+
+C Scholl, S Fröhling, IF Dunn, AC Schinzel, DA Barbie, SY Kim, SJ Silver, P Tamayo, RC Wadlow, S Ramaswamy, K Döhner, L Bullinger, P Sandy, JS Boehm, DE Root, T Jacks, WC Hahn, DG Gilliland
+
+An alternative to therapeutic targeting of oncogenes is to perform "synthetic lethality" screens for genes that are essential only in the context of specific cancer-causing mutations. We used high-throughput RNA interference (RNAi) to identify synthetic lethal interactions in cancer cells harboring mutant KRAS, the most commonly mutated human oncogene. We find that cells that are dependent on mutant KRAS exhibit sensitivity to suppression of the serine/threonine kinase STK33 irrespective of tissue origin, whereas STK33 is not required by KRAS-independent cells. STK33 promotes cancer cell viability in a kinase activity-dependent manner by regulating the suppression of mitochondrial apoptosis mediated through S6K1-induced inactivation of the death agonist BAD selectively in mutant KRAS-dependent cells. These observations identify STK33 as a target for treatment of mutant KRAS-driven cancers and demonstrate the potential of RNAi screens for discovering functional dependencies created by oncogenic mutations that may enable therapeutic intervention for cancers with "undruggable" genetic alterations.
+
+-Animals
+-Cell Line, Tumor
+-Cell Survival
+-Humans
+-Mice
+-Mutation
+-NIH 3T3 Cells
+-Neoplasms (-genetics; +metabolism)
+-Protein-Serine-Threonine Kinases (-antagonists & inhibitors; +metabolism)
+-Proto-Oncogene Proteins (+genetics; +metabolism)
+-RNA Interference
+-Ribosomal Protein S6 Kinases, 70-kDa (-metabolism)
+-ras Proteins (+genetics; +metabolism)
+
+pii:S0092-8674(09)00316-X
+doi:10.1016/j.cell.2009.03.017
+pubmed:19490892
+

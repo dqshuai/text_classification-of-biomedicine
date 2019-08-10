@@ -1,0 +1,32 @@
+Biophys. J.
+
+Interactions of H562 in the S5 helix with T618 and S621 in the pore helix are important determinants of hERG1 potassium channel structure and function.
+
+JP Lees-Miller, JO Subbotina, J Guo, V Yarov-Yarovoy, SY Noskov, HJ Duff
+
+hERG1 is a member of the cyclic nucleotide binding domain family of K(+) channels. Alignment of cyclic nucleotide binding domain channels revealed an evolutionary conserved sequence HwX(A/G)C in the S5 domain. We reasoned that histidine 562 in hERG1 could play an important structure-function role. To explore this role, we created in silica models of the hERG1 pore domain based on the KvAP crystal structure with Rosetta-membrane modeling and molecular-dynamics simulations. Simulations indicate that the H562 residue in the S5 helix spans the gap between the S5 helix and the pore helix, stabilizing the pore domain, and that mutation at the H562 residue leads to a disruption of the hydrogen bonding to T618 and S621, resulting in distortion of the selectivity filter. Analysis of the simulated point mutations at positions 562/618/621 showed that the reciprocal double mutations H562W/T618I would partially restore the orientation of the 562 residue. Matching hydrophobic interactions between mutated W562 residue and I618 partially compensate for the disrupted hydrogen bonding. Complementary in vitro electrophysiological studies confirmed the results of the molecular-dynamics simulations on single mutations at positions 562, 618, and 621. Experimentally, mutations of the H562 to tryptophan produced a functional channel, but with slowed deactivation and shifted V(1/2) of activation. Furthermore, the double mutation T618I/H562W rescued the defects seen in activation, deactivation, and potassium selectivity seen with the H562W mutation. In conclusion, interactions between H562 in the S5 helix and amino acids in the pore helix are important determinants of hERG1 potassium channel function, as confirmed by theory and experiment.
+
+-Amino Acid Sequence
+-Cell Line
+-Computer Simulation
+-Ether-A-Go-Go Potassium Channels (+chemistry; -genetics; +metabolism)
+-Humans
+-Hydrogen Bonding
+-Hydrophobicity
+-Membrane Potentials (-physiology)
+-Models, Molecular
+-Molecular Sequence Data
+-Mutagenesis
+-Patch-Clamp Techniques
+-Potassium (-metabolism)
++Protein Conformation
+-Protein Structure, Secondary
+-Sequence Alignment
+-Sequence Homology, Amino Acid
+-Structure-Activity Relationship
+
+pii:S0006-3495(09)00501-3
+doi:10.1016/j.bpj.2009.01.028
+pubmed:19413965
+pmc:PMC2711401
+

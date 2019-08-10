@@ -1,0 +1,33 @@
+Cancer Cell
+
+Modeling inducible human tissue neoplasia identifies an extracellular matrix interaction network involved in cancer progression.
+
+JA Reuter, S Ortiz-Urda, M Kretz, J Garcia, FA Scholl, AM Pasmooij, D Cassarino, HY Chang, PA Khavari
+
+To elucidate mechanisms of cancer progression, we generated inducible human neoplasia in three-dimensionally intact epithelial tissue. Gene expression profiling of both epithelia and stroma at specific time points during tumor progression revealed sequential enrichment of genes mediating discrete biologic functions in each tissue compartment. A core cancer progression signature was distilled using the increased signaling specificity of downstream oncogene effectors and subjected to network modeling. Network topology predicted that tumor development depends on specific extracellular matrix-interacting network hubs. Blockade of one such hub, the beta1 integrin subunit, disrupted network gene expression and attenuated tumorigenesis in vivo. Thus, integrating network modeling and temporal gene expression analysis of inducible human neoplasia provides an approach to prioritize and characterize genes functioning in cancer progression.
+
+-Animals
+-Antigens, CD29 (-metabolism)
+-Carcinoma, Squamous Cell (+metabolism; -pathology)
+-Cell Line
+-Cell Transformation, Neoplastic (+metabolism; -pathology)
+-Epithelial Cells (-pathology; -physiology)
+-Extracellular Matrix (+metabolism)
+-Female
+-Gene Expression Regulation, Neoplastic (+physiology)
+-Humans
+-Mice
+-Mice, SCID
++Models, Biological
+-Neoplasm Invasiveness
+-Neoplasm Transplantation
+-Oligonucleotide Array Sequence Analysis
+-Protein Interaction Mapping
+-Signal Transduction
+-Skin Neoplasms (+metabolism; -pathology)
+-Stromal Cells (-pathology; -physiology)
+
+pii:S1535-6108(09)00116-0
+doi:10.1016/j.ccr.2009.04.002
+pubmed:19477427
+

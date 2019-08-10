@@ -1,0 +1,30 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Protein phosphatase 2A controls the activity of histone deacetylase 7 during T cell apoptosis and angiogenesis.
+
+M Martin, M Potente, V Janssens, D Vertommen, JC Twizere, MH Rider, J Goris, S Dimmeler, R Kettmann, F Dequiedt
+
+Class IIa histone deacetylases (HDACs) act as key transcriptional regulators in several important developmental programs. Their activities are controlled via phosphorylation-dependent nucleocytoplasmic shuttling. Phosphorylation of conserved serine residues triggers association with 14-3-3 proteins and cytoplasmic relocalization of class IIa HDACs, which leads to the derepression of their target genes. Although a lot of effort has been made toward the identification of the inactivating kinases that phosphorylate class IIa HDAC 14-3-3 motifs, the existence of an antagonistic protein phosphatase remains elusive. Here we identify PP2A as a phosphatase responsible for dephosphorylating the 14-3-3 binding sites in class IIa HDACs. Interestingly, dephosphorylation of class IIa HDACs by PP2A is prevented by competitive association of 14-3-3 proteins. Using both okadaic acid treatment and RNA interference, we demonstrate that PP2A constitutively dephosphorylates the class IIa member HDAC7 to control its biological functions as a regulator of T cell apoptosis and endothelial cell functions. This study unravels a dynamic interplay among 14-3-3s, protein kinases, and PP2A and provides a model for the regulation of class IIa HDACs.
+
+-14-3-3 Proteins (-metabolism)
++Apoptosis (-drug effects)
+-Cell Line
+-Cytoplasm (-drug effects; -enzymology)
+-Enzyme Inhibitors (-pharmacology)
+-Histone Deacetylases (+metabolism)
+-Humans
++Neovascularization, Physiologic (-drug effects)
+-Phosphorylation (-drug effects)
+-Protein Binding (-drug effects)
+-Protein Phosphatase 2 (-antagonists & inhibitors; +metabolism)
+-Protein Transport (-drug effects)
+-RNA, Small Interfering (-metabolism)
+-Repressor Proteins (-metabolism)
+-Subcellular Fractions (-drug effects; -enzymology)
+-T-Lymphocytes (+cytology; -drug effects; +enzymology)
+
+pii:0708455105
+doi:10.1073/pnas.0708455105
+pubmed:18339811
+pmc:PMC2290748
+

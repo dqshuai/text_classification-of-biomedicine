@@ -1,0 +1,33 @@
+J. Mol. Biol.
+
+Sox9 represses alpha-sarcoglycan gene expression in early myogenic differentiation.
+
+JM Hernández-Hernández, P Delgado-Olguín, V Aguillón-Huerta, M Furlan-Magaril, F Recillas-Targa, RM Coral-Vázquez
+
+Alpha sarcoglycan (alpha-SG) is highly expressed in differentiated striated muscle, and its disruption causes limb-girdle muscular dystrophy. Accordingly, the myogenic master regulator MyoD finely modulates its expression. However, the mechanisms preventing alpha-SG gene expression at early stages of myogenic differentiation remain unknown. In this study, we uncovered Sox9, which was not previously known to directly bind muscle gene promoters, as a negative regulator of alpha-SG gene expression. Reporter gene and chromatin immunoprecipitation assays revealed three functional Sox-binding sites that mediate alpha-SG promoter activity repression during early myogenic differentiation. In addition, we show that Sox9-mediated inhibition of alpha-SG gene expression is independent of MyoD. Moreover, we provide evidence suggesting that Smad3 enhances the repressive activity of Sox9 over alpha-SG gene expression in a transforming growth factor-beta-dependent manner. On the basis of these results, we propose that Sox9 and Smad3 are responsible for preventing precocious activation of alpha-SG gene expression during myogenic differentiation.
+
+-Animals
+-Base Sequence
+-Binding Sites
+-Cell Differentiation (-drug effects; +genetics)
++Gene Expression Regulation (-drug effects)
+-Mice
+-Models, Genetic
+-Molecular Sequence Data
+-Muscle Development (-drug effects; +genetics)
+-MyoD Protein (-metabolism)
+-Myoblasts (-cytology; -drug effects; -metabolism)
+-Phosphorylation (-drug effects)
+-Promoter Regions, Genetic (-genetics)
+-Protein Binding (-drug effects)
+-Repressor Proteins (+metabolism)
+-SOX9 Transcription Factor (+metabolism)
+-Sarcoglycans (+genetics; -metabolism)
+-Smad3 Protein (-metabolism)
+-Transcription, Genetic (-drug effects)
+-Transforming Growth Factor beta (-pharmacology)
+
+pii:S0022-2836(09)01077-8
+doi:10.1016/j.jmb.2009.08.057
+pubmed:19729026
+

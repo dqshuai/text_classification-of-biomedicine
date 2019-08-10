@@ -1,0 +1,36 @@
+EMBO J.
+
+Sall2 is a novel p75NTR-interacting protein that links NGF signalling to cell cycle progression and neurite outgrowth.
+
+R Pincheira, M Baerwald, JD Dunbar, DB Donner
+
+By screening a fetal brain two-hybrid library with the death domain of the p75 neurotrophin receptor (NTR), we identified the Sall2 transcription factor as a novel interacting protein. Sall2 is a unique member of the Sall gene family, which is believed to be a tumour suppressor. Here, we show that Sall2 contains a p75NTR interaction domain not found in other Sall proteins and that p75NTR/Sall2 complexes co-immunoprecipitate from brain lysates. NGF dissociates p75NTR/Sall2 complexes and activates TrkA, which has an obligate function in the nuclear translocation of Sall2. NGF also increases Sall2 expression and this is mediated by p75NTR, but may not require TrkA. Depletion of Sall2 from cells decreases the expression and activity of p21(WAF1/CIP1), as well as the ability of NGF to induce growth arrest and the development of neurites. Overexpression of Sall2 activates p21(WAF1/CIP1), induces growth arrest, and promotes neurite outgrowth independently of NGF. These data establish Sall2 as a link between NTRs and transcriptional events that regulate the growth and development of neuronal cells.
+
+-Animals
+-Cell Cycle (+drug effects)
+-Cell Differentiation (-drug effects)
+-Cell Proliferation (-drug effects)
+-Cyclin-Dependent Kinase Inhibitor p21 (-metabolism)
+-Gene Silencing (-drug effects)
+-Hippocampus (-cytology)
+-Humans
+-Intracellular Signaling Peptides and Proteins (-metabolism)
+-Mice
+-Nerve Growth Factor (+pharmacology)
+-Neurites (+drug effects; +metabolism)
+-Neurons (-cytology; -drug effects)
+-PC12 Cells
+-Protein Binding (-drug effects)
+-Protein Structure, Tertiary
+-Protein Transport (-drug effects)
+-Rats
+-Receptor, Nerve Growth Factor (-chemistry; +metabolism)
+-Receptor, trkA (-metabolism)
+-Signal Transduction (+drug effects)
+-Transcription Factors (+metabolism)
+
+pii:emboj2008274
+doi:10.1038/emboj.2008.274
+pubmed:19131967
+pmc:PMC2637331
+

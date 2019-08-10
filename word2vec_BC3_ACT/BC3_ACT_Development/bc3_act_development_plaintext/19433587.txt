@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+HSCARG regulates NF-kappaB activation by promoting the ubiquitination of RelA or COMMD1.
+
+M Lian, X Zheng
+
+The redox sensor protein HSCARG translocates from the cytoplasm to the nucleus in response to decreased cellular NADPH or increased nitric oxide, and is involved in protein regulation. However, the regulatory mechanism of HSCARG has remained elusive. In this report, through a yeast two-hybrid screen, HSCARG was found to associate with the copper metabolism gene MURR1 domain containing protein 1 (COMMD1), an inhibitor of NF-kappaB, and negatively regulate COMMD1 by accelerating its ubiquitination and proteasome-dependent degradation. Interestingly, we observed that HSCARG also blocked basal and stimulus-coupled NF-kappaB activation by promoting ubiquitination and degradation of the NF-kappaB subunit RelA. Further analyses showed that in cells under normal conditions, HSCARG localized mainly in the cytoplasm and acted as a negative regulator of COMMD1, and was distributed in the nucleus in small quantities to inhibit NF-kappaB. Although in response to intracellular redox changes by dehydroepiandrosterone or S-nitroso-N-acetylpenicillamine treatment, a large amount of HSCARG translocated to the nucleus, which terminated NF-kappaB activation. Meanwhile, COMMD1 was restored due to decreased cytoplasmic HSCARG levels and negatively regulated NF-kappaB as well. Thus, NF-kappaB activation was terminated efficiently. Our results indicate that HSCARG plays critical roles in regulation of NF-kappaB in response to cellular redox changes by promoting ubiquitination and proteolysis of RelA or COMMD1.
+
+-Carrier Proteins (-genetics; +metabolism)
+-Genes, Reporter
+-Hela Cells
+-Humans
+-Interleukin-1 (-metabolism)
+-Kidney (-cytology)
+-Lysine (-metabolism)
+-Oxidation-Reduction
+-RNA, Small Interfering
+-Transcription Factor RelA (+metabolism)
+-Transcription Factors (-genetics; +metabolism)
+-Tumor Necrosis Factor-alpha (-metabolism)
+-Two-Hybrid System Techniques
+-Ubiquitin (-metabolism)
+-Ubiquitination (-physiology)
+
+pii:M809752200
+doi:10.1074/jbc.M809752200
+pubmed:19433587
+pmc:PMC2709395
+

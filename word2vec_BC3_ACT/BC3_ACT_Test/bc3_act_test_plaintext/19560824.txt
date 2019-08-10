@@ -1,0 +1,25 @@
+Mol. Immunol.
+
+Proteins accessible to immune surveillance show significant T-cell epitope depletion: Implications for vaccine design.
+
+M Halling-Brown, R Shaban, D Frampton, CE Sansom, M Davies, D Flower, M Duffield, RW Titball, V Brusic, DS Moss
+
+T cell activation is the final step in a complex pathway through which pathogen-derived peptide fragments can elicit an immune response. For it to occur, peptides must form stable complexes with Major Histocompatibility Complex (MHC) molecules and be presented on the cell surface. Computational predictors of MHC binding are often used within in silico vaccine design pathways. We have previously shown that, paradoxically, most bacterial proteins known experimentally to elicit an immune response in disease models are depleted in peptides predicted to bind to human MHC alleles. The results presented here, derived using software proven through benchmarking to be the most accurate currently available, show that vaccine antigens contain fewer predicted MHC-binding peptides than control bacterial proteins from almost all subcellular locations with the exception of cell wall and some cytoplasmic proteins. This effect is too large to be explained from the undoubted lack of precision of the software or from the amino acid composition of the antigens. Instead, we propose that pathogens have evolved under the influence of the host immune system so that surface proteins are depleted in potential MHC-binding peptides, and suggest that identification of a protein likely to contain a single immuno-dominant epitope is likely to be a productive strategy for vaccine design.
+
+-Algorithms
+-Bacterial Proteins (-immunology; -metabolism)
+-Computational Biology (-methods)
+-Drug Design
+-Epitopes, T-Lymphocyte (-chemistry; +immunology; -metabolism)
+-HLA Antigens (-immunology; -metabolism)
+-Humans
+-Lymphocyte Activation (+immunology)
+-Protein Binding
+-Reproducibility of Results
++Software
+-Vaccines (-immunology)
+
+pii:S0161-5890(09)00243-0
+doi:10.1016/j.molimm.2009.05.027
+pubmed:19560824
+

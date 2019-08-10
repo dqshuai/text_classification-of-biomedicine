@@ -1,0 +1,31 @@
+PLoS ONE
+
+Nucleocytoplasmic shuttling activity of ataxin-3.
+
+S Macedo-Ribeiro, L Cortes, P Maciel, AL Carvalho
+
+Spinocerebellar ataxia type-3, also known as Machado-Joseph Disease (MJD), is one of many inherited neurodegenerative disorders caused by polyglutamine-encoding CAG repeat expansions in otherwise unrelated genes. Disease protein misfolding and aggregation, often within the nucleus of affected neurons, characterize polyglutamine disorders. Several evidences have implicated the nucleus as the primary site of pathogenesis for MJD. However, the molecular determinants for the nucleocytoplasmic transport of human ataxin-3 (Atx3), the protein which is mutated in patients with MJD, are not characterized. In order to characterize the nuclear shuttling activity of Atx3, we performed yeast nuclear import assays and found that Atx3 is actively imported into the nucleus, by means of a classical nuclear localizing sequence formed by a cluster of lysine and arginine residues. On the other hand, when active nuclear export was inhibited using leptomycin B, a specific inhibitor of the nuclear export receptor CRM1, both endogenous Atx3 and transfected GFP-Atx3 accumulated inside the nucleus of a subpopulation of COS-7 cells, whereas both proteins are normally predominant in the cytoplasm. Additionally, using a Rev(1.4)-GFP nuclear export assay, we performed an extensive analysis of six putative aliphatic nuclear export motifs identified in Atx3 amino acid sequence. Although none of the tested peptide sequences were found to drive nuclear export when isolated, we have successfully mapped the region of Atx3 responsible for its CRM1-independent nuclear export activity. Curiously, the N-terminal Josephin domain alone is exported into the cytoplasm, but the nuclear export activity of Atx3 is significantly enhanced in a longer construct that is truncated after the two ubiquitin interaction motifs, upstream from the polyQ tract. Our data show that Atx3 is actively imported to and exported from the cell nucleus, and that its nuclear export activity is dependent on a motif located at its N-terminal region. Since pathological Atx3 aggregates in the nucleus of affected neurons in MJD, and there is in vivo evidence that nuclear localization of Atx3 is required for the manifestation of symptoms in MJD, defects in the nucleocytoplasmic shuttling activity of the protein may be involved in the nuclear accumulation and aggregation of expanded Atx3.
+
+-Amino Acid Sequence
+-Animals
+-COS Cells
+-Cell Line
+-Cell Nucleus (+metabolism)
+-Cercopithecus aethiops
+-Cytoplasm (+metabolism)
+-Green Fluorescent Proteins (-metabolism)
+-Humans
+-Molecular Sequence Data
+-Nerve Tissue Proteins (+metabolism)
+-Neurons (-metabolism)
+-Nuclear Proteins (+metabolism)
+-Protein Denaturation
+-Protein Folding
+-Protein Transport
+-Repressor Proteins (+metabolism)
+-Sequence Homology, Amino Acid
+
+doi:10.1371/journal.pone.0005834
+pubmed:19503814
+pmc:PMC2688764
+

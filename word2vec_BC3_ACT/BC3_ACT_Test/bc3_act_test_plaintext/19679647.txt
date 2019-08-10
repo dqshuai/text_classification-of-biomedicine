@@ -1,0 +1,38 @@
+Genes Dev.
+
+Increased telomere fragility and fusions resulting from TRF1 deficiency lead to degenerative pathologies and increased cancer in mice.
+
+P Martínez, M Thanasoula, P Muñoz, C Liao, A Tejera, C McNees, JM Flores, O Fernández-Capetillo, M Tarsounas, MA Blasco
+
+The telomere repeat-binding factor 1 (TERF1, referred to hereafter as TRF1) is a component of mammalian telomeres whose role in telomere biology and disease has remained elusive. Here, we report on cells and mice conditionally deleted for TRF1. TRF1-deleted mouse embryonic fibroblasts (MEFs) show rapid induction of senescence, which is concomitant with abundant telomeric gamma-H2AX foci and activation of the ATM/ATR downstream checkpoint kinases CHK1 and CHK2. DNA damage foci are rescued by both ATM and ATM/ATR inhibitors, further indicating that both signaling pathways are activated upon TRF1 deletion. Abrogation of the p53 and RB pathways bypasses senescence but leads to chromosomal instability including sister chromatid fusions, chromosome concatenation, and occurrence of multitelomeric signals (MTS). MTS are also elevated in ATR-deficient MEFs or upon treatment with aphidicolin, two conditions known to induce breakage at fragile sites, suggesting that TRF1-depleted telomeres are prone to breakage. To address the impact of these molecular defects in the organism, we deleted TRF1 in stratified epithelia of TRF1(Delta/Delta)K5-Cre mice. These mice die perinatally and show skin hyperpigmentation and epithelial dysplasia, which are associated with induction of telomere-instigated DNA damage, activation of the p53/p21 and p16 pathways, and cell cycle arrest in vivo. p53 deficiency rescues mouse survival but leads to development of squamous cell carcinomas, demonstrating that TRF1 suppresses tumorigenesis. Together, these results demonstrate that dysfunction of a telomere-binding protein is sufficient to produce severe telomeric damage in the absence of telomere shortening, resulting in premature tissue degeneration and development of neoplastic lesions.
+
+-Aging (-metabolism)
+-Animals
+-Cell Cycle (-physiology)
+-Cell Line
++Chromosome Fragility
+-Cyclin-Dependent Kinase Inhibitor p21 (-metabolism)
+-DNA Damage (-genetics)
+-E2F1 Transcription Factor (-metabolism)
+-Epidermis (-cytology; -pathology)
+-Fibroblasts (-cytology; -metabolism)
+-Gene Expression Regulation
+-Hyperpigmentation (-etiology; -genetics)
+-Mice
+-Mice, Knockout
+-Mutation (-genetics)
+-Neoplasm Proteins (-metabolism)
+-Neoplasms (-genetics)
+-Protein Deficiency (+complications)
+-Skin Diseases (+etiology; -genetics)
+-Skin Neoplasms (+etiology; -genetics)
+-Stem Cells (-pathology)
+-Telomere (+genetics)
+-Telomeric Repeat Binding Protein 1 (+deficiency; -genetics; +metabolism)
+-Tumor Suppressor Protein p53 (-metabolism)
+
+pii:gad.543509
+doi:10.1101/gad.543509
+pubmed:19679647
+pmc:PMC2751970
+

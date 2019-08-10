@@ -1,0 +1,33 @@
+Nucleic Acids Res.
+
+FHL2 interacts with and acts as a functional repressor of Id2 in human neuroblastoma cells.
+
+W Han, Z Wu, Y Zhao, Y Meng, Y Si, J Yang, X Fu, L Yu
+
+Inhibitor of differentiation 2 (Id2) is a natural inhibitor of the basic helix-loop-helix transcription factors. Although Id2 is well known to prevent differentiation and promote cell-cycle progression and tumorigenesis, the molecular events that regulate Id2 activity remain to be investigated. Here, we identified that Four-and-a-half LIM-only protein 2 (FHL2) is a novel functional repressor of Id2. Moreover, we demonstrated that FHL2 can directly interact with all members of the Id family (Id1-4) via an N-terminal loop-helix structure conserved in Id proteins. FHL2 antagonizes the inhibitory effect of Id proteins on basic helix-loop-helix protein E47-mediated transcription, which was abrogated by the deletion mutation of Ids that disrupted their interaction with FHL2. We also showed a competitive nature between FHL2 and E47 for binding Id2, whereby FHL2 prevents the formation of the Id2-E47 heterodimer, thus releasing E47 to DNA and restoring its transcriptional activity. FHL2 expression was remarkably up-regulated during retinoic acid-induced differentiation of neuroblastoma cells, during which the expression of Id2 was opposite to that. Ectopic FHL2 expression in neuroblastoma cells markedly reduces the transcriptional and cell-cycle promoting functions of Id2. Altogether, these results indicate that FHL2 is an important repressor of the oncogenic activity of Id2 in neuroblastoma cells.
+
+-Animals
+-Cell Cycle
+-Cell Differentiation
+-Cell Line
+-Cell Line, Tumor
+-DNA (-metabolism)
+-E-Box Elements
++Gene Expression Regulation, Neoplastic
+-Helix-Loop-Helix Motifs
+-Homeodomain Proteins (-chemistry; +metabolism)
+-Humans
+-Inhibitor of Differentiation Protein 2 (+antagonists & inhibitors; -metabolism)
+-Muscle Proteins (-chemistry; +metabolism)
+-Neuroblastoma (+genetics; -metabolism)
+-Repressor Proteins (+metabolism)
+-TCF Transcription Factors (-metabolism)
+-Transcription Factors (-chemistry; +metabolism)
+-Two-Hybrid System Techniques
+-Up-Regulation
+
+pii:gkp332
+doi:10.1093/nar/gkp332
+pubmed:19417068
+pmc:PMC2709579
+

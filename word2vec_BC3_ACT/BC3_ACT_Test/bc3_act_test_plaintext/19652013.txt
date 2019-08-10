@@ -1,0 +1,32 @@
+Genome Res.
+
+The presence of RNA polymerase II, active or stalled, predicts epigenetic fate of promoter CpG islands.
+
+H Takeshima, S Yamashita, T Shimazu, T Niwa, T Ushijima
+
+Instructive mechanisms are present for induction of DNA methylation, as shown by methylation of specific CpG islands (CGIs) by specific inducers and in specific cancers. However, instructive factors involved are poorly understood, except for involvement of low transcription and trimethylation of histone H3 lysine 27 (H3K27me3). Here, we used methylated DNA immunoprecipitation (MeDIP) combined with a CGI oligonucleotide microarray analysis, and identified 5510 and 521 genes with promoter CGIs resistant and susceptible, respectively, to DNA methylation in prostate cancer cell lines. Expression analysis revealed that the susceptible genes had low transcription in a normal prostatic epithelial cell line. Chromatin immunoprecipitation with microarray hybridization (CHiP-chip) analysis of RNA polymerase II (Pol II) and histone modifications showed that, even among the genes with low transcription, the presence of Pol II was associated with marked resistance to DNA methylation (OR = 0.22; 95% CI = 0.12-0.38), and H3K27me3 was associated with increased susceptibility (OR = 11.20; 95% CI = 7.14-17.55). The same was true in normal human mammary epithelial cells for 5430 and 733 genes resistant and susceptible, respectively, to DNA methylation in breast cancer cell lines. These results showed that the presence of Pol II, active or stalled, and H3K27me3 can predict the epigenetic fate of promoter CGIs independently of transcription levels.
+
+-Cell Line
+-Cell Line, Tumor
+-Chromatin Immunoprecipitation
+-CpG Islands (+genetics)
++DNA Methylation
+-Female
+-Genetic Predisposition to Disease (-genetics)
+-Histones (-metabolism)
+-Humans
+-Lysine (-metabolism)
+-Male
+-Methylation
+-Oligonucleotide Array Sequence Analysis
+-Promoter Regions, Genetic (+genetics)
+-Prostatic Neoplasms (-genetics; -metabolism; -pathology)
+-Protein Binding
+-RNA Polymerase II (+metabolism)
+-Transcription, Genetic
+
+pii:gr.093310.109
+doi:10.1101/gr.093310.109
+pubmed:19652013
+pmc:PMC2775588
+

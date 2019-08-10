@@ -1,0 +1,22 @@
+EMBO J.
+
+Crosstalk between GABAB and mGlu1a receptors reveals new insight into GPCR signal integration.
+
+ML Rives, C Vol, Y Fukazawa, N Tinel, E Trinquet, MA Ayoub, R Shigemoto, JP Pin, L Prézeau
+
+G protein-coupled receptors (GPCRs) have critical functions in intercellular communication. Although a wide range of different receptors have been identified in the same cells, the mechanism by which signals are integrated remains elusive. The ability of GPCRs to form dimers or larger hetero-oligomers is thought to generate such signal integration. We examined the molecular mechanisms responsible for the GABA(B) receptor-mediated potentiation of the mGlu receptor signalling reported in Purkinje neurons. We showed that this effect does not require a physical interaction between both receptors. Instead, it is the result of a more general mechanism in which the betagamma subunits produced by the Gi-coupled GABA(B) receptor enhance the mGlu-mediated Gq response. Most importantly, this mechanism could be generally applied to other pairs of Gi- and Gq-coupled receptors and the signal integration varied depending on the time delay between activation of each receptor. Such a mechanism helps explain specific properties of cells expressing two different Gi- and Gq-coupled receptors activated by a single transmitter, or properties of GPCRs naturally coupled to both types of the G protein.
+
+-Animals
+-Mice
+-Mice, Inbred C57BL
+-Models, Biological
+-Purkinje Cells (+physiology)
+-Receptors, GABA-B (+metabolism)
+-Receptors, Metabotropic Glutamate (+metabolism)
++Signal Transduction
+
+pii:emboj2009177
+doi:10.1038/emboj.2009.177
+pubmed:19590495
+pmc:PMC2726695
+

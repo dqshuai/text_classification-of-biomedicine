@@ -1,0 +1,24 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+MKP-1 inhibits high NaCl-induced activation of p38 but does not inhibit the activation of TonEBP/OREBP: opposite roles of p38alpha and p38delta.
+
+X Zhou, JD Ferraris, NI Dmitrieva, Y Liu, MB Burg
+
+High NaCl rapidly activates p38 MAPK by phosphorylating it, the phosphorylation presumably being regulated by a balance of kinases and phosphatases. Kinases are known, but the phosphatases are uncertain. Our initial purpose was to identify the phosphatases. We find that in HEK293 cells transient overexpression of MAPK phosphatase-1 (MKP-1), a dual-specificity phosphatase, inhibits high NaCl-induced phosphorylation of p38, and that overexpression of a dominant negative mutant of MKP-1 does the opposite. High NaCl lowers MKP-1 activity by increasing reactive oxygen species, which directly inhibit MKP-1, and by reducing binding of MKP-1 to p38. Because inhibition of p38 is reported to reduce hypertonicity-induced activation of the osmoprotective transcription factor, TonEBP/OREBP, we anticipated that MKP-1 expression might also. However, overexpression of MKP-1 has no significant effect on Ton EBP/OREBP activity. This paradox is explained by opposing effects of p38alpha and p38delta, both of which are activated by high NaCl and inhibited by MKP-1. Thus, we find that overexpression of p38alpha increases high NaCl-induced TonEBP/OREBP activity, but overexpression of p38delta reduces it. Also, siRNA-mediated knockdown of p38delta enhances the activation of TonEBP/OREBP. We conclude that high NaCl inhibits MKP-1, which contributes to the activation of p38. However, opposing actions of p38alpha and p38delta negate any effect on TonEBP/OREBP activity. Thus, activation of p38 isoforms by hypertonicity does not contribute to activation of TonEBP/OREBP because of opposing effects of p38alpha and p38delta, and effects of inhibitors of p38 depend on which isoform is affected, which can be misleading.
+
+-Cell Line
+-Dual Specificity Phosphatase 1 (-antagonists & inhibitors; -genetics; +physiology)
+-Enzyme Activation (-drug effects)
+-Humans
+-Mitogen-Activated Protein Kinase 13 (-antagonists & inhibitors; +metabolism)
+-Mitogen-Activated Protein Kinase 14 (-antagonists & inhibitors; +metabolism)
+-NFATC Transcription Factors (+metabolism)
+-Phosphorylation (-drug effects)
+-Sodium Chloride (+pharmacology)
+-Transcription Factors (+metabolism)
+
+pii:0801453105
+doi:10.1073/pnas.0801453105
+pubmed:18367666
+pmc:PMC2291081
+

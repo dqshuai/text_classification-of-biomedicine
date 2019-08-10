@@ -1,0 +1,26 @@
+J. Virol.
+
+Respiratory syncytial virus grown in Vero cells contains a truncated attachment protein that alters its infectivity and dependence on glycosaminoglycans.
+
+S Kwilas, RM Liesman, L Zhang, E Walsh, RJ Pickles, ME Peeples
+
+Human respiratory syncytial virus (RSV) contains a heavily glycosylated 90-kDa attachment glycoprotein (G). Infection of HEp-2 and Vero cells in culture depends largely on virion G protein binding to cell surface glycosaminoglycans (GAGs). This GAG-dependent phenotype has been described for RSV grown in HEp-2 cells, but we have found that it is greatly reduced by a single passage in Vero cells. Virions produced from Vero cells primarily display a 55-kDa G glycoprotein. This smaller G protein represents a post-Golgi compartment form that is lacking its C terminus, indicating that the C terminus is required for GAG dependency. Vero cell-grown virus infected primary well-differentiated human airway epithelial (HAE) cell cultures 600-fold less efficiently than did HEp-2 cell-grown virus, indicating that the C terminus of the G protein is also required for virus attachment to this model of the in vivo target cells. This reduced infectivity for HAE cell cultures is not likely to be due to the loss of GAG attachment since heparan sulfate, the primary GAG used by RSV for attachment to HEp-2 cells, is not detectable at the apical surface of HAE cell cultures where RSV enters. Growing RSV stocks in Vero cells could dramatically reduce the initial infection of the respiratory tract in animal models or in volunteers receiving attenuated virus vaccines, thereby reducing the efficiency of infection or the efficacy of the vaccine.
+
+-Animals
+-Cell Line
+-Cercopithecus aethiops
+-Cricetinae
+-Epithelial Cells (-virology)
+-Glycosaminoglycans (+metabolism)
+-Humans
+-Lung (-cytology; -virology)
++Mutation
+-Respiratory Syncytial Virus, Human (+growth & development; +pathogenicity)
+-Vero Cells (+virology)
+-Viral Envelope Proteins (-chemistry; +genetics; -metabolism)
+
+pii:JVI.00986-09
+doi:10.1128/JVI.00986-09
+pubmed:19656891
+pmc:PMC2753119
+

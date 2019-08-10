@@ -1,0 +1,25 @@
+FEBS J.
+
+Time-dependent regulation analysis dissects shifts between metabolic and gene-expression regulation during nitrogen starvation in baker's yeast.
+
+K van Eunen, J Bouwman, A Lindenbergh, HV Westerhoff, BM Bakker
+
+Time-dependent regulation analysis is a new methodology that allows us to unravel, both quantitatively and dynamically, how and when functional changes in the cell are brought about by the interplay of gene expression and metabolism. In this first experimental implementation, we dissect the initial and late response of baker's yeast upon a switch from glucose-limited growth to nitrogen starvation. During nitrogen starvation, unspecific bulk degradation of cytosolic proteins and small organelles (autophagy) occurs. If this is the primary cause of loss of glycolytic capacity, one would expect the cells to regulate their glycolytic capacity through decreasing simultaneously and proportionally the capacities of the enzymes in the first hour of nitrogen starvation. This should lead to regulation of the flux which is initially dominated by changes in the enzyme capacity. However, metabolic regulation is also known to act fast. To analyse the interplay between autophagy and metabolism, we examined the first 4 h of nitrogen starvation in detail using time-dependent regulation analysis. Some enzymes were initially regulated more by a breakdown of enzyme capacity and only later through metabolic regulation. However, other enzymes were regulated metabolically in the first hours and then shifted towards regulation via enzyme capacity. We conclude that even initial regulation is subtle and governed by different molecular levels.
+
+-Autophagy
+-Fermentation
+-Gene Expression Regulation, Fungal
+-Genes, Fungal
+-Glycolysis
+-Kinetics
+-Models, Biological
+-Nitrogen (+metabolism)
+-RNA, Fungal (-genetics; -metabolism)
+-RNA, Messenger (-genetics; -metabolism)
+-Saccharomyces cerevisiae (+genetics; +metabolism)
+-Saccharomyces cerevisiae Proteins (-metabolism)
+
+pii:EJB7235
+doi:10.1111/j.1742-4658.2009.07235.x
+pubmed:19691496
+

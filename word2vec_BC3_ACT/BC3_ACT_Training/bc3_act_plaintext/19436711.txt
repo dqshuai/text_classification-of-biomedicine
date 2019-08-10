@@ -1,0 +1,33 @@
+PLoS Pathog.
+
+Natural killer T cells activated by a lipopeptidophosphoglycan from Entamoeba histolytica are critically important to control amebic liver abscess.
+
+H Lotter, N González-Roldán, B Lindner, F Winau, A Isibasi, M Moreno-Lafont, AJ Ulmer, O Holst, E Tannich, T Jacobs
+
+The innate immune response is supposed to play an essential role in the control of amebic liver abscess (ALA), a severe form of invasive amoebiasis due to infection with the protozoan parasite Entamoeba histolytica. In a mouse model for the disease, we previously demonstrated that Jalpha18(-/-) mice, lacking invariant natural killer T (iNKT) cells, suffer from more severe abscess development. Here we show that the specific activation of iNKT cells using alpha-galactosylceramide (alpha-GalCer) induces a significant reduction in the sizes of ALA lesions, whereas CD1d(-/-) mice develop more severe abscesses. We identified a lipopeptidophosphoglycan from E. histolytica membranes (EhLPPG) as a possible natural NKT cell ligand and show that the purified phosphoinositol (PI) moiety of this molecule induces protective IFN-gamma but not IL-4 production in NKT cells. The main component of EhLPPG responsible for NKT cell activation is a diacylated PI, (1-O-[(28:0)-lyso-glycero-3-phosphatidyl-]2-O-(C16:0)-Ins). IFN-gamma production by NKT cells requires the presence of CD1d and simultaneously TLR receptor signalling through MyD88 and secretion of IL-12. Similar to alpha-GalCer application, EhLPPG treatment significantly reduces the severity of ALA in ameba-infected mice. Our results suggest that EhLPPG is an amebic molecule that is important for the limitation of ALA development and may explain why the majority of E. histolytica-infected individuals do not develop amebic liver abscess.
+
+-Animals
+-Antigen-Presenting Cells (-immunology)
+-Antigens, CD1d (-genetics)
+-Antigens, Protozoan (-immunology)
+-Antigens, Surface (-immunology)
+-Cells, Cultured
+-Disease Models, Animal
+-Entamoeba histolytica (+immunology; +pathogenicity)
+-Galactosylceramides (-immunology)
+-Interferon-gamma (-immunology)
+-Liver Abscess, Amebic (+immunology; -parasitology)
+-Lymphocyte Activation
+-Mice
+-Mice, Inbred C57BL
+-Natural Killer T-Cells (+immunology)
+-Peptidoglycan (+immunology)
+-Phosphatidylinositols (-chemistry)
+-Phospholipids (+immunology)
+-Signal Transduction (-immunology)
+-Trophozoites (-immunology)
+
+doi:10.1371/journal.ppat.1000434
+pubmed:19436711
+pmc:PMC2674934
+

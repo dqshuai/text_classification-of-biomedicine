@@ -1,0 +1,27 @@
+PLoS Comput. Biol.
+
+Network-state modulation of power-law frequency-scaling in visual cortical neurons.
+
+S El Boustani, O Marre, S Béhuret, P Baudot, P Yger, T Bal, A Destexhe, Y Frégnac
+
+Various types of neural-based signals, such as EEG, local field potentials and intracellular synaptic potentials, integrate multiple sources of activity distributed across large assemblies. They have in common a power-law frequency-scaling structure at high frequencies, but it is still unclear whether this scaling property is dominated by intrinsic neuronal properties or by network activity. The latter case is particularly interesting because if frequency-scaling reflects the network state it could be used to characterize the functional impact of the connectivity. In intracellularly recorded neurons of cat primary visual cortex in vivo, the power spectral density of V(m) activity displays a power-law structure at high frequencies with a fractional scaling exponent. We show that this exponent is not constant, but depends on the visual statistics used to drive the network. To investigate the determinants of this frequency-scaling, we considered a generic recurrent model of cortex receiving a retinotopically organized external input. Similarly to the in vivo case, our in computo simulations show that the scaling exponent reflects the correlation level imposed in the input. This systematic dependence was also replicated at the single cell level, by controlling independently, in a parametric way, the strength and the temporal decay of the pairwise correlation between presynaptic inputs. This last model was implemented in vitro by imposing the correlation control in artificial presynaptic spike trains through dynamic-clamp techniques. These in vitro manipulations induced a modulation of the scaling exponent, similar to that observed in vivo and predicted in computo. We conclude that the frequency-scaling exponent of the V(m) reflects stimulus-driven correlations in the cortical network activity. Therefore, we propose that the scaling exponent could be used to read-out the "effective" connectivity responsible for the dynamical signature of the population signals measured at different integration levels, from Vm to LFP, EEG and fMRI.
+
+-Animals
+-Cats
+-Computational Biology (+methods)
+-Computer Simulation
+-Eye Movements (-physiology)
+-Fractals
+-Membrane Potentials
++Models, Neurological
+-Neurons (+physiology)
+-Patch-Clamp Techniques
+-Photic Stimulation
+-Rats
+-Rats, Wistar
+-Visual Cortex (-cytology; +physiology)
+
+doi:10.1371/journal.pcbi.1000519
+pubmed:19779556
+pmc:PMC2740863
+

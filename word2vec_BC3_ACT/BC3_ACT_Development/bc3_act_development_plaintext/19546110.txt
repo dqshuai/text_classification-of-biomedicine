@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+Stochastic noise in splicing machinery.
+
+E Melamud, J Moult
+
+The number of known alternative human isoforms has been increasing steadily with the amount of available transcription data. To date, over 100 000 isoforms have been detected in EST libraries, and at least 75% of human genes have at least one alternative isoform. In this paper, we propose that most alternative splicing events are the result of noise in the splicing process. We show that the number of isoforms and their abundance can be predicted by a simple stochastic noise model that takes into account two factors: the number of introns in a gene and the expression level of a gene. The results strongly support the hypothesis that most alternative splicing is a consequence of stochastic noise in the splicing machinery, and has no functional significance. The results are also consistent with error rates tuned to ensure that an adequate level of functional product is produced and to reduce the toxic effect of accumulation of misfolding proteins. Based on simulation of sampling of virtual cDNA libraries, we estimate that error rates range from 1 to 10% depending on the number of introns and the expression level of a gene.
+
++Alternative Splicing
+-Expressed Sequence Tags (-chemistry)
+-Gene Library
+-Humans
+-Introns
++Models, Genetic
+-Protein Isoforms (-biosynthesis; +genetics)
+-Stochastic Processes
+-Transcription, Genetic
+
+pii:gkp471
+doi:10.1093/nar/gkp471
+pubmed:19546110
+pmc:PMC2724286
+

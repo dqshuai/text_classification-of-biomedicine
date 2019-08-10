@@ -1,0 +1,36 @@
+PLoS ONE
+
+SNP haplotype mapping in a small ALS family.
+
+KA Krueger, S Tsuji, Y Fukuda, Y Takahashi, J Goto, J Mitsui, H Ishiura, JC Dalton, MB Miller, JW Day, LP Ranum
+
+The identification of genes for monogenic disorders has proven to be highly effective for understanding disease mechanisms, pathways and gene function in humans. Nevertheless, while thousands of Mendelian disorders have not yet been mapped there has been a trend away from studying single-gene disorders. In part, this is due to the fact that many of the remaining single-gene families are not large enough to map the disease locus to a single site in the genome. New tools and approaches are needed to allow researchers to effectively tap into this genetic gold-mine. Towards this goal, we have used haploid cell lines to experimentally validate the use of high-density single nucleotide polymorphism (SNP) arrays to define genome-wide haplotypes and candidate regions, using a small amyotrophic lateral sclerosis (ALS) family as a prototype. Specifically, we used haploid-cell lines to determine if high-density SNP arrays accurately predict haplotypes across entire chromosomes and show that haplotype information significantly enhances the genetic information in small families. Panels of haploid-cell lines were generated and a 5 centimorgan (cM) short tandem repeat polymorphism (STRP) genome scan was performed. Experimentally derived haplotypes for entire chromosomes were used to directly identify regions of the genome identical-by-descent in 5 affected individuals. Comparisons between experimentally determined and in silico haplotypes predicted from SNP arrays demonstrate that SNP analysis of diploid DNA accurately predicted chromosomal haplotypes. These methods precisely identified 12 candidate intervals, which are shared by all 5 affected individuals. Our study illustrates how genetic information can be maximized using readily available tools as a first step in mapping single-gene disorders in small families.
+
+-Adolescent
+-Adult
+-Aged
+-Amyotrophic Lateral Sclerosis (+genetics)
+-Animals
+-Cell Line
+-Chromosomes, Human, Pair 1 (-genetics)
+-DNA (-metabolism)
+-Family
+-Female
+-Genetic Markers
+-Haploidy
++Haplotypes
+-Humans
+-Lod Score
+-Male
+-Mice
+-Microsatellite Repeats (-genetics)
+-Middle Aged
+-Pedigree
++Physical Chromosome Mapping
+-Polymorphism, Single Nucleotide (+genetics)
+-Statistics, Nonparametric
+
+doi:10.1371/journal.pone.0005687
+pubmed:19479031
+pmc:PMC2682655
+

@@ -1,0 +1,25 @@
+Cell Death Differ.
+
+Cell-autonomous requirement for DNaseII in nonapoptotic cell death.
+
+BP Bass, EA Tanner, D Mateos San Martín, T Blute, RD Kinser, PJ Dolph, K McCall
+
+DNA fragmentation is a critical component of apoptosis but it has not been characterized in nonapoptotic forms of cell death, such as necrosis and autophagic cell death. In mammalian apoptosis, caspase-activated DNase cleaves DNA into nucleosomal fragments in dying cells, and subsequently DNase II, an acid nuclease, completes the DNA degradation but acts non-cell autonomously within lysosomes of engulfing cells. Here we examine the requirement for DNases during two examples of programmed cell death (PCD) that occurs in the Drosophila melanogaster ovary, starvation-induced death of mid-stage egg chambers and developmental nurse cell death in late oogenesis. Surprisingly, we found that DNaseII was required cell autonomously in nurse cells during developmental PCD, indicating that it acts within dying cells. Dying nurse cells contain autophagosomes, indicating that autophagy may contribute to these forms of PCD. Furthermore, we provide evidence that developmental nurse cell PCD in late oogenesis shows hallmarks of necrosis. These findings indicate that DNaseII can act cell autonomously to degrade DNA during nonapoptotic cell death.
+
+-Animals
+-Apoptosis
+-Autophagy
+-Cell Death (+physiology)
+-Drosophila melanogaster (-cytology; +enzymology)
+-Endodeoxyribonucleases (+metabolism)
+-Fasting
+-Lysosomes (-metabolism)
+-Oocytes (-cytology)
+-Oogenesis
+
+pii:cdd200979
+doi:10.1038/cdd.2009.79
+pubmed:19557011
+mid:NIHMS119672
+pmc:PMC2770252
+

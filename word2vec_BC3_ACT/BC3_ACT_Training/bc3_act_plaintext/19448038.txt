@@ -1,0 +1,28 @@
+Plant Physiol.
+
+TriFLDB: a database of clustered full-length coding sequences from Triticeae with applications to comparative grass genomics.
+
+K Mochida, T Yoshida, T Sakurai, Y Ogihara, K Shinozaki
+
+The Triticeae Full-Length CDS Database (TriFLDB) contains available information regarding full-length coding sequences (CDSs) of the Triticeae crops wheat (Triticum aestivum) and barley (Hordeum vulgare) and includes functional annotations and comparative genomics features. TriFLDB provides a search interface using keywords for gene function and related Gene Ontology terms and a similarity search for DNA and deduced translated amino acid sequences to access annotations of Triticeae full-length CDS (TriFLCDS) entries. Annotations consist of similarity search results against several sequence databases and domain structure predictions by InterProScan. The deduced amino acid sequences in TriFLDB are grouped with the proteome datasets for Arabidopsis (Arabidopsis thaliana), rice (Oryza sativa), and sorghum (Sorghum bicolor) by hierarchical clustering in stepwise thresholds of sequence identity, providing hierarchical clustering results based on full-length protein sequences. The database also provides sequence similarity results based on comparative mapping of TriFLCDSs onto the rice and sorghum genome sequences, which together with current annotations can be used to predict gene structures for TriFLCDS entries. To provide the possible genetic locations of full-length CDSs, TriFLCDS entries are also assigned to the genetically mapped cDNA sequences of barley and diploid wheat, which are currently accommodated in the Triticeae Mapped EST Database. These relational data are searchable from the search interfaces of both databases. The current TriFLDB contains 15,871 full-length CDSs from barley and wheat and includes putative full-length cDNAs for barley and wheat, which are publicly accessible. This informative content provides an informatics gateway for Triticeae genomics and grass comparative genomics. TriFLDB is publicly available at http://TriFLDB.psc.riken.jp/.
+
+-Amino Acid Sequence
+-Base Sequence
+-Chromosome Mapping
+-Cluster Analysis
+-DNA, Plant (-chemistry)
++Databases, Genetic
+-Genetic Markers
+-Genome, Plant
++Genomics
+-Molecular Sequence Data
+-Plant Proteins (-chemistry; +genetics)
+-Poaceae (+genetics)
+-Sequence Alignment
+-User-Computer Interface
+
+pii:pp.109.138214
+doi:10.1104/pp.109.138214
+pubmed:19448038
+pmc:PMC2705016
+

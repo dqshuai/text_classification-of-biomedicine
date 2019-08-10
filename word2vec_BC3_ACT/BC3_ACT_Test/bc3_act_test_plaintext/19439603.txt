@@ -1,0 +1,33 @@
+J. Neurosci.
+
+Alternatively spliced isoforms of TRIP8b differentially control h channel trafficking and function.
+
+AS Lewis, E Schwartz, CS Chan, Y Noam, M Shin, WJ Wadman, DJ Surmeier, TZ Baram, RL Macdonald, DM Chetkovich
+
+Hyperpolarization-activated cyclic nucleotide-gated (HCN) channels (h channels) are the molecular basis for the current, I(h), which contributes crucially to intrinsic neuronal excitability. The subcellular localization and biophysical properties of h channels govern their function, but the mechanisms controlling these characteristics, and especially the potential role of auxiliary subunits or other binding proteins, remain unclear. We focused on TRIP8b, an h channel-interacting protein that colocalizes with HCN1 in cortical and hippocampal pyramidal neuron dendrites, and found that it exists in multiple alternative splice variants with distinct effects on h channel trafficking and function. The developmentally regulated splice variants of TRIP8b all shared dual, C terminus-located interaction sites with HCN1. When coexpressed with HCN1 in heterologous cells individual TRIP8b isoforms similarly modulated gating of I(h), causing a hyperpolarizing shift in voltage dependence of channel activation, but differentially upregulated or downregulated I(h) current density and HCN1 surface expression. In hippocampal neurons, coexpression of TRIP8b isoforms with HCN1 produced isoform-specific changes of HCN1 localization. Interestingly, the TRIP8b isoforms most abundant in the brain are those predicted to enhance h channel surface expression. Indeed, shRNA knockdown of TRIP8b in hippocampal neurons significantly reduced native I(h). Thus, although TRIP8b exists in multiple splice isoforms, our data suggest that the predominant role of this protein in brain is to promote h channel surface expression and enhance I(h). Because I(h) expression is altered in models of several diseases, including temporal lobe epilepsy, TRIP8b may play a role in both normal neuronal function and in aberrant neuronal excitability associated with neurological disease.
+
+-Alternative Splicing
+-Animals
+-Base Sequence
+-Brain (+physiology)
+-Cell Line
+-Cells, Cultured
+-Cyclic Nucleotide-Gated Cation Channels (+metabolism)
+-Gene Knockdown Techniques
+-Hippocampus (-physiology)
+-Humans
+-Membrane Potentials (-physiology)
+-Membrane Proteins (+genetics; +metabolism)
+-Molecular Sequence Data
+-Neurons (+physiology)
+-Potassium Channels (+metabolism)
+-Protein Isoforms
+-Rats
+-Rats, Sprague-Dawley
+
+pii:29/19/6250
+doi:10.1523/JNEUROSCI.0856-09.2009
+pubmed:19439603
+mid:NIHMS119176
+pmc:PMC2730639
+

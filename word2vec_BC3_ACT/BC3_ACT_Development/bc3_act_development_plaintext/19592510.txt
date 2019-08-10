@@ -1,0 +1,35 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+R2R3-type MYB transcription factor, CmMYB1, is a central nitrogen assimilation regulator in Cyanidioschyzon merolae.
+
+S Imamura, Y Kanesaki, M Ohnuma, T Inouye, Y Sekine, T Fujiwara, T Kuroiwa, K Tanaka
+
+Plant cells sense environmental nitrogen levels and alter their gene expression accordingly to survive; however, the underlying regulatory mechanisms still remains to be elucidated. Here, we identified and characterized a transcription factor that is responsible for expression of nitrogen assimilation genes in a unicellular red alga Cyanidioschyzon merolae. DNA microarray and Northern blot analyses revealed that transcript of the gene encoding CmMYB1, an R2R3-type MYB transcription factor, increased 1 h after nitrogen depletion. The CmMYB1 protein started to accumulate after 2 h and reached a peak after 4 h after nitrogen depletion, correlating with the expression of key nitrogen assimilation genes, such as CmNRT, CmNAR, CmNIR, CmAMT, and CmGS. Although the transcripts of these nitrogen assimilation genes were detected in nitrate-grown cells, they disappeared upon the addition of preferred nitrogen source such as ammonium or glutamine, suggesting the presence of a nitrogen catabolite repression (NCR) mechanism. The nitrogen depletion-induced gene expression disappeared in a CmMYB1-null mutant, and the mutant showed decreased cell viability after exposure to the nitrogen-depleted conditions compared with the parental strain. Chromatin immunoprecipitation analysis demonstrated that CmMYB1 specifically occupied these nitrogen-responsive promoter regions only under nitrogen-depleted conditions, and electrophoretic mobility shift assays using crude cell extract revealed specific binding of CmMYB1, or a complex containing CmMYB1, to these promoters. Thus, the presented results indicated that CmMYB1 is a central nitrogen regulator in C. merolae.
+
+-Algae, Red (+genetics; -metabolism)
+-Algal Proteins (+genetics; -metabolism)
+-Binding Sites
+-Blotting, Northern
+-Chromatin Immunoprecipitation
+-Electrophoretic Mobility Shift Assay
+-Gene Expression (-drug effects)
+-Gene Expression Profiling
+-Glutamic Acid (-pharmacology)
+-Glutamine (-pharmacology)
+-Immunoblotting
+-Microscopy, Fluorescence
+-Mutation
+-Nitrates (-pharmacology)
+-Nitrogen (+metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Promoter Regions, Genetic (-genetics)
+-Protein Binding
+-Quaternary Ammonium Compounds (-pharmacology)
+-Response Elements (-genetics)
+-Transcription Factors (+genetics; -metabolism)
+
+pii:0902790106
+doi:10.1073/pnas.0902790106
+pubmed:19592510
+pmc:PMC2718362
+

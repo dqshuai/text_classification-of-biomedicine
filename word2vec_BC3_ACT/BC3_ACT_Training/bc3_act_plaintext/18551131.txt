@@ -1,0 +1,29 @@
+Cell Death Differ.
+
+Vaccinia virus anti-apoptotic F1L is a novel Bcl-2-like domain-swapped dimer that binds a highly selective subset of BH3-containing death ligands.
+
+M Kvansakul, H Yang, WD Fairlie, PE Czabotar, SF Fischer, MA Perugini, DC Huang, PM Colman
+
+Apoptosis is an important part of the host's defense mechanism for eliminating invading pathogens. Some viruses express proteins homologous in sequence and function to mammalian pro-survival Bcl-2 proteins. Anti-apoptotic F1L expressed by vaccinia virus is essential for survival of infected cells, but it bears no discernable sequence homology to proteins other than its immediate orthologues in related pox viruses. Here we report that the crystal structure of F1L reveals a Bcl-2-like fold with an unusual N-terminal extension. The protein forms a novel domain-swapped dimer in which the alpha1 helix is the exchanged domain. Binding studies reveal an atypical BH3-binding profile, with sub-micromolar affinity only for the BH3 peptide of pro-apoptotic Bim and low micromolar affinity for the BH3 peptides of Bak and Bax. This binding interaction is sensitive to F1L mutations within the predicted canonical BH3-binding groove, suggesting parallels between how vaccinia virus F1L and myxoma virus M11L bind BH3 domains. Structural comparison of F1L with other Bcl-2 family members reveals a novel sequence signature that redefines the BH4 domain as a structural motif present in both pro- and anti-apoptotic Bcl-2 members, including viral Bcl-2-like proteins.
+
+-Amino Acid Sequence
+-Apoptosis (-physiology)
+-Crystallography, X-Ray
+-Dimerization
+-Ligands
+-Models, Molecular
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Protein Binding
+-Protein Folding
++Protein Structure, Quaternary
++Protein Structure, Tertiary
+-Proto-Oncogene Proteins c-bcl-2 (+chemistry)
+-Recombinant Proteins (-chemistry; -genetics; -metabolism)
+-Sequence Alignment
+-Viral Proteins (+chemistry; -genetics; +metabolism)
+
+pii:cdd200883
+doi:10.1038/cdd.2008.83
+pubmed:18551131
+

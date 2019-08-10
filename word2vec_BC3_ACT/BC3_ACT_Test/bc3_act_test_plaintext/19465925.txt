@@ -1,0 +1,29 @@
+Nat. Biotechnol.
+
+Transfection of small RNAs globally perturbs gene regulation by endogenous microRNAs.
+
+AA Khan, D Betel, ML Miller, C Sander, CS Leslie, DS Marks
+
+Transfection of small RNAs (such as small interfering RNAs (siRNAs) and microRNAs (miRNAs)) into cells typically lowers expression of many genes. Unexpectedly, increased expression of genes also occurs. We investigated whether this upregulation results from a saturation effect--that is, competition among the transfected small RNAs and the endogenous pool of miRNAs for the intracellular machinery that processes small RNAs. To test this hypothesis, we analyzed genome-wide transcript responses from 151 published transfection experiments in seven different human cell types. We show that targets of endogenous miRNAs are expressed at significantly higher levels after transfection, consistent with impaired effectiveness of endogenous miRNA repression. This effect exhibited concentration and temporal dependence. Notably, the profile of endogenous miRNAs can be largely inferred by correlating miRNA sites with gene expression changes after transfections. The competition and saturation effects have practical implications for miRNA target prediction, the design of siRNA and short hairpin RNA (shRNA) genomic screens and siRNA therapeutics.
+
+-Cell Line
+-Cell Line, Tumor
+-Gene Expression Profiling
++Gene Expression Regulation
+-Gene Knockdown Techniques
+-Genes, cdc
+-Humans
++MicroRNAs (-genetics; -metabolism)
+-Models, Genetic
++RNA, Small Interfering (-genetics; -metabolism)
+-RNA-Induced Silencing Complex
+-Statistics, Nonparametric
++Transfection
+-Up-Regulation
+
+pii:nbt.1543
+doi:10.1038/nbt.1543
+pubmed:19465925
+mid:NIHMS142118
+pmc:PMC2782465
+

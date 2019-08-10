@@ -1,0 +1,28 @@
+J. Biol. Chem.
+
+Rpb9 subunit controls transcription fidelity by delaying NTP sequestration in RNA polymerase II.
+
+C Walmacq, ML Kireeva, J Irvin, Y Nedialkov, L Lubkowska, F Malagon, JN Strathern, M Kashlev
+
+Rpb9 is a small non-essential subunit of yeast RNA polymerase II located on the surface on the enzyme. Deletion of the RPB9 gene shows synthetic lethality with the low fidelity rpb1-E1103G mutation localized in the trigger loop, a mobile element of the catalytic Rpb1 subunit, which has been shown to control transcription fidelity. Similar to the rpb1-E1103G mutation, the RPB9 deletion substantially enhances NTP misincorporation and increases the rate of mismatch extension with the next cognate NTP in vitro. Using pre-steady state kinetic analysis, we show that RPB9 deletion promotes sequestration of NTPs in the polymerase active center just prior to the phosphodiester bond formation. We propose a model in which the Rpb9 subunit controls transcription fidelity by delaying the closure of the trigger loop on the incoming NTP via interaction between the C-terminal domain of Rpb9 and the trigger loop. Our findings reveal a mechanism for regulation of transcription fidelity by protein factors located at a large distance from the active center of RNA polymerase II.
+
+-Adenosine Triphosphate (-metabolism)
+-Base Sequence
+-Cytidine Triphosphate (-metabolism)
+-Fungal Proteins (-genetics; +metabolism)
+-Kinetics
+-Models, Molecular
+-Mutation
+-Nucleotides (+metabolism)
+-Protein Conformation
+-Protein Subunits (-chemistry; -genetics; -metabolism)
+-RNA Polymerase II (-chemistry; -genetics; +metabolism)
+-Time Factors
++Transcription, Genetic
+-Uridine Triphosphate (-metabolism)
+
+pii:M109.006908
+doi:10.1074/jbc.M109.006908
+pubmed:19439405
+pmc:PMC2740586
+

@@ -1,0 +1,24 @@
+Eukaryotic Cell
+
+C-5(6) sterol desaturase from tetrahymena thermophila: Gene identification and knockout, sequence analysis, and comparison to other C-5(6) sterol desaturases.
+
+AD Nusblat, SR Najle, ML Tomazic, AD Uttaro, CB Nudel
+
+The gene coding for a C-5(6) sterol desaturase in Tetrahymena thermophila, DES5A, has been identified by the knockout of the TTHERM_01194720 sequence. Macronucleus transformation was achieved by biolistic bombardment and gene replacement through phenotypic assortment, using paromomycin as the selective agent. A knockout cell line (KO270) showed a phenotype consistent with that of the DES5A deletion mutant. KO270 converted only 6% of the added sterol into the C-5 unsaturated derivative, while the wild type accumulated 10-fold larger amounts under similar conditions. The decreased desaturation activity is specific for the C-5(6) position of lathosterol and cholestanol; other desaturations, namely C-7(8) and C-22(23), were not affected. Analysis by reverse transcription-PCR reveals that DES5A is transcribed both in the presence and absence of cholestanol in wild-type cells, whereas the transcribed gene was not detected in KO270. The growth of KO270 was undistinguishable from that of the wild-type strain. Des5Ap resembles known C-5(6) sterol desaturases, displaying the three typical histidine motifs, four hydrophobic transmembrane regions, and two other highly conserved domains of unknown function. A phylogenetic analysis placed T. thermophila's enzyme and Paramecium orthologues in a cluster together with functionally characterized C-5 sterol desaturases from vertebrates, fungi, and plants, although in a different branch.
+
+-Amino Acid Sequence
+-Animals
+-Gene Knockout Techniques
+-Molecular Sequence Data
+-Oxidoreductases (-chemistry; +genetics; +metabolism)
+-Phylogeny
+-Protozoan Proteins (-chemistry; +genetics; +metabolism)
+-Sequence Alignment
+-Sterols (-chemistry; -metabolism)
+-Tetrahymena thermophila (-chemistry; -classification; +enzymology; -genetics)
+
+pii:EC.00057-09
+doi:10.1128/EC.00057-09
+pubmed:19525418
+pmc:PMC2725563
+

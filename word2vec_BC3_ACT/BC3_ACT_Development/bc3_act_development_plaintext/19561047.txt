@@ -1,0 +1,21 @@
+J. Exp. Bot.
+
+Exploring the importance of within-canopy spatial temperature variation on transpiration predictions.
+
+WL Bauerle, JD Bowden, GG Wang, MA Shahba
+
+Models seldom consider the effect of leaf-level biochemical acclimation to temperature when scaling forest water use. Therefore, the dependence of transpiration on temperature acclimation was investigated at the within-crown scale in climatically contrasting genotypes of Acer rubrum L., cv. October Glory (OG) and Summer Red (SR). The effects of temperature acclimation on intracanopy gradients in transpiration over a range of realistic forest growth temperatures were also assessed by simulation. Physiological parameters were applied, with or without adjustment for temperature acclimation, to account for transpiration responses to growth temperature. Both types of parameterization were scaled up to stand transpiration (expressed per unit leaf area) with an individual tree model (MAESTRA) to assess how transpiration might be affected by spatial and temporal distributions of foliage properties. The MAESTRA model performed well, but its reproducibility was dependent on physiological parameters acclimated to daytime temperature. Concordance correlation coefficients between measured and predicted transpiration were higher (0.95 and 0.98 versus 0.87 and 0.96) when model parameters reflected acclimated growth temperature. In response to temperature increases, the southern genotype (SR) transpiration responded more than the northern (OG). Conditions of elevated long-term temperature acclimation further separate their transpiration differences. Results demonstrate the importance of accounting for leaf-level physiological adjustments that are sensitive to microclimate changes and the use of provenance-, ecotype-, and/or genotype-specific parameter sets, two components likely to improve the accuracy of site-level and ecosystem-level estimates of transpiration flux.
+
+-Acer (-chemistry; +physiology)
+-Kinetics
+-Plant Leaves (-chemistry; +physiology)
++Plant Transpiration
+-Seasons
+-Temperature
+-Water (-metabolism)
+
+pii:erp206
+doi:10.1093/jxb/erp206
+pubmed:19561047
+pmc:PMC2736884
+

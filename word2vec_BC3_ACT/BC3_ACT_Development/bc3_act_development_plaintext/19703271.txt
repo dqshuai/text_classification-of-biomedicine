@@ -1,0 +1,31 @@
+BMC Genomics
+
+Rice sHsp genes: genomic organization and expression profiling under stress and development.
+
+NK Sarkar, YK Kim, A Grover
+
+BACKGROUND: Heat shock proteins (Hsps) constitute an important component in the heat shock response of all living systems. Among the various plant Hsps (i.e. Hsp100, Hsp90, Hsp70 and Hsp20), Hsp20 or small Hsps (sHsps) are expressed in maximal amounts under high temperature stress. The characteristic feature of the sHsps is the presence of alpha-crystallin domain (ACD) at the C-terminus. sHsps cooperate with Hsp100/Hsp70 and co-chaperones in ATP-dependent manner in preventing aggregation of cellular proteins and in their subsequent refolding. Database search was performed to investigate the sHsp gene family across rice genome sequence followed by comprehensive expression analysis of these genes. RESULTS: We identified 40 alpha-crystallin domain containing genes in rice. Phylogenetic analysis showed that 23 out of these 40 genes constitute sHsps. The additional 17 genes containing ACD clustered with Acd proteins of Arabidopsis. Detailed scrutiny of 23 sHsp sequences enabled us to categorize these proteins in a revised scheme of classification constituting of 16 cytoplasmic/nuclear, 2 ER, 3 mitochondrial, 1 plastid and 1 peroxisomal genes. In the new classification proposed herein nucleo-cytoplasmic class of sHsps with 9 subfamilies is more complex in rice than in Arabidopsis. Strikingly, 17 of 23 rice sHsp genes were noted to be intronless. Expression analysis based on microarray and RT-PCR showed that 19 sHsp genes were upregulated by high temperature stress. Besides heat stress, expression of sHsp genes was up or downregulated by other abiotic and biotic stresses. In addition to stress regulation, various sHsp genes were differentially upregulated at different developmental stages of the rice plant. Majority of sHsp genes were expressed in seed. CONCLUSION: We identified twenty three sHsp genes and seventeen Acd genes in rice. Three nucleocytoplasmic sHsp genes were found only in monocots. Analysis of expression profiling of sHsp genes revealed that these genes are differentially expressed under stress and at different stages in the life cycle of rice plant.
+
+-DNA, Plant (-genetics)
++Gene Expression Profiling
+-Gene Expression Regulation, Developmental
+-Gene Expression Regulation, Plant
+-Genes, Plant
++Genome, Plant
+-Heat-Shock Proteins (-genetics; +metabolism)
+-Hot Temperature
+-Multigene Family
+-Oligonucleotide Array Sequence Analysis
+-Oryza sativa (+genetics; -growth & development; -metabolism)
+-Phylogeny
+-Plant Proteins (-genetics; +metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Seeds (-genetics; -growth & development; -metabolism)
+-Sequence Analysis, DNA
+-Stress, Physiological
+
+pii:1471-2164-10-393
+doi:10.1186/1471-2164-10-393
+pubmed:19703271
+pmc:PMC2746236
+

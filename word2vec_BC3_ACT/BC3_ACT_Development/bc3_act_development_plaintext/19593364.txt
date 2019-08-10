@@ -1,0 +1,20 @@
+PLoS Comput. Biol.
+
+Analysis of the free-energy surface of proteins from reversible folding simulations.
+
+LR Allen, SV Krivov, E Paci
+
+Computer generated trajectories can, in principle, reveal the folding pathways of a protein at atomic resolution and possibly suggest general and simple rules for predicting the folded structure of a given sequence. While such reversible folding trajectories can only be determined ab initio using all-atom transferable force-fields for a few small proteins, they can be determined for a large number of proteins using coarse-grained and structure-based force-fields, in which a known folded structure is by construction the absolute energy and free-energy minimum. Here we use a model of the fast folding helical lambda-repressor protein to generate trajectories in which native and non-native states are in equilibrium and transitions are accurately sampled. Yet, representation of the free-energy surface, which underlies the thermodynamic and dynamic properties of the protein model, from such a trajectory remains a challenge. Projections over one or a small number of arbitrarily chosen progress variables often hide the most important features of such surfaces. The results unequivocally show that an unprojected representation of the free-energy surface provides important and unbiased information and allows a simple and meaningful description of many-dimensional, heterogeneous trajectories, providing new insight into the possible mechanisms of fast-folding proteins.
+
+-Computer Simulation
++Models, Chemical
+-Models, Molecular
+-Protein Conformation
++Protein Folding
+-Proteins (+chemistry)
+-Thermodynamics
+
+doi:10.1371/journal.pcbi.1000428
+pubmed:19593364
+pmc:PMC2700257
+

@@ -1,0 +1,20 @@
+BMC Genomics
+
+P2CS: a two-component system resource for prokaryotic signal transduction research.
+
+M Barakat, P Ortet, C Jourlin-Castelli, M Ansaldi, V Méjean, DE Whitworth
+
+BACKGROUND: With the escalation of high throughput prokaryotic genome sequencing, there is an ever-increasing need for databases that characterise, catalogue and present data relating to particular gene sets and genomes/metagenomes. Two-component system (TCS) signal transduction pathways are the dominant mechanisms by which micro-organisms sense and respond to external as well as internal environmental changes. These systems respond to a wide range of stimuli by triggering diverse physiological adjustments, including alterations in gene expression, enzymatic reactions, or protein-protein interactions. DESCRIPTION: We present P2CS (Prokaryotic 2-Component Systems), an integrated and comprehensive database of TCS signal transduction proteins, which contains a compilation of the TCS genes within 755 completely sequenced prokaryotic genomes and 39 metagenomes. P2CS provides detailed annotation of each TCS gene including family classification, sequence features, functional domains, as well as genomic context visualization. To bypass the generic problem of gene underestimation during genome annotation, we also constituted and searched an ORFeome, which improves the recovery of TCS proteins compared to searches on the equivalent proteomes. CONCLUSION: P2CS has been developed for computational analysis of the modular TCSs of prokaryotic genomes and metagenomes. It provides a complete overview of information on TCSs, including predicted candidate proteins and probable proteins, which need further curation/validation. The database can be browsed and queried with a user-friendly web interface at http://www.p2cs.org/.
+
+-Computational Biology (+methods)
++Databases, Protein
+-Genome, Archaeal
+-Genome, Bacterial
++Signal Transduction
+-User-Computer Interface
+
+pii:1471-2164-10-315
+doi:10.1186/1471-2164-10-315
+pubmed:19604365
+pmc:PMC2716373
+

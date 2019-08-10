@@ -1,0 +1,26 @@
+RNA
+
+A long-range RNA-RNA interaction between the 5' and 3' ends of the HCV genome.
+
+C Romero-López, A Berzal-Herranz
+
+The RNA genome of the hepatitis C virus (HCV) contains multiple conserved structural cis domains that direct protein synthesis, replication, and infectivity. The untranslatable regions (UTRs) play essential roles in the HCV cycle. Uncapped viral RNAs are translated via an internal ribosome entry site (IRES) located at the 5' UTR, which acts as a scaffold for recruiting multiple protein factors. Replication of the viral genome is initiated at the 3' UTR. Bioinformatics methods have identified other structural RNA elements thought to be involved in the HCV cycle. The 5BSL3.2 motif, which is embedded in a cruciform structure at the 3' end of the NS5B coding sequence, contributes to the three-dimensional folding of the entire 3' end of the genome. It is essential in the initiation of replication. This paper reports the identification of a novel, strand-specific, long-range RNA-RNA interaction between the 5' and 3' ends of the genome, which involves 5BSL3.2 and IRES motifs. Mutants harboring substitutions in the apical loop of domain IIId or in the internal loop of 5BSL3.2 disrupt the complex, indicating these regions are essential in initiating the kissing interaction. No complex was formed when the UTRs of the related foot and mouth disease virus were used in binding assays, suggesting this interaction is specific for HCV sequences. The present data firmly suggest the existence of a higher-order structure that may mediate a protein-independent circularization of the HCV genome. The 5'-3' end bridge may have a role in viral translation modulation and in the switch from protein synthesis to RNA replication.
+
++3' Flanking Region (-physiology)
++5' Flanking Region (-physiology)
+-Base Pairing (-physiology)
+-Base Sequence
+-Binding Sites
++Genome, Viral (-physiology)
+-Hepacivirus (+genetics)
+-Models, Theoretical
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-RNA, Viral (-chemistry; +metabolism)
+-Regulatory Sequences, Ribonucleic Acid (-genetics)
+
+pii:rna.1680809
+doi:10.1261/rna.1680809
+pubmed:19605533
+pmc:PMC2743058
+

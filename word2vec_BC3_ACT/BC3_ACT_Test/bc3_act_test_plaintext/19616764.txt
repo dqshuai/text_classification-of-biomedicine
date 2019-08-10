@@ -1,0 +1,23 @@
+Cell Host Microbe
+
+Regulation of cell death and innate immunity by two receptor-like kinases in Arabidopsis.
+
+M Gao, X Wang, D Wang, F Xu, X Ding, Z Zhang, D Bi, YT Cheng, S Chen, X Li, Y Zhang
+
+Upon recognition of bacterial flagellin, the plant receptor FLS2 heterodimerizes with brassinosteroid insensitive 1-associated receptor kinase 1 (BAK1) and activates plant defense responses. Because constitutive activation of defense responses is detrimental, plant resistance signaling pathways must be negatively controlled, although the mechanisms involved are unclear. We identified Arabidopsis BIR1 as a BAK1-interacting receptor-like kinase. Knocking out BIR1 leads to extensive cell death, activation of constitutive defense responses, and impairment in the activation of MPK4, a negative regulator of plant resistance (R) protein signaling, by flagellin. sobir1-1, a mutant obtained in a screen for suppressors of the bir1-1 phenotype, rescued cell death observed in bir1-1. SOBIR1 encodes another receptor-like kinase whose overexpression activates cell death and defense responses. Our data suggest that BIR1 negatively regulates multiple plant resistance signaling pathways, one of which is the SOBIR1-dependent pathway identified here.
+
++Apoptosis
+-Apoptosis Regulatory Proteins (-genetics; +physiology)
+-Arabidopsis (+immunology)
+-Arabidopsis Proteins (-metabolism; +physiology)
+-Bacterial Proteins (-immunology)
+-Flagellin (-immunology)
+-Gene Knockout Techniques
++Immunity, Innate
+-Mitogen-Activated Protein Kinases (-metabolism)
+-Protein-Serine-Threonine Kinases (+physiology)
+
+pii:S1931-3128(09)00190-5
+doi:10.1016/j.chom.2009.05.019
+pubmed:19616764
+

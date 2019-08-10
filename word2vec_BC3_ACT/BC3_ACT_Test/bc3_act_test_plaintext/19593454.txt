@@ -1,0 +1,17 @@
+PLoS ONE
+
+Modeling of the bacterial mechanism of methicillin-resistance by a systems biology approach.
+
+I Autiero, S Costantini, G Colonna
+
+BACKGROUND: A microorganism is a complex biological system able to preserve its functional features against external perturbations and the ability of the living systems to oppose to these external perturbations is defined "robustness". The antibiotic resistance, developed by different bacteria strains, is a clear example of robustness and of ability of the bacterial system to acquire a particular functional behaviour in response to environmental changes. In this work we have modeled the whole mechanism essential to the methicillin-resistance through a systems biology approach. The methicillin is a beta-lactamic antibiotic that act by inhibiting the penicillin-binding proteins (PBPs). These PBPs are involved in the synthesis of peptidoglycans, essential mesh-like polymers that surround cellular enzymes and are crucial for the bacterium survival. METHODOLOGY: The network of genes, mRNA, proteins and metabolites was created using CellDesigner program and the data of molecular interactions are stored in Systems Biology Markup Language (SBML). To simulate the dynamic behaviour of this biochemical network, the kinetic equations were associated with each reaction. CONCLUSIONS: Our model simulates the mechanism of the inactivation of the PBP by methicillin, as well as the expression of PBP2a isoform, the regulation of the SCCmec elements (SCC: staphylococcal cassette chromosome) and the synthesis of peptidoglycan by PBP2a. The obtained results by our integrated approach show that the model describes correctly the whole phenomenon of the methicillin resistance and is able to respond to the external perturbations in the same way of the real cell. Therefore, this model can be useful to develop new therapeutic approaches for the methicillin control and to understand the general mechanism regarding the cellular resistance to some antibiotics.
+
+-Bacteria (+drug effects)
++Methicillin Resistance
+-Models, Biological
++Systems Biology
+
+doi:10.1371/journal.pone.0006226
+pubmed:19593454
+pmc:PMC2707609
+

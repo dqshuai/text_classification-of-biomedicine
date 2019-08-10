@@ -1,0 +1,29 @@
+PLoS ONE
+
+IKKalpha and IKKbeta regulation of DNA damage-induced cleavage of huntingtin.
+
+A Khoshnan, J Ko, S Tescu, P Brundin, PH Patterson
+
+BACKGROUND: Proteolysis of huntingtin (Htt) plays a key role in the pathogenesis of Huntington's disease (HD). However, the environmental cues and signaling pathways that regulate Htt proteolysis are poorly understood. One stimulus may be the DNA damage that accumulates in neurons over time, and the subsequent activation of signaling pathways such as those regulated by IkappaB kinase (IKK), which can influence neurodegeneration in HD. METHODOLOGY/PRINCIPAL FINDINGS: We asked whether DNA damage induces the proteolysis of Htt and if activation of IKK plays a role. We report that treatment of neurons with the DNA damaging agent etoposide or gamma-irradiation promotes cleavage of wild type (WT) and mutant Htt, generating N-terminal fragments of 80-90 kDa. This event requires IKKbeta and is suppressed by IKKalpha. Elevated levels of IKKalpha, or inhibition of IKKbeta expression by a specific small hairpin RNA (shRNA) or its activity by sodium salicylate, prevents Htt proteolysis and increases neuronal resistance to DNA damage. Moreover, IKKbeta phosphorylates the anti-apoptotic protein Bcl-xL, a modification known to reduce Bcl-xL levels, and activates caspases that can cleave Htt. When IKKbeta expression is blocked, etoposide treatment does not decrease Bcl-xL and activation of caspases is diminished. Similar to silencing of IKKbeta, increasing the level of Bcl-xL in neurons prevents etoposide-induced caspase activation and Htt proteolysis. CONCLUSIONS/SIGNIFICANCE: These results indicate that DNA damage triggers cleavage of Htt and identify IKKbeta as a prominent regulator. Moreover, IKKbeta-dependent reduction of Bcl-xL is important in this process. Thus, inhibition of IKKbeta may promote neuronal survival in HD as well as other DNA damage-induced neurodegenerative disorders.
+
+-Animals
+-Caspases (-metabolism)
++DNA Damage
+-Etoposide (-pharmacology)
+-Humans
+-I-kappa B Kinase (+metabolism; +physiology)
+-Mice
+-Models, Biological
+-Mutation
+-Nerve Tissue Proteins (+metabolism)
+-Neurodegenerative Diseases (-pathology)
+-Neurons (-metabolism)
+-Nuclear Proteins (+metabolism)
+-Oligonucleotides (-chemistry)
+-Signal Transduction
+-bcl-X Protein (-metabolism)
+
+doi:10.1371/journal.pone.0005768
+pubmed:19488402
+pmc:PMC2685016
+

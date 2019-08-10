@@ -1,0 +1,23 @@
+Genetics
+
+Adaptive divergence in experimental populations of Pseudomonas fluorescens. IV. Genetic constraints guide evolutionary trajectories in a parallel adaptive radiation.
+
+MJ McDonald, SM Gehrig, PL Meintjes, XX Zhang, PB Rainey
+
+The capacity for phenotypic evolution is dependent upon complex webs of functional interactions that connect genotype and phenotype. Wrinkly spreader (WS) genotypes arise repeatedly during the course of a model Pseudomonas adaptive radiation. Previous work showed that the evolution of WS variation was explained in part by spontaneous mutations in wspF, a component of the Wsp-signaling module, but also drew attention to the existence of unknown mutational causes. Here, we identify two new mutational pathways (Aws and Mws) that allow realization of the WS phenotype: in common with the Wsp module these pathways contain a di-guanylate cyclase-encoding gene subject to negative regulation. Together, mutations in the Wsp, Aws, and Mws regulatory modules account for the spectrum of WS phenotype-generating mutations found among a collection of 26 spontaneously arising WS genotypes obtained from independent adaptive radiations. Despite a large number of potential mutational pathways, the repeated discovery of mutations in a small number of loci (parallel evolution) prompted the construction of an ancestral genotype devoid of known (Wsp, Aws, and Mws) regulatory modules to see whether the types derived from this genotype could converge upon the WS phenotype via a novel route. Such types-with equivalent fitness effects-did emerge, although they took significantly longer to do so. Together our data provide an explanation for why WS evolution follows a limited number of mutational pathways and show how genetic architecture can bias the molecular variation presented to selection.
+
+-Adaptation, Physiological (+genetics)
+-Bacterial Proteins (-genetics; -metabolism)
++Evolution, Molecular
++Genetic Variation
+-Genotype
+-Models, Genetic
+-Mutation
+-Phenotype
+-Pseudomonas fluorescens (+genetics)
+
+pii:genetics.109.107110
+doi:10.1534/genetics.109.107110
+pubmed:19704015
+pmc:PMC2778958
+

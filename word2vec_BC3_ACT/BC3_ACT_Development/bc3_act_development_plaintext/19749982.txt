@@ -1,0 +1,24 @@
+PLoS Comput. Biol.
+
+Eradication of chronic myeloid leukemia stem cells: a novel mathematical model predicts no therapeutic benefit of adding G-CSF to imatinib.
+
+J Foo, MW Drummond, B Clarkson, T Holyoake, F Michor
+
+Imatinib mesylate induces complete cytogenetic responses in patients with chronic myeloid leukemia (CML), yet many patients have detectable BCR-ABL transcripts in peripheral blood even after prolonged therapy. Bone marrow studies have shown that this residual disease resides within the stem cell compartment. Quiescence of leukemic stem cells has been suggested as a mechanism conferring insensitivity to imatinib, and exposure to the Granulocyte-Colony Stimulating Factor (G-CSF), together with imatinib, has led to a significant reduction in leukemic stem cells in vitro. In this paper, we design a novel mathematical model of stem cell quiescence to investigate the treatment response to imatinib and G-CSF. We find that the addition of G-CSF to an imatinib treatment protocol leads to observable effects only if the majority of leukemic stem cells are quiescent; otherwise it does not modulate the leukemic cell burden. The latter scenario is in agreement with clinical findings in a pilot study administering imatinib continuously or intermittently, with or without G-CSF (GIMI trial). Furthermore, our model predicts that the addition of G-CSF leads to a higher risk of resistance since it increases the production of cycling leukemic stem cells. Although the pilot study did not include enough patients to draw any conclusion with statistical significance, there were more cases of progression in the experimental arms as compared to continuous imatinib. Our results suggest that the additional use of G-CSF may be detrimental to patients in the clinic.
+
+-Antineoplastic Combined Chemotherapy Protocols (+pharmacology)
+-Cell Differentiation (-drug effects)
+-Computer Simulation
+-Drug Synergism
+-Granulocyte Colony-Stimulating Factor (-administration & dosage)
+-Humans
+-Leukemia, Myelogenous, Chronic, BCR-ABL Positive (+drug therapy; +pathology)
++Models, Biological
+-Neoplastic Stem Cells (+drug effects)
+-Piperazines (-administration & dosage)
+-Pyrimidines (-administration & dosage)
+
+doi:10.1371/journal.pcbi.1000503
+pubmed:19749982
+pmc:PMC2730033
+

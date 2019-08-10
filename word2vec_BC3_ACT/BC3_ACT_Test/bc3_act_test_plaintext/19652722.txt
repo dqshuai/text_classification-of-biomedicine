@@ -1,0 +1,17 @@
+PLoS ONE
+
+The validation and assessment of machine learning: a game of prediction from high-dimensional data.
+
+TH Pers, A Albrechtsen, C Holst, TI Sørensen, TA Gerds
+
+In applied statistics, tools from machine learning are popular for analyzing complex and high-dimensional data. However, few theoretical results are available that could guide to the appropriate machine learning tool in a new application. Initial development of an overall strategy thus often implies that multiple methods are tested and compared on the same set of data. This is particularly difficult in situations that are prone to over-fitting where the number of subjects is low compared to the number of potential predictors. The article presents a game which provides some grounds for conducting a fair model comparison. Each player selects a modeling strategy for predicting individual response from potential predictors. A strictly proper scoring rule, bootstrap cross-validation, and a set of rules are used to make the results obtained with different strategies comparable. To illustrate the ideas, the game is applied to data from the Nugenob Study where the aim is to predict the fat oxidation capacity based on conventional factors and high-dimensional metabolomics data. Three players have chosen to use support vector machines, LASSO, and random forests, respectively.
+
++Computers
+-Humans
++Learning
+-Models, Theoretical
+
+doi:10.1371/journal.pone.0006287
+pubmed:19652722
+pmc:PMC2716515
+

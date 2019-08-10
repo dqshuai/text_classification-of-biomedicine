@@ -1,0 +1,29 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Cell-type-specific isolation of ribosome-associated mRNA from complex tissues.
+
+E Sanz, L Yang, T Su, DR Morris, GS McKnight, PS Amieux
+
+Gene profiling techniques allow the assay of transcripts from organs, tissues, and cells with an unprecedented level of coverage. However, most of these approaches are still limited by the fact that organs and tissues are composed of multiple cell types that are each unique in their patterns of gene expression. To identify the transcriptome from a single cell type in a complex tissue, investigators have relied upon physical methods to separate cell types or in situ hybridization and immunohistochemistry. Here, we describe a strategy to rapidly and efficiently isolate ribosome-associated mRNA transcripts from any cell type in vivo. We have created a mouse line, called RiboTag, which carries an Rpl22 allele with a floxed wild-type C-terminal exon followed by an identical C-terminal exon that has three copies of the hemagglutinin (HA) epitope inserted before the stop codon. When the RiboTag mouse is crossed to a cell-type-specific Cre recombinase-expressing mouse, Cre recombinase activates the expression of epitope-tagged ribosomal protein RPL22(HA), which is incorporated into actively translating polyribosomes. Immunoprecipitation of polysomes with a monoclonal antibody against HA yields ribosome-associated mRNA transcripts from specific cell types. We demonstrate the application of this technique in brain using neuron-specific Cre recombinase-expressing mice and in testis using a Sertoli cell Cre recombinase-expressing mouse.
+
+-Animals
+-Brain (-metabolism)
+-Cell Line
+-Epitopes
+-Exons
++Genetic Techniques
+-Hemagglutinins (-chemistry)
+-Integrases (-metabolism)
+-Male
+-Mice
+-Mice, Transgenic
+-Neurons (-metabolism)
+-RNA, Messenger (+metabolism)
+-Ribosomes (+metabolism)
+-Sertoli Cells (-metabolism)
+
+pii:0907143106
+doi:10.1073/pnas.0907143106
+pubmed:19666516
+pmc:PMC2728999
+

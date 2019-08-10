@@ -1,0 +1,30 @@
+World J. Gastroenterol.
+
+Effective use of FibroTest to generate decision trees in hepatitis C.
+
+D Lau-Corona, LA Pineda, HH Avilés, G Gutiérrez-Reyes, BE Farfan-Labonne, R Núñez-Nateras, A Bonder, R Martínez-García, C Corona-Lau, MA Olivera-Martínez, MC Gutiérrez-Ruiz, G Robles-Díaz, D Kershenobich
+
+AIM: To assess the usefulness of FibroTest to forecast scores by constructing decision trees in patients with chronic hepatitis C. METHODS: We used the C4.5 classification algorithm to construct decision trees with data from 261 patients with chronic hepatitis C without a liver biopsy. The FibroTest attributes of age, gender, bilirubin, apolipoprotein, haptoglobin, alpha2 macroglobulin, and gamma-glutamyl transpeptidase were used as predictors, and the FibroTest score as the target. For testing, a 10-fold cross validation was used. RESULTS: The overall classification error was 14.9% (accuracy 85.1%). FibroTest's cases with true scores of F0 and F4 were classified with very high accuracy (18/20 for F0, 9/9 for F0-1 and 92/96 for F4) and the largest confusion centered on F3. The algorithm produced a set of compound rules out of the ten classification trees and was used to classify the 261 patients. The rules for the classification of patients in F0 and F4 were effective in more than 75% of the cases in which they were tested. CONCLUSION: The recognition of clinical subgroups should help to enhance our ability to assess differences in fibrosis scores in clinical studies and improve our understanding of fibrosis progression.
+
+-Adult
+-Aged
+-Algorithms
+-Apolipoprotein A-I (-metabolism)
+-Bilirubin (-metabolism)
+-Biological Markers (-metabolism)
++Decision Trees
+-Female
+-Forecasting
+-Haptoglobins (-metabolism)
++Hepatitis C, Chronic (-classification; -diagnosis; -pathology)
+-Humans
+-Liver (-metabolism; -pathology)
+-Male
+-Reproducibility of Results
+-Young Adult
+-alpha-Macroglobulins (-metabolism)
+-gamma-Glutamyltransferase (-metabolism)
+
+pubmed:19496191
+pmc:PMC2691492
+

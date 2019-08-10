@@ -1,0 +1,23 @@
+Biochemistry
+
+Crystal structure of the periplasmic region of MacB, a noncanonic ABC transporter.
+
+Y Xu, SH Sim, KH Nam, XL Jin, HM Kim, KY Hwang, K Lee, NC Ha
+
+MacB is a noncanonic ABC-type transporter within Gram-negative bacteria, which is responsible both for the efflux of macrolide antibiotics and for the secretion of heat-stable enterotoxin II. In Escherichia coli, MacB requires the membrane fusion protein MacA and the multifunctional outer membrane channel TolC to pump substrates to the external medium. Sequence analysis of MacB suggested that MacB has a relatively large periplasmic region. To gain insight into how MacB assembles with MacA and TolC, we determined the crystal structure of the periplasmic region of Actinobacillus actinomycetemcomitans MacB. Fold matching program reveals that parts of the MacB periplasmic region have structural motifs in common with the RND-type transporter AcrB. Since it behaved as a monomer in solution, our finding is consistent with the dimeric nature of full-length MacB, providing an insight into the assembly in the tripartite efflux pump.
+
+-ATP-Binding Cassette Transporters (+chemistry; -metabolism)
+-Amino Acid Sequence
+-Bacterial Proteins (+chemistry; -metabolism)
+-Escherichia coli (-genetics; -metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Pasteurellaceae (-metabolism)
+-Periplasm (-chemistry; -metabolism)
+-Protein Conformation
+-Recombinant Proteins (-chemistry; -genetics; -metabolism)
+-Sequence Alignment
+
+doi:10.1021/bi900415t
+pubmed:19432486
+

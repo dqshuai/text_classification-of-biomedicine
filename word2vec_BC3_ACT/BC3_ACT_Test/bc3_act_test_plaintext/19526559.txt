@@ -1,0 +1,22 @@
+Proteomics
+
+Confidence assessment for protein identification by using peptide-mass fingerprinting data.
+
+Z Song, L Chen, D Xu
+
+Protein identification using Peptide Mass Fingerprinting (PMF) data remains an important yet only partially solved problem. Current computational methods may lead to false positive identification since the top hit from a database search may not be the target protein. In addition, the identification scores assigned singly by a scoring function (raw scores) are not normalized. Therefore, the ranking based on raw scores may be biased. To address the above issue, we have developed a statistical model to evaluate the confidence of the raw score and to improve the ranking of proteins for identification. The results show that the statistical model better ranks the correct protein than the raw scores. Our study provides a new method to enhance the accuracy of protein identification by using PMF data. We incorporated the method into our software package "Protein-Decision" together with a user-friendly graphical interface. A standalone version of Protein-Decision is freely available at http://digbio.missouri.edu/ProteinDecision/.
+
+-Algorithms
+-Confidence Intervals
+-Mitogen-Activated Protein Kinase 1 (-chemistry)
++Models, Statistical
+-Peptide Fragments (+chemistry)
+-Peptide Mapping (+methods)
+-Proteins (-analysis; +chemistry)
++Software
+-Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization
+-User-Computer Interface
+
+doi:10.1002/pmic.200701159
+pubmed:19526559
+

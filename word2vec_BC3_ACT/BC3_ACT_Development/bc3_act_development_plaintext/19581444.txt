@@ -1,0 +1,25 @@
+Genetics
+
+The population genomics of trans-specific inversion polymorphisms in Anopheles gambiae.
+
+BJ White, C Cheng, D Sangaré, NF Lobo, FH Collins, NJ Besansky
+
+In the malaria mosquito Anopheles gambiae polymorphic chromosomal inversions may play an important role in adaptation to environmental variation. Recently, we used microarray-based divergence mapping combined with targeted resequencing to map nucleotide differentiation between alternative arrangements of the 2La inversion. Here, we applied the same technique to four different polymorphic inversions on the 2R chromosome of An. gambiae. Surprisingly, divergence was much lower between alternative arrangements for all 2R inversions when compared to the 2La inversion. For one of the rearrangements, 2Ru, we successfully mapped a very small region (approximately 100 kb) of elevated divergence. For the other three rearrangements, we did not identify any regions of significantly high divergence, despite ample independent evidence from natural populations of geographic clines and seasonal cycling, and stable heterotic polymorphisms in laboratory populations. If these inversions are the targets of selection as hypothesized, we suggest that divergence between rearrangements may have escaped detection due to retained ancestral polymorphism in the case of the youngest 2R rearrangements and to extensive gene flux in the older 2R inversion systems that segregate in both An. gambiae and its sibling species An. arabiensis.
+
+-Animals
+-Anopheles gambiae (+genetics)
+-Gene Expression Profiling
+-Genetic Speciation
+-Genome, Insect
+-Metagenomics (+methods)
+-Molecular Sequence Data
+-Oligonucleotide Array Sequence Analysis
++Polymorphism, Genetic (-genetics)
++Sequence Inversion (-genetics)
+-Species Specificity
+
+pii:genetics.109.105817
+doi:10.1534/genetics.109.105817
+pubmed:19581444
+pmc:PMC2746151
+

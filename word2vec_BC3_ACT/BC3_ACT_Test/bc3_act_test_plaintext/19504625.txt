@@ -1,0 +1,20 @@
+Yeast
+
+Additional cassettes for epitope and fluorescent fusion proteins in Candida albicans.
+
+M Gerami-Nejad, K Dulmage, J Berman
+
+Epitope tags that confer specific properties, including affinity for resins or antibodies or detection by fluorescence microscopy, are highly useful for biochemical and cell biological investigations. In Candida albicans and several other related yeasts, the CUG codon specifies serine instead of leucine, requiring that molecular tools be customized for use in this important human fungal pathogen. Here we report the construction of a set of plasmids containing 13-Myc, 3HA, GST, V5 or His9 epitope cassettes that facilitate PCR-mediated construction of epitope-tagged proteins. Common primer sets amplify the different tags with two different selectable markers. In addition, we report construction of a codon-optimized Discosoma red fluorescent protein (DsRFP) gene. Like mCherryRFP, this DsRFP signal is detectable in transformants at the colony level and is useful in double-labelling experiments with green fluorescent protein (GFP). Finally, we describe a construct that directs PCR-mediated two-step insertion of GFP internal to a coding sequence, which facilitates tagging of secreted proteins, including GPI-anchor cell wall proteins that require endogenous N- and C-termini for function. These reagents expand the repertoire of molecular tools available for working with C. albicans and other members of the CUG clade of pathogenic yeasts.
+
+-Candida albicans (+genetics)
+-Epitopes (+biosynthesis; -genetics)
++Genetic Vectors
+-Luminescent Proteins (+biosynthesis; -genetics)
+-Molecular Biology (+methods)
+-Plasmids
+-Recombinant Fusion Proteins (+biosynthesis; -genetics)
+-Staining and Labeling (-methods)
+
+doi:10.1002/yea.1674
+pubmed:19504625
+

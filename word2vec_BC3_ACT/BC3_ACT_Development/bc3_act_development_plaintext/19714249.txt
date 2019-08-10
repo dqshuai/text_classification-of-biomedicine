@@ -1,0 +1,26 @@
+PLoS ONE
+
+Powerful bivariate genome-wide association analyses suggest the SOX6 gene influencing both obesity and osteoporosis phenotypes in males.
+
+YZ Liu, YF Pei, JF Liu, F Yang, Y Guo, L Zhang, XG Liu, H Yan, L Wang, YP Zhang, S Levy, RR Recker, HW Deng
+
+BACKGROUND: Current genome-wide association studies (GWAS) are normally implemented in a univariate framework and analyze different phenotypes in isolation. This univariate approach ignores the potential genetic correlation between important disease traits. Hence this approach is difficult to detect pleiotropic genes, which may exist for obesity and osteoporosis, two common diseases of major public health importance that are closely correlated genetically. PRINCIPAL FINDINGS: To identify such pleiotropic genes and the key mechanistic links between the two diseases, we here performed the first bivariate GWAS of obesity and osteoporosis. We searched for genes underlying co-variation of the obesity phenotype, body mass index (BMI), with the osteoporosis risk phenotype, hip bone mineral density (BMD), scanning approximately 380,000 SNPs in 1,000 unrelated homogeneous Caucasians, including 499 males and 501 females. We identified in the male subjects two SNPs in intron 1 of the SOX6 (SRY-box 6) gene, rs297325 and rs4756846, which were bivariately associated with both BMI and hip BMD, achieving p values of 6.82x10(-7) and 1.47x10(-6), respectively. The two SNPs ranked at the top in significance for bivariate association with BMI and hip BMD in the male subjects among all the approximately 380,000 SNPs examined genome-wide. The two SNPs were replicated in a Framingham Heart Study (FHS) cohort containing 3,355 Caucasians (1,370 males and 1,985 females) from 975 families. In the FHS male subjects, the two SNPs achieved p values of 0.03 and 0.02, respectively, for bivariate association with BMI and femoral neck BMD. Interestingly, SOX6 was previously found to be essential to both cartilage formation/chondrogenesis and obesity-related insulin resistance, suggesting the gene's dual role in both bone and fat. CONCLUSIONS: Our findings, together with the prior biological evidence, suggest the SOX6 gene's importance in co-regulation of obesity and osteoporosis.
+
+-Adult
+-Aged
+-Cohort Studies
+-Female
++Genome-Wide Association Study
+-Humans
+-Male
+-Middle Aged
+-Obesity (+genetics)
+-Osteoporosis (+genetics)
+-Phenotype
+-Polymorphism, Single Nucleotide
+-SOXD Transcription Factors (+genetics)
+
+doi:10.1371/journal.pone.0006827
+pubmed:19714249
+pmc:PMC2730014
+

@@ -1,0 +1,26 @@
+Genetics
+
+The action of purifying selection, mutation and drift on fitness epistatic systems.
+
+A Pérez-Figueroa, A Caballero, A García-Dorado, C López-Fanjul
+
+For different fitness mutational models, with epistasis introduced, we simulated the consequences of drift (D scenario) or mutation, selection, and drift (MSD scenario) in populations at the MSD balance subsequently subjected to bottlenecks of size N = 2, 10, 50 during 100 generations. No "conversion" of nonadditive into additive variance was observed, all components of the fitness genetic variance initially increasing with the inbreeding coefficient F and subsequently decreasing to zero (D) or to an equilibrium value (MSD). In the D scenario, epistasis had no appreciable effect on inbreeding depression and that on the temporal change of variance components was relevant only for high rates of strong epistatic mutation. In parallel, between-line differentiation in mean fitness accelerated with F and that in additive variance reached a maximum at F approximately 0.6-0.7, both processes being intensified by strong epistasis. In the MSD scenario, however, the increase in additive variance was smaller, as it was used by selection to purge inbreeding depression (N > or = 10), and selection prevented between-line differentiation. Epistasis, either synergistic or antagonistic (this leading to multiple adaptive peaks), had no appreciable effect on MSD results nor, therefore, on the evolutionary rate of fitness change.
+
+-Animals
+-Computer Simulation
+-Drosophila melanogaster (-genetics)
+-Epistasis, Genetic (+physiology)
++Genetic Drift
++Genetic Fitness (-physiology)
+-Genetics, Population
+-Inbreeding
+-Linkage Disequilibrium
+-Models, Genetic
+-Mutation (+physiology)
++Selection, Genetic
+
+pii:genetics.109.104893
+doi:10.1534/genetics.109.104893
+pubmed:19596902
+pmc:PMC2746153
+

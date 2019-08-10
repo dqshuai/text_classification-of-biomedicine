@@ -1,0 +1,23 @@
+J. Mol. Biol.
+
+Relation of intracellular signal levels and promoter activities in the gal regulon of Escherichia coli.
+
+S Krishna, L Orosz, K Sneppen, S Adhya, S Semsey
+
+Transcription of many genes is regulated by combinations of multiple signals. In Escherichia coli, combinatorial control is typical in the case of operons related to utilization of different sugars in the absence of glucose. To understand regulation of the transport and metabolic pathways in the galactose system, we measured activities of the six gal regulon promoters simultaneously, using an in vitro transcription system containing purified components. Input functions were computed on the basis of the experimental measurements. We observed four different shapes of input functions. From the results, we can conclude that the structure of the regulatory network is insufficient for the determination of signal integration. It is the actual structure of the promoter and regulatory region, the mechanism of transcription regulation, and the interplay between transcription factors that shape the input function to be suitable for adaptation.
+
++Escherichia coli (-genetics; -metabolism)
+-Escherichia coli Proteins (-genetics; +metabolism)
+-Galactose (+metabolism)
++Gene Expression Regulation, Bacterial
++Promoter Regions, Genetic
+-Regulon (+genetics)
+-Signal Transduction (-physiology)
+-Transcription Factors (-genetics; -metabolism)
+
+pii:S0022-2836(09)00766-9
+doi:10.1016/j.jmb.2009.06.043
+pubmed:19559028
+mid:NIHMS127119
+pmc:PMC2779859
+

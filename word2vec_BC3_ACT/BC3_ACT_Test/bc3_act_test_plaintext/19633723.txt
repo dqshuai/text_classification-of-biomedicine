@@ -1,0 +1,20 @@
+PLoS ONE
+
+Repertoire of bovine miRNA and miRNA-like small regulatory RNAs expressed upon viral infection.
+
+EA Glazov, K Kongsuwan, W Assavalapsakul, PF Horwood, N Mitter, TJ Mahony
+
+MicroRNA (miRNA) and other types of small regulatory RNAs play a crucial role in the regulation of gene expression in eukaryotes. Several distinct classes of small regulatory RNAs have been discovered in recent years. To extend the repertoire of small RNAs characterized in mammals and to examine relationship between host miRNA expression and viral infection we used Illumina's ultrahigh throughput sequencing approach. We sequenced three small RNA libraries prepared from cell line derived from the adult bovine kidney under normal conditions and upon infection of the cell line with Bovine herpesvirus 1. We used a bioinformatics approach to distinguish authentic mature miRNA sequences from other classes of small RNAs and short RNA fragments represented in the sequencing data. Using this approach we detected 219 out of 356 known bovine miRNAs and 115 respective miRNA* sequences. In addition we identified five new bovine orthologs of known mammalian miRNAs and discovered 268 new cow miRNAs many of which are not identifiable in other mammalian genomes and thus might be specific to the ruminant lineage. In addition we found seven new bovine mirtron candidates. We also discovered 10 small nucleolar RNA (snoRNA) loci that give rise to small RNA with possible miRNA-like function. Results presented in this study extend our knowledge of the biology and evolution of small regulatory RNAs in mammals and illuminate mechanisms of small RNA biogenesis and function. New miRNA sequences and the original sequencing data have been submitted to miRNA repository (miRBase) and NCBI GEO archive respectively. We envisage that these resources will facilitate functional annotation of the bovine genome and promote further functional and comparative genomics studies of small regulatory RNA in mammals.
+
+-Animals
+-Base Sequence
+-Cattle
+-Cattle Diseases (+genetics)
+-MicroRNAs (+genetics)
+-Molecular Sequence Data
+-Virus Diseases (-genetics; +veterinary)
+
+doi:10.1371/journal.pone.0006349
+pubmed:19633723
+pmc:PMC2713767
+

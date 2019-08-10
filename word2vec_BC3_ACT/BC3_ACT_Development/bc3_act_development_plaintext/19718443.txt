@@ -1,0 +1,21 @@
+PLoS ONE
+
+Serum lipopolysaccharide binding protein levels predict severity of lung injury and mortality in patients with severe sepsis.
+
+J Villar, L Pérez-Méndez, E Espinosa, C Flores, J Blanco, A Muriel, S Basaldúa, M Muros, L Blanch, A Artigas, RM Kacmarek
+
+BACKGROUND: There is a need for biomarkers insuring identification of septic patients at high-risk for death. We performed a prospective, multicenter, observational study to investigate the time-course of lipopolysaccharide binding protein (LBP) serum levels in patients with severe sepsis and examined whether serial serum levels of LBP could be used as a marker of outcome. METHODOLOGY/PRINCIPAL FINDINGS: LBP serum levels at study entry, at 48 hours and at day-7 were measured in 180 patients with severe sepsis. Data regarding the nature of infections, disease severity, development of acute lung injury (ALI) and acute respiratory distress syndrome (ARDS), and intensive care unit (ICU) outcome were recorded. LBP serum levels were similar in survivors and non-survivors at study entry (117.4+/-75.7 microg/mL vs. 129.8+/-71.3 microg/mL, P = 0.249) but there were significant differences at 48 hours (77.2+/-57.0 vs. 121.2+/-73.4 microg/mL, P<0.0001) and at day-7 (64.7+/-45.8 vs. 89.7+/-61.1 microg/ml, p = 0.017). At 48 hours, LBP levels were significantly higher in ARDS patients than in ALI patients (112.5+/-71.8 microg/ml vs. 76.6+/-55.9 microg/ml, P = 0.0001). An increase of LBP levels at 48 hours was associated with higher mortality (odds ratio 3.97; 95%CI: 1.84-8.56; P<0.001). CONCLUSIONS/SIGNIFICANCE: Serial LBP serum measurements may offer a clinically useful biomarker for identification of patients with severe sepsis having the worst outcomes and the highest probability of developing sepsis-induced ARDS.
+
+-APACHE
+-Acute Lung Injury (-blood; -mortality; +physiopathology)
+-Acute-Phase Proteins
+-Carrier Proteins (+blood)
+-Humans
+-Membrane Glycoproteins (+blood)
+-Sepsis (-blood; -mortality; +physiopathology)
++Severity of Illness Index
+
+doi:10.1371/journal.pone.0006818
+pubmed:19718443
+pmc:PMC2730016
+

@@ -1,0 +1,28 @@
+DNA Repair (Amst.)
+
+Activity of ribonucleotide reductase helps determine how cells repair DNA double strand breaks.
+
+MD Burkhalter, SA Roberts, JM Havener, DA Ramsden
+
+Mammalian cells can choose either nonhomologous end joining (NHEJ) or homologous recombination (HR) for repair of chromosome breaks. Of these two pathways, HR alone requires extensive DNA synthesis and thus abundant synthesis precursors (dNTPs). We address here if this differing requirement for dNTPs helps determine how cells choose a repair pathway. Cellular dNTP pools are regulated primarily by changes in ribonucleotide reductase activity. We show that an inhibitor of ribonucleotide reductase (hydroxyurea) hypersensitizes NHEJ-deficient cells, but not wild type or HR-deficient cells, to chromosome breaks introduced by ionizing radiation. Hydroxyurea additionally reduces the frequency of irradiated cells with a marker for an early step in HR, Rad51 foci, consistent with reduced initiation of HR under these conditions. Conversely, promotion of ribonucleotide reductase activity protects NHEJ-deficient cells from ionizing radiation. Importantly, promotion of ribonucleotide reductase activity also increases usage of HR in cells proficient in both NHEJ and HR at a targeted chromosome break. Activity of ribonucleotide reductase is thus an important factor in determining how mammalian cells repair broken chromosomes. This may explain in part why G1/G0 cells, which have reduced ribonucleotide reductase activity, rely more on NHEJ for DSB repair.
+
+-Animals
+-Cell Cycle
+-Cell Line
+-Cricetinae
+-Cricetulus
+-DNA (-genetics; +metabolism)
++DNA Breaks, Double-Stranded
++DNA Repair
+-Rad51 Recombinase (-metabolism)
+-Recombination, Genetic
+-Ribonucleotide Reductases (+metabolism)
+-Substrate Specificity
+-Tumor Suppressor Protein p53 (-metabolism)
+
+pii:S1568-7864(09)00190-6
+doi:10.1016/j.dnarep.2009.07.009
+pubmed:19713159
+mid:NIHMS136370
+pmc:PMC2763971
+

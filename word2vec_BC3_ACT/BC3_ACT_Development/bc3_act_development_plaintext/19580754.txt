@@ -1,0 +1,29 @@
+Biophys. J.
+
+Characterization of antibiotic peptide pores using cryo-EM and comparison to neutron scattering.
+
+M Han, Y Mei, H Khant, SJ Ludtke
+
+Magainin, a 23-residue antibiotic peptide, interacts directly with the lipid bilayer leading to cell lysis in a strongly concentration-dependent fashion. Utilizing cryo-electron microscopy, we have directly observed magainin interacting with synthetic DMPC/DMPG membranes. Visual examination shows that visibly unperturbed vesicles are often found adjacent to vesicles that are lysed or porous, demonstrating that magainin disruption is a highly stochastic process. Quantitatively, power spectra of large numbers of porous vesicles can be averaged together to produce the equivalent of an electron scattering curve, which can be related to theory, simulation, and published neutron scattering experiments. We demonstrate that magainin-induced pores in lipid vesicles have a mean diameter of approximately 80 A, compatible with earlier reported results in multilayer stacks. In addition to establishing a connection between experiments in multilayer stacks and vesicles, this also demonstrates that computed power spectra from windowed-out regions of cryo-EM images can be compared to neutron scattering data in a meaningful way, even though the pores of interest cannot yet be individually identified in images. Cryo-EM offers direct imaging of systems in configurations closely related to in vivo conditions, whereas neutron scattering has a greater variety of mechanisms for specific contrast variation via D2O and deuterated lipids. Combined, the two mechanisms support each other, and provide a clearer picture of such 'soft' systems than either could provide alone.
+
+-Algorithms
+-Animals
+-Antimicrobial Cationic Peptides (+chemistry)
+-Computer Simulation
+-Dimyristoylphosphatidylcholine (-chemistry)
+-Liposomes (+chemistry)
+-Microscopy, Electron (-methods)
+-Models, Theoretical
+-Neutrons
+-Phosphatidylglycerols (-chemistry)
+-Scattering, Radiation
+-Stochastic Processes
+-Temperature
+-Xenopus
+-Xenopus Proteins (+chemistry)
+
+pii:S0006-3495(09)00905-9
+doi:10.1016/j.bpj.2009.04.039
+pubmed:19580754
+pmc:PMC2711362
+

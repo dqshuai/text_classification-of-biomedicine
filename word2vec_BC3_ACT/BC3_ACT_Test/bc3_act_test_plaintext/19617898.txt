@@ -1,0 +1,21 @@
+Oncogene
+
+Requirement of voltage-dependent anion channel 2 for pro-apoptotic activity of Bax.
+
+H Yamagata, S Shimizu, Y Nishida, Y Watanabe, WJ Craigen, Y Tsujimoto
+
+Mitochondrial membrane permeabilization is central to apoptotic signaling and is directly regulated by the Bcl-2 family of proteins, consisting of anti-apoptotic members and pro-apoptotic members, although the precise mechanisms involved remain elusive. When cells are deficient in both pro-apoptotic multidomain members of this family (Bax and Bak), mitochondrial membrane permeabilization does not occur in response to various apoptotic stimuli. We have previously reported that the voltage-dependent anion channel (VDAC or porin) plays a role in apoptotic mitochondrial membrane permeabilization by interacting with Bcl-2 family members. Here, we have provided additional evidence that VDAC2 is required for pro-apoptotic activity of Bax in the absence of Bak. In the absence of Bak, VDAC2-deficient cells showed strong resistance to various apoptotic stimuli, whereas re-introduction of the Vdac2 gene restored their apoptotic response. Consistently, silencing of VDAC2 in Bak-deficient cells, but not Bax-deficient cells, also conferred resistance to various apoptotic stimuli. In the absence of VDAC2 and Bak, the activation of Bax (assessed by mitochondrial membrane integration, conformational changes and oligomerization) was markedly impaired. Taken together, these findings indicate that VDAC2 is required for pro-apoptotic activity of Bax in the absence of Bak.
+
+-Animals
++Apoptosis
+-Cells, Cultured
+-Mice
+-Tunicamycin (-pharmacology)
+-Voltage-Dependent Anion Channel 2 (+physiology)
+-bcl-2 Homologous Antagonist-Killer Protein (-physiology)
+-bcl-2-Associated X Protein (+physiology)
+
+pii:onc2009213
+doi:10.1038/onc.2009.213
+pubmed:19617898
+

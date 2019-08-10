@@ -1,0 +1,31 @@
+PLoS Comput. Biol.
+
+Drug discovery using chemical systems biology: repositioning the safe medicine Comtan to treat multi-drug and extensively drug resistant tuberculosis.
+
+SL Kinnings, N Liu, N Buchmeier, PJ Tonge, L Xie, PE Bourne
+
+The rise of multi-drug resistant (MDR) and extensively drug resistant (XDR) tuberculosis around the world, including in industrialized nations, poses a great threat to human health and defines a need to develop new, effective and inexpensive anti-tubercular agents. Previously we developed a chemical systems biology approach to identify off-targets of major pharmaceuticals on a proteome-wide scale. In this paper we further demonstrate the value of this approach through the discovery that existing commercially available drugs, prescribed for the treatment of Parkinson's disease, have the potential to treat MDR and XDR tuberculosis. These drugs, entacapone and tolcapone, are predicted to bind to the enzyme InhA and directly inhibit substrate binding. The prediction is validated by in vitro and InhA kinetic assays using tablets of Comtan, whose active component is entacapone. The minimal inhibition concentration (MIC(99)) of entacapone for Mycobacterium tuberculosis (M.tuberculosis) is approximately 260.0 microM, well below the toxicity concentration determined by an in vitro cytotoxicity model using a human neuroblastoma cell line. Moreover, kinetic assays indicate that Comtan inhibits InhA activity by 47.0% at an entacapone concentration of approximately 80 microM. Thus the active component in Comtan represents a promising lead compound for developing a new class of anti-tubercular therapeutics with excellent safety profiles. More generally, the protocol described in this paper can be included in a drug discovery pipeline in an effort to discover novel drug leads with desired safety profiles, and therefore accelerate the development of new drugs.
+
+-Animals
+-Antitubercular Agents (+pharmacology)
+-Bacterial Proteins (-antagonists & inhibitors; -metabolism)
+-Benzophenones (-pharmacology)
+-Catechol O-Methyltransferase (-antagonists & inhibitors; -metabolism)
+-Catechols (+pharmacology)
+-Drug Discovery (+methods)
+-Enzyme Inhibitors (-pharmacology)
+-Extensively Drug-Resistant Tuberculosis (+drug therapy; -microbiology)
+-Humans
+-Microbial Sensitivity Tests
+-Mycobacterium tuberculosis (+drug effects; -enzymology)
+-Nitriles (+pharmacology)
+-Nitrophenols (-pharmacology)
+-Oxidoreductases (-antagonists & inhibitors; -metabolism)
+-Rats
+-Systems Biology (+methods)
+-Tuberculosis, Multidrug-Resistant (+drug therapy; -microbiology)
+
+doi:10.1371/journal.pcbi.1000423
+pubmed:19578428
+pmc:PMC2699117
+

@@ -1,0 +1,22 @@
+BMC Cell Biol.
+
+Bub2 regulation of cytokinesis and septation in budding yeast.
+
+SY Park, AE Cable, J Blair, KE Stockstill, KB Shannnon
+
+BACKGROUND: The mitotic exit network (MEN) is required for events at the end of mitosis such as degradation of mitotic cyclins and cytokinesis. Bub2 and its binding partner Bfa1 act as a GTPase activating protein (GAP) to negatively regulate the MEN GTPase Tem1. The Bub2/Bfa1 checkpoint pathway is required to delay the cell cycle in response to mispositioned spindles. In addition to its role in mitotic exit, Tem1 is required for actomyosin ring contraction. RESULTS: To test the hypothesis that the Bub2 pathway prevents premature actin ring assembly, we compared the timing of actin ring formation in wild type, bub2Delta, mad2Delta, and bub2Deltamad2Delta cells both with and without microtubules. There was no difference in the timing of actin ring formation between wild type and mutant cells in a synchronized cell cycle. In the presence of nocodazole, both bub2Delta and mad2Delta cells formed rings after a delay of the same duration. Double mutant bub2Deltamad2Delta and bfa1Deltamad2Delta cells formed rings at the same time with and without nocodazole. To determine if Bub2 has an effect on actomyosin ring contraction through its regulation of Tem1, we used live cell imaging of Myo1-GFP in a bub2Delta strain. We found a significant decrease in the total time of contraction and an increase in rate of contraction compared to wild type cells. We also examined myosin contraction using Myo1-GFP in cells overexpressing an epitope tagged Bub2. Surprisingly, overexpression of Bub2 also led to a significant increase in the rate of contraction, as well as morphological defects. The chained cell phenotype caused by Bub2 overexpression could be rescued by co-overexpression of Tem1, and was not rescued by deletion of BFA1. CONCLUSION: Our data indicate that the Bub2 checkpoint pathway does not have a specific role in delaying actin ring formation. The observed increase in the rate of myosin contraction in the bub2Delta strain provides evidence that the MEN regulates actomyosin ring contraction. Our data suggest that the overexpression of the Bub2 fusion protein acts as a dominant negative, leading to septation defects by a mechanism that is Tem1-dependent.
+
+-Actins (-biosynthesis)
+-Cell Cycle Proteins (-genetics; +metabolism)
++Cytokinesis (-genetics)
+-Cytoskeletal Proteins (-genetics; -metabolism)
+-Genes, Fungal (-physiology)
+-Myosins (-physiology)
+-Saccharomyces cerevisiae (-genetics; +metabolism; -ultrastructure)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+
+pii:1471-2121-10-43
+doi:10.1186/1471-2121-10-43
+pubmed:19490645
+pmc:PMC2701927
+

@@ -1,0 +1,22 @@
+PLoS ONE
+
+Prospective identification of malaria parasite genes under balancing selection.
+
+KK Tetteh, LB Stewart, LI Ochola, A Amambua-Ngwa, AW Thomas, K Marsh, GD Weedall, DJ Conway
+
+BACKGROUND: Endemic human pathogens are subject to strong immune selection, and interrogation of pathogen genome variation for signatures of balancing selection can identify important target antigens. Several major antigen genes in the malaria parasite Plasmodium falciparum have shown such signatures in polymorphism-versus-divergence indices (comparing with the chimpanzee parasite P. reichenowi), and in allele frequency based indices. METHODOLOGY/PRINCIPAL FINDINGS: To compare methods for prospective identification of genes under balancing selection, 26 additional genes known or predicted to encode surface-exposed proteins of the invasive blood stage merozoite were first sequenced from a panel of 14 independent P. falciparum cultured lines and P. reichenowi. Six genes at the positive extremes of one or both of the Hudson-Kreitman-Aguade (HKA) and McDonald-Kreitman (MK) indices were identified. Allele frequency based analysis was then performed on a Gambian P. falciparum population sample for these six genes and three others as controls. Tajima's D (TjD) index was most highly positive for the msp3/6-like PF10_0348 (TjD = 1.96) as well as the positive control ama1 antigen gene (TjD = 1.22). Across the genes there was a strong correlation between population TjD values and the relative HKA indices (whether derived from the population or the panel of cultured laboratory isolates), but no correlation with the MK indices. CONCLUSIONS/SIGNIFICANCE: Although few individual parasite genes show significant evidence of balancing selection, analysis of population genomic and comparative sequence data with the HKA and TjD indices should discriminate those that do, and thereby identify likely targets of immunity.
+
+-Animals
+-Gambia
+-Gene Frequency (-genetics)
+-Genes, Protozoan (-genetics)
+-Humans
+-Malaria, Falciparum (-parasitology)
+-Plasmodium falciparum (+genetics)
+-Polymorphism, Single Nucleotide (-genetics)
++Selection, Genetic
+
+doi:10.1371/journal.pone.0005568
+pubmed:19440377
+pmc:PMC2679211
+

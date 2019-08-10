@@ -1,0 +1,35 @@
+Cell
+
+Functional specificity of a Hox protein mediated by the recognition of minor groove structure.
+
+R Joshi, JM Passner, R Rohs, R Jain, A Sosinsky, MA Crickmore, V Jacob, AK Aggarwal, B Honig, RS Mann
+
+The recognition of specific DNA-binding sites by transcription factors is a critical yet poorly understood step in the control of gene expression. Members of the Hox family of transcription factors bind DNA by making nearly identical major groove contacts via the recognition helices of their homeodomains. In vivo specificity, however, often depends on extended and unstructured regions that link Hox homeodomains to a DNA-bound cofactor, Extradenticle (Exd). Using a combination of structure determination, computational analysis, and in vitro and in vivo assays, we show that Hox proteins recognize specific Hox-Exd binding sites via residues located in these extended regions that insert into the minor groove but only when presented with the correct DNA sequence. Our results suggest that these residues, which are conserved in a paralog-specific manner, confer specificity by recognizing a sequence-dependent DNA structure instead of directly reading a specific DNA sequence.
+
+-Amino Acid Sequence
+-Animals
+-Arginine (-metabolism)
+-DNA (+chemistry)
+-Drosophila Proteins (-chemistry; -metabolism)
+-Drosophila melanogaster (-cytology; -embryology; +metabolism)
+-Embryo, Nonmammalian (-cytology)
+-Enzyme Activation
+-Histidine (-metabolism)
+-Homeodomain Proteins (-chemistry; +metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Mutant Proteins (-metabolism)
+-Mutation (-genetics)
+-Nuclear Proteins (-chemistry; -metabolism)
++Nucleic Acid Conformation
+-Protein Binding
+-Static Electricity
+-Transcription Factors (-chemistry; -metabolism)
+-beta-Galactosidase (-metabolism)
+
+pii:S0092-8674(07)01212-3
+doi:10.1016/j.cell.2007.09.024
+pubmed:17981120
+mid:NIHMS33854
+pmc:PMC2709780
+

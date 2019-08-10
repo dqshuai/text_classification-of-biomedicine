@@ -1,0 +1,30 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Trim24 targets endogenous p53 for degradation.
+
+K Allton, AK Jain, HM Herz, WW Tsai, SY Jung, J Qin, A Bergmann, RL Johnson, MC Barton
+
+Numerous studies focus on the tumor suppressor p53 as a protector of genomic stability, mediator of cell cycle arrest and apoptosis, and target of mutation in 50% of all human cancers. The vast majority of information on p53, its protein-interaction partners and regulation, comes from studies of tumor-derived, cultured cells where p53 and its regulatory controls may be mutated or dysfunctional. To address regulation of endogenous p53 in normal cells, we created a mouse and stem cell model by knock-in (KI) of a tandem-affinity-purification (TAP) epitope at the endogenous Trp-53 locus. Mass spectrometry of TAP-purified p53-complexes from embryonic stem cells revealed Tripartite-motif protein 24 (Trim24), a previously unknown partner of p53. Mutation of TRIM24 homolog, bonus, in Drosophila led to apoptosis, which could be rescued by p53-depletion. These in vivo analyses establish TRIM24/bonus as a pathway that negatively regulates p53 in Drosophila. The Trim24-p53 link is evolutionarily conserved, as TRIM24 depletion in human breast cancer cells caused p53-dependent, spontaneous apoptosis. We found that Trim24 ubiquitylates and negatively regulates p53 levels, suggesting Trim24 as a therapeutic target to restore tumor suppression by p53.
+
+-Animals
+-Apoptosis (-genetics)
+-Cell Line, Tumor
+-Chromatin Immunoprecipitation
+-Chromatography, Gel
+-Drosophila
+-Drosophila Proteins (+genetics; +metabolism)
+-Gene Knock-In Techniques
+-Humans
+-Immunoblotting
+-Mass Spectrometry
+-Mice
+-Mutation (-genetics)
+-Tumor Suppressor Protein p53 (-genetics; +metabolism)
+-Ubiquitin-Protein Ligases (+metabolism)
+-Ubiquitination (+genetics)
+
+pii:0813177106
+doi:10.1073/pnas.0813177106
+pubmed:19556538
+pmc:PMC2710642
+

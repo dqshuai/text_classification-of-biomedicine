@@ -1,0 +1,22 @@
+BMC Bioinformatics
+
+Inferring novel disease indications for known drugs by semantically linking drug action and disease mechanism relationships.
+
+XA Qu, RC Gudivada, AG Jegga, EK Neumann, BJ Aronow
+
+BACKGROUND: Discovering that drug entities already approved for one disease are effective treatments for other distinct diseases can be highly beneficial and cost effective. To do this predictively, our conjecture is that a semantic infrastructure linking mechanistic relationships between pharmacologic entities and multidimensional knowledge of biological systems and disease processes will be highly enabling. RESULTS: To develop a knowledge framework capable of modeling and interconnecting drug actions and disease mechanisms across diverse biological systems contexts, we designed a Disease-Drug Correlation Ontology (DDCO), formalized in OWL, that integrates multiple ontologies, controlled vocabularies, and data schemas and interlinks these with diverse datasets extracted from pharmacological and biological domains. Using the complex disease Systemic Lupus Erythematosus (SLE) as an example, a high-dimensional pharmacome-diseasome graph network was generated as RDF XML, and subjected to graph-theoretic proximity and connectivity analytic approaches to rank drugs versus the compendium of SLE-associated genes, pathways, and clinical features. Tamoxifen, a current candidate therapeutic for SLE, was the highest ranked drug. CONCLUSION: This early stage demonstration highlights critical directions to follow that will enable translational pharmacotherapeutic research. The uniform application of Semantic Web methodology to problems in data integration, knowledge representation, and analysis provides an efficient and potentially powerful means to allow mining of drug action and disease mechanism relationships. Further improvements in semantic representation of mechanistic relationships will provide a fertile basis for accelerated drug repositioning, reasoning, and discovery across the spectrum of human disease.
+
+-Computational Biology (+methods)
+-Databases, Factual
++Drug Discovery
+-Humans
+-Information Storage and Retrieval
+-Lupus Erythematosus, Systemic (+drug therapy)
+-Tamoxifen (+pharmacology)
+-Vocabulary, Controlled
+
+pii:1471-2105-10-S5-S4
+doi:10.1186/1471-2105-10-S5-S4
+pubmed:19426461
+pmc:PMC2679404
+

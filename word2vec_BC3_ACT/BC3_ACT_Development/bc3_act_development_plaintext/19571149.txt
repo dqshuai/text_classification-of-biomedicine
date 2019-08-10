@@ -1,0 +1,34 @@
+J. Neurosci.
+
+Distinct cerebellar contributions to intrinsic connectivity networks.
+
+C Habas, N Kamdar, D Nguyen, K Prater, CF Beckmann, V Menon, MD Greicius
+
+Convergent data from various scientific approaches strongly implicate cerebellar systems in nonmotor functions. The functional anatomy of these systems has been pieced together from disparate sources, such as animal studies, lesion studies in humans, and structural and functional imaging studies in humans. To better define this distinct functional anatomy, in the current study we delineate the role of the cerebellum in several nonmotor systems simultaneously and in the same subjects using resting state functional connectivity MRI. Independent component analysis was applied to resting state data from two independent datasets to identify common cerebellar contributions to several previously identified intrinsic connectivity networks (ICNs) involved in executive control, episodic memory/self-reflection, salience detection, and sensorimotor function. We found distinct cerebellar contributions to each of these ICNs. The neocerebellum participates in (1) the right and left executive control networks (especially crus I and II), (2) the salience network (lobule VI), and (3) the default-mode network (lobule IX). Little to no overlap was detected between these cerebellar regions and the sensorimotor cerebellum (lobules V-VI). Clusters were also located in pontine and dentate nuclei, prominent points of convergence for cerebellar input and output, respectively. The results suggest that the most phylogenetically recent part of the cerebellum, particularly crus I and II, make contributions to parallel cortico-cerebellar loops involved in executive control, salience detection, and episodic memory/self-reflection. The largest portions of the neocerebellum take part in the executive control network implicated in higher cognitive functions such as working memory.
+
+-Adult
++Brain Mapping
+-Cerebellum (+anatomy & histology; -blood supply; +physiology)
+-Cerebral Cortex (-blood supply; -physiology)
+-Female
+-Functional Laterality
+-Humans
+-Image Processing, Computer-Assisted (-methods)
+-Magnetic Resonance Imaging (-methods)
+-Male
+-Models, Neurological
+-Nerve Net (-blood supply; +physiology)
+-Neural Pathways (-blood supply; -physiology)
+-Oxygen (-blood)
+-Principal Component Analysis
+-Problem Solving (+physiology)
+-Psychomotor Performance (-physiology)
+-Rest (-physiology)
+-Young Adult
+
+pii:29/26/8586
+doi:10.1523/JNEUROSCI.1868-09.2009
+pubmed:19571149
+mid:NIHMS128499
+pmc:PMC2742620
+

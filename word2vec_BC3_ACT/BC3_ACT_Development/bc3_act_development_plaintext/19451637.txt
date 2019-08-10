@@ -1,0 +1,26 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+The NADPH-dependent thioredoxin system constitutes a functional backup for cytosolic glutathione reductase in Arabidopsis.
+
+L Marty, W Siala, M Schwarzländer, MD Fricker, M Wirtz, LJ Sweetlove, Y Meyer, AJ Meyer, JP Reichheld, R Hell
+
+Tight control of cellular redox homeostasis is essential for protection against oxidative damage and for maintenance of normal metabolism as well as redox signaling events. Under oxidative stress conditions, the tripeptide glutathione can switch from its reduced form (GSH) to oxidized glutathione disulfide (GSSG), and thus, forms an important cellular redox buffer. GSSG is normally reduced to GSH by 2 glutathione reductase (GR) isoforms encoded in the Arabidopsis genome, cytosolic GR1 and GR2 dual-targeted to chloroplasts and mitochondria. Measurements of total GR activity in leaf extracts of wild-type and 2 gr1 deletion mutants revealed that approximately 65% of the total GR activity is attributed to GR1, whereas approximately 35% is contributed by GR2. Despite the lack of a large share in total GR activity, gr1 mutants do not show any informative phenotype, even under stress conditions, and thus, the physiological impact of GR1 remains obscure. To elucidate its role in plants, glutathione-specific redox-sensitive GFP was used to dynamically measure the glutathione redox potential (E(GSH)) in the cytosol. Using this tool, it is shown that E(GSH) in gr1 mutants is significantly shifted toward more oxidizing conditions. Surprisingly, dynamic reduction of GSSG formed during induced oxidative stress in gr1 mutants is still possible, although significantly delayed compared with wild-type plants. We infer that there is functional redundancy in this critical pathway. Integrated biochemical and genetic assays identify the NADPH-dependent thioredoxin system as a backup system for GR1. Deletion of both, NADPH-dependent thioredoxin reductase A and GR1, prevents survival due to a pollen lethal phenotype.
+
+-Arabidopsis (+enzymology; -genetics)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Cytosol (-metabolism)
+-Fertility
+-Gene Knockout Techniques
+-Glutathione Disulfide (-metabolism)
+-Glutathione Reductase (-genetics; +metabolism)
+-NADP (+metabolism)
+-Pollen (-enzymology; -genetics)
+-Thioredoxin-Disulfide Reductase (-genetics; -metabolism)
+-Thioredoxins (+metabolism)
+
+pii:0900206106
+doi:10.1073/pnas.0900206106
+pubmed:19451637
+pmc:PMC2690020
+

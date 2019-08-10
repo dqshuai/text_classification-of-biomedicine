@@ -1,0 +1,25 @@
+Biophys. J.
+
+Atomistic simulations of phosphatidylcholines and cholesteryl esters in high-density lipoprotein-sized lipid droplet and trilayer: clues to cholesteryl ester transport and storage.
+
+A Koivuniemi, M Heikelä, PT Kovanen, I Vattulainen, MT Hyvönen
+
+Cholesteryl esters (CEs) are the water-insoluble transport and storage form of cholesterol. For both transport and storage, phospholipids and proteins embrace the CEs to form an amphipathic monolayer that surrounds the CEs. CEs are transported extracellularly in lipoproteins and are stored intracellularly as cytoplasmic lipid droplets. To clarify the molecular phenomena related to the above structures, we conducted atomistic molecular-dynamics simulations for a spherical, approximately high density lipoprotein sized lipid droplet comprised of palmitoyl-oleoyl-phosphatidylcholine (POPC) and cholesteryl oleate (CO) molecules. An additional simulation was conducted for a lamellar lipid trilayer consisting of the same lipid constituents. The density profiles showed that COs were located in the core of the spherical droplet. In trilayer simulations, CO molecules were also in the core and formed two denser strata. This is remarkable because the intra- and intermolecular behaviors of the COs were similar to previous findings from bulk COs in the fluid phase. In accordance with previous experimental studies, the solubility of COs in the POPC monolayers was found to be low. The orientation distribution of the sterol moiety with respect to the normal of the system was found to be broad, with mainly isotropic or slightly parallel orientations observed deep in the core of the lipid droplet or the trilayer, respectively. In both systems, the orientation of the sterol moiety changed to perpendicular with respect to the normal close to the phopsholipid monolayers. Of interest, within the POPC monolayers, the intramolecular conformation of the COs varied from the previously proposed horseshoe-like conformation to a more extended one. From a metabolic point of view, the observed solubilization of CEs into the phospholipid monolayers, and the conformation of CEs in the phospholipid monolayers are likely to be important regulatory factors of CE transport and hydrolysis.
+
+-Biological Transport
+-Cell Membrane (-chemistry; +metabolism)
+-Cholesterol Esters (-chemistry; +metabolism)
+-Intracellular Space (-metabolism)
+-Lipoproteins, HDL (-chemistry; +metabolism)
+-Models, Biological
++Models, Molecular
+-Molecular Conformation
+-Phosphatidylcholines (-chemistry; +metabolism)
+-Solubility
+-Surface Properties
+
+pii:S0006-3495(09)00656-0
+doi:10.1016/j.bpj.2009.01.058
+pubmed:19450481
+pmc:PMC2712190
+

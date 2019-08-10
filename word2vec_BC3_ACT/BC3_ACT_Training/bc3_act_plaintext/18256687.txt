@@ -1,0 +1,26 @@
+EMBO J.
+
+WGEF activates Rho in the Wnt-PCP pathway and controls convergent extension in Xenopus gastrulation.
+
+K Tanegashima, H Zhao, IB Dawid
+
+The Wnt-PCP (planar cell polarity, PCP) pathway regulates cell polarity and convergent extension movements during axis formation in vertebrates by activation of Rho and Rac, leading to the re-organization of the actin cytoskeleton. Rho and Rac activation require guanine nucleotide-exchange factors (GEFs), but the identity of the GEF involved in Wnt-PCP-mediated convergent extension is unknown. Here we report the identification of the weak-similarity GEF (WGEF) gene by a microarray-based screen for notochord enriched genes, and show that WGEF is involved in Wnt-regulated convergent extension. Overexpression of WGEF activated RhoA and rescued the suppression of convergent extension by dominant-negative Wnt-11, whereas depletion of WGEF led to suppression of convergent extension that could be rescued by RhoA or Rho-associated kinase activation. WGEF protein preferentially localized at the plasma membrane, and Frizzled-7 induced colocalization of Dishevelled and WGEF. WGEF protein can bind to Dishevelled and Daam-1, and deletion of the Dishevelled-binding domain generates a hyperactive from of WGEF. These results indicate that WGEF is a component of the Wnt-PCP pathway that connects Dishevelled to Rho activation.
+
+-Adaptor Proteins, Signal Transducing (-metabolism)
+-Animals
+-Cell Line
+-Cell Polarity
++Gastrulation
+-Guanine Nucleotide Exchange Factors (-genetics; +metabolism)
+-Humans
+-Notochord (-metabolism)
+-Phosphoproteins (-metabolism)
+-Wnt Proteins (+metabolism)
+-Xenopus laevis (-physiology)
+-rho GTP-Binding Proteins (+metabolism)
+
+pii:emboj20089
+doi:10.1038/emboj.2008.9
+pubmed:18256687
+pmc:PMC2262038
+

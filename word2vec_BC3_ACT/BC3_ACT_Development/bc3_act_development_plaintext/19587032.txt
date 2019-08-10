@@ -1,0 +1,26 @@
+J. Virol.
+
+Role for the paramyxovirus genomic promoter in limiting host cell antiviral responses and cell killing.
+
+MJ Manuse, GD Parks
+
+The parainfluenza virus simian virus 5 (SV5) is a poor inducer of innate immune responses. In contrast, the naturally occurring SV5 variant Wake Forest parainfluenza virus (WF-PIV) activates the synthesis of proinflammatory cytokines and beta interferon (IFN-beta). Comparison of SV5 and WF-PIV genome sequences revealed nine nucleotide differences within the viral genomic promoter, including two substitutions (U5C and A14G) in the most highly conserved 3'-end promoter element. To test the consequences of these promoter variations, a recombinant SV5 mutant [Le-(U5C, A14G)] was engineered to harbor the two WF-PIV genomic promoter substitutions in an otherwise wild-type (WT) SV5 background. Human lung epithelial cells infected with the Le-(U5C, A14G) mutant had higher rates of viral protein synthesis and levels of mRNA than cells infected with WT SV5, but levels of genomic RNA were not changed. Unlike WT SV5, the Le-(U5C, A14G) mutant was a potent inducer of interleukin-6 and IFN-beta synthesis, despite expressing a functional V protein antagonist. Cytokine responses to Le-(U5C, A14G) infection were reduced either by small interfering RNA-mediated knockdown of retinoic acid-inducible gene I (RIG-I) or after infection of cells that were engineered to express the reovirus sigma3 double-stranded RNA-binding protein. Le-(U5C, A14G) induced cytopathic effects not seen with WT SV5, and the extent of cell killing correlated with elevated levels of viral F protein and cell-cell fusion. Our results support a model whereby the SV5 promoter has evolved to function at an attenuated level in order to limit (i) synthesis of aberrant RNAs which induce RIG-I-mediated responses and (ii) overproduction of mRNA for potentially toxic gene products, such as the F protein. Control of genomic promoter activity may be particularly important for viruses such as SV5, that express a V protein targeting mda-5 but do not encode antagonists such as the paramyxovirus C proteins, that specifically target RIG-I.
+
+-Cells, Cultured
+-Genetic Variation
+-Genome, Viral (+immunology)
+-Humans
++Immunity, Innate
+-Paramyxovirinae (-immunology; -pathogenicity)
+-Point Mutation
+-Promoter Regions, Genetic (+genetics)
+-Protein Biosynthesis
+-RNA, Viral (-genetics)
+-Simian virus 5 (-immunology; +pathogenicity)
+-Viral Proteins
+
+pii:JVI.01055-09
+doi:10.1128/JVI.01055-09
+pubmed:19587032
+pmc:PMC2738250
+

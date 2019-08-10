@@ -1,0 +1,31 @@
+Oncogene
+
+Impaired p53 binding to importin: a novel mechanism of cytoplasmic sequestration identified in oxaliplatin-resistant cells.
+
+E Komlodi-Pasztor, S Trostel, D Sackett, M Poruchynsky, T Fojo
+
+Previous studies have described one nuclear localization signal (NLSI) in p53 and speculated on two additional sites termed NLSII and NLSIII. Drug-resistant KB cells selected with cisplatin or oxaliplatin were found to have increased p53 levels and in oxaliplatin-selected cells, a larger p53 predominantly in the cytoplasm. In oxaliplatin-selected cells a single nucleotide deletion in the sequence-encoding amino acid 382, part of NLSIII, resulted in a frame shift and a 420 amino acid protein (p53(420)). We investigated explanations for the cytoplasmic sequestration of p53(420) while assessing the role, if any, of NLSII and NLSIII in p53 nuclear import. We found that neither NLSII nor NLSIII are essential for p53 nuclear localization. Furthermore, we confirmed p53(420) is able to tetramerize, transactivate a p21 promoter, bind dynein and that the reduced nuclear accumulation is not a consequence of increased p53 nuclear export. However, the association of p53(420) with importin-beta, essential for nuclear import, was significantly impaired. We conclude that despite sequence similarity to consensus NLSs neither NLSII nor NLSIII have roles in p53 nuclear transport. We also identified impaired association with importin as a novel mechanism of p53 cytoplasmic sequestration that impairs nuclear transport rendering cells functionally deficient in p53.
+
+-Antineoplastic Agents (+pharmacology)
+-Biological Transport, Active
+-Cell Line, Tumor
+-Cell Nucleus (-metabolism)
+-Cytoplasm (-metabolism)
+-Drug Resistance, Neoplasm (+drug effects)
+-Frameshift Mutation
+-Humans
+-Inhibitory Concentration 50
+-KB Cells
+-Mutation
+-Nuclear Proteins (-metabolism)
+-Organoplatinum Compounds (+pharmacology)
+-Protein Binding (-genetics)
+-Tumor Suppressor Protein p53 (-genetics; +metabolism)
+-beta Karyopherins (-genetics; +metabolism)
+
+pii:onc2009166
+doi:10.1038/onc.2009.166
+pubmed:19581934
+mid:NIHMS190407
+pmc:PMC2867326
+

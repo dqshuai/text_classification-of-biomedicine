@@ -1,0 +1,23 @@
+Biochemistry
+
+Escherichia coli DNA adenine methyltransferase: intrasite processivity and substrate-induced dimerization and activation.
+
+SR Coffin, NO Reich
+
+Methylation of GATC sites in Escherichia coli by DNA adenine methyltransferase (EcoDam) is essential for proper DNA replication timing, gene regulation, and mismatch repair. The low cellular concentration of EcoDam and the high number of GATC sites in the genome (approximately 20000) support the reliance on methylation efficiency-enhancing strategies such as extensive intersite processivity. Here, we present evidence that EcoDam has evolved other unique mechanisms of activation not commonly observed with restriction-modification methyltransferases. EcoDam dimerizes on short, synthetic DNA, resulting in enhanced catalysis; however, dimerization is not observed on large genomic DNA where the potential for intersite processive methylation precludes any dimerization-dependent activation. An activated form of the enzyme is apparent on large genomic DNA and can also be achieved with high concentrations of short, synthetic substrates. We suggest that this activation is inherent on polymeric DNA where either multiple GATC sites are available for methylation or the partitioning of the enzyme onto nonspecific DNA is favored. Unlike other restriction-modification methyltransferases, EcoDam carries out intrasite processive catalysis whereby the enzyme-DNA complex methylates both strands of an unmethylated GATC site prior to dissociation from the DNA. This occurs with short 21 bp oligonucleotides and is highly dependent upon salt concentrations. Kinetic modeling which invokes enzyme activation by both dimerization and excess substrate provides mechanistic insights into key regulatory checkpoints for an enzyme involved in multiple, diverse biological pathways.
+
+-Catalysis
+-DNA Methylation
+-DNA, Bacterial (-chemistry; -metabolism; -physiology)
+-Dimerization
+-Enzyme Activation
+-Escherichia coli Proteins (+chemistry; +metabolism; -physiology)
+-Kinetics
+-Protein Processing, Post-Translational
+-Signal Transduction
+-Site-Specific DNA-Methyltransferase (Adenine-Specific) (+chemistry; +metabolism; -physiology)
+-Substrate Specificity
+
+doi:10.1021/bi9008006
+pubmed:19580332
+

@@ -1,0 +1,22 @@
+BMC Bioinformatics
+
+An XML transfer schema for exchange of genomic and genetic mapping data: implementation as a web service in a Taverna workflow.
+
+T Paterson, A Law
+
+BACKGROUND: Genomic analysis, particularly for less well-characterized organisms, is greatly assisted by performing comparative analyses between different types of genome maps and across species boundaries. Various providers publish a plethora of on-line resources collating genome mapping data from a multitude of species. Datasources range in scale and scope from small bespoke resources for particular organisms, through larger web-resources containing data from multiple species, to large-scale bioinformatics resources providing access to data derived from genome projects for model and non-model organisms. The heterogeneity of information held in these resources reflects both the technologies used to generate the data and the target users of each resource. Currently there is no common information exchange standard or protocol to enable access and integration of these disparate resources. Consequently data integration and comparison must be performed in an ad hoc manner. RESULTS: We have developed a simple generic XML schema (GenomicMappingData.xsd - GMD) to allow export and exchange of mapping data in a common lightweight XML document format. This schema represents the various types of data objects commonly described across mapping datasources and provides a mechanism for recording relationships between data objects. The schema is sufficiently generic to allow representation of any map type (for example genetic linkage maps, radiation hybrid maps, sequence maps and physical maps). It also provides mechanisms for recording data provenance and for cross referencing external datasources (including for example ENSEMBL, PubMed and Genbank.). The schema is extensible via the inclusion of additional datatypes, which can be achieved by importing further schemas, e.g. a schema defining relationship types. We have built demonstration web services that export data from our ArkDB database according to the GMD schema, facilitating the integration of data retrieval into Taverna workflows. CONCLUSION: The data exchange standard we present here provides a useful generic format for transfer and integration of genomic and genetic mapping data. The extensibility of our schema allows for inclusion of additional data and provides a mechanism for typing mapping objects via third party standards. Web services retrieving GMD-compliant mapping data demonstrate that use of this exchange standard provides a practical mechanism for achieving data integration, by facilitating syntactically and semantically-controlled access to the data.
+
+-Computational Biology (+methods)
+-Database Management Systems
+-Databases, Genetic
+-Genome (+genetics)
+-Information Storage and Retrieval (+methods)
++Internet
++Programming Languages
++Software
+
+pii:1471-2105-10-252
+doi:10.1186/1471-2105-10-252
+pubmed:19682365
+pmc:PMC2743669
+

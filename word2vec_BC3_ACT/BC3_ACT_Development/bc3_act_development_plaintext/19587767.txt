@@ -1,0 +1,23 @@
+Nature
+
+DNA sequence motifs for structure-specific recognition and separation of carbon nanotubes.
+
+X Tu, S Manohar, A Jagota, M Zheng
+
+Single-walled carbon nanotubes (SWNTs) are a family of molecules that have the same cylindrical shape but different chiralities. Many fundamental studies and technological applications of SWNTs require a population of tubes with identical chirality that current syntheses cannot provide. The SWNT sorting problem-that is, separation of a synthetic mixture of tubes into individual single-chirality components-has attracted considerable attention in recent years. Intense efforts so far have focused largely on, and resulted in solutions for, a weaker version of the sorting problem: metal/semiconductor separation. A systematic and general method to purify each and every single-chirality species of the same electronic type from the synthetic mixture of SWNTs is highly desirable, but the task has proven to be insurmountable to date. Here we report such a method, which allows purification of all 12 major single-chirality semiconducting species from a synthetic mixture, with sufficient yield for both fundamental studies and application development. We have designed an effective search of a DNA library of approximately 10(60) in size, and have identified more than 20 short DNA sequences, each of which recognizes and enables chromatographic purification of a particular nanotube species from the synthetic mixture. Recognition sequences exhibit a periodic purine-pyrimidines pattern, which can undergo hydrogen-bonding to form a two-dimensional sheet, and fold selectively on nanotubes into a well-ordered three-dimensional barrel. We propose that the ordered two-dimensional sheet and three-dimensional barrel provide the structural basis for the observed DNA recognition of SWNTs.
+
+-Base Sequence
+-Chemical Fractionation (+methods)
+-DNA (+chemistry; -genetics)
+-Gene Library
+-Models, Molecular
+-Nanotubes, Carbon (+chemistry)
+-Nucleic Acid Conformation
+-Sensitivity and Specificity
+-Spectrophotometry
+-Substrate Specificity
+
+pii:nature08116
+doi:10.1038/nature08116
+pubmed:19587767
+

@@ -1,0 +1,27 @@
+Genome Res.
+
+High definition profiling of mammalian DNA methylation by array capture and single molecule bisulfite sequencing.
+
+E Hodges, AD Smith, J Kendall, Z Xuan, K Ravi, M Rooks, MQ Zhang, K Ye, A Bhattacharjee, L Brizuela, WR McCombie, M Wigler, GJ Hannon, JB Hicks
+
+DNA methylation stabilizes developmentally programmed gene expression states. Aberrant methylation is associated with disease progression and is a common feature of cancer genomes. Presently, few methods enable quantitative, large-scale, single-base resolution mapping of DNA methylation states in desired regions of a complex mammalian genome. Here, we present an approach that combines array-based hybrid selection and massively parallel bisulfite sequencing to profile DNA methylation in genomic regions spanning hundreds of thousands of bases. This single molecule strategy enables methylation variable positions to be quantitatively examined with high sampling precision. Using bisulfite capture, we assessed methylation patterns across 324 randomly selected CpG islands (CGI) representing more than 25,000 CpG sites. A single lane of Illumina sequencing permitted methylation states to be definitively called for >90% of target sties. The accuracy of the hybrid-selection approach was verified using conventional bisulfite capillary sequencing of cloned PCR products amplified from a subset of the selected regions. This confirmed that even partially methylated states could be successfully called. A comparison of human primary and cancer cells revealed multiple differentially methylated regions. More than 25% of islands showed complex methylation patterns either with partial methylation states defining the entire CGI or with contrasting methylation states appearing in specific regional blocks within the island. We observed that transitions in methylation state often correlate with genomic landmarks, including transcriptional start sites and intron-exon junctions. Methylation, along with specific histone marks, was enriched in exonic regions, suggesting that chromatin states can foreshadow the content of mature mRNAs.
+
+-Breast Neoplasms (-genetics)
+-Cell Line, Tumor
+-CpG Islands (+genetics)
++DNA Methylation
+-Female
+-Gene Expression Profiling
+-Genome, Human
+-Humans
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Polymorphism, Single Nucleotide
+-Sequence Analysis, DNA (+methods)
+-Skin Neoplasms (-genetics)
+-Sulfites (+chemistry)
+
+pii:gr.095190.109
+doi:10.1101/gr.095190.109
+pubmed:19581485
+pmc:PMC2752124
+

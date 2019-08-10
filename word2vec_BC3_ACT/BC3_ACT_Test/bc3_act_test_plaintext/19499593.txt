@@ -1,0 +1,28 @@
+Protein Sci.
+
+Insight into a strategy for attenuating AmpC-mediated beta-lactam resistance: structural basis for selective inhibition of the glycoside hydrolase NagZ.
+
+MD Balcewich, KA Stubbs, Y He, TW James, GJ Davies, DJ Vocadlo, BL Mark
+
+NagZ is an exo-N-acetyl-beta-glucosaminidase, found within Gram-negative bacteria, that acts in the peptidoglycan recycling pathway to cleave N-acetylglucosamine residues off peptidoglycan fragments. This activity is required for resistance to cephalosporins mediated by inducible AmpC beta-lactamase. NagZ uses a catalytic mechanism involving a covalent glycosyl enzyme intermediate, unlike that of the human exo-N-acetyl-beta-glucosaminidases: O-GlcNAcase and the beta-hexosaminidase isoenzymes. These latter enzymes, which remove GlcNAc from glycoconjugates, use a neighboring-group catalytic mechanism that proceeds through an oxazoline intermediate. Exploiting these mechanistic differences we previously developed 2-N-acyl derivatives of O-(2-acetamido-2-deoxy-D-glucopyranosylidene)amino-N-phenylcarbamate (PUGNAc), which selectively inhibits NagZ over the functionally related human enzymes and attenuate antibiotic resistance in Gram-negatives that harbor inducible AmpC. To understand the structural basis for the selectivity of these inhibitors for NagZ, we have determined its crystallographic structure in complex with N-valeryl-PUGNAc, the most selective known inhibitor of NagZ over both the human beta-hexosaminidases and O-GlcNAcase. The selectivity stems from the five-carbon acyl chain of N-valeryl-PUGNAc, which we found ordered within the enzyme active site. In contrast, a structure determination of a human O-GlcNAcase homologue bound to a related inhibitor N-butyryl-PUGNAc, which bears a four-carbon chain and is selective for both NagZ and O-GlcNAcase over the human beta-hexosamnidases, reveals that this inhibitor induces several conformational changes in the active site of this O-GlcNAcase homologue. A comparison of these complexes, and with the human beta-hexosaminidases, reveals how selectivity for NagZ can be engineered by altering the 2-N-acyl substituent of PUGNAc to develop inhibitors that repress AmpC mediated beta-lactam resistance.
+
+-Acetylglucosamine (+analogs & derivatives; -chemistry; -metabolism)
+-Bacterial Proteins (-chemistry; +metabolism)
+-Binding Sites
+-Crystallography, X-Ray
+-Enzyme Inhibitors (-chemistry; -metabolism; +pharmacology)
+-Humans
+-Models, Molecular
+-Oximes (+chemistry; -metabolism)
+-Phenylcarbamates (+chemistry; -metabolism)
+-Protein Binding
+-Protein Conformation
+-Recombinant Fusion Proteins (-antagonists & inhibitors; -chemistry; -genetics; -metabolism)
+-beta-Lactam Resistance
+-beta-Lactamases (-chemistry; +metabolism)
+-beta-N-Acetylhexosaminidases (+antagonists & inhibitors; +chemistry; -genetics; -metabolism)
+
+doi:10.1002/pro.137
+pubmed:19499593
+pmc:PMC2775221
+

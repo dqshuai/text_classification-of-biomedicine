@@ -1,0 +1,25 @@
+Nucleic Acids Res.
+
+SAM-T08, HMM-based protein structure prediction.
+
+K Karplus
+
+The SAM-T08 web server is a protein structure prediction server that provides several useful intermediate results in addition to the final predicted 3D structure: three multiple sequence alignments of putative homologs using different iterated search procedures, prediction of local structure features including various backbone and burial properties, calibrated E-values for the significance of template searches of PDB and residue-residue contact predictions. The server has been validated as part of the CASP8 assessment of structure prediction as having good performance across all classes of predictions. The SAM-T08 server is available at http://compbio.soe.ucsc.edu/SAM_T08/T08-query.html.
+
+-Databases, Protein
+-Markov Chains
+-Models, Molecular
+-Nuclear Magnetic Resonance, Biomolecular
++Protein Conformation
+-Proteins (-chemistry)
+-Reproducibility of Results
+-Sequence Alignment
+-Sequence Homology, Amino Acid
++Software
+-Structural Homology, Protein
+
+pii:gkp403
+doi:10.1093/nar/gkp403
+pubmed:19483096
+pmc:PMC2703928
+

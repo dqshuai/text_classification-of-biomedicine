@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+TDP-43 depletion induces neuronal cell damage through dysregulation of Rho family GTPases.
+
+Y Iguchi, M Katsuno, J Niwa, S Yamada, J Sone, M Waza, H Adachi, F Tanaka, K Nagata, N Arimura, T Watanabe, K Kaibuchi, G Sobue
+
+The 43-kDa TAR DNA-binding protein (TDP-43) is known to be a major component of the ubiquitinated inclusions characteristic of amyotrophic lateral sclerosis and frontotemporal lobar degeneration with ubiquitin-positive inclusions. Although TDP-43 is a nuclear protein, it disappears from the nucleus of affected neurons and glial cells, implicating TDP-43 loss of function in the pathogenesis of neurodegeneration. Here we show that the knockdown of TDP-43 in differentiated Neuro-2a cells inhibited neurite outgrowth and induced cell death. In knockdown cells, the Rho family members RhoA, Rac1, and Cdc42 GTPases were inactivated, and membrane localization of these molecules was reduced. In addition, TDP-43 depletion significantly suppressed protein geranylgeranylation, a key regulating factor of Rho family activity and intracellular localization. In contrast, overexpression of TDP-43 mitigated the cellular damage caused by pharmacological inhibition of geranylgeranylation. Furthermore administration of geranylgeranyl pyrophosphate partially restored cell viability and neurite outgrowth in TDP-43 knockdown cells. In summary, our data suggest that TDP-43 plays a key role in the maintenance of neuronal cell morphology and survival possibly through protein geranylgeranylation of Rho family GTPases.
+
+-Animals
+-Caspases (-metabolism)
+-Cell Line, Tumor
+-Cell Survival
+-DNA-Binding Proteins (+metabolism)
+-Dose-Response Relationship, Drug
++Gene Expression Regulation
+-Mice
+-Microscopy, Fluorescence
+-Models, Biological
+-Neurons (+metabolism)
+-Neuropeptides (-metabolism)
+-RNA, Small Interfering (-metabolism)
+-rac GTP-Binding Proteins (-metabolism)
+-rho GTP-Binding Proteins (+metabolism)
+
+pii:M109.012195
+doi:10.1074/jbc.M109.012195
+pubmed:19535326
+pmc:PMC2755930
+

@@ -1,0 +1,24 @@
+PLoS Comput. Biol.
+
+Exploring the free energy landscape: from dynamics to networks and back.
+
+D Prada-Gracia, J Gómez-Gardeñes, P Echenique, F Falo
+
+Knowledge of the Free Energy Landscape topology is the essential key to understanding many biochemical processes. The determination of the conformers of a protein and their basins of attraction takes a central role for studying molecular isomerization reactions. In this work, we present a novel framework to unveil the features of a Free Energy Landscape answering questions such as how many meta-stable conformers there are, what the hierarchical relationship among them is, or what the structure and kinetics of the transition paths are. Exploring the landscape by molecular dynamics simulations, the microscopic data of the trajectory are encoded into a Conformational Markov Network. The structure of this graph reveals the regions of the conformational space corresponding to the basins of attraction. In addition, handling the Conformational Markov Network, relevant kinetic magnitudes as dwell times and rate constants, or hierarchical relationships among basins, completes the global picture of the landscape. We show the power of the analysis studying a toy model of a funnel-like potential and computing efficiently the conformers of a short peptide, dialanine, paving the way to a systematic study of the Free Energy Landscape in large peptides.
+
+-Algorithms
+-Cluster Analysis
+-Dipeptides (-chemistry)
+-Isomerism
+-Kinetics
+-Markov Chains
++Models, Chemical
+-Polymers (-chemistry)
+-Protein Conformation
+-Proteins (+chemistry)
++Thermodynamics
+
+doi:10.1371/journal.pcbi.1000415
+pubmed:19557191
+pmc:PMC2694367
+

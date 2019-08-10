@@ -1,0 +1,32 @@
+PLoS ONE
+
+A novel Cre recombinase imaging system for tracking lymphotropic virus infection in vivo.
+
+BM Dutia, SJ Reid, DD Drummond, Y Ligertwood, I Bennet, W Rietberg, O Silvia, MA Jarvis, AA Nash
+
+BACKGROUND: Detection, isolation, and identification of individual virus infected cells during long term infection are critical to advance our understanding of mechanisms of pathogenesis for latent/persistent viruses. However, current approaches to study these viruses in vivo have been hampered by low sensitivity and effects of cell-type on expression of viral encoded reporter genes. We have designed a novel Cre recombinase (Cre)-based murine system to overcome these problems, and thereby enable tracking and isolation of individual in vivo infected cells. METHODOLOGY/PRINCIPAL FINDINGS: Murine gammaherpesvirus 68 (MHV-68) was used as a prototypic persistent model virus. A Cre expressing recombinant virus was constructed and characterised. The virus is attenuated both in lytic virus replication, producing ten-fold lower lung virus titres than wild type virus, and in the establishment of latency. However, despite this limitation, when the sEGFP7 mouse line containing a Cre-activated enhanced green fluorescent protein (EGFP) was infected with the Cre expressing virus, sites of latent and persistent virus infection could be identified within B cells and macrophages of the lymphoid system on the basis of EGFP expression. Importantly, the use of the sEGFP7 mouse line which expresses high levels of EGFP allowed individual virus positive cells to be purified by FACSorting. Virus gene expression could be detected in these cells. Low numbers of EGFP positive cells could also be detected in the bone marrow. CONCLUSIONS/SIGNIFICANCE: The use of this novel Cre-based virus/mouse system allowed identification of individual latently infected cells in vivo and may be useful for the study and long-term monitoring of other latent/persistent virus infections.
+
+-Animals
+-B-Lymphocytes (-virology)
+-Base Sequence
+-Blotting, Southern
+-Cell Line
+-Cricetinae
+-Flow Cytometry
+-Gammaherpesvirinae (-genetics; +isolation & purification)
+-Green Fluorescent Proteins (-genetics)
+-Herpesviridae Infections (+virology)
+-Immunohistochemistry
+-Integrases (+metabolism)
+-Macrophages (-virology)
+-Mice
+-Mice, Inbred BALB C
+-Mice, Inbred C57BL
+-Molecular Sequence Data
+-Polymerase Chain Reaction
+-Recombination, Genetic
+
+doi:10.1371/journal.pone.0006492
+pubmed:19652715
+pmc:PMC2714982
+

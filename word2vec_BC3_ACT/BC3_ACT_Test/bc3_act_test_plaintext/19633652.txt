@@ -1,0 +1,23 @@
+Nature
+
+Programming cells by multiplex genome engineering and accelerated evolution.
+
+HH Wang, FJ Isaacs, PA Carr, ZZ Sun, G Xu, CR Forest, GM Church
+
+The breadth of genomic diversity found among organisms in nature allows populations to adapt to diverse environments. However, genomic diversity is difficult to generate in the laboratory and new phenotypes do not easily arise on practical timescales. Although in vitro and directed evolution methods have created genetic variants with usefully altered phenotypes, these methods are limited to laborious and serial manipulation of single genes and are not used for parallel and continuous directed evolution of gene networks or genomes. Here, we describe multiplex automated genome engineering (MAGE) for large-scale programming and evolution of cells. MAGE simultaneously targets many locations on the chromosome for modification in a single cell or across a population of cells, thus producing combinatorial genomic diversity. Because the process is cyclical and scalable, we constructed prototype devices that automate the MAGE technology to facilitate rapid and continuous generation of a diverse set of genetic changes (mismatches, insertions, deletions). We applied MAGE to optimize the 1-deoxy-D-xylulose-5-phosphate (DXP) biosynthesis pathway in Escherichia coli to overproduce the industrially important isoprenoid lycopene. Twenty-four genetic components in the DXP pathway were modified simultaneously using a complex pool of synthetic DNA, creating over 4.3 billion combinatorial genomic variants per day. We isolated variants with more than fivefold increase in lycopene production within 3 days, a significant improvement over existing metabolic engineering techniques. Our multiplex approach embraces engineering in the context of evolution by expediting the design and evolution of organisms with new and improved properties.
+
+-Alleles
+-Biotechnology (-instrumentation; +methods)
+-Carotenoids (-biosynthesis)
+-Chromosomes, Bacterial (-genetics)
+-DNA (-biosynthesis; -genetics)
+-Directed Molecular Evolution (-instrumentation; +methods)
+-Escherichia coli (-cytology; +genetics; +metabolism)
+-Genetic Variation (-genetics)
+-Genome, Bacterial (+genetics)
+-Pentosephosphates (-biosynthesis)
+
+pii:nature08187
+doi:10.1038/nature08187
+pubmed:19633652
+

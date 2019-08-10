@@ -1,0 +1,31 @@
+Plant Cell
+
+Evolutionarily conserved regulatory motifs in the promoter of the Arabidopsis clock gene LATE ELONGATED HYPOCOTYL.
+
+M Spensley, JY Kim, E Picot, J Reid, S Ott, C Helliwell, IA Carré
+
+The transcriptional regulation of the LATE ELONGATED HYPOCOTYL (LHY) gene is key to the structure of the circadian oscillator, integrating information from multiple regulatory pathways. We identified a minimal region of the LHY promoter that was sufficient for rhythmic expression. Another upstream sequence was also required for appropriate waveform of transcription and for maximum amplitude of oscillations under both diurnal and free-running conditions. We showed that two classes of protein complexes interact with a G-box and with novel 5A motifs; mutation of these sites reduced the amplitude of oscillation and broadened the peak of expression. A genome-wide bioinformatic analysis showed that these sites were enriched in phase-specific clusters of rhythmically expressed genes. Comparative genomic analyses showed that these motifs were conserved in orthologous promoters from several species. A position-specific scoring matrix for the 5A sites suggested similarity to CArG boxes, which are recognized by MADS box transcription factors. In support of this, the FLOWERING LOCUS C (FLC) protein was shown to interact with the LHY promoter in planta. This suggests a mechanism by which FLC might affect circadian period.
+
+-Arabidopsis (+genetics; -metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Binding Sites
+-Chromosome Mapping
++Circadian Rhythm
+-Comparative Genomic Hybridization
+-Conserved Sequence
+-DNA Mutational Analysis
+-DNA, Plant (-genetics)
+-Gene Deletion
+-Gene Expression Regulation, Plant
+-Photoperiod
+-Plants, Genetically Modified (-genetics; -metabolism)
+-Position-Specific Scoring Matrices
++Promoter Regions, Genetic
+-Transcription Factors (-metabolism)
+-Transcription, Genetic
+
+pii:tpc.109.069898
+doi:10.1105/tpc.109.069898
+pubmed:19789276
+pmc:PMC2768935
+

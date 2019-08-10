@@ -1,0 +1,17 @@
+BMC Bioinformatics
+
+An introduction to scripting in Ruby for biologists.
+
+J Aerts, A Law
+
+The Ruby programming language has a lot to offer to any scientist with electronic data to process. Not only is the initial learning curve very shallow, but its reflection and meta-programming capabilities allow for the rapid creation of relatively complex applications while still keeping the code short and readable. This paper provides a gentle introduction to this scripting language for researchers without formal informatics training such as many wet-lab scientists. We hope this will provide such researchers an idea of how powerful a tool Ruby can be for their data management tasks and encourage them to learn more about it.
+
+-Computational Biology
+-Databases, Factual
++Programming Languages
+
+pii:1471-2105-10-221
+doi:10.1186/1471-2105-10-221
+pubmed:19607723
+pmc:PMC2722653
+

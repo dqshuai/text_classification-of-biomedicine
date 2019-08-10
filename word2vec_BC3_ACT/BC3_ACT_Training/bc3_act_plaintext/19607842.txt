@@ -1,0 +1,27 @@
+J. Mol. Biol.
+
+Steric and electrostatic effects at the C2 atom substituent influence replication and miscoding of the DNA deamination product deoxyxanthosine and analogs by DNA polymerases.
+
+H Zhang, U Bren, ID Kozekov, CJ Rizzo, DF Stec, FP Guengerich
+
+Deoxyinosine (dI) and deoxyxanthosine (dX) are both formed in DNA at appreciable levels in vivo by deamination of deoxyadenosine (dA) and deoxyguanosine (dG), respectively, and can miscode. Structure-activity relationships for dA pairing have been examined extensively using analogs but relatively few studies have probed the roles of the individual hydrogen-bonding atoms of dG in DNA replication. The replicative bacteriophage T7 DNA polymerase/exonuclease and the translesion DNA polymerase Sulfolobus solfataricus pol IV were used as models to discern the mechanisms of miscoding by DNA polymerases. Removal of the 2-amino group from the template dG (i.e., dI) had little impact on the catalytic efficiency of either polymerase, as judged by either steady-state or pre-steady-state kinetic analysis, although the misincorporation frequency was increased by an order of magnitude. dX was highly miscoding with both polymerases, and incorporation of several bases was observed. The addition of an electronegative fluorine atom at the 2-position of dI lowered the oligonucleotide T(m) and strongly inhibited incorporation of dCTP. The addition of bromine or oxygen (dX) at C2 lowered the T(m) further, strongly inhibited both polymerases, and increased the frequency of misincorporation. Linear activity models show the effects of oxygen (dX) and the halogens at C2 on both DNA polymerases as mainly due to a combination of both steric and electrostatic factors, producing a clash with the paired cytosine O2 atom, as opposed to either bulk or perturbation of purine ring electron density alone.
+
+-Bacteriophage T7 (-enzymology)
++Base Pair Mismatch
+-DNA (+metabolism)
+-DNA Polymerase beta (-metabolism)
++DNA Replication
+-DNA-Directed DNA Polymerase (+metabolism)
+-Deamination
+-Deoxyribonucleosides (+metabolism)
+-Inosine (-analogs & derivatives; -metabolism)
+-Kinetics
+-Static Electricity
+-Sulfolobus solfataricus (-enzymology)
+
+pii:S0022-2836(09)00841-9
+doi:10.1016/j.jmb.2009.07.019
+pubmed:19607842
+mid:NIHMS136428
+pmc:PMC2755575
+

@@ -1,0 +1,26 @@
+BMC Mol. Biol.
+
+DNA methylation-histone modification relationships across the desmin locus in human primary cells.
+
+M Lindahl Allen, CM Koch, GK Clelland, I Dunham, M Antoniou
+
+BACKGROUND: We present here an extensive epigenetic analysis of a 500 kb region, which encompasses the human desmin gene (DES) and its 5' locus control region (LCR), the only muscle-specific transcriptional regulatory element of this type described to date. These data complement and extend Encyclopaedia of DNA Elements (ENCODE) studies on region ENr133. We analysed histone modifications and underlying DNA methylation patterns in physiologically relevant DES expressing (myoblast/myotube) and non-expressing (peripheral blood mononuclear) primary human cells. RESULTS: We found that in expressing myoblast/myotube but not peripheral blood mononuclear cell (PBMC) cultures, histone H4 acetylation displays a broadly distributed enrichment across a gene rich 200 kb region whereas H3 acetylation localizes at the transcriptional start site (TSS) of genes. We show that the DES LCR and TSS of DES are enriched with hyperacetylated domains of acetylated histone H3, with H3 lysine 4 di- and tri-methylation (H3K4me2 and me3) exhibiting a different distribution pattern across this locus. The CpG island that extends into the first intron of DES is methylation-free regardless of the gene's expression status and in non-expressing PBMCs is marked with histone H3 lysine 27 tri-methylation (H3K27me3). CONCLUSION: Overall, our results constitute the first study correlating patterns of histone modifications and underlying DNA methylation of a muscle-specific LCR and its associated downstream gene region whilst additionally placing this within a much broader genomic context. Our results clearly show that there are distinct patterns of histone H3 and H4 acetylation and H3 methylation at the DES LCR, promoter and intragenic region. In addition, the presence of H3K27me3 at the DES methylation-free CpG only in non-expressing PBMCs may serve to silence this gene in non-muscle tissues. Generally, our work demonstrates the importance of using multiple, physiologically relevant tissue types that represent different expressing/non-expressing states when investigating epigenetic marks and that underlying DNA methylation status should be correlated with histone modification patterns when studying chromatin structure.
+
+-Acetylation
+-Cells, Cultured
+-Chromosomes, Human, Pair 2 (-genetics; -metabolism)
++DNA Methylation
+-Desmin (+genetics; -metabolism)
+-Histones (-genetics; +metabolism)
+-Humans
+-Leukocytes, Mononuclear (-metabolism)
+-Muscle Fibers, Skeletal (-metabolism)
+-Myoblasts (-metabolism)
+-Organ Specificity
+-Regulatory Elements, Transcriptional
+
+pii:1471-2199-10-51
+doi:10.1186/1471-2199-10-51
+pubmed:19473514
+pmc:PMC2695444
+

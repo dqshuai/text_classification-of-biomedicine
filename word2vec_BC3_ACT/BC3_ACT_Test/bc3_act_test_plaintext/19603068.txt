@@ -1,0 +1,17 @@
+PLoS ONE
+
+ProteinArchitect: protein evolution above the sequence level.
+
+M Haimel, K Pröll, M Rebhan
+
+BACKGROUND: While many authors have discussed models and tools for studying protein evolution at the sequence level, molecular function is usually mediated by complex, higher order features such as independently folding domains and linear motifs that are based on or embedded in a particular arrangment of features such as secondary structure elements, transmembrane domains and regions with intrinsic disorder. This 'protein architecture' can, in its most simplistic representation, be visualized as domain organization cartoons that can be used to compare proteins in terms of the order of their mostly globular domains. METHODOLOGY: Here, we describe a visual approach and a webserver for protein comparison that extend the domain organization cartoon concept. By developing an information-rich, compact visualization of different protein features above the sequence level, potentially related proteins can be compared at the level of propensities for secondary structure, transmembrane domains and intrinsic disorder, in addition to PFAM domains. A public Web server is available at www.proteinarchitect.net, while the code is provided at protarchitect.sourceforge.net. CONCLUSIONS/SIGNIFICANCE: Due to recent advances in sequencing technologies we are now flooded with millions of predicted proteins that await comparative analysis. In many cases, mature tools focused on revealing hits with considerable global or local similarity to well-characterized proteins will not be able to lead us to testable hypotheses about a protein's function, or the function of a particular region. The visual comparison of different types of protein features with ProteinArchitect will be useful when assessing the relevance of similarity search hits, to discover subgroups in protein families and superfamilies, and to understand protein regions with conserved features outside globular regions. Therefore, this approach is likely to help researchers to develop testable hypotheses about a protein's function even if is somewhat distant from the more characterized proteins, by facilitating the discovery of features that are conserved above the sequence level for comparison and further experimental investigation.
+
++Evolution
+-Protein Conformation
+-Proteins (-chemistry; +genetics)
+-Sequence Alignment
+
+doi:10.1371/journal.pone.0006176
+pubmed:19603068
+pmc:PMC2705671
+

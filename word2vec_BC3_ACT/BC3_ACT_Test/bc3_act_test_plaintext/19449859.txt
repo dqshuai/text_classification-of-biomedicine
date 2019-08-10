@@ -1,0 +1,27 @@
+Biochemistry
+
+Conformational dynamics of metal-binding domains in Wilson disease protein: molecular insights into selective copper transfer.
+
+A Rodriguez-Granillo, A Crespo, P Wittung-Stafshede
+
+ATP7A/B are human P(1B)-type ATPases involved in cellular Cu homeostasis. The N-terminal parts of these multidomain proteins contain six metal-binding domains (MBDs) connected by linkers. The MBDs are similar in structure to each other and to the human copper chaperone Atox1, although their distinct roles in Cu transfer appear to vary. All domains have the ferredoxin-like fold and a solvent-exposed loop with a MXCXXC motif that can bind Cu(I). Here, we investigated the dynamic behavior of the individual MBDs (WD1-WD6) in ATP7B in apo forms using molecular dynamic simulations. We also performed simulations of three Cu-bound forms (WD2c, WD4c, and WD6c). Our results reveal molecular features that vary distinctly among the MBDs. Whereas WD1, WD2, and WD6 have well-defined Cu loop conformations stabilized by a network of interactions, WD4 and WD5 exhibit greater loop flexibility and, in WD4, helix alpha1 unwinds and rewinds. WD3, which has the lowest sequence identity, behaves differently and its Cu loop is rigid with respect to the rest of the domain. Cu coordination reduces structural dynamics in all domains but WD4c. In agreement with predictions on individual domains, simulations of the six possible Atox1-WD heterocomplexes show that Atox1 interactions with WD4 are the strongest. This study provides molecular explanations for reported Cu transfer and protein-protein interaction specificity.
+
+-Adenosine Triphosphatases (+chemistry; -genetics; +metabolism)
+-Amino Acid Sequence
+-Apoproteins (-chemistry; -genetics; -metabolism)
+-Biological Transport, Active (-genetics)
+-Cation Transport Proteins (+chemistry; -genetics; +metabolism)
+-Computer Simulation
+-Copper (+chemistry; +metabolism)
+-Holoenzymes (-chemistry; -genetics; -metabolism)
+-Humans
+-Models, Chemical
++Models, Molecular
+-Molecular Chaperones (-chemistry; -genetics; -metabolism)
+-Molecular Sequence Data
++Protein Conformation
+-Thermodynamics
+
+doi:10.1021/bi900235g
+pubmed:19449859
+

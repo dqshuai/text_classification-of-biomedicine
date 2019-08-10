@@ -1,0 +1,37 @@
+Cell
+
+p31comet blocks Mad2 activation through structural mimicry.
+
+M Yang, B Li, DR Tomchick, M Machius, J Rizo, H Yu, X Luo
+
+The status of spindle checkpoint signaling depends on the balance of two opposing dynamic processes that regulate the highly unusual two-state behavior of Mad2. In mitosis, a Mad1-Mad2 core complex recruits cytosolic Mad2 to kinetochores through Mad2 dimerization and converts Mad2 to a conformer amenable to Cdc20 binding, thereby facilitating checkpoint activation. p31(comet) inactivates the checkpoint through binding to Mad1- or Cdc20-bound Mad2, thereby preventing Mad2 activation and promoting the dissociation of the Mad2-Cdc20 complex. Here, we report the crystal structure of the Mad2-p31(comet) complex. The C-terminal region of Mad2 that undergoes rearrangement in different Mad2 conformers is a major structural determinant for p31(comet) binding, explaining the specificity of p31(comet) toward Mad1- or Cdc20-bound Mad2. p31(comet) adopts a fold strikingly similar to that of Mad2 and binds at the dimerization interface of Mad2. Thus, p31(comet) exploits the two-state behavior of Mad2 to block its activation by acting as an "anti-Mad2."
+
+-Adaptor Proteins, Signal Transducing (+chemistry; -genetics; +metabolism)
+-Allosteric Regulation
+-Amino Acid Sequence
+-Animals
+-Calcium-Binding Proteins (+chemistry; -genetics; +metabolism)
+-Cell Cycle (-physiology)
+-Cell Cycle Proteins (+chemistry; -genetics; +metabolism)
+-Cell Line
+-Crystallography, X-Ray
+-Humans
+-Models, Molecular
++Molecular Mimicry
+-Molecular Sequence Data
+-Multiprotein Complexes (-chemistry; -metabolism)
+-Nocodazole (-metabolism)
+-Nuclear Proteins (+chemistry; -genetics; +metabolism)
+-Protein Binding
+-Protein Structure, Secondary
++Protein Structure, Tertiary
+-Repressor Proteins (+chemistry; -genetics; +metabolism)
+-Sequence Alignment
+-Tubulin Modulators (-metabolism)
+
+pii:S0092-8674(07)01199-3
+doi:10.1016/j.cell.2007.08.048
+pubmed:18022368
+mid:NIHMS35014
+pmc:PMC2144745
+

@@ -1,0 +1,21 @@
+J. Bacteriol.
+
+Synthetic microcin C analogs targeting different aminoacyl-tRNA synthetases.
+
+P Van de Vijver, GH Vondenhoff, TS Kazakov, E Semenova, K Kuznedelov, A Metlitskaya, A Van Aerschot, K Severinov
+
+Microcin C (McC) is a potent antibacterial agent produced by some strains of Escherichia coli. McC consists of a ribosomally synthesized heptapeptide with a modified AMP attached through a phosphoramidate linkage to the alpha-carboxyl group of the terminal aspartate. McC is a Trojan horse inhibitor: it is actively taken inside sensitive cells and processed there, and the product of processing, a nonhydrolyzable aspartyl-adenylate, inhibits translation by preventing aminoacylation of tRNA(Asp) by aspartyl-tRNA synthetase (AspRS). Changing the last residue of the McC peptide should result in antibacterial compounds with targets other than AspRS. However, mutations that introduce amino acid substitutions in the last position of the McC peptide abolish McC production. Here, we report total chemical synthesis of three McC-like compounds containing a terminal aspartate, glutamate, or leucine attached to adenosine through a nonhydrolyzable sulfamoyl bond. We show that all three compounds function in a manner similar to that of McC, but the first compound inhibits bacterial growth by targeting AspRS while the latter two inhibit, respectively, GluRS and LeuRS. Our approach opens a way for creation of new antibacterial Trojan horse agents that target any 1 of the 20 tRNA synthetases in the cell.
+
+-Amino Acyl-tRNA Synthetases (+antagonists & inhibitors)
+-Anti-Bacterial Agents (+chemistry; +pharmacology)
+-Bacterial Proteins (-antagonists & inhibitors; -genetics; -metabolism)
+-Bacteriocins (+chemistry; +pharmacology)
+-Escherichia coli K12 (-drug effects; -genetics)
+-Gene Expression Regulation, Bacterial (-physiology)
+-Molecular Structure
+
+pii:JB.00829-09
+doi:10.1128/JB.00829-09
+pubmed:19684138
+pmc:PMC2753047
+

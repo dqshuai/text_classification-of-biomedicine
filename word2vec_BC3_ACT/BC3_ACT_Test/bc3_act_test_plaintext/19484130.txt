@@ -1,0 +1,29 @@
+PLoS ONE
+
+Gene classification based on amino acid motifs and residues: the DLX (distal-less) test case.
+
+NA Fonseca, CP Vieira, J Vieira
+
+BACKGROUND: Comparative studies using hundreds of sequences can give a detailed picture of the evolution of a given gene family. Nevertheless, retrieving only the sequences of interest from public databases can be difficult, in particular, when working with highly divergent sequences. The difficulty increases substantially when one wants to include in the study sequences from many (or less well studied) species whose genomes are non-annotated or incompletely annotated. METHODOLOGY/PRINCIPAL FINDINGS: In this work we evaluate the usefulness of different approaches of gene retrieval and classification, using the distal-less (DLX) gene family as a test case. Furthermore, we evaluate whether the use of a large number of gene sequences from a wide range of animal species, the use of multiple alternative alignments, and the use of amino acids aligned with high confidence only, is enough to recover the accepted DLX evolutionary history. CONCLUSIONS/SIGNIFICANCE: The canonical DLX homeobox gene sequence here derived, together with the characteristic amino acid variants here identified in the DLX homeodomain region, can be used to retrieve and classify DLX genes in a simple and efficient way. A program is made available that allows the easy retrieval of synteny information that can be used to classify gene sequences. Maximum likelihood trees using hundreds of sequences can be used for gene identification. Nevertheless, for the DLX case, the proposed DLX evolutionary is not recovered even when multiple alignment algorithms are used.
+
+-Algorithms
+-Amino Acids (-chemistry)
+-Animals
+-Codon
+-Computational Biology (-methods)
+-Evolution
+-Evolution, Molecular
+-Genome
+-Homeodomain Proteins (+genetics; +physiology)
+-Humans
+-Likelihood Functions
+-Models, Genetic
+-Multigene Family
+-Phylogeny
+-Transcription Factors (+genetics; +physiology)
+-Vertebrates
+
+doi:10.1371/journal.pone.0005748
+pubmed:19484130
+pmc:PMC2685005
+

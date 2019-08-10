@@ -1,0 +1,29 @@
+PLoS ONE
+
+Heterochromatic siRNAs and DDM1 independently silence aberrant 5S rDNA transcripts in Arabidopsis.
+
+T Blevins, O Pontes, CS Pikaard, F Meins
+
+5S ribosomal RNA gene repeats are arranged in heterochromatic arrays (5S rDNA) situated near the centromeres of Arabidopsis chromosomes. The chromatin remodeling factor DDM1 is known to maintain 5S rDNA methylation patterns while silencing transcription through 5S rDNA intergenic spacers (IGS). We mapped small-interfering RNAs (siRNA) to a composite 5S rDNA repeat, revealing a high density of siRNAs matching silenced IGS transcripts. IGS transcript repression requires proteins of the heterochromatic siRNA pathway, including RNA polymerase IV (Pol IV), RNA-DEPENDENT RNA POLYMERASE 2 (RDR2) and DICER-LIKE 3 (DCL3). Using molecular and cytogenetic approaches, we show that the DDM1 and siRNA-dependent silencing effects are genetically independent. DDM1 suppresses production of the siRNAs, however, thereby limiting RNA-directed DNA methylation at 5S rDNA repeats. We conclude that DDM1 and siRNA-dependent silencing are overlapping processes that both repress aberrant 5S rDNA transcription and contribute to the heterochromatic state of 5S rDNA arrays.
+
+-Arabidopsis (+metabolism)
+-Arabidopsis Proteins (+metabolism)
+-Chromatin (-chemistry)
+-Computational Biology (-methods)
+-Crosses, Genetic
+-DNA, Intergenic
+-DNA, Ribosomal (+metabolism)
+-DNA-Binding Proteins (+metabolism)
+-Gene Silencing
+-Genes, Plant
+-In Situ Hybridization, Fluorescence
+-Models, Biological
+-RNA, Ribosomal, 5S (+metabolism)
+-RNA, Small Interfering (+metabolism)
+-Transcription Factors (+metabolism)
+-Transcription, Genetic
+
+doi:10.1371/journal.pone.0005932
+pubmed:19529764
+pmc:PMC2691480
+

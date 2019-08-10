@@ -1,0 +1,29 @@
+Breast Cancer Res.
+
+A novel role for signal transducer and activator of transcription 5b (STAT5b) in beta1-integrin-mediated human breast cancer cell migration.
+
+TM Bernaciak, J Zareno, JT Parsons, CM Silva
+
+INTRODUCTION : Signal transducer and activator of transcription (STAT) 5b is a transcription factor involved in pro-proliferative and pro-survival signaling in a number of solid tumors, including breast cancer. The contribution of STAT5b to breast cancer cell motility has not been explored. This work aims to elucidate the role of STAT5b in breast cancer cell migration. METHODS : STAT5b was knocked down by using siRNA in two aggressive, highly migratory breast cancer cell lines (BT-549 and MDA-MB-231), and transwell migration assays were performed to determine the importance of STAT5b for their migration. Knockdown-rescue experiments were used to validate the specificity of STAT5b knockdown and to determine which regions/functions of STAT5b are necessary for its role in migration. Live-cell imaging of wound healing and spreading was carried out to examine cell morphology and motility after STAT5b knockdown. RESULTS : Knockdown of STAT5b, but not STAT5a, inhibited migration of BT-549 and MDA-MB-231 breast cancer cells to serum by 60% to 80%, and inhibited migration equally over a range of serum concentrations (0.1% to 10% serum). Migratory inhibition upon STAT5b knockdown could be rescued by reintroduction of wild-type STAT5b, as well as Y699F- and dominant-negative STAT5b mutants, but not an SH2 domain defective R618K-STAT5b mutant. beta1- integrin-mediated migration of breast cancer cells to fibronectin was inhibited with STAT5b knockdown, and loss of STAT5b correlated with loss of directional migration and formation of multiple, highly contractile protrusions upon attachment to fibronectin. CONCLUSIONS : The data presented here demonstrate that STAT5b is integral to breast cancer cell migration and identify a novel, SH2-dependent function of STAT5b in regulating beta1-integrin-mediated migration of highly aggressive breast cancer cells.
+
+-Antigens, CD29 (+physiology)
+-Breast Neoplasms (+pathology)
+-Cell Line, Tumor (-drug effects; -pathology)
+-Cell Movement (-physiology)
+-Female
+-Fibronectins (-pharmacology)
+-Gene Knockdown Techniques
+-Humans
+-Neoplasm Invasiveness (+physiopathology)
+-Neoplasm Proteins (-chemistry; +physiology)
+-RNA Interference
+-RNA, Small Interfering (-pharmacology)
+-STAT5 Transcription Factor (-chemistry; -genetics; +physiology)
+-Wound Healing
+-src Homology Domains
+
+pii:bcr2341
+doi:10.1186/bcr2341
+pubmed:19630967
+pmc:PMC2750113
+

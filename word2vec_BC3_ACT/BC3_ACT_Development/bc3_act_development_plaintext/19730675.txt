@@ -1,0 +1,27 @@
+PLoS Comput. Biol.
+
+Interrogating and predicting tolerated sequence diversity in protein folds: application to E. elaterium trypsin inhibitor-II cystine-knot miniprotein.
+
+JL Lahti, AP Silverman, JR Cochran
+
+Cystine-knot miniproteins (knottins) are promising molecular scaffolds for protein engineering applications. Members of the knottin family have multiple loops capable of displaying conformationally constrained polypeptides for molecular recognition. While previous studies have illustrated the potential of engineering knottins with modified loop sequences, a thorough exploration into the tolerated loop lengths and sequence space of a knottin scaffold has not been performed. In this work, we used the Ecballium elaterium trypsin inhibitor II (EETI) as a model member of the knottin family and constructed libraries of EETI loop-substituted variants with diversity in both amino acid sequence and loop length. Using yeast surface display, we isolated properly folded EETI loop-substituted clones and applied sequence analysis tools to assess the tolerated diversity of both amino acid sequence and loop length. In addition, we used covariance analysis to study the relationships between individual positions in the substituted loops, based on the expectation that correlated amino acid substitutions will occur between interacting residue pairs. We then used the results of our sequence and covariance analyses to successfully predict loop sequences that facilitated proper folding of the knottin when substituted into EETI loop 3. The sequence trends we observed in properly folded EETI loop-substituted clones will be useful for guiding future protein engineering efforts with this knottin scaffold. Furthermore, our findings demonstrate that the combination of directed evolution with sequence and covariance analyses can be a powerful tool for rational protein engineering.
+
+-Amino Acid Sequence
+-Cloning, Molecular
+-Cucurbitaceae (+chemistry; -genetics; -metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Peptide Library
+-Plant Proteins (+chemistry; -genetics; -metabolism)
+-Protein Conformation
+-Protein Folding
+-Protein Interaction Domains and Motifs
+-Sequence Analysis, Protein
+-Trypsin (-metabolism)
+-Trypsin Inhibitors (+chemistry; -genetics; -metabolism)
+-Yeasts (-genetics)
+
+doi:10.1371/journal.pcbi.1000499
+pubmed:19730675
+pmc:PMC2725296
+

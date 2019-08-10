@@ -1,0 +1,29 @@
+Cancer Cell
+
+Evidence that inositol polyphosphate 4-phosphatase type II is a tumor suppressor that inhibits PI3K signaling.
+
+C Gewinner, ZC Wang, A Richardson, J Teruya-Feldstein, D Etemadmoghadam, D Bowtell, J Barretina, WM Lin, L Rameh, L Salmena, PP Pandolfi, LC Cantley
+
+We report that knocking down the expression of inositol polyphosphate 4-phosphatase type II (INPP4B) in human epithelial cells, like knockdown of PTEN, resulted in enhanced Akt activation and anchorage-independent growth and enhanced overall motility. In xenograft experiments, overexpression of INPP4B resulted in reduced tumor growth. INPP4B preferentially hydrolyzes phosphatidylinositol-3,4-bisphosphate (PI(3,4)P(2)) with no effect on phosphatidylinositol-3.4.5-triphosphate (PI(3,4,5)P(3)), suggesting that PI(3,4)P(2) and PI(3,4,5)P(3) may cooperate in Akt activation and cell transformation. Dual knockdown of INPP4B and PTEN resulted in cellular senescence. Finally, we found loss of heterozygosity (LOH) at the INPP4B locus in a majority of basal-like breast cancers, as well as in a significant fraction of ovarian cancers, which correlated with lower overall patient survival, suggesting that INPP4B is a tumor suppressor.
+
+-1-Phosphatidylinositol 3-Kinase (+metabolism)
+-Breast Neoplasms (-genetics)
+-Cell Aging (-genetics)
+-Cell Movement (-genetics)
+-Cells, Cultured
+-Female
+-Humans
+-Insulin (-pharmacology)
+-Loss of Heterozygosity
+-Ovarian Neoplasms (-genetics; -mortality)
+-PTEN Phosphohydrolase (-genetics; -physiology)
+-Phosphoric Monoester Hydrolases (-genetics; +physiology)
+-Proto-Oncogene Proteins c-akt (-genetics; -metabolism)
++Signal Transduction (-drug effects)
+-Substrate Specificity
+-Tumor Suppressor Proteins (+physiology)
+
+pii:S1535-6108(09)00180-9
+doi:10.1016/j.ccr.2009.06.006
+pubmed:19647222
+

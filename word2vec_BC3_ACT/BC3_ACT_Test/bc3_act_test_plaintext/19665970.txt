@@ -1,0 +1,23 @@
+Cell
+
+Telomere extension occurs at most chromosome ends and is uncoupled from fill-in in human cancer cells.
+
+Y Zhao, AJ Sfeir, Y Zou, CM Buseman, TT Chow, JW Shay, WE Wright
+
+Telomeres are thought to be maintained by the preferential recruitment of telomerase to the shortest telomeres. The extension of the G-rich telomeric strand by telomerase is also believed to be coordinated with the complementary synthesis of the C strand by the conventional replication machinery. However, we show that under telomere length-maintenance conditions in cancer cells, human telomerase extends most chromosome ends during each S phase and is not preferentially recruited to the shortest telomeres. Telomerase rapidly extends the G-rich strand following telomere replication but fill-in of the C strand is delayed into late S phase. This late C-strand fill-in is not executed by conventional Okazaki fragment synthesis but by a mechanism using a series of small incremental steps. These findings highlight differences between telomerase actions during steady state versus nonequilibrium conditions and reveal steps in the human telomere maintenance pathway that may provide additional targets for the development of anti-telomerase therapeutics.
+
+-Cell Cycle
+-Cell Line, Tumor
+-Hela Cells
+-Humans
+-S Phase
+-Saccharomyces cerevisiae (-enzymology)
+-Telomerase (+metabolism)
+-Telomere (+metabolism)
+
+pii:S0092-8674(09)00629-1
+doi:10.1016/j.cell.2009.05.026
+pubmed:19665970
+mid:NIHMS121227
+pmc:PMC2726829
+

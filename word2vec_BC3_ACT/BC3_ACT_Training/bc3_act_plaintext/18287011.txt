@@ -1,0 +1,30 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+The PD-1/PD-L1 complex resembles the antigen-binding Fv domains of antibodies and T cell receptors.
+
+DY Lin, Y Tanaka, M Iwasaki, AG Gittis, HP Su, B Mikami, T Okazaki, T Honjo, N Minato, DN Garboczi
+
+Signaling through the programmed death 1 (PD-1) inhibitory receptor upon binding its ligand, PD-L1, suppresses immune responses against autoantigens and tumors and plays an important role in the maintenance of peripheral immune tolerance. Release from PD-1 inhibitory signaling revives "exhausted" virus-specific T cells in chronic viral infections. Here we present the crystal structure of murine PD-1 in complex with human PD-L1. PD-1 and PD-L1 interact through the conserved front and side of their Ig variable (IgV) domains, as do the IgV domains of antibodies and T cell receptors. This places the loops at the ends of the IgV domains on the same side of the PD-1/PD-L1 complex, forming a surface that is similar to the antigen-binding surface of antibodies and T cell receptors. Mapping conserved residues allowed the identification of residues that are important in forming the PD-1/PD-L1 interface. Based on the structure, we show that some reported loss-of-binding mutations involve the PD-1/PD-L1 interaction but that others compromise protein folding. The PD-1/PD-L1 interaction described here may be blocked by antibodies or by designed small-molecule drugs to lower inhibitory signaling that results in a stronger immune response. The immune receptor-like loops offer a new surface for further study and potentially the design of molecules that would affect PD-1/PD-L1 complex formation and thereby modulate the immune response.
+
+-Animals
+-Antibodies (-genetics)
+-Antigens, CD (-chemistry; +genetics; -immunology)
+-Antigens, Differentiation (-chemistry; +genetics; -immunology)
+-Computational Biology
+-Crystallization
+-Enzyme-Linked Immunosorbent Assay
+-Flow Cytometry
+-Humans
+-Immunoglobulin Variable Region (+genetics; -immunology)
+-Mice
++Models, Molecular
+-Receptors, Antigen, T-Cell (-genetics)
+-Sequence Analysis, Protein
+-Sequence Homology
+-Signal Transduction (+immunology)
+
+pii:0712278105
+doi:10.1073/pnas.0712278105
+pubmed:18287011
+pmc:PMC2268576
+

@@ -1,0 +1,20 @@
+Yeast
+
+A QPCR-based reporter system to study post-transcriptional regulation via the 3' untranslated region of mRNA in Saccharomyces cerevisiae.
+
+K Lind, J Norbeck
+
+Post-transcriptional regulation via the 3' untranslated region (3' UTR) of mRNA is an important factor in governing eukaryotic gene expression. Achieving detailed understanding of these processes requires highly quantitative systems in which comparative studies can be performed. To this end, we have developed a plasmid reporter system for Saccharomyces cerevisiae, in which the 3' UTR can be easily replaced and modified. Accurate quantification of the tandem affinity purification tag (TAP)-reporter protein and of TAP-mRNA is achieved by immuno-QPCR and by RT-QPCR, respectively. We have used our reporter system to evaluate the consequences on gene expression from varying the 3' UTR, a problem often encountered during C-terminal tagging of proteins. It was clear that the choice of 3' UTR was a strong determinant of the reporter expression, in a manner dependent on the growth conditions used. Mutations affecting either decapping (lsm1Delta) or deadenylation (pop2Delta) were also found to affect reporter gene expression in a highly 3' UTR-dependent manner. Our results using this set-up clearly indicate that the common strategy used for C-terminal tagging, with concomitant replacement of the native 3' UTR, will very likely provide incorrect conclusions on gene expression.
+
++3' Untranslated Regions
++Gene Expression Regulation
+-Genetic Vectors
+-Molecular Biology (+methods)
+-Plasmids
+-Polymerase Chain Reaction (+methods)
++RNA, Messenger
+-Saccharomyces cerevisiae (+physiology)
+
+doi:10.1002/yea.1675
+pubmed:19507146
+

@@ -1,0 +1,33 @@
+Mol. Biol. Cell
+
+Analysis of Dom34 and its function in no-go decay.
+
+DO Passos, MK Doma, CJ Shoemaker, D Muhlrad, R Green, J Weissman, J Hollien, R Parker
+
+Eukaryotic mRNAs are subject to quality control mechanisms that degrade defective mRNAs. In yeast, mRNAs with stalls in translation elongation are targeted for endonucleolytic cleavage by No-Go decay (NGD). The cleavage triggered by No-Go decay is dependent on Dom34p and Hbs1p, and Dom34 has been proposed to be the endonuclease responsible for mRNA cleavage. We created several Dom34 mutants and examined their effects on NGD in yeast. We identified mutations in several loops of the Dom34 structure that affect NGD. In contrast, mutations inactivating the proposed nuclease domain do not affect NGD in vivo. Moreover, we observed that overexpression of the Rps30a protein, a high copy suppressor of dom34Delta cold sensitivity, can restore some mRNA cleavage in a dom34Delta strain. These results identify important functional regions of Dom34 and suggest that the proposed endonuclease activity of Dom34 is not required for mRNA cleavage in NGD. We also provide evidence that the process of NGD is conserved in insect cells. On the basis of these results and the process of translation termination, we suggest a multistep model for the process of NGD.
+
+-Adaptor Proteins, Signal Transducing (-genetics; -metabolism)
+-Animals
+-Binding Sites
+-Blotting, Northern
+-Blotting, Western
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Cell Line
+-Drosophila Proteins (-genetics; -metabolism)
+-Drosophila melanogaster (-cytology; -genetics; -metabolism)
+-Endoribonucleases (-genetics; +metabolism)
+-Genetic Complementation Test
+-Models, Biological
+-Mutation
+-Nuclear Proteins (-genetics; -metabolism)
+-Peptide Termination Factors (-genetics; -metabolism)
++RNA Stability
+-RNA, Fungal (-genetics; -metabolism)
+-Ribosomal Proteins (-genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+
+pii:E09-01-0028
+doi:10.1091/mbc.E09-01-0028
+pubmed:19420139
+pmc:PMC2704154
+

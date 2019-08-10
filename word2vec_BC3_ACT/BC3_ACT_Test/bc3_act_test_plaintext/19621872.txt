@@ -1,0 +1,28 @@
+Biochemistry
+
+Prediction of and experimental support for the three-dimensional structure of replication protein A.
+
+JE Nuss, DJ Sweeney, GM Alter
+
+Replication protein A (RPA) is a heterotrimeric, multidomain, single-stranded DNA binding protein that is essential for DNA replication, repair, and recombination. Crystallographic and NMR studies on RPA protein fragments have provided structures for all domains; however, intact heterotrimeric RPA has resisted crystallization, and a complete protein structure has not yet been described. In this study, computational methods and experimental reactivity information (MRAN) were used to model the complete structure of RPA. To accomplish this, models of RPA's globular domains and its domain-linking regions were docked in various orders. We also determined rates of proteolytic cleavage and amino acid side chain chemical modifications in native, solution state RPA. These experimental data were used to select alternate modeling intermediates and final structural models, leading to a single model most consistent with our results. Using molecular dynamics simulations and multiple rounds of simulated annealing, we then relaxed this structural model and examined its flexibility. The family of resultant models is consistent with other, previously published, critical lines of evidence and with experimental reactivity data presented herein.
+
+-Binding, Competitive
+-Computational Biology (-methods)
+-Computer Simulation
+-Crystallography, X-Ray
+-Humans
+-Hydrolysis
+-Ligands
++Models, Molecular
+-Phosphorylation
+-Predictive Value of Tests
+-Protein Binding
+-Protein Precursors (-chemistry; -metabolism)
+-Protein Structure, Tertiary
+-Protein Subunits (-chemistry; -metabolism)
+-Replication Protein A (+chemistry; -metabolism)
+-Thermodynamics
+
+doi:10.1021/bi801896s
+pubmed:19621872
+

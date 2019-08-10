@@ -1,0 +1,33 @@
+PLoS Pathog.
+
+Mutation of a single residue renders human tetherin resistant to HIV-1 Vpu-mediated depletion.
+
+RK Gupta, S Hué, T Schaller, E Verschoor, D Pillay, GJ Towers
+
+The recently identified restriction factor tetherin/BST-2/CD317 is an interferon-inducible trans-membrane protein that restricts HIV-1 particle release in the absence of the HIV-1 countermeasure viral protein U (Vpu). It is known that Tantalus monkey CV1 cells can be rendered non-permissive to HIV-1 release upon stimulation with type 1 interferon, despite the presence of Vpu, suggesting species-specific sensitivity of tetherin proteins to viral countermeasures such as Vpu. Here we demonstrate that Tantalus monkey tetherin restricts HIV-1 by nearly two orders of magnitude, but in contrast to human tetherin the Tantalus protein is insensitive to HIV-1 Vpu. We have investigated tetherin's sensitivity to Vpu using positive selection analyses, seeking evidence for evolutionary conflict between tetherin and viral countermeasures. We provide evidence that tetherin has undergone positive selection during primate evolution. Mutation of a single amino acid (showing evidence of positive selection) in the trans-membrane cap of human tetherin to that in Tantalus monkey (T45I) substantially impacts on sensitivity to HIV-1 Vpu, but not on antiviral activity. Finally, we provide evidence that cellular steady state levels of tetherin are substantially reduced by Vpu, and that the T45I mutation abrogates this effect. This study provides evidence that tetherin is important in protecting mammals against viral infection, and that the HIV-1 Vpu-mediated countermeasure is specifically adapted to act against human tetherin. It also emphasizes the power of selection analyses to illuminate the molecular details of host-virus interactions. This work suggests that tetherin binding agents might protect it from viral encoded countermeasures and thus make powerful antivirals.
+
+-Amino Acid Sequence
+-Amino Acid Substitution
+-Animals
+-Antigens, CD (-chemistry; +genetics; -immunology; -metabolism)
+-Bayes Theorem
+-Cell Line
+-Cercopithecus aethiops
+-Cysteine Proteinase Inhibitors (-pharmacology)
+-HIV-1
+-Human Immunodeficiency Virus Proteins (+metabolism)
+-Humans
+-Leupeptins (-pharmacology)
+-Membrane Glycoproteins (-chemistry; +genetics; -immunology; -metabolism)
+-Molecular Sequence Data
+-Mutation
+-Phylogeny
++Selection, Genetic
+-Sequence Alignment
+-Viral Regulatory and Accessory Proteins (+metabolism)
+-Virus Replication (-drug effects; -physiology)
+
+doi:10.1371/journal.ppat.1000443
+pubmed:19461879
+pmc:PMC2678251
+

@@ -1,0 +1,29 @@
+J. Clin. Invest.
+
+Proapoptotic signaling induced by RIG-I and MDA-5 results in type I interferon-independent apoptosis in human melanoma cells.
+
+R Besch, H Poeck, T Hohenauer, D Senft, G Häcker, C Berking, V Hornung, S Endres, T Ruzicka, S Rothenfusser, G Hartmann
+
+The retinoic acid-inducible gene I (RIG-I) and melanoma differentiation-associated antigen 5 (MDA-5) helicases sense viral RNA in infected cells and initiate antiviral responses such as the production of type I IFNs. Here we have shown that RIG-I and MDA-5 also initiate a proapoptotic signaling pathway that is independent of type I IFNs. In human melanoma cells, this signaling pathway required the mitochondrial adapter Cardif (also known as IPS-1) and induced the proapoptotic BH3-only proteins Puma and Noxa. RIG-I- and MDA-5-initiated apoptosis required Noxa but was independent of the tumor suppressor p53. Triggering this pathway led to efficient activation of mitochondrial apoptosis, requiring caspase-9 and Apaf-1. Surprisingly, this proapoptotic signaling pathway was also active in nonmalignant cells, but these cells were much less sensitive to apoptosis than melanoma cells. Endogenous Bcl-xL rescued nonmalignant, but not melanoma, cells from RIG-I- and MDA-5-mediated apoptosis. In addition, we confirmed the results of the in vitro studies, demonstrating that RIG-I and MDA-5 ligands both reduced human tumor lung metastasis in immunodeficient NOD/SCID mice. These results identify an IFN-independent antiviral signaling pathway initiated by RIG-I and MDA-5 that activates proapoptotic signaling and, unless blocked by Bcl-xL, results in apoptosis. Due to their immunostimulatory and proapoptotic activity, RIG-I and MDA-5 ligands have therapeutic potential due to their ability to overcome the characteristic resistance of melanoma cells to apoptosis.
+
++Apoptosis (-drug effects)
+-Apoptosis Regulatory Proteins (-biosynthesis)
+-Caspase 9 (-physiology)
+-Cell Line, Tumor
+-DEAD-box RNA Helicases (+physiology)
+-Humans
+-Interferon Type I (+physiology)
+-Melanoma (-drug therapy; +pathology)
+-Poly I-C (-pharmacology)
+-Polyethyleneimine (-administration & dosage)
+-Proto-Oncogene Proteins (-biosynthesis)
+-Proto-Oncogene Proteins c-bcl-2 (-biosynthesis)
+-Signal Transduction (+physiology)
+-Tumor Suppressor Protein p53 (-physiology)
+-bcl-X Protein (-physiology)
+
+pii:37155
+doi:10.1172/JCI37155
+pubmed:19620789
+pmc:PMC2719920
+

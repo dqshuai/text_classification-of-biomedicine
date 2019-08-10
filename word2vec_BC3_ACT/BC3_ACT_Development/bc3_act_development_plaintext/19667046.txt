@@ -1,0 +1,25 @@
+Infect. Immun.
+
+Microarray and functional analysis of growth phase-dependent gene regulation in Bordetella bronchiseptica.
+
+TL Nicholson, AM Buboltz, ET Harvill, SL Brockmeier
+
+Growth phase-dependent gene regulation has recently been demonstrated to occur in Bordetella pertussis, with many transcripts, including known virulence factors, significantly decreasing during the transition from logarithmic to stationary-phase growth. Given that B. pertussis is thought to have derived from a Bordetella bronchiseptica-like ancestor, we hypothesized that growth phase-dependent gene regulation would also occur in B. bronchiseptica. Microarray analysis revealed and quantitative real-time PCR (qRT-PCR) confirmed that growth phase-dependent gene regulation occurs in B. bronchiseptica, resulting in prominent temporal shifts in global gene expression. Two virulence phenotypes associated with these gene expression changes were tested. We found that growth-dependent increases in expression of some type III secretion system (TTSS) genes led to a growth phase-dependent increase in a TTSS-dependent function, cytotoxicity. Although the transcription of genes encoding adhesins previously shown to mediate adherence was decreased in late-log and stationary phases, we found that the adherence of B. bronchiseptica did not decrease in these later phases of growth. Microarray analysis revealed and qRT-PCR confirmed that growth phase-dependent gene regulation occurred in both Bvg(+) and Bvg(-) phase-locked mutants, indicating that growth phase-dependent gene regulation in B. bronchiseptica can function independently from the BvgAS regulatory system.
+
+-Animals
+-Bacterial Adhesion
+-Bordetella bronchiseptica (-growth & development; -pathogenicity; +physiology)
+-Cell Line
+-Colony Count, Microbial
++Gene Expression Profiling
++Gene Expression Regulation, Bacterial
+-Macrophages (-microbiology)
+-Mice
+-Oligonucleotide Array Sequence Analysis
+-Reverse Transcriptase Polymerase Chain Reaction
+
+pii:IAI.00136-09
+doi:10.1128/IAI.00136-09
+pubmed:19667046
+pmc:PMC2747918
+

@@ -1,0 +1,23 @@
+Protein Sci.
+
+Molecular modeling of flexible arm-mediated interactions between bacterial chemoreceptors and their modification enzyme.
+
+UK Muppirala, S Desensi, TP Lybrand, GL Hazelbauer, Z Li
+
+Sensory adaptation in bacterial chemotaxis is mediated by methylation and demethylation of specific glutamyl residues in the cytoplasmic domain of chemoreceptors. Methylation is catalyzed by methyltransferase CheR. In E. coli and related organisms, methylation sufficiently rapid to be physiologically effective requires a carboxyl terminal pentapeptide sequence on the receptor being modified or, via adaptational assistance, on a neighboring homodimer in a receptor cluster. Pentapeptide-enhanced methylation is thought to be mediated by a approximately 30 residue, potentially disordered sequence that serves as a flexible arm connecting the receptor body and pentapeptide-bound methyltransferase, thus allowing diffusionally restricted enzyme to reach methyl-accepting sites. However, it was not known how many or which sites on the same or neighboring receptors were accessible to the tethered enzyme. We investigated using molecular modeling and found that, in a hexagonal array of trimers of receptor dimers, CheR tethered to a dimer of chemoreceptor Tar by its native 30-residue flexible-arm sequence could reach all methyl-accepting sites on the dimer to which it was tethered plus 48 methyl-accepting sites distributed among nine neighboring dimers, equivalent to the total sites carried by six receptors. This modeling-determined methylation neighborhood of one enzyme-binding dimer and six neighbors corresponds precisely with the experimentally identified neighborhood of seven. Thus, the experimentally observed adaptational assistance can occur by docking of pentapeptide-bound, diffusionally restricted enzyme to methyl-accepting sites on neighboring receptors. Our analysis introduces the notion that physiologically relevant adaptational assistance could occur even if only a subset of sites on a particular receptor are within reach.
+
+-Binding Sites (-physiology)
+-Chemoreceptor Cells (-chemistry; +metabolism)
+-Computational Biology
+-Computer Simulation
+-Escherichia coli (-enzymology; -metabolism)
+-Escherichia coli Proteins (-chemistry; +metabolism)
+-Methylation
+-Methyltransferases (-chemistry; +metabolism)
+-Models, Molecular
+-Protein Binding (-physiology)
+
+doi:10.1002/pro.170
+pubmed:19606502
+pmc:PMC2776958
+

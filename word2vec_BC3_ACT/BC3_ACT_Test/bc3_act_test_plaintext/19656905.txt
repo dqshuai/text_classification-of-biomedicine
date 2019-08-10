@@ -1,0 +1,30 @@
+Plant Physiol.
+
+Modulation of the poly(ADP-ribosyl)ation reaction via the Arabidopsis ADP-ribose/NADH pyrophosphohydrolase, AtNUDX7, is involved in the response to oxidative stress.
+
+K Ishikawa, T Ogawa, E Hirosue, Y Nakayama, K Harada, E Fukusaki, K Yoshimura, S Shigeoka
+
+Here, we assessed modulation of the poly(ADP-ribosyl)ation (PAR) reaction by an Arabidopsis (Arabidopsis thaliana) ADP-ribose (Rib)/NADH pyrophosphohydrolase, AtNUDX7 (for Arabidopsis Nudix hydrolase 7), in AtNUDX7-overexpressed (Pro(35S):AtNUDX7) or AtNUDX7-disrupted (KO-nudx7) plants under normal conditions and oxidative stress caused by paraquat treatment. Levels of NADH and ADP-Rib were decreased in the Pro(35S):AtNUDX7 plants but increased in the KO-nudx7 plants under normal conditions and oxidative stress compared with the control plants, indicating that AtNUDX7 hydrolyzes both ADP-Rib and NADH as physiological substrates. The Pro(35S):AtNUDX7 and KO-nudx7 plants showed increased and decreased tolerance, respectively, to oxidative stress compared with the control plants. Levels of poly(ADP-Rib) in the Pro(35S):AtNUDX7 and KO-nudx7 plants were markedly higher and lower, respectively, than those in the control plants. Depletion of NAD(+) and ATP resulting from the activation of the PAR reaction under oxidative stress was completely suppressed in the Pro(35S):AtNUDX7 plants. Accumulation of NAD(+) and ATP was observed in the KO-nudx7- and 3-aminobenzamide-treated plants, in which the PAR reaction was suppressed. The expression levels of DNA repair factors, AtXRCC1 and AtXRCC2 (for x-ray repair cross-complementing factors 1 and 2), paralleled that of AtNUDX7 under both normal conditions and oxidative stress, although an inverse correlation was observed between the levels of AtXRCC3, AtRAD51 (for Escherichia coli RecA homolog), AtDMC1 (for disrupted meiotic cDNA), and AtMND1 (for meiotic nuclear divisions) and AtNUDX7. These findings suggest that AtNUDX7 controls the balance between NADH and NAD(+) by NADH turnover under normal conditions. Under oxidative stress, AtNUDX7 serves to maintain NAD(+) levels by supplying ATP via nucleotide recycling from free ADP-Rib molecules and thus regulates the defense mechanisms against oxidative DNA damage via modulation of the PAR reaction.
+
+-Adaptation, Physiological (-genetics)
+-Adenosine Triphosphate (-metabolism)
+-Antioxidants (-metabolism)
+-Arabidopsis (+enzymology; -genetics)
+-Arabidopsis Proteins (+metabolism)
+-DNA Repair (-genetics)
+-Gene Expression Regulation, Plant
+-Gene Knockout Techniques
+-Intracellular Space (-metabolism)
+-NAD (+metabolism)
++Oxidative Stress
+-Poly Adenosine Diphosphate Ribose (+metabolism)
+-Poly(ADP-ribose) Polymerases (-antagonists & inhibitors)
+-Pyrophosphatases (+metabolism)
+-Stress, Physiological (-genetics)
+-Substrate Specificity
+
+pii:pp.109.140442
+doi:10.1104/pp.109.140442
+pubmed:19656905
+pmc:PMC2754630
+

@@ -1,0 +1,25 @@
+Genes Dev.
+
+Caught at its own game: regulatory small RNA inactivated by an inducible transcript mimicking its target.
+
+N Figueroa-Bossi, M Valentini, L Malleret, F Fiorini, L Bossi
+
+A relevant, yet little recognized feature of antisense regulation is the possibility of switching roles between regulatory and regulated RNAs. Here we show that induction of a Salmonella gene relies on the conversion of a small RNA from effector to regulatory target. The chiP gene (formerly ybfM), identified and characterized in the present study, encodes a conserved enterobacterial chitoporin required for uptake of chitin-derived oligosaccharides. In the absence of inducer, chiP is kept silent by the action of a constitutively made small RNA, ChiX (formerly SroB, RybC), which pairs with a sequence at the 5' end of chiP mRNA. Silencing is relieved in the presence of chitooligosaccharides due to the accumulation of an RNA that pairs with ChiX and promotes its degradation. Anti-ChiX RNA originates from an intercistronic region of the chb operon, which comprises genes for chitooligosaccharide metabolism and whose transcription is activated in the presence of these sugars. We present evidence suggesting that the chb RNA destabilizes ChiX sRNA by invading the stem of its transcription terminator hairpin. Overall, our findings blur the distinction between effector and target in sRNA regulation, raising the possibility that some of the currently defined targets could actually be inhibitors of sRNA function.
+
+-Bacterial Proteins (-genetics; +metabolism)
+-Base Sequence
+-DNA Mutational Analysis
++Gene Expression Regulation, Bacterial
+-Host Factor 1 Protein (-metabolism)
+-MicroRNAs (+genetics)
+-Molecular Sequence Data
+-Mutation
+-Porins (-chemistry; -genetics; -metabolism)
+-RNA Stability
+-Salmonella (-genetics; +metabolism)
+
+pii:gad.541609
+doi:10.1101/gad.541609
+pubmed:19638370
+pmc:PMC2751969
+

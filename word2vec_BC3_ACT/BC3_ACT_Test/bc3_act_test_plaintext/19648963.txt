@@ -1,0 +1,32 @@
+Oncogene
+
+Inhibition of PI-3K restores nuclear p27Kip1 expression in a mouse model of Kras-driven lung cancer.
+
+KS Kelly-Spratt, J Philipp-Staheli, KE Gurley, K Hoon-Kim, S Knoblaugh, CJ Kemp
+
+Reduced expression of the CDK inhibitor p27(Kip1) (p27) in human lung cancer correlates with tumor aggressiveness and poor prognosis. However, the regulation of p27 expression and the role of p27 during lung cancer are poorly understood. Urethane-induced lung tumors in mice frequently harbor mutations in the Kras oncogene, and in this study, we use this model to address the regulation of p27 during tumorigenesis. The Ras effector Akt is known to regulate p27 mRNA abundance by phosphorylating and inactivating the FOXO transcription factors. Phosphorylated Akt and FOXO proteins were both increased in lung tumors, correlating with a reduction in p27 mRNA transcript. Akt also directly phosphorylates p27 and regulates its nuclear/cytoplasmic localization. Tumors showed a reduced nuclear/cytoplasmic ratio of p27 protein, together with an increase in phosphorylated Thr197 p27 in the cytoplasmic pool. Treatment of lung tumor-bearing mice with the phosphoinositol-3 kinase inhibitor LY294002 induced a rapid decrease in phosphorylated Akt and phosphorylated p27, concomitant with an increase in nuclear p27. Germline p27 deficiency accelerated both the growth and malignant progression of urethane-induced lung tumors, and did so in a cell autonomous manner, confirming a causal role of p27 in tumor suppression. These results show that p27 is a potent barrier to the growth and malignant progression of Kras-initiated lung tumors. Further, the reduction of nuclear p27 in tumors is mediated by oncogene signaling pathways, which can be reversed by pharmacological agents.
+
+-1-Phosphatidylinositol 3-Kinase (+antagonists & inhibitors)
+-Animals
+-Carcinoma, Non-Small-Cell Lung (-chemically induced; -enzymology; -genetics; -pathology)
+-Cell Nucleus (+drug effects; -genetics; -metabolism)
+-Chromones (-pharmacology)
+-Cyclin-Dependent Kinase Inhibitor p27 (-deficiency; +genetics; +metabolism)
+-Disease Models, Animal
+-Enzyme Inhibitors (-pharmacology)
+-Gene Expression Regulation, Neoplastic (+drug effects)
+-Humans
+-Lung Neoplasms (-chemically induced; -enzymology; +genetics; -pathology)
+-Mice
+-Morpholines (-pharmacology)
+-Mutation
+-Proto-Oncogene Proteins p21(ras) (-genetics; +metabolism)
+-RNA, Messenger (-genetics; -metabolism)
+-Urethane (-pharmacology)
+
+pii:onc2009226
+doi:10.1038/onc.2009.226
+pubmed:19648963
+mid:NIHMS146026
+pmc:PMC2842079
+

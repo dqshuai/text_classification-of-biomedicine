@@ -1,0 +1,27 @@
+BioTechniques
+
+A novel yeast-based recombination method to clone and propagate diverse HIV-1 isolates.
+
+DM Dudley, Y Gao, KN Nelson, KR Henry, I Nankya, RM Gibson, EJ Arts
+
+Replication studies on human immunodeficiency virus 1 (HIV-1) rely on a few laboratory strains that are divergent from dominant HIV-1 subtypes in the epidemic. Several phenotypic differences between diverse HIV-1 isolates and subtypes could affect vaccine development and treatment, but this research field lacks robust cloning/virus production systems to study drug sensitivity, replication kinetics, or to develop personalized vaccines. Extreme HIV-1 heterogeneity leaves few restriction enzyme sites for bacterial cloning strategies. In this study, we describe an alternative approach that involves direct introduction of any HIV-1 coding regions (e.g., any gene from a patient sample) into an HIV-1 DNA vector using yeast recombination. This technique uses positive and negative selectable markers in yeast and avoids the need for purification and screening of the DNA substrates and cloning products. Replication-competent virus is then produced from a modified mammalian 293T packaging cell line transfected with this yeast-derived HIV-1 vector. Although HIV-1 served as the prototype, this cloning strategy is now being developed for other diverse virus species such as hepatitis C virus and influenza virus.
+
+-Cell Line
+-Genes, Viral
+-Genetic Complementation Test
+-Genetic Vectors
+-HIV Infections (-virology)
+-HIV-1 (-genetics; +growth & development; +isolation & purification)
+-Humans
+-Phylogeny
+-RNA, Viral (-genetics)
+-Recombination, Genetic (+genetics)
+-Reproducibility of Results
+-Saccharomyces cerevisiae (+genetics)
+-Virion (-pathogenicity)
++Virus Replication
+
+pii:000113119
+doi:10.2144/000113119
+pubmed:19480640
+

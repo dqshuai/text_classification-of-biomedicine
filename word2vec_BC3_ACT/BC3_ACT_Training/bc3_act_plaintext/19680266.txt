@@ -1,0 +1,31 @@
+Cell Death Differ.
+
+TRPC channel-mediated neuroprotection by PDGF involves Pyk2/ERK/CREB pathway.
+
+H Yao, F Peng, Y Fan, X Zhu, G Hu, SJ Buch
+
+Platelet-derived growth factor-BB (PDGF) has been reported to provide tropic support for neurons in the central nervous system. The protective role of PDGF on dopaminergic neurons, especially in the context of HIV-associated dementia (HAD), however, remains largely unknown. Here, we show that exogenous PDGF was neuroprotective against toxicity induced by HIV-1 Tat in primary midbrain neurons. Furthermore, we report the involvement of transient receptor potential canonical (TRPC) channels in PDGF-mediated neuroprotection. TRPC channels are Ca(2+)-permeable, nonselective cation channels with a variety of physiological functions. Blocking TRPC channels with either a blocker or short-interfering RNAs (specific for TRPC 5 and 6) in primary neurons resulted in suppression of both PDGF-mediated neuroprotection as well as elevations in intracellular Ca(2+). PDGF-mediated neuroprotection involved parallel but distinct ERK/CREB and PI3K/Akt pathways. TRPC channel blocking also resulted in suppression of PDGF-induced Pyk2/ERK/CREB activation, but not Akt activation. Relevance of these findings in vivo was further corroborated by intrastriatal injections of PDGF and HIV-1 Tat in mice. Administration of PDGF was able to rescue the dopaminergic neurons in the substantia nigra from Tat-induced neurotoxicity. This effect was attenuated by pre-treatment of mice with the TRP blocker, thus underscoring the novel role of TRPC channels in the neuroprotection mediated by PDGF.
+
+-Animals
+-Calcium (-metabolism)
+-Cell Survival (-drug effects)
+-Cells, Cultured
+-Cyclic AMP Response Element-Binding Protein (+metabolism)
+-Enzyme Activation
+-Extracellular Signal-Regulated MAP Kinases (+metabolism)
+-Focal Adhesion Kinase 2 (+metabolism)
+-HIV-1 (-chemistry)
++MAP Kinase Signaling System (-drug effects)
+-Mice
+-Mice, Inbred C57BL
+-Neurons (-drug effects; +metabolism)
+-Platelet-Derived Growth Factor (+metabolism)
+-TRPC Cation Channels (+metabolism)
+-tat Gene Products, Human Immunodeficiency Virus (-pharmacology)
+
+pii:cdd2009108
+doi:10.1038/cdd.2009.108
+pubmed:19680266
+mid:NIHMS130658
+pmc:PMC2783976
+

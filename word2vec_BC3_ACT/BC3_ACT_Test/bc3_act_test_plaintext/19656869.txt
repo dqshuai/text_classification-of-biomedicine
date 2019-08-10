@@ -1,0 +1,27 @@
+J. Virol.
+
+A B-box 2 surface patch important for TRIM5alpha self-association, capsid binding avidity, and retrovirus restriction.
+
+F Diaz-Griffero, XR Qin, F Hayashi, T Kigawa, A Finzi, Z Sarnak, M Lienlaf, S Yokoyama, J Sodroski
+
+TRIM5alpha is a tripartite motif (TRIM) protein that consists of RING, B-box 2, coiled-coil, and B30.2(SPRY) domains. The TRIM5alpha(rh) protein from rhesus monkeys recognizes the human immunodeficiency virus type 1 (HIV-1) capsid as it enters the host cell and blocks virus infection prior to reverse transcription. HIV-1-restricting ability can be eliminated by disruption of the B-box 2 domain. Changes in the TRIM5alpha(rh) B-box 2 domain have been associated with alterations in TRIM5alpha(rh) turnover, the formation of cytoplasmic bodies and higher-order oligomerization. We present here the nuclear magnetic resonance structure of the TRIM5 B-box 2 domain and identify an unusual hydrophobic patch (cluster 1) on the domain surface. Alteration of cluster 1 or the flanking arginine 121 resulted in various degrees of inactivation of HIV-1 restriction, in some cases depending on compensatory changes in other nearby charged residues. For this panel of TRIM5alpha(rh) B-box 2 mutants, inhibition of HIV-1 infection was strongly correlated with higher-order self-association and binding affinity for capsid complexes but not with TRIM5alpha(rh) half-life or the formation of cytoplasmic bodies. Thus, promoting cooperative TRIM5alpha(rh) interactions with the HIV-1 capsid represents a major mechanism whereby the B-box 2 domain potentiates HIV-1 restriction.
+
+-Animals
+-Capsid (+metabolism)
+-Cell Line
+-Dimerization
+-HIV-1 (-drug effects; -genetics; -metabolism; -pathogenicity)
+-Humans
+-Macaca mulatta
+-Magnetic Resonance Spectroscopy
+-Models, Molecular
+-Mutation
+-Protein Structure, Tertiary
+-Proteins (+chemistry; -genetics; +metabolism; -pharmacology)
+-Retroviridae (-drug effects; -genetics; -metabolism; +pathogenicity)
+
+pii:JVI.01307-09
+doi:10.1128/JVI.01307-09
+pubmed:19656869
+pmc:PMC2753111
+

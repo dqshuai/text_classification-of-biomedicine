@@ -1,0 +1,30 @@
+Nature
+
+Adaptive prediction of environmental changes by microorganisms.
+
+A Mitchell, GH Romano, B Groisman, A Yona, E Dekel, M Kupiec, O Dahan, Y Pilpel
+
+Natural habitats of some microorganisms may fluctuate erratically, whereas others, which are more predictable, offer the opportunity to prepare in advance for the next environmental change. In analogy to classical Pavlovian conditioning, microorganisms may have evolved to anticipate environmental stimuli by adapting to their temporal order of appearance. Here we present evidence for environmental change anticipation in two model microorganisms, Escherichia coli and Saccharomyces cerevisiae. We show that anticipation is an adaptive trait, because pre-exposure to the stimulus that typically appears early in the ecology improves the organism's fitness when encountered with a second stimulus. Additionally, we observe loss of the conditioned response in E. coli strains that were repeatedly exposed in a laboratory evolution experiment only to the first stimulus. Focusing on the molecular level reveals that the natural temporal order of stimuli is embedded in the wiring of the regulatory network-early stimuli pre-induce genes that would be needed for later ones, yet later stimuli only induce genes needed to cope with them. Our work indicates that environmental anticipation is an adaptive trait that was repeatedly selected for during evolution and thus may be ubiquitous in biology.
+
++Adaptation, Physiological
+-Carbohydrate Metabolism
+-Carbon (-metabolism)
+-Cell Respiration
++Environment
+-Escherichia coli (-genetics; +metabolism)
++Evolution
+-Fermentation
+-Gene Expression Regulation
+-Genomics
+-Heat-Shock Response (-genetics)
+-Lactose (-metabolism)
+-Maltose (-metabolism)
+-Osmotic Pressure
+-Oxidative Stress (-genetics)
+-Saccharomyces cerevisiae (-genetics; +metabolism)
+-Time Factors
+
+pii:nature08112
+doi:10.1038/nature08112
+pubmed:19536156
+

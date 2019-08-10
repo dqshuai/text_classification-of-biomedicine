@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+Accurate and efficient reconstruction of deep phylogenies from structured RNAs.
+
+RR Stocsits, H Letsch, J Hertel, B Misof, PF Stadler
+
+Ribosomal RNA (rRNA) genes are probably the most frequently used data source in phylogenetic reconstruction. Individual columns of rRNA alignments are not independent as a consequence of their highly conserved secondary structures. Unless explicitly taken into account, these correlation can distort the phylogenetic signal and/or lead to gross overestimates of tree stability. Maximum likelihood and Bayesian approaches are of course amenable to using RNA-specific substitution models that treat conserved base pairs appropriately, but require accurate secondary structure models as input. So far, however, no accurate and easy-to-use tool has been available for computing structure-aware alignments and consensus structures that can deal with the large rRNAs. The RNAsalsa approach is designed to fill this gap. Capitalizing on the improved accuracy of pairwise consensus structures and informed by a priori knowledge of group-specific structural constraints, the tool provides both alignments and consensus structures that are of sufficient accuracy for routine phylogenetic analysis based on RNA-specific substitution models. The power of the approach is demonstrated using two rRNA data sets: a mitochondrial rRNA set of 26 Mammalia, and a collection of 28S nuclear rRNAs representative of the five major echinoderm groups.
+
+-Animals
+-Base Sequence
+-Echinodermata (-genetics)
+-Nucleic Acid Conformation
++Phylogeny
+-Primates (-genetics)
+-RNA, Ribosomal (-chemistry; +classification)
+-Sequence Alignment
+-Software
+
+pii:gkp600
+doi:10.1093/nar/gkp600
+pubmed:19723687
+pmc:PMC2764418
+

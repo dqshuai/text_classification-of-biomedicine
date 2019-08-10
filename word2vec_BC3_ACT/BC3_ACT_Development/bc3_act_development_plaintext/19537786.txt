@@ -1,0 +1,22 @@
+J. Am. Chem. Soc.
+
+The R46Q, R131Q and R154H polymorphs of human DNA glycosylase/beta-lyase hOgg1 severely distort the active site and DNA recognition site but do not cause unfolding.
+
+PC Anderson, V Daggett
+
+Reactive oxygen species can cause widespread cellular damage, including base alterations and strand breaks in DNA. An array of DNA-repair enzymes constitutes an essential part of the line of defense that cells use against oxidative damage to the genome. A DNA glycosylase/beta-lyase enzyme, Ogg1, scavenges the genome for 8-oxoguanine, a major mutagenic DNA adduct induced by reactive oxygen species, and catalyzes its excision and subsequent cleavage of the DNA phosphate backbone. Several polymorphisms of Ogg1, including the single amino-acid substitutions R46Q, R131Q and R154H, are associated with a variety of human cancers. These three mutations have previously been characterized experimentally but no structural data have been published. We have performed multiple molecular dynamics simulations of R46Q, R131Q and R154H human Ogg1 to predict the structural and dynamical effects of the substitutions throughout the protein and specifically within the active site and substrate recognition site. None of the substitutions induced unfolding or global structural changes, instead their effects were confined principally to the active and recognition sites. Although the enzyme active site is located 18-21 A from the three investigated mutation sites, these mutations' structural effects propagate through space and cause a major change in the orientation and chemical environment of the active site side chains. This change appears likely to compromise the ability of the Lys 249 side chain to undergo a necessary deprotonation step prior to its nucleophilic attack of the DNA. The mutations also cause an expansion of the active site cavity, which may explain the experimentally observed decreases in substrate specificity.
+
++Catalytic Domain
+-Computer Simulation
+-DNA Glycosylases (+chemistry; -genetics)
+-Humans
+-Models, Molecular
+-Molecular Structure
++Polymorphism, Genetic
+-Protein Folding
+
+doi:10.1021/ja809726e
+pubmed:19537786
+mid:NIHMS126109
+pmc:PMC2742485
+

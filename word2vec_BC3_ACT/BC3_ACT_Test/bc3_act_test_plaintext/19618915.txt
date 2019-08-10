@@ -1,0 +1,28 @@
+Biochemistry
+
+Prion proteins with pathogenic and protective mutations show similar structure and dynamics.
+
+SH Bae, G Legname, A Serban, SB Prusiner, PE Wright, HJ Dyson
+
+Conformational change in the prion protein (PrP) is thought to be responsible for a group of rare but fatal neurodegenerative diseases of humans and other animals, including Creutzfeldt-Jakob disease and bovine spongiform encephalopathy. However, little is known about the mechanism by which normal cellular PrPs initiate and propagate the conformational change. Here, we studied backbone dynamics of the inherited pathogenic mutants (P101L and H186R), protective mutants (Q167R and Q218K), and wild-type mouse PrP(89-230) at pH 5.5 and 3.5. Mutations result in minor chemical shift changes around the mutation sites except that H186R induces large chemical shift changes at distal regions. At lower pH values, the C-terminal half of the second helix is significantly disordered for the wild-type and all mutant proteins, while other parts of the protein are essentially unaffected. This destabilization is accompanied by protonation of the partially exposed histidine H186 in the second helix of the wild-type protein. This region in the mutant protein H186R is disordered even at pH 5.5. The wild-type and mutant proteins have similar microsecond conformational exchange near the two beta-strands and have similar nanosecond internal motions in several regions including the C-terminal half of the second helix, but only wild type and P101L have extensive nanosecond internal motions throughout the helices. These motions mostly disappear at lower pH. Our findings raise the possibility that the pathogenic or dominant negative mutations exert their effects on some non-native intermediate form such as PrP* after conversion of cellular PrP (PrP(C)) into the pathogenic isoform PrP(Sc) has been initiated; additionally, formation of PrP(Sc) might begin within the C-terminal folded region rather than in the disordered N-terminal region.
+
+-Amino Acid Sequence
+-Animals
+-Humans
+-Hydrogen-Ion Concentration
+-Mice
+-Models, Molecular
+-Molecular Sequence Data
+-Mutant Proteins (+chemistry; +genetics; -metabolism)
++Mutation
+-Neurodegenerative Diseases (-genetics)
+-Prions (+chemistry; +genetics; -metabolism)
+-Protein Conformation
+-Protein Folding
+-Protons
+
+doi:10.1021/bi900923b
+pubmed:19618915
+mid:NIHMS134085
+pmc:PMC2762478
+

@@ -1,0 +1,25 @@
+RNA
+
+Structure-activity relationships in human RNA 3'-phosphate cyclase.
+
+N Tanaka, S Shuman
+
+RNA 3'-phosphate cyclase (Rtc) enzymes are a widely distributed family that catalyze the synthesis of RNA 2',3' cyclic phosphate ends via an ATP-dependent pathway comprising three nucleotidyl transfer steps: reaction of Rtc with ATP to form a covalent Rtc-(histidinyl-N)-AMP intermediate and release PP(i); transfer of AMP from Rtc1 to an RNA 3'-phosphate to form an RNA(3')pp(5')A intermediate; and attack by the terminal nucleoside O2' on the 3'-phosphate to form an RNA 2',3' cyclic phosphate product and release AMP. Here we used the crystal structure of Escherichia coli RtcA to guide a mutational analysis of the human RNA cyclase Rtc1. An alanine scan defined seven conserved residues as essential for the Rtc1 RNA cyclization and autoadenylylation reactions. Structure-activity relationships were clarified by conservative substitutions. Our results are consistent with a mechanism of adenylate transfer in which attack of the Rtc1 His320 nucleophile on the ATP alpha phosphorus is facilitated by proper orientation of the PP(i) leaving group via contacts to Arg21, Arg40, and Arg43. We invoke roles for Tyr294 in binding the adenine base and Glu14 in binding the divalent cation cofactor. We find that Rtc1 forms a stable binary complex with a 3'-phosphate terminated RNA, but not with an otherwise identical 3'-OH terminated RNA. Mutation of His320 had little impact on RNA 3'-phosphate binding, signifying that covalent adenylylation of Rtc1 is not a prerequisite for end recognition.
+
+-Amino Acid Sequence
+-Biocatalysis
+-Catalytic Domain
+-Escherichia coli (-genetics)
+-Humans
+-Ligases (-chemistry; -genetics; +metabolism)
+-Molecular Sequence Data
+-Mutagenesis
+-Recombinant Proteins (-chemistry; -genetics; -metabolism)
+-Sequence Homology, Amino Acid
+-Structure-Activity Relationship
+
+pii:rna.1771509
+doi:10.1261/rna.1771509
+pubmed:19690099
+pmc:PMC2743044
+

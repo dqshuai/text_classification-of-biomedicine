@@ -1,0 +1,20 @@
+BMC Bioinformatics
+
+The Mycoplasma conjunctivae genome sequencing, annotation and analysis.
+
+SP Calderon-Copete, G Wigger, C Wunderlin, T Schmidheini, J Frey, MA Quail, L Falquet
+
+BACKGROUND: The mollicute Mycoplasma conjunctivae is the etiological agent leading to infectious keratoconjunctivitis (IKC) in domestic sheep and wild caprinae. Although this pathogen is relatively benign for domestic animals treated by antibiotics, it can lead wild animals to blindness and death. This is a major cause of death in the protected species in the Alps (e.g., Capra ibex, Rupicapra rupicapra). METHODS: The genome was sequenced using a combined technique of GS-FLX (454) and Sanger sequencing, and annotated by an automatic pipeline that we designed using several tools interconnected via PERL scripts. The resulting annotations are stored in a MySQL database. RESULTS: The annotated sequence is deposited in the EMBL database (FM864216) and uploaded into the mollicutes database MolliGen http://cbi.labri.fr/outils/molligen/ allowing for comparative genomics. CONCLUSION: We show that our automatic pipeline allows for annotating a complete mycoplasma genome and present several examples of analysis in search for biological targets (e.g., pathogenic proteins).
+
+-Computational Biology (+methods)
+-Databases, Genetic
++Genome, Bacterial
+-Genomics
+-Mycoplasma conjunctivae (+genetics)
+-Sequence Analysis
+
+pii:1471-2105-10-S6-S7
+doi:10.1186/1471-2105-10-S6-S7
+pubmed:19534756
+pmc:PMC2697654
+

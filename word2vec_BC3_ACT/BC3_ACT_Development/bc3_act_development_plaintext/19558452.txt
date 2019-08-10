@@ -1,0 +1,27 @@
+J. Neurochem.
+
+The SIRT1 activator resveratrol protects SK-N-BE cells from oxidative stress and against toxicity caused by alpha-synuclein or amyloid-beta (1-42) peptide.
+
+D Albani, L Polito, S Batelli, S De Mauro, C Fracasso, G Martelli, L Colombo, C Manzoni, M Salmona, S Caccia, A Negro, G Forloni
+
+Human sirtuins are a family of seven conserved proteins (SIRT1-7). The most investigated is the silent mating type information regulation-2 homolog (SIRT1, NM_012238), which was associated with neuroprotection in models of polyglutamine toxicity or Alzheimer's disease (AD) and whose activation by the phytocompound resveratrol (RES) has been described. We have examined the neuroprotective role of RES in a cellular model of oxidative stress, a common feature of neurodegeneration. RES prevented toxicity triggered by hydrogen peroxide or 6-hydroxydopamine (6-OHDA). This action was likely mediated by SIRT1 activation, as the protection was lost in the presence of the SIRT1 inhibitor sirtinol and when SIRT1 expression was down-regulated by siRNA approach. RES was also able to protect SK-N-BE from the toxicity arising from two aggregation-prone proteins, the AD-involved amyloid-beta (1-42) peptide (Abeta42) and the familiar Parkinson's disease linked alpha-synuclein(A30P) [alpha-syn(A30P)]. Alpha-syn(A30P) toxicity was restored by sirtinol addition, while a partial RES protective effect against Abeta42 was found even in presence of sirtinol, thus suggesting a direct RES effect on Abeta42 fibrils. We conclude that SIRT1 activation by RES can prevent in our neuroblastoma model the deleterious effects triggered by oxidative stress or alpha-syn(A30P) aggregation, while RES displayed a SIRT1-independent protective action against Abeta42.
+
+-Amino Acid Sequence
+-Amyloid beta-Protein (+toxicity)
+-Cell Death (-drug effects; -physiology)
+-Cell Line, Tumor
+-Dose-Response Relationship, Drug
+-Enzyme Activation (-drug effects; -physiology)
+-Humans
+-Molecular Sequence Data
+-Oxidative Stress (+drug effects; -physiology)
+-Peptide Fragments (+toxicity)
+-Sirtuin 1
+-Sirtuins (-agonists; +metabolism)
+-Stilbenes (+pharmacology)
+-alpha-Synuclein (+toxicity)
+
+pii:JNC6228
+doi:10.1111/j.1471-4159.2009.06228.x
+pubmed:19558452
+

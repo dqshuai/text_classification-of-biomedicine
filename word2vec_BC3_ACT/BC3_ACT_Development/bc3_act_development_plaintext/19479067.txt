@@ -1,0 +1,19 @@
+PLoS ONE
+
+GPS measurement error gives rise to spurious 180 degree turning angles and strong directional biases in animal movement data.
+
+A Hurford
+
+BACKGROUND: Movement data are frequently collected using Global Positioning System (GPS) receivers, but recorded GPS locations are subject to errors. While past studies have suggested methods to improve location accuracy, mechanistic movement models utilize distributions of turning angles and directional biases and these data present a new challenge in recognizing and reducing the effect of measurement error. METHODS: I collected locations from a stationary GPS collar, analyzed a probabilistic model and used Monte Carlo simulations to understand how measurement error affects measured turning angles and directional biases. RESULTS: Results from each of the three methods were in complete agreement: measurement error gives rise to a systematic bias where a stationary animal is most likely to be measured as turning 180 degrees or moving towards a fixed point in space. These spurious effects occur in GPS data when the measured distance between locations is <20 meters. CONCLUSIONS: Measurement error must be considered as a possible cause of 180 degree turning angles in GPS data. Consequences of failing to account for measurement error are predicting overly tortuous movement, numerous returns to previously visited locations, inaccurately predicting species range, core areas, and the frequency of crossing linear features. By understanding the effect of GPS measurement error, ecologists are able to disregard false signals to more accurately design conservation plans for endangered wildlife.
+
++Animal Migration
+-Animals
+-Bias (Epidemiology)
+-Geographic Information Systems (+instrumentation)
++Research Design
+-Wolves (-physiology)
+
+doi:10.1371/journal.pone.0005632
+pubmed:19479067
+pmc:PMC2682572
+

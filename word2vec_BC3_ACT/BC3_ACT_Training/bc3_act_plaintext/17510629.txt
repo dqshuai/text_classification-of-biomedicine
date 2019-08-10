@@ -1,0 +1,24 @@
+EMBO J.
+
+A genome-wide role for CHD remodelling factors and Nap1 in nucleosome disassembly.
+
+J Walfridsson, O Khorosjutina, P Matikainen, CM Gustafsson, K Ekwall
+
+Chromatin remodelling factors and histone chaperones were previously shown to cooperatively affect nucleosome assembly and disassembly processes in vitro. Here, we show that Schizosaccharomyces pombe CHD remodellers, the Hrp1 and Hrp3 paralogs physically interact with the histone chaperone Nap1. Genome-wide analysis of Hrp1, Hrp3 and Nap1 occupancy, combined with nucleosome density measurements revealed that the CHD factors and Nap1 colocalized in particular to promoter regions where they remove nucleosomes near the transcriptional start site. Hrp1 and Hrp3 also regulate nucleosome density in coding regions, where they have redundant roles to stimulate transcription. Previously, DNA replication-dependent and -independent nucleosome disassembly processes have been described. We found that nucleosome density increased in the hrp1 mutant in the absence of DNA replication. Finally, regions where nucleosome density increased in hrp1, hrp3 and nap1 mutants also showed nucleosome density and histone modification changes in HDAC and HAT mutants. Thus, this study revealed an important in vivo role for CHD remodellers and Nap1 in nucleosome disassembly at promoters and coding regions, which are linked to changes in histone acetylation.
+
+-Acetylation
++Chromatin Assembly and Disassembly
+-DNA Replication
+-Fungal Proteins (+physiology)
+-Gene Expression Regulation, Fungal
++Genome, Fungal
+-Histones (-metabolism)
+-Nucleosomes (+metabolism)
+-Promoter Regions, Genetic
+-Schizosaccharomyces (+genetics)
+
+pii:7601728
+doi:10.1038/sj.emboj.7601728
+pubmed:17510629
+pmc:PMC1894767
+

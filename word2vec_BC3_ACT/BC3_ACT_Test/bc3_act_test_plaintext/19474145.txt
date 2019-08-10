@@ -1,0 +1,30 @@
+RNA
+
+Processing bodies are not required for mammalian nonsense-mediated mRNA decay.
+
+L Stalder, O Mühlemann
+
+Nonsense-mediated mRNA decay (NMD) is a eukaryotic quality-control mechanism that recognizes and degrades mRNAs with premature termination codons (PTCs). In yeast, PTC-containing mRNAs are targeted to processing bodies (P-bodies), and yeast strains expressing an ATPase defective Upf1p mutant accumulate P-bodies. Here we show that in human cells, an ATPase-deficient UPF1 mutant and a fraction of UPF2 and UPF3b accumulate in cytoplasmic foci that co-localize with P-bodies. Depletion of the P-body component Ge-1, which prevents formation of microscopically detectable P-bodies, also impairs the localization of mutant UPF1, UPF2, and UPF3b in cytoplasmic foci. However, the accumulation of the ATPase-deficient UPF1 mutant in P-bodies is independent of UPF2, UPF3b, or SMG1, and the ATPase-deficient UPF1 mutant can localize into the P-bodies independent of its phosphorylation status. Most importantly, disruption of P-bodies by depletion of Ge-1 affects neither the mRNA levels of PTC-containing reporter genes nor endogenous NMD substrates. Consistent with the recently reported decapping-independent SMG6-mediated endonucleolytic decay of human nonsense mRNAs, our results imply that microscopically detectable P-bodies are not required for mammalian NMD.
+
+-1-Phosphatidylinositol 3-Kinase (-antagonists & inhibitors; -genetics; -metabolism)
+-Codon, Nonsense (+genetics)
+-Cytoplasmic Structures (+metabolism)
+-Hela Cells
+-Humans
+-Immunoblotting
+-Immunoenzyme Techniques
+-Mutation
+-Phosphorylation
++RNA Stability
+-RNA, Messenger (-genetics; +metabolism)
+-RNA, Small Interfering (-pharmacology)
+-RNA-Binding Proteins (-antagonists & inhibitors; -genetics; +metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Trans-Activators (-antagonists & inhibitors; -genetics; +metabolism)
+-Transcription Factors (-antagonists & inhibitors; -genetics; +metabolism)
+
+pii:rna.1672509
+doi:10.1261/rna.1672509
+pubmed:19474145
+pmc:PMC2704072
+

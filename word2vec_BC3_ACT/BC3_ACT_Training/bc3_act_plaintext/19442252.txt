@@ -1,0 +1,37 @@
+Biochem. Soc. Trans.
+
+The impact of heterochromatin on DSB repair.
+
+AA Goodarzi, AT Noon, PA Jeggo
+
+DNA NHEJ (non-homologous end-joining) is the major DNA DSB (double-strand break) repair pathway in mammalian cells. Although NHEJ-defective cell lines show marked DSB-repair defects, cells defective in ATM (ataxia telangiectasia mutated) repair most DSBs normally. Thus NHEJ functions independently of ATM signalling. However, approximately 15% of radiation-induced DSBs are repaired with slow kinetics and require ATM and the nuclease Artemis. DSBs persisting in the presence of an ATM inhibitor, ATMi, localize to heterochromatin, suggesting that ATM is required for repairing DSBs arising within or close to heterochromatin. Consistent with this, we show that siRNA (small interfering RNA) of key heterochromatic proteins, including KAP-1 [KRAB (Krüppel-associated box) domain-associated protein 1], HP1 (heterochromatin protein 1) and HDAC (histone deacetylase) 1/2, relieves the requirement for ATM for DSB repair. Furthermore, ATMi addition to cell lines with genetic alterations that have an impact on heterochromatin, including Suv39H1/2 (suppressor of variegation 3-9 homologue 1/2)-knockout, ICFa (immunodeficiency, centromeric region instability, facial anomalies syndrome type a) and Hutchinson-Guilford progeria cell lines, fails to have an impact on DSB repair. KAP-1 is a highly dose-dependent, transient and ATM-specific substrate, and mutation of the ATM phosphorylation site on KAP-1 influences DSB repair. Collectively, the findings show that ATM functions to overcome the barrier to DSB repair posed by heterochromatin. However, even in the presence of ATM, gamma-H2AX (phosphorylated histone H2AX) foci form on the periphery rather than within heterochromatic centres. Finally, we show that KAP-1's association with heterochromatin is diminished as cells progress through mitosis. We propose that KAP-1 is a critical heterochromatic factor that undergoes specific modifications to promote DSB repair and mitotic progression in a manner that allows localized and transient chromatin relaxation, but precludes significant dismantling of the heterochromatic superstructure.
+
+-Animals
+-Binding Sites (-genetics)
+-Cell Cycle Proteins (-antagonists & inhibitors; -genetics; -metabolism)
+-Cell Line
+-Chromosomal Proteins, Non-Histone (-genetics; -metabolism)
++DNA Breaks, Double-Stranded
+-DNA Repair (-genetics; +physiology)
+-DNA-Binding Proteins (-antagonists & inhibitors; -genetics; -metabolism)
+-Fibroblasts (-cytology; -metabolism; -radiation effects)
+-Fluorescent Antibody Technique
+-Heterochromatin (+genetics)
+-Histone Deacetylases (-genetics; -metabolism)
+-Immunoblotting
+-Mice
+-Mutation
+-NIH 3T3 Cells
+-Nuclear Proteins (-genetics; -metabolism)
+-Phosphorylation
+-Protein-Serine-Threonine Kinases (-antagonists & inhibitors; -genetics; -metabolism)
+-RNA Interference
+-Radiation, Ionizing
+-Recombination, Genetic
+-Repressor Proteins (-genetics; -metabolism)
+-Tumor Suppressor Proteins (-antagonists & inhibitors; -genetics; -metabolism)
+
+pii:BST0370569
+doi:10.1042/BST0370569
+pubmed:19442252
+

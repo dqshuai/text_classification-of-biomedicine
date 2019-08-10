@@ -1,0 +1,22 @@
+Biophys. J.
+
+Reversible formation of nanodomains in monolayers of DPPC studied by kinetic modeling.
+
+M Stepanova
+
+Dipalmitoylphosphatidylcholine (DPPC) is the most abundant component in pulmonary surfactants and is believed to be responsible for maintaining low surface tension in alveoli during breathing. In this work, a kinetic model is introduced that describes the phase separation in DPPC films that produces the liquid-condensed (LC) and liquid-expanded (LE) fractions, which differ according to the area density of DPPC. The phase separation in an initially homogeneous film has been investigated numerically. Furthermore, explicit simulations of periodic compression-expansion cycles are reported. In this process, a moderate change of the surface area resulted in a dramatic change in the total amount of LC fraction, as well as in the surface morphology. Depending on the extent of the film's compression, the simulated surface morphologies comprised individual nanosized LC domains embedded in the LE fraction, interconnected networks of such domains, or continuous LC films with nanopores. Equilibration of the total area of the LC nanodomains occurred over a few milliseconds, indicating that the rate of the LE-LC phase transformation is sufficient for maintaining low surface tension during breathing, and that nanoscale LC domains are likely to play a major role in this process. Unlike the total content of the LC fraction, which stabilized quickly, the average size of LC nanodomains showed a tendency to increase slowly, at a rate determined by the diffusivity of DPPC. The computed average domain size seems to be compatible with published experiments for DPPC films. The numeric results also elucidate the distinction between thermodynamically determined and kinetically limited structural properties during phase separation in the major structure-forming component of pulmonary surfactants.
+
+-1,2-Dipalmitoylphosphatidylcholine (+chemistry)
+-Diffusion
+-Humans
+-Kinetics
++Membranes, Artificial
++Models, Biological
++Nanostructures (-ultrastructure)
+-Pulmonary Alveoli (+chemistry)
+
+pii:S0006-3495(09)00786-3
+doi:10.1016/j.bpj.2009.03.041
+pubmed:19527648
+pmc:PMC2712038
+

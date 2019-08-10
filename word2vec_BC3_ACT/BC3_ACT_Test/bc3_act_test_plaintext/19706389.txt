@@ -1,0 +1,27 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+The estrogen receptor-alpha-induced microRNA signature regulates itself and its transcriptional response.
+
+L Castellano, G Giamas, J Jacob, RC Coombes, W Lucchesi, P Thiruchelvam, G Barton, LR Jiao, R Wait, J Waxman, GJ Hannon, J Stebbing
+
+Following estrogenic activation, the estrogen receptor-alpha (ERalpha) directly regulates the transcription of target genes via DNA binding. MicroRNAs (miRNAs) modulated by ERalpha have the potential to fine tune these regulatory systems and also provide an alternate mechanism that could impact on estrogen-dependent developmental and pathological systems. Through a microarray approach, we identify the subset of microRNAs (miRNAs) modulated by ERalpha, which include upregulation of miRNAs derived from the processing of the paralogous primary transcripts (pri-) mir-17-92 and mir-106a-363. Characterization of the mir-17-92 locus confirms that the ERalpha target protein c-MYC binds its promoter in an estrogen-dependent manner. We observe that levels of pri-mir-17-92 increase earlier than the mature miRNAs derived from it, implicating precursor cleavage modulation after transcription. Pri-mir-17-92 is immediately cleaved by DROSHA to pre-miR-18a, indicating that its regulation occurs during the formation of the mature molecule from the precursor. The clinical implications of this novel regulatory system were confirmed by demonstrating that pre-miR-18a was significantly upregulated in ERalpha-positive compared to ERalpha-negative breast cancers. Mechanistically, miRNAs derived from these paralogous pri-miRNAs (miR-18a, miR-19b, and miR-20b) target and downregulate ERalpha, while a subset of pri-miRNA-derived miRNAs inhibit protein translation of the ERalpha transcriptional p160 coactivator, AIB1. Therefore, different subsets of miRNAs identified act as part of a negative autoregulatory feedback loop. We propose that ERalpha, c-MYC, and miRNA transcriptional programs invoke a sophisticated network of interactions able to provide the wide range of coordinated cellular responses to estrogen.
+
+-3' Untranslated Regions
+-Breast Neoplasms (-genetics; -metabolism)
+-Cell Line, Tumor
+-Estradiol (-pharmacology)
+-Estrogen Receptor alpha (+genetics; +metabolism)
+-Female
+-Humans
+-MicroRNAs (+genetics; +metabolism)
+-RNA Processing, Post-Transcriptional
+-RNA, Neoplasm (-genetics; -metabolism)
+-Ribonuclease III (-genetics; -metabolism)
+-Transcription, Genetic (-drug effects)
+-Up-Regulation (-drug effects)
+
+pii:0906947106
+doi:10.1073/pnas.0906947106
+pubmed:19706389
+pmc:PMC2747188
+

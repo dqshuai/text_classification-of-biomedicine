@@ -1,0 +1,35 @@
+Hum. Mol. Genet.
+
+LRRK2 regulates autophagic activity and localizes to specific membrane microdomains in a novel human genomic reporter cellular model.
+
+J Alegre-Abarrategui, H Christian, MM Lufino, R Mutihac, LL Venda, O Ansorge, R Wade-Martins
+
+Leucine rich repeat kinase 2 (LRRK2) mutations are the most common genetic cause of Parkinson's disease (PD) although LRRK2 function remains unclear. We report a new role for LRRK2 in regulating autophagy and describe the recruitment of LRRK2 to the endosomal-autophagic pathway and specific membrane subdomains. Using a novel human genomic reporter cellular model, we found LRRK2 to locate to membrane microdomains such as the neck of caveolae, microvilli/filopodia and intraluminal vesicles of multivesicular bodies (MVBs). In human brain and in cultured human cells LRRK2 was present in cytoplasmic puncta corresponding to MVBs and autophagic vacuoles (AVs). Expression of the common R1441C mutation from a genomic DNA construct caused impaired autophagic balance evident by the accumulation of MVBs and large AVs containing incompletely degraded material and increased levels of p62. Furthermore, the R1441C mutation induced the formation of skein-like abnormal MVBs. Conversely, LRRK2 siRNA knockdown increased autophagic activity and prevented cell death caused by inhibition of autophagy in starvation conditions. The work necessitated developing a new, more efficient recombineering strategy, which we termed Sequential insertion of Target with ovErlapping Primers (STEP) to seamlessly fuse the green fluorescent protein-derivative YPet to the human LRRK2 protein in the LRRK2 genomic locus carried by a bacterial artificial chromosome. Taken together our data demonstrate the functional involvement of LRRK2 in the endosomal-autophagic pathway and the recruitment to specific membrane microdomains in a physiological human gene expression model suggesting a novel function for this important PD-related protein.
+
++Autophagy
+-Brain (-metabolism)
+-Caveolae (-metabolism; -ultrastructure)
+-Cell Line
+-Endosomes (-metabolism; -ultrastructure)
+-Green Fluorescent Proteins (-genetics; +metabolism)
+-Humans
+-Immunoblotting
+-Immunoprecipitation
+-Membrane Microdomains (+metabolism; -ultrastructure)
+-Microscopy, Immunoelectron
+-Microtubule-Associated Proteins (-metabolism)
+-Microvilli (-metabolism; -ultrastructure)
+-Mutation
+-Parkinson Disease (-genetics)
+-Protein Binding
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-RNA, Small Interfering (-genetics)
+-RNA-Binding Proteins (-metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Transfection
+
+pii:ddp346
+doi:10.1093/hmg/ddp346
+pubmed:19640926
+pmc:PMC2758136
+

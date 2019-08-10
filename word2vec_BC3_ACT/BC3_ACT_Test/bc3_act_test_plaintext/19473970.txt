@@ -1,0 +1,39 @@
+J. Biol. Chem.
+
+FOXO3a regulates oxygen-responsive expression of tumor necrosis factor receptor 2 in human dermal microvascular endothelial cells.
+
+B Ding, NC Kirkiles-Smith, JS Pober
+
+Microvascular endothelial cell (EC) expression of tumor necrosis factor receptor (TNFR) 2 is induced in situ by ischemia/reperfusion injury. To assess effects of molecular oxygen on TNFR2 expression, we subjected cultured human dermal microvascular ECs (HDMECs) to hypoxic conditions (1% O(2)) or to hypoxic conditions followed by return to normoxic conditions. TNFR2 mRNA and protein are expressed under normoxic conditions but are rapidly reduced by hypoxia; they fall even further upon reoxygenation but rebound by 6-9 h. TNFR1 expression is unaffected by hypoxia or reoxygenation in these same cells. We identified a potential FOXO3a binding site in the 5' enhancer region of the TNFR2 gene. FOXO3a from normoxic but not hypoxic HDMECs binds an oligonucleotide sequence matching this site, and the endogenous enhancer binds FOXO3a at this site in HDMECs under normoxic but not hypoxic conditions. Unphosphorylated FOXO3a is present in the nucleus of HDMECs under normoxic conditions. Hypoxia leads to FOXO3a phosphorylation at an Akt/protein kinase B target site and subsequent nuclear export; these processes are reversed by reoxygenation and blocked by LY294002, a phosphatidylinositol 3-kinase inhibitor that blocks Akt activation. LY294002 also prevents the hypoxia-mediated decrease in TNFR2 expression. Transiently transfected FOXO3a activates a TNFR2 promoter/reporter construct in HDMECs, whereas small interference RNA knockdown of FOXO3a reduces TNFR2 but not TNFR1 expression under normoxic conditions. Reduction in TNFR2 by small interference RNA sensitizes HDMECs to TNFR1-mediated apoptosis. We conclude that FOXO3a regulates oxygen-dependent changes in expression of TNFR2 in HDMECs, controlling sensitivity to TNF-mediated apoptosis.
+
+-Apoptosis (-drug effects)
+-Base Sequence
+-Cell Hypoxia
+-Cells, Cultured
+-Chromatin Immunoprecipitation
+-Chromones (-pharmacology)
+-Cycloheximide (-pharmacology)
+-Dermis (-cytology)
+-Endothelial Cells (-cytology; +drug effects; -metabolism)
+-Forkhead Transcription Factors (-genetics; +metabolism)
+-Gene Expression (-drug effects)
+-Humans
+-Immunoblotting
+-Microscopy, Fluorescence
+-Molecular Sequence Data
+-Morpholines (-pharmacology)
+-Oxygen (+pharmacology)
+-Phosphorylation (-drug effects)
+-Protein Synthesis Inhibitors (-pharmacology)
+-RNA, Small Interfering (-genetics)
+-Receptors, Tumor Necrosis Factor, Type I (-genetics; -metabolism)
+-Receptors, Tumor Necrosis Factor, Type II (-genetics; +metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Transfection
+-Tumor Necrosis Factor-alpha (-pharmacology)
+
+pii:M109.006536
+doi:10.1074/jbc.M109.006536
+pubmed:19473970
+pmc:PMC2740558
+

@@ -1,0 +1,27 @@
+J. Biol. Chem.
+
+Calmodulin is a functional regulator of Cav1.4 L-type Ca2+ channels.
+
+K Griessmeier, H Cuny, K Rötzer, O Griesbeck, H Harz, M Biel, C Wahl-Schott
+
+Cav1.4 channels are unique among the high voltage-activated Ca2+ channel family because they completely lack Ca2+-dependent inactivation and display very slow voltage-dependent inactivation. Both properties are of crucial importance in ribbon synapses of retinal photoreceptors and bipolar cells, where sustained Ca2+ influx through Cav1.4 channels is required to couple slow graded changes of the membrane potential with tonic glutamate release. Loss of Cav1.4 function causes severe impairment of retinal circuitry function and has been linked to night blindness in humans and mice. Recently, an inhibitory domain (ICDI: inhibitor of Ca2+-dependent inactivation) in the C-terminal tail of Cav1.4 has been discovered that eliminates Ca2+-dependent inactivation by binding to upstream regulatory motifs within the proximal C terminus. The mechanism underlying the action of ICDI is unclear. It was proposed that ICDI competitively displaces the Ca2+ sensor calmodulin. Alternatively, the ICDI domain and calmodulin may bind to different portions of the C terminus and act independently of each other. In the present study, we used fluorescence resonance energy transfer experiments with genetically engineered cyan fluorescent protein variants to address this issue. Our data indicate that calmodulin is preassociated with the C terminus of Cav1.4 but may be tethered in a different steric orientation as compared with other Ca2+ channels. We also find that calmodulin is important for Cav1.4 function because it increases current density and slows down voltage-dependent inactivation. Our data show that the ICDI domain selectively abolishes Ca2+-dependent inactivation, whereas it does not interfere with other calmodulin effects.
+
+-Amino Acid Motifs (-genetics)
+-Animals
+-Calcium (+metabolism)
+-Calcium Channels (-genetics; +metabolism)
+-Calmodulin (-genetics; +metabolism)
+-Cell Line
+-Humans
++Ion Channel Gating
+-Mice
+-Night Blindness (-genetics; -metabolism)
+-Photoreceptor Cells, Vertebrate (+metabolism)
+-Protein Binding (-genetics)
+-Protein Structure, Tertiary (-genetics)
+
+pii:M109.048082
+doi:10.1074/jbc.M109.048082
+pubmed:19717559
+pmc:PMC2785611
+

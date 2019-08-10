@@ -1,0 +1,22 @@
+Biophys. J.
+
+Stochastic simulation of signal transduction: impact of the cellular architecture on diffusion.
+
+MT Klann, A Lapin, M Reuss
+
+The transduction of signals depends on the translocation of signaling molecules to specific targets. Undirected diffusion processes play a key role in the bridging of spaces between different cellular compartments. The diffusion of the molecules is, in turn, governed by the intracellular architecture. Molecular crowding and the cytoskeleton decrease macroscopic diffusion. This article shows the use of a stochastic simulation method to study the effects of the cytoskeleton structure on the mobility of macromolecules. Brownian dynamics and single particle tracking were used to simulate the diffusion process of individual molecules through a model cytoskeleton. The resulting average effective diffusion is in line with data obtained in the in vitro and in vivo experiments. It shows that the cytoskeleton structure strongly influences the diffusion of macromolecules. The simulation method used also allows the inclusion of reactions in order to model complete signaling pathways in their spatio-temporal dynamics, taking into account the effects of the cellular architecture.
+
+-Cells (+chemistry; +cytology; -metabolism)
+-Computer Simulation
+-Cytoskeleton (+metabolism)
+-Diffusion
+-Models, Molecular
+-Nonlinear Dynamics
++Signal Transduction
+-Stochastic Processes
+
+pii:S0006-3495(09)00778-4
+doi:10.1016/j.bpj.2009.03.049
+pubmed:19527672
+pmc:PMC2712048
+

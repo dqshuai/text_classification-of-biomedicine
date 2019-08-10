@@ -1,0 +1,27 @@
+PLoS Pathog.
+
+Structure-based stabilization of HIV-1 gp120 enhances humoral immune responses to the induced co-receptor binding site.
+
+B Dey, K Svehla, L Xu, D Wycuff, T Zhou, G Voss, A Phogat, BK Chakrabarti, Y Li, G Shaw, PD Kwong, GJ Nabel, JR Mascola, RT Wyatt
+
+The human immunodeficiency virus type 1 (HIV-1) exterior envelope glycoprotein, gp120, possesses conserved binding sites for interaction with the primary virus receptor, CD4, and also for the co-receptor, generally CCR5. Although gp120 is a major target for virus-specific neutralizing antibodies, the gp120 variable elements and its malleable nature contribute to evasion of effective host-neutralizing antibodies. To understand the conformational character and immunogenicity of the gp120 receptor binding sites as potential vaccine targets, we introduced structure-based modifications to stabilize gp120 core proteins (deleted of the gp120 major variable regions) into the conformation recognized by both receptors. Thermodynamic analysis of the re-engineered core with selected ligands revealed significant stabilization of the receptor-binding regions. Stabilization of the co-receptor-binding region was associated with a marked increase in on-rate of ligand binding to this site as determined by surface plasmon resonance. Rabbit immunization studies showed that the conformational stabilization of core proteins, along with increased ligand affinity, was associated with strikingly enhanced humoral immune responses against the co-receptor-binding site. These results demonstrate that structure-based approaches can be exploited to stabilize a conformational site in a large functional protein to enhance immunogenic responses specific for that region.
+
+-AIDS Vaccines
+-Animals
++Antibody Formation
+-Antigens, CD4 (+immunology)
+-Binding Sites (-immunology)
+-HIV Envelope Protein gp120 (-genetics; +immunology; -metabolism)
+-Humans
+-Ligands
+-Protein Conformation
+-Protein Engineering
+-Protein Stability
+-Rabbits
+-Receptors, CCR5 (+metabolism)
+-Receptors, HIV (+metabolism)
+
+doi:10.1371/journal.ppat.1000445
+pubmed:19478876
+pmc:PMC2680979
+

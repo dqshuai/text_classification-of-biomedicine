@@ -1,0 +1,30 @@
+Am. J. Physiol. Renal Physiol.
+
+Detection of low-frequency oscillations in renal blood flow.
+
+KL Siu, B Sung, WA Cupples, LC Moore, KH Chon
+
+Detection of the low-frequency (LF; approximately 0.01 Hz) component of renal blood flow, which is theorized to reflect the action of a third renal autoregulatory mechanism, has been difficult due to its slow dynamics. In this work, we used three different experimental approaches to detect the presence of the LF component of renal autoregulation using normotensive and spontaneously hypertensive rats (SHR), both anesthetized and unanesthetized. The first experimental approach utilized a blood pressure forcing in the form of a chirp, an oscillating perturbation with linearly increasing frequency, to elicit responses from the LF autoregulatory component in anesthetized normotensive rats. The second experimental approach involved collection and analysis of spontaneous blood flow fluctuation data from anesthetized normotensive rats and SHR to search for evidence of the LF component in the form of either amplitude or frequency modulation of the myogenic and tubuloglomerular feedback mechanisms. The third experiment used telemetric recordings of arterial pressure and renal blood flow from normotensive rats and SHR for the same purpose. Our transfer function analysis of chirp signal data yielded a resonant peak centered at 0.01 Hz that is greater than 0 dB, with the transfer function gain attenuated to lower than 0 dB at lower frequencies, which is a hallmark of autoregulation. Analysis of the data from the second experiments detected the presence of approximately 0.01-Hz oscillations only with isoflurane, albeit at a weaker strength compared with telemetric recordings. With the third experimental approach, the strength of the LF component was significantly weaker in the SHR than in the normotensive rats. In summary, our detection via the amplitude modulation approach of interactions between the LF component and both tubuloglomerular feedback and the myogenic mechanism, with the LF component having an identical frequency to that of the resonant gain peak, provides evidence that 0.01-Hz oscillations may represent the third autoregulatory mechanism.
+
+-Algorithms
+-Animals
+-Blood Pressure (+physiology)
+-Disease Models, Animal
+-Feedback (-physiology)
+-Homeostasis (+physiology)
+-Hypertension (-physiopathology)
+-Kidney (+blood supply)
+-Kidney Glomerulus (-physiology)
+-Male
+-Muscle, Smooth, Vascular (-physiology)
+-Rats
+-Rats, Inbred SHR
+-Rats, Long-Evans
+-Rats, Sprague-Dawley
+-Regional Blood Flow (+physiology)
+-Rheology (+methods)
+
+pii:00114.2009
+doi:10.1152/ajprenal.00114.2009
+pubmed:19420111
+

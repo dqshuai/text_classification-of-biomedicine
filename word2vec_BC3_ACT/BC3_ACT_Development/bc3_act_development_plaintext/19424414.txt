@@ -1,0 +1,30 @@
+PLoS Genet.
+
+Probing the functional impact of sequence variation on p53-DNA interactions using a novel microsphere assay for protein-DNA binding with human cell extracts.
+
+MA Noureddine, D Menendez, MR Campbell, OJ Bandele, MM Horvath, X Wang, GS Pittman, BN Chorley, MA Resnick, DA Bell
+
+The p53 tumor suppressor regulates its target genes through sequence-specific binding to DNA response elements (REs). Although numerous p53 REs are established, the thousands more identified by bioinformatics are not easily subjected to comparative functional evaluation. To examine the relationship between RE sequence variation -- including polymorphisms -- and p53 binding, we have developed a multiplex format microsphere assay of protein-DNA binding (MAPD) for p53 in nuclear extracts. Using MAPD we measured sequence-specific p53 binding of doxorubicin-activated or transiently expressed p53 to REs from established p53 target genes and p53 consensus REs. To assess the sensitivity and scalability of the assay, we tested 16 variants of the p21 target sequence and a 62-multiplex set of single nucleotide (nt) variants of the p53 consensus sequence and found many changes in p53 binding that are not captured by current computational binding models. A group of eight single nucleotide polymorphisms (SNPs) was examined and binding profiles closely matched transactivation capability tested in luciferase constructs. The in vitro binding characteristics of p53 in nuclear extracts recapitulated the cellular in vivo transactivation capabilities for eight well-established human REs measured by luciferase assay. Using a set of 26 bona fide REs, we observed distinct binding patterns characteristic of transiently expressed wild type and mutant p53s. This microsphere assay system utilizes biologically meaningful cell extracts in a multiplexed, quantitative, in vitro format that provides a powerful experimental tool for elucidating the functional impact of sequence polymorphism and protein variation on protein/DNA binding in transcriptional networks.
+
+-Base Sequence
+-Binding Sites (-genetics)
+-Cell Nucleus (-metabolism)
+-DNA (+genetics; +metabolism)
+-Fluorescent Dyes
+-Gene Regulatory Networks
+-Genes, p53
++Genetic Techniques (-statistics & numerical data)
+-Humans
+-Microspheres
+-Models, Genetic
+-Mutagenesis, Site-Directed
+-Polymorphism, Single Nucleotide
+-Protein Binding
+-Recombinant Proteins (-chemistry; -genetics; -metabolism)
+-Sensitivity and Specificity
+-Tumor Suppressor Protein p53 (-chemistry; -genetics; +metabolism)
+
+doi:10.1371/journal.pgen.1000462
+pubmed:19424414
+pmc:PMC2667269
+

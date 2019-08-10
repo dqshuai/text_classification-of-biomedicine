@@ -1,0 +1,36 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Human biliverdin reductase is an ERK activator; hBVR is an ERK nuclear transporter and is required for MAPK signaling.
+
+N Lerner-Marmarosh, T Miralem, PE Gibbs, MD Maines
+
+Activation of the MEK/ERK/Elk-signaling cascade is a mechanism for relaying mitogenic and stress stimuli for gene activation. MEK1 is the proximate kinase for activation of ERK1/2, and nuclear targeting of ERK1/2 is obligatory for Elk1 transcriptional activity. Human biliverdin reductase (hBVR) is a recently described Ser/Thr/Tyr kinase in the MAPK insulin/insulin-like growth factor 1 (IGF1)-signaling cascade. Using 293A cells and in vitro experiments, we detail the formation of a ternary complex of MEK/ERK/hBVR, activation of MEK1 and ERK1/2 kinase activities by hBVR, and phosphorylation of hBVR by ERK1/2. hBVR is nearly as effective as IGF1 in activating ERK; intact hBVR ATP-binding domain is necessary for Elk1 activation, whereas protein-protein interaction is the basis for hBVR activation of MEK1 and ERK. The two MAPK docking consensus sequences present in hBVR, F(162)GFP and K(275)KRILHCLGL (C- and D-box, respectively), are ERK interactive sites; interaction at each site is critical for ERK/Elk1 activation. Transfection with mutant hBVR-P(165) or peptides corresponding to the C- or D-box blocked activation of ERK by IGF1. Transfection with D-box mutant hBVR prevented the activation of ERK by wild-type protein and dramatically decreased Elk1 transcriptional activity. hBVR is a nuclear transporter of ERK; experiments with hBVR nuclear export signal (NES) and nuclear localization signal (NLS) mutants demonstrated its critical role in the nuclear localization of IGF-stimulated ERK for Elk1 activation. These findings, together with observations that si-hBVR blocked activation of ERK and Elk1 by IGF1 and prevented formation of ternary complex between MEK/ERK/hBVR, define the critical role of hBVR in ERK signaling and nuclear functions of the kinase.
+
+-Amino Acid Motifs
+-Cell Line
+-Cell Nucleus (-drug effects; +enzymology)
+-Enzyme Activation (-drug effects)
+-Enzyme Activators (+metabolism)
+-Gene Expression Regulation (-drug effects)
+-Humans
+-Insulin-Like Growth Factor I (-pharmacology)
++MAP Kinase Signaling System (-drug effects)
+-Mitogen-Activated Protein Kinase 1 (+metabolism)
+-Mitogen-Activated Protein Kinase 3 (+metabolism)
+-Mitogen-Activated Protein Kinase Kinases (-metabolism)
+-Models, Biological
+-Nuclear Export Signals
+-Nuclear Localization Signals
+-Oxidoreductases Acting on CH-CH Group Donors (-chemistry; +metabolism)
+-Phosphorylation (-drug effects)
+-Protein Binding (-drug effects)
+-Protein Transport (-drug effects)
+-Transcription, Genetic (-drug effects)
+-Transcriptional Activation
+-ets-Domain Protein Elk-1 (-metabolism)
+
+pii:0800750105
+doi:10.1073/pnas.0800750105
+pubmed:18463290
+pmc:PMC2383961
+

@@ -1,0 +1,28 @@
+Nucleic Acids Res.
+
+RNA-binding specificity of E. coli NusA.
+
+S Prasch, M Jurk, RS Washburn, ME Gottesman, BM Wöhrl, P Rösch
+
+The RNA sequences boxA, boxB and boxC constitute the nut regions of phage lambda. They nucleate the formation of a termination-resistant RNA polymerase complex on the lambda chromosome. The complex includes E. coli proteins NusA, NusB, NusG and NusE, and the lambda N protein. A complex that includes the Nus proteins and other factors forms at the rrn leader. Whereas RNA-binding by NusB and NusE has been described in quantitative terms, the interaction of NusA with these RNA sequences is less defined. Isotropic as well as anisotropic fluorescence equilibrium titrations show that NusA binds only the nut spacer sequence between boxA and boxB. Thus, nutR boxA5-spacer, nutR boxA16-spacer and nutR boxA69-spacer retain NusA binding, whereas a spacer mutation eliminates complex formation. The affinity of NusA for nutL is 50% higher than for nutR. In contrast, rrn boxA, which includes an additional U residue, binds NusA in the absence of spacer. The K(d) values obtained for rrn boxA and rrn boxA-spacer are 19-fold and 8-fold lower, respectively, than those for nutR boxA-spacer. These differences may explain why lambda requires an additional protein, lambda N, to suppress termination. Knowledge of the different affinities now describes the assembly of the anti-termination complex in quantitative terms.
+
+-5' Untranslated Regions
+-Bacterial Proteins (-chemistry; +metabolism)
+-Bacteriophage lambda (-genetics)
+-Base Sequence
+-Binding Sites
+-Escherichia coli Proteins (-chemistry; +metabolism)
+-Genes, rRNA
+-Molecular Sequence Data
+-Operon
+-Peptide Elongation Factors (-chemistry; +metabolism)
+-Protein Binding
+-Protein Structure, Tertiary
+-RNA-Binding Proteins (-chemistry; +metabolism)
+-Transcription Factors (-chemistry; +metabolism)
+
+pii:gkp452
+doi:10.1093/nar/gkp452
+pubmed:19515940
+pmc:PMC2724277
+

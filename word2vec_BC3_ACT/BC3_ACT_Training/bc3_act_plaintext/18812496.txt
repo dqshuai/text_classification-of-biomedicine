@@ -1,0 +1,27 @@
+Plant Cell
+
+Arabidopsis ARC6 coordinates the division machineries of the inner and outer chloroplast membranes through interaction with PDV2 in the intermembrane space.
+
+JM Glynn, JE Froehlich, KW Osteryoung
+
+Chloroplasts arose from a free-living cyanobacterial endosymbiont and divide by binary fission. Division involves the assembly and constriction of the endosymbiont-derived, tubulin-like FtsZ ring on the stromal surface of the inner envelope membrane and the host-derived, dynamin-like ARC5 ring on the cytosolic surface of the outer envelope membrane. Despite the identification of many proteins required for plastid division, the factors coordinating the internal and external division machineries are unknown. Here, we provide evidence that this coordination is mediated in Arabidopsis thaliana by an interaction between ARC6, an FtsZ assembly factor spanning the inner envelope membrane, and PDV2, an ARC5 recruitment factor spanning the outer envelope membrane. ARC6 and PDV2 interact via their C-terminal domains in the intermembrane space, consistent with their in vivo topologies. ARC6 acts upstream of PDV2 to localize PDV2 (and hence ARC5) to the division site. We present a model whereby ARC6 relays information on stromal FtsZ ring positioning through PDV2 to the chloroplast surface to specify the site of ARC5 recruitment. Because orthologs of ARC6 occur in land plants, green algae, and cyanobacteria but PDV2 occurs only in land plants, the connection between ARC6 and PDV2 represents the evolution of a plant-specific adaptation to coordinate the assembly and activity of the endosymbiont- and host-derived plastid division components.
+
+-Amino Acid Sequence
+-Arabidopsis (-genetics; +metabolism)
+-Arabidopsis Proteins (-classification; -genetics; +metabolism)
+-Chloroplasts (+metabolism)
+-Immunoblotting
+-Intracellular Membranes (+metabolism)
+-Microscopy, Fluorescence
+-Models, Biological
+-Molecular Sequence Data
+-Phylogeny
+-Protein Binding
+-Sequence Homology, Amino Acid
+-Two-Hybrid System Techniques
+
+pii:tpc.108.061440
+doi:10.1105/tpc.108.061440
+pubmed:18812496
+pmc:PMC2570736
+

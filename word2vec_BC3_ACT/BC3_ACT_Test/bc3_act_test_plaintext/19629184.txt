@@ -1,0 +1,20 @@
+PLoS ONE
+
+The first cellular models based on frataxin missense mutations that reproduce spontaneously the defects associated with Friedreich ataxia.
+
+N Calmels, S Schmucker, M Wattenhofer-Donzé, A Martelli, N Vaucamps, L Reutenauer, N Messaddeq, C Bouton, M Koenig, H Puccio
+
+BACKGROUND: Friedreich ataxia (FRDA), the most common form of recessive ataxia, is due to reduced levels of frataxin, a highly conserved mitochondrial iron-chaperone involved in iron-sulfur cluster (ISC) biogenesis. Most patients are homozygous for a (GAA)(n) expansion within the first intron of the frataxin gene. A few patients, either with typical or atypical clinical presentation, are compound heterozygous for the GAA expansion and a micromutation. METHODOLOGY: We have developed a new strategy to generate murine cellular models for FRDA: cell lines carrying a frataxin conditional allele were used in combination with an EGFP-Cre recombinase to create murine cellular models depleted for endogenous frataxin and expressing missense-mutated human frataxin. We showed that complete absence of murine frataxin in fibroblasts inhibits cell division and leads to cell death. This lethal phenotype was rescued through transgenic expression of human wild type as well as mutant (hFXN(G130V) and hFXN(I154F)) frataxin. Interestingly, cells expressing the mutated frataxin presented a FRDA-like biochemical phenotype. Though both mutations affected mitochondrial ISC enzymes activities and mitochondria ultrastructure, the hFXN(I154F) mutant presented a more severe phenotype with affected cytosolic and nuclear ISC enzyme activities, mitochondrial iron accumulation and an increased sensitivity to oxidative stress. The differential phenotype correlates with disease severity observed in FRDA patients. CONCLUSIONS: These new cellular models, which are the first to spontaneously reproduce all the biochemical phenotypes associated with FRDA, are important tools to gain new insights into the in vivo consequences of pathological missense mutations as well as for large-scale pharmacological screening aimed at compensating frataxin deficiency.
+
+-Animals
+-Friedreich Ataxia (+genetics)
+-Heterozygote
+-Iron-Binding Proteins (+genetics)
+-Mice
+-Mice, Transgenic
++Mutation, Missense
+
+doi:10.1371/journal.pone.0006379
+pubmed:19629184
+pmc:PMC2710521
+

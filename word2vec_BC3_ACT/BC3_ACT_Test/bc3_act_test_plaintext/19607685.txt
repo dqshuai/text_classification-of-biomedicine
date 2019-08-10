@@ -1,0 +1,22 @@
+Genome Biol.
+
+Probe-level estimation improves the detection of differential splicing in Affymetrix exon array studies.
+
+E Laajala, T Aittokallio, R Lahesmaa, LL Elo
+
+The recent advent of exon microarrays has made it possible to reveal differences in alternative splicing events on a global scale. We introduce a novel statistical procedure that takes full advantage of the probe-level information on Affymetrix exon arrays when detecting differential splicing between sample groups. In comparison to existing ranking methods, the procedure shows superior reproducibility and accuracy in distinguishing true biological findings from background noise in high agreement with experimental validations.
+
+-Algorithms
+-Computational Biology (-methods)
+-DNA Probes
+-Exons (+genetics)
+-Gene Expression Profiling (+methods)
+-Oligonucleotide Array Sequence Analysis (+methods)
++RNA Splicing
+-Reproducibility of Results
+
+pii:gb-2009-10-7-r77
+doi:10.1186/gb-2009-10-7-r77
+pubmed:19607685
+pmc:PMC2728531
+

@@ -1,0 +1,23 @@
+Virology
+
+Evolutionary dynamics of Newcastle disease virus.
+
+PJ Miller, LM Kim, HS Ip, CL Afonso
+
+A comprehensive dataset of NDV genome sequences was evaluated using bioinformatics to characterize the evolutionary forces affecting NDV genomes. Despite evidence of recombination in most genes, only one event in the fusion gene of genotype V viruses produced evolutionarily viable progenies. The codon-associated rate of change for the six NDV proteins revealed that the highest rate of change occurred at the fusion protein. All proteins were under strong purifying (negative) selection; the fusion protein displayed the highest number of amino acids under positive selection. Regardless of the phylogenetic grouping or the level of virulence, the cleavage site motif was highly conserved implying that mutations at this site that result in changes of virulence may not be favored. The coding sequence of the fusion gene and the genomes of viruses from wild birds displayed higher yearly rates of change in virulent viruses than in viruses of low virulence, suggesting that an increase in virulence may accelerate the rate of NDV evolution.
+
++Evolution, Molecular
++Genome, Viral
+-Newcastle disease virus (+genetics; -pathogenicity)
+-Phylogeny
+-RNA, Viral (-genetics)
+-Recombination, Genetic
+-Sequence Alignment
+-Sequence Analysis, RNA
+-Viral Fusion Proteins (+genetics)
+-Virulence (-genetics)
+
+pii:S0042-6822(09)00323-7
+doi:10.1016/j.virol.2009.05.033
+pubmed:19564032
+

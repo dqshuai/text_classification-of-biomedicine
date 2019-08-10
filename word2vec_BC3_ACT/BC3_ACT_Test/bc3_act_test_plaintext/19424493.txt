@@ -1,0 +1,31 @@
+PLoS ONE
+
+CHOP mediates endoplasmic reticulum stress-induced apoptosis in Gimap5-deficient T cells.
+
+SC Pino, B O'Sullivan-Murphy, EA Lidstone, C Yang, KL Lipson, A Jurczyk, P diIorio, MA Brehm, JP Mordes, DL Greiner, AA Rossini, R Bortell
+
+Gimap5 (GTPase of the immunity-associated protein 5) has been linked to the regulation of T cell survival, and polymorphisms in the human GIMAP5 gene associate with autoimmune disorders. The BioBreeding diabetes-prone (BBDP) rat has a mutation in the Gimap5 gene that leads to spontaneous apoptosis of peripheral T cells by an unknown mechanism. Because Gimap5 localizes to the endoplasmic reticulum (ER), we hypothesized that absence of functional Gimap5 protein initiates T cell death through disruptions in ER homeostasis. We observed increases in ER stress-associated chaperones in T cells but not thymocytes or B cells from Gimap5(-/-) BBDP rats. We then discovered that ER stress-induced apoptotic signaling through C/EBP-homologous protein (CHOP) occurs in Gimap5(-/-) T cells. Knockdown of CHOP by siRNA protected Gimap5(-/-) T cells from ER stress-induced apoptosis, thereby identifying a role for this cellular pathway in the T cell lymphopenia of the BBDP rat. These findings indicate a direct relationship between Gimap5 and the maintenance of ER homeostasis in the survival of T cells.
+
+-Animals
++Apoptosis
+-CD4-Positive T-Lymphocytes (-cytology; -metabolism)
+-CD8-Positive T-Lymphocytes (-cytology; -metabolism)
+-Cell Survival
+-Diabetes Mellitus, Experimental (-immunology; -pathology)
+-Endoplasmic Reticulum (-metabolism; +pathology)
+-GTP-Binding Proteins (+deficiency)
+-Gene Knockdown Techniques
+-Heat-Shock Proteins (-metabolism)
+-Lymphocyte Activation
+-Molecular Chaperones (-metabolism)
+-Rats
+-Signal Transduction
++Stress, Physiological
+-T-Lymphocytes (+cytology; +metabolism)
+-Thymus Gland (-metabolism)
+-Transcription Factor CHOP (+metabolism)
+
+doi:10.1371/journal.pone.0005468
+pubmed:19424493
+pmc:PMC2674944
+

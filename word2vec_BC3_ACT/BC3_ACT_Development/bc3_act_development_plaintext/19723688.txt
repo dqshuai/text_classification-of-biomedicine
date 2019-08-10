@@ -1,0 +1,19 @@
+Nucleic Acids Res.
+
+Real-time DNA microarray analysis.
+
+A Hassibi, H Vikalo, JL Riechmann, B Hassibi
+
+We present a quantification method for affinity-based DNA microarrays which is based on the real-time measurements of hybridization kinetics. This method, i.e. real-time DNA microarrays, enhances the detection dynamic range of conventional systems by being impervious to probe saturation in the capturing spots, washing artifacts, microarray spot-to-spot variations, and other signal amplitude-affecting non-idealities. We demonstrate in both theory and practice that the time-constant of target capturing in microarrays, similar to all affinity-based biosensors, is inversely proportional to the concentration of the target analyte, which we subsequently use as the fundamental parameter to estimate the concentration of the analytes. Furthermore, to empirically validate the capabilities of this method in practical applications, we present a FRET-based assay which enables the real-time detection in gene expression DNA microarrays.
+
+-Fluorescence Resonance Energy Transfer
+-Gene Expression Profiling (+methods)
+-Kinetics
+-Models, Theoretical
+-Oligonucleotide Array Sequence Analysis (+methods)
+
+pii:gkp675
+doi:10.1093/nar/gkp675
+pubmed:19723688
+pmc:PMC2802827
+

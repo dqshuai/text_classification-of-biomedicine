@@ -1,0 +1,29 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Ipsilateral cortical fMRI responses after peripheral nerve damage in rats reflect increased interneuron activity.
+
+G Pelled, DA Bergstrom, PL Tierney, RS Conroy, KH Chuang, D Yu, DA Leopold, JR Walters, AP Koretsky
+
+In the weeks following unilateral peripheral nerve injury, the deprived primary somatosensory cortex (SI) responds to stimulation of the ipsilateral intact limb as demonstrated by functional magnetic resonance imaging (fMRI) responses. The neuronal basis of these responses was studied by using high-resolution fMRI, in vivo electrophysiological recordings, and juxtacellular neuronal labeling in rats that underwent an excision of the forepaw radial, median, and ulnar nerves. These nerves were exposed but not severed in control rats. Significant bilateral increases of fMRI responses in SI were observed in denervated rats. In the healthy SI of the denervated rats, increases in fMRI responses were concordant with increases in local field potential (LFP) amplitude and an increased incidence of single units responding compared with control rats. In contrast, in the deprived SI, increases in fMRI responses were associated with a minimal change in LFP amplitude but with increased incidence of single units responding. Based on action potential duration, juxtacellular labeling, and immunostaining results, neurons responding to intact forepaw stimulation in the deprived cortex were identified as interneurons. These results suggest that the increases in fMRI responses in the deprived cortex reflect increased interneuron activity.
+
+-Algorithms
+-Animals
+-Cerebral Cortex (-pathology)
+-Computational Biology
+-Electrophysiology (-methods)
+-Interneurons (+metabolism)
+-Magnetic Resonance Imaging (+methods)
+-Models, Biological
+-Models, Neurological
+-Models, Statistical
+-Neurons (-metabolism)
+-Peripheral Nerves (-metabolism; +pathology)
+-Rats
+-Rats, Sprague-Dawley
+-Signal Processing, Computer-Assisted
+
+pii:0903153106
+doi:10.1073/pnas.0903153106
+pubmed:19666522
+pmc:PMC2720851
+

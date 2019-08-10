@@ -1,0 +1,22 @@
+PLoS Genet.
+
+Change of gene structure and function by non-homologous end-joining, homologous recombination, and transposition of DNA.
+
+W Goettel, J Messing
+
+An important objective in genome research is to relate genome structure to gene function. Sequence comparisons among orthologous and paralogous genes and their allelic variants can reveal sequences of functional significance. Here, we describe a 379-kb region on chromosome 1 of maize that enables us to reconstruct chromosome breakage, transposition, non-homologous end-joining, and homologous recombination events. Such a high-density composition of various mechanisms in a small chromosomal interval exemplifies the evolution of gene regulation and allelic diversity in general. It also illustrates the evolutionary pace of changes in plants, where many of the above mechanisms are of somatic origin. In contrast to animals, somatic alterations can easily be transmitted through meiosis because the germline in plants is contiguous to somatic tissue, permitting the recovery of such chromosomal rearrangements. The analyzed region contains the P1-wr allele, a variant of the genetically well-defined p1 gene, which encodes a Myb-like transcriptional activator in maize. The P1-wr allele consists of eleven nearly perfect P1-wr 12-kb repeats that are arranged in a tandem head-to-tail array. Although a technical challenge to sequence such a structure by shotgun sequencing, we overcame this problem by subcloning each repeat and ordering them based on nucleotide variations. These polymorphisms were also critical for recombination and expression analysis in presence and absence of the trans-acting epigenetic factor Ufo1. Interestingly, chimeras of the p1 and p2 genes, p2/p1 and p1/p2, are framing the P1-wr cluster. Reconstruction of sequence amplification steps at the p locus showed the evolution from a single Myb-homolog to the multi-gene P1-wr cluster. It also demonstrates how non-homologous end-joining can create novel gene fusions. Comparisons to orthologous regions in sorghum and rice also indicate a greater instability of the maize genome, probably due to diploidization following allotetraploidization.
+
+-Alleles
+-Chromosomes, Plant (-genetics)
++DNA Repair
+-DNA, Plant (-genetics)
+-Plant Proteins (-genetics)
+-Plants (-genetics)
++Recombination, Genetic
++Translocation, Genetic
+-Zea mays (+genetics)
+
+doi:10.1371/journal.pgen.1000516
+pubmed:19521498
+pmc:PMC2686159
+

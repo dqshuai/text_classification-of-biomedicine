@@ -1,0 +1,24 @@
+Nucleic Acids Res.
+
+Molecular dynamics simulation study of the binding of purine bases to the aptamer domain of the guanine sensing riboswitch.
+
+A Villa, J Wöhnert, G Stock
+
+Riboswitches are a novel class of genetic control elements that function through the direct interaction of small metabolite molecules with structured RNA elements. The ligand is bound with high specificity and affinity to its RNA target and induces conformational changes of the RNA's secondary and tertiary structure upon binding. To elucidate the molecular basis of the remarkable ligand selectivity and affinity of one of these riboswitches, extensive all-atom molecular dynamics simulations in explicit solvent (approximately 1 micros total simulation length) of the aptamer domain of the guanine sensing riboswitch are performed. The conformational dynamics is studied when the system is bound to its cognate ligand guanine as well as bound to the non-cognate ligand adenine and in its free form. The simulations indicate that residue U51 in the aptamer domain functions as a general docking platform for purine bases, whereas the interactions between C74 and the ligand are crucial for ligand selectivity. These findings either suggest a two-step ligand recognition process, including a general purine binding step and a subsequent selection of the cognate ligand, or hint at different initial interactions of cognate and noncognate ligands with residues of the ligand binding pocket. To explore possible pathways of complex dissociation, various nonequilibrium simulations are performed which account for the first steps of ligand unbinding. The results delineate the minimal set of conformational changes needed for ligand release, suggest two possible pathways for the dissociation reaction, and underline the importance of long-range tertiary contacts for locking the ligand in the complex.
+
+-Adenine (-chemistry)
+-Aptamers, Nucleotide (+chemistry)
+-Base Sequence
+-Computer Simulation
+-Guanine (+chemistry)
+-Ligands
+-Models, Molecular
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-Untranslated Regions (+chemistry)
+
+pii:gkp486
+doi:10.1093/nar/gkp486
+pubmed:19515936
+pmc:PMC2724292
+

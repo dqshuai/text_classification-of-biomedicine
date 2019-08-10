@@ -1,0 +1,22 @@
+BMC Bioinformatics
+
+Construction and use of gene expression covariation matrix.
+
+J Hennetin, P Pehkonen, M Bellis
+
+BACKGROUND: One essential step in the massive analysis of transcriptomic profiles is the calculation of the correlation coefficient, a value used to select pairs of genes with similar or inverse transcriptional profiles across a large fraction of the biological conditions examined. Until now, the choice between the two available methods for calculating the coefficient has been dictated mainly by technological considerations. Specifically, in analyses based on double-channel techniques, researchers have been required to use covariation correlation, i.e. the correlation between gene expression changes measured between several pairs of biological conditions, expressed for example as fold-change. In contrast, in analyses of single-channel techniques scientists have been restricted to the use of coexpression correlation, i.e. correlation between gene expression levels. To our knowledge, nobody has ever examined the possible benefits of using covariation instead of coexpression in massive analyses of single channel microarray results. RESULTS: We describe here how single-channel techniques can be treated like double-channel techniques and used to generate both gene expression changes and covariation measures. We also present a new method that allows the calculation of both positive and negative correlation coefficients between genes. First, we perform systematic comparisons between two given biological conditions and classify, for each comparison, genes as increased (I), decreased (D), or not changed (N). As a result, the original series of n gene expression level measures assigned to each gene is replaced by an ordered string of n(n-1)/2 symbols, e.g. IDDNNIDID....DNNNNNNID, with the length of the string corresponding to the number of comparisons. In a second step, positive and negative covariation matrices (CVM) are constructed by calculating statistically significant positive or negative correlation scores for any pair of genes by comparing their strings of symbols. CONCLUSION: This new method, applied to four different large data sets, has allowed us to construct distinct covariation matrices with similar properties. We have also developed a technique to translate these covariation networks into graphical 3D representations and found that the local assignation of the probe sets was conserved across the four chip set models used which encompass three different species (humans, mice, and rats). The application of adapted clustering methods succeeded in delineating six conserved functional regions that we characterized using Gene Ontology information.
+
+-Algorithms
+-Animals
+-Computational Biology (+methods)
+-Databases, Protein
++Gene Expression
+-Gene Expression Profiling (+methods)
+-Humans
+-Mice
+
+pii:1471-2105-10-214
+doi:10.1186/1471-2105-10-214
+pubmed:19594909
+pmc:PMC2720390
+

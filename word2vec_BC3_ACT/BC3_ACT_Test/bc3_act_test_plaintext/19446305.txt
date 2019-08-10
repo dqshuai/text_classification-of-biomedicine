@@ -1,0 +1,32 @@
+Virology
+
+Altered interactions between stem-loop IV within the 5' noncoding region of coxsackievirus RNA and poly(rC) binding protein 2: effects on IRES-mediated translation and viral infectivity.
+
+P Sean, JH Nguyen, BL Semler
+
+Coxsackievirus B3 (CVB3) is a causative agent of viral myocarditis, meningitis, pancreatitis, and encephalitis. Much of what is known about the coxsackievirus intracellular replication cycle is based on the information already known from a well-studied and closely related virus, poliovirus. Like that of poliovirus, the 5' noncoding region (5' NCR) of CVB3 genomic RNA contains secondary structures that function in both viral RNA replication and cap-independent translation initiation. For poliovirus IRES-mediated translation, the interaction of the cellular protein PCBP2 with a major secondary structure element (stem-loop IV) is required for gene expression. Previously, the complete secondary structure of the coxsackievirus 5' NCR was determined by chemical structure probing and overall, many of the RNA secondary structures bear significant similarity to those of poliovirus; however, the functions of the coxsackievirus IRES stem-loop structures have not been determined. Here we report that a CVB3 RNA secondary structure, stem-loop IV, folds similarly to poliovirus stem-loop IV and like its enterovirus counterpart, coxsackievirus stem-loop IV interacts with PCBP2. We used RNase foot-printing to identify RNA sequences protected following PCBP2 binding to coxsackievirus stem-loop IV. When nucleotide substitutions were separately engineered at two sites in coxsackievirus stem-loop IV to reduce PCBP2 binding, inhibition of IRES-mediated translation was observed. Both of these nucleotide substitutions were engineered into full-length CVB3 RNA and upon transfection into HeLa cells, the specific infectivities of both constructs were reduced and the recovered viruses displayed small-plaque phenotypes and slower growth kinetics compared to wild type virus.
+
++5' Untranslated Regions
+-Base Sequence
+-Binding Sites
+-Coxsackievirus Infections (-virology)
+-Electrophoretic Mobility Shift Assay
+-Enterovirus B, Human (-genetics; +physiology)
+-Hela Cells
+-Humans
+-Molecular Sequence Data
+-Mutation
+-Nucleic Acid Conformation
++Peptide Chain Initiation, Translational
+-Poly C (-genetics)
+-Protein Footprinting
+-RNA, Viral (+biosynthesis)
+-RNA-Binding Proteins (-genetics; +metabolism)
+-Virus Replication
+
+pii:S0042-6822(09)00176-7
+doi:10.1016/j.virol.2009.03.012
+pubmed:19446305
+mid:NIHMS103734
+pmc:PMC2694229
+

@@ -1,0 +1,20 @@
+PLoS ONE
+
+The binary protein interactome of Treponema pallidum--the syphilis spirochete.
+
+B Titz, SV Rajagopala, J Goll, R Häuser, MT McKevitt, T Palzkill, P Uetz
+
+Protein interaction networks shed light on the global organization of proteomes but can also place individual proteins into a functional context. If we know the function of bacterial proteins we will be able to understand how these species have adapted to diverse environments including many extreme habitats. Here we present the protein interaction network for the syphilis spirochete Treponema pallidum which encodes 1,039 proteins, 726 (or 70%) of which interact via 3,649 interactions as revealed by systematic yeast two-hybrid screens. A high-confidence subset of 991 interactions links 576 proteins. To derive further biological insights from our data, we constructed an integrated network of proteins involved in DNA metabolism. Combining our data with additional evidences, we provide improved annotations for at least 18 proteins (including TP0004, TP0050, and TP0183 which are suggested to be involved in DNA metabolism). We estimate that this "minimal" bacterium contains on the order of 3,000 protein interactions. Profiles of functional interconnections indicate that bacterial proteins interact more promiscuously than eukaryotic proteins, reflecting the non-compartmentalized structure of the bacterial cell. Using our high-confidence interactions, we also predict 417,329 homologous interactions ("interologs") for 372 completely sequenced genomes and provide evidence that at least one third of them can be experimentally confirmed.
+
+-Bacterial Proteins (+metabolism)
+-DNA, Bacterial (-metabolism)
+-Protein Binding
+-Proteome
+-Quality Control
+-Treponema pallidum (-genetics; +metabolism)
+-Two-Hybrid System Techniques
+
+doi:10.1371/journal.pone.0002292
+pubmed:18509523
+pmc:PMC2386257
+

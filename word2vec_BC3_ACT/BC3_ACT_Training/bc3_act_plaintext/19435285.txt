@@ -1,0 +1,25 @@
+Biochemistry
+
+Monitoring the conformation of benzo[a]pyrene adducts in the polymerase active site using fluorescence resonance energy transfer.
+
+TD Christian, LJ Romano
+
+Benzo[a]pyrene (B[a]P) is a potent environmental carcinogen that is metabolized into diol epoxides that react with exocyclic amines in DNA. These DNA adducts have been shown to block DNA replication by high-fidelity polymerases and induce both base substitution and frame-shift mutations. To improve our understanding of the molecular mechanism of B[a]P-induced mutagenesis, a fluorescence resonance energy transfer (FRET) method was developed in which the (+)- or (-)-trans-anti-B[a]P-N(2)-dG adducts, positioned in the active site of DNA polymerase I (Klenow fragment), serve as donor fluorophores to an acceptor molecule positioned on the DNA primer strand. FRET was measured for a primer that ended one nucleotide before the adduct position and one that ended across from the adduct and used to estimate the distances between the two fluorophores. These estimates are consistent with prior studies that suggest the adducts are positioned in the minor groove. A comparison of the FRET for the (+)- and (-)-trans-B[a]P adducts in the Klenow active site suggested that the (+)-trans adduct is positioned approximately 2 A farther from the acceptor, consistent with the structural differences observed in duplex DNA where it has been shown that the (+)-trans adduct is oriented toward the 5'-end of the template strand while the (-)-trans adduct lies toward the 3'-end. Surprisingly, the adduct position did not change significantly when the primer was one nucleotide longer. The addition of either a correct (dCTP) or incorrect nucleotides showed only minor differences in FRET, suggesting that the adduct did not undergo a large change in the position within the polymerase active site, as expected if the adduct inhibited the polymerase conformational change.
+
+-Base Sequence
+-Benzo(a)pyrene (+chemistry)
+-Catalytic Domain
+-DNA Adducts (+chemistry)
+-DNA Polymerase I (+chemistry; -metabolism)
+-Escherichia coli (-enzymology)
+-Fluorescence Polarization
++Fluorescence Resonance Energy Transfer
+-Molecular Conformation
+-Molecular Sequence Data
+-Nucleotides (-chemistry; -metabolism)
+
+doi:10.1021/bi900148t
+pubmed:19435285
+mid:NIHMS196102
+pmc:PMC2864109
+

@@ -1,0 +1,22 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Alteration of enzyme specificity by computational loop remodeling and design.
+
+PM Murphy, JM Bolduc, JL Gallaher, BL Stoddard, D Baker
+
+Altering the specificity of an enzyme requires precise positioning of side-chain functional groups that interact with the modified groups of the new substrate. This requires not only sequence changes that introduce the new functional groups but also sequence changes that remodel the structure of the protein backbone so that the functional groups are properly positioned. We describe a computational design method for introducing specific enzyme-substrate interactions by directed remodeling of loops near the active site. Benchmark tests on 8 native protein-ligand complexes show that the method can recover native loop lengths and, often, native loop conformations. We then use the method to redesign a critical loop in human guanine deaminase such that a key side-chain interaction is made with the substrate ammelide. The redesigned enzyme is 100-fold more active on ammelide and 2.5e4-fold less active on guanine than wild-type enzyme: The net change in specificity is 2.5e6-fold. The structure of the designed protein was confirmed by X-ray crystallographic analysis: The remodeled loop adopts a conformation that is within 1-A Calpha RMSD of the computational model.
+
+-Algorithms
+-Crystallography, X-Ray
+-Guanine Deaminase (+chemistry; -metabolism)
+-Humans
+-Models, Molecular
+-Protein Engineering (+methods)
+-Substrate Specificity
+-Triazines (-metabolism)
+
+pii:0811070106
+doi:10.1073/pnas.0811070106
+pubmed:19470646
+pmc:PMC2685249
+

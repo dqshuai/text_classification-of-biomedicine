@@ -1,0 +1,22 @@
+J. Bacteriol.
+
+Phylogenetic ubiquity and shuffling of the bacterial RecBCD and AddAB recombination complexes.
+
+GA Cromie
+
+RecBCD and AddAB are bacterial enzymes that share similar helicase and nuclease activities and initiate repair of DNA double-strand breaks by homologous recombination. Examination of the phylogenetic distribution of AddAB and RecBCD revealed that one or the other complex is present in most sequenced bacteria. In addition, horizontal gene transfer (HGT) events involving addAB and recBCD appear to be common, with the genes encoding one complex frequently replacing those encoding the other. HGT may also explain the unexpected identification of archaeal addAB genes. More than 85% of addAB and recBCD genes are clustered on the genome, suggesting operon structures. A few organisms, including the Mycobacteria, encode multiple copies of these complexes of either the same or mixed classes. The possibility that the enzymatic activities of the AddAB and RecBCD enzymes promote their horizontal transfer is discussed, and the distribution of AddAB/RecBCD is compared to that of the RecU/RuvC resolvases. Finally, it appears that two sequence motifs, the Walker A box involved in ATP binding and an iron-sulfur-cysteine cluster, are present only in subsets of AddB proteins, suggesting the existence of mechanistically distinct classes of AddB.
+
+-Bacterial Proteins (-classification; +genetics; -physiology)
+-Computational Biology
+-Exodeoxyribonuclease V (-classification; +genetics; -physiology)
+-Exodeoxyribonucleases (-classification; +genetics; -physiology)
+-Gene Transfer, Horizontal (-genetics)
+-Genome, Bacterial (-genetics)
++Phylogeny
+-Recombination, Genetic (-genetics)
+
+pii:JB.00254-09
+doi:10.1128/JB.00254-09
+pubmed:19542287
+pmc:PMC2725590
+

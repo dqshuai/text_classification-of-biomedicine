@@ -1,0 +1,23 @@
+PLoS ONE
+
+Resolving cell population heterogeneity: real-time PCR for simultaneous multiplexed gene detection in multiple single-cell samples.
+
+A Diercks, H Kostner, A Ozinsky
+
+Decoding the complexity of multicellular organisms requires analytical procedures to overcome the limitations of averaged measurements of cell populations, which obscure inherent cell-cell heterogeneity and restrict the ability to distinguish between the responses of individual cells within a sample. For example, defining the timing, magnitude and the coordination of cytokine responses in single cells is critical for understanding the development of effective immunity. While approaches to measure gene expression from single cells have been reported, the absolute performance of these techniques has been difficult to assess, which likely has limited their wider application. We describe a straightforward method for simultaneously measuring the expression of multiple genes in a multitude of single-cell samples using flow cytometry, parallel cDNA synthesis, and quantification by real-time PCR. We thoroughly assess the performance of the technique using mRNA and DNA standards and cell samples, and demonstrate a detection sensitivity of approximately 30 mRNA molecules per cell, and a fractional error of 15%. Using this method, we expose unexpected heterogeneity in the expression of 5 immune-related genes in sets of single macrophages activated by different microbial stimuli. Further, our analyses reveal that the expression of one 'pro-inflammatory' cytokine is not predictive of the expression of another 'pro-inflammatory' cytokine within the same cell. These findings demonstrate that single-cell approaches are essential for studying coordinated gene expression in cell populations, and this generic and easy-to-use quantitative method is applicable in other areas in biology aimed at understanding the regulation of cellular responses.
+
+-Animals
+-Cell Line
+-DNA, Complementary (-standards)
+-Flow Cytometry
+-Immunity, Innate
+-Macrophages (-metabolism)
+-Mice
+-Mice, Inbred C57BL
+-Polymerase Chain Reaction (+methods)
+-RNA, Messenger (-standards)
+
+doi:10.1371/journal.pone.0006326
+pubmed:19633712
+pmc:PMC2711328
+

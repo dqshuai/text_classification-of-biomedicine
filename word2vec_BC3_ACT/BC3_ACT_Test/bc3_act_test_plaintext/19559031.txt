@@ -1,0 +1,22 @@
+J. Mol. Biol.
+
+Structural properties of neurofilament sidearms: sequence-based modeling of neurofilament architecture.
+
+R Chang, Y Kwak, Y Gebremichael
+
+Neurofilaments (NFs) are essential cytoskeletal filaments that impart mechanical integrity to nerve cells. They are assembled from three distinct molecular mass proteins that bind to each other to form a 10-nm-diameter filamentous rod with sidearm extensions. The sidearms are considered to play a critical role in modulating interfilament spacing and axonal caliber. However, the precise mechanism by which NF protrusions regulate axonal diameter remains to be well understood. In particular, the role played by individual NF protrusions in specifying interfilament distances is yet to be established. To gain insight into the role of individual proteins, we investigated the structural organization of NF architecture under different phosphorylation conditions. To this end, a physically motivated sequence-based coarse-grain model of NF brush has been developed based on the three-dimensional architecture of NFs. The model incorporates the charge distribution of sidearms, including charges from the phosphorylation sites corresponding to Lys-Ser-Pro repeat motifs. The model also incorporates the proper grafting of the real NF sidearms based on the stoichiometry of the three subunits. The equilibrium structure of the NF brush is then investigated under different phosphorylation conditions. The phosphorylation of NF modifies the structural organization of sidearms. Upon phosphorylation, a dramatic change involving a transformation from a compact conformation to an extended conformation is found in the heavy NF (NF-H) protein. However, in spite of extensive phosphorylation sites present in the NF-H subunit, the tails of the medium NF subunit are found to be more extended than the NF-H sidearms. This supports the notion that medium NF protrusions are critical in regulating NF spacings and, hence, axonal caliber.
+
+-Animals
+-Computer Simulation
+-Humans
+-Intermediate Filaments (+chemistry; -ultrastructure)
++Models, Molecular
+-Neurofilament Proteins (-chemistry)
+-Neurons (+ultrastructure)
+-Phosphorylation
+-Protein Conformation
+
+pii:S0022-2836(09)00764-5
+doi:10.1016/j.jmb.2009.06.045
+pubmed:19559031
+

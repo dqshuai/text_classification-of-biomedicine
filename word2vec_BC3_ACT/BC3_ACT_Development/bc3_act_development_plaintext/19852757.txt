@@ -1,0 +1,13 @@
+BioTechniques
+
+Functional assessment of temperature-gated ion-channel activity using a real-time PCR machine.
+
+D Reubish, D Emerling, J Defalco, D Steiger, C Victoria, F Vincent
+
+The functional activity of a number of ion channels is highly sensitive to large changes in temperature. Foremost among these are the thermosensing TRP channels which include cold- (TRPM8, TRPA1), warmth- (TRPV3, TRPV4), and heat-sensing (TRPV1, TRPV2) members. TRPV1, also known as the vanilloid receptor (VR1), is activated by ligands such as capsaicin, acidic pH, and heat (an increase in temperature to approximately 42 degrees C will lead to channel opening). Screening against the thermal gating of TRPV1 is generally performed using perfusion systems or water baths for temperature control, in conjunction with electrophysiology or Ca2 + influx readouts for direct functional assessment. These approaches are very useful, but have limited throughput or minimal thermo-temporal control. A standard real-time PCR machine with standard microplates allowed us to combine fluorescent Ca2 + detection with precise temperature manipulation to develop a homogeneous (Z' = 0.53), cell-based assay that uses temperature as the agonist. A temperature response curve of TRPV1 was obtained, which provided a T50 of 46.1 degrees C, and IC50 values against heat agonism were determined for known TRPV1 antagonists. Furthermore, we expanded this approach to a cold-activated ion channel, TRPM8. We developed and validated an analytical technique with broad applications for the study and screening of temperature-gated ion channels.
+
+
+pii:000113198
+doi:10.2144/000113198
+pubmed:19852757
+

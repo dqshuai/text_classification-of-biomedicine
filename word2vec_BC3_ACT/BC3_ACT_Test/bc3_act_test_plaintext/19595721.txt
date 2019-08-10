@@ -1,0 +1,28 @@
+Mol. Cell
+
+Coordination of structure-specific nucleases by human SLX4/BTBD12 is required for DNA repair.
+
+IM Muñoz, K Hain, AC Déclais, M Gardiner, GW Toh, L Sanchez-Pulido, JM Heuckmann, R Toth, T Macartney, B Eppink, R Kanaar, CP Ponting, DM Lilley, J Rouse
+
+Budding yeast Slx4 interacts with the structure-specific endonuclease Slx1 to ensure completion of ribosomal DNA replication. Slx4 also interacts with the Rad1-Rad10 endonuclease to control cleavage of 3' flaps during repair of double-strand breaks (DSBs). Here we describe the identification of human SLX4, a scaffold for DNA repair nucleases XPF-ERCC1, MUS81-EME1, and SLX1. SLX4 immunoprecipitates show SLX1-dependent nuclease activity toward Holliday junctions and MUS81-dependent activity toward other branched DNA structures. Furthermore, SLX4 enhances the nuclease activity of SLX1, MUS81, and XPF. Consistent with a role in processing recombination intermediates, cells depleted of SLX4 are hypersensitive to genotoxins that cause DSBs and show defects in the resolution of interstrand crosslink-induced DSBs. Depletion of SLX4 causes a decrease in DSB-induced homologous recombination. These data show that SLX4 is a regulator of structure-specific nucleases and that SLX4 and SLX1 are important regulators of genome stability in human cells.
+
+-Blotting, Western
+-Cell Line
+-Cell Line, Tumor
++DNA Breaks, Double-Stranded
++DNA Repair
+-DNA-Binding Proteins (-genetics; -metabolism)
+-Endonucleases (-genetics; +metabolism)
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Humans
+-Immunoprecipitation
+-Protein Binding
+-RNA, Small Interfering (-genetics)
+-Recombinases (-genetics; +metabolism)
+-Transfection
+-Two-Hybrid System Techniques
+
+pii:S1097-2765(09)00433-X
+doi:10.1016/j.molcel.2009.06.020
+pubmed:19595721
+

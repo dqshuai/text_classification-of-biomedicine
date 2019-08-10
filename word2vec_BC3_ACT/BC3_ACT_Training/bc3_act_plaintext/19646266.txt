@@ -1,0 +1,25 @@
+Virol. J.
+
+A catalytically and genetically optimized beta-lactamase-matrix based assay for sensitive, specific, and higher throughput analysis of native henipavirus entry characteristics.
+
+MC Wolf, Y Wang, AN Freiberg, HC Aguilar, MR Holbrook, B Lee
+
+Nipah virus (NiV) and Hendra virus (HeV) are the only paramyxoviruses requiring Biosafety Level 4 (BSL-4) containment. Thus, study of henipavirus entry at less than BSL-4 conditions necessitates the use of cell-cell fusion or pseudotyped reporter virus assays. Yet, these surrogate assays may not fully emulate the biological properties unique to the virus being studied. Thus, we developed a henipaviral entry assay based on a beta-lactamase-Nipah Matrix (betala-M) fusion protein. We first codon-optimized the bacterial betala and the NiV-M genes to ensure efficient expression in mammalian cells. The betala-M construct was able to bud and form virus-like particles (VLPs) that morphologically resembled paramyxoviruses. betala-M efficiently incorporated both NiV and HeV fusion and attachment glycoproteins. Entry of these VLPs was detected by cytosolic delivery of betala-M, resulting in enzymatic and fluorescent conversion of the pre-loaded CCF2-AM substrate. Soluble henipavirus receptors (ephrinB2) or antibodies against the F and/or G proteins blocked VLP entry. Additionally, a Y105W mutation engineered into the catalytic site of betala increased the sensitivity of our betala-M based infection assays by 2-fold. In toto, these methods will provide a more biologically relevant assay for studying henipavirus entry at less than BSL-4 conditions.
+
+-Animals
+-Containment of Biohazards (-economics; -methods)
+-Fluoresceins (+metabolism)
+-Genes, Reporter
+-Henipavirus (+physiology)
+-Lactams (+metabolism)
+-Recombinant Fusion Proteins (-genetics)
+-Viral Matrix Proteins (-genetics; +metabolism)
+-Virosomes (-genetics; +metabolism)
++Virus Internalization
+-beta-Lactamases (-genetics; +metabolism)
+
+pii:1743-422X-6-119
+doi:10.1186/1743-422X-6-119
+pubmed:19646266
+pmc:PMC2727953
+

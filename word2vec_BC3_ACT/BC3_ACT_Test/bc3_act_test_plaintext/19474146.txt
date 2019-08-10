@@ -1,0 +1,32 @@
+RNA
+
+A conserved motif of vertebrate Y RNAs essential for chromosomal DNA replication.
+
+TJ Gardiner, CP Christov, AR Langley, T Krude
+
+Noncoding Y RNAs are required for the reconstitution of chromosomal DNA replication in late G1 phase template nuclei in a human cell-free system. Y RNA genes are present in all vertebrates and in some isolated nonvertebrates, but the conservation of Y RNA function and key determinants for its function are unknown. Here, we identify a determinant of Y RNA function in DNA replication, which is conserved throughout vertebrate evolution. Vertebrate Y RNAs are able to reconstitute chromosomal DNA replication in the human cell-free DNA replication system, but nonvertebrate Y RNAs are not. A conserved nucleotide sequence motif in the double-stranded stem of vertebrate Y RNAs correlates with Y RNA function. A functional screen of human Y1 RNA mutants identified this conserved motif as an essential determinant for reconstituting DNA replication in vitro. Double-stranded RNA oligonucleotides comprising this RNA motif are sufficient to reconstitute DNA replication, but corresponding DNA or random sequence RNA oligonucleotides are not. In intact cells, wild-type hY1 or the conserved RNA duplex can rescue an inhibition of DNA replication after RNA interference against hY3 RNA. Therefore, we have identified a new RNA motif that is conserved in vertebrate Y RNA evolution, and essential and sufficient for Y RNA function in human chromosomal DNA replication.
+
+-Animals
+-Base Sequence
+-Caenorhabditis elegans (-genetics)
+-Cell-Free System
+-Chromosomes, Human (+genetics)
+-Computational Biology
+-DNA Replication (+genetics)
+-Deinococcus (-genetics)
+-G1 Phase
+-Hela Cells
+-Humans
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-Oligonucleotides (+genetics)
+-RNA Interference
+-RNA, Double-Stranded (+genetics)
+-RNA, Untranslated (-chemistry; -genetics; +metabolism)
+-Vertebrates (+genetics)
+
+pii:rna.1472009
+doi:10.1261/rna.1472009
+pubmed:19474146
+pmc:PMC2704080
+

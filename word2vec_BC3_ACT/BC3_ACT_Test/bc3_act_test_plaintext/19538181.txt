@@ -1,0 +1,23 @@
+Biochem. J.
+
+Gain-of-function mutations identify amino acids within transmembrane domains of the yeast vacuolar transporter Zrc1 that determine metal specificity.
+
+H Lin, D Burton, L Li, DE Warner, JD Phillips, DM Ward, J Kaplan
+
+Cation diffusion facilitator transporters are found in all three Kingdoms of life and are involved in transporting transition metals out of the cytosol. The metals they transport include Zn2+, Co2+, Fe2+, Cd2+, Ni2+ and Mn2+; however, no single transporter transports all metals. Previously we showed that a single amino acid mutation in the yeast vacuolar zinc transporter Zrc1 changed its substrate specificity from Zn2+ to Fe2+ and Mn2+ [Lin, Kumanovics, Nelson, Warner, Ward and Kaplan (2008) J. Biol. Chem. 283, 33865-33873]. Mutant Zrc1 that gained iron transport activity could protect cells with a deletion in the vacuolar iron transporter (CCC1) from high iron toxicity. Utilizing suppression of high iron toxicity and PCR mutagenesis of ZRC1, we identified other amino acid substitutions within ZRC1 that changed its metal specificity. All Zrc1 mutants that transported Fe2+ could also transport Mn2+. Some Zrc1 mutants lost the ability to transport Zn2+, but others retained the ability to transport Zn2+. All of the amino acid substitutions that resulted in a gain in Fe2+ transport activity were found in transmembrane domains. In addition to alteration of residues adjacent to the putative metal- binding site in two transmembrane domains, alteration of residues distant from the binding site affected substrate specificity. These results suggest that substrate selection involves co-operativity between transmembrane domains.
+
+-Amino Acid Sequence
+-Amino Acids (-chemistry; +genetics; -metabolism)
+-Binding Sites
+-Cation Transport Proteins (-chemistry; +genetics; -metabolism)
++Metals (-metabolism)
+-Molecular Sequence Data
++Mutation
+-Protein Structure, Tertiary
+-Saccharomyces cerevisiae Proteins (-chemistry; +genetics; -metabolism)
+-Vacuoles (-chemistry; +genetics; -metabolism)
+
+pii:BJ20090853
+doi:10.1042/BJ20090853
+pubmed:19538181
+

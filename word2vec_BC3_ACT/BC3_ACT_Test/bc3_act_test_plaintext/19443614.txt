@@ -1,0 +1,28 @@
+J. Exp. Bot.
+
+Altered expression of cytosolic/nuclear HSC70-1 molecular chaperone affects development and abiotic stress tolerance in Arabidopsis thaliana.
+
+AC Cazalé, M Clément, S Chiarenza, MA Roncato, N Pochon, A Creff, E Marin, N Leonhardt, LD Noël
+
+Molecular chaperones of the heat shock cognate 70 kDa (HSC70) family are highly conserved in all living organisms and assist nascent protein folding in normal physiological conditions as well as in biotic and abiotic stress conditions. In the absence of specific inhibitors or viable knockout mutants, cytosolic/nuclear HSC70-1 overexpression (OE) and mutants in the HSC70 co-chaperone SGT1 (suppressor of G(2)/M allele of skp1) were used as genetic tools to identify HSC70/SGT1 functions in Arabidopsis development and abiotic stress responses. HSC70-1 OE caused a reduction in root and shoot meristem activities, thus explaining the dwarfism of those plants. In addition, HSC70-1 OE did not impair auxin-dependent phenotypes, suggesting that SGT1 functions previously identified in auxin signalling are HSC70 independent. While responses to abiotic stimuli such as UV-C exposure, phosphate starvation, or seedling de-etiolation were not perturbed by HSC70-1 OE, it specifically conferred gamma-ray hypersensitivity and tolerance to salt, cadmium (Cd), and arsenic (As). Cd and As perception was not perturbed, but plants overexpressing HSC70-1 accumulated less Cd, thus providing a possible molecular explanation for their tolerance phenotype. In summary, genetic evidence is provided for HSC70-1 involvement in a limited set of physiological processes, illustrating the essential and yet specific functions of this chaperone in development and abiotic stress responses in Arabidopsis.
+
+-Arabidopsis (-genetics; +growth & development; -physiology; -radiation effects)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Arsenic (-metabolism)
+-Cadmium (-metabolism)
+-Cell Nucleus (-genetics; +metabolism)
+-Cytosol (+metabolism)
+-Gamma Rays
++Gene Expression Regulation, Plant (-radiation effects)
+-Glucosyltransferases (-genetics; -metabolism)
+-HSC70 Heat-Shock Proteins (-genetics; +metabolism)
+-Indoleacetic Acids (-metabolism)
+-Salt-Tolerance
+-Signal Transduction
++Stress, Physiological
+-Ultraviolet Rays
+
+pii:erp109
+doi:10.1093/jxb/erp109
+pubmed:19443614
+

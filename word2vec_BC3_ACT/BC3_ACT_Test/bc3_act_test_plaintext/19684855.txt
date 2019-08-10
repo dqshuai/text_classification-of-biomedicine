@@ -1,0 +1,20 @@
+PLoS ONE
+
+Differentiation-inducing factor-1 and -2 function also as modulators for Dictyostelium chemotaxis.
+
+H Kuwayama, Y Kubohara
+
+BACKGROUND: In the early stages of development of the cellular slime mold Dictyostelium discoideum, chemotaxis toward cAMP plays a pivotal role in organizing discrete cells into a multicellular structure. In this process, a series of signaling molecules, such as G-protein-coupled cell surface receptors for cAMP, phosphatidylinositol metabolites, and cyclic nucleotides, function as the signal transducers for controlling dynamics of cytoskeleton. Differentiation-inducing factor-1 and -2 (DIF-1 and DIF-2) were originally identified as the factors (chlorinated alkylphenones) that induce Dictyostelium stalk cell differentiation, but it remained unknown whether the DIFs had any other physiologic functions. METHODOLOGY/PRINCIPAL FINDINGS: To further elucidate the functions of DIFs, in the present study we investigated their effects on chemotaxis under various conditions. Quite interestingly, in shallow cAMP gradients, DIF-1 suppressed chemotaxis whereas DIF-2 promoted it greatly. Analyses with various mutants revealed that DIF-1 may inhibit chemotaxis, at least in part, via GbpB (a phosphodiesterase) and a decrease in the intracellular cGMP concentration ([cGMP](i)). DIF-2, by contrast, may enhance chemotaxis, at least in part, via RegA (another phosphodiesterase) and an increase in [cGMP](i). Using null mutants for DimA and DimB, the transcription factors that are required for DIF-dependent prestalk differentiation, we also showed that the mechanisms for the modulation of chemotaxis by DIFs differ from those for the induction of cell differentiation by DIFs, at least in part. CONCLUSIONS/SIGNIFICANCE: Our findings indicate that DIF-1 and DIF-2 function as negative and positive modulators for Dictyostelium chemotaxis, respectively. To our knowledge, this is the first report in any organism of physiologic modulators (small molecules) for chemotaxis having differentiation-inducing activity.
+
+-Animals
+-Chemotaxis (+physiology)
+-Cyclic AMP (-metabolism)
+-Cyclic GMP (-metabolism)
+-Dictyostelium (+cytology)
+-Hexanones (+metabolism)
+-Hydrocarbons, Chlorinated (+metabolism)
+
+doi:10.1371/journal.pone.0006658
+pubmed:19684855
+pmc:PMC2722026
+

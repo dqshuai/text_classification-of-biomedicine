@@ -1,0 +1,30 @@
+Protein Sci.
+
+A quantitative strategy to detect changes in accessibility of protein regions to chemical modification on heterodimerization.
+
+M Dreger, BW Leung, GG Brownlee, T Deng
+
+We describe a method for studying quantitative changes in accessibility of surface lysine residues of the PB1 subunit of the influenza RNA polymerase as a result of association with the PA subunit to form a PB1-PA heterodimer. Our method combines two established methods: (i) the chemical modification of surface lysine residues of native proteins by N-hydroxysuccinimidobiotin (NHS-biotin) and (ii) the stable isotope labeling of amino acids in cell culture (SILAC) followed by tryptic digestion and mass spectrometry. By linking the chemical modification with the SILAC methodology for the first time, we obtain quantitative data on chemical modification allowing subtle changes in accessibility to be described. Five regions in the PB1 monomer showed altered reactivity to NHS-biotin when compared with the [PB1-PA] heterodimer. Mutational analysis of residues in two such regions-at K265 and K481 of PB1, which were about three- and twofold, respectively, less accessible to biotinylation in the PB1-PA heterodimer compared with the PB1 monomer, demonstrated that both K265 and K481 were crucial for polymerase function. This novel assay of quantitative profiling of biotinylation patterns (Q-POP assay) highlights likely conformational changes at important functional sites, as observed here for PB1, and may provide information on protein-protein interaction interfaces. The Q-POP assay should be a generally applicable approach and may detect novel functional sites suitable for targeting by drugs.
+
+-Amino Acid Sequence
+-Biotin (-analogs & derivatives; -metabolism)
+-Chromatography, Liquid
+-DNA Mutational Analysis (-methods)
+-Isotope Labeling (-methods)
+-Lysine (+metabolism)
+-Molecular Sequence Data
+-Mutagenesis
+-Protein Binding
+-Protein Interaction Domains and Motifs
+-Protein Interaction Mapping (+methods)
+-Protein Multimerization
+-Protein Subunits
+-Sequence Alignment
+-Succinimides (-metabolism)
+-Tandem Mass Spectrometry
+-Viral Proteins (-chemistry; -genetics; +metabolism)
+
+doi:10.1002/pro.159
+pubmed:19517532
+pmc:PMC2775213
+

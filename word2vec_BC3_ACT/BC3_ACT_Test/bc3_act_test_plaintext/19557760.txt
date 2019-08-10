@@ -1,0 +1,22 @@
+Proteomics
+
+Analysis of novel over- and under-sulfated glycosaminoglycan sequences by enzyme cleavage and multiple stage MS.
+
+AD Zamfir, C Flangea, E Sisu, AF Serb, N Dinca, P Bruckner, DG Seidler
+
+We report on a novel strategy for identification of specific sulfation motifs in chondroitin/dermatan sulfate (CS/DS) chain derived from decorin (Dcn), based on enzyme cleavage and multistage MS (MS(n)). Released CS/DS chains were digested with chondroitin B and in parallel with AC I lyases to obtain oligosaccharides of known hexuronic acid (HexA) epimerization. The depolymerized chains were separated by gel filtration, and collected di- and hexasaccharides were analyzed by ESI MS(n). MS(2) on bisulfated 4,5-Delta-HexAGalNAc revealed an additional sulfate ester group at 4,5-Delta-HexA. MS(2) data provided evidence upon GlcA sulfation in Dcn due to the fact that 4,5-Delta-HexA derived from GlcA after chondroitin AC I lyase treatment. Hexasaccharide screening in the MS(1) mode indicated direct correlation between the sulfate distribution and HexA epimerization. MS(n) performed on ions that, according to mass calculation, correspond to pentasulfated [4,5-Delta-HexAGalNAc(GlcAGalNAc)(2)], trisulfated [4,5-Delta-HexAGalNAc(GlcAGalNAc)(2)] with IdoA-derived 4,5-Delta-HexA at the nonreducing end, tetrasulfated [4,5-Delta-HexAGalNAc(IdoAGalNAc)(2)] and monosulfated [4,5-Delta-HexAGalNAc(IdoAGalNAc)(2)] with GlcA-derived 4,5-Delta-HexA at the nonreducing end rendered fragmentation patterns confirming the presence of over-, regular, and under-sulfated regions as well as structural motifs having both types of HexA sulfated within Dcn CS/DS.
+
+-Carbohydrate Sequence
+-Chondroitin Lyases (+metabolism)
+-Extracellular Matrix Proteins (-isolation & purification)
+-Glycosaminoglycans (+analysis; -chemistry; -metabolism)
+-Humans
+-Oligosaccharides (-analysis; -chemistry; -metabolism)
+-Proteoglycans (-isolation & purification)
+-Spectrometry, Mass, Electrospray Ionization (+methods)
+-Sulfur (+chemistry)
+-Tandem Mass Spectrometry (+methods)
+
+doi:10.1002/pmic.200800440
+pubmed:19557760
+

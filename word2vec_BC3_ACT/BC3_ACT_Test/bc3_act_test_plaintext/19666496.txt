@@ -1,0 +1,27 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Thermodynamic basis for the optimization of binding-induced biomolecular switches and structure-switching biosensors.
+
+A Vallée-Bélisle, F Ricci, KW Plaxco
+
+Binding-induced biomolecular switches are used throughout nature and, increasingly, throughout biotechnology for the detection of chemical moieties and the subsequent transduction of this detection into useful outputs. Here we show that the thermodynamics of these switches are quantitatively described by a simple 3-state population-shift model, in which the equilibrium between a nonbinding, nonsignaling state and the binding-competent, signaling state is shifted toward the latter upon target binding. Because of this, their performance is determined by the tradeoff inherent to their switching thermodynamics; while a switching equilibrium constant favoring the nonbinding, nonsignaling, conformation ensures a larger signal change (more molecules are poised to respond), it also reduces affinity (binding must overcome a more unfavorable conformational free energy). We then derive and employ the relationship between switching thermodynamics and switch signaling to rationally tune the dynamic range and detection limit of a representative structure-switching biosensor, a molecular beacon, over 4 orders of magnitude. These findings demonstrate that the performance of biomolecular switches can be rationally tuned via mutations that alter their switching thermodynamics and suggest a mechanism by which the performance of naturally occurring switches may have evolved.
+
+-Binding Sites
++Biosensing Techniques
+-Calcium (-chemistry)
+-Calmodulin (-chemistry)
+-Chromatography, High Pressure Liquid
+-Hydrogen-Ion Concentration
+-Kinetics
+-Molecular Conformation
+-Protein Binding
+-Protein Folding
+-Signal Transduction
+-Spectrometry, Fluorescence (-methods)
+-Thermodynamics
+
+pii:0904005106
+doi:10.1073/pnas.0904005106
+pubmed:19666496
+pmc:PMC2728975
+

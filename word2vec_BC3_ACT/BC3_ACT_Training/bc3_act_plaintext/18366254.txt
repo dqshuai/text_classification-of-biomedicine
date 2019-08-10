@@ -1,0 +1,33 @@
+PLoS Biol.
+
+Phosphorylation-independent regulation of the diguanylate cyclase WspR.
+
+N De, M Pirruccello, PV Krasteva, N Bae, RV Raghavan, H Sondermann
+
+Environmental signals that trigger bacterial pathogenesis and biofilm formation are mediated by changes in the level of cyclic dimeric guanosine monophosphate (c-di-GMP), a unique eubacterial second messenger. Tight regulation of cellular c-di-GMP concentration is governed by diguanylate cyclases and phosphodiesterases, which are responsible for its production and degradation, respectively. Here, we present the crystal structure of the diguanylate cyclase WspR, a conserved GGDEF domain-containing response regulator in Gram-negative bacteria, bound to c-di-GMP at an inhibitory site. Biochemical analyses revealed that feedback regulation involves the formation of at least three distinct oligomeric states. By switching from an active to a product-inhibited dimer via a tetrameric assembly, WspR utilizes a novel mechanism for modulation of its activity through oligomerization. Moreover, our data suggest that these enzymes can be activated by phosphodiesterases. Thus, in addition to the canonical pathways via phosphorylation of the regulatory domains, both product and enzyme concentration contribute to the coordination of c-di-GMP signaling. A structural comparison reveals resemblance of the oligomeric states to assemblies of GAF domains, widely used regulatory domains in signaling molecules conserved from archaea to mammals, suggesting a similar mechanism of regulation.
+
+-Bacterial Proteins (-antagonists & inhibitors; -chemistry; -isolation & purification; +metabolism)
+-Binding Sites
+-Catalysis
+-Chromatography, Gel
+-Crystallography, X-Ray
+-Cyclic GMP (-metabolism)
+-Dimerization
+-Enzyme Activation
+-Enzyme Stability
+-Feedback, Physiological
+-Light
+-Models, Biological
+-Molecular Weight
+-Phosphorus-Oxygen Lyases (-antagonists & inhibitors; -chemistry; -isolation & purification; +metabolism)
+-Phosphorylation
+-Protein Structure, Quaternary
+-Protein Structure, Tertiary
+-Pseudomonas aeruginosa (+enzymology)
+-Scattering, Radiation
+
+pii:07-PLBI-RA-3346
+doi:10.1371/journal.pbio.0060067
+pubmed:18366254
+pmc:PMC2270323
+

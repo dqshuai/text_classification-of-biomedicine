@@ -1,0 +1,24 @@
+EMBO Rep.
+
+Rad9 BRCT domain interaction with phosphorylated H2AX regulates the G1 checkpoint in budding yeast.
+
+A Hammet, C Magill, J Heierhorst, SP Jackson
+
+Phosphorylation of histone H2A or H2AX is an early and sensitive marker of DNA damage in eukaryotic cells, although mutation of the conserved damage-dependent phosphorylation site is well tolerated. Here, we show that H2A phosphorylation is required for cell-cycle arrest in response to DNA damage at the G1/S transition in budding yeast. Furthermore, we show that the tandem BRCT domain of Rad9 interacts directly with phosphorylated H2A in vitro and that a rad9 point mutation that abolishes this interaction results in in vivo phenotypes that are similar to those caused by an H2A phosphorylation site mutation. Remarkably, similar checkpoint defects are also caused by a Rad9 Tudor domain mutation that impairs Rad9 chromatin association already in undamaged cells. These findings indicate that constitutive Tudor domain-mediated and damage-specific BRCT domain-phospho-H2A-dependent interactions of Rad9 with chromatin cooperate to establish G1 checkpoint arrest.
+
+-Cell Cycle Proteins (+chemistry; +metabolism)
+-Chromatin (-metabolism)
++G1 Phase
+-Histones (+metabolism)
+-Phosphorylation
+-Protein Binding
+-Protein Structure, Tertiary
+-Saccharomyces cerevisiae (+cytology; +metabolism)
+-Saccharomyces cerevisiae Proteins (-metabolism)
+-Signal Transduction
+
+pii:7401036
+doi:10.1038/sj.embor.7401036
+pubmed:17721446
+pmc:PMC1973948
+

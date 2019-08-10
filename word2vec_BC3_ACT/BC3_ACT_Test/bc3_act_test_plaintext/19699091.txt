@@ -1,0 +1,18 @@
+Curr. Biol.
+
+Optic flow processing for the assessment of object movement during ego movement.
+
+PA Warren, SK Rushton
+
+The vast majority of research on optic flow (retinal motion arising because of observer movement) has focused on its use in heading recovery and guidance of locomotion. Here we demonstrate that optic flow processing has an important role in the detection and estimation of scene-relative object movement during self movement. To do this, the brain identifies and globally discounts (i.e., subtracts) optic flow patterns across the visual scene-a process called flow parsing. Remaining motion can then be attributed to other objects in the scene. In two experiments, stationary observers viewed radial expansion flow fields and a moving probe at various onscreen locations. Consistent with global discounting, perceived probe motion had a significant component toward the center of the display and the magnitude of this component increased with probe eccentricity. The contribution of local motion processing to this effect was small compared to that of global processing (experiment 1). Furthermore, global discounting was clearly implicated because these effects persisted even when all the flow in the hemifield containing the probe was removed (experiment 2). Global processing of optic flow information is shown to play a fundamental role in the recovery of object movement during ego movement.
+
+-Eye Movements (+physiology)
+-Humans
+-Motion Perception (+physiology)
+-Photic Stimulation
+-Retina (+physiology)
+
+pii:S0960-9822(09)01483-3
+doi:10.1016/j.cub.2009.07.057
+pubmed:19699091
+

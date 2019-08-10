@@ -1,0 +1,28 @@
+J. Proteome Res.
+
+Kinetic binding analysis of aptamers targeting HIV-1 proteins by a combination of a microbalance array and mass spectrometry (MAMS).
+
+TM Gronewold, A Baumgartner, J Hierer, S Sierra, M Blind, F Schäfer, J Blümer, T Tillmann, A Kiwitz, R Kaiser, M Zabe-Kühn, E Quandt, M Famulok
+
+An enhanced chip-based detection platform was developed by integrating a surface acoustic wave biosensor of the Love-wave type with protein identification by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-ToF MS). The system was applied to characterize the interaction of aptamers with their cognate HIV-1 proteins. The aptamers, which target two proteins of HIV-1, were identified using an automated in vitro selection platform. For aptamers S66A-C6 and S68B-C5, which target the V3 loop of the HIV-1 envelope protein gp120, KD values of 406 and 791 nM, respectively, were measured. Aptamer S69A-C15 was shown to bind HIV-1 reverse transcriptase (HIV-1 RT) with a KD value of 637 nM when immobilized on the biosensor surface. HIV-1 RT was identified with high significance using MALDI-ToF MS even in crude protein mixtures. The V3-loop of gp120 could be directly identified when using chip-bound purified protein samples. From crude protein mixtures, it could be identified indirectly with high significance via its fusion-partner glutathione-S-transferase (GST). Our data show that the combination of the selectivity of aptamers with a sensitive detection by MS enables the reliable and quantitative analysis of kinetic binding events of protein solutions in real time.
+
+-Amino Acid Sequence
+-Aptamers, Peptide (+chemistry)
+-Biotinylation
+-HIV Envelope Protein gp120 (-chemistry)
+-HIV Reverse Transcriptase (-metabolism)
+-HIV-1 (+chemistry)
+-Humans
+-Kinetics
+-Mass Spectrometry (+methods)
+-Molecular Sequence Data
+-Peptides (-chemistry)
+-Protein Binding
+-Proteins (-chemistry)
+-Sequence Homology, Amino Acid
+-Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization (-methods)
+-Viral Proteins (+chemistry)
+
+doi:10.1021/pr900265r
+pubmed:19469583
+

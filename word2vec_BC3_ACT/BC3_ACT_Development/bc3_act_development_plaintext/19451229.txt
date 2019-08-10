@@ -1,0 +1,33 @@
+Mol. Cell. Biol.
+
+Loss of the tumor suppressor gene NF2, encoding merlin, constitutively activates integrin-dependent mTORC1 signaling.
+
+MA López-Lago, T Okada, MM Murillo, N Socci, FG Giancotti
+
+Integrin signaling promotes, through p21-activated kinase, phosphorylation and inactivation of the tumor suppressor merlin, thus removing a block to mitogenesis in normal cells. However, the biochemical function of merlin and the effector pathways critical for the pathogenesis of malignant mesothelioma and other NF2-related malignancies are not known. We report that integrin-specific signaling promotes activation of mTORC1 and cap-dependent mRNA translation. Depletion of merlin rescues mTORC1 signaling in cells deprived of anchorage to a permissive extracellular matrix, suggesting that integrin signaling controls mTORC1 through inactivation of merlin. This signaling pathway controls translation of the cyclin D1 mRNA and, thereby, cell cycle progression. In addition, it promotes cell survival. Analysis of a panel of malignant mesothelioma cell lines reveals a strong correlation between loss of merlin and activation of mTORC1. Merlin-negative lines are sensitive to the growth-inhibitory effect of rapamycin, and the expression of recombinant merlin renders them partially resistant to rapamycin. Conversely, depletion of merlin restores rapamycin sensitivity in merlin-positive lines. These results indicate that integrin-mediated adhesion promotes mTORC1 signaling through the inactivation of merlin. Furthermore, they reveal that merlin-negative mesotheliomas display unregulated mTORC1 signaling and are sensitive to rapamycin, thus providing a preclinical rationale for prospective, biomarker-driven clinical studies of mTORC1 inhibitors in these tumors.
+
+-Antibiotics, Antineoplastic (-pharmacology)
+-Cell Line
+-Cell Line, Tumor
+-Cell Survival (-drug effects)
+-Cyclin D1 (-genetics)
+-G1 Phase
+-Humans
+-Immunoblotting
+-Integrins (-genetics; +metabolism)
+-Mesothelioma (-genetics; -metabolism; -pathology)
+-Neurofibromin 2 (+genetics; -metabolism)
+-Protein Biosynthesis
+-RNA Caps
+-RNA Interference
+-RNA, Messenger (-genetics)
++Signal Transduction
+-Sirolimus (-pharmacology)
+-Transcription Factors (-genetics; +metabolism)
+-Transfection
+
+pii:MCB.01578-08
+doi:10.1128/MCB.01578-08
+pubmed:19451229
+pmc:PMC2715795
+

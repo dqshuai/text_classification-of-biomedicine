@@ -1,0 +1,23 @@
+Biochemistry
+
+Crystallographic snapshots of cyanide- and water-bound C-clusters from bifunctional carbon monoxide dehydrogenase/acetyl-CoA synthase.
+
+Y Kung, TI Doukov, J Seravalli, SW Ragsdale, CL Drennan
+
+Nickel-containing carbon monoxide dehydrogenases (CODHs) reversibly catalyze the oxidation of carbon monoxide to carbon dioxide and are of vital importance in the global carbon cycle. The unusual catalytic CODH C-cluster has been crystallographically characterized as either a NiFe(4)S(4) or a NiFe(4)S(5) metal center, the latter containing a fifth, additional sulfide that bridges Ni and a unique Fe site. To determine whether this bridging sulfide is catalytically relevant and to further explore the mechanism of the C-cluster, we obtained crystal structures of the 310 kDa bifunctional CODH/acetyl-CoA synthase complex from Moorella thermoacetica bound both with a substrate H(2)O/OH(-) molecule and with a cyanide inhibitor. X-ray diffraction data were collected from native crystals and from identical crystals soaked in a solution containing potassium cyanide. In both structures, the substrate H(2)O/OH(-) molecule exhibits binding to the unique Fe site of the C-cluster. We also observe cyanide binding in a bent conformation to Ni of the C-cluster, adjacent the substrate H(2)O/OH(-) molecule. Importantly, the bridging sulfide is not present in either structure. As these forms of the C-cluster represent the coordination environment immediately before the reaction takes place, our findings do not support a fifth, bridging sulfide playing a catalytic role in the enzyme mechanism. The crystal structures presented here, along with recent structures of CODHs from other organisms, have led us toward a unified mechanism for CO oxidation by the C-cluster, the catalytic center of an environmentally important enzyme.
+
+-Acetate-CoA Ligase (+chemistry; -metabolism)
+-Aldehyde Oxidoreductases (+chemistry; -metabolism)
+-Binding Sites
++Catalytic Domain
+-Crystallography, X-Ray
+-Cyanides (+chemistry)
+-Ligands
+-Methanosarcina barkeri
+-Multienzyme Complexes (+chemistry; -metabolism)
+-Water (+chemistry)
+
+doi:10.1021/bi900574h
+pubmed:19583207
+pmc:PMC2721637
+

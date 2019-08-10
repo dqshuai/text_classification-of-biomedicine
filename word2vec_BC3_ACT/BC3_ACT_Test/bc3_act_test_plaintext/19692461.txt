@@ -1,0 +1,31 @@
+J. Virol.
+
+Extension of flavivirus protein C differentially affects early RNA synthesis and growth in mammalian and arthropod host cells.
+
+S Schrauf, CW Mandl, L Bell-Sakyi, T Skern
+
+The translation of flaviviral RNA genomes yields a single polyprotein that is processed into the mature proteins by viral and host cell proteases. Mature capsid protein C is freed from the polyprotein by the viral NS2B/3 protease, cleaving in the C-terminal region of protein C in front of the signal sequence for prM. Protein C has been shown to be involved in viral assembly and RNA packaging. To examine further the role of protein C and its production by proteolysis, we replaced the NS2B/3 capsid cleavage site in tick-borne encephalitis virus (TBEV) and West Nile virus (WNV) by the 2A protein of foot-and-mouth disease virus (TBEV-2A and WNV-2A). This obviated the need for NS2B/3 processing at the C terminus of mature protein C while simultaneously producing a 19-amino-acid extension on protein C. Infectious virions were generated with both viruses; the phenotype depended on the host cell. TBEV-2A replicated well in BHK-21 cells but was essentially incapable of replication in tick cells. In contrast, WNV-2A replicated well in mosquito cells but showed a small-plaque phenotype in Vero cells, with frequent production of larger plaques. Sequencing of viral RNA from the larger plaques showed substitutions in the signal sequence for prM, presumably improving coordinated protein processing at the C-prM junction. Furthermore, both TBEV-2A and WNV-2A were also defective in unpackaging and/or early RNA synthesis. Together, these results indicate a role for flavivirus protein C in both viral assembly and RNA replication, possibly by interacting with host cell factors required to set up the cell for RNA replication.
+
+-Amino Acid Sequence
+-Animals
+-Antigens, Viral (-genetics; +metabolism)
+-Capsid (+metabolism)
+-Cell Line
+-Cricetinae
+-Cricetulus
+-Encephalitis Viruses, Tick-Borne (-metabolism)
+-Flavivirus (-genetics; +metabolism)
+-Foot-and-Mouth Disease Virus (-metabolism)
+-Humans
+-Insects
+-Molecular Sequence Data
+-RNA, Viral (-genetics; -metabolism)
+-Viral Nonstructural Proteins (-genetics; -metabolism)
+-Viral Proteins (-genetics; +metabolism)
+-West Nile virus (-metabolism)
+
+pii:JVI.01025-09
+doi:10.1128/JVI.01025-09
+pubmed:19692461
+pmc:PMC2772764
+

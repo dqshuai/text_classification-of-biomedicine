@@ -1,0 +1,26 @@
+Biochemistry
+
+Biochemical analysis of PKR activation by PACT.
+
+GA Peters, B Dickerman, GC Sen
+
+Many extracellular stresses cause inhibition of translation initiation by triggering phosphorylation of the initiation factor, eIF-2alpha. A major protein kinase responsible for this phosphorylation is PKR, a latent kinase which itself needs to be activated by autophosphorylation. In stressed cells, this activation occurs when PACT, a PKR-binding protein, is phosphorylated and activates PKR. We have previously demonstrated that the presence of specific residues in domain 3 of PACT is necessary for its ability to activate PKR in vivo. Here, we analyze the biochemical properties of the inactive PACT mutants by assessing their ability to bind and activate PKR in vitro. Among the essential residues, two serines need to be phosphorylated in vivo for PACT's ability to activate PKR. We substituted those serines with aspartic acids, mimics of phosphoserines, and investigated the properties of the corresponding mutant PACTs. In vitro, they activate PKR more efficiently because they bind to PKR more tightly. These results indicate that stress-induced phosphorylation of specific serine residues in domain 3 of PACT increases its affinity for PKR, which leads to better activation of PKR and resultant eIF-2alpha phosphorylation.
+
+-Amino Acid Substitution (-genetics)
+-Apoptosis (-genetics)
+-Carrier Proteins (-genetics; -metabolism)
+-Cell Line, Tumor
+-Enzyme Activation (-genetics)
+-Humans
+-Phosphorylation
+-Protein Binding (-genetics)
+-Protein Structure, Tertiary (-genetics)
+-RNA-Binding Proteins (+chemistry; -genetics; +physiology)
+-Recombinant Fusion Proteins (-chemistry; -genetics; -physiology)
+-eIF-2 Kinase (+chemistry; -genetics; +metabolism)
+
+doi:10.1021/bi900433y
+pubmed:19580324
+mid:NIHMS132254
+pmc:PMC2766932
+

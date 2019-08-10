@@ -1,0 +1,27 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Model criticism based on likelihood-free inference, with an application to protein network evolution.
+
+O Ratmann, C Andrieu, C Wiuf, S Richardson
+
+Mathematical models are an important tool to explain and comprehend complex phenomena, and unparalleled computational advances enable us to easily explore them without any or little understanding of their global properties. In fact, the likelihood of the data under complex stochastic models is often analytically or numerically intractable in many areas of sciences. This makes it even more important to simultaneously investigate the adequacy of these models-in absolute terms, against the data, rather than relative to the performance of other models-but no such procedure has been formally discussed when the likelihood is intractable. We provide a statistical interpretation to current developments in likelihood-free Bayesian inference that explicitly accounts for discrepancies between the model and the data, termed Approximate Bayesian Computation under model uncertainty (ABCmicro). We augment the likelihood of the data with unknown error terms that correspond to freely chosen checking functions, and provide Monte Carlo strategies for sampling from the associated joint posterior distribution without the need of evaluating the likelihood. We discuss the benefit of incorporating model diagnostics within an ABC framework, and demonstrate how this method diagnoses model mismatch and guides model refinement by contrasting three qualitative models of protein network evolution to the protein interaction datasets of Helicobacter pylori and Treponema pallidum. Our results make a number of model deficiencies explicit, and suggest that the T. pallidum network topology is inconsistent with evolution dominated by link turnover or lateral gene transfer alone.
+
++Algorithms
+-Bacterial Proteins (+genetics; -metabolism)
+-Bayes Theorem
+-Computational Biology (-methods)
+-Databases, Protein
++Evolution, Molecular
+-Gene Transfer, Horizontal
+-Helicobacter pylori (-genetics; -metabolism)
+-Likelihood Functions
++Models, Biological
+-Monte Carlo Method
+-Protein Interaction Mapping
+-Treponema pallidum (-genetics; -metabolism)
+
+pii:0807882106
+doi:10.1073/pnas.0807882106
+pubmed:19525398
+pmc:PMC2695753
+

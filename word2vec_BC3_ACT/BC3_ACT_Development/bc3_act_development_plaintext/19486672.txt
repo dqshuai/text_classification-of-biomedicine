@@ -1,0 +1,30 @@
+Biophys. J.
+
+Molecular model of a cell plasma membrane with an asymmetric multicomponent composition: water permeation and ion effects.
+
+R Vácha, ML Berkowitz, P Jungwirth
+
+We present molecular dynamics simulations of a multicomponent, asymmetric bilayer in mixed aqueous solutions of sodium and potassium chloride. Because of the geometry of the system, there are two aqueous solution regions in our simulations: one mimics the intracellular region, and one mimics the extracellular region. Ion-specific effects are evident at the membrane/aqueous solution interface. Namely, at equal concentrations of sodium and potassium, sodium ions are more strongly adsorbed to carbonyl groups of the lipid headgroups. A significant concentration excess of potassium is needed for this ion to overwhelm the sodium abundance at the membrane. Ion-membrane interactions also lead to concentration-dependent and cation-specific behavior of the electrostatic potential in the intracellular region because of the negative charge on the inner leaflet. In addition, water permeation across the membrane was observed on a timescale of approximately 100 ns. This study represents a step toward the modeling of realistic biological membranes at physiological conditions in intracellular and extracellular environments.
+
+-Cell Membrane (+chemistry)
+-Cell Membrane Permeability
+-Computer Simulation
+-Membranes, Artificial
++Models, Chemical
+-Phosphatidylcholines (-chemistry)
+-Phosphatidylethanolamines (-chemistry)
+-Phosphatidylserines (-chemistry)
+-Potassium (+chemistry)
+-Potassium Chloride (-chemistry)
+-Sodium (+chemistry)
+-Sodium Chloride (-chemistry)
+-Sphingomyelins (-chemistry)
+-Static Electricity
+-Time Factors
+-Water (+chemistry)
+
+pii:S0006-3495(09)00743-7
+doi:10.1016/j.bpj.2009.03.010
+pubmed:19486672
+pmc:PMC2711485
+

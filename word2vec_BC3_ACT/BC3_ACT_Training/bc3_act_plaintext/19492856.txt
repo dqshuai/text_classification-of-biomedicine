@@ -1,0 +1,37 @@
+Biochemistry
+
+Directed evolution of serum paraoxonase PON3 by family shuffling and ancestor/consensus mutagenesis, and its biochemical characterization.
+
+O Khersonsky, M Rosenblat, L Toker, S Yacobson, A Hugenmatter, I Silman, JL Sussman, M Aviram, DS Tawfik
+
+Serum paraoxonases (PONs) are calcium-dependent lactonases with anti-atherogenic and detoxification functions. Here we describe the directed evolution and characterization of recombinant variants of serum paraoxonase PON3 that express in an active and soluble manner in Escherichia coli. These variants were obtained by combining family shuffling and phylogeny-based mutagenesis: the limited diversity of accessible, cloned PON3 genes was complemented by spiking the shuffling reaction with ancestor/consensus mutations, mutations to residues that comprise the consensus or appear in the predicted ancestors of the PON family. We screened the resulting libraries for PON3's lactonase activity while ensuring that the selected variants retained the substrate specificity of wild-type mammalian PON3s. The availability of highly stable, recombinant PON3 that is free of all other serum components enabled us to explore unknown biochemical features of PON3, including its binding to HDL particles, the effect of HDL on PON3's stability and enzymatic activity, and ex vivo tests of its anti-atherogenic properties. Overall, it appears that PON3 possesses properties very similar to those of PON1: the enzyme's lactonase activity is selectively stimulated by binding to apoAI-HDL, with a concomitant increase in its stability. PON3 also exhibits potentially anti-atherogenic functions, although at levels lower than those of PON1.
+
+-Amino Acid Sequence
+-Animals
+-Aryldialkylphosphatase (+blood; -chemistry)
+-Atherosclerosis (-enzymology)
+-Biocatalysis
+-Cell Extracts
+-Cholesterol (-metabolism)
++Consensus Sequence
++DNA Shuffling
++Directed Molecular Evolution
+-Enzyme Activation
+-Escherichia coli
+-Humans
+-Kinetics
+-Lipoproteins, HDL
+-Macrophages (-enzymology)
+-Mice
+-Molecular Sequence Data
++Mutagenesis
+-Mutant Proteins (-blood; -chemistry)
+-Oxidation-Reduction
+-Protein Stability
+-Rabbits
+-Sequence Analysis, Protein
+-Substrate Specificity
+
+doi:10.1021/bi900583y
+pubmed:19492856
+

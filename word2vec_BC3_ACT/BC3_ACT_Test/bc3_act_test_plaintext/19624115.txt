@@ -1,0 +1,27 @@
+Biochemistry
+
+Local and global effects of a cavity filling mutation in a metastable serpin.
+
+T Sengupta, Y Tsutsui, PL Wintrode
+
+The serpins are an unusual class of protease inhibitors which fold to a metastable form and subsequently undergo a massive conformational change to a stable form when they inhibit their target proteases. The driving force for this conformational change has been extensively investigated by site directed mutagenesis, and it has been found that mutations which stabilize the metastable form frequently result in activity deficiency. Here, we employ hydrogen/deuterium exchange to probe the effects of a cavity filling mutant of alpha(1)AT. The Gly117 --> Phe substitution fills a cavity between the F-helix and the face of beta-sheet A, stabilizes the metastable form of alpha(1)AT by approximately 4 kcal/mol and results in a 60% reduction in inhibitory activity against elastase. Globally, the G117F substitution alters the unfolding mechanism by eliminating the molten globule intermediate that is seen in wild type unfolding. Remarkably, this is accomplished primarily by destabilizing the molten globule rather than stabilizing the metastable native state. Locally, conformational flexibility in the native state is reduced in specific regions: the top of the F-helix, beta-strands 5A, 1C, and 4C, and helix D. Except for strand 4C, all of these regions mediate or propagate conformational changes. The F-helix and strand 5A must be displaced during protease inhibition, displacement of strand 1C is required for polymer formation, and helix D is a site (in antithrombin) of allosteric regulation. Our results indicate that these functionally important regions form a delocalized network of residues that are dynamically coupled and that both local and global stability mediate inhibitory activity.
+
+-Animals
+-Cattle
+-Deuterium Exchange Measurement
+-Enzyme Inhibitors (-chemistry; -pharmacology)
+-Gadolinium (-pharmacology)
+-Mass Spectrometry
+-Models, Molecular
+-Mutant Proteins (+chemistry; +genetics; -pharmacology)
++Mutation
+-Protein Denaturation (-drug effects)
+-Protein Stability (-drug effects)
+-Protein Structure, Secondary
+-alpha 1-Antitrypsin (+chemistry; +genetics; -pharmacology)
+
+doi:10.1021/bi900342d
+pubmed:19624115
+mid:NIHMS137242
+pmc:PMC2746415
+

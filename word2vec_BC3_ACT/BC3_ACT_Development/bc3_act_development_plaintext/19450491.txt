@@ -1,0 +1,28 @@
+Biophys. J.
+
+Arc-repressor dimerization on DNA: folding rate enhancement by colocalization.
+
+A Marcovitz, Y Levy
+
+Multimeric proteins are ubiquitous in many cellular processes that require high levels of regulation. Eukaryotic gene expression is often regulated by a mechanism of combinatorial control that involves the binding of dimeric transcription factors to DNA together with the coordinated activity of additional proteins. In this study, we investigated the dimerization of the Arc-repressor on DNA with the aim of achieving microscopic insight into the possible advantages of interacting with DNA as a complex rather than as a monomeric single-domain protein. We used a computational coarse-grained model in which the protein dynamics was governed by native interactions and protein-DNA interactions were dictated by electrostatic forces. Inspired by previous experimental work that showed an enhanced refolding rate for the Arc-repressor in the presence of DNA and other polyanions, we focused on the mechanism and kinetics of the assembly of Arc monomers in the presence of single- (ssDNA) and double-stranded DNA (dsDNA) molecules in a low-salt concentration environment. The electrostatic interactions that attract the protein to the dsDNA were shown to be fundamental in colocalizing the unfolded Arc chains and in accelerating refolding. Arc monomers bind the dsDNA efficiently and nonspecifically, and search for each other via one-dimensional diffusion. The fastest folding of Arc is observed for DNA of 30 bp. Longer DNA is significantly less efficient in accelerating the Arc refolding rate, since the two subunits search distinct regions of the one-dimensional DNA and are therefore much less colocalized. The probability that the two unfolded chains will meet on 200 bp DNA is similar to that in the bulk. The colocalization of Arc subunits on ssDNA results in much faster folding compared to that obtained on dsDNA of the same length. Differences in the rate of Arc refolding, cooperativity, and the structure of its transition state ensemble introduced by ssDNA and dsDNA molecules demonstrate the important role of colocalization in biological self-assembly processes.
+
+-DNA (+metabolism; -pharmacology)
+-DNA, Single-Stranded (-metabolism; -pharmacology)
+-Kinetics
+-Models, Molecular
+-Protein Binding
+-Protein Denaturation (-drug effects)
++Protein Folding (-drug effects)
++Protein Multimerization
+-Protein Renaturation (-drug effects)
+-Protein Structure, Quaternary
+-Repressor Proteins (+chemistry; +metabolism)
+-Static Electricity
+-Thermodynamics
+-Viral Regulatory and Accessory Proteins (+chemistry; +metabolism)
+
+pii:S0006-3495(09)00614-6
+doi:10.1016/j.bpj.2009.01.057
+pubmed:19450491
+pmc:PMC2712150
+

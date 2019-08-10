@@ -1,0 +1,24 @@
+J. Neurochem.
+
+Vulnerability to glutamate toxicity of dopaminergic neurons is dependent on endogenous dopamine and MAPK activation.
+
+Y Izumi, N Yamamoto, T Matsuo, S Wakita, H Takeuchi, T Kume, H Katsuki, H Sawada, A Akaike
+
+Dopaminergic neurons are more vulnerable than other types of neurons in cases of Parkinson disease and ischemic brain disease. An increasing amount of evidence suggests that endogenous dopamine plays a role in the vulnerability of dopaminergic neurons. Although glutamate toxicity contributes to the pathogenesis of these disorders, the sensitivity of dopaminergic neurons to glutamate toxicity has not been clarified. In this study, we demonstrated that dopaminergic neurons were preferentially affected by glutamate toxicity in rat mesencephalic cultures. Glutamate toxicity in dopaminergic neurons was blocked by inhibiting extracellular signal-regulated kinase (ERK), c-jun N-terminal kinase, and p38 MAPK. Furthermore, depletion of dopamine by alpha-methyl-dl-p-tyrosine methyl ester (alpha-MT), an inhibitor of tyrosine hydroxylase (TH), protected dopaminergic neurons from the neurotoxicity. Exposure to glutamate facilitated phosphoryration of TH at Ser31 by ERK, which contributes to the increased TH activity. Inhibition of ERK had no additive effect on the protection offered by alpha-MT, whereas alpha-MT and c-jun N-terminal kinase or p38 MAPK inhibitors had additive effects and yielded full protection. These data suggest that endogenous dopamine is responsible for the vulnerability to glutamate toxicity of dopaminergic neurons and one of the mechanisms may be an enhancement of dopamine synthesis mediated by ERK.
+
+-Animals
+-Cells, Cultured
+-Dopamine (+physiology; -toxicity)
+-Dose-Response Relationship, Drug
+-Enzyme Activation (-drug effects; -physiology)
+-Glutamic Acid (+toxicity)
+-MAP Kinase Signaling System (-drug effects; -physiology)
+-Mitogen-Activated Protein Kinases (+metabolism)
+-Neurons (-enzymology; -metabolism; +physiology)
+-Rats
+-Tyrosine 3-Monooxygenase (-metabolism)
+
+pii:JNC6178
+doi:10.1111/j.1471-4159.2009.06178.x
+pubmed:19457068
+

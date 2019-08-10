@@ -1,0 +1,32 @@
+Oncogene
+
+Fbw7 promotes ubiquitin-dependent degradation of c-Myb: involvement of GSK3-mediated phosphorylation of Thr-572 in mouse c-Myb.
+
+K Kitagawa, Y Hiramatsu, C Uchida, T Isobe, T Hattori, T Oda, K Shibata, S Nakamura, A Kikuchi, M Kitagawa
+
+Expression of oncoprotein c-Myb oscillates during hematopoiesis and hematological malignancies. Its quantity is not only regulated through transcriptional control but also through the ubiquitin-proteasome pathway, accompanied by phosphorylation, although the mechanisms are poorly understood. In this report, we tried to identify an E3 ubiquitin ligase, which targets c-Myb for ubiquitin-dependent degradation. We found that an F-box protein, Fbw7, interacted with c-Myb, which is mutated in numerous cancers. Fbw7 facilitated ubiquitylation and degradation of c-Myb in intact cells. Moreover, depletion of Fbw7 by RNA interference delayed turnover and increased the abundance of c-Myb in myeloid leukemia cells concomitantly, and suppressed the transcriptional level of gamma-globin, which receives transcriptional repression from c-Myb. In addition, we analysed sites required for both ubiquitylation and degradation of c-Myb. We found that Thr-572 is critical for Fbw7-mediated ubiquitylation in mouse c-Myb using site-directed mutagenesis. Fbw7 recognized the phosphorylation of Thr-572, which was mediated by glycogen synthase kinase 3 (GSK3). In consequence, the c-Myb protein was markedly stabilized by the substitution of Thr-572 to Ala. These observations suggest that SCF(Fbw7) ubiquitin ligase regulates phosphorylation-dependent degradation of c-Myb protein.
+
+-Animals
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Cells, Cultured
+-F-Box Proteins (-genetics; +metabolism)
+-Glycogen Synthase Kinase 3 (-genetics; +metabolism)
+-Humans
+-Immunoprecipitation
+-Mice
+-Mutagenesis, Site-Directed
+-Phosphorylation
+-Proto-Oncogene Proteins c-myb (+metabolism)
+-Proto-Oncogene Proteins c-myc (-genetics; -metabolism)
+-RNA, Messenger (-genetics; -metabolism)
+-Receptor, Notch1 (-genetics; -metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Threonine (-genetics; +metabolism)
+-Ubiquitin (+metabolism)
+-Ubiquitin-Protein Ligases (-genetics; +metabolism)
+-Ubiquitination
+
+pii:onc2009111
+doi:10.1038/onc.2009.111
+pubmed:19421138
+

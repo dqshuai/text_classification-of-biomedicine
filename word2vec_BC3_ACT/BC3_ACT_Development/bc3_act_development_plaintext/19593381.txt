@@ -1,0 +1,22 @@
+PLoS Pathog.
+
+DNA structure modulates the oligomerization properties of the AAV initiator protein Rep68.
+
+J Mansilla-Soto, M Yoon-Robarts, WJ Rice, S Arya, CR Escalante, RM Linden
+
+Rep68 is a multifunctional protein of the adeno-associated virus (AAV), a parvovirus that is mostly known for its promise as a gene therapy vector. In addition to its role as initiator in viral DNA replication, Rep68 is essential for site-specific integration of the AAV genome into human chromosome 19. Rep68 is a member of the superfamily 3 (SF3) helicases, along with the well-studied initiator proteins simian virus 40 large T antigen (SV40-LTag) and bovine papillomavirus (BPV) E1. Structurally, SF3 helicases share two domains, a DNA origin interaction domain (OID) and an AAA(+) motor domain. The AAA(+) motor domain is also a structural feature of cellular initiators and it functions as a platform for initiator oligomerization. Here, we studied Rep68 oligomerization in vitro in the presence of different DNA substrates using a variety of biophysical techniques and cryo-EM. We found that a dsDNA region of the AAV origin promotes the formation of a complex containing five Rep68 subunits. Interestingly, non-specific ssDNA promotes the formation of a double-ring Rep68, a known structure formed by the LTag and E1 initiator proteins. The Rep68 ring symmetry is 8-fold, thus differing from the hexameric rings formed by the other SF3 helicases. However, similiar to LTag and E1, Rep68 rings are oriented head-to-head, suggesting that DNA unwinding by the complex proceeds bidirectionally. This novel Rep68 quaternary structure requires both the DNA binding and AAA(+) domains, indicating cooperativity between these regions during oligomerization in vitro. Our study clearly demonstrates that Rep68 can oligomerize through two distinct oligomerization pathways, which depend on both the DNA structure and cooperativity of Rep68 domains. These findings provide insight into the dynamics and oligomeric adaptability of Rep68 and serve as a step towards understanding the role of this multifunctional protein during AAV DNA replication and site-specific integration.
+
+-Antigens, Polyomavirus Transforming (-chemistry; -metabolism)
+-Cryoelectron Microscopy
+-DNA, Single-Stranded (+chemistry; -metabolism)
+-DNA, Viral (+chemistry; -metabolism)
+-DNA-Binding Proteins (+chemistry; -metabolism)
+-Dependovirus (-genetics; -metabolism; +physiology)
+-Nucleic Acid Conformation
+-Protein Multimerization
+-Viral Proteins (+chemistry; -metabolism)
+
+doi:10.1371/journal.ppat.1000513
+pubmed:19593381
+pmc:PMC2702170
+

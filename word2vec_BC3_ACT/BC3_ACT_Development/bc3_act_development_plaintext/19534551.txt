@@ -1,0 +1,19 @@
+J. Am. Chem. Soc.
+
+Automated assignment in selectively methyl-labeled proteins.
+
+Y Xu, M Liu, PJ Simpson, R Isaacson, E Cota, J Marchant, D Yang, X Zhang, P Freemont, S Matthews
+
+Specific methyl labeling schemes and transverse relaxation optimized spectroscopy (TROSY) has extended the molecular size range for the application of NMR spectroscopy to very large proteins (up to approximately 1 MDa). Existing strategies for resonance assignment of methyl groups in large systems are based on NMR spectra recorded on smaller fragments and mutants. This is very time-consuming, and chemical shift changes due to mutation or truncation can often complicate interpretation. We have developed a new automated procedure able to rapidly assign the majority of methyl groups in very large proteins, without recourse to mutagenesis or truncated fragments (http://nmr.bc.ic.ac.uk/map-xs/). We demonstrate the effectiveness of this approach on the 300 kDa, ILV-labeled proteasome (alpha(7)alpha(7)) for which excellent spectra have been previously recorded. Of the observed methyl groups, 99% can be correctly assigned in a matter of minutes without manual intervention.
+
+-Automation
+-Crystallography, X-Ray
+-Deuterium (+chemistry)
+-Methylation
+-Models, Molecular
++Nuclear Magnetic Resonance, Biomolecular
+-Proteins (+chemistry)
+
+doi:10.1021/ja9020233
+pubmed:19534551
+

@@ -1,0 +1,38 @@
+Nat. Neurosci.
+
+HDAC1 and HDAC2 regulate oligodendrocyte differentiation by disrupting the beta-catenin-TCF interaction.
+
+F Ye, Y Chen, T Hoang, RL Montgomery, XH Zhao, H Bu, T Hu, MM Taketo, JH van Es, H Clevers, J Hsieh, R Bassel-Duby, EN Olson, QR Lu
+
+Oligodendrocyte development is regulated by the interaction of repressors and activators in a complex transcriptional network. We found that two histone-modifying enzymes, HDAC1 and HDAC2, were required for oligodendrocyte formation. Genetic deletion of both Hdac1 and Hdac2 in oligodendrocyte lineage cells resulted in stabilization and nuclear translocation of beta-catenin, which negatively regulates oligodendrocyte development by repressing Olig2 expression. We further identified the oligodendrocyte-restricted transcription factor TCF7L2/TCF4 as a bipartite co-effector of beta-catenin for regulating oligodendrocyte differentiation. Targeted disruption of Tcf7l2 in mice led to severe defects in oligodendrocyte maturation, whereas expression of its dominant-repressive form promoted precocious oligodendrocyte specification in developing chick neural tube. Transcriptional co-repressors HDAC1 and HDAC2 compete with beta-catenin for TCF7L2 interaction to regulate downstream genes involved in oligodendrocyte differentiation. Thus, crosstalk between HDAC1/2 and the canonical Wnt signaling pathway mediated by TCF7L2 serves as a regulatory mechanism for oligodendrocyte differentiation.
+
+-Animals
+-Astrocytes (-physiology)
+-Brain (-physiology)
++Cell Differentiation
+-Cells, Cultured
+-Chick Embryo
+-Female
+-Histone Deacetylase 1
+-Histone Deacetylase 2
+-Histone Deacetylases (-genetics; +metabolism)
+-Mice
+-Mice, Transgenic
+-Motor Neurons (-physiology)
+-Mutation
+-Oligodendroglia (-cytology; +physiology)
+-Rats
+-Rats, Inbred F344
+-Repressor Proteins (-genetics; +metabolism)
+-Signal Transduction
+-Spinal Cord (-physiology)
+-TCF Transcription Factors (+metabolism)
+-Wnt Proteins (-metabolism)
+-beta Catenin (+metabolism)
+
+pii:nn.2333
+doi:10.1038/nn.2333
+pubmed:19503085
+mid:NIHMS108741
+pmc:PMC2701973
+

@@ -1,0 +1,31 @@
+EMBO J.
+
+NF-kappaB dictates the degradation pathway of IkappaBalpha.
+
+E Mathes, EL O'Dea, A Hoffmann, G Ghosh
+
+IkappaB proteins are known as the regulators of NF-kappaB activity. They bind tightly to NF-kappaB dimers, until stimulus-responsive N-terminal phosphorylation by IKK triggers their ubiquitination and proteasomal degradation. It is known that IkappaBalpha is an unstable protein whose rapid degradation is slowed upon binding to NF-kappaB, but it is not known what dynamic mechanisms control the steady-state level of total IkappaBalpha. Here, we show clearly that two degradation pathways control the level of IkappaBalpha. Free IkappaBalpha degradation is not controlled by IKK or ubiquitination but intrinsically, by the C-terminal sequence known as the PEST domain. NF-kappaB binding to IkappaBalpha masks the PEST domain from proteasomal recognition, precluding ubiquitin-independent degradation; bound IkappaBalpha then requires IKK phosphorylation and ubiquitination for slow basal degradation. We show the biological requirement for the fast degradation of the free IkappaBalpha protein; alteration of free IkappaBalpha degradation dampens NF-kappaB activation. In addition, we find that both free and bound IkappaBalpha are similar substrates for IKK, and the preferential phosphorylation of NF-kappaB-bound IkappaBalpha is due to stabilization of IkappaBalpha by NF-kappaB.
+
+-3T3 Cells
+-Animals
+-Blotting, Western
+-Cell Line
+-Computer Simulation
+-Dimerization
+-Electrophoretic Mobility Shift Assay
+-Humans
+-I-kappa B Kinase (-metabolism)
+-I-kappa B Proteins (+metabolism)
+-Immunoprecipitation
+-Mice
+-Models, Biological
+-NF-kappa B (-chemistry; +metabolism)
+-Phosphorylation
+-Proteasome Endopeptidase Complex (-metabolism)
+-Ubiquitins (-metabolism)
+
+pii:emboj200873
+doi:10.1038/emboj.2008.73
+pubmed:18401342
+pmc:PMC2374849
+

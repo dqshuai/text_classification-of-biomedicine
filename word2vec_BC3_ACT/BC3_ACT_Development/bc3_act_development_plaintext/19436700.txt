@@ -1,0 +1,32 @@
+PLoS Pathog.
+
+Species-specific activity of SIV Nef and HIV-1 Vpu in overcoming restriction by tetherin/BST2.
+
+B Jia, R Serra-Moreno, W Neidermyer, A Rahmberg, J Mackey, IB Fofana, WE Johnson, S Westmoreland, DT Evans
+
+Tetherin, also known as BST2, CD317 or HM1.24, was recently identified as an interferon-inducible host-cell factor that interferes with the detachment of virus particles from infected cells. HIV-1 overcomes this restriction by expressing an accessory protein, Vpu, which counteracts tetherin. Since lentiviruses of the SIV(smm/mac)/HIV-2 lineage do not have a vpu gene, this activity has likely been assumed by other viral gene products. We found that deletion of the SIV(mac)239 nef gene significantly impaired virus release in cells expressing rhesus macaque tetherin. Virus release could be restored by expressing Nef in trans. However, Nef was unable to facilitate virus release in the presence of human tetherin. Conversely, Vpu enhanced virus release in the presence of human tetherin, but not in the presence of rhesus tetherin. In accordance with the species-specificity of Nef in mediating virus release, SIV Nef downregulated cell-surface expression of rhesus tetherin, but did not downregulate human tetherin. The specificity of SIV Nef for rhesus tetherin mapped to four amino acids in the cytoplasmic domain of the molecule that are missing from human tetherin, whereas the specificity of Vpu for human tetherin mapped to amino acid differences in the transmembrane domain. Nef alleles of SIV(smm), HIV-2 and HIV-1 were also able to rescue virus release in the presence of both rhesus macaque and sooty mangabey tetherin, but were generally ineffective against human tetherin. Thus, the ability of Nef to antagonize tetherin from these Old World primates appears to be conserved among the primate lentiviruses. These results identify Nef as the viral gene product of SIV that opposes restriction by tetherin in rhesus macaques and sooty mangabeys, and reveal species-specificity in the activities of both Nef and Vpu in overcoming tetherin in their respective hosts.
+
+-Amino Acid Sequence
+-Animals
+-Antigens, CD (-genetics; +metabolism)
+-Cell Line
+-Cercocebus atys
+-Down-Regulation
++HIV-1 (-genetics)
+-Human Immunodeficiency Virus Proteins (-genetics; +metabolism)
+-Humans
+-Interferons (-metabolism)
+-Macaca mulatta
+-Membrane Glycoproteins (-genetics; +metabolism)
+-Molecular Sequence Data
+-Protein Structure, Tertiary
+-Retroviridae Proteins (-metabolism)
+-Sequence Alignment
+-Simian immunodeficiency virus (-genetics)
+-Species Specificity
+-Viral Regulatory and Accessory Proteins (-genetics; +metabolism)
+
+doi:10.1371/journal.ppat.1000429
+pubmed:19436700
+pmc:PMC2673686
+

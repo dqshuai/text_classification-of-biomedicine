@@ -1,0 +1,23 @@
+J. Neurosci.
+
+Spatial profile and differential recruitment of GABAB modulate oscillatory activity in auditory cortex.
+
+AM Oswald, B Doiron, J Rinzel, AD Reyes
+
+The interplay between inhibition and excitation is at the core of cortical network activity. In many cortices, including auditory cortex (ACx), interactions between excitatory and inhibitory neurons generate synchronous network gamma oscillations (30-70 Hz). Here, we show that differences in the connection patterns and synaptic properties of excitatory-inhibitory microcircuits permit the spatial extent of network inputs to modulate the magnitude of gamma oscillations. Simultaneous multiple whole-cell recordings from connected fast-spiking interneurons and pyramidal cells in L2/3 of mouse ACx slices revealed that for intersomatic distances <50 microm, most inhibitory connections occurred in reciprocally connected (RC) pairs; at greater distances, inhibitory connections were equally likely in RC and nonreciprocally connected (nRC) pairs. Furthermore, the GABA(B)-mediated inhibition in RC pairs was weaker than in nRC pairs. Simulations with a network model that incorporated these features showed strong, gamma band oscillations only when the network inputs were confined to a small area. These findings suggest a novel mechanism by which oscillatory activity can be modulated by adjusting the spatial distribution of afferent input.
+
+-Action Potentials (+physiology)
+-Animals
+-Auditory Cortex (+metabolism; -physiology)
+-Biological Clocks (+physiology)
+-Mice
+-Nerve Net (-physiology)
+-Protein Transport (-physiology)
+-Receptors, GABA-B (+metabolism; -physiology)
+
+pii:29/33/10321
+doi:10.1523/JNEUROSCI.1703-09.2009
+pubmed:19692606
+mid:NIHMS141286
+pmc:PMC2761103
+

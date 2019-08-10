@@ -1,0 +1,28 @@
+Mol. Biol. Cell
+
+The group migration of Dictyostelium cells is regulated by extracellular chemoattractant degradation.
+
+GL Garcia, EC Rericha, CD Heger, PK Goldsmith, CA Parent
+
+Starvation of Dictyostelium induces a developmental program in which cells form an aggregate that eventually differentiates into a multicellular structure. The aggregate formation is mediated by directional migration of individual cells that quickly transition to group migration in which cells align in a head-to-tail manner to form streams. Cyclic AMP acts as a chemoattractant and its production, secretion, and degradation are highly regulated. A key protein is the extracellular phosphodiesterase PdsA. In this study we examine the role and localization of PdsA during chemotaxis and streaming. We find that pdsA(-) cells respond chemotactically to a narrower range of chemoattractant concentrations compared with wild-type (WT) cells. Moreover, unlike WT cells, pdsA(-) cells do not form streams at low cell densities and form unusual thick and transient streams at high cell densities. We find that the intracellular pool of PdsA is localized to the endoplasmic reticulum, which may provide a compartment for storage and secretion of PdsA. Because we find that cAMP synthesis is normal in cells lacking PdsA, we conclude that signal degradation regulates the external cAMP gradient field generation and that the group migration behavior of these cells is compromised even though their signaling machinery is intact.
+
+-Adenylate Cyclase (-metabolism)
+-Animals
+-Buffers
++Cell Movement
+-Chemotactic Factors (+metabolism)
+-Chemotaxis
+-Culture Media, Conditioned
+-Cytoplasmic Streaming
+-Dictyostelium (+cytology; -enzymology)
+-Endoplasmic Reticulum (-enzymology)
+-Enzyme Activation
+-Extracellular Space (+metabolism)
+-Phosphoric Diester Hydrolases (-deficiency; -metabolism)
+-Protein Transport
+
+pii:E09-03-0223
+doi:10.1091/mbc.E09-03-0223
+pubmed:19477920
+pmc:PMC2710833
+

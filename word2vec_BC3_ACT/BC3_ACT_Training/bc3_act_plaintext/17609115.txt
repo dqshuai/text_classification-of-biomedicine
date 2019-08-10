@@ -1,0 +1,34 @@
+Dev. Cell
+
+A CUL-2 ubiquitin ligase containing three FEM proteins degrades TRA-1 to regulate C. elegans sex determination.
+
+NG Starostina, JM Lim, M Schvarzstein, L Wells, AM Spence, ET Kipreos
+
+In Caenorhabditis elegans, the Gli-family transcription factor TRA-1 is the terminal effector of the sex-determination pathway. TRA-1 activity inhibits male development and allows female fates. Genetic studies have indicated that TRA-1 is negatively regulated by the fem-1, fem-2, and fem-3 genes. However, the mechanism of this regulation has not been understood. Here, we present data that TRA-1 is regulated by degradation mediated by a CUL-2-based ubiquitin ligase complex that contains FEM-1 as the substrate-recognition subunit, and FEM-2 and FEM-3 as cofactors. CUL-2 physically associates with both FEM-1 and TRA-1 in vivo, and cul-2 mutant males share feminization phenotypes with fem mutants. CUL-2 and the FEM proteins negatively regulate TRA-1 protein levels in C. elegans. When expressed in human cells, the FEM proteins interact with human CUL2 and induce the proteasome-dependent degradation of TRA-1. This work demonstrates that the terminal step in C. elegans sex determination is controlled by ubiquitin-mediated proteolysis.
+
+-Amino Acid Sequence
+-Animals
+-Caenorhabditis elegans (-genetics; +growth & development)
+-Caenorhabditis elegans Proteins (-chemistry; -genetics; +metabolism)
+-Cell Cycle Proteins (+metabolism)
+-Cullin Proteins (-chemistry; -genetics; +metabolism)
+-DNA-Binding Proteins (+metabolism)
+-Hermaphroditism
+-Molecular Sequence Data
+-Mutation
+-Phenotype
+-Phosphoprotein Phosphatases (-metabolism)
+-Proteasome Endopeptidase Complex (-metabolism)
++Sex Determination (Genetics)
+-Substrate Specificity
+-Transcription Factors (+metabolism)
+-Ubiquitin (-metabolism)
+-Ubiquitin-Protein Ligase Complexes (-metabolism)
+-Ubiquitin-Protein Ligases (-metabolism)
+
+pii:S1534-5807(07)00203-1
+doi:10.1016/j.devcel.2007.05.008
+pubmed:17609115
+mid:NIHMS26946
+pmc:PMC2064902
+

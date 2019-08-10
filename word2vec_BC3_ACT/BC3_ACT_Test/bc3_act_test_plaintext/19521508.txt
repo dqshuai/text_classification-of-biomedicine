@@ -1,0 +1,30 @@
+PLoS Pathog.
+
+Molecular evolutionary consequences of niche restriction in Francisella tularensis, a facultative intracellular pathogen.
+
+P Larsson, D Elfsmark, K Svensson, P Wikström, M Forsman, T Brettin, P Keim, A Johansson
+
+Francisella tularensis is a potent mammalian pathogen well adapted to intracellular habitats, whereas F. novicida and F. philomiragia are less virulent in mammals and appear to have less specialized lifecycles. We explored adaptations within the genus that may be linked to increased host association, as follows. First, we determined the genome sequence of F. tularensis subsp. mediasiatica, the only subspecies that had not been previously sequenced. This genome, and those of 12 other F. tularensis isolates, were then compared to the genomes of F. novicida (three isolates) and F. philomiragia (one isolate). Signs of homologous recombination were found in approximately 19.2% of F. novicida and F. philomiragia genes, but none among F. tularensis genomes. In addition, random insertions of insertion sequence elements appear to have provided raw materials for secondary adaptive mutations in F. tularensis, e.g. for duplication of the Francisella Pathogenicity Island and multiplication of a putative glycosyl transferase gene. Further, the five major genetic branches of F. tularensis seem to have converged along independent routes towards a common gene set via independent losses of gene functions. Our observations suggest that despite an average nucleotide identity of >97%, F. tularensis and F. novicida have evolved as two distinct population lineages, the former characterized by clonal structure with weak purifying selection, the latter by more frequent recombination and strong purifying selection. F. tularensis and F. novicida could be considered the same bacterial species, given their high similarity, but based on the evolutionary analyses described in this work we propose retaining separate species names.
+
+-DNA Mutational Analysis
+-DNA Transposable Elements
++Evolution, Molecular
+-Francisella (-genetics)
+-Francisella tularensis (-classification; +genetics; -pathogenicity)
+-Gene Duplication
+-Gene Order
+-Gene Silencing
+-Genetic Variation
++Genome, Bacterial
+-Genomic Islands
+-Models, Statistical
+-Mutation
+-Phylogeny
+-Recombination, Genetic
+-Selection, Genetic
+-Sequence Alignment
+
+doi:10.1371/journal.ppat.1000472
+pubmed:19521508
+pmc:PMC2688086
+

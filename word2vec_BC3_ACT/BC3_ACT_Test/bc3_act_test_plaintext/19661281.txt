@@ -1,0 +1,20 @@
+Nucleic Acids Res.
+
+Detecting species-site dependencies in large multiple sequence alignments.
+
+R Schwarz, PN Seibel, S Rahmann, C Schoen, M Huenerberg, C Müller-Reible, T Dandekar, R Karchin, J Schultz, T Müller
+
+Multiple sequence alignments (MSAs) are one of the most important sources of information in sequence analysis. Many methods have been proposed to detect, extract and visualize their most significant properties. To the same extent that site-specific methods like sequence logos successfully visualize site conservations and sequence-based methods like clustering approaches detect relationships between sequences, both types of methods fail at revealing informational elements of MSAs at the level of sequence-site interactions, i.e. finding clusters of sequences and sites responsible for their clustering, which together account for a high fraction of the overall information of the MSA. To fill this gap, we present here a method that combines the Fisher score-based embedding of sequences from a profile hidden Markov model (pHMM) with correspondence analysis. This method is capable of detecting and visualizing group-specific or conflicting signals in an MSA and allows for a detailed explorative investigation of alignments of any size tractable by pHMMs. Applications of our methods are exemplified on an alignment of the Neisseria surface antigen LP2086, where it is used to detect sites of recombinatory horizontal gene transfer and on the vitamin K epoxide reductase family to distinguish between evolutionary and functional signals.
+
+-Antigens, Bacterial (-chemistry; -classification)
+-Bacterial Proteins (-chemistry; -classification)
+-Mixed Function Oxygenases (-chemistry; -classification)
+-Phylogeny
+-Sequence Alignment (+methods)
+-Sequence Analysis, Protein
+
+pii:gkp634
+doi:10.1093/nar/gkp634
+pubmed:19661281
+pmc:PMC2764451
+

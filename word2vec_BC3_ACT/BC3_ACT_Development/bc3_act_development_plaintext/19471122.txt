@@ -1,0 +1,35 @@
+Cell Cycle
+
+Discovery of a novel proteasome inhibitor selective for cancer cells over non-transformed cells.
+
+A Kazi, H Lawrence, WC Guida, ML McLaughlin, GM Springett, N Berndt, RM Yip, SM Sebti
+
+Numerous proteins controlling cell cycle progression, apoptosis and angiogenesis are degraded by the ubiquitin/proteasome system, which has become the subject for intense investigations for cancer therapeutics. Therefore, we used in silico and experimental approaches to screen compounds from the NCI chemical libraries for inhibitors against the chymotrypsin-like (CT-L) activity of the proteasome and discovered PI-083. Molecular docking indicates that PI-083 interacts with the Thr21, Gly47 and Ala49 residues of the beta5 subunit and Asp114 of the beta6 subunit of the proteasome. PI-083 inhibits CT-L activity and cell proliferation and induces apoptosis selectively in cancer cells (ovarian T80-Hras, pancreatic C7-Kras and breast MCF-7) as compared to their normal/immortalized counterparts (T80, C7 and MCF-10A, respectively). In contrast, Bortezomib, the only proteasome inhibitor approved by the Food and Drug Administration (FDA), did not exhibit this selectivity for cancer over non-transformed cells. In addition, in all cancer cells tested, including Multiple Myeloma (MM), breast, pancreatic, ovarian, lung, prostate cancer cell lines as well as fresh MM cells from patients, PI-083 required less time than Bortezomib to induce its antitumor effects. Furthermore, in nude mouse xenografts in vivo, PI-083, but not Bortezomib, suppressed the growth of human breast and lung tumors. Finally, following in vivo treatment of mice, PI-083 inhibited tumor, but not hepatic liver CT-L activity, whereas Bortezomib inhibited both tumor and liver CT-L activities. These results suggest that PI-083 is more selective for cancer cells and may have broader antitumor activity and therefore warrants further advanced preclinical studies.
+
+-Animals
+-Anthracyclines (-chemistry; -isolation & purification; +pharmacology)
+-Antineoplastic Agents (-chemistry; -isolation & purification; +pharmacology)
+-Boronic Acids (-chemistry; -isolation & purification; +pharmacology)
+-Cell Line, Tumor
+-Cell Proliferation (-drug effects)
+-Cell Survival (-drug effects)
+-Chymotrypsin (+antagonists & inhibitors; -chemistry)
+-Drug Discovery
+-Humans
+-Inhibitory Concentration 50
+-Intracellular Signaling Peptides and Proteins (-agonists; -metabolism)
+-Mice
+-Mice, Nude
+-Neoplasms (-enzymology)
+-Proteasome Endopeptidase Complex (+antagonists & inhibitors)
+-Protein Conformation
+-Pyrazines (-chemistry; -isolation & purification; +pharmacology)
+-Serine Proteinase Inhibitors (-chemistry; -isolation & purification; +pharmacology)
+-Small Molecule Libraries
+-Xenograft Model Antitumor Assays
+
+pii:8798
+pubmed:19471122
+mid:NIHMS206117
+pmc:PMC2892826
+

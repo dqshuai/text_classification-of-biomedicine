@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+Deregulated direct targets of the hepatitis B virus (HBV) protein, HBx, identified through chromatin immunoprecipitation and expression microarray profiling.
+
+WK Sung, Y Lu, CW Lee, D Zhang, M Ronaghi, CG Lee
+
+The hepatitis B-X (HBx) protein is strongly associated with hepatocellular carcinoma. It is implicated not to directly cause cancer but to play a role in hepatocellular carcinoma as a co-factor. The oncogenic potential of HBx primarily lies in its interaction with transcriptional regulators resulting in aberrant gene expression and deregulated cellular pathways. Utilizing ultraviolet irradiation to simulate a tumor-initiating event, we integrated chip-based chromatin immunoprecipitation (ChIP-chip) with expression microarray profiling and identified 184 gene targets directly deregulated by HBx. One-hundred forty-four transcription factors interacting with HBx were computationally inferred. We experimentally validated that HBx interacts with some of the predicted transcription factors (pTF) as well as the promoters of the deregulated target genes of these pTFs. Significantly, we demonstrated that the pTF interacts with the promoters of the deregulated HBx target genes and that deregulation by HBx of these HBx target genes carrying the pTF consensus sequences can be reversed using pTF small interfering RNAs. The roles of these deregulated direct HBx target genes and their relevance in cancer was inferred via querying against biogroup/cancer-related microarray databases using web-based NextBio(TM) software. Six pathways, including the Jak-STAT pathway, were predicted to be significantly deregulated when HBx binds indirectly to direct target gene promoters. In conclusion, this study represents the first ever demonstration of the utilization of ChIP-chip to identify deregulated direct gene targets from indirect protein-DNA binding as well as transcriptional factors directly interacting with HBx. Increased knowledge of the gene/transcriptional factor targets of HBx will enhance our understanding of the role of HBx in hepatocellular carcinogenesis and facilitate the design of better strategies in combating hepatitis B virus-associated hepatocellular carcinoma.
+
+-Carcinoma, Hepatocellular (-metabolism)
+-Chromatin Immunoprecipitation
+-Computational Biology (-methods)
+-DNA (-chemistry)
++Gene Expression Regulation, Viral
+-Hepatitis B virus (+metabolism)
+-Humans
+-Janus Kinase 1 (-metabolism)
+-Liver Neoplasms (-metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Promoter Regions, Genetic
+-Protein Array Analysis
+-Protein Binding
+-Software
+-Trans-Activators (+chemistry; -metabolism)
+
+pii:M109.014563
+doi:10.1074/jbc.M109.014563
+pubmed:19439406
+pmc:PMC2755919
+

@@ -1,0 +1,25 @@
+BMC Genomics
+
+Comparison of next generation sequencing technologies for transcriptome characterization.
+
+PK Wall, J Leebens-Mack, AS Chanderbali, A Barakat, E Wolcott, H Liang, L Landherr, LP Tomsho, Y Hu, JE Carlson, H Ma, SC Schuster, DE Soltis, PS Soltis, N Altman, CW dePamphilis
+
+BACKGROUND: We have developed a simulation approach to help determine the optimal mixture of sequencing methods for most complete and cost effective transcriptome sequencing. We compared simulation results for traditional capillary sequencing with "Next Generation" (NG) ultra high-throughput technologies. The simulation model was parameterized using mappings of 130,000 cDNA sequence reads to the Arabidopsis genome (NCBI Accession SRA008180.19). We also generated 454-GS20 sequences and de novo assemblies for the basal eudicot California poppy (Eschscholzia californica) and the magnoliid avocado (Persea americana) using a variety of methods for cDNA synthesis. RESULTS: The Arabidopsis reads tagged more than 15,000 genes, including new splice variants and extended UTR regions. Of the total 134,791 reads (13.8 MB), 119,518 (88.7%) mapped exactly to known exons, while 1,117 (0.8%) mapped to introns, 11,524 (8.6%) spanned annotated intron/exon boundaries, and 3,066 (2.3%) extended beyond the end of annotated UTRs. Sequence-based inference of relative gene expression levels correlated significantly with microarray data. As expected, NG sequencing of normalized libraries tagged more genes than non-normalized libraries, although non-normalized libraries yielded more full-length cDNA sequences. The Arabidopsis data were used to simulate additional rounds of NG and traditional EST sequencing, and various combinations of each. Our simulations suggest a combination of FLX and Solexa sequencing for optimal transcriptome coverage at modest cost. We have also developed ESTcalc http://fgp.huck.psu.edu/NG_Sims/ngsim.pl, an online webtool, which allows users to explore the results of this study by specifying individualized costs and sequencing characteristics. CONCLUSION: NG sequencing technologies are a highly flexible set of platforms that can be scaled to suit different project goals. In terms of sequence coverage alone, the NG sequencing is a dramatic advance over capillary-based sequencing, but NG sequencing also presents significant challenges in assembly and sequence accuracy due to short read lengths, method-specific sequencing errors, and the absence of physical clones. These problems may be overcome by hybrid sequencing strategies using a mixture of sequencing methodologies, by new assemblers, and by sequencing more deeply. Sequencing and microarray outcomes from multiple experiments suggest that our simulator will be useful for guiding NG transcriptome sequencing projects in a wide range of organisms.
+
+-Arabidopsis (-genetics)
+-Computer Simulation
+-DNA, Complementary (-genetics)
+-Eschscholzia (-genetics)
+-Gene Expression Profiling (+methods)
+-Gene Library
+-Genome, Plant
+-Models, Genetic
+-Persea (-genetics)
+-RNA, Plant (-genetics)
+-Sequence Analysis, DNA (+methods)
+
+pii:1471-2164-10-347
+doi:10.1186/1471-2164-10-347
+pubmed:19646272
+pmc:PMC2907694
+

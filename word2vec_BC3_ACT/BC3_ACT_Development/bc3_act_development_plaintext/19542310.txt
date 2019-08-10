@@ -1,0 +1,26 @@
+Eukaryotic Cell
+
+Msb2 signaling mucin controls activation of Cek1 mitogen-activated protein kinase in Candida albicans.
+
+E Román, F Cottier, JF Ernst, J Pla
+
+We have characterized the role that the Msb2 protein plays in the fungal pathogen Candida albicans by the use of mutants defective in the putative upstream components of the HOG pathway. Msb2, in cooperation with Sho1, controls the activation of the Cek1 mitogen-activated protein kinase under conditions that damage the cell wall, thus defining Msb2 as a signaling element of this pathway in the fungus. msb2 mutants display altered sensitivity to Congo red, caspofungin, zymolyase, or tunicamycin, indicating that this protein is involved in cell wall biogenesis. Msb2 (as well as Sho1 and Hst7) is involved in the transmission of the signal toward Cek1 mediated by the Cdc42 GTPase, as revealed by the use of activated alleles (Cdc42(G12V)) of this protein. msb2 mutants have a stronger defective invasion phenotype than sho1 mutants when tested on certain solid media that use mannitol or sucrose as a carbon source or under hypoxia. Interestingly, Msb2 contributes to growth under conditions of high osmolarity when both branches of the HOG pathway are altered, as triple ssk1 msb2 sho1 mutants (but not any single or double mutant) are osmosensitive. However, this phenomenon is independent of the presence of Hog1, as Hog1 phosphorylation, Hog1 translocation to the nucleus, and glycerol accumulation are not affected in this mutant following an osmotic shock. These results reveal essential functions in morphogenesis, invasion, cell wall biogenesis, and growth under conditions of high osmolarity for Msb2 in C. albicans and suggest the divergence and specialization of this signaling pathway in filamentous fungi.
+
+-Animals
+-Candida albicans (+enzymology; -genetics; -pathogenicity)
+-Candidiasis (+microbiology)
+-Enzyme Activation
+-Fungal Proteins (-genetics; +metabolism)
+-Humans
+-Mice
+-Mice, Inbred BALB C
+-Mitogen-Activated Protein Kinase 3 (-genetics; +metabolism)
+-Mucins (-genetics; +metabolism)
++Signal Transduction
+-Virulence
+
+pii:EC.00081-09
+doi:10.1128/EC.00081-09
+pubmed:19542310
+pmc:PMC2725568
+

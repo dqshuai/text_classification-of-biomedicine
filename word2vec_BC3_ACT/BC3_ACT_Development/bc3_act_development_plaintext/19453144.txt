@@ -1,0 +1,27 @@
+J. Proteome Res.
+
+Identification of glycoproteins carrying a target glycan-motif by liquid chromatography/multiple-stage mass spectrometry: identification of Lewis x-conjugated glycoproteins in mouse kidney.
+
+N Hashii, N Kawasaki, S Itoh, Y Nakajima, A Harazono, T Kawanishi, T Yamaguchi
+
+Certain glycan motifs in glycoproteins are involved in several biological events and diseases. To understand the roles of these motifs, a method is needed to identify the glycoproteins that carry them. We previously demonstrated that liquid chromatography-multiple-stage mass spectrometry (LC-MSn) allowed for differentiation of oligosaccharides attached to Lewis-motifs, such as Lewisx(Lex, Galbeta1-4(Fucalpha1-3)GlcNAc) from other glycans. We successfully discriminated Lex-conjugated oligosaccharides from other N-linked oligosaccharides derived from mouse kidney proteins by using Lewis-motif-distinctive ions, a deoxyhexose (dHex)+hexose (Hex)+N-acetylhexsosamine (HexNAc) fragment (m/z 512), and a Hex+HexNAc fragment (m/z 366). In the present study, we demonstrated that this method could be used to identify the Lex-conjugated glycoproteins. All proteins in the mouse kidney were digested into peptides, and the fucosylated glycopeptides were enriched by lectin-affinity chromatography. The resulting fucosylated glycopeptides were subjected to two different runs of LC-MSn using a Fourier- transform ion cyclotron resonance mass spectrometer (FTICR-MS) and an ion trap-type mass spectrometer. After the first run, we picked out product ion spectra of the expected Lex-conjugated glycopeptides based on the presence of Lewis-motif-distinctive ions and assigned a peptide+HexNAc or peptide+(dHex)HexNAc fragment in each spectrum. Then the fucosylated glycopeptides were subjected to a second run in which the peptide-related fragments were set as precursor ions. We successfully identified gamma-glutamyl transpeptidase 1 (gamma-GTP1), low-density lipoprotein receptor-related protein 2 (LRP2), and a cubilin precursor as Lex-conjugated glycoproteins by sequencing of 2-5 glycopeptides. In addition, it was deduced that cadherin 16, dipeptidase I, H-2 class I histocompatibility antigen, K-K alpha precursor (H2-Kk), and alanyl (membrane) aminopeptidase could be Lex-conjugated glycoproteins from the good agreement between the experimental and theoretical masses and fragment patterns. The results indicated that our method could be applicable for the identification and screening of glycoproteins carrying target glycan-motifs, such as Lewis epitopes.
+
+-Amino Acid Motifs
+-Animals
+-Antigens, CD15 (+chemistry)
+-Chromatography, Liquid (+methods)
+-Databases, Protein
+-Glycopeptides (-chemistry)
+-Glycoproteins (+chemistry)
+-Kidney (+metabolism)
+-Lectins (-chemistry)
+-Mass Spectrometry (+methods)
+-Mice
+-Peptide-N4-(N-acetyl-beta-glucosaminyl) Asparagine Amidase (-chemistry)
+-Peptides (-chemistry)
+-Polysaccharides (-chemistry)
+-Proteomics (-methods)
+
+doi:10.1021/pr9000527
+pubmed:19453144
+

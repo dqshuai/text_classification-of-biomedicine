@@ -1,0 +1,26 @@
+Cell
+
+The mechanism of ATP-dependent primer-template recognition by a clamp loader complex.
+
+KR Simonetta, SL Kazmirski, ER Goedken, AJ Cantor, BA Kelch, R McNally, SN Seyedin, DL Makino, M O'Donnell, J Kuriyan
+
+Clamp loaders load sliding clamps onto primer-template DNA. The structure of the E. coli clamp loader bound to DNA reveals the formation of an ATP-dependent spiral of ATPase domains that tracks only the template strand, allowing recognition of both RNA and DNA primers. Unlike hexameric helicases, in which DNA translocation requires distinct conformations of the ATPase domains, the clamp loader spiral is symmetric and is set up to trigger release upon DNA recognition. Specificity for primed DNA arises from blockage of the end of the primer and accommodation of the emerging template along a surface groove. A related structure reveals how the psi protein, essential for coupling the clamp loader to single-stranded DNA-binding protein (SSB), binds to the clamp loader. By stabilizing a conformation of the clamp loader that is consistent with the ATPase spiral observed upon DNA binding, psi binding promotes the clamp-loading activity of the complex.
+
+-Adenosine Triphosphate (+metabolism)
+-Catalysis
+-Crystallography, X-Ray
+-DNA (-metabolism)
+-DNA Polymerase III (-chemistry; +metabolism)
+-DNA Replication
+-DNA-Binding Proteins (-metabolism)
+-Escherichia coli (+chemistry; -metabolism)
+-Escherichia coli Proteins (-chemistry; +metabolism)
+-Models, Molecular
+-RNA (-metabolism)
+
+pii:S0092-8674(09)00381-X
+doi:10.1016/j.cell.2009.03.044
+pubmed:19450514
+mid:NIHMS111202
+pmc:PMC2684988
+

@@ -1,0 +1,29 @@
+Plant Physiol.
+
+Rapid screening for temperature-sensitive alleles in plants.
+
+L Vidali, RC Augustine, SN Fay, P Franco, KA Pattavina, M Bezanilla
+
+We developed a simple and fast method to identify temperature-sensitive alleles of essential plant genes. We used primary and tertiary structure information to identify residues in the core of the protein of interest. These residues were mutated and tested for temperature sensitivity, taking advantage of the exceptionally rapid 1-week complementation assay in the moss Physcomitrella patens. As test molecules, we selected the actin-binding proteins profilin and actin-depolymerizing factor, because they are essential and their loss-of-function phenotype can be fully rescued. Screening a small number of candidate mutants, we successfully identified temperature-sensitive alleles of both profilin and actin-depolymerizing factor. Plants harboring these alleles grew well at the permissive temperature of 20 degrees C to 25 degrees C but showed a complete loss of function at the restrictive temperature of 32 degrees C. Notably, the profilin mutation identified in the moss gene can be transferred to profilins from other plant species, also rendering them temperature sensitive. The ability to routinely generate temperature-sensitive alleles of essential plant proteins provides a powerful tool for the study of gene function in plants.
+
++Alleles
+-Amino Acid Sequence
+-Arabidopsis (-genetics)
+-Bryopsida (-genetics)
++Genetic Techniques
+-Lilium (-genetics)
+-Molecular Sequence Data
+-Mutant Proteins (-chemistry; -genetics)
+-Mutation (-genetics)
+-Plant Proteins (-chemistry; -genetics)
+-Plants (+genetics)
+-Profilins (-genetics)
+-Protein Structure, Secondary
+-Saccharomyces cerevisiae (-genetics)
++Temperature
+
+pii:pp.109.143727
+doi:10.1104/pp.109.143727
+pubmed:19666707
+pmc:PMC2754644
+

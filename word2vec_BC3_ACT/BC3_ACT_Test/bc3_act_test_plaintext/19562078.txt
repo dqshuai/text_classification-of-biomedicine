@@ -1,0 +1,21 @@
+PLoS ONE
+
+A principal component analysis of 39 scientific impact measures.
+
+J Bollen, H Van de Sompel, A Hagberg, R Chute
+
+BACKGROUND: The impact of scientific publications has traditionally been expressed in terms of citation counts. However, scientific activity has moved online over the past decade. To better capture scientific impact in the digital era, a variety of new impact measures has been proposed on the basis of social network analysis and usage log data. Here we investigate how these new measures relate to each other, and how accurately and completely they express scientific impact. METHODOLOGY: We performed a principal component analysis of the rankings produced by 39 existing and proposed measures of scholarly impact that were calculated on the basis of both citation and usage log data. CONCLUSIONS: Our results indicate that the notion of scientific impact is a multi-dimensional construct that can not be adequately measured by any single indicator, although some measures are more suitable than others. The commonly used citation Impact Factor is not positioned at the core of this construct, but at its periphery, and should thus be used with caution.
+
+-Access to Information
++Bibliometrics
+-Databases, Factual
+-Information Dissemination
++Journal Impact Factor
+-Periodicals as Topic (+standards; -trends)
+-Principal Component Analysis
+-Publishing (+standards; -trends)
+
+doi:10.1371/journal.pone.0006022
+pubmed:19562078
+pmc:PMC2699100
+

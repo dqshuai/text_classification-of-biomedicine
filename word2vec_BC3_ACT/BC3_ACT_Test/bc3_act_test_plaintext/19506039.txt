@@ -1,0 +1,26 @@
+J. Cell Biol.
+
+Localization of recombination proteins and Srs2 reveals anti-recombinase function in vivo.
+
+RC Burgess, M Lisby, V Altmannova, L Krejci, P Sung, R Rothstein
+
+Homologous recombination (HR), although an important DNA repair mechanism, is dangerous to the cell if improperly regulated. The Srs2 "anti-recombinase" restricts HR by disassembling the Rad51 nucleoprotein filament, an intermediate preceding the exchange of homologous DNA strands. Here, we cytologically characterize Srs2 function in vivo and describe a novel mechanism for regulating the initiation of HR. We find that Srs2 is recruited separately to replication and repair centers and identify the genetic requirements for recruitment. In the absence of Srs2 activity, Rad51 foci accumulate, and surprisingly, can form in the absence of Rad52 mediation. However, these Rad51 foci do not represent repair-proficient filaments, as determined by recombination assays. Antagonistic roles for Rad52 and Srs2 in Rad51 filament formation are also observed in vitro. Furthermore, we provide evidence that Srs2 removes Rad51 indiscriminately from DNA, while the Rad52 protein coordinates appropriate filament reformation. This constant breakdown and rebuilding of filaments may act as a stringent quality control mechanism during HR.
+
+-DNA Breaks, Double-Stranded
+-DNA Helicases (-genetics; +metabolism)
+-DNA Repair
+-DNA Repair Enzymes
+-DNA Replication
+-Rad51 Recombinase (-genetics; +metabolism)
+-Rad52 DNA Repair and Recombination Protein (-genetics; -metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
++Recombination, Genetic
+-Saccharomyces cerevisiae (-enzymology; -genetics)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Two-Hybrid System Techniques
+
+pii:jcb.200810055
+doi:10.1083/jcb.200810055
+pubmed:19506039
+pmc:PMC2711611
+

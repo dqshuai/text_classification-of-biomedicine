@@ -1,0 +1,25 @@
+BMC Genomics
+
+PDA: an automatic and comprehensive analysis program for protein-DNA complex structures.
+
+R Kim, JT Guo
+
+BACKGROUND: Knowledge of protein-DNA interactions at the structural-level can provide insights into the mechanisms of protein-DNA recognition and gene regulation. Although over 1400 protein-DNA complex structures have been deposited into Protein Data Bank (PDB), the structural details of protein-DNA interactions are generally not available. In addition, current approaches to comparison of protein-DNA complexes are mainly based on protein sequence similarity while the DNA sequences are not taken into account. With the number of experimentally-determined protein-DNA complex structures increasing, there is a need for an automatic program to analyze the protein-DNA complex structures and to provide comprehensive structural information for the benefit of the whole research community. RESULTS: We developed an automatic and comprehensive protein-DNA complex structure analysis program, PDA (for protein-DNA complex structure analyzer). PDA takes PDB files as inputs and performs structural analysis that includes 1) whole protein-DNA complex structure restoration, especially the reconstruction of double-stranded DNA structures; 2) an efficient new approach for DNA base-pair detection; 3) systematic annotation of protein-DNA interactions; and 4) extraction of DNA subsequences involved in protein-DNA interactions and identification of protein-DNA binding units. Protein-DNA complex structures in current PDB were processed and analyzed with our PDA program and the analysis results were stored in a database. A dataset useful for studying protein-DNA interactions involved in gene regulation was generated using both protein and DNA sequences as well as the contact information of the complexes. WebPDA was developed to provide a web interface for using PDA and for data retrieval. CONCLUSION: PDA is a computational tool for structural annotations of protein-DNA complexes. It provides a useful resource for investigating protein-DNA interactions. Data from the PDA analysis can also facilitate the classification of protein-DNA complexes and provide insights into rational design of benchmarks. The PDA program is freely available at http://bioinfozen.uncc.edu/webpda.
+
+-Base Pairing
+-Computational Biology (+methods)
+-DNA-Binding Proteins (+chemistry)
+-Databases, Protein
+-Gene Expression Regulation
+-Nucleic Acid Conformation
+-Protein Binding
+-Protein Conformation
+-Sequence Analysis, DNA (-methods)
+-Sequence Analysis, Protein (-methods)
++Software
+
+pii:1471-2164-10-S1-S13
+doi:10.1186/1471-2164-10-S1-S13
+pubmed:19594872
+pmc:PMC2709256
+

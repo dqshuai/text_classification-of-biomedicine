@@ -1,0 +1,31 @@
+Cell
+
+Global transcriptional repression in C. elegans germline precursors by regulated sequestration of TAF-4.
+
+T Guven-Ozkan, Y Nishi, SM Robertson, R Lin
+
+In C. elegans, four asymmetric divisions, beginning with the zygote (P0), generate transcriptionally repressed germline blastomeres (P1-P4) and somatic sisters that become transcriptionally active. The protein PIE-1 represses transcription in the later germline blastomeres but not in the earlier germline blastomeres P0 and P1. We show here that OMA-1 and OMA-2, previously shown to regulate oocyte maturation, repress transcription in P0 and P1 by binding to and sequestering in the cytoplasm TAF-4, a component critical for assembly of TFIID and the pol II preinitiation complex. OMA-1/2 binding to TAF-4 is developmentally regulated, requiring phosphorylation by the DYRK kinase MBK-2, which is activated at meiosis II after fertilization. OMA-1/2 are normally degraded after the first mitosis, but ectopic expression of wild-type OMA-1 is sufficient to repress transcription in both somatic and later germline blastomeres. We propose that phosphorylation by MBK-2 serves as a developmental switch, converting OMA-1/2 from oocyte to embryo regulators.
+
+-Amino Acid Sequence
+-Animals
+-Blastomeres (+metabolism)
+-Caenorhabditis elegans (+embryology; +genetics; -metabolism)
+-Caenorhabditis elegans Proteins (-chemistry; +metabolism)
+-Carrier Proteins (-metabolism)
+-Gene Expression Regulation, Developmental
+-Histones (-metabolism)
+-Molecular Sequence Data
+-Oocytes (-metabolism)
+-Phosphorylation
+-Protein Structure, Tertiary
+-Protein-Tyrosine Kinases (-metabolism)
+-Repressor Proteins (-chemistry; -metabolism)
+-Transcription Factors (-chemistry; +metabolism)
+-Zygote (-cytology; +metabolism)
+
+pii:S0092-8674(08)00960-4
+doi:10.1016/j.cell.2008.07.040
+pubmed:18854162
+mid:NIHMS73071
+pmc:PMC2652481
+

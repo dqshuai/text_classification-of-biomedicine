@@ -1,0 +1,29 @@
+Nucleic Acids Res.
+
+The RNA binding protein Cwc2 interacts directly with the U6 snRNA to link the nineteen complex to the spliceosome during pre-mRNA splicing.
+
+JC McGrail, A Krause, RT O'Keefe
+
+Intron removal during pre-messenger RNA (pre-mRNA) splicing involves arrangement of snRNAs into conformations that promote the two catalytic steps. The Prp19 complex [nineteen complex (NTC)] can specify U5 and U6 snRNA interactions with pre-mRNA during spliceosome activation. A candidate for linking the NTC to the snRNAs is the NTC protein Cwc2, which contains motifs known to bind RNA, a zinc finger and RNA recognition motif (RRM). In yeast cells mutation of either the zinc finger or RRM destabilize Cwc2 and are lethal. Yeast cells depleted of Cwc2 accumulate pre-mRNA and display reduced levels of U1, U4, U5 and U6 snRNAs. Cwc2 depletion also reduces U4/U6 snRNA complex levels, as found with depletion of other NTC proteins, but without increase in free U4. Purified Cwc2 displays general RNA binding properties and can bind both snRNAs and pre-mRNA in vitro. A Cwc2 RRM fragment alone can bind RNA but with reduced efficiency. Under splicing conditions Cwc2 can associate with U2, U5 and U6 snRNAs, but can only be crosslinked directly to the U6 snRNA. Cwc2 associates with U6 both before and after the first step of splicing. We propose that Cwc2 links the NTC to the spliceosome during pre-mRNA splicing through the U6 snRNA.
+
+-Amino Acid Motifs
+-Amino Acid Sequence
+-Binding Sites
+-Gene Expression Regulation, Fungal
+-Molecular Sequence Data
+-Mutation
+-RNA Precursors (+metabolism)
++RNA Splicing
+-RNA, Messenger (+metabolism)
+-RNA, Small Nuclear (+metabolism)
+-RNA-Binding Proteins (-chemistry; -genetics; +metabolism)
+-Saccharomyces cerevisiae (-genetics; -growth & development; -metabolism)
+-Saccharomyces cerevisiae Proteins (-chemistry; -genetics; +metabolism)
+-Spliceosomes (+metabolism)
+-Zinc Fingers
+
+pii:gkp341
+doi:10.1093/nar/gkp341
+pubmed:19435883
+pmc:PMC2715229
+

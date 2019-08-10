@@ -1,0 +1,33 @@
+Plant Physiol.
+
+Remodeled respiration in ndufs4 with low phosphorylation efficiency suppresses Arabidopsis germination and growth and alters control of metabolism at night.
+
+EH Meyer, T Tomaz, AJ Carroll, G Estavillo, E Delannoy, SK Tanz, ID Small, BJ Pogson, AH Millar
+
+Respiratory oxidative phosphorylation is a cornerstone of cellular metabolism in aerobic multicellular organisms. The efficiency of this process is generally assumed to be maximized, but the presence of dynamically regulated nonphosphorylating bypasses implies that plants can alter phosphorylation efficiency and can benefit from lowered energy generation during respiration under certain conditions. We characterized an Arabidopsis (Arabidopsis thaliana) mutant, ndufs4 (for NADH dehydrogenase [ubiquinone] fragment S subunit 4), lacking complex I of the respiratory chain, which has constitutively lowered phosphorylation efficiency. Through analysis of the changes to mitochondrial function as well as whole cell transcripts and metabolites, we provide insights into how cellular metabolism flexibly adapts to reduced phosphorylation efficiency and why this state may benefit the plant by providing moderate stress tolerance. We show that removal of the single protein subunit NDUFS4 prevents assembly of complex I and removes its function from mitochondria without pleiotropic effects on other respiratory components. However, the lack of complex I promotes broad changes in the nuclear transcriptome governing growth and photosynthetic function. We observed increases in organic acid and amino acid pools in the mutant, especially at night, concomitant with alteration of the adenylate content. While germination is delayed, this can be rescued by application of gibberellic acid, and root growth assays of seedlings show enhanced tolerance to cold, mild salt, and osmotic stress. We discuss these observations in the light of recent data on the knockout of nonphosphorylating respiratory bypass enzymes that show opposite changes in metabolites and stress sensitivity. Our data suggest that the absence of complex I alters the adenylate control of cellular metabolism.
+
+-Adaptation, Physiological
+-Arabidopsis (-cytology; -genetics; +growth & development; +metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Cell Respiration
++Darkness
+-Electron Transport Complex I (-genetics; +metabolism)
+-Gene Expression Regulation, Plant
+-Genetic Complementation Test
++Germination
+-Mitochondria (-metabolism)
+-Mitochondrial Proteins (-genetics; -metabolism)
+-Mutation (-genetics)
+-Phenotype
+-Phosphorylation
+-Photosynthesis
+-Proteome (-metabolism)
+-RNA, Messenger (-genetics; -metabolism)
+-Seeds (-growth & development; -metabolism)
+-Stress, Physiological
+
+pii:pp.109.141770
+doi:10.1104/pp.109.141770
+pubmed:19675153
+pmc:PMC2754622
+

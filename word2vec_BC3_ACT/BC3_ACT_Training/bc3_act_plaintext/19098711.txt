@@ -1,0 +1,38 @@
+EMBO Rep.
+
+RYBP stabilizes p53 by modulating MDM2.
+
+D Chen, J Zhang, M Li, ER Rayburn, H Wang, R Zhang
+
+The mouse double minute 2 (MDM2)-p53 interaction regulates the activity of p53 and is a potential target for human cancer therapy. Here, we report that RYBP (RING1- and YY1-binding protein), a member of the polycomb group (PcG), interacts with MDM2 and decreases MDM2-mediated p53 ubiquitination, leading to stabilization of p53 and an increase in p53 activity. RYBP induces cell-cycle arrest and is involved in the p53 response to DNA damage. Expression of RYBP is decreased in human cancer tissues compared with adjacent normal tissues. These results show that RYBP is a new regulator of the MDM2-p53 loop and that it has tumour suppressor activity.
+
+-Animals
+-COS Cells
+-Cell Cycle (-physiology)
+-Cell Line, Tumor (-drug effects; -metabolism)
+-Cercopithecus aethiops
+-DNA Damage
+-Down-Regulation
+-Etoposide (-pharmacology)
+-Feedback, Physiological
+-Genes, Tumor Suppressor
+-Humans
+-Intracellular Signaling Peptides and Proteins (-antagonists & inhibitors; -genetics; +physiology)
+-Liver Neoplasms (-chemistry)
+-Lung Neoplasms (-chemistry)
+-Neoplasm Proteins (-biosynthesis; -genetics)
+-Protein Binding
+-Protein Interaction Mapping
+-Protein Processing, Post-Translational
+-Proto-Oncogene Proteins c-mdm2 (-biosynthesis; -genetics; +physiology)
+-RNA Interference
+-Recombinant Fusion Proteins (-metabolism)
+-Tumor Suppressor Protein p53 (-biosynthesis; -genetics; +physiology)
+-Two-Hybrid System Techniques
+-Ubiquitination
+
+pii:embor2008231
+doi:10.1038/embor.2008.231
+pubmed:19098711
+pmc:PMC2637313
+

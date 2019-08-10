@@ -1,0 +1,29 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+GPR17 is a negative regulator of the cysteinyl leukotriene 1 receptor response to leukotriene D4.
+
+A Maekawa, B Balestrieri, KF Austen, Y Kanaoka
+
+The cysteinyl leukotrienes (cys-LTs) are proinflammatory lipid mediators acting on the type 1 cys-LT receptor (CysLT(1)R) to mediate smooth muscle constriction and vascular permeability. GPR17, a G protein-coupled orphan receptor with homology to the P2Y and cys-LT receptors, failed to mediate calcium flux in response to leukotriene (LT) D(4) with stable transfectants. However, in stable cotransfections of 6xHis-tagged GPR17 with Myc-tagged CysLT(1)R, the robust CysLT(1)R-mediated calcium response to LTD(4) was abolished. The membrane expression of the CysLT(1)R analyzed by FACS with anti-Myc Ab was not reduced by the cotransfection, yet both LTD(4)-elicited ERK phosphorylation and the specific binding of [(3)H]LTD(4) to microsomal membranes were fully inhibited. CysLT(1)R and GPR17 expressed in transfected cells were coimmunoprecipitated and identified by Western blots, and confocal immunofluorescence microscopy revealed that GPR17 and CysLT(1)R colocalize on the cell surface of human peripheral blood monocytes. Lentiviral knockdown of GPR17 in mouse bone marrow-derived macrophages (BMMPhis) increased both the membrane expression of CysLT(1)R protein by FACS analysis and the LTD(4)-elicited calcium flux in a dose-dependent manner as compared with control BMMPhis, indicating a negative regulatory function of GPR17 for CysLT(1)R in a primary cell. In IgE-dependent passive cutaneous anaphylaxis, GPR17-deficient mice showed a marked and significant increase in vascular permeability as compared with WT littermates, and this vascular leak was significantly blocked by pretreatment of the mice with the CysLT(1)R antagonist, MK-571. Taken together, our findings suggest that GPR17 is a ligand-independent, constitutive negative regulator for the CysLT(1)R that suppresses CysLT(1)R-mediated function at the cell membrane.
+
+-Animals
+-Blotting, Western
+-Calcium (-metabolism)
+-Capillary Permeability (+genetics)
+-Flow Cytometry
+-Gene Knockdown Techniques
+-Humans
+-Immunoprecipitation
+-Leukotriene D4 (+metabolism)
+-Mice
+-Microscopy, Fluorescence
+-Monocytes (-metabolism)
+-Nerve Tissue Proteins (-genetics; +metabolism)
+-Receptors, G-Protein-Coupled (-genetics; +metabolism)
+-Receptors, Leukotriene (+metabolism)
+
+pii:0905364106
+doi:10.1073/pnas.0905364106
+pubmed:19561298
+pmc:PMC2710631
+

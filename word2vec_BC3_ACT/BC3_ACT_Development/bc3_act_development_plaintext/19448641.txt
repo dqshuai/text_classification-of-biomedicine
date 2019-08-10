@@ -1,0 +1,23 @@
+Nat. Methods
+
+A HUPO test sample study reveals common problems  in mass spectrometry-based proteomics.
+
+AW Bell, EW Deutsch, CE Au, RE Kearney, R Beavis, S Sechi, T Nilsson, JJ Bergeron
+
+We performed a test sample study to try to identify errors leading to irreproducibility, including incompleteness of peptide sampling, in liquid chromatography-mass spectrometry-based proteomics. We distributed an equimolar test sample, comprising 20 highly purified recombinant human proteins, to 27 laboratories. Each protein contained one or more unique tryptic peptides of 1,250 Da to test for ion selection and sampling in the mass spectrometer. Of the 27 labs, members of only 7 labs initially reported all 20 proteins correctly, and members of only 1 lab reported all tryptic peptides of 1,250 Da. Centralized analysis of the raw data, however, revealed that all 20 proteins and most of the 1,250 Da peptides had been detected in all 27 labs. Our centralized analysis determined missed identifications (false negatives), environmental contamination, database matching and curation of protein identifications as sources of problems. Improved search engines and databases are needed for mass spectrometry-based proteomics.
+
+-Chromatography, Liquid (+methods)
+-Humans
+-Mass Spectrometry (+methods)
+-Peptide Mapping (+methods)
+-Proteome (+analysis)
+-Proteomics (+methods)
+-Reproducibility of Results
+-Sensitivity and Specificity
+
+pii:nmeth.1333
+doi:10.1038/nmeth.1333
+pubmed:19448641
+mid:NIHMS130531
+pmc:PMC2785450
+

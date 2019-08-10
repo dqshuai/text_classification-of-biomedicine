@@ -1,0 +1,29 @@
+Cell
+
+Widespread shortening of 3'UTRs by alternative cleavage and polyadenylation activates oncogenes in cancer cells.
+
+C Mayr, DP Bartel
+
+In cancer cells, genetic alterations can activate proto-oncogenes, thereby contributing to tumorigenesis. However, the protein products of oncogenes are sometimes overexpressed without alteration of the proto-oncogene. Helping to explain this phenomenon, we found that when compared to similarly proliferating nontransformed cell lines, cancer cell lines often expressed substantial amounts of mRNA isoforms with shorter 3' untranslated regions (UTRs). These shorter isoforms usually resulted from alternative cleavage and polyadenylation (APA). The APA had functional consequences, with the shorter mRNA isoforms exhibiting increased stability and typically producing ten-fold more protein, in part through the loss of microRNA-mediated repression. Moreover, expression of the shorter mRNA isoform of the proto-oncogene IGF2BP1/IMP-1 led to far more oncogenic transformation than did expression of the full-length, annotated mRNA. The high incidence of APA in cancer cells, with consequent loss of 3'UTR repressive elements, suggests a pervasive role for APA in oncogene activation without genetic alteration.
+
+-3' Untranslated Regions (+metabolism)
++Alternative Splicing
+-Cell Line, Tumor
+-Cell Transformation, Neoplastic
+-Cyclin D2
+-Cyclins (-genetics; -metabolism)
+-Gene Expression Regulation, Neoplastic
+-Humans
+-Mutation
++Oncogenes
++Polyadenylation
+-RNA Stability
+-RNA-Binding Proteins (-metabolism)
+-S Phase
+
+pii:S0092-8674(09)00716-8
+doi:10.1016/j.cell.2009.06.016
+pubmed:19703394
+mid:NIHMS141384
+pmc:PMC2819821
+

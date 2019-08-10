@@ -1,0 +1,28 @@
+Plant Cell
+
+The Arabidopsis transcription factor MYB77 modulates auxin signal transduction.
+
+R Shin, AY Burch, KA Huppert, SB Tiwari, AS Murphy, TJ Guilfoyle, DP Schachtman
+
+Auxin is a key plant hormone that regulates plant development, apical dominance, and growth-related tropisms, such as phototropism and gravitropism. In this study, we report a new Arabidopsis thaliana transcription factor, MYB77, that is involved in auxin response. In MYB77 knockout plants, we found that auxin-responsive gene expression was greatly attenuated. Lateral root density in the MYB77 knockout was lower than the wild type at low concentrations of indole-3-acetic acid (IAA) and also under low nutrient conditions. MYB77 interacts with auxin response factors (ARFs) in vitro through the C terminus (domains III and IV) of ARFs and the activation domain of MYB77. A synergistic genetic interaction was demonstrated between MYB77 and ARF7 that resulted in a strong reduction in lateral root numbers. Experiments with protoplasts confirmed that the coexpression of MYB77 and an ARF C terminus enhance reporter gene expression. R2R3 MYB transcription factors have not been previously implicated in regulating the expression of auxin-inducible genes. Also it was previously unknown that ARFs interact with proteins other than those in the Aux/IAA family via conserved domains. The interaction between MYB77 and ARFs defines a new type of combinatorial transcriptional control in plants. This newly defined transcription factor interaction is part of the plant cells' repertoire for modulating response to auxin, thereby controlling lateral root growth and development under changing environmental conditions.
+
+-Arabidopsis (-drug effects; -genetics; +metabolism)
+-Arabidopsis Proteins (-chemistry; -genetics; +metabolism)
+-Base Sequence
+-Gene Expression Regulation, Plant (-drug effects)
+-Genes, Reporter
+-Indoleacetic Acids (+metabolism; -pharmacology)
+-Molecular Sequence Data
+-Mutation (-genetics)
+-Phenotype
+-Plant Roots (-drug effects; -growth & development; -metabolism)
+-Protein Binding (-drug effects)
+-Protoplasts (-drug effects; -metabolism)
++Signal Transduction (-drug effects)
+-Transcription Factors (-chemistry; -genetics; +metabolism)
+
+pii:tpc.107.050963
+doi:10.1105/tpc.107.050963
+pubmed:17675404
+pmc:PMC2002618
+

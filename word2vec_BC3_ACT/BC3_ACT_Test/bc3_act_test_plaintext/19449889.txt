@@ -1,0 +1,30 @@
+J. Am. Chem. Soc.
+
+Max-E47, a designed minimalist protein that targets the E-box DNA site in vivo and in vitro.
+
+J Xu, G Chen, AT De Jong, SH Shahravan, JA Shin
+
+Max-E47 is a designed hybrid protein comprising the Max DNA-binding basic region and E47 HLH dimerization subdomain. In the yeast one-hybrid system (Y1H), Max-E47 shows strong transcriptional activation from the E-box site, 5'-CACGTG, targeted by the Myc/Max/Mad network of transcription factors; two mutants, Max-E47Y and Max-E47YF, activate more weakly from the E-box in the Y1H. Quantitative fluorescence anisotropy titrations to gain free energies of protein:DNA binding gave low nanomolar K(d) values for the native MaxbHLHZ, Max-E47, and the Y and YF mutants binding to the E-box site (14, 15, 9, and 6 nM, respectively), with no detectable binding to a nonspecific control duplex. Because these minimalist, E-box-binding hybrids have no activation domain and no interactions with the c-MycbHLHZ, as shown by the yeast two-hybrid assay, they can potentially serve as dominant-negative inhibitors that suppress activation of E-box-responsive genes targeted by transcription factors including the c-Myc/Max complex. As proof-of-principle, we used our modified Y1H, which allows direct competition between two proteins vying for a DNA target, to show that Max-E47 effectively outcompetes the native MaxbHLHZ for the E-box; weaker competition is observed from the two mutants, consistent with Y1H results. These hybrids provide a minimalist scaffold for further exploration of the relationship between protein structure and DNA-binding function and may have applications as protein therapeutics or biochemical probes capable of targeting the E-box site.
+
+-Amino Acid Sequence
+-Basic Helix-Loop-Helix Leucine Zipper Transcription Factors (+chemistry; -genetics; -metabolism)
+-DNA (+chemistry; -genetics; -metabolism)
+-DNA-Binding Proteins (+chemistry; -genetics; -metabolism)
+-Dimerization
++E-Box Elements
+-Fluorescence Polarization
+-Helix-Loop-Helix Motifs
+-Models, Molecular
+-Molecular Sequence Data
+-Plasmids (-genetics)
+-Protein Structure, Tertiary
+-Recombinant Fusion Proteins (-chemistry; -genetics; -metabolism)
+-Repressor Proteins (+chemistry; -genetics; -metabolism)
+-Transcription Factors (+chemistry; -genetics; -metabolism)
+-Transcriptional Activation
+
+doi:10.1021/ja901306q
+pubmed:19449889
+mid:NIHMS118623
+pmc:PMC2734406
+

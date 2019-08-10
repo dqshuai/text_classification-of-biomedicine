@@ -1,0 +1,29 @@
+Nature
+
+mTOR regulates memory CD8 T-cell differentiation.
+
+K Araki, AP Turner, VO Shaffer, S Gangappa, SA Keller, MF Bachmann, CP Larsen, R Ahmed
+
+Memory CD8 T cells are a critical component of protective immunity, and inducing effective memory T-cell responses is a major goal of vaccines against chronic infections and tumours. Considerable effort has gone into designing vaccine regimens that will increase the magnitude of the memory response, but there has been minimal emphasis on developing strategies to improve the functional qualities of memory T cells. Here we show that mTOR (mammalian target of rapamycin, also known as FRAP1) is a major regulator of memory CD8 T-cell differentiation, and in contrast to what we expected, the immunosuppressive drug rapamycin has immunostimulatory effects on the generation of memory CD8 T cells. Treatment of mice with rapamycin following acute lymphocytic choriomeningitis virus infection enhanced not only the quantity but also the quality of virus-specific CD8 T cells. Similar effects were seen after immunization of mice with a vaccine based on non-replicating virus-like particles. In addition, rapamycin treatment also enhanced memory T-cell responses in non-human primates following vaccination with modified vaccinia virus Ankara. Rapamycin was effective during both the expansion and contraction phases of the T-cell response; during the expansion phase it increased the number of memory precursors, and during the contraction phase (effector to memory transition) it accelerated the memory T-cell differentiation program. Experiments using RNA interference to inhibit expression of mTOR, raptor (also known as 4932417H02Rik) or FKBP12 (also known as FKBP1A) in antigen-specific CD8 T cells showed that mTOR acts intrinsically through the mTORC1 (mTOR complex 1) pathway to regulate memory T-cell differentiation. Thus these studies identify a molecular pathway regulating memory formation and provide an effective strategy for improving the functional qualities of vaccine- or infection-induced memory T cells.
+
+-Animals
+-Antigens, Viral (-immunology)
+-CD8-Positive T-Lymphocytes (+cytology; +immunology)
++Cell Differentiation
+-Cells, Cultured
+-Immunologic Memory (-drug effects; +immunology)
+-Lymphocyte Count
+-Lymphocytic choriomeningitis virus (-immunology)
+-Macaca mulatta (-immunology)
+-Mice
+-Mice, Inbred C57BL
+-Protein Kinases (+metabolism)
+-Sirolimus (-pharmacology)
+-Transcription Factors (-metabolism)
+
+pii:nature08155
+doi:10.1038/nature08155
+pubmed:19543266
+mid:NIHMS118071
+pmc:PMC2710807
+

@@ -1,0 +1,30 @@
+J. Biol. Chem.
+
+Phosphorylation of p27Kip1 by Epstein-Barr virus protein kinase induces its degradation through SCFSkp2 ubiquitin ligase actions during viral lytic replication.
+
+S Iwahori, T Murata, A Kudoh, Y Sato, S Nakayama, H Isomura, T Kanda, T Tsurumi
+
+Epstein-Barr virus (EBV) productive replication occurs in an S-phase-like cellular environment with high cyclin-dependent kinase (CDK) activity. The EBV protein kinase (PK), encoded by the viral BGLF4 gene, is a Ser/Thr protein kinase, which phosphorylates both viral and cellular proteins, modifying the cellular environment for efficient viral productive replication. We here provide evidence that the EBV PK phosphorylates the CDK inhibitor p27(Kip1), resulting in ubiquitination and degradation in a proteasome-dependent manner during EBV productive replication. Experiments with BGLF4 knockdown by small interfering RNA and BGLF4 knock-out viruses clarified that EBV PK is involved in p27(Kip1) degradation upon lytic replication. Transfection of the BGLF4 expression vector revealed that EBV PK alone could phosphorylate the Thr-187 residue of p27(Kip1) and that the ubiquitination and degradation of p27(Kip1) occurred in an SCF(Skp2) ubiquitin ligase-dependent manner. In vitro, EBV PK proved capable of phosphorylating p27(Kip1) at Thr-187. Unlike cyclin E-CDK2 activity, the EBV PK activity was not inhibited by p27(Kip1). Overall, EBV PK enhances p27(Kip1) degradation effectively upon EBV productive replication, contributing to establishment of an S-phase-like cellular environment with high CDK activity.
+
+-Cyclin-Dependent Kinase Inhibitor p27 (+metabolism)
++Gene Expression Regulation, Viral
+-Genetic Vectors
+-Hela Cells
+-Herpesvirus 4, Human (+metabolism)
+-Humans
+-Phosphorylation
+-Plasmids (-metabolism)
+-Proteasome Endopeptidase Complex (-metabolism)
+-Protein-Serine-Threonine Kinases (-metabolism)
+-RNA, Small Interfering (-metabolism)
+-S Phase
+-S-Phase Kinase-Associated Proteins (+metabolism)
+-Threonine (-chemistry)
+-Ubiquitin (-chemistry)
+-Viral Proteins (-metabolism)
+
+pii:M109.015123
+doi:10.1074/jbc.M109.015123
+pubmed:19451650
+pmc:PMC2707218
+

@@ -1,0 +1,26 @@
+J. Virol.
+
+Vesicular stomatitis virus induces apoptosis primarily through Bak rather than Bax by inactivating Mcl-1 and Bcl-XL.
+
+AF Pearce, DS Lyles
+
+Vesicular stomatitis virus (VSV) induces apoptosis via the mitochondrial pathway. The mitochondrial pathway is regulated by the Bcl-2 family of proteins, which consists of both pro- and antiapoptotic members. To determine the relative importance of the multidomain proapoptotic Bcl-2 family members Bak and Bax, HeLa cells were transfected with Bak and/or Bax small interfering RNA (siRNA) and subsequently infected with recombinant wild-type VSV. Our results showed that Bak is more important than Bax for the induction of apoptosis in this system. Bak is regulated by two antiapoptotic Bcl-2 proteins, Mcl-1, which is rapidly turned over, and Bcl-X(L), which is relatively stable. Inhibition of host gene expression by the VSV M protein resulted in the degradation of Mcl-1 but not Bcl-X(L). However, inactivation of both Mcl-1 and Bcl-X(L) was required for cells to undergo apoptosis. While inactivation of Mcl-1 was due to inhibition of its expression, inactivation of Bcl-X(L) indicates a role for one or more BH3-only Bcl-2 family members. VSV-induced apoptosis was inhibited by transfection with siRNA against Bid, a BH3-only protein that is normally activated by the cleavage of caspase-8, the initiator caspase associated with the death receptor pathway. Similarly, treatment with an inhibitor of caspase-8 inhibited VSV-induced apoptosis. These results indicate a role for cross talk from the death receptor pathway in the activation of the mitochondrial pathway by VSV.
+
++Apoptosis
+-Hela Cells
+-Humans
+-Mitochondrial Proteins (-metabolism)
+-Proto-Oncogene Proteins c-bcl-2 (-metabolism; +physiology)
+-RNA, Small Interfering (-pharmacology)
+-Receptor Cross-Talk
+-Receptors, Death Domain (-metabolism)
+-Vesiculovirus (+physiology)
+-bcl-2 Homologous Antagonist-Killer Protein (-genetics; +physiology)
+-bcl-2-Associated X Protein (-genetics; +physiology)
+-bcl-X Protein (-metabolism; +physiology)
+
+pii:JVI.00436-09
+doi:10.1128/JVI.00436-09
+pubmed:19587033
+pmc:PMC2738225
+

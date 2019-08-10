@@ -1,0 +1,24 @@
+PLoS Genet.
+
+The pch2Delta mutation in baker's yeast alters meiotic crossover levels and confers a defect in crossover interference.
+
+S Zanders, E Alani
+
+Pch2 is a widely conserved protein that is required in baker's yeast for the organization of meiotic chromosome axes into specific domains. We provide four lines of evidence suggesting that it regulates the formation and distribution of crossover events required to promote chromosome segregation at Meiosis I. First, pch2Delta mutants display wild-type crossover levels on a small (III) chromosome, but increased levels on larger (VII, VIII, XV) chromosomes. Second, pch2Delta mutants show defects in crossover interference. Third, crossovers observed in pch2Delta require both Msh4-Msh5 and Mms4-Mus81 functions. Lastly, the pch2Delta mutation decreases spore viability and disrupts crossover interference in spo11 hypomorph strains that have reduced levels of meiosis-induced double-strand breaks. Based on these and previous observations, we propose a model in which Pch2 functions at an early step in crossover control to ensure that every homolog pair receives an obligate crossover.
+
+-Chromosomes, Fungal (-metabolism)
++Crossing Over, Genetic
+-DNA Topoisomerases, Type II, Eukaryotic
+-Gene Conversion
+-Gene Deletion
++Meiosis
+-Microbial Viability
+-Nuclear Proteins (+metabolism)
+-Saccharomyces cerevisiae (+cytology; +genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+-Spores, Fungal (-physiology)
+
+doi:10.1371/journal.pgen.1000571
+pubmed:19629178
+pmc:PMC2709914
+

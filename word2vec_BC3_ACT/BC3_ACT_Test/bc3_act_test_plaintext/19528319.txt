@@ -1,0 +1,23 @@
+Genes Dev.
+
+The rate of cell growth is governed by cell cycle stage.
+
+AI Goranov, M Cook, M Ricicova, G Ben-Ari, C Gonzalez, C Hansen, M Tyers, A Amon
+
+Cell growth is an essential requirement for cell cycle progression. While it is often held that growth is independent of cell cycle position, this relationship has not been closely scrutinized. Here we show that in budding yeast, the ability of cells to grow changes during the cell cycle. We find that cell growth is faster in cells arrested in anaphase and G1 than in other cell cycle stages. We demonstrate that the establishment of a polarized actin cytoskeleton-either as a consequence of normal cell division or through activation of the mating pheromone response-potently attenuates protein synthesis and growth. We furthermore show by population and single-cell analysis that growth varies during an unperturbed cell cycle, slowing at the time of polarized growth. Our study uncovers a fundamental relationship whereby cell cycle position regulates growth.
+
+-Actins (-metabolism)
+-Cell Cycle (-drug effects; -genetics; +physiology)
+-Cell Cycle Proteins (-genetics)
+-Cell Enlargement (-drug effects)
+-Cell Size
+-Down-Regulation (-drug effects)
+-Mutation (-genetics)
+-Pheromones (-pharmacology)
+-Saccharomyces cerevisiae (+cytology; -drug effects; -growth & development)
+
+pii:23/12/1408
+doi:10.1101/gad.1777309
+pubmed:19528319
+pmc:PMC2701574
+

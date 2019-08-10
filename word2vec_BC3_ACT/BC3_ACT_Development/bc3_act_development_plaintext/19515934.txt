@@ -1,0 +1,22 @@
+Nucleic Acids Res.
+
+Imaging individual microRNAs in single mammalian cells in situ.
+
+J Lu, A Tsourkas
+
+MicroRNAs (miRNAs) are potent negative regulators of gene expression that have been implicated in most major cellular processes. Despite rapid advances in our understanding of miRNA biogenesis and mechanism, many fundamental questions still remain regarding miRNA function and their influence on cell cycle control. Considering recent reports on the impact of cell-to-cell fluctuations in gene expression on phenotypic diversity, it is likely that looking at the average miRNA expression of cell populations could result in the loss of important information connecting miRNA expression and cell function. Currently, however, there are no efficient techniques to quantify miRNA expression at the single-cell level. Here, a method is described for the detection of individual miRNA molecules in cancer cells using fluorescence in situ hybridization. The method combines the unique recognition properties of locked nucleic acid probes with enzyme-labeled fluorescence. Using this approach, individual miRNAs are identified as bright, photostable fluorescent spots. In this study, miR-15a was quantified in MDA-MB-231 and HeLa cells, while miR-155 was quantified in MCF-7 cells. The dynamic range was found to span over three orders of magnitude and the average miRNA copy number per cell was within 17.5% of measurements acquired by quantitative RT-PCR.
+
+-Cell Line, Tumor
+-Hela Cells
+-Humans
++In Situ Hybridization, Fluorescence
+-MicroRNAs (+analysis)
+-Oligonucleotide Probes (-chemistry)
+-Oligonucleotides (-chemistry)
+-RNA, Messenger (-analysis)
+
+pii:gkp482
+doi:10.1093/nar/gkp482
+pubmed:19515934
+pmc:PMC2724290
+

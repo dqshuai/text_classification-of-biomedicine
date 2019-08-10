@@ -1,0 +1,25 @@
+Plant Cell
+
+Replication stress leads to genome instabilities in Arabidopsis DNA polymerase delta mutants.
+
+D Schuermann, O Fritsch, JM Lucht, B Hohn
+
+Impeded DNA replication or a deficiency of its control may critically threaten the genetic information of cells, possibly resulting in genome alterations, such as gross chromosomal translocations, microsatellite instabilities, or increased rates of homologous recombination (HR). We examined an Arabidopsis thaliana line derived from a forward genetic screen, which exhibits an elevated frequency of somatic HR. These HR events originate from replication stress in endoreduplicating cells caused by reduced expression of the gene coding for the catalytic subunit of the DNA polymerase delta (POLdelta1). The analysis of recombination types induced by diverse alleles of poldelta1 and by replication inhibitors allows the conclusion that two not mutually exclusive mechanisms lead to the generation of recombinogenic breaks at replication forks. In plants with weak poldelta1 alleles, we observe genome instabilities predominantly at sites with inverted repeats, suggesting the formation and processing of aberrant secondary DNA structures as a result of the accumulation of unreplicated DNA. Stalled and collapsed replication forks account for the more drastic enhancement of HR in plants with strong poldelta1 mutant alleles. Our data suggest that efficient progression of DNA replication, foremost on the lagging strand, relies on the physiological level of the polymerase delta complex and that even a minor disturbance of the replication process critically threatens genomic integrity of Arabidopsis cells.
+
+-Arabidopsis (+genetics; -metabolism)
+-Arabidopsis Proteins (+genetics; -metabolism)
+-DNA Polymerase III (+genetics; -metabolism)
++DNA Replication
+-DNA, Plant (-genetics)
+-Gene Expression Profiling
+-Genome, Plant
++Genomic Instability
+-Molecular Sequence Data
+-Mutagenesis, Insertional
+-Mutation
+
+pii:tpc.109.069682
+doi:10.1105/tpc.109.069682
+pubmed:19789281
+pmc:PMC2768921
+

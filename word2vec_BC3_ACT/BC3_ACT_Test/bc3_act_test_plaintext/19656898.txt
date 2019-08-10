@@ -1,0 +1,30 @@
+J. Virol.
+
+Role for G-quadruplex RNA binding by Epstein-Barr virus nuclear antigen 1 in DNA replication and metaphase chromosome attachment.
+
+J Norseen, FB Johnson, PM Lieberman
+
+Latent infection by Epstein-Barr virus (EBV) requires both replication and maintenance of the viral genome. EBV nuclear antigen 1 (EBNA1) is a virus-encoded protein that is critical for the replication and maintenance of the genome during latency in proliferating cells. We have previously demonstrated that EBNA1 recruits the cellular origin recognition complex (ORC) through an RNA-dependent interaction with EBNA1 linking region 1 (LR1) and LR2. We now show that LR1 and LR2 bind to G-rich RNA that is predicted to form G-quadruplex structures. Several chemically distinct G-quadruplex-interacting drugs disrupted the interaction between EBNA1 and ORC. The G-quadruplex-interacting compound BRACO-19 inhibited EBNA1-dependent stimulation of viral DNA replication and preferentially blocked proliferation of EBV-positive cells relative to EBV-negative cell lines. BRACO-19 treatment also disrupted the ability of EBNA1 to tether to metaphase chromosomes, suggesting that maintenance function is also mediated through G-quadruplex recognition. These findings suggest that the EBNA1 replication and maintenance function uses a common G-quadruplex binding capacity of LR1 and LR2, which may be targetable by small-molecule inhibitors.
+
+-Acridines (-pharmacology)
+-Animals
+-Base Sequence
+-Binding Sites
+-Cell Line
+-Chromosomes, Human (+virology)
++DNA Replication
+-DNA, Viral (-genetics; -metabolism)
+-Epstein-Barr Virus Nuclear Antigens (+metabolism)
++G-Quadruplexes (-drug effects)
+-Hela Cells
+-Herpesvirus 4, Human (-genetics; -metabolism; -pathogenicity)
+-Humans
++Metaphase
+-Molecular Sequence Data
+-Origin Recognition Complex
+
+pii:JVI.00747-09
+doi:10.1128/JVI.00747-09
+pubmed:19656898
+pmc:PMC2753104
+

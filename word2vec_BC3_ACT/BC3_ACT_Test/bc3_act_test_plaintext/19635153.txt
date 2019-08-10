@@ -1,0 +1,36 @@
+Breast Cancer Res.
+
+Construction of an MUC-1 promoter driven, conditionally replicating adenovirus that expresses the sodium iodide symporter for gene therapy of breast cancer.
+
+MA Trujillo, MJ Oneal, J Davydova, E Bergert, M Yamamoto, JC Morris
+
+INTRODUCTION : The sodium iodide symporter (NIS) directs the uptake and concentration of iodide in thyroid cells. This in turn allows radioiodine imaging and therapy for thyroid cancer. To extend the use of NIS-mediated radioiodine therapy to other types of cancer, we successfully transferred and expressed the sodium-iodide symporter (NIS) gene in prostate, colon, and breast cancer cells both in vivo and in vitro by using non-replicating adenoviral vectors. METHODS : To improve virotherapy efficiency, we developed a conditionally replicating adenovirus (CRAd) in which the transcriptional cassette RSV promoter-human NIScDNA-bGH polyA was also inserted at the E3 region. The E1a gene is driven by the tumor-specific promoter MUC-1 in the CRAd Ad5AMUCH_RSV-NIS. RESULTS : In vitro infection of the MUC-1-positive breast cell line T47D resulted in virus replication, cytolysis, and release of infective viral particles. Conversely, the MUC-1-negative breast cancer cell line MDA-MB-231 was refractory to the viral cytopathic effect and did not support viral replication. The data indicate that Ad5AMUCH_RSV-NIS activity is stringently restricted to MUC-1-positive cancer cells. Radioiodine uptake was readily measurable in T47 cells infected with Ad5AMUCH_RSV-NIS 24 hours after infection, thus confirming NIS expression before viral-induced cell death. CONCLUSIONS : This construct may allow multimodal therapy, combining virotherapy with radioiodine therapy to be developed as a novel treatment for breast and other MUC1-overexpressing cancers.
+
+-Adenoviridae (+genetics; -physiology)
+-Adenovirus E1A Proteins (-biosynthesis; -genetics)
+-Animals
+-Breast Neoplasms (-pathology; -radiotherapy; +therapy)
+-Cell Line, Tumor
+-Combined Modality Therapy
+-Cytopathogenic Effect, Viral
+-Defective Viruses (+genetics; -physiology)
+-Female
++Genes, Synthetic
+-Genetic Vectors (+genetics; -therapeutic use)
+-Humans
+-Iodine Radioisotopes (-pharmacokinetics; +therapeutic use)
+-Mice
+-Mice, Nude
+-Mucin-1 (+genetics)
+-Promoter Regions, Genetic (-genetics)
+-Receptors, Virus (-physiology)
+-Recombinant Fusion Proteins (-biosynthesis; -physiology)
+-Symporters (-biosynthesis; +genetics)
+-Virus Replication (-genetics)
+-Xenograft Model Antitumor Assays
+
+pii:bcr2342
+doi:10.1186/bcr2342
+pubmed:19635153
+pmc:PMC2750114
+

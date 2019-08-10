@@ -1,0 +1,25 @@
+Nucleic Acids Res.
+
+Structural implication of splicing stochastics.
+
+E Melamud, J Moult
+
+Even though nearly every human gene has at least one alternative splice form, very little is so far known about the structure and function of resulting protein products. It is becoming increasingly clear that a significant fraction of all isoforms are products of noisy selection of splice sites and thus contribute little to actual functional diversity, and may potentially be deleterious. In this study, we examine the impact of alternative splicing on protein sequence and structure in three datasets: alternative splicing events conserved across multiple species, alternative splicing events in genes that are strongly linked to disease and all observed alternative splicing events. We find that the vast majority of all alternative isoforms result in unstable protein conformations. In contrast to that, the small subset of isoforms conserved across species tends to maintain protein structural integrity to a greater extent. Alternative splicing in disease-associated genes produces unstable structures just as frequently as all other genes, indicating that selection to reduce the effects of alternative splicing on this set is not especially pronounced. Overall, the properties of alternative spliced proteins are consistent with the outcome of noisy selection of splice sites by splicing machinery.
+
++Alternative Splicing
+-Amino Acid Sequence
+-Disease (-genetics)
+-Humans
+-Molecular Sequence Data
+-Protein Conformation
+-Protein Isoforms (+chemistry; -genetics; -metabolism)
+-Protein Stability
+-Sequence Alignment
+-Sequence Analysis, Protein
+-Stochastic Processes
+
+pii:gkp444
+doi:10.1093/nar/gkp444
+pubmed:19528068
+pmc:PMC2724273
+

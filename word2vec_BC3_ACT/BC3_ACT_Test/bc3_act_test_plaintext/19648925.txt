@@ -1,0 +1,32 @@
+Nat. Struct. Mol. Biol.
+
+Drosophila MSL complex globally acetylates H4K16 on the male X chromosome for dosage compensation.
+
+ME Gelbart, E Larschan, S Peng, PJ Park, MI Kuroda
+
+The Drosophila melanogaster male-specific lethal (MSL) complex binds the single male X chromosome to upregulate gene expression to equal that from the two female X chromosomes. However, it has been puzzling that approximately 25% of transcribed genes on the X chromosome do not stably recruit MSL complex. Here we find that almost all active genes on the X chromosome are associated with robust H4 Lys16 acetylation (H4K16ac), the histone modification catalyzed by the MSL complex. The distribution of H4K16ac is much broader than that of the MSL complex, and our results favor the idea that chromosome-wide H4K16ac reflects transient association of the MSL complex, occurring through spreading or chromosomal looping. Our results parallel those of localized Polycomb repressive complex and its more broadly distributed chromatin mark, trimethylated histone H3 Lys27 (H3K27me3), suggesting a common principle for the establishment of active and silenced chromatin domains.
+
+-Acetylation
+-Animals
+-Blotting, Western
+-Cell Line
+-Chromatin Immunoprecipitation
++Dosage Compensation, Genetic
+-Drosophila Proteins (+genetics; -metabolism)
+-Drosophila melanogaster (-cytology; +genetics; -metabolism)
+-Female
+-Gene Expression Profiling
+-Histone Acetyltransferases (+genetics; -metabolism)
+-Histones (+metabolism)
+-Lysine (-metabolism)
+-Male
+-Mutation
+-RNA Interference
+-X Chromosome (+genetics)
+
+pii:nsmb.1644
+doi:10.1038/nsmb.1644
+pubmed:19648925
+mid:NIHMS127351
+pmc:PMC2722042
+

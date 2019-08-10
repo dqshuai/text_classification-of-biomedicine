@@ -1,0 +1,20 @@
+Nucleic Acids Res.
+
+Writing DNA with GenoCAD.
+
+MJ Czar, Y Cai, J Peccoud
+
+Chemical synthesis of custom DNA made to order calls for software streamlining the design of synthetic DNA sequences. GenoCAD (www.genocad.org) is a free web-based application to design protein expression vectors, artificial gene networks and other genetic constructs composed of multiple functional blocks called genetic parts. By capturing design strategies in grammatical models of DNA sequences, GenoCAD guides the user through the design process. By successively clicking on icons representing structural features or actual genetic parts, complex constructs composed of dozens of functional blocks can be designed in a matter of minutes. GenoCAD automatically derives the construct sequence from its comprehensive libraries of genetic parts. Upon completion of the design process, users can download the sequence for synthesis or further analysis. Users who elect to create a personal account on the system can customize their workspace by creating their own parts libraries, adding new parts to the libraries, or reusing designs to quickly generate sets of related constructs.
+
+-Base Sequence
+-DNA (+chemical synthesis; -chemistry)
++Genes, Synthetic
+-Genetic Engineering
++Software
+-User-Computer Interface
+
+pii:gkp361
+doi:10.1093/nar/gkp361
+pubmed:19429897
+pmc:PMC2703884
+

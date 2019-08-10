@@ -1,0 +1,28 @@
+BMC Genomics
+
+Detection of differentially expressed genes between Erhualian and Large White placentas on day 75 and 90 of gestation.
+
+QY Zhou, MD Fang, TH Huang, CC Li, M Yu, SH Zhao
+
+BACKGROUND: Placental efficiency is strongly associated with litter size, fetal weight and prenatal mortality. Together with its rapid growth during late gestation, the Large White pig breed shows a significant increase in placental size and weight, but this does not occur in the highly prolific Chinese pig breeds. To understand the molecular basis of placental development during late gestation in Chinese indigenous and Western breeds with different placental efficiency, female placental samples were collected from six pregnant Erhualian gilts at gestation day 75 (E75) and day 90 (E90) and from six pregnant Large White gilts at gestation day 75 (L75) and day 90 (L90). Two female placentas from one sow were used to extract RNA and then pooled in equal volumes. Twelve pooled samples were hybridized to the porcine Affymetrix GeneChip. RESULTS: A total of 226 and 577 transcripts were detected that were differentially expressed between E75 and L75 and between E90 and L90 (p < 0.01, q < 0.2), respectively. Gene Ontology (GO) analysis revealed that these genes belong to the class of genes that participate in angiogenesis and development. Real-time RT-PCR confirmed the differential expression of eight selected genes. Significant differential expression of five genes in the VEGF pathway was also detected between the breeds. A search of chromosomal location revealed that 44 differentially expressed genes located to QTL regions related to reproduction. Differential expression of six candidate imprinted genes was also confirmed. Three of the six genes (PLAGL1, DIRAS3, and SLC38A4) showed monoallelic expression in the porcine placenta. CONCLUSION: Our study detected many genes that showed differential expression between placentas of two divergent breed of pigs, and confirmed the imprinting of three genes. These findings help to elucidate the genetic control of placental efficiency and improve the understanding of placental development.
+
+-Animals
+-Cluster Analysis
+-Female
+-Gene Expression Profiling (+methods)
+-Gene Expression Regulation, Developmental
+-Genomic Imprinting
+-Oligonucleotide Array Sequence Analysis
+-Placenta (+metabolism)
+-Placentation (+genetics)
+-Pregnancy
+-Pregnancy, Animal (+genetics)
+-Quantitative Trait Loci
+-Reverse Transcriptase Polymerase Chain Reaction
+-Swine (+genetics)
+
+pii:1471-2164-10-337
+doi:10.1186/1471-2164-10-337
+pubmed:19630995
+pmc:PMC2724418
+

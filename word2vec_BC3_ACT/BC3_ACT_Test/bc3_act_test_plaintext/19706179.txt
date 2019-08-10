@@ -1,0 +1,27 @@
+BMC Genomics
+
+Comparing genomic expression patterns across plant species reveals highly diverged transcriptional dynamics in response to salt stress.
+
+H Walia, C Wilson, AM Ismail, TJ Close, X Cui
+
+BACKGROUND: Rice and barley are both members of Poaceae (grass family) but have a marked difference in salt tolerance. The molecular mechanism underlying this difference was previously unexplored. This study employs a comparative genomics approach to identify analogous and contrasting gene expression patterns between rice and barley. RESULTS: A hierarchical clustering approach identified several interesting expression trajectories among rice and barley genotypes. There were no major conserved expression patterns between the two species in response to salt stress. A wheat salt-stress dataset was queried for comparison with rice and barley. Roughly one-third of the salt-stress responses of barley were conserved with wheat while overlap between wheat and rice was minimal. These results demonstrate that, at transcriptome level, rice is strikingly different compared to the more closely related barley and wheat. This apparent lack of analogous transcriptional programs in response to salt stress is further highlighted through close examination of genes associated with root growth and development. CONCLUSION: The analysis provides support for the hypothesis that conservation of transcriptional signatures in response to environmental cues depends on the genetic similarity among the genotypes within a species, and on the phylogenetic distance between the species.
+
+-Cluster Analysis
++Comparative Genomic Hybridization
+-Gene Expression Profiling
+-Gene Expression Regulation, Plant
+-Genome, Plant
+-Hordeum (-drug effects; +genetics; -metabolism)
+-Oryza sativa (-drug effects; +genetics; -metabolism)
+-Plant Roots (-drug effects; -genetics; -metabolism)
+-RNA, Plant (-genetics)
+-Salt-Tolerant Plants (-genetics; -metabolism)
+-Sodium Chloride (+pharmacology)
+-Species Specificity
+-Triticum (-drug effects; -genetics; -metabolism)
+
+pii:1471-2164-10-398
+doi:10.1186/1471-2164-10-398
+pubmed:19706179
+pmc:PMC2739230
+

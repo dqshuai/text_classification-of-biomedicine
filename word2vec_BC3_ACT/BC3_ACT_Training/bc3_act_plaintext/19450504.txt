@@ -1,0 +1,28 @@
+Biophys. J.
+
+Growth pattern of single fission yeast cells is bilinear and depends on temperature and DNA synthesis.
+
+S Baumgärtner, IM Tolić-Nørrelykke
+
+Cell growth and division have to be tightly coordinated to keep the cell size constant over generations. Changes in cell size can be easily studied in the fission yeast Schizosaccharomyces pombe because these cells have a cylindrical shape and grow only at the cell ends. However, the growth pattern of single cells is currently unclear. Linear, exponential, and bilinear growth models have been proposed. Here we measured the length of single fission yeast cells with high spatial precision and temporal resolution over the whole cell cycle by using time-lapse confocal microscopy of cells with green fluorescent protein-labeled plasma membrane. We show that the growth profile between cell separation and the subsequent mitosis is bilinear, consisting of two linear segments separated by a rate-change point (RCP). The change in growth rate occurred at the same relative time during the cell cycle and at the same relative extension for different temperatures. The growth rate before the RCP was independent of temperature, whereas the growth rate after the RCP increased with an increase in temperature, leading to clear bilinear growth profiles at higher temperatures. The RCP was not directly related to the initiation of growth at the new end (new end take-off). When DNA synthesis was inhibited by hydroxyurea, the RCP was not detected. This result suggests that completion of DNA synthesis is required for the increase in growth rate. We conclude that the growth of fission yeast cells is not a simple exponential growth, but a complex process with precise rates regulated by the events during the cell cycle.
+
+-Cell Membrane (-metabolism)
+-Cell Proliferation (-drug effects)
++DNA Replication
+-DNA, Fungal (+biosynthesis)
+-Green Fluorescent Proteins (-metabolism)
+-Hydroxyurea (-pharmacology)
+-Linear Models
+-Microscopy, Confocal
+-Mitosis (-drug effects)
+-S Phase (-drug effects)
+-Schizosaccharomyces (+cytology; -drug effects; +metabolism)
+-Staining and Labeling
++Temperature
+-Time Factors
+
+pii:S0006-3495(09)00661-4
+doi:10.1016/j.bpj.2009.02.051
+pubmed:19450504
+pmc:PMC2712237
+

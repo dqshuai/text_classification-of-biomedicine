@@ -1,0 +1,29 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Cyanobacterial daily life with Kai-based circadian and diurnal genome-wide transcriptional control in Synechococcus elongatus.
+
+H Ito, M Mutsuda, Y Murayama, J Tomita, N Hosokawa, K Terauchi, C Sugita, M Sugita, T Kondo, H Iwasaki
+
+In the unicellular cyanobacterium Synechococcus elongatus PCC 7942, essentially all promoter activities are under the control of the circadian clock under continuous light (LL) conditions. Here, we used high-density oligonucleotide arrays to explore comprehensive profiles of genome-wide Synechococcus gene expression in wild-type, kaiABC-null, and kaiC-overexpressor strains under LL and continuous dark (DD) conditions. In the wild-type strains, >30% of transcripts oscillated significantly in a circadian fashion, peaking at subjective dawn and dusk. Such circadian control was severely attenuated in kaiABC-null strains. Although it has been proposed that KaiC globally represses gene expression, our analysis revealed that dawn-expressed genes were up-regulated by kaiC-overexpression so that the clock was arrested at subjective dawn. Transfer of cells to DD conditions from LL immediately suppressed expression of most of the genes, while the clock kept even time in the absence of transcriptional feedback. Thus, the Synechococcus genome seems to be primarily regulated by light/dark cycles and is dramatically modified by the protein-based circadian oscillator.
+
+-Bacterial Proteins (-metabolism; +physiology)
++Circadian Rhythm
+-Circadian Rhythm Signaling Peptides and Proteins
+-Cyanobacteria (-metabolism; +physiology)
+-Escherichia coli (-metabolism)
++Gene Expression Regulation, Bacterial
+-Genes, Reporter
+-Genome
+-Genome, Bacterial
+-Light
+-Models, Biological
+-Models, Genetic
+-Oligonucleotide Array Sequence Analysis
+-Synechococcus (+metabolism)
+-Transcription, Genetic
+
+pii:0902587106
+doi:10.1073/pnas.0902587106
+pubmed:19666549
+pmc:PMC2729038
+

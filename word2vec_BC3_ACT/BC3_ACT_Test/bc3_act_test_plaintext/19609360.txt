@@ -1,0 +1,35 @@
+PLoS Pathog.
+
+The nicotinic acetylcholine receptors of the parasitic nematode Ascaris suum: formation of two distinct drug targets by varying the relative expression levels of two subunits.
+
+SM Williamson, AP Robertson, L Brown, T Williams, DJ Woods, RJ Martin, DB Sattelle, AJ Wolstenholme
+
+Parasitic nematodes are of medical and veterinary importance, adversely affecting human health and animal welfare. Ascaris suum is a gastrointestinal parasite of pigs; in addition to its veterinary significance it is a good model of the human parasite Ascaris lumbricoides, estimated to infect approximately 1.4 billion people globally. Anthelmintic drugs are essential to control nematode parasites, and nicotinic acetylcholine receptors (nAChRs) on nerve and muscle are the targets of cholinergic anthelmintics such as levamisole and pyrantel. Previous genetic analyses of nematode nAChRs have been confined to Caenorhabditis elegans, which is phylogenetically distinct from Ascaris spp. and many other important parasites. Here we report the cloning and expression of two nAChR subunit cDNAs from A. suum. The subunits are very similar in sequence to C. elegans UNC-29 and UNC-38, are expressed on muscle cells and can be expressed robustly in Xenopus oocytes to form acetylcholine-, nicotine-, levamisole- and pyrantel-sensitive channels. We also demonstrate that changing the stoichiometry of the receptor by injecting different ratios of the subunit cRNAs can reproduce two of the three pharmacological subtypes of nAChR present in A. suum muscle cells. When the ratio was 5:1 (Asu-unc-38ratioAsu-unc-29), nicotine was a full agonist and levamisole was a partial agonist, and oocytes responded to oxantel, but not pyrantel. At the reverse ratio (1:5 Asu-unc-38ratioAsu-unc-29), levamisole was a full agonist and nicotine was a partial agonist, and the oocytes responded to pyrantel, but not oxantel. These results represent the first in vitro expression of any parasitic nicotinic receptor and show that their properties are substantially different from those of C. elegans. The results also show that changing the expression level of a single receptor subunit dramatically altered the efficacy of some anthelmintic drugs. In vitro expression of these subunits may permit the development of parasite-specific screens for future anthelmintics.
+
+-Amino Acid Sequence
+-Animals
+-Antinematodal Agents (-pharmacokinetics)
+-Ascaris suum (-cytology; -genetics; +metabolism)
+-Caenorhabditis elegans Proteins (-genetics)
+-Carrier Proteins (-genetics)
+-Dose-Response Relationship, Drug
+-Drug Delivery Systems
+-Gene Expression
+-Helminth Proteins (-chemistry; -genetics; +metabolism)
+-Immunohistochemistry
+-Microscopy, Fluorescence
+-Molecular Sequence Data
+-Nicotine (-metabolism)
+-Oocytes (-metabolism)
+-Patch-Clamp Techniques
+-Protein Multimerization
+-Protein Subunits
+-RNA, Complementary (-metabolism)
+-Receptors, Nicotinic (-biosynthesis; -chemistry; -genetics; +metabolism)
+-Recombinant Proteins (-chemistry; -genetics; -metabolism)
+-Sequence Alignment
+
+doi:10.1371/journal.ppat.1000517
+pubmed:19609360
+pmc:PMC2705655
+

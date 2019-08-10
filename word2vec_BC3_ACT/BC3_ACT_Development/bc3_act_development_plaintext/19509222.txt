@@ -1,0 +1,28 @@
+Cancer Res.
+
+Role of cell cycle in epidermal growth factor receptor inhibitor-mediated radiosensitization.
+
+A Ahsan, SM Hiniker, MA Davis, TS Lawrence, MK Nyati
+
+Epidermal growth factor receptor (EGFR) inhibitors are increasingly used in combination with radiotherapy in the treatment of various EGFR-overexpressing cancers. However, little is known about the effects of cell cycle status on EGFR inhibitor-mediated radiosensitization. Using EGFR-overexpressing A431 and UMSCC-1 cells in culture, we found that radiation activated the EGFR and extracellular signal-regulated kinase pathways in quiescent cells, leading to progression of cells from G(1) to S, but this activation and progression did not occur in proliferating cells. Inhibition of this activation blocked S-phase progression and protected quiescent cells from radiation-induced death. To determine if these effects were caused by EGFR expression, we transfected Chinese hamster ovary (CHO) cells, which lack EGFR expression, with EGFR expression vector. EGFR expressed in CHO cells also became activated in quiescent cells but not in proliferating cells after irradiation. Moreover, quiescent cells expressing EGFR underwent increased radiation-induced clonogenic death compared with both proliferating CHO cells expressing EGFR and quiescent wild-type CHO cells. Our data show that radiation-induced enhancement of cell death in quiescent cells involves activation of the EGFR and extracellular signal-regulated kinase pathways. Furthermore, they suggest that EGFR inhibitors may protect quiescent tumor cells, whereas radiosensitization of proliferating cells may be caused by downstream effects such as cell cycle redistribution. These findings emphasize the need for careful scheduling of treatment with the combination of EGFR inhibitors and radiation and suggest that EGFR inhibitors might best be given after radiation in order to optimize clinical outcome.
+
+-Animals
+-CHO Cells
++Cell Cycle
+-Cell Line, Tumor
+-Cell Proliferation
+-Cricetinae
+-Cricetulus
+-Epidermal Growth Factor (-pharmacology)
+-Flow Cytometry
+-Humans
+-Neoplasms (-metabolism; +pathology)
+-Radiation-Sensitizing Agents (+pharmacology)
+-Receptor, Epidermal Growth Factor (+antagonists & inhibitors)
+
+pii:0008-5472.CAN-09-0466
+doi:10.1158/0008-5472.CAN-09-0466
+pubmed:19509222
+mid:NIHMS113001
+pmc:PMC2697971
+

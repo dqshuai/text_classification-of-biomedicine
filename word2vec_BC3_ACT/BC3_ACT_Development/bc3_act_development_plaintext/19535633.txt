@@ -1,0 +1,33 @@
+J. Immunol.
+
+STAT6 activation confers upon T helper cells resistance to suppression by regulatory T cells.
+
+BB Pillemer, Z Qi, B Melgert, TB Oriss, P Ray, A Ray
+
+Recent studies have highlighted characteristics of T regulatory cells (Tregs) that underlie their suppressive function. However, mechanisms that override their suppressive function in the context of an adaptive immune response are not well understood. In the lungs of mice undergoing allergic inflammation, appreciable numbers of Tregs were identified that possessed suppressive function when assayed ex vivo. We investigated whether the Th2-promoting cytokine IL-4 played a permissive role that superseded Treg function, thereby allowing the development of allergic inflammation. IL-4 signaling via the IL-4Ralpha-STAT6 axis was required to maintain Foxp3 expression in Tregs and promote their proliferation. However, the results of both in vivo experiments involving adoptive transfer of Tregs into Ag-sensitized vs naive animals and in vitro suppression assays performed with or without exogenous IL-4 showed the ability of IL-4 to compromise Treg-mediated suppression. Use of retrovirally expressed, constitutively active STAT6 revealed that the underlying mechanism was not IL-4-mediated dysfunction of Tregs but involved the resistance of Th cells to Treg-mediated suppression that would permit the development of an adaptive immune response. Our data suggest that infectious tolerance, mediated by membrane-bound TGF-beta expressed by Tregs, is compromised by the competing effects of IL4-induced signaling in naive CD4(+) Th cells.
+
+-Animals
+-Cells, Cultured
+-Disease Models, Animal
+-Gene Knock-In Techniques
++Immune Tolerance
++Immunity, Innate
+-Immunosuppression
+-Inflammation Mediators (-metabolism; -physiology)
+-Interleukin-4 (-metabolism)
+-Lung (-immunology; -metabolism; -pathology)
+-Male
+-Mice
+-Mice, Inbred BALB C
+-Respiratory Hypersensitivity (-immunology; -metabolism; -pathology)
+-STAT6 Transcription Factor (-genetics; +metabolism; -physiology)
+-Signal Transduction (-immunology)
+-T-Lymphocytes, Helper-Inducer (+immunology; +metabolism; -pathology)
+-T-Lymphocytes, Regulatory (+immunology; +metabolism; -pathology)
+
+pii:jimmunol.0803733
+doi:10.4049/jimmunol.0803733
+pubmed:19535633
+mid:NIHMS146934
+pmc:PMC2754746
+

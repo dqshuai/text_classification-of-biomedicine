@@ -1,0 +1,29 @@
+PLoS Pathog.
+
+Epigenetic regulation of HIV-1 latency by cytosine methylation.
+
+SE Kauder, A Bosque, A Lindqvist, V Planelles, E Verdin
+
+Human immunodeficiency virus type 1 (HIV-1) persists in a latent state within resting CD4+ T cells of infected persons treated with highly active antiretroviral therapy (HAART). This reservoir must be eliminated for the clearance of infection. Using a cDNA library screen, we have identified methyl-CpG binding domain protein 2 (MBD2) as a regulator of HIV-1 latency. Two CpG islands flank the HIV-1 transcription start site and are methylated in latently infected Jurkat cells and primary CD4+ T cells. MBD2 and histone deacetylase 2 (HDAC2) are found at one of these CpG islands during latency. Inhibition of cytosine methylation with 5-aza-2'deoxycytidine (aza-CdR) abrogates recruitment of MBD2 and HDAC2. Furthermore, aza-CdR potently synergizes with the NF-kappaB activators prostratin or TNF-alpha to reactivate latent HIV-1. These observations confirm that cytosine methylation and MBD2 are epigenetic regulators of HIV-1 latency. Clearance of HIV-1 from infected persons may be enhanced by inclusion of DNA methylation inhibitors, such as aza-CdR, and NF-kappaB activators into current antiviral therapies.
+
+-Azacitidine (-analogs & derivatives; -pharmacology)
+-CD4-Positive T-Lymphocytes (-metabolism)
+-CpG Islands
+-Cytosine (+metabolism)
++DNA Methylation
+-DNA-Binding Proteins (-genetics; -metabolism)
++Epigenesis, Genetic
+-HIV-1 (-genetics; +physiology)
+-Humans
+-Jurkat Cells
+-NF-kappa B (-metabolism)
+-Promoter Regions, Genetic
+-RNA, Small Interfering (-genetics)
+-Repressor Proteins (-metabolism)
+-Transfection
+-Virus Latency (+genetics)
+
+doi:10.1371/journal.ppat.1000495
+pubmed:19557157
+pmc:PMC2695767
+

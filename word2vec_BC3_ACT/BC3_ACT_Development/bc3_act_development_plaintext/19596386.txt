@@ -1,0 +1,31 @@
+Virology
+
+Functional role of Alix in HIV-1 replication.
+
+K Fujii, UM Munshi, SD Ablan, DG Demirov, F Soheilian, K Nagashima, AG Stephen, RJ Fisher, EO Freed
+
+Retroviral Gag proteins encode small peptide motifs known as late domains that promote the release of virions from infected cells by interacting directly with host cell factors. Three types of retroviral late domains, with core sequences P(T/S)AP, YPX(n)L, and PPPY, have been identified. HIV-1 encodes a primary P(T/S)AP-type late domain and an apparently secondary late domain sequence of the YPX(n)L type. The P(T/S)AP and YPX(n)L motifs interact with the endosomal sorting factors Tsg101 and Alix, respectively. Although biochemical and structural studies support a direct binding between HIV-1 p6 and Alix, the physiological role of Alix in HIV-1 biology remains undefined. To elucidate the function of the p6-Alix interaction in HIV-1 replication, we introduced a series of mutations in the p6 Alix binding site and evaluated the effects on virus particle production and virus replication in a range of cell types, including physiologically relevant primary T cells and macrophages. We also examined the effects of the Alix binding site mutations on virion morphogenesis and single-cycle virus infectivity. We determined that the p6-Alix interaction plays an important role in HIV-1 replication and observed a particularly severe impact of Alix binding site mutations when they were combined with mutational inactivation of the Tsg101 binding site.
+
+-Binding Sites (-genetics)
+-Calcium-Binding Proteins (-genetics; +metabolism)
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Cell Line
+-Cells, Cultured
+-DNA-Binding Proteins (-metabolism)
+-Endosomal Sorting Complexes Required for Transport
+-HIV-1 (+physiology)
+-Humans
+-Macrophages (-virology)
+-Mutagenesis, Site-Directed
+-Protein Binding
+-T-Lymphocytes (-virology)
+-Transcription Factors (-metabolism)
++Virus Replication
+-gag Gene Products, Human Immunodeficiency Virus (+metabolism)
+
+pii:S0042-6822(09)00363-8
+doi:10.1016/j.virol.2009.06.016
+pubmed:19596386
+mid:NIHMS123959
+pmc:PMC2744943
+

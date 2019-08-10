@@ -1,0 +1,29 @@
+Stem Cells
+
+Connexin expression and functional analysis of gap junctional communication in mouse embryonic stem cells.
+
+P Wörsdörfer, S Maxeiner, C Markopoulos, G Kirfel, V Wulf, T Auth, S Urschel, J von Maltzahn, K Willecke
+
+Gap junctional intercellular communication (GJIC) has been suggested to be necessary for cellular proliferation and differentiation. We wanted to investigate the function of GJIC in mouse embryonic stem (ES) cells using pharmacological inhibitors or a genetic approach to inhibit the expression of connexins, that is, the subunit proteins of gap junction channels. For this purpose, we have analyzed all known connexin genes in mouse ES cells but found only three of them, Cx31, Cx43, and Cx45, to be expressed as proteins. We have demonstrated by coimmunoprecipitation that Cx31 and Cx43, as well as Cx43 and Cx45, probably form heteromeric gap junction channels, whereas Cx31 and Cx45 do not. The pharmacological inhibitors reduced GJIC between ES cells to approximately 3% and initiated apoptosis, suggesting an antiapoptotic effect of GJIC. In contrast to these results, reduction of GJIC to approximately 5% by decreased expression of Cx31 or Cx45 via RNA interference in homozygous Cx43-deficient ES cells did not lead to apoptosis. Additional studies suggested that apoptotic death of ES cells and adult stem cells reported in the literature is likely due to a cytotoxic side effect of the inhibitors and not due to a decrease of GJIC. Using the connexin expression pattern in mouse ES cells, as determined in this study, multiple connexin-deficient ES cells can now be genetically engineered in which the level of GJIC is further decreased, to clarify whether the differentiation of ES cells is qualitatively or quantitatively compromised.
+
+-Animals
+-Apoptosis (-drug effects)
+-Carbenoxolone (-pharmacology)
+-Cell Communication (-drug effects; -genetics; +physiology)
+-Cell Line
+-Connexin 43 (-antagonists & inhibitors; -genetics; -metabolism)
+-Connexins (-antagonists & inhibitors; +genetics; -metabolism)
+-Embryonic Stem Cells (-drug effects; +metabolism)
+-Gap Junctions (-drug effects; +metabolism)
+-Genetic Engineering
+-Glycyrrhetinic Acid (-pharmacology)
+-Hela Cells
+-Humans
+-Mice
+-RNA Interference
+-RNA, Messenger (-genetics; -metabolism)
+
+pii:2007-0482
+doi:10.1634/stemcells.2007-0482
+pubmed:18055446
+

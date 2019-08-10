@@ -1,0 +1,34 @@
+Genome Biol.
+
+A transcriptional network associated with natural variation in Drosophila aggressive behavior.
+
+AC Edwards, JF Ayroles, EA Stone, MA Carbone, RF Lyman, TF Mackay
+
+BACKGROUND: Aggressive behavior is an important component of fitness in most animals. Aggressive behavior is genetically complex, with natural variation attributable to multiple segregating loci with allelic effects that are sensitive to the physical and social environment. However, we know little about the genes and genetic networks affecting natural variation in aggressive behavior. Populations of Drosophila melanogaster harbor quantitative genetic variation in aggressive behavior, providing an excellent model system for dissecting the genetic basis of naturally occurring variation in aggression. RESULTS : Correlating variation in transcript abundance with variation in complex trait phenotypes is a rapid method for identifying candidate genes. We quantified aggressive behavior in 40 wild-derived inbred lines of D. melanogaster and performed a genome-wide association screen for quantitative trait transcripts and single feature polymorphisms affecting aggression. We identified 266 novel candidate genes associated with aggressive behavior, many of which have pleiotropic effects on metabolism, development, and/or other behavioral traits. We performed behavioral tests of mutations in 12 of these candidate genes, and show that nine indeed affected aggressive behavior. We used the genetic correlations among the quantitative trait transcripts to derive a transcriptional genetic network associated with natural variation in aggressive behavior. The network consists of nine modules of correlated transcripts that are enriched for genes affecting common functions, tissue-specific expression patterns, and/or DNA sequence motifs. CONCLUSIONS: Correlations among genetically variable transcripts that are associated with genetic variation in organismal behavior establish a foundation for understanding natural variation for complex behaviors in terms of networks of interacting genes.
+
++Aggression
+-Animals
+-Behavior, Animal (-physiology)
+-Computational Biology (-methods)
+-DNA Transposable Elements (-genetics)
+-Drosophila Proteins (-genetics)
+-Drosophila melanogaster (-classification; +genetics; -physiology)
+-Gene Expression Profiling
+-Gene Frequency
+-Gene Regulatory Networks (+genetics)
+-Genes, Insect (-genetics)
++Genetic Variation
+-Genome, Insect (-genetics)
+-Male
+-Mutagenesis, Insertional
+-Mutation
+-Phenotype
+-Quantitative Trait, Heritable
+-Species Specificity
+-Transcription, Genetic
+
+pii:gb-2009-10-7-r76
+doi:10.1186/gb-2009-10-7-r76
+pubmed:19607677
+pmc:PMC2728530
+

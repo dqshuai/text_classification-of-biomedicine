@@ -1,0 +1,28 @@
+PLoS Pathog.
+
+Selective inhibition of type III secretion activated signaling by the Salmonella effector AvrA.
+
+F Du, JE Galán
+
+Salmonella enterica utilizes a type III secretion system (TTSS) encoded in its pathogenicity island 1 to mediate its initial interactions with intestinal epithelial cells, which are characterized by the stimulation of actin cytoskeleton reorganization and a profound reprogramming of gene expression. These responses result from the stimulation of Rho-family GTPases and downstream signaling pathways by specific effector proteins delivered by this TTSS. We show here that AvrA, an effector protein of this TTSS, specifically inhibits the Salmonella-induced activation of the JNK pathway through its interaction with MKK7, although it does not interfere with the bacterial infection-induced NF-kappaB activation. We also show that AvrA is phosphorylated at evolutionary conserved residues by a TTSS-effector-activated ERK pathway. This interplay between effector proteins delivered by the same TTSS highlights the remarkable complexity of these systems.
+
+-Bacterial Proteins (-genetics; -metabolism; +physiology)
+-Cell Line
+-Extracellular Signal-Regulated MAP Kinases (-metabolism)
+-Humans
+-JNK Mitogen-Activated Protein Kinases (-antagonists & inhibitors; -metabolism)
+-MAP Kinase Kinase 7 (-metabolism)
+-Mutation
+-NF-kappa B (-metabolism)
+-Phosphorylation
+-Saccharomyces cerevisiae (-genetics; -metabolism)
+-Salmonella Infections (-metabolism; +microbiology)
+-Salmonella typhimurium (-genetics; -metabolism; -pathogenicity; +physiology)
+-Secretory Pathway
+-Signal Transduction
+-Two-Hybrid System Techniques
+
+doi:10.1371/journal.ppat.1000595
+pubmed:19779561
+pmc:PMC2742890
+

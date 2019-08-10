@@ -1,0 +1,29 @@
+J. Mol. Biol.
+
+Probing conformational changes of human DNA polymerase lambda using mass spectrometry-based protein footprinting.
+
+JD Fowler, JA Brown, M Kvaratskhelia, Z Suo
+
+Crystallographic studies of the C-terminal DNA polymerase-beta-like domain of full-length human DNA polymerase lambda (fPollambda) suggested that the catalytic cycle might not involve a large protein domain rearrangement as observed with several replicative DNA polymerases and DNA polymerase beta. To examine solution-phase protein conformational changes in fPollambda, which also contains a breast cancer susceptibility gene 1 C-terminal domain and a proline-rich domain at its N-terminus, we used a mass spectrometry-based protein footprinting approach. In parallel experiments, surface accessibility maps for Arg residues were compared for the free fPollambda versus the binary complex of enzyme*gapped DNA and the ternary complex of enzyme*gapped DNA*dNTP (2'-deoxynucleotide triphosphate). These experiments suggested that fPollambda does not undergo major conformational changes during the catalysis in the solution phase. Furthermore, the mass spectrometry-based protein footprinting experiments revealed that active site residue R386 was shielded from the surface only in the presence of both a gapped DNA substrate and an incoming nucleotide. Site-directed mutagenesis and pre-steady-state kinetic studies confirmed the importance of R386 for the enzyme activity and indicated the key role for its guanidino group in stabilizing the negative charges of an incoming nucleotide and the leaving pyrophosphate product. We suggest that such interactions could be shared by and important for catalytic functions of other DNA polymerases.
+
+-Amino Acid Sequence
+-Catalytic Domain (-genetics)
+-DNA (-metabolism)
+-DNA Polymerase beta (+chemistry)
+-Humans
+-Kinetics
+-Mass Spectrometry (+methods)
+-Models, Molecular
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Nucleotides (-metabolism)
+-Protein Binding
++Protein Conformation
+-Protein Footprinting (+methods)
+
+pii:S0022-2836(09)00622-6
+doi:10.1016/j.jmb.2009.05.037
+pubmed:19467241
+mid:NIHMS130144
+pmc:PMC2724185
+

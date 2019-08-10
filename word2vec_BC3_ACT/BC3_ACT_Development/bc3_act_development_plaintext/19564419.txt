@@ -1,0 +1,28 @@
+Mol. Cell. Biol.
+
+Alpha interferon induces long-lasting refractoriness of JAK-STAT signaling in the mouse liver through induction of USP18/UBP43.
+
+M Sarasin-Filipowicz, X Wang, M Yan, FH Duong, V Poli, DJ Hilton, DE Zhang, MH Heim
+
+Recombinant alpha interferon (IFN-alpha) is used for the treatment of viral hepatitis and some forms of cancer. During these therapies IFN-alpha is injected once daily or every second day for several months. Recently, the long-acting pegylated IFN-alpha (pegIFN-alpha) has replaced standard IFN-alpha in therapies of chronic hepatitis C because it is more effective, supposedly by inducing a long-lasting activation of IFN signaling pathways. IFN signaling in cultured cells, however, becomes refractory within hours, and little is known about the pharmacodynamic effects of continuously high IFN-alpha serum concentrations. To investigate the behavior of the IFN system in vivo, we repeatedly injected mice with IFN-alpha and analyzed its effects in the liver. Within hours after the first injection, IFN-alpha signaling became refractory to further stimulation. The negative regulator SOCS1 was rapidly upregulated and likely responsible for early termination of IFN-alpha signaling. For long-lasting refractoriness, neither SOCS1 nor SOCS3 were instrumental. Instead, we identified the inhibitor USP18/UBP43 as the key mediator. Our results indicate that the current therapeutic practice using long-lasting pegIFN-alpha is not well adapted to the intrinsic properties of the IFN system. Targeting USP18 expression may allow to exploit the full therapeutic potential of recombinant IFN-alpha.
+
+-Animals
+-Endopeptidases (-genetics; +metabolism)
+-Humans
+-Interferon Type I, Recombinant (+pharmacology)
+-Interleukin-10 (-metabolism)
+-Janus Kinases (-genetics; +metabolism)
++Liver (-drug effects; -metabolism)
+-Mice
+-Mice, Inbred C57BL
+-Mice, Knockout
+-Mice, Transgenic
+-STAT Transcription Factors (-genetics; +metabolism)
+-Signal Transduction (+drug effects)
+-Suppressor of Cytokine Signaling Proteins (-genetics; -metabolism)
+
+pii:MCB.00224-09
+doi:10.1128/MCB.00224-09
+pubmed:19564419
+pmc:PMC2725724
+

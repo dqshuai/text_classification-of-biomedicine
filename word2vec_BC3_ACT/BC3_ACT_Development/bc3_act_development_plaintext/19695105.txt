@@ -1,0 +1,21 @@
+BMC Bioinformatics
+
+Structure-based substrate screening for an enzyme.
+
+T Xu, L Zhang, X Wang, D Wei, T Li
+
+BACKGROUND: Nowadays, more and more novel enzymes can be easily found in the whole enzyme pool with the rapid development of genetic operation. However, experimental work for substrate screening of a new enzyme is laborious, time consuming and costly. On the other hand, many computational methods have been widely used in lead screening of drug design. Seeing that the ligand-target protein system in drug design and the substrate-enzyme system in enzyme applications share the similar molecular recognition mechanism, we aim to fulfill the goal of substrate screening by in silico means in the present study. RESULTS: A computer-aided substrate screening (CASS) system which was based on the enzyme structure was designed and employed successfully to help screen substrates of Candida antarctica lipase B (CALB). In this system, restricted molecular docking which was derived from the mechanism of the enzyme was applied to predict the energetically favorable poses of substrate-enzyme complexes. Thereafter, substrate conformation, distance between the oxygen atom of the alcohol part of the ester (in some compounds, this oxygen atom was replaced by nitrogen atom of the amine part of acid amine or sulfur atom of the thioester) and the hydrogen atom of imidazole of His224, distance between the carbon atom of the carbonyl group of the compound and the oxygen atom of hydroxyl group of Ser105 were used sequentially as the criteria to screen the binding poses. 223 out of 233 compounds were identified correctly for the enzyme by this screening system. Such high accuracy guaranteed the feasibility and reliability of the CASS system. CONCLUSION: The idea of computer-aided substrate screening is a creative combination of computational skills and enzymology. Although the case studied in this paper is tentative, high accuracy of the CASS system sheds light on the field of computer-aided substrate screening.
+
+-Binding Sites
+-Computational Biology (+methods)
++Drug Design
+-Ligands
+-Models, Molecular
+-Proteins (+chemistry; -metabolism)
+-Structure-Activity Relationship
+
+pii:1471-2105-10-257
+doi:10.1186/1471-2105-10-257
+pubmed:19695105
+pmc:PMC2745390
+

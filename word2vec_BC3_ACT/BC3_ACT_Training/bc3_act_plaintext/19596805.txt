@@ -1,0 +1,31 @@
+J. Exp. Med.
+
+S region sequence, RNA polymerase II, and histone modifications create chromatin accessibility during class switch recombination.
+
+L Wang, R Wuerffel, S Feldman, AA Khamlichi, AL Kenter
+
+Immunoglobulin class switch recombination is governed by long-range interactions between enhancers and germline transcript promoters to activate transcription and modulate chromatin accessibility to activation-induced cytidine deaminase (AID). However, mechanisms leading to the differential targeting of AID to switch (S) regions but not to constant (C(H)) regions remain unclear. We show that S and C(H) regions are dynamically modified with histone marks that are associated with active and repressed chromatin states, respectively. Chromatin accessibility is superimposable with the activating histone modifications, which extend throughout S regions irrespective of length. High density elongating RNA polymerase II (RNAP II) is detected in S regions, suggesting that the transcription machinery has paused and stalling is abolished by deletion of the S region. We propose that RNAP II enrichment facilitates recruitment of histone modifiers to generate accessibility. Thus, the histone methylation pattern produced by transcription localizes accessible chromatin to S regions, thereby focusing AID attack.
+
+-Acetylation
+-Animals
+-B-Lymphocytes (-immunology; -metabolism)
+-Base Sequence
+-Chromatin (+genetics; -immunology; +metabolism)
+-Cytidine Deaminase (-deficiency; -genetics; -metabolism)
+-DNA Breaks, Double-Stranded
+-DNA Primers (-genetics)
+-Histones (-metabolism)
++Immunoglobulin Class Switching
+-Immunoglobulin Switch Region (+genetics)
+-Mice
+-Mice, Inbred C57BL
+-Mice, Knockout
+-RNA Polymerase II (+metabolism)
+-Recombination, Genetic
+-Transcription, Genetic
+
+pii:jem.20081678
+doi:10.1084/jem.20081678
+pubmed:19596805
+pmc:PMC2722165
+

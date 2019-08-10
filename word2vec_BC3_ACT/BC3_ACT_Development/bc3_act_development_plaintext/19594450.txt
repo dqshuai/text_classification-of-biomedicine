@@ -1,0 +1,18 @@
+BioTechniques
+
+Multiplex Manager 1.0: a cross-platform computer program that plans and optimizes multiplex PCR.
+
+CE Holleley, PG Geerts
+
+Multiplex Manager 1.0 is a user-friendly cross-platform program that designs efficient combinations of existing genetic marker loci into multiplex polymerase chain reactions and optimizes using prior marker information. The program has the flexibility to solve two design problems: combining all markers into the smallest number of reactions, or alternatively, selecting a subset from many available markers to design an efficient and robust multiplex. Our program minimizes the number of reactions, the genetic linkage, and the difference in annealing temperature. At the same time it maximizes the spacing between markers, the heterozygosity, and the number of alleles. The final output provides easily interpreted and informative graphical representations of reactions, as well as the option of manually editing final reactions. Multiplex Manager 1.0 is freely available at www.multiplexmanager.com.
+
+-Animals
+-Humans
+-Polymerase Chain Reaction (+instrumentation; +methods)
++Software
+-User-Computer Interface
+
+pii:000113156
+doi:10.2144/000113156
+pubmed:19594450
+

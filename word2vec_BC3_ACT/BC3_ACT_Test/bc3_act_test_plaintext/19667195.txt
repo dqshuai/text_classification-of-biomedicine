@@ -1,0 +1,33 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Single-molecule force spectroscopy distinguishes target binding modes of calmodulin.
+
+JP Junker, M Rief
+
+The eukaryotic signaling protein calmodulin (CaM) can bind to more than 300 known target proteins to regulate numerous functions in our body in a calcium-dependent manner. How CaM distinguishes between these various targets is still largely unknown. Here, we investigate fluctuations of the complex formation of CaM and its target peptide sequences using single-molecule force spectroscopy by AFM. By applying mechanical force, we can steer a single CaM molecule through its folding energy landscape from the fully unfolded state to the native target-bound state revealing equilibrium fluctuations between numerous intermediate states. We find that the prototypical CaM target sequence skMLCK, a fragment from skeletal muscle myosin light chain kinase, binds to CaM in a highly cooperative way, while only a lower degree of interdomain binding cooperativity emerges for CaMKK, a target peptide from CaM-dependent kinase kinase. We identify minimal binding motifs for both of these peptides, confirming that affinities of target peptides are not exclusively determined by their pattern of hydrophobic anchor residues. Our results reveal an association mode for CaMKK in which the peptide binds strongly to only partially Ca(2+)-saturated CaM. This binding mode might allow for a fine-tuning of the intracellular response to changes in Ca(2+) concentration.
+
+-Amino Acid Sequence
+-Animals
+-Binding Sites
+-Calcium (-chemistry; -metabolism)
+-Calcium-Calmodulin-Dependent Protein Kinase Kinase (-chemistry; -genetics; +metabolism)
+-Calmodulin (-chemistry; -genetics; +metabolism)
+-Humans
+-Kinetics
+-Ligands
+-Microscopy, Atomic Force
+-Models, Molecular
+-Molecular Sequence Data
+-Muscle, Skeletal (-enzymology)
+-Myosin-Light-Chain Kinase (-chemistry; -genetics; +metabolism)
+-Protein Binding
+-Protein Conformation
+-Protein Folding
+-Protein Structure, Secondary
+-Protein Structure, Tertiary
+
+pii:0904654106
+doi:10.1073/pnas.0904654106
+pubmed:19667195
+pmc:PMC2732892
+

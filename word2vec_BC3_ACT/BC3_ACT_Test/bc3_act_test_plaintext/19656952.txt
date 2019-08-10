@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+The human telomerase RNA component, hTR, activates the DNA-dependent protein kinase to phosphorylate heterogeneous nuclear ribonucleoprotein A1.
+
+NS Ting, B Pohorelic, Y Yu, SP Lees-Miller, TL Beattie
+
+Telomere integrity in human cells is maintained by the dynamic interplay between telomerase, telomere associated proteins, and DNA repair proteins. These interactions are vital to suppress DNA damage responses and unfavorable changes in chromosome dynamics. The DNA-dependent protein kinase (DNA-PK) is critical for this process. Cells deficient for functional DNA-PKcs show increased rates of telomere loss, accompanied by chromosomal fusions and translocations. Treatment of cells with specific DNA-PK kinase inhibitors leads to similar phenotypes. These observations indicate that the kinase activity of DNA-PK is required for its function at telomeres possibly through phosphorylation of essential proteins needed for telomere length maintenance. Here we show that the heterogeneous nuclear ribonucleoprotein A1 (hnRNP A1) is a direct substrate for DNA-PK in vitro. Phosphorylation of hnRNP A1 is stimulated not only by the presence of DNA but also by the telomerase RNA component, hTR. Furthermore, we show that hnRNP A1 is phosphorylated in vivo in a DNA-PK-dependent manner and that this phosphorylation is greatly reduced in cell lines which lack hTR. These data are the first to report that hTR stimulates the kinase activity of DNA-PK toward a known telomere-associated protein, and may provide further insights into the function of DNA-PK at telomeres.
+
+-Antigens, Nuclear (-metabolism)
+-DNA (-metabolism)
+-DNA-Activated Protein Kinase (+metabolism)
+-DNA-Binding Proteins (-metabolism)
+-Enzyme Activation
+-Heterogeneous-Nuclear Ribonucleoprotein Group A-B (-chemistry; +metabolism)
+-Phosphorylation
+-RNA, Untranslated (+metabolism)
+-Telomerase (+metabolism)
+
+pii:gkp636
+doi:10.1093/nar/gkp636
+pubmed:19656952
+pmc:PMC2764450
+

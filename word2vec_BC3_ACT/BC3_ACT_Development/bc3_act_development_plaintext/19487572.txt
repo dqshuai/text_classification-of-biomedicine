@@ -1,0 +1,31 @@
+Genes Dev.
+
+Integration of microRNA miR-122 in hepatic circadian gene expression.
+
+D Gatfield, G Le Martelot, CE Vejnar, D Gerlach, O Schaad, F Fleury-Olela, AL Ruskeepää, M Oresic, CC Esau, EM Zdobnov, U Schibler
+
+In liver, most metabolic pathways are under circadian control, and hundreds of protein-encoding genes are thus transcribed in a cyclic fashion. Here we show that rhythmic transcription extends to the locus specifying miR-122, a highly abundant, hepatocyte-specific microRNA. Genetic loss-of-function and gain-of-function experiments have identified the orphan nuclear receptor REV-ERBalpha as the major circadian regulator of mir-122 transcription. Although due to its long half-life mature miR-122 accumulates at nearly constant rates throughout the day, this miRNA is tightly associated with control mechanisms governing circadian gene expression. Thus, the knockdown of miR-122 expression via an antisense oligonucleotide (ASO) strategy resulted in the up- and down-regulation of hundreds of mRNAs, of which a disproportionately high fraction accumulates in a circadian fashion. miR-122 has previously been linked to the regulation of cholesterol and lipid metabolism. The transcripts associated with these pathways indeed show the strongest time point-specific changes upon miR-122 depletion. The identification of Pparbeta/delta and the peroxisome proliferator-activated receptor alpha (PPARalpha) coactivator Smarcd1/Baf60a as novel miR-122 targets suggests an involvement of the circadian metabolic regulators of the PPAR family in miR-122-mediated metabolic control.
+
+-Animals
+-Circadian Rhythm (-genetics; +physiology)
+-DNA-Binding Proteins (-metabolism)
+-Gene Expression Profiling
++Gene Expression Regulation
+-Genome (-genetics)
+-Liver (+metabolism)
+-Male
+-Mice
+-Mice, Inbred C57BL
+-MicroRNAs (+metabolism)
+-Nuclear Receptor Subfamily 1, Group D, Member 1
+-Oligonucleotide Array Sequence Analysis
+-Peroxisome Proliferator-Activated Receptors (-metabolism)
+-RNA, Messenger (-metabolism)
+-Receptors, Cytoplasmic and Nuclear (-metabolism)
+-Time Factors
+
+pii:23/11/1313
+doi:10.1101/gad.1781009
+pubmed:19487572
+pmc:PMC2701584
+

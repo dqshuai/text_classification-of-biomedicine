@@ -1,0 +1,25 @@
+Plant Physiol.
+
+LBD18/ASL20 regulates lateral root formation in combination with LBD16/ASL18 downstream of ARF7 and ARF19 in Arabidopsis.
+
+HW Lee, NY Kim, DJ Lee, J Kim
+
+The LATERAL ORGAN BOUNDARIES DOMAIN/ASYMMETRIC LEAVES2-LIKE (LBD/ASL) genes encode proteins harboring a conserved amino acid domain, referred to as the LOB (for lateral organ boundaries) domain. While recent studies have revealed developmental functions of some LBD genes in Arabidopsis (Arabidopsis thaliana) and in crop plants, the biological functions of many other LBD genes remain to be determined. In this study, we have demonstrated that the lbd18 mutant evidenced a reduced number of lateral roots and that lbd16 lbd18 double mutants exhibited a dramatic reduction in the number of lateral roots compared with lbd16 or lbd18. Consistent with this observation, significant beta-glucuronidase (GUS) expression in Pro(LBD18):GUS seedlings was detected in lateral root primordia as well as in the emerged lateral roots. Whereas the numbers of primordia of lbd16, lbd18, and lbd16 lbd18 mutants were similar to those observed in the wild type, the numbers of emerged lateral roots of lbd16 and lbd18 single mutants were reduced significantly. lbd16 lbd18 double mutants exhibited additively reduced numbers of emerged lateral roots compared with single mutants. This finding indicates that LBD16 and LBD18 may function in the initiation and emergence of lateral root formation via a different pathway. LBD18 was shown to be localized into the nucleus. We determined whether LBD18 functions in the nucleus using a steroid regulator-inducible system in which the nuclear translocation of LBD18 can be regulated by dexamethasone in the wild-type, lbd18, and lbd16 lbd18 backgrounds. Whereas LBD18 overexpression in the wild-type background induced lateral root formation to some degree, other lines manifested the growth-inhibition phenotype. However, LBD18 overexpression rescued lateral root formation in lbd18 and lbd16 lbd18 mutants without inducing any other phenotypes. Furthermore, we demonstrated that LBD18 overexpression can stimulate lateral root formation in auxin response factor7/19 (arf7 arf19) mutants with blocked lateral root formation. Taken together, our results suggest that LBD18 functions in the initiation and emergence of lateral roots, in conjunction with LBD16, downstream of ARF7 and ARF19.
+
+-Arabidopsis (+genetics; -growth & development; -metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Cell Nucleus (-metabolism)
+-Gene Expression Regulation, Plant
+-Genetic Complementation Test
+-Mutagenesis, Insertional
+-Mutation
+-Phenotype
+-Plant Roots (-genetics; +growth & development; -metabolism)
+-Plants, Genetically Modified (-genetics; -growth & development; -metabolism)
+-RNA, Plant (-genetics)
+
+pii:pp.109.143685
+doi:10.1104/pp.109.143685
+pubmed:19717544
+pmc:PMC2773067
+

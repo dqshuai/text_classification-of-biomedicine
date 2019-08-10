@@ -1,0 +1,20 @@
+FEBS J.
+
+ThermoFAD, a Thermofluor-adapted flavin ad hoc detection system for protein folding and ligand binding.
+
+F Forneris, R Orru, D Bonivento, LR Chiarelli, A Mattevi
+
+In living organisms, genes encoding proteins that contain flavins as a prosthetic group constitute approximately 2-3% of the total. The fluorescence of flavin cofactors in these proteins is a property that is widely employed for biochemical characterisation. Here, we present a modified Thermofluor approach called ThermoFAD (Thermofluor-adapted flavin ad hoc detection system), which simplifies identification of optimal purification and storage conditions as well as high-affinity ligands. In this technique, the flavin cofactor is used as an intrinsic probe to monitor protein folding and stability, taking advantage of the different fluorescent properties of flavin-containing proteins between the folded and denatured state. The main advantage of the method is that it allows a large amount of biochemical data to be obtained using very small amounts of protein sample and standard laboratory equipment. We have explored several cases that demonstrate the reliability and versatility of this technique when applied to globular flavoenzymes, membrane-anchored flavoproteins, and macromolecular complexes. The information gathered from ThermoFAD analysis can be very valuable for any biochemical and biophysical analysis, including crystallisation. The method is likely to be applicable to other classes of proteins that possess endogenous fluorescent cofactors and prosthetic groups.
+
+-Detergents (-chemistry)
+-Flavins (+chemistry)
+-Lignans
+-Models, Molecular
+-Protein Binding
++Protein Folding
+-Reverse Transcriptase Polymerase Chain Reaction
+
+pii:EJB7006
+doi:10.1111/j.1742-4658.2009.07006.x
+pubmed:19459938
+

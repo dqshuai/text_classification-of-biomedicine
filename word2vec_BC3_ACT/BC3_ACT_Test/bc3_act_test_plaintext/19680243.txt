@@ -1,0 +1,27 @@
+Nat. Struct. Mol. Biol.
+
+A macrodomain-containing histone rearranges chromatin upon sensing PARP1 activation.
+
+G Timinszky, S Till, PO Hassa, M Hothorn, G Kustatscher, B Nijmeijer, J Colombelli, M Altmeyer, EH Stelzer, K Scheffzek, MO Hottiger, AG Ladurner
+
+Poly-ADP-ribosylation is a post-translational modification catalyzed by PARP enzymes with roles in transcription and chromatin biology. Here we show that distinct macrodomains, including those of histone macroH2A1.1, are recruited to sites of PARP1 activation induced by laser-generated DNA damage. Chemical PARP1 inhibitors, PARP1 knockdown and mutation of ADP-ribose-binding residues in macroH2A1.1 abrogate macrodomain recruitment. Notably, histone macroH2A1.1 senses PARP1 activation, transiently compacts chromatin, reduces the recruitment of DNA damage factor Ku70-Ku80 and alters gamma-H2AX patterns, whereas the splice variant macroH2A1.2, which is deficient in poly-ADP-ribose binding, does not mediate chromatin rearrangements upon PARP1 activation. The structure of the macroH2A1.1 macrodomain in complex with ADP-ribose establishes a poly-ADP-ribose cap-binding function and reveals conformational changes in the macrodomain upon ligand binding. We thus identify macrodomains as modules that directly sense PARP activation in vivo and establish macroH2A histones as dynamic regulators of chromatin plasticity.
+
+-Amino Acid Motifs
++Chromatin
+-DNA Damage
+-Enzyme Activation
+-Hela Cells
+-Histones (-chemistry; +metabolism)
+-Humans
+-Models, Molecular
+-Poly Adenosine Diphosphate Ribose (-chemistry; +metabolism)
+-Poly(ADP-ribose) Polymerases (-chemistry; -genetics; +metabolism)
+-Protein Binding
+-Protein Structure, Quaternary
+-Protein Structure, Tertiary
+-RNA Processing, Post-Transcriptional
+
+pii:nsmb.1664
+doi:10.1038/nsmb.1664
+pubmed:19680243
+

@@ -1,0 +1,18 @@
+FEBS J.
+
+The crystal structure of a xyloglucan-specific endo-beta-1,4-glucanase from Geotrichum sp. M128 xyloglucanase reveals a key amino acid residue for substrate specificity.
+
+K Yaoi, H Kondo, A Hiyoshi, N Noro, H Sugimoto, S Tsuda, K Miyazaki
+
+Geotrichum sp. M128 possesses two xyloglucan-specific glycoside hydrolases belonging to family 74, xyloglucan-specific endo-beta-1,4-glucanase (XEG) and oligoxyloglucan reducing-end-specific cellobiohydrolase (OXG-RCBH). Despite their similar amino acid sequences (48% identity), their modes of action and substrate specificities are distinct. XEG catalyzes the hydrolysis of xyloglucan polysaccharides in endo mode, while OXG-RCBH acts on xyloglucan oligosaccharides at the reducing end in exo mode. Here, we determined the crystal structure of XEG at 2.5 A resolution, and compared it to a previously determined structure of OXG-RCBH. For the most part, the amino acid residues that interact with substrate are conserved between the two enzymes. However, there are notable differences at subsite positions -1 and +2. OXG-RCBH has a loop around the +2 site that blocks one end of the active site cleft, which accounts for its exo mode of action. In contrast, XEG lacks a corresponding loop at this site, thereby allowing binding to the middle of the main chain of the substrate. At the -1 site in OXG-RCBH, Asn488 interacts with the xylose side chain of the substrate, whereas the -1 site is occupied by Tyr457 in XEG. To confirm the contribution of this residue to substrate specificity, Tyr457 was substituted by Gly in XEG. The wild-type XEG cleaved the oligoxyloglucan at a specific site; the Y457G variant cleaved the same substrate, but at various sites. Together, the absence of a loop in the cleft and the presence of bulky Tyr457 determine the substrate specificity of XEG.
+
+-Binding Sites
+-Crystallization
+-Geotrichum (+enzymology)
+-Glycoside Hydrolases (+chemistry; -metabolism)
+-Substrate Specificity
+
+pii:EJB7205
+doi:10.1111/j.1742-4658.2009.07205.x
+pubmed:19682300
+

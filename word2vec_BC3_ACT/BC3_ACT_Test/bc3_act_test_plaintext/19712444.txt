@@ -1,0 +1,25 @@
+BMC Mol. Biol.
+
+Loss of the insulator protein CTCF during nematode evolution.
+
+P Heger, B Marin, E Schierenberg
+
+BACKGROUND: The zinc finger (ZF) protein CTCF (CCCTC-binding factor) is highly conserved in Drosophila and vertebrates where it has been shown to mediate chromatin insulation at a genomewide level. A mode of genetic regulation that involves insulators and insulator binding proteins to establish independent transcriptional units is currently not known in nematodes including Caenorhabditis elegans. We therefore searched in nematodes for orthologs of proteins that are involved in chromatin insulation. RESULTS: While orthologs for other insulator proteins were absent in all 35 analysed nematode species, we find orthologs of CTCF in a subset of nematodes. As an example for these we cloned the Trichinella spiralis CTCF-like gene and revealed a genomic structure very similar to the Drosophila counterpart. To investigate the pattern of CTCF occurrence in nematodes, we performed phylogenetic analysis with the ZF protein sets of completely sequenced nematodes. We show that three ZF proteins from three basal nematodes cluster together with known CTCF proteins whereas no zinc finger protein of C. elegans and other derived nematodes does so. CONCLUSION: Our findings show that CTCF and possibly chromatin insulation are present in basal nematodes. We suggest that the insulator protein CTCF has been secondarily lost in derived nematodes like C. elegans. We propose a switch in the regulation of gene expression during nematode evolution, from the common vertebrate and insect type involving distantly acting regulatory elements and chromatin insulation to a so far poorly characterised mode present in more derived nematodes. Here, all or some of these components are missing. Instead operons, polycistronic transcriptional units common in derived nematodes, seemingly adopted their function.
+
+-Amino Acid Sequence
+-Animals
++Evolution, Molecular
+-Helminth Proteins (-chemistry; +genetics; -metabolism)
++Insulator Elements
+-Molecular Sequence Data
+-Nematoda (-chemistry; -classification; +genetics; -metabolism)
+-Phylogeny
+-Protein Binding
+-Repressor Proteins (-chemistry; +genetics; -metabolism)
+-Sequence Alignment
+
+pii:1471-2199-10-84
+doi:10.1186/1471-2199-10-84
+pubmed:19712444
+pmc:PMC2749850
+

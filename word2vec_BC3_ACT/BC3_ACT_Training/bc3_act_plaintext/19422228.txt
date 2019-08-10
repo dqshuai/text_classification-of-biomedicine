@@ -1,0 +1,21 @@
+J. Med. Chem.
+
+Screening of small molecule interactor library by using in-cell NMR spectroscopy (SMILI-NMR).
+
+J Xie, R Thapa, S Reverdatto, DS Burz, A Shekhtman
+
+We developed an in-cell NMR assay for screening small molecule interactor libraries (SMILI-NMR) for compounds capable of disrupting or enhancing specific interactions between two or more components of a biomolecular complex. The method relies on the formation of a well-defined biocomplex and utilizes in-cell NMR spectroscopy to identify the molecular surfaces involved in the interaction at atomic scale resolution. Changes in the interaction surface caused by a small molecule interfering with complex formation are used as a read-out of the assay. The in-cell nature of the experimental protocol insures that the small molecule is capable of penetrating the cell membrane and specifically engaging the target molecule(s). Utility of the method was demonstrated by screening a small dipeptide library against the FKBP-FRB protein complex involved in cell cycle arrest. The dipeptide identified by SMILI-NMR showed biological activity in a functional assay in yeast.
+
+-Biological Assay
+-Dipeptides (-chemistry; -pharmacology)
+-Drug Evaluation, Preclinical (+methods)
+-Magnetic Resonance Spectroscopy (+methods)
+-Models, Molecular
+-Saccharomyces cerevisiae (-drug effects)
++Small Molecule Libraries
+-Tacrolimus (-analogs & derivatives; -chemistry)
+-Tacrolimus Binding Proteins (-drug effects)
+
+doi:10.1021/jm9000743
+pubmed:19422228
+

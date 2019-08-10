@@ -1,0 +1,22 @@
+PLoS ONE
+
+Semi-automated reconstruction of neural processes from large numbers of fluorescence images.
+
+J Lu, JC Fiala, JW Lichtman
+
+We introduce a method for large scale reconstruction of complex bundles of neural processes from fluorescent image stacks. We imaged yellow fluorescent protein labeled axons that innervated a whole muscle, as well as dendrites in cerebral cortex, in transgenic mice, at the diffraction limit with a confocal microscope. Each image stack was digitally re-sampled along an orientation such that the majority of axons appeared in cross-section. A region growing algorithm was implemented in the open-source Reconstruct software and applied to the semi-automatic tracing of individual axons in three dimensions. The progression of region growing is constrained by user-specified criteria based on pixel values and object sizes, and the user has full control over the segmentation process. A full montage of reconstructed axons was assembled from the approximately 200 individually reconstructed stacks. Average reconstruction speed is approximately 0.5 mm per hour. We found an error rate in the automatic tracing mode of approximately 1 error per 250 um of axonal length. We demonstrated the capacity of the program by reconstructing the connectome of motor axons in a small mouse muscle.
+
+-Animals
++Automation
+-Axons (-physiology)
+-Dendrites (-physiology)
+-Fluorescence
++Image Processing, Computer-Assisted
+-Mice
+-Nerve Net (+anatomy & histology)
+-Pyramidal Cells (-cytology)
+
+doi:10.1371/journal.pone.0005655
+pubmed:19479070
+pmc:PMC2682575
+

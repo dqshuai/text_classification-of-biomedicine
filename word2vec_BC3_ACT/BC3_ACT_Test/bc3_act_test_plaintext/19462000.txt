@@ -1,0 +1,31 @@
+PLoS ONE
+
+Characterization of a novel small molecule subtype specific estrogen-related receptor alpha antagonist in MCF-7 breast cancer cells.
+
+MJ Chisamore, ME Cunningham, O Flores, HA Wilkinson, JD Chen
+
+BACKGROUND: The orphan nuclear receptor estrogen-related receptor alpha (ERRalpha) is a member of the nuclear receptor superfamily. It was identified through a search for genes encoding proteins related to estrogen receptor alpha (ERalpha). An endogenous ligand has not been found. Novel ERRalpha antagonists that are highly specific for binding to the ligand binding domain (LBD) of ERRalpha have been recently reported. Research suggests that ERRalpha may be a novel drug target to treat breast cancer and/or metabolic disorders and this has led to an effort to characterize the mechanisms of action of N-[(2Z)-3-(4,5-dihydro-1,3-thiazol-2-yl)-1,3-thiazolidin-2-yl idene]-5H dibenzo[a,d][7]annulen-5-amine, a novel ERRalpha specific antagonist. METHODOLOGY/PRINCIPAL FINDINGS: We demonstrate this ERRalpha ligand inhibits ERRalpha transcriptional activity in MCF-7 cells by luciferase assay but does not affect mRNA levels measured by real-time RT-PCR. Also, ERalpha (ESR1) mRNA levels were not affected upon treatment with the ERRalpha antagonist, but other ERRalpha (ESRRA) target genes such as pS2 (TFF1), osteopontin (SPP1), and aromatase (CYP19A1) mRNA levels decreased. In vitro, the ERRalpha antagonist prevents the constitutive interaction between ERRalpha and nuclear receptor coactivators. Furthermore, we use Western blots to demonstrate ERRalpha protein degradation via the ubiquitin proteasome pathway is increased by the ERRalpha-subtype specific antagonist. We demonstrate by chromatin immunoprecipitation (ChIP) that the interaction between ACADM, ESRRA, and TFF1 endogenous gene promoters and ERRalpha protein is decreased when cells are treated with the ligand. Knocking-down ERRalpha (shRNA) led to similar genomic effects seen when MCF-7 cells were treated with our ERRalpha antagonist. CONCLUSIONS/SIGNIFICANCE: We report the mechanism of action of a novel ERRalpha specific antagonist that inhibits transcriptional activity of ERRalpha, disrupts the constitutive interaction between ERRalpha and nuclear coactivators, and induces proteasome-dependent ERRalpha protein degradation. Additionally, we confirmed that knocking-down ERRalpha lead to similar genomic effects demonstrated in vitro when treated with the ERRalpha specific antagonist.
+
+-Breast Neoplasms (+metabolism; -pathology)
+-Cell Line, Tumor
+-Estrogen Receptor alpha (-metabolism)
+-Gene Expression Regulation, Neoplastic (-drug effects)
+-Gene Knockdown Techniques
+-Gene Silencing (-drug effects)
+-Humans
+-Nuclear Proteins (-metabolism)
+-Promoter Regions, Genetic (-genetics)
+-Protein Binding (-drug effects)
+-Protein Processing, Post-Translational (-drug effects)
+-Protein Stability (-drug effects)
+-RNA, Messenger (-genetics; -metabolism)
+-RNA, Small Interfering (-metabolism)
+-Receptors, Estrogen (+antagonists & inhibitors)
+-Selective Estrogen Receptor Modulators (-pharmacology)
+-Small Molecule Libraries (+pharmacology)
+-Transcription, Genetic (-drug effects)
+
+doi:10.1371/journal.pone.0005624
+pubmed:19462000
+pmc:PMC2680043
+

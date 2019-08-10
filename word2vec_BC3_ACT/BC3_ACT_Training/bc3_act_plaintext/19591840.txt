@@ -1,0 +1,25 @@
+J. Mol. Biol.
+
+Minimum-energy path for a u6 RNA conformational change involving protonation, base-pair rearrangement and base flipping.
+
+V Venditti, L Clos, N Niccolai, SE Butcher
+
+The U6 RNA internal stem-loop (U6 ISL) is a highly conserved domain of the spliceosome that is important for pre-mRNA splicing. The U6 ISL contains an internal loop that is in equilibrium between two conformations controlled by the protonation state of an adenine (pK(a)=6.5). Lower pH favors formation of a protonated C-A(+) wobble pair and base flipping of the adjacent uracil. Higher pH favors stacking of the uracil and allows an essential metal ion to bind at this position. Here, we define the minimal-energy path for this conformational transition. To do this, we solved the U6 ISL structure at higher pH (8.0) in order to eliminate interference from the low-pH conformer. This structure reveals disruption of the protonated C-A(+) pair and formation of a new C-U pair, which explains the preference for a stacked uracil at higher pH. Next, we used nudged elastic band molecular dynamics simulations to calculate the minimum-energy path between the two conformations. Our results indicate that the C-U pair is dynamic, which allows formation of the more stable C-A(+) pair upon adenine protonation. After formation of the C-A(+) pair, the unpaired uracil follows a minor-groove base-flipping pathway. Molecular dynamics simulations suggest that the extrahelical uracil is stabilized by contacts with the adjacent helix.
+
+-Base Pairing
+-Hydrogen-Ion Concentration
+-Models, Molecular
+-Molecular Sequence Data
+-Nuclear Magnetic Resonance, Biomolecular
++Nucleic Acid Conformation
+-Protons
+-RNA, Small Nuclear (+chemistry; -genetics; +metabolism)
+-Saccharomyces cerevisiae (-genetics; -metabolism)
+-Thermodynamics
+
+pii:S0022-2836(09)00829-8
+doi:10.1016/j.jmb.2009.07.003
+pubmed:19591840
+mid:NIHMS134574
+pmc:PMC2799254
+

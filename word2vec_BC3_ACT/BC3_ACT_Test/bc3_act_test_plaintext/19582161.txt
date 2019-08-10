@@ -1,0 +1,21 @@
+PLoS ONE
+
+Heritable and lineage-specific gene knockdown in zebrafish embryo.
+
+M Dong, YF Fu, TT Du, CB Jing, CT Fu, Y Chen, Y Jin, M Deng, TX Liu
+
+BACKGROUND: Reduced expression of developmentally important genes and tumor suppressors due to haploinsufficiency or epigenetic suppression has been shown to contribute to the pathogenesis of various malignancies. However, methodology that allows spatio-temporally knockdown of gene expression in various model organisms such as zebrafish has not been well established, which largely limits the potential of zebrafish as a vertebrate model of human malignant disorders. PRINCIPAL FINDING: Here, we report that multiple copies of small hairpin RNA (shRNA) are expressed from a single transcript that mimics the natural microRNA-30e precursor (mir-shRNA). The mir-shRNA, when microinjected into zebrafish embryos, induced an efficient knockdown of two developmentally essential genes chordin and alpha-catenin in a dose-controllable fashion. Furthermore, we designed a novel cassette vector to simultaneously express an intronic mir-shRNA and a chimeric red fluorescent protein driven by lineage-specific promoter, which efficiently reduced the expression of a chromosomally integrated reporter gene and an endogenously expressed gata-1 gene in the developing erythroid progenitors and hemangioblasts, respectively. SIGNIFICANCE: This methodology provides an invaluable tool to knockdown developmental important genes in a tissue-specific manner or to establish animal models, in which the gene dosage is critically important in the pathogenesis of human disorders. The strategy should be also applicable to other model organisms.
+
+-Animals
+-DNA Polymerase II (-genetics)
+-Gene Expression Regulation, Developmental
++Gene Knockdown Techniques
+-Genes, Reporter
+-Promoter Regions, Genetic
+-RNA (-genetics)
+-Zebrafish (+embryology; -genetics)
+
+doi:10.1371/journal.pone.0006125
+pubmed:19582161
+pmc:PMC2702085
+

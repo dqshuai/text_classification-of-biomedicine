@@ -1,0 +1,24 @@
+RNA
+
+Influence of nucleotide identity on ribose 2'-hydroxyl reactivity in RNA.
+
+KA Wilkinson, SM Vasa, KE Deigan, SA Mortimer, MC Giddings, KM Weeks
+
+Hydroxyl-selective electrophiles, including N-methylisatoic anhydride (NMIA) and 1-methyl-7-nitroisatoic anhydride (1M7), are broadly useful for RNA structure analysis because they react preferentially with the ribose 2'-OH group at conformationally unconstrained or flexible nucleotides. Each nucleotide in an RNA has the potential to form an adduct with these reagents to yield a comprehensive, nucleotide-resolution, view of RNA structure. However, it is possible that factors other than local structure modulate reactivity. To evaluate the influence of base identity on the intrinsic reactivity of each nucleotide, we analyze NMIA and 1M7 reactivity using four distinct RNAs, under both native and denaturing conditions. We show that guanosine and adenosine residues have identical intrinsic 2'-hydroxyl reactivities at pH 8.0 and are 1.4 and 1.7 times more reactive than uridine and cytidine, respectively. These subtle, but statistically significant, differences do not impact the ability of selective 2'-hydroxyl acylation analyzed by primer extension-based (SHAPE) methods to establish an RNA secondary structure or monitor RNA folding in solution because base-specific influences are much smaller than the reactivity differences between paired and unpaired nucleotides.
+
+-Acylation
+-Anhydrides (+chemistry)
+-Anthranilic Acids (+chemistry)
+-HIV-1 (-genetics)
+-Hydroxyl Radical (+chemistry)
+-Nucleic Acid Conformation
+-RNA (+chemistry; -genetics; -metabolism)
+-RNA, Ribosomal (-genetics)
+-Ribonuclease P (-genetics)
+-Ribose (+chemistry)
+
+pii:rna.1536209
+doi:10.1261/rna.1536209
+pubmed:19458034
+pmc:PMC2704086
+

@@ -1,0 +1,22 @@
+PLoS ONE
+
+Multipolar spindle pole coalescence is a major source of kinetochore mis-attachment and chromosome mis-segregation in cancer cells.
+
+WT Silkworth, IK Nardi, LM Scholl, D Cimini
+
+Many cancer cells display a CIN (Chromosome Instability) phenotype, by which they exhibit high rates of chromosome loss or gain at each cell cycle. Over the years, a number of different mechanisms, including mitotic spindle multipolarity, cytokinesis failure, and merotelic kinetochore orientation, have been proposed as causes of CIN. However, a comprehensive theory of how CIN is perpetuated is still lacking. We used CIN colorectal cancer cells as a model system to investigate the possible cellular mechanism(s) underlying CIN. We found that CIN cells frequently assembled multipolar spindles in early mitosis. However, multipolar anaphase cells were very rare, and live-cell experiments showed that almost all CIN cells divided in a bipolar fashion. Moreover, fixed-cell analysis showed high frequencies of merotelically attached lagging chromosomes in bipolar anaphase CIN cells, and higher frequencies of merotelic attachments in multipolar vs. bipolar prometaphases. Finally, we found that multipolar CIN prometaphases typically possessed gamma-tubulin at all spindle poles, and that a significant fraction of bipolar metaphase/early anaphase CIN cells possessed more than one centrosome at a single spindle pole. Taken together, our data suggest a model by which merotelic kinetochore attachments can easily be established in multipolar prometaphases. Most of these multipolar prometaphase cells would then bi-polarize before anaphase onset, and the residual merotelic attachments would produce chromosome mis-segregation due to anaphase lagging chromosomes. We propose this spindle pole coalescence mechanism as a major contributor to chromosome instability in cancer cells.
+
+-Cell Line, Tumor
+-Cell Polarity
++Chromosomal Instability
+-Colorectal Neoplasms (+genetics; -pathology)
+-Humans
++Kinetochores
+-Microscopy, Confocal
+-Mitosis
++Mitotic Spindle Apparatus
+
+doi:10.1371/journal.pone.0006564
+pubmed:19668340
+pmc:PMC2719800
+

@@ -1,0 +1,29 @@
+Breast Cancer Res.
+
+The role of YY1 in reduced HP1alpha gene expression in invasive human breast cancer cells.
+
+JG Lieberthal, M Kaminsky, CN Parkhurst, N Tanese
+
+INTRODUCTION: Heterochromatin protein 1 (HP1) associates with chromatin by binding to histone H3 and contributes to gene silencing. There are three isoforms of HP1 in mammals: HP1alpha, beta, and gamma. Studies have shown that the level of HP1alpha is reduced in invasive human breast cancer cell lines such as MDA-MB-231 and HS578T compared with non-invasive cell lines such as MCF7 and T47D. It is hypothesized that reduced HP1alpha expression may lead to impaired epigenetic silencing of genes that are important in the acquisition of an invasive phenotype. We set out to determine whether reduced expression of HP1alpha in invasive breast cancer cell lines occurs at the level of transcription. METHODS: We used transient transfection assays to investigate the mechanism of differential transcriptional activity of the human HP1alpha gene promoter in different cell lines. Mutational analysis of putative transcription factor binding sites in an HP1alpha gene reporter construct was performed to identify transcription factors responsible for the differential activity. SiRNA-mediated knockdown and chromatin immunoprecipitation experiments were performed to determine the role of a specific transcription factor in regulating the HP1alpha gene. RESULTS: The transcription factor yin yang 1 (YY1) was found to play a role in differential transcriptional activity of the HP1alpha gene. Examination of the YY1 protein and mRNA levels revealed that both were reduced in the invasive cell line HS578T compared with MCF7 cells. YY1 knockdown in MCF7 cells resulted in a decreased level of HP1alpha mRNA, indicating that YY1 positively regulates HP1alpha expression. Chromatin immunoprecipitation experiments verified YY1 occupancy at the HP1alpha gene promoter in MCF7 cells but not HS578T cells. Overexpression of YY1 in HS578T cells decreased cell migration in a manner independent of HP1alpha overexpression. CONCLUSIONS: Our data suggests that a reduction of YY1 expression in breast cancer cells could contribute to the acquisition of an invasive phenotype through increased cell migration as well as by reduced expression of HP1alpha.
+
+-Breast Neoplasms (+metabolism)
+-Cell Line, Tumor
+-Chromosomal Proteins, Non-Histone (+metabolism)
+-Gene Expression Profiling
++Gene Expression Regulation, Neoplastic
+-Histones (-chemistry)
+-Humans
+-Mutagenesis, Site-Directed
+-Neoplasm Invasiveness
+-Phenotype
+-Promoter Regions, Genetic
+-Protein Isoforms
+-RNA, Small Interfering (-metabolism)
+-Transcription Factors (-metabolism)
+-YY1 Transcription Factor (+metabolism)
+
+pii:bcr2329
+doi:10.1186/bcr2329
+pubmed:19566924
+pmc:PMC2716511
+

@@ -1,0 +1,23 @@
+Biophys. J.
+
+REACH coarse-grained normal mode analysis of protein dimer interaction dynamics.
+
+K Moritsugu, V Kurkal-Siebert, JC Smith
+
+The REACH (realistic extension algorithm via covariance Hessian) coarse-grained biomolecular simulation method is a self-consistent multiscale approach directly mapping atomistic molecular dynamics simulation results onto a residue-scale model. Here, REACH is applied to calculate the dynamics of protein-protein interactions. The intra- and intermolecular fluctuations and the intermolecular vibrational densities of states derived from atomistic molecular dynamics are well reproduced by the REACH normal modes. The phonon dispersion relations derived from the REACH lattice dynamics model of crystalline ribonuclease A are also in satisfactory agreement with the corresponding all-atom results. The REACH model demonstrates that increasing dimer interaction strength decreases the translational and rotational intermolecular vibrational amplitudes, while their vibrational frequencies are relatively unaffected. A comparative study of functionally interacting biological dimers with crystal dimers, which are formed artificially via crystallization, reveals a relation between their static structures and the interprotein dynamics: i.e., the consequence of the extensive interfaces of biological dimers is reduction of the intermonomer translational and rotational amplitudes, but not the frequencies.
+
+-Binding Sites
+-Computer Simulation
+-Dimerization
++Models, Chemical
++Models, Molecular
+-Multiprotein Complexes (+chemistry; +ultrastructure)
+-Protein Binding
+-Protein Interaction Mapping (+methods)
+-Proteins (+chemistry; +ultrastructure)
+
+pii:S0006-3495(09)01017-0
+doi:10.1016/j.bpj.2009.05.015
+pubmed:19686664
+pmc:PMC2726322
+

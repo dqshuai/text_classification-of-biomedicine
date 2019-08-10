@@ -1,0 +1,28 @@
+J. Virol.
+
+Activation of MDA5 requires higher-order RNA structures generated during virus infection.
+
+A Pichlmair, O Schulz, CP Tan, J Rehwinkel, H Kato, O Takeuchi, S Akira, M Way, G Schiavo, C Reis e Sousa
+
+Recognition of virus presence via RIG-I (retinoic acid inducible gene I) and/or MDA5 (melanoma differentiation-associated protein 5) initiates a signaling cascade that culminates in transcription of innate response genes such as those encoding the alpha/beta interferon (IFN-alpha/beta) cytokines. It is generally assumed that MDA5 is activated by long molecules of double-stranded RNA (dsRNA) produced by annealing of complementary RNAs generated during viral infection. Here, we used an antibody to dsRNA to show that the presence of immunoreactivity in virus-infected cells does indeed correlate with the ability of RNA extracted from these cells to activate MDA5. Furthermore, RNA from cells infected with encephalomyocarditis virus or with vaccinia virus and precipitated with the anti-dsRNA antibody can bind to MDA5 and induce MDA5-dependent IFN-alpha/beta production upon transfection into indicator cells. However, a prominent band of dsRNA apparent in cells infected with either virus does not stimulate IFN-alpha/beta production. Instead, stimulatory activity resides in higher-order structured RNA that contains single-stranded RNA and dsRNA. These results suggest that MDA5 activation requires an RNA web rather than simply long molecules of dsRNA.
+
+-Animals
+-Cell Line
+-Cercopithecus aethiops
+-DEAD-box RNA Helicases (+metabolism)
+-Hela Cells
+-Humans
+-Interferon-alpha (-immunology; -metabolism)
+-Interferon-beta (-immunology; -metabolism)
+-Mice
+-RNA Viruses (+pathogenicity)
+-RNA, Double-Stranded (-genetics; -immunology; -metabolism)
+-RNA, Viral (+chemistry; -genetics; +immunology)
+-Signal Transduction
+-Vero Cells
+
+pii:JVI.00770-09
+doi:10.1128/JVI.00770-09
+pubmed:19656871
+pmc:PMC2753146
+

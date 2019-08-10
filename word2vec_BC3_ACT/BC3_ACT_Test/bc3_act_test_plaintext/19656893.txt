@@ -1,0 +1,31 @@
+J. Virol.
+
+Complementation of a herpes simplex virus ICP0 null mutant by varicella-zoster virus ORF61p.
+
+CA Kyratsous, MS Walters, CA Panagiotidis, SJ Silverstein
+
+The herpes simplex virus (HSV) ICP0 protein acts to overcome intrinsic cellular defenses that repress viral alpha gene expression. In that vein, viruses that have mutations in ICP0's RING finger or are deleted for the gene are sensitive to interferon, as they fail to direct degradation of promyelocytic leukemia protein (PML), a component of host nuclear domain 10s. While varicella-zoster virus is also insensitive to interferon, ORF61p, its ICP0 ortholog, failed to degrade PML. A recombinant virus with each coding region of the gene for ICP0 replaced with sequences encoding ORF61p was constructed. This virus was compared to an ICP0 deletion mutant and wild-type HSV. The recombinant degraded only Sp100 and not PML and grew to higher titers than its ICP0 null parental virus, but it was sensitive to interferon, like the virus from which it was derived. This analysis permitted us to compare the activities of ICP0 and ORF61p in identical backgrounds and revealed distinct biologic roles for these proteins.
+
+-Antigens, Nuclear (-genetics; -metabolism)
+-Autoantigens (-genetics; -metabolism)
+-Cell Line, Tumor
++Gene Deletion
+-Genetic Complementation Test
+-Herpesvirus 3, Human (+genetics; -metabolism)
+-Humans
+-Immediate-Early Proteins (+genetics; -metabolism)
+-Interferon-alpha (-pharmacology)
+-Mutation
+-Nuclear Proteins (-genetics; -metabolism)
++Recombination, Genetic
++Simplexvirus (-drug effects; -genetics; -growth & development; -metabolism)
+-Transcription Factors (-genetics; -metabolism)
+-Tumor Suppressor Proteins (-genetics; -metabolism)
+-Ubiquitin-Protein Ligases (+genetics; -metabolism)
++Viral Proteins (-genetics; -metabolism)
+
+pii:JVI.01144-09
+doi:10.1128/JVI.01144-09
+pubmed:19656893
+pmc:PMC2753114
+

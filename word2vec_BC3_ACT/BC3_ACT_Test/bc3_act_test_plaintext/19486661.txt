@@ -1,0 +1,24 @@
+Biophys. J.
+
+Structural assignment of spectra by characterization of conformational substates in bound MbCO.
+
+M Devereux, M Meuwly
+
+Residue motions of the distal heme pocket and bound CO ligand of carbonmonoxy Myoglobin are studied using a combination of molecular dynamics simulations and quantum chemical methods. Using mixed quantum mechanics/molecular mechanics calculations together with sampling from molecular dynamics simulations (QM/MM(MD)), the experimentally observed spectroscopic A(0) and A(1) substates of the bound CO ligand are assigned to the open and closed conformation of His(64) and the His(epsilon)(64) tautomer, respectively. Several previously proposed origins of the A(3) substate, including rotamers of the doubly protonated His(64)H(+) side chain, His(64)H(+) inside the distal pocket, and cooperative motions with Arg(45), are investigated with QM/MM(MD). However, the signatures of the calculated infrared spectra do not agree with the experimentally observed ones. For additional insight on this, extensive molecular dynamics simulations are used together with improved electrostatics for the bound ligand. A CO fluctuating charge model is developed to describe the ab initio dipole and quadrupole moments of the bound ligand. CO absorption spectra are then obtained directly from the dynamics simulations. Finally, the electrostatics of the heme pocket is examined in detail in an attempt to determine the structural origins of the observed spectroscopic A-states from MD simulations. However, contrary to related simulations for unbound CO in myoglobin, the shifts and splittings for carbonmonoxy Myoglobin are generally small and difficult to relate to structural change. This suggests that coupling of the CO motion to other degrees of freedom, such as the Fe-CO stretching and bending, is important to correctly describe the dynamics of bound CO in myoglobin.
+
+-Amino Acid Sequence
+-Carbon Monoxide (-chemistry)
+-Computer Simulation
++Models, Chemical
+-Models, Molecular
+-Myoglobin (+chemistry)
+-Protein Conformation
+-Protons
+-Spectroscopy, Fourier Transform Infrared
+-Static Electricity
+
+pii:S0006-3495(09)00700-0
+doi:10.1016/j.bpj.2009.01.064
+pubmed:19486661
+pmc:PMC2711460
+

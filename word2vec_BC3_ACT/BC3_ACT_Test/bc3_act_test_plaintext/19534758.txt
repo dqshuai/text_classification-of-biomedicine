@@ -1,0 +1,18 @@
+BMC Bioinformatics
+
+Functional assessment of time course microarray data.
+
+MJ Nueda, P Sebastián, S Tarazona, F García-García, J Dopazo, A Ferrer, A Conesa
+
+MOTIVATION: Time-course microarray experiments study the progress of gene expression along time across one or several experimental conditions. Most developed analysis methods focus on the clustering or the differential expression analysis of genes and do not integrate functional information. The assessment of the functional aspects of time-course transcriptomics data requires the use of approaches that exploit the activation dynamics of the functional categories to where genes are annotated. METHODS: We present three novel methodologies for the functional assessment of time-course microarray data. i) maSigFun derives from the maSigPro method, a regression-based strategy to model time-dependent expression patterns and identify genes with differences across series. maSigFun fits a regression model for groups of genes labeled by a functional class and selects those categories which have a significant model. ii) PCA-maSigFun fits a PCA model of each functional class-defined expression matrix to extract orthogonal patterns of expression change, which are then assessed for their fit to a time-dependent regression model. iii) ASCA-functional uses the ASCA model to rank genes according to their correlation to principal time expression patterns and assess functional enrichment on a GSA fashion. We used simulated and experimental datasets to study these novel approaches. Results were compared to alternative methodologies. RESULTS: Synthetic and experimental data showed that the different methods are able to capture different aspects of the relationship between genes, functions and co-expression that are biologically meaningful. The methods should not be considered as competitive but they provide different insights into the molecular and functional dynamic events taking place within the biological system under study.
+
+-Computer Simulation
+-Gene Expression Profiling (+methods)
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Time Factors
+
+pii:1471-2105-10-S6-S9
+doi:10.1186/1471-2105-10-S6-S9
+pubmed:19534758
+pmc:PMC2697656
+

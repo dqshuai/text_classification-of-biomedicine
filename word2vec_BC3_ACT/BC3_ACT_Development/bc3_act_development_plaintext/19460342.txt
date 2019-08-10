@@ -1,0 +1,26 @@
+Dev. Cell
+
+Cep76, a centrosomal protein that specifically restrains centriole reduplication.
+
+WY Tsang, A Spektor, S Vijayakumar, BR Bista, J Li, I Sanchez, S Duensing, BD Dynlacht
+
+Centrosomes duplicate only once per cell cycle, but the controls that govern this process are largely unknown. We have identified Cep76, a centriolar protein that interacts with CP110. Cep76 is expressed at low levels in G1 and is induced in S and G2 phase, during which point centrioles have already commenced duplication. Interestingly, depletion of Cep76 drives the accumulation of centriolar intermediates in certain types of cancer cells. Enforced Cep76 expression specifically inhibits centriole amplification in cells undergoing multiple rounds of duplication without preventing the formation of extra procentrioles from a parental template. Furthermore, elevated levels of Cep76 do not affect normal centriole duplication. Thus, Cep76 helps limit duplication to once per cell cycle. Our findings also point to mechanistic differences between normal duplication and aberrant centriole amplification, as well as distinctions between diverse modes of amplification.
+
+-Animals
++Cell Cycle
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Cell Line
+-Cell Line, Tumor
+-Centrioles (+metabolism)
+-G2 Phase
+-Humans
+-Mice
+-Microtubule-Associated Proteins (-genetics; +metabolism)
+-Neoplasms (-metabolism)
+-Phosphoproteins (-metabolism)
+-S Phase
+
+pii:S1534-5807(09)00094-X
+doi:10.1016/j.devcel.2009.03.004
+pubmed:19460342
+

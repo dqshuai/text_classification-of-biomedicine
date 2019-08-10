@@ -1,0 +1,37 @@
+Cancer Res.
+
+Bacterial cytosine deaminase mutants created by molecular engineering show improved 5-fluorocytosine-mediated cell killing in vitro and in vivo.
+
+M Fuchita, A Ardiani, L Zhao, K Serve, BL Stoddard, ME Black
+
+Cytosine deaminase is used in combination with 5-fluorocytosine as an enzyme-prodrug combination for targeted genetic cancer treatment. This approach is limited by inefficient gene delivery and poor prodrug conversion activities. Previously, we reported individual point mutations within the substrate binding pocket of bacterial cytosine deaminase (bCD) that result in marginal improvements in the ability to sensitize cells to 5-fluorocytosine (5FC). Here, we describe an expanded random mutagenesis and selection experiment that yielded enzyme variants, which provide significant improvement in prodrug sensitization. Three of these mutants were evaluated using enzyme kinetic analyses and then assayed in three cancer cell lines for 5FC sensitization, bystander effects, and formation of 5-fluorouracil metabolites. All variants displayed 18- to 19-fold shifts in substrate preference toward 5FC, a significant reduction in IC(50) values and improved bystander effect compared with wild-type bCD. In a xenograft tumor model, the best enzyme mutant was shown to prevent tumor growth at much lower doses of 5FC than is observed when tumor cells express wild-type bCD. Crystallographic analyses of this construct show the basis for improved activity toward 5FC, and also how two different mutagenesis strategies yield closely related but mutually exclusive mutations that each result in a significant alteration of enzyme specificity.
+
+-Animals
+-Antimetabolites, Antineoplastic (-pharmacology; -therapeutic use)
++Apoptosis (-drug effects; -genetics)
+-Combined Modality Therapy
+-Cytosine Deaminase (-genetics; -physiology; +therapeutic use)
+-Escherichia coli Proteins (-genetics; -physiology; +therapeutic use)
+-Female
+-Flucytosine (-pharmacology; +therapeutic use)
+-Gene Therapy (-methods)
+-HCT116 Cells
+-Humans
+-Mice
+-Mice, Inbred BALB C
+-Mice, Nude
+-Models, Molecular
+-Mutant Proteins (-physiology; -therapeutic use)
+-Neoplasms (-genetics; -pathology; +therapy)
+-Prodrugs (-therapeutic use)
+-Protein Engineering
+-Rats
+-Tumor Cells, Cultured
+-Xenograft Model Antitumor Assays
+
+pii:69/11/4791
+doi:10.1158/0008-5472.CAN-09-0615
+pubmed:19487291
+mid:NIHMS109537
+pmc:PMC2765227
+

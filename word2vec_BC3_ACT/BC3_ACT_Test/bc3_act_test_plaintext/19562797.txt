@@ -1,0 +1,27 @@
+Proteomics
+
+Validating divergent ORF annotation of the Mycobacterium leprae genome through a full translation data set and peptide identification by tandem mass spectrometry.
+
+GA de Souza, T Søfteland, CJ Koehler, B Thiede, HG Wiker
+
+Mycobacterium leprae has undergone extensive degenerative evolution, with a large number of pseudogenes. It is also the organism with the greatest divergence between gene annotations from independent institutes. Therefore, M. leprae is a good model to verify the currently predicted coding sequence regions between different annotations, to identify new ones and to investigate the expression of pseudogenes. We submitted a total extract of the bacteria isolated from Armadillo to Gel-LC-MS/MS using a linear quadrupole ion trap-Orbitrap mass spectrometer. Spectra were analyzed using the Leproma (1614 genes and 1133 pseudogenes) and TIGR (5446 genes) databases and a database containing the full genome translation. We identified a total of 1046 proteins, including five proteins encoded by previously predicted pseudogenes, which upon closer inspection appeared to be proper genes. Only 11 of the additional annotations by TIGR were verified. We also identified six tryptic peptides from five proteins from regions not considered to be coding sequences, in addition to peptides from two unannotated gene candidates that overlap with other genes. Our data show that the Leproma annotation of M. leprae is quite accurate, and there were no peptide observations corresponding to true pseudogenes, except for a new gene candidate, overlapping with an essential enolase on the complementary strand.
+
+-Amino Acid Sequence
+-Animals
+-Armadillos
+-Bacterial Proteins (+genetics; -metabolism)
+-Databases, Genetic
++Genome, Bacterial
+-Liver (-microbiology)
+-Molecular Sequence Data
+-Mycobacterium leprae (+genetics; -metabolism)
+-Mycobacterium tuberculosis (-genetics; -metabolism)
++Open Reading Frames
+-Peptide Fragments (-analysis; -metabolism)
+-Proteome
+-Reproducibility of Results
+-Tandem Mass Spectrometry (+methods)
+
+doi:10.1002/pmic.200800955
+pubmed:19562797
+

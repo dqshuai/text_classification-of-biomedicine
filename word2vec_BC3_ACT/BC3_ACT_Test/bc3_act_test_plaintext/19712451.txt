@@ -1,0 +1,29 @@
+BMC Cancer
+
+A mammalianized synthetic nitroreductase gene for high-level expression.
+
+M Grohmann, N Paulmann, S Fleischhauer, J Vowinckel, J Priller, DJ Walther
+
+BACKGROUND: The nitroreductase/5-(azaridin-1-yl)-2,4-dinitrobenzamide (NTR/CB1954) enzyme/prodrug system is considered as a promising candidate for anti-cancer strategies by gene-directed enzyme prodrug therapy (GDEPT) and has recently entered clinical trials. It requires the genetic modification of tumor cells to express the E. coli enzyme nitroreductase that bioactivates the prodrug CB1954 to a powerful cytotoxin. This metabolite causes apoptotic cell death by DNA interstrand crosslinking. Enhancing the enzymatic NTR activity for CB1954 should improve the therapeutical potential of this enzyme-prodrug combination in cancer gene therapy. METHODS: We performed de novo synthesis of the bacterial nitroreductase gene adapting codon usage to mammalian preferences. The synthetic gene was investigated for its expression efficacy and ability to sensitize mammalian cells to CB1954 using western blotting analysis and cytotoxicity assays. RESULTS: In our study, we detected cytoplasmic protein aggregates by expressing GFP-tagged NTR in COS-7 cells, suggesting an impaired translation by divergent codon usage between prokaryotes and eukaryotes. Therefore, we generated a synthetic variant of the nitroreductase gene, called ntro, adapted for high-level expression in mammalian cells. A total of 144 silent base substitutions were made within the bacterial ntr gene to change its codon usage to mammalian preferences. The codon-optimized ntro either tagged to gfp or c-myc showed higher expression levels in mammalian cell lines. Furthermore, the ntro rendered several cell lines ten times more sensitive to the prodrug CB1954 and also resulted in an improved bystander effect. CONCLUSION: Our results show that codon optimization overcomes expression limitations of the bacterial ntr gene in mammalian cells, thereby improving the NTR/CB1954 system at translational level for cancer gene therapy in humans.
+
+-Amino Acid Sequence
+-Animals
+-Antineoplastic Agents (-pharmacokinetics)
+-Aziridines (-pharmacokinetics)
+-Base Sequence
+-Biotransformation
+-Cell Line, Tumor
+-Cell Proliferation (-drug effects)
+-Codon
++Gene Expression
++Genes, Synthetic
+-Humans
+-Molecular Sequence Data
+-Nitroreductases (+genetics; -metabolism)
+-Prodrugs (-pharmacokinetics)
++Protein Engineering
+
+pii:1471-2407-9-301
+doi:10.1186/1471-2407-9-301
+pubmed:19712451
+

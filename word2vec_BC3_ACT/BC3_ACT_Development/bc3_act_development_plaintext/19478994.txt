@@ -1,0 +1,27 @@
+PLoS Genet.
+
+Consequences of lineage-specific gene loss on functional evolution of surviving paralogs: ALDH1A and retinoic acid signaling in vertebrate genomes.
+
+C Cañestro, JM Catchen, A Rodríguez-Marí, H Yokoi, JH Postlethwait
+
+Genome duplications increase genetic diversity and may facilitate the evolution of gene subfunctions. Little attention, however, has focused on the evolutionary impact of lineage-specific gene loss. Here, we show that identifying lineage-specific gene loss after genome duplication is important for understanding the evolution of gene subfunctions in surviving paralogs and for improving functional connectivity among human and model organism genomes. We examine the general principles of gene loss following duplication, coupled with expression analysis of the retinaldehyde dehydrogenase Aldh1a gene family during retinoic acid signaling in eye development as a case study. Humans have three ALDH1A genes, but teleosts have just one or two. We used comparative genomics and conserved syntenies to identify loss of ohnologs (paralogs derived from genome duplication) and to clarify uncertain phylogenies. Analysis showed that Aldh1a1 and Aldh1a2 form a clade that is sister to Aldh1a3-related genes. Genome comparisons showed secondarily loss of aldh1a1 in teleosts, revealing that Aldh1a1 is not a tetrapod innovation and that aldh1a3 was recently lost in medaka, making it the first known vertebrate with a single aldh1a gene. Interestingly, results revealed asymmetric distribution of surviving ohnologs between co-orthologous teleost chromosome segments, suggesting that local genome architecture can influence ohnolog survival. We propose a model that reconstructs the chromosomal history of the Aldh1a family in the ancestral vertebrate genome, coupled with the evolution of gene functions in surviving Aldh1a ohnologs after R1, R2, and R3 genome duplications. Results provide evidence for early subfunctionalization and late subfunction-partitioning and suggest a mechanistic model based on altered regulation leading to heterochronic gene expression to explain the acquisition or modification of subfunctions by surviving ohnologs that preserve unaltered ancestral developmental programs in the face of gene loss.
+
+-Aldehyde Dehydrogenase (+genetics; -metabolism)
+-Animals
++Evolution, Molecular
+-Fishes (-genetics; -metabolism)
++Gene Deletion
+-Gene Duplication
+-Genome
+-Humans
+-Isoenzymes (+genetics; -metabolism)
+-Multigene Family
+-Phylogeny
++Signal Transduction
+-Tretinoin (+metabolism)
+-Vertebrates (-classification; +genetics; -growth & development; -physiology)
+
+doi:10.1371/journal.pgen.1000496
+pubmed:19478994
+pmc:PMC2682703
+

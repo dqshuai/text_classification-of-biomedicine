@@ -1,0 +1,12 @@
+J. Am. Chem. Soc.
+
+2D-3D transition for cationic and anionic gold clusters: a kinetic energy density functional study.
+
+L Ferrighi, B Hammer, GK Madsen
+
+We present a density functional theory study of the energetics of isolated Au(n)+ (n = 5-10) and Au(n)- (n = 8-13) gold clusters. We compare our results to both theoretical and experimental values from the literature and find the use of meta-generalized gradient approximation (MGGA) functionals, in particular the M06-L functional, to be of importance in order to match experiment. The M06-L values suggest crossovers between 2D and 3D structures at n = 8 and 12 for cationic and anionic clusters, respectively. We suggest that the MGGA's stronger tendency toward 3D structures arises from their smaller gradient enhancement. Moreover, we show how MGGAs, in contrast to generalize gradient approximations with smaller gradient enhancements, avoid overestimating the bond energies by combining the information contained in the reduced gradient and the kinetic energy. This allows MGGAs to treat differently the exchange enhancement in the decaying density and bonding regions.
+
+
+doi:10.1021/ja903069x
+pubmed:19722634
+

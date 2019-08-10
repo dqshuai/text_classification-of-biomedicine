@@ -1,0 +1,37 @@
+EMBO J.
+
+cdc2-cyclin B regulates eEF2 kinase activity in a cell cycle- and amino acid-dependent manner.
+
+EM Smith, CG Proud
+
+The calcium/calmodulin-dependent kinase that phosphorylates and inactivates eukaryotic elongation factor 2 (eEF2 kinase; eEF2K) is subject to multisite phosphorylation, which regulates its activity. Phosphorylation at Ser359 inhibits eEF2K activity even at high calcium concentrations. To identify the kinase that phosphorylates Ser359 in eEF2K, we developed an extensive purification protocol. Tryptic mass fingerprint analysis identified it as cdc2 (cyclin-dependent kinase 1). cdc2 co-purifies with Ser359 kinase activity and cdc2-cyclin B complexes phosphorylate eEF2K at Ser359. We demonstrate that cdc2 contributes to controlling eEF2 phosphorylation in cells. cdc2 is activated early in mitosis. Kinase activity against Ser359 in eEF2K also peaks at this stage of the cell cycle and eEF2 phosphorylation is low in mitotic cells. Inactivation of eEF2K by cdc2 may serve to keep eEF2 active during mitosis (where calcium levels rise) and thereby permit protein synthesis to proceed in mitotic cells. Amino-acid starvation decreases cdc2's activity against eEF2K, whereas loss of TSC2 (a negative regulator of mammalian target of rapamycin complex 1(mTORC1)) increases it. These data closely match the control of Ser359 phosphorylation and indicate that cdc2 may be regulated by mTORC1.
+
+-Amino Acids (+metabolism)
+-Animals
+-Biological Assay
+-CDC2 Protein Kinase (-antagonists & inhibitors; -isolation & purification; +metabolism)
++Cell Cycle (-drug effects)
+-Cyclin B (-isolation & purification; +metabolism)
+-Elongation Factor 2 Kinase (+metabolism)
+-Enzyme Activation (-drug effects)
+-G2 Phase (-drug effects)
+-Hela Cells
+-Humans
+-Leucine (-metabolism)
+-Mice
+-Mitogen-Activated Protein Kinase 13 (-metabolism)
+-Mitosis (-drug effects)
+-Models, Biological
+-Peptide Elongation Factor 2 (-metabolism)
+-Phosphorylation (-drug effects)
+-Protein Kinases (-metabolism)
+-Purines (-pharmacology)
+-Serine (-metabolism)
+-Substrate Specificity (-drug effects)
+-Tumor Suppressor Proteins (-deficiency; -metabolism)
+
+pii:emboj200839
+doi:10.1038/emboj.2008.39
+pubmed:18337751
+pmc:PMC2323270
+

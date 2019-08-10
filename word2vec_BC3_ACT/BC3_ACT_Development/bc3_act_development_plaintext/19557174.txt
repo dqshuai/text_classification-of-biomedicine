@@ -1,0 +1,28 @@
+PLoS ONE
+
+Increased microRNA activity in human cancers.
+
+A Israel, R Sharan, E Ruppin, E Galun
+
+MicroRNAs (miRNAs) are small regulatory RNAs that act by blocking the translation and increasing the degradation of target transcripts. MiRNAs play a critical role in many biological processes including development and differentiation and many studies have shown that major changes in miRNA levels occur in cancer. Since miRNAs degrade target messages, we used this property to develop a novel computational method aimed at determining the actual biological activity of miRNAs using variations in gene expression. Using the method described here, we quantified miRNA activity in papillary thyroid carcinoma and breast cancer, and found a strong and distinctive signal of increased global miRNA activity, embedded in the pertaining gene expression measurements. Interestingly, we found that in these two cancers, miRNA activity is globally increased, and is associated with a global downregulation of miRNA target genes. This downregulation of miRNA regulated genes is particularly noticeable for genes carrying multiple target sites for miRNAs. Among the miRNA-repressed genes, we found a significant enrichment of known tumor suppressors, thereby suggesting that the increased miRNA activity was indeed tumorigenic.
+
+-Breast Neoplasms (-genetics)
+-Carcinoma (-genetics)
+-Cluster Analysis
+-Computational Biology (-methods)
+-Databases, Genetic
+-Gene Expression Profiling
++Gene Expression Regulation, Neoplastic
+-Gene Regulatory Networks
+-Humans
+-MicroRNAs (+genetics; +metabolism)
+-Models, Statistical
+-Neoplasms (+metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Software
+-Thyroid Neoplasms (-genetics)
+
+doi:10.1371/journal.pone.0006045
+pubmed:19557174
+pmc:PMC2698213
+

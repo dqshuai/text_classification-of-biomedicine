@@ -1,0 +1,30 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Comparative systems biology across an evolutionary gradient within the Shewanella genus.
+
+KT Konstantinidis, MH Serres, MF Romine, JL Rodrigues, J Auchtung, LA McCue, MS Lipton, A Obraztsova, CS Giometti, KH Nealson, JK Fredrickson, JM Tiedje
+
+To what extent genotypic differences translate to phenotypic variation remains a poorly understood issue of paramount importance for several cornerstone concepts of microbiology including the species definition. Here, we take advantage of the completed genomic sequences, expressed proteomic profiles, and physiological studies of 10 closely related Shewanella strains and species to provide quantitative insights into this issue. Our analyses revealed that, despite extensive horizontal gene transfer within these genomes, the genotypic and phenotypic similarities among the organisms were generally predictable from their evolutionary relatedness. The power of the predictions depended on the degree of ecological specialization of the organisms evaluated. Using the gradient of evolutionary relatedness formed by these genomes, we were able to partly isolate the effect of ecology from that of evolutionary divergence and to rank the different cellular functions in terms of their rates of evolution. Our ranking also revealed that whole-cell protein expression differences among these organisms, when the organisms were grown under identical conditions, were relatively larger than differences at the genome level, suggesting that similarity in gene regulation and expression should constitute another important parameter for (new) species description. Collectively, our results provide important new information toward beginning a systems-level understanding of bacterial species and genera.
+
+-Conserved Sequence
+-Ecosystem
++Evolution
+-Evolution, Molecular
+-Gene Expression
+-Gene Transfer, Horizontal
+-Genome, Bacterial
+-Phenotype
+-Phylogeny
+-Protein Array Analysis
+-Proteome
+-RNA, Bacterial (-genetics)
+-RNA, Ribosomal, 16S (-genetics)
+-Shewanella (+classification; +genetics; -physiology)
+-Systems Biology
+-Time Factors
+
+pii:0902000106
+doi:10.1073/pnas.0902000106
+pubmed:19805231
+pmc:PMC2747217
+

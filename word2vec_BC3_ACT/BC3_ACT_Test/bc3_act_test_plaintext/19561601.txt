@@ -1,0 +1,32 @@
+Nat. Neurosci.
+
+A discrete alcohol pocket involved in GIRK channel activation.
+
+P Aryal, H Dvir, S Choe, PA Slesinger
+
+Ethanol modifies neural activity in the brain by modulating ion channels. Ethanol activates G protein-gated inwardly rectifying K(+) channels, but the molecular mechanism is not well understood. Here, we used a crystal structure of a mouse inward rectifier containing a bound alcohol and structure-based mutagenesis to probe a putative alcohol-binding pocket located in the cytoplasmic domains of GIRK channels. Substitutions with bulkier side-chains in the alcohol-binding pocket reduced or eliminated activation by alcohols. By contrast, alcohols inhibited constitutively open channels, such as IRK1 or GIRK2 engineered to strongly bind PIP(2). Mutations in the hydrophobic alcohol-binding pocket of these channels had no effect on alcohol-dependent inhibition, suggesting an alternate site is involved in inhibition. Comparison of high-resolution structures of inwardly rectifying K(+) channels suggests a model for activation of GIRK channels using this hydrophobic alcohol-binding pocket. These results provide a tool for developing therapeutic compounds that could mitigate the effects of alcohol.
+
+-Animals
+-Binding Sites (-physiology)
+-Cattle
+-Cell Line
+-Central Nervous System Depressants (+pharmacology)
+-Crystallography, X-Ray
+-Ethanol (+pharmacology)
+-G Protein-Coupled Inwardly-Rectifying Potassium Channels (-chemistry; +drug effects; -metabolism)
+-Humans
+-Mice
+-Models, Molecular
+-Mutagenesis
+-Phosphatidylinositol 4,5-Diphosphate (-metabolism)
+-Potassium Channels, Inwardly Rectifying (-chemistry; -drug effects; -metabolism)
+-Protein Binding (-physiology)
+-Protein Structure, Tertiary (-physiology)
+-Rats
+
+pii:nn.2358
+doi:10.1038/nn.2358
+pubmed:19561601
+mid:NIHMS121958
+pmc:PMC2717173
+

@@ -1,0 +1,30 @@
+Nat. Cell Biol.
+
+Zcchc11-dependent uridylation of microRNA directs cytokine expression.
+
+MR Jones, LJ Quinton, MT Blahna, JR Neilson, S Fu, AR Ivanov, DA Wolf, JP Mizgerd
+
+Mounting an effective host immune response without incurring inflammatory injury requires the precise regulation of cytokine expression. To achieve this, cytokine mRNAs are post-transcriptionally regulated by diverse RNA-binding proteins and microRNAs (miRNAs) targeting their 3' untranslated regions (UTRs). Zcchc11 (zinc-finger, CCHC domain-containing protein 11) contains RNA-interacting motifs, and has been implicated in signalling pathways involved in cytokine expression. The nature of the Zcchc11 protein and how it influences cytokine expression are unknown. Here we show that Zcchc11 directs cytokine expression by uridylating cytokine-targeting miRNAs. Zcchc11 is a ribonucleotidyltransferase with a preference for uridine and is essential for maintaining the poly(A) tail length and stability of transcripts for interleukin-6 (IL-6) and other specific cytokines. The miR-26 family of miRNAs targets IL-6, and the addition of terminal uridines to the miR-26 3' end abrogates IL-6 repression. Whereas 78% of miR-26a sequences in control cells contained 1-3 uridines on their 3' ends, less than 0.1% did so in Zcchc11-knockdown cells. Thus, Zcchc11 fine tunes IL-6 production by uridylating miR-26a, which we propose is an enzymatic modification of the terminal nucleotide sequence of mature miRNA as a means to regulate gene expression.
+
+-Amino Acid Sequence
+-Animals
+-Base Sequence
+-DNA-Binding Proteins (-chemistry; +metabolism)
+-Gene Knockdown Techniques
+-Gene Silencing
+-Humans
+-Interleukin-6 (+genetics; -metabolism)
+-Mice
+-MicroRNAs (+metabolism)
+-Molecular Sequence Data
+-RNA Stability
+-RNA, Messenger (-genetics; -metabolism)
+-UDPglucose-Hexose-1-Phosphate Uridylyltransferase (-metabolism)
+-Uridine Monophosphate (+metabolism)
+
+pii:ncb1931
+doi:10.1038/ncb1931
+pubmed:19701194
+mid:NIHMS136989
+pmc:PMC2759306
+

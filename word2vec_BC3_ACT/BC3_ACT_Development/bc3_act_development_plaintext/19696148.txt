@@ -1,0 +1,29 @@
+Genes Dev.
+
+Releasing cohesin from chromosome arms in early mitosis: opposing actions of Wapl-Pds5 and Sgo1.
+
+K Shintomi, T Hirano
+
+The cohesin complex establishes sister chromatid cohesion during S phase. In metazoan cells, most if not all cohesin dissociates from chromatin during mitotic prophase, leading to the formation of metaphase chromosomes with two cytologically discernible chromatids. This process, known as sister chromatid resolution, is believed to be a prerequisite for synchronous separation of sister chromatids in subsequent anaphase. To dissect this process at a mechanistic level, we set up an in vitro system. Sister chromatid resolution is severely impaired upon depletion of Wapl from Xenopus egg extracts. Exogenously added human Wapl can rescue these defects and, remarkably, it can do so in a very short time window of early mitosis. A similar set of observations is made for Pds5, a factor implicated previously in the stabilization of interphase cohesion. Characteristic amino acid motifs (the FGF motifs) in Wapl coordinate its physical and functional interactions with Pds5 and cohesin subunits. We propose that Wapl and Pds5 directly modulate conformational changes of cohesin to make it competent for dissociation from chromatin during prophase. Evidence is also presented that Sgo1 plays a hitherto underappreciated role in stabilizing cohesin along chromosome arms, which is antagonized by the mitotic kinases polo-like kinsase (Plk1) and aurora B.
+
+-Animals
+-Carrier Proteins (-genetics; -metabolism)
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Chromosomal Proteins, Non-Histone (+metabolism)
+-Chromosomes (+metabolism)
+-DNA-Binding Proteins (-genetics; -metabolism)
+-Humans
+-Mitosis (+physiology)
+-Nuclear Proteins (-genetics; +metabolism)
+-Phosphoproteins (-genetics)
+-Proto-Oncogene Proteins (-genetics; -metabolism)
+-Recombinant Proteins (-metabolism)
+-Transcription Factors (-genetics; -metabolism)
+-Xenopus (+genetics; +metabolism)
+-Xenopus Proteins (-genetics; +metabolism)
+
+pii:gad.1844309
+doi:10.1101/gad.1844309
+pubmed:19696148
+pmc:PMC2751989
+

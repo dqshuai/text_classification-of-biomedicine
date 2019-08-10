@@ -1,0 +1,23 @@
+Genetics
+
+Evolution of stochastic switching rates in asymmetric fitness landscapes.
+
+M Salathé, J Van Cleve, MW Feldman
+
+Uncertain environments pose a tremendous challenge to populations: The selective pressures imposed by the environment can change so rapidly that adaptation by mutation alone would be too slow. One solution to this problem is given by the phenomenon of stochastic phenotype switching, which causes genetically uniform populations to be phenotypically heterogenous. Stochastic phenotype switching has been observed in numerous microbial species and is generally assumed to be an adaptive bet-hedging strategy to anticipate future environmental change. We use an explicit population genetic model to investigate the evolutionary dynamics of phenotypic switching rates. We find that whether or not stochastic switching is an adaptive strategy is highly contingent upon the fitness landscape given by the changing environment. Unless selection is very strong, asymmetric fitness landscapes-where the cost of being maladapted is not identical in all environments-strongly select against stochastic switching. We further observe a threshold phenomenon that causes switching rates to be either relatively high or completely absent, but rarely intermediate. Our finding that marginal changes in selection pressures can cause fundamentally different evolutionary outcomes is important in a wide range of fields concerned with microbial bet hedging.
+
+-Adaptation, Physiological (+genetics)
+-Bacteria (-genetics)
++Evolution
+-Fungi (-genetics)
+-Genetics, Population
+-Kinetics
+-Phenotype
++Selection, Genetic
++Stochastic Processes
+
+pii:genetics.109.103333
+doi:10.1534/genetics.109.103333
+pubmed:19474199
+pmc:PMC2728856
+

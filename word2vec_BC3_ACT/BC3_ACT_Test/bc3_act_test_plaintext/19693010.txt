@@ -1,0 +1,30 @@
+Nature
+
+Changes of mind in decision-making.
+
+A Resulaj, R Kiani, DM Wolpert, MN Shadlen
+
+A decision is a commitment to a proposition or plan of action based on evidence and the expected costs and benefits associated with the outcome. Progress in a variety of fields has led to a quantitative understanding of the mechanisms that evaluate evidence and reach a decision. Several formalisms propose that a representation of noisy evidence is evaluated against a criterion to produce a decision. Without additional evidence, however, these formalisms fail to explain why a decision-maker would change their mind. Here we extend a model, developed to account for both the timing and the accuracy of the initial decision, to explain subsequent changes of mind. Subjects made decisions about a noisy visual stimulus, which they indicated by moving a handle. Although they received no additional information after initiating their movement, their hand trajectories betrayed a change of mind in some trials. We propose that noisy evidence is accumulated over time until it reaches a criterion level, or bound, which determines the initial decision, and that the brain exploits information that is in the processing pipeline when the initial decision is made to subsequently either reverse or reaffirm the initial decision. The model explains both the frequency of changes of mind as well as their dependence on both task difficulty and whether the initial decision was accurate or erroneous. The theoretical and experimental findings advance the understanding of decision-making to the highly flexible and cognitive acts of vacillation and self-correction.
+
+-Computers
+-Cues
+-Decision Making (+physiology)
+-Female
+-Hand (-physiology)
+-Humans
+-Male
+-Models, Neurological
+-Models, Psychological
+-Motion
+-Movement
+-Photic Stimulation
+-Psychomotor Performance
+-Reaction Time
+-Time Factors
+
+pii:nature08275
+doi:10.1038/nature08275
+pubmed:19693010
+mid:UKMS27425
+pmc:PMC2875179
+

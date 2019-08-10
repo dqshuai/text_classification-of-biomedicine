@@ -1,0 +1,32 @@
+Mol. Plant Microbe Interact.
+
+Tsn1-mediated host responses to ToxA from Pyrenophora tritici-repentis.
+
+TB Adhikari, J Bai, SW Meinhardt, S Gurung, M Myrfield, J Patel, S Ali, NC Gudmestad, JB Rasmussen
+
+The toxin sensitivity gene Tsn1 interacts with Ptr ToxA (ToxA), a host-selective toxin produced by the necrotrophic fungus Pyrenophora tritici-repentis. The molecular mechanisms associated with cell death in sensitive wheat cultivars following ToxA application are not well understood. To address this question, we used the Affymetrix GeneChip Wheat Genome Array to compare gene expression in a sensitive wheat cultivar possessing the Tsn1 gene with the insensitive wheat cv. Nec103, which lacks the Tsn1 gene. This analysis was performed at early timepoints after infiltration with ToxA (e.g., 0.5 to 12 h postinfiltration [hpi]); at this time, ToxA is known to internalize into mesophyll cells without visible cell death symptoms. Gene expression also was monitored at later timepoints (24 to 48 hpi), when ToxA causes extensive damage in cellular compartments and visible cell death. At both early and late timepoints, numerous defense-related genes were induced (2- to 197-fold increases) and included genes involved in the phenylpropanoid pathway, lignification, and the production of reactive oxygen species (ROS). Furthermore, a subset of host genes functioning in signal transduction, metabolism, and as transcription factors was induced as a consequence of the Tsn1-ToxA interaction. Nine genes known to be involved in the host defense response and signaling pathways were selected for analysis by quantitative real-time polymerase chain reaction, and the expression profiles of these genes confirmed the results obtained in microarray experiments. Histochemical analyses of a sensitive wheat cultivar showed that H(2)O(2) was present in leaves undergoing cell death, indicating that ROS signaling is a major event involved in ToxA-mediated cell death. The results suggest that recognition of ToxA via Tsn1 triggers transcriptional reprogramming events similar to those reported for avirulence-resistance gene interactions, and that host-derived genes play an important role in the modulation of susceptibility to P. tritici-repentis.
+
+-3,3'-Diaminobenzidine (-metabolism)
+-Ascomycota (+metabolism)
+-Biological Transport (-genetics)
+-Cell Death
+-Cluster Analysis
+-Evans Blue (-metabolism)
+-Gene Expression Profiling
+-Gene Expression Regulation, Plant
++Host-Pathogen Interactions
+-Hydrogen Peroxide (-metabolism)
+-Models, Biological
+-Mycotoxins (+metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Phenotype
+-Plant Proteins (-genetics; +metabolism)
+-Polymerase Chain Reaction
+-Reproducibility of Results
+-Signal Transduction (-genetics)
+-Transcription Factors (-metabolism)
+-Triticum (-cytology; -genetics; -immunology; +microbiology)
+
+doi:10.1094/MPMI-22-9-1056
+pubmed:19656041
+

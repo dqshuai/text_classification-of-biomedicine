@@ -1,0 +1,24 @@
+Genes Dev.
+
+Egalitarian is a selective RNA-binding protein linking mRNA localization signals to the dynein motor.
+
+M Dienstbier, F Boehl, X Li, SL Bullock
+
+Cytoplasmic sorting of mRNAs by microtubule-based transport is widespread, yet very little is known at the molecular level about how specific transcripts are linked to motor complexes. In Drosophila, minus-end-directed transport of developmentally important transcripts by the dynein motor is mediated by seemingly divergent mRNA elements. Here we provide evidence that direct recognition of these mRNA localization signals is mediated by the Egalitarian (Egl) protein. Egl and the dynein cofactor Bicaudal-D (BicD) are the only proteins from embryonic extracts that are abundantly and specifically enriched on RNA localization signals from transcripts of gurken, hairy, K10, and the I factor retrotransposon. In vitro assays show that, despite lacking a canonical RNA-binding motif, Egl directly recognizes active localization elements. We also reveal a physical interaction between Egl and a conserved domain for cargo recruitment in BicD and present data suggesting that Egl participates selectively in BicD-mediated transport of mRNA in vivo. Our work leads to the first working model for a complete connection between minus-end-directed mRNA localization signals and microtubules and reveals molecular strategies that are likely to be of general relevance for cargo transport by dynein.
+
+-Animals
+-Drosophila Proteins (+metabolism)
+-Drosophila melanogaster (+embryology)
+-Dyneins (+metabolism)
+-Exonucleases (-metabolism)
+-Protein Binding
+-RNA Transport
+-RNA, Messenger (+metabolism)
+-RNA-Binding Proteins (+metabolism)
++Signal Transduction
+
+pii:gad.531009
+doi:10.1101/gad.531009
+pubmed:19515976
+pmc:PMC2704466
+

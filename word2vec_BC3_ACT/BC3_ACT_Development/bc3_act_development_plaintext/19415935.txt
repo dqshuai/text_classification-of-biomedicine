@@ -1,0 +1,22 @@
+J. Am. Chem. Soc.
+
+A solution NMR approach to the measurement of amphiphile immersion depth and orientation in membrane model systems.
+
+MS Al-Abdul-Wahid, C Neale, R Pomès, RS Prosser
+
+Oxygen and Ni(II) are ideal paramagnetic species for NMR studies of immersion depth since they establish prominent concentration gradients across the membrane-water interface of either bilayers or micelles. Corresponding gradients of paramagnetic shifts and relaxation rates are observed by NMR for membrane embedded amphiphiles. Specifically, upon dissolution of oxygen at a partial pressure of 20 bar or more, (13)C NMR spectra of membrane embedded amphiphiles reveal chemical shift perturbations which depend sensitively on average immersion depth in the membrane. Similarly, depth-dependent enhancements of spin-lattice relaxation rates can be detected by (1)H NMR. Generally, such paramagnetic effects depend both on steric or accessibility factors and on the local concentration of the paramagnet. The steric terms can be factored out by combining paramagnetic rates arising from O(2) and Ni, in the form of a ratio, R(1P)(O(2))/R(1P)(Ni). The natural logarithm of this ratio is shown to depend linearly on immersion depth in a micelle. The analysis is verified using molecular dynamics simulations of dodecylphosphocholine in a detergent micelle, while thorough consideration of the paramagnetic rate data also allows for the determination of the orientation of imipramine in the micelle. Thus, a complete picture of topology arises from this approach which is readily applicable to studies of drugs and amphiphiles in fast-tumbling bicelles, small unilamellar vesicles, and micelles.
+
+-Cell Membrane (+chemistry)
+-Magnetic Resonance Spectroscopy (+methods)
+-Magnetics
++Membranes, Artificial
+-Methods
+-Micelles
+-Nickel
+-Oxygen
+-Phosphorylcholine (-analogs & derivatives; -chemistry)
+-Solutions
+
+doi:10.1021/ja808964e
+pubmed:19415935
+

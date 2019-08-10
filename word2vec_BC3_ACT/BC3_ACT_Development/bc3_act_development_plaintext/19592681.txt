@@ -1,0 +1,24 @@
+Genome Res.
+
+Unusual composition of a yeast chromosome arm is associated with its delayed replication.
+
+C Payen, G Fischer, C Marck, C Proux, DJ Sherman, JY Coppée, M Johnston, B Dujon, C Neuvéglise
+
+The 11.3-Mb genome of the yeast Lachancea (Saccharomyces) kluyveri displays an intriguing compositional heterogeneity: a region of approximately 1 Mb, covering almost the whole left arm of chromosome C (C-left), has an average GC content of 52.9%, which is significantly higher than the 40.4% global GC content of the rest of the genome. This region contains the MAT locus, which remains normal in composition. The excess of GC base pairs affects both coding and noncoding sequences, and thus is not due to selective pressure acting on protein sequences. It leads to a strong codon usage bias and alters the amino acid composition of the 457 proteins encoded on C-left that do not show obvious bias for functional categories, or the presence of paralogs or orthologs of essential genes of Saccharomyces cerevisiae. They share significant synteny conservation with other species of the Saccharomycetaceae, and phylogenetic analysis indicates that C-left originates from a Lachancea species. In contrast, there is a complete absence of transposable elements in C-left, whereas 18 elements per megabase are distributed across the rest of the genome. Comparative hybridization of synchronized cells using high-density genome arrays reveals that C-left is replicated later during S phase than the rest of the genome. Two possible primary causes of this major compositional heterogeneity are discussed: an ancient hybridization of two related species with very distinct GC composition, or an intrinsic mechanism, possibly associated with the loss of the silent cassettes from C-left that progressively increased the GC content and generated the delayed replication of this chromosomal arm.
+
+-Base Composition (-genetics; +physiology)
+-Chromosomes, Fungal (-chemistry; +genetics)
+-Codon (-genetics)
+-DNA Replication Timing (+genetics)
+-DNA Transposable Elements (-genetics)
+-Genome, Fungal
+-Molecular Sequence Data
+-Phylogeny
+-Saccharomyces (+genetics)
+-Synteny
+
+pii:gr.090605.108
+doi:10.1101/gr.090605.108
+pubmed:19592681
+pmc:PMC2765276
+

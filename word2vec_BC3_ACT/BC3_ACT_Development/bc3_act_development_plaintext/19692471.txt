@@ -1,0 +1,35 @@
+J. Virol.
+
+A single-amino-acid substitution in a polymerase protein of an H5N1 influenza virus is associated with systemic infection and impaired T-cell activation in mice.
+
+JL Fornek, L Gillim-Ross, C Santos, V Carter, JM Ward, LI Cheng, S Proll, MG Katze, K Subbarao
+
+The transmission of H5N1 influenza viruses from birds to humans poses a significant public health threat. A substitution of glutamic acid for lysine at position 627 of the PB2 protein of H5N1 viruses has been identified as a virulence determinant. We utilized the BALB/c mouse model of H5N1 infection to examine how this substitution affects virus-host interactions and leads to systemic infection. Mice infected with H5N1 viruses containing lysine at amino acid 627 in the PB2 protein exhibited an increased severity of lesions in the lung parenchyma and the spleen, increased apoptosis in the lungs, and a decrease in oxygen saturation. Gene expression profiling revealed that T-cell receptor activation was impaired at 2 days postinfection (dpi) in the lungs of mice infected with these viruses. The inflammatory response was highly activated in the lungs of mice infected with these viruses and was sustained at 4 dpi. In the spleen, immune-related processes including NK cell cytotoxicity and antigen presentation were highly activated by 2 dpi. These differences are not attributable solely to differences in viral replication in the lungs but to an inefficient immune response early in infection as well. The timing and magnitude of the immune response to highly pathogenic influenza viruses is critical in determining the outcome of infection. The disruption of these factors by a single-amino-acid substitution in a polymerase protein of an influenza virus is associated with severe disease and correlates with the spread of the virus to extrapulmonary sites.
+
++Amino Acid Substitution
+-Animals
+-Female
+-Gene Expression Profiling
+-Genome, Viral
+-Humans
++Influenza A Virus, H5N1 Subtype (-enzymology; -genetics; -pathogenicity)
+-Influenza, Human (-immunology; -virology)
+-Lung (-cytology; -metabolism; -pathology; -virology)
++Lymphocyte Activation
+-Mice
+-Mice, Inbred BALB C
+-Microarray Analysis
+-Molecular Sequence Data
+-Orthomyxoviridae Infections (+immunology; +virology)
+-Receptors, Antigen, T-Cell (-metabolism)
+-Signal Transduction
+-Spleen (-cytology; -metabolism; -pathology; -virology)
+-T-Lymphocytes (+immunology)
++Viral Proteins (-chemistry; -genetics; -metabolism)
+-Virus Replication
+
+pii:JVI.00994-09
+doi:10.1128/JVI.00994-09
+pubmed:19692471
+pmc:PMC2772766
+

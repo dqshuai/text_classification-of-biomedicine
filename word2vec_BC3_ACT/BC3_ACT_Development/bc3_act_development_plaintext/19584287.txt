@@ -1,0 +1,33 @@
+Cancer Res.
+
+The serine protease inhibitor protease nexin-1 controls mammary cancer metastasis through LRP-1-mediated MMP-9 expression.
+
+B Fayard, F Bianchi, J Dey, E Moreno, S Djaffer, NE Hynes, D Monard
+
+Through their ability to degrade the extracellular matrix, proteases mediate cancer cell invasion and metastasis. Paradoxically, some serine protease inhibitors (serpins) are often overexpressed in human tumors. Using computational analysis, we found that the RNA level of protease nexin-1 (PN-1), a serpin that blocks numerous proteases activity, is significantly elevated in estrogen receptor-alpha-negative and in high-grade breast cancer. The in silico approach was complemented by mechanistic studies on two mammary cancer cell lines, the PN-1-negative 168FARN cells and the PN-1-positive 4T1 cells, both of which form primary mammary tumors, but only 4T1 tumors are able to metastasize to the lungs. We show that treatment of 168FARN cells with PN-1 stimulates extracellular signal-regulated kinase activation via low-density lipoprotein receptor-related protein-1 (LRP-1) binding, resulting in increased matrix metalloproteinase (MMP)-9 RNA, protein, and secreted activity. PN-1-silenced 4T1 cells express low MMP-9 levels. Moreover, injection of PN-1-silenced cells into mice did not affect 4T1 primary mammary tumor outgrowth; however, the tumors had impaired metastatic potential, which could be restored by reexpressing soluble MMP-9 in the PN-1-silenced 4T1 cells. Thus, using mammary tumor models, we describe a novel pathway whereby the serpin PN-1 by binding LRP-1 stimulates extracellular signal-regulated kinase signaling, MMP-9 expression, and metastatic spread of mammary tumors. Importantly, an analysis of 126 breast cancer patients revealed that those whose breast tumors had elevated PN-1 levels had a significantly higher probability to develop lung metastasis, but not metastasis to other sites, on relapse. These results suggest that PN-1 might become a prognostic marker in breast cancer.
+
+-Animals
+-Blotting, Western
+-Cell Line, Tumor
+-Extracellular Signal-Regulated MAP Kinases (-metabolism)
+-Female
+-Gene Expression Profiling
+-Gene Expression Regulation, Neoplastic
+-Humans
+-Male
+-Mammary Neoplasms, Experimental (-genetics; -metabolism; +pathology)
+-Matrix Metalloproteinase 9 (-genetics; +metabolism)
+-Mice
+-Mice, Inbred BALB C
+-Neoplasm Metastasis
+-Oligonucleotide Array Sequence Analysis
+-RNA Interference
+-Receptors, LDL (-genetics; +metabolism)
+-Serpins (-genetics; +metabolism)
+-Signal Transduction
+-Tumor Suppressor Proteins (-genetics; +metabolism)
+
+pii:0008-5472.CAN-08-4573
+doi:10.1158/0008-5472.CAN-08-4573
+pubmed:19584287
+

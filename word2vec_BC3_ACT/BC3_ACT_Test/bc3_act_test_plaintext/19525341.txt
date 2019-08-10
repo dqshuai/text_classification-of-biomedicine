@@ -1,0 +1,21 @@
+J. Bacteriol.
+
+Transcriptional profiling of methyltransferase genes during growth of Methanosarcina mazei on trimethylamine.
+
+C Krätzer, P Carini, R Hovey, U Deppenmeier
+
+The genomic expression patterns of Methanosarcina mazei growing with trimethylamine were measured in comparison to those of cells grown with methanol. We identified a total of 72 genes with either an increased level (49 genes) or a decreased level (23 genes) of mRNA during growth on trimethylamine with methanol-grown cells as the control. Major differences in transcript levels were observed for the mta, mtb, mtt, and mtm genes, which encode enzymes involved in methane formation from methanol and trimethylamine, respectively. Other differences in mRNA abundance were found for genes encoding enzymes involved in isopentenyl pyrophosphate synthesis and in the formation of aromatic amino acids, as well as a number of proteins with unknown functions. The results were verified by in-depth analysis of methyltransferase genes using specific primers for real-time quantitative reverse transcription-PCR (RT-PCR). The monitored transcript levels of genes encoding corrinoid proteins involved in methyl group transfer from methylated C(1) compounds (mtaC, mtbC, mttC, and mtmC) indicated increased amounts of mRNA from the mtaBC1, mtaBC2, and mtaBC3 operons in methanol-grown cells, whereas mRNA of the mtb1-mtt1 operon was found in high concentrations during trimethylamine consumption. The genes of the mtb1-mtt1 operon encode methyltransferases that are responsible for sequential demethylation of trimethylamine. The analysis of product formation of trimethylamine-grown cells at different optical densities revealed that large amounts of dimethylamine and monomethylamine were excreted into the medium. The intermediate compounds were consumed only in the very late exponential growth phase. RT-PCR analysis of key genes involved in methanogenesis led to the conclusion that M. mazei is able to adapt to changing trimethylamine concentrations and the consumption of intermediate compounds. Hence, we assume that the organism possesses a regulatory network for optimal substrate utilization.
+
+-Archaeal Proteins (+genetics)
+-Methanosarcina (-drug effects; +enzymology; +genetics)
+-Methylamines (+pharmacology)
+-Methyltransferases (+genetics)
+-Multigene Family (-genetics)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Transcription, Genetic (-drug effects; -genetics)
+
+pii:JB.00420-09
+doi:10.1128/JB.00420-09
+pubmed:19525341
+pmc:PMC2725588
+

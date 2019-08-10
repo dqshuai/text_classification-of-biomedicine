@@ -1,0 +1,31 @@
+Nature
+
+GOLPH3 modulates mTOR signalling and rapamycin sensitivity in cancer.
+
+KL Scott, O Kabbarah, MC Liang, E Ivanova, V Anagnostou, J Wu, S Dhakal, M Wu, S Chen, T Feinberg, J Huang, A Saci, HR Widlund, DE Fisher, Y Xiao, DL Rimm, A Protopopov, KK Wong, L Chin
+
+Genome-wide copy number analyses of human cancers identified a frequent 5p13 amplification in several solid tumour types, including lung (56%), ovarian (38%), breast (32%), prostate (37%) and melanoma (32%). Here, using integrative analysis of a genomic profile of the region, we identify a Golgi protein, GOLPH3, as a candidate targeted for amplification. Gain- and loss-of-function studies in vitro and in vivo validated GOLPH3 as a potent oncogene. Physically, GOLPH3 localizes to the trans-Golgi network and interacts with components of the retromer complex, which in yeast has been linked to target of rapamycin (TOR) signalling. Mechanistically, GOLPH3 regulates cell size, enhances growth-factor-induced mTOR (also known as FRAP1) signalling in human cancer cells, and alters the response to an mTOR inhibitor in vivo. Thus, genomic and genetic, biological, functional and biochemical data in yeast and humans establishes GOLPH3 as a new oncogene that is commonly targeted for amplification in human cancer, and is capable of modulating the response to rapamycin, a cancer drug in clinical use.
+
+-Animals
+-Antibiotics, Antineoplastic (+pharmacology)
+-Cell Line, Tumor (-drug effects)
+-DNA-Binding Proteins (-genetics)
+-Female
+-Gene Knockdown Techniques
+-Humans
+-Membrane Proteins (-genetics; +metabolism)
+-Mice
+-Mice, Nude
+-Neoplasms (+physiopathology)
+-Protein Kinases (-genetics; +metabolism)
+-Saccharomyces cerevisiae (-genetics)
++Signal Transduction
+-Sirolimus (+pharmacology)
+-Transcription Factors (-genetics)
+
+pii:nature08109
+doi:10.1038/nature08109
+pubmed:19553991
+mid:NIHMS116148
+pmc:PMC2753613
+

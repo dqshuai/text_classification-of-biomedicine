@@ -1,0 +1,17 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Acoustically driven programmable liquid motion using resonance cavities.
+
+SM Langelier, DS Chang, RI Zeitoun, MA Burns
+
+Performance and utility of microfluidic systems are often overshadowed by the difficulties and costs associated with operation and control. As a step toward the development of a more efficient platform for microfluidic control, we present a distributed pressure generation scheme whereby independently tunable pressure sources can be simultaneously controlled by using a single acoustic source. We demonstrate how this scheme can be used to perform precise droplet positioning as well as merging, splitting, and sorting within open microfluidic networks. We further show how this scheme can be implemented for control of continuous-flow systems, specifically for generation of acoustically tunable liquid gradients. Device operation hinges on a resonance-decoding and rectification mechanism by which the frequency content in a composite acoustic input is decomposed into multiple independently buffered output pressures. The device consists of a bank of 4 uniquely tuned resonance cavities (404, 484, 532, and 654 Hz), each being responsible for the actuation of a single droplet, 4 identical flow-rectification structures, and a single acoustic source. Cavities selectively amplify resonant tones in the input signal, resulting in highly elevated local cavity pressures. Fluidic-rectification structures then serve to convert the elevated oscillating cavity pressures into unidirectional flows. The resulting pressure gradients, which are used to manipulate fluids in a microdevice, are tunable over a range of approximately 0-200 Pa with a control resolution of 10 Pa.
+
+-Acoustics
++Microfluidic Analytical Techniques
+-Pressure
+
+pii:0900043106
+doi:10.1073/pnas.0900043106
+pubmed:19620719
+pmc:PMC2722265
+

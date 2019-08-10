@@ -1,0 +1,35 @@
+Mol. Cell. Biol.
+
+The fission yeast HIRA histone chaperone is required for promoter silencing and the suppression of cryptic antisense transcripts.
+
+HE Anderson, J Wardle, SV Korkut, HE Murton, L López-Maury, J Bähler, SK Whitehall
+
+The assembly of nucleosomes by histone chaperones is an important component of transcriptional regulation. Here, we have assessed the global roles of the HIRA histone chaperone in Schizosaccharomyces pombe. Microarray analysis indicates that inactivation of the HIRA complex results in increased expression of at least 4% of fission yeast genes. HIRA-regulated genes overlap with those which are normally repressed in vegetatively growing cells, such as targets of the Clr6 histone deacetylase and silenced genes located in subtelomeric regions. HIRA is also required for silencing of all 13 intact copies of the Tf2 long terminal repeat (LTR) retrotransposon. However, the role of HIRA is not restricted to bona fide promoters, because HIRA also suppresses noncoding transcripts from solo LTR elements and spurious antisense transcripts from cryptic promoters associated with transcribed regions. Furthermore, the HIRA complex is essential in the absence of the quality control provided by nuclear exosome-mediated degradation of illegitimate transcripts. This suggests that HIRA restricts genomic accessibility, and consistent with this, the chromosomes of cells lacking HIRA are more susceptible to genotoxic agents that cause double-strand breaks. Thus, the HIRA histone chaperone is required to maintain the protective functions of chromatin.
+
+-Cell Cycle Proteins (-genetics; +metabolism)
+-DNA Damage
+-DNA Transposable Elements (-genetics)
+-Down-Regulation
+-Gene Expression Profiling
++Gene Expression Regulation, Fungal
++Gene Silencing (-drug effects)
+-Histones (+metabolism)
+-Molecular Chaperones (-metabolism)
+-Mutagens (-pharmacology)
+-Mutation (-genetics)
+-Nuclear Proteins (-genetics; +metabolism)
++Promoter Regions, Genetic
+-RNA, Antisense (+genetics)
+-RNA, Messenger (-genetics; -metabolism)
+-Schizosaccharomyces (-drug effects; +genetics; -metabolism)
+-Schizosaccharomyces pombe Proteins (-genetics; +metabolism)
+-Telomere (-metabolism)
+-Terminal Repeat Sequences (-genetics)
+-Transcription Factors (-genetics; +metabolism)
+-Transcription, Genetic (-drug effects)
+
+pii:MCB.00698-09
+doi:10.1128/MCB.00698-09
+pubmed:19620282
+pmc:PMC2738286
+

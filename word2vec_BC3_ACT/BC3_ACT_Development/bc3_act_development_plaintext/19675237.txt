@@ -1,0 +1,33 @@
+J. Neurosci.
+
+TRPC Channels Mediate a Muscarinic Receptor-Induced Afterdepolarization in Cerebral Cortex.
+
+HD Yan, C Villalobos, R Andrade
+
+Activation of muscarinic cholinergic receptors on pyramidal cells of the cerebral cortex induces the appearance of a slow afterdepolarization that can sustain autonomous spiking after a brief excitatory stimulus. Accordingly, this phenomenon has been hypothesized to allow for the transient storage of memory traces in neuronal networks. Here we investigated the molecular basis underlying the muscarinic receptor-induced afterdepolarization using molecular biological and electrophysiological strategies. We find that the ability of muscarinic receptors to induce the inward aftercurrent underlying the slow afterdepolarization is inhibited by expression of a Galpha(q-11) dominant negative and is also markedly reduced in a phospholipase C beta1 (PLCbeta1) knock-out mouse. Furthermore, we show, using a genetically encoded biosensor, that activation of muscarinic receptor induces the breakdown of phosphatidylinositol 4,5-bisphosphate in pyramidal cells. These results indicate that the Galpha(q-11)/PLCbeta1 cascade plays a key role in the ability of muscarinic receptors to signal the inward aftercurrent. We have shown previously that the muscarinic afterdepolarization is mediated by a calcium-activated nonselective cation current, suggesting the possible involvement of TRPC channels. We find that expression of a TRPC dominant negative inhibits, and overexpression of wild-type TRPC5 or TRPC6 enhances, the amplitude of the muscarinic receptor-induced inward aftercurrent. Furthermore, we find that coexpression of TRPC5 and T-type calcium channels is sufficient to reconstitute a muscarinic receptor-activated inward aftercurrent in human embryonic kidney HEK-293 cells. These results indicate that TRPC channels mediate the muscarinic receptor-induced slow afterdepolarization seen in pyramidal cells of the cerebral cortex and suggest a possible role for TRPC channels in mnemonic processes.
+
+-Animals
+-Calcium Channels, T-Type (-metabolism)
+-Cell Line
+-Cerebral Cortex (+physiology)
+-Female
+-GTP-Binding Protein alpha Subunits, Gq-G11 (-metabolism)
+-Humans
+-Male
+-Membrane Potentials (+physiology)
+-Mice
+-Mice, Knockout
+-Phosphatidylinositol 4,5-Diphosphate (-metabolism)
+-Phospholipase C beta (-genetics; -metabolism)
+-Pyramidal Cells (+physiology)
+-Rats
+-Receptors, Muscarinic (+metabolism)
+-Signal Transduction
+-TRPC Cation Channels (+metabolism)
+
+pii:29/32/10038
+doi:10.1523/JNEUROSCI.1042-09.2009
+pubmed:19675237
+mid:NIHMS139075
+pmc:PMC2747319
+

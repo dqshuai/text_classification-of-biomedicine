@@ -1,0 +1,20 @@
+PLoS ONE
+
+Endogenous human brain dynamics recover slowly following cognitive effort.
+
+A Barnes, ET Bullmore, J Suckling
+
+BACKGROUND: In functional magnetic resonance imaging, the brain's response to experimental manipulation is almost always assumed to be independent of endogenous oscillations. To test this, we addressed the possible interaction between cognitive task performance and endogenous fMRI oscillations in an experiment designed to answer two questions: 1) Does performance of a cognitively effortful task significantly change fractal scaling properties of fMRI time series compared to their values before task performance? 2) If so, can we relate the extent of task-related perturbation to the difficulty of the task? METHODOLOGY/PRINCIPAL FINDINGS: Using a novel continuous acquisition "rest-task-rest" design, we found that endogenous dynamics tended to recover their pre-task parameter values relatively slowly, over the course of several minutes, following completion of one of two versions of the n-back working memory task and that the rate of recovery was slower following completion of the more demanding (n = 2) version of the task. CONCLUSION/SIGNIFICANCE: This result supports the model that endogenous low frequency oscillatory dynamics are relevant to the brain's response to exogenous stimulation. Moreover, it suggests that large-scale neurocognitive systems measured using fMRI, like the heart and other physiological systems subjected to external demands for enhanced performance, can take a considerable period of time to return to a stable baseline state.
+
+-Brain (+physiology)
++Cognition
+-Fractals
+-Humans
+-Magnetic Resonance Imaging
+-Memory
+-Task Performance and Analysis
+
+doi:10.1371/journal.pone.0006626
+pubmed:19680553
+pmc:PMC2721686
+

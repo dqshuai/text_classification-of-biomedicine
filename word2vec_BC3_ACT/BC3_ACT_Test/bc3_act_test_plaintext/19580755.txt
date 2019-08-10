@@ -1,0 +1,29 @@
+Biophys. J.
+
+Alternating-site mechanism of kinesin-1 characterized by single-molecule FRET using fluorescent ATP analogues.
+
+S Verbrugge, B Lechner, G Woehlke, EJ Peterman
+
+Kinesin-1 motor proteins move along microtubules in repetitive steps of 8 nm at the expense of ATP. To determine nucleotide dwell times during these processive runs, we used a Förster resonance energy transfer method at the single-molecule level that detects nucleotide binding to kinesin motor heads. We show that the fluorescent ATP analog used produces processive motility with kinetic parameters altered <2.5-fold compared with normal ATP. Using our confocal fluorescence kinesin motility assay, we obtained fluorescence intensity time traces that we then analyzed using autocorrelation techniques, yielding a time resolution of approximately 1 ms for the intensity fluctuations due to fluorescent nucleotide binding and release. To compare these experimental autocorrelation curves with kinetic models, we used Monte-Carlo simulations. We find that the experimental data can only be described satisfactorily on the basis of models assuming an alternating-site mechanism, thus supporting the view that kinesin's two motor domains hydrolyze ATP and step in a sequential way.
+
+-Adenosine Triphosphate (-analogs & derivatives; +chemistry)
+-Computer Simulation
+-Cyclic AMP (-analogs & derivatives)
+-Fluorescence
+-Fluorescence Resonance Energy Transfer
+-Humans
+-Kinesin (+chemistry)
+-Kinetics
+-Microscopy, Confocal
+-Microscopy, Fluorescence
+-Models, Chemical
+-Monte Carlo Method
+-Motion
+-Nucleotides (+chemistry)
+-Time Factors
+
+pii:S0006-3495(09)00843-1
+doi:10.1016/j.bpj.2009.02.073
+pubmed:19580755
+pmc:PMC2711353
+

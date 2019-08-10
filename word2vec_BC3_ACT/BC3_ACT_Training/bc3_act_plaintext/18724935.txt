@@ -1,0 +1,27 @@
+Cell
+
+The mRNA export factor Gle1 and inositol hexakisphosphate regulate distinct stages of translation.
+
+TA Bolger, AW Folkmann, EJ Tran, SR Wente
+
+Gene expression requires proper messenger RNA (mRNA) export and translation. However, the functional links between these consecutive steps have not been fully defined. Gle1 is an essential, conserved mRNA export factor whose export function is dependent on the small molecule inositol hexakisphosphate (IP(6)). Here, we show that both Gle1 and IP(6) are required for efficient translation termination in Saccharomyces cerevisiae and that Gle1 interacts with termination factors. In addition, Gle1 has a conserved physical association with the initiation factor eIF3, and gle1 mutants display genetic interactions with the eIF3 mutant nip1-1. Strikingly, gle1 mutants have defects in initiation, whereas strains lacking IP(6) do not. We propose that Gle1 functions together with IP(6) and the DEAD-box protein Dbp5 to regulate termination. However, Gle1 also independently mediates initiation. Thus, Gle1 is uniquely positioned to coordinate the mRNA export and translation mechanisms. These results directly impact models for perturbation of Gle1 function in pathophysiology.
+
+-Carrier Proteins (+metabolism)
+-DEAD-box RNA Helicases (-metabolism)
+-Eukaryotic Initiation Factor-3 (-metabolism)
+-Nuclear Pore Complex Proteins
+-Nucleocytoplasmic Transport Proteins (-metabolism)
+-Peptide Termination Factors (-metabolism)
+-Phytic Acid (+metabolism)
++Protein Biosynthesis
+-Protein Isoforms (-metabolism)
+-RNA, Messenger (+metabolism)
+-Saccharomyces cerevisiae (-genetics; +metabolism)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+
+pii:S0092-8674(08)00779-4
+doi:10.1016/j.cell.2008.06.027
+pubmed:18724935
+mid:NIHMS67370
+pmc:PMC2601711
+

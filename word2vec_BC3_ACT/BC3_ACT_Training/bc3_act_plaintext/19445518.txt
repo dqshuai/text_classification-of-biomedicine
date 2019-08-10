@@ -1,0 +1,26 @@
+Biochemistry
+
+Structure and function of Vps15 in the endosomal G protein signaling pathway.
+
+EJ Heenan, JL Vanhooke, BR Temple, L Betts, JE Sondek, HG Dohlman
+
+G protein-coupled receptors mediate cellular responses to a wide variety of stimuli, including taste, light, and neurotransmitters. In the yeast Saccharomyces cerevisiae, activation of the pheromone pathway triggers events leading to mating. The view had long been held that the G protein-mediated signal occurs principally at the plasma membrane. Recently, it has been shown that the G protein alpha subunit Gpa1 can promote signaling at endosomes and requires two components of the sole phosphatidylinositol-3-kinase in yeast, Vps15 and Vps34. Vps15 contains multiple WD repeats and also binds to Gpa1 preferentially in the GDP-bound state; these observations led us to hypothesize that Vps15 may function as a G protein beta subunit at the endosome. Here we show an X-ray crystal structure of the Vps15 WD domain that reveals a seven-bladed propeller resembling that of typical Gbeta subunits. We show further that the WD domain is sufficient to bind Gpa1 as well as to Atg14, a potential Ggamma protein that exists in a complex with Vps15. The Vps15 kinase domain together with the intermediate domain (linking the kinase and WD domains) also contributes to Gpa1 binding and is necessary for Vps15 to sustain G protein signaling. These findings reveal that the Vps15 Gbeta-like domain serves as a scaffold to assemble Gpa1 and Atg14, whereas the kinase and intermediate domains are required for proper signaling at the endosome.
+
+-Base Sequence
+-Crystallography, X-Ray
+-DNA Primers
+-Endosomal Sorting Complexes Required for Transport
+-Endosomes (+metabolism)
+-GTP-Binding Proteins (+metabolism)
+-Models, Molecular
+-Phosphorylation
+-Protein-Serine-Threonine Kinases (-chemistry; +metabolism)
+-Saccharomyces cerevisiae (+metabolism)
++Signal Transduction
+-Structure-Activity Relationship
+
+doi:10.1021/bi900621w
+pubmed:19445518
+mid:NIHMS127125
+pmc:PMC2740480
+

@@ -1,0 +1,28 @@
+FEBS J.
+
+Modeling of tRNA-assisted mechanism of Arg activation based on a structure of Arg-tRNA synthetase, tRNA, and an ATP analog (ANP).
+
+M Konno, T Sumida, E Uchikawa, Y Mori, T Yanagisawa, S Sekine, S Yokoyama, S Yokoyama
+
+The ATP-pyrophosphate exchange reaction catalyzed by Arg-tRNA, Gln-tRNA and Glu-tRNA synthetases requires the assistance of the cognate tRNA. tRNA also assists Arg-tRNA synthetase in catalyzing the pyrophosphorolysis of synthetic Arg-AMP at low pH. The mechanism by which the 3'-end A76, and in particular its hydroxyl group, of the cognate tRNA is involved with the exchange reaction catalyzed by those enzymes has yet to be established. We determined a crystal structure of a complex of Arg-tRNA synthetase from Pyrococcus horikoshii, tRNA(Arg)(CCU) and an ATP analog with Rfactor = 0.213 (Rfree = 0.253) at 2.0 A resolution. On the basis of newly obtained structural information about the position of ATP bound on the enzyme, we constructed a structural model for a mechanism in which the formation of a hydrogen bond between the 2'-OH group of A76 of tRNA and the carboxyl group of Arg induces both formation of Arg-AMP (Arg + ATP --> Arg-AMP + pyrophosphate) and pyrophosphorolysis of Arg-AMP (Arg-AMP + pyrophosphate --> Arg + ATP) at low pH. Furthermore, we obtained a structural model of the molecular mechanism for the Arg-tRNA synthetase-catalyzed deacylation of Arg-tRNA (Arg-tRNA + AMP --> Arg-AMP + tRNA at high pH), in which the deacylation of aminoacyl-tRNA bound on Arg-tRNA synthetase and Glu-tRNA synthetase is catalyzed by a quite similar mechanism, whereby the proton-donating group (-NH-C+(NH2)2 or -COOH) of Arg and Glu assists the aminoacyl transfer from the 2'-OH group of tRNA to the phosphate group of AMP at high pH.
+
+-Adenylyl Imidodiphosphate (+chemistry)
+-Amino Acid Sequence
+-Arginine (+chemistry)
+-Arginine-tRNA Ligase (+chemistry)
+-Binding Sites
+-Crystallography, X-Ray
+-Hydrogen Bonding
+-Models, Molecular
+-Molecular Sequence Data
+-Phosphoric Acid Esters (-chemistry)
+-Protein Binding
+-Pyrococcus horikoshii (-enzymology)
+-RNA, Transfer, Amino Acyl (+chemistry)
+-Saccharomyces cerevisiae (-enzymology)
+-Thermus thermophilus (-enzymology)
+
+pii:EJB7178
+doi:10.1111/j.1742-4658.2009.07178.x
+pubmed:19656186
+

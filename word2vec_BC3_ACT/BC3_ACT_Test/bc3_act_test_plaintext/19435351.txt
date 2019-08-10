@@ -1,0 +1,20 @@
+J. Am. Chem. Soc.
+
+Monitoring proton release during photosynthetic water oxidation in photosystem II by means of isotope-edited infrared spectroscopy.
+
+H Suzuki, M Sugiura, T Noguchi
+
+In photosynthetic water oxidation performed in the water oxidizing center (WOC) of photosystem II (PSII), two water molecules are converted into one oxygen molecule and four protons through a light-driven cycle of intermediates called S states (S(0)-S(4)). To understand the molecular mechanism of water oxidation and the chemical nature of substrate intermediates, it is essential to determine the stoichiometry of proton release from substrate water at individual S-state transitions. In this study, we have monitored proton release during water oxidation by means of isotope-edited Fourier transform infrared (FTIR) spectroscopy. FTIR difference spectra upon successive flash illumination were measured using PSII core complexes from a thermophilic cyanobacterium Thermosynechococcus elongatus, which were suspended in a high concentration (200 mM) Mes buffer at pH 6.0. The spectra involved, in addition to protein bands, the bands of the Mes buffer that trapped virtually all protons from the WOC. Mes-only signals were extracted by subtracting the spectra measured in deuterated-Mes (Mes-d(12)). The flash-number dependence of the intensity increase of the isotope-edited Mes signal showed a clear period-four oscillation. By simulating the oscillation with different assumptions about miss factors, the proton release pattern was estimated to be 0.8-1.0:0.2-0.3:0.9-1.2:1.5-1.6 for the S(0)-->S(1)-->S(2)-->S(3)-->S(0) transitions. The effect of H/D exchange on the COOH region of proteins in FTIR difference spectra of the S-state cycle showed that protonation/deprotonation of carboxylic groups contributed little to the observed proton release pattern. Together with the present and previous FTIR results suggesting no involvement of also His and Cys side groups, it was concluded that proton release from substrate water takes place with a 1:0:1:2 stoichiometry, which is perturbed by partial protonation/deprotonation of side groups probably of Arg, Lys, or Tyr located nearby the WOC.
+
+-Cyanobacteria (-chemistry; -metabolism)
+-Ferricyanides (-chemistry)
+-Models, Molecular
+-Oxidation-Reduction
+-Photosystem II Protein Complex (+chemistry; -metabolism)
+-Protons
+-Spectrophotometry, Infrared (-methods)
+-Water (+chemistry; -metabolism)
+
+doi:10.1021/ja901696m
+pubmed:19435351
+

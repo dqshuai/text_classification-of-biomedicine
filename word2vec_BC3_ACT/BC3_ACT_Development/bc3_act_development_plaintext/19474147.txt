@@ -1,0 +1,26 @@
+RNA
+
+Small RNAs derived from snoRNAs.
+
+RJ Taft, EA Glazov, T Lassmann, Y Hayashizaki, P Carninci, JS Mattick
+
+Small nucleolar RNAs (snoRNAs) guide RNA modification and are localized in nucleoli and Cajal bodies in eukaryotic cells. Components of the RNA silencing pathway associate with these structures, and two recent reports have revealed that a human and a protozoan snoRNA can be processed into miRNA-like RNAs. Here we show that small RNAs with evolutionary conservation of size and position are derived from the vast majority of snoRNA loci in animals (human, mouse, chicken, fruit fly), Arabidopsis, and fission yeast. In animals, sno-derived RNAs (sdRNAs) from H/ACA snoRNAs are predominantly 20-24 nucleotides (nt) in length and originate from the 3' end. Those derived from C/D snoRNAs show a bimodal size distribution at approximately 17-19 nt and >27 nt and predominantly originate from the 5' end. SdRNAs are associated with AGO7 in Arabidopsis and Ago1 in fission yeast with characteristic 5' nucleotide biases and show altered expression patterns in fly loquacious and Dicer-2 and mouse Dicer1 and Dgcr8 mutants. These findings indicate that there is interplay between the RNA silencing and snoRNA-mediated RNA processing systems, and that sdRNAs comprise a novel and ancient class of small RNAs in eukaryotes.
+
+-Animals
+-Arabidopsis (-genetics)
+-Chickens
+-DEAD-box RNA Helicases (-genetics)
+-Genotype
+-Humans
+-Mice
+-MicroRNAs (+genetics)
+-Proteins (-genetics)
+-RNA, Small Nucleolar (+genetics)
+-Ribonuclease III (-genetics)
+-Schizosaccharomyces (-genetics)
+
+pii:rna.1528909
+doi:10.1261/rna.1528909
+pubmed:19474147
+pmc:PMC2704076
+

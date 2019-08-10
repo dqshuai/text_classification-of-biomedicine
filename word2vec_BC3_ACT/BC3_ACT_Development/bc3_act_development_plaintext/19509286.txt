@@ -1,0 +1,35 @@
+J. Biol. Chem.
+
+A TIR domain variant of MyD88 adapter-like (Mal)/TIRAP results in loss of MyD88 binding and reduced TLR2/TLR4 signaling.
+
+K Nagpal, TS Plantinga, J Wong, BG Monks, NJ Gay, MG Netea, KA Fitzgerald, DT Golenbock
+
+The adapter protein MyD88 adapter-like (Mal), encoded by TIR-domain containing adapter protein (Tirap) (MIM 606252), is the most polymorphic of the five adapter proteins involved in Toll-like receptor signaling, harboring eight non-synonymous single nucleotide polymorphisms in its coding region. We screened reported mutations of Mal for activity in reporter assays to test the hypothesis that variants of Mal existed with altered signaling potential. A TIR domain variant, Mal D96N (rs8177400), was found to be inactive. In reconstituted cell lines, Mal D96N acted as a hypomorphic mutation, with impaired cytokine production and NF-kappaB activation upon lipopolysaccharide or PAM2CSK4 stimulation. Moreover, co-immunoprecipitation studies revealed that Mal D96N is unable to interact with MyD88, a prerequisite for downstream signaling to occur. Computer modeling data suggested that residue 96 resides in the MyD88 binding site, further supporting these findings. Genotyping of Mal D96N in three different cohorts suggested that it is a rare mutation. We, thus, describe a rare variant in Mal that exerts its effect via its inability to bind MyD88.
+
+-Amino Acid Substitution
+-Binding Sites (-physiology)
+-Cell Line
+-Cohort Studies
+-Computer Simulation
+-Female
+-Humans
+-Lipopeptides (-pharmacology)
+-Lipopolysaccharides (-pharmacology)
+-Male
+-Membrane Glycoproteins (-genetics; +metabolism)
+-Models, Molecular
+-Mutation, Missense
+-Myeloid Differentiation Factor 88 (-genetics; +metabolism)
+-Polymorphism, Single Nucleotide
+-Protein Binding (-drug effects; -physiology)
+-Protein Structure, Tertiary
+-Receptors, Interleukin-1 (-genetics; +metabolism)
+-Signal Transduction (-drug effects; +physiology)
+-Toll-Like Receptor 2 (-genetics; +metabolism)
+-Toll-Like Receptor 4 (-genetics; +metabolism)
+
+pii:M109.014886
+doi:10.1074/jbc.M109.014886
+pubmed:19509286
+pmc:PMC2757976
+

@@ -1,0 +1,22 @@
+BMC Bioinformatics
+
+CURE-Chloroplast: a chloroplast C-to-U RNA editing predictor for seed plants.
+
+P Du, L Jia, Y Li
+
+BACKGROUND: RNA editing is a type of post-transcriptional modification of RNA and belongs to the class of mechanisms that contribute to the complexity of transcriptomes. C-to-U RNA editing is commonly observed in plant mitochondria and chloroplasts. The in vivo mechanism of recognizing C-to-U RNA editing sites is still unknown. In recent years, many efforts have been made to computationally predict C-to-U RNA editing sites in the mitochondria of seed plants, but there is still no algorithm available for C-to-U RNA editing site prediction in the chloroplasts of seed plants. RESULTS: In this paper, we extend our algorithm CURE, which can accurately predict the C-to-U RNA editing sites in mitochondria, to predict C-to-U RNA editing sites in the chloroplasts of seed plants. The algorithm achieves over 80% sensitivity and over 99% specificity. We implement the algorithm as an online service called CURE-Chloroplast http://bioinfo.au.tsinghua.edu.cn/pure. CONCLUSION: CURE-Chloroplast is an online service for predicting the C-to-U RNA editing sites in the chloroplasts of seed plants. The online service allows the processing of entire chloroplast genome sequences. Since CURE-Chloroplast performs very well, it could be a helpful tool in the study of C-to-U RNA editing in the chloroplasts of seed plants.
+
++Algorithms
+-Databases, Genetic
+-Mitochondria (-genetics; -metabolism)
+-Plants (-genetics)
+-RNA Editing (+genetics)
+-RNA, Chloroplast (+chemistry; -metabolism)
+-RNA, Plant (+chemistry; -metabolism)
+-Seeds (-metabolism)
+
+pii:1471-2105-10-135
+doi:10.1186/1471-2105-10-135
+pubmed:19422723
+pmc:PMC2688514
+

@@ -1,0 +1,22 @@
+Biophys. J.
+
+Quantitative detection of small molecule/DNA complexes employing a force-based and label-free DNA-microarray.
+
+D Ho, C Dose, CH Albrecht, P Severin, K Falter, PB Dervan, HE Gaub
+
+Force-based ligand detection is a promising method to characterize molecular complexes label-free at physiological conditions. Because conventional implementations of this technique, e.g., based on atomic force microscopy or optical traps, are low-throughput and require extremely sensitive and sophisticated equipment, this approach has to date found only limited application. We present a low-cost, chip-based assay, which combines high-throughput force-based detection of dsDNA.ligand interactions with the ease of fluorescence detection. Within the comparative unbinding force assay, many duplicates of a target DNA duplex are probed against a defined reference DNA duplex each. The fractions of broken target and reference DNA duplexes are determined via fluorescence. With this assay, we investigated the DNA binding behavior of artificial pyrrole-imidazole polyamides. These small compounds can be programmed to target specific dsDNA sequences and distinguish between D- and L-DNA. We found that titration with polyamides specific for a binding motif, which is present in the target DNA duplex and not in the reference DNA duplex, reliably resulted in a shift toward larger fractions of broken reference bonds. From the concentration dependence nanomolar to picomolar dissociation constants of dsDNA.ligand complexes were determined, agreeing well with prior quantitative DNAase footprinting experiments. This finding corroborates that the forced unbinding of dsDNA in presence of a ligand is a nonequilibrium process that produces a snapshot of the equilibrium distribution between dsDNA and dsDNA.ligand complexes.
+
+-DNA (+chemistry)
+-Dimethylpolysiloxanes
+-Fluorescence
+-Inverted Repeat Sequences
+-Microarray Analysis (+methods)
+-Nylons (+chemistry)
+-Temperature
+-Transition Temperature
+
+pii:S0006-3495(09)00680-8
+doi:10.1016/j.bpj.2009.02.059
+pubmed:19486688
+pmc:PMC2711479
+

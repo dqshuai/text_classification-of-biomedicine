@@ -1,0 +1,18 @@
+BMC Genomics
+
+Statistical aspects of discerning indel-type structural variation via DNA sequence alignment.
+
+MC Wendl, RK Wilson
+
+BACKGROUND: Structural variations in the form of DNA insertions and deletions are an important aspect of human genetics and especially relevant to medical disorders. Investigations have shown that such events can be detected via tell-tale discrepancies in the aligned lengths of paired-end DNA sequencing reads. Quantitative aspects underlying this method remain poorly understood, despite its importance and conceptual simplicity. We report the statistical theory characterizing the length-discrepancy scheme for Gaussian libraries, including coverage-related effects that preceding models are unable to account for. RESULTS: Deletion and insertion statistics both depend heavily on physical coverage, but otherwise differ dramatically, refuting a commonly held doctrine of symmetry. Specifically, coverage restrictions render insertions much more difficult to capture. Increased read length has the counterintuitive effect of worsening insertion detection characteristics of short inserts. Variance in library insert length is also a critical factor here and should be minimized to the greatest degree possible. Conversely, no significant improvement would be realized in lowering fosmid variances beyond current levels. Detection power is examined under a straightforward alternative hypothesis and found to be generally acceptable. We also consider the proposition of characterizing variation over the entire spectrum of variant sizes under constant risk of false-positive errors. At 1% risk, many designs will leave a significant gap in the 100 to 200 bp neighborhood, requiring unacceptably high redundancies to compensate. We show that a few modifications largely close this gap and we give a few examples of feasible spectrum-covering designs. CONCLUSION: The theory resolves several outstanding issues and furnishes a general methodology for designing future projects from the standpoint of a spectrum-wide constant risk.
+
++INDEL Mutation
++Models, Statistical
+-Sequence Alignment
+-Sequence Analysis, DNA (+methods)
+
+pii:1471-2164-10-359
+doi:10.1186/1471-2164-10-359
+pubmed:19656394
+pmc:PMC2748092
+

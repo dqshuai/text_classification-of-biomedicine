@@ -1,0 +1,26 @@
+Mol. Cell
+
+SOSS complexes participate in the maintenance of genomic stability.
+
+J Huang, Z Gong, G Ghosal, J Chen
+
+Proteins that bind to single-stranded DNA (ssDNA) are essential for DNA replication, recombinational repair, and maintenance of genomic stability. Here, we describe the characterization of an ssDNA-binding heterotrimeric complex, SOSS (sensor of ssDNA) in human, which consists of human SSB homologs hSSB1/2 (SOSS-B1/2) and INTS3 (SOSS-A) and a previously uncharacterized protein C9orf80 (SOSS-C). We have shown that SOSS-A serves as a central adaptor required not only for SOSS complex assembly and stability, but also for facilitating the accumulation of SOSS complex to DNA ends. Moreover, SOSS-depleted cells display increased ionizing radiation sensitivity, defective G2/M checkpoint, and impaired homologous recombination repair. Thus, our study defines a pathway involving the sensing of ssDNA by SOSS complex and suggests that this SOSS complex is likely involved in the maintenance of genome stability.
+
+-Carrier Proteins (-metabolism; -physiology)
+-Cell Cycle (-genetics)
+-DNA Breaks, Double-Stranded
+-DNA Repair (-genetics)
+-DNA, Single-Stranded (+metabolism)
+-DNA-Binding Proteins (-genetics; -metabolism; +physiology)
++Genomic Instability
+-Humans
+-Nuclear Proteins (-metabolism; -physiology)
+-Protein Stability
+-Recombination, Genetic
+
+pii:S1097-2765(09)00402-X
+doi:10.1016/j.molcel.2009.06.011
+pubmed:19683501
+mid:NIHMS127509
+pmc:PMC2756616
+

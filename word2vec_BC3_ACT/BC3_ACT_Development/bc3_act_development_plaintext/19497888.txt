@@ -1,0 +1,21 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+The encoding of alternatives in multiple-choice decision making.
+
+L Albantakis, G Deco
+
+During the last decades, research on binary decision making elucidated some of the basic neural mechanisms underlying the decision-making process. Recently, the focus of experimental as well as modeling studies began to shift from simple binary choices to decision making with multiple alternatives. In this article, we address the question how different numbers of choice alternatives might be handled and encoded in the brain. We present a minimal, biophysically realistic spiking neuron model for decision making with multiple alternatives. Our model accounts for the relevant aspects of recent experimental data of a random-dot motion-discrimination task on both the cellular and behavioral level. Notably, all network parameters and inputs in our network are independent of the number of possible alternatives used in the tested experimental paradigms (2 and 4 alternatives and 2 alternatives with an angular separation of 90 degrees ). This avoids the use of extra top-down regulation mechanisms to adapt the network to the number of choices. Furthermore, we show that increasing the number of neurons encoding each choice alternative is positively related to the network's capacity of choice-number-independent decision making. Consequently, our results suggest a physiological advantage of a pooled, multineuron representation of choice alternatives.
+
+-Action Potentials
+-Animals
+-Brain (+physiology)
+-Choice Behavior (+physiology)
+-Haplorhini
++Models, Neurological
+-Nerve Net (+physiology)
+
+pii:0901621106
+doi:10.1073/pnas.0901621106
+pubmed:19497888
+pmc:PMC2691385
+

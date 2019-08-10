@@ -1,0 +1,27 @@
+Cell Cycle
+
+Phosphorylation of TPX2 by Plx1 enhances activation of Aurora A.
+
+F Eckerdt, G Pascreau, M Phistry, AL Lewellyn, AA DePaoli-Roach, JL Maller
+
+Entry into mitosis requires the activation of mitotic kinases, including Aurora A and Polo-like kinase 1 (Plk1). Increased levels of these kinases are frequently found associated with human cancers, and therefore it is imperative to understand the processes leading to their activation. We demonstrate that TPX2, but neither Ajuba nor Inhibitor-2, can activate Aurora A directly. Moreover, Plx1 can induce Aurora A T-loop phosphorylation indirectly in vivo during oocyte maturation. We identify Ser204 in TPX2 as a Plx1 phosphorylation site. Mutating Ser204 to alanine decreases activation of Aurora A, whereas a phosphomimetic Asp mutant exhibits enhanced activating ability. Finally, we show that phosphorylation of TPX2 with Plx1 increases its ability to activate Aurora A. Taken together, our data indicate that Plx1 promotes activation of Aurora A, most likely through TPX2. In light of the current literature, we propose a model in which Plx1 and Aurora A activate each other in a positive feedback loop.
+
+-Animals
+-CHO Cells (-metabolism)
+-Cell Cycle (-physiology)
+-Cell Cycle Proteins (+metabolism)
+-Cricetinae
+-Cricetulus
+-Homeodomain Proteins (+metabolism)
+-Microtubule-Associated Proteins (+metabolism)
+-Nuclear Proteins (+metabolism)
+-Oocytes (+metabolism)
+-Phosphoproteins (+metabolism)
+-Phosphorylation (-physiology)
+-Protein-Serine-Threonine Kinases (+metabolism)
+-Xenopus Proteins (+metabolism)
+-Xenopus laevis (+metabolism)
+
+pii:9086
+pubmed:19556869
+

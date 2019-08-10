@@ -1,0 +1,25 @@
+J. Mol. Biol.
+
+Crystal structure of histidine phosphotransfer protein ShpA, an essential regulator of stalk biogenesis in Caulobacter crescentus.
+
+Q Xu, D Carlton, MD Miller, MA Elsliger, SS Krishna, P Abdubek, T Astakhova, P Burra, HJ Chiu, T Clayton, MC Deller, L Duan, Y Elias, J Feuerhelm, JC Grant, A Grzechnik, SK Grzechnik, GW Han, L Jaroszewski, KK Jin, HE Klock, MW Knuth, P Kozbial, A Kumar, D Marciano, D McMullan, AT Morse, E Nigoghossian, L Okach, S Oommachen, J Paulsen, R Reyes, CL Rife, N Sefcovic, C Trame, CV Trout, H van den Bedem, D Weekes, KO Hodgson, J Wooley, AM Deacon, A Godzik, SA Lesley, IA Wilson
+
+Cell-cycle-regulated stalk biogenesis in Caulobacter crescentus is controlled by a multistep phosphorelay system consisting of the hybrid histidine kinase ShkA, the histidine phosphotransfer (HPt) protein ShpA, and the response regulator TacA. ShpA shuttles phosphoryl groups between ShkA and TacA. When phosphorylated, TacA triggers a downstream transcription cascade for stalk synthesis in an RpoN-dependent manner. The crystal structure of ShpA was determined to 1.52 A resolution. ShpA belongs to a family of monomeric HPt proteins that feature a highly conserved four-helix bundle. The phosphorylatable histidine His56 is located on the surface of the helix bundle and is fully solvent exposed. One end of the four-helix bundle in ShpA is shorter compared with other characterized HPt proteins, whereas the face that potentially interacts with the response regulators is structurally conserved. Similarities of the interaction surface around the phosphorylation site suggest that ShpA is likely to share a common mechanism for molecular recognition and phosphotransfer with yeast phosphotransfer protein YPD1 despite their low overall sequence similarity.
+
+-Amino Acid Sequence
+-Bacterial Proteins (+chemistry; -metabolism)
+-Caulobacter crescentus (+metabolism)
+-Crystallography, X-Ray
+-Histidine (+metabolism)
++Models, Molecular
+-Molecular Sequence Data
+-Phosphorylation
+-Phosphotransferases (+chemistry; -metabolism)
+-Protein Conformation
+
+pii:S0022-2836(09)00589-0
+doi:10.1016/j.jmb.2009.05.023
+pubmed:19450606
+mid:NIHMS118816
+pmc:PMC2726009
+

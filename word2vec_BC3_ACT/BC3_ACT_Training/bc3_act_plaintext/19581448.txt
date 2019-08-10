@@ -1,0 +1,28 @@
+Genetics
+
+Polymorphisms in multiple genes contribute to the spontaneous mitochondrial genome instability of Saccharomyces cerevisiae S288C strains.
+
+LN Dimitrov, RB Brem, L Kruglyak, DE Gottschling
+
+The mitochondrial genome (mtDNA) is required for normal cellular function; inherited and somatic mutations in mtDNA lead to a variety of diseases. Saccharomyces cerevisiae has served as a model to study mtDNA integrity, in part because it can survive without mtDNA. A measure of defective mtDNA in S. cerevisiae is the formation of petite colonies. The frequency at which spontaneous petite colonies arise varies by approximately 100-fold between laboratory and natural isolate strains. To determine the genetic basis of this difference, we applied quantitative trait locus (QTL) mapping to two strains at the opposite extremes of the phenotypic spectrum: the widely studied laboratory strain S288C and the vineyard isolate RM11-1a. Four main genetic determinants explained the phenotypic difference. Alleles of SAL1, CAT5, and MIP1 contributed to the high petite frequency of S288C and its derivatives by increasing the formation of petite colonies. By contrast, the S288C allele of MKT1 reduced the formation of petite colonies and compromised the growth of petite cells. The former three alleles were found in the EM93 strain, the founder that contributed approximately 88% of the S288C genome. Nearly all of the phenotypic difference between S288C and RM11-1a was reconstituted by introducing the common alleles of these four genes into the S288C background. In addition to the nuclear gene contribution, the source of the mtDNA influenced its stability. These results demonstrate that a few rare genetic variants with individually small effects can have a profound phenotypic effect in combination. Moreover, the polymorphisms identified in this study open new lines of investigation into mtDNA maintenance.
+
+-Amino Acid Sequence
+-Chromosome Mapping
+-DNA, Mitochondrial (-genetics)
+-Genome, Fungal
++Genome, Mitochondrial (-genetics)
+-Genomic Instability (+genetics)
+-Linkage (Genetics)
+-Molecular Sequence Data
+-Organisms, Genetically Modified
+-Phenotype
++Polymorphism, Genetic
+-Quantitative Trait Loci
+-Saccharomyces cerevisiae (+genetics; -growth & development)
+-Sequence Homology
+
+pii:genetics.109.104497
+doi:10.1534/genetics.109.104497
+pubmed:19581448
+pmc:PMC2746160
+

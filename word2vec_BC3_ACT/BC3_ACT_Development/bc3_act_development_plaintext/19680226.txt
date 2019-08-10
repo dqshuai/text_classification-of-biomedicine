@@ -1,0 +1,24 @@
+EMBO J.
+
+The Snf1 kinase and proteasome-associated Rad23 regulate UV-responsive gene expression.
+
+SL Wade, K Poorey, S Bekiranov, DT Auble
+
+The transcriptional response to damaging agents is of fundamental significance for understanding mechanisms responsible for cell survival and genome maintenance. However, how damage signals are transmitted to the transcriptional apparatus is poorly understood. Here we identify two new regulators of the UV response transcriptome: Snf1, a nutrient-sensing kinase, and Rad23, a nucleotide excision repair factor with no previously known function in transcriptional control. Over half of all UV-responsive genes are dependent on Snf1 or Rad23 for proper regulation. After irradiation, Snf1 targets the Mig3 repressor, a new effector of the UV response. Snf1 and Rad23 are both required for the displacement of Mig3 from the UV-activated HUG1 promoter, and Rad23's activity is functionally linked to the proteasome 19S regulatory particle. Our data reveal overlapping functions for Snf1 and Rad23 in UV-responsive transcriptional regulation and provide mechanistic insight into the action of these factors at a UV-activated promoter. These results also highlight how diverse environmental stimuli are processed by a limited repertoire of signalling molecules to result in tailored patterns of gene expression.
+
+-DNA Damage (-radiation effects)
+-DNA-Binding Proteins (-genetics; +metabolism)
+-Enzyme Activation (-radiation effects)
+-Gene Expression Regulation, Fungal (+radiation effects)
+-Proteasome Endopeptidase Complex (-metabolism)
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-Repressor Proteins (-genetics; -metabolism)
+-Saccharomyces cerevisiae (+genetics; -metabolism; +radiation effects)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
++Ultraviolet Rays
+
+pii:emboj2009229
+doi:10.1038/emboj.2009.229
+pubmed:19680226
+pmc:PMC2760106
+

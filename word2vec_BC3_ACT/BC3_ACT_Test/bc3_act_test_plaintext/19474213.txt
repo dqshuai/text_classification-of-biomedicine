@@ -1,0 +1,25 @@
+Plant Physiol.
+
+Fine-tuning of the cytoplasmic Ca2+ concentration is essential for pollen tube growth.
+
+M Iwano, T Entani, H Shiba, M Kakita, T Nagai, H Mizuno, A Miyawaki, T Shoji, K Kubo, A Isogai, S Takayama
+
+Pollen tube growth is crucial for the delivery of sperm cells to the ovule during flowering plant reproduction. Previous in vitro imaging of Lilium longiflorum and Nicotiana tabacum has shown that growing pollen tubes exhibit a tip-focused Ca(2+) concentration ([Ca(2+)]) gradient and regular oscillations of the cytosolic [Ca(2+)] ([Ca(2+)](cyt)) in the tip region. Whether this [Ca(2+)] gradient and/or [Ca(2+)](cyt) oscillations are present as the tube grows through the stigma (in vivo condition), however, is still not clear. We monitored [Ca(2+)](cyt) dynamics in pollen tubes under various conditions using Arabidopsis (Arabidopsis thaliana) and N. tabacum expressing yellow cameleon 3.60, a fluorescent calcium indicator with a large dynamic range. The tip-focused [Ca(2+)](cyt) gradient was always observed in growing pollen tubes. Regular oscillations of the [Ca(2+)](cyt), however, were rarely identified in Arabidopsis or N. tabacum pollen tubes grown under the in vivo condition or in those placed in germination medium just after they had grown through a style (semi-in vivo condition). On the other hand, regular oscillations were observed in vitro in both growing and nongrowing pollen tubes, although the oscillation amplitude was 5-fold greater in the nongrowing pollen tubes compared with growing pollen tubes. These results suggested that a submicromolar [Ca(2+)](cyt) in the tip region is essential for pollen tube growth, whereas a regular [Ca(2+)] oscillation is not. Next, we monitored [Ca(2+)] dynamics in the endoplasmic reticulum ([Ca(2+)](ER)) in relation to Arabidopsis pollen tube growth using yellow cameleon 4.60, which has a lower affinity for Ca(2+) compared with yellow cameleon 3.60. The [Ca(2+)](ER) in pollen tubes grown under the semi-in vivo condition was between 100 and 500 microm. In addition, cyclopiazonic acid, an inhibitor of ER-type Ca(2+)-ATPases, inhibited growth and decreased the [Ca(2+)](ER). Our observations suggest that the ER serves as one of the Ca(2+) stores in the pollen tube and cyclopiazonic acid-sensitive Ca(2+)-ATPases in the ER are required for pollen tube growth.
+
+-Arabidopsis (-drug effects; +growth & development; -metabolism)
+-Calcium (+metabolism)
+-Calcium Channel Blockers (-pharmacology)
+-Calcium-Binding Proteins (-analysis)
+-Chelating Agents (-pharmacology)
+-Cytoplasm (+metabolism)
+-Endoplasmic Reticulum (-metabolism)
+-Flowers (-growth & development; -metabolism)
+-Fluorescent Dyes (-analysis)
+-Pollen Tube (-drug effects; +growth & development; -metabolism)
+-Tobacco (-drug effects; +growth & development; -metabolism)
+
+pii:pp.109.139329
+doi:10.1104/pp.109.139329
+pubmed:19474213
+pmc:PMC2705041
+

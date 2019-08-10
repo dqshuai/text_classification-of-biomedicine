@@ -1,0 +1,30 @@
+J. Cell. Sci.
+
+IQGAP1 regulates cell proliferation through a novel CDC42-mTOR pathway.
+
+JB Wang, R Sonn, YK Tekletsadik, D Samorodnitsky, MA Osman
+
+Cell proliferation requires close coordination of cell growth and division to ensure constant cell size through the division cycles. IQGAP1, an effector of CDC42 GTPase has been implicated in the modulation of cell architecture, regulation of exocytosis and in human cancers. The precise mechanism underlying these activities is unclear. Here, we show that IQGAP1 regulates cell proliferation, which requires phosphorylation of IQGAP1 and binding to CDC42. Expression of the C-terminal region of IQGAP1 enhanced cellular transformation and migration, but reduced the cell size, whereas expression of the N-terminus increased the cell size, but inhibited cell transformation and migration. The N-terminus of IQGAP1 interacts with mTOR, which is required for IQGAP1-mediated cell proliferation. These findings are consistent with a model where IQGAP1 serves as a phosphorylation-sensitive conformation switch to regulate the coupling of cell growth and division through a novel CDC42-mTOR pathway, dysregulation of which generates cellular transformation.
+
+-Animals
+-Cell Cycle (-genetics)
++Cell Proliferation
+-Cytokinesis (-genetics)
+-Hela Cells
+-Humans
+-Mice
+-Models, Biological
+-NIH 3T3 Cells
+-Phosphorylation
+-Protein Binding
+-Protein Kinases (+metabolism; -physiology)
+-Protein Structure, Tertiary (-genetics; -physiology)
+-Signal Transduction (-physiology)
+-cdc42 GTP-Binding Protein (+metabolism; -physiology)
+-ras GTPase-Activating Proteins (-chemistry; -genetics; -metabolism; +physiology)
+
+pii:jcs.044644
+doi:10.1242/jcs.044644
+pubmed:19454477
+pmc:PMC2723156
+

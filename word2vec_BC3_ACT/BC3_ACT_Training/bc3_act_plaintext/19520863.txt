@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+Differential effect of membrane cholesterol removal on mu- and delta-opioid receptors: a parallel comparison of acute and chronic signaling to adenylyl cyclase.
+
+ES Levitt, MJ Clark, PM Jenkins, JR Martens, JR Traynor
+
+According to the lipid raft theory, the plasma membrane contains small domains enriched in cholesterol and sphingolipid, which may serve as platforms to organize membrane proteins. Using methyl-beta-cyclodextrin (MbetaCD) to deplete membrane cholesterol, many G protein-coupled receptors have been shown to depend on putative lipid rafts for proper signaling. Here we examine the hypothesis that treatment of HEK293 cells stably expressing FLAG-tagged mu-opioid receptors (HEK FLAG-mu) or delta-opioid receptors (HEK FLAG-delta) with MbetaCD will reduce opioid receptor signaling to adenylyl cyclase. The ability of the mu-opioid agonist [D-Ala2,N-Me-Phe4,Gly5-ol]enkephalin to acutely inhibit adenylyl cyclase or to cause sensitization of adenylyl cyclase following chronic treatment was attenuated with MbetaCD. These effects were due to removal of cholesterol, because replenishment of cholesterol restored [D-Ala2,N-Me-Phe4,Gly5-ol]enkephalin responses back to control values, and were confirmed in SH-SY5Y cells endogenously expressing mu-opioid receptors. The effects of MbetaCD may be due to uncoupling of the mu receptor from G proteins but were not because of decreases in receptor number and were not mimicked by cytoskeleton disruption. In contrast to the results in HEK FLAG-mu cells, MbetaCD treatment of HEK FLAG-delta cells had no effect on acute inhibition or sensitization of adenylyl cyclase by delta-opioid agonists. The differential responses of mu- and delta-opioid agonists to cholesterol depletion suggest that mu-opioid receptors are more dependent on cholesterol for efficient signaling than delta receptors and can be partly explained by localization of mu- but not delta-opioid receptors in cholesterol- and caveolin-enriched membrane domains.
+
+-Adenylate Cyclase (+metabolism)
+-Caveolins (-chemistry)
+-Cell Line
+-Cell Line, Tumor
+-Cell Membrane (+metabolism)
+-Cholera Toxin (-chemistry)
+-Cholesterol (-chemistry; +metabolism)
+-Cytoskeleton (-metabolism)
+-Humans
+-Models, Biological
+-Protein Structure, Tertiary
+-Receptors, Opioid, delta (+metabolism)
+-Receptors, Opioid, mu (+metabolism)
+-Receptors, Transferrin (-metabolism)
++Signal Transduction
+
+pii:M109.030411
+doi:10.1074/jbc.M109.030411
+pubmed:19520863
+pmc:PMC2755935
+

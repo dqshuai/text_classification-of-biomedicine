@@ -1,0 +1,21 @@
+FEBS J.
+
+A single intersubunit salt bridge affects oligomerization and catalytic activity in a bacterial quinone reductase.
+
+A Binter, N Staunig, I Jelesarov, K Lohner, BA Palfey, S Deller, K Gruber, P Macheroux
+
+YhdA, a thermostable NADPH:FMN oxidoreductase from Bacillus subtilis, reduces quinones via a ping-pong bi-bi mechanism with a pronounced preference for NADPH. The enzyme occurs as a stable tetramer in solution. The two extended dimer surfaces are packed against each other by a 90 rotation of one dimer with respect to the other. This assembly is stabilized by the formation of four salt bridges between K109 and D137 of the neighbouring protomers. To investigate the importance of the ion pair contacts, the K109L and D137L single replacement variants, as well as the K109L/D137L and K109D/D137K double replacement variants, were generated, expressed, purified, crystallized and biochemically characterized. The K109L and D137L variants form dimers instead of tetramers, whereas the K109L/D137L and K109D/D137K variants appear to exist in a dimer-tetramer equilibrium in solution. The crystal structures of the K109L and D137L variants confirm the dimeric state, with the K109L/D137L and K109D/D137K variants adopting a tetrameric assembly. Interestingly, all protein variants show a drastically reduced quinone reductase activity in steady-state kinetics. Detailed analysis of the two half reactions revealed that the oxidative half reaction is not affected, whereas reduction of the bound FMN cofactor by NADPH is virtually abolished. Inspection of the crystal structures indicates that the side chain of K109 plays a dual role by forming a salt bridge to D137, as well as stabilizing a glycine-rich loop in the vicinity of the FMN cofactor. In all protein variants, this glycine-rich loop exhibits a much higher mobility, compared to the wild-type. This appears to be incompatible with NADPH binding and thus leads to abrogation of flavin reduction.
+
+-Bacillus subtilis (+enzymology)
+-Catalysis
+-Crystallization
+-Dimerization
+-Enzyme Stability
+-NAD(P)H Dehydrogenase (Quinone) (+chemistry; -metabolism)
+-Protein Folding
+-Protein Subunits
+
+pii:EJB7222
+doi:10.1111/j.1742-4658.2009.07222.x
+pubmed:19682074
+

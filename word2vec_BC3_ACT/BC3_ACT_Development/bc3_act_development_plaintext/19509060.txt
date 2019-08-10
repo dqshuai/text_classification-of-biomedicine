@@ -1,0 +1,29 @@
+J. Cell. Sci.
+
+Sequential phosphorylation of Nedd1 by Cdk1 and Plk1 is required for targeting of the gammaTuRC to the centrosome.
+
+X Zhang, Q Chen, J Feng, J Hou, F Yang, J Liu, Q Jiang, C Zhang
+
+Nedd1 is a new member of the gamma-tubulin ring complex (gammaTuRC) and targets the gammaTuRC to the centrosomes for microtubule nucleation and spindle assembly in mitosis. Although its role is known, its functional regulation mechanism remains unclear. Here we report that the function of Nedd1 is regulated by Cdk1 and Plk1. During mitosis, Nedd1 is firstly phosphorylated at T550 by Cdk1, which creates a binding site for the polo-box domain of Plk1. Then, Nedd1 is further phosphorylated by Plk1 at four sites: T382, S397, S637 and S426. The sequential phosphorylation of Nedd1 by Cdk1 and Plk1 promotes its interaction with gamma-tubulin for targeting the gammaTuRC to the centrosome and is important for spindle formation. Knockdown of Plk1 by RNAi decreases Nedd1 phosphorylation and attenuates Nedd1 accumulation at the spindle pole and subsequent gamma-tubulin recruitment at the spindle pole for microtubule nucleation. Taken together, we propose that the sequential phosphorylation of Nedd1 by Cdk1 and Plk1 plays a pivotal role in targeting gammaTuRC to the centrosome by promoting the interaction of Nedd1 with the gammaTuRC component gamma-tubulin, during mitosis.
+
+-Amino Acid Sequence
+-CDC2 Protein Kinase (-genetics; +metabolism)
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Centrosome (+metabolism)
+-Hela Cells
+-Humans
+-Microtubule-Associated Proteins (-genetics; +metabolism)
+-Mitotic Spindle Apparatus (-metabolism)
+-Molecular Sequence Data
+-Multiprotein Complexes (+metabolism)
+-Phosphorylation
+-Protein Structure, Tertiary
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-Proto-Oncogene Proteins (-genetics; +metabolism)
+-RNA Interference
+-Tubulin (-chemistry; +metabolism)
+
+pii:jcs.042747
+doi:10.1242/jcs.042747
+pubmed:19509060
+

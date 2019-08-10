@@ -1,0 +1,28 @@
+J. Biol. Chem.
+
+Coordination between polymerase beta and FEN1 can modulate CAG repeat expansion.
+
+Y Liu, R Prasad, WA Beard, EW Hou, JK Horton, CT McMurray, SH Wilson
+
+The oxidized DNA base 8-oxoguanine (8-oxoG) is implicated in neuronal CAG repeat expansion associated with Huntington disease, yet it is unclear how such a DNA base lesion and its repair might cause the expansion. Here, we discovered size-limited expansion of CAG repeats during repair of 8-oxoG in a wild-type mouse cell extract. This expansion was deficient in extracts from cells lacking pol beta and HMGB1. We demonstrate that expansion is mediated through pol beta multinucleotide gap-filling DNA synthesis during long-patch base excision repair. Unexpectedly, FEN1 promotes expansion by facilitating ligation of hairpins formed by strand slippage. This alternate role of FEN1 and the polymerase beta (pol beta) multinucleotide gap-filling synthesis is the result of uncoupling of the usual coordination between pol beta and FEN1. HMGB1 probably promotes expansion by stimulating APE1 and FEN1 in forming single strand breaks and ligatable nicks, respectively. This is the first report illustrating that disruption of pol beta and FEN1 coordination during long-patch BER results in CAG repeat expansion.
+
+-Animals
+-DNA (-genetics; -metabolism)
+-DNA Damage
+-DNA Glycosylases (-genetics; -metabolism)
+-DNA Polymerase beta (-genetics; +metabolism)
+-DNA Repair
+-Fibroblasts (-cytology; -physiology)
+-Flap Endonucleases (-genetics; +metabolism)
+-Guanine (-analogs & derivatives; -chemistry; -metabolism)
+-HMGB1 Protein (-genetics; -metabolism)
+-Humans
+-Mice
+-Mice, Knockout
++Trinucleotide Repeat Expansion
+
+pii:M109.050286
+doi:10.1074/jbc.M109.050286
+pubmed:19674974
+pmc:PMC2788885
+

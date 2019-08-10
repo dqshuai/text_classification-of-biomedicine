@@ -1,0 +1,23 @@
+J. Biol. Chem.
+
+An in trans interaction at the interface of the helicase and primase domains of the hexameric gene 4 protein of bacteriophage T7 modulates their activities.
+
+B Zhu, SJ Lee, CC Richardson
+
+DNA helicase and primase are essential for DNA replication. The helicase unwinds the DNA to provide single-stranded templates for DNA polymerase. The primase catalyzes the synthesis of oligoribonucleotides for the initiation of lagging strand synthesis. The two activities reside in a single polypeptide encoded by gene 4 of bacteriophage T7. Their coexistence within the same polypeptide facilitates their coordination during DNA replication. One surface of helix E within the helicase domain is positioned to interact with the primase domain and the linker connecting the two domains within the functional hexamer. The interaction occurs in trans such that helix E interacts with the primase domain and the linker of the adjacent subunit. Most alterations of residues on the surface of helix E (Arg(404), Lys(408), Tyr(411), and Gly(415)) eliminate the ability of the altered proteins to complement growth of T7 phage lacking gene 4. Both Tyr(411) and Gly(415) are important in oligomerization of the protein. Alterations G415V and K408A simultaneously influence helicase and primase activities in opposite manners that mimic events observed during coordinated DNA synthesis. The results suggest that Asp(263) located in the linker of one subunit can interact with Tyr(411), Lys(408), or Arg(404) in helix E of the adjacent subunit depending on the oligomerization state. Thus the switch in contacts between Asp(263) and its three interacting residues in helix E of the adjacent subunit results in conformational changes that modulate helicase and primase activity.
+
+-Amino Acid Sequence
+-Bacteriophage T7 (-chemistry; +enzymology; -genetics)
+-DNA Helicases (+chemistry; -genetics; +metabolism)
+-DNA Primase (+chemistry; -genetics; +metabolism)
+-DNA Replication
+-Molecular Sequence Data
+-Protein Binding
+-Protein Structure, Tertiary
+-Viral Proteins (+chemistry; -genetics; +metabolism)
+
+pii:M109.026104
+doi:10.1074/jbc.M109.026104
+pubmed:19574219
+pmc:PMC2749156
+

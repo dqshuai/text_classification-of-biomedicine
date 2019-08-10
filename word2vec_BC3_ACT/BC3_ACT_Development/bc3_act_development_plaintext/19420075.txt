@@ -1,0 +1,27 @@
+J. Virol.
+
+The RING domain and the L79 residue of Z protein are involved in both the rescue of nucleocapsids and the incorporation of glycoproteins into infectious chimeric arenavirus-like particles.
+
+JC Casabona, JM Levingston Macleod, ME Loureiro, GA Gomez, N Lopez
+
+Arenaviruses, such as Tacaribe virus (TacV) and its closely related pathogenic Junin virus (JunV), are enveloped viruses with a bipartite negative-sense RNA genome that encodes the nucleocapsid protein (N), the precursor of the envelope glycoprotein complex (GP), the polymerase (L), and a RING finger protein (Z), which is the driving force of arenavirus budding. We have established a plasmid-based system which allowed the successful packaging of TacV-like nucleocapsids along with Z and GP of JunV into infectious virus-like particles (VLPs). By coexpressing different combinations of the system components, followed by biochemical analysis of the VLPs, the requirements for the assembly of both N and GP into particles were defined. We found that coexpression of N with Z protein in the absence of minigenome and other viral proteins was sufficient to recruit N within lipid-enveloped Z-containing VLPs. In addition, whereas GP was not required for the incorporation of N, coexpression of N substantially enhanced the ratio of GP to Z into VLPs. Disruption of the RING structure or mutation of residue L79 to alanine within Z protein, although it had no effect on Z self-budding, severely impaired VLP infectivity. These mutations drastically altered intracellular Z-N interactions and the incorporation of both N and GP into VLPs. Our results support the conclusion that the interaction between Z and N is required for assembly of both the nucleocapsids and the glycoproteins into infectious arenavirus budding particles.
+
+-Amino Acid Sequence
+-Animals
+-Arenaviridae Infections (-metabolism; +virology)
+-Arenaviruses, New World (-chemistry; -genetics; +physiology)
+-Cell Line
+-Glycoproteins (-chemistry; -genetics; +metabolism)
+-Humans
+-Molecular Sequence Data
+-Nucleocapsid (-chemistry; -genetics; +metabolism)
+-RING Finger Domains
+-Sequence Alignment
+-Viral Proteins (+chemistry; -genetics; -metabolism)
++Virus Assembly
+
+pii:JVI.00329-09
+doi:10.1128/JVI.00329-09
+pubmed:19420075
+pmc:PMC2704760
+

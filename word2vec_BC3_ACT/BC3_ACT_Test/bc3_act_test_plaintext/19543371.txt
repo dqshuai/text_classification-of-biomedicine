@@ -1,0 +1,30 @@
+PLoS Genet.
+
+Genetic variation of promoter sequence modulates XBP1 expression and genetic risk for vitiligo.
+
+Y Ren, S Yang, S Xu, M Gao, W Huang, T Gao, Q Fang, C Quan, C Zhang, L Sun, Y Liang, J Han, Z Wang, F Zhang, Y Zhou, J Liu, X Zhang
+
+Our previous genome-wide linkage analysis identified a susceptibility locus for generalized vitiligo on 22q12. To search for susceptibility genes within the locus, we investigated a biological candidate gene, X-box binding protein 1(XBP1). First, we sequenced all the exons, exon-intron boundaries as well as some 5' and 3' flanking sequences of XBP1 in 319 cases and 294 controls of Chinese Hans. Of the 8 common variants identified, the significant association was observed at rs2269577 (p_(trend) = 0.007, OR = 1.36, 95% CI = 1.09-1.71), a putative regulatory polymorphism within the promoter region of XBP1. We then sequenced the variant in an additional 365 cases and 404 controls and found supporting evidence for the association (p_(trend) = 0.008, OR = 1.31, 95% CI = 1.07-1.59). To further validate the association, we genotyped the variant in another independent sample of 1,402 cases and 1,288 controls, including 94 parent-child trios, and confirmed the association by both case-control analysis (p_(trend) = 0.003, OR = 1.18, 95% CI = 1.06-1.32) and the family-based transmission disequilibrium test (TDT, p = 0.005, OR = 1.93, 95% CI = 1.21-3.07). The analysis of the combined 2,086 cases and 1,986 controls provided highly significant evidence for the association (p_(trend) = 2.94x10(-6), OR = 1.23, 95% CI = 1.13-1.35). Furthermore, we also found suggestive epistatic effect between rs2269577 and HLA-DRB1*07 allele on the development of vitiligo (p = 0.033). Our subsequent functional study showed that the risk-associated C allele of rs2269577 had a stronger promoter activity than the non-risk G allele, and there was an elevated expression of XBP1 in the lesional skins of patients carrying the risk-associated C allele. Therefore, our study has demonstrated that the transcriptional modulation of XBP1 expression by a germ-line regulatory polymorphism has an impact on the development of vitiligo.
+
+-Adolescent
+-Adult
+-Case-Control Studies
+-DNA-Binding Proteins (+genetics; -metabolism)
+-Female
++Gene Expression
++Genetic Predisposition to Disease
++Genetic Variation
+-HLA-DR Antigens (-genetics)
+-Humans
+-Male
+-Middle Aged
+-Polymorphism, Single Nucleotide
++Promoter Regions, Genetic
+-Transcription Factors (+genetics; -metabolism)
+-Vitiligo (+genetics; -metabolism)
+-Young Adult
+
+doi:10.1371/journal.pgen.1000523
+pubmed:19543371
+pmc:PMC2689933
+

@@ -1,0 +1,23 @@
+BMC Genomics
+
+Deep sampling of the Palomero maize transcriptome by a high throughput strategy of pyrosequencing.
+
+JC Vega-Arreguín, E Ibarra-Laclette, B Jiménez-Moraila, O Martínez, JP Vielle-Calzada, L Herrera-Estrella, A Herrera-Estrella
+
+BACKGROUND: In-depth sequencing analysis has not been able to determine the overall complexity of transcriptional activity of a plant organ or tissue sample. In some cases, deep parallel sequencing of Expressed Sequence Tags (ESTs), although not yet optimized for the sequencing of cDNAs, has represented an efficient procedure for validating gene prediction and estimating overall gene coverage. This approach could be very valuable for complex plant genomes. In addition, little emphasis has been given to efforts aiming at an estimation of the overall transcriptional universe found in a multicellular organism at a specific developmental stage. RESULTS: To explore, in depth, the transcriptional diversity in an ancient maize landrace, we developed a protocol to optimize the sequencing of cDNAs and performed 4 consecutive GS20-454 pyrosequencing runs of a cDNA library obtained from 2 week-old Palomero Toluqueño maize plants. The protocol reported here allowed obtaining over 90% of informative sequences. These GS20-454 runs generated over 1.5 Million reads, representing the largest amount of sequences reported from a single plant cDNA library. A collection of 367,391 quality-filtered reads (30.09 Mb) from a single run was sufficient to identify transcripts corresponding to 34% of public maize ESTs databases; total sequences generated after 4 filtered runs increased this coverage to 50%. Comparisons of all 1.5 Million reads to the Maize Assembled Genomic Islands (MAGIs) provided evidence for the transcriptional activity of 11% of MAGIs. We estimate that 5.67% (86,069 sequences) do not align with public ESTs or annotated genes, potentially representing new maize transcripts. Following the assembly of 74.4% of the reads in 65,493 contigs, real-time PCR of selected genes confirmed a predicted correlation between the abundance of GS20-454 sequences and corresponding levels of gene expression. CONCLUSION: A protocol was developed that significantly increases the number, length and quality of cDNA reads using massive 454 parallel sequencing. We show that recurrent 454 pyrosequencing of a single cDNA sample is necessary to attain a thorough representation of the transcriptional universe present in maize, that can also be used to estimate transcript abundance of specific genes. This data suggests that the molecular and functional diversity contained in the vast native landraces remains to be explored, and that large-scale transcriptional sequencing of a presumed ancestor of the modern maize varieties represents a valuable approach to characterize the functional diversity of maize for future agricultural and evolutionary studies.
+
+-Chromosome Mapping
+-DNA, Plant (-genetics)
+-Expressed Sequence Tags
+-Gene Expression Profiling (+methods)
+-Gene Library
+-Genes, Plant
+-Genome, Plant
+-Sequence Analysis, DNA (+methods)
+-Zea mays (+genetics)
+
+pii:1471-2164-10-299
+doi:10.1186/1471-2164-10-299
+pubmed:19580677
+pmc:PMC2714558
+

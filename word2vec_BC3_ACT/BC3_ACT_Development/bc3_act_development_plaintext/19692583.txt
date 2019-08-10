@@ -1,0 +1,25 @@
+Nucleic Acids Res.
+
+The role of the conserved phenylalanine in the sigma54-interacting GAFTGA motif of bacterial enhancer binding proteins.
+
+N Zhang, N Joly, PC Burrows, M Jovanovic, SR Wigneshweraraj, M Buck
+
+sigma(54)-dependent transcription requires activation by bacterial enhancer binding proteins (bEBPs). bEBPs are members of the AAA+ (ATPases associated with various cellular activities) protein family and typically form hexameric structures that are crucial for their ATPase activity. The precise mechanism by which the energy derived from ATP hydrolysis is coupled to biological output has several unknowns. Here we use Escherichia coli PspF, a model bEBP involved in the transcription of stress response genes (psp operon), to study determinants of its contact features with the closed promoter complex. We demonstrate that substitution of a highly conserved phenylalanine (F85) residue within the L1 loop GAFTGA motif affects (i) the ATP hydrolysis rate of PspF, demonstrating the link between L1 and the nucleotide binding pocket; (ii) the internal organization of the hexameric ring; and (iii) sigma(54) interactions. Importantly, we provide evidence for a close relationship between F85 and the -12 DNA fork junction structure, which may contribute to key interactions during the energy coupling step and the subsequent remodelling of the Esigma(54) closed complex. The functionality of F85 is distinct from that of other GAFTGA residues, especially T86 where in contrast to F85 a clean uncoupling phenotype is observed.
+
+-Adenosine Triphosphate (-metabolism)
+-Amino Acid Motifs
+-Amino Acid Substitution
+-DNA, Bacterial (-chemistry)
+-Escherichia coli Proteins (+chemistry; -genetics; -metabolism)
+-Phenylalanine (+chemistry)
+-Promoter Regions, Genetic
+-Protein Subunits (-chemistry; -metabolism)
+-RNA Polymerase Sigma 54 (-metabolism)
+-Trans-Activators (+chemistry; -genetics; -metabolism)
++Transcriptional Activation
+
+pii:gkp658
+doi:10.1093/nar/gkp658
+pubmed:19692583
+pmc:PMC2764435
+

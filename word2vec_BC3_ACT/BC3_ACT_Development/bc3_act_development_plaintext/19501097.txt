@@ -1,0 +1,28 @@
+J. Mol. Biol.
+
+Mechanism for attenuation of DNA binding by MarR family transcriptional regulators by small molecule ligands.
+
+IC Perera, YH Lee, SP Wilkinson, A Grove
+
+Members of the multiple antibiotic resistance regulator (MarR) family control gene expression in a variety of metabolic processes in bacteria and archaea. Hypothetical uricase regulator (HucR), which belongs to the ligand-responsive branch of the MarR family, regulates uricase expression in Deinococcus radiodurans by binding a shared promoter region between uricase and HucR genes. We show here that HucR responds only to urate and, to a lesser extent, to xanthine by attenuated DNA binding, compared to other intermediates of purine degradation. Using molecular-dynamics-guided mutational analysis, we identified the ligand-binding site in HucR. Electrophoretic mobility shift assays and intrinsic Trp fluorescence have identified W20 from the N-terminal helix and R80 from helix 3, which serves as a scaffold for the DNA recognition helix, as being essential for ligand binding. Using structural data combined with in silico and in vitro analyses, we propose a mechanism for the attenuation of DNA binding in which a conformational change initiated by charge repulsion due to a bound ligand propagates to DNA recognition helices. This mechanism may apply generally to MarR homologs that bind anionic phenolic ligands.
+
+-Bacterial Proteins (-antagonists & inhibitors; +metabolism)
+-Binding Sites
+-DNA, Bacterial (+metabolism)
+-Deinococcus (+genetics; +metabolism)
++Gene Expression Regulation, Bacterial (-drug effects)
+-Kinetics
+-Ligands
+-Models, Molecular
+-Mutant Proteins (-metabolism)
+-Operator Regions, Genetic (-genetics)
+-Protein Binding (-drug effects)
+-Protein Structure, Secondary
++Transcription, Genetic (-drug effects)
+-Uric Acid (-chemistry; -pharmacology)
+-Xanthine (-chemistry; -pharmacology)
+
+pii:S0022-2836(09)00679-2
+doi:10.1016/j.jmb.2009.06.002
+pubmed:19501097
+

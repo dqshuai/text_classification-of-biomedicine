@@ -1,0 +1,29 @@
+RNA
+
+The Thermus thermophilus DEAD box helicase Hera contains a modified RNA recognition motif domain loosely connected to the helicase core.
+
+MG Rudolph, D Klostermeier
+
+DEAD box family helicases consist of a helicase core that is formed by two flexibly linked RecA-like domains. The helicase activity can be regulated by N- or C-terminal extensions flanking the core. Thermus thermophilus heat resistant RNA-dependent ATPase (Hera) is the first DEAD box helicase that forms a dimer using a unique dimerization domain. In addition to the dimerization domain, Hera contains a C-terminal RNA binding domain (RBD) that shares sequence homology only to uncharacterized proteins of the Deinococcus/Thermus group. The crystal structure of Hera_RBD reveals the fold of an altered RNA recognition motif (RRM) with limited structural homology to the RBD of the DEAD box helicase YxiN from Bacillus subtilis. Comparison with RRM/RNA complexes shows that a RNA binding mode different than that suggested for YxiN, but similar to U1A, can be inferred for Hera. The orientation of the RBD relative to the helicase core was defined in a second crystal structure of a Hera fragment including the C-terminal RecA domain, the dimerization domain, and the RBD. The structures allow construction of a model for the entire Hera helicase dimer. A likely binding surface for large RNA substrates that spans both RecA-like domains and the RBD is identified.
+
+-Amino Acid Sequence
+-Crystallography, X-Ray
+-DEAD-box RNA Helicases (+chemistry; +metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-Protein Binding
+-Protein Multimerization
+-Protein Structure, Quaternary
+-Protein Structure, Tertiary
+-RNA (+chemistry; +metabolism)
+-Sequence Alignment
+-Structural Homology, Protein
+-Substrate Specificity
+-Thermus thermophilus (+enzymology)
+
+pii:rna.1820009
+doi:10.1261/rna.1820009
+pubmed:19710183
+pmc:PMC2764482
+

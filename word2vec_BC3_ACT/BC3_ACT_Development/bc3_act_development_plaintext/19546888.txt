@@ -1,0 +1,33 @@
+Cell Res.
+
+Cbl negatively regulates JNK activation and cell death.
+
+AA Sproul, Z Xu, M Wilhelm, S Gire, LA Greene
+
+Here, we explore the role of Cbl proteins in regulation of neuronal apoptosis. In two paradigms of neuron apoptosis - nerve growth factor (NGF) deprivation and DNA damage - cellular levels of c-Cbl and Cbl-b fell well before the onset of cell death. NGF deprivation also induced rapid loss of tyrosine phosphorylation (and most likely, activation) of c-Cbl. Targeting c-Cbl and Cbl-b with siRNAs to mimic their loss/inactivation sensitized neuronal cells to death promoted by NGF deprivation or DNA damage. One potential mechanism by which Cbl proteins might affect neuronal death is by regulation of apoptotic c-Jun N-terminal kinase (JNK) signaling. We demonstrate that Cbl proteins interact with the JNK pathway components mixed lineage kinase (MLK) 3 and POSH and that knockdown of Cbl proteins is sufficient to increase JNK pathway activity. Furthermore, expression of c-Cbl blocks the ability of MLKs to signal to downstream components of the kinase cascade leading to JNK activation and protects neuronal cells from death induced by MLKs, but not from downstream JNK activators. On the basis of these findings, we propose that Cbls suppress cell death in healthy neurons at least in part by inhibiting the ability of MLKs to activate JNK signaling. Apoptotic stimuli lead to loss of Cbl protein/activity, thereby removing a critical brake on JNK activation and on cell death.
+
+-Adaptor Proteins, Signal Transducing (-genetics; +metabolism)
+-Animals
++Apoptosis
+-Cell Line, Tumor
+-DNA Damage
+-Humans
+-JNK Mitogen-Activated Protein Kinases (+metabolism)
+-Jurkat Cells
+-MAP Kinase Kinase Kinases (-metabolism)
+-Nerve Growth Factor (-metabolism)
+-Neurons (+enzymology; -metabolism)
+-PC12 Cells
+-Phosphorylation
+-Proto-Oncogene Proteins c-cbl (-genetics; +metabolism)
+-RNA Interference
+-RNA, Small Interfering (-metabolism)
+-Rats
+-Signal Transduction
+
+pii:cr200974
+doi:10.1038/cr.2009.74
+pubmed:19546888
+mid:NIHMS99096
+pmc:PMC2739106
+

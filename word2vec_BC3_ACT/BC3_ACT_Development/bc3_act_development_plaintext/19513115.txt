@@ -1,0 +1,31 @@
+PLoS ONE
+
+Functional analysis of the VirSR phosphorelay from Clostridium perfringens.
+
+JK Cheung, MM Awad, S McGowan, JI Rood
+
+Toxin production in Clostridium perfringens is controlled by the VirSR two-component signal transduction system, which comprises the VirS sensor histidine kinase and the VirR response regulator. Other studies have concentrated on the elucidation of the genes controlled by this network; there is little information regarding the phosphorelay cascade that is the hallmark of such regulatory systems. In this study, we have examined each step in this cascade, beginning with autophosphorylation of VirS, followed by phosphotransfer from VirS to VirR. We also have studied the effects of gene dosage and phosphorylation in vivo. We have used random and site-directed mutagenesis to identify residues in VirS that are important for its function and have identified a region in the putative sensory domain of VirS that appeared to be essential for function. In vitro phosphorylation studies showed that VirSc, a truncated VirS protein that lacked the N-terminal sensory domain, was capable of autophosphorylation and could subsequently act as a phosphodonor for its cognate response regulator, VirR. Conserved residues of both VirS and VirR, including the D57 residue of VirR, were shown to be essential for this process. By use of Targetron technology, we were able to introduce a single copy of virR or virR(D57N) onto the chromosome of a virR mutant of C. perfringens. The results showed that in vivo, when virR was present in single copy, the production of wild-type levels of perfringolysin O was dependent on the presence of virS and an unaltered D57 residue in VirR. These results provide good evidence that phosphorylation is critical for VirR function.
+
+-Bacterial Proteins (-genetics; +physiology)
+-Bacterial Toxins (-chemistry)
+-Chromosomes, Bacterial (-ultrastructure)
+-Clostridium perfringens (-genetics; +metabolism)
+-Conserved Sequence
+-Gene Dosage
++Gene Expression Regulation, Bacterial
+-Hemolysin Proteins (-chemistry)
+-Models, Biological
+-Mutagenesis
+-Mutagenesis, Site-Directed
+-Mutation
+-Phosphorylation
+-Plasmids (-metabolism)
+-Protein Kinases (-genetics; +physiology)
+-Protein Structure, Tertiary
+-Reverse Transcriptase Polymerase Chain Reaction
+-Trans-Activators (-genetics; +physiology)
+
+doi:10.1371/journal.pone.0005849
+pubmed:19513115
+pmc:PMC2688746
+

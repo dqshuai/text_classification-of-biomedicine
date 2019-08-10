@@ -1,0 +1,29 @@
+J. Virol.
+
+Kaposi's sarcoma-associated herpesvirus encodes a viral deubiquitinase.
+
+CM González, L Wang, B Damania
+
+Kaposi's sarcoma-associated herpesvirus (KSHV) is etiologically linked to Kaposi's sarcoma, primary effusion lymphomas, and multicentric Castleman's disease. Like other herpesviruses, KSHV can exist in either a lytic or a latent phase during its life cycle. We report that the lytic protein encoded by KSHV open reading frame 64 (Orf64) is a viral deubiquitinase (DUB) enzyme capable of deubiquitinating cellular proteins in vitro and in vivo. Orf64 DUB activity is effective against lysine 48 (K48)- and lysine 63 (K63)-linked ubiquitin chains. Thus, KSHV Orf64 is a viral DUB that does not show specificity toward K48 or K63 ubiquitin linkages. Orf64 DUB activity lies within the first 205 residues of the protein, and deubiquitination is dependent on a cysteine at position 29, since mutation of this residue ablated this activity. Cell fractionation studies revealed that the N terminus and the full-length protein localized to both the nuclear and cytoplasmic compartments. The function of Orf64 was tested by short interfering RNA (siRNA) knockdown studies on latently infected cells that were induced into lytic replication. We found that depletion of Orf64 by siRNA resulted in decreased viral lytic transcription and lytic protein expression. These experiments indicate that Orf64 plays a role in KSHV lytic replication.
+
+-Amino Acid Sequence
+-Cell Nucleus (-metabolism)
+-Cysteine (-genetics)
+-Cytoplasm (-metabolism)
+-Hela Cells
+-Herpesvirus 8, Human (+enzymology; -genetics)
+-Humans
+-Molecular Sequence Data
+-Open Reading Frames
+-Protein Structure, Tertiary
+-RNA, Small Interfering (-metabolism)
+-Sequence Homology, Amino Acid
+-Subcellular Fractions (-metabolism)
+-Ubiquitin (+chemistry)
+-Virus Replication
+
+pii:JVI.00589-09
+doi:10.1128/JVI.00589-09
+pubmed:19640989
+pmc:PMC2748038
+

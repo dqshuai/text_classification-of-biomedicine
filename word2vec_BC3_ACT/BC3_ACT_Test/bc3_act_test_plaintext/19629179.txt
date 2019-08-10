@@ -1,0 +1,18 @@
+PLoS ONE
+
+A spike-timing pattern based neural network model for the study of memory dynamics.
+
+JK Liu, ZS She
+
+It is well accepted that the brain's computation relies on spatiotemporal activity of neural networks. In particular, there is growing evidence of the importance of continuously and precisely timed spiking activity. Therefore, it is important to characterize memory states in terms of spike-timing patterns that give both reliable memory of firing activities and precise memory of firing timings. The relationship between memory states and spike-timing patterns has been studied empirically with large-scale recording of neuron population in recent years. Here, by using a recurrent neural network model with dynamics at two time scales, we construct a dynamical memory network model which embeds both fast neural and synaptic variation and slow learning dynamics. A state vector is proposed to describe memory states in terms of spike-timing patterns of neural population, and a distance measure of state vector is defined to study several important phenomena of memory dynamics: partial memory recall, learning efficiency, learning with correlated stimuli. We show that the distance measure can capture the timing difference of memory states. In addition, we examine the influence of network topology on learning ability, and show that local connections can increase the network's ability to embed more memory states. Together theses results suggest that the proposed system based on spike-timing patterns gives a productive model for the study of detailed learning and memory dynamics.
+
++Action Potentials
+-Homeostasis
++Memory
++Models, Biological
++Nerve Net
+
+doi:10.1371/journal.pone.0006247
+pubmed:19629179
+pmc:PMC2710501
+

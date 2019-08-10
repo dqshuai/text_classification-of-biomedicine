@@ -1,0 +1,31 @@
+DNA Repair (Amst.)
+
+DNA lesions sequestered in micronuclei induce a local defective-damage response.
+
+M Terradas, M Martín, L Tusell, A Genescà
+
+Micronuclei are good markers of chromosome instability and, among other disturbances, are closely related to double-strand break induction. The ability of DNA lesions sequestered in the micronuclear bodies to activate the complex damage-signalling network is highly controversial since some repair factors have not been consistently detected inside micronuclei. In order to better understand the efficiency of the response induced by micronuclear DNA damage, we have analyzed the presence of DNA damage-response factors and DNA degradation markers in these structures. Radiation-induced DNA double-strand breaks produce a modification of chromatin structural proteins, such as the H2AX histone, which is rapidly phosphorylated around the break site. Strikingly, we have been able to distinguish two different phosphoH2AX (gammaH2AX) labelling patterns in micronuclei: discrete foci, indicating DSB presence, and uniform labelling affecting the whole micronucleus, pointing to genomic DNA fragmentation. At early post-irradiation times we observed a high fraction of micronuclei displaying gammaH2AX foci. Co-localization experiments showed that only a small fraction of the DSBs in micronuclei were able to properly recruit the p53 binding protein 1 (53BP1) and the meiotic recombination 11 (MRE11). We suggest that trafficking defects through the micronuclear envelope compromise the recruitment of DNA damage-response factors. In contrast to micronuclei displaying gammaH2AX foci, we observed that micronuclei showing a gammaH2AX extensive-uniform labelling were more frequently observed at substantial post-irradiation times. By means of TUNEL assay, we proved that DNA degradation was carried out inside these micronuclei. Given this scenario, we propose that micronuclei carrying a non-repaired DSB are conduced to their elimination, thus favouring chromosome instability in terms of allele loss.
+
+-Animals
+-Cell Line
+-Cell Proliferation (-radiation effects)
+-Chromatin (-metabolism)
+-DNA (+genetics)
+-DNA Breaks, Double-Stranded (-radiation effects)
++DNA Damage
+-DNA Fragmentation (-radiation effects)
+-DNA Repair Enzymes (-metabolism)
+-DNA-Binding Proteins (-metabolism)
+-Fibroblasts (-cytology; -metabolism; -radiation effects)
+-Histones (-metabolism)
+-Humans
+-Intracellular Signaling Peptides and Proteins (-metabolism)
+-Mice
++Micronuclei, Chromosome-Defective (-radiation effects)
+-Protein Transport
+-Staining and Labeling
+
+pii:S1568-7864(09)00185-2
+doi:10.1016/j.dnarep.2009.07.004
+pubmed:19683478
+

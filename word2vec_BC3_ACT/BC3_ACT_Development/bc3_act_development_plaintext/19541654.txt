@@ -1,0 +1,27 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Structural and kinetic modeling of an activating helix switch in the rhodopsin-transducin interface.
+
+P Scheerer, M Heck, A Goede, JH Park, HW Choe, OP Ernst, KP Hofmann, PW Hildebrand
+
+Extracellular signals prompt G protein-coupled receptors (GPCRs) to adopt an active conformation (R*) and catalyze GDP/GTP exchange in the alpha-subunit of intracellular G proteins (Galphabetagamma). Kinetic analysis of transducin (G(t)alphabetagamma) activation shows that an intermediary R*xG(t)alphabetagamma.GDP complex is formed that precedes GDP release and formation of the nucleotide-free R*xG protein complex. Based on this reaction sequence, we explore the dynamic interface between the proteins during formation of these complexes. We start from the R* conformation stabilized by a G(t)alpha C-terminal peptide (GalphaCT) obtained from crystal structures of the GPCR opsin. Molecular modeling allows reconstruction of the fully elongated C-terminal alpha-helix of G(t)alpha (alpha5) and shows how alpha5 can be docked to the open binding site of R*. Two modes of interaction are found. One of them--termed stable or S-interaction--matches the position of the GalphaCT peptide in the crystal structure and reproduces the hydrogen-bonding networks between the C-terminal reverse turn of GalphaCT and conserved E(D)RY and NPxxY(x)(5,6)F regions of the GPCR. The alternative fit--termed intermediary or I-interaction--is distinguished by a tilt (42 degrees ) and rotation (90 degrees ) of alpha5 relative to the S-interaction and shows different alpha5 contacts with the NPxxY(x)(5,6)F region and the second cytoplasmic loop of R*. From the 2 alpha5 interactions, we derive a "helix switch" mechanism for the transition of R*xG(t)alphabetagamma.GDP to the nucleotide-free R*xG protein complex that illustrates how alpha5 might act as a transmission rod to propagate the conformational change from the receptor-G protein interface to the nucleotide binding site.
+
+-Algorithms
+-Binding Sites
+-Guanosine Diphosphate (-chemistry; -metabolism)
+-Guanosine Triphosphate (-chemistry; -metabolism)
+-Kinetics
++Models, Chemical
++Models, Molecular
+-Protein Binding
+-Protein Conformation
+-Protein Structure, Secondary
+-Protein Structure, Tertiary
+-Rhodopsin (+chemistry; -metabolism)
+-Transducin (+chemistry; -metabolism)
+
+pii:0900072106
+doi:10.1073/pnas.0900072106
+pubmed:19541654
+pmc:PMC2705592
+

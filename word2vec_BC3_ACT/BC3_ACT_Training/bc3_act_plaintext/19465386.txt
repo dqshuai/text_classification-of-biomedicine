@@ -1,0 +1,22 @@
+Nucleic Acids Res.
+
+COPS--a novel workbench for explorations in fold space.
+
+SJ Suhrer, M Wiederstein, M Gruber, MJ Sippl
+
+The COPS (Classification Of Protein Structures) web server provides access to the complete repertoire of known protein structures and protein structural domains. The COPS classification encodes pairwise structural similarities as quantified metric relationships. The resulting metrical structure is mapped to a hierarchical tree, which is largely equivalent to the structure of a file browser. Exploiting this relationship we implemented the Fold Space Navigator, a tool that makes navigation in fold space as convenient as browsing through a file system. Moreover, pairwise structural similarities among the domains can be visualized and inspected instantaneously. COPS is updated weekly and stays concurrent with the PDB repository. The server also exposes the COPS classification pipeline. Newly determined structures uploaded to the server are chopped into domains, the locations of the new domains in the classification tree are determined, and their neighborhood can be immediately explored through the Fold Space Navigator. The COPS web server is accessible at http://cops.services.came.sbg.ac.at/.
+
+-Databases, Protein
+-Internet
+-Models, Molecular
+-Protein Folding
++Protein Structure, Tertiary
+-Proteins (-classification)
++Software
+-User-Computer Interface
+
+pii:gkp411
+doi:10.1093/nar/gkp411
+pubmed:19465386
+pmc:PMC2703906
+

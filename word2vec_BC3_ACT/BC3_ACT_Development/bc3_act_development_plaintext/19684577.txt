@@ -1,0 +1,21 @@
+Nat. Cell Biol.
+
+A Dam1-based artificial kinetochore is sufficient to promote chromosome segregation in budding yeast.
+
+E Kiermaier, S Woehrer, Y Peng, K Mechtler, S Westermann
+
+Kinetochores are large multiprotein complexes that mediate chromosome segregation in all eukaryotes by dynamically connecting specialized chromosome regions, termed centromeres, to the plus-ends of spindle microtubules. Even the relatively simple kinetochores of the budding yeast Saccharomyces cerevisiae consist of more than 80 proteins, making analysis of their respective roles a daunting task. Here, we have developed a system that allows us to artificially recruit proteins to DNA sequences and determine whether they can provide any aspect of kinetochore function in vivo. We show that artificial recruitment of the microtubule-binding Dam1 complex to a plasmid lacking any centromere DNA is sufficient to confer mitotic stabilization. The Dam1-based artificial kinetochores are able to attach, bi-orient and segregate mini-chromosomes on the mitotic spindle, and they bypass the requirement for essential DNA-binding components of natural kinetochores. Thus, we have built a simplified chromosome segregation system by directly recruiting a microtubule force-transducing component to DNA.
+
+-Cell Cycle Proteins (+metabolism)
++Chromosome Segregation
+-Chromosomes, Fungal (-metabolism)
+-Kinetochores (+metabolism)
+-Microtubule-Associated Proteins (+metabolism)
+-Repressor Proteins (-metabolism)
+-Saccharomyces cerevisiae (-cytology; +metabolism)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+
+pii:ncb1924
+doi:10.1038/ncb1924
+pubmed:19684577
+

@@ -1,0 +1,23 @@
+Genes Dev.
+
+Cell contact-dependent acquisition of cellular and viral nonautonomously encoded small RNAs.
+
+O Rechavi, Y Erlich, H Amram, L Flomenblit, FV Karginov, I Goldstein, GJ Hannon, Y Kloog
+
+In some organisms, small RNA pathways can act nonautonomously, with responses spreading from cell to cell. Dedicated intercellular RNA delivery pathways have not yet been characterized in mammals, although secretory compartments have been found to contain RNA. Here we show that, upon cell contact, T cells acquire from B cells small RNAs that can impact the expression of target genes in the recipient T cells. Synthetic microRNA (miRNA) mimetics, viral miRNAs expressed by infected B cells, and endogenous miRNAs could all be transferred into T cells. These mechanisms may allow small RNA-mediated communication between immune cells. The documented transfer of viral miRNAs raises the possible exploitation of these pathways for viral manipulation of the host immune response.
+
+-B-Lymphocytes (+metabolism)
++Cell Communication
+-Cells, Cultured
++Gene Expression Regulation
+-Humans
+-Jurkat Cells
+-MicroRNAs (+metabolism)
+-RNA, Viral (+metabolism)
+-T-Lymphocytes (+metabolism)
+
+pii:23/16/1971
+doi:10.1101/gad.1789609
+pubmed:19684116
+pmc:PMC2725935
+

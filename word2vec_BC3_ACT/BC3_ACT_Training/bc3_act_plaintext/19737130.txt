@@ -1,0 +1,24 @@
+BioTechniques
+
+A new outlier removal approach for cDNA microarray normalization.
+
+Y Wu, L Yan, H Liu, H Sun, H Xie
+
+Normalization is a critical step in the analysis of microarray gene expression data. For dual-labeled array, traditional normalization methods assume that the majority of genes are non-differentially expressed and that the number of overexpressed genes approximately equals the number of under-expressed genes. However, these assumptions are inappropriate in some particular conditions. Differentially expressed genes have a negative impact on normalization and are regarded as outliers in statistics. We propose a new outlier removal-based normalization method. Simulated and real data sets were analyzed, and our results demonstrate that our approach can significantly improve the precision of normalization by eliminating the impact of outliers, and efficiently identify candidates for differential expression.
+
++Algorithms
++Artifacts
+-Computer Simulation
+-Data Interpretation, Statistical
+-Gene Expression Profiling (+methods; +standards)
++Models, Genetic
+-Models, Statistical
+-Oligonucleotide Array Sequence Analysis (+methods; +standards)
+-Reference Values
+-Reproducibility of Results
+-Sensitivity and Specificity
+
+pii:000113195
+doi:10.2144/000113195
+pubmed:19737130
+

@@ -1,0 +1,32 @@
+PLoS Pathog.
+
+Structure and function of A41, a vaccinia virus chemokine binding protein.
+
+MW Bahar, JC Kenyon, MM Putz, NG Abrescia, JE Pease, EL Wise, DI Stuart, GL Smith, JM Grimes
+
+The vaccinia virus (VACV) A41L gene encodes a secreted 30 kDa glycoprotein that is nonessential for virus replication but affects the host response to infection. The A41 protein shares sequence similarity with another VACV protein that binds CC chemokines (called vCKBP, or viral CC chemokine inhibitor, vCCI), and strains of VACV lacking the A41L gene induced stronger CD8+ T-cell responses than control viruses expressing A41. Using surface plasmon resonance, we screened 39 human and murine chemokines and identified CCL21, CCL25, CCL26 and CCL28 as A41 ligands, with Kds of between 8 nM and 118 nM. Nonetheless, A41 was ineffective at inhibiting chemotaxis induced by these chemokines, indicating it did not block the interaction of these chemokines with their receptors. However the interaction of A41 and chemokines was inhibited in a dose-dependent manner by heparin, suggesting that A41 and heparin bind to overlapping sites on these chemokines. To better understand the mechanism of action of A41 its crystal structure was solved to 1.9 A resolution. The protein has a globular beta sandwich structure similar to that of the poxvirus vCCI family of proteins, but there are notable structural differences, particularly in surface loops and electrostatic charge distribution. Structural modelling suggests that the binding paradigm as defined for the vCCI-chemokine interaction is likely to be conserved between A41 and its chemokine partners. Additionally, sequence analysis of chemokines binding to A41 identified a signature for A41 binding. The biological and structural data suggest that A41 functions by forming moderately strong (nM) interactions with certain chemokines, sufficient to interfere with chemokine-glycosaminoglycan interactions at the cell surface (microM-nM) and thereby to destroy the chemokine concentration gradient, but not strong enough to disrupt the (pM) chemokine-chemokine receptor interactions.
+
+-Amino Acid Sequence
+-Animals
+-CD8-Positive T-Lymphocytes (-metabolism)
+-Chemokines, CC (+metabolism)
+-Chemotaxis (-immunology)
+-Crystallization
+-Glycosaminoglycans (-metabolism)
+-Heparin (-pharmacology)
+-Humans
+-Leukocytes (-cytology; -immunology)
+-Mice
+-Models, Biological
+-Molecular Sequence Data
+-Protein Binding (-physiology)
+-Protein Conformation
+-Structure-Activity Relationship
+-Vaccinia virus (+chemistry)
+-Viral Proteins (+chemistry; +metabolism)
+
+pii:07-PLPA-RA-0561
+doi:10.1371/journal.ppat.0040005
+pubmed:18208323
+pmc:PMC2211551
+

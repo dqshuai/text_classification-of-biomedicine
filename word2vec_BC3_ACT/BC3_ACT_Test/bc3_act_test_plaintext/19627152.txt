@@ -1,0 +1,18 @@
+J. Am. Chem. Soc.
+
+Measurement of methyl axis orientations in invisible, excited states of proteins by relaxation dispersion NMR spectroscopy.
+
+AJ Baldwin, DF Hansen, P Vallurupalli, LE Kay
+
+Few detailed studies of transiently populated conformations of biological molecules have emerged despite the fact that such states are often important to processes such as protein folding, enzyme catalysis, molecular recognition and binding. A major limitation has been the lack of experimental tools to study these often invisible, short-lived conformers. Recent advances in relaxation dispersion NMR spectroscopy are changing this paradigm with the potential to generate high resolution structural information which is necessary for a rigorous characterization of these states. In this study, we present an experimental method for establishing the relative orientations of methyl groups in invisible, excited states of proteins by measuring methyl (1)H-(13)C residual dipolar couplings (RDCs). In our approach, four two-dimensional spectra are acquired at a pair of static magnetic fields. Each spectrum contains one of the four isolated multiplet components of a coupled methyl carbon, whose signal intensities, modulated by the pulsing frequency of a Carr-Purcell-Meiboom-Gill (CPMG) element, are sensitive to both chemical shift and RDC differences between exchanging states. In addition, data sets from a CPMG experiment which monitors the decay of in-phase methyl (13)C magnetization are recorded, that are sensitive only to the differences in chemical shifts between the states. Using our methodology, RDC values obtained from an invisible state in an exchanging system are shown to be in good agreement with the corresponding values measured under conditions where the invisible state is stabilized to become the highly populated ground state. The approach allows the measurement of anisotropic restraints at methyl positions in excited states and complements previously developed experiments focusing on the protein backbone.
+
+-Magnetic Resonance Spectroscopy
+-Microfilament Proteins (-chemistry)
+-Proteins (+chemistry)
+-Reproducibility of Results
+-Saccharomyces cerevisiae Proteins (-chemistry)
+-src Homology Domains
+
+doi:10.1021/ja903896p
+pubmed:19627152
+

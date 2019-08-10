@@ -1,0 +1,40 @@
+Cell
+
+Hzf Determines cell survival upon genotoxic stress by modulating p53 transactivation.
+
+S Das, L Raj, B Zhao, Y Kimura, A Bernstein, SA Aaronson, SW Lee
+
+A critical unresolved issue about the genotoxic stress response is how the resulting activation of the p53 tumor suppressor can lead either to cell-cycle arrest and DNA repair or to apoptosis. We show here that hematopoietic zinc finger (Hzf), a zinc-finger-containing p53 target gene, modulates p53 transactivation functions in an autoregulatory feedback loop. Hzf is induced by p53 and binds to its DNA-binding domain, resulting in preferential transactivation of proarrest p53 target genes over its proapoptotic target genes. Thus, p53 activation results in cell-cycle arrest in Hzf wild-type MEFs, while in Hzf(-/-) MEFs, apoptosis is induced. Exposure of Hzf null mice to ionizing radiation resulted in enhanced apoptosis in several organs, as compared to in wild-type mice. These findings provide novel insights into the regulation of p53 transactivation function and suggest that Hzf functions as a key player in regulating cell fate decisions in response to genotoxic stress.
+
+-Animals
+-Apoptosis (-genetics; -radiation effects)
+-Cell Culture Techniques
+-Cell Line, Tumor
+-Cell Survival
++DNA Damage
+-Feedback, Physiological
+-Female
+-Gamma Rays
+-Glutathione Transferase (-metabolism)
+-HCT116 Cells
+-Humans
+-Immunohistochemistry
+-Male
+-Mice
+-Models, Biological
+-Osteosarcoma (-pathology)
+-Prostatic Neoplasms (-pathology)
+-Proteins (-genetics; +metabolism)
+-RNA, Small Interfering
+-Recombinant Proteins (-metabolism)
++Transcriptional Activation
+-Tumor Suppressor Protein p53 (-genetics; +metabolism)
+-Two-Hybrid System Techniques
+-Whole-Body Irradiation
+
+pii:S0092-8674(07)00779-9
+doi:10.1016/j.cell.2007.06.013
+pubmed:17719541
+mid:NIHMS29628
+pmc:PMC2779720
+

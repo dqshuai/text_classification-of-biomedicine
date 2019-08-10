@@ -1,0 +1,29 @@
+J. Bacteriol.
+
+Downregulation of the Escherichia coli guaB promoter by upstream-bound cyclic AMP receptor protein.
+
+SI Husnain, SJ Busby, MS Thomas
+
+The Escherichia coli guaB promoter (P(guaB)) is responsible for directing transcription of the guaB and guaA genes, which specify the biosynthesis of the nucleotide GMP. P(guaB) is subject to growth rate-dependent control (GRDC) and possesses an UP element that is required for this regulation. In addition, P(guaB) contains a discriminator, three binding sites for the nucleoid-associated protein FIS, and putative binding sites for the regulatory proteins DnaA, PurR, and cyclic AMP receptor protein (CRP). Here we show that the CRP-cyclic AMP (cAMP) complex binds to a site located over 100 bp upstream of the guaB transcription start site, where it serves to downregulate P(guaB). The CRP-mediated repression of P(guaB) activity increases in media that support lower growth rates. Inactivation of the crp or cyaA gene or ablation/translocation of the CRP site relieves repression by CRP and results in a loss of GRDC of P(guaB). Thus, GRDC of P(guaB) involves a progressive increase in CRP-mediated repression of the promoter as the growth rate decreases. Our results also suggest that the CRP-cAMP complex does not direct GRDC at P(guaB) and that at least one other regulatory factor is required for conferring GRDC on this promoter. However, PurR and DnaA are not required for this regulatory mechanism.
+
+-Base Sequence
+-Blotting, Western
+-Cyclic AMP (-metabolism; -pharmacology)
+-Cyclic AMP Receptor Protein (-genetics; -metabolism; +physiology)
+-DNA Footprinting
+-Down-Regulation
+-Electrophoresis, Polyacrylamide Gel
+-Electrophoretic Mobility Shift Assay
+-Escherichia coli (+genetics; -growth & development; +metabolism)
+-Escherichia coli Proteins (+genetics; +metabolism; -physiology)
+-Gene Expression Regulation, Bacterial (-drug effects; -genetics; -physiology)
+-Molecular Sequence Data
+-Promoter Regions, Genetic (+genetics)
+-Protein Binding
+-Repressor Proteins (-genetics; -metabolism; -physiology)
+
+pii:JB.00672-09
+doi:10.1128/JB.00672-09
+pubmed:19633076
+pmc:PMC2747903
+

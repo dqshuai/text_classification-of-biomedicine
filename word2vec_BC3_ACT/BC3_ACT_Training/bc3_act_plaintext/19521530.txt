@@ -1,0 +1,27 @@
+PLoS ONE
+
+Functional equivalency inferred from "authoritative sources" in networks of homologous proteins.
+
+S Natarajan, E Jakobsson
+
+A one-on-one mapping of protein functionality across different species is a critical component of comparative analysis. This paper presents a heuristic algorithm for discovering the Most Likely Functional Counterparts (MoLFunCs) of a protein, based on simple concepts from network theory. A key feature of our algorithm is utilization of the user's knowledge to assign high confidence to selected functional identification. We show use of the algorithm to retrieve functional equivalents for 7 membrane proteins, from an exploration of almost 40 genomes form multiple online resources. We verify the functional equivalency of our dataset through a series of tests that include sequence, structure and function comparisons. Comparison is made to the OMA methodology, which also identifies one-on-one mapping between proteins from different species. Based on that comparison, we believe that incorporation of user's knowledge as a key aspect of the technique adds value to purely statistical formal methods.
+
+-Algorithms
+-Amino Acid Motifs
+-Animals
+-Computational Biology (-methods)
+-Databases, Genetic
+-Databases, Protein
+-Genome
+-Internet
+-Kv1.2 Potassium Channel (-chemistry)
+-Models, Statistical
+-Protein Interaction Mapping (+methods)
+-Proteins (+chemistry)
+-Proteomics (+methods)
+-Rats
+
+doi:10.1371/journal.pone.0005898
+pubmed:19521530
+pmc:PMC2690840
+

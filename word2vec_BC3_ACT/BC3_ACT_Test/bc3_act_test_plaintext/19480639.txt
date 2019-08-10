@@ -1,0 +1,22 @@
+BioTechniques
+
+Positive-selection vector for direct protein expression.
+
+AF Haag, C Ostermeier
+
+We describe the development of a novel positive-selection vector, RHP-AmpS, that is suitable for seamless cloning and high-level protein expression in Escherichia coli. In this vector, beta-lactamase (Bla) was rendered nonfunctional by replacing the codon for the C-terminal amino acid of the beta-lactamase gene (bla) with a stop codon. Insertion of a target gene in the correct orientation (tail to tail) results in the reconstruction of the C-terminal codon (W290) of bla. This restores the function of the gene and allows the selection of positive recombinants on agar plates containing ampicillin. To allow a high level of protein expression, this selection cassette was inserted into the T7 polymerase-based expression cassette of the Novagen pET28a expression vector. To our knowledge, this is the first example of true positive-selection cloning and direct, high-level expression from a single vector.
+
+-Ampicillin Resistance (-genetics)
+-Base Sequence
+-Cloning, Molecular (+methods)
+-Escherichia coli (-genetics; -growth & development; -metabolism)
+-Gene Expression
+-Genetic Vectors (+genetics)
+-Molecular Sequence Data
+-Proteins (+genetics; +metabolism)
++Selection, Genetic
+
+pii:000113091
+doi:10.2144/000113091
+pubmed:19480639
+

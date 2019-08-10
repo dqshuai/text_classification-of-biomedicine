@@ -1,0 +1,29 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Transcription factor Ap2delta associates with Ash2l and ALR, a trithorax family histone methyltransferase, to activate Hoxc8 transcription.
+
+CC Tan, KV Sindhu, S Li, H Nishio, JZ Stoller, K Oishi, S Puttreddy, TJ Lee, JA Epstein, MJ Walsh, BD Gelb
+
+The family of Ap2 transcription factors comprises five members with highly conserved DNA-binding domains. Among the family members, Ap2delta is the most divergent, because it lacks highly conserved residues within the transactivation domain (TAD) and has weak affinity for known Ap2 binding sites. To identify specific Ap2delta coactivators/regulators during development, we performed a yeast two-hybrid screen, using Ap2delta's TAD. We identified the trithorax superfamily member, Ash2l, as a binding partner that interacts exclusively with Ap2delta. We showed that Ash2l positively mediates Ap2delta transactivation in a dose-dependent manner. Given the known role of Ash2l in histone modification, we determined whether Ap2delta was able to form a complex with that activity. Our results showed that Ap2delta associates with endogenous ASH2L and a member of the MLL family of histone lysine methyltransferases (HKMTs), MLL2 (ALR), forming a complex that methylates lysine 4 of histone H3 (H3K4). Additionally, we showed that Ap2delta is necessary for recruitment of Ash2l and Alr to the Hoxc8 locus and that recruitment of this complex leads to H3K4 trimethylation (H3K4me3) and subsequent gene activation. Altogether, we provide evidence of an association between a highly restricted gene-specific transcription factor and a Su(var), Enhancer of Zeste, Trithorax (SET)1/trithorax-like complex with H3K4 methyltransferase activity. Our studies also document a functional role for Ap2delta in recruiting histone methyltransferases (HMTs) to specific gene targets, such as Hoxc8. This role provides a mechanism through which these transcription factors can have diverse effects despite nearly identical DNA-binding motifs.
+
+-Animals
+-Cell Line
+-DNA-Binding Proteins (-genetics; +metabolism)
+-Histone-Lysine N-Methyltransferase (+metabolism)
+-Histones (-metabolism)
+-Homeodomain Proteins (+genetics)
+-Humans
+-Mice
+-Myeloid-Lymphoid Leukemia Protein (+metabolism)
+-Nuclear Proteins (-genetics; +metabolism)
+-Transcription Factor AP-2 (+metabolism)
+-Transcription Factors (-genetics; +metabolism)
+-Transcription, Genetic
++Transcriptional Activation
+-Two-Hybrid System Techniques
+
+pii:0711896105
+doi:10.1073/pnas.0711896105
+pubmed:18495928
+pmc:PMC2396708
+

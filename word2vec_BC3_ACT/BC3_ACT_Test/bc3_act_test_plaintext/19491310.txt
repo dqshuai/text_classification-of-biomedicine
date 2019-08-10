@@ -1,0 +1,18 @@
+Nucleic Acids Res.
+
+TORQUE: topology-free querying of protein interaction networks.
+
+S Bruckner, F Hüffner, RM Karp, R Shamir, R Sharan
+
+TORQUE is a tool for cross-species querying of protein-protein interaction networks. It aims to answer the following question: given a set of proteins constituting a known complex or a pathway in one species, can a similar complex or pathway be found in the protein network of another species? To this end, Torque seeks a matching set of proteins that are sequence similar to the query proteins and span a connected region of the target network, while allowing for both insertions and deletions. Unlike existing approaches, TORQUE does not require knowledge of the interconnections among the query proteins. It can handle large queries of up to 25 proteins. The Torque web server is freely available for use at http://www.cs.tau.ac.il/~bnet/torque.html.
+
+-Internet
++Protein Interaction Mapping
+-Sequence Analysis, Protein
++Software
+
+pii:gkp474
+doi:10.1093/nar/gkp474
+pubmed:19491310
+pmc:PMC2703961
+

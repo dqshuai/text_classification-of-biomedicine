@@ -1,0 +1,29 @@
+J. Virol.
+
+Small molecule targets Env for endoplasmic reticulum-associated protein degradation and inhibits human immunodeficiency virus type 1 propagation.
+
+A Jejcic, R Daniels, L Goobar-Larsson, DN Hebert, A Vahlne
+
+Human immunodeficiency virus type 1 (HIV-1) is dependent on its envelope glycoprotein (Env) to bind, fuse, and subsequently infect a cell. We show here that treatment of HIV-1-infected cells with glycyl-prolyl-glycine amide (GPG-NH(2)), dramatically reduced the infectivity of the released viral particles by decreasing their Env incorporation. The mechanism of GPG-NH(2) was uncovered by examining Env expression and maturation in treated cells. GPG-NH(2) treatment was found to affect Env by significantly decreasing its steady-state levels, its processing into gp120/gp41, and its mass by inducing glycan removal in a manner dependent on its native signal sequence and the proteasome. Therefore, GPG-NH(2) negatively impacts Env maturation, facilitating its targeting for endoplasmic reticulum-associated protein degradation, where Env is deglycosylated en route to its degradation. These findings illustrate that nontoxic drugs such as GPG-NH(2), which can selectively target glycoproteins to existing cellular degradation pathways, may be useful for pathogen therapy.
+
+-Antiviral Agents (-pharmacology)
+-Endoplasmic Reticulum (+metabolism)
+-Enzyme-Linked Immunosorbent Assay
++Genes, env
+-HIV-1 (+metabolism)
+-Hela Cells
+-Humans
+-Models, Biological
+-Polysaccharides (-chemistry)
+-Proteasome Endopeptidase Complex (-metabolism)
+-Protein Denaturation
+-Protein Structure, Tertiary
+-Subcellular Fractions
+-Virus Assembly
+-Virus Replication
+
+pii:JVI.01700-08
+doi:10.1128/JVI.01700-08
+pubmed:19640982
+pmc:PMC2748041
+

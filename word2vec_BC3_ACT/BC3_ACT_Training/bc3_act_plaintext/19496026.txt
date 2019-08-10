@@ -1,0 +1,29 @@
+Cell Stress Chaperones
+
+Core temperature correlates with expression of selected stress and immunomodulatory genes in febrile patients with sepsis and noninfectious SIRS.
+
+LA Sonna, L Hawkins, ME Lissauer, P Maldeis, M Towns, SB Johnson, R Moore, IS Singh, MJ Cowan, JD Hasday
+
+Environmental hyperthermia and exercise produce extensive changes in gene expression in human blood cells, but it is unknown whether this also happens during febrile-range hyperthermia. We tested the hypothesis that heat shock protein (HSP) and immunomodulatory stress gene expression correlate with fever in intensive care unit patients. Whole blood messenger RNA was obtained over consecutive days from 100 hospitalized patients suffering from sepsis or noninfectious systemic inflammatory response syndrome (SIRS) as defined by conventional criteria. The most abnormal body temperature in the preceding 24 h was recorded for each sample. Expression analysis was performed using the Affymetrix U133 chip. ANCOVA followed by correlation analysis was performed on a subset of 278 prospectively identified sequences of interest. Temperature affected expression of 60 sequences, either independently or as a function of clinical diagnosis. Forty-eight of these (representing 38 genes) were affected by temperature only, including several HSPs, transcription factors heat shock factor (HSF)-1 and HSF-4, cellular adhesion molecules such as ICAM1/CD54 and JAM3, toll receptors TLR-6 and TLR-7, ribosomal proteins, and a number of molecules involved in inflammatory pathways. Twelve sequences demonstrated temperature-dependent responses that differed significantly between patients with sepsis and noninfectious SIRS: CXCL-13; heat shock proteins DNAJB12 and DNAJC4; the F11 receptor; folate hydrolase 1; HSF-2; HSP 70 proteins HSPA1A, HSPA1B, and HSPA1L; interleukin 8; lipopolysaccharide binding protein; and prostaglandin E synthase. Febrile-range temperatures achieved during sepsis and noninfectious SIRS correlate with detectable changes in stress gene expression in vivo, suggesting that fever can activate HSP gene expression and modify innate immune responses. For some genes, it appears that clinical condition can alter temperature-sensitive gene expression. Collectively, these data underscore the potential importance of body temperature in shaping the immune response to infection and injury.
+
+-Adult
++Body Temperature
+-Female
+-Fever (-genetics; -immunology; +metabolism)
+-Gene Expression Regulation
+-Heat-Shock Proteins (-genetics; -metabolism)
+-Humans
+-Inflammation Mediators (-metabolism)
+-Male
+-Middle Aged
+-Oligonucleotide Array Sequence Analysis
+-RNA, Messenger (-metabolism)
+-Sepsis (-genetics; -immunology; +metabolism)
+-Severity of Illness Index
+-Systemic Inflammatory Response Syndrome (-genetics; -immunology; +metabolism)
+-Time Factors
+
+doi:10.1007/s12192-009-0121-1
+pubmed:19496026
+pmc:PMC2866972
+

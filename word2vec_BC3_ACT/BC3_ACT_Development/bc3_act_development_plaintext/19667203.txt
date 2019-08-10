@@ -1,0 +1,37 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+XIAP mediates NOD signaling via interaction with RIP2.
+
+A Krieg, RG Correa, JB Garrison, G Le Negrate, K Welsh, Z Huang, WT Knoefel, JC Reed
+
+NOD1 and NOD2 are members of the NOD-like receptor (NLR) protein family that are involved in sensing the presence of pathogens and are a component of the innate immune system. Upon activation by specific bacterial peptides derived from peptidoglycans, NODs interact via a CARD-CARD interaction with the receptor-interacting protein kinase RIP2, an inducer of NF-kappaB activation. In this report, we show that NOD signaling is dependent on XIAP, a member of the inhibitor of apoptosis protein (IAP) family. Cells deficient in XIAP exhibit a marked reduction in NF-kappaB activation induced by microbial NOD ligands and by over-expression of NOD1 or NOD2. Moreover, we show that XIAP interacts with RIP2 via its BIR2 domain, which could be disrupted by XIAP antagonists SMAC and SMAC-mimicking compounds. Both NOD1 and NOD2 associated with XIAP in a RIP2-dependent manner, providing evidence that XIAP associates with the NOD signalosome. Taken together, our data suggest a role for XIAP in regulating innate immune responses by interacting with NOD1 and NOD2 through interaction with RIP2.
+
+-Cell Line
+-Cell Line, Tumor
+-Enzyme-Linked Immunosorbent Assay
+-Gene Expression
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-HCT116 Cells
+-Humans
+-Immunoblotting
+-Immunoprecipitation
+-Interleukin-8 (-metabolism)
+-Luciferases (-genetics; -metabolism)
+-Mutation
+-NF-kappa B (-genetics; -metabolism)
+-Nod1 Signaling Adaptor Protein (-genetics; +metabolism)
+-Nod2 Signaling Adaptor Protein (-genetics; +metabolism)
+-Protein Binding
+-RNA, Small Interfering (-genetics)
+-Receptor-Interacting Protein Serine-Threonine Kinase 2 (-genetics; +metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
++Signal Transduction
+-Transfection
+-X-Linked Inhibitor of Apoptosis Protein (-genetics; +metabolism)
+
+pii:0907131106
+doi:10.1073/pnas.0907131106
+pubmed:19667203
+pmc:PMC2732880
+

@@ -1,0 +1,28 @@
+EMBO J.
+
+Structural model of the circadian clock KaiB-KaiC complex and mechanism for modulation of KaiC phosphorylation.
+
+R Pattanayek, DR Williams, S Pattanayek, T Mori, CH Johnson, PL Stewart, M Egli
+
+The circadian clock of the cyanobacterium Synechococcus elongatus can be reconstituted in vitro by the KaiA, KaiB and KaiC proteins in the presence of ATP. The principal clock component, KaiC, undergoes regular cycles between hyper- and hypo-phosphorylated states with a period of ca. 24 h that is temperature compensated. KaiA enhances KaiC phosphorylation and this enhancement is antagonized by KaiB. Throughout the cycle Kai proteins interact in a dynamic manner to form complexes of different composition. We present a three-dimensional model of the S. elongatus KaiB-KaiC complex based on X-ray crystallography, negative-stain and cryo-electron microscopy, native gel electrophoresis and modelling techniques. We provide experimental evidence that KaiB dimers interact with KaiC from the same side as KaiA and for a conformational rearrangement of the C-terminal regions of KaiC subunits. The enlarged central channel and thus KaiC subunit separation in the C-terminal ring of the hexamer is consistent with KaiC subunit exchange during the dephosphorylation phase. The proposed binding mode of KaiB explains the observation of simultaneous binding of KaiA and KaiB to KaiC, and provides insight into the mechanism of KaiB's antagonism of KaiA.
+
+-Bacterial Proteins (-chemistry; +metabolism; -ultrastructure)
++Biological Clocks
++Circadian Rhythm
+-Circadian Rhythm Signaling Peptides and Proteins
+-Cryoelectron Microscopy
+-Crystallography, X-Ray
++Models, Molecular
+-Negative Staining
+-Peptide Fragments (-metabolism)
+-Phosphorylation
+-Protein Binding
+-Protein Structure, Quaternary
+-Protein Structure, Secondary
+-Synechococcus (+metabolism)
+
+pii:emboj2008104
+doi:10.1038/emboj.2008.104
+pubmed:18497745
+pmc:PMC2435126
+

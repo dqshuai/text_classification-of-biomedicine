@@ -1,0 +1,29 @@
+Biochemistry
+
+Functional characterization of the re-face loop spanning residues 536-541 and its interactions with the cofactor in the flavin mononucleotide-binding domain of flavocytochrome P450 from Bacillus megaterium.
+
+M Kasim, HC Chen, RP Swenson
+
+Flavocytochrome P450BM-3, a bacterial monooxygenase, contains a flavin mononucleotide-binding domain bearing a strong structural homology to the bacterial flavodoxin. The flavin mononucleotide (FMN) serves as the one-electron donor to the heme iron, but in contrast to the electron transfer mechanism of mammalian cytochrome P450 reductase, the FMN semiquinone state is not thermodynamically stable and appears transiently as the anionic rather than the neutral form. A unique loop region comprised of residues (536)Y-N-G-H-P-P(541), which forms a type I' reverse turn and provides several interactions with the FMN isoalloxazine ring, was targeted in this study. Nuclear magnetic resonance studies support the presence of a strong hydrogen bond between the backbone amide of Asn537 and FMN N5, the anionic ionization state of the hydroquinone, and for a change in the hybridization state of the N5 upon reduction. Replacement of Tyr536, which flanks the flavin ring, with a basic residue (histidine or arginine) did not significantly influence the redox properties of the FMN or the accumulation of the anionic semiquinone. The central residues of the type I' turn (Asn-Gly) were replaced with various combinations of glycine and alanine as a means of altering the turn and its interactions. Gly538 was found to be crucial in maintaining the type I' turn conformation of the loop and the strong H-bonding interaction at N5. The functional role of the tandem Pro-Pro sequence which anchors and possible "rigidifies" the loop was investigated through alanine replacements. Despite changes in the stabilities of the oxidized and hydroquinone redox states of the FMN, none of the replacements studied significantly altered the two-electron midpoint potentials. Pro541 does contribute to some degree to the strength of the N5 interaction and the formation of the anionic semiquinone. Unlike that of the flavodoxin, it would appear that the conformation of the FMN rather than the loop changes in response to reduction in this flavoprotein.
+
+-Amino Acid Sequence
+-Bacillus megaterium (+metabolism)
+-Bacterial Proteins (+chemistry; -metabolism)
+-Binding Sites
+-Cytochrome P-450 Enzyme System (+chemistry; -metabolism)
+-Flavin Mononucleotide (-chemistry; +metabolism)
+-Hydrogen Bonding
+-Magnetic Resonance Spectroscopy
+-Models, Molecular
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-NADPH-Ferrihemoprotein Reductase (+chemistry; -metabolism)
+-Oxidation-Reduction
+-Protein Conformation
+-Sequence Alignment
+
+doi:10.1021/bi900607q
+pubmed:19432415
+mid:NIHMS120157
+pmc:PMC2778857
+

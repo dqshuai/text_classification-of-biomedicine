@@ -1,0 +1,22 @@
+Nucleic Acids Res.
+
+Importance of randomization in microarray experimental designs with Illumina platforms.
+
+RA Verdugo, CF Deschepper, G Muñoz, D Pomp, GA Churchill
+
+Measurements of gene expression from microarray experiments are highly dependent on experimental design. Systematic noise can be introduced into the data at numerous steps. On Illumina BeadChips, multiple samples are assayed in an ordered series of arrays. Two experiments were performed using the same samples but different hybridization designs. An experiment confounding genotype with BeadChip and treatment with array position was compared to another experiment in which these factors were randomized to BeadChip and array position. An ordinal effect of array position on intensity values was observed in both experiments. We demonstrate that there is increased rate of false-positive results in the confounded design and that attempts to correct for confounded effects by statistical modeling reduce power of detection for true differential expression. Simple analysis models without post hoc corrections provide the best results possible for a given experimental design. Normalization improved differential expression testing in both experiments but randomization was the most important factor for establishing accurate results. We conclude that lack of randomization cannot be corrected by normalization or by analytical methods. Proper randomization is essential for successful microarray experiments.
+
+-Animals
+-Gene Expression Profiling (+methods)
+-Genotype
+-Mice
+-Mice, Inbred C57BL
+-Models, Statistical
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Random Allocation
+
+pii:gkp573
+doi:10.1093/nar/gkp573
+pubmed:19617374
+pmc:PMC2761262
+

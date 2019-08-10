@@ -1,0 +1,22 @@
+Cell Cycle
+
+Stable expression of miR-200c alone is sufficient to regulate TCF8 (ZEB1) and restore E-cadherin expression.
+
+GJ Hurteau, JA Carlson, E Roos, GJ Brock
+
+Regulation of the transcription factor TCF8 (ZEB1) by the microRNA miR-200c and was first identified using a bioinformatic and relative quantitative PCR based approach.(1) Using stable ectopic expression of miR-200c we then demonstrated loss of TCF8 (ZEB1) mRNA and restoration of its primary regulatory target, E-cadherin.(2) Recently, other members of the miR-200 'family' and an additional unrelated microRNA, miR-205, have been reported to be essential for the regulation of TCF8 (ZEB1) and restoration of E-cadherin.(3-5) To investigate, we repeated our initial method(s) and generated individual stable cell-lines, expressing the miR-200 'family' members; miR-200c, miR-200b, miR-141 and the related miR-205. Of these lines, miR-200b produced no mature transcript and miR-205 and miR-141 cells were either morphologically similar to controls or showed some slight changes respectively. However no reduction in TCF8/ZEB1 mRNA or restoration of E-cadherin could be detected in either line. In contrast, cells expressing miR-200c had a significantly altered morphology from mesenchymal to epithelial and restored expression of E-cadherin. These contrasting findings demonstrate that, as transient transfection is in essence an RNAi experiment, results should be treated with caution when investigating microRNAs and that an examination of microRNAs with similar seed regions requires stable ectopic expression to accurately reflect the endogenous mechanism(s).
+
+-Base Sequence
+-Cadherins (+metabolism)
+-Cell Line, Tumor
+-Female
+-Homeodomain Proteins (+metabolism)
+-Humans
+-MicroRNAs (-genetics; +metabolism)
+-RNA Interference
+-Transcription Factors (+metabolism)
+-Transfection
+
+pii:8883
+pubmed:19502803
+

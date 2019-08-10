@@ -1,0 +1,30 @@
+PLoS Pathog.
+
+Programmed cellular necrosis mediated by the pore-forming alpha-toxin from Clostridium septicum.
+
+CL Kennedy, DJ Smith, D Lyras, A Chakravorty, JI Rood
+
+Programmed necrosis is a mechanism of cell death that has been described for neuronal excitotoxicity and ischemia/reperfusion injury, but has not been extensively studied in the context of exposure to bacterial exotoxins. The alpha-toxin of Clostridium septicum is a beta-barrel pore-forming toxin and a potent cytotoxin; however, the mechanism by which it induces cell death has not been elucidated in detail. We report that alpha-toxin formed Ca(2+)-permeable pores in murine myoblast cells, leading to an increase in intracellular Ca(2+) levels. This Ca(2+) influx did not induce apoptosis, as has been described for other small pore-forming toxins, but a cascade of events consistent with programmed necrosis. Ca(2+) influx was associated with calpain activation and release of cathepsins from lysosomes. We also observed deregulation of mitochondrial activity, leading to increased ROS levels, and dramatically reduced levels of ATP. Finally, the immunostimulatory histone binding protein HMGB1 was found to be released from the nuclei of alpha-toxin-treated cells. Collectively, these data show that alpha-toxin initiates a multifaceted necrotic cell death response that is consistent with its essential role in C. septicum-mediated myonecrosis and sepsis. We postulate that cellular intoxication with pore-forming toxins may be a major mechanism by which programmed necrosis is induced.
+
+-Adenosine Triphosphate (-metabolism)
+-Animals
+-Apoptosis (+drug effects)
+-Apoptosis Regulatory Proteins (-metabolism)
+-Bacterial Toxins (+pharmacology)
+-Calcium (-metabolism)
+-Calpain (-drug effects; -metabolism)
+-Cathepsins (-drug effects; -metabolism)
+-Cell Line
+-HMGB1 Protein (-metabolism)
+-Lysosomes (-drug effects; -metabolism)
+-Mice
+-Mitochondria (-drug effects)
+-Myoblasts (+drug effects; -pathology)
+-Necrosis
+-Peptide Hydrolases (-metabolism)
+-Reactive Oxygen Species (-metabolism)
+
+doi:10.1371/journal.ppat.1000516
+pubmed:19609357
+pmc:PMC2705182
+

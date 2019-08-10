@@ -1,0 +1,34 @@
+Dev. Cell
+
+An essential role for 14-3-3 proteins in brassinosteroid signal transduction in Arabidopsis.
+
+SS Gampala, TW Kim, JX He, W Tang, Z Deng, MY Bai, S Guan, S Lalonde, Y Sun, JM Gendron, H Chen, N Shibagaki, RJ Ferl, D Ehrhardt, K Chong, AL Burlingame, ZY Wang
+
+Brassinosteroids (BRs) are essential hormones for plant growth and development. BRs regulate gene expression by inducing dephosphorylation of two key transcription factors, BZR1 and BZR2/BES1, through a signal transduction pathway that involves cell-surface receptors (BRI1 and BAK1) and a GSK3 kinase (BIN2). How BR-regulated phosphorylation controls the activities of BZR1/BZR2 is not fully understood. Here, we show that BIN2-catalyzed phosphorylation of BZR1/BZR2 not only inhibits DNA binding, but also promotes binding to the 14-3-3 proteins. Mutations of a BIN2-phosphorylation site in BZR1 abolish 14-3-3 binding and lead to increased nuclear localization of BZR1 protein and enhanced BR responses in transgenic plants. Further, BR deficiency increases cytoplasmic localization, and BR treatment induces rapid nuclear localization of BZR1/BZR2. Thus, 14-3-3 binding is required for efficient inhibition of phosphorylated BR transcription factors, largely through cytoplasmic retention. This study demonstrates that multiple mechanisms are required for BR regulation of gene expression and plant growth.
+
+-14-3-3 Proteins (+metabolism)
+-Amino Acid Sequence
+-Arabidopsis (-drug effects; +metabolism)
+-Arabidopsis Proteins (-chemistry; -genetics; -metabolism)
+-Binding Sites
+-Cell Nucleus (-drug effects; -metabolism)
+-DNA, Plant (-metabolism)
+-Down-Regulation (-drug effects)
+-Models, Biological
+-Molecular Sequence Data
+-Mutation (-genetics)
+-Nuclear Proteins (-chemistry; -genetics; -metabolism)
+-Phosphorylation (-drug effects)
+-Plant Leaves (-cytology; -drug effects)
+-Protein Binding (-drug effects)
+-Protein Kinases (-metabolism)
+-Protein Transport (-drug effects)
++Signal Transduction (-drug effects)
+-Steroids, Heterocyclic (+metabolism; -pharmacology)
+
+pii:S1534-5807(07)00258-4
+doi:10.1016/j.devcel.2007.06.009
+pubmed:17681130
+mid:NIHMS28606
+pmc:PMC2000337
+

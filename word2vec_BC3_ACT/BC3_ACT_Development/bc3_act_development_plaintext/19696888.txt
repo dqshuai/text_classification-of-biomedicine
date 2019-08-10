@@ -1,0 +1,22 @@
+PLoS Genet.
+
+Regulon-specific control of transcription elongation across the yeast genome.
+
+V Pelechano, S Jimeno-González, A Rodríguez-Gil, J García-Martínez, JE Pérez-Ortín, S Chávez
+
+Transcription elongation by RNA polymerase II was often considered an invariant non-regulated process. However, genome-wide studies have shown that transcriptional pausing during elongation is a frequent phenomenon in tightly-regulated metazoan genes. Using a combination of ChIP-on-chip and genomic run-on approaches, we found that the proportion of transcriptionally active RNA polymerase II (active versus total) present throughout the yeast genome is characteristic of some functional gene classes, like those related to ribosomes and mitochondria. This proportion also responds to regulatory stimuli mediated by protein kinase A and, in relation to cytosolic ribosomal-protein genes, it is mediated by the silencing domain of Rap1. We found that this inactive form of RNA polymerase II, which accumulates along the full length of ribosomal protein genes, is phosphorylated in the Ser5 residue of the CTD, but is hypophosphorylated in Ser2. Using the same experimental approach, we show that the in vivo-depletion of FACT, a chromatin-related elongation factor, also produces a regulon-specific effect on the expression of the yeast genome. This work demonstrates that the regulation of transcription elongation is a widespread, gene class-dependent phenomenon that also affects housekeeping genes.
+
+-DNA-Binding Proteins (-genetics; -metabolism)
++Genome, Fungal
+-High Mobility Group Proteins (-genetics; -metabolism)
+-RNA Polymerase II (-genetics; -metabolism)
++Regulon
+-Saccharomyces cerevisiae (+genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; -metabolism)
++Transcription, Genetic
+-Transcriptional Elongation Factors (-genetics; -metabolism)
+
+doi:10.1371/journal.pgen.1000614
+pubmed:19696888
+pmc:PMC2721418
+

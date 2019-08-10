@@ -1,0 +1,18 @@
+J. Am. Chem. Soc.
+
+970 million druglike small molecules for virtual screening in the chemical universe database GDB-13.
+
+LC Blum, JL Reymond
+
+GDB-13 enumerates small organic molecules containing up to 13 atoms of C, N, O, S, and Cl following simple chemical stability and synthetic feasibility rules. With 977,468,314 structures, GDB-13 is the largest publicly available small organic molecule database to date.
+
+-Algorithms
++Databases, Factual
+-Drug Design
+-Molecular Structure
+-Pharmaceutical Preparations (+chemistry)
+-Small Molecule Libraries (+chemistry)
+
+doi:10.1021/ja902302h
+pubmed:19505099
+

@@ -1,0 +1,27 @@
+Cell Death Differ.
+
+TNF-like weak inducer of apoptosis inhibits proinflammatory TNF receptor-1 signaling.
+
+A Wicovsky, S Salzmann, C Roos, M Ehrenschwender, T Rosenthal, D Siegmund, F Henkler, F Gohlke, C Kneitz, H Wajant
+
+Soluble TNF-like weak inducer of apoptosis (TWEAK) trimers induce, in a variety of cell lines, translocation of cytosolic tumor necrosis factor (TNF) receptor-associated factor-2 (TRAF2) to a triton X-100-insoluble compartment without changes in the total cellular TRAF2 content. TWEAK-induced TRAF2 translocation is paralleled by a strong increase in nuclear factor kappaB 2 (NFkappaB2)/p100 processing to p52, indicating that TRAF2 redistribution is sufficient for activation of the alternative NFkappaB pathway. In accordance with the crucial role of TRAF2 in proinflammatory, anti-apoptotic TNF receptor-1 (TNFR1) signaling, we observed that TWEAK-primed cells have a reduced capacity to activate the classical NFkappaB pathway or JNK (cJun N-terminal kinase) in response to TNF. Furthermore, TWEAK-primed cells are sensitized for the TNFR1-mediated induction of apoptotic and necrotic cell death. Notably, the expression of the NFkappaB-regulated, TRAF2-interacting TRAF1 protein can attenuate TWEAK-induced depletion of the triton X-100-soluble TRAF2 fraction and improve TNFR1-induced NFkappaB signaling in TWEAK-primed cells. Taken together, we demonstrate that soluble TWEAK desensitizes cells for proinflammatory TNFR1 signaling and thus identify TWEAK as a modifier of TNF signaling.
+
+-Animals
++Apoptosis
+-Cell Line, Tumor
+-Fibroblasts (-metabolism)
+-Humans
+-JNK Mitogen-Activated Protein Kinases (-metabolism)
+-Mice
+-NF-kappa B (-metabolism)
+-Octoxynol (-pharmacology)
+-Receptors, Tumor Necrosis Factor, Type I (+metabolism)
++Signal Transduction
+-TNF Receptor-Associated Factor 1 (-metabolism)
+-TNF Receptor-Associated Factor 2 (-metabolism)
+-Tumor Necrosis Factors (+pharmacology)
+
+pii:cdd200980
+doi:10.1038/cdd.2009.80
+pubmed:19557010
+

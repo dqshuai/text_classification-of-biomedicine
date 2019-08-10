@@ -1,0 +1,26 @@
+Mol. Cell
+
+Structural basis of transcription: mismatch-specific fidelity mechanisms and paused RNA polymerase II with frayed RNA.
+
+JF Sydow, F Brueckner, AC Cheung, GE Damsma, S Dengl, E Lehmann, D Vassylyev, P Cramer
+
+We show that RNA polymerase (Pol) II prevents erroneous transcription in vitro with different strategies that depend on the type of DNARNA base mismatch. Certain mismatches are efficiently formed but impair RNA extension. Other mismatches allow for RNA extension but are inefficiently formed and efficiently proofread by RNA cleavage. X-ray analysis reveals that a TU mismatch impairs RNA extension by forming a wobble base pair at the Pol II active center that dissociates the catalytic metal ion and misaligns the RNA 3' end. The mismatch can also stabilize a paused state of Pol II with a frayed RNA 3' nucleotide. The frayed nucleotide binds in the Pol II pore either parallel or perpendicular to the DNA-RNA hybrid axis (fraying sites I and II, respectively) and overlaps the nucleoside triphosphate (NTP) site, explaining how it halts transcription during proofreading, before backtracking and RNA cleavage.
+
+-Amino Acid Sequence
++Base Pair Mismatch
+-Binding Sites
+-Crystallography, X-Ray
+-Models, Molecular
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-Protein Structure, Tertiary
+-RNA Polymerase II (-chemistry; +physiology)
+-RNA, Messenger (-chemistry; -metabolism)
+-Thymine Nucleotides (-chemistry; -metabolism)
+-Transcription, Genetic (+physiology)
+-Uracil Nucleotides (-chemistry; -metabolism)
+
+pii:S1097-2765(09)00393-1
+doi:10.1016/j.molcel.2009.06.002
+pubmed:19560423
+

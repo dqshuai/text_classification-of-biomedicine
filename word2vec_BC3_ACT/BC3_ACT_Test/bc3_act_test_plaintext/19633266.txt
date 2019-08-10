@@ -1,0 +1,27 @@
+Eukaryotic Cell
+
+Functional dissection of the catalytic carboxyl-terminal domain of origin recognition complex subunit 1 (PfORC1) of the human malaria parasite Plasmodium falciparum.
+
+A Gupta, P Mehra, A Deshmukh, A Dar, P Mitra, N Roy, SK Dhar
+
+Origin recognition complex subunit 1 (ORC1) is essential for DNA replication in eukaryotes. The deadly human malaria parasite Plasmodium falciparum contains an ORC1/CDC6 homolog with several interesting domains at the catalytic carboxyl-terminal region that include a putative nucleoside triphosphate-binding and hydrolysis domain, a putative PCNA-interacting-protein (PIP) motif, and an extreme C-terminal region that shows poor homology with other ORC1 homologs. Due to the unavailability of a dependable inducible gene expression system, it is difficult to study the structure and function of essential genes in Plasmodium. Using a genetic yeast complementation system and biochemical experiments, here we show that the putative PIP domain in ORC1 that facilitates in vitro physical interaction with PCNA is functional in both yeast (Saccharomyces cerevisiae) and Plasmodium in vivo, confirming its essential biological role in eukaryotes. Furthermore, despite having less sequence homology, the extreme C-terminal region can be swapped between S. cerevisiae and P. falciparum and it binds to DNA directly, suggesting a conserved role of this region in DNA replication. These results not only provide us a useful system to study the function of the essential genes in Plasmodium, they help us to identify the previously undiscovered unique features of replication proteins in general.
+
+-Amino Acid Sequence
+-Animals
+-DNA Replication
+-Evolution, Molecular
+-Humans
+-Malaria, Falciparum (+parasitology)
+-Molecular Sequence Data
+-Origin Recognition Complex (+chemistry; -genetics; +metabolism)
+-Plasmodium falciparum (-chemistry; -genetics; +metabolism)
+-Protein Binding
+-Protein Structure, Tertiary
+-Protozoan Proteins (+chemistry; -genetics; +metabolism)
+-Saccharomyces cerevisiae (-genetics; -metabolism)
+
+pii:EC.00170-09
+doi:10.1128/EC.00170-09
+pubmed:19633266
+pmc:PMC2747822
+

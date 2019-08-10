@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+Caenorhabditis elegans and human dual oxidase 1 (DUOX1) "peroxidase" domains: insights into heme binding and catalytic activity.
+
+JL Meitzler, PR Ortiz de Montellano
+
+The seven members of the NOX/DUOX family are responsible for generation of the superoxide and H(2)O(2) required for a variety of host defense and cell signaling functions in nonphagocytic cells. Two members, the dual oxidase isozymes DUOX1 and DUOX2, share a structurally unique feature: an N-terminal peroxidase-like domain. Despite sequence similarity to the mammalian peroxidases, the absence of key active site residues makes their binding of heme and their catalytic function uncertain. To explore this domain we have expressed in a baculovirus system and purified the Caenorhabditis elegans (CeDUOX1(1-589)) and human (hDUOX1(1-593)) DUOX1 "peroxidase" domains. Evaluation of these proteins demonstrated that the isolated hDUOX1(1-593) does not bind heme and has no intrinsic peroxidase activity. In contrast, CeDUOX1(1-589) binds heme covalently, exhibits a modest peroxidase activity, but does not oxidize bromide ion. Surprisingly, the heme appears to have two covalent links to the protein despite the absence of a second conserved carboxyl group in the active site. Although the N-terminal dual oxidase motif has been proposed to directly convert superoxide to H(2)O(2), neither DUOX1 domain demonstrated significant superoxide dismutase activity. These results strengthen the in vivo conclusion that the CeDUOX1 protein supports controlled peroxidative polymerization of tyrosine residues and indicate that the hDUOX1 protein either has a unique function or must interact with other protein factors to express its catalytic activity.
+
+-Amino Acid Sequence
+-Animals
+-Caenorhabditis elegans
+-Caenorhabditis elegans Proteins (-metabolism; +physiology)
+-Catalysis
+-Catalytic Domain
+-Heme (+chemistry)
+-Humans
+-Hydrogen Peroxide (-chemistry)
+-Molecular Sequence Data
+-NADPH Oxidase (-metabolism; +physiology)
+-Peroxidases (+chemistry)
+-Protein Structure, Tertiary
+-Sequence Homology, Amino Acid
+-Superoxide Dismutase (-chemistry; -metabolism)
+
+pii:M109.013581
+doi:10.1074/jbc.M109.013581
+pubmed:19460756
+pmc:PMC2707201
+

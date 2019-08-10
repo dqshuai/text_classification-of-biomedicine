@@ -1,0 +1,27 @@
+Nucleic Acids Res.
+
+Ionizing radiation-dependent and independent phosphorylation of the 32-kDa subunit of replication protein A during mitosis.
+
+H Stephan, C Concannon, E Kremmer, MP Carty, HP Nasheuer
+
+The human single-stranded DNA-binding protein, replication protein A (RPA), is regulated by the N-terminal phosphorylation of its 32-kDa subunit, RPA2. RPA2 is hyperphosphorylated in response to various DNA-damaging agents and also phosphorylated in a cell-cycle-dependent manner during S- and M-phase, primarily at two CDK consensus sites, S23 and S29. Here we generated two monoclonal phospho-specific antibodies directed against these CDK sites. These phospho-specific RPA2-(P)-S23 and RPA2-(P)-S29 antibodies recognized mitotically phosphorylated RPA2 with high specificity. In addition, the RPA2-(P)-S23 antibody recognized the S-phase-specific phosphorylation of RPA2, suggesting that during S-phase only S23 is phosphorylated, whereas during M-phase both CDK sites, S23 and S29, are phosphorylated. Immunofluorescence microscopy revealed that the mitotic phosphorylation of RPA2 starts at the onset of mitosis, and dephosphorylation occurs during late cytokinesis. In mitotic cells treated with ionizing radiation (IR), we observed a rapid hyperphosphorylation of RPA2 in addition to its mitotic phosphorylation at S23 and S29, associated with a significant change in the subcellular localization of RPA. Our data also indicate that the RPA2 hyperphosphorylation in response to IR is facilitated by the activity of both ATM and DNA-PK, and is associated with activation of the Chk2 pathway.
+
+-Cell Cycle Proteins (-metabolism)
++DNA Damage
+-DNA-Activated Protein Kinase (-metabolism)
+-DNA-Binding Proteins (-metabolism)
+-Humans
++Mitosis (-radiation effects)
+-Phosphorylation
+-Protein Subunits (-chemistry; -metabolism)
+-Protein-Serine-Threonine Kinases (-metabolism)
+-Radiation, Ionizing
+-Replication Protein A (-chemistry; +metabolism)
+-Serine (-metabolism)
+-Tumor Suppressor Proteins (-metabolism)
+
+pii:gkp605
+doi:10.1093/nar/gkp605
+pubmed:19671522
+pmc:PMC2764457
+

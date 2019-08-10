@@ -1,0 +1,26 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Systematic identification of cell cycle-dependent yeast nucleocytoplasmic shuttling proteins by prediction of composite motifs.
+
+S Kosugi, M Hasebe, M Tomita, H Yanagawa
+
+The cell cycle-dependent nucleocytoplasmic transport of proteins is predominantly regulated by CDK kinase activities; however, it is currently difficult to predict the proteins thus regulated, largely because of the low prediction efficiency of the motifs involved. Here, we report the successful prediction of CDK1-regulated nucleocytoplasmic shuttling proteins using a prediction system for nuclear localization signals (NLSs). By systematic amino acid replacement analyses in budding yeast, we created activity-based profiles for different classes of importin-alpha-dependent NLSs that represent the functional contributions of different amino acids at each position within an NLS class. We then developed a computer program for prediction of the classical importin-alpha/beta pathway-specific NLSs (cNLS Mapper, available at http//nls-mapper.iab.keio.ac.jp/) that calculates NLS activities by using these profiles and an additivity-based motif scoring algorithm. This calculation method achieved significantly higher prediction accuracy in terms of both sensitivity and specificity than did current methods. The search for NLSs that overlap the consensus CDK1 phosphorylation site by using cNLS Mapper identified all previously reported and 5 previously uncharacterized yeast proteins (Yen1, Psy4, Pds1, Msa1, and Dna2) displaying CDK1- and cell cycle-regulated nuclear transport. CDK1 activated or repressed their nuclear import activity, depending on the position of CDK1-phosphorylation sites within NLSs. The application of this strategy to other functional linear motifs should be useful in systematic studies of protein-protein networks.
+
+-Amino Acid Sequence
+-CDC2 Protein Kinase (-metabolism)
+-Cell Cycle
+-Cell Nucleus (+metabolism)
+-Cytoplasm (+metabolism)
+-Nuclear Localization Signals (-chemistry; -genetics; +metabolism)
+-Protein Transport
+-Saccharomyces cerevisiae (+metabolism)
+-Saccharomyces cerevisiae Proteins (-chemistry; -genetics; +metabolism)
+-Sequence Analysis, Protein (+methods)
++Software
+-alpha Karyopherins (-metabolism)
+
+pii:0900604106
+doi:10.1073/pnas.0900604106
+pubmed:19520826
+pmc:PMC2695404
+

@@ -1,0 +1,33 @@
+Mol. Syst. Biol.
+
+Targeted tandem affinity purification of PSD-95 recovers core postsynaptic complexes and schizophrenia susceptibility proteins.
+
+E Fernández, MO Collins, RT Uren, MV Kopanitsa, NH Komiyama, MD Croning, L Zografos, JD Armstrong, JS Choudhary, SG Grant
+
+The molecular complexity of mammalian proteomes demands new methods for mapping the organization of multiprotein complexes. Here, we combine mouse genetics and proteomics to characterize synapse protein complexes and interaction networks. New tandem affinity purification (TAP) tags were fused to the carboxyl terminus of PSD-95 using gene targeting in mice. Homozygous mice showed no detectable abnormalities in PSD-95 expression, subcellular localization or synaptic electrophysiological function. Analysis of multiprotein complexes purified under native conditions by mass spectrometry defined known and new interactors: 118 proteins comprising crucial functional components of synapses, including glutamate receptors, K+ channels, scaffolding and signaling proteins, were recovered. Network clustering of protein interactions generated five connected clusters, with two clusters containing all the major ionotropic glutamate receptors and one cluster with voltage-dependent K+ channels. Annotation of clusters with human disease associations revealed that multiple disorders map to the network, with a significant correlation of schizophrenia within the glutamate receptor clusters. This targeted TAP tagging strategy is generally applicable to mammalian proteomics and systems biology approaches to disease.
+
+-Animals
+-Brain (-metabolism)
+-Chromatography, Affinity
+-Gene Expression
+-Gene Targeting (+methods)
+-Humans
+-Immunohistochemistry
++Intracellular Signaling Peptides and Proteins (-genetics; -isolation & purification; -metabolism)
++Membrane Proteins (-genetics; -isolation & purification; -metabolism)
+-Mice
+-Multiprotein Complexes (+isolation & purification; -metabolism)
+-Nerve Tissue Proteins (+isolation & purification; -metabolism)
+-Neuronal Plasticity
+-Protein Interaction Mapping (-methods)
+-Recombinant Fusion Proteins (-genetics; -isolation & purification; -metabolism)
+-Schizophrenia (+metabolism)
+-Synapses (-metabolism)
+-Synaptic Potentials
+-Tandem Mass Spectrometry
+
+pii:msb200927
+doi:10.1038/msb.2009.27
+pubmed:19455133
+pmc:PMC2694677
+

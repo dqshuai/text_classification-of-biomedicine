@@ -1,0 +1,30 @@
+Genetics
+
+Association studies identify natural variation at PHYC linked to flowering time and morphological variation in pearl millet.
+
+AA Saïdou, C Mariac, V Luong, JL Pham, G Bezançon, Y Vigouroux
+
+The identification of genes selected during and after plant domestication is an important research topic to enhance knowledge on adaptative evolution. Adaptation to different climates was a key factor in the spread of domesticated crops. We conducted a study to identify genes responsible for these adaptations in pearl millet and developed an association framework to identify genetic variations associated with the phenotype in this species. A set of 90 inbred lines genotyped using microsatellite loci and AFLP markers was used. The population structure was assessed using two different Bayesian approaches that allow inbreeding or not. Association studies were performed using a linear mixed model considering both the population structure and familial relationships between inbred lines. We assessed the ability of the method to limit the number of false positive associations on the basis of the two different Bayesian methods, the number of populations considered and different morphological traits while also assessing the power of the methodology to detect given additive effects. Finally, we applied this methodology to a set of eight pearl millet genes homologous to cereal flowering pathway genes. We found significant associations between several polymorphisms of the pearl millet PHYC gene and flowering time, spike length, and stem diameter in the inbred line panel. To validate this association, we performed a second association analysis in a different set of pearl millet individuals from Niger. We confirmed a significant association between genetic variation in this gene and these characters.
+
+-Alleles
+-Amplified Fragment Length Polymorphism Analysis
+-Computer Simulation
+-Flowers (+genetics; -growth & development)
+-Gene Frequency
+-Genetic Variation
+-Genotype
+-Inbreeding
+-Microsatellite Repeats (-genetics)
+-Models, Genetic
+-Pennisetum (+genetics; -growth & development)
+-Phenotype
+-Phytochrome (+genetics)
++Polymorphism, Genetic
+-Polymorphism, Single Nucleotide
+-Time Factors
+
+pii:genetics.109.102756
+doi:10.1534/genetics.109.102756
+pubmed:19433627
+pmc:PMC2710168
+

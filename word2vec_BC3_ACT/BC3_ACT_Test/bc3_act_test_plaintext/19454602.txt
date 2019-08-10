@@ -1,0 +1,21 @@
+Nucleic Acids Res.
+
+SNOW, a web-based tool for the statistical analysis of protein-protein interaction networks.
+
+P Minguez, S Götz, D Montaner, F Al-Shahrour, J Dopazo
+
+Understanding the structure and the dynamics of the complex intercellular network of interactions that contributes to the structure and function of a living cell is one of the main challenges of today's biology. SNOW inputs a collection of protein (or gene) identifiers and, by using the interactome as scaffold, draws the connections among them, calculates several relevant network parameters and, as a novelty among the rest of tools of its class, it estimates their statistical significance. The parameters calculated for each node are: connectivity, betweenness and clustering coefficient. It also calculates the number of components, number of bicomponents and articulation points. An interactive network viewer is also available to explore the resulting network. SNOW is available at http://snow.bioinfo.cipf.es.
+
+-Computer Graphics
+-Data Interpretation, Statistical
+-Databases, Protein
+-Humans
+-Internet
++Protein Interaction Mapping
++Software
+
+pii:gkp402
+doi:10.1093/nar/gkp402
+pubmed:19454602
+pmc:PMC2703972
+

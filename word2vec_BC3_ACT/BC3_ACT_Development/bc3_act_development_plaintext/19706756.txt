@@ -1,0 +1,30 @@
+Cancer Res.
+
+Classification of chemotherapeutic agents based on their differential in vitro effects on dendritic cells.
+
+H Tanaka, H Matsushima, N Mizumoto, A Takashima
+
+Despite the crucial roles dendritic cells (DC) play in host immunity against cancer, the pharmacologic effects of many chemotherapeutic agents have remained mostly unknown. We recently developed a DC biosensor clone by engineering the stable murine DC line XS106 to express the yellow fluorescent protein (YFP) gene under the control of interleukin (IL)-1beta promoter. In this study, the resulting XS106 pIL1-YFP DC clone was used to screen 54 anticancer drugs. Each drug was tested at five concentrations (0.1-10 micromol/L) for its effects on YFP expression, cell viability, and granulocyte macrophage colony-stimulating factor-dependent growth. Our unbiased systematic screening unveiled a striking heterogeneity among the tested anticancer drugs in their effects on the three functional variables. Interestingly, 15 drugs induced significant YFP expression at subcytotoxic concentrations and were thus categorized as "DC-stimulatory" anticancer drugs. These drugs were subsequently found to induce at least one of the characteristic maturational changes in mouse bone marrow-derived DCs. For example, vinblastine, a prototypic drug of this class, induced the production of IL-1beta, IL-6, and IL-12, increased surface expression of CD40, CD80, CD86, and MHC class II, and augmented T cell-stimulatory capacity of DCs. Not only do these results illustrate the differential pharmacologic effects of commonly used chemotherapeutic agents on DCs, they may also provide a conceptual framework for rationale-based selection and combination of anticancer drugs for clinical application.
+
+-Animals
+-Antineoplastic Agents (+classification; +pharmacology; -therapeutic use)
+-Antineoplastic Combined Chemotherapy Protocols (-analysis)
+-Clone Cells
+-Cytokines (-biosynthesis; -immunology)
+-Dendritic Cells (+drug effects; -immunology; -pathology)
+-Dose-Response Relationship, Drug
+-Gene Expression Regulation (-drug effects; -immunology)
+-Humans
+-Interleukin-1beta (-biosynthesis; -genetics)
+-Luminescent Proteins (-biosynthesis; -genetics)
+-Mice
+-Neoplasms (-drug therapy; -immunology)
+-Promoter Regions, Genetic
+-Transfection
+
+pii:0008-5472.CAN-09-1101
+doi:10.1158/0008-5472.CAN-09-1101
+pubmed:19706756
+mid:NIHMS129314
+pmc:PMC2769260
+

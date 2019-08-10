@@ -1,0 +1,43 @@
+Nat. Genet.
+
+Cell-specific protein phenotypes for the autoimmune locus IL2RA using a genotype-selectable human bioresource.
+
+CA Dendrou, V Plagnol, E Fung, JH Yang, K Downes, JD Cooper, S Nutland, G Coleman, M Himsworth, M Hardy, O Burren, B Healy, NM Walker, K Koch, WH Ouwehand, JR Bradley, NJ Wareham, JA Todd, LS Wicker
+
+Genome-wide association studies (GWAS) have identified over 300 regions associated with more than 70 common diseases. However, identifying causal genes within an associated region remains a major challenge. One approach to resolving causal genes is through the dissection of gene-phenotype correlations. Here we use polychromatic flow cytometry to show that differences in surface expression of the human interleukin-2 (IL-2) receptor alpha (IL2RA, or CD25) protein are restricted to particular immune cell types and correlate with several haplotypes in the IL2RA region that have previously been associated with two autoimmune diseases, type 1 diabetes (T1D) and multiple sclerosis. We confirm our strongest gene-phenotype correlation at the RNA level by allele-specific expression (ASE). We also define key parameters for the design and implementation of post-GWAS gene-phenotype investigations and demonstrate the usefulness of a large bioresource of genotype-selectable normal donors from whom fresh, primary cells can be analyzed.
+
+-Adolescent
+-Adult
+-Alleles
++Biological Specimen Banks
+-CD4-Positive T-Lymphocytes (+metabolism)
+-Case-Control Studies
+-Chromosomes, Human, Pair 10
+-Diabetes Mellitus, Type 1 (-genetics)
+-Female
+-Gene Frequency
+-Genetic Predisposition to Disease
+-Genome-Wide Association Study
++Genotype
+-Haplotypes
+-Heterozygote
+-Homozygote
+-Humans
+-Immunologic Memory
+-Interleukin-2 Receptor alpha Subunit (+genetics; -immunology)
+-Male
+-Middle Aged
+-Multiple Sclerosis (-genetics; -immunology)
++Phenotype
+-Polymorphism, Single Nucleotide
+-Quantitative Trait, Heritable
+-T-Lymphocytes (-metabolism)
+-T-Lymphocytes, Regulatory (-metabolism)
+-Young Adult
+
+pii:ng.434
+doi:10.1038/ng.434
+pubmed:19701192
+mid:UKMS27668
+pmc:PMC2749506
+

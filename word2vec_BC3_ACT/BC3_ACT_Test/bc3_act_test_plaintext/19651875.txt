@@ -1,0 +1,21 @@
+Nucleic Acids Res.
+
+Local combinational variables: an approach used in DNA-binding helix-turn-helix motif prediction with sequence information.
+
+W Xiong, T Li, K Chen, K Tang
+
+Sequence-based approach for motif prediction is of great interest and remains a challenge. In this work, we develop a local combinational variable approach for sequence-based helix-turn-helix (HTH) motif prediction. First we choose a sequence data set for 88 proteins of 22 amino acids in length to launch an optimized traversal for extracting local combinational segments (LCS) from the data set. Then after LCS refinement, local combinational variables (LCV) are generated to construct prediction models for HTH motifs. Prediction ability of LCV sets at different thresholds is calculated to settle a moderate threshold. The large data set we used comprises 13 HTH families, with 17 455 sequences in total. Our approach predicts HTH motifs more precisely using only primary protein sequence information, with 93.29% accuracy, 93.93% sensitivity and 92.66% specificity. Prediction results of newly reported HTH-containing proteins compared with other prediction web service presents a good prediction model derived from the LCV approach. Comparisons with profile-HMM models from the Pfam protein families database show that the LCV approach maintains a good balance while dealing with HTH-containing proteins and non-HTH proteins at the same time. The LCV approach is to some extent a complementary to the profile-HMM models for its better identification of false-positive data. Furthermore, genome-wide predictions detect new HTH proteins in both Homo sapiens and Escherichia coli organisms, which enlarge applications of the LCV approach. Software for mining LCVs from sequence data set can be obtained from anonymous ftp site ftp://cheminfo.tongji.edu.cn/LCV/freely.
+
+-Algorithms
+-DNA-Binding Proteins (-chemistry; -genetics)
+-Escherichia coli Proteins (-chemistry; -genetics)
+-Genomics
++Helix-Turn-Helix Motifs
+-Humans
+-Sequence Analysis, Protein (+methods)
+
+pii:gkp628
+doi:10.1093/nar/gkp628
+pubmed:19651875
+pmc:PMC2761287
+

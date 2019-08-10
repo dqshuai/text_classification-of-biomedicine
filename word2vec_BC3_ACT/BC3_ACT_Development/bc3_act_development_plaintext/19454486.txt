@@ -1,0 +1,21 @@
+Hum. Mol. Genet.
+
+Introducing the human Leigh syndrome mutation T9176G into Saccharomyces cerevisiae mitochondrial DNA leads to severe defects in the incorporation of Atp6p into the ATP synthase and in the mitochondrial morphology.
+
+R Kucharczyk, B Salin, JP di Rago
+
+The Leigh syndrome is a severe neurological disorder that has been associated with mutations affecting the mitochondrial energy transducing system. One of these mutations, T9176G, has been localized in the mitochondrial ATP6 gene encoding the Atp6p (or a) subunit of the ATP synthase. This mutation converts a highly conserved leucine residue into arginine within a presumed trans-membrane alpha-helical segment, at position 217 of Atp6p. The T9176G mutation was previously shown to severely reduce the rate of mitochondrial ATP production in cultured human cells containing high loads of this mutation. However, the underlying mechanism responsible for the impaired ATP production is still unknown. To better understand how T9176G affects the ATP synthase, we have created and analyzed the properties of a yeast strain bearing an equivalent of this mutation. We show that incorporation of Atp6p within the ATP synthase was almost completely prevented in the modified yeast. Based on previous partial biochemical characterization of human T9176G cells, it is likely that this mutation similarly affects the human ATP synthase instead of causing a block in the rotary mechanism of this enzyme as it had been suggested. Interestingly, the T9176G yeast exhibits important anomalies in mitochondrial morphology, an observation which indicates that the pathogenicity of T9176G may not be limited to a bioenergetic deficiency.
+
+-Cell Line
+-Humans
+-Leigh Disease (+enzymology; -genetics)
+-Mitochondria (-enzymology; -genetics; +ultrastructure)
+-Mitochondrial Proton-Translocating ATPases (+genetics; +metabolism)
++Mutation, Missense
+-Saccharomyces cerevisiae (+enzymology; -genetics; -ultrastructure)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+
+pii:ddp226
+doi:10.1093/hmg/ddp226
+pubmed:19454486
+

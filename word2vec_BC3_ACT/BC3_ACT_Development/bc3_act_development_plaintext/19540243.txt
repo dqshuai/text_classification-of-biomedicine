@@ -1,0 +1,26 @@
+J. Mol. Biol.
+
+Correlation of RNA secondary structure statistics with thermodynamic stability and applications to folding.
+
+JC Wu, DP Gardner, S Ozer, RR Gutell, P Ren
+
+The accurate prediction of the secondary and tertiary structure of an RNA with different folding algorithms is dependent on several factors, including the energy functions. However, an RNA higher-order structure cannot be predicted accurately from its sequence based on a limited set of energy parameters. The inter- and intramolecular forces between this RNA and other small molecules and macromolecules, in addition to other factors in the cell such as pH, ionic strength, and temperature, influence the complex dynamics associated with transition of a single stranded RNA to its secondary and tertiary structure. Since all of the factors that affect the formation of an RNAs 3D structure cannot be determined experimentally, statistically derived potential energy has been used in the prediction of protein structure. In the current work, we evaluate the statistical free energy of various secondary structure motifs, including base-pair stacks, hairpin loops, and internal loops, using their statistical frequency obtained from the comparative analysis of more than 50,000 RNA sequences stored in the RNA Comparative Analysis Database (rCAD) at the Comparative RNA Web (CRW) Site. Statistical energy was computed from the structural statistics for several datasets. While the statistical energy for a base-pair stack correlates with experimentally derived free energy values, suggesting a Boltzmann-like distribution, variation is observed between different molecules and their location on the phylogenetic tree of life. Our statistical energy values calculated for several structural elements were utilized in the Mfold RNA-folding algorithm. The combined statistical energy values for base-pair stacks, hairpins and internal loop flanks result in a significant improvement in the accuracy of secondary structure prediction; the hairpin flanks contribute the most.
+
+-Algorithms
+-Base Pairing
+-Base Sequence
+-Models, Molecular
+-Models, Statistical
+-Molecular Sequence Data
++Nucleic Acid Conformation
+-RNA, Ribosomal, 16S (+chemistry; -genetics; -metabolism)
+-RNA, Ribosomal, 23S (+chemistry; -genetics; -metabolism)
+-RNA, Ribosomal, 5S (+chemistry; -genetics; -metabolism)
+-Thermodynamics
+
+pii:S0022-2836(09)00754-2
+doi:10.1016/j.jmb.2009.06.036
+pubmed:19540243
+mid:NIHMS125318
+pmc:PMC2778063
+

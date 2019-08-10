@@ -1,0 +1,26 @@
+J. Proteome Res.
+
+Development of a robust and high throughput method for profiling N-linked glycans derived from plasma glycoproteins by NanoLC-FTICR mass spectrometry.
+
+MS Bereman, DD Young, A Deiters, DC Muddiman
+
+Recent investigations continue to emphasize the importance of glycosylation in various diseases including cancer. In this work, we present a step-by-step protocol describing a method for N-linked glycan profiling of plasma glycoproteins by nanoflow liquid chromatography Fourier transform ion cyclotron resonance mass spectrometry (FTICR-MS). A large experimental space was initially explored and is described herein. Three internal standards were spiked into the sample and provided normalization of plasma glycan abundance across different experimental conditions. Incubation methods and times and the effect of NP40 detergent on glycan abundance were explored. It was found that an 18-h incubation with no detergent led to the greatest ion abundance; however, data could be obtained in less than one day from raw plasma samples utilizing microwave irradiation or shorter incubation periods. The intersample precision of three different glycans was less than 5.5% (RSD) when the internal standards were added prior to the initial processing step. The high mass measurement accuracy (<3 ppm) afforded by the FTICR mass spectrometer provided confident identifications of several glycan species.
+
+-Blood Proteins (+chemistry)
+-Chromatography, Liquid (-methods)
+-Detergents (-pharmacology)
+-Glycoproteins (+chemistry)
+-Humans
+-Mass Spectrometry (+methods)
+-Microwaves
+-Peptides (-chemistry)
+-Polysaccharides (+chemistry)
+-Proteome
+-Proteomics (+methods)
+-Spectroscopy, Fourier Transform Infrared (-methods)
+-Time Factors
+-Tumor Markers, Biological (-metabolism)
+
+doi:10.1021/pr9002323
+pubmed:19435342
+

@@ -1,0 +1,21 @@
+PLoS Comput. Biol.
+
+Molecular mechanics of the alpha-actinin rod domain: bending, torsional, and extensional behavior.
+
+J Golji, R Collins, MR Mofrad
+
+alpha-Actinin is an actin crosslinking molecule that can serve as a scaffold and maintain dynamic actin filament networks. As a crosslinker in the stressed cytoskeleton, alpha-actinin can retain conformation, function, and strength. alpha-Actinin has an actin binding domain and a calmodulin homology domain separated by a long rod domain. Using molecular dynamics and normal mode analysis, we suggest that the alpha-actinin rod domain has flexible terminal regions which can twist and extend under mechanical stress, yet has a highly rigid interior region stabilized by aromatic packing within each spectrin repeat, by electrostatic interactions between the spectrin repeats, and by strong salt bridges between its two anti-parallel monomers. By exploring the natural vibrations of the alpha-actinin rod domain and by conducting bending molecular dynamics simulations we also predict that bending of the rod domain is possible with minimal force. We introduce computational methods for analyzing the torsional strain of molecules using rotating constraints. Molecular dynamics extension of the alpha-actinin rod is also performed, demonstrating transduction of the unfolding forces across salt bridges to the associated monomer of the alpha-actinin rod domain.
+
+-Actinin (+chemistry)
+-Computer Simulation
++Models, Molecular
++Protein Conformation
+-Protein Multimerization
+-Protein Structure, Tertiary
+-Spectrin (-chemistry)
+-Torsion, Mechanical
+
+doi:10.1371/journal.pcbi.1000389
+pubmed:19436721
+pmc:PMC2676514
+

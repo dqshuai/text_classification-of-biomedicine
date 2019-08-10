@@ -1,0 +1,27 @@
+J. Proteome Res.
+
+Identification of novel functional differences in monocyte subsets using proteomic and transcriptomic methods.
+
+C Zhao, H Zhang, WC Wong, X Sem, H Han, SM Ong, YC Tan, WH Yeap, CS Gan, KQ Ng, MB Koh, P Kourilsky, SK Sze, SC Wong
+
+Human blood monocytes can be broadly divided into two distinct subsets: CD14+CD16- and CD14+/lowCD16+ subsets. Perturbation in their proportions in the blood has been observed in several disease conditions. Although numerous phenotypic and functional differences between the two subsets have already been described, the roles contributed by each subset during homeostasis or disease conditions are still largely unclear. To uncover novel differences to aid in elucidating their functions, we perform a global analysis of the two subsets utilizing both proteomics and transcriptomics approaches. From the proteomics and transcriptomics data, the expression of 613 genes by the two subsets is detected at both the protein and mRNA levels. These 613 genes are assessed for up-regulation in each subset at the protein and mRNA levels using a cutoff fold change of > or =|1.5| between subsets. Proteins and mRNAs up-regulated in each subset are then mapped in silico into biological functions. This mapping reveals copious functional differences between the subsets, many of which are seen at both protein and mRNA levels. For instance, expression of genes involved in F(CY) receptor-mediated phagocytosis are up-regulated in the CD14+/lowCD16+ subset, while those involved in antimicrobial function are up-regulated in the CD14+CD16- subset. We uncover novel functional differences between the monocyte subsets from differences in gene expression at the protein and mRNA levels. These functional differences would provide new insights into the different roles of the two monocyte subsets in regulating innate and adaptive immune responses.
+
+-Antigens, CD14 (-blood)
+-Blood Bactericidal Activity
+-Blood Proteins (+metabolism)
+-Cluster Analysis
+-Computer Simulation
+-Data Interpretation, Statistical
+-Gene Expression Profiling (-methods)
+-Humans
+-Isotope Labeling
+-Monocytes (-classification; -metabolism; +physiology)
+-Phagocytosis
+-Proteomics (+methods)
+-Reactive Oxygen Species (-metabolism)
+-Receptors, IgG (-blood)
+-Reproducibility of Results
+
+doi:10.1021/pr900364p
+pubmed:19514703
+

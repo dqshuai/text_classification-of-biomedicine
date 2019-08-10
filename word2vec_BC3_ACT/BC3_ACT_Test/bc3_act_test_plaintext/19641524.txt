@@ -1,0 +1,33 @@
+Leukemia
+
+Gene knockdown studies revealed CCDC50 as a candidate gene in mantle cell lymphoma and chronic lymphocytic leukemia.
+
+A Farfsing, F Engel, M Seiffert, E Hartmann, G Ott, A Rosenwald, S Stilgenbauer, H Döhner, M Boutros, P Lichter, A Pscherer
+
+The two B-cell non-Hodgkin's lymphoma entities, chronic lymphocytic leukemia (CLL) and mantle cell lymphoma (MCL), show recurrent chromosomal gains of 3q25-q29, 12q13-q14 and 18q21-q22. The pathomechanisms affected by these aberrations are not understood. The aim of this study was to identify genes, located within these gained regions, which control cell death and cell survival of MCL and CLL cancer cells. Blood samples collected from 18 patients with CLL and 6 patients with MCL, as well as 6 cell lines representing both malignancies were analyzed by gene expression profiling. By a comparison of genomic DNA and gene expression, 72 candidate genes were identified. We performed a limited RNA interference screening with these candidates to identify genes affecting cell survival. CCDC50 (coiled coil domain containing protein 50), SERPINI2 and SMARCC2 mediated a reduction of cell viability in primary CLL cells as well as in cell lines. Gene knockdown and a nuclear factor kappa B (NFkappaB) reporter gene assay revealed that CCDC50 is required for survival in MCL and CLL cells and controls NFkappaB signaling.
+
+-Bone Marrow Cells (-cytology)
+-Cell Line, Tumor
+-Cell Survival (-physiology)
+-Gene Expression Profiling
+-Gene Expression Regulation, Leukemic
+-Gene Expression Regulation, Neoplastic
+-Genetic Testing
+-Genomics
+-Humans
+-Intracellular Signaling Peptides and Proteins (-chemistry; +genetics)
+-Kidney (-cytology)
+-Leukemia, Lymphocytic, Chronic, B-Cell (+genetics; -pathology)
+-Lymphoma, Mantle-Cell (+genetics; -pathology)
+-NF-kappa B (-metabolism)
+-Neoplasm Proteins (-genetics)
+-Protein Structure, Tertiary
++RNA, Small Interfering
+-Serpins (-genetics)
+-Transcription Factors (-genetics)
+-Transfection
+
+pii:leu2009144
+doi:10.1038/leu.2009.144
+pubmed:19641524
+

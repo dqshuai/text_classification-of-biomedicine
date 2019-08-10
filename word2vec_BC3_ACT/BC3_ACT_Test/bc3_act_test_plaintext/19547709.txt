@@ -1,0 +1,28 @@
+PLoS ONE
+
+Alpha-helical protein networks are self-protective and flaw-tolerant.
+
+T Ackbarow, D Sen, C Thaulow, MJ Buehler
+
+Alpha-helix based protein networks as they appear in intermediate filaments in the cell's cytoskeleton and the nuclear membrane robustly withstand large deformation of up to several hundred percent strain, despite the presence of structural imperfections or flaws. This performance is not achieved by most synthetic materials, which typically fail at much smaller deformation and show a great sensitivity to the existence of structural flaws. Here we report a series of molecular dynamics simulations with a simple coarse-grained multi-scale model of alpha-helical protein domains, explaining the structural and mechanistic basis for this observed behavior. We find that the characteristic properties of alpha-helix based protein networks are due to the particular nanomechanical properties of their protein constituents, enabling the formation of large dissipative yield regions around structural flaws, effectively protecting the protein network against catastrophic failure. We show that the key for these self protecting properties is a geometric transformation of the crack shape that significantly reduces the stress concentration at corners. Specifically, our analysis demonstrates that the failure strain of alpha-helix based protein networks is insensitive to the presence of structural flaws in the protein network, only marginally affecting their overall strength. Our findings may help to explain the ability of cells to undergo large deformation without catastrophic failure while providing significant mechanical resistance.
+
+-Actins (-chemistry)
+-Algorithms
+-Animals
+-Biomechanics
+-Computational Biology (-methods)
+-Computer Simulation
+-Cytoskeleton (-physiology)
+-Humans
+-Models, Biological
+-Models, Statistical
+-Nanotechnology (-methods)
+-Protein Folding
++Protein Structure, Secondary
+-Proteins (+chemistry)
+-Stress, Mechanical
+
+doi:10.1371/journal.pone.0006015
+pubmed:19547709
+pmc:PMC2696088
+

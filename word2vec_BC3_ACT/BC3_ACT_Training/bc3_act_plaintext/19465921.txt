@@ -1,0 +1,29 @@
+Nat. Cell Biol.
+
+The FANC pathway and BLM collaborate during mitosis to prevent micro-nucleation and chromosome abnormalities.
+
+V Naim, F Rosselli
+
+Loss-of-function of caretaker genes characterizes a group of cancer predisposition diseases that feature cellular hypersensitivity to DNA damage and chromosome fragility; this group includes Fanconi anaemia and Bloom syndrome. The products of the 13 FANC genes (mutated in Fanconi anaemia), which constitute the 'FANC' pathway, and BLM (the RecQ helicase mutated in Bloom syndrome) are thought to collaborate during the S phase of the cell cycle, preventing chromosome instability. Recently, BLM has been implicated in the completion of sister chromatid separation during mitosis, a complex process in which precise regulation and execution is crucial to preserve genomic stability. Here we show for the first time a role for the FANC pathway in chromosome segregation during mitotic cell division. FANCD2, a key component of the pathway, localizes to discrete spots on mitotic chromosomes. FANCD2 chromosomal localization is responsive to replicative stress and specifically targets aphidicolin (APH)-induced chromatid gaps and breaks. Our data indicate that the FANC pathway is involved in rescuing abnormal anaphase and telophase (ana-telophase) cells, limiting aneuploidy and reducing chromosome instability in daughter cells. We further address a cooperative role for the FANC pathway and BLM in preventing micronucleation, through FANC-dependent targeting of BLM to non-centromeric abnormal structures induced by replicative stress. We reveal new crosstalk between FANC and BLM proteins, extending their interaction beyond the S-phase rescue of damaged DNA to the safeguarding of chromosome stability during mitosis.
+
+-Bloom Syndrome (-genetics; -metabolism)
+-Cell Line
++Chromosome Aberrations
+-Chromosome Segregation
+-Cytokinesis (-physiology)
+-DNA Replication
+-Fanconi Anemia (-genetics; -metabolism)
+-Fanconi Anemia Complementation Group D2 Protein (-genetics; -metabolism)
+-Fanconi Anemia Complementation Group Proteins (-genetics; +metabolism)
+-Histones (-genetics; -metabolism)
+-Humans
++Micronuclei, Chromosome-Defective
+-Mitosis (+physiology)
+-RNA Interference
+-RecQ Helicases (-genetics; +metabolism)
+-Signal Transduction (-physiology)
+
+pii:ncb1883
+doi:10.1038/ncb1883
+pubmed:19465921
+

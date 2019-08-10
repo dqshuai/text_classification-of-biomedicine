@@ -1,0 +1,27 @@
+RNA
+
+Quantitative analysis of zeptomole microRNAs based on isothermal ramification amplification.
+
+B Yao, J Li, H Huang, C Sun, Z Wang, Y Fan, Q Chang, S Li, J Xi
+
+To date, approximately 700 microRNA (miRNA) molecules have been identified in humans. Accurate and sensitive quantification of miRNA levels will help unveil their biological functions. Here, we extend the isothermal ramification amplification (RAM) approach to a sensitive and specific real-time assay for quantitative analysis of miRNA. This RAM miRNA assay is based on the threshold cycle (C(T)) principle similar to that of real-time PCR. It has a dynamic range of at least seven orders of magnitude, allowing for the quantification of miRNA input from 10(3) to 10(10) copies per reaction (10 nM to 1 fM). The capabilities of discriminating single-base mismatch and distinguishing mature miRNAs from their precursors are achieved by coupling the reverse-transcription of miRNA to the generation of a closed C-probe, rather than using expensive detection probes like in real-time PCR. Quantitative measurement of 5 miRNAs (mir-1, miR-122, mir-150, mir-143, and let-7a) across 12 mouse tissues is validated in total RNA samples without further purification. U6 snRNA, snoRNA 135, and miRNA-191 could be simultaneously quantified as endogenous controls. These results suggest that our RAM miRNA assay might provide a universal tool for miRNA detection and functional studies to meet the needs for bench examination, clinical diagnosis, and on-site detection.
+
+-Animals
+-Base Sequence
+-Female
+-Male
+-Mice
+-MicroRNAs (+analysis; -chemistry)
+-Models, Biological
+-Nucleic Acid Amplification Techniques (+methods)
+-Osmolar Concentration
+-Polymerase Chain Reaction (-methods)
+-Sensitivity and Specificity
+-Sequence Homology, Nucleic Acid
+-Temperature
+
+pii:rna.1555209
+doi:10.1261/rna.1555209
+pubmed:19620236
+pmc:PMC2743063
+

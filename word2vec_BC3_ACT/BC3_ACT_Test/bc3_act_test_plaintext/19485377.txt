@@ -1,0 +1,28 @@
+J. Am. Chem. Soc.
+
+Simulation of NMR data reveals that proteins' local structures are stabilized by electronic polarization.
+
+Y Tong, CG Ji, Y Mei, JZ Zhang
+
+Molecular dynamics simulations of NMR backbone relaxation order parameters have been carried out to investigate the polarization effect on the protein's local structure and dynamics for five benchmark proteins (bovine pancreatic trypsin inhibitor, immunoglobulin-binding domain (B1) of streptococcal protein G, bovine apo-calbindin D9K, human interleukin-4 R88Q mutant, and hen egg white lysozyme). In order to isolate the polarization effect from other interaction effects, our study employed both the standard AMBER force field (AMBER03) and polarized protein-specific charges (PPCs) in the MD simulations. The simulated order parameters, employing both the standard nonpolarizable and polarized force fields, are directly compared with experimental data. Our results show that residue-specific order parameters at some specific loop and turn regions are significantly underestimated by the MD simulations using the standard AMBER force field, indicating hyperflexibility of these local structures. Detailed analysis of the structures and dynamic motions of individual residues reveals that the hyperflexibility of these local structures is largely related to the breaking or weakening of relevant hydrogen bonds. In contrast, the agreement with the experimental results is significantly improved and more stable local structures are observed in the MD simulations using the polarized force field. The comparison between theory and experiment provides convincing evidence that intraprotein hydrogen bonds in these regions are stabilized by electronic polarization, which is critical to the dynamical stability of these local structures in proteins.
+
+-Animals
+-Aprotinin (-chemistry)
+-Bacterial Proteins (-chemistry)
+-Calcium-Binding Protein, Vitamin D-Dependent (-chemistry)
+-Cattle
+-Computer Simulation
+-Humans
+-Immunoglobulins (-chemistry)
+-Interleukin-4 (-chemistry)
+-Models, Molecular
+-Muramidase (-chemistry)
+-Nuclear Magnetic Resonance, Biomolecular (+methods)
+-Protein Structure, Tertiary
+-Proteins (+chemistry)
+-Quantum Theory
+-Static Electricity
+
+doi:10.1021/ja901650r
+pubmed:19485377
+

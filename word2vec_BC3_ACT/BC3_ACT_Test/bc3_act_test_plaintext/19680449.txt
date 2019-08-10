@@ -1,0 +1,32 @@
+PLoS Pathog.
+
+Plasmodium falciparum-mediated induction of human CD25Foxp3 CD4 T cells is independent of direct TCR stimulation and requires IL-2, IL-10 and TGFbeta.
+
+A Scholzen, D Mittag, SJ Rogerson, BM Cooke, M Plebanski
+
+CD4(+)CD25(+)Foxp3(+) regulatory T cells (Tregs) regulate disease-associated immunity and excessive inflammatory responses, and numbers of CD4(+)CD25(+)Foxp3(+) Tregs are increased during malaria infection. The mechanisms governing their generation, however, remain to be elucidated. In this study we investigated the role of commonly accepted factors for Foxp3 induction, TCR stimulation and cytokines such as IL-2, TGFbeta and IL-10, in the generation of human CD4(+)CD25(+)Foxp3(+) T cells by the malaria parasite Plasmodium falciparum. Using a co-culture system of malaria-infected red blood cells (iRBCs) and peripheral blood mononuclear cells from healthy individuals, we found that two populations of Foxp3(hi) and Foxp3(int) CD4(+)CD25(hi) T cells with a typical Treg phenotype (CTLA-4(+), CD127(low), CD39(+), ICOS(+), TNFRII(+)) were induced. Pro-inflammatory cytokine production was confined to the Foxp3(int) subset (IFNgamma, IL-4 and IL-17) and inversely correlated with high relative levels of Foxp3(hi) cells, consistent with Foxp3(hi) CD4 T cell-mediated inhibition of parasite-induced effector cytokine T cell responses. Both Foxp3(hi) and Foxp3(int) cells were derived primarily from proliferating CD4(+)CD25(-) T cells with a further significant contribution from CD25(+)Foxp3(+) natural Treg cells to the generation of the Foxp3(hi) subset. Generation of Foxp3(hi), but not Foxp3(int), cells specifically required TGFbeta1 and IL-10. Add-back experiments showed that monocytes expressing increased levels of co-stimulatory molecules were sufficient for iRBC-mediated induction of Foxp3 in CD4 T cells. Foxp3 induction was driven by IL-2 from CD4 T cells stimulated in an MHC class II-dependent manner. However, transwell separation experiments showed that direct contact of monocytes with the cells that acquire Foxp3 expression was not required. This novel TCR-independent and therefore antigen-non specific mechanism for by-stander CD4(+)CD25(hi)Foxp3(+) cell induction is likely to reflect a process also occurring in vivo as a consequence of immune activation during malaria infection, and potentially a range of other infectious diseases.
+
+-Animals
+-Antibodies, Blocking (-pharmacology)
+-CD4-Positive T-Lymphocytes (+immunology; -metabolism)
+-Coculture Techniques
+-Cytokines (-genetics; -immunology; +metabolism)
+-Erythrocytes (-metabolism; -parasitology)
+-Forkhead Transcription Factors (-genetics; +metabolism)
+-Gene Expression Regulation (-genetics; -immunology)
+-Host-Pathogen Interactions
+-Humans
+-Interleukin-10 (-genetics; -immunology; -metabolism)
+-Interleukin-2 (-genetics; -immunology; -metabolism)
+-Interleukin-2 Receptor alpha Subunit (-genetics; +metabolism)
+-Leukocytes, Mononuclear (-drug effects; -metabolism)
+-Malaria, Falciparum (+immunology)
+-Plasmodium falciparum (+physiology)
+-Receptors, Antigen, T-Cell (-immunology; -metabolism)
+-T-Lymphocytes, Regulatory (+immunology; -metabolism)
+-Transforming Growth Factor beta (-genetics; -immunology; -metabolism)
+
+doi:10.1371/journal.ppat.1000543
+pubmed:19680449
+pmc:PMC2718810
+

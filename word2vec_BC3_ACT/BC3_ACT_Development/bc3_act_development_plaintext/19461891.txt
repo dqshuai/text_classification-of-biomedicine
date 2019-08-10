@@ -1,0 +1,37 @@
+PLoS Genet.
+
+GLS-1, a novel P granule component, modulates a network of conserved RNA regulators to influence germ cell fate decisions.
+
+A Rybarska, M Harterink, B Jedamzik, AP Kupinski, M Schmid, CR Eckmann
+
+Post-transcriptional regulatory mechanisms are widely used to influence cell fate decisions in germ cells, early embryos, and neurons. Many conserved cytoplasmic RNA regulatory proteins associate with each other and assemble on target mRNAs, forming ribonucleoprotein (RNP) complexes, to control the mRNAs translational output. How these RNA regulatory networks are orchestrated during development to regulate cell fate decisions remains elusive. We addressed this problem by focusing on Caenorhabditis elegans germline development, an exemplar of post-transcriptional control mechanisms. Here, we report the discovery of GLS-1, a new factor required for many aspects of germline development, including the oocyte cell fate in hermaphrodites and germline survival. We find that GLS-1 is a cytoplasmic protein that localizes in germ cells dynamically to germplasm (P) granules. Furthermore, its functions depend on its ability to form a protein complex with the RNA-binding Bicaudal-C ortholog GLD-3, a translational activator and P granule component important for similar germ cell fate decisions. Based on genetic epistasis experiments and in vitro competition experiments, we suggest that GLS-1 releases FBF/Pumilio from GLD-3 repression. This facilitates the sperm-to-oocyte switch, as liberated FBF represses the translation of mRNAs encoding spermatogenesis-promoting factors. Our proposed molecular mechanism is based on the GLS-1 protein acting as a molecular mimic of FBF/Pumilio. Furthermore, we suggest that a maternal GLS-1/GLD-3 complex in early embryos promotes the expression of mRNAs encoding germline survival factors. Our work identifies GLS-1 as a fundamental regulator of germline development. GLS-1 directs germ cell fate decisions by modulating the availability and activity of a single translational network component, GLD-3. Hence, the elucidation of the mechanisms underlying GLS-1 functions provides a new example of how conserved machinery can be developmentally manipulated to influence cell fate decisions and tissue development.
+
+-Animals
+-Caenorhabditis elegans (-cytology; -embryology; +genetics; +metabolism)
+-Caenorhabditis elegans Proteins (-genetics; +metabolism)
+-Cell Differentiation
+-Cell Survival
+-Chromosome Mapping
+-Cytoplasmic Granules (-metabolism)
+-Female
+-Gene Expression Regulation, Developmental
+-Genes, Helminth
+-Germ Cells (-cytology; +metabolism)
+-Male
+-Models, Biological
+-Molecular Sequence Data
+-Mutation
+-Oocytes (-cytology; -metabolism)
+-Oogenesis (-genetics)
+-Protein Binding
+-RNA Processing, Post-Transcriptional
+-RNA, Helminth (-genetics; -metabolism)
+-RNA-Binding Proteins (-genetics; -metabolism)
+-Ribonucleoproteins (-genetics; -metabolism)
+-Sex Determination (Genetics)
+-Spermatozoa (-cytology; -metabolism)
+
+doi:10.1371/journal.pgen.1000494
+pubmed:19461891
+pmc:PMC2679207
+

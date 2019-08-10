@@ -1,0 +1,28 @@
+Immunity
+
+Recognition of 5' triphosphate by RIG-I helicase requires short blunt double-stranded RNA as contained in panhandle of negative-strand virus.
+
+M Schlee, A Roth, V Hornung, CA Hagmann, V Wimmenauer, W Barchet, C Coch, M Janke, A Mihailovic, G Wardle, S Juranek, H Kato, T Kawai, H Poeck, KA Fitzgerald, O Takeuchi, S Akira, T Tuschl, E Latz, J Ludwig, G Hartmann
+
+Antiviral immunity is triggered by immunorecognition of viral nucleic acids. The cytosolic helicase RIG-I is a key sensor of viral infections and is activated by RNA containing a triphosphate at the 5' end. The exact structure of RNA activating RIG-I remains controversial. Here, we established a chemical approach for 5' triphosphate oligoribonucleotide synthesis and found that synthetic single-stranded 5' triphosphate oligoribonucleotides were unable to bind and activate RIG-I. Conversely, the addition of the synthetic complementary strand resulted in optimal binding and activation of RIG-I. Short double-strand conformation with base pairing of the nucleoside carrying the 5' triphosphate was required. RIG-I activation was impaired by a 3' overhang at the 5' triphosphate end. These results define the structure of RNA for full RIG-I activation and explain how RIG-I detects negative-strand RNA viruses that lack long double-stranded RNA but do contain blunt short double-stranded 5' triphosphate RNA in the panhandle region of their single-stranded genome.
+
+-Animals
+-Cells, Cultured
+-DEAD-box RNA Helicases (-genetics; +immunology)
+-Humans
+-Interferon-alpha (-biosynthesis; -immunology)
+-Mice
+-Mice, Mutant Strains
+-Monocytes (-immunology; -metabolism)
+-Oligoribonucleotides (-chemical synthesis; -immunology)
+-Polyphosphates (+immunology; -metabolism)
+-RNA Viruses (+immunology)
+-RNA, Double-Stranded (+immunology; -metabolism)
+-RNA, Viral (+immunology; -metabolism)
+
+pii:S1074-7613(09)00271-4
+doi:10.1016/j.immuni.2009.05.008
+pubmed:19576794
+mid:NIHMS175798
+pmc:PMC2824854
+

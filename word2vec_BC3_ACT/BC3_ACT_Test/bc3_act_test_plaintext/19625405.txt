@@ -1,0 +1,29 @@
+J. Virol.
+
+Bypass suppression of small-plaque phenotypes by a mutation in poliovirus 2A that enhances apoptosis.
+
+TB Burgon, JA Jenkins, SB Deitz, JF Spagnolo, K Kirkegaard
+
+The rate of protein secretion in host cells is inhibited during infection with several different picornaviruses, with consequences likely to have significant effects on viral growth, spread, and pathogenesis. This Sin(+) (secretion inhibition) phenotype has been documented for poliovirus, foot-and-mouth disease virus, and coxsackievirus B3 and can lead to reduced cell surface expression of major histocompatibility complex class I and tumor necrosis factor receptor as well as reduced extracellular secretion of induced cytokines such as interleukin-6 (IL-6), IL-8, and beta interferon. The inhibition of protein secretion is global, affecting the movement of all tested cargo proteins through the cellular secretion apparatus. To test the physiological significance of the Sin(-) and Sin(+) phenotypes in animal models, Sin(-) mutant viruses are needed that fail to inhibit host protein secretion and also exhibit robust growth properties. To identify such Sin(-) mutant polioviruses, we devised a fluorescence-activated cell sorter-based screen to select virus-infected cells that nevertheless expressed newly synthesized surface proteins. After multiple rounds of selection, candidate Sin(-) mutant viruses were screened for genetic stability, increased secretion of cargo molecules and wild-type translation and growth properties. A newly identified Sin(-) mutant poliovirus that contained coding changes in nonstructural proteins 2A (N32D) and 2C (E253G) was characterized. In this virus, the 2C mutation is responsible for the Sin(-) phenotype and the 2A mutation suppresses a resulting growth defect by increasing the rate of cell death and therefore the rate of viral spread. The 2A-N32D suppressor mutation was not allele specific and, by increasing the rate of cellular apoptosis, affected a completely different pathway than the 2C-E253G Sin(-) mutation. Therefore, the 2A mutation suppresses the 2C-E253G mutant phenotype by a bypass suppression mechanism.
+
++Apoptosis
+-Cell Line, Tumor
+-Cell Separation
+-Flow Cytometry
+-Gene Expression Regulation, Viral
+-Hela Cells
+-Humans
+-Interferon-beta (-metabolism)
+-Interleukin-6 (-metabolism)
+-Interleukin-8 (-metabolism)
++Mutation
+-Phenotype
+-Poliovirus (+genetics)
+-RNA, Viral (-metabolism)
+-Viral Proteins (-metabolism)
+
+pii:JVI.00642-09
+doi:10.1128/JVI.00642-09
+pubmed:19625405
+pmc:PMC2748046
+

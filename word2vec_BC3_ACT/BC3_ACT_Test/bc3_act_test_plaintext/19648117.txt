@@ -1,0 +1,31 @@
+J. Biol. Chem.
+
+Nutlin-3 affects expression and function of retinoblastoma protein: role of retinoblastoma protein in cellular response to nutlin-3.
+
+W Du, J Wu, EM Walsh, Y Zhang, CY Chen, ZX Xiao
+
+The retinoblastoma protein (Rb) plays a pivotal role in regulating cell proliferation and apoptosis. Nutlin-3, a small molecule MDM2 antagonist blocking interaction between MDM2 and p53, activates p53 resulting in cell growth arrest or apoptosis in various cancer cells. However, the molecular basis for the different cellular responses upon nutlin-3 treatment is not fully understood. In this study, we show that nutlin-3 activates p53 resulting in a dramatic increase in MDM2 expression and a marked reduction in total Rb protein levels. Interestingly, nutlin-3 reduces the levels of hypophosphorylated Rb and induces massive apoptosis in SJSA-1 cells, which can be largely rescued by knockdown of MDM2 or by expression of constitutively active Rb. By contrast, nutlin-3 treatment of several human cancer cells, including A549, U2-OS, and HCT116, results in an accumulation of hypophosphorylated Rb and cell cycle arrest but not apoptosis. Furthermore, we show that down-regulation of Rb by nutlin-3 does not lead to E2F1 activation nor does E2F1 play a critical role for nutlin-3-induced apoptosis in SJSA-1 cells. Taken together, these results suggest that Rb plays a critical role in influencing cellular response to activation of p53 pathway by nutlin-3.
+
+-Apoptosis (-drug effects)
+-Blotting, Western
+-Cell Cycle (-drug effects)
+-Cell Line
+-Cell Line, Tumor
+-Cyclin-Dependent Kinase Inhibitor p21 (-metabolism)
+-Flow Cytometry
+-HCT116 Cells
+-Humans
+-Imidazoles (+pharmacology)
+-Phosphorylation (-drug effects)
+-Piperazines (+pharmacology)
+-Proto-Oncogene Proteins c-mdm2 (-genetics; +metabolism)
+-RNA Interference
+-Retinoblastoma Protein (+metabolism)
+-Signal Transduction (-drug effects)
+-Tumor Suppressor Protein p53 (+metabolism)
+
+pii:M109.046904
+doi:10.1074/jbc.M109.046904
+pubmed:19648117
+pmc:PMC2785319
+

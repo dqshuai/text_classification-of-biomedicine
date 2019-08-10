@@ -1,0 +1,25 @@
+PLoS ONE
+
+Analysis of SEC9 suppression reveals a relationship of SNARE function to cell physiology.
+
+DC Williams, PJ Novick
+
+BACKGROUND: Growth and division of Saccharomyces cerevisiae is dependent on the action of SNARE proteins that are required for membrane fusion. SNAREs are regulated, through a poorly understood mechanism, to ensure membrane fusion at the correct time and place within a cell. Although fusion of secretory vesicles with the plasma membrane is important for yeast cell growth, the relationship between exocytic SNAREs and cell physiology has not been established. METHODOLOGY/PRINCIPAL FINDINGS: Using genetic analysis, we identified several influences on the function of exocytic SNAREs. Genetic disruption of the V-ATPase, but not vacuolar proteolysis, can suppress two different temperature-sensitive mutations in SEC9. Suppression is unlikely due to increased SNARE complex formation because increasing SNARE complex formation, through overexpression of SRO7, does not result in suppression. We also observed suppression of sec9 mutations by growth on alkaline media or on a non-fermentable carbon source, conditions associated with a reduced growth rate of wild-type cells and decreased SNARE complex formation. CONCLUSIONS/SIGNIFICANCE: Three main conclusions arise from our results. First, there is a genetic interaction between SEC9 and the V-ATPase, although it is unlikely that this interaction has functional significance with respect to membrane fusion or SNAREs. Second, Sro7p acts to promote SNARE complex formation. Finally, Sec9p function and SNARE complex formation are tightly coupled to the physiological state of the cell.
+
+-Adaptor Proteins, Signal Transducing
+-Carrier Proteins (-genetics; -metabolism)
+-Mutation (-genetics)
+-Qa-SNARE Proteins (-genetics; -metabolism)
+-Qc-SNARE Proteins (+physiology)
+-R-SNARE Proteins (-genetics; -metabolism)
+-SNARE Proteins (-genetics; +metabolism)
+-Saccharomyces cerevisiae (-genetics; +growth & development; +metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; -metabolism; +physiology)
+-Temperature
+-Vacuolar Proton-Translocating ATPases (+physiology)
+-Vacuoles (-metabolism)
+
+doi:10.1371/journal.pone.0005449
+pubmed:19421331
+pmc:PMC2674220
+

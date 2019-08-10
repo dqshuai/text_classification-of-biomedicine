@@ -1,0 +1,27 @@
+Cell Cycle
+
+The Polo-like kinase Cdc5 interacts with FEAR network components and Cdc14.
+
+R Rahal, A Amon
+
+Exit from mitosis in Saccharomyces cerevisiae is triggered by activation of the phosphatase Cdc14. Throughout interphase and early mitosis, Cdc14 is sequestered in the nucleolus by its inhibitor Cfi1/Net1. In anaphase, the Cdc Fourteen Early Anaphase Release (FEAR) network and the Mitotic Exit Network (MEN) coordinately trigger the release of Cdc14 from the nucleolus. Here we show that the FEAR network component Cdc5 physically associates with two other members of the pathway, the Separase Esp1 and the Esp1-binding protein Slk19. Furthermore, we find that Cdc5 physically interacts with Cdc14 and that this association is mediated by Cdc5's Polo-box domain, a phospho-serine/phosphothreonine binding domain. Finally, we present evidence that the Cdc5-Cdc14 association is direct, further supporting the central role of Cdc5 in Cdc14 localization.
+
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Cell Nucleolus (-metabolism)
+-Endopeptidases (-genetics; -metabolism)
+-Microtubule-Associated Proteins (-genetics; -metabolism)
+-Mitosis (+physiology)
+-Protein Binding
+-Protein Kinases (-genetics; +metabolism)
+-Protein Structure, Tertiary
+-Protein Tyrosine Phosphatases (-genetics; +metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Saccharomyces cerevisiae (-cytology; -genetics; +metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Signal Transduction (+physiology)
+
+pii:6852
+pubmed:18927509
+mid:NIHMS88589
+pmc:PMC2665935
+

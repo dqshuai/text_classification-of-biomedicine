@@ -1,0 +1,21 @@
+EMBO J.
+
+Increased RNA polymerase availability directs resources towards growth at the expense of maintenance.
+
+B Gummesson, LU Magnusson, M Lovmar, K Kvint, O Persson, M Ballesteros, A Farewell, T Nyström
+
+Nutritionally induced changes in RNA polymerase availability have been hypothesized to be an evolutionary primeval mechanism for regulation of gene expression and several contrasting models have been proposed to explain how such 'passive' regulation might occur. We demonstrate here that ectopically elevating Escherichia coli RNA polymerase (Esigma(70)) levels causes an increased expression and promoter occupancy of ribosomal genes at the expense of stress-defense genes and amino acid biosynthetic operons. Phenotypically, cells overproducing Esigma(70) favours growth and reproduction at the expense of motility and damage protection; a response reminiscent of cells with no or diminished levels of the alarmone guanosine tetraphosphate (ppGpp). Consistently, we show that cells lacking ppGpp displayed markedly elevated levels of free Esigma(70) compared with wild-type cells and that the repression of ribosomal RNA expression and reduced growth rate of mutants with constitutively elevated levels of ppGpp can be suppressed by overproducing Esigma(70). We conclude that ppGpp modulates the levels of free Esigma(70) and that this is an integral part of the alarmone's means of regulating a trade-off between growth and maintenance.
+
+-DNA-Directed RNA Polymerases (+metabolism)
+-Escherichia coli (-growth & development; -metabolism; +physiology)
+-Escherichia coli Proteins (+metabolism)
++Gene Expression Regulation, Bacterial
+-Guanosine Tetraphosphate (+metabolism)
+-RNA, Ribosomal (-biosynthesis)
+-Sigma Factor (+metabolism)
+
+pii:emboj2009181
+doi:10.1038/emboj.2009.181
+pubmed:19574956
+pmc:PMC2726692
+

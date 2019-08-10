@@ -1,0 +1,17 @@
+Nat. Methods
+
+Crystallographic ab initio protein structure solution below atomic resolution.
+
+DD Rodríguez, C Grosse, S Himmel, C González, IM de Ilarduya, S Becker, GM Sheldrick, I Usón
+
+Ab initio macromolecular phasing has been so far limited to small proteins diffracting at atomic resolution (beyond 1.2 A) unless heavy atoms are present. We describe a general ab initio phasing method for 2 A data, based on combination of localizing model fragments such as small á-helices with Phaser and density modification with SHELXE. We implemented this approach in the program Arcimboldo to solve a 222-amino-acid structure at 1.95 A.
+
+-Crystallography (-methods)
+-Models, Molecular
+-Protein Conformation
+-Proteins (+chemistry)
+
+pii:nmeth.1365
+doi:10.1038/nmeth.1365
+pubmed:19684596
+

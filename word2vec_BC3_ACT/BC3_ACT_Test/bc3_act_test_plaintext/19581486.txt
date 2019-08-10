@@ -1,0 +1,30 @@
+Genome Res.
+
+Transcriptional and post-transcriptional profile of human chromosome 21.
+
+SI Nikolaev, S Deutsch, R Genolet, C Borel, L Parand, C Ucla, F Schütz, G Duriaux Sail, Y Dupré, P Jaquier-Gubler, T Araud, B Conne, P Descombes, JD Vassalli, J Curran, SE Antonarakis
+
+Recent studies have demonstrated extensive transcriptional activity across the human genome, a substantial fraction of which is not associated with any functional annotation. However, very little is known regarding the post-transcriptional processes that operate within the different classes of RNA molecules. To characterize the post-transcriptional properties of expressed sequences from human chromosome 21 (HSA21), we separated RNA molecules from three cell lines (GM06990, HeLa S3, and SK-N-AS) according to their ribosome content by sucrose gradient fractionation. Polyribosomal-associated RNA and total RNA were subsequently hybridized to genomic tiling arrays. We found that approximately 50% of the transcriptional signals were located outside of annotated exons and were considered as TARs (transcriptionally active regions). Although TARs were observed among polysome-associated RNAs, RT-PCR and RACE experiments revealed that approximately 40% were likely to represent nonspecific cross-hybridization artifacts. Bioinformatics discrimination of TARs according to conservation and sequence complexity allowed us to identify a set of high-confidence TARs. This set of TARs was significantly depleted in the polysomes, suggesting that it was not likely to be involved in translation. Analysis of polysome representation of RefSeq exons showed that at least 15% of RefSeq transcripts undergo significant post-transcriptional regulation in at least two of the three cell lines tested. Among the regulated transcripts, enrichment analysis revealed an over-representation of genes involved in Alzheimer's disease (AD), including APP and the BACE1 protease that cleaves APP to produce the pathogenic beta 42 peptide. We demonstrate that the combination of RNA fractionation and tiling arrays is a powerful method to assess the transcriptional and post-transcriptional properties of genomic regions.
+
+-5' Untranslated Regions (-genetics)
+-Cell Fractionation (-methods)
+-Cell Line, Transformed
+-Cell Line, Tumor
+-Centrifugation, Density Gradient
+-Chromosomes, Human, Pair 21 (+genetics)
++Gene Expression Profiling
+-Genomics (-methods)
+-Hela Cells
+-Humans
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Polyribosomes (-metabolism)
+-RNA (-genetics; -isolation & purification; -metabolism)
+-Reproducibility of Results
+-Reverse Transcriptase Polymerase Chain Reaction
+-Transcription, Genetic (+genetics)
+
+pii:gr.089425.108
+doi:10.1101/gr.089425.108
+pubmed:19581486
+pmc:PMC2720192
+

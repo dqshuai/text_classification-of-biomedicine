@@ -1,0 +1,26 @@
+PLoS ONE
+
+An exploratory pathways analysis of temporal changes induced by spinal cord injury in the rat bladder wall: insights on remodeling and inflammation.
+
+S Wognum, CE Lagoa, J Nagatomi, MS Sacks, Y Vodovotz
+
+BACKGROUND: Spinal cord injuries (SCI) can lead to severe bladder pathologies associated with inflammation, fibrosis, and increased susceptibility to urinary tract infections. We sought to characterize the complex pathways of remodeling, inflammation, and infection in the urinary bladder at the level of the transcriptome in a rat model of SCI, using pathways analysis bioinformatics. METHODOLOGY/PRINCIPAL FINDINGS: Experimental data were obtained from the study of Nagatomi et al. (Biochem Biophys Res Commun 334: 1159). In this study, bladders from rats subjected to surgical SCI were obtained at 3, 7 or 25 days post-surgery, and Affymetrix GeneChip Rat Genome U34A arrays were used for cRNA hybridizations. In the present study, Ingenuity Pathways Analysis (Ingenuity Systems, www.ingenuity.com) of differentially expressed genes was performed. Analysis of focus genes in networks, functional analysis, and canonical pathway analysis reinforced our previous findings related to the presence of up-regulated genes involved in tissue remodeling, such as lysyl oxidase, tropoelastin, TGF-beta1, and IGF-1. This analysis also highlighted a central role for inflammation and infection, evidenced by networks containing genes such as CD74, S100A9, and THY1. CONCLUSIONS/SIGNIFICANCE: Our findings suggest that tissue remodeling, infection, inflammation, and tissue damage/dysfunction all play a role in the urinary bladder, in the complex response to SCI.
+
+-Animals
+-Computational Biology (-methods)
+-Female
+-Fibrosis (-pathology)
++Gene Expression Regulation
+-Infection (+complications; +physiopathology)
++Inflammation
+-Oligonucleotide Array Sequence Analysis
+-Rats
+-Rats, Sprague-Dawley
+-Spinal Cord Injuries (+complications; +physiopathology)
+-Time Factors
+-Urinary Bladder (+pathology)
+
+doi:10.1371/journal.pone.0005852
+pubmed:19513121
+pmc:PMC2688838
+

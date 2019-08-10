@@ -1,0 +1,27 @@
+BMC Struct. Biol.
+
+Structural and phylogenetic analysis of a conserved actinobacteria-specific protein (ASP1; SCO1997) from Streptomyces coelicolor.
+
+B Gao, S Sugiman-Marangos, MS Junop, RS Gupta
+
+BACKGROUND: The Actinobacteria phylum represents one of the largest and most diverse groups of bacteria, encompassing many important and well-characterized organisms including Streptomyces, Bifidobacterium, Corynebacterium and Mycobacterium. Members of this phylum are remarkably diverse in terms of life cycle, morphology, physiology and ecology. Recent comparative genomic analysis of 19 actinobacterial species determined that only 5 genes of unknown function uniquely define this large phylum 1. The cellular functions of these actinobacteria-specific proteins (ASP) are not known. RESULTS: Here we report the first characterization of one of the 5 actinobacteria-specific proteins, ASP1 (Gene ID: SCO1997) from Streptomyces coelicolor. The X-ray crystal structure of ASP1 was determined at 2.2 A. The overall structure of ASP1 retains a similar fold to the large NP-1 family of nucleoside phosphorylase enzymes; however, the function is not related. Further comparative analysis revealed two regions expected to be important for protein function: a central, divalent metal ion binding pore, and a highly conserved elbow shaped helical region at the C-terminus. Sequence analyses revealed that ASP1 is paralogous to another actinobacteria-specific protein ASP2 (SCO1662 from S. coelicolor) and that both proteins likely carry out similar function. CONCLUSION: Our structural data in combination with sequence analysis supports the idea that two of the 5 actinobacteria-specific proteins, ASP1 and ASP2, mediate similar function. This function is predicted to be novel since the structures of these proteins do not match any known protein with or without known function. Our results suggest that this function could involve divalent metal ion binding/transport.
+
+-Amino Acid Sequence
+-Bacterial Proteins (+chemistry; -classification)
+-Binding Sites
+-Computer Simulation
+-Conserved Sequence
+-Crystallography, X-Ray
+-Metals (-chemistry)
+-Molecular Sequence Data
+-Phylogeny
+-Protein Structure, Tertiary
+-Purine-Nucleoside Phosphorylase (-chemistry)
+-Sequence Homology, Amino Acid
+-Streptomyces coelicolor (+chemistry)
+
+pii:1472-6807-9-40
+doi:10.1186/1472-6807-9-40
+pubmed:19515238
+pmc:PMC2714318
+

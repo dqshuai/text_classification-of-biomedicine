@@ -1,0 +1,30 @@
+J. Biol. Chem.
+
+E2P state stabilization by the N-terminal tail of the H,K-ATPase beta-subunit is critical for efficient proton pumping under in vivo conditions.
+
+KL Dürr, K Abe, NN Tavraz, T Friedrich
+
+The catalytic alpha-subunits of Na,K- and H,K-ATPase require an accessory beta-subunit for proper folding, maturation, and plasma membrane delivery but also for cation transport. To investigate the functional significance of the beta-N terminus of the gastric H,K-ATPase in vivo, several N-terminally truncated beta-variants were expressed in Xenopus oocytes, together with the S806C alpha-subunit variant. Upon labeling with the reporter fluorophore tetramethylrho da mine-6-maleimide, this construct can be used to determine the voltage-dependent distribution between E(1)P/E(2)P states. Whereas the E(1)P/E(2)P conformational equilibrium was unaffected for the shorter N-terminal deletions betaDelta4 and betaDelta8, we observed significant shifts toward E(1)P for the two larger deletions betaDelta13 and betaDelta29. Moreover, the reduced DeltaF/F ratios of betaDelta13 and betaDelta29 indicated an increased reverse reaction via E(2)P --> E(1)P + ADP --> E(1) + ATP, because cell surface expression was completely unaffected. This interpretation is supported by the reduced sensitivity of the mutants toward the E(2)P-specific inhibitor SCH28080, which becomes especially apparent at high concentrations (100 microm). Despite unaltered apparent Rb(+) affinities, the maximal Rb(+) uptake of these mutants was also significantly lowered. Considering the two putative interaction sites between the beta-N terminus and alpha-subunit revealed by the recent cryo-EM structure, the N-terminal tail of the H,K-ATPase beta-subunit may stabilize the pump in the E(2)P conformation, thereby increasing the efficiency of proton release against the million-fold proton gradient of the stomach lumen. Finally, we demonstrate that a similar truncation of the beta-N terminus of the closely related Na,K-ATPase does not affect the E(1)P/E(2)P distribution or pump activity, indicating that the E(2)P-stabilizing effect by the beta-N terminus is apparently a unique property of the H,K-ATPase.
+
+-Animals
+-Biological Transport
+-H(+)-K(+)-Exchanging ATPase (-antagonists & inhibitors; -chemistry; +genetics; +metabolism)
+-Imidazoles (-metabolism)
+-Models, Molecular
+-Mutant Proteins (-chemistry; -genetics; -metabolism)
+-Oocytes (-metabolism)
+-Point Mutation
+-Protein Conformation
+-Protein Subunits (-antagonists & inhibitors; -chemistry; -genetics; -metabolism)
+-Rats
+-Rubidium (-metabolism)
+-Sheep
+-Sodium-Potassium-Exchanging ATPase (-chemistry; -genetics; -metabolism)
+-Stomach (+enzymology)
+-Xenopus laevis (-genetics)
+
+pii:M109.005769
+doi:10.1074/jbc.M109.005769
+pubmed:19491099
+pmc:PMC2740441
+

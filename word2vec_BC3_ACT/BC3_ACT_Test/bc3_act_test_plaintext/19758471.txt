@@ -1,0 +1,31 @@
+BMC Bioinformatics
+
+MtSNPscore: a combined evidence approach for assessing cumulative impact of mitochondrial variations in disease.
+
+A Bhardwaj, M Mukerji, S Sharma, J Paul, CS Gokhale, AK Srivastava, S Tiwari
+
+BACKGROUND: Human mitochondrial DNA (mtDNA) variations have been implicated in a broad spectrum of diseases. With over 3000 mtDNA variations reported across databases, establishing pathogenicity of variations in mtDNA is a major challenge. We have designed and developed a comprehensive weighted scoring system (MtSNPscore) for identification of mtDNA variations that can impact pathogenicity and would likely be associated with disease. The criteria for pathogenicity include information available in the literature, predictions made by various in silico tools and frequency of variation in normal and patient datasets. The scoring scheme also assigns scores to patients and normal individuals to estimate the cumulative impact of variations. The method has been implemented in an automated pipeline and has been tested on Indian ataxia dataset (92 individuals), sequenced in this study, and other publicly available mtSNP dataset comprising of 576 mitochondrial genomes of Japanese individuals from six different groups, namely, patients with Parkinson's disease, patients with Alzheimer's disease, young obese males, young non-obese males, and type-2 diabetes patients with or without severe vascular involvement. MtSNPscore, for analysis can extract information from variation data or from mitochondrial DNA sequences. It has a web-interface http://bioinformatics.ccmb.res.in/cgi-bin/snpscore/Mtsnpscore.pl that provides flexibility to update/modify the parameters for estimating pathogenicity. RESULTS: Analysis of ataxia and mtSNP data suggests that rare variants comprise the largest part of disease associated variations. MtSNPscore predicted possible role of eight and 79 novel variations in ataxia and mtSNP datasets, respectively, in disease etiology. Analysis of cumulative scores of patient and normal data resulted in Matthews Correlation Coefficient (MCC) of ~0.5 and accuracy of ~0.7 suggesting that the method may also predict involvement of mtDNA variation in diseases. CONCLUSION: We have developed a novel and comprehensive method for evaluation of mitochondrial variation and their involvement in disease. Our method has the most comprehensive set of parameters to assess mtDNA variations and overcomes the undesired bias generated as a result of better-studied diseases and genes. These variations can be prioritized for functional assays to confirm their pathogenic status.
+
+-Alzheimer Disease (-genetics)
+-Ataxia (-genetics)
+-Computational Biology (+methods)
+-Computer Simulation
+-DNA, Mitochondrial (+genetics)
+-Diabetes Mellitus, Type 2 (-genetics)
+-Disease (+genetics)
++Genes, Mitochondrial
+-Genetic Predisposition to Disease
+-Humans
+-Male
+-Mutation
+-Obesity (-genetics)
+-Parkinson Disease (-genetics)
+-Phenotype
+-Polymorphism, Single Nucleotide
+-Predictive Value of Tests
+
+pii:1471-2105-10-S8-S7
+doi:10.1186/1471-2105-10-S8-S7
+pubmed:19758471
+pmc:PMC2745589
+

@@ -1,0 +1,29 @@
+Nucleic Acids Res.
+
+Effect of salt and RNA structure on annealing and strand displacement by Hfq.
+
+JF Hopkins, S Panja, SA McNeil, SA Woodson
+
+The Sm-like protein Hfq promotes the association of small antisense RNAs (sRNAs) with their mRNA targets, but the mechanism of Hfq's RNA chaperone activity is unknown. To investigate RNA annealing and strand displacement by Hfq, we used oligonucleotides that mimic functional sequences within DsrA sRNA and the complementary rpoS mRNA. Hfq accelerated at least 100-fold the annealing of a fluorescently labeled molecular beacon to a 16-nt RNA. The rate of strand exchange between the oligonucleotides increased 80-fold. Therefore, Hfq is very active in both helix formation and exchange. However, high concentrations of Hfq destabilize the duplex by preferentially binding the single-stranded RNA. RNA binding and annealing were completely inhibited by 0.5 M salt. The target site in DsrA sRNA was 1000-fold less accessible to the molecular beacon than an unstructured oligonucleotide, and Hfq accelerated annealing with DsrA only 2-fold. These and other results are consistent with recycling of Hfq during the annealing reaction, and suggest that the net reaction depends on the relative interaction of Hfq with the products and substrates.
+
+-Adenine (-chemistry)
+-Bacterial Proteins (-genetics)
+-Electrophoresis, Polyacrylamide Gel
+-Fluorescent Dyes
+-Host Factor 1 Protein (+metabolism)
+-Kinetics
+-Nucleic Acid Conformation
+-Nucleic Acid Hybridization
+-Oligonucleotide Probes
+-RNA, Antisense (+chemistry; -metabolism)
+-RNA, Untranslated (+chemistry; -metabolism)
+-Salts (-chemistry)
+-Sigma Factor (-genetics)
+-Spectrometry, Fluorescence
+-Uridine (-chemistry)
+
+pii:gkp646
+doi:10.1093/nar/gkp646
+pubmed:19671524
+pmc:PMC2764445
+

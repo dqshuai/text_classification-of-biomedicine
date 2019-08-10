@@ -1,0 +1,25 @@
+Genetics
+
+Association genetics of coastal Douglas fir (Pseudotsuga menziesii var. menziesii, Pinaceae). I. Cold-hardiness related traits.
+
+AJ Eckert, AD Bower, JL Wegrzyn, B Pande, KD Jermstad, KV Krutovsky, JB St Clair, DB Neale
+
+Adaptation to cold is one of the greatest challenges to forest trees. This process is highly synchronized with environmental cues relating to photoperiod and temperature. Here, we use a candidate gene-based approach to search for genetic associations between 384 single-nucleotide polymorphism (SNP) markers from 117 candidate genes and 21 cold-hardiness related traits. A general linear model approach, including population structure estimates as covariates, was implemented for each marker-trait pair. We discovered 30 highly significant genetic associations [false discovery rate (FDR) Q < 0.10] across 12 candidate genes and 10 of the 21 traits. We also detected a set of 7 markers that had elevated levels of differentiation between sampling sites situated across the Cascade crest in northeastern Washington. Marker effects were small (r(2) < 0.05) and within the range of those published previously for forest trees. The derived SNP allele, as measured by a comparison to a recently diverged sister species, typically affected the phenotype in a way consistent with cold hardiness. The majority of markers were characterized as having largely nonadditive modes of gene action, especially underdominance in the case of cold-tolerance related phenotypes. We place these results in the context of trade-offs between the abilities to grow longer and to avoid fall cold damage, as well as putative epigenetic effects. These associations provide insight into the genetic components of complex traits in coastal Douglas fir, as well as highlight the need for landscape genetic approaches to the detection of adaptive genetic diversity.
+
+-Adaptation, Physiological (+genetics)
++Cold Climate
+-Environment
+-Epigenesis, Genetic
+-Genes, Plant
+-Genetic Markers
+-Genetic Variation
+-Geography
+-Polymorphism, Single Nucleotide
+-Pseudotsuga (+genetics)
+-Washington
+
+pii:genetics.109.102350
+doi:10.1534/genetics.109.102350
+pubmed:19487566
+pmc:PMC2728866
+

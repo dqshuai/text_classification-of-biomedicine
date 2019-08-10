@@ -1,0 +1,26 @@
+PLoS ONE
+
+Transmission of facial expressions of emotion co-evolved with their efficient decoding in the brain: behavioral and brain evidence.
+
+PG Schyns, LS Petro, ML Smith
+
+Competent social organisms will read the social signals of their peers. In primates, the face has evolved to transmit the organism's internal emotional state. Adaptive action suggests that the brain of the receiver has co-evolved to efficiently decode expression signals. Here, we review and integrate the evidence for this hypothesis. With a computational approach, we co-examined facial expressions as signals for data transmission and the brain as receiver and decoder of these signals. First, we show in a model observer that facial expressions form a lowly correlated signal set. Second, using time-resolved EEG data, we show how the brain uses spatial frequency information impinging on the retina to decorrelate expression categories. Between 140 to 200 ms following stimulus onset, independently in the left and right hemispheres, an information processing mechanism starts locally with encoding the eye, irrespective of expression, followed by a zooming out to processing the entire face, followed by a zooming back in to diagnostic features (e.g. the opened eyes in "fear", the mouth in "happy"). A model categorizer demonstrates that at 200 ms, the left and right brain have represented enough information to predict behavioral categorization performance.
+
++Behavior
+-Brain (+physiology)
+-Electroencephalography
++Emotions
++Evolution
++Facial Expression
+-Female
+-Humans
+-Male
+-Meta-Analysis as Topic
+-Spatial Behavior
+-Time Factors
+-Visual Pathways (-physiology)
+
+doi:10.1371/journal.pone.0005625
+pubmed:19462006
+pmc:PMC2680487
+

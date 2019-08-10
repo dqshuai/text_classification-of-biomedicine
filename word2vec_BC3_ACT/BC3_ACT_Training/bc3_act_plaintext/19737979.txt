@@ -1,0 +1,25 @@
+Plant Cell
+
+The STRUCTURAL MAINTENANCE OF CHROMOSOMES 5/6 complex promotes sister chromatid alignment and homologous recombination after DNA damage in Arabidopsis thaliana.
+
+K Watanabe, M Pacher, S Dukowic, V Schubert, H Puchta, I Schubert
+
+Sister chromatids are often arranged as incompletely aligned entities in interphase nuclei of Arabidopsis thaliana. The STRUCTURAL MAINTENANCE OF CHROMOSOMES (SMC) 5/6 complex, together with cohesin, is involved in double-strand break (DSB) repair by sister chromatid recombination in yeasts and mammals. Here, we analyzed the function of genes in Arabidopsis. The wild-type allele of SMC5 is essential for seed development. Each of the two SMC6 homologs of Arabidopsis is required for efficient repair of DNA breakage via intermolecular homologous recombination in somatic cells. Alignment of sister chromatids is enhanced transiently after X-irradiation (and mitomycin C treatment) in wild-type nuclei. In the smc5/6 mutants, the x-ray-mediated increase in sister chromatid alignment is much lower and delayed. The reduced S phase-established cohesion caused by a knockout mutation in one of the alpha-kleisin genes, SYN1, also perturbed enhancement of sister chromatid alignment after irradiation, suggesting that the S phase-established cohesion is a prerequisite for correct DSB-dependent cohesion. The radiation-sensitive51 mutant, deficient in heteroduplex formation during DSB repair, showed wild-type frequencies of sister chromatid alignment after X-irradiation, implying that the irradiation-mediated increase in sister chromatid alignment is a prerequisite for, rather than a consequence of, DNA strand exchange between sister chromatids. Our results suggest that the SMC5/6 complex promotes sister chromatid cohesion after DNA breakage and facilitates homologous recombination between sister chromatids.
+
+-Arabidopsis (+genetics)
+-Arabidopsis Proteins (+genetics)
+-Chromatids (+metabolism)
+-DNA Damage
++DNA Repair
+-DNA, Bacterial (-genetics)
+-Molecular Sequence Data
+-Mutagenesis, Insertional
+-RNA, Plant (-genetics)
++Recombination, Genetic
+-Seeds (-genetics; -growth & development)
+
+pii:tpc.108.060525
+doi:10.1105/tpc.108.060525
+pubmed:19737979
+pmc:PMC2768936
+

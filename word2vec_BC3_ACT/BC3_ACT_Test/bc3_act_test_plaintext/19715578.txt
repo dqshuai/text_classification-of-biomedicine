@@ -1,0 +1,24 @@
+BMC Mol. Biol.
+
+Molecular analysis of Ku redox regulation.
+
+SM Bennett, TM Neher, A Shatilla, JJ Turchi
+
+BACKGROUND: DNA double-strand breaks (DSBs) can occur in response to ionizing radiation (IR), radiomimetic agents and from endogenous DNA-damaging reactive oxygen metabolites. Unrepaired or improperly repaired DSBs are potentially the most lethal form of DNA damage and can result in chromosomal translocations and contribute to the development of cancer. The principal mechanism for the repair of DSBs in humans is non-homologous end-joining (NHEJ). Ku is a key member of the NHEJ pathway and plays an important role in the recognition step when it binds to free DNA termini. Ku then stimulates the assembly and activation of other NHEJ components. DNA binding of Ku is regulated by redox conditions and evidence from our laboratory has demonstrated that Ku undergoes structural changes when oxidized that results in a reduction in DNA binding activity. The C-terminal domain and cysteine 493 of Ku80 were investigated for their contribution to redox regulation of Ku. RESULTS: We effectively removed the C-terminal domain of Ku80 generating a truncation mutant and co-expressed this variant with wild type Ku70 in an insect cell system to create a Ku70/80DeltaC heterodimer. We also generated two single amino acid variants of Cys493, replacing this amino acid with either an alanine (C493A) or a serine (C493S), and over-expressed the variant proteins in SF9 insect cells in complex with wild type Ku70. Neither the truncation nor the amino acid substitutions alters protein expression or stability as determined by SDS-PAGE and Western blot analysis. We show that the C493 mutations do not alter the ability of Ku to bind duplex DNA in vitro under reduced conditions while truncation of the Ku80 C-terminus slightly reduced DNA binding affinity. Diamide oxidation of cysteines was shown to inhibit DNA binding similarly for both the wild-type and all variant proteins. Interestingly, differential DNA binding activity following re-reduction was observed for the Ku70/80DeltaC truncation mutant. CONCLUSION: Together, these results suggest that the C-terminal domain and C493 of Ku80 play at most a minor role in the redox regulation of Ku, and that other cysteines are likely involved, either alone or in conjunction with these regions of Ku80.
+
+-Animals
+-Antigens, Nuclear (+chemistry; -genetics; +metabolism)
+-Cell Line
+-DNA (-genetics; -metabolism)
+-DNA-Binding Proteins (+chemistry; -genetics; +metabolism)
+-Humans
+-Insects
+-Mutation
+-Oxidation-Reduction
+-Protein Structure, Tertiary
+
+pii:1471-2199-10-86
+doi:10.1186/1471-2199-10-86
+pubmed:19715578
+pmc:PMC2741464
+

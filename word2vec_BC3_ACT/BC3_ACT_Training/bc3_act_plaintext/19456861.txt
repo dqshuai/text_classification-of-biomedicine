@@ -1,0 +1,29 @@
+FEBS J.
+
+Inhibitor of nuclear factor-kappaB alpha derepresses hypoxia-inducible factor-1 during moderate hypoxia by sequestering factor inhibiting hypoxia-inducible factor from hypoxia-inducible factor 1alpha.
+
+DH Shin, SH Li, SW Yang, BL Lee, MK Lee, JW Park
+
+Hypoxia and inflammation often develop concurrently in numerous diseases, and both hypoxia-inducible factor (HIF)-1alpha and nuclear factor-kappaB (NF-kappaB) are key transcription factors of stress response genes. An NF-kappaB inhibitor, inhibitor of NF-kappaB alpha (IkappaB alpha), was found to interact with factor inhibiting HIF (FIH) and to be hydroxylated by FIH. However, FIH did not functionally regulate IkappaB alpha, and the consequence of the FIH-IkappaB alpha interaction thus remains uncertain. In the present study, we tested the possibility that IkappaB alpha regulates FIH. FIH-IkappaB alpha binding was confirmed by yeast two-hybrid and coimmunoprecipitation analyses. Functionally, IkappaB alpha expression further enhanced the transcriptional activity of HIF-1alpha under hypoxic conditions. Furthermore, IkappaB alpha knockdown repressed HIF-1alpha activity. Mechanistically, IkappaB alpha derepressed HIF-1alpha activity by inhibiting the FIH-mediated Asn803 hydroxylation of HIF-1alpha. It was also found that IkappaB alpha activated HIF-1alpha by sequestering FIH from HIF-1alpha. However, the effect of IkappaB alpha on HIF-1alpha activity was only observed in atmospheres containing 1% or more of oxygen. After tumor necrosis factor-alpha treatment, IkappaB alpha downregulation, Asn803 hydroxylation and HIF-1alpha inactivation all occurred up to 8 h, but subsided later. On the basis of these results, we propose that IkappaB alpha plays a positive regulatory role during HIF-1-mediated gene expression. Therefore, IkappaB alpha, owing to its interactions with NF-kappaB and HIF-1alpha, may play a pivotal role in the crosstalk between the molecular events that underlie inflammatory and hypoxic responses.
+
+-Animals
+-Anoxia (+metabolism)
+-Asparagine (-metabolism)
+-Cell Line
+-Erythropoietin (-genetics; -metabolism)
+-Gene Expression Regulation
+-Genes, Reporter
+-Humans
+-Hypoxia-Inducible Factor 1, alpha Subunit (-genetics; +metabolism)
+-I-kappa B Proteins (-genetics; +metabolism)
+-NF-kappa B (-antagonists & inhibitors; +metabolism)
+-Oxygen (-metabolism)
+-RNA, Small Interfering (-genetics; -metabolism)
+-Repressor Proteins (-genetics; +metabolism)
+-Tumor Necrosis Factor-alpha (-metabolism)
+-Two-Hybrid System Techniques
+
+pii:EJB7069
+doi:10.1111/j.1742-4658.2009.07069.x
+pubmed:19456861
+

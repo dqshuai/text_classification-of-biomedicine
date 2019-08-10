@@ -1,0 +1,32 @@
+Cell Death Differ.
+
+A novel defense mechanism that is activated on amyloid-beta insult to mediate cell survival: role of SGK1-STAT1/STAT2 signaling.
+
+WL Hsu, TH Chiu, DJ Tai, YL Ma, EH Lee
+
+Amyloid-beta (Abeta) is known to induce apoptotic cell death and its underlying mechanism has been studied extensively, but the endogenous protection mechanism that results from Abeta insult is less known. In this study, we have found that Abeta(1-42) produced a dose-dependent decrease in cell viability and dose-dependent increase in apoptotic cell death in PC12 cells. Meanwhile, Abeta(1-42) (0.1 muM) increased the phosphorylation of serum- and glucocorticoid-inducible kinase1 (SGK1) at Ser-78 specifically. A parallel increase in ERK1/2, STAT1 and STAT2 phosphorylation and the anti-apoptotic gene Mcl-1 expression was also observed. Transfection of rat siRNAs against ERK1/2, SGK1, STAT1 and STAT2 abolished these effects of Abeta. Transfection of sgkS78D, the constitutively active SGK1, dose-dependently protected against Abeta-induced apoptosis and dose-dependently increased the expression of Mcl-1. SGK1 activation further phosphorylates STAT1 at Tyr-701 and Ser-727 directly, and activates STAT2 at Tyr-690 indirectly. Phosphorylation of STAT1/STAT2 upregulated Mcl-1 expression which in turn protected against Abeta-induced apoptosis. But Mcl-1 siRNA transfection enhanced Abeta-induced apoptosis. Mutation of SGK1 at Ser-78 blocked the effect of Abeta on STAT1/STAT2 phosphorylation and Mcl-1 expression. Further, mutation of STAT1/STAT2 prevented the effect of both Abeta and SGK1 on Mcl-1 expression. These results together showed a novel endogenous protection mechanism that is activated on Abeta insult to mediate cell survival.
+
+-Amino Acid Substitution
+-Amyloid beta-Protein (+pharmacology)
+-Animals
+-Base Sequence
+-Cell Survival
+-Immediate-Early Proteins (-metabolism; +physiology)
+-Mitogen-Activated Protein Kinase 3 (-genetics; -metabolism)
+-Molecular Sequence Data
+-PC12 Cells
+-Peptide Fragments (+pharmacology)
+-Phosphorylation
+-Protein-Serine-Threonine Kinases (-metabolism; +physiology)
+-Proto-Oncogene Proteins c-bcl-2 (-genetics; -metabolism)
+-RNA, Small Interfering (-metabolism)
+-Rats
+-STAT1 Transcription Factor (+metabolism)
+-STAT2 Transcription Factor (+metabolism)
+-Signal Transduction
+-Transfection
+
+pii:cdd200991
+doi:10.1038/cdd.2009.91
+pubmed:19609277
+

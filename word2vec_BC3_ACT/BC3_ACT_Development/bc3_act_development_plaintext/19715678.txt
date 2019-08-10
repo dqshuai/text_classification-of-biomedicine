@@ -1,0 +1,26 @@
+Biochem. Biophys. Res. Commun.
+
+PLD2 has both enzymatic and cell proliferation-inducing capabilities, that are differentially regulated by phosphorylation and dephosphorylation.
+
+KM Henkels, S Short, HJ Peng, M Di Fulvio, J Gomez-Cambronero
+
+Phospholipase D2 (PLD2) overexpression in mammalian cells results in cell transformation. We have hypothesized that this is due to an increase of de novo DNA synthesis. We show here that overexpression of PLD2-WT leads to an increased DNA synthesis, as measured by the expression levels of the proliferation markers PCNA, p27(KIP1) and phospho-histone-3. The enhancing effect was even higher with phosphorylation-deficient PLD2-Y179F and PLD2-Y511F mutants. The mechanism for this did not involve the enzymatic activity of the lipase, but, rather, the presence of the protein tyrosine phosphatase CD45, as silencing with siRNA for CD45 abrogated the effect. The two Y-->F mutants had in common a YxN consensus site that, in the phosphorylated counterparts, could be recognized by SH2-bearing proteins, such as Grb2. Even though Y179F and Y511F cannot bind Grb2, they could still find other protein partners, one of which, we have reasoned, could be CD45 itself. Affinity purified PLD2 is indeed activated by Grb2 and deactivated by CD45 in vitro. We concluded that phosphorylated PLD2, aided by Grb2, mediates lipase activity, whereas dephosphorylated PLD2 mediates an induction of cell proliferation, and the specific residues involved in this newly discovered regulation of PLD2 are Y(179) and Y(511).
+
+-Animals
+-COS Cells
+-Cell Line, Tumor
++Cell Proliferation
+-Cell Transformation, Neoplastic (-genetics; +metabolism)
+-Cercopithecus aethiops
+-DNA (+biosynthesis)
+-Humans
+-Molecular Sequence Data
+-Phospholipase D (-genetics; +metabolism)
+-Phosphorylation
+
+pii:S0006-291X(09)01685-4
+doi:10.1016/j.bbrc.2009.08.109
+pubmed:19715678
+mid:NIHMS141711
+pmc:PMC2754605
+

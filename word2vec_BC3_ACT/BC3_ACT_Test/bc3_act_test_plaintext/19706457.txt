@@ -1,0 +1,23 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Detecting intrinsic slow variables in stochastic dynamical systems by anisotropic diffusion maps.
+
+A Singer, R Erban, IG Kevrekidis, RR Coifman
+
+Nonlinear independent component analysis is combined with diffusion-map data analysis techniques to detect good observables in high-dimensional dynamic data. These detections are achieved by integrating local principal component analysis of simulation bursts by using eigenvectors of a Markov matrix describing anisotropic diffusion. The widely applicable procedure, a crucial step in model reduction approaches, is illustrated on stochastic chemical reaction network simulations.
+
++Algorithms
+-Anisotropy
+-Computer Simulation
+-Markov Chains
+-Models, Chemical
+-Nonlinear Dynamics
++Principal Component Analysis
++Stochastic Processes
+-Time Factors
+
+pii:0905547106
+doi:10.1073/pnas.0905547106
+pubmed:19706457
+pmc:PMC2752552
+

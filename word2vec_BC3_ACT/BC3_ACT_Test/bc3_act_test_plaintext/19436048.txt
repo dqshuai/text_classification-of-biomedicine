@@ -1,0 +1,24 @@
+J. Exp. Bot.
+
+Cloning and functional characterization of carotenoid cleavage dioxygenase 4 genes.
+
+FC Huang, P Molnár, W Schwab
+
+Although a number of plant carotenoid cleavage dioxygenase (CCD) genes have been functionally characterized in different plant species, little is known about the biochemical role and enzymatic activities of members of the subclass 4 (CCD4). To gain insight into their biological function, CCD4 genes were isolated from apple (Malus x domestica, MdCCD4), chrysanthemum (Chrysanthemum x morifolium, CmCCD4a), rose (Rosa x damascena, RdCCD4), and osmanthus (Osmanthus fragrans, OfCCD4), and were expressed, together with AtCCD4, in Escherichia coli. In vivo assays showed that CmCCD4a and MdCCD4 cleaved beta-carotene well to yield beta-ionone, while OfCCD4, RdCCD4, and AtCCD4 were almost inactive towards this substrate. No cleavage products were found for any of the five CCD4 genes when they were co-expressed in E. coli strains that accumulated cis-zeta-carotene and lycopene. In vitro assays, however, demonstrated the breakdown of 8'-apo-beta-caroten-8'-al by AtCCD4 and RdCCD4 to beta-ionone, while this apocarotenal was almost not degraded by OfCCD4, CmCCD4a, and MdCCD4. Sequence analysis of genomic clones of CCD4 genes revealed that RdCCD4, like AtCCD4, contains no intron, while MdCCD, OfCCD4, and CmCCD4a contain introns. These results indicate that plants produce at least two different forms of CCD4 proteins. Although CCD4 enzymes cleave their substrates at the same position (9,10 and 9',10'), they might have different biochemical functions as they accept different (apo)-carotenoid substrates, show various expression patterns, and are genomically differently organized.
+
+-Amino Acid Sequence
+-Carotenoids (+metabolism)
++Cloning, Molecular
+-Dioxygenases (-chemistry; +genetics; +metabolism)
+-Malus
+-Molecular Sequence Data
+-Phylogeny
+-Plant Proteins (-chemistry; +genetics; +metabolism)
+-Plants (-chemistry; -classification; +enzymology; -genetics)
+-Sequence Homology, Amino Acid
+
+pii:erp137
+doi:10.1093/jxb/erp137
+pubmed:19436048
+pmc:PMC2718213
+

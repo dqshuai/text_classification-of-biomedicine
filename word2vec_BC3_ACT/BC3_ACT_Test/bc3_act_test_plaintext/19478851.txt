@@ -1,0 +1,25 @@
+PLoS Biol.
+
+The hierarchy of exon-junction complex assembly by the spliceosome explains key features of mammalian nonsense-mediated mRNA decay.
+
+NH Gehring, S Lamprinaki, MW Hentze, AE Kulozik
+
+Exon junction complexes (EJCs) link nuclear splicing to key features of mRNA function including mRNA stability, translation, and localization. We analyzed the formation of EJCs by the spliceosome, the physiological EJC assembly machinery. We studied a comprehensive set of eIF4A3, MAGOH, and BTZ mutants in complete or C-complex-arrested splicing reactions and identified essential interactions of EJC proteins during and after EJC assembly. These data establish that EJC deposition proceeds through a defined intermediate, the pre-EJC, as an ordered, sequential process that is coordinated by splicing. The pre-EJC consists of eIF4A3 and MAGOH-Y14, is formed before exon ligation, and provides a binding platform for peripheral EJC components that join after release from the spliceosome and connect the core structure with function. Specifically, we identified BTZ to bridge the EJC to the nonsense-mediated messenger RNA (mRNA) decay protein UPF1, uncovering a critical link between mRNP architecture and mRNA stability. Based on this systematic analysis of EJC assembly by the spliceosome, we propose a model of how a functional EJC is assembled in a strictly sequential and hierarchical fashion, including nuclear splicing-dependent and cytoplasmic steps.
+
+-Animals
+-DEAD-box RNA Helicases (-genetics; -metabolism)
+-Exons (+genetics)
+-Hela Cells
+-Humans
+-Mutagenesis, Site-Directed
+-Neoplasm Proteins (-genetics; -metabolism)
+-Nuclear Proteins (-genetics; -metabolism)
++RNA Stability
+-RNA, Messenger (+metabolism)
+-Spliceosomes (+physiology)
+-Transfection
+
+doi:10.1371/journal.pbio.1000120
+pubmed:19478851
+pmc:PMC2682485
+

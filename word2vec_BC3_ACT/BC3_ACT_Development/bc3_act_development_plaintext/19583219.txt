@@ -1,0 +1,26 @@
+Biochemistry
+
+Identification of Escherichia coli HemG as a novel, menadione-dependent flavodoxin with protoporphyrinogen oxidase activity.
+
+TO Boynton, LE Daugherty, TA Dailey, HA Dailey
+
+Protoporphyrinogen oxidase (PPO, EC 1.3.3.4) catalyzes the six-electron oxidation of protoporphyrinogen IX to the fully conjugated protoporphyrin IX. Eukaryotes and Gram-positive bacteria possess an oxygen-dependent, FAD-containing enzyme for this step, while the majority of Gram-negative bacteria lack this oxygen-dependent PPO. In Escherichia coli, PPO activity is known to be linked to respiration and the quinone pool. In E. coli SASX38, the knockout of hemG causes a loss of measurable PPO activity. HemG is a small soluble protein typical of long chain flavodoxins. Herein, purified recombinant HemG was shown to be capable of a menadione-dependent conversion of protoporphyrinogen IX to protoporphyrin IX. Electrochemical analysis of HemG revealed similarities to other flavodoxins. Interestingly, HemG, a member of a class of the long chain flavodoxin family that is unique to the gamma-proteobacteria, possesses a 22-residue sequence that, when transferred into E. coli flavodoxin A, produces a chimera that will complement an E. coli hemG mutant, indicating that this region confers PPO activity to the flavodoxin. These findings reveal a previously unidentified class of PPO enzymes that do not utilize oxygen as an electron acceptor, thereby allowing gamma-proteobacteria to synthesize heme in both aerobic and anaerobic environments.
+
+-Amino Acid Sequence
+-Catalysis
+-Electron Spin Resonance Spectroscopy
+-Escherichia coli (-genetics; +metabolism)
+-Escherichia coli Proteins (-chemistry; -genetics; +metabolism)
++Genes, Bacterial
+-Molecular Sequence Data
+-Plasmids
+-Protoporphyrinogen Oxidase (-chemistry; -genetics; +metabolism)
+-Recombinant Proteins (-genetics; -metabolism)
+-Sequence Homology, Amino Acid
+-Vitamin K 3 (+metabolism)
+
+doi:10.1021/bi900850y
+pubmed:19583219
+mid:NIHMS132601
+pmc:PMC2749469
+

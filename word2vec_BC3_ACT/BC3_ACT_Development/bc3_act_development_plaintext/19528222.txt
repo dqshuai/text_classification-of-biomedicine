@@ -1,0 +1,22 @@
+Infect. Immun.
+
+Proteomic investigation of the time course responses of RAW 264.7 macrophages to infection with Salmonella enterica.
+
+L Shi, SM Chowdhury, HS Smallwood, H Yoon, HM Mottaz-Brewer, AD Norbeck, JE McDermott, TR Clauss, F Heffron, RD Smith, JN Adkins
+
+To investigate the extent to which macrophages respond to Salmonella infection, we infected RAW 264.7 macrophages with Salmonella enterica serotype Typhimurium and analyzed macrophage proteins at various time points following infection by using a global proteomic approach. A total of 1,006 macrophage and 115 Salmonella proteins were identified with high confidence. Most of the Salmonella proteins were observed in the late stage of the infection time course, which is consistent with the fact that the bacterial cells proliferate inside RAW 264.7 macrophages. The peptide abundances of most of the identified macrophage proteins remained relatively constant over the time course of infection. Compared to those of the control, the peptide abundances of 244 macrophage proteins (i.e., 24% of the total identified macrophage proteins) changed significantly after infection. The functions of these Salmonella-affected macrophage proteins were diverse, including production of antibacterial nitric oxide (i.e., inducible nitric oxide synthase), production of prostaglandin H(2) (i.e., cyclooxygenase 2), and regulation of intracellular traffic (e.g., sorting nexin 5 [SNX5], SNX6, and SNX9). Diverse functions of the Salmonella-affected macrophage proteins demonstrate a global macrophage response to Salmonella infection. Western blot analysis not only confirmed the proteomic results for a selected set of proteins but also revealed that (i) the protein abundance of mitochondrial superoxide dismutase increased following macrophage infection, indicating an infection-induced oxidative stress in mitochondria, and (ii) in contrast to infection of macrophages by wild-type Salmonella, infection by the sopB deletion mutant had no negative impact on the abundance of SNX6, suggesting a role for SopB in regulating the abundance of SNX6.
+
+-Animals
+-Cell Line
+-Macrophages (+chemistry; -microbiology; +physiology)
+-Mice
+-Proteome (+analysis)
+-Salmonella typhimurium (+immunology)
++Stress, Physiological
+-Time Factors
+
+pii:IAI.00063-09
+doi:10.1128/IAI.00063-09
+pubmed:19528222
+pmc:PMC2715674
+

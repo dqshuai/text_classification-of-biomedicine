@@ -1,0 +1,25 @@
+PLoS ONE
+
+Hippocampal atrophy as a quantitative trait in a genome-wide association study identifying novel susceptibility genes for Alzheimer's disease.
+
+SG Potkin, G Guffanti, A Lakatos, JA Turner, F Kruggel, JH Fallon, AJ Saykin, A Orro, S Lupoli, E Salvi, M Weiner, F Macciardi
+
+BACKGROUND: With the exception of APOE epsilon4 allele, the common genetic risk factors for sporadic Alzheimer's Disease (AD) are unknown. METHODS AND FINDINGS: We completed a genome-wide association study on 381 participants in the ADNI (Alzheimer's Disease Neuroimaging Initiative) study. Samples were genotyped using the Illumina Human610-Quad BeadChip. 516,645 unique Single Nucleotide Polymorphisms (SNPs) were included in the analysis following quality control measures. The genotype data and raw genetic data are freely available for download (LONI, http://www.loni.ucla.edu/ADNI/Data/). Two analyses were completed: a standard case-control analysis, and a novel approach using hippocampal atrophy measured on MRI as an objectively defined, quantitative phenotype. A General Linear Model was applied to identify SNPs for which there was an interaction between the genotype and diagnosis on the quantitative trait. The case-control analysis identified APOE and a new risk gene, TOMM40 (translocase of outer mitochondrial membrane 40), at a genome-wide significance level of < or =10(-6) (10(-11) for a haplotype). TOMM40 risk alleles were approximately twice as frequent in AD subjects as controls. The quantitative trait analysis identified 21 genes or chromosomal areas with at least one SNP with a p-value < or =10(-6), which can be considered potential "new" candidate loci to explore in the etiology of sporadic AD. These candidates included EFNA5, CAND1, MAGI2, ARSB, and PRUNE2, genes involved in the regulation of protein degradation, apoptosis, neuronal loss and neurodevelopment. Thus, we identified common genetic variants associated with the increased risk of developing AD in the ADNI cohort, and present publicly available genome-wide data. Supportive evidence based on case-control studies and biological plausibility by gene annotation is provided. Currently no available sample with both imaging and genetic data is available for replication. CONCLUSIONS: Using hippocampal atrophy as a quantitative phenotype in a genome-wide scan, we have identified candidate risk genes for sporadic Alzheimer's disease that merit further investigation.
+
+-Adult
+-Alzheimer Disease (+genetics; -pathology)
+-Case-Control Studies
+-Female
++Genetic Predisposition to Disease
++Genome-Wide Association Study
+-Hippocampus (+pathology)
+-Humans
+-Magnetic Resonance Imaging
+-Male
+-Polymorphism, Single Nucleotide
++Quantitative Trait Loci
+
+doi:10.1371/journal.pone.0006501
+pubmed:19668339
+pmc:PMC2719581
+

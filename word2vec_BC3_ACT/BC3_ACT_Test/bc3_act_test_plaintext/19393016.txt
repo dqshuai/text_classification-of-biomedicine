@@ -1,0 +1,26 @@
+J. Neurochem.
+
+Now I know my ABC. A systems neurochemistry and functional metabolomic approach to understanding the GABAergic system.
+
+C Rae, FA Nasrallah, JL Griffin, VJ Balcar
+
+Here, we describe use of a reductionist brain model, the brain tissue slice, to generate snapshots of functional metabolism in response to a pharmacological (GABAergic) perturbation. Tissue slices prepared from Guinea pig cerebral cortex were incubated for 1 h in the presence of [3-13C]-pyruvate and ligands with affinity for GABA receptors. The resultant patterns of 13C flux and metabolite levels were measured by 13C/1H NMR spectroscopy, generating 'metabolic fingerprints' for each ligand. Effects of agonists and effectors at GABA receptors (A, B, and C types) were examined, compared to those of exogenous GABA and evaluated using multivariate statistical models. Data clusterings did not directly correlate with GABA receptor types but produced at least five distinct groups ranked according to their affinity for GABA. As our experimental model retains, to a large extent, the structure and function of normal brain tissue, the generated database can be used to assess GABAergic ligands and make unique inferences relevant to their modes of action in brain.
+
+-Animals
+-Brain Chemistry (+physiology)
+-Cerebral Cortex (-metabolism)
+-Data Interpretation, Statistical
+-Guinea Pigs
+-Magnetic Resonance Spectroscopy
++Metabolomics
+-Models, Statistical
+-Pyruvic Acid (-metabolism)
+-Receptors, GABA (+metabolism)
+-Receptors, GABA-A (+metabolism)
+-Receptors, GABA-B (+metabolism)
+-gamma-Aminobutyric Acid (-metabolism; +physiology)
+
+pii:JNC5803
+doi:10.1111/j.1471-4159.2009.05803.x
+pubmed:19393016
+

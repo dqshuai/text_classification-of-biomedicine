@@ -1,0 +1,28 @@
+Mol. Immunol.
+
+Global changes in gene expression and synergistic interactions induced by TLR9 and TLR3.
+
+D Tross, L Petrenko, S Klaschik, Q Zhu, DM Klinman
+
+The innate immune system is triggered when pathogen-associated molecular patterns (PAMPs) expressed by infectious microorganisms interact with toll-like receptors (TLR) present on immune cells. Individual TLRs signal through distinct molecular pathways. For example, TLR9 interacts with unmethylated CpG motifs expressed by bacterial DNA and triggers via a MyD88 dependent pathway whereas TLR3 recognizes viral RNA through a MyD88-independent pathway. Bioinformatic analysis of microarray data was used to identify the regulatory patterns underlying changes in gene expression induced when RAW 264.7 macrophages were stimulated via TLR9 by CpG oligonucleotides (ODN) and/or via TLR3 by poly (I:C). While the genes activated by each ligand mediated similar functions, poly (I:C) elicited a larger and more diverse change in gene expression. Co-stimulation with both ligands accelerated gene expression and synergistically activated genes primarily associated with immune function. This is the first work to compare global changes in gene regulation triggered by distinct TLR pathways and clarify their impact on gene expression.
+
+-Animals
+-Cell Line
++Gene Expression Profiling
+-Gene Expression Regulation (-drug effects)
+-Macrophages (-cytology; -drug effects; -metabolism)
+-Mice
+-Oligodeoxyribonucleotides (-pharmacology)
+-Oligonucleotide Array Sequence Analysis
+-Poly I-C (-pharmacology)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Signal Transduction
+-Toll-Like Receptor 3 (-genetics; +metabolism)
+-Toll-Like Receptor 9 (-genetics; +metabolism)
+
+pii:S0161-5890(09)00227-2
+doi:10.1016/j.molimm.2009.05.011
+pubmed:19535142
+mid:NIHMS119662
+pmc:PMC2713800
+

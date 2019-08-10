@@ -1,0 +1,30 @@
+Dev. Cell
+
+The vacuolar proton pump, V-ATPase, is required for notch signaling and endosomal trafficking in Drosophila.
+
+Y Yan, N Denef, T Schüpbach
+
+We have identified Rabconnectin-3alpha and beta (Rbcn-3A and B) as two regulators of Notch signaling in Drosophila. We found that, in addition to disrupting Notch signaling, mutations in Rbcn-3A and B cause defects in endocytic trafficking, where Notch and other membrane proteins accumulate in late endosomal compartments. We show that Notch is transported to the surface of mutant cells and that signaling is disrupted after the S2 cleavage. Interestingly, the yeast homolog of Rbcn-3A, Rav1, regulates the V-ATPase proton pump responsible for acidifying intracellular organelles. We found that, similarly, Rbcn-3A and B appear to regulate V-ATPase function. Moreover, we identified mutants in VhaAC39, a V-ATPase subunit, and showed that they phenocopy Rbcn-3A and Rbcn-3B mutants. Our results demonstrate that Rbcn-3 affects Notch signaling and trafficking through regulating V-ATPase function, which implies that the acidification of an intracellular compartment in the receiving cells is crucial for signaling.
+
+-Adaptor Proteins, Signal Transducing (+metabolism; -physiology)
+-Adenosine Triphosphatases (-chemistry)
+-Animals
+-Drosophila Proteins (+metabolism; -physiology)
+-Drosophila melanogaster
+-Endosomes (+metabolism)
+-Microscopy, Fluorescence (-methods)
+-Models, Biological
+-Models, Genetic
+-Mutation
+-Proton Pumps (-metabolism)
+-Receptors, Notch (+metabolism)
+-Signal Transduction
+-Vacuolar Proton-Translocating ATPases (+metabolism)
+-Vacuoles (-metabolism)
+
+pii:S1534-5807(09)00260-3
+doi:10.1016/j.devcel.2009.07.001
+pubmed:19758563
+mid:NIHMS147736
+pmc:PMC2758249
+

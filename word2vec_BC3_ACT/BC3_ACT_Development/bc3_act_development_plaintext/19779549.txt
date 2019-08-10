@@ -1,0 +1,22 @@
+PLoS Comput. Biol.
+
+Disease-aging network reveals significant roles of aging genes in connecting genetic diseases.
+
+J Wang, S Zhang, Y Wang, L Chen, XS Zhang
+
+One of the challenging problems in biology and medicine is exploring the underlying mechanisms of genetic diseases. Recent studies suggest that the relationship between genetic diseases and the aging process is important in understanding the molecular mechanisms of complex diseases. Although some intricate associations have been investigated for a long time, the studies are still in their early stages. In this paper, we construct a human disease-aging network to study the relationship among aging genes and genetic disease genes. Specifically, we integrate human protein-protein interactions (PPIs), disease-gene associations, aging-gene associations, and physiological system-based genetic disease classification information in a single graph-theoretic framework and find that (1) human disease genes are much closer to aging genes than expected by chance; and (2) diseases can be categorized into two types according to their relationships with aging. Type I diseases have their genes significantly close to aging genes, while type II diseases do not. Furthermore, we examine the topological characters of the disease-aging network from a systems perspective. Theoretical results reveal that the genes of type I diseases are in a central position of a PPI network while type II are not; (3) more importantly, we define an asymmetric closeness based on the PPI network to describe relationships between diseases, and find that aging genes make a significant contribution to associations among diseases, especially among type I diseases. In conclusion, the network-based study provides not only evidence for the intricate relationship between the aging process and genetic diseases, but also biological implications for prying into the nature of human diseases.
+
+-Aging (+genetics)
+-Chromosome Mapping
+-Cluster Analysis
+-Computational Biology (+methods)
+-Disease (+genetics)
++Genetic Predisposition to Disease
+-Humans
++Models, Genetic
+-Protein Interaction Mapping
+
+doi:10.1371/journal.pcbi.1000521
+pubmed:19779549
+pmc:PMC2739292
+

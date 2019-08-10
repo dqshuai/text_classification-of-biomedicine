@@ -1,0 +1,20 @@
+PLoS Genet.
+
+Asymmetric strand segregation: epigenetic costs of genetic fidelity?
+
+DP Genereux
+
+Asymmetric strand segregation has been proposed as a mechanism to minimize effective mutation rates in epithelial tissues. Under asymmetric strand segregation, the double-stranded molecule that contains the oldest DNA strand is preferentially targeted to the somatic stem cell after each round of DNA replication. This oldest DNA strand is expected to have fewer errors than younger strands because some of the errors that arise on daughter strands during their synthesis fail to be repaired. Empirical findings suggest the possibility of asymmetric strand segregation in a subset of mammalian cell lineages, indicating that it may indeed function to increase genetic fidelity. However, the implications of asymmetric strand segregation for the fidelity of epigenetic information remain unexplored. Here, I explore the impact of strand-segregation dynamics on epigenetic fidelity using a mathematical-modelling approach that draws on the known molecular mechanisms of DNA methylation and existing rate estimates from empirical methylation data. I find that, for a wide range of starting methylation densities, asymmetric -- but not symmetric -- strand segregation leads to systematic increases in methylation levels if parent strands are subject to de novo methylation events. I found that epigenetic fidelity can be compromised when enhanced genetic fidelity is achieved through asymmetric strand segregation. Strand segregation dynamics could thus explain the increased DNA methylation densities that are observed in structured cellular populations during aging and in disease.
+
+-Animals
+-DNA (-metabolism)
+-DNA Methylation
+-DNA Replication (+genetics)
+-Epigenesis, Genetic (+genetics)
+-Humans
+-Models, Theoretical
+
+doi:10.1371/journal.pgen.1000509
+pubmed:19503601
+pmc:PMC2684645
+

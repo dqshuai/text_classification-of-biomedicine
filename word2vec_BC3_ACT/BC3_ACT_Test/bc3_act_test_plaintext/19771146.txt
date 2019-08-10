@@ -1,0 +1,29 @@
+PLoS Biol.
+
+Midline signalling systems direct the formation of a neural map by dendritic targeting in the Drosophila motor system.
+
+A Mauss, M Tripodi, JF Evers, M Landgraf
+
+A fundamental strategy for organising connections in the nervous system is the formation of neural maps. Map formation has been most intensively studied in sensory systems where the central arrangement of axon terminals reflects the distribution of sensory neuron cell bodies in the periphery or the sensory modality. This straightforward link between anatomy and function has facilitated tremendous progress in identifying cellular and molecular mechanisms that underpin map development. Much less is known about the way in which networks that underlie locomotion are organised. We recently showed that in the Drosophila embryo, dendrites of motorneurons form a neural map, being arranged topographically in the antero-posterior axis to represent the distribution of their target muscles in the periphery. However, the way in which a dendritic myotopic map forms has not been resolved and whether postsynaptic dendrites are involved in establishing sets of connections has been relatively little explored. In this study, we show that motorneurons also form a myotopic map in a second neuropile axis, with respect to the ventral midline, and they achieve this by targeting their dendrites to distinct medio-lateral territories. We demonstrate that this map is "hard-wired"; that is, it forms in the absence of excitatory synaptic inputs or when presynaptic terminals have been displaced. We show that the midline signalling systems Slit/Robo and Netrin/Frazzled are the main molecular mechanisms that underlie dendritic targeting with respect to the midline. Robo and Frazzled are required cell-autonomously in motorneurons and the balance of their opposite actions determines the dendritic target territory. A quantitative analysis shows that dendritic morphology emerges as guidance cue receptors determine the distribution of the available dendrites, whose total length and branching frequency are specified by other cell intrinsic programmes. Our results suggest that the formation of dendritic myotopic maps in response to midline guidance cues may be a conserved strategy for organising connections in motor systems. We further propose that sets of connections may be specified, at least to a degree, by global patterning systems that deliver pre- and postsynaptic partner terminals to common "meeting regions."
+
+-Animals
+-Dendrites (+metabolism; -ultrastructure)
+-Drosophila Proteins (-metabolism)
+-Drosophila melanogaster
+-Microscopy, Confocal
+-Motor Neurons (+cytology; -metabolism)
+-Muscles (-embryology; +innervation; -physiology)
+-Nerve Growth Factors (-metabolism)
+-Nerve Net
+-Nerve Tissue Proteins (-metabolism)
+-Neuropil (-cytology; -metabolism)
+-Presynaptic Terminals (-metabolism; -ultrastructure)
+-Receptors, Cell Surface (-metabolism)
+-Receptors, Immunologic (-metabolism)
++Signal Transduction
+-Synaptic Transmission
+
+doi:10.1371/journal.pbio.1000200
+pubmed:19771146
+pmc:PMC2736389
+

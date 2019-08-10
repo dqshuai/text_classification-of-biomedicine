@@ -1,0 +1,25 @@
+BMC Struct. Biol.
+
+Improving protein structure similarity searches using domain boundaries based on conserved sequence information.
+
+KE Thompson, Y Wang, T Madej, SH Bryant
+
+BACKGROUND: The identification of protein domains plays an important role in protein structure comparison. Domain query size and composition are critical to structure similarity search algorithms such as the Vector Alignment Search Tool (VAST), the method employed for computing related protein structures in NCBI Entrez system. Currently, domains identified on the basis of structural compactness are used for VAST computations. In this study, we have investigated how alternative definitions of domains derived from conserved sequence alignments in the Conserved Domain Database (CDD) would affect the domain comparisons and structure similarity search performance of VAST. RESULTS: Alternative domains, which have significantly different secondary structure composition from those based on structurally compact units, were identified based on the alignment footprints of curated protein sequence domain families. Our analysis indicates that domain boundaries disagree on roughly 8% of protein chains in the medium redundancy subset of the Molecular Modeling Database (MMDB). These conflicting sequence based domain boundaries perform slightly better than structure domains in structure similarity searches, and there are interesting cases when structure similarity search performance is markedly improved. CONCLUSION: Structure similarity searches using domain boundaries based on conserved sequence information can provide an additional method for investigators to identify interesting similarities between proteins with known structures. Because of the improvement in performance of structure similarity searches using sequence domain boundaries, we are in the process of implementing their inclusion into the VAST search and MMDB resources in the NCBI Entrez system.
+
+-Algorithms
++Amino Acid Sequence
+-Computational Biology (+methods)
++Conserved Sequence
+-DNA Topoisomerases (-chemistry)
+-Databases, Protein
+-Fibronectins (-chemistry)
+-Humans
+-Protein Structure, Tertiary
+-Sequence Alignment (+methods)
+-Sequence Analysis, Protein (+methods)
+
+pii:1472-6807-9-33
+doi:10.1186/1472-6807-9-33
+pubmed:19454035
+pmc:PMC2694201
+

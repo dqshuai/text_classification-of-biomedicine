@@ -1,0 +1,22 @@
+J. Am. Chem. Soc.
+
+Nature of molecular interactions of peptides with gold, palladium, and Pd-Au bimetal surfaces in aqueous solution.
+
+H Heinz, BL Farmer, RB Pandey, JM Slocik, SS Patnaik, R Pachter, RR Naik
+
+We investigated molecular interactions involved in the selective binding of several short peptides derived from phage-display techniques (8-12 amino acids, excluding Cys) to surfaces of Au, Pd, and Pd-Au bimetal. The quantitative analysis of changes in energy and conformation upon adsorption on even {111} and {100} surfaces was carried out by molecular dynamics simulation using an efficient computational screening technique, including 1000 explicit water molecules and physically meaningful peptide concentrations at pH = 7. Changes in chain conformation from the solution to the adsorbed state over the course of multiple nanoseconds suggest that the peptides preferably interact with vacant sites of the face-centered cubic lattice above the metal surface. Residues that contribute to binding are in direct contact with the metal surfaces, and less-binding residues are separated from the surface by one or two water layers. The strength of adsorption ranges from 0 to -100 kcal/(mol peptide) and scales with the surface energy of the metal (Pd surfaces are more attractive than Au surfaces), the affinity of individual residues versus the affinity of water, and conformation aspects, as well as polarization and charge transfer at the metal interface (only qualitatively considered here). A hexagonal spacing of approximately 1.6 A between available lattice sites on the {111} surfaces accounts for the characteristic adsorption of aromatic side groups and various other residues (including Tyr, Phe, Asp, His, Arg, Asn, Ser), and a quadratic spacing of approximately 2.8 A between available lattice sites on the {100} surface accounts for a significantly lower affinity to all peptides in favor of mobile water molecules. The combination of these factors suggests a "soft epitaxy" mechanism of binding. On a bimetallic Pd-Au {111} surface, binding patterns are similar, and the polarity of the bimetal junction can modify the binding energy by approximately 10 kcal/mol. The results are semiquantitatively supported by experimental measurements of the affinity of peptides and small molecules to metal surfaces as well as results from quantum-mechanical calculations on small peptide and surface fragments. Interfaces were modeled using the consistent valence force field extended for Lennard-Jones parameters for fcc metals which accurately reproduce surface and interface energies [Heinz, H.; Vaia, R. A.; Farmer, B. L.; Naik, R. R. J. Phys. Chem. C 2008, 112, 17281-17290].
+
+-Adsorption
+-Amino Acid Sequence
+-Gold (+chemistry)
+-Models, Molecular
+-Oligopeptides (+chemistry)
+-Palladium (+chemistry)
+-Protein Conformation
+-Solutions
+-Surface Properties
+-Water (+chemistry)
+
+doi:10.1021/ja900531f
+pubmed:19552440
+

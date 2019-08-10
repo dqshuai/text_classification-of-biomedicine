@@ -1,0 +1,20 @@
+Br. J. Cancer
+
+Migration rules: tumours are conglomerates of self-metastases.
+
+H Enderling, L Hlatky, P Hahnfeldt
+
+Tumours are heterogeneous populations composed of different cells types: stem cells with the capacity for self-renewal and more differentiated cells lacking such ability. The overall growth behaviour of a developing neoplasm is determined largely by the combined kinetic interactions of these cells. By tracking the fate of individual cancer cells using agent-based methods in silico, we apply basic rules for cell proliferation, migration and cell death to show how these kinetic parameters interact to control, and perhaps dictate defining spatial and temporal tumour growth dynamics in tumour development. When the migration rate is small, a single cancer stem cell can only generate a small, self-limited clone because of the finite life span of progeny and spatial constraints. By contrast, a high migration rate can break this equilibrium, seeding new clones at sites outside the expanse of older clones. In this manner, the tumour continually 'self-metastasises'. Counterintuitively, when the proliferation capacity is low and the rate of cell death is high, tumour growth is accelerated because of the freeing up of space for self-metastatic expansion. Changes to proliferation and cell death that increase the rate at which cells migrate benefit tumour growth as a whole. The dominating influence of migration on tumour growth leads to unexpected dependencies of tumour growth on proliferation capacity and cell death. These dependencies stand to inform standard therapeutic approaches, which anticipate a positive response to cell killing and mitotic arrest.
+
++Cell Movement
++Cell Proliferation
+-Colonic Neoplasms (+pathology; +secondary)
+-Humans
+-Neoplastic Stem Cells (-pathology)
+-Tumor Cells, Cultured
+
+pii:6605071
+doi:10.1038/sj.bjc.6605071
+pubmed:19455139
+pmc:PMC2714240
+

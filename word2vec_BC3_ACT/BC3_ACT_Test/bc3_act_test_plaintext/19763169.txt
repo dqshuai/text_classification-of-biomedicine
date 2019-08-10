@@ -1,0 +1,35 @@
+PLoS Genet.
+
+Fast growth increases the selective advantage of a mutation arising recurrently during evolution under metal limitation.
+
+HH Chou, J Berthet, CJ Marx
+
+Understanding the evolution of biological systems requires untangling the molecular mechanisms that connect genetic and environmental variations to their physiological consequences. Metal limitation across many environments, ranging from pathogens in the human body to phytoplankton in the oceans, imposes strong selection for improved metal acquisition systems. In this study, we uncovered the genetic and physiological basis of adaptation to metal limitation using experimental populations of Methylobacterium extorquens AM1 evolved in metal-deficient growth media. We identified a transposition mutation arising recurrently in 30 of 32 independent populations that utilized methanol as a carbon source, but not in any of the 8 that utilized only succinate. These parallel insertion events increased expression of a novel transporter system that enhanced cobalt uptake. Such ability ensured the production of vitamin B(12), a cobalt-containing cofactor, to sustain two vitamin B(12)-dependent enzymatic reactions essential to methanol, but not succinate, metabolism. Interestingly, this mutation provided higher selective advantages under genetic backgrounds or incubation temperatures that permit faster growth, indicating growth-rate-dependent epistatic and genotype-by-environment interactions. Our results link beneficial mutations emerging in a metal-limiting environment to their physiological basis in carbon metabolism, suggest that certain molecular features may promote the emergence of parallel mutations, and indicate that the selective advantages of some mutations depend generically upon changes in growth rate that can stem from either genetic or environmental influences.
+
+-Acyl Coenzyme A (-metabolism)
+-Alleles
+-Base Sequence
+-Carbon (-metabolism)
+-Chelating Agents (-pharmacology)
+-Cobalt (-metabolism)
+-Culture Media
+-DNA Transposable Elements (-genetics)
+-Edetic Acid (-pharmacology)
++Evolution
+-Gene Expression Regulation, Bacterial (-drug effects)
+-Genes, Bacterial
+-Metals (+metabolism)
+-Methanol (-pharmacology)
+-Methylobacterium extorquens (-drug effects; +genetics; +growth & development)
+-Molecular Sequence Data
+-Mutagenesis, Insertional (-drug effects; -genetics)
+-Mutation (+genetics)
+-Nucleic Acid Conformation (-drug effects)
+-Phenotype
+-Promoter Regions, Genetic (-genetics)
+-Transcription, Genetic (-drug effects)
+
+doi:10.1371/journal.pgen.1000652
+pubmed:19763169
+pmc:PMC2732905
+

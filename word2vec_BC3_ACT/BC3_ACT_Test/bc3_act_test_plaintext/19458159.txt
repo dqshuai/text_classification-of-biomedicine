@@ -1,0 +1,19 @@
+Nucleic Acids Res.
+
+SENT: semantic features in text.
+
+M Vazquez, P Carmona-Saez, R Nogales-Cadenas, M Chagoyen, F Tirado, JM Carazo, A Pascual-Montano
+
+We present SENT (semantic features in text), a functional interpretation tool based on literature analysis. SENT uses Non-negative Matrix Factorization to identify topics in the scientific articles related to a collection of genes or their products, and use them to group and summarize these genes. In addition, the application allows users to rank and explore the articles that best relate to the topics found, helping put the analysis results into context. This approach is useful as an exploratory step in the workflow of interpreting and understanding experimental data, shedding some light into the complex underlying biological mechanisms. This tool provides a user-friendly interface via a web site, and a programmatic access via a SOAP web server. SENT is freely accessible at http://sent.dacya.ucm.es.
+
++Genes
+-Humans
+-Information Storage and Retrieval (+methods)
+-Internet
++Software
+
+pii:gkp392
+doi:10.1093/nar/gkp392
+pubmed:19458159
+pmc:PMC2703940
+

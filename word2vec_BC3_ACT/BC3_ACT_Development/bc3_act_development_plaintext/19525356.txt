@@ -1,0 +1,30 @@
+Genome Res.
+
+Comparative genomics of protoploid Saccharomycetaceae.
+
+JL Souciet, B Dujon, C Gaillardin, M Johnston, PV Baret, P Cliften, DJ Sherman, J Weissenbach, E Westhof, P Wincker, C Jubin, J Poulain, V Barbe, B Ségurens, F Artiguenave, V Anthouard, B Vacherie, ME Val, RS Fulton, P Minx, R Wilson, P Durrens, G Jean, C Marck, T Martin, M Nikolski, T Rolland, ML Seret, S Casarégola, L Despons, C Fairhead, G Fischer, I Lafontaine, V Leh, M Lemaire, J de Montigny, C Neuvéglise, A Thierry, I Blanc-Lenfle, C Bleykasten, J Diffels, E Fritsch, L Frangeul, A Goëffon, N Jauniaux, R Kachouri-Lafond, C Payen, S Potier, L Pribylova, C Ozanne, GF Richard, C Sacerdot, ML Straub, E Talla
+
+Our knowledge of yeast genomes remains largely dominated by the extensive studies on Saccharomyces cerevisiae and the consequences of its ancestral duplication, leaving the evolution of the entire class of hemiascomycetes only partly explored. We concentrate here on five species of Saccharomycetaceae, a large subdivision of hemiascomycetes, that we call "protoploid" because they diverged from the S. cerevisiae lineage prior to its genome duplication. We determined the complete genome sequences of three of these species: Kluyveromyces (Lachancea) thermotolerans and Saccharomyces (Lachancea) kluyveri (two members of the newly described Lachancea clade), and Zygosaccharomyces rouxii. We included in our comparisons the previously available sequences of Kluyveromyces lactis and Ashbya (Eremothecium) gossypii. Despite their broad evolutionary range and significant individual variations in each lineage, the five protoploid Saccharomycetaceae share a core repertoire of approximately 3300 protein families and a high degree of conserved synteny. Synteny blocks were used to define gene orthology and to infer ancestors. Far from representing minimal genomes without redundancy, the five protoploid yeasts contain numerous copies of paralogous genes, either dispersed or in tandem arrays, that, altogether, constitute a third of each genome. Ancient, conserved paralogs as well as novel, lineage-specific paralogs were identified.
+
+-DNA Transposable Elements (-genetics; -physiology)
+-Eremothecium (-genetics)
+-Gene Duplication
+-Genes, Fungal (-genetics)
++Genome, Fungal
+-Genomics (+methods)
+-Inteins (-genetics)
+-Kluyveromyces (-genetics)
+-Molecular Sequence Data
+-Open Reading Frames (-genetics)
+-Phylogeny
+-RNA, Untranslated (-genetics)
+-Saccharomyces (-genetics)
+-Saccharomycetales (+genetics)
+-Spliceosomes (-metabolism)
+-Zygosaccharomyces (-genetics)
+
+pii:gr.091546.109
+doi:10.1101/gr.091546.109
+pubmed:19525356
+pmc:PMC2765284
+

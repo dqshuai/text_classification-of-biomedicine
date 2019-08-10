@@ -1,0 +1,31 @@
+FEBS J.
+
+Modelling and simulating interleukin-10 production and regulation by macrophages after stimulation with an immunomodulator of parasitic nematodes.
+
+AS Figueiredo, T Höfer, C Klotz, C Sers, S Hartmann, R Lucius, P Hammerstein
+
+Parasitic nematodes can downregulate the immune response of their hosts through the induction of immunoregulatory cytokines such as interleukin-10 (IL-10). To define the underlying mechanisms, we measured in vitro the production of IL-10 in macrophages in response to cystatin from Acanthocheilonema viteae, an immunomodulatory protein of filarial nematodes, and developed mathematical models of IL-10 regulation. IL-10 expression requires stimulation of the mitogen-activated protein kinases extracellular signal-regulated kinase (ERK) and p38, and we propose that a negative feedback mechanism, acting at the signalling level, is responsible for transient IL-10 production that can be followed by a sustained plateau. Specifically, a model with negative feedback on the ERK pathway via secreted IL-10 accounts for the experimental data. Accordingly, the model predicts sustained phospho-p38 dynamics, whereas ERK activation changes from transient to sustained when the concentration of immunomodulatory protein of Acanthocheilonema viteae increases. We show that IL-10 can regulate its own production in an autocrine fashion, and that ERK and p38 control IL-10 amplitude, duration and steady state. We also show that p38 affects ERK via secreted IL-10 (autocrine crosstalk). These findings demonstrate how convergent signalling pathways may differentially control kinetic properties of the IL-10 signal.
+
+-Animals
+-Autocrine Communication (+physiology)
+-Cystatins (-immunology)
+-Cysteine Proteinase Inhibitors (-metabolism)
++Dipetalonema (-immunology; -pathogenicity)
+-Enzyme Activation
+-Extracellular Signal-Regulated MAP Kinases (-metabolism)
+-Gene Expression Regulation
+-Helminth Proteins (-genetics; +immunology)
+-Interleukin-10 (-genetics; +metabolism)
+-MAP Kinase Signaling System (+physiology)
+-Macrophages (-cytology; +immunology)
+-Male
+-Mice
+-Mice, Inbred BALB C
++Models, Theoretical
+-Phosphorylation
+-p38 Mitogen-Activated Protein Kinases (-metabolism)
+
+pii:EJB7068
+doi:10.1111/j.1742-4658.2009.07068.x
+pubmed:19456864
+

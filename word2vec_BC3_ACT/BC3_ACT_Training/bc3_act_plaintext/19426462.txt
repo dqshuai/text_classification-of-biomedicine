@@ -1,0 +1,20 @@
+BMC Bioinformatics
+
+BOWiki: an ontology-based wiki for annotation of data and integration of knowledge in biology.
+
+R Hoehndorf, J Bacher, M Backhaus, SE Gregorio, F Loebe, K Prüfer, A Uciteli, J Visagie, H Herre, J Kelso
+
+MOTIVATION: Ontology development and the annotation of biological data using ontologies are time-consuming exercises that currently require input from expert curators. Open, collaborative platforms for biological data annotation enable the wider scientific community to become involved in developing and maintaining such resources. However, this openness raises concerns regarding the quality and correctness of the information added to these knowledge bases. The combination of a collaborative web-based platform with logic-based approaches and Semantic Web technology can be used to address some of these challenges and concerns. RESULTS: We have developed the BOWiki, a web-based system that includes a biological core ontology. The core ontology provides background knowledge about biological types and relations. Against this background, an automated reasoner assesses the consistency of new information added to the knowledge base. The system provides a platform for research communities to integrate information and annotate data collaboratively. AVAILABILITY: The BOWiki and supplementary material is available at http://www.bowiki.net/. The source code is available under the GNU GPL from http://onto.eva.mpg.de/trac/BoWiki.
+
+-Computational Biology (+methods)
+-Database Management Systems
+-Information Storage and Retrieval (-methods)
++Internet
++Software
+-User-Computer Interface
+
+pii:1471-2105-10-S5-S5
+doi:10.1186/1471-2105-10-S5-S5
+pubmed:19426462
+pmc:PMC2679405
+

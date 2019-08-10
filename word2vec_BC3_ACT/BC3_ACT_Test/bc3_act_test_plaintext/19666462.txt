@@ -1,0 +1,24 @@
+J. Biol. Chem.
+
+Pantoate kinase and phosphopantothenate synthetase, two novel enzymes necessary for CoA biosynthesis in the Archaea.
+
+Y Yokooji, H Tomita, H Atomi, T Imanaka
+
+Bacteria/eukaryotes share a common pathway for coenzyme A (CoA) biosynthesis. Although archaeal genomes harbor homologs for most of these enzymes, homologs of bacterial/eukaryotic pantothenate synthetase (PS) and pantothenate kinase (PanK) are missing. PS catalyzes the ATP-dependent condensation of pantoate and beta-alanine to produce pantothenate, whereas PanK catalyzes the ATP-dependent phosphorylation of pantothenate to produce 4'-phosphopantothenate. When we examined the cell-free extracts of the hyperthermophilic archaeon Thermococcus kodakaraensis, PanK activity could not be detected. A search for putative kinase-encoding genes widely distributed in Archaea, but not present in bacteria/eukaryotes, led to four candidate genes. Among these genes, TK2141 encoded a protein with relatively low PanK activity. However, higher levels of activity were observed when pantothenate was replaced with pantoate. V(max) values were 7-fold higher toward pantoate, indicating that TK2141 encoded a novel enzyme, pantoate kinase (PoK). A search for genes with a distribution similar to TK2141 led to the identification of TK1686. The protein product catalyzed the ATP-dependent conversion of phosphopantoate and beta-alanine to produce 4'-phosphopantothenate and did not exhibit PS activity, indicating that TK1686 also encoded a novel enzyme, phosphopantothenate synthetase (PPS). Although the classic PS/PanK system performs condensation with beta-alanine prior to phosphorylation, the PoK/PPS system performs condensation after phosphorylation of pantoate. Gene disruption of TK2141 and TK1686 led to CoA auxotrophy, indicating that both genes are necessary for CoA biosynthesis in T. kodakaraensis. Homologs of both genes are widely distributed among the Archaea, suggesting that the PoK/PPS system represents the pathway for 4'-phosphopantothenate biosynthesis in the Archaea.
+
+-Archaeal Proteins (-genetics; +metabolism)
+-Coenzyme A (+biosynthesis)
+-Gene Targeting
+-Genes, Archaeal
+-Hydroxybutyrates (+metabolism)
+-Molecular Structure
+-Peptide Synthases (-genetics; +metabolism)
+-Phosphotransferases (-genetics; +metabolism)
+-Recombinant Proteins (-metabolism)
+-Thermococcus (+enzymology; -genetics; -growth & development)
+
+pii:M109.009696
+doi:10.1074/jbc.M109.009696
+pubmed:19666462
+pmc:PMC2788864
+

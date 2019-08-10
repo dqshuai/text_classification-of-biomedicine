@@ -1,0 +1,22 @@
+PLoS Genet.
+
+Differential regulation of horizontally acquired and core genome genes by the bacterial modulator H-NS.
+
+RC Baños, A Vivero, S Aznar, J García, M Pons, C Madrid, A Juárez
+
+Horizontal acquisition of DNA by bacteria dramatically increases genetic diversity and hence successful bacterial colonization of several niches, including the human host. A relevant issue is how this newly acquired DNA interacts and integrates in the regulatory networks of the bacterial cell. The global modulator H-NS targets both core genome and HGT genes and silences gene expression in response to external stimuli such as osmolarity and temperature. Here we provide evidence that H-NS discriminates and differentially modulates core and HGT DNA. As an example of this, plasmid R27-encoded H-NS protein has evolved to selectively silence HGT genes and does not interfere with core genome regulation. In turn, differential regulation of both gene lineages by resident chromosomal H-NS requires a helper protein: the Hha protein. Tight silencing of HGT DNA is accomplished by H-NS-Hha complexes. In contrast, core genes are modulated by H-NS homoligomers. Remarkably, the presence of Hha-like proteins is restricted to the Enterobacteriaceae. In addition, conjugative plasmids encoding H-NS variants have hitherto been isolated only from members of the family. Thus, the H-NS system in enteric bacteria presents unique evolutionary features. The capacity to selectively discriminate between core and HGT DNA may help to maintain horizontally transmitted DNA in silent form and may give these bacteria a competitive advantage in adapting to new environments, including host colonization.
+
+-Bacterial Proteins (-genetics; +metabolism)
+-DNA, Bacterial (-genetics)
+-DNA-Binding Proteins (-genetics; +metabolism)
++Gene Expression Regulation, Bacterial
++Gene Transfer, Horizontal
++Genome, Bacterial
+-Plasmids (-genetics)
+-Protein Binding
+-Salmonella typhimurium (+genetics; +metabolism)
+
+doi:10.1371/journal.pgen.1000513
+pubmed:19521501
+pmc:PMC2686267
+

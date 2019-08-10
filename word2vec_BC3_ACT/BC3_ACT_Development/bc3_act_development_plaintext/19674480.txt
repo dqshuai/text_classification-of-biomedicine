@@ -1,0 +1,20 @@
+BMC Genomics
+
+ArachnoServer: a database of protein toxins from spiders.
+
+DL Wood, T Miljenović, S Cai, RJ Raven, Q Kaas, P Escoubas, V Herzig, D Wilson, GF King
+
+BACKGROUND: Venomous animals incapacitate their prey using complex venoms that can contain hundreds of unique protein toxins. The realisation that many of these toxins may have pharmaceutical and insecticidal potential due to their remarkable potency and selectivity against target receptors has led to an explosion in the number of new toxins being discovered and characterised. From an evolutionary perspective, spiders are the most successful venomous animals and they maintain by far the largest pool of toxic peptides. However, at present, there are no databases dedicated to spider toxins and hence it is difficult to realise their full potential as drugs, insecticides, and pharmacological probes. DESCRIPTION: We have developed ArachnoServer, a manually curated database that provides detailed information about proteinaceous toxins from spiders. Key features of ArachnoServer include a new molecular target ontology designed especially for venom toxins, the most up-to-date taxonomic information available, and a powerful advanced search interface. Toxin information can be browsed through dynamic trees, and each toxin has a dedicated page summarising all available information about its sequence, structure, and biological activity. ArachnoServer currently manages 567 protein sequences, 334 nucleic acid sequences, and 51 protein structures. CONCLUSION: ArachnoServer provides a single source of high-quality information about proteinaceous spider toxins that will be an invaluable resource for pharmacologists, neuroscientists, toxinologists, medicinal chemists, ion channel scientists, clinicians, and structural biologists. ArachnoServer is available online at http://www.arachnoserver.org.
+
+-Animals
++Databases, Protein
+-Internet
+-Spider Venoms (+chemistry)
+-Spiders (+chemistry)
+-User-Computer Interface
+
+pii:1471-2164-10-375
+doi:10.1186/1471-2164-10-375
+pubmed:19674480
+pmc:PMC2907703
+

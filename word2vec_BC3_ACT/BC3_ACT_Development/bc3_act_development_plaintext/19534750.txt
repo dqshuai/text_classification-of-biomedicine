@@ -1,0 +1,22 @@
+BMC Bioinformatics
+
+A novel similarity-measure for the analysis of genetic data in complex phenotypes.
+
+V Lagani, A Montesanto, F Di Cianni, V Moreno, S Landi, D Conforti, G Rose, G Passarino
+
+BACKGROUND: Recent technological advances in DNA sequencing and genotyping have led to the accumulation of a remarkable quantity of data on genetic polymorphisms. However, the development of new statistical and computational tools for effective processing of these data has not been equally as fast. In particular, Machine Learning literature is limited to relatively few papers which are focused on the development and application of data mining methods for the analysis of genetic variability. On the other hand, these papers apply to genetic data procedures which had been developed for a different kind of analysis and do not take into account the peculiarities of population genetics. The aim of our study was to define a new similarity measure, specifically conceived for measuring the similarity between the genetic profiles of two groups of subjects (i.e., cases and controls) taking into account that genetic profiles are usually distributed in a population group according to the Hardy Weinberg equilibrium. RESULTS: We set up a new kernel function consisting of a similarity measure between groups of subjects genotyped for numerous genetic loci. This measure weighs different genetic profiles according to the estimates of gene frequencies at Hardy-Weinberg equilibrium in the population. We named this function the "Hardy-Weinberg kernel". The effectiveness of the Hardy-Weinberg kernel was compared to the performance of the well established linear kernel. We found that the Hardy-Weinberg kernel significantly outperformed the linear kernel in a number of experiments where we used either simulated data or real data. CONCLUSION: The "Hardy-Weinberg kernel" reported here represents one of the first attempts at incorporating genetic knowledge into the definition of a kernel function designed for the analysis of genetic data. We show that the best performance of the "Hardy-Weinberg kernel" is observed when rare genotypes have different frequencies in cases and controls. The ability to capture the effect of rare genotypes on phenotypic traits might be a very important and useful feature, as most of the current statistical tools loose most of their statistical power when rare genotypes are involved in the susceptibility to the trait under study.
+
++Artificial Intelligence
+-Computer Simulation
+-Gene Expression Profiling
+-Gene Frequency
++Genetics, Population
++Genotype
+-Models, Genetic
++Phenotype
+
+pii:1471-2105-10-S6-S24
+doi:10.1186/1471-2105-10-S6-S24
+pubmed:19534750
+pmc:PMC2697648
+

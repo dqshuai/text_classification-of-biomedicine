@@ -1,0 +1,22 @@
+Nucleic Acids Res.
+
+Predicting nucleosome positions on the DNA: combining intrinsic sequence preferences and remodeler activities.
+
+VB Teif, K Rippe
+
+Nucleosome positions on the DNA are determined by the intrinsic affinities of histone proteins to a given DNA sequence and by the ATP-dependent activities of chromatin remodeling complexes that can translocate nucleosomes with respect to the DNA. Here, we report a theoretical approach that takes into account both contributions. In the theoretical analysis two types of experiments have been considered: in vitro experiments with a single reconstituted nucleosome and in vivo genome-scale mapping of nucleosome positions. The effect of chromatin remodelers was described by iteratively redistributing the nucleosomes according to certain rules until a new steady state was reached. Three major classes of remodeler activities were identified: (i) the establishment of a regular nucleosome spacing in the vicinity of a strong positioning signal acting as a boundary, (ii) the enrichment/depletion of nucleosomes through amplification of intrinsic DNA-sequence-encoded signals and (iii) the removal of nucleosomes from high-affinity binding sites. From an analysis of data for nucleosome positions in resting and activated human CD4(+) T cells [Schones et al., Cell 132, p. 887] it was concluded that the redistribution of a nucleosome map to a new state is greatly facilitated if the remodeler complex translocates the nucleosome with a preferred directionality.
+
+-Animals
++Chromatin Assembly and Disassembly
+-DNA (-chemistry)
+-Drosophila (-genetics)
+-Humans
+-Nucleosomes (+chemistry)
+-Sequence Analysis, DNA
+-Thermodynamics
+
+pii:gkp610
+doi:10.1093/nar/gkp610
+pubmed:19625488
+pmc:PMC2761276
+

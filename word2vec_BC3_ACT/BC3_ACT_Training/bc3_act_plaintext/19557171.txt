@@ -1,0 +1,29 @@
+PLoS ONE
+
+Competition triggers plasmid-mediated enhancement of substrate utilisation in Pseudomonas putida.
+
+H Joshi, R Dave, VP Venugopalan
+
+Competition between species plays a central role in the activity and structure of communities. Stable co-existence of diverse organisms in communities is thought to be fostered by individual tradeoffs and optimization of competitive strategies along resource gradients. Outside the laboratory, microbes exist as multispecies consortia, continuously interacting with one another and the environment. Survival and proliferation of a particular species is governed by its competitive fitness. Therefore, bacteria must be able to continuously sense their immediate environs for presence of competitors and prevailing conditions. Here we present results of our investigations on a novel competition sensing mechanism in the rhizosphere-inhabiting Pseudomonas putida KT2440, harbouring gfpmut3b-modified Kan(R) TOL plasmid. We monitored benzyl alcohol (BA) degradation rate, along with GFP expression profiling in mono species and dual species cultures. Interestingly, enhanced plasmid expression (monitored using GFP expression) and consequent BA degradation were observed in dual species consortia, irrespective of whether the competitor was a BA degrader (Pseudomonas aeruginosa) or a non-degrader (E. coli). Attempts at elucidation of the mechanistic aspects of induction indicated the role of physical interaction, but not of any diffusible compounds emanating from the competitors. This contention is supported by the observation that greater induction took place in presence of increasing number of competitors. Inert microspheres mimicking competitor cell size and concentration did not elicit any significant induction, further suggesting the role of physical cell-cell interaction. Furthermore, it was also established that cell wall compromised competitor had minimal induction capability. We conclude that P. putida harbouring pWW0 experience a competitive stress when grown as dual-species consortium, irrespective of the counterpart being BA degrader or not. The immediate effect of this stress is a marked increase in expression of TOL, leading to rapid utilization of the available carbon source and massive increase in its population density. The plausible mechanisms behind the phenomenon are hypothesised and practical implications are indicated and discussed.
+
+-Binding, Competitive
+-Carbon (-chemistry)
+-Cell Separation
+-Chromatography, High Pressure Liquid
+-DNA, Bacterial (-genetics)
+-Escherichia coli (-metabolism)
+-Flow Cytometry
+-Gene Expression Regulation, Bacterial
+-Genes, Bacterial
+-Green Fluorescent Proteins (-metabolism)
+-Models, Biological
+-Plasmids (+metabolism)
+-Pseudomonas putida (+genetics; -metabolism)
+-Species Specificity
+-Stem Cells
+-Time Factors
+
+doi:10.1371/journal.pone.0006065
+pubmed:19557171
+pmc:PMC2698150
+

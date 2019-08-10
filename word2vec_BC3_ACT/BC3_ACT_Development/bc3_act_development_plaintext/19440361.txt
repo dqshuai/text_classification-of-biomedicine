@@ -1,0 +1,26 @@
+PLoS ONE
+
+The UBA-UIM domains of the USP25 regulate the enzyme ubiquitination state and modulate substrate recognition.
+
+A Denuc, A Bosch-Comas, R Gonzàlez-Duarte, G Marfany
+
+USP25m is the muscle isoform of the deubiquitinating (DUB) enzyme USP25. Similarly to most DUBs, data on USP25 regulation and substrate recognition is scarce. In silico analysis predicted three ubiquitin binding domains (UBDs) at the N-terminus: one ubiquitin-associated domain (UBA) and two ubiquitin-interacting motifs (UIMs), whereas no clear structural homology at the extended C-terminal region outside the catalytic domains were detected. In order to asses the contribution of the UBDs and the C-terminus to the regulation of USP25m catalytic activity, ubiquitination state and substrate interaction, serial and combinatorial deletions were generated. Our results showed that USP25m catalytic activity did not strictly depend on the UBDs, but required a coiled-coil stretch between amino acids 679 to 769. USP25 oligomerized but this interaction did not require either the UBDs or the C-terminus. Besides, USP25 was monoubiquitinated and able to autodeubiquitinate in a possible loop of autoregulation. UBDs favored the monoubiquitination of USP25m at the preferential site lysine 99 (K99). This residue had been previously shown to be a target for SUMO and this modification inhibited USP25 activity. We showed that mutation of K99 clearly diminished USP25-dependent rescue of the specific substrate MyBPC1 from proteasome degradation, thereby supporting a new mechanistic model, in which USP25m is regulated through alternative conjugation of ubiquitin (activating) or SUMO (inhibiting) to the same lysine residue (K99), which may promote the interaction with distinct intramolecular regulatory domains.
+
+-Amino Acid Sequence
+-Cell Line
+-Humans
+-Immunoprecipitation
+-Lysine (-chemistry; -genetics)
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Protein Multimerization (-genetics; -physiology)
+-Protein Structure, Tertiary (-genetics; -physiology)
+-Sequence Homology, Amino Acid
+-Substrate Specificity
+-Ubiquitin Thiolesterase (+chemistry; -genetics; +metabolism)
+-Ubiquitination
+
+doi:10.1371/journal.pone.0005571
+pubmed:19440361
+pmc:PMC2679190
+

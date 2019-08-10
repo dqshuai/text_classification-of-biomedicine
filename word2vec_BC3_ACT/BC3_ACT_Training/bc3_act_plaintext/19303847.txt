@@ -1,0 +1,23 @@
+Cell
+
+The BRC repeats of BRCA2 modulate the DNA-binding selectivity of RAD51.
+
+A Carreira, J Hilario, I Amitani, RJ Baskin, MK Shivji, AR Venkitaraman, SC Kowalczykowski
+
+The breast cancer susceptibility protein, BRCA2, is essential for recombinational DNA repair. BRCA2 delivers RAD51 to double-stranded DNA (dsDNA) breaks through interaction with eight conserved, approximately 35 amino acid motifs, the BRC repeats. Here we show that the solitary BRC4 promotes assembly of RAD51 onto single-stranded DNA (ssDNA), but not dsDNA, to stimulate DNA strand exchange. BRC4 acts by blocking ATP hydrolysis and thereby maintaining the active ATP-bound form of the RAD51-ssDNA filament. Single-molecule visualization shows that BRC4 does not disassemble RAD51-dsDNA filaments but rather blocks nucleation of RAD51 onto dsDNA. Furthermore, this behavior is manifested by a domain of BRCA2 comprising all eight BRC repeats. These results establish that the BRC repeats modulate RAD51-DNA interaction in two opposing but functionally reinforcing ways: targeting active RAD51 to ssDNA and prohibiting RAD51 nucleation onto dsDNA. Thus, BRCA2 recruits RAD51 to DNA breaks and, we propose, the BRC repeats regulate DNA-binding selectivity.
+
+-Adenosine Triphosphate (-metabolism)
+-Amino Acid Motifs
+-BRCA2 Protein (-chemistry; +metabolism)
+-DNA, Single-Stranded (+metabolism)
+-Humans
+-Models, Biological
+-Rad51 Recombinase (+metabolism)
+-Recombination, Genetic
+
+pii:S0092-8674(09)00161-5
+doi:10.1016/j.cell.2009.02.019
+pubmed:19303847
+mid:NIHMS99373
+pmc:PMC2669112
+

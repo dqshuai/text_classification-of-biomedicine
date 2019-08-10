@@ -1,0 +1,25 @@
+Cell
+
+Mammalian telomeres resemble fragile sites and require TRF1 for efficient replication.
+
+A Sfeir, ST Kosiyatrakul, D Hockemeyer, SL MacRae, J Karlseder, CL Schildkraut, T de Lange
+
+Telomeres protect chromosome ends through the interaction of telomeric repeats with shelterin, a protein complex that represses DNA damage signaling and DNA repair reactions. The telomeric repeats are maintained by telomerase, which solves the end replication problem. We report that the TTAGGG repeat arrays of mammalian telomeres pose a challenge to the DNA replication machinery, giving rise to replication-dependent defects that resemble those of aphidicolin-induced common fragile sites. Gene deletion experiments showed that efficient duplication of telomeres requires the shelterin component TRF1. Without TRF1, telomeres activate the ATR kinase in S phase and show a fragile-site phenotype in metaphase. Single-molecule analysis of replicating telomeres showed that TRF1 promotes efficient replication of TTAGGG repeats and prevents fork stalling. Two helicases implicated in the removal of G4 DNA structures, BLM and RTEL1, were required to repress the fragile-telomere phenotype. These results identify a second telomere replication problem that is solved by the shelterin component TRF1.
+
+-Animals
+-Aphidicolin
++Chromosome Fragile Sites
+-Chromosomes, Mammalian (-metabolism)
++DNA Replication
+-Humans
+-Metaphase
+-Mice
+-Telomere (+metabolism)
+-Telomeric Repeat Binding Protein 1 (-genetics; +metabolism)
+
+pii:S0092-8674(09)00721-1
+doi:10.1016/j.cell.2009.06.021
+pubmed:19596237
+mid:NIHMS132486
+pmc:PMC2723738
+

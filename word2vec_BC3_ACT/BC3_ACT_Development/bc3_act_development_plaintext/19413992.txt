@@ -1,0 +1,32 @@
+Biophys. J.
+
+Mechanisms of beta-adrenergic modulation of I(Ks) in the guinea-pig ventricle: insights from experimental and model-based analysis.
+
+S Severi, C Corsi, M Rocchetti, A Zaza
+
+Detailed understanding of I(Ks) gating complexity may provide clues regarding the mechanisms of repolarization instability and the resulting arrhythmias. We developed and tested a kinetic model to interpret physiologically relevant I(Ks) properties, including pause-dependence and modulation by beta-adrenergic receptors (beta-AR). I(Ks) gating was evaluated in guinea-pig ventricular myocytes at 36 degrees C in control and during beta-AR stimulation (0.1 micromol/L isoprenaline (ISO)). We tested voltage dependence of steady-state conductance (Gss), voltage dependence of activation and deactivation time constants (tau(act), tau(deact)), and pause-dependence of tau(act) during repetitive activations (tau(react)). The I(Ks) model was developed from the Silva and Rudy formulation. Parameters were optimized on control and ISO experimental data, respectively. ISO strongly increased Gss and its voltage dependence, changed the voltage dependence of tau(act) and tau(deact), and modified the pause-dependence of tau(react). A single set of model parameters reproduced all experimental data in control. Modification of only three transition rates led to a second set of parameters suitable to fit all ISO data. Channel unitary conductance and density were unchanged in the model, thus implying increased open probability as the mechanism of ISO-induced Gss enhancement. The new I(Ks) model was applied to analyze ISO effect on repolarization rate-dependence. I(Ks) kinetics and its beta-AR modulation were entirely reproduced by a single Markov chain of transitions (for each channel monomer). Model-based analysis suggests that complete opening of I(Ks) channels within a physiological range of potentials requires concomitant beta-AR stimulation. Transient redistribution of state occupancy, in addition to direct modulation of transition rates, may underlie beta-AR modulation of I(Ks) time dependence.
+
+-Action Potentials
+-Adrenergic beta-Agonists (-pharmacology)
+-Analysis of Variance
+-Animals
+-Computer Simulation
+-Delayed Rectifier Potassium Channels (+metabolism)
+-Electric Conductivity
+-Guinea Pigs
++Ion Channel Gating
+-Isoproterenol (-pharmacology)
+-Kinetics
+-Markov Chains
++Models, Biological
+-Myocytes, Cardiac (-drug effects; +physiology)
+-Patch-Clamp Techniques
+-Potassium (-metabolism)
+-Receptors, Adrenergic, beta (+metabolism)
+-Ventricular Function (-drug effects; +physiology)
+
+pii:S0006-3495(09)00570-0
+doi:10.1016/j.bpj.2009.02.017
+pubmed:19413992
+pmc:PMC2711398
+

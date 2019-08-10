@@ -1,0 +1,28 @@
+EMBO J.
+
+Wip1 confers G2 checkpoint recovery competence by counteracting p53-dependent transcriptional repression.
+
+A Lindqvist, M de Bruijn, L Macurek, A Brás, A Mensinga, W Bruinsma, O Voets, O Kranenburg, RH Medema
+
+Activation of the DNA damage checkpoint causes a cell-cycle arrest through inhibition of cyclin-dependent kinases (cdks). To successfully recover from the arrest, a cell should somehow be maintained in its proper cell-cycle phase. This problem is particularly eminent when a cell arrests in G2, as cdk activity is important to establish a G2 state. Here, we identify the phosphatase Wip1 (PPM1D) as a factor that maintains a cell competent for cell-cycle re-entry during an ongoing DNA damage response in G2. We show that Wip1 function is required throughout the arrest, and that Wip1 acts by antagonizing p53-dependent repression of crucial mitotic inducers, such as Cyclin B and Plk1. Our data show that the primary function of Wip1 is to retain cellular competence to divide, rather than to silence the checkpoint to promote recovery. Our findings uncover Wip1 as a first in class recovery competence gene, and suggest that the principal function of Wip1 in cellular transformation is to retain proliferative capacity in the face of oncogene-induced stress.
+
+-Blotting, Western
+-Cell Cycle Proteins (-genetics; -metabolism)
+-Cell Line, Tumor
+-Cyclin B (-genetics; -metabolism)
+-Flow Cytometry
+-G2 Phase (-genetics; +physiology)
+-Humans
+-Microscopy
+-Phosphoprotein Phosphatases (-genetics; +physiology)
+-Protein-Serine-Threonine Kinases (-genetics; -metabolism)
+-Proto-Oncogene Proteins (-genetics; -metabolism)
+-RNA Interference
+-Reverse Transcriptase Polymerase Chain Reaction
+-Tumor Suppressor Protein p53 (-genetics; +physiology)
+
+pii:emboj2009246
+doi:10.1038/emboj.2009.246
+pubmed:19713933
+pmc:PMC2771084
+

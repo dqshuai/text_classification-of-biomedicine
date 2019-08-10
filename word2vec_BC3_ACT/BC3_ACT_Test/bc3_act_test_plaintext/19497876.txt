@@ -1,0 +1,14 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Statistical mechanics of convergent evolution in spatial patterning.
+
+BS Khatri, TC McLeish, RP Sear
+
+We explore how the genotype-phenotype map determines convergent evolution in a simple model of spatial gene regulation during development. Evolution is simulated via a Monte Carlo scheme that incorporates mutation, selection, and genetic drift, by using a bottom-up model of gene regulation with a fitness function that is optimized by a switch-like response to a morphogen gradient. We find that even for very simple regulation, the genotype-phenotype map gives rise to an emergent fitness landscape of remarkable complexity. This leads to a richness of evolutionary behavior as population size is increased that parallels the thermodynamics of physical systems as temperature decreases. Convergence is controlled by the existence of sufficiently dominant global optima in "free fitness," which is a quantity that is the balance of mutational entropy and fitness. In independent simulations at low population sizes, we find convergence to a phenotype of suboptimal fitness due to the multiplicity or entropy of solutions. This contrasts with convergence to the optimal fitness phenotype at high population size. However, at sufficiently large population sizes, we find convergence in only the phenotypes with greatest effect on fitness, whereas noncritical phenotypes exhibit divergence due to quenched disorder on a locally rough landscape. Our results predict that for large populations, the evolution of even simple gene regulatory circuits may be glassy-like, such that, counter to the commonly accepted view that conservation implies function, many conserved phenotypes are simply frozen accidents of little consequence to the fitness of the organism.
+
+
+pii:0812260106
+doi:10.1073/pnas.0812260106
+pubmed:19497876
+pmc:PMC2701012
+

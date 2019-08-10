@@ -1,0 +1,28 @@
+PLoS ONE
+
+Ecological niche models and coalescent analysis of gene flow support recent allopatric isolation of parasitoid wasp populations in the Mediterranean.
+
+JD Lozier, NJ Mills
+
+BACKGROUND: The integration of multiple complementary approaches is a powerful way to understand the processes of diversification and speciation. The parasitoid wasp Aphidius transcaspicus Telenga (Hymenoptera: Braconidae) is a parasitoid of Hyalopterus aphids across a wide geographic range. This species shows a remarkable degree of genetic structure among western, central, and eastern Mediterranean population clusters. In this paper we attempt to better characterize this genetic structure. METHODOLOGY/PRINCIPAL FINDINGS: We use a Bayesian coalescent analysis of gene flow under the Isolation with Migration model using mitochondrial and microsatellite markers together with climate-based ecological niche models to better understand the genetic structure of A. transcaspicus in the Mediterranean. The coalescent analysis revealed low levels of migration among western and eastern Mediterranean populations (Nm<1) that were not statistically distinguishable from zero. Niche models showed that localities within population clusters each occupy areas of continuously high environmental suitability, but are separated from each other by large regions of completely unsuitable habitat that could limit dispersal. Overall, environmental characteristics were similar among the population clusters, though significant differences did emerge. CONCLUSIONS/SIGNIFICANCE: These results support contemporary allopatric isolation of Mediterranean populations of A. transcaspicus, which together with previous analyses indicating partial behaviorally mediated reproductive isolation, suggest that the early stages of cryptic speciation may be in progress.
+
+-Animals
+-Bayes Theorem
+-Cluster Analysis
+-Ecology
+-Emigration and Immigration
++Gene Flow
+-Genetic Speciation
+-Genetic Variation
+-Geography
+-Mediterranean Sea
+-Models, Biological
+-Models, Genetic
+-Models, Theoretical
+-Time Factors
+-Wasps (+genetics; +physiology)
+
+doi:10.1371/journal.pone.0005901
+pubmed:19521534
+pmc:PMC2691581
+

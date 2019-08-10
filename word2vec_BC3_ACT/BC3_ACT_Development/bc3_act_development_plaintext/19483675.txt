@@ -1,0 +1,13 @@
+Nature
+
+Giant tunnel electroresistance for non-destructive readout of ferroelectric states.
+
+V Garcia, S Fusil, K Bouzehouane, S Enouz-Vedrenne, ND Mathur, A Barthélémy, M Bibes
+
+Ferroelectrics possess a polarization that is spontaneous, stable and electrically switchable, and submicrometre-thick ferroelectric films are currently used as non-volatile memory elements with destructive capacitive readout. Memories based on tunnel junctions with ultrathin ferroelectric barriers would enable non-destructive resistive readout. However, the achievement of room-temperature polarization stability and switching at very low thickness is challenging. Here we use piezoresponse force microscopy at room temperature to show robust ferroelectricity down to 1 nm in highly strained BaTiO(3) films; we also use room-temperature conductive-tip atomic force microscopy to demonstrate resistive readout of the polarization state through its influence on the tunnel current. The resulting electroresistance effect scales exponentially with ferroelectric film thickness, reaching approximately 75,000% at 3 nm. Our approach exploits the otherwise undesirable leakage current-dominated by tunnelling at these very low thicknesses-to read the polarization state without destroying it. We demonstrate scalability down to 70 nm, corresponding to potential densities of >16 Gbit inch(-2). These results pave the way towards ferroelectric memories with simplified architectures, higher densities and faster operation, and should inspire further exploration of the interplay between quantum tunnelling and ferroelectricity at the nanoscale.
+
+
+pii:nature08128
+doi:10.1038/nature08128
+pubmed:19483675
+

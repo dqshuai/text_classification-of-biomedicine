@@ -1,0 +1,30 @@
+Plant Cell
+
+MTA is an Arabidopsis messenger RNA adenosine methylase and interacts with a homolog of a sex-specific splicing factor.
+
+S Zhong, H Li, Z Bodi, J Button, L Vespa, M Herzog, RG Fray
+
+N6-Methyladenosine is a ubiquitous modification identified in the mRNA of numerous eukaryotes, where it is present within both coding and noncoding regions. However, this base modification does not alter the coding capacity, and its biological significance remains unclear. We show that Arabidopsis thaliana mRNA contains N6-methyladenosine at levels similar to those previously reported for animal cells. We further show that inactivation of the Arabidopsis ortholog of the yeast and human mRNA adenosine methylase (MTA) results in failure of the developing embryo to progress past the globular stage. We also demonstrate that the arrested seeds are deficient in mRNAs containing N6-methyladenosine. Expression of MTA is strongly associated with dividing tissues, particularly reproductive organs, shoot meristems, and emerging lateral roots. Finally, we show that MTA interacts in vitro and in vivo with At FIP37, a homolog of the Drosophila protein FEMALE LETHAL2D and of human WILMS' TUMOUR1-ASSOCIATING PROTEIN. The results reported here provide direct evidence for an essential function for N6-methyladenosine in a multicellular eukaryote, and the interaction with At FIP37 suggests possible RNA processing events that might be regulated or altered by this base modification.
+
+-Adenosine (-analogs & derivatives; -metabolism)
+-Arabidopsis (+enzymology; -genetics; -metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Carrier Proteins (+metabolism)
+-Chromatography, Thin Layer
+-Flowers (-enzymology; -genetics; -metabolism)
+-Gene Expression Regulation, Plant
+-Genetic Complementation Test
+-Immunoprecipitation
+-Methyltransferases (-genetics; +metabolism)
+-Molecular Sequence Data
+-Plant Leaves (-enzymology; -genetics; -metabolism)
+-Plant Roots (-enzymology; -genetics; -metabolism)
+-Protein Binding
+-RNA, Messenger (-metabolism)
+-Two-Hybrid System Techniques
+
+pii:tpc.108.058883
+doi:10.1105/tpc.108.058883
+pubmed:18505803
+pmc:PMC2438467
+

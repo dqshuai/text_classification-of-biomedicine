@@ -1,0 +1,22 @@
+PLoS ONE
+
+Local calcium elevation and cell elongation initiate guided motility in electrically stimulated osteoblast-like cells.
+
+N Ozkucur, TK Monsees, S Perike, HQ Do, RH Funk
+
+BACKGROUND: Investigation of the mechanisms of guided cell migration can contribute to our understanding of many crucial biological processes, such as development and regeneration. Endogenous and exogenous direct current electric fields (dcEF) are known to induce directional cell migration, however the initial cellular responses to electrical stimulation are poorly understood. Ion fluxes, besides regulating intracellular homeostasis, have been implicated in many biological events, including regeneration. Therefore understanding intracellular ion kinetics during EF-directed cell migration can provide useful information for development and regeneration. METHODOLOGY/PRINCIPAL FINDINGS: We analyzed the initial events during migration of two osteogenic cell types, rat calvarial and human SaOS-2 cells, exposed to strong (10-15 V/cm) and weak (< or = 5 V/cm) dcEFs. Cell elongation and perpendicular orientation to the EF vector occurred in a time- and voltage-dependent manner. Calvarial osteoblasts migrated to the cathode as they formed new filopodia or lamellipodia and reorganized their cytoskeleton on the cathodal side. SaOS-2 cells showed similar responses except towards the anode. Strong dcEFs triggered a rapid increase in intracellular calcium levels, whereas a steady state level of intracellular calcium was observed in weaker fields. Interestingly, we found that dcEF-induced intracellular calcium elevation was initiated with a local rise on opposite sides in calvarial and SaOS-2 cells, which may explain their preferred directionality. In calcium-free conditions, dcEFs induced neither intracellular calcium elevation nor directed migration, indicating an important role for calcium ions. Blocking studies using cadmium chloride revealed that voltage-gated calcium channels (VGCCs) are involved in dcEF-induced intracellular calcium elevation. CONCLUSION/SIGNIFICANCE: Taken together, these data form a time scale of the morphological and physiological rearrangements underlying EF-guided migration of osteoblast-like cell types and reveal a requirement for calcium in these reactions. We show for the first time here that dcEFs trigger different patterns of intracellular calcium elevation and positional shifting in osteogenic cell types that migrate in opposite directions.
+
+-Animals
+-Calcium (+metabolism)
+-Cell Adhesion
+-Cell Line
++Cell Movement
++Electric Stimulation
+-Humans
+-Osteoblasts (+cytology)
+-Rats
+
+doi:10.1371/journal.pone.0006131
+pubmed:19584927
+pmc:PMC2702840
+

@@ -1,0 +1,27 @@
+Biosci. Biotechnol. Biochem.
+
+Directed evolution of the actinomycete cytochrome P450moxA (CYP105) for enhanced activity.
+
+H Kabumoto, K Miyazaki, A Arisawa
+
+Actinomycete cytochrome P450 from Nonomuraea recticatena NBRC 14525 (P450moxA) catalyzes the hydroxylation of a broad range of substrates, including fatty acids, steroids, and various aromatic compounds. Hence, the enzyme is potentially useful in medicinal applications, but the activity is insufficient for practical use. Here we applied directed evolution to enhance the activity. A random mutagenesis library was screened using 7-ethoxycoumarin as a substrate to retrieve 17 variants showing >2-fold activities. Twenty-five amino acid substitutions were found in the variants, of which five mutations were identified to have the largest effects (Q87W, T115A, H132L, R191W, and G294D). These mutations additively increased the activity; the quintet mutant had 20-times the activity of the wildtype. These five single mutations also increased in activity toward structurally distinct substrates (diclofenac and naringenin). Based on the three-dimensional structure of the enzyme, we discerned that mutations in the substrate recognition site improved the activity, which was substrate dependent; mutations apart from the active site improved the activity as well as the substrates did.
+
+-Actinobacteria (+enzymology)
+-Base Sequence
+-Biocatalysis
+-Chromatography, High Pressure Liquid
+-Cytochrome P-450 Enzyme System (-chemistry; -genetics; +metabolism)
+-DNA Primers
+-Diclofenac (-metabolism)
++Evolution
+-Flavanones (-metabolism)
+-Hydroxylation
+-Models, Molecular
+-Mutagenesis
+-Polymerase Chain Reaction
+-Protein Conformation
+-Substrate Specificity
+
+pii:JST.JSTAGE/bbb/90013
+pubmed:19734686
+

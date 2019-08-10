@@ -1,0 +1,16 @@
+RNA
+
+Improved RNA secondary structure prediction by maximizing expected pair accuracy.
+
+ZJ Lu, JW Gloor, DH Mathews
+
+Free energy minimization has been the most popular method for RNA secondary structure prediction for decades. It is based on a set of empirical free energy change parameters derived from experiments using a nearest-neighbor model. In this study, a program, MaxExpect, that predicts RNA secondary structure by maximizing the expected base-pair accuracy, is reported. This approach was first pioneered in the program CONTRAfold, using pair probabilities predicted with a statistical learning method. Here, a partition function calculation that utilizes the free energy change nearest-neighbor parameters is used to predict base-pair probabilities as well as probabilities of nucleotides being single-stranded. MaxExpect predicts both the optimal structure (having highest expected pair accuracy) and suboptimal structures to serve as alternative hypotheses for the structure. Tested on a large database of different types of RNA, the maximum expected accuracy structures are, on average, of higher accuracy than minimum free energy structures. Accuracy is measured by sensitivity, the percentage of known base pairs correctly predicted, and positive predictive value (PPV), the percentage of predicted pairs that are in the known structure. By favoring double-strandedness or single-strandedness, a higher sensitivity or PPV of prediction can be favored, respectively. Using MaxExpect, the average PPV of optimal structure is improved from 66% to 68% at the same sensitivity level (73%) compared with free energy minimization.
+
++Nucleic Acid Conformation
+-RNA (+chemistry)
+
+pii:rna.1643609
+doi:10.1261/rna.1643609
+pubmed:19703939
+pmc:PMC2743040
+

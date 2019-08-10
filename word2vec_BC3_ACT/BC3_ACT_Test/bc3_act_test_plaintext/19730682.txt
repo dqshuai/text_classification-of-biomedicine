@@ -1,0 +1,26 @@
+PLoS Comput. Biol.
+
+Influence of sequence changes and environment on intrinsically disordered proteins.
+
+A Mohan, VN Uversky, P Radivojac
+
+Many large-scale studies on intrinsically disordered proteins are implicitly based on the structural models deposited in the Protein Data Bank. Yet, the static nature of deposited models supplies little insight into variation of protein structure and function under diverse cellular and environmental conditions. While the computational predictability of disordered regions provides practical evidence that disorder is an intrinsic property of proteins, the robustness of disordered regions to changes in sequence or environmental conditions has not been systematically studied. We analyzed intrinsically disordered regions in the same or similar proteins crystallized independently and studied their sensitivity to changes in protein sequence and parameters of crystallographic experiments. The observed changes in the existence, position, and length of disordered regions indicate that their appearance in X-ray structures dramatically depends on changes in amino acid sequence and peculiarities of the crystallographic experiment. Our study also raises general questions regarding protein evolution and the regulation of protein structure, dynamics, and function via variations in cellular and environmental conditions.
+
+-Algorithms
+-Amino Acid Sequence
+-Crystallography, X-Ray
+-Cyclophilins (-chemistry; -metabolism)
+-Databases, Protein
+-Hydrogen-Ion Concentration
+-Models, Molecular
+-Protein Conformation
+-Protein Folding
+-Proteins (+chemistry; -metabolism)
+-Structure-Activity Relationship
+-Temperature
+-Thermodynamics
+
+doi:10.1371/journal.pcbi.1000497
+pubmed:19730682
+pmc:PMC2727479
+

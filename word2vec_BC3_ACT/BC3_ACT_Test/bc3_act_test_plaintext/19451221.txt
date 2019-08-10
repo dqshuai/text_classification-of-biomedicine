@@ -1,0 +1,28 @@
+Genes Dev.
+
+Translational reprogramming following UVB irradiation is mediated by DNA-PKcs and allows selective recruitment to the polysomes of mRNAs encoding DNA repair enzymes.
+
+IR Powley, A Kondrashov, LA Young, HC Dobbyn, K Hill, IG Cannell, M Stoneley, YW Kong, JA Cotes, GC Smith, R Wek, C Hayes, TW Gant, KA Spriggs, M Bushell, AE Willis
+
+UVB-induced lesions in mammalian cellular DNA can, through the process of mutagenesis, lead to carcinogenesis. However, eukaryotic cells have evolved complex mechanisms of genomic surveillance and DNA damage repair to counteract the effects of UVB radiation. We show that following UVB DNA damage, there is an overall inhibition of protein synthesis and translational reprogramming. This reprogramming allows selective synthesis of DDR proteins, such as ERCC1, ERCC5, DDB1, XPA, XPD, and OGG1 and relies on upstream ORFs in the 5' untranslated region of these mRNAs. Experiments with DNA-PKcs-deficient cell lines and a specific DNA-PKcs inhibitor demonstrate that both the general repression of mRNA translation and the preferential translation of specific mRNAs depend on DNA-PKcs activity, and therefore our data establish a link between a key DNA damage signaling component and protein synthesis.
+
+-Calcium-Binding Proteins (+metabolism)
+-Cell Line, Tumor
+-DNA Damage (-radiation effects)
+-DNA Repair Enzymes (-genetics; +metabolism)
+-Gene Expression Regulation (-radiation effects)
+-Hela Cells
+-Humans
+-Oligonucleotide Array Sequence Analysis
+-Open Reading Frames
+-Polyribosomes (+metabolism)
+-Protein Biosynthesis (-genetics; +radiation effects)
+-Protein Transport (+radiation effects)
+-RNA, Messenger (+metabolism)
++Ultraviolet Rays
+
+pii:23/10/1207
+doi:10.1101/gad.516509
+pubmed:19451221
+pmc:PMC2685536
+

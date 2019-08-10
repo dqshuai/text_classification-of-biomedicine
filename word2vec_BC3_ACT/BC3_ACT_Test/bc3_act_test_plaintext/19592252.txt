@@ -1,0 +1,35 @@
+Curr. Biol.
+
+Cellular dissection of circadian peptide signals with genetically encoded membrane-tethered ligands.
+
+C Choi, JP Fortin, E McCarthy, L Oksman, AS Kopin, MN Nitabach
+
+BACKGROUND: Neuropeptides regulate many biological processes. Elucidation of neuropeptide function requires identifying the cells that respond to neuropeptide signals and determining the molecular, cellular, physiological, and behavioral consequences of activation of their cognate G protein-coupled receptors (GPCRs) in those cells. As a novel tool for addressing such issues, we have developed genetically encoded neuropeptides covalently tethered to a glycosylphosphatidylinositol (GPI) glycolipid anchor on the plasma membrane ("t-peptides"). RESULTS: t-peptides cell-autonomously induce activation of their cognate GPCRs in cells that express both the t-peptide and its receptor. In the neural circuit controlling circadian rest-activity rhythms in Drosophila melanogaster, rhythmic secretion of the neuropeptide pigment-dispersing factor (PDF) and activation of its GPCR (PDFR) are important for intercellular communication of phase information and coordination of clock neuron oscillation. Broad expression of t-PDF in the circadian control circuit overcomes arrhythmicity induced by pdf(01) null mutation, most likely as a result of activation of PDFR in PDFR-expressing clock neurons that do not themselves secrete PDF. More restricted expression of t-PDF suggests that activation of PDFR accelerates cellular timekeeping in some clock neurons while decelerating others. CONCLUSIONS: The activation of PDFR in pdf(01) null mutant flies--which lack PDF-mediated intercellular transfer of phase information--induces strong rhythmicity in constant darkness, thus establishing a distinct role for PDF signaling in the circadian control circuit independent of the intercellular communication of temporal phase information. The t-peptide technology should provide a useful tool for cellular dissection of bioactive peptide signaling in a variety of organisms and physiological contexts.
+
+-Amino Acid Sequence
+-Animals
+-Cell Communication (+physiology)
+-Cell Line
+-Cell Membrane (+metabolism)
+-Circadian Rhythm (-genetics; +physiology)
+-Crosses, Genetic
+-DNA, Complementary (-chemical synthesis; -genetics)
++Darkness
+-Drosophila Proteins (-genetics; +metabolism; -physiology)
+-Drosophila melanogaster (-metabolism; +physiology)
+-Enzyme-Linked Immunosorbent Assay
+-Humans
+-Locomotion (+physiology)
+-Luciferases
+-Male
+-Molecular Sequence Data
+-Neurons (-metabolism)
+-Neuropeptides (-genetics; +metabolism; -physiology)
+-Receptors, G-Protein-Coupled (+metabolism)
+
+pii:S0960-9822(09)01305-0
+doi:10.1016/j.cub.2009.06.029
+pubmed:19592252
+mid:NIHMS127657
+pmc:PMC2719018
+

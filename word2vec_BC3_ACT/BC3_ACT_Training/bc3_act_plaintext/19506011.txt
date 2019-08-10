@@ -1,0 +1,25 @@
+Infect. Immun.
+
+Streptococcus mitis phage-encoded adhesins mediate attachment to {alpha}2-8-linked sialic acid residues on platelet membrane gangliosides.
+
+J Mitchell, PM Sullam
+
+The direct binding of bacteria to human platelets contributes to the pathogenesis of infective endocarditis. Platelet binding by Streptococcus mitis strain SF100 is mediated in part by two bacteriophage-encoded proteins, PblA and PblB. However, the platelet membrane receptor for these adhesins has been unknown. In this study, we demonstrate that these proteins mediate attachment of bacterial cells to sialylated gangliosides on the platelet cell surface. Desialylation of human platelet monolayers reduced adherence of SF100, whereas treatment of the platelets with N- or O-glycanases did not affect platelet binding. Treatment of platelets with sialidases having different linkage specificities showed that removal of alpha2-8-linked sialic acids resulted in a marked reduction in bacterial binding. Preincubation of SF100 with ganglioside GD3, a glycolipid containing alpha2-8-linked sialic acids that is present on platelet membranes, blocked subsequent binding of this strain to these cells. In contrast, GD3 had no effect on the residual binding of platelets by strain PS344, an isogenic DeltapblA DeltapblB mutant. Preincubating platelets with specific monoclonal antibodies to ganglioside GD3 also inhibited binding of SF100 to platelets, but again, they had no effect on binding by PS344. When the direct binding of S. mitis strains SF100 and PS344 to immobilized gangliosides was tested, binding of PS344 to GD3 was reduced by 70% compared to the parent strain. These results indicated that platelet binding by SF100 is mediated by the interaction of PblA and PblB with alpha2-8-linked sialic acids on ganglioside GD3.
+
+-Adhesins, Bacterial (-genetics; +metabolism)
++Bacterial Adhesion
+-Blood Platelets (+microbiology)
+-Gangliosides (+metabolism)
+-Gene Deletion
++Genes, Viral
+-Humans
+-Protein Binding
+-Sialic Acids (-metabolism)
+-Streptococcus Phages (+genetics)
+-Streptococcus mitis (+pathogenicity)
+
+pii:IAI.01573-08
+doi:10.1128/IAI.01573-08
+pubmed:19506011
+pmc:PMC2715653
+

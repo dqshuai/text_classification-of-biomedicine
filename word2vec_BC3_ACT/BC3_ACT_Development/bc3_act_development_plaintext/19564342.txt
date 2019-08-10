@@ -1,0 +1,28 @@
+J. Immunol.
+
+FOXP3 inhibits activation-induced NFAT2 expression in T cells thereby limiting effector cytokine expression.
+
+TR Torgerson, A Genin, C Chen, M Zhang, B Zhou, S Añover-Sombke, MB Frank, I Dozmorov, E Ocheltree, P Kulmala, M Centola, HD Ochs, AD Wells, RQ Cron
+
+The forkhead DNA-binding protein FOXP3 is critical for the development and suppressive function of CD4(+)CD25(+) regulatory T cells (T(REG)), which play a key role in maintaining self-tolerance. Functionally, FOXP3 is capable of repressing transcription of cytokine genes regulated by NFAT. Various mechanisms have been proposed by which FOXP3 mediates these effects. Using novel cell lines that inducibly express either wild-type or mutant FOXP3, we have identified NFAT2 as an early target of FOXP3-mediated transcriptional repression. NFAT2 is typically expressed at low levels in resting T cells, but is up-regulated by NFAT1 upon cellular activation. We demonstrate that transcription from the NFAT2 promoter is significantly suppressed by FOXP3, and NFAT2 protein expression is markedly diminished in activated CD4(+)CD25(+)FOXP3(+) T(REG) compared with CD4(+)CD25(-)FOXP3(-) T cells. Chromatin immunoprecipitation experiments indicate that FOXP3 competes with NFAT1 for binding to the endogenous NFAT2 promoter. This antagonism of NFAT2 activity by FOXP3 is important for the anergic phenotype of T(REG), as ectopic expression of NFAT2 from a retroviral LTR partially restores expression of IL-2 in FOXP3(+) T(REG). These data suggest that FOXP3 functions not only to suppress the first wave of NFAT-mediated transcriptional responses, but may also affect sustained NFAT-mediated inflammatory gene expression through suppression of inducible NFAT2 transcription.
+
+-Binding, Competitive (-genetics)
+-Cell Line
+-Clonal Anergy
+-Cytokines (+genetics)
+-Forkhead Transcription Factors (-genetics; +physiology)
++Gene Expression Regulation
+-Humans
+-Inflammation (-genetics)
+-Lymphocyte Activation
+-Mutation
+-NFATC Transcription Factors (+antagonists & inhibitors; -genetics)
+-Promoter Regions, Genetic
+-T-Lymphocytes (+metabolism)
+
+pii:jimmunol.0800216
+doi:10.4049/jimmunol.0800216
+pubmed:19564342
+mid:NIHMS149838
+pmc:PMC2778477
+

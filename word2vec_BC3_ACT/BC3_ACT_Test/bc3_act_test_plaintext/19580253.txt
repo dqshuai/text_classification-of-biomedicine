@@ -1,0 +1,26 @@
+Biochemistry
+
+Steady-state and stopped-flow kinetic studies of three Escherichia coli NfsB mutants with enhanced activity for the prodrug CB1954.
+
+D Jarrom, M Jaberipour, CP Guise, S Daff, SA White, PF Searle, EI Hyde
+
+The enzyme nitroreductase, NfsB, from Escherichia coli has entered clinical trials for cancer gene therapy with the prodrug CB1954 [5-(aziridin-1-yl)-2,4-dinitrobenzamide]. However, CB1954 is a poor substrate for the enzyme. Previously we made several NfsB mutants that show better activity with CB1954 in a cell-killing assay in E. coli. Here we compare the kinetic parameters of wild-type NfsB with CB1954 to those of the most active single, double, and triple mutants isolated to date. For wild-type NfsB the global kinetic parameters for both k(cat) and K(m) for CB1954 are about 20-fold higher than previously estimated; however, the measured specificity constant, k(cat)/K(m) is the same. All of the mutants are more active with CB1954 than the wild-type enzyme, the most active mutant showing about 100-fold improved specificity constant with CB1954 over the wild-type protein with little effect on k(cat). This enhancement in specificity constants for the mutants is not seen with the antibiotic nitrofurazone as substrate, leading to reversed nitroaromatic substrate selectivity for the double and triple mutants. However, similar enhancements in specificity constants are found with the quinone menadione. Stopped-flow kinetic studies suggest that the rate-determining step of the reaction is likely to be the release of products. The most active mutant is also selective for the 4-nitro group of CB1954, rather than the 2-nitro group, giving the more cytotoxic reduction product. The double and triple mutants should be much more effective enzymes for use with CB1954 in prodrug-activation gene therapy.
+
+-Anti-Infective Agents (-chemistry; -metabolism)
+-Antineoplastic Agents (-chemistry; +metabolism; -therapeutic use)
+-Aziridines (-chemistry; +metabolism; -therapeutic use)
+-Escherichia coli (+enzymology; -genetics)
+-Escherichia coli Proteins (-genetics; +metabolism)
+-Models, Molecular
+-Molecular Structure
++Mutation
+-Nitrofurazone (-chemistry; -metabolism)
+-Nitroreductases (-genetics; +metabolism)
+-Prodrugs (-chemistry; +metabolism; -therapeutic use)
+-Protein Structure, Tertiary
+-Vitamin K 3 (-chemistry; -metabolism)
+-Vitamins (-chemistry; -metabolism)
+
+doi:10.1021/bi900674m
+pubmed:19580253
+

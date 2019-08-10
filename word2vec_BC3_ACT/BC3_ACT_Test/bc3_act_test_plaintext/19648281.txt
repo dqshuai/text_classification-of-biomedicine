@@ -1,0 +1,29 @@
+J. Immunol.
+
+Antigen receptor signals rescue B cells from TLR tolerance.
+
+JS Poovassery, TJ Vanden Bush, GA Bishop
+
+Interactions between innate and adaptive immune receptors are critical for an optimal immune response, but the role played by Ag receptors in modulating innate receptor functions is less clear. TLRs are a family of pattern recognition receptors that play crucial roles in detecting microbial pathogens and subsequent development of immune responses. However, chronic stimulation through TLRs renders immune cells hyporesponsive to subsequent stimulation with TLR ligands, a phenomenon known as TLR tolerance, well characterized in myeloid cells. However, it has not been studied in detail in B lymphocytes. In addition to the BCR, B cells express almost all known TLRs and respond robustly to many TLR ligands. Thus, B cells may receive signals through both TLRs and BCR during an infection and may respond differently to TLR stimulation than myeloid cells. We tested this possibility by stimulating repeatedly through either TLR alone or both TLR and BCR. Prestimulation through TLR7 resulted in reduced B cell proliferation, cytokine production, and IgM secretion upon subsequent TLR7 restimulation. The hyporesponsiveness to TLR7 restimulation was associated with reduced NF-kappaB and MAPK activation and defective c-Jun phosphorylation. However, simultaneous BCR signaling prevented or reversed TLR7 tolerance in both mouse and human B cells. Importantly, BCR signaling also rescued B cells from TLR7-mediated TLR9 tolerance. Additionally, the reversal of TLR7-mediated JNK activation was dependent on PI3K activation. Together these results present a novel mechanism to prevent and reverse TLR tolerance in B cells.
+
+-Adult
+-Animals
+-B-Lymphocytes (+immunology; +metabolism)
+-Cells, Cultured
+-Cytokines (-biosynthesis)
+-Humans
++Immune Tolerance
+-Lymphocyte Activation (-immunology)
+-Membrane Glycoproteins (+metabolism; -physiology)
+-Mice
+-Mice, Inbred C57BL
+-Receptors, Antigen, B-Cell (+physiology)
+-Signal Transduction (+immunology)
+-Toll-Like Receptor 7 (+metabolism; -physiology)
+
+pii:jimmunol.0900495
+doi:10.4049/jimmunol.0900495
+pubmed:19648281
+mid:NIHMS136539
+pmc:PMC2789010
+

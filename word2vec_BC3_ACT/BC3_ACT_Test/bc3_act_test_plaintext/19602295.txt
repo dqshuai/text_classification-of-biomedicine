@@ -1,0 +1,27 @@
+BMC Genomics
+
+Inconsistencies of genome annotations in apicomplexan parasites revealed by 5'-end-one-pass and full-length sequences of oligo-capped cDNAs.
+
+H Wakaguri, Y Suzuki, M Sasaki, S Sugano, J Watanabe
+
+BACKGROUND: Apicomplexan parasites are causative agents of various diseases including malaria and have been targets of extensive genomic sequencing. We generated 5'-EST collections for six apicomplexa parasites using our full-length oligo-capping cDNA library method. To improve upon the current genome annotations, as well as to validate the importance for physical cDNA clone resources, we generated a large-scale collection of full-length cDNAs for several apicomplexa parasites. RESULTS: In this study, we used a total of 61,056 5'-end-single-pass cDNA sequences from Plasmodium falciparum, P. vivax, P. yoelii, P. berghei, Cryptosporidium parvum, and Toxoplasma gondii. We compared these partially sequenced cDNA sequences with the currently annotated gene models and observed significant inconsistencies between the two datasets. In particular, we found that on average 14% of the exons in the current gene models were not supported by any cDNA evidence, and that 16% of the current gene models may contain at least one mis-annotation and should be re-evaluated. We also identified a large number of transcripts that had been previously unidentified. For 732 cDNAs in T. gondii, the entire sequences were determined in order to evaluate the annotated gene models at the complete full-length transcript level. We found that 41% of the T. gondii gene models contained at least one inconsistency. We also identified and confirmed by RT-PCR 140 previously unidentified transcripts found in the intergenic regions of the current gene annotations. We show that the majority of these discrepancies are due to questionable predictions of one or two extra exons in the upstream or downstream regions of the genes. CONCLUSION: Our data indicates that the current gene models are likely to still be incomplete and have much room for improvement. Our unique full-length cDNA information is especially useful for further refinement of the annotations for the genomes of apicomplexa parasites.
+
+-5' Untranslated Regions
+-Animals
+-Apicomplexa (+genetics)
+-Chromosome Mapping
+-Cluster Analysis
+-DNA, Complementary (+genetics)
+-DNA, Protozoan (-genetics)
++Expressed Sequence Tags
+-Gene Library
++Genome, Protozoan
+-Models, Genetic
+-Sequence Analysis, DNA
+-Transcription Initiation Site
+
+pii:1471-2164-10-312
+doi:10.1186/1471-2164-10-312
+pubmed:19602295
+pmc:PMC2722674
+

@@ -1,0 +1,22 @@
+BMC Bioinformatics
+
+Improving detection of differentially expressed gene sets by applying cluster enrichment analysis to Gene Ontology.
+
+T Xu, J Gu, Y Zhou, L Du
+
+BACKGROUND: Gene set analysis based on Gene Ontology (GO) can be a promising method for the analysis of differential expression patterns. However, current studies that focus on individual GO terms have limited analytical power, because the complex structure of GO introduces strong dependencies among the terms, and some genes that are annotated to a GO term cannot be found by statistically significant enrichment. RESULTS: We proposed a method for enriching clustered GO terms based on semantic similarity, namely cluster enrichment analysis based on GO (CeaGO), to extend the individual term analysis method. Using an Affymetrix HGU95aV2 chip dataset with simulated gene sets, we illustrated that CeaGO was sensitive enough to detect moderate expression changes. When compared to parent-based individual term analysis methods, the results showed that CeaGO may provide more accurate differentiation of gene expression results. When used with two acute leukemia (ALL and ALL/AML) microarray expression datasets, CeaGO correctly identified specifically enriched GO groups that were overlooked by other individual test methods. CONCLUSION: By applying CeaGO to both simulated and real microarray data, we showed that this approach could enhance the interpretation of microarray experiments. CeaGO is currently available at http://chgc.sh.cn/en/software/CeaGO/.
+
+-Cell Cycle
+-Cluster Analysis
+-Computational Biology (+methods)
++Gene Expression
++Gene Expression Profiling
+-Leukemia, Myeloid, Acute (-genetics)
+-Phenotype
+-Precursor Cell Lymphoblastic Leukemia-Lymphoma (-genetics)
+
+pii:1471-2105-10-240
+doi:10.1186/1471-2105-10-240
+pubmed:19653916
+pmc:PMC2731756
+

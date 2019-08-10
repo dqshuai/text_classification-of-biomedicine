@@ -1,0 +1,30 @@
+Mol. Cell. Biol.
+
+Vaccinia-related kinase 2 modulates the stress response to hypoxia mediated by TAK1.
+
+S Blanco, C Santos, PA Lazo
+
+Hypoxia represents a major stress that requires an immediate cellular response in which different signaling pathways participate. Hypoxia induces an increase in the activity of TAK1, an atypical mitogen-activated protein kinase kinase kinase (MAPKKK), which responds to oxidative stress by triggering cascades leading to the activation of c-Jun N-terminal kinase (JNK). JNK activation by hypoxia requires assembly with the JIP1 scaffold protein, which might also interact with other intracellular proteins that are less well known but that might modulate MAPK signaling. We report that TAK1 is able to form a stable complex with JIP1 and thus regulate the activation of JNK, which in turn determines the cellular stress response to hypoxia. This activation of TAK1-JIP1-JNK is suppressed by vaccinia-related kinase 2 (VRK2). VRK2A is able to interact with TAK1 by its C-terminal region, forming stable complexes. The kinase activity of VRK2 is not necessary for this interaction or the downregulation of AP1-dependent transcription. Furthermore, reduction of the endogenous VRK2 level with short hairpin RNA can increase the response induced by hypoxia, suggesting that the intracellular levels of VRK2 can determine the magnitude of this stress response.
+
+-Adaptor Proteins, Signal Transducing (-genetics; -metabolism)
+-Animals
+-COS Cells
++Cell Hypoxia
+-Cercopithecus aethiops
+-Enzyme Activation
+-Hela Cells
+-Humans
+-JNK Mitogen-Activated Protein Kinases (-genetics; -metabolism)
+-MAP Kinase Kinase Kinases (-genetics; +metabolism)
+-Mice
+-Multiprotein Complexes
++Oxidative Stress
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Signal Transduction (+physiology)
+
+pii:MCB.00025-07
+doi:10.1128/MCB.00025-07
+pubmed:17709393
+pmc:PMC2168905
+

@@ -1,0 +1,32 @@
+Nat. Methods
+
+Mapping the structure and conformational movements of proteins with transition metal ion FRET.
+
+JW Taraska, MC Puljung, NB Olivier, GE Flynn, WN Zagotta
+
+Visualizing conformational dynamics in proteins has been difficult, and the atomic-scale motions responsible for the behavior of most allosteric proteins are unknown. Here we report that fluorescence resonance energy transfer (FRET) between a small fluorescent dye and a nickel ion bound to a dihistidine motif can be used to monitor small structural rearrangements in proteins. This method provides several key advantages over classical FRET, including the ability to measure the dynamics of close-range interactions, the use of small probes with short linkers, a low orientation dependence, and the ability to add and remove unique tunable acceptors. We used this 'transition metal ion FRET' approach along with X-ray crystallography to determine the structural changes of the gating ring of the mouse hyperpolarization-activated cyclic nucleotide-regulated ion channel HCN2. Our results suggest a general model for the conformational switch in the cyclic nucleotide-binding site of cyclic nucleotide-regulated ion channels.
+
+-Amino Acid Sequence
+-Animals
+-Binding Sites
+-Cations, Divalent
+-Crystallography, X-Ray
+-Cyclic AMP (-metabolism)
+-Fluorescence Resonance Energy Transfer (+methods)
+-Ion Channels (-chemistry; -metabolism)
+-Mice
+-Models, Molecular
+-Molecular Sequence Data
+-Nickel (-chemistry)
+-Peptides (-chemistry)
+-Protein Binding
++Protein Conformation
+-Protein Structure, Secondary
+-Proteins (+chemistry)
+
+pii:nmeth.1341
+doi:10.1038/nmeth.1341
+pubmed:19525958
+mid:NIHMS119813
+pmc:PMC2738593
+

@@ -1,0 +1,29 @@
+RNA
+
+Novel TUTase associates with an editosome-like complex in mitochondria of Trypanosoma brucei.
+
+I Aphasizheva, GE Ringpis, J Weng, PD Gershon, RH Lathrop, R Aphasizhev
+
+Expression of mitochondrial genomes in Kinetoplastida protists requires massive uracil insertion/deletion mRNA editing. The cascade of editing reactions is accomplished by a multiprotein complex, the 20S editosome, and is directed by trans-acting guide RNAs. Two distinct RNA terminal uridylyl transferases (TUTases), RNA Editing TUTase 1 (RET1) and RNA Editing TUTase 2 (RET2), catalyze 3' uridylylation of guide RNAs and U-insertions into the mRNAs, respectively. RET1 is also involved in mitochondrial mRNA turnover and participates in numerous heterogeneous complexes; RET2 is an integral part of the 20S editosome, in which it forms a U-insertion subcomplex with zinc finger protein MP81 and RNA editing ligase REL2. Here we report the identification of a third mitochondrial TUTase from Trypanosoma brucei. The mitochondrial editosome-like complex associated TUTase (MEAT1) interacts with a 20S editosome-like particle, effectively substituting the U-insertion subcomplex. MEAT1 and RET2 are mutually exclusive in their respective complexes, which otherwise share several components. Similarly to RET2, MEAT1 is exclusively U-specific in vitro and is active on gapped double-stranded RNA resembling editing substrates. However, MEAT1 does not require a 5' phosphate group on the 3' mRNA cleavage fragment produced by editing endonucleases. The functional RNAi complementation experiments showed that MEAT1 is essential for viability of bloodstream and insect parasite forms. The growth inhibition phenotype in the latter can be rescued by coexpressing an RNAi-resistant gene with double-stranded RNA targeting the endogenous transcript. However, preliminary RNA analysis revealed no gross effects on RNA editing in MEAT1-depleted cells and indicated its possible role in regulating the mitochondrial RNA stability.
+
+-Amino Acid Sequence
+-Animals
+-Mitochondria (+enzymology)
+-Molecular Sequence Data
+-Protozoan Proteins (+metabolism)
+-RNA (-genetics; -metabolism)
++RNA Editing
+-RNA Nucleotidyltransferases (-antagonists & inhibitors; -genetics; +metabolism)
+-RNA, Messenger (-genetics; +metabolism)
+-RNA, Protozoan (+genetics)
+-RNA, Small Interfering (-pharmacology)
+-Sequence Homology, Amino Acid
+-Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization
+-Subcellular Fractions
+-Trypanosoma brucei brucei (+enzymology; -genetics)
+
+pii:rna.1538809
+doi:10.1261/rna.1538809
+pubmed:19465686
+pmc:PMC2704088
+

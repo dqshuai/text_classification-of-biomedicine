@@ -1,0 +1,24 @@
+BMC Genomics
+
+Genome-wide computational identification of functional RNA elements in Trypanosoma brucei.
+
+Y Mao, HS Najafabadi, R Salavati
+
+BACKGROUND: Post-transcriptional regulation of gene expression is the dominant regulatory mechanism in trypanosomatids as their mRNAs are transcribed from polycistronic units. A few cis-acting RNA elements in 3'-untranslated regions of mRNAs have been identified in trypanosomatids, which affect the mRNA stability or translation rate in different life stages of these parasites. Other functional RNAs (fRNAs) also play essential roles in these organisms. However, there has been no genome-wide analysis for identification of fRNAs in trypanosomatids. RESULTS: Functional RNAs, including non-coding RNAs (ncRNAs) and cis-acting RNA elements involved in post-transcriptional gene regulation, were predicted based on two independent computational analyses of the genome of Trypanosoma brucei. In the first analysis, the predicted candidate ncRNAs were identified based on conservation with the related trypanosomatid Leishmania braziliensis. This prediction had a substantially low estimated false discovery rate, and a considerable number of the predicted ncRNAs represented novel classes with unknown functions. In the second analysis, we identified a number of function-specific regulatory motifs, based on which we devised a classifier that can be used for homology-independent function prediction in T. brucei. CONCLUSION: This first genome-wide analysis of fRNAs in trypanosomatids restricts the search space of experimental approaches and, thus, can significantly expedite the process of characterization of these elements. Our classifier for function prediction based on cis-acting regulatory elements can also, in combination with other methods, provide the means for homology-independent annotation of trypanosomatid genomes.
+
+-3' Untranslated Regions
+-5' Untranslated Regions
+-Animals
+-Computational Biology (-methods)
++Genome, Protozoan
++Genome-Wide Association Study
+-Leishmania braziliensis (-genetics)
+-RNA, Protozoan (+genetics)
+-Regulatory Sequences, Ribonucleic Acid
+-Sequence Analysis, RNA
+-Trypanosoma brucei brucei (+genetics)
+
+pii:1471-2164-10-355
+doi:10.1186/1471-2164-10-355
+pubmed:19653906
+

@@ -1,0 +1,23 @@
+BMC Genet.
+
+Automating approximate Bayesian computation by local linear regression.
+
+KR Thornton
+
+BACKGROUND: In several biological contexts, parameter inference often relies on computationally-intensive techniques. "Approximate Bayesian Computation", or ABC, methods based on summary statistics have become increasingly popular. A particular flavor of ABC based on using a linear regression to approximate the posterior distribution of the parameters, conditional on the summary statistics, is computationally appealing, yet no standalone tool exists to automate the procedure. Here, I describe a program to implement the method. RESULTS: The software package ABCreg implements the local linear-regression approach to ABC. The advantages are: 1. The code is standalone, and fully-documented. 2. The program will automatically process multiple data sets, and create unique output files for each (which may be processed immediately in R), facilitating the testing of inference procedures on simulated data, or the analysis of multiple data sets. 3. The program implements two different transformation methods for the regression step. 4. Analysis options are controlled on the command line by the user, and the program is designed to output warnings for cases where the regression fails. 5. The program does not depend on any particular simulation machinery (coalescent, forward-time, etc.), and therefore is a general tool for processing the results from any simulation. 6. The code is open-source, and modular.Examples of applying the software to empirical data from Drosophila melanogaster, and testing the procedure on simulated data, are shown. CONCLUSION: In practice, the ABCreg simplifies implementing ABC based on local-linear regression.
+
+-Algorithms
+-Animals
++Bayes Theorem
+-Computational Biology (+methods)
+-Computer Simulation
+-Drosophila melanogaster (-genetics)
+-Genetics, Population (-methods)
++Linear Models
++Software
+
+pii:1471-2156-10-35
+doi:10.1186/1471-2156-10-35
+pubmed:19583871
+pmc:PMC2712468
+

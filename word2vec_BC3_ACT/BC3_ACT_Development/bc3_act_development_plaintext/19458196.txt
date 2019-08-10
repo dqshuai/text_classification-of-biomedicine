@@ -1,0 +1,35 @@
+Mol. Biol. Cell
+
+Cortactin promotes migration and platelet-derived growth factor-induced actin reorganization by signaling to Rho-GTPases.
+
+FP Lai, M Szczodrak, JM Oelkers, M Ladwein, F Acconcia, S Benesch, S Auinger, J Faix, JV Small, S Polo, TE Stradal, K Rottner
+
+Dynamic actin rearrangements are initiated and maintained by actin filament nucleators, including the Arp2/3-complex. This protein assembly is activated in vitro by distinct nucleation-promoting factors such as Wiskott-Aldrich syndrome protein/Scar family proteins or cortactin, but the relative in vivo functions of each of them remain controversial. Here, we report the conditional genetic disruption of murine cortactin, implicated previously in dynamic actin reorganizations driving lamellipodium protrusion and endocytosis. Unexpectedly, cortactin-deficient cells showed little changes in overall cell morphology and growth. Ultrastructural analyses and live-cell imaging studies revealed unimpaired lamellipodial architecture, Rac-induced protrusion, and actin network turnover, although actin assembly rates in the lamellipodium were modestly increased. In contrast, platelet-derived growth factor-induced actin reorganization and Rac activation were impaired in cortactin null cells. In addition, cortactin deficiency caused reduction of Cdc42 activity and defects in random and directed cell migration. Reduced migration of cortactin null cells could be restored, at least in part, by active Rac and Cdc42 variants. Finally, cortactin removal did not affect the efficiency of receptor-mediated endocytosis. Together, we conclude that cortactin is fully dispensable for Arp2/3-complex activation during lamellipodia protrusion or clathrin pit endocytosis. Furthermore, we propose that cortactin promotes cell migration indirectly, through contributing to activation of selected Rho-GTPases.
+
+-Actin-Related Protein 2-3 Complex (-metabolism)
+-Actins (+metabolism)
+-Animals
+-Cell Movement (+drug effects)
+-Clathrin (-metabolism)
+-Cortactin (-deficiency; +metabolism)
+-Cytoskeleton (-drug effects; -enzymology; -ultrastructure)
+-Endocytosis (-drug effects)
+-Enzyme Activation (-drug effects)
+-Fibroblasts (+cytology; -drug effects; -enzymology; -ultrastructure)
+-Gene Knockout Techniques
+-Gene Targeting
+-Humans
+-Mice
+-Platelet-Derived Growth Factor (+pharmacology)
+-Pseudopodia (-drug effects; -enzymology; -ultrastructure)
+-Signal Transduction (+drug effects)
+-Stress Fibers (-drug effects; -enzymology; -ultrastructure)
+-Wound Healing (-drug effects)
+-rac GTP-Binding Proteins (-metabolism)
+-rho GTP-Binding Proteins (+metabolism)
+
+pii:E08-12-1180
+doi:10.1091/mbc.E08-12-1180
+pubmed:19458196
+pmc:PMC2710823
+

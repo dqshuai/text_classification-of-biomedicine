@@ -1,0 +1,27 @@
+World J. Gastroenterol.
+
+Application of a biochemical and clinical model to predict individual survival in patients with end-stage liver disease.
+
+EV Gomez, LC Bertot, BG Oramas, EA Soler, RL Navarro, JD Elias, OV Jiménez, Mdel R Abreu Vazquez
+
+AIM: To investigate the capability of a biochemical and clinical model, BioCliM, in predicting the survival of cirrhotic patients. METHODS: We prospectively evaluated the survival of 172 cirrhotic patients. The model was constructed using clinical (ascites, encephalopathy and variceal bleeding) and biochemical (serum creatinine and serum total bilirubin) variables that were selected from a Cox proportional hazards model. It was applied to estimate 12-, 52- and 104-wk survival. The model's calibration using the Hosmer-Lemeshow statistic was computed at 104 wk in a validation dataset. Finally, the model's validity was tested among an independent set of 85 patients who were stratified into 2 risk groups (low risk <or= 8 and high risk > 8). RESULTS: In the validation cohort, all measures of fit, discrimination and calibration were improved when the biochemical and clinical model was used. The proposed model had better predictive values (c-statistic: 0.90, 0.91, 0.91) than the Model for End-stage Liver Disease (MELD) and Child-Pugh (CP) scores for 12-, 52- and 104-wk mortality, respectively. In addition, the Hosmer-Lemeshow (H-L) statistic revealed that the biochemical and clinical model (H-L, 4.69) is better calibrated than MELD (H-L, 17.06) and CP (H-L, 14.23). There were no significant differences between the observed and expected survival curves in the stratified risk groups (low risk, P = 0.61; high risk, P = 0.77). CONCLUSION: Our data suggest that the proposed model is able to accurately predict survival in cirrhotic patients.
+
+-Adult
+-Aged
+-Female
+-Humans
+-Liver Failure (-diagnosis; +mortality)
+-Male
+-Middle Aged
++Models, Biological
+-Multivariate Analysis
+-Prognosis
++Proportional Hazards Models
+-Prospective Studies
+-Reproducibility of Results
+-Risk Factors
+-Young Adult
+
+pubmed:19522028
+pmc:PMC2695893
+

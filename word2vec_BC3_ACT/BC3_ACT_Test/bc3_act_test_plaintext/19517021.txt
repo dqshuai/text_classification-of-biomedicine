@@ -1,0 +1,28 @@
+PLoS ONE
+
+Genome-wide transcriptional profiling reveals microRNA-correlated genes and biological processes in human lymphoblastoid cell lines.
+
+L Wang, AL Oberg, YW Asmann, H Sicotte, SK McDonnell, SM Riska, W Liu, CJ Steer, S Subramanian, JM Cunningham, JR Cerhan, SN Thibodeau
+
+BACKGROUND: Expression level of many genes shows abundant natural variation in human populations. The variations in gene expression are believed to contribute to phenotypic differences. Emerging evidence has shown that microRNAs (miRNAs) are one of the key regulators of gene expression. However, past studies have focused on the miRNA target genes and used loss- or gain-of-function approach that may not reflect natural association between miRNA and mRNAs. METHODOLOGY/PRINCIPAL FINDINGS: To examine miRNA regulatory effect on global gene expression under endogenous condition, we performed pair-wise correlation coefficient analysis on expression levels of 366 miRNAs and 14,174 messenger RNAs (mRNAs) in 90 immortalized lymphoblastoid cell lines, and observed significant correlations between the two species of RNA transcripts. We identified a total of 7,207 significantly correlated miRNA-mRNA pairs (false discovery rate q<0.01). Of those, 4,085 pairs showed positive correlations while 3,122 pairs showed negative correlations. Gene ontology analyses on the miRNA-correlated genes revealed significant enrichments in several biological processes related to cell cycle, cell communication and signal transduction. Individually, each of three miRNAs (miR-331, -98 and -33b) demonstrated significant correlation with the genes in cell cycle-related biological processes, which is consistent with important role of miRNAs in cell cycle regulation. CONCLUSIONS/SIGNIFICANCE: This study demonstrates feasibility of using naturally expressed transcript profiles to identify endogenous correlation between miRNA and miRNA. By applying this genome-wide approach, we have identified thousands of miRNA-correlated genes and revealed potential role of miRNAs in several important cellular functions. The study results along with accompanying data sets will provide a wealth of high-throughput data to further evaluate the miRNA-regulated genes and eventually in phenotypic variations of human populations.
+
+-Adult
+-Aged
+-Cell Line
+-Computational Biology (-methods)
+-Gene Expression Profiling (+methods)
+-Gene Expression Regulation
+-Genome-Wide Association Study
+-Humans
+-Lymphocytes (+metabolism)
+-Male
+-MicroRNAs (+genetics)
+-Middle Aged
+-Oligonucleotide Array Sequence Analysis
+-RNA, Messenger (-metabolism)
+-Transcription, Genetic
+
+doi:10.1371/journal.pone.0005878
+pubmed:19517021
+pmc:PMC2691578
+

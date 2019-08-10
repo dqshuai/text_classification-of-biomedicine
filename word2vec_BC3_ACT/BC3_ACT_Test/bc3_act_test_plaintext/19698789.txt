@@ -1,0 +1,30 @@
+Methods
+
+Segmentation of center brains and optic lobes in 3D confocal images of adult fruit fly brains.
+
+SC Lam, Z Ruan, T Zhao, F Long, A Jenett, J Simpson, EW Myers, H Peng
+
+Automatic alignment (registration) of 3D images of adult fruit fly brains is often influenced by the significant displacement of the relative locations of the two optic lobes (OLs) and the center brain (CB). In one of our ongoing efforts to produce a better image alignment pipeline of adult fruit fly brains, we consider separating CB and OLs and align them independently. This paper reports our automatic method to segregate CB and OLs, in particular under conditions where the signal to noise ratio (SNR) is low, the variation of the image intensity is big, and the relative displacement of OLs and CB is substantial. We design an algorithm to find a minimum-cost 3D surface in a 3D image stack to best separate an OL (of one side, either left or right) from CB. This surface is defined as an aggregation of the respective minimum-cost curves detected in each individual 2D image slice. Each curve is defined by a list of control points that best segregate OL and CB. To obtain the locations of these control points, we derive an energy function that includes an image energy term defined by local pixel intensities and two internal energy terms that constrain the curve's smoothness and length. Gradient descent method is used to optimize this energy function. To improve both the speed and robustness of the method, for each stack, the locations of optimized control points in a slice are taken as the initialization prior for the next slice. We have tested this approach on simulated and real 3D fly brain image stacks and demonstrated that this method can reasonably segregate OLs from CBs despite the aforementioned difficulties.
+
+-Algorithms
+-Animals
+-Automation
+-Brain (+pathology)
+-Brain Mapping (+methods)
+-Computer Graphics
+-Computer Simulation
+-Drosophila melanogaster
+-Image Enhancement (-methods)
+-Image Interpretation, Computer-Assisted (-methods)
+-Imaging, Three-Dimensional (-methods)
+-Microscopy, Confocal (+methods)
+-Models, Statistical
+-Optic Lobe, Nonmammalian (+anatomy & histology; -physiology)
+-Reproducibility of Results
+
+pii:S1046-2023(09)00200-X
+doi:10.1016/j.ymeth.2009.08.004
+pubmed:19698789
+mid:HHMIMS175782
+pmc:PMC2841987
+

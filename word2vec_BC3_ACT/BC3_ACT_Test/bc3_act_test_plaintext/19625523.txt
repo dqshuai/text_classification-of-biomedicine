@@ -1,0 +1,35 @@
+J. Neurosci.
+
+Extrasynaptic NMDA receptors couple preferentially to excitotoxicity via calpain-mediated cleavage of STEP.
+
+J Xu, P Kurup, Y Zhang, SM Goebel-Goody, PH Wu, AH Hawasli, ML Baum, JA Bibb, PJ Lombroso
+
+NMDA receptor (NMDAR)-mediated excitotoxicity plays an important role in several CNS disorders, including epilepsy, stroke, and ischemia. Here we demonstrate the involvement of striatal-enriched protein tyrosine phosphatase (STEP) in this critical process. STEP(61) is an alternatively spliced member of the family that is present in postsynaptic terminals. In an apparent paradox, STEP(61) regulates extracellular signal-regulated kinase 1/2 (ERK1/2) and p38, two proteins with opposing functions; activated p38 promotes cell death, whereas activated ERK1/2 promotes cell survival. We found that synaptic stimulation of NMDARs promoted STEP(61) ubiquitination and degradation, concomitant with ERK1/2 activation. In contrast, extrasynaptic stimulation of NMDARs invoked calpain-mediated proteolysis of STEP(61), producing the truncated cleavage product STEP(33) and activation of p38. The calpain cleavage site on STEP was mapped to the kinase interacting motif, a domain required for substrate binding. As a result, STEP(33) neither interacts with nor dephosphorylates STEP substrates. A synthetic peptide spanning the calpain cleavage site efficiently reduced STEP(61) degradation and attenuated p38 activation and cell death in slice models. Furthermore, this peptide was neuroprotective when neurons were subjected to excitotoxicity or cortical slices were exposed to ischemic conditions. These findings suggest a novel mechanism by which differential NMDAR stimulation regulates STEP(61) to promote either ERK1/2 or p38 activation and identifies calpain cleavage of STEP(61) as a valid target for the development of neuroprotective therapy.
+
+-Alternative Splicing
+-Animals
+-Brain (-physiology; -physiopathology)
+-Calpain (+metabolism)
+-Cell Death (-physiology)
+-Cells, Cultured
+-Cyclin-Dependent Kinase 5 (-metabolism)
+-Endocytosis (-physiology)
+-Glutamic Acid (-toxicity)
+-Mice
+-Mice, Knockout
+-Mitogen-Activated Protein Kinase 1 (-metabolism)
+-Mitogen-Activated Protein Kinase 3 (-metabolism)
+-Neurons (-physiology)
+-Protein Tyrosine Phosphatases, Non-Receptor (-genetics; +metabolism)
+-Rats
+-Rats, Sprague-Dawley
+-Receptors, N-Methyl-D-Aspartate (+metabolism)
+-Synapses (-physiology)
+-p38 Mitogen-Activated Protein Kinases (-metabolism)
+
+pii:29/29/9330
+doi:10.1523/JNEUROSCI.2212-09.2009
+pubmed:19625523
+mid:NIHMS136258
+pmc:PMC2737362
+

@@ -1,0 +1,34 @@
+Mol. Syst. Biol.
+
+A single transcription factor regulates evolutionarily diverse but functionally linked metabolic pathways in response to nutrient availability.
+
+AK Schmid, DJ Reiss, M Pan, T Koide, NS Baliga
+
+During evolution, enzyme-coding genes are acquired and/or replaced through lateral gene transfer and compiled into metabolic pathways. Gene regulatory networks evolve to fine tune biochemical fluxes through such metabolic pathways, enabling organisms to acclimate to nutrient fluctuations in a competitive environment. Here, we demonstrate that a single TrmB family transcription factor in Halobacterium salinarum NRC-1 globally coordinates functionally linked enzymes of diverse phylogeny in response to changes in carbon source availability. Specifically, during nutritional limitation, TrmB binds a cis-regulatory element to activate or repress 113 promoters of genes encoding enzymes in diverse metabolic pathways. By this mechanism, TrmB coordinates the expression of glycolysis, TCA cycle, and amino-acid biosynthesis pathways with the biosynthesis of their cognate cofactors (e.g. purine and thiamine). Notably, the TrmB-regulated metabolic network includes enzyme-coding genes that are uniquely archaeal as well as those that are conserved across all three domains of life. Simultaneous analysis of metabolic and gene regulatory network architectures suggests an ongoing process of co-evolution in which TrmB integrates the expression of metabolic enzyme-coding genes of diverse origins.
+
+-Amino Acid Sequence
+-Archaeal Proteins (+genetics; -metabolism)
+-Binding Sites
+-Carbohydrate Metabolism
+-Databases, Genetic
+-Enhancer Elements, Genetic
+-Evolution, Molecular
+-Gene Expression Profiling
+-Gene Regulatory Networks
+-Halobacterium salinarum (+genetics; -metabolism)
+-Metabolic Networks and Pathways (+genetics; -physiology)
+-Molecular Sequence Data
+-Oxidation-Reduction
+-Phenotype
+-Promoter Regions, Genetic
+-Sequence Alignment
+-Sequence Analysis, Protein
+-Signal Transduction (-genetics; -physiology)
+-Stress, Physiological
+-Transcription Factors (+genetics; -metabolism)
+
+pii:msb200940
+doi:10.1038/msb.2009.40
+pubmed:19536205
+pmc:PMC2710871
+

@@ -1,0 +1,19 @@
+Nucleic Acids Res.
+
+Stability of intramolecular quadruplexes: sequence effects in the central loop.
+
+A Guédin, P Alberti, JL Mergny
+
+Hundreds of thousands of putative quadruplex sequences have been found in the human genome. It is important to understand the rules that govern the stability of these intramolecular structures. In this report, we analysed sequence effects in a 3-base-long central loop, keeping the rest of the quadruplex unchanged. A first series of 36 different sequences were compared; they correspond to the general formula GGGTTTGGGHNHGGGTTTGGG. One clear rule emerged from the comparison of all sequence motifs: the presence of an adenine at the first position of the loop was significantly detrimental to stability. In contrast, adenines have no detrimental effect when present at the second or third position of the loop. Cytosines may either have a stabilizing or destabilizing effect depending on their position. In general, the correlation between the T(m) or DeltaG degrees in sodium and potassium was weak. To determine if these sequence effects could be generalized to different quadruplexes, specific loops were tested in different sequence contexts. Analysis of 26 extra sequences confirmed the general destabilizing effect of adenine as the first base of the loop(s). Finally, analysis of some of the sequences by microcalorimetry (DSC) confirmed the differences found between the sequence motifs.
+
+-Base Sequence
+-Calorimetry, Differential Scanning
++G-Quadruplexes
+-Nucleic Acid Denaturation
+-Temperature
+
+pii:gkp563
+doi:10.1093/nar/gkp563
+pubmed:19581426
+pmc:PMC2760802
+

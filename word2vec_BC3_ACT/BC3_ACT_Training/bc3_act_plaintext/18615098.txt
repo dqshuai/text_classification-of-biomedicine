@@ -1,0 +1,31 @@
+EMBO J.
+
+Nuclear import of CaMV P6 is required for infection and suppression of the RNA silencing factor DRB4.
+
+G Haas, J Azevedo, G Moissiard, A Geldreich, C Himber, M Bureau, T Fukuhara, M Keller, O Voinnet
+
+Replication of Cauliflower mosaic virus (CaMV), a plant double-stranded DNA virus, requires the viral translational transactivator protein P6. Although P6 is known to form cytoplasmic inclusion bodies (viroplasms) so far considered essential for virus biology, a fraction of the protein is also present in the nucleus. Here, we report that monomeric P6 is imported into the nucleus through two importin-alpha-dependent nuclear localization signals, and show that this process is mandatory for CaMV infectivity and is independent of translational transactivation and viroplasm formation. One nuclear function of P6 is to suppress RNA silencing, a gene regulation mechanism with antiviral roles, commonly counteracted by dedicated viral suppressor proteins (viral silencing suppressors; VSRs). Transgenic P6 expression in Arabidopsis is genetically equivalent to inactivating the nuclear protein DRB4 that facilitates the activity of the major plant antiviral silencing factor DCL4. We further show that a fraction of P6 immunoprecipitates with DRB4 in CaMV-infected cells. This study identifies both genetic and physical interactions between a VSR to a host RNA silencing component, and highlights the importance of subcellular compartmentalization in VSR function.
+
+-Active Transport, Cell Nucleus (-physiology)
+-Amino Acid Sequence
+-Arabidopsis (+physiology; -virology)
+-Caulimovirus (+physiology)
+-Cell Nucleus (+metabolism)
+-Cytoplasm (-metabolism)
+-DNA-Binding Proteins (+physiology)
+-Inclusion Bodies, Viral (-physiology)
+-Molecular Sequence Data
+-Mutation
+-Nuclear Localization Signals (-metabolism)
+-RNA Interference (+physiology)
+-RNA-Binding Proteins (-genetics; +physiology)
+-Ribonuclease III
+-Ribonucleases (-physiology)
+-Viral Proteins (+physiology)
+-Virus Replication (-physiology)
+
+pii:emboj2008129
+doi:10.1038/emboj.2008.129
+pubmed:18615098
+pmc:PMC2516879
+

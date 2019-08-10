@@ -1,0 +1,30 @@
+EMBO J.
+
+The FANCJ/MutLalpha interaction is required for correction of the cross-link response in FA-J cells.
+
+M Peng, R Litman, J Xie, S Sharma, RM Brosh, SB Cantor
+
+FANCJ also called BACH1/BRIP1 was first linked to hereditary breast cancer through its direct interaction with BRCA1. FANCJ was also recently identified as a Fanconi anemia (FA) gene product, establishing FANCJ as an essential tumor suppressor. Similar to other FA cells, FANCJ-null (FA-J) cells accumulate 4N DNA content in response to DNA interstrand crosslinks (ICLs). This accumulation is corrected by reintroduction of wild-type FANCJ. Here, we show that FANCJ interacts with the mismatch repair complex MutLalpha, composed of PMS2 and MLH1. Specifically, FANCJ directly interacts with MLH1 independent of BRCA1, through its helicase domain. Genetic studies reveal that FANCJ helicase activity and MLH1 binding, but not BRCA1 binding, are essential to correct the FA-J cells' ICL-induced 4N DNA accumulation and sensitivity to ICLs. These results suggest that the FANCJ/MutLalpha interaction, but not FANCJ/BRCA1 interaction, is essential for establishment of a normal ICL-induced response. The functional role of the FANCJ/MutLalpha complex demonstrates a novel link between FA and MMR, and predicts a broader role for FANCJ in DNA damage signaling independent of BRCA1.
+
+-Adaptor Proteins, Signal Transducing (-genetics; -metabolism)
+-Adenosine Triphosphatases (-metabolism)
+-Basic-Leucine Zipper Transcription Factors (-genetics; +metabolism)
+-Cell Line
+-DNA (-metabolism)
+-DNA Repair Enzymes (-genetics; +metabolism)
+-DNA-Binding Proteins (-metabolism)
+-Fanconi Anemia (-genetics; +metabolism)
+-Fanconi Anemia Complementation Group D2 Protein (-metabolism)
+-Fanconi Anemia Complementation Group Proteins (-genetics; +metabolism)
+-Gene Expression Regulation
+-Lysine (-genetics; -metabolism)
+-Nuclear Proteins (-genetics; -metabolism)
+-Protein Binding
+-Sensitivity and Specificity
+-Ubiquitin (-metabolism)
+
+pii:7601754
+doi:10.1038/sj.emboj.7601754
+pubmed:17581638
+pmc:PMC1914102
+

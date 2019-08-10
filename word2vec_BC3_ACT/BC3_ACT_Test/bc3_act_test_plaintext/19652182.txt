@@ -1,0 +1,30 @@
+Genetics
+
+Worms with a single functional sensory cilium generate proper neuron-specific behavioral output.
+
+G Senti, M Ezcurra, J Löbner, WR Schafer, P Swoboda
+
+Studying the development and mechanisms of sensory perception is challenging in organisms with complex neuronal networks. The worm Caenorhabditis elegans possesses a simple neuronal network of 302 neurons that includes 60 ciliated sensory neurons (CSNs) for detecting external sensory input. C. elegans is thus an excellent model in which to study sensory neuron development, function, and behavior. We have generated a genetic rescue system that allows in vivo analyses of isolated CSNs at both cellular and systemic levels. We used the RFX transcription factor DAF-19, a key regulator of ciliogenesis. Mutations in daf-19 result in the complete absence of all sensory cilia and thus of external sensory input. In daf-19 mutants, we used cell-specific rescue of DAF-19 function in selected neurons, thereby generating animals with single, fully functional CSNs. Otherwise and elsewhere these animals are completely devoid of any environmental input through cilia. We demonstrated the rescue of fully functional, single cilia using fluorescent markers, sensory behavioral assays, and calcium imaging. Our technique, functional rescue in single sensory cilia (FRISSC), can thus cell-autonomously and cell-specifically restore the function of single sensory neurons and their ability to respond to sensory input. FRISSC can be adapted to many different CSNs and thus constitutes an excellent tool for studying sensory behaviors, both in single animals and in populations of worms. FRISSC will be very useful for the molecular dissection of sensory perception in CSNs and for the analysis of the developmental aspects of ciliogenesis.
+
+-Animals
+-Behavior, Animal (+physiology)
+-Caenorhabditis elegans (-genetics; -metabolism; +physiology)
+-Caenorhabditis elegans Proteins (-genetics; -metabolism; -physiology)
+-Cilia (-genetics; +physiology)
+-Female
+-Genetic Complementation Test
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Male
+-Microscopy, Confocal
+-Mutation
+-Nerve Tissue Proteins (-genetics)
+-Neurons (-cytology; -metabolism; +physiology)
+-Promoter Regions, Genetic (-genetics)
+-Sensory Receptor Cells (-cytology; -metabolism; -physiology)
+-Transcription Factors (-genetics; -metabolism; -physiology)
+
+pii:genetics.109.105171
+doi:10.1534/genetics.109.105171
+pubmed:19652182
+pmc:PMC2766319
+

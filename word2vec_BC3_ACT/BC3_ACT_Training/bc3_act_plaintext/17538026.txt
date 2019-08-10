@@ -1,0 +1,27 @@
+Mol. Biol. Cell
+
+The nucleolar Net1/Cfi1-related protein Dnt1 antagonizes the septation initiation network in fission yeast.
+
+QW Jin, S Ray, SH Choi, D McCollum
+
+The septation initiation network (SIN) and mitotic exit network (MEN) signaling pathways regulate cytokinesis and mitotic exit in the yeasts Schizosaccharomyces pombe, and Saccharomyces cerevisiae, respectively. One function of these pathways is to keep the Cdc14-family phosphatase, called Clp1 in S. pombe, from being sequestered and inhibited in the nucleolus. In S. pombe, the SIN and Clp1 act as part of a cytokinesis checkpoint that allows cells to cope with cytokinesis defects. The SIN promotes checkpoint function by 1) keeping Clp1 out of the nucleolus, 2) maintaining the cytokinetic apparatus, and 3) halting the cell cycle until cytokinesis is completed. In a screen for suppressors of the SIN mutant cytokinesis checkpoint defect, we identified a novel nucleolar protein called Dnt1 and other nucleolar proteins, including Rrn5 and Nuc1, which are known to be required for rDNA transcription. Dnt1 shows sequence homology to Net1/Cfi1, which encodes the nucleolar inhibitor of Cdc14 in budding yeast. Like Net1/Cfi1, Dnt1 is required for rDNA silencing and minichromosome maintenance, and both Dnt1 and Net1/Cfi1 negatively regulate the homologous SIN and MEN pathways. Unlike Net1/Cfi1, which regulates the MEN through the Cdc14 phosphatase, Dnt1 can inhibit SIN signaling independently of Clp1, suggesting a novel connection between the nucleolus and the SIN pathway.
+
+-Cell Cycle Proteins (-metabolism)
+-Cell Nucleolus (+metabolism)
++Cytokinesis
+-DNA, Ribosomal (-metabolism)
+-Genes, Suppressor
+-Mutation (-genetics)
+-Nuclear Proteins (+metabolism)
+-Protein Tyrosine Phosphatases (-metabolism)
+-Saccharomyces cerevisiae Proteins (-metabolism)
+-Schizosaccharomyces (+cytology; +metabolism)
+-Schizosaccharomyces pombe Proteins (+metabolism)
+-Sequence Homology, Amino Acid
+-Transcription, Genetic
+
+pii:E06-09-0853
+doi:10.1091/mbc.E06-09-0853
+pubmed:17538026
+pmc:PMC1949376
+

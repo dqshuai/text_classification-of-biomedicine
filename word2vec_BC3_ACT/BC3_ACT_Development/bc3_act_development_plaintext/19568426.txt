@@ -1,0 +1,24 @@
+PLoS ONE
+
+Targeted deletion of multiple CTCF-binding elements in the human C-MYC gene reveals a requirement for CTCF in C-MYC expression.
+
+WM Gombert, A Krumm
+
+BACKGROUND: Insulators and domain boundaries both shield genes from adjacent enhancers and inhibit intrusion of heterochromatin into transgenes. Previous studies examined the functional mechanism of the MYC insulator element MINE and its CTCF binding sites in the context of transgenes that were randomly inserted into the genome by transfection. However, the contribution of CTCF binding sites to both gene regulation and maintenance of chromatin has not been tested at the endogenous MYC gene. METHODOLOGY/PRINCIPAL FINDINGS: To determine the impact of CTCF binding on MYC expression, a series of mutant human chromosomal alleles was prepared in homologous recombination-efficient DT40 cells and individually transferred by microcell fusion into murine cells. Functional tests reported here reveal that deletion of CTCF binding elements within the MINE does not impact the capacity of this locus to correctly organize an 'accessible' open chromatin domain, suggesting that these sites are not essential for the formation of a competent, transcriptionally active locus. Moreover, deletion of the CTCF site at the MYC P2 promoter reduces transcription but does not affect promoter acetylation or serum-inducible transcription. Importantly, removal of either CTCF site leads to DNA methylation of flanking sequences, thereby contributing to progressive loss of transcriptional activity. CONCLUSIONS: These findings collectively demonstrate that CTCF-binding at the human MYC locus does not repress transcriptional activity but is required for protection from DNA methylation.
+
+-Acetylation
+-Alleles
+-Animals
+-Cell Line
++Genes, myc
+-Humans
+-RNA, Messenger (-genetics)
+-Recombination, Genetic
+-Repressor Proteins (-chemistry; -genetics; +metabolism)
++Sequence Deletion
+-Transcription, Genetic
+
+doi:10.1371/journal.pone.0006109
+pubmed:19568426
+pmc:PMC2699473
+

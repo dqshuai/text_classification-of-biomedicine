@@ -1,0 +1,25 @@
+Eukaryotic Cell
+
+The cell end marker protein TeaC is involved in growth directionality and septation in Aspergillus nidulans.
+
+Y Higashitsuji, S Herrero, N Takeshita, R Fischer
+
+Polarized growth in filamentous fungi depends on the correct spatial organization of the microtubule (MT) and actin cytoskeleton. In Schizosaccharomyces pombe it was shown that the MT cytoskeleton is required for the delivery of so-called cell end marker proteins, e.g., Tea1 and Tea4, to the cell poles. Subsequently, these markers recruit several proteins required for polarized growth, e.g., a formin, which catalyzes actin cable formation. The latest results suggest that this machinery is conserved from fission yeast to Aspergillus nidulans. Here, we have characterized TeaC, a putative homologue of Tea4. Sequence identity between TeaC and Tea4 is only 12.5%, but they both share an SH3 domain in the N-terminal region. Deletion of teaC affected polarized growth and hyphal directionality. Whereas wild-type hyphae grow straight, hyphae of the mutant grow in a zig-zag way, similar to the hyphae of teaA deletion (tea1) strains. Some small, anucleate compartments were observed. Overexpression of teaC repressed septation and caused abnormal swelling of germinating conidia. In agreement with the two roles in polarized growth and in septation, TeaC localized to hyphal tips and to septa. TeaC interacted with the cell end marker protein TeaA at hyphal tips and with the formin SepA at hyphal tips and at septa.
+
+-Aspergillus nidulans (+growth & development; +metabolism; -ultrastructure)
+-Cell Polarity (+physiology)
+-Conserved Sequence (-genetics)
+-Cytoskeletal Proteins (-genetics; -isolation & purification; +metabolism)
+-Fungal Proteins (-metabolism)
+-Hyphae (-growth & development; -metabolism; -ultrastructure)
+-Microtubule-Associated Proteins (-chemistry; -genetics; -isolation & purification; +metabolism)
+-Organogenesis (+genetics)
+-Protein Structure, Tertiary
+-Schizosaccharomyces pombe Proteins (-chemistry; -genetics; -metabolism)
+-Spores, Fungal (-growth & development; -metabolism; -ultrastructure)
+
+pii:EC.00251-08
+doi:10.1128/EC.00251-08
+pubmed:19429780
+pmc:PMC2708464
+

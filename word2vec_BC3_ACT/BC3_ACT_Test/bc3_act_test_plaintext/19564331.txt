@@ -1,0 +1,25 @@
+J. Biol. Chem.
+
+Phosphorylation-independent regulation of metabotropic glutamate receptor 5 desensitization and internalization by G protein-coupled receptor kinase 2 in neurons.
+
+FM Ribeiro, LT Ferreira, M Paquet, T Cregan, Q Ding, R Gros, SS Ferguson
+
+The uncoupling of metabotropic glutamate receptors (mGluRs) from heterotrimeric G proteins represents an essential feedback mechanism that protects neurons against receptor overstimulation that may ultimately result in damage. The desensitization of mGluR signaling is mediated by both second messenger-dependent protein kinases and G protein-coupled receptor kinases (GRKs). Unlike mGluR1, the attenuation of mGluR5 signaling in HEK 293 cells is reported to be mediated by a phosphorylation-dependent mechanism. However, the mechanisms regulating mGluR5 signaling and endocytosis in neurons have not been investigated. Here we show that a 2-fold overexpression of GRK2 leads to the attenuation of endogenous mGluR5-mediated inositol phosphate (InsP) formation in striatal neurons and siRNA knockdown of GRK2 expression leads to enhanced mGluR5-mediated InsP formation. Expression of a catalytically inactive GRK2-K220R mutant also effectively attenuates mGluR5 signaling, but the expression of a GRK2-D110A mutant devoid in Galpha(q/11) binding increases mGluR5 signaling in response to agonist stimulation. Taken together, these results indicate that the attenuation of mGluR5 responses in striatal neurons is phosphorylation-independent. In addition, we find that mGluR5 does not internalize in response to agonist treatment in striatal neuron, but is efficiently internalized in cortical neurons that have higher levels of endogenous GRK2 protein expression. When overexpressed in striatal neurons, GRK2 promotes agonist-stimulated mGluR5 internalization. Moreover, GRK2-mediated promotion of mGluR5 endocytosis does not require GRK2 catalytic activity. Thus, we provide evidence that GRK2 mediates phosphorylation-independent mGluR5 desensitization and internalization in neurons.
+
+-Animals
+-Cells, Cultured
++Endocytosis
+-G-Protein-Coupled Receptor Kinase 2 (-genetics; +metabolism)
+-Inositol Phosphates (-metabolism)
+-Mice
+-Mice, Knockout
+-Neurons (-enzymology; +physiology)
+-Phosphorylation
+-Protein Binding
+-Receptors, Metabotropic Glutamate (-genetics; +metabolism)
+
+pii:M109.000778
+doi:10.1074/jbc.M109.000778
+pubmed:19564331
+pmc:PMC2749118
+

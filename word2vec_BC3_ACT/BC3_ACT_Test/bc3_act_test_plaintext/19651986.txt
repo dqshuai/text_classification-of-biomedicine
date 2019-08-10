@@ -1,0 +1,28 @@
+Genes Dev.
+
+Specific phosphorylation and activation of ERK1c by MEK1b: a unique route in the ERK cascade.
+
+YD Shaul, G Gibor, A Plotnikov, R Seger
+
+Extracellular signal-regulated kinases (ERKs) are key signaling molecules that regulate a large number of cellular processes, including mitosis. We showed previously that ERK1c, an alternatively spliced form of ERK1, facilitates mitotic Golgi fragmentation without the involvement of ERK1 and ERK2. Here we demonstrate that activation of ERK1c is mainly mediated by mitogen-activated protein kinase (MAPK)/ERK kinase 1b (MEK1b), which is an alternatively spliced form of MEK1 that was previously considered an inactive kinase. MEK1b phosphorylation and activity are preferentially stimulated by nocodazole, to induce its specific activity toward ERK1c. MEK1/2, on the other hand, preferentially target ERK1/2 in response to growth factors, such as EGF. As previously demonstrated for ERK1c, also MEK1b expression and activity are elevated during mitosis, and thereby enhance Golgi fragmentation and mitotic rate. MEK1 activity is also increased during mitosis, but this isoform facilitates mitotic progression without affecting the Golgi architecture. These results illustrate that the ERK cascade is divided into two routes: the classic MEK1/2-ERK1/2 and the splice-variant MEK1b-ERK1c, each of which regulates distinct cellular processes and thus extends the cascade specificity.
+
+-Alternative Splicing
+-Cell Line
+-Enzyme Activation (-drug effects)
++Gene Expression Regulation, Enzymologic (-drug effects)
+-Golgi Apparatus (-metabolism)
+-Hela Cells
+-Humans
+-Mitogen-Activated Protein Kinase 1 (+metabolism)
+-Mitogen-Activated Protein Kinase 3 (+metabolism)
+-Mitosis (+physiology)
+-Nocodazole (-pharmacology)
+-Phosphorylation
+-Substrate Specificity
+-Tubulin Modulators (-pharmacology)
+
+pii:23/15/1779
+doi:10.1101/gad.523909
+pubmed:19651986
+pmc:PMC2720265
+

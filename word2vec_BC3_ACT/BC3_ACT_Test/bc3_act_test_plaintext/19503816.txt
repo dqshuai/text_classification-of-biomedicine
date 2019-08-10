@@ -1,0 +1,24 @@
+PLoS Comput. Biol.
+
+Recurrent network models for perfect temporal integration of fluctuating correlated inputs.
+
+H Okamoto, T Fukai
+
+Temporal integration of input is essential to the accumulation of information in various cognitive and behavioral processes, and gradually increasing neuronal activity, typically occurring within a range of seconds, is considered to reflect such computation by the brain. Some psychological evidence suggests that temporal integration by the brain is nearly perfect, that is, the integration is non-leaky, and the output of a neural integrator is accurately proportional to the strength of input. Neural mechanisms of perfect temporal integration, however, remain largely unknown. Here, we propose a recurrent network model of cortical neurons that perfectly integrates partially correlated, irregular input spike trains. We demonstrate that the rate of this temporal integration changes proportionately to the probability of spike coincidences in synaptic inputs. We analytically prove that this highly accurate integration of synaptic inputs emerges from integration of the variance of the fluctuating synaptic inputs, when their mean component is kept constant. Highly irregular neuronal firing and spike coincidences are the major features of cortical activity, but they have been separately addressed so far. Our results suggest that the efficient protocol of information integration by cortical networks essentially requires both features and hence is heterotic.
+
+-Action Potentials (-physiology)
+-Algorithms
+-Animals
+-Cerebral Cortex (-cytology; -physiology)
+-Computer Simulation
++Models, Neurological
+-Nerve Net (+physiology)
+-Neurons (+physiology)
+-Synapses (+physiology)
+-Synaptic Potentials
+-Time
+
+doi:10.1371/journal.pcbi.1000404
+pubmed:19503816
+pmc:PMC2685482
+

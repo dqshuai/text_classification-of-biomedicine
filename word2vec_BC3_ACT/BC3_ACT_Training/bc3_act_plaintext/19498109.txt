@@ -1,0 +1,28 @@
+Science
+
+RIP3, an energy metabolism regulator that switches TNF-induced cell death from apoptosis to necrosis.
+
+DW Zhang, J Shao, J Lin, N Zhang, BJ Lu, SC Lin, MQ Dong, J Han
+
+Necrosis can be induced by stimulating death receptors with tumor necrosis factor (TNF) or other agonists; however, the underlying mechanism differentiating necrosis from apoptosis is largely unknown. We identified the protein kinase receptor-interacting protein 3 (RIP3) as a molecular switch between TNF-induced apoptosis and necrosis in NIH 3T3 cells and found that RIP3 was required for necrosis in other cells. RIP3 did not affect RIP1-mediated apoptosis but was required for RIP1-mediated necrosis and the enhancement of necrosis by the caspase inhibitor zVAD. By activating key enzymes of metabolic pathways, RIP3 regulates TNF-induced reactive oxygen species production, which partially accounts for RIP3's ability to promote necrosis. Our data suggest that modulation of energy metabolism in response to death stimuli has an important role in the choice between apoptosis and necrosis.
+
+-Amino Acid Chloromethyl Ketones (-pharmacology)
+-Animals
++Apoptosis
+-Cell Line
+-Energy Metabolism
+-Glutamate Dehydrogenase (-metabolism)
+-Glutamate-Ammonia Ligase (-metabolism)
+-Glycogen Phosphorylase (-metabolism)
+-Mice
+-NIH 3T3 Cells
++Necrosis
+-RNA Interference
+-Reactive Oxygen Species (-metabolism)
+-Receptor-Interacting Protein Serine-Threonine Kinases (-genetics; +metabolism)
+-Tumor Necrosis Factor-alpha (+pharmacology)
+
+pii:1172308
+doi:10.1126/science.1172308
+pubmed:19498109
+

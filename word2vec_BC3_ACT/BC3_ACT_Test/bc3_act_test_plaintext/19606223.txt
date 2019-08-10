@@ -1,0 +1,22 @@
+PLoS ONE
+
+PSPP: a protein structure prediction pipeline for computing clusters.
+
+MS Lee, R Bondugula, V Desai, N Zavaljevski, IC Yeh, A Wallqvist, J Reifman
+
+BACKGROUND: Protein structures are critical for understanding the mechanisms of biological systems and, subsequently, for drug and vaccine design. Unfortunately, protein sequence data exceed structural data by a factor of more than 200 to 1. This gap can be partially filled by using computational protein structure prediction. While structure prediction Web servers are a notable option, they often restrict the number of sequence queries and/or provide a limited set of prediction methodologies. Therefore, we present a standalone protein structure prediction software package suitable for high-throughput structural genomic applications that performs all three classes of prediction methodologies: comparative modeling, fold recognition, and ab initio. This software can be deployed on a user's own high-performance computing cluster. METHODOLOGY/PRINCIPAL FINDINGS: The pipeline consists of a Perl core that integrates more than 20 individual software packages and databases, most of which are freely available from other research laboratories. The query protein sequences are first divided into domains either by domain boundary recognition or Bayesian statistics. The structures of the individual domains are then predicted using template-based modeling or ab initio modeling. The predicted models are scored with a statistical potential and an all-atom force field. The top-scoring ab initio models are annotated by structural comparison against the Structural Classification of Proteins (SCOP) fold database. Furthermore, secondary structure, solvent accessibility, transmembrane helices, and structural disorder are predicted. The results are generated in text, tab-delimited, and hypertext markup language (HTML) formats. So far, the pipeline has been used to study viral and bacterial proteomes. CONCLUSIONS: The standalone pipeline that we introduce here, unlike protein structure prediction Web servers, allows users to devote their own computing assets to process a potentially unlimited number of queries as well as perform resource-intensive ab initio structure prediction.
+
+-Amino Acid Sequence
+-Cluster Analysis
+-Databases, Protein
+-Molecular Sequence Data
+-Programming Languages
+-Protein Conformation
+-Proteins (+chemistry)
+-Sequence Homology, Amino Acid
+-User-Computer Interface
+
+doi:10.1371/journal.pone.0006254
+pubmed:19606223
+pmc:PMC2707601
+

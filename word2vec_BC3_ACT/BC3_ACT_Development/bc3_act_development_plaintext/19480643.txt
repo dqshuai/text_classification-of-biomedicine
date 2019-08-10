@@ -1,0 +1,19 @@
+BioTechniques
+
+A versatile multidimensional protein purification system with full internet remote control based on a standard HPLC system.
+
+U Riek, S Ramirez, T Wallimann, U Schlattner
+
+The standard Akta Explorer high-performance liquid chromatography (HPLC) system has limitations for the automation of multidimensional protein purification. Here, we describe simple modifications that allow for automated multidimensional purification protocols to extend the possibilities of the Akta three-dimensional purification kit in terms of column number, flexibility of volumes stocked for re-injection of samples, and available choice of buffers. These modifications do not preclude the use of standard one-dimensional purification protocols. Additionally, we demonstrate a technology for encrypted full remote control of the machine over the Internet by cost-effective use of standard asymmetric digital subscriber line (ADSL) that enables direct remote interaction with the machine without preventing local control. A 4-column purification scheme, including equilibration and cleaning in place (CIP) procedures, was implemented on such a system. It significantly increased reproducibility and shortened processing time by 85%, as compared with manual operation, thus allowing for automated protein purification overnight.
+
+-Chromatography, High Pressure Liquid (+methods; -standards)
+-Computers
++Internet
+-Protein Kinases (-isolation & purification)
+-Proteins (+isolation & purification)
+-Robotics (+methods)
+
+pii:000113130
+doi:10.2144/000113130
+pubmed:19480643
+

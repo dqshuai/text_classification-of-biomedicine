@@ -1,0 +1,20 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Chemistry of fast electrons.
+
+SN Maximoff, MP Head-Gordon
+
+A chemicurrent is a flux of fast (kinetic energy approximately > 0.5-1.3 eV) metal electrons caused by moderately exothermic (1-3 eV) chemical reactions over high work function (4-6 eV) metal surfaces. In this report, the relation between chemicurrent and surface chemistry is elucidated with a combination of top-down phenomenology and bottom-up atomic-scale modeling. Examination of catalytic CO oxidation, an example which exhibits a chemicurrent, reveals 3 constituents of this relation: The localization of some conduction electrons to the surface via a reduction reaction, 0.5 O(2) + deltae(-) --> O(delta(-)) (Red); the delocalization of some surface electrons into a conduction band in an oxidation reaction, O(delta(-)) + CO --> CO(2)(delta-) --> CO(2) + deltae(-) (Ox); and relaxation without charge transfer (Rel). Juxtaposition of Red, Ox, and Rel produces a daunting variety of metal electronic excitations, but only those that originate from CO(2) reactive desorption are long-range and fast enough to dominate the chemicurrent. The chemicurrent yield depends on the universality class of the desorption process and the distribution of the desorption thresholds. This analysis implies a power-law relation with exponent 2.66 between the chemicurrent and the heat of adsorption, which is consistent with experimental findings for a range of systems. This picture also applies to other oxidation-reduction reactions over high work function metal surfaces.
+
+-Adsorption
++Electrons
+-Metals (+chemistry)
++Models, Chemical
+-Oxidation-Reduction
+-Oxygen (-chemistry)
+
+pii:0902030106
+doi:10.1073/pnas.0902030106
+pubmed:19561296
+pmc:PMC2710668
+

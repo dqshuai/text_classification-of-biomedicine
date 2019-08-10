@@ -1,0 +1,20 @@
+Plant Cell
+
+Association mapping: critical considerations shift from genotyping to experimental design.
+
+S Myles, J Peiffer, PJ Brown, ES Ersoz, Z Zhang, DE Costich, ES Buckler
+
+The goal of many plant scientists' research is to explain natural phenotypic variation in terms of simple changes in DNA sequence. Traditionally, linkage mapping has been the most commonly employed method to reach this goal: experimental crosses are made to generate a family with known relatedness, and attempts are made to identify cosegregation of genetic markers and phenotypes within this family. In vertebrate systems, association mapping (also known as linkage disequilibrium mapping) is increasingly being adopted as the mapping method of choice. Association mapping involves searching for genotype-phenotype correlations in unrelated individuals and often is more rapid and cost-effective than traditional linkage mapping. We emphasize here that linkage and association mapping are complementary approaches and are more similar than is often assumed. Unlike in vertebrates, where controlled crosses can be expensive or impossible (e.g., in humans), the plant scientific community can exploit the advantages of both controlled crosses and association mapping to increase statistical power and mapping resolution. While the time and money required for the collection of genotype data were critical considerations in the past, the increasing availability of inexpensive DNA sequencing and genotyping methods should prompt researchers to shift their attention to experimental design. This review provides thoughts on finding the optimal experimental mix of association mapping using unrelated individuals and controlled crosses to identify the genes underlying phenotypic variation.
+
+-Animals
+-Chromosome Mapping (+methods)
+-Genotype
+-Humans
+-Phenotype
++Research Design
+
+pii:tpc.109.068437
+doi:10.1105/tpc.109.068437
+pubmed:19654263
+pmc:PMC2751942
+

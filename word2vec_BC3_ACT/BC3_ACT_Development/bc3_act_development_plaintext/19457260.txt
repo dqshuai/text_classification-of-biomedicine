@@ -1,0 +1,23 @@
+BMC Genomics
+
+A comparative approach to elucidate chloroplast genome replication.
+
+NM Krishnan, BJ Rao
+
+BACKGROUND: Electron microscopy analyses of replicating chloroplast molecules earlier predicted bidirectional Cairns replication as the prevalent mechanism, perhaps followed by rounds of a rolling circle mechanism. This standard model is being challenged by the recent proposition of homologous recombination-mediated replication in chloroplasts. RESULTS: We address this issue in our current study by analyzing nucleotide composition in genome regions between known replication origins, with an aim to reveal any adenine to guanine deamination gradients. These gradual linear gradients typically result from the accumulation of deaminations over the time spent single-stranded by one of the strands of the circular molecule during replication and can, therefore, be used to model the course of replication. Our linear regression analyses on the nucleotide compositions of the non-coding regions and the synonymous third codon position of coding regions, between pairs of replication origins, reveal the existence of significant adenine to guanine deamination gradients in portions overlapping the Small Single Copy (SSC) and the Large Single Copy (LSC) regions between inverted repeats. These gradients increase bi-directionally from the center of each region towards the respective ends, suggesting that both the strands were left single-stranded during replication. CONCLUSION: Single-stranded regions of the genome and gradients in time that these regions are left single-stranded, as revealed by our nucleotide composition analyses, appear to converge with the original bi-directional dual displacement loop model and restore evidence for its existence as the primary mechanism. Other proposed faster modes such as homologous recombination and rolling circle initiation could exist in addition to this primary mechanism to facilitate homoplasmy among the intra-cellular chloroplast population.
+
+-Chromosome Mapping
++DNA Replication
+-DNA, Chloroplast (+genetics)
+-DNA, Plant (-genetics)
++Genome, Chloroplast
+-Linear Models
++Replication Origin
+-Sequence Analysis, DNA
+-Tobacco (-genetics)
+
+pii:1471-2164-10-237
+doi:10.1186/1471-2164-10-237
+pubmed:19457260
+pmc:PMC2695485
+

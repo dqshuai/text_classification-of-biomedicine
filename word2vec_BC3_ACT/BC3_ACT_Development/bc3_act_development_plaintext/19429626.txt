@@ -1,0 +1,25 @@
+J. Bacteriol.
+
+Correct timing of dnaA transcription and initiation of DNA replication requires trans translation.
+
+L Cheng, KC Keiler
+
+The trans translation pathway for protein tagging and ribosome release has been found in all bacteria and is required for proliferation and differentiation in many systems. Caulobacter crescentus mutants that lack the trans translation pathway have a defect in the cell cycle and do not initiate DNA replication at the correct time. To determine the molecular basis for this phenotype, effects on events known to be important for initiation of DNA replication were investigated. In the absence of trans translation, transcription from the dnaA promoter and an origin-proximal promoter involved in replication initiation is delayed. Characterization of the dnaA promoter revealed two cis-acting elements that have dramatic effects on dnaA gene expression. A 5' leader sequence in dnaA mRNA represses gene expression by >15-fold but does not affect the timing of dnaA expression. The second cis-acting element, a sequence upstream of the -35 region, affects both the amount of dnaA transcription and the timing of transcription in response to trans translation. Mutations in this promoter element eliminate the transcription delay and partially suppress the DNA replication phenotype in mutants lacking trans translation activity. These results suggest that the trans translation capacity of the cell is sensed through the dnaA promoter to control the timing of DNA replication initiation.
+
+-Bacterial Proteins (+genetics; +metabolism)
+-Caulobacter crescentus (-genetics; -metabolism)
+-DNA Replication (+genetics; -physiology)
+-DNA-Binding Proteins (+genetics; +metabolism)
+-Gene Expression Regulation, Bacterial
+-Immunoblotting
+-Mutation
+-Promoter Regions, Genetic (-genetics)
+-Protein Biosynthesis (-genetics; +physiology)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Transcription, Genetic (+genetics; -physiology)
+
+pii:JB.00362-09
+doi:10.1128/JB.00362-09
+pubmed:19429626
+pmc:PMC2698507
+

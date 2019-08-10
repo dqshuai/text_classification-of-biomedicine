@@ -1,0 +1,25 @@
+Mol. Biol. Cell
+
+Redox-regulated export of the major histocompatibility complex class I-peptide complexes from the endoplasmic reticulum.
+
+S Lee, B Park, K Kang, K Ahn
+
+In contrast to the fairly well-characterized mechanism of assembly of MHC class I-peptide complexes, the disassembly mechanism by which peptide-loaded MHC class I molecules are released from the peptide-loading complex and exit the endoplasmic reticulum (ER) is poorly understood. Optimal peptide binding by MHC class I molecules is assumed to be sufficient for triggering exit of peptide-filled MHC class I molecules from the ER. We now show that protein disulfide isomerase (PDI) controls MHC class I disassembly by regulating dissociation of the tapasin-ERp57 disulfide conjugate. PDI acts as a peptide-dependent molecular switch; in the peptide-bound state, it binds to tapasin and ERp57 and induces dissociation of the tapasin-ERp57 conjugate. In the peptide-free state, PDI is incompetent to bind to tapasin or ERp57 and fails to dissociate the tapasin-ERp57 conjugates, resulting in ER retention of MHC class I molecules. Thus, our results indicate that even after optimal peptide loading, MHC class I disassembly does not occur by default but, rather, is a regulated process involving PDI-mediated interactions within the peptide-loading complex.
+
+-Endoplasmic Reticulum (+metabolism)
+-Hela Cells
+-Histocompatibility Antigens Class I (+metabolism)
+-Humans
+-Kinetics
+-Membrane Transport Proteins (-metabolism)
+-Oxidation-Reduction
+-Peptides (+metabolism)
+-Protein Binding
+-Protein Disulfide-Isomerases (-metabolism)
+-Protein Transport
+
+pii:E09-03-0238
+doi:10.1091/mbc.E09-03-0238
+pubmed:19477919
+pmc:PMC2710829
+

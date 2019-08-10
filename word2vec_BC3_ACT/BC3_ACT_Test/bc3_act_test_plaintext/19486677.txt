@@ -1,0 +1,27 @@
+Biophys. J.
+
+Sequence and crowding effects in the aggregation of a 10-residue fragment derived from islet amyloid polypeptide.
+
+E Rivera, J Straub, D Thirumalai
+
+Fibril formation from amyloidogenic peptides is a hallmark of a wide range of diseases, including Alzheimer's disease and type II diabetes. Characterization of the aggregation process should include intrinsic factors, such as sequence variation, and extrinsic factors, such as crowding effects. To this end, we examined the interactions of dimers composed of residues 20-29 of human islet amyloid polypeptide (hIAPP), which form fibrils in vitro, and the nonamyloidogenic rat IAPP (rIAPP) using molecular dynamics simulations modeled at different peptide concentrations. There is a substantial free energy barrier to unbind the hIAPP dimer whereas no barrier exists for separating the rIAPP dimer. The profound differences in the free energy landscapes of the rIAPP and hIAPP dimers explains the lack of fibril formation in hIAPP upon substitution of the C-terminal residues by proline. Enhancing the extent of crowding has a substantial effect on both the barrier for separating a hIAPP beta-sheet dimer and the formation of potential beta-sheet nucleation sites. Our results show that the propensity for forming nucleation sites is dependent not only on the amino-acid sequence but also on the context in which it is found.
+
+-Amino Acid Sequence
+-Amyloid (+chemistry; -genetics)
+-Animals
+-Computer Simulation
+-Environment
+-Humans
+-Hydrogen Bonding
++Models, Chemical
+-Principal Component Analysis
++Protein Multimerization
+-Protein Stability
+-Protein Structure, Secondary
+-Rats
+
+pii:S0006-3495(09)00761-9
+doi:10.1016/j.bpj.2009.03.039
+pubmed:19486677
+pmc:PMC2711455
+

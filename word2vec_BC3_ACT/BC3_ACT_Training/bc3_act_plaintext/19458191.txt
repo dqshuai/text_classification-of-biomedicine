@@ -1,0 +1,27 @@
+Mol. Biol. Cell
+
+Stress-induced phenotypic switching in Candida albicans.
+
+K Alby, RJ Bennett
+
+Candida albicans is both a common commensal and an opportunistic pathogen, being a prevalent cause of mucosal and systemic infections in humans. Phenotypic switching between white and opaque forms is a reversible transition that influences virulence, mating behavior, and biofilm formation. In this work, we show that a wide range of factors induces high rates of switching from white to opaque. These factors include different forms of environmental stimuli such as genotoxic and oxidative stress, as well as intrinsic factors such as mutations in DNA repair genes. We propose that these factors increase switching to the opaque phase via a common mechanism-inhibition of cell growth. To confirm this hypothesis, growth rates were artificially manipulated by varying expression of the CLB4 cyclin gene; slowing cell growth by depleting CLB4 resulted in a concomitant increase in white-opaque switching. Furthermore, two clinical isolates of C. albicans, P37005 and L26, were found to naturally exhibit both slow growth and high rates of white-opaque switching. Notably, suppression of the slow growth phenotype suppressed hyperswitching in the P37005 isolate. Based on the sensitivity of the switch to levels of the master regulator Wor1, we propose a model for how changes in cellular growth modulate white-opaque switching frequencies.
+
+-Candida albicans (-drug effects; -genetics; +growth & development)
+-DNA Damage
+-Gene Deletion
+-Gene Dosage
+-Gene Expression Regulation, Fungal (-drug effects)
+-Genes, Fungal
+-Genes, Switch
+-Hydroxyurea (-pharmacology)
+-Methyl Methanesulfonate (-pharmacology)
+-Oxidative Stress (-drug effects)
+-Phenotype
+-S Phase (-drug effects)
++Stress, Physiological (-drug effects)
+
+pii:E09-01-0040
+doi:10.1091/mbc.E09-01-0040
+pubmed:19458191
+pmc:PMC2710840
+

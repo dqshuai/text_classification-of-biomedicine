@@ -1,0 +1,27 @@
+Biophys. J.
+
+A mathematical analysis of obstructed diffusion within skeletal muscle.
+
+PR Shorten, J Sneyd
+
+Molecules are transported through the myofilament lattice of skeletal muscle fibers during muscle activation. The myofilaments, along with the myosin heads, sarcoplasmic reticulum, t-tubules, and mitochondria, obstruct the diffusion of molecules through the muscle fiber. In this work, we studied the process of obstructed diffusion within the myofilament lattice using Monte Carlo simulation, level-set and homogenization theory. We found that these intracellular obstacles significantly reduce the diffusion of material through skeletal muscle and generate diffusion anisotropy that is consistent with experimentally observed slower diffusion in the radial than the longitudinal direction. Our model also predicts that protein size has a significant effect on the diffusion of material through muscle, which is consistent with experimental measurements. Protein diffusion on the myofilament lattice is also anomalous (i.e., it does not obey Brownian motion) for proteins that are close in size to the myofilament spacing. The obstructed transport of Ca2+ and ATP-bound Ca2+ through the myofilament lattice also generates smaller Ca2+ transients. In addition, we used homogenization theory to discover that the nonhomogeneous distribution in the troponin binding sites has no effect on the macroscopic Ca2+ dynamics. The nonuniform sarcoplasmic reticulum Ca2+-ATPase pump distribution also introduces small asymmetries in the myoplasmic Ca2+ transients.
+
+-Anisotropy
+-Biological Transport
+-Buffers
+-Calcium (-chemistry; -metabolism)
++Diffusion
+-Microfilaments (-chemistry)
+-Mitochondria (-chemistry)
++Models, Biological
+-Monte Carlo Method
+-Muscle Proteins (-chemistry; -metabolism)
+-Muscle, Skeletal (+chemistry; -metabolism)
+-Protein Binding
+-Sarcoplasmic Reticulum (-chemistry; -metabolism)
+
+pii:S0006-3495(09)00679-1
+doi:10.1016/j.bpj.2009.02.060
+pubmed:19527637
+pmc:PMC2712032
+

@@ -1,0 +1,24 @@
+J. Proteome Res.
+
+Analysis of vaccinia virus-host protein-protein interactions: validations of yeast two-hybrid screenings.
+
+L Zhang, NY Villa, MM Rahman, S Smallwood, D Shattuck, C Neff, M Dufford, JS Lanchbury, J Labaer, G McFadden
+
+Vaccinia virus, a large double-stranded DNA virus, is the prototype of the Orthopoxvirus genus, which includes several pathogenic poxviruses of humans, such as monkeypox virus and variola virus. Here, we report a comprehensive yeast two-hybrid (Y2H) screening for the protein-protein interactions between vaccinia and human proteins. A total of 109 novel vaccinia-human protein interactions were detected among 33 viral proteins. To validate subsets of those interactions, we constructed an ORFeome library of vaccinia virus strain WR using the Gateway plasmid cloning system. By co-expressing selected vaccinia and host proteins in a variety of expression systems, we found that at least 17 of the Y2H hits identified between vaccinia and human proteins can be verified by independent methods using GST pull-down assays, representing a 63% validation rate for the Y2H hits examined (17/27). Because the cloned ORFs are conveniently transferable from the entry vectors to various destination expression vectors, the vaccinia ORFeome library will be a useful resource for future high-throughput functional proteomic experiments.
+
+-Host-Pathogen Interactions (+physiology)
+-Humans
+-Open Reading Frames
+-Polymerase Chain Reaction
+-Protein Interaction Mapping (-methods)
+-Proteomics (-methods)
+-Recombinant Fusion Proteins (-metabolism)
+-Reproducibility of Results
++Two-Hybrid System Techniques
+-Vaccinia (+metabolism)
+-Viral Proteins (+metabolism)
+
+doi:10.1021/pr900491n
+pubmed:19637933
+pmc:PMC2738428
+

@@ -1,0 +1,26 @@
+Genetics
+
+Systems-level engineering of nonfermentative metabolism in yeast.
+
+CJ Kennedy, PM Boyle, Z Waks, PA Silver
+
+We designed and experimentally validated an in silico gene deletion strategy for engineering endogenous one-carbon (C1) metabolism in yeast. We used constraint-based metabolic modeling and computer-aided gene knockout simulations to identify five genes (ALT2, FDH1, FDH2, FUM1, and ZWF1), which, when deleted in combination, predicted formic acid secretion in Saccharomyces cerevisiae under aerobic growth conditions. Once constructed, the quintuple mutant strain showed the predicted increase in formic acid secretion relative to a formate dehydrogenase mutant (fdh1 fdh2), while formic acid secretion in wild-type yeast was undetectable. Gene expression and physiological data generated post hoc identified a retrograde response to mitochondrial deficiency, which was confirmed by showing Rtg1-dependent NADH accumulation in the engineered yeast strain. Formal pathway analysis combined with gene expression data suggested specific modes of regulation that govern C1 metabolic flux in yeast. Specifically, we identified coordinated transcriptional regulation of C1 pathway enzymes and a positive flux control coefficient for the branch point enzyme 3-phosphoglycerate dehydrogenase (PGDH). Together, these results demonstrate that constraint-based models can identify seemingly unrelated mutations, which interact at a systems level across subcellular compartments to modulate flux through nonfermentative metabolic pathways.
+
+-Aerobiosis (+genetics)
+-Base Sequence
+-Cell Respiration (-genetics)
+-Fermentation (-genetics)
+-Formic Acids (-metabolism)
+-Gene Deletion
+-Genetic Engineering (+methods)
+-Metabolic Networks and Pathways (-genetics)
+-Models, Biological
+-Organisms, Genetically Modified
+-Phylogeny
+-Saccharomyces cerevisiae (+genetics; -growth & development; +metabolism)
+
+pii:genetics.109.105254
+doi:10.1534/genetics.109.105254
+pubmed:19564482
+pmc:PMC2746161
+

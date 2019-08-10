@@ -1,0 +1,15 @@
+Proteomics
+
+Improving 2-DE gel image denoising using contourlets.
+
+P Tsakanikas, ES Manolakos
+
+One of the most commonly used methods for protein separation is 2-DE. After 2-DE gel scanning, images with a plethora of spot features emerge that are usually contaminated by inherent noise. The objective of the denoising process is to remove noise to the extent that the true spots are recovered correctly and accurately i.e. without introducing distortions leading to the detection of false-spot features. In this paper we propose and justify the use of the contourlet transform as a tool for 2-DE gel images denoising. We compare its effectiveness with state-of-the-art methods such as wavelets-based multiresolution image analysis and spatial filtering. We show that contourlets not only achieve better average S/N performance than wavelets and spatial filters, but also preserve better spot boundaries and faint spots and alter less the intensities of informative spot features, leading to more accurate spot volume estimation and more reliable spot detection, operations that are essential to differential expression proteomics for biomarkers discovery.
+
+-Electrophoresis, Gel, Two-Dimensional (+methods)
+-Image Enhancement (+methods)
+-Proteins (+analysis; -isolation & purification)
+
+doi:10.1002/pmic.200701027
+pubmed:19670247
+

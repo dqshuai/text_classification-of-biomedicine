@@ -1,0 +1,27 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Mapping accessible chromatin regions using Sono-Seq.
+
+RK Auerbach, G Euskirchen, J Rozowsky, N Lamarre-Vincent, Z Moqtaderi, P Lefrançois, K Struhl, M Gerstein, M Snyder
+
+Disruptions in local chromatin structure often indicate features of biological interest such as regulatory regions. We find that sonication of cross-linked chromatin, when combined with a size-selection step and massively parallel short-read sequencing, can be used as a method (Sono-Seq) to map locations of high chromatin accessibility in promoter regions. Sono-Seq sites frequently correspond to actively transcribed promoter regions, as evidenced by their co-association with RNA Polymerase II ChIP regions, transcription start sites, histone H3 lysine 4 trimethylation (H3K4me3) marks, and CpG islands; signals over other sites, such as those bound by the CTCF insulator, are also observed. The pattern of breakage by Sono-Seq overlaps with, but is distinct from, that observed for FAIRE and DNase I hypersensitive sites. Our results demonstrate that Sono-Seq can be a useful and simple method by which to map many local alterations in chromatin structure. Furthermore, our results provide insights into the mapping of binding sites by using ChIP-Seq experiments and the value of reference samples that should be used in such experiments.
+
+-Animals
+-Base Sequence
++Chromatin
+-Chromosome Mapping (+methods)
+-Gene Expression
+-Genetic Markers
+-Hela Cells
+-Histones (-metabolism)
+-Humans
+-Methylation
+-Mice
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Sequence Analysis, DNA (+methods)
+
+pii:0905443106
+doi:10.1073/pnas.0905443106
+pubmed:19706456
+pmc:PMC2736440
+

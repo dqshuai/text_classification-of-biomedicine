@@ -1,0 +1,24 @@
+BMC Cancer
+
+Fast simultaneous detection of K-RAS mutations in colorectal cancer.
+
+YS Chang, KT Yeh, TJ Chang, C Chai, HC Lu, NC Hsu, JG Chang
+
+BACKGROUND: RAS genes acquire the most common somatic gain-of-function mutations in human cancer, and almost all of these mutations are located at codons 12, 13, 61, and 146. METHODS: We present a method for detecting these K-RAS hotspot mutations in 228 cases of colorectal cancer. The protocol is based on the multiplex amplification of exons 2, 3 and 4 in a single tube, followed by primer extension of the PCR products using various sizes of primers to detect base changes at codons 12, 13, 61 and 146. We compared the clinicopathological data of colorectal cancer patients with the K-RAS mutation status. RESULTS: K-RAS mutation occurred in 36% (83/228) of our colorectal cancer cases. Univariate analysis revealed a significant association between K-RAS mutation at codon 12 of exon 2 and poor 5-year survival (p = 0.023) and lymph node involvement (p = 0.048). Also, K-RAS mutation at codon 13 of exon 2 correlates with the size of the tumor (p = 0.03). Multivariate analysis adjusted for tumor size, histologic grade, and lymph node metastasis also indicated K-RAS mutations at codon 12 and 13 of exon 2 correlate significantly with overall survival (p = 0.002 and 0.025). No association was observed between codon 61 and 146 and clinicopathological features. CONCLUSION: We demonstrated a simple and fast way to identify K-RAS mutation.
+
+-Codon
+-Colorectal Neoplasms (+genetics; -pathology)
+-DNA Mutational Analysis (-methods)
++Genes, ras
+-Humans
+-Lymphatic Metastasis
+-Neoplasm Staging
++Point Mutation
+-Polymerase Chain Reaction
+-Sensitivity and Specificity
+
+pii:1471-2407-9-179
+doi:10.1186/1471-2407-9-179
+pubmed:19515263
+pmc:PMC2702390
+

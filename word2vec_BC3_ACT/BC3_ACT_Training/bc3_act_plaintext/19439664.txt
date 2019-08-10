@@ -1,0 +1,31 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Altered interactions within FY/AtCPSF complexes required for Arabidopsis FCA-mediated chromatin silencing.
+
+D Manzano, S Marquardt, AM Jones, I Bäurle, F Liu, C Dean
+
+The role of RNA metabolism in chromatin silencing is now widely recognized. We have studied the Arabidopsis RNA-binding protein FCA that down-regulates an endogenous floral repressor gene through a chromatin mechanism involving histone demethylase activity. This mechanism needs FCA to interact with an RNA 3' processing/polyadenylation factor (FY/Pfs2p), but the subsequent events leading to chromatin changes are unknown. Here, we show that this FCA-FY interaction is required for general chromatin silencing roles where hairpin transgenes induce DNA methylation of an endogenous gene. We also show 2 conserved RNA processing factors, AtCPSF100 and AtCPSF160, but not FCA, are stably associated with FY in vivo and form a range of different-sized complexes. A hypomorphic fy allele producing a shorter protein, able to provide some FY functions but unable to interact with FCA, reduces abundance of some of the larger MW complexes. Suppressor mutants, which specifically disrupt the FY motif through which FCA interacts, also lacked these larger complexes. Our data support a model whereby FCA, perhaps after recognition of a specific RNA feature, transiently interacts with FY, an integral component of the canonical RNA 3' processing machinery, changing the interactions of the different RNA processing components. These altered interactions would appear to be a necessary step in this RNA-mediated chromatin silencing.
+
+-Alleles
+-Arabidopsis (-genetics; -growth & development; +metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Chromatin (+genetics)
+-Cleavage And Polyadenylation Specificity Factor (-genetics; +metabolism)
+-DNA Methylation
+-Gene Expression Regulation, Plant
++Gene Silencing
+-MADS Domain Proteins (-genetics; -metabolism)
+-Mutation (-genetics)
+-Nucleic Acid Conformation
+-Protein Binding
+-Protein Isoforms (-genetics; -metabolism)
+-RNA, Plant (-chemistry; -genetics)
+-RNA-Binding Proteins (-genetics; +metabolism)
+-Transcription, Genetic (-genetics)
+-mRNA Cleavage and Polyadenylation Factors (-genetics; +metabolism)
+
+pii:0903444106
+doi:10.1073/pnas.0903444106
+pubmed:19439664
+pmc:PMC2689023
+

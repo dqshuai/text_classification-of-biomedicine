@@ -1,0 +1,17 @@
+Protein Sci.
+
+The GD box: a widespread noncontiguous supersecondary structural element.
+
+V Alva, S Dunin-Horkawicz, M Habeck, M Coles, AN Lupas
+
+Identification and characterization of recurrent supersecondary structural elements is central to understanding the rules governing protein tertiary structure. Here, we describe the GD box, a widespread noncontiguous supersecondary element, which we initially found in a group of topologically distinct but homologous beta-barrels--the cradle-loop barrels. The GD box is similar both in sequence and structure and comprises two short unpaired beta-strands connected by an orthogonal type-II beta-turn and a noncontiguous beta-strand forming hydrogen bonds with the beta-turn. Using structure-based analysis, we have detected 518 instances of the GD box in a nonredundant subset of the SCOP database comprising 3771 domains. Apart from the cradle-loop barrels, this motif is also found in a diverse set of nonhomologous folds including other topologically related beta-barrels. Since nonlocal interactions are fundamental in the formation of protein structure, systematic identification and characterization of other noncontiguous supersecondary structural elements is likely to prove valuable to protein structure modeling, validation, and prediction.
+
++Amino Acid Motifs
+-Models, Molecular
+-Protein Structure, Tertiary
+-Proteins (+chemistry)
+
+doi:10.1002/pro.207
+pubmed:19609930
+pmc:PMC2777370
+

@@ -1,0 +1,32 @@
+Plant Signal Behav
+
+Isolation of high salinity stress tolerant genes from Pisum sativum by random overexpression in Escherichia coli and their functional validation.
+
+A Joshi, HQ Dang, N Vaid, N Tuteja
+
+Salinity stress is one of the major factors which reduce crop plants growth and productivity resulting in significant economic losses worldwide. Therefore, it would be fruitful to isolate and functionally identify new salinity stress-induced genes for understanding the mechanism and developing salinity stress tolerant plants. Based on functional gene screening assay, we have isolated few salinity tolerant genes out of one million Escherichia coli (SOLR) transformants containing pea cDNAs. Sequence analysis of three of these genes revealed homology to Ribosomal-L30E (RPL30E), Chlorophyll-a/b-binding protein (Chla/bBP) and FIDDLEHEAD (FDH). The salinity tolerance of these genes in bacteria was further confirmed by using another strain of E. coli (DH5alpha) transformants. The homology based computational modeling of these proteins suggested the high degree of conservation with the conserved domains of their homologous partners. The reverse transcriptase polymerase chain reaction (RT-PCR) analysis showed that the expression of these cDNAs (except the FDH) was upregulated in pea plants in response to NaCl stress. We observed that there was no significant effect of Li(+) ion on the expression level of these genes, while an increase in response to K(+) ion was observed. Overall, this study provides an evidence for a novel function of these genes in high salinity stress tolerance. The PsFDH showed constitutive expression in planta suggesting that it can be used as constitutively expressed marker gene for salinity stress tolerance in plants. This study brings new direction in identifying novel function of unidentified genes in abiotic stress tolerance without previous knowledge of the genome sequence.
+
+-Amino Acid Sequence
+-DNA, Complementary (-genetics)
+-DNA, Plant (-genetics)
+-Escherichia coli (-metabolism)
+-Gene Expression Profiling
+-Gene Expression Regulation, Plant (-drug effects)
+-Gene Library
++Genes, Plant
+-Models, Molecular
+-Molecular Sequence Data
+-Peas (-drug effects; +genetics; -metabolism)
+-Phylogeny
+-Plant Proteins (-genetics)
+-Salt-Tolerant Plants (+genetics; -metabolism)
+-Sequence Alignment
+-Sequence Analysis, DNA
+-Sequence Homology, Amino Acid
+-Sodium Chloride (+pharmacology)
+-Stress, Physiological
+
+pii:8387
+pubmed:19816097
+pmc:PMC2676750
+

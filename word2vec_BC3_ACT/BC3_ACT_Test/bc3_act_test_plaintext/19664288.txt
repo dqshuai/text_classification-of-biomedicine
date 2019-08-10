@@ -1,0 +1,35 @@
+Breast Cancer Res.
+
+MicroRNA expression profiling of male breast cancer.
+
+M Fassan, R Baffa, JP Palazzo, J Lloyd, M Crosariol, CG Liu, S Volinia, H Alder, M Rugge, CM Croce, A Rosenberg
+
+INTRODUCTION : MicroRNAs (miRNAs) are a class of small noncoding RNAs that control gene expression by targeting mRNAs and triggering either translation repression or RNA degradation. Their aberrant expression may be involved in human diseases, including cancer. To test the hypothesis that there is a specific miRNA expression signature which characterizes male breast cancers, we performed miRNA microarray analysis in a series of male breast cancers and compared them with cases of male gynecomastia and female breast cancers. METHODS : Paraffin blocks were obtained at the Department of Pathology of Thomas Jefferson University from 28 male patients including 23 breast cancers and five cases of male gynecomastia, and from 10 female ductal breast carcinomas. The RNA harvested was hybridized to miRNA microarrays (~1,100 miRNA probes, including 326 human and 249 mouse miRNA genes, spotted in duplicate). To further support the microarray data, an immunohistochemical analysis for two specific miRNA gene targets (HOXD10 and VEGF) was performed in a small series of male breast carcinoma and gynecomastia samples. RESULTS : We identified a male breast cancer miRNA signature composed of a large portion of underexpressed miRNAs. In particular, 17 miRNAs with increased expression and 26 miRNAs with decreased expression were identified in male breast cancer compared with gynecomastia. Among these miRNAs, some had well-characterized cancer development association and some showed a deregulation in cancer specimens similar to the one previously observed in the published signatures of female breast cancer. Comparing male with female breast cancer miRNA expression signatures, 17 significantly deregulated miRNAs were observed (four overexpressed and 13 underexpressed in male breast cancers). The HOXD10 and VEGF gene immunohistochemical expression significantly follows the corresponding miRNA deregulation. CONCLUSIONS : Our results suggest that specific miRNAs may be directly involved in male breast cancer development and that they may represent a novel diagnostic tool in the characterization of specific cancer gene targets.
+
+-Adenocarcinoma (-chemistry; -diagnosis; +genetics)
+-Breast Neoplasms (-chemistry; -diagnosis; -genetics)
+-Breast Neoplasms, Male (-chemistry; -diagnosis; +genetics)
+-Cell Transformation, Neoplastic (-genetics)
+-Diagnosis, Differential
+-Female
++Gene Expression Profiling
+-Gene Expression Regulation, Neoplastic (+genetics)
+-Genetic Association Studies
++Genome-Wide Association Study
+-Gynecomastia (-diagnosis; -genetics; -metabolism)
+-Homeodomain Proteins (-genetics)
+-Humans
+-Male
+-MicroRNAs (-biosynthesis; +genetics; -physiology)
+-Neoplasm Proteins (-genetics)
+-RNA, Neoplasm (-biosynthesis; +genetics)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Sex Characteristics
+-Transcription Factors (-genetics)
+-Vascular Endothelial Growth Factor A (-genetics)
+
+pii:bcr2348
+doi:10.1186/bcr2348
+pubmed:19664288
+pmc:PMC2750120
+

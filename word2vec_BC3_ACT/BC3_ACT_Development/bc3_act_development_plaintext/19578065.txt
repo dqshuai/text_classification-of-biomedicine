@@ -1,0 +1,25 @@
+Nucleic Acids Res.
+
+DNA melting by RNA polymerase at the T7A1 promoter precedes the rate-limiting step at 37 degrees C and results in the accumulation of an off-pathway intermediate.
+
+A Rogozina, E Zaychikov, M Buckle, H Heumann, B Sclavi
+
+The formation of a transcriptionally active complex by RNA polymerase involves a series of short-lived structural intermediates where protein conformational changes are coupled to DNA wrapping and melting. We have used time-resolved KMnO(4) and hydroxyl-radical X-ray footprinting to directly probe conformational signatures of these complexes at the T7A1 promoter. Here we demonstrate that DNA melting from m12 to m4 precedes the rate-limiting step in the pathway and takes place prior to the formation of full downstream contacts. In addition, on the wild-type promoter, we can detect the accumulation of a stable off-pathway intermediate that results from the absence of sequence-specific contacts with the melted non-consensus -10 region. Finally, the comparison of the results obtained at 37 degrees C with those at 20 degrees C reveals significant differences in the structure of the intermediates resulting in a different pathway for the formation of a transcriptionally active complex.
+
+-Bacteriophage T7 (-genetics)
+-DNA (+chemistry; -metabolism)
+-DNA Footprinting
+-DNA-Directed RNA Polymerases (+chemistry; -metabolism)
+-Kinetics
+-Nucleic Acid Denaturation
+-Potassium Permanganate (-chemistry)
++Promoter Regions, Genetic
+-Protein Conformation
+-Temperature
++Transcription, Genetic
+
+pii:gkp560
+doi:10.1093/nar/gkp560
+pubmed:19578065
+pmc:PMC2760793
+

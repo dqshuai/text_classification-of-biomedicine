@@ -1,0 +1,35 @@
+PLoS Pathog.
+
+Actin dynamics regulate multiple endosomal steps during Kaposi's sarcoma-associated herpesvirus entry and trafficking in endothelial cells.
+
+W Greene, SJ Gao
+
+The role of actin dynamics in clathrin-mediated endocytosis in mammalian cells is unclear. In this study, we define the role of actin cytoskeleton in Kaposi's sarcoma-associated herpesvirus (KSHV) entry and trafficking in endothelial cells using an immunofluorescence-based assay to visualize viral capsids and the associated cellular components. In contrast to infectivity or reporter assays, this method does not rely on the expression of any viral and reporter genes, but instead directly tracks the accumulation of individual viral particles at the nuclear membrane as an indicator of successful viral entry and trafficking in cells. Inhibitors of endosomal acidification reduced both the percentage of nuclei with viral particles and the total number of viral particles docking at the perinuclear region, indicating endocytosis, rather than plasma membrane fusion, as the primary route for KSHV entry into endothelial cells. Accordingly, a viral envelope protein was only detected on internalized KSHV particles at the early but not late stage of infection. Inhibitors of clathrin- but not caveolae/lipid raft-mediated endocytosis blocked KSHV entry, indicating that clathrin-mediated endocytosis is the major route of KSHV entry into endothelial cells. KSHV particles were colocalized not only with markers of early and recycling endosomes, and lysosomes, but also with actin filaments at the early time points of infection. Consistent with these observations, transferrin, which enters cells by clathrin-mediated endocytosis, was found to be associated with actin filaments together with early and recycling endosomes, and to a lesser degree, with late endosomes and lysosomes. KSHV infection induced dynamic actin cytoskeleton rearrangements. Disruption of the actin cytoskeleton and inhibition of regulators of actin nucleation such as Rho GTPases and Arp2/3 complex profoundly blocked KSHV entry and trafficking. Together, these results indicate an important role for actin dynamics in the internalization and endosomal sorting/trafficking of KSHV and clathrin-mediated endocytosis in endothelial cells.
+
+-Actins (-antagonists & inhibitors; +metabolism)
+-Active Transport, Cell Nucleus
+-Caveolae (-metabolism)
+-Cell Line
+-Cell Nucleus (-virology)
+-Chlorpromazine (-pharmacology)
+-Clathrin-Coated Vesicles (-metabolism)
+-Cytoskeleton (-drug effects; -metabolism; -virology)
+-Endocytosis (-drug effects; -physiology)
+-Endosomes (+metabolism; -virology)
+-Endothelial Cells (-metabolism)
+-Enzyme Inhibitors (-metabolism)
+-Herpesvirus 8, Human (+physiology)
+-Humans
+-Hydrogen-Ion Concentration
+-Membrane Microdomains (-metabolism)
+-Microscopy, Fluorescence
+-Protein Transport (-drug effects; +physiology)
+-Signal Transduction
+-Transferrin (-metabolism)
+-Viral Proteins (-metabolism)
++Virus Internalization
+
+doi:10.1371/journal.ppat.1000512
+pubmed:19593382
+pmc:PMC2702172
+

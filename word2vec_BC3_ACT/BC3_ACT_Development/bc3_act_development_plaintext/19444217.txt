@@ -1,0 +1,28 @@
+Nature
+
+qiRNA is a new type of small interfering RNA induced by DNA damage.
+
+HC Lee, SS Chang, S Choudhary, AP Aalto, M Maiti, DH Bamford, Y Liu
+
+RNA interference pathways use small RNAs to mediate gene silencing in eukaryotes. In addition to small interfering RNAs (siRNAs) and microRNAs, several types of endogenously produced small RNAs have important roles in gene regulation, germ cell maintenance and transposon silencing. The production of some of these RNAs requires the synthesis of aberrant RNAs (aRNAs) or pre-siRNAs, which are specifically recognized by RNA-dependent RNA polymerases to make double-stranded RNA. The mechanism for aRNA synthesis and recognition is largely unknown. Here we show that DNA damage induces the expression of the Argonaute protein QDE-2 and a new class of small RNAs in the filamentous fungus Neurospora crassa. This class of small RNAs, known as qiRNAs because of their interaction with QDE-2, are about 20-21 nucleotides long (several nucleotides shorter than Neurospora siRNAs), with a strong preference for uridine at the 5' end, and originate mostly from the ribosomal DNA locus. The production of qiRNAs requires the RNA-dependent RNA polymerase QDE-1, the Werner and Bloom RecQ DNA helicase homologue QDE-3 and dicers. qiRNA biogenesis also requires DNA-damage-induced aRNAs as precursors, a process that is dependent on both QDE-1 and QDE-3. Notably, our results suggest that QDE-1 is the DNA-dependent RNA polymerase that produces aRNAs. Furthermore, the Neurospora RNA interference mutants show increased sensitivity to DNA damage, suggesting a role for qiRNAs in the DNA-damage response by inhibiting protein translation.
+
+-DNA Damage (+genetics)
+-DNA Helicases (-genetics; -metabolism)
+-DNA, Ribosomal (-genetics)
+-DNA, Single-Stranded
+-Fungal Proteins (-biosynthesis; -genetics; -metabolism)
++Gene Expression Regulation, Fungal
+-Molecular Sequence Data
+-Neurospora crassa (-enzymology; +genetics)
+-Protein Biosynthesis
+-RNA Replicase (-genetics; -metabolism)
+-RNA, Fungal (+biosynthesis; +genetics; -metabolism)
+-RNA, Small Interfering (+biosynthesis; +genetics; -metabolism)
+-Templates, Genetic
+
+pii:nature08041
+doi:10.1038/nature08041
+pubmed:19444217
+mid:NIHMS191200
+pmc:PMC2859615
+

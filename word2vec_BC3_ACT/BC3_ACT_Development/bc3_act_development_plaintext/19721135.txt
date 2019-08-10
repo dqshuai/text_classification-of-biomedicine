@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+Egr-1 is necessary for fibroblast growth factor-2-induced transcriptional activation of the glial cell line-derived neurotrophic factor in murine astrocytes.
+
+SY Shin, H Song, CG Kim, YK Choi, KS Lee, SJ Lee, HJ Lee, Y Lim, YH Lee
+
+Glial cell line-derived neurotrophic factor (Gdnf) promotes neurite outgrowth and survival of neuronal cells, but its transcriptional regulation is poorly understood. Here, we sought to investigate the mechanism underlying fibroblast growth factor-2 (FGF2) induction of Gdnf expression in astrocytes. We found that FGF2 stimulation of rat astrocytes induced expression of Egr-1 at a high level. Sequence analysis of the rat Gdnf gene identified three overlapping Egr-1-binding sites between positions -185 and -163 of the rat Gdnf promoter. Transfection studies using a series of deleted Gdnf promoters revealed that these Egr-1-binding sites are required for maximal activation of the Gdnf promoter by FGF2. Chromatin immunoprecipitation analysis indicated that Egr-1 binds to the Gdnf promoter. Furthermore, the induction of Gdnf expression by FGF2 is strongly attenuated both in C6 glioma cells stably expressing Egr-1-specific small interfering RNA and in primary cultured astrocytes from the Egr-1 knock-out mouse. Additionally, we found that stimulation of the ERK and JNK pathways by FGF2 is functionally linked to Gdnf expression through the induction of Egr-1. These data demonstrate that FGF2-induced Gdnf expression is mediated by the induction of Egr-1 through activation of the ERK and JNK/Elk-1 signaling pathways.
+
+-Animals
+-Astrocytes (+metabolism)
+-Binding Sites
+-Early Growth Response Protein 1 (+physiology)
+-Extracellular Signal-Regulated MAP Kinases (-metabolism)
+-Fibroblast Growth Factor 2 (-genetics; +physiology)
+-Glial Cell Line-Derived Neurotrophic Factor (+genetics)
+-JNK Mitogen-Activated Protein Kinases (-metabolism)
+-Mice
+-Mice, Knockout
+-Promoter Regions, Genetic
+-Rats
+-Signal Transduction
++Transcriptional Activation
+-ets-Domain Protein Elk-1 (-metabolism)
+
+pii:M109.010678
+doi:10.1074/jbc.M109.010678
+pubmed:19721135
+pmc:PMC2781613
+

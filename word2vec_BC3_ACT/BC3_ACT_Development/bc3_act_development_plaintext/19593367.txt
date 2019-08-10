@@ -1,0 +1,29 @@
+PLoS Genet.
+
+Distinct roles of non-canonical poly(A) polymerases in RNA metabolism.
+
+S San Paolo, S Vanacova, L Schenk, T Scherrer, D Blank, W Keller, AP Gerber
+
+Trf4p and Trf5p are non-canonical poly(A) polymerases and are part of the heteromeric protein complexes TRAMP4 and TRAMP5 that promote the degradation of aberrant and short-lived RNA substrates by interacting with the nuclear exosome. To assess the level of functional redundancy between the paralogous Trf4 and Trf5 proteins and to investigate the role of the Trf4-dependent polyadenylation in vivo, we used DNA microarrays to compare gene expression of the wild-type yeast strain of S. cerevisiae with either that of trf4Delta or trf5Delta mutant strains or the trf4Delta mutant expressing the polyadenylation-defective Trf4(DADA) protein. We found little overlap between the sets of transcripts with altered expression in the trf4Delta or the trf5Delta mutants, suggesting that Trf4p and Trf5p target distinct groups of RNAs for degradation. Surprisingly, most RNAs the expression of which was altered by the trf4 deletion were restored to wild-type levels by overexpression of TRF4(DADA), showing that the polyadenylation activity of Trf4p is dispensable in vivo. Apart from previously reported Trf4p and Trf5p target RNAs, this analysis along with in vivo cross-linking and RNA immunopurification-chip experiments revealed that both the TRAMP4 and the TRAMP5 complexes stimulate the degradation of spliced-out introns via a mechanism that is independent of the polyadenylation activity of Trf4p. In addition, we show that disruption of trf4 causes severe shortening of telomeres suggesting that TRF4 functions in the maintenance of telomere length. Finally, our study demonstrates that TRF4, the exosome, and TRF5 participate in antisense RNA-mediated regulation of genes involved in phosphate metabolism. In conclusion, our results suggest that paralogous TRAMP complexes have distinct RNA selectivities with functional implications in RNA surveillance as well as other RNA-related processes. This indicates widespread and integrative functions of TRAMP complexes for the coordination of different gene expression regulatory processes.
+
+-DNA-Directed DNA Polymerase (-genetics; +metabolism)
+-DNA-Directed RNA Polymerases (-genetics; +metabolism)
+-Exosomes (-metabolism)
+-Gene Expression Regulation, Fungal (-physiology)
+-Introns (-genetics)
+-Mutation
+-Polyadenylation
+-RNA (+metabolism)
+-RNA Interference
+-RNA Stability
+-RNA, Antisense (-metabolism)
+-RNA, Untranslated (-metabolism)
+-Ribosomal Proteins (-genetics; -metabolism)
+-Saccharomyces cerevisiae (-genetics; +metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Telomere (-metabolism)
+
+doi:10.1371/journal.pgen.1000555
+pubmed:19593367
+pmc:PMC2700272
+

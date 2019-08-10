@@ -1,0 +1,26 @@
+Protein Sci.
+
+Effect of protein structure on deamidation rate in the Fc fragment of an IgG1 monoclonal antibody.
+
+S Sinha, L Zhang, S Duan, TD Williams, J Vlasak, R Ionescu, EM Topp
+
+The effects of secondary structure on asparagine (N) deamidation in a 22 amino acid sequence (369-GFYPSDIAVEWESNGQPENNYK-390) of the crystallizable (Fc) fragment of a human monoclonal antibody (Fc IgG1) were investigated using high-resolution ultra performance liquid chromatography with tandem mass spectrometry (UPLC/MS). Samples containing either the intact Fc IgG (approximately 50 kD) ("intact protein"), or corresponding synthetic peptides ("peptide") were stored in Tris buffer at 37 degrees C and pH 7.5 for up to forty days, then subjected to UPLC/MS analysis with high energy MS1 fragmentation. The peptide deamidated only at N(382) to form the isoaspartate (isoD(382)) and aspartate (D(382)) products in the ratio of approximately 4:1, with a half-life of approximately 3.4 days. The succinimide intermediate (Su(382)) was also detected; deamidation was not observed for the other two sites (N(387) and N(388)) in peptide samples. The intact protein showed a 30-fold slower overall deamidation half-life of approximately 108 days to produce the isoD(382) and D(387) products, together with minor amounts of D(382). Surprisingly, the D(382) and isoD(387) products were not detected in intact protein samples and, as in the peptide samples, deamidation was not detected at N(388). The results indicate that higher order structure influences both the rate of N-deamidation and the product distribution.
+
+-Amides (-chemistry)
+-Amino Acid Sequence
+-Antibodies, Monoclonal (+chemistry; -metabolism)
+-Asparagine (-chemistry; -metabolism)
+-Chromatography, High Pressure Liquid
+-Humans
+-Immunoglobulin Fc Fragments (+chemistry; -metabolism)
+-Immunoglobulin G (+chemistry; -metabolism)
+-Kinetics
+-Molecular Sequence Data
+-Peptides (+chemistry; -metabolism)
+-Protein Structure, Secondary
+-Tandem Mass Spectrometry
+
+doi:10.1002/pro.173
+pubmed:19544580
+pmc:PMC2776945
+

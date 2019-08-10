@@ -1,0 +1,27 @@
+PLoS Pathog.
+
+Vpu antagonizes BST-2-mediated restriction of HIV-1 release via beta-TrCP and endo-lysosomal trafficking.
+
+RS Mitchell, C Katsura, MA Skasko, K Fitzpatrick, D Lau, A Ruiz, EB Stephens, F Margottin-Goguet, R Benarous, JC Guatelli
+
+The interferon-induced transmembrane protein BST-2/CD317 (tetherin) restricts the release of diverse enveloped viruses from infected cells. The HIV-1 accessory protein Vpu antagonizes this restriction by an unknown mechanism that likely involves the down-regulation of BST-2 from the cell surface. Here, we show that the optimal removal of BST-2 from the plasma membrane by Vpu requires the cellular protein beta-TrCP, a substrate adaptor for a multi-subunit SCF E3 ubiquitin ligase complex and a known Vpu-interacting protein. beta-TrCP is also required for the optimal enhancement of virion-release by Vpu. Mutations in the DSGxxS beta-TrCP binding-motif of Vpu impair both the down-regulation of BST-2 and the enhancement of virion-release. Such mutations also confer dominant-negative activity, consistent with a model in which Vpu links BST-2 to beta-TrCP. Optimal down-regulation of BST-2 from the cell surface by Vpu also requires the endocytic clathrin adaptor AP-2, although the rate of endocytosis is not increased; these data suggest that Vpu induces post-endocytic membrane trafficking events whose net effect is the removal of BST-2 from the cell surface. In addition to its marked effect on cell-surface levels, Vpu modestly decreases the total cellular levels of BST-2. The decreases in cell-surface and intracellular BST-2 are inhibited by bafilomycin A1, an inhibitor of endosomal acidification; these data suggest that Vpu induces late endosomal targeting and partial degradation of BST-2 in lysosomes. The Vpu-mediated decrease in surface expression is associated with reduced co-localization of BST-2 and the virion protein Gag along the plasma membrane. Together, the data support a model in which Vpu co-opts the beta-TrCP/SCF E3 ubiquitin ligase complex to induce endosomal trafficking events that remove BST-2 from its site of action as a virion-tethering factor.
+
+-Adaptor Protein Complex 2
+-Antigens, CD (-genetics; -metabolism)
+-Cell Line
+-Down-Regulation
+-Endosomes (-metabolism)
+-HIV-1 (+pathogenicity; -physiology)
+-Human Immunodeficiency Virus Proteins (-genetics; +physiology)
+-Humans
+-Lysosomes (+metabolism)
+-Membrane Glycoproteins (+antagonists & inhibitors; -genetics; -metabolism)
+-Mutation
+-Protein Transport
+-Viral Regulatory and Accessory Proteins (-genetics; +physiology)
+-beta-Transducin Repeat-Containing Proteins (-genetics; +metabolism)
+
+doi:10.1371/journal.ppat.1000450
+pubmed:19478868
+pmc:PMC2679223
+

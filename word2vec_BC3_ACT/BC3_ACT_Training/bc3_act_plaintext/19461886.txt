@@ -1,0 +1,36 @@
+PLoS Genet.
+
+Adaptive variation regulates the expression of the human SGK1 gene in response to stress.
+
+F Luca, S Kashyap, C Southard, M Zou, D Witonsky, A Di Rienzo, SD Conzen
+
+The Serum and Glucocorticoid-regulated Kinase1 (SGK1) gene is a target of the glucocorticoid receptor (GR) and is central to the stress response in many human tissues. Because environmental stress varies across habitats, we hypothesized that natural selection shaped the geographic distribution of genetic variants regulating the level of SGK1 expression following GR activation. By combining population genetics and molecular biology methods, we identified a variant (rs9493857) with marked allele frequency differences between populations of African and European ancestry and with a strong correlation between allele frequency and latitude in worldwide population samples. This SNP is located in a GR-binding region upstream of SGK1 that was identified using a GR ChIP-chip. SNP rs9493857 also lies within a predicted binding site for Oct1, a transcription factor known to cooperate with the GR in the transactivation of target genes. Using ChIP assays, we show that both GR and Oct1 bind to this region and that the ancestral allele at rs9493857 binds the GR-Oct1 complex more efficiently than the derived allele. Finally, using a reporter gene assay, we demonstrate that the ancestral allele is associated with increased glucocorticoid-dependent gene expression when compared to the derived allele. Our results suggest a novel paradigm in which hormonal responsiveness is modulated by sequence variation in the regulatory regions of nuclear receptor target genes. Identifying such functional variants may shed light on the mechanisms underlying inter-individual variation in response to environmental stressors and to hormonal therapy, as well as in the susceptibility to hormone-dependent diseases.
+
+-African Continental Ancestry Group (-genetics)
+-Alleles
+-Base Sequence
+-Binding Sites
+-Cell Line
+-DNA (-genetics)
+-Enhancer Elements, Genetic
+-European Continental Ancestry Group (-genetics)
+-Female
+-Gene Expression
+-Gene Frequency
+-Genetic Predisposition to Disease
+-Genetic Variation
+-Humans
+-Immediate-Early Proteins (+genetics; -metabolism)
+-Neurosecretory Systems (-metabolism)
+-Octamer Transcription Factor-1 (-metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Polymorphism, Single Nucleotide
+-Protein-Serine-Threonine Kinases (+genetics; -metabolism)
+-Receptors, Glucocorticoid (-metabolism)
+-Signal Transduction
+-Stress, Physiological
+
+doi:10.1371/journal.pgen.1000489
+pubmed:19461886
+pmc:PMC2679193
+

@@ -1,0 +1,27 @@
+Protein Sci.
+
+Integrity of N- and C-termini is important for E. coli Hsp31 chaperone activity.
+
+MS Sastry, W Zhou, F Baneyx
+
+Hsp31 is a stress-inducible molecular chaperone involved in the management of protein misfolding at high temperatures and in the development of acid resistance in starved E. coli. Each subunit of the Hsp31 homodimer consists of two structural domains connected by a flexible linker that sits atop a continuous tract of nonpolar residues adjacent to a hydrophobic bowl defined by the dimerization interface. Previously, we proposed that while the bowl serves as a binding site for partially folded species at physiological temperatures, chaperone function under heat shock conditions requires that folding intermediates further anneal to high-affinity binding sites that become uncovered upon thermally induced motion of the linker. In support of a mechanism requiring that client proteins first bind to the bowl, we show here that fusion of a 20-residue-long hexahistidine tag to the N-termini of Hsp31 abolishes chaperone activity at all temperatures by inducing reversible structural changes that interfere with substrate binding. We further demonstrate that extending the C-termini of Hsp31 with short His tags selectively suppresses chaperone function at high temperatures by interfering with linker movement. The structural and functional sensitivity of Hsp31 to lengthening is consistent with the high degree of conservation of class I Hsp31 orthologs and will serve as a cautionary tale on the implications of affinity tagging.
+
+-Circular Dichroism
+-Escherichia coli (-genetics; -metabolism)
+-Escherichia coli Proteins (+chemistry; -genetics; +metabolism)
+-Histidine (-chemistry; -genetics; +metabolism)
+-Kinetics
+-Models, Molecular
+-Molecular Chaperones (+chemistry; -genetics; +metabolism)
+-Oligopeptides (-chemistry; -genetics; +metabolism)
+-Protein Multimerization
+-Protein Stability
+-Protein Structure, Tertiary
+-Recombinant Fusion Proteins (-chemistry; -genetics; -metabolism)
+-Structure-Activity Relationship
+-Temperature
+
+doi:10.1002/pro.158
+pubmed:19517531
+pmc:PMC2775212
+

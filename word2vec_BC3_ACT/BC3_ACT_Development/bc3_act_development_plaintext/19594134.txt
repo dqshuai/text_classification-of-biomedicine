@@ -1,0 +1,24 @@
+Biochemistry
+
+Nucleotide binding and allosteric modulation of the second AAA+ domain of ClpB probed by transient kinetic studies.
+
+ND Werbeck, JN Kellner, TR Barends, J Reinstein
+
+The bacterial AAA+ chaperone ClpB provides thermotolerance by disaggregating aggregated proteins in collaboration with the DnaK chaperone system. Like many other AAA+ proteins, ClpB is believed to act as a biological motor converting the chemical energy of ATP into molecular motion. ClpB has two ATPase domains, NBD1 and NBD2, on one polypeptide chain. The functional unit of ClpB is a homohexameric ring, with a total of 12 potential nucleotide binding sites. Previously, two separate constructs, one each containing NBD1 or NBD2, have been shown to form a functional complex with chaperone activity when mixed. Here we aimed to elucidate the nucleotide binding properties of the ClpB complex using pre-steady state kinetics and fluorescent nucleotides. For this purpose, we first disassembled the complex and characterized in detail the binding kinetics of a construct comprising NBD2 and the C-terminal domain of ClpB. The monomeric construct bound nucleotides very tightly. ADP bound 2 orders of magnitude more tightly than ATP; this difference in binding affinity resulted almost exclusively from different dissociation rate constants. The nucleotide binding properties of NBD2 changed when this construct was complemented with a construct comprising NBD1 and the middle domain. Our approach shows how complex formation can influence the binding properties of the individual domains and allows us to assign nucleotide binding features of this highly complex, multimeric enzyme to specific domains.
+
+-Adenosine Diphosphate (-analogs & derivatives; -chemistry)
+-Adenosine Triphosphate (-analogs & derivatives; -chemistry)
+-Allosteric Regulation
+-Anthranilic Acids (-chemistry)
+-Bacterial Proteins (+chemistry; -genetics; +metabolism)
+-Fluorescent Dyes (-chemistry)
+-Heat-Shock Proteins (+chemistry; -genetics; +metabolism)
+-Models, Molecular
++Nucleotides (-chemistry; -metabolism)
+-Protein Binding
+-Protein Conformation
+-Thermus thermophilus (+chemistry)
+
+doi:10.1021/bi900880c
+pubmed:19594134
+

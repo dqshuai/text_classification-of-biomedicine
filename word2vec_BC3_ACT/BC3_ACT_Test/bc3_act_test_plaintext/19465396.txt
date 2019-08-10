@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+In silico selection of RNA aptamers.
+
+Y Chushak, MO Stone
+
+In vitro selection of RNA aptamers that bind to a specific ligand usually begins with a random pool of RNA sequences. We propose a computational approach for designing a starting pool of RNA sequences for the selection of RNA aptamers for specific analyte binding. Our approach consists of three steps: (i) selection of RNA sequences based on their secondary structure, (ii) generating a library of three-dimensional (3D) structures of RNA molecules and (iii) high-throughput virtual screening of this library to select aptamers with binding affinity to a desired small molecule. We developed a set of criteria that allows one to select a sequence with potential binding affinity from a pool of random sequences and developed a protocol for RNA 3D structure prediction. As verification, we tested the performance of in silico selection on a set of six known aptamer-ligand complexes. The structures of the native sequences for the ligands in the testing set were among the top 5% of the selected structures. The proposed approach reduces the RNA sequences search space by four to five orders of magnitude--significantly accelerating the experimental screening and selection of high-affinity aptamers.
+
+-Aptamers, Nucleotide (+chemistry)
+-Base Pairing
+-Computational Biology (+methods)
+-Ligands
+-Models, Molecular
+-Nucleic Acid Conformation
+-RNA (+chemistry)
+-Sequence Analysis, RNA
+-Thermodynamics
+
+pii:gkp408
+doi:10.1093/nar/gkp408
+pubmed:19465396
+pmc:PMC2709588
+

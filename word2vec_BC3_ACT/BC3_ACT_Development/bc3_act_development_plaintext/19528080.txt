@@ -1,0 +1,31 @@
+Nucleic Acids Res.
+
+Classification and energetics of the base-phosphate interactions in RNA.
+
+CL Zirbel, JE Sponer, J Sponer, J Stombaugh, NB Leontis
+
+Structured RNA molecules form complex 3D architectures stabilized by multiple interactions involving the nucleotide base, sugar and phosphate moieties. A significant percentage of the bases in structured RNA molecules in the Protein Data Bank (PDB) hydrogen-bond with phosphates of other nucleotides. By extracting and superimposing base-phosphate (BPh) interactions from a reduced-redundancy subset of 3D structures from the PDB, we identified recurrent phosphate-binding sites on the RNA bases. Quantum chemical calculations were carried out on model systems representing each BPh interaction. The calculations show that the centers of each cluster obtained from the structure superpositions correspond to energy minima on the potential energy hypersurface. The calculations also show that the most stable phosphate-binding sites occur on the Watson-Crick edge of guanine and the Hoogsteen edge of cytosine. We modified the 'Find RNA 3D' (FR3D) software suite to automatically find and classify BPh interactions. Comparison of the 3D structures of the 16S and 23S rRNAs of Escherichia coli and Thermus thermophilus revealed that most BPh interactions are phylogenetically conserved and they occur primarily in hairpin, internal or junction loops or as part of tertiary interactions. Bases that form BPh interactions, which are conserved in the rRNA 3D structures are also conserved in homologous rRNA sequence alignments.
+
+-Adenine (-chemistry)
+-Base Pairing
+-Base Sequence
+-Binding Sites
+-Conserved Sequence
+-Cytosine (-chemistry)
+-Guanine (-chemistry)
+-Hydrogen Bonding
+-Models, Molecular
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-Phosphates (+chemistry)
+-Quantum Theory
+-RNA (+chemistry)
+-RNA, Ribosomal (-chemistry)
+-Sequence Homology, Nucleic Acid
+-Uracil (-chemistry)
+
+pii:gkp468
+doi:10.1093/nar/gkp468
+pubmed:19528080
+pmc:PMC2731888
+

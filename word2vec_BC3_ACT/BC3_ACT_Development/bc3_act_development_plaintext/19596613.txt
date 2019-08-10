@@ -1,0 +1,30 @@
+DNA Repair (Amst.)
+
+Localization of X-ray cross complementing gene 1 protein in the nuclear matrix is controlled by casein kinase II-dependent phosphorylation in response to oxidative damage.
+
+Y Kubota, T Takanami, A Higashitani, S Horiuchi
+
+Base excision repair/single strand break repair (BER/SSBR) of damaged DNA is a highly efficient process. X-ray cross complementing protein 1 (XRCC1) functions as a key scaffold protein for BER/SSBR factors. Recent work has shown that XRCC1 forms dense foci at sites of DNA damage in a manner dependent on casein kinase II (CK2) phosphorylation. To investigate the mechanism underlying foci formation, we analyzed the subnuclear localization and phosphorylation status of XRCC1 during the repair process by biochemical fractionation of HeLa cellular proteins. The localization was also verified by in situ extraction of the fixed cells. In unchallenged cells, XRCC1 was primarily found in the chromatin fraction in a highly phosphorylated form; in addition, a minor population (10-15%) existed in the nuclear matrix (NM) with no or marginal phosphorylation. After hydrogen peroxide treatment, hyperphosphorylated XRCC1 appeared in the NM and accordingly, those in the chromatin fraction decreased. Foci formation and changes in XRCC1 distribution could be abolished by the knockdown of CK2, the expression of a non-phosphorylatable version of XRCC1, or the inhibition of poly-ADP ribosylation at the damage sites. Other BER factors, like DNA polymerase beta, were also found to accumulate in the NM after hydrogen peroxide-induced DNA damage, although its association with the NM seemed relatively weak. Our results suggest that the constitutive phosphorylation of XRCC1 in the chromatin and its DNA damage-induced recruitment to the NM are critical for foci formation, and that the core reactions of BER/SSBR may occur in the NM.
+
+-Animals
+-Casein Kinase II (+metabolism)
+-Cricetinae
+-Cricetulus
++DNA Damage
+-DNA Ligases (-metabolism)
+-DNA Polymerase beta (-metabolism)
+-DNA-Binding Proteins (+metabolism)
+-Hela Cells
+-Humans
+-Hydrogen Peroxide (-pharmacology)
+-Nuclear Matrix (-drug effects; +metabolism)
++Oxidative Stress (-drug effects)
+-Phosphorylation (-drug effects)
+-Poly(ADP-ribose) Polymerases (-metabolism)
+-Protein Transport (-drug effects)
+-Subcellular Fractions (-drug effects; -metabolism)
+
+pii:S1568-7864(09)00157-8
+doi:10.1016/j.dnarep.2009.06.003
+pubmed:19596613
+

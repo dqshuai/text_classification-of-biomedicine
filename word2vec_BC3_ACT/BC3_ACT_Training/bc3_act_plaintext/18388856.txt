@@ -1,0 +1,29 @@
+EMBO J.
+
+Activation of TRPP2 through mDia1-dependent voltage gating.
+
+CX Bai, S Kim, WP Li, AJ Streets, AC Ong, L Tsiokas
+
+The TRPP2 cation channel is directly responsible for approximately 15% of all cases of autosomal dominant polycystic kidney disease. However, the mechanisms underlying fundamental properties of TRPP2 regulation, such as channel gating and activation, are unknown. We have shown that TRPP2 was activated by EGF and physically interacted with the mammalian diaphanous-related formin 1 (mDia1), a downstream effector of RhoA. Now, we show that mDia1 regulates TRPP2 by specifically blocking its activity at negative but not positive potentials. The voltage-dependent unblock of TRPP2 by mDia1 at positive potentials is mediated through RhoA-induced molecular switching of mDia1 from its autoinhibited state at negative potentials to its activated state at positive potentials. Under physiological resting potentials, EGF activates TRPP2 by releasing the mDia1-dependent block through the activation of RhoA. Our data reveal a new role of mDia1 in the regulation of ion channels and suggest a molecular basis for the voltage-dependent gating of TRP channels.
+
+-Animals
+-Carrier Proteins (-genetics; +metabolism; -physiology)
+-Cell Line
+-Cell Membrane (-metabolism)
+-Electrophysiology
+-Epithelial Cells (-cytology; -metabolism; -physiology)
+-Ion Channel Gating (-genetics; +physiology)
+-Kidney (-cytology)
+-Membrane Potentials (-physiology)
+-Polycystic Kidney, Autosomal Dominant (-genetics; -metabolism; -physiopathology)
+-Signal Transduction (-physiology)
+-TRPP Cation Channels (+metabolism)
+-Transfection
+-Transient Receptor Potential Channels (-genetics; -metabolism; -physiology)
+-rhoA GTP-Binding Protein (-genetics; -metabolism)
+
+pii:emboj200870
+doi:10.1038/emboj.2008.70
+pubmed:18388856
+pmc:PMC2374846
+

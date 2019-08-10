@@ -1,0 +1,41 @@
+Mol. Immunol.
+
+Requirement of TLR4 and CD14 in dendritic cell activation by Hemagglutinin B from Porphyromonas gingivalis.
+
+DE Gaddis, SM Michalek, J Katz
+
+Porphyromonas gingivalis is a Gram-negative anaerobic bacterium that is one of the causative agents of chronic adult periodontal disease. Among the potential virulence factors of P. gingivalis are the hemagglutinins. Recombinant Hemagglutinin B (rHagB) from P. gingivalis has been shown to activate the immune system by inducing specific antibodies that protect against experimental periodontal bone loss following P. gingivalis infection. Since different microbial products can stimulate dendritic cells (DC) through Toll-like receptors (TLRs), subsequently leading to T cell activation and antibody production, we wanted to investigate the immunostimulatory effect of rHagB on DC and the role of TLR signaling in this process. Using an endotoxin free rHagB preparation, our results show that stimulation of murine bone marrow-derived DC with rHagB leads to upregulation of the costimulatory molecules CD86 and CD40, activation of p38 and ERK MAP kinases, transcription factors NF-kappaB, CREB and IRF-3 and the production of IL-6, TNF-alpha, IL-12p40 and to a lesser extent IL-10 and IFN-beta. This activation process was absolutely dependent on TLR4 and CD14. While upregulation of CD86 was independent of the adaptor molecule MyD88, CD40 upregulation and optimal cytokine (IL-6, TNF-alpha, IL-12p40, IL-10 and IFN-beta) production required both MyD88 and TRIF molecules. These results are of importance since they are the first to provide insights into the interaction of rHagB with DC and TLRs. The information from this study will aid in the design of effective vaccines strategies against chronic adult periodontal disease.
+
+-Animals
+-Antigens, CD14 (-genetics; +metabolism)
+-Antigens, CD40 (-metabolism)
+-Antigens, CD86 (-metabolism)
+-Bacterial Proteins (-genetics; -isolation & purification; +pharmacology)
+-Blotting, Western
+-Dendritic Cells (-cytology; +drug effects; -metabolism)
+-Enzyme-Linked Immunosorbent Assay
+-Extracellular Signal-Regulated MAP Kinases (-metabolism)
+-Female
+-Flow Cytometry
+-Hemagglutinins (-genetics; -isolation & purification; -pharmacology)
+-Interferon Regulatory Factor-3 (-metabolism)
+-Interleukin-12 Subunit p40 (-metabolism)
+-Interleukin-6 (-metabolism)
+-Lectins (-genetics; -isolation & purification; -pharmacology)
+-Male
+-Mice
+-Mice, Inbred C57BL
+-Mice, Knockout
+-Myeloid Differentiation Factor 88 (-genetics; -metabolism)
+-Phosphorylation (-drug effects)
+-Recombinant Proteins (-isolation & purification; -pharmacology)
+-Toll-Like Receptor 2 (-genetics; -metabolism)
+-Toll-Like Receptor 4 (-genetics; +metabolism)
+-Tumor Necrosis Factor-alpha (-metabolism)
+
+pii:S0161-5890(09)00238-7
+doi:10.1016/j.molimm.2009.05.022
+pubmed:19540594
+mid:NIHMS119663
+pmc:PMC2763909
+

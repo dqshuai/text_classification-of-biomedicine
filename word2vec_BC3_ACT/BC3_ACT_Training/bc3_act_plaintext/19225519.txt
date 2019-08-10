@@ -1,0 +1,31 @@
+Nature
+
+APP binds DR6 to trigger axon pruning and neuron death via distinct caspases.
+
+A Nikolaev, T McLaughlin, DD O'Leary, M Tessier-Lavigne
+
+Naturally occurring axonal pruning and neuronal cell death help to sculpt neuronal connections during development, but their mechanistic basis remains poorly understood. Here we report that beta-amyloid precursor protein (APP) and death receptor 6 (DR6, also known as TNFRSF21) activate a widespread caspase-dependent self-destruction program. DR6 is broadly expressed by developing neurons, and is required for normal cell body death and axonal pruning both in vivo and after trophic-factor deprivation in vitro. Unlike neuronal cell body apoptosis, which requires caspase 3, we show that axonal degeneration requires caspase 6, which is activated in a punctate pattern that parallels the pattern of axonal fragmentation. DR6 is activated locally by an inactive surface ligand(s) that is released in an active form after trophic-factor deprivation, and we identify APP as a DR6 ligand. Trophic-factor deprivation triggers the shedding of surface APP in a beta-secretase (BACE)-dependent manner. Loss- and gain-of-function studies support a model in which a cleaved amino-terminal fragment of APP (N-APP) binds DR6 and triggers degeneration. Genetic support is provided by a common neuromuscular junction phenotype in mutant mice. Our results indicate that APP and DR6 are components of a neuronal self-destruction pathway, and suggest that an extracellular fragment of APP, acting via DR6 and caspase 6, contributes to Alzheimer's disease.
+
+-Alzheimer Disease (-metabolism)
+-Amyloid beta-Protein Precursor (-chemistry; +metabolism)
+-Animals
+-Axons (+metabolism)
+-Caspase 3 (-metabolism)
+-Caspase 6 (+metabolism)
+-Caspases (+metabolism)
+-Cell Death
+-Ligands
+-Mice
+-Neurons (+cytology; +metabolism)
+-Peptide Fragments (-chemistry; -metabolism)
+-Protein Binding
+-Receptors, Tumor Necrosis Factor (+metabolism)
+-Signal Transduction
+-bcl-2-Associated X Protein (-genetics; -metabolism)
+
+pii:nature07767
+doi:10.1038/nature07767
+pubmed:19225519
+mid:NIHMS98640
+pmc:PMC2677572
+

@@ -1,0 +1,20 @@
+BMC Bioinformatics
+
+p3d--Python module for structural bioinformatics.
+
+C Fufezan, M Specht
+
+ABSTRACT: BACKGROUND: High-throughput bioinformatic analysis tools are needed to mine the large amount of structural data via knowledge based approaches. The development of such tools requires a robust interface to access the structural data in an easy way. For this the Python scripting language is the optimal choice since its philosophy is to write an understandable source code. RESULTS: p3d is an object oriented Python module that adds a simple yet powerful interface to the Python interpreter to process and analyse three dimensional protein structure files (PDB files). p3d's strength arises from the combination of a) very fast spatial access to the structural data due to the implementation of a binary space partitioning (BSP) tree, b) set theory and c) functions that allow to combine a and b and that use human readable language in the search queries rather than complex computer language. All these factors combined facilitate the rapid development of bioinformatic tools that can perform quick and complex analyses of protein structures. CONCLUSION: p3d is the perfect tool to quickly develop tools for structural bioinformatics using the Python scripting language.
+
+-Computational Biology (+methods)
+-Databases, Protein
+-Programming Languages
+-Protein Conformation
+-Proteins (+chemistry)
++Software
+
+pii:1471-2105-10-258
+doi:10.1186/1471-2105-10-258
+pubmed:19698094
+pmc:PMC2744707
+

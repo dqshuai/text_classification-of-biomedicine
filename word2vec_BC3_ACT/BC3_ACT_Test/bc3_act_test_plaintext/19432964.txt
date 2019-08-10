@@ -1,0 +1,26 @@
+BMC Bioinformatics
+
+Estimating parameters for generalized mass action models with connectivity information.
+
+CL Ko, EO Voit, FS Wang
+
+BACKGROUND: Determining the parameters of a mathematical model from quantitative measurements is the main bottleneck of modelling biological systems. Parameter values can be estimated from steady-state data or from dynamic data. The nature of suitable data for these two types of estimation is rather different. For instance, estimations of parameter values in pathway models, such as kinetic orders, rate constants, flux control coefficients or elasticities, from steady-state data are generally based on experiments that measure how a biochemical system responds to small perturbations around the steady state. In contrast, parameter estimation from dynamic data requires time series measurements for all dependent variables. Almost no literature has so far discussed the combined use of both steady-state and transient data for estimating parameter values of biochemical systems. RESULTS: In this study we introduce a constrained optimization method for estimating parameter values of biochemical pathway models using steady-state information and transient measurements. The constraints are derived from the flux connectivity relationships of the system at the steady state. Two case studies demonstrate the estimation results with and without flux connectivity constraints. The unconstrained optimal estimates from dynamic data may fit the experiments well, but they do not necessarily maintain the connectivity relationships. As a consequence, individual fluxes may be misrepresented, which may cause problems in later extrapolations. By contrast, the constrained estimation accounting for flux connectivity information reduces this misrepresentation and thereby yields improved model parameters. CONCLUSION: The method combines transient metabolic profiles and steady-state information and leads to the formulation of an inverse parameter estimation task as a constrained optimization problem. Parameter estimation and model selection are simultaneously carried out on the constrained optimization problem and yield realistic model parameters that are more likely to hold up in extrapolations with the model.
+
+-Algorithms
+-Aspartic Acid (-metabolism)
++Biochemical Processes
+-Computer Simulation
+-Databases, Factual
+-Escherichia coli (-physiology)
+-Escherichia coli Proteins (-metabolism)
+-Feedback, Physiological (+physiology)
++Models, Biological
++Models, Statistical
+-Reproducibility of Results
+-Threonine (-metabolism)
+
+pii:1471-2105-10-140
+doi:10.1186/1471-2105-10-140
+pubmed:19432964
+pmc:PMC2694188
+

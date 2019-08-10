@@ -1,0 +1,27 @@
+Immunity
+
+The kinase Akt1 controls macrophage response to lipopolysaccharide by regulating microRNAs.
+
+A Androulidaki, D Iliopoulos, A Arranz, C Doxaki, S Schworer, V Zacharioudaki, AN Margioris, PN Tsichlis, C Tsatsanis
+
+MicroRNAs regulated by lipopolysaccharide (LPS) target genes that contribute to the inflammatory phenotype. Here, we showed that the protein kinase Akt1, which is activated by LPS, positively regulated miRNAs let-7e and miR-181c but negatively regulated miR-155 and miR-125b. In silico analyses and transfection studies revealed that let-7e repressed Toll-like receptor 4 (TLR4), whereas miR-155 repressed SOCS1, two proteins critical for LPS-driven TLR signaling, which regulate endotoxin sensitivity and tolerance. As a result, Akt1(-/-) macrophages exhibited increased responsiveness to LPS in culture and Akt1(-/-) mice did not develop endotoxin tolerance in vivo. Overexpression of let-7e and suppression of miR-155 in Akt1(-/-) macrophages restored sensitivity and tolerance to LPS in culture and in animals. These results indicate that Akt1 regulates the response of macrophages to LPS by controlling miRNA expression.
+
+-Animals
+-Cell Line
+-Immune Tolerance (-immunology)
+-Lipopolysaccharides (+immunology)
+-Macrophages (-enzymology; +immunology)
+-Mice
+-Mice, Inbred C57BL
+-Mice, Knockout
+-MicroRNAs (+biosynthesis; -genetics)
+-Proto-Oncogene Proteins c-akt (-genetics; +metabolism)
+-Suppressor of Cytokine Signaling Proteins (-immunology; +metabolism)
+-Toll-Like Receptor 4 (-immunology; +metabolism)
+
+pii:S1074-7613(09)00328-8
+doi:10.1016/j.immuni.2009.06.024
+pubmed:19699171
+mid:NIHMS143752
+pmc:PMC2865583
+

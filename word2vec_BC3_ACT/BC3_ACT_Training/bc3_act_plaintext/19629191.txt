@@ -1,0 +1,17 @@
+PLoS ONE
+
+Layered functional network analysis of gene expression in human heart failure.
+
+W Zhu, L Yang, Z Du
+
+BACKGROUND: Although dilated cardiomyopathy (DCM) is a leading cause of heart failure (HF), the mechanism underlying DCM is not well understood. Previously, it has been demonstrated that an integrative analysis of gene expression and protein-protein interaction (PPI) networks can provide insights into the molecular mechanisms of various diseases. In this study we develop a systems approach by linking public available gene expression data on ischemic dilated cardiomyopathy (ICM), a main pathological form of DCM, with data from a layered PPI network. We propose that the use of a layered PPI network, as opposed to a traditional PPI network, provides unique insights into the mechanism of DCM. METHODS: Four Cytoscape plugins including BionetBuilder, NetworkAnalyzer, Cerebral and GenePro were used to establish the layered PPI network, which was based upon validated subcellular protein localization data retrieved from the HRPD and Entrez Gene databases. The DAVID function annotation clustering tool was used for gene ontology (GO) analysis. RESULTS: The assembled layered PPI network was divided into four layers: extracellular, plasma membrane, cytoplasm and nucleus. The characteristics of the gene expression pattern of the four layers were compared. In the extracellular and plasma membrane layers, there were more proteins encoded by down-regulated genes than by up-regulated genes, but in the other two layers, the opposite trend was found. GO analysis established that proteins encoded by up-regulated genes, reflecting significantly over-represented biological processes, were mainly located in the nucleus and cytoplasm layers, while proteins encoded by down-regulated genes were mainly located in the extracellular and plasma membrane layers. The PPI network analysis revealed that the Janus family tyrosine kinase-signal transducer and activator of transcription (Jak-STAT) signaling pathway might play an important role in the development of ICM and could be exploited as a therapeutic target of ICM. In addition, glycogen synthase kinase 3 beta (GSK3B) may also be a potential candidate target, but more evidence is required. CONCLUSION: This study illustrated that by incorporating subcellular localization information into a PPI network based analysis, one can derive greater insights into the mechanisms underlying ICM.
+
++Gene Expression Profiling
+-Heart Failure (+genetics)
+-Humans
+-Oligonucleotide Array Sequence Analysis
+
+doi:10.1371/journal.pone.0006288
+pubmed:19629191
+pmc:PMC2712681
+

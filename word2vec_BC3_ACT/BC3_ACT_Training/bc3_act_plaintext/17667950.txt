@@ -1,0 +1,23 @@
+Mol. Syst. Biol.
+
+The protein network of bacterial motility.
+
+SV Rajagopala, B Titz, J Goll, JR Parrish, K Wohlbold, MT McKevitt, T Palzkill, H Mori, RL Finley, P Uetz
+
+Motility is achieved in most bacterial species by the flagellar apparatus. It consists of dozens of different proteins with thousands of individual subunits. The published literature about bacterial chemotaxis and flagella documented 51 protein-protein interactions (PPIs) so far. We have screened whole genome two-hybrid arrays of Treponema pallidum and Campylobacter jejuni for PPIs involving known flagellar proteins and recovered 176 and 140 high-confidence interactions involving 110 and 133 proteins, respectively. To explore the biological relevance of these interactions, we tested an Escherichia coli gene deletion array for motility defects (using swarming assays) and found 159 gene deletion strains to have reduced or no motility. Comparing our interaction data with motility phenotypes from E. coli, Bacillus subtilis, and Helicobacter pylori, we found 23 hitherto uncharacterized proteins involved in motility. Integration of phylogenetic information with our interaction and phenotyping data reveals a conserved core of motility proteins, which appear to have recruited many additional species-specific components over time. Our interaction data also predict 18,110 interactions for 64 flagellated bacteria.
+
+-Bacillus subtilis (-cytology; -genetics; -physiology)
++Bacterial Physiological Phenomena
+-Bacterial Proteins (-genetics; +metabolism)
+-Escherichia coli (-cytology; -genetics; -physiology)
+-Flagella (-metabolism)
+-Genes, Bacterial
+-Helicobacter pylori (-cytology; -genetics; -physiology)
++Movement
+-Protein Binding
+
+pii:msb4100166
+doi:10.1038/msb4100166
+pubmed:17667950
+pmc:PMC1943423
+

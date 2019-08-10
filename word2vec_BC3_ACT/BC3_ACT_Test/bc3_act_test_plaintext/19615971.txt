@@ -1,0 +1,28 @@
+Biochem. Biophys. Res. Commun.
+
+Carbachol induces p70S6K1 activation through an ERK-dependent but Akt-independent pathway in human colonic epithelial cells.
+
+X Jiang, J Sinnett-Smith, E Rozengurt
+
+Stimulation of human colonic epithelial T84 cells with the muscarinic receptor agonist carbachol, a stable analog of acetylcholine, induced Akt, p70S6K1 and ERK activation. Treatment of T84 cells with the selective inhibitor of EGF receptor (EGFR) tyrosine kinase AG1478 abrogated Akt phosphorylation on Ser(473) induced by either carbachol or EGF, indicating that carbachol-induced Akt activation is mediated through EGFR transactivation. Surprisingly, AG1478 did not suppress p70S6K1 phosphorylation on Thr(389) in response to carbachol, indicating the G protein-coupled receptor (GPCR) stimulation induces p70S6K1 activation, at least in part, via an Akt-independent pathway. In contrast, treatment with the selective MEK inhibitor U0126 (but not with the inactive analog U0124) inhibited carbachol-induced p70S6K1 activation, indicating that the MEK/ERK/RSK pathway plays a critical role in p70S6K1 activation in GPCR-stimulated T84 cells. These findings imply that GPCR activation induces p70S6K1 via ERK rather than through the canonical PI 3-kinase/Akt/TSC/mTORC1 pathway in T84 colon carcinoma cells.
+
+-Carbachol (+pharmacology)
+-Cell Line
+-Colon (-cytology; +drug effects; -enzymology)
+-Enzyme Activation
+-Extracellular Signal-Regulated MAP Kinases (+metabolism)
+-Humans
+-Intestinal Mucosa (-drug effects; -enzymology)
+-Muscarinic Agonists (+pharmacology)
+-Phosphorylation (-drug effects)
+-Proto-Oncogene Proteins c-akt (-metabolism)
+-Receptor, Epidermal Growth Factor (-metabolism)
+-Receptors, G-Protein-Coupled (+agonists)
+-Ribosomal Protein S6 Kinases, 70-kDa (+biosynthesis)
+
+pii:S0006-291X(09)01403-X
+doi:10.1016/j.bbrc.2009.07.060
+pubmed:19615971
+mid:NIHMS133040
+pmc:PMC2754135
+

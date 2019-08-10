@@ -1,0 +1,21 @@
+Nat. Methods
+
+An empirical framework for binary interactome mapping.
+
+K Venkatesan, JF Rual, A Vazquez, U Stelzl, I Lemmens, T Hirozane-Kishikawa, T Hao, M Zenkner, X Xin, KI Goh, MA Yildirim, N Simonis, K Heinzmann, F Gebreab, JM Sahalie, S Cevik, C Simon, AS de Smet, E Dann, A Smolyar, A Vinayagam, H Yu, D Szeto, H Borick, A Dricot, N Klitgord, RR Murray, C Lin, M Lalowski, J Timm, K Rau, C Boone, P Braun, ME Cusick, FP Roth, DE Hill, J Tavernier, EE Wanker, AL Barabási, M Vidal
+
+Several attempts have been made to systematically map protein-protein interaction, or 'interactome', networks. However, it remains difficult to assess the quality and coverage of existing data sets. Here we describe a framework that uses an empirically-based approach to rigorously dissect quality parameters of currently available human interactome maps. Our results indicate that high-throughput yeast two-hybrid (HT-Y2H) interactions for human proteins are more precise than literature-curated interactions supported by a single publication, suggesting that HT-Y2H is suitable to map a significant portion of the human interactome. We estimate that the human interactome contains approximately 130,000 binary interactions, most of which remain to be mapped. Similar to estimates of DNA sequence data quality and genome size early in the Human Genome Project, estimates of protein interaction data quality and interactome size are crucial to establish the magnitude of the task of comprehensive human interactome mapping and to elucidate a path toward this goal.
+
+-Databases, Protein
+-Humans
+-Protein Binding
+-Protein Interaction Mapping (+methods)
+-Proteins (+analysis; -genetics; +metabolism)
+-Sensitivity and Specificity
+
+pii:nmeth.1280
+doi:10.1038/nmeth.1280
+pubmed:19060904
+mid:NIHMS79142
+pmc:PMC2872561
+

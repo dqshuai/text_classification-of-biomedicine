@@ -1,0 +1,24 @@
+Virology
+
+Portal control of viral prohead expansion and DNA packaging.
+
+K Ray, M Oram, J Ma, LW Black
+
+Bacteriophage T4 terminase packages DNA in vitro into empty small or large proheads (esps or elps). In vivo maturation of esps yields the more stable and voluminous elps required to contain the 170 kb T4 genome. Functional proheads can be assembled containing portal-GFP fusion proteins. In the absence of terminase activity these accumulated in esps in vivo, whereas wild-type portals were found in elps. By nuclease protection assay dsDNAs of lengths 0.1, 0.2, 0.5, 5, 11, 20, 40 or 170 kb were efficiently packaged into wild-type elps in vitro, but less so into esps and gp20-GFP elps; particularly with DNAs shorter than 11 kb. However, 0.1 kb substrates were equally efficiently packaged into all types of proheads as judged by fluorescence correlation spectroscopy. These data suggest the portal controls the expansion of the major capsid protein lattice during prohead maturation, and that this expansion is necessary for DNA protection but not for packaging.
+
+-Bacteriophage T4 (+physiology)
+-Capsid Proteins (-metabolism)
++DNA Packaging
+-DNA, Viral (-metabolism)
+-Endodeoxyribonucleases (+metabolism)
+-Green Fluorescent Proteins (-metabolism)
+-Recombinant Fusion Proteins (-metabolism)
+-Viral Proteins (+metabolism)
+-Virus Assembly
+
+pii:S0042-6822(09)00318-3
+doi:10.1016/j.virol.2009.05.029
+pubmed:19541336
+mid:NIHMS120465
+pmc:PMC2739799
+

@@ -1,0 +1,28 @@
+Mol. Cell. Biol.
+
+SOS2 promotes salt tolerance in part by interacting with the vacuolar H+-ATPase and upregulating its transport activity.
+
+G Batelli, PE Verslues, F Agius, Q Qiu, H Fujii, S Pan, KS Schumaker, S Grillo, JK Zhu
+
+The salt overly sensitive (SOS) pathway is critical for plant salt stress tolerance and has a key role in regulating ion transport under salt stress. To further investigate salt tolerance factors regulated by the SOS pathway, we expressed an N-terminal fusion of the improved tandem affinity purification tag to SOS2 (NTAP-SOS2) in sos2-2 mutant plants. Expression of NTAP-SOS2 rescued the salt tolerance defect of sos2-2 plants, indicating that the fusion protein was functional in vivo. Tandem affinity purification of NTAP-SOS2-containing protein complexes and subsequent liquid chromatography-tandem mass spectrometry analysis indicated that subunits A, B, C, E, and G of the peripheral cytoplasmic domain of the vacuolar H+-ATPase (V-ATPase) were present in a SOS2-containing protein complex. Parallel purification of samples from control and salt-stressed NTAP-SOS2/sos2-2 plants demonstrated that each of these V-ATPase subunits was more abundant in NTAP-SOS2 complexes isolated from salt-stressed plants, suggesting that the interaction may be enhanced by salt stress. Yeast two-hybrid analysis showed that SOS2 interacted directly with V-ATPase regulatory subunits B1 and B2. The importance of the SOS2 interaction with the V-ATPase was shown at the cellular level by reduced H+ transport activity of tonoplast vesicles isolated from sos2-2 cells relative to vesicles from wild-type cells. In addition, seedlings of the det3 mutant, which has reduced V-ATPase activity, were found to be severely salt sensitive. Our results suggest that regulation of V-ATPase activity is an additional key function of SOS2 in coordinating changes in ion transport during salt stress and in promoting salt tolerance.
+
+-Arabidopsis (-anatomy & histology; +physiology)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Biological Transport (-physiology)
++Dehydration
+-Genotype
+-Phenotype
+-Plants, Genetically Modified
+-Protein Isoforms (-genetics; -metabolism)
+-Protein Subunits (-genetics; +metabolism)
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Salts (+metabolism)
+-Two-Hybrid System Techniques
+-Vacuolar Proton-Translocating ATPases (-genetics; +metabolism)
+
+pii:MCB.00430-07
+doi:10.1128/MCB.00430-07
+pubmed:17875927
+pmc:PMC2169139
+

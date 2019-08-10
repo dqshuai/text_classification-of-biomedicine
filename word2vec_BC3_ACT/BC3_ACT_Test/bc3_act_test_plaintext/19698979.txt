@@ -1,0 +1,27 @@
+Cell
+
+Genome-wide mapping of HATs and HDACs reveals distinct functions in active and inactive genes.
+
+Z Wang, C Zang, K Cui, DE Schones, A Barski, W Peng, K Zhao
+
+Histone acetyltransferases (HATs) and deacetylases (HDACs) function antagonistically to control histone acetylation. As acetylation is a histone mark for active transcription, HATs have been associated with active and HDACs with inactive genes. We describe here genome-wide mapping of HATs and HDACs binding on chromatin and find that both are found at active genes with acetylated histones. Our data provide evidence that HATs and HDACs are both targeted to transcribed regions of active genes by phosphorylated RNA Pol II. Furthermore, the majority of HDACs in the human genome function to reset chromatin by removing acetylation at active genes. Inactive genes that are primed by MLL-mediated histone H3K4 methylation are subject to a dynamic cycle of acetylation and deacetylation by transient HAT/HDAC binding, preventing Pol II from binding to these genes but poising them for future activation. Silent genes without any H3K4 methylation signal show no evidence of being bound by HDACs.
+
+-Acetylation
+-Cell Line
+-Gene Expression
+-Genome, Human
+-Histone Acetyltransferases (+genetics; -metabolism)
+-Histone Deacetylase Inhibitors
+-Histone Deacetylases (+genetics; -metabolism)
+-Histones (-metabolism)
+-Humans
+-Methylation
+-Phosphorylation
+-RNA Polymerase II (-metabolism)
+
+pii:S0092-8674(09)00841-1
+doi:10.1016/j.cell.2009.06.049
+pubmed:19698979
+mid:NIHMS130901
+pmc:PMC2750862
+

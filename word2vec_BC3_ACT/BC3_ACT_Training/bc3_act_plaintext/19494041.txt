@@ -1,0 +1,30 @@
+Mol. Biol. Cell
+
+Chromatin-dependent transcription factor accessibility rather than nucleosome remodeling predominates during global transcriptional restructuring in Saccharomyces cerevisiae.
+
+KA Zawadzki, AV Morozov, JR Broach
+
+Several well-studied promoters in yeast lose nucleosomes upon transcriptional activation and gain them upon repression, an observation that has prompted the model that transcriptional activation and repression requires nucleosome remodeling of regulated promoters. We have examined global nucleosome positioning before and after glucose-induced transcriptional reprogramming, a condition under which more than half of all yeast genes significantly change expression. The majority of induced and repressed genes exhibit no change in promoter nucleosome arrangement, although promoters that do undergo nucleosome remodeling tend to contain a TATA box. Rather, we found multiple examples where the pre-existing accessibility of putative transcription factor binding sites before glucose addition determined whether the corresponding gene would change expression in response to glucose addition. These results suggest that selection of appropriate transcription factor binding sites may be dictated to a large extent by nucleosome prepositioning but that regulation of expression through these sites is dictated not by nucleosome repositioning but by changes in transcription factor activity.
+
+-Bayes Theorem
+-Binding Sites
+-Chromatin (+genetics; -metabolism)
+-Chromatin Assembly and Disassembly
++Gene Expression Profiling
+-Gene Expression Regulation, Fungal (-drug effects)
+-Genome, Fungal (-genetics)
+-Glucose (-pharmacology)
+-Markov Chains
+-Nucleosomes (+genetics; -metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Promoter Regions, Genetic (-genetics)
+-Saccharomyces cerevisiae (+genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (+genetics; -metabolism)
+-TATA Box (-genetics)
+-Transcription Factors (+genetics; -metabolism)
+
+pii:E09-02-0111
+doi:10.1091/mbc.E09-02-0111
+pubmed:19494041
+pmc:PMC2719568
+

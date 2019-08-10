@@ -1,0 +1,25 @@
+PLoS Genet.
+
+A Multiparent Advanced Generation Inter-Cross to fine-map quantitative traits in Arabidopsis thaliana.
+
+PX Kover, W Valdar, J Trakalo, N Scarcelli, IM Ehrenreich, MD Purugganan, C Durrant, R Mott
+
+Identifying natural allelic variation that underlies quantitative trait variation remains a fundamental problem in genetics. Most studies have employed either simple synthetic populations with restricted allelic variation or performed association mapping on a sample of naturally occurring haplotypes. Both of these approaches have some limitations, therefore alternative resources for the genetic dissection of complex traits continue to be sought. Here we describe one such alternative, the Multiparent Advanced Generation Inter-Cross (MAGIC). This approach is expected to improve the precision with which QTL can be mapped, improving the outlook for QTL cloning. Here, we present the first panel of MAGIC lines developed: a set of 527 recombinant inbred lines (RILs) descended from a heterogeneous stock of 19 intermated accessions of the plant Arabidopsis thaliana. These lines and the 19 founders were genotyped with 1,260 single nucleotide polymorphisms and phenotyped for development-related traits. Analytical methods were developed to fine-map quantitative trait loci (QTL) in the MAGIC lines by reconstructing the genome of each line as a mosaic of the founders. We show by simulation that QTL explaining 10% of the phenotypic variance will be detected in most situations with an average mapping error of about 300 kb, and that if the number of lines were doubled the mapping error would be under 200 kb. We also show how the power to detect a QTL and the mapping accuracy vary, depending on QTL location. We demonstrate the utility of this new mapping population by mapping several known QTL with high precision and by finding novel QTL for germination data and bolting time. Our results provide strong support for similar ongoing efforts to produce MAGIC lines in other organisms.
+
+-Arabidopsis (+genetics)
+-Bayes Theorem
+-Chromosome Mapping (+methods)
+-Crosses, Genetic
+-Founder Effect
+-Genome-Wide Association Study
+-Linkage Disequilibrium
+-Models, Genetic
+-Phenotype
+-Plants, Genetically Modified (+genetics)
+-Polymorphism, Single Nucleotide
++Quantitative Trait Loci
+
+doi:10.1371/journal.pgen.1000551
+pubmed:19593375
+pmc:PMC2700969
+

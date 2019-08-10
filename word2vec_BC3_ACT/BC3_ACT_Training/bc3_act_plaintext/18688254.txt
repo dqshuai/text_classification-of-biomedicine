@@ -1,0 +1,29 @@
+EMBO Rep.
+
+Control of DNA polymerase lambda stability by phosphorylation and ubiquitination during the cell cycle.
+
+U Wimmer, E Ferrari, P Hunziker, U Hübscher
+
+DNA polymerase (Pol) lambda is a DNA repair enzyme involved in base excision repair, non-homologous end joining and translesion synthesis. Recently, we identified Pol lambda as an interaction partner of cyclin-dependent kinase 2 (CDK2) that is central to the cell cycle G1/S transition and S-phase progression. This interaction leads to in vitro phosphorylation of Pol lambda, and its in vivo phosphorylation pattern during cell cycle progression mimics the modulation of CDK2/cyclin A. Here, we identify several phosphorylation sites of Pol lambda. Experiments with phosphorylation-defective mutants suggest that phosphorylation of Thr 553 is important for maintaining Pol lambda stability, as it is targeted to the proteasomal degradation pathway through ubiquitination unless this residue is phosphorylated. In particular, Pol lambda is stabilized during cell cycle progression in the late S and G2 phases. This most likely allows Pol lambda to correctly conduct repair of damaged DNA during and after S phase.
+
+-Animals
+-Cell Cycle (+physiology)
+-Cell Line
+-Cell Line, Transformed
+-Cell Line, Tumor
+-DNA Polymerase beta (+metabolism)
+-Enzyme Stability (-physiology)
+-G2 Phase (-physiology)
+-Humans
+-Mice
+-Mice, Knockout
+-Phosphorylation (-physiology)
+-S Phase (-physiology)
+-Ubiquitin (+metabolism)
+-Ubiquitination (+physiology)
+
+pii:embor2008148
+doi:10.1038/embor.2008.148
+pubmed:18688254
+pmc:PMC2572118
+

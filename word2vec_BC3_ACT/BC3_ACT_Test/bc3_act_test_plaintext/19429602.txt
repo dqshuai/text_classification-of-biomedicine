@@ -1,0 +1,25 @@
+Plant Physiol.
+
+A visual reporter system for virus-induced gene silencing in tomato fruit based on anthocyanin accumulation.
+
+D Orzaez, A Medina, S Torre, JP Fernández-Moreno, JL Rambla, A Fernández-Del-Carmen, E Butelli, C Martin, A Granell
+
+Virus-induced gene silencing (VIGS) is a powerful tool for reverse genetics in tomato (Solanum lycopersicum). However, the irregular distribution of the effects of VIGS hampers the identification and quantification of nonvisual phenotypes. To overcome this limitation, a visually traceable VIGS system was developed for fruit, comprising two elements: (1) a transgenic tomato line (Del/Ros1) expressing Antirrhinum majus Delila and Rosea1 transcription factors under the control of the fruit-specific E8 promoter, showing a purple-fruited, anthocyanin-rich phenotype; and (2) a modified tobacco rattle virus VIGS vector incorporating partial Rosea1 and Delila sequences, which was shown to restore the red-fruited phenotype upon agroinjection in Del/Ros1 plants. Dissection of silenced areas for subsequent chemometric analysis successfully identified the relevant metabolites underlying gene function for three tomato genes, phytoene desaturase, TomloxC, and SlODO1, used for proof of concept. The C-6 aldehydes derived from lipid 13-hydroperoxidation were found to be the volatile compounds most severely affected by TomloxC silencing, whereas geranial and 6-methyl-5-hepten-2-one were identified as the volatiles most severely reduced by phytoene desaturase silencing in ripening fruit. In a third example, silencing of SlODO1, a tomato homolog of the ODORANT1 gene encoding a myb transcription factor, which regulates benzenoid metabolism in petunia (Petunia hybrida) flowers, resulted in a sharp accumulation of benzaldehyde in tomato fruit. Together, these results indicate that fruit VIGS, enhanced by anthocyanin monitoring, can be a powerful tool for reverse genetics in the study of the metabolic networks operating during fruit ripening.
+
+-Anthocyanins (+metabolism)
+-Carotenoids (-metabolism)
+-Fruit (+genetics; -metabolism; -virology)
++Gene Silencing
++Genes, Reporter
+-Genetic Markers
+-Lycopersicon esculentum (+genetics; -metabolism; -virology)
+-Oxidoreductases (-genetics; -metabolism; -physiology)
+-Phenotype
+-Plant Proteins (+genetics; -metabolism; -physiology)
+-Plants, Genetically Modified (-metabolism; -virology)
+
+pii:pp.109.139006
+doi:10.1104/pp.109.139006
+pubmed:19429602
+pmc:PMC2705029
+

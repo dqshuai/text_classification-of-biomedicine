@@ -1,0 +1,27 @@
+J. Mol. Biol.
+
+The influence of monovalent cation size on the stability of RNA tertiary structures.
+
+D Lambert, D Leipply, R Shiman, DE Draper
+
+Many RNA tertiary structures are stable in the presence of monovalent ions alone. To evaluate the degree to which ions at or near the surfaces of such RNAs contribute to stability, the salt-dependent stability of a variety of RNA structures was measured with each of the five group I cations. The stability of hairpin secondary structures and a pseudoknot tertiary structure are insensitive to the ion identity, but the tertiary structures of two other RNAs, an adenine riboswitch and a kissing loop complex, become more stable by 2-3 kcal/mol as ion size decreases. This "default" trend is attributed to the ability of smaller ions to approach the RNA surface more closely. The degree of cation accumulation around the kissing loop complex was also inversely proportional to ion radius, perhaps because of the presence of sterically restricted pockets that can be accessed only by smaller ions. An RNA containing the tetraloop-receptor motif shows a strong (up to approximately 3 kcal/mol) preference for Na(+) or K(+) over other group I ions, consistent with the chelation of K(+) by this motif in some crystal structures. This RNA reverts to the default dependence on ion size when a base forming part of the chelation site is mutated. Lastly, an RNA aptamer for cobinamide, which was originally selected in the presence of high concentrations of LiCl, binds ligand more strongly in the presence of Li(+) than other monovalent ions. On the basis of these trends in RNA stability with group I ion size, it is argued that two features of RNA tertiary structures may promote strong interactions with ions at or near the RNA surface: negative charge densities that are higher than that in secondary structures, and the occasional presence of chelation sites, which are electronegative pockets that selectively bind ions of an optimum size.
+
+-Ammonia (-chemistry)
+-Aptamers, Nucleotide (-chemistry)
+-Base Sequence
+-Cations, Monovalent (-chemistry)
+-Metals, Alkali (+chemistry)
+-Models, Molecular
+-Molecular Sequence Data
++Nucleic Acid Conformation
+-RNA (+chemistry)
+-RNA Stability
+-Thermodynamics
+-Vitamin B 12 (-chemistry)
+
+pii:S0022-2836(09)00549-X
+doi:10.1016/j.jmb.2009.04.083
+pubmed:19427322
+mid:NIHMS116555
+pmc:PMC2712228
+

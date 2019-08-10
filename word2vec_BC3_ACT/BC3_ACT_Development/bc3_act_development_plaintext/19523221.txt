@@ -1,0 +1,21 @@
+BMC Bioinformatics
+
+Seq4SNPs: new software for retrieval of multiple, accurately annotated DNA sequences, ready formatted for SNP assay design.
+
+HI Field, SA Scollen, C Luccarini, C Baynes, J Morrison, AM Dunning, DF Easton, PD Pharoah
+
+BACKGROUND: In moderate-throughput SNP genotyping there was a gap in the workflow, between choosing a set of SNPs and submitting their sequences to proprietary assay design software, which was not met by existing software. Retrieval and formatting of sequences flanking each SNP, prior to assay design, becomes rate-limiting for more than about ten SNPs, especially if annotated for repetitive regions and adjacent variations. We routinely process up to 50 SNPs at once. IMPLEMENTATION: We created Seq4SNPs, a web-based, walk-away software that can process one to several hundred SNPs given rs numbers as input. It outputs a file of fully annotated sequences formatted for one of three proprietary design softwares: TaqMan's Primer-By-Design FileBuilder, Sequenom's iPLEX or SNPstream's Autoprimer, as well as unannotated fasta sequences. We found genotyping assays to be inhibited by repetitive sequences or the presence of additional variations flanking the SNP under test, and in multiplexes, repetitive sequence flanking one SNP adversely affects multiple assays. Assay design software programs avoid such regions if the input sequences are appropriately annotated, so we used Seq4SNPs to provide suitably annotated input sequences, and improved our genotyping success rate. Adjacent SNPs can also be avoided, by annotating sequences used as input for primer design. CONCLUSION: The accuracy of annotation by Seq4SNPs is significantly better than manual annotation (P < 1e-5).Using Seq4SNPs to incorporate all annotation for additional SNPs and repetitive elements into sequences, for genotyping assay designer software, minimizes assay failure at the design stage, reducing the cost of genotyping. Seq4SNPs provides a rapid route for replacement of poor test SNP sequences. We routinely use this software for assay sequence preparation. Seq4SNPs is available as a service at (http://moya.srl.cam.ac.uk/oncology/bio/s4shome.html) and (http://moya.srl.cam.ac.uk/cgi-bin/oncology/srl/ncbi/seq4snp1.pl), currently for human SNPs, but easily extended to include any species in dbSNP.
+
+-Base Sequence
+-Computational Biology (+methods)
+-Databases, Genetic
+-Genotype
++Polymorphism, Single Nucleotide
+-Sequence Analysis, DNA (+methods)
++Software
+
+pii:1471-2105-10-180
+doi:10.1186/1471-2105-10-180
+pubmed:19523221
+pmc:PMC2711078
+

@@ -1,0 +1,25 @@
+J. Bacteriol.
+
+LytM-domain factors are required for daughter cell separation and rapid ampicillin-induced lysis in Escherichia coli.
+
+T Uehara, T Dinh, TG Bernhardt
+
+Bacterial cytokinesis is coupled to the localized synthesis of new peptidoglycan (PG) at the division site. This newly generated septal PG is initially shared by the daughter cells. In Escherichia coli and other gram-negative bacteria, it is split shortly after it is made to promote daughter cell separation and allow outer membrane constriction to closely follow that of the inner membrane. We have discovered that the LytM (lysostaphin)-domain containing factors of E. coli (EnvC, NlpD, YgeR, and YebA) are absolutely required for septal PG splitting and daughter cell separation. Mutants lacking all LytM factors form long cell chains with septa containing a layer of unsplit PG. Consistent with these factors playing a direct role in septal PG splitting, both EnvC-mCherry and NlpD-mCherry fusions were found to be specifically recruited to the division site. We also uncovered a role for the LytM-domain factors in the process of beta-lactam-induced cell lysis. Compared to wild-type cells, mutants lacking LytM-domain factors were delayed in the onset of cell lysis after treatment with ampicillin. Moreover, rather than lysing from midcell lesions like wild-type cells, LytM(-) cells appeared to lyse through a gradual loss of cell shape and integrity. Overall, the phenotypes of mutants lacking LytM-domain factors bear a striking resemblance to those of mutants defective for the N-acetylmuramyl-l-alanine amidases: AmiA, AmiB, and AmiC. E. coli thus appears to rely on two distinct sets of putative PG hydrolases to promote proper cell division.
+
+-Ampicillin (+pharmacology)
+-Anti-Bacterial Agents (+pharmacology)
+-Cell Division (+drug effects; -genetics)
+-Escherichia coli (+drug effects; -genetics; -metabolism; +physiology)
+-Escherichia coli Proteins (-genetics; +metabolism; -physiology)
+-Lipoproteins (-genetics; -metabolism; -physiology)
+-Methyltransferases (-genetics; -metabolism; -physiology)
+-Microscopy, Electron, Transmission
+-Microscopy, Fluorescence
+-Multidrug Resistance-Associated Proteins (-genetics; -metabolism; -physiology)
+-Protein Structure, Tertiary (-genetics; -physiology)
+
+pii:JB.00505-09
+doi:10.1128/JB.00505-09
+pubmed:19525345
+pmc:PMC2725582
+

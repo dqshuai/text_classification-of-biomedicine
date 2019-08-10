@@ -1,0 +1,21 @@
+Nat. Methods
+
+A 3D digital atlas of C. elegans and its application to single-cell analyses.
+
+F Long, H Peng, X Liu, SK Kim, E Myers
+
+We built a digital nuclear atlas of the newly hatched, first larval stage (L1) of the wild-type hermaphrodite of Caenorhabditis elegans at single-cell resolution from confocal image stacks of 15 individual worms. The atlas quantifies the stereotypy of nuclear locations and provides other statistics on the spatial patterns of the 357 nuclei that could be faithfully segmented and annotated out of the 558 present at this developmental stage. We then developed an automated approach to assign cell names to each nucleus in a three-dimensional image of an L1 worm. We achieved 86% accuracy in identifying the 357 nuclei automatically. This computational method will allow high-throughput single-cell analyses of the post-embryonic worm, such as gene expression analysis, or ablation or stimulation of cells under computer control in a high-throughput functional screen.
+
+-Animals
+-Automatic Data Processing (+methods)
+-Caenorhabditis elegans (+cytology)
+-Cell Lineage
+-Cell Nucleus
+-Models, Biological
+
+pii:nmeth.1366
+doi:10.1038/nmeth.1366
+pubmed:19684595
+mid:HHMIMS134260
+pmc:PMC2882208
+

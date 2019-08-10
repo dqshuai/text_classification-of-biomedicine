@@ -1,0 +1,26 @@
+J. Mol. Biol.
+
+SmpB contributes to reading frame selection in the translation of transfer-messenger RNA.
+
+T Watts, D Cazier, D Healey, A Buskirk
+
+Transfer-messenger RNA (tmRNA) acts first as a tRNA and then as an mRNA template to rescue stalled ribosomes in eubacteria. Together with its protein partner, SmpB (small protein B), tmRNA enters stalled ribosomes and transfers an Ala residue to the growing polypeptide chain. A remarkable step then occurs: the ribosome leaves the stalled mRNA and resumes translation using tmRNA as a template, adding a short peptide tag that destines the aborted protein for destruction. Exactly how the ribosome switches templates, resuming translation on tmRNA in the proper reading frame, remains unknown. Within the tmRNA sequence itself, five nucleotides (U85AGUC) immediately upstream of the first codon appear to direct frame selection. In particular, mutation of the conserved A86 results in severe loss of function both in vitro and in vivo. The A86C mutation causes translation to resume exclusively in the +1 frame. Several candidate binding partners for this upstream sequence have been identified in vitro. Using a genetic selection for tmRNA activity in Escherichia coli, we identified mutations in the SmpB protein that restore the function of A86C tmRNA in vivo. The SmpB mutants increase tagging in the normal reading frame and reduce tagging in the +1 frame. These results demonstrate that SmpB is functionally linked with the sequence upstream of the tmRNA template; both contribute to reading frame selection on tmRNA.
+
+-Amino Acid Sequence
+-Base Sequence
+-Escherichia coli (-genetics; +metabolism)
+-Molecular Sequence Data
+-Mutation
+-Nucleic Acid Conformation
+-Open Reading Frames
++Protein Biosynthesis
+-Protein Conformation
+-RNA, Bacterial (-chemistry; +metabolism)
+-RNA-Binding Proteins (-chemistry; -genetics; +metabolism)
+
+pii:S0022-2836(09)00757-8
+doi:10.1016/j.jmb.2009.06.037
+pubmed:19540849
+mid:NIHMS125410
+pmc:PMC2720073
+

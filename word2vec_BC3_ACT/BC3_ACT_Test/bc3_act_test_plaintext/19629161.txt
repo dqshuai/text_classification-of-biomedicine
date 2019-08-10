@@ -1,0 +1,25 @@
+PLoS Comput. Biol.
+
+Stem cell proliferation and quiescence--two sides of the same coin.
+
+I Glauche, K Moore, L Thielecke, K Horn, M Loeffler, I Roeder
+
+The kinetics of label uptake and dilution in dividing stem cells, e.g., using Bromodeoxyuridine (BrdU) as a labeling substance, are a common way to assess the cellular turnover of all hematopoietic stem cells (HSCs) in vivo. The assumption that HSCs form a homogeneous population of cells which regularly undergo cell division has recently been challenged by new experimental results. For a consistent functional explanation of heterogeneity among HSCs, we propose a concept in which stem cells flexibly and reversibly adapt their cycling state according to systemic needs. Applying a mathematical model analysis, we demonstrate that different experimentally observed label dilution kinetics are consistently explained by the proposed model. The dynamically stabilized equilibrium between quiescent and activated cells leads to a biphasic label dilution kinetic in which an initial and pronounced decline of label retaining cells is attributed to faster turnover of activated cells, whereas a secondary, decelerated decline results from the slow turnover of quiescent cells. These results, which support our previous model prediction of a reversible activation/deactivation of HSCs, are also consistent with recent findings that use GFP-conjugated histones as a label instead of BrdU. Based on our findings we interpret HSC organization as an adaptive and regulated process in which the slow activation of quiescent cells and their possible return into quiescence after division are sufficient to explain the simultaneous occurrence of self-renewal and differentiation. Furthermore, we suggest an experimental strategy which is suited to demonstrate that the repopulation ability among the population of label retaining cells changes during the course of dilution.
+
+-Animals
+-Bromodeoxyuridine (-metabolism)
+-Cell Communication (-physiology)
+-Cell Cycle (-physiology)
+-Cell Growth Processes (-physiology)
+-Computer Simulation
+-G0 Phase (-physiology)
+-Hematopoietic Stem Cells (+cytology)
+-Humans
+-Least-Squares Analysis
++Models, Biological
+-Systems Biology (+methods)
+
+doi:10.1371/journal.pcbi.1000447
+pubmed:19629161
+pmc:PMC2704962
+

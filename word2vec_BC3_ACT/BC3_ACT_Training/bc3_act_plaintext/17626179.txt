@@ -1,0 +1,25 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+The receptor-like kinase SERK3/BAK1 is a central regulator of innate immunity in plants.
+
+A Heese, DR Hann, S Gimenez-Ibanez, AM Jones, K He, J Li, JI Schroeder, SC Peck, JP Rathjen
+
+In pathogen-associated molecular pattern (PAMP)-triggered immunity (PTI), plant cell surface receptors sense potential microbial pathogens by recognizing elicitors called PAMPs. Although diverse PAMPs trigger PTI through distinct receptors, the resulting intracellular responses overlap extensively. Despite this, a common component(s) linking signal perception with transduction remains unknown. In this study, we identify SOMATIC EMBRYOGENESIS RECEPTOR KINASE (SERK)3/brassinosteroid-associated kinase (BAK)1, a receptor-like kinase previously implicated in hormone signaling, as a component of plant PTI. In Arabidopsis thaliana, AtSERK3/BAK1 rapidly enters an elicitor-dependent complex with FLAGELLIN SENSING 2 (FLS2), the receptor for the bacterial PAMP flagellin and its peptide derivative flg22. In the absence of AtSERK3/BAK1, early flg22-dependent responses are greatly reduced in both A. thaliana and Nicotiana benthamiana. Furthermore, N. benthamiana Serk3/Bak1 is required for full responses to unrelated PAMPs and, importantly, for restriction of bacterial and oomycete infections. Thus, SERK3/BAK1 appears to integrate diverse perception events into downstream PAMP responses, leading to immunity against a range of invading microbes.
+
+-Arabidopsis (-drug effects; +enzymology; +immunology)
+-Arabidopsis Proteins (+metabolism)
+-Flagellin (-pharmacology)
++Immunity, Innate
+-Molecular Sequence Data
+-Peptides (-pharmacology)
+-Protein Binding (-drug effects)
+-Protein Kinases (-metabolism)
+-Protein-Serine-Threonine Kinases (+metabolism)
+-Receptors, Pattern Recognition (-metabolism)
+-Tobacco (-drug effects; -enzymology; -immunology; -microbiology)
+
+pii:0705306104
+doi:10.1073/pnas.0705306104
+pubmed:17626179
+pmc:PMC1924592
+

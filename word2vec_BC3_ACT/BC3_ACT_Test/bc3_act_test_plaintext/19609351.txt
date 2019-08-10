@@ -1,0 +1,20 @@
+PLoS Genet.
+
+A strand-specific RNA-Seq analysis of the transcriptome of the typhoid bacillus Salmonella typhi.
+
+TT Perkins, RA Kingsley, MC Fookes, PP Gardner, KD James, L Yu, SA Assefa, M He, NJ Croucher, DJ Pickard, DJ Maskell, J Parkhill, J Choudhary, NR Thomson, G Dougan
+
+High-density, strand-specific cDNA sequencing (ssRNA-seq) was used to analyze the transcriptome of Salmonella enterica serovar Typhi (S. Typhi). By mapping sequence data to the entire S. Typhi genome, we analyzed the transcriptome in a strand-specific manner and further defined transcribed regions encoded within prophages, pseudogenes, previously un-annotated, and 3'- or 5'-untranslated regions (UTR). An additional 40 novel candidate non-coding RNAs were identified beyond those previously annotated. Proteomic analysis was combined with transcriptome data to confirm and refine the annotation of a number of hpothetical genes. ssRNA-seq was also combined with microarray and proteome analysis to further define the S. Typhi OmpR regulon and identify novel OmpR regulated transcripts. Thus, ssRNA-seq provides a novel and powerful approach to the characterization of the bacterial transcriptome.
+
+-Bacterial Proteins (-analysis)
+-DNA, Complementary
+-Gene Expression Profiling
+-Proteomics
+-RNA, Bacterial (-analysis; -genetics)
+-Salmonella typhi (+genetics)
+-Sequence Analysis, RNA
+
+doi:10.1371/journal.pgen.1000569
+pubmed:19609351
+pmc:PMC2704369
+

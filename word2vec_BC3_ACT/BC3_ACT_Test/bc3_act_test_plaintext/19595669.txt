@@ -1,0 +1,24 @@
+Biochem. Biophys. Res. Commun.
+
+Aspirin induces apoptosis through the blockade of IL-6-STAT3 signaling pathway in human glioblastoma A172 cells.
+
+SR Kim, MK Bae, JY Kim, HJ Wee, MA Yoo, SK Bae
+
+Aspirin has been reported to induce apoptosis in various cancer cell lines. However, the apoptotic effects of aspirin on human brain tumor cells are not well understood. Here, we have assessed the effect of aspirin on human gliobalstoma cell line A172 and found that aspirin induced the apoptosis of A172 cells, as determined by TUNEL assay, FACS analysis, and Hoechst staining. The underlying mechanism of this effect consists of reduction in the level of phosphorylated STAT3 (Tyr705), a transcription factor required for survival of A172 cells. Moreover, the expression of STAT3 target genes such as Cyclin D1, XIAP, and Bcl-2 that are essential for cell growth and survival was apparently attenuated after aspirin treatment. We also showed that the expression and secretion of interleukin-6 (IL-6), leading to STAT3 phosphorylation, was inhibited by aspirin. When administered exogenous IL-6 to aspirin-treated A172 cells, the phosphorylation of STAT3 and cellular apoptosis were restrained compared to aspirin only-treated cells. Taken together, our results indicate that aspirin causes apoptosis via down-regulation of IL-6-dependent STAT3 signaling, suggesting that aspirin could be therapeutically useful for a potential anti-glioblastoma therapeutic approach.
+
+-Antineoplastic Agents (-antagonists & inhibitors; +pharmacology)
++Apoptosis
+-Aspirin (-antagonists & inhibitors; +pharmacology)
+-Cell Line, Tumor
+-Glioblastoma (+metabolism)
+-Humans
+-Interleukin-6 (+antagonists & inhibitors; -pharmacology)
+-Phosphorylation (-drug effects)
+-STAT3 Transcription Factor (+antagonists & inhibitors)
+-Signal Transduction (-drug effects)
+-Tyrosine (-metabolism)
+
+pii:S0006-291X(09)01355-2
+doi:10.1016/j.bbrc.2009.07.022
+pubmed:19595669
+

@@ -1,0 +1,28 @@
+PLoS ONE
+
+Custom design and analysis of high-density oligonucleotide bacterial tiling microarrays.
+
+GO Thomassen, AD Rowe, K Lagesen, JM Lindvall, T Rognes
+
+BACKGROUND: High-density tiling microarrays are a powerful tool for the characterization of complete genomes. The two major computational challenges associated with custom-made arrays are design and analysis. Firstly, several genome dependent variables, such as the genome's complexity and sequence composition, need to be considered in the design to ensure a high quality microarray. Secondly, since tiling projects today very often exceed the limits of conventional array-experiments, researchers cannot use established computer tools designed for commercial arrays, and instead have to redesign previous methods or create novel tools. PRINCIPAL FINDINGS: Here we describe the multiple aspects involved in the design of tiling arrays for transcriptome analysis and detail the normalisation and analysis procedures for such microarrays. We introduce a novel design method to make two 280,000 feature microarrays covering the entire genome of the bacterial species Escherichia coli and Neisseria meningitidis, respectively, as well as the use of multiple copies of control probe-sets on tiling microarrays. Furthermore, a novel normalisation and background estimation procedure for tiling arrays is presented along with a method for array analysis focused on detection of short transcripts. The design, normalisation and analysis methods have been applied in various experiments and several of the detected novel short transcripts have been biologically confirmed by Northern blot tests. CONCLUSIONS: Tiling-arrays are becoming increasingly applicable in genomic research, but researchers still lack both the tools for custom design of arrays, as well as the systems and procedures for analysis of the vast amount of data resulting from such experiments. We believe that the methods described herein will be a useful contribution and resource for researchers designing and analysing custom tiling arrays for both bacteria and higher organisms.
+
+-Algorithms
+-Chromosome Mapping (-methods)
+-Computational Biology
+-DNA Probes
+-Escherichia coli (-genetics)
+-Gene Expression Profiling (-methods)
+-Genes, Bacterial
+-Genetic Techniques
++Genome, Bacterial
+-Models, Genetic
+-Neisseria meningitidis (-genetics)
+-Oligonucleotides (-chemistry)
+-Sequence Analysis, DNA (-methods)
+-Signal Processing, Computer-Assisted
+-Software
+
+doi:10.1371/journal.pone.0005943
+pubmed:19536279
+pmc:PMC2691959
+

@@ -1,0 +1,29 @@
+Nat. Struct. Mol. Biol.
+
+Fast ribozyme cleavage releases transcripts from RNA polymerase II and aborts co-transcriptional pre-mRNA processing.
+
+N Fong, M Ohman, DL Bentley
+
+We investigated whether a continuous transcript is necessary for co-transcriptional pre-mRNA processing. Cutting an intron with the fast-cleaving hepatitis delta ribozyme, but not the slower hammerhead, inhibited splicing. Therefore, exon tethering to RNA polymerase II (Pol II) cannot rescue splicing of a transcript severed by a ribozyme that cleaves rapidly relative to the rate of splicing. Ribozyme cutting also released cap-binding complex (CBC) from the gene, suggesting that exon 1 is not tethered. Unexpectedly, cutting within exons inhibited splicing of distal introns, where exon definition is not affected, probably owing to disruption of the interactions with the CBC and the Pol II C-terminal domain that facilitate splicing. Ribozyme cutting within the mRNA also inhibited 3' processing and transcription termination. We propose that damaging the nascent transcript aborts pre-mRNA processing and that this mechanism may help to prevent association of processing factors with Pol II that is not productively engaged in transcription.
+
+-Animals
+-CHO Cells
+-Cricetinae
+-Cricetulus
+-Exons
+-Hepatitis Delta Virus (-enzymology)
+-Introns
+-RNA Editing
+-RNA Polymerase II (+metabolism)
+-RNA Precursors (+genetics; +metabolism)
++RNA Processing, Post-Transcriptional
+-RNA Splicing
+-RNA, Catalytic (+metabolism)
++Transcription, Genetic
+
+pii:nsmb.1652
+doi:10.1038/nsmb.1652
+pubmed:19701200
+mid:NIHMS128797
+pmc:PMC2755206
+

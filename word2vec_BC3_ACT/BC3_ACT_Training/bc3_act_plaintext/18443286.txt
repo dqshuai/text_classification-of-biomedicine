@@ -1,0 +1,27 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Molecular mechanism of pH sensing in KcsA potassium channels.
+
+AN Thompson, DJ Posson, PV Parsa, CM Nimigean
+
+The bacterial potassium channel KcsA is gated by high concentrations of intracellular protons, allowing the channel to open at pH < 5.5. Despite prior attempts to determine the mechanism responsible for pH gating, the proton sensor has remained elusive. We have constructed a KcsA channel mutant that remains open up to pH 9.0 by replacing key ionizable residues from the N and C termini of KcsA with residues mimicking their protonated counterparts with respect to charge. A series of individual and combined mutations were investigated by using single-channel recordings in lipid bilayers. We propose that these residues are the proton-binding sites and at neutral pH they form a complex network of inter- and intrasubunit salt bridges and hydrogen bonds near the bundle crossing that greatly stabilize the closed state. In our model, these residues change their ionization state at acidic pH, thereby disrupting this network, modifying the electrostatic landscape near the channel gate, and favoring channel opening.
+
+-Bacterial Proteins
++Biosensing Techniques
+-Escherichia coli Proteins (+chemistry)
+-Glutamic Acid (-chemistry)
+-Histidine (-chemistry)
+-Hydrogen-Ion Concentration
+-Ion Channel Gating
++Models, Molecular
+-Mutation (-genetics)
+-Potassium Channels (+chemistry)
+-Potassium Channels, Voltage-Gated
+-Protein Structure, Secondary
+-Protein Structure, Tertiary
+
+pii:0800873105
+doi:10.1073/pnas.0800873105
+pubmed:18443286
+pmc:PMC2383984
+

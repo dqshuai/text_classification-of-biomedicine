@@ -1,0 +1,22 @@
+Plant Physiol.
+
+Triple loss of function of protein phosphatases type 2C leads to partial constitutive response to endogenous abscisic acid.
+
+S Rubio, A Rodrigues, A Saez, MB Dizon, A Galle, TH Kim, J Santiago, J Flexas, JI Schroeder, PL Rodriguez
+
+The phytohormone abscisic acid (ABA) is a key regulator of plant growth and development as well as plant responses to situations of decreased water availability. Protein phosphatases type 2C (PP2Cs) from group A, which includes the ABI1/HAB1 and PP2CA branches, are key negative regulators of ABA signaling. Specifically, HAB1, ABI1, ABI2, and PP2CA have been shown to affect both seed and vegetative responses to ABA. To further understand their contribution to ABA signaling and to unravel possible genetic interactions and functional redundancy among them, we have generated different combinations of double and triple mutants impaired in these PP2Cs. Interestingly, hab1-1pp2ca-1 and abi1-2pp2ca-1 double mutants showed reduced water loss and enhanced resistance to drought stress, which further supports the role of PP2CA in vegetative responses to ABA. Two triple hab1-1abi1-2abi2-2 and hab1-1abi1-2pp2ca-1 mutants were generated, which showed an extreme response to exogenous ABA, impaired growth, and partial constitutive response to endogenous ABA. Thus, transcriptomic analysis revealed a partial up-regulation/down-regulation of a subset of ABA-responsive genes in both triple mutants in the absence of exogenous ABA. Comparison of ABA responses in the different pp2c mutants showed that a progressive increase in ABA sensitivity could be obtained through combined inactivation of these PP2Cs. These results indicate that ABA response is finely tuned by the integrated action of these genes, which is required to prevent a constitutive response to endogenous ABA that might have a deleterious effect on growth and development in the absence of environmental stress.
+
+-Abscisic Acid (+metabolism; -pharmacology)
+-Arabidopsis (-drug effects; -genetics; +metabolism)
+-Arabidopsis Proteins (-genetics; +physiology)
+-Gene Expression Profiling
+-Mutagenesis, Site-Directed
+-Phosphoprotein Phosphatases (-genetics; +physiology)
+-Signal Transduction (-drug effects; -genetics)
+-Transcription, Genetic (-drug effects; -genetics)
+
+pii:pp.109.137174
+doi:10.1104/pp.109.137174
+pubmed:19458118
+pmc:PMC2705020
+

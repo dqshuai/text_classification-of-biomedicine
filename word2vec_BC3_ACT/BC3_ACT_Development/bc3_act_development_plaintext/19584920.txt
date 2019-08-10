@@ -1,0 +1,21 @@
+PLoS ONE
+
+PINP: a new method of tagging neuronal populations for identification during in vivo electrophysiological recording.
+
+SQ Lima, T Hromádka, P Znamenskiy, AM Zador
+
+Neural circuits are exquisitely organized, consisting of many different neuronal subpopulations. However, it is difficult to assess the functional roles of these subpopulations using conventional extracellular recording techniques because these techniques do not easily distinguish spikes from different neuronal populations. To overcome this limitation, we have developed PINP (Photostimulation-assisted Identification of Neuronal Populations), a method of tagging neuronal populations for identification during in vivo electrophysiological recording. The method is based on expressing the light-activated channel channelrhodopsin-2 (ChR2) to restricted neuronal subpopulations. ChR2-tagged neurons can be detected electrophysiologically in vivo since illumination of these neurons with a brief flash of blue light triggers a short latency reliable action potential. We demonstrate the feasibility of this technique by expressing ChR2 in distinct populations of cortical neurons using two different strategies. First, we labeled a subpopulation of cortical neurons-mainly fast-spiking interneurons-by using adeno-associated virus (AAV) to deliver ChR2 in a transgenic mouse line in which the expression of Cre recombinase was driven by the parvalbumin promoter. Second, we labeled subpopulations of excitatory neurons in the rat auditory cortex with ChR2 based on projection target by using herpes simplex virus 1 (HSV1), which is efficiently taken up by axons and transported retrogradely; we find that this latter population responds to acoustic stimulation differently from unlabeled neurons. Tagging neurons is a novel application of ChR2, used in this case to monitor activity instead of manipulating it. PINP can be readily extended to other populations of genetically identifiable neurons, and will provide a useful method for probing the functional role of different neuronal populations in vivo.
+
+-Action Potentials
+-Animals
+-Auditory Cortex (-cytology; -physiology)
+-Electrophysiology
+-Mice
+-Mice, Transgenic
+-Neurons (-metabolism; +physiology)
+-Rhodopsin (+metabolism)
+
+doi:10.1371/journal.pone.0006099
+pubmed:19584920
+pmc:PMC2702752
+

@@ -1,0 +1,25 @@
+BioTechniques
+
+Transposon-directed base-exchange mutagenesis (TDEM): a novel method for multiple-nucleotide substitutions within a target gene.
+
+YC Kim, HS Lee, S Yoon, SL Morrison
+
+In this report we describe transposon-directed base-exchange mutagenesis (TDEM), an efficient and controllable method for introducing a mutation into a gene. Each round of TDEM can remove up to 11 base pairs from a randomly selected site within the target gene and replace them with any length of DNA of predetermined sequence. Therefore, the number of bases to be deleted and inserted can be independently regulated providing greater versatility than existing methods of transposon-based mutagenesis. Subsequently, multiple rounds of mutagenesis will provide a diverse mutant library that contains multiple mutations throughout the gene. Additionally, we developed a simple frame-checking procedure that eliminates nonfunctional mutants containing frameshifts or stop codons. As a proof of principle, we used TDEM to generate mutant lacZalpha lacking alpha-complementation activity and recovered active revertants using a second round of TDEM. Furthermore, a single round of TDEM yielded unique, inactive mutants of ccdB.
+
+-Amino Acid Sequence
+-Base Pairing (+genetics)
+-Base Sequence
+-DNA Transposable Elements (+genetics)
+-Lac Operon
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed (+methods)
+-Mutation (-genetics)
+-Nucleotides (+genetics)
+-Open Reading Frames (-genetics)
+-Polymerase Chain Reaction
+-beta-Galactosidase (-chemistry; -genetics)
+
+pii:000113152
+doi:10.2144/000113152
+pubmed:19594453
+

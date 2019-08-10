@@ -1,0 +1,28 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Visualization of ATP levels inside single living cells with fluorescence resonance energy transfer-based genetically encoded indicators.
+
+H Imamura, KP Nhat, H Togawa, K Saito, R Iino, Y Kato-Yamada, T Nagai, H Noji
+
+Adenosine 5'-triphosphate (ATP) is the major energy currency of cells and is involved in many cellular processes. However, there is no method for real-time monitoring of ATP levels inside individual living cells. To visualize ATP levels, we generated a series of fluorescence resonance energy transfer (FRET)-based indicators for ATP that were composed of the epsilon subunit of the bacterial F(o)F(1)-ATP synthase sandwiched by the cyan- and yellow-fluorescent proteins. The indicators, named ATeams, had apparent dissociation constants for ATP ranging from 7.4 muM to 3.3 mM. By targeting ATeams to different subcellular compartments, we unexpectedly found that ATP levels in the mitochondrial matrix of HeLa cells are significantly lower than those of cytoplasm and nucleus. We also succeeded in measuring changes in the ATP level inside single HeLa cells after treatment with inhibitors of glycolysis and/or oxidative phosphorylation, revealing that glycolysis is the major ATP-generating pathway of the cells grown in glucose-rich medium. This was also confirmed by an experiment using oligomycin A, an inhibitor of F(o)F(1)-ATP synthase. In addition, it was demonstrated that HeLa cells change ATP-generating pathway in response to changes of nutrition in the environment.
+
+-Adenosine Triphosphate (+metabolism)
+-Bacterial Proteins (-chemistry; -genetics; -metabolism)
+-Bacterial Proton-Translocating ATPases (-chemistry; -genetics; -metabolism)
+-Cell Compartmentation
+-Fluorescence Resonance Energy Transfer (+methods)
+-Fluorescent Dyes (-chemistry; -metabolism)
+-Green Fluorescent Proteins (-chemistry; -genetics; -metabolism)
+-Hela Cells
+-Humans
+-Luminescent Proteins (-chemistry; -genetics; -metabolism)
+-Microscopy, Fluorescence
+-Models, Molecular
+-Oxidative Phosphorylation
+-Recombinant Fusion Proteins (-chemistry; -genetics; -metabolism)
+
+pii:0904764106
+doi:10.1073/pnas.0904764106
+pubmed:19720993
+pmc:PMC2735558
+

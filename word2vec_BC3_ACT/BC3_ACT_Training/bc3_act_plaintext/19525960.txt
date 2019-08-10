@@ -1,0 +1,18 @@
+Nat. Methods
+
+Quantitative analysis of gene expression in a single cell by qPCR.
+
+K Taniguchi, T Kajiyama, H Kambara
+
+We developed a quantitative PCR method featuring a reusable single-cell cDNA library immobilized on beads for measuring the expression of multiple genes in a single cell. We used this method to analyze multiple cDNA targets (from several copies to several hundred thousand copies) with an experimental error of 15.9% or less. This method is sufficiently accurate to investigate the heterogeneity of single cells.
+
+-DNA, Complementary (-genetics)
++Gene Expression
+-Gene Library
+-Polymerase Chain Reaction (+methods; -statistics & numerical data)
+-RNA, Messenger (-analysis; -genetics)
+
+pii:nmeth.1338
+doi:10.1038/nmeth.1338
+pubmed:19525960
+

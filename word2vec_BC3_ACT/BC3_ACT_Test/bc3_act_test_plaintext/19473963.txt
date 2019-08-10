@@ -1,0 +1,33 @@
+J. Biol. Chem.
+
+Nuclear targeting of 6-phosphofructo-2-kinase (PFKFB3) increases proliferation via cyclin-dependent kinases.
+
+A Yalcin, BF Clem, A Simmons, A Lane, K Nelson, AL Clem, E Brock, D Siow, B Wattenberg, S Telang, J Chesney
+
+The regulation of metabolism and growth must be tightly coupled to guarantee the efficient use of energy and anabolic substrates throughout the cell cycle. Fructose 2,6-bisphosphate (Fru-2,6-BP) is an allosteric activator of 6-phosphofructo-1-kinase (PFK-1), a rate-limiting enzyme and essential control point in glycolysis. The concentration of Fru-2,6-BP in mammalian cells is set by four 6-phosphofructo-2-kinase/fructose-2,6-bisphosphatases (PFKFB1-4), which interconvert fructose 6-phosphate and Fru-2,6-BP. The relative functions of the PFKFB3 and PFKFB4 enzymes are of particular interest because they are activated in human cancers and increased by mitogens and low oxygen. We examined the cellular localization of PFKFB3 and PFKFB4 and unexpectedly found that whereas PFKFB4 localized to the cytoplasm (i.e. the site of glycolysis), PFKFB3 localized to the nucleus. We then overexpressed PFKFB3 and observed no change in glucose metabolism but rather a marked increase in cell proliferation. These effects on proliferation were completely abrogated by mutating either the active site or nuclear localization residues of PFKFB3, demonstrating a requirement for nuclear delivery of Fru-2,6-BP. Using protein array analyses, we then found that ectopic expression of PFKFB3 increased the expression of several key cell cycle proteins, including cyclin-dependent kinase (Cdk)-1, Cdc25C, and cyclin D3 and decreased the expression of the cell cycle inhibitor p27, a universal inhibitor of Cdk-1 and the cell cycle. We also observed that the addition of Fru-2,6-BP to HeLa cell lysates increased the phosphorylation of the Cdk-specific Thr-187 site of p27. Taken together, these observations demonstrate an unexpected role for PFKFB3 in nuclear signaling and indicate that Fru-2,6-BP may couple the activation of glucose metabolism with cell proliferation.
+
+-Allosteric Regulation
+-CDC2 Protein Kinase (-genetics; +metabolism)
+-Cell Nucleus (+enzymology; -genetics)
++Cell Proliferation
+-Cyclin D3
+-Cyclins (-genetics; +metabolism)
+-Cytoplasm (-enzymology; -genetics)
+-Fructosediphosphates (-genetics; -metabolism)
+-Fructosephosphates (-genetics; -metabolism)
+-Glucose (-genetics; -metabolism)
+-Glycolysis
+-Hela Cells
+-Humans
+-Intracellular Signaling Peptides and Proteins (-genetics; -metabolism)
+-Neoplasm Proteins (-genetics; +metabolism)
+-Neoplasms (+enzymology; -genetics)
+-Nuclear Localization Signals (-genetics; -metabolism)
+-Phosphofructokinase-2 (-genetics; +metabolism)
+-cdc25 Phosphatases (-genetics; +metabolism)
+
+pii:M109.016816
+doi:10.1074/jbc.M109.016816
+pubmed:19473963
+pmc:PMC2782016
+

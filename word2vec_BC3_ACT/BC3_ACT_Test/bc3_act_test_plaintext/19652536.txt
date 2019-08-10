@@ -1,0 +1,30 @@
+Cell Cycle
+
+Cdk2 plays a critical role in hepatocyte cell cycle progression and survival in the setting of cyclin D1 expression in vivo.
+
+EA Hanse, CJ Nelsen, MM Goggin, CK Anttila, LK Mullany, C Berthet, P Kaldis, GS Crary, R Kuriyama, JH Albrecht
+
+Cdk2 was once believed to play an essential role in cell cycle progression, but cdk2(-/-) mice have minimal phenotypic abnormalities. In this study, we examined the role of cdk2 in hepatocyte proliferation, centrosome duplication and survival. Cdk2(-/-) hepatocytes underwent mitosis and had normal centrosome content after mitogen stimulation. Unlike wild-type cells, cdk2(-/-) liver cells failed to undergo centrosome overduplication in response to ectopic cyclin D1 expression. After mitogen stimulation in culture or partial hepatectomy in vivo, cdk2(-/-) hepatocytes demonstrated diminished proliferation. Cyclin D1 is a key mediator of cell cycle progression in hepatocytes, and transient expression of this protein is sufficient to promote robust proliferation of these cells in vivo. In cdk2(-/-) mice and animals treated with the cdk2 inhibitor seliciclib, cyclin D1 failed to induce hepatocyte cell cycle progression. Surprisingly, cdk2 ablation or inhibition led to massive hepatocyte and animal death following cyclin D1 transfection. In a transgenic model of chronic hepatic cyclin D1 expression, seliciclib induced hepatocyte injury and animal death, suggesting that cdk2 is required for survival of cyclin D1-expressing cells even in the absence of substantial proliferation. In conclusion, our studies demonstrate that cdk2 plays a role in liver regeneration. Furthermore, it is essential for centrosome overduplication, proliferation and survival of hepatocytes that aberrantly express cyclin D1 in vivo. These studies suggest that cdk2 may warrant further investigation as a target for therapy of liver tumors with constitutive cyclin D1 expression.
+
+-Animals
++Cell Cycle
+-Cell Proliferation
+-Cell Survival
+-Cells, Cultured
+-Centrosome (-metabolism)
+-Cyclin A (-metabolism)
+-Cyclin D1 (+metabolism)
+-Cyclin E (-metabolism)
+-Cyclin-Dependent Kinase 2 (-genetics; -metabolism; +physiology)
+-Hepatocytes (-cytology; +enzymology; -metabolism)
+-Liver Regeneration
+-Mice
+-Mice, Inbred BALB C
+-Mice, Knockout
+-Purines (-pharmacology)
+-Time Factors
+-Transfection
+
+pii:9465
+pubmed:19652536
+

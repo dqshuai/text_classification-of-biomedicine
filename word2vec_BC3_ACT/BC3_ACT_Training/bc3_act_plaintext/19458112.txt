@@ -1,0 +1,25 @@
+Plant Physiol.
+
+CDKB1;1 forms a functional complex with CYCA2;3 to suppress endocycle onset.
+
+V Boudolf, T Lammens, J Boruc, J Van Leene, H Van Den Daele, S Maes, G Van Isterdael, E Russinova, E Kondorosi, E Witters, G De Jaeger, D Inzé, L De Veylder
+
+The mitosis-to-endocycle transition requires the controlled inactivation of M phase-associated cyclin-dependent kinase (CDK) activity. Previously, the B-type CDKB1;1 was identified as an important negative regulator of endocycle onset. Here, we demonstrate that CDKB1;1 copurifies and associates with the A2-type cyclin CYCA2;3. Coexpression of CYCA2;3 with CDKB1;1 triggered ectopic cell divisions and inhibited endoreduplication. Moreover, the enhanced endoreduplication phenotype observed after overexpression of a dominant-negative allele of CDKB1;1 could be partially complemented by CYCA2;3 co-overexpression, illustrating that both subunits unite in vivo to form a functional complex. CYCA2;3 protein stability was found to be controlled by CCS52A1, an activator of the anaphase-promoting complex. We conclude that CCS52A1 participates in endocycle onset by down-regulating CDKB1;1 activity through the destruction of CYCA2;3.
+
+-Arabidopsis Proteins (-analysis; -genetics; -metabolism; +physiology)
+-Cell Cycle (+physiology)
+-Cell Cycle Proteins (-metabolism; -physiology)
+-Cell Division (-genetics; -physiology)
+-Cell Nucleus (-metabolism)
+-Cyclin A (-analysis; -genetics; +physiology)
+-Cyclin-Dependent Kinases (-analysis; -genetics; +physiology)
+-Down-Regulation
+-Green Fluorescent Proteins (-analysis)
+-Protein Stability
+-Recombinant Fusion Proteins (-analysis)
+
+pii:pp.109.140269
+doi:10.1104/pp.109.140269
+pubmed:19458112
+pmc:PMC2705057
+

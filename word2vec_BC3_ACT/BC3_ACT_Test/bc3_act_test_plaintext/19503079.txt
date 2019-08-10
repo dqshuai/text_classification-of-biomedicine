@@ -1,0 +1,25 @@
+Nat. Struct. Mol. Biol.
+
+ATXR5 and ATXR6 are H3K27 monomethyltransferases required for chromatin structure and gene silencing.
+
+Y Jacob, S Feng, CA LeBlanc, YV Bernatavichute, H Stroud, S Cokus, LM Johnson, M Pellegrini, SE Jacobsen, SD Michaels
+
+Constitutive heterochromatin in Arabidopsis thaliana is marked by repressive chromatin modifications, including DNA methylation, histone H3 dimethylation at Lys9 (H3K9me2) and monomethylation at Lys27 (H3K27me1). The enzymes catalyzing DNA methylation and H3K9me2 have been identified; alterations in these proteins lead to reactivation of silenced heterochromatic elements. The enzymes responsible for heterochromatic H3K27me1, in contrast, remain unknown. Here we show that the divergent SET-domain proteins ARABIDOPSIS TRITHORAX-RELATED PROTEIN 5 (ATXR5) and ATXR6 have H3K27 monomethyltransferase activity, and atxr5 atxr6 double mutants have reduced H3K27me1 in vivo and show partial heterochromatin decondensation. Mutations in atxr5 and atxr6 also lead to transcriptional activation of repressed heterochromatic elements. Notably, H3K9me2 and DNA methylation are unaffected in double mutants. These results indicate that ATXR5 and ATXR6 form a new class of H3K27 methyltransferases and that H3K27me1 represents a previously uncharacterized pathway required for transcriptional repression in Arabidopsis.
+
+-Animals
+-Arabidopsis (-anatomy & histology; +enzymology; -genetics)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Gene Expression Regulation, Plant
++Gene Silencing
+-Heterochromatin (+chemistry)
+-Histones (+metabolism)
+-Lysine (-metabolism)
+-Methyltransferases (-genetics; +metabolism)
+-Mutation
+
+pii:nsmb.1611
+doi:10.1038/nsmb.1611
+pubmed:19503079
+mid:NIHMS113168
+pmc:PMC2754316
+

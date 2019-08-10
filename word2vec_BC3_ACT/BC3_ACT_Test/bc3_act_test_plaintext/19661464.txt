@@ -1,0 +1,39 @@
+Circ. Res.
+
+Tbx20 interacts with smads to confine tbx2 expression to the atrioventricular canal.
+
+R Singh, T Horsthuis, HF Farin, T Grieskamp, J Norden, M Petry, V Wakker, AF Moorman, VM Christoffels, A Kispert
+
+RATIONALE: T-box transcription factors play critical roles in the coordinated formation of the working chambers and the atrioventricular canal (AVC). Tbx2 patterns embryonic myocardial cells to form the AVC and suppresses their differentiation into chamber myocardium. Tbx20-deficient embryos, which fail to form chambers, ectopically express Tbx2 throughout the entire heart tube, providing a potential mechanism for the function of Tbx20 in chamber differentiation. OBJECTIVE: To identify the mechanism of Tbx2 suppression by Tbx20 and to investigate the involvement of Tbx2 in Tbx20-mediated chamber formation. METHODS AND RESULTS: We generated Tbx20 and Tbx2 single and double knockout embryos and observed that loss of Tbx2 did not rescue the Tbx20-deficient heart from failure to form chambers. However, Tbx20 is required to suppress Tbx2 in the developing chambers, a prerequisite to localize its strong differentiation-inhibiting activity to the AVC. We identified a bone morphogenetic protein (Bmp)/Smad-dependent Tbx2 enhancer conferring AVC-restricted expression and Tbx20-dependent chamber suppression of Tbx2 in vivo. Unexpectedly, we found in transfection and localization studies in vitro that both Tbx20 and mutant isoforms of Tbx20 unable to bind DNA attenuate Bmp/Smad-dependent activation of Tbx2 by binding Smad1 and Smad5 and sequestering them from Smad4. CONCLUSIONS: Our data suggest that Tbx20 directly interferes with Bmp/Smad signaling to suppress Tbx2 expression in the chambers, thereby confining Tbx2 expression to the prospective AVC region.
+
+-Animals
+-Base Sequence
+-Binding Sites
+-Bone Morphogenetic Proteins (-metabolism)
++Cell Differentiation (-genetics)
+-Endocardial Cushions (-metabolism)
+-Gene Expression Regulation, Developmental
+-Gestational Age
+-Heart Atria (-embryology; +metabolism)
+-Heart Ventricles (-embryology; +metabolism)
+-Hela Cells
+-Humans
+-Mice
+-Mice, Knockout
+-Molecular Sequence Data
+-Mutation
+-Myocytes, Cardiac (+metabolism)
+-Promoter Regions, Genetic
++Signal Transduction (-genetics)
+-Smad Proteins (+metabolism)
+-Smad1 Protein (-metabolism)
+-Smad4 Protein (-metabolism)
+-Smad5 Protein (-metabolism)
+-T-Box Domain Proteins (-deficiency; -genetics; +metabolism)
+-Transcriptional Activation
+-Transfection
+
+pii:CIRCRESAHA.109.196063
+doi:10.1161/CIRCRESAHA.109.196063
+pubmed:19661464
+

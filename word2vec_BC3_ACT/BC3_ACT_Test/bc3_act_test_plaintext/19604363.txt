@@ -1,0 +1,24 @@
+BMC Plant Biol.
+
+A set of EST-SNPs for map saturation and cultivar identification in melon.
+
+W Deleu, C Esteras, C Roig, M González-To, I Fernández-Silva, D Gonzalez-Ibeas, J Blanca, MA Aranda, P Arús, F Nuez, AJ Monforte, MB Picó, J Garcia-Mas
+
+BACKGROUND: There are few genomic tools available in melon (Cucumis melo L.), a member of the Cucurbitaceae, despite its importance as a crop. Among these tools, genetic maps have been constructed mainly using marker types such as simple sequence repeats (SSR), restriction fragment length polymorphisms (RFLP) and amplified fragment length polymorphisms (AFLP) in different mapping populations. There is a growing need for saturating the genetic map with single nucleotide polymorphisms (SNP), more amenable for high throughput analysis, especially if these markers are located in gene coding regions, to provide functional markers. Expressed sequence tags (ESTs) from melon are available in public databases, and resequencing ESTs or validating SNPs detected in silico are excellent ways to discover SNPs. RESULTS: EST-based SNPs were discovered after resequencing ESTs between the parental lines of the PI 161375 (SC) x 'Piel de sapo' (PS) genetic map or using in silico SNP information from EST databases. In total 200 EST-based SNPs were mapped in the melon genetic map using a bin-mapping strategy, increasing the map density to 2.35 cM/marker. A subset of 45 SNPs was used to study variation in a panel of 48 melon accessions covering a wide range of the genetic diversity of the species. SNP analysis correctly reflected the genetic relationships compared with other marker systems, being able to distinguish all the accessions and cultivars. CONCLUSION: This is the first example of a genetic map in a cucurbit species that includes a major set of SNP markers discovered using ESTs. The PI 161375 x 'Piel de sapo' melon genetic map has around 700 markers, of which more than 500 are gene-based markers (SNP, RFLP and SSR). This genetic map will be a central tool for the construction of the melon physical map, the step prior to sequencing the complete genome. Using the set of SNP markers, it was possible to define the genetic relationships within a collection of forty-eight melon accessions as efficiently as with SSR markers, and these markers may also be useful for cultivar identification in Occidental melon varieties.
+
++Chromosome Mapping
+-Cucumis melo (+genetics)
+-DNA, Plant (-genetics)
++Expressed Sequence Tags
+-Gene Frequency
+-Genetic Markers
+-Genome, Plant
+-Genotype
++Polymorphism, Single Nucleotide
+-Sequence Analysis, DNA
+
+pii:1471-2229-9-90
+doi:10.1186/1471-2229-9-90
+pubmed:19604363
+pmc:PMC2722630
+

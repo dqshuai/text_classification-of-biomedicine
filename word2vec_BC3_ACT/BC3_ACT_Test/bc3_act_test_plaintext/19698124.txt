@@ -1,0 +1,20 @@
+BMC Bioinformatics
+
+MULTI-K: accurate classification of microarray subtypes using ensemble k-means clustering.
+
+EY Kim, SY Kim, D Ashlock, D Nam
+
+BACKGROUND: Uncovering subtypes of disease from microarray samples has important clinical implications such as survival time and sensitivity of individual patients to specific therapies. Unsupervised clustering methods have been used to classify this type of data. However, most existing methods focus on clusters with compact shapes and do not reflect the geometric complexity of the high dimensional microarray clusters, which limits their performance. RESULTS: We present a cluster-number-based ensemble clustering algorithm, called MULTI-K, for microarray sample classification, which demonstrates remarkable accuracy. The method amalgamates multiple k-means runs by varying the number of clusters and identifies clusters that manifest the most robust co-memberships of elements. In addition to the original algorithm, we newly devised the entropy-plot to control the separation of singletons or small clusters. MULTI-K, unlike the simple k-means or other widely used methods, was able to capture clusters with complex and high-dimensional structures accurately. MULTI-K outperformed other methods including a recently developed ensemble clustering algorithm in tests with five simulated and eight real gene-expression data sets. CONCLUSION: The geometric complexity of clusters should be taken into account for accurate classification of microarray data, and ensemble clustering applied to the number of clusters tackles the problem very well. The C++ code and the data sets tested are available from the authors.
+
++Cluster Analysis
+-Computational Biology (+methods)
+-Databases, Genetic
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Pattern Recognition, Automated
++Software
+
+pii:1471-2105-10-260
+doi:10.1186/1471-2105-10-260
+pubmed:19698124
+pmc:PMC2743671
+

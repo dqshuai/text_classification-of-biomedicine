@@ -1,0 +1,40 @@
+Oncogene
+
+Loss of Nkx3.1 leads to the activation of discrete downstream target genes during prostate tumorigenesis.
+
+H Song, B Zhang, MA Watson, PA Humphrey, H Lim, J Milbrandt
+
+The expression of NKX3.1, a transcriptional regulator and tumor suppressor gene in prostate cancer, is downregulated during early stages of prostate tumorigenesis. However, little is known of the alterations in gene expression that occur as a result of this event. We combined laser capture microdissection and gene expression profiling to analyse the molecular consequences of Nkx3.1 loss during prostate cancer initiation using Nkx3.1-deficient mice. This analysis identified a cohort of genes (loss-of-Nkx3.1 signature) that are aberrantly overexpressed during loss-of-Nkx3.1-driven tumor initiation. We studied the expression of these genes in independent loss-of-Pten and c-myc overexpression prostate adenocarcinoma mouse models. Nkx3.1 expression is lost in prostate epithelial proliferation in both of these mouse models. However, Nkx3.1 loss is an early event of tumor development in the loss-of-Pten model, whereas it occurs at later stages in c-myc transgenic mice. A number of genes of the loss-of-Nkx3.1 signature, such as clusterin and quiescin Q6, are highly expressed in prostatic hyperplasia and intraepithelial neoplasia (PIN) lesions that also lack Nkx3.1 in the Pten-deficient prostate, but not in similar lesions in the c-myc transgenic model. Meta-analysis of multiple prostate cancer gene expression data sets, including those from loss-of-Nkx3.1, loss-of-Pten, c-myc overexpression and constitutively active Akt prostate cancer models, further confirmed that genes associated with the loss-of-Nkx3.1 signature integrate with PTEN-AKT signaling pathways, but do not overlap with molecular changes associated with the c-myc signaling pathway. In human prostate tissue samples, loss of NKX3.1 expression and corresponding clusterin overexpression are co-localized at sites of prostatic inflammatory atrophy, a possible very early stage of human prostate tumorigenesis. Collectively, these results suggest that the molecular consequences of NKX3.1 loss depend on the epithelial proliferative stage at which its expression is lost, and that alterations in the PTEN-AKT-NKX3.1 axis are important for prostate cancer initiation.
+
+-Animals
+-Atrophy (-genetics)
+-Clusterin (-genetics)
+-Disease Models, Animal
+-Disease Progression
+-Down-Regulation
++Gene Deletion
+-Gene Expression Profiling
++Gene Expression Regulation, Neoplastic
+-Homeodomain Proteins (+genetics)
+-Humans
+-Lasers
+-Male
+-Mice
+-Microdissection
+-PTEN Phosphohydrolase (-deficiency; -genetics; -metabolism)
+-Prostate (-pathology)
+-Prostatic Neoplasms (+genetics; +pathology; -surgery)
+-Proto-Oncogene Proteins c-akt (-metabolism)
+-Proto-Oncogene Proteins c-myc (-genetics; -metabolism)
+-Signal Transduction (-genetics)
+-Thioredoxins (-genetics)
+-Transcription Factors (+deficiency; +genetics)
+-Transcription, Genetic
++Transcriptional Activation
+
+pii:onc2009181
+doi:10.1038/onc.2009.181
+pubmed:19597465
+mid:NIHMS119671
+pmc:PMC2746257
+

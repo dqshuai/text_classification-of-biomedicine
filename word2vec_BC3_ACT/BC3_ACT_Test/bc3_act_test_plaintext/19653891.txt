@@ -1,0 +1,22 @@
+BMC Genomics
+
+Gene copy number variation throughout the Plasmodium falciparum genome.
+
+IH Cheeseman, N Gomez-Escobar, CK Carret, A Ivens, LB Stewart, KK Tetteh, DJ Conway
+
+BACKGROUND: Gene copy number variation (CNV) is responsible for several important phenotypes of the malaria parasite Plasmodium falciparum, including drug resistance, loss of infected erythrocyte cytoadherence and alteration of receptor usage for erythrocyte invasion. Despite the known effects of CNV, little is known about its extent throughout the genome. RESULTS: We performed a whole-genome survey of CNV genes in P. falciparum using comparative genome hybridisation of a diverse set of 16 laboratory culture-adapted isolates to a custom designed high density Affymetrix GeneChip array. Overall, 186 genes showed hybridisation signals consistent with deletion or amplification in one or more isolate. There is a strong association of CNV with gene length, genomic location, and low orthology to genes in other Plasmodium species. Sub-telomeric regions of all chromosomes are strongly associated with CNV genes independent from members of previously described multigene families. However, approximately 40% of CNV genes were located in more central regions of the chromosomes. Among the previously undescribed CNV genes, several that are of potential phenotypic relevance are identified. CONCLUSION: CNV represents a major form of genetic variation within the P. falciparum genome; the distribution of gene features indicates the involvement of highly non-random mutational and selective processes. Additional studies should be directed at examining CNV in natural parasite populations to extend conclusions to clinical settings.
+
+-Animals
+-Comparative Genomic Hybridization
+-DNA, Protozoan (-genetics)
+-Gene Deletion
++Gene Dosage
++Genome, Protozoan
+-Oligonucleotide Array Sequence Analysis
+-Plasmodium falciparum (+genetics)
+
+pii:1471-2164-10-353
+doi:10.1186/1471-2164-10-353
+pubmed:19653891
+pmc:PMC2732925
+

@@ -1,0 +1,24 @@
+PLoS Genet.
+
+Structural features of single-stranded integron cassette attC sites and their role in strand selection.
+
+M Bouvier, M Ducos-Galand, C Loot, D Bikard, D Mazel
+
+We recently showed that cassette integration and deletion in integron platforms were occurring through unconventional site-specific recombination reactions involving only the bottom strand of attC sites. The lack of sequence conservation among attC sites led us to hypothesize that sequence-independent structural recognition determinants must exist within attC sites. The structural data obtained from a synaptic complex of the Vibrio cholerae integrase with the bottom strand of an attC site has shown the importance of extra helical bases (EHB) inside the stem-loop structure formed from the bottom strand. Here, we systematically determined the contribution of three structural elements common to all known single-stranded attC site recombination substrates (the EHBs, the unpaired central spacer (UCS), and the variable terminal structure (VTS)) to strand choice and recombination. Their roles have been evaluated in vivo in the attIxattC reaction context using the suicide conjugation assay we previously developed, but also in an attCxattC reaction using a deletion assay. Conjugation was used to deliver the attC sites in single-stranded form. Our results show that strand choice is primarily directed by the first EHB, but the presence of the two other EHBs also serves to increase this strand selection. We found that the structure of the central spacer is essential to achieve high level recombination of the bottom strand, suggesting a dual role for this structure in active site exclusion and for hindering the reverse reaction after the first strand exchange. Moreover, we have shown that the VTS has apparently no role in strand selectivity.
+
++Attachment Sites, Microbiological
+-Base Sequence
+-DNA, Bacterial (+chemistry; -genetics)
+-DNA, Single-Stranded (+chemistry; -genetics)
+-Escherichia coli (-chemistry; +genetics)
++Integrons
+-Molecular Sequence Data
+-Mutation
+-Nucleic Acid Conformation
+-Recombination, Genetic
+-Sequence Alignment
+
+doi:10.1371/journal.pgen.1000632
+pubmed:19730680
+pmc:PMC2727003
+

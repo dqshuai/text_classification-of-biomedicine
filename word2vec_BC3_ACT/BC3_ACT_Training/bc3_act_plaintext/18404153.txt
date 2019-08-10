@@ -1,0 +1,32 @@
+EMBO Rep.
+
+The histone-binding protein COPR5 is required for nuclear functions of the protein arginine methyltransferase PRMT5.
+
+M Lacroix, S El Messaoudi, G Rodier, A Le Cam, C Sardet, E Fabbrizio
+
+Protein arginine methyltransferase 5 (PRMT5) targets nuclear and cytoplasmic proteins. Here, we identified a nuclear protein, called cooperator of PRMT5 (COPR5), involved in the nuclear functions of PRMT5. COPR5 tightly binds to PRMT5, both in vitro and in living cells, but not to other members of the PRMT family. PRMT5 bound to COPR5 methylates histone H4 (R3) preferentially when compared with histone H3 (R8), suggesting that COPR5 modulates the substrate specificity of nuclear PRMT5-containing complexes, at least towards histones. Markedly, recombinant COPR5 binds to the amino terminus of histone H4 and is required to recruit PRMT5 to reconstituted nucleosomes in vitro. Consistently, COPR5 depletion in cells strongly reduces PRMT5 recruitment on chromatin at the PRMT5 target gene cyclin E1 (CCNE1) in vivo. Moreover, both COPR5 depletion and overexpression affect CCNE1 promoter expression. We propose that COPR5 is an important chromatin adaptor for PRMT5 to function on a subset of its target genes.
+
+-Amino Acid Sequence
+-Arginine (+metabolism)
+-Carrier Proteins (-chemistry; -genetics; -metabolism; +physiology)
+-Cell Line, Tumor
+-Cell Nucleus (-chemistry; -metabolism)
+-Chromatin (-metabolism)
+-DNA Methylation
+-Genes, Reporter
+-Glutathione Transferase (-metabolism)
+-Histones (+metabolism)
+-Humans
+-Luciferases (-metabolism)
+-Molecular Sequence Data
+-Nuclear Proteins (+metabolism; -physiology)
+-Protein Binding
+-Protein Methyltransferases (-metabolism; +physiology)
+-Protein Structure, Secondary
+-Recombinant Proteins (-metabolism)
+
+pii:embor200845
+doi:10.1038/embor.2008.45
+pubmed:18404153
+pmc:PMC2373370
+

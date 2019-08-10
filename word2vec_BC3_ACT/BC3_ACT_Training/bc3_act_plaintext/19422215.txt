@@ -1,0 +1,12 @@
+J. Am. Chem. Soc.
+
+Carbon dioxide and methane transport in DDR zeolite: insights from molecular simulations into carbon dioxide separations in small pore zeolites.
+
+SE Jee, DS Sholl
+
+The silica zeolite DDR is a strong candidate for separations of CO(2)/CH(4) because of the narrow windows that control molecular transport inside the material's pores. We have used molecular simulations to describe diffusion of CO(2) and CH(4) inside DDR pores. Our simulations introduce a new force-field for this system that for the first time gives results that are consistent with experimental measurements of single-component adsorption and diffusion. Diffusivities obtained from previous simulations greatly overestimated the transport rates of CH(4) and, to a lesser extent, CO(2). Because CH(4) diffuses extremely slowly in DDR, we applied a transition state theory-based kinetic Monte Carlo scheme to accurately describe this diffusion. The most important observation from our calculations is that the characteristics of CO(2)/CH(4) diffusion in DDR are very different from the usual situation in nanoporous materials, where the presence of a slowly diffusing species retards transport rates of a more rapidly diffusing species. In DDR, we show that CO(2) diffusion rates are only weakly affected by the presence of CH(4), despite the very slow diffusion of the latter molecules. The physical origins of this unusual behavior are explained by analyzing the adsorption sites and diffusion mechanism for each species. Our finding suggests DDR membranes are favorable for CO(2)/CH(4) separations and that similar properties may exist for other 8MR zeolites.
+
+
+doi:10.1021/ja901483e
+pubmed:19422215
+

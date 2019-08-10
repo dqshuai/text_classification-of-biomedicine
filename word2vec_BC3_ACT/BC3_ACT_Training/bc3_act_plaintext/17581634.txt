@@ -1,0 +1,30 @@
+EMBO J.
+
+The p110delta isoform of PI 3-kinase negatively controls RhoA and PTEN.
+
+EA Papakonstanti, AJ Ridley, B Vanhaesebroeck
+
+Inactivation of PI 3-kinase (PI3K) signalling is critical for tumour suppression by PTEN. This is thought to be a unidirectional relationship in which PTEN degrades the lipids produced by PI3K, thus controlling cell proliferation, survival and migration. We now show that this relationship is in fact bidirectional, whereby PI3K reciprocally controls PTEN. We report that the p110delta PI3K negatively regulates PTEN, through a pathway involving inhibition of RhoA. Inactivation of p110delta in macrophages led to reduced Akt and Rac1 activation, but paradoxically to increased RhoA and PTEN activity. Partial inactivation of p190RhoGAP and a reduced binding of cytoplasmic RhoA to the cyclin-dependent kinase inhibitor p27 both contributed to the increased RhoA-GTP levels upon p110delta inactivation. Pharmacological inhibition of ROCK, a downstream effector kinase of RhoA, restored all signalling and functional defects of p110delta inactivation, including Akt phosphorylation, chemotaxis and proliferation. This work identifies the RhoA/ROCK pathway as a major target of p110delta-mediated PI3K signalling, and establishes for the first time that PI3K controls itself, via a feedback loop involving PTEN.
+
+-1-Phosphatidylinositol 3-Kinase (-chemistry; -genetics; +metabolism)
+-Animals
+-Cells, Cultured
+-Chemotaxis (-drug effects)
+-Cyclin-Dependent Kinase Inhibitor p27 (-metabolism)
+-Cytosol (-metabolism)
+-DNA (-biosynthesis)
+-Enzyme Activation
+-Humans
+-Isoenzymes (-chemistry; -genetics; -metabolism)
+-Macrophage Colony-Stimulating Factor (-pharmacology)
+-Macrophages (-cytology; -drug effects; -metabolism)
+-Mice
+-PTEN Phosphohydrolase (+antagonists & inhibitors; -genetics; +metabolism)
+-Protein Binding
+-rhoA GTP-Binding Protein (+antagonists & inhibitors; +metabolism)
+
+pii:7601763
+doi:10.1038/sj.emboj.7601763
+pubmed:17581634
+pmc:PMC1914109
+

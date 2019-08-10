@@ -1,0 +1,25 @@
+Genetics
+
+Global analysis of allele-specific expression in Arabidopsis thaliana.
+
+X Zhang, JO Borevitz
+
+Gene expression is a complex trait determined by various genetic and nongenetic factors. Among the genetic factors, allelic difference may play a critical role in gene regulation. In this study we globally dissected cis (allelic) and trans sources of genetic variation in F(1) hybrids between two Arabidopsis thaliana wild accessions, Columbia (Col) and Vancouver (Van), using a new high-density SNP-tiling array. This array tiles the whole genome with 35-bp resolution and interrogates 250,000 SNPs identified from resequencing of 20 diverse A. thaliana strains. Quantitative assessment of 12,311 genes identified 3811 genes differentially expressed between parents, 1665 genes with allele-specific expression, and 1688 genes controlled by composite trans-regulatory variation. Loci with cis- or trans-regulatory variation were mapped onto sequence polymorphisms, epigenetic modifications, and transcriptional specificity. Genes regulated in cis tend to be located in polymorphic chromosomal regions, are preferentially associated with repressive epigenetic marks, and exhibit high tissue expression specificity. Genes that vary due to trans regulation reside in relatively conserved chromosome regions, show activating epigenetic marks and generally constitutive gene expression. Our findings demonstrate a method of global functional characterization of allele-specific expression and highlight that chromatin structure is intertwined with evolution of cis- and trans-regulatory variation.
+
+-Alleles
+-Arabidopsis (+genetics)
+-Chimera
+-Chromosomes, Plant
+-Epigenesis, Genetic
++Gene Expression Regulation, Plant
+-Genes, Plant (+genetics)
+-Methods
++Polymorphism, Single Nucleotide
+-Transcription, Genetic
+-Transcriptional Activation
+
+pii:genetics.109.103499
+doi:10.1534/genetics.109.103499
+pubmed:19474198
+pmc:PMC2728882
+

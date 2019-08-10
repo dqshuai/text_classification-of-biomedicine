@@ -1,0 +1,25 @@
+FEBS J.
+
+Piecing together the structure of retroviral integrase, an important target in AIDS therapy.
+
+M Jaskolski, JN Alexandratos, G Bujacz, A Wlodawer
+
+Integrase (IN) is one of only three enzymes encoded in the genomes of all retroviruses, and is the one least characterized in structural terms. IN catalyzes processing of the ends of a DNA copy of the retroviral genome and its concerted insertion into the chromosome of the host cell. The protein consists of three domains, the central catalytic core domain flanked by the N-terminal and C-terminal domains, the latter being involved in DNA binding. Although the Protein Data Bank contains a number of NMR structures of the N-terminal and C-terminal domains of HIV-1 and HIV-2, simian immunodeficiency virus and avian sarcoma virus IN, as well as X-ray structures of the core domain of HIV-1, avian sarcoma virus and foamy virus IN, plus several models of two-domain constructs, no structure of the complete molecule of retroviral IN has been solved to date. Although no experimental structures of IN complexed with the DNA substrates are at hand, the catalytic mechanism of IN is well understood by analogy with other nucleotidyl transferases, and a variety of models of the oligomeric integration complexes have been proposed. In this review, we present the current state of knowledge resulting from structural studies of IN from several retroviruses. We also attempt to reconcile the differences between the reported structures, and discuss the relationship between the structure and function of this enzyme, which is an important, although so far rather poorly exploited, target for designing drugs against HIV-1 infection.
+
+-Acquired Immunodeficiency Syndrome (-drug therapy; -virology)
+-Amino Acid Sequence
+-Humans
+-Integrases (+chemistry; -genetics; -metabolism)
+-Models, Molecular
+-Molecular Sequence Data
++Protein Structure, Tertiary
+-Retroviridae (+enzymology; -genetics)
+-Sequence Homology, Amino Acid
+-Viral Proteins (-antagonists & inhibitors; +chemistry; -metabolism)
+
+pii:EJB7009
+doi:10.1111/j.1742-4658.2009.07009.x
+pubmed:19490099
+mid:NIHMS140284
+pmc:PMC2747025
+

@@ -1,0 +1,31 @@
+J. Neurosci.
+
+Multisensory integration in dynamical behaviors: maximum likelihood estimation across bimanual skill learning.
+
+R Ronsse, RC Miall, SP Swinnen
+
+Optimal integration of different sensory modalities weights each modality as a function of its degree of certainty (maximum likelihood). Humans rely on near-optimal integration in decision-making tasks (involving e.g., auditory, visual, and/or tactile afferents), and some support for these processes has also been provided for discrete sensorimotor tasks. Here, we tested optimal integration during the continuous execution of a motor task, using a cyclical bimanual coordination pattern in which feedback was provided by means of proprioception and augmented visual feedback (AVF, the position of both wrists being displayed as the orthogonal coordinates of a single cursor). Assuming maximum likelihood integration, the following predictions were addressed: (1) the coordination variability with both AVF and proprioception available is smaller than with only one of the two modalities, and should reach an optimal level; (2) if the AVF is artificially corrupted by noise, variability should increase but saturate toward the level without AVF; (3) if the AVF is imperceptibly phase shifted, the stabilized pattern should be partly adapted to compensate for this phase shift, whereby the amount of compensation reflects the weight assigned to AVF in the computation of the integrated signal. Whereas performance variability gradually decreased over 5 d of practice, we showed that these model-based predictions were already observed on the first day. This suggests not only that the performer integrated proprioceptive feedback and AVF online during task execution by tending to optimize the signal statistics, but also that this occurred before reaching an asymptotic performance level.
+
+-Adolescent
+-Adult
+-Feedback (+physiology)
+-Female
+-Functional Laterality (+physiology)
+-Humans
+-Learning (+physiology)
+-Likelihood Functions
+-Male
+-Models, Biological
+-Movement
++Nonlinear Dynamics
+-Photic Stimulation
+-Physical Stimulation (-methods)
+-Predictive Value of Tests
+-Psychomotor Performance (+physiology)
+-Visual Perception (+physiology)
+-Young Adult
+
+pii:29/26/8419
+doi:10.1523/JNEUROSCI.5734-08.2009
+pubmed:19571132
+

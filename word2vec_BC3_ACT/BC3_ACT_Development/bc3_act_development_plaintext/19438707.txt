@@ -1,0 +1,29 @@
+FEBS J.
+
+Human liver mitochondrial cytochrome P450 2D6--individual variations and implications in drug metabolism.
+
+MC Sangar, HK Anandatheerthavarada, W Tang, SK Prabu, MV Martin, M Dostalek, FP Guengerich, NG Avadhani
+
+Constitutively expressed human cytochrome P450 2D6 (CYP2D6; EC 1.14.14.1) is responsible for the metabolism of approximately 25% of drugs in common clinical use. It is widely accepted that CYP2D6 is localized in the endoplasmic reticulum of cells; however, we have identified this enzyme in the mitochondria of human liver samples and found that extensive inter-individual variability exists with respect to the level of the mitochondrial enzyme. Metabolic assays using 7-methoxy-4-aminomethylcoumarin as a substrate show that the human liver mitochondrial enzyme is capable of oxidizing this substrate and that the catalytic activity is supported by mitochondrial electron transfer proteins. In the present study, we show that CYP2D6 contains an N-terminal chimeric signal that mediates its bimodal targeting to the endoplasmic reticulum and mitochondria. In vitro mitochondrial import studies using both N-terminal deletions and point mutations suggest that the mitochondrial targeting signal is localized between residues 23-33 and that the positively-charged residues at positions 24, 25, 26, 28 and 32 are required for mitochondrial targeting. The importance of the positively-charged residues was confirmed by transient transfection of a CYP2D6 mitochondrial targeting signal mutant in COS-7 cells. Both the mitochondria and the microsomes from a CYP2D6 stable expression cell line contain the enzyme and both fractions exhibit bufuralol 1'-hydroxylation activity, which is completely inhibited by CYP2D6 inhibitory antibody. Overall, these results suggest that the targeting of CYP2D6 to mitochondria could be an important physiological process that has significance in xenobiotic metabolism.
+
+-Amino Acid Sequence
+-Animals
+-COS Cells
+-Cercopithecus aethiops
+-Coumarins (-metabolism)
+-Cyclic AMP-Dependent Protein Kinases (-metabolism)
++Cytochrome P-450 CYP2D6 (-genetics; -metabolism)
+-Ethanolamines (-metabolism)
+-Humans
++Isoenzymes (-genetics; -metabolism)
+-Microsomes, Liver (+enzymology; -metabolism)
+-Molecular Sequence Data
+-Pharmaceutical Preparations (+metabolism)
+-Protein Sorting Signals (-genetics)
+
+pii:EJB7067
+doi:10.1111/j.1742-4658.2009.07067.x
+pubmed:19438707
+mid:NIHMS154399
+pmc:PMC2789264
+

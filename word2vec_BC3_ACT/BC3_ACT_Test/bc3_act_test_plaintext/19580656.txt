@@ -1,0 +1,29 @@
+BMC Cancer
+
+DDEC: Dragon database of genes implicated in esophageal cancer.
+
+M Essack, A Radovanovic, U Schaefer, S Schmeier, SV Seshadri, A Christoffels, M Kaur, VB Bajic
+
+BACKGROUND: Esophageal cancer ranks eighth in order of cancer occurrence. Its lethality primarily stems from inability to detect the disease during the early organ-confined stage and the lack of effective therapies for advanced-stage disease. Moreover, the understanding of molecular processes involved in esophageal cancer is not complete, hampering the development of efficient diagnostics and therapy. Efforts made by the scientific community to improve the survival rate of esophageal cancer have resulted in a wealth of scattered information that is difficult to find and not easily amendable to data-mining. To reduce this gap and to complement available cancer related bioinformatic resources, we have developed a comprehensive database (Dragon Database of Genes Implicated in Esophageal Cancer) with esophageal cancer related information, as an integrated knowledge database aimed at representing a gateway to esophageal cancer related data. DESCRIPTION: Manually curated 529 genes differentially expressed in EC are contained in the database. We extracted and analyzed the promoter regions of these genes and complemented gene-related information with transcription factors that potentially control them. We further, precompiled text-mined and data-mined reports about each of these genes to allow for easy exploration of information about associations of EC-implicated genes with other human genes and proteins, metabolites and enzymes, toxins, chemicals with pharmacological effects, disease concepts and human anatomy. The resulting database, DDEC, has a useful feature to display potential associations that are rarely reported and thus difficult to identify. Moreover, DDEC enables inspection of potentially new 'association hypotheses' generated based on the precompiled reports. CONCLUSION: We hope that this resource will serve as a useful complement to the existing public resources and as a good starting point for researchers and physicians interested in EC genetics. DDEC is freely accessible to academic and non-profit users at http://apps.sanbi.ac.za/ddec/. DDEC will be updated twice a year.
+
+-Database Management Systems
++Databases, Genetic
+-Databases, Protein
+-Esophageal Neoplasms (+genetics; +metabolism; -mortality)
+-Female
++Gene Expression Profiling
++Gene Expression Regulation, Neoplastic
+-Humans
+-Information Storage and Retrieval
+-Male
+-Models, Genetic
+-Ovarian Neoplasms (-genetics; -metabolism)
+-Software
+-Treatment Outcome
+-User-Computer Interface
+
+pii:1471-2407-9-219
+doi:10.1186/1471-2407-9-219
+pubmed:19580656
+pmc:PMC2711974
+

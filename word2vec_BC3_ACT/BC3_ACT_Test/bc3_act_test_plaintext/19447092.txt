@@ -1,0 +1,28 @@
+Neuron
+
+Subcellular dynamics of type II PKA in neurons.
+
+H Zhong, GM Sia, TR Sato, NW Gray, T Mao, Z Khuchua, RL Huganir, K Svoboda
+
+Protein kinase A (PKA) plays multiple roles in neurons. The localization and specificity of PKA are largely controlled by A-kinase anchoring proteins (AKAPs). However, the dynamics of PKA in neurons and the roles of specific AKAPs are poorly understood. We imaged the distribution of type II PKA in hippocampal and cortical layer 2/3 pyramidal neurons in vitro and in vivo. PKA was concentrated in dendritic shafts compared to the soma, axons, and dendritic spines. This spatial distribution was imposed by the microtubule-binding protein MAP2, indicating that MAP2 is the dominant AKAP in neurons. Following cAMP elevation, catalytic subunits dissociated from the MAP2-tethered regulatory subunits and rapidly became enriched in nearby spines. The spatial gradient of type II PKA between dendritic shafts and spines was critical for the regulation of synaptic strength and long-term potentiation. Therefore, the localization and activity-dependent translocation of type II PKA are important determinants of PKA function.
+
+-A Kinase Anchor Proteins (-classification; +metabolism)
+-Animals
+-Cerebral Cortex (-cytology; +enzymology)
+-Cyclic AMP-Dependent Protein Kinases (+metabolism)
+-Dendritic Spines (-enzymology)
+-Hippocampus (-cytology; +enzymology)
+-Mice
+-Mice, Transgenic
+-Microtubule-Associated Proteins (-metabolism)
+-Pyramidal Cells (+enzymology)
+-Rats
+-Subcellular Fractions (-enzymology)
+-Tissue Distribution
+
+pii:S0896-6273(09)00236-0
+doi:10.1016/j.neuron.2009.03.013
+pubmed:19447092
+mid:HHMIMS119665
+pmc:PMC2702487
+

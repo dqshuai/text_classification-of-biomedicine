@@ -1,0 +1,28 @@
+BMC Genomics
+
+Gene expression during Drosophila melanogaster egg development before and after reproductive diapause.
+
+DA Baker, S Russell
+
+BACKGROUND: Despite the importance of egg development to the female life cycle in Drosophila, global patterns of gene expression have not been examined in detail, primarily due to the difficulty in isolating synchronised developmental stages in sufficient quantities for gene expression profiling. Entry into vitellogenesis is a key stage of oogenesis and by forcing females into reproductive diapause we are able to arrest oogenesis at the pre-vitellogenic stages. Releasing females from diapause allows collection of relatively synchronous developing egg populations and an investigation of some of the transcriptional dynamics apparent before and after reproductive diapause. RESULTS: Focusing on gender-biased transcription, we identified mechanisms of egg development suppressed during reproductive dormancy as well as other molecular changes unique to the diapausing female. A microarray based analysis generated a set of 3565 transcripts with at least 2-fold greater expression in females as compared to control males, 1392 such changes were biased during reproductive dormancy. In addition, we also detect 1922 up-regulated transcriptional changes after entry into vitellogenesis, which were classified into discrete blocks of co-expression. We discuss some of the regulatory aspects apparent after re-initiation of egg development, exploring the underlying functions, maternal contribution and evolutionary conservation of co-expression patterns involved in egg production. CONCLUSION: Although much of the work we present is descriptive, fundamental aspects of egg development and gender-biased transcription can be derived from our time-series experiment. We believe that our dataset will facilitate further exploration of the developmental and evolutionary characteristics of oogenesis as well as the nature of reproductive arrest in Drosophila.
+
+-Animals
+-Cluster Analysis
+-Drosophila melanogaster (+genetics; -physiology)
+-Female
+-Gene Expression
++Gene Expression Regulation, Developmental
++Genes, Insect
+-Male
+-Oligonucleotide Array Sequence Analysis
+-Ovum (-physiology)
+-Reproduction (-genetics)
+-Sex Characteristics
+-Transcription, Genetic
+-Vitellogenesis (+genetics)
+
+pii:1471-2164-10-242
+doi:10.1186/1471-2164-10-242
+pubmed:19463195
+pmc:PMC2700134
+

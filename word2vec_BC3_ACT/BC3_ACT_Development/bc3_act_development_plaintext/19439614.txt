@@ -1,0 +1,33 @@
+J. Neurosci.
+
+Activation of the mammalian target of rapamycin (mTOR) is essential for oligodendrocyte differentiation.
+
+WA Tyler, N Gangoli, P Gokina, HA Kim, M Covey, SW Levison, TL Wood
+
+Although both extrinsic and intrinsic factors have been identified that orchestrate the differentiation and maturation of oligodendrocytes, less is known about the intracellular signaling pathways that control the overall commitment to differentiate. Here, we provide evidence that activation of the mammalian target of rapamycin (mTOR) is essential for oligodendrocyte differentiation. Specifically, mTOR regulates oligodendrocyte differentiation at the late progenitor to immature oligodendrocyte transition as assessed by the expression of stage specific antigens and myelin proteins including MBP and PLP. Furthermore, phosphorylation of mTOR on Ser 2448 correlates with myelination in the subcortical white matter of the developing brain. We demonstrate that mTOR exerts its effects on oligodendrocyte differentiation through two distinct signaling complexes, mTORC1 and mTORC2, defined by the presence of the adaptor proteins raptor and rictor, respectively. Disrupting mTOR complex formation via siRNA mediated knockdown of raptor or rictor significantly reduced myelin protein expression in vitro. However, mTORC2 alone controlled myelin gene expression at the mRNA level, whereas mTORC1 influenced MBP expression via an alternative mechanism. In addition, investigation of mTORC1 and mTORC2 targets revealed differential phosphorylation during oligodendrocyte differentiation. In OPC-DRG cocultures, inhibiting mTOR potently abrogated oligodendrocyte differentiation and reduced numbers of myelin segments. These data support the hypothesis that mTOR regulates commitment to oligodendrocyte differentiation before myelination.
+
+-Animals
+-Carrier Proteins (-metabolism)
++Cell Differentiation
+-Cells, Cultured
+-Coculture Techniques
+-Gene Expression
+-Gene Knockdown Techniques
+-Myelin Proteins (-metabolism)
+-Nerve Tissue Proteins (-metabolism)
+-Oligodendroglia (+cytology; -physiology)
+-Phosphorylation
+-Protein Kinases (+metabolism)
+-RNA, Messenger (-metabolism)
+-RNA, Small Interfering
+-Rats
+-Rats, Sprague-Dawley
+-Stem Cells (-cytology; -physiology)
+-Transcription Factors (+metabolism)
+
+pii:29/19/6367
+doi:10.1523/JNEUROSCI.0234-09.2009
+pubmed:19439614
+mid:NIHMS119173
+pmc:PMC2827328
+

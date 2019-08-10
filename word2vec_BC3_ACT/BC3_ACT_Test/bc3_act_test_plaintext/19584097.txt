@@ -1,0 +1,31 @@
+Genome Res.
+
+Clusters and superclusters of phased small RNAs in the developing inflorescence of rice.
+
+C Johnson, A Kasprzewska, K Tennessen, J Fernandes, GL Nan, V Walbot, V Sundaresan, V Vance, LH Bowman
+
+To address the role of small regulatory RNAs in rice development, we generated a large data set of small RNAs from mature leaves and developing roots, shoots, and inflorescences. Using a spatial clustering algorithm, we identified 36,780 genomic groups of small RNAs. Most consisted of 24-nt RNAs that are expressed in all four tissues and enriched in repeat regions of the genome; 1029 clusters were composed primarily of 21-nt small RNAs and, strikingly, 831 of these contained phased RNAs and were preferentially expressed in developing inflorescences. Thirty-eight of the 24-mer clusters were also phased and preferentially expressed in inflorescences. The phased 21-mer clusters derive from nonprotein coding, nonrepeat regions of the genome and are grouped together into superclusters containing 10-46 clusters. The majority of these 21-mer clusters (705/831) are flanked by a degenerate 22-nt motif that is offset by 12 nt from the main phase of the cluster. Small RNAs complementary to these flanking 22-nt motifs define a new miRNA family, which is conserved in maize and expressed in developing reproductive tissues in both plants. These results suggest that the biogenesis of phased inflorescence RNAs resembles that of tasiRNAs and raise the possibility that these novel small RNAs function in early reproductive development in rice and other monocots.
+
+-Base Sequence
+-Chromosome Mapping
+-Chromosomes, Plant (-genetics)
+-Cluster Analysis
+-Databases, Nucleic Acid
+-Flowers (+genetics; -growth & development)
+-Gene Expression Profiling
+-Gene Expression Regulation, Developmental
+-Gene Expression Regulation, Plant
+-Genome, Plant (-genetics)
+-MicroRNAs (-genetics)
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-Oryza sativa (+genetics; -growth & development)
+-RNA, Plant (-chemistry; -classification; +genetics)
+-RNA, Small Interfering (-genetics)
+-RNA, Untranslated (-chemistry; -classification; +genetics)
+
+pii:gr.089854.108
+doi:10.1101/gr.089854.108
+pubmed:19584097
+pmc:PMC2720183
+

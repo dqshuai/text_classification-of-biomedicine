@@ -1,0 +1,26 @@
+Biophys. J.
+
+Reaction dynamics of halorhodopsin studied by time-resolved diffusion.
+
+K Inoue, M Kubo, M Demura, N Kamo, M Terazima
+
+Reaction dynamics of a chloride ion pump protein, halorhodopsin (HR), from Natronomonas pharaonis (N. pharaonis) (NpHR) was studied by the pulsed-laser-induced transient grating (TG) method. A detailed investigation of the TG signal revealed that there is a spectrally silent diffusion process besides the absorption-observable reaction dynamics. We interpreted these dynamics in terms of release, diffusion, and uptake of the Cl(-) ion. From a quantitative global analysis of the signals at various grating wavenumbers, it was concluded that the release of the Cl(-) ion is associated with the L2 --> (L2 (or N) <==> O) process, and uptake of Cl(-) occurs with the (L2 (or N) <==> O) -->NpHR' process. The diffusion coefficient of NpHR solubilized in a detergent did not change during the cyclic reaction. This result contrasts the behavior of many photosensor proteins and implies that the change in the H-bond network from intra- to intermolecular is not significant for the activity of this protein pump.
+
+-Algorithms
+-Chlorides (-metabolism)
+-Computer Simulation
+-Diffusion
+-Escherichia coli
+-Gene Transfer Techniques
+-Halorhodopsins (-genetics; +metabolism)
+-Kinetics
++Light
+-Mutation, Missense
+-Natronobacterium
+-Time Factors
+
+pii:S0006-3495(09)00399-3
+doi:10.1016/j.bpj.2008.12.3932
+pubmed:19413978
+pmc:PMC2711408
+

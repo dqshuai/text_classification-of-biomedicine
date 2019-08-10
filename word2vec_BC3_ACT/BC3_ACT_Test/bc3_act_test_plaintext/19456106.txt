@@ -1,0 +1,23 @@
+Biochemistry
+
+Solution structure of the HsapBK K+ channel voltage-sensor paddle sequence.
+
+S Unnerståle, J Lind, E Papadopoulos, L Mäler
+
+Voltage-gated potassium channels open and close in response to changes in the membrane potential. In this study, we have determined the NMR solution structure of the putative S3b-S4 voltage-sensor paddle fragment, the part that moves to mediate voltage gating, of the HsapBK potassium channel in dodecylphosphocholine (DPC) micelles. This paper presents the first structure of the S3b-S4 fragment from a BK channel. Diffusion coefficients as determined from PFG NMR experiments showed that a well-defined complex between the peptide and DPC molecules was formed. The structure reveals a helix-turn-helix motif, which is in agreement with crystal structures of other voltage-gated potassium channels, thus indicating that it is feasible to study the isolated fragment. The paddle motifs generally contain several basic residues, implicated in the gating. The critical Arg residues in this structure all reside on the surface, which is in agreement with crystal structures of K(v) channels. Similarities in the structure of the S3b-S4 fragment in BK and K(v) channels as well as important differences are seen, which may be important for explaining the details in paddle movement within a bilayer.
+
+-Amino Acid Sequence
+-Crystallography, X-Ray
+-Helix-Turn-Helix Motifs (-genetics)
+-Humans
+-Large-Conductance Calcium-Activated Potassium Channel alpha Subunits (+chemistry; -genetics)
+-Molecular Sequence Data
+-Peptide Fragments (-chemistry; -genetics)
+-Pharmaceutical Solutions
+-Potassium Channels, Voltage-Gated (-chemistry; -genetics)
+-Protein Structure, Secondary (-genetics)
+-Protein Structure, Tertiary (-genetics)
+
+doi:10.1021/bi9004599
+pubmed:19456106
+

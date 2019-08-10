@@ -1,0 +1,21 @@
+Biophys. J.
+
+Twirling motion of actin filaments in gliding assays with nonprocessive Myosin motors.
+
+A Vilfan
+
+We present a model study of gliding assays in which actin filaments are moved by nonprocessive myosin motors. We show that even if the power stroke of the motor protein has no lateral component, the filaments will rotate around their axis while moving over the surface. Notably, the handedness of this twirling motion is opposite from that of the actin filament structure. It stems from the fact that the gliding actin filament has target zones, where its subunits point toward the surface and are therefore more accessible for myosin heads. Each myosin head has a higher binding probability before it reaches the center of the target zone than afterwards, which results in a left-handed twirling. We present a stochastic simulation and an approximative analytical solution. The calculated pitch of the twirling motion depends on the filament velocity (ATP concentration). It reaches approximately 400 nm for low speeds and increases with higher speeds.
+
+-Adenosine Triphosphate (+chemistry)
+-Computer Simulation
+-Microfilaments (+chemistry)
++Models, Chemical
+-Molecular Motor Proteins (+chemistry)
+-Myosins (+chemistry)
+-Rotation
+
+pii:S0006-3495(09)01058-3
+doi:10.1016/j.bpj.2009.06.008
+pubmed:19686661
+pmc:PMC2726309
+

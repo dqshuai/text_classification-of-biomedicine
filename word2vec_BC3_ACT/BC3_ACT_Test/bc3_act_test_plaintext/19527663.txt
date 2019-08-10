@@ -1,0 +1,20 @@
+Biophys. J.
+
+Quantitative analysis of single-molecule RNA-protein interaction.
+
+A Fuhrmann, JC Schoening, D Anselmetti, D Staiger, R Ros
+
+RNA-binding proteins impact gene expression at the posttranscriptional level by interacting with cognate cis elements within the transcripts. Here, we apply dynamic single-molecule force spectroscopy to study the interaction of the Arabidopsis glycine-rich RNA-binding protein AtGRP8 with its RNA target. A dwell-time-dependent analysis of the single-molecule data in combination with competition assays and site-directed mutagenesis of both the RNA target and the RNA-binding domain of the protein allowed us to distinguish and quantify two different binding modes. For dwell times <0.21 s an unspecific complex with a lifetime of 0.56 s is observed, whereas dwell times >0.33 s result in a specific interaction with a lifetime of 208 s. The corresponding reaction lengths are 0.28 nm for the unspecific and 0.55 nm for the specific AtGRP8-RNA interactions, indicating formation of a tighter complex with increasing dwell time. These two binding modes cannot be dissected in ensemble experiments. Quantitative titration in RNA bandshift experiments yields an ensemble-averaged equilibrium constant of dissociation of KD = 2 x 10(-7) M. Assuming comparable on-rates for the specific and nonspecific binding modes allows us to estimate their free energies as DeltaG0 = -42 kJ/mol and DeltaG0 = -28 kJ/mol for the specific and nonspecific binding modes, respectively. Thus, we show that single-molecule force spectroscopy with a refined statistical analysis is a potent tool for the analysis of protein-RNA interactions without the drawback of ensemble averaging. This makes it possible to discriminate between different binding modes or sites and to analyze them quantitatively. We propose that this method could be applied to complex interactions of biomolecules in general, and be of particular interest for the investigation of multivalent binding reactions.
+
+-Arabidopsis (+chemistry; -metabolism)
+-Arabidopsis Proteins (+analysis; -metabolism)
+-Oligonucleotides (-analysis; -metabolism)
+-Protein Binding
+-RNA, Messenger (-analysis; -metabolism)
+-RNA-Binding Proteins (+analysis; -metabolism)
+
+pii:S0006-3495(09)00762-0
+doi:10.1016/j.bpj.2009.03.022
+pubmed:19527663
+pmc:PMC2712025
+

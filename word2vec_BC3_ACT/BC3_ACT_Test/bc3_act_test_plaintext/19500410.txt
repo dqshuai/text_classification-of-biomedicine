@@ -1,0 +1,28 @@
+BMC Genomics
+
+Comparative profiling of the transcriptional response to infection in two species of Drosophila by short-read cDNA sequencing.
+
+TB Sackton, AG Clark
+
+BACKGROUND: Homology-based comparisons of the genes involved in innate immunity across many insect taxa with fully sequenced genomes has revealed a striking pattern of gene gain and loss, particularly among genes that encode proteins involved in clearing pathogens (effectors). However, limited functional annotation in non-model systems has hindered understanding of evolutionary novelties in the insect innate immune system. RESULTS: We use short read sequencing technology (Illumina/Solexa) to compare the transcriptional response to infection between the well studied model system Drosophila melanogaster and the distantly related drosophilid D. virilis. We first demonstrate that Illumina/Solexa sequencing of cDNA from infected and uninfected D. melanogaster recapitulates previously published microarray studies of the transcriptional response to infection in this species, validating our approach. We then show that patterns of transcription of homologous genes differ considerably between D. melanogaster and D. virilis, and identify potential candidates for novel components of the D. virilis immune system based on transcriptional data. Finally, we use a proteomic approach to characterize the protein constituents of the D. virilis hemolymph and validate our transcriptional data. CONCLUSION: These results suggest that the acquisition of novel components of the immune system, and particularly novel effector proteins, may be a common evolutionary phenomenon.
+
+-Animals
+-Bacterial Infections (-immunology)
+-Chromosome Mapping
+-DNA, Complementary (-genetics)
+-Drosophila (+genetics; +immunology)
+-Gene Expression Profiling (+methods)
+-Genes, Insect
+-Hemolymph (-immunology)
+-Markov Chains
+-Proteomics
+-Sequence Alignment
+-Sequence Analysis, DNA (+methods)
+-Tandem Mass Spectrometry
+-Transcription, Genetic
+
+pii:1471-2164-10-259
+doi:10.1186/1471-2164-10-259
+pubmed:19500410
+pmc:PMC2701966
+

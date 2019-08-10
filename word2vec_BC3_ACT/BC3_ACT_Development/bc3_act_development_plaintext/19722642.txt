@@ -1,0 +1,23 @@
+J. Am. Chem. Soc.
+
+Slow transition between two beta-strand registers is dictated by protein unfolding.
+
+MR Evans, KH Gardner
+
+The aryl hydrocarbon receptor nuclear translocator (ARNT) is a promiscuous, basic helix-loop-helix Period/ARNT/Single-minded protein that forms dimeric transcriptional regulator complexes with other bHLH-PAS proteins to regulate various biological pathways. Intriguingly, the introduction of a single point mutation into the C-terminal PAS-B domain resulted in a protein that can simultaneously exist in two distinct conformations. The difference between these two structures is a +3 slip and inversion of a central Ibeta-strand and an accompanying N448-P449 peptide bond isomerization in the preceding HI loop. Previous studies have indicated these two forms of Y456T interconvert on the approximate time scale of tens of minutes, allowing these two conformations to be separated by ion exchange chromatography. Here, we use time-resolved solution NMR spectroscopy to quantitatively characterize this rate and its temperature dependence, providing information into the transition state. When compared with fluorescence measurements of protein unfolding rates, we find data that suggest a linkage between interconversion and unfolding based on comparable temperature dependence and corresponding energetics of these processes. Notably, the N448-P449 peptide bond also plays a critical role for the interconversion between states, with a mutant unable to adopt a cis configuration at this bond (P449A/Y456T) being kinetically trapped under nondenaturing conditions. Taken together, these data provide information about a rare equilibrium model system for beta-strand slippage.
+
+-Aryl Hydrocarbon Receptor Nuclear Translocator (+chemistry; -genetics)
+-Humans
+-Models, Molecular
+-Nuclear Magnetic Resonance, Biomolecular
+-Point Mutation
+-Protein Folding
+-Protein Structure, Secondary
+-Protein Structure, Tertiary
+-Thermodynamics
+
+doi:10.1021/ja9048338
+pubmed:19722642
+mid:NIHMS134362
+pmc:PMC2739125
+

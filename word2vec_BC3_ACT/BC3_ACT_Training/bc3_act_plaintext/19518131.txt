@@ -1,0 +1,22 @@
+Biochemistry
+
+Nonadditivity in the recognition of single-stranded DNA by the schizosaccharomyces pombe protection of telomeres 1 DNA-binding domain, Pot1-DBD.
+
+JE Croy, SE Altschuler, NE Grimm, DS Wuttke
+
+The Schizosaccharomyces pombe protection of telomeres 1 (SpPot1) protein recognizes the 3' single-stranded ends of telomeres and provides essential protective and regulatory functions. The ssDNA-binding activity of SpPot1 is conferred by its ssDNA-binding domain, Pot1-DBD (residues 1-389), which can be further separated into two distinct domains, Pot1pN (residues 1-187) and Pot1pC (residues 188-389). Here we show that Pot1pC, like Pot1pN, can function independently of Pot1-DBD and binds specifically to a minimal nonameric oligonucleotide, d(GGTTACGGT), with a K(D) of 400 +/- 70 nM (specifically recognized nucleotides in bold). NMR chemical shift perturbation analysis indicates that the overall structures of the isolated Pot1pN and Pot1pC domains remain intact in Pot1-DBD. Furthermore, alanine scanning reveals modest differences in the ssDNA-binding contacts provided by isolated Pot1pN and within Pot1-DBD. Although the global character of both Pot1pN and Pot1pC is maintained in Pot1-DBD, chemical shift perturbation analysis highlights localized structural differences within the G1/G2 and T3/T4 binding pockets of Pot1pN in Pot1-DBD, which correlate with its distinct ssDNA-binding activity. Furthermore, we find evidence for a putative interdomain interface on Pot1pN that mediates interactions with Pot1pC that ultimately result in the altered ssDNA-binding activity of Pot1-DBD. Together, these data provide insight into the mechanisms underlying the activity and regulation of SpPot1 at the telomere.
+
+-DNA, Single-Stranded (+metabolism)
+-Electrophoretic Mobility Shift Assay
+-Models, Molecular
+-Mutagenesis
+-Nuclear Magnetic Resonance, Biomolecular
+-Schizosaccharomyces (-genetics; +metabolism)
+-Schizosaccharomyces pombe Proteins (-chemistry; -genetics; -isolation & purification; +metabolism)
++Telomere
+
+doi:10.1021/bi900307x
+pubmed:19518131
+mid:NIHMS132603
+pmc:PMC2756145
+

@@ -1,0 +1,29 @@
+Genome Res.
+
+LookSeq: a browser-based viewer for deep sequencing data.
+
+HM Manske, DP Kwiatkowski
+
+Sequencing a genome to great depth can be highly informative about heterogeneity within an individual or a population. Here we address the problem of how to visualize the multiple layers of information contained in deep sequencing data. We propose an interactive AJAX-based web viewer for browsing large data sets of aligned sequence reads. By enabling seamless browsing and fast zooming, the LookSeq program assists the user to assimilate information at different levels of resolution, from an overview of a genomic region to fine details such as heterogeneity within the sample. A specific problem, particularly if the sample is heterogeneous, is how to depict information about structural variation. LookSeq provides a simple graphical representation of paired sequence reads that is more revealing about potential insertions and deletions than are conventional methods.
+
+-Algorithms
+-Animals
+-Base Sequence
+-Databases, Nucleic Acid
+-Genetic Variation
+-Genome, Protozoan (-genetics)
+-Genomics (+methods)
+-Humans
+-Information Storage and Retrieval (-methods)
++Internet
+-Molecular Sequence Data
+-Plasmodium falciparum (-genetics)
+-Sequence Alignment (+methods)
+-Sequence Homology, Nucleic Acid
++Software
+
+pii:gr.093443.109
+doi:10.1101/gr.093443.109
+pubmed:19679872
+pmc:PMC2775587
+

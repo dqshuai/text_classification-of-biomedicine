@@ -1,0 +1,38 @@
+J. Neurosci.
+
+The mammalian molecular clockwork controls rhythmic expression of its own input pathway components.
+
+M Pfeffer, CM Müller, J Mordel, H Meissl, N Ansari, T Deller, HW Korf, C von Gall
+
+The core molecular clockwork in the suprachiasmatic nucleus (SCN) is based on autoregulatory feedback loops of transcriptional activators (CLOCK/NPAS2 and BMAL1) and inhibitors (mPER1-2 and mCRY1-2). To synchronize the phase of the molecular clockwork to the environmental day and night condition, light at dusk and dawn increases mPer expression. However, the signal transduction pathways differ remarkably between the day/night and the night/day transition. Light during early night leads to intracellular Ca(2+) release by neuronal ryanodine receptors (RyRs), resulting in phase delays. Light during late night triggers an increase in guanylyl cyclase activity, resulting in phase advances. To date, it is still unknown how the core molecular clockwork regulates the availability of the respective input pathway components. Therefore, we examined light resetting mechanisms in mice with an impaired molecular clockwork (BMAL1(-/-)) and the corresponding wild type (BMAL1(+/+)) using in situ hybridization, real-time PCR, immunohistochemistry, and a luciferase reporter system. In addition, intracellular calcium concentrations (Ca(2+)(i)) were measured in SCN slices using two-photon microscopy. In the SCN of BMAL1(-/-) mice Ryr mRNA and RyR protein levels were reduced, and light-induced mPer expression was selectively impaired during early night. Transcription assays with NIH3T3 fibroblasts showed that Ryr expression was activated by CLOCK::BMAL1 and inhibited by mCRY1. The Ca(2+)(i) response of SCN cells to the RyR agonist caffeine was reduced in BMAL1(-/-) compared with BMAL1(+/+) mice. Our findings provide the first evidence that the mammalian molecular clockwork influences Ryr expression and thus controls its own photic input pathway components.
+
+-ARNTL Transcription Factors
+-Animals
+-Basic Helix-Loop-Helix Transcription Factors (-genetics; +metabolism)
+-CLOCK Proteins
+-Caffeine (-pharmacology)
+-Calcium (-metabolism)
+-Calcium Channel Agonists (-pharmacology)
+-Circadian Rhythm (+physiology)
+-Cryptochromes
+-Flavoproteins (-metabolism)
+-Gene Expression
+-Immunohistochemistry
+-In Situ Hybridization
+-Intracellular Signaling Peptides and Proteins (+metabolism)
+-Light
+-Mice
+-Mice, Knockout
+-NIH 3T3 Cells
+-Period Circadian Proteins
+-Polymerase Chain Reaction
+-RNA, Messenger (-metabolism)
+-Ryanodine Receptor Calcium Release Channel (+metabolism)
+-Suprachiasmatic Nucleus (-drug effects; +physiology)
+-Supraoptic Nucleus (-physiology)
+-Trans-Activators (-metabolism)
+
+pii:29/19/6114
+doi:10.1523/JNEUROSCI.0275-09.2009
+pubmed:19439589
+

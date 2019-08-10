@@ -1,0 +1,34 @@
+Mol. Cell Proteomics
+
+The in vivo brain interactome of the amyloid precursor protein.
+
+Y Bai, K Markham, F Chen, R Weerasekera, J Watts, P Horne, Y Wakutani, R Bagshaw, PM Mathews, PE Fraser, D Westaway, P St George-Hyslop, G Schmitt-Ulms
+
+Despite intense research efforts, the physiological function and molecular environment of the amyloid precursor protein has remained enigmatic. Here we describe the application of time-controlled transcardiac perfusion cross-linking, a method for the in vivo mapping of protein interactions in intact tissue, to study the interactome of the amyloid precursor protein (APP). To gain insights into the specificity of reported protein interactions the study was extended to the mammalian amyloid precursor-like proteins (APLP1 and APLP2). To rule out sampling bias as an explanation for differences in the individual datasets, a small scale quantitative iTRAQ (isobaric tags for relative and absolute quantitation)-based comparison of APP, APLP1, and APLP2 interactomes was carried out. An interactome map was derived that confirmed eight previously reported interactions of APP and revealed the identity of more than 30 additional proteins that reside in spatial proximity to APP in the brain. Subsequent validation studies confirmed a physiological interaction between APP and leucine-rich repeat and Ig domain-containing protein 1, demonstrated a strong influence of Ig domain-containing protein 1 on the proteolytic processing of APP, and consolidated similarities in the biology of APP and p75.
+
+-Amino Acid Sequence
+-Amyloid Precursor Protein Secretases (-metabolism)
+-Amyloid beta-Protein Precursor (-chemistry; +metabolism)
+-Animals
+-Antibodies
+-Brain (+metabolism)
+-Cross-Linking Reagents (-pharmacology)
+-Heat-Shock Proteins (-chemistry; -metabolism)
+-Mass Spectrometry
+-Membrane Proteins (-chemistry; -metabolism)
+-Mice
+-Molecular Chaperones (-chemistry; -metabolism)
+-Molecular Sequence Data
+-Nerve Tissue Proteins (-chemistry; -metabolism)
+-Peptides (-chemistry; -metabolism)
+-Perfusion
+-Protein Binding (-drug effects)
+-Protein Interaction Mapping (+methods)
+-Protein Structure, Tertiary
+-Reproducibility of Results
+-Time Factors
+
+pii:M700077-MCP200
+doi:10.1074/mcp.M700077-MCP200
+pubmed:17934213
+

@@ -1,0 +1,34 @@
+Plant Cell
+
+MIDGET unravels functions of the Arabidopsis topoisomerase VI complex in DNA endoreduplication, chromatin condensation, and transcriptional silencing.
+
+V Kirik, A Schrader, JF Uhrig, M Hulskamp
+
+The plant homologs of the archaeal DNA topoisomerase VI complex are required for the progression of endoreduplication cycles. Here, we describe the identification of MIDGET (MID) as a novel component of topoisomerase VI. We show that mid mutants show the same phenotype as rhl1, rhl2, and top6B mutants and that MID protein physically interacts with RHL1. The phenotypic analysis revealed new phenotypes, indicating that topoisomerase VI is involved in chromatin organization and transcriptional silencing. In addition, genetic evidence is provided suggesting that the ATR-dependent DNA damage repair checkpoint is activated in mid mutants, and CYCB1;1 is ectopically activated. Finally, we demonstrate that overexpression of CYCB1;2 can rescue the endoreduplication defects in mid mutants, suggesting that in mid mutants, a specific checkpoint is activated preventing further progression of endoreduplication cycles.
+
+-Arabidopsis (-genetics; -growth & development; -metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism; -physiology)
+-Cell Cycle (-genetics; -physiology)
+-Cell Differentiation (-genetics)
+-Chromatin (+metabolism)
+-Cyclins (-genetics; -metabolism; -physiology)
+-DNA Repair
++DNA Replication
+-DNA Topoisomerases, Type II, Archaeal (-genetics; +metabolism)
+-Gene Expression Regulation, Plant
++Gene Silencing
+-Immunoprecipitation
+-Membrane Proteins (-genetics; -metabolism; -physiology)
+-Mutation
+-Phenotype
+-Plant Roots (-cytology; -genetics; -metabolism)
+-Plants, Genetically Modified
+-Seeds (-cytology; -genetics; -metabolism)
+-Transcription, Genetic
+-Two-Hybrid System Techniques
+
+pii:tpc.107.054361
+doi:10.1105/tpc.107.054361
+pubmed:17951446
+pmc:PMC2174703
+

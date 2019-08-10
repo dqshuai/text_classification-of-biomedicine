@@ -1,0 +1,22 @@
+PLoS ONE
+
+Evolutionary modeling and prediction of non-coding RNAs in Drosophila.
+
+RK Bradley, AV Uzilov, ME Skinner, YR Bendaña, L Barquist, I Holmes
+
+We performed benchmarks of phylogenetic grammar-based ncRNA gene prediction, experimenting with eight different models of structural evolution and two different programs for genome alignment. We evaluated our models using alignments of twelve Drosophila genomes. We find that ncRNA prediction performance can vary greatly between different gene predictors and subfamilies of ncRNA gene. Our estimates for false positive rates are based on simulations which preserve local islands of conservation; using these simulations, we predict a higher rate of false positives than previous computational ncRNA screens have reported. Using one of the tested prediction grammars, we provide an updated set of ncRNA predictions for D. melanogaster and compare them to previously-published predictions and experimental data. Many of our predictions show correlations with protein-coding genes. We found significant depletion of intergenic predictions near the 3' end of coding regions and furthermore depletion of predictions in the first intron of protein-coding genes. Some of our predictions are colocated with larger putative unannotated genes: for example, 17 of our predictions showing homology to the RFAM family snoR28 appear in a tandem array on the X chromosome; the 4.5 Kbp spanned by the predicted tandem array is contained within a FlyBase-annotated cDNA.
+
+-Animals
+-Base Sequence
+-Drosophila (+genetics)
++Evolution, Molecular
++Models, Genetic
+-Molecular Sequence Data
+-RNA, Transfer (-genetics)
+-RNA, Untranslated (+genetics)
+-Sequence Homology, Nucleic Acid
+
+doi:10.1371/journal.pone.0006478
+pubmed:19668382
+pmc:PMC2721679
+

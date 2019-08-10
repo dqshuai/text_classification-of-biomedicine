@@ -1,0 +1,21 @@
+BMC Bioinformatics
+
+OrthoClusterDB: an online platform for synteny blocks.
+
+MP Ng, IA Vergara, C Frech, Q Chen, X Zeng, J Pei, N Chen
+
+BACKGROUND: The recent availability of an expanding collection of genome sequences driven by technological advances has facilitated comparative genomics and in particular the identification of synteny among multiple genomes. However, the development of effective and easy-to-use methods for identifying such conserved gene clusters among multiple genomes-synteny blocks-as well as databases, which host synteny blocks from various groups of species (especially eukaryotes) and also allow users to run synteny-identification programs, lags behind. DESCRIPTIONS: OrthoClusterDB is a new online platform for the identification and visualization of synteny blocks. OrthoClusterDB consists of two key web pages: Run OrthoCluster and View Synteny. The Run OrthoCluster page serves as web front-end to OrthoCluster, a recently developed program for synteny block detection. Run OrthoCluster offers full control over the functionalities of OrthoCluster, such as specifying synteny block size, considering order and strandedness of genes within synteny blocks, including or excluding nested synteny blocks, handling one-to-many orthologous relationships, and comparing multiple genomes. In contrast, the View Synteny page gives access to perfect and imperfect synteny blocks precomputed for a large number of genomes, without the need for users to retrieve and format input data. Additionally, genes are cross-linked with public databases for effective browsing. For both Run OrthoCluster and View Synteny, identified synteny blocks can be browsed at the whole genome, chromosome, and individual gene level. OrthoClusterDB is freely accessible. CONCLUSION: We have developed an online system for the identification and visualization of synteny blocks among multiple genomes. The system is freely available at (http://genome.sfu.ca/orthoclusterdb/).
+
+-Databases, Genetic
+-Genome
+-Genomics (+methods)
+-Internet
++Software
++Synteny
+-User-Computer Interface
+
+pii:1471-2105-10-192
+doi:10.1186/1471-2105-10-192
+pubmed:19549318
+pmc:PMC2711082
+

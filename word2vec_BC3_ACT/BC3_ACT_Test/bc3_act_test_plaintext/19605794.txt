@@ -1,0 +1,23 @@
+Genome Res.
+
+A probabilistic approach for SNP discovery in high-throughput human resequencing data.
+
+R Hoberman, J Dias, B Ge, E Harmsen, M Mayhew, DJ Verlaan, T Kwan, K Dewar, M Blanchette, T Pastinen
+
+New high-throughput sequencing technologies are generating large amounts of sequence data, allowing the development of targeted large-scale resequencing studies. For these studies, accurate identification of polymorphic sites is crucial. Heterozygous sites are particularly difficult to identify, especially in regions of low coverage. We present a new strategy for identifying heterozygous sites in a single individual by using a machine learning approach that generates a heterozygosity score for each chromosomal position. Our approach also facilitates the identification of regions with unequal representation of two alleles and other poorly sequenced regions. The availability of confidence scores allows for a principled combination of sequencing results from multiple samples. We evaluate our method on a gold standard data genotype set from HapMap. We are able to classify sites in this data set as heterozygous or homozygous with 98.5% accuracy. In de novo data our probabilistic heterozygote detection ("ProbHD") is able to identify 93% of heterozygous sites at a <5% false call rate (FCR) as estimated based on independent genotyping results. In direct comparison of ProbHD with high-coverage 1000 Genomes sequencing available for a subset of our data, we observe >99.9% overall agreement for genotype calls and close to 90% agreement for heterozygote calls. Overall, our data indicate that high-throughput resequencing of human genomic regions requires careful attention to systematic biases in sample preparation as well as sequence contexts, and that their impact can be alleviated by machine learning-based sequence analyses allowing more accurate extraction of true DNA variants.
+
+-Computational Biology (-methods)
+-Genome, Human (+genetics)
+-Genotype
+-Heterozygote
+-Humans
+-Models, Statistical
+-Polymorphism, Single Nucleotide (+genetics)
++Probability
+-Sequence Analysis, DNA (+methods)
+
+pii:gr.092072.109
+doi:10.1101/gr.092072.109
+pubmed:19605794
+pmc:PMC2752119
+

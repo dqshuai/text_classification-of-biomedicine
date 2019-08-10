@@ -1,0 +1,31 @@
+Cancer Cell
+
+Latent bone metastasis in breast cancer tied to Src-dependent survival signals.
+
+XH Zhang, Q Wang, W Gerald, CA Hudis, L Norton, M Smid, JA Foekens, J Massagué
+
+Metastasis may arise years after removal of a primary tumor. The mechanisms allowing latent disseminated cancer cells to survive are unknown. We report that a gene expression signature of Src activation is associated with late-onset bone metastasis in breast cancer. This link is independent of hormone receptor status or breast cancer subtype. In breast cancer cells, Src is dispensable for homing to the bones or lungs but is critical for the survival and outgrowth of these cells in the bone marrow. Src mediates AKT regulation and cancer cell survival responses to CXCL12 and TNF-related apoptosis-inducing ligand (TRAIL), factors that are distinctively expressed in the bone metastasis microenvironment. Breast cancer cells that lodge in the bone marrow succumb in this environment when deprived of Src activity.
+
+-Bone Marrow (-pathology; -physiopathology)
+-Bone Neoplasms (-enzymology; -genetics; +pathology; +secondary)
+-Breast Neoplasms (-embryology; -genetics; +pathology)
+-Cell Survival
+-Chemokine CXCL12 (-metabolism)
+-Disease-Free Survival
+-Female
+-Gene Expression Regulation, Neoplastic
+-Humans
+-Lung (-pathology)
+-Neoplasm Metastasis (-pathology)
+-Proto-Oncogene Proteins c-akt (-metabolism)
+-Proto-Oncogene Proteins pp60(c-src) (+genetics; -metabolism)
+-Receptors, CXCR4 (-metabolism)
+-Signal Transduction
+-TNF-Related Apoptosis-Inducing Ligand (-metabolism)
+
+pii:S1535-6108(09)00179-2
+doi:10.1016/j.ccr.2009.05.017
+pubmed:19573813
+mid:NIHMS130826
+pmc:PMC2749247
+

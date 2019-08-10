@@ -1,0 +1,28 @@
+Cell Death Differ.
+
+PUMA is directly activated by NF-kappaB and contributes to TNF-alpha-induced apoptosis.
+
+P Wang, W Qiu, C Dudgeon, H Liu, C Huang, GP Zambetti, J Yu, L Zhang
+
+Tumor necrosis factor-alpha (TNF-alpha) is a cytokine that has an important role in immunity and inflammation by inducing cellular responses such as apoptosis. The transcription factor nuclear factor-kappaB (NF-kappaB) can paradoxically suppress and promote apoptosis in response to TNF-alpha. In this study, we found that p53 upregulated modulator of apoptosis (PUMA), a p53 downstream target and a BH3-only Bcl-2 family member, is directly regulated by NF-kappaB in response to TNF-alpha. TNF-alpha treatment led to increases in PUMA mRNA and protein levels in human colon cancer cells. The induction of PUMA was p53 independent, and mediated by the p65 component of NF-kappaB through a kappaB site in the PUMA promoter. The apoptotic effect of PUMA induction by TNF-alpha was unmasked by depleting the antiapoptotic protein Bcl-X(L). In mice, PUMA was also induced by TNF-alpha in an NF-kappaB-dependent manner. TNF-alpha-induced apoptosis in a variety of tissues and cell types, including small intestinal epithelial cells, hepatocytes, and thymocytes, was markedly reduced in PUMA-deficient mice. Collectively, these results demonstrated that PUMA is a direct target of NF-kappaB and mediates TNF-alpha-induced apoptosis in vitro and in vivo.
+
+-Animals
+-Apoptosis
+-Apoptosis Regulatory Proteins (-genetics; +metabolism)
+-BH3 Interacting Domain Death Agonist Protein (-metabolism)
+-Cell Line, Tumor
+-Humans
+-Mice
+-NF-kappa B (+metabolism)
+-Promoter Regions, Genetic
+-Proto-Oncogene Proteins (-genetics; +metabolism)
+-Transcription Factor RelA (-metabolism)
+-Tumor Necrosis Factor-alpha (-metabolism; +pharmacology)
+-bcl-X Protein (-metabolism)
+
+pii:cdd200951
+doi:10.1038/cdd.2009.51
+pubmed:19444283
+mid:NIHMS195042
+pmc:PMC2872087
+

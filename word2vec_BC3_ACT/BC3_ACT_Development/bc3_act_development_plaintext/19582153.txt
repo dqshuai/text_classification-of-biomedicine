@@ -1,0 +1,26 @@
+PLoS ONE
+
+Functional imaging of stimulus convergence in amygdalar neurons during Pavlovian fear conditioning.
+
+SK Barot, A Chung, JJ Kim, IL Bernstein
+
+BACKGROUND: Associative conditioning is a ubiquitous form of learning throughout the animal kingdom and fear conditioning is one of the most widely researched models for studying its neurobiological basis. Fear conditioning is also considered a model system for understanding phobias and anxiety disorders. A fundamental issue in fear conditioning regards the existence and location of neurons in the brain that receive convergent information about the conditioned stimulus (CS) and unconditioned stimulus (US) during the acquisition of conditioned fear memory. Convergent activation of neurons is generally viewed as a key event for fear learning, yet there has been almost no direct evidence of this critical event in the mammalian brain. METHODOLOGY/PRINCIPAL FINDINGS: Here, we used Arc cellular compartmental analysis of temporal gene transcription by fluorescence in situ hybridization (catFISH) to identify neurons activated during single trial contextual fear conditioning in rats. To conform to temporal requirements of catFISH analysis we used a novel delayed contextual fear conditioning protocol which yields significant single- trial fear conditioning with temporal parameters amenable to catFISH analysis. Analysis yielded clear evidence that a population of BLA neurons receives convergent CS and US information at the time of the learning, that this only occurs when the CS-US arrangement is supportive of the learning, and that this process requires N-methyl-D-aspartate receptor activation. In contrast, CS-US convergence was not observed in dorsal hippocampus. CONCLUSIONS/SIGNIFICANCE: Based on the pattern of Arc activation seen in conditioning and control groups, we propose that a key requirement for CS-US convergence onto BLA neurons is the potentiation of US responding by prior exposure to a novel CS. Our results also support the view that contextual fear memories are encoded in the amygdala and that the role of dorsal hippocampus is to process and transmit contextual CS information.
+
+-Amygdala (-cytology; +physiology)
+-Animals
++Conditioning, Classical
++Fear
+-Hippocampus (-cytology; -physiology)
+-In Situ Hybridization, Fluorescence
+-Male
+-Microscopy, Confocal
+-Neurons (+cytology)
+-Rats
+-Rats, Sprague-Dawley
+-Receptors, N-Methyl-D-Aspartate (-antagonists & inhibitors)
+-Transcription, Genetic
+
+doi:10.1371/journal.pone.0006156
+pubmed:19582153
+pmc:PMC2701998
+

@@ -1,0 +1,21 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Automated multidimensional phenotypic profiling using large public microarray repositories.
+
+M Xu, W Li, GM James, MR Mehan, XJ Zhou
+
+Phenotypes are complex, and difficult to quantify in a high-throughput fashion. The lack of comprehensive phenotype data can prevent or distort genotype-phenotype mapping. Here, we describe "PhenoProfiler," a computational method that enables in silico phenotype profiling. Drawing on the principle that similar gene expression patterns are likely to be associated with similar phenotype patterns, PhenoProfiler supplements the missing quantitative phenotype information for a given microarray dataset based on other well-characterized microarray datasets. We applied our method to 587 human microarray datasets covering >14,000 samples, and confirmed that the predicted phenotype profiles are highly consistent with true phenotype descriptions. PhenoProfiler offers several unique capabilities: (i) automated, multidimensional phenotype profiling, facilitating the analysis and treatment design of complex diseases; (ii) the extrapolation of phenotype profiles beyond provided classes; and (iii) the detection of confounding phenotype factors that could otherwise bias biological inferences. Finally, because no direct comparisons are made between gene expression values from different datasets, the method can use the entire body of cross-platform microarray data. This work has produced a compendium of phenotype profiles for the National Center for Biotechnology Information GEO datasets, which can facilitate an unbiased understanding of the transcriptome-phenome mapping. The continued accumulation of microarray data will further increase the power of PhenoProfiler, by increasing the variety and the quality of phenotypes to be profiled.
+
++Algorithms
+-Animals
+-Gene Expression Profiling (-methods; +statistics & numerical data)
+-Genotype
+-Humans
+-Oligonucleotide Array Sequence Analysis (-methods; +statistics & numerical data)
+-Phenotype
+
+pii:0900883106
+doi:10.1073/pnas.0900883106
+pubmed:19590007
+pmc:PMC2708172
+

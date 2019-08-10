@@ -1,0 +1,32 @@
+EMBO J.
+
+In vitro analyses of the production and activity of secondary small interfering RNAs in C. elegans.
+
+K Aoki, H Moriguchi, T Yoshioka, K Okawa, H Tabara
+
+In the RNA interference (RNAi) pathway, small interfering RNAs (siRNAs) play important roles as intermediates. Primary siRNAs are produced from trigger dsRNAs by an RNaseIII-related enzyme called Dicer; in some organisms, secondary siRNAs are also produced by processes involving RNA-dependent RNA polymerases (RdRPs), which act on target mRNAs. Using a cell-free assay system prepared from Caenorhabditis elegans, we analyzed the production and activity of secondary siRNAs. In this cell-free system, RdRP activity acts on mRNA-derived templates to produce small RNAs. The RRF-1 complex is predominantly responsible for the RdRP activity, and synthesizes secondary-type siRNA molecules in a Dicer-independent manner. Notably, secondary-type siRNAs induce a prominent Slicer activity to cleave target mRNAs far more effectively than primary-type siRNAs. An Argonaute protein, CSR-1, is responsible for the Slicer activity induced by secondary-type siRNAs. Secondary rather than primary siRNAs may play a major role in the destabilization of target transcripts during RNAi in C. elegans.
+
+-Animals
+-Animals, Genetically Modified
+-Caenorhabditis elegans (+genetics)
+-Caenorhabditis elegans Proteins (-genetics; -metabolism)
+-Cell-Free System
+-DEAD-box RNA Helicases (-genetics; -metabolism)
+-Endoribonucleases (-genetics; -metabolism)
+-Eukaryotic Initiation Factor-2 (-genetics; -metabolism)
+-Gene Expression Regulation
+-Multiprotein Complexes (-metabolism)
++RNA Interference
+-RNA Replicase (-genetics; -metabolism)
+-RNA, Helminth (-genetics; +metabolism)
+-RNA, Messenger (-metabolism)
+-RNA, Small Interfering (-genetics; +metabolism)
+-RNA-Binding Proteins (-genetics; -metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Transgenes
+
+pii:7601910
+doi:10.1038/sj.emboj.7601910
+pubmed:18007599
+pmc:PMC2140100
+

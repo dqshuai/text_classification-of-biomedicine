@@ -1,0 +1,30 @@
+Neuron
+
+Instantaneous modulation of gamma oscillation frequency by balancing excitation with inhibition.
+
+BV Atallah, M Scanziani
+
+Neurons recruited for local computations exhibit rhythmic activity at gamma frequencies. The amplitude and frequency of these oscillations are continuously modulated depending on stimulus and behavioral state. This modulation is believed to crucially control information flow across cortical areas. Here we report that in the rat hippocampus gamma oscillation amplitude and frequency vary rapidly, from one cycle to the next. Strikingly, the amplitude of one oscillation predicts the interval to the next. Using in vivo and in vitro whole-cell recordings, we identify the underlying mechanism. We show that cycle-by-cycle fluctuations in amplitude reflect changes in synaptic excitation spanning over an order of magnitude. Despite these rapid variations, synaptic excitation is immediately and proportionally counterbalanced by inhibition. These rapid adjustments in inhibition instantaneously modulate oscillation frequency. So, by rapidly balancing excitation with inhibition, the hippocampal network is able to swiftly modulate gamma oscillations over a wide band of frequencies.
+
+-Animals
+-Biological Clocks (+physiology)
+-Hippocampus (-cytology)
+-Membrane Potentials (+physiology)
+-Models, Neurological
+-Neural Inhibition (+physiology)
+-Neurons (+physiology)
+-Patch-Clamp Techniques (-methods)
+-Predictive Value of Tests
+-Rats
+-Rats, Wistar
+-Reaction Time (-physiology)
+-Statistics as Topic
+-Synapses (-physiology)
+-Synaptic Potentials (-physiology)
+
+pii:S0896-6273(09)00351-1
+doi:10.1016/j.neuron.2009.04.027
+pubmed:19477157
+mid:NIHMS121330
+pmc:PMC2702525
+

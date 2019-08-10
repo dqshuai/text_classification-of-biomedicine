@@ -1,0 +1,30 @@
+PLoS Pathog.
+
+Stage-specific inhibition of MHC class I presentation by the Epstein-Barr virus BNLF2a protein during virus lytic cycle.
+
+NP Croft, C Shannon-Lowe, AI Bell, D Horst, E Kremmer, ME Ressing, EJ Wiertz, JM Middeldorp, M Rowe, AB Rickinson, AD Hislop
+
+The gamma-herpesvirus Epstein-Barr virus (EBV) persists for life in infected individuals despite the presence of a strong immune response. During the lytic cycle of EBV many viral proteins are expressed, potentially allowing virally infected cells to be recognized and eliminated by CD8+ T cells. We have recently identified an immune evasion protein encoded by EBV, BNLF2a, which is expressed in early phase lytic replication and inhibits peptide- and ATP-binding functions of the transporter associated with antigen processing. Ectopic expression of BNLF2a causes decreased surface MHC class I expression and inhibits the presentation of indicator antigens to CD8+ T cells. Here we sought to examine the influence of BNLF2a when expressed naturally during EBV lytic replication. We generated a BNLF2a-deleted recombinant EBV (DeltaBNLF2a) and compared the ability of DeltaBNLF2a and wild-type EBV-transformed B cell lines to be recognized by CD8+ T cell clones specific for EBV-encoded immediate early, early and late lytic antigens. Epitopes derived from immediate early and early expressed proteins were better recognized when presented by DeltaBNLF2a transformed cells compared to wild-type virus transformants. However, recognition of late antigens by CD8+ T cells remained equally poor when presented by both wild-type and DeltaBNLF2a cell targets. Analysis of BNLF2a and target protein expression kinetics showed that although BNLF2a is expressed during early phase replication, it is expressed at a time when there is an upregulation of immediate early proteins and initiation of early protein synthesis. Interestingly, BNLF2a protein expression was found to be lost by late lytic cycle yet DeltaBNLF2a-transformed cells in late stage replication downregulated surface MHC class I to a similar extent as wild-type EBV-transformed cells. These data show that BNLF2a-mediated expression is stage-specific, affecting presentation of immediate early and early proteins, and that other evasion mechanisms operate later in the lytic cycle.
+
+-Animals
+-Antigen Presentation
+-Antigens, Viral (-immunology)
+-CD8-Positive T-Lymphocytes (-immunology)
+-Cell Line
+-Epstein-Barr Virus Infections (-immunology; +virology)
+-Flow Cytometry
+-Gene Expression
+-HLA Antigens (-biosynthesis; +immunology)
+-Herpesvirus 4, Human (-genetics; +immunology)
+-Histocompatibility Antigens Class I (-biosynthesis; -immunology)
+-Humans
+-Mutation
+-Polymerase Chain Reaction
+-RNA, Messenger (-biosynthesis; -genetics)
+-Rats
+-Viral Matrix Proteins (-biosynthesis; -genetics; +immunology)
+
+doi:10.1371/journal.ppat.1000490
+pubmed:19557156
+pmc:PMC2695766
+

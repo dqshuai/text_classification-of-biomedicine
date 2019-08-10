@@ -1,0 +1,24 @@
+Biochemistry
+
+PcrA helicase tightly couples ATP hydrolysis to unwinding double-stranded DNA, modulated by the initiator protein for plasmid replication, RepD.
+
+AF Slatter, CD Thomas, MR Webb
+
+The plasmid replication initiator protein, RepD, greatly stimulates the ability of the DNA helicase, PcrA, to unwind plasmid lengths of DNA. Unwinding begins at oriD, the double-stranded origin of replication that RepD recognizes and covalently binds to initiate replication. Using a combination of plasmids containing oriD and oligonucleotide structures that mimic parts of oriD, the kinetics of DNA nicking and separation have been determined, along with the coupling ratio between base separation and ATP hydrolysis. At 30 degrees C, the rate of nicking is 1.0 s(-1), and translocation is approximately 30 bp s(-1). During translocation, the coupling ratio is one ATP hydrolyzed per base pair separated, the same as the value previously reported for ATP hydrolyzed per base moved by PcrA along single-stranded DNA. The data suggest that processivity is high, such that several thousand base-pair plasmids are unwound by a single molecule of PcrA. In the absence of RepD, a single PcrA is unable to separate even short lengths (10 to 40 bp) of double stranded DNA.
+
+-Adenosine Triphosphate (+metabolism)
+-Bacterial Proteins (+metabolism)
+-Base Sequence
+-DNA (+metabolism)
+-DNA Helicases (+metabolism)
+-DNA Primers
+-Geobacillus stearothermophilus (+enzymology)
+-Hydrolysis
+-Kinetics
++Plasmids
+-Polymerase Chain Reaction
+
+doi:10.1021/bi900101h
+pubmed:19473041
+pmc:PMC2776994
+

@@ -1,0 +1,20 @@
+Nucleic Acids Res.
+
+A translational signature for nucleosome positioning in vivo.
+
+M Caserta, E Agricola, M Churcher, E Hiriart, L Verdone, E Di Mauro, A Travers
+
+In vivo nucleosomes often occupy well-defined preferred positions on genomic DNA. An important question is to what extent these preferred positions are directly encoded by the DNA sequence itself. We derive here from in vivo positions, accurately mapped by partial micrococcal nuclease digestion, a translational positioning signal that identifies the approximate midpoint of DNA bound by a histone octamer. This midpoint is, on average, highly A/T rich ( approximately 73%) and, in particular, the dinucleotide TpA occurs preferentially at this and other outward-facing minor grooves. We conclude that in this set of sequences the sequence code for DNA bending and nucleosome positioning differs from the other described sets and we suggest that the enrichment of AT-containing dinucleotides at the centre is required for local untwisting. We show that this signature is preferentially associated with nucleosomes flanking promoter regions and suggest that it contributes to the establishment of gene-specific nucleosome arrays.
+
+-AT Rich Sequence
+-DNA (+chemistry)
+-Micrococcal Nuclease
+-Nucleosomes (+chemistry)
++Protein Biosynthesis
+-Sequence Analysis, DNA
+
+pii:gkp574
+doi:10.1093/nar/gkp574
+pubmed:19596807
+pmc:PMC2760819
+

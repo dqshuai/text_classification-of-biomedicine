@@ -1,0 +1,26 @@
+Nucleic Acids Res.
+
+PosMed (Positional Medline): prioritizing genes with an artificial neural network comprising medical documents to accelerate positional cloning.
+
+Y Yoshida, Y Makita, N Heida, S Asano, A Matsushima, M Ishii, Y Mochizuki, H Masuya, S Wakana, N Kobayashi, T Toyoda
+
+PosMed (http://omicspace.riken.jp/) prioritizes candidate genes for positional cloning by employing our original database search engine GRASE, which uses an inferential process similar to an artificial neural network comprising documental neurons (or 'documentrons') that represent each document contained in databases such as MEDLINE and OMIM. Given a user-specified query, PosMed initially performs a full-text search of each documentron in the first-layer artificial neurons and then calculates the statistical significance of the connections between the hit documentrons and the second-layer artificial neurons representing each gene. When a chromosomal interval(s) is specified, PosMed explores the second-layer and third-layer artificial neurons representing genes within the chromosomal interval by evaluating the combined significance of the connections from the hit documentrons to the genes. PosMed is, therefore, a powerful tool that immediately ranks the candidate genes by connecting phenotypic keywords to the genes through connections representing not only gene-gene interactions but also other biological interactions (e.g. metabolite-gene, mutant mouse-gene, drug-gene, disease-gene and protein-protein interactions) and ortholog data. By utilizing orthologous connections, PosMed facilitates the ranking of human genes based on evidence found in other model species such as mouse. Currently, PosMed, an artificial superbrain that has learned a vast amount of biological knowledge ranging from genomes to phenomes (or 'omic space'), supports the prioritization of positional candidate genes in humans, mouse, rat and Arabidopsis thaliana.
+
+-Algorithms
+-Animals
+-Arabidopsis (-genetics)
++Cloning, Molecular
++Genes
+-Humans
+-Internet
+-MEDLINE
+-Mice
++Neural Networks (Computer)
+-Rats
++Software
+
+pii:gkp384
+doi:10.1093/nar/gkp384
+pubmed:19468046
+pmc:PMC2703941
+

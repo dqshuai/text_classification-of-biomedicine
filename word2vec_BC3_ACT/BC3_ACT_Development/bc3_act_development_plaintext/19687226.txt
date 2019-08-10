@@ -1,0 +1,35 @@
+J. Exp. Med.
+
+Dissection of PIM serine/threonine kinases in FLT3-ITD-induced leukemogenesis reveals PIM1 as regulator of CXCL12-CXCR4-mediated homing and migration.
+
+R Grundler, L Brault, C Gasser, AN Bullock, T Dechow, S Woetzel, V Pogacic, A Villa, S Ehret, G Berridge, A Spoo, C Dierks, A Biondi, S Knapp, J Duyster, J Schwaller
+
+FLT3-ITD-mediated leukemogenesis is associated with increased expression of oncogenic PIM serine/threonine kinases. To dissect their role in FLT3-ITD-mediated transformation, we performed bone marrow reconstitution assays. Unexpectedly, FLT3-ITD cells deficient for PIM1 failed to reconstitute lethally irradiated recipients, whereas lack of PIM2 induction did not interfere with FLT3-ITD-induced disease. PIM1-deficient bone marrow showed defects in homing and migration and displayed decreased surface CXCR4 expression and impaired CXCL12-CXCR4 signaling. Through small interfering RNA-mediated knockdown, chemical inhibition, expression of a dominant-negative mutant, and/or reexpression in knockout cells, we found PIM1 activity to be essential for proper CXCR4 surface expression and migration of cells toward a CXCL12 gradient. Purified PIM1 led to the phosphorylation of serine 339 in the CXCR4 intracellular domain in vitro, a site known to be essential for normal receptor recycling. In primary leukemic blasts, high levels of surface CXCR4 were associated with increased PIM1 expression, and this could be significantly reduced by a small molecule PIM inhibitor in some patients. Our data suggest that PIM1 activity is important for homing and migration of hematopoietic cells through modification of CXCR4. Because CXCR4 also regulates homing and maintenance of cancer stem cells, PIM1 inhibitors may exert their antitumor effects in part by interfering with interactions with the microenvironment.
+
+-Animals
+-Bone Marrow Cells (+cytology; -metabolism)
+-Cell Movement (+physiology)
+-Cell Transformation, Neoplastic (+metabolism)
+-Chemokine CXCL12 (-metabolism)
+-DNA Primers (-genetics)
+-Flow Cytometry
+-Humans
+-Immunoblotting
+-Immunophenotyping
+-Jurkat Cells
+-Leukemia, Myeloid, Acute (+metabolism)
+-Mice
+-Mice, Knockout
+-Phosphorylation
+-Proto-Oncogene Proteins c-pim-1 (-genetics; +metabolism)
+-RNA Interference
+-Receptors, CXCR4 (-metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization
+-fms-Like Tyrosine Kinase 3
+
+pii:jem.20082074
+doi:10.1084/jem.20082074
+pubmed:19687226
+pmc:PMC2737164
+

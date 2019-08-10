@@ -1,0 +1,26 @@
+Mol. Cell
+
+Protein occupancy landscape of a bacterial genome.
+
+T Vora, AK Hottes, S Tavazoie
+
+Protein-DNA interactions are fundamental to core biological processes, including transcription, DNA replication, and chromosomal organization. We have developed in vivo protein occupancy display (IPOD), a technology that reveals protein occupancy across an entire bacterial chromosome at the resolution of individual binding sites. Application to Escherichia coli reveals thousands of protein occupancy peaks, highly enriched within and in close proximity to noncoding regulatory regions. In addition, we discovered extensive (>1 kilobase) protein occupancy domains (EPODs), some of which are localized to highly expressed genes, enriched in RNA-polymerase occupancy. However, the majority are localized to transcriptionally silent loci dominated by conserved hypothetical ORFs. These regions are highly enriched in both predicted and experimentally determined binding sites of nucleoid proteins and exhibit extreme biophysical characteristics such as high intrinsic curvature. Our observations implicate these transcriptionally silent EPODs as the elusive organizing centers, long proposed to topologically isolate chromosomal domains.
+
+-Binding Sites
+-Chromosomes, Bacterial (-chemistry; +metabolism)
+-DNA Footprinting
+-DNA-Binding Proteins (-genetics; +metabolism)
+-DNA-Directed RNA Polymerases (-metabolism)
+-Escherichia coli (+genetics; -metabolism)
+-Escherichia coli Proteins (-genetics; +metabolism)
+-Gene Expression Profiling
++Genome, Bacterial
+-Hybridization, Genetic
+-RNA, Messenger (-metabolism)
+
+pii:S1097-2765(09)00479-1
+doi:10.1016/j.molcel.2009.06.035
+pubmed:19647521
+mid:NIHMS133392
+pmc:PMC2763621
+

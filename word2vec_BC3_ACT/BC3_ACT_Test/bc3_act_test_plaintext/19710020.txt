@@ -1,0 +1,25 @@
+J. Biol. Chem.
+
+A single amino acid substitution converts benzophenone synthase into phenylpyrone synthase.
+
+T Klundt, M Bocola, M Lütge, T Beuerle, B Liu, L Beerhues
+
+Benzophenone metabolism provides a number of plant natural products with fascinating chemical structures and intriguing pharmacological activities. Formation of the carbon skeleton of benzophenone derivatives from benzoyl-CoA and three molecules of malonyl-CoA is catalyzed by benzophenone synthase (BPS), a member of the superfamily of type III polyketide synthases. A point mutation in the active site cavity (T135L) transformed BPS into a functional phenylpyrone synthase (PPS). The dramatic change in both substrate and product specificities of BPS was rationalized by homology modeling. The mutation may open a new pocket that accommodates the phenyl moiety of the triketide intermediate but limits polyketide elongation to two reactions, resulting in phenylpyrone formation. 3-Hydroxybenzoyl-CoA is the second best starter molecule for BPS but a poor substrate for PPS. The aryl moiety of the triketide intermediate may be trapped in the new pocket by hydrogen bond formation with the backbone, thereby acting as an inhibitor. PPS is a promising biotechnological tool for manipulating benzoate-primed biosynthetic pathways to produce novel compounds.
+
+-Amino Acid Sequence
++Amino Acid Substitution
+-Benzophenones (-chemistry)
+-Binding Sites
+-Carbon-Carbon Ligases (+chemistry; +genetics; -metabolism)
+-Hypericum (-chemistry; +enzymology; -genetics)
+-Models, Molecular
+-Molecular Sequence Data
+-Plant Proteins (+chemistry; +genetics; -metabolism)
+-Point Mutation
+-Substrate Specificity
+
+pii:M109.038927
+doi:10.1074/jbc.M109.038927
+pubmed:19710020
+pmc:PMC2781496
+

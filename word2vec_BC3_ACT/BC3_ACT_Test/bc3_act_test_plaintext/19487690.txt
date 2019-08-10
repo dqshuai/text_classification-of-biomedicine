@@ -1,0 +1,38 @@
+J. Biol. Chem.
+
+Plasminogen activator inhibitor-1 regulates integrin alphavbeta3 expression and autocrine transforming growth factor beta signaling.
+
+BS Pedroja, LE Kang, AO Imas, P Carmeliet, AM Bernstein
+
+Fibrosis is characterized by elevated transforming growth factor beta (TGFbeta) signaling, resulting in extracellular matrix accumulation and increased PAI-1 (plasminogen activator inhibitor) expression. PAI-1 induces the internalization of urokinase plasminogen activator/receptor and integrin alphavbeta3 from the cell surface. Since increased alphavbeta3 expression correlates with increased TGFbeta signaling, we hypothesized that aberrant PAI-1-mediated alphavbeta3 endocytosis could initiate an autocrine loop of TGFbeta activity. We found that in PAI-1 knock-out (KO) mouse embryonic fibroblasts), alphavbeta3 endocytosis was reduced by approximately 75%, leaving alphavbeta3 in enlarged focal adhesions, similar to wild type cells transfected with PAI-1 small interfering RNA. TGFbeta signaling was significantly enhanced in PAI-1 KO cells, as demonstrated by a 3-fold increase in SMAD2/3-containing nuclei and a 2.9-fold increase in TGFbeta activity that correlated with an increase in alphavbeta3 and TGFbeta receptor II expression. As expected, PAI-1 KO cells had unregulated plasmin activity, which was only partially responsible for TGFbeta activation, as evidenced by a mere 25% reduction in TGFbeta activity when plasmin was inhibited. Treatment of cells with an alphavbeta3-specific cyclic RGD peptide (GpenGRGD) led to a more profound (59%) TGFbeta inhibition; a nonspecific RGD peptide (GRGDNP) inhibited TGFbeta by only 23%. Human primary fibroblasts were used to confirm that PAI-1 inhibition and beta3 overexpression led to an increase in TGFbeta activity. Consistent with a fibrotic phenotype, PAI-1 KO cells were constitutively myofibroblasts that had a 1.6-fold increase in collagen deposition over wild type cells. These data suggest that PAI-1-mediated regulation of alphavbeta3 integrin is critical for the control of TGFbeta signaling and the prevention of fibrotic disease.
+
+-Animals
++Autocrine Communication
+-Cell Line
+-Cell Membrane (-metabolism)
+-Cell Nucleus (-metabolism)
+-Collagen (-biosynthesis)
+-DNA, Complementary (-metabolism)
+-Endocytosis
+-Fibrinolysin (-metabolism)
+-Fibroblasts (-metabolism)
+-Focal Adhesions (-metabolism)
+-Humans
+-Integrin alphaVbeta3 (+metabolism)
+-Mice
+-Mice, Knockout
+-Mink
+-Plasminogen Activator Inhibitor 1 (+metabolism)
+-Protein Transport
+-Protein-Serine-Threonine Kinases (-metabolism)
+-Receptors, Transforming Growth Factor beta (-metabolism)
+-Receptors, Urokinase Plasminogen Activator (-metabolism)
+-Smad2 Protein (-metabolism)
+-Smad3 Protein (-metabolism)
+-Transforming Growth Factor beta (+metabolism)
+
+pii:M109.018804
+doi:10.1074/jbc.M109.018804
+pubmed:19487690
+pmc:PMC2742836
+

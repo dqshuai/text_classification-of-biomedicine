@@ -1,0 +1,29 @@
+PLoS Pathog.
+
+Bacillus anthracis lethal toxin disrupts TCR signaling in CD1d-restricted NKT cells leading to functional anergy.
+
+SK Joshi, GA Lang, JL Larabee, TS Devera, LM Aye, HB Shah, JD Ballard, ML Lang
+
+Exogenous CD1d-binding glycolipid (alpha-Galactosylceramide, alpha-GC) stimulates TCR signaling and activation of type-1 natural killer-like T (NKT) cells. Activated NKT cells play a central role in the regulation of adaptive and protective immune responses against pathogens and tumors. In the present study, we tested the effect of Bacillus anthracis lethal toxin (LT) on NKT cells both in vivo and in vitro. LT is a binary toxin known to suppress host immune responses during anthrax disease and intoxicates cells by protective antigen (PA)-mediated intracellular delivery of lethal factor (LF), a potent metalloprotease. We observed that NKT cells expressed anthrax toxin receptors (CMG-2 and TEM-8) and bound more PA than other immune cell types. A sub-lethal dose of LT administered in vivo in C57BL/6 mice decreased expression of the activation receptor NKG2D by NKT cells but not by NK cells. The in vivo administration of LT led to decreased TCR-induced cytokine secretion but did not affect TCR expression. Further analysis revealed LT-dependent inhibition of TCR-stimulated MAP kinase signaling in NKT cells attributable to LT cleavage of the MAP kinase kinase MEK-2. We propose that Bacillus anthracis-derived LT causes a novel form of functional anergy in NKT cells and therefore has potential for contributing to immune evasion by the pathogen.
+
+-Animals
+-Antigens, Bacterial (+pharmacology)
+-Antigens, CD1d (-immunology; +metabolism)
+-Bacillus anthracis (-immunology)
+-Bacterial Toxins (+pharmacology)
+-Cytokines (-metabolism)
+-Female
+-Flow Cytometry
+-Galactosylceramides (-pharmacology)
+-Mice
+-Mice, Inbred C57BL
+-NK Cell Lectin-Like Receptor Subfamily K (-metabolism)
+-Natural Killer T-Cells (+drug effects; +immunology; -metabolism)
+-Receptors, Antigen, T-Cell (+immunology; -metabolism)
+-Receptors, Peptide (-biosynthesis; -metabolism)
+-Signal Transduction (-drug effects)
+
+doi:10.1371/journal.ppat.1000588
+pubmed:19779559
+pmc:PMC2742733
+

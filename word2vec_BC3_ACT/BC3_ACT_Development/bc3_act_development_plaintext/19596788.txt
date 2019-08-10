@@ -1,0 +1,30 @@
+Mol. Cell. Biol.
+
+The Irs1 branch of the insulin signaling cascade plays a dominant role in hepatic nutrient homeostasis.
+
+S Guo, KD Copps, X Dong, S Park, Z Cheng, A Pocai, L Rossetti, M Sajan, RV Farese, MF White
+
+We used a Cre-loxP approach to generate mice with varied expression of hepatic Irs1 and Irs2 to establish the contribution of each protein to hepatic nutrient homeostasis. While nutrient-sensitive transcripts were expressed nearly normally in liver lacking Irs2 (LKO2 mice), these transcripts were significantly dysregulated in liver lacking Irs1 (LKO1 mice) or Irs1 and Irs2 together (DKO mice). Similarly, a set of key gluconeogenic and lipogenic genes was regulated nearly normally by feeding in liver retaining a single Irs1 allele without Irs2 (DKO/1 mice) but was poorly regulated in liver retaining one Irs2 allele without Irs1 (DKO/2 mice). DKO/2 mice, but not DKO/1 mice, also showed impaired glucose tolerance and insulin sensitivity-though both Irs1 and Irs2 were required to suppress hepatic glucose production during hyperinsulinemic-euglycemic clamp. In contrast, either hepatic Irs1 or Irs2 mediated suppression of HGP by intracerebroventricular insulin infusion. After 12 weeks on a high-fat diet, postprandial tyrosine phosphorylation of Irs1 increased in livers of control and LKO2 mice, whereas tyrosine phosphorylation of Irs2 decreased in control and LKO1 mice. Moreover, LKO1 mice -- but not LKO2 mice -- that were fed a high-fat diet developed postprandial hyperglycemia. We conclude that Irs1 is the principal mediator of hepatic insulin action that maintains glucose homeostasis.
+
+-Animals
+-Fasting
+-Feeding Behavior
++Food
+-Gene Expression Regulation
+-Glucose (-metabolism)
++Homeostasis
+-Hyperinsulinism (-genetics)
+-Insulin (+metabolism)
+-Insulin Receptor Substrate Proteins (+metabolism)
+-Liver (+metabolism)
+-Mice
+-Mice, Knockout
+-RNA, Messenger (-genetics; -metabolism)
++Signal Transduction
+-Stress, Physiological
+
+pii:MCB.00138-09
+doi:10.1128/MCB.00138-09
+pubmed:19596788
+pmc:PMC2738277
+

@@ -1,0 +1,34 @@
+Nat. Neurosci.
+
+Stress, genotype and norepinephrine in the prediction of mouse behavior using reinforcement learning.
+
+G Luksys, W Gerstner, C Sandi
+
+Individual behavioral performance during learning is known to be affected by modulatory factors, such as stress and motivation, and by genetic predispositions that influence sensitivity to these factors. Despite numerous studies, no integrative framework is available that could predict how a given animal would perform a certain learning task in a realistic situation. We found that a simple reinforcement learning model can predict mouse behavior in a hole-box conditioning task if model metaparameters are dynamically controlled on the basis of the mouse's genotype and phenotype, stress conditions, recent performance feedback and pharmacological manipulations of adrenergic alpha-2 receptors. We find that stress and motivation affect behavioral performance by altering the exploration-exploitation balance in a genotype-dependent manner. Our results also provide computational insights into how an inverted U-shape relation between stress/arousal/norepinephrine levels and behavioral performance could be explained through changes in task performance accuracy and future reward discounting.
+
+-Animals
+-Behavior, Animal (+physiology)
+-Computer Simulation
+-Conditioning, Classical (-physiology)
+-Exploratory Behavior (-physiology)
+-Feedback, Psychological
+-Genotype
+-Learning (+physiology)
+-Male
+-Mice
+-Mice, Inbred C57BL
+-Mice, Inbred DBA
+-Models, Psychological
+-Motivation
+-Norepinephrine (+metabolism)
++Personality (-genetics)
+-Phenotype
+-Receptors, Adrenergic, alpha-2 (-metabolism)
++Reinforcement (Psychology)
+-Species Specificity
+-Stress, Psychological (+physiopathology)
+
+pii:nn.2374
+doi:10.1038/nn.2374
+pubmed:19684590
+

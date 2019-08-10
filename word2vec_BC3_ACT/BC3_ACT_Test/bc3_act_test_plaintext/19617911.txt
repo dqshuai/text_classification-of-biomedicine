@@ -1,0 +1,18 @@
+PLoS ONE
+
+Evaluation of three automated genome annotations for Halorhabdus utahensis.
+
+P Bakke, N Carney, W Deloache, M Gearing, K Ingvorsen, M Lotz, J McNair, P Penumetcha, S Simpson, L Voss, M Win, LJ Heyer, AM Campbell
+
+Genome annotations are accumulating rapidly and depend heavily on automated annotation systems. Many genome centers offer annotation systems but no one has compared their output in a systematic way to determine accuracy and inherent errors. Errors in the annotations are routinely deposited in databases such as NCBI and used to validate subsequent annotation errors. We submitted the genome sequence of halophilic archaeon Halorhabdus utahensis to be analyzed by three genome annotation services. We have examined the output from each service in a variety of ways in order to compare the methodology and effectiveness of the annotations, as well as to explore the genes, pathways, and physiology of the previously unannotated genome. The annotation services differ considerably in gene calls, features, and ease of use. We had to manually identify the origin of replication and the species-specific consensus ribosome-binding site. Additionally, we conducted laboratory experiments to test H. utahensis growth and enzyme activity. Current annotation practices need to improve in order to more accurately reflect a genome's biological potential. We make specific recommendations that could improve the quality of microbial annotation projects.
+
++Genome, Archaeal
+-Halobacteriaceae (+genetics)
+-Introns
+-RNA, Transfer (-genetics)
+-Replication Origin
+
+doi:10.1371/journal.pone.0006291
+pubmed:19617911
+pmc:PMC2707008
+

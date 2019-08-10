@@ -1,0 +1,30 @@
+J. Biol. Chem.
+
+Repair of nitric oxide-damaged DNA in beta-cells requires JNK-dependent GADD45alpha expression.
+
+KJ Hughes, GP Meares, KT Chambers, JA Corbett
+
+Proinflammatory cytokines induce nitric oxide-dependent DNA damage and ultimately beta-cell death. Not only does nitric oxide cause beta-cell damage, it also activates a functional repair process. In this study, the mechanisms activated by nitric oxide that facilitate the repair of damaged beta-cell DNA are examined. JNK plays a central regulatory role because inhibition of this kinase attenuates the repair of nitric oxide-induced DNA damage. p53 is a logical target of JNK-dependent DNA repair; however, nitric oxide does not stimulate p53 activation or accumulation in beta-cells. Further, knockdown of basal p53 levels does not affect DNA repair. In contrast, expression of growth arrest and DNA damage (GADD) 45alpha, a DNA repair gene that can be regulated by p53-dependent and p53-independent pathways, is stimulated by nitric oxide in a JNK-dependent manner, and knockdown of GADD45alpha expression attenuates the repair of nitric oxide-induced beta-cell DNA damage. These findings show that beta-cells have the ability to repair nitric oxide-damaged DNA and that JNK and GADD45alpha mediate the p53-independent repair of this DNA damage.
+
+-Animals
+-Cell Cycle Proteins (+genetics)
+-Cells, Cultured
+-DNA Damage (+drug effects)
++DNA Repair
+-Enzyme Activation
+-Female
++Gene Expression Regulation
+-Humans
+-Insulin-Secreting Cells (-drug effects; -enzymology; +metabolism)
+-JNK Mitogen-Activated Protein Kinases (+metabolism)
+-Nitric Oxide (+pharmacology)
+-Nuclear Proteins (+genetics)
+-Rats
+-Rats, Sprague-Dawley
+-Tumor Suppressor Protein p53 (-metabolism)
+
+pii:M109.046912
+doi:10.1074/jbc.M109.046912
+pubmed:19648647
+pmc:PMC2785669
+

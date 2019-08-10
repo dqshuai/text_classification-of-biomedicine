@@ -1,0 +1,26 @@
+J. Mol. Biol.
+
+Structural and functional characterisation of a conserved archaeal RadA paralog with antirecombinase activity.
+
+AM McRobbie, LG Carter, M Kerou, H Liu, SA McMahon, KA Johnson, M Oke, JH Naismith, MF White
+
+DNA recombinases (RecA in bacteria, Rad51 in eukarya and RadA in archaea) catalyse strand exchange between homologous DNA molecules, the central reaction of homologous recombination, and are among the most conserved DNA repair proteins known. RecA is the sole protein responsible for this reaction in bacteria, whereas there are several Rad51 paralogs that cooperate to catalyse strand exchange in eukaryotes. All archaea have at least one (and as many as four) RadA paralog, but their function remains unclear. Herein, we show that the three RadA paralogs encoded by the Sulfolobus solfataricus genome are expressed under normal growth conditions and are not UV inducible. We demonstrate that one of these proteins, Sso2452, which is representative of the large archaeal RadC subfamily of archaeal RadA paralogs, functions as an ATPase that binds tightly to single-stranded DNA. However, Sso2452 is not an active recombinase in vitro and inhibits D-loop formation by RadA. We present the high-resolution crystal structure of Sso2452, which reveals key structural differences from the canonical RecA family recombinases that may explain its functional properties. The possible roles of the archaeal RadA paralogs in vivo are discussed.
+
+-Archaeal Proteins (+chemistry; -classification; -genetics; +metabolism)
+-Crystallography, X-Ray
+-DNA-Binding Proteins (+chemistry; -classification; -genetics; +metabolism)
+-Humans
+-Isoenzymes (+chemistry; -classification; -genetics; +metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-Phylogeny
+-Protein Structure, Quaternary
+-Recombinases (+antagonists & inhibitors; -metabolism)
+-Sequence Alignment
+-Sulfolobus solfataricus (-enzymology; -genetics)
+
+pii:S0022-2836(09)00516-6
+doi:10.1016/j.jmb.2009.04.060
+pubmed:19414020
+

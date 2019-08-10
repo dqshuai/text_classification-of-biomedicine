@@ -1,0 +1,22 @@
+Cell Stress Chaperones
+
+Stress response in the ascidian Ciona intestinalis: transcriptional profiling of genes for the heat shock protein 70 chaperone system under heat stress and endoplasmic reticulum stress.
+
+T Fujikawa, T Munakata, S Kondo, N Satoh, S Wada
+
+The genome of Ciona intestinalis contains eight genes for HSP70 superfamily proteins, 36 genes for J-proteins, a gene for a J-like protein, and three genes for BAG family proteins. To understand the stress responses of genes in the HSP70 chaperone system comprehensively, the transcriptional profiles of these 48 genes under heat stress and endoplasmic reticulum (ER) stress were studied using real-time reverse transcriptase-polymerase chain reaction (RT-PCR) analysis. Heat stress treatment increased the messenger RNA (mRNA) levels of six HSP70 superfamily genes, eight J-protein family genes, and two BAG family genes. In the cytoplasmic group of the DnaK subfamily of the HSP70 family, Ci-HSPA1/6/7-like was the only heat-inducible gene and Ci-HSPA2/8 was the only constitutively active gene which showed striking simplicity in comparison with other animals that have been examined genome-wide so far. Analyses of the time course and temperature dependency of the heat stress responses showed that the induction of Ci-HSPA1/6/7-like expression rises to a peak after heat stress treatment at 28 degrees C (10 degrees C upshift from control temperature) for 1 h. ER stress treatment with Brefeldin A, a drug that is known to act as ER stress inducer, increased the mRNA levels of four HSP70 superfamily genes and four J-protein family genes. Most stress-inducible genes are conserved between Ciona and vertebrates, as expected from a close evolutionary relationship between them. The present study characterized the stress responses of HSP70 chaperone system genes in Ciona for the first time and provides essential data for comprehensive understanding of the functions of the HSP70 chaperone system.
+
+-Animals
+-Brefeldin A (-pharmacology)
+-Ciona intestinalis (-drug effects; +genetics; -metabolism; -physiology)
+-Endoplasmic Reticulum (-drug effects; +genetics; -physiology)
+-Gene Expression Profiling
+-HSP70 Heat-Shock Proteins (+genetics; -metabolism)
+-Heat-Shock Response
+-Protein Transport
++Stress, Physiological (-drug effects)
+
+doi:10.1007/s12192-009-0133-x
+pubmed:19629754
+pmc:PMC2866982
+

@@ -1,0 +1,33 @@
+J. Am. Chem. Soc.
+
+Rational design of ligands targeting triplet repeating transcripts that cause RNA dominant disease: application to myotonic muscular dystrophy type 1 and spinocerebellar ataxia type 3.
+
+A Pushechnikov, MM Lee, JL Childs-Disney, K Sobczak, JM French, CA Thornton, MD Disney
+
+Herein, we describe the design of high affinity ligands that bind expanded rCUG and rCAG repeat RNAs expressed in myotonic dystrophy type 1 (DM1) and spinocerebellar ataxia type 3. These ligands also inhibit, with nanomolar IC(50) values, the formation of RNA-protein complexes that are implicated in both disorders. The expanded rCUG and rCAG repeats form stable RNA hairpins with regularly repeating internal loops in the stem and have deleterious effects on cell function. The ligands that bind the repeats display a derivative of the bisbenzimidazole Hoechst 33258, which was identified by searching known RNA-ligand interactions for ligands that bind the internal loop displayed in these hairpins. A series of 13 modularly assembled ligands with defined valencies and distances between ligand modules was synthesized to target multiple motifs in these RNAs simultaneously. The most avid binder, a pentamer, binds the rCUG repeat hairpin with a K(d) of 13 nM. When compared to a series of related RNAs, the pentamer binds to rCUG repeats with 4.4- to >200-fold specificity. Furthermore, the affinity of binding to rCUG repeats shows incremental gains with increasing valency, while the background binding to genomic DNA is correspondingly reduced. Then, it was determined whether the modularly assembled ligands inhibit the recognition of RNA repeats by Muscleblind-like 1 (MBNL1) protein, the expanded-rCUG binding protein whose sequestration leads to splicing defects in DM1. Among several compounds with nanomolar IC(50) values, the most potent inhibitor is the pentamer, which also inhibits the formation of rCAG repeat-MBNL1 complexes. Comparison of the binding data for the designed synthetic ligands and MBNL1 to repeating RNAs shows that the synthetic ligand is 23-fold higher affinity and more specific to DM1 RNAs than MBNL1. Further studies show that the designed ligands are cell permeable to mouse myoblasts. Thus, cell permeable ligands that bind repetitive RNAs have been designed that exhibit higher affinity and specificity for binding RNA than natural proteins. These studies suggest a general approach to targeting RNA, including those that cause RNA dominant disease.
+
+-Animals
+-Base Sequence
+-Bisbenzimidazole (-analogs & derivatives; -metabolism; -pharmacology; -therapeutic use)
+-Cell Line
++Drug Design
+-Humans
+-Inhibitory Concentration 50
+-Inverted Repeat Sequences (-genetics)
+-Ligands
+-Machado-Joseph Disease (+drug therapy; +genetics)
+-Mice
+-Myotonic Dystrophy (+drug therapy; +genetics)
+-Permeability
+-Protein Binding (-drug effects)
+-RNA, Messenger (-genetics; +metabolism)
+-RNA-Binding Proteins (-metabolism)
+-Reproducibility of Results
+-Substrate Specificity
+-Trinucleotide Repeat Expansion (+genetics)
+
+doi:10.1021/ja9020149
+pubmed:19552411
+mid:NIHMS134375
+pmc:PMC2731475
+

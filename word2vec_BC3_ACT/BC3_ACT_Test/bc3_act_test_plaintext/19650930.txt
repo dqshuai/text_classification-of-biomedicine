@@ -1,0 +1,25 @@
+BMC Genomics
+
+Metabolic analysis of the soil microbe Dechloromonas aromatica str. RCB: indications of a surprisingly complex life-style and cryptic anaerobic pathways for aromatic degradation.
+
+KK Salinero, K Keller, WS Feil, H Feil, S Trong, G Di Bartolo, A Lapidus
+
+BACKGROUND: Initial interest in Dechloromonas aromatica strain RCB arose from its ability to anaerobically degrade benzene. It is also able to reduce perchlorate and oxidize chlorobenzoate, toluene, and xylene, creating interest in using this organism for bioremediation. Little physiological data has been published for this microbe. It is considered to be a free-living organism. RESULTS: The a priori prediction that the D. aromatica genome would contain previously characterized "central" enzymes to support anaerobic aromatic degradation of benzene proved to be false, suggesting the presence of novel anaerobic aromatic degradation pathways in this species. These missing pathways include the benzylsuccinate synthase (bssABC) genes (responsible for fumarate addition to toluene) and the central benzoyl-CoA pathway for monoaromatics. In depth analyses using existing TIGRfam, COG, and InterPro models, and the creation of de novo HMM models, indicate a highly complex lifestyle with a large number of environmental sensors and signaling pathways, including a relatively large number of GGDEF domain signal receptors and multiple quorum sensors. A number of proteins indicate interactions with an as yet unknown host, as indicated by the presence of predicted cell host remodeling enzymes, effector enzymes, hemolysin-like proteins, adhesins, NO reductase, and both type III and type VI secretory complexes. Evidence of biofilm formation including a proposed exopolysaccharide complex and exosortase (epsH) are also present. Annotation described in this paper also reveals evidence for several metabolic pathways that have yet to be observed experimentally, including a sulphur oxidation (soxFCDYZAXB) gene cluster, Calvin cycle enzymes, and proteins involved in nitrogen fixation in other species (including RubisCo, ribulose-phosphate 3-epimerase, and nif gene families, respectively). CONCLUSION: Analysis of the D. aromatica genome indicates there is much to be learned regarding the metabolic capabilities, and life-style, for this microbial species. Examples of recent gene duplication events in signaling as well as dioxygenase clusters are present, indicating selective gene family expansion as a relatively recent event in D. aromatica's evolutionary history. Gene families that constitute metabolic cycles presumed to create D. aromatica's environmental 'foot-print' indicate a high level of diversification between its predicted capabilities and those of its close relatives, A. aromaticum str EbN1 and Azoarcus BH72.
+
+-Anaerobiosis
+-Benzene (+metabolism)
+-Biodegradation, Environmental
+-DNA, Bacterial (-genetics)
+-Gene Expression Regulation, Bacterial
+-Gene Library
+-Genome, Bacterial
+-Metabolic Networks and Pathways
+-Proteome (+metabolism)
+-Rhodocyclaceae (-genetics; +metabolism)
+-Sequence Analysis, DNA
+
+pii:1471-2164-10-351
+doi:10.1186/1471-2164-10-351
+pubmed:19650930
+pmc:PMC2907700
+

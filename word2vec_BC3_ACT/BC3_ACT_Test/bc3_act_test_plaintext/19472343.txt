@@ -1,0 +1,24 @@
+Protein Sci.
+
+Rate and extent of protein localization is controlled by peptide-binding domain association kinetics and morphology.
+
+E Mills, K Truong
+
+Protein localization is an important regulatory mechanism in many cell signaling pathways such as cytoskeletal organization and genetic regulation. The specific mechanism of protein localization determines the kinetics and morphological constraints of protein translocation, and thus affects the rate and extent of localization. To investigate the affect of localization kinetics and morphology on protein localization, we designed a protein localization system based on Ca(2+)-calmodulin and Src homology 3 domain binding peptides that can translocate between specific localizations in response to a Ca(2+) signal. We used a stochastic biomolecular simulator to predict that such a protein localization system will exhibit slower and less complete translocations when the association kinetics of a binding domain and peptide are reduced. As well, we predicted that increasing the diffusion resistance by manipulating the morphology of the system would similarly impair translocation speed and completeness. We then constructed a network of synthetic fusion proteins and showed that these predictions could be qualitatively confirmed in vitro. This work provides a basis for explaining the different characteristics (rate and extent) of protein transport and localization in cells as a consequence of the kinetics and morphology of the transport mechanism.
+
+-Artificial Intelligence
+-Calcium (-metabolism)
+-Calmodulin (-chemistry; -metabolism)
+-Kinetics
+-Peptides (-chemistry; -metabolism)
+-Protein Binding
+-Protein Structure, Tertiary
+-Protein Transport
+-Proteins (+chemistry; +metabolism)
+-Recombinant Fusion Proteins (-chemistry; -metabolism)
+-Signal Transduction (-physiology)
+
+doi:10.1002/pro.135
+pubmed:19472343
+pmc:PMC2774435
+

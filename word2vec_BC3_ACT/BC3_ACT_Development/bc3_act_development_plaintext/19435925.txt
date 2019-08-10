@@ -1,0 +1,32 @@
+Cancer Res.
+
+Chemical genomics identifies the unfolded protein response as a target for selective cancer cell killing during glucose deprivation.
+
+S Saito, A Furuno, J Sakurai, A Sakamoto, HR Park, K Shin-Ya, T Tsuruo, A Tomida
+
+Glucose deprivation, a cell condition that occurs in solid tumors, activates the unfolded protein response (UPR). A key feature of the UPR is the transcription program activation, which allows the cell to survive under stress conditions. Here, we show that the UPR transcription program is disrupted by the antidiabetic biguanides metformin, buformin, and phenformin depending on cellular glucose availability. These drugs inhibit production of the UPR transcription activators XBP1 and ATF4 and induce massive cell death during glucose deprivation as did the antitumor macrocyclic compound versipelostatin. Gene expression profiling shows remarkable similarity in the modes of action of biguanides and versipelostatin determined by the broad range of glucose deprivation-inducible genes. Importantly, during glucose deprivation, most of the biguanide suppression genes overlap with the genes induced by tunicamycin, a chemical UPR inducer. Gene expression profiling also identifies drug-driven signatures as a tool for discovering pharmacologic UPR modulators. Our findings show that disrupting the UPR during glucose deprivation could be an attractive approach for selective cancer cell killing and could provide a chemical genomic basis for developing UPR-targeting drugs against solid tumors.
+
+-Activating Transcription Factor 4 (+drug effects)
+-Cell Death
+-Cell Survival (-drug effects)
+-DNA-Binding Proteins (+drug effects)
++Gene Expression Profiling
+-Genes, Reporter
++Genomics
+-Glucose (+deficiency)
+-Humans
+-Hypoglycemic Agents (+pharmacology)
+-Macrolides (+pharmacology)
+-Neoplasms (-drug therapy; +genetics)
+-Oligosaccharides (+pharmacology)
+-Phenformin (-pharmacology)
+-Plasmids
+-Protein Denaturation (+genetics)
+-Protein Folding (-drug effects)
+-Transcription Factors (+drug effects)
+-Transfection
+
+pii:0008-5472.CAN-08-2689
+doi:10.1158/0008-5472.CAN-08-2689
+pubmed:19435925
+

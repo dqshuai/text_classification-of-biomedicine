@@ -1,0 +1,23 @@
+J. Biol. Chem.
+
+A novel class of cyclin-dependent kinase inhibitors identified by molecular docking act through a unique mechanism.
+
+P Corsino, N Horenstein, D Ostrov, T Rowe, M Law, A Barrett, G Aslanidi, WD Cress, B Law
+
+The cyclin-dependent kinase (Cdk) family is emerging as an important therapeutic target in the treatment of cancer. Cdks 1, 2, 4, and 6 are the key members that regulate the cell cycle, as opposed to Cdks that control processes such as transcription (Cdk7 and Cdk9). For this reason, Cdks 1, 2, 4, and 6 have been the subject of extensive cell cycle-related research, and consequently many inhibitors have been developed to target these proteins. However, the compounds that comprise the current list of Cdk inhibitors are largely ATP-competitive. Here we report the identification of a novel structural site on Cdk2, which is well conserved between the cell cycle Cdks. Small molecules identified by a high throughput in silico screen of this pocket exhibit cytostatic effects and act by reducing the apparent protein levels of cell cycle Cdks. Drug-induced cell cycle arrest is associated with decreased Rb phosphorylation and decreased expression of E2F-dependent genes. Multiple lines of evidence indicate that the primary mechanism of action of these compounds is the direct induction of Cdk1, Cdk2, and Cdk4 protein aggregation.
+
+-Adenosine Triphosphate (-metabolism)
+-Cell Cycle (+drug effects)
+-Cell Line
+-Cyclin-Dependent Kinases (+antagonists & inhibitors; -metabolism)
+-E2F Transcription Factors (-metabolism)
+-Enzyme Induction (-drug effects)
+-Humans
+-Protein Kinase Inhibitors (+chemistry; +pharmacology)
+-Retinoblastoma Protein (-metabolism)
+
+pii:M109.055251
+doi:10.1074/jbc.M109.055251
+pubmed:19710018
+pmc:PMC2785623
+

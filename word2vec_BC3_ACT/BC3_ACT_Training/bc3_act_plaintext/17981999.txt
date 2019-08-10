@@ -1,0 +1,28 @@
+Plant Cell
+
+Functional definition of outer membrane proteins involved in preprotein import into mitochondria.
+
+R Lister, C Carrie, O Duncan, LH Ho, KA Howell, MW Murcha, J Whelan
+
+The role of plant mitochondrial outer membrane proteins in the process of preprotein import was investigated, as some of the principal components characterized in yeast have been shown to be absent or evolutionarily distinct in plants. Three outer membrane proteins of Arabidopsis thaliana mitochondria were studied: TOM20 (translocase of the outer mitochondrial membrane), METAXIN, and mtOM64 (outer mitochondrial membrane protein of 64 kD). A single functional Arabidopsis TOM20 gene is sufficient to produce a normal multisubunit translocase of the outer membrane complex. Simultaneous inactivation of two of the three TOM20 genes changed the rate of import for some precursor proteins, revealing limited isoform subfunctionalization. Inactivation of all three TOM20 genes resulted in severely reduced rates of import for some but not all precursor proteins. The outer membrane protein METAXIN was characterized to play a role in the import of mitochondrial precursor proteins and likely plays a role in the assembly of beta-barrel proteins into the outer membrane. An outer mitochondrial membrane protein of 64 kD (mtOM64) with high sequence similarity to a chloroplast import receptor was shown to interact with a variety of precursor proteins. All three proteins have domains exposed to the cytosol and interacted with a variety of precursor proteins, as determined by pull-down and yeast two-hybrid interaction assays. Furthermore, inactivation of one resulted in protein abundance changes in the others, suggesting functional redundancy. Thus, it is proposed that all three components directly interact with precursor proteins to participate in early stages of mitochondrial protein import.
+
+-Arabidopsis (-cytology; -growth & development; -ultrastructure)
+-Arabidopsis Proteins (-chemistry; +metabolism)
+-Intracellular Membranes (+metabolism)
+-Membrane Proteins (-chemistry; +metabolism)
+-Mitochondria (+metabolism; -ultrastructure)
+-Mitochondrial Proteins (-chemistry; +metabolism)
+-Multigene Family
+-Mutation (-genetics)
+-Plant Leaves (-cytology; -metabolism; -ultrastructure)
+-Protein Binding
+-Protein Isoforms (-metabolism)
+-Protein Precursors (+metabolism)
+-Protein Transport
+-Starch (-metabolism)
+
+pii:tpc.107.050534
+doi:10.1105/tpc.107.050534
+pubmed:17981999
+pmc:PMC2174869
+

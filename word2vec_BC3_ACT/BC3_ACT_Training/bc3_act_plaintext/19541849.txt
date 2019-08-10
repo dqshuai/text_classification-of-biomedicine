@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+Identification of small gains and losses in single cells after whole genome amplification on tiling oligo arrays.
+
+JB Geigl, AC Obenauf, J Waldispuehl-Geigl, EM Hoffmann, M Auer, M Hörmann, M Fischer, Z Trajanoski, MA Schenk, LO Baumbusch, MR Speicher
+
+Clinical DNA is often available in limited quantities requiring whole-genome amplification for subsequent genome-wide assessment of copy-number variation (CNV) by array-CGH. In pre-implantation diagnosis and analysis of micrometastases, even merely single cells are available for analysis. However, procedures allowing high-resolution analyses of CNVs from single cells well below resolution limits of conventional cytogenetics are lacking. Here, we applied amplification products of single cells and of cell pools (5 or 10 cells) from patients with developmental delay, cancer cell lines and polar bodies to various oligo tiling array platforms with a median probe spacing as high as 65 bp. Our high-resolution analyses reveal that the low amounts of template DNA do not result in a completely unbiased whole genome amplification but that stochastic amplification artifacts, which become more obvious on array platforms with tiling path resolution, cause significant noise. We implemented a new evaluation algorithm specifically for the identification of small gains and losses in such very noisy ratio profiles. Our data suggest that when assessed with sufficiently sensitive methods high-resolution oligo-arrays allow a reliable identification of CNVs as small as 500 kb in cell pools (5 or 10 cells), and of 2.6-3.0 Mb in single cells.
+
+-Algorithms
+-Cell Line, Tumor
+-Comparative Genomic Hybridization (+methods)
+-Female
++Genetic Variation
+-Genome, Human
+-Humans
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Polymerase Chain Reaction
+
+pii:gkp526
+doi:10.1093/nar/gkp526
+pubmed:19541849
+pmc:PMC2731907
+

@@ -1,0 +1,29 @@
+Science
+
+Genome-wide identification of human RNA editing sites by parallel DNA capturing and sequencing.
+
+JB Li, EY Levanon, JK Yoon, J Aach, B Xie, E Leproust, K Zhang, Y Gao, GM Church
+
+Adenosine-to-inosine (A-to-I) RNA editing leads to transcriptome diversity and is important for normal brain function. To date, only a handful of functional sites have been identified in mammals. We developed an unbiased assay to screen more than 36,000 computationally predicted nonrepetitive A-to-I sites using massively parallel target capture and DNA sequencing. A comprehensive set of several hundred human RNA editing sites was detected by comparing genomic DNA with RNAs from seven tissues of a single individual. Specificity of our profiling was supported by observations of enrichment with known features of targets of adenosine deaminases acting on RNA (ADAR) and validation by means of capillary sequencing. This efficient approach greatly expands the repertoire of RNA editing targets and can be applied to studies involving RNA editing-related human diseases.
+
+-Adenosine Deaminase (-metabolism)
+-Adrenal Glands (-metabolism)
+-Alu Elements
+-Animals
+-Base Sequence
+-Brain (+metabolism)
+-DNA (+genetics)
+-DNA, Complementary
++Genome, Human
+-Humans
+-Intestine, Small (-metabolism)
+-Mice
++RNA Editing
+-RNA, Double-Stranded (-chemistry; -genetics; -metabolism)
+-RNA, Messenger (-chemistry; -genetics; +metabolism)
+-Sequence Analysis, DNA
+
+pii:324/5931/1210
+doi:10.1126/science.1170995
+pubmed:19478186
+

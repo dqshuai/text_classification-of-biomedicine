@@ -1,0 +1,17 @@
+BMC Bioinformatics
+
+Core Hunter: an algorithm for sampling genetic resources based on multiple genetic measures.
+
+C Thachuk, J Crossa, J Franco, S Dreisigacker, M Warburton, GF Davenport
+
+BACKGROUND: Existing algorithms and methods for forming diverse core subsets currently address either allele representativeness (breeder's preference) or allele richness (taxonomist's preference). The main objective of this paper is to propose a powerful yet flexible algorithm capable of selecting core subsets that have high average genetic distance between accessions, or rich genetic diversity overall, or a combination of both. RESULTS: We present Core Hunter, an advanced stochastic local search algorithm for selecting core subsets. Core Hunter is able to find core subsets having more genetic diversity and better average genetic distance than the current state-of-the-art algorithms for all genetic distance and diversity measures we evaluated. Furthermore, Core Hunter can attempt to optimize any number of genetic measures simultaneously, based on the preference of the user. Notably, Core Hunter is able to select significantly smaller core subsets, which retain all unique alleles from a reference collection, than state-of-the-art algorithms. CONCLUSION: Core Hunter is a highly effective and flexible tool for sampling genetic resources and establishing core subsets. Our implementation, documentation, and source code for Core Hunter is available at http://corehunter.org.
+
++Algorithms
+-Alleles
++Genetic Techniques
+
+pii:1471-2105-10-243
+doi:10.1186/1471-2105-10-243
+pubmed:19660135
+pmc:PMC2734557
+

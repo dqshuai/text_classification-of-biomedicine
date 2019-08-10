@@ -1,0 +1,31 @@
+Plant Cell
+
+MAP kinase phosphatase1 and protein tyrosine phosphatase1 are repressors of salicylic acid synthesis and SNC1-mediated responses in Arabidopsis.
+
+S Bartels, JC Anderson, MA González Besteiro, A Carreri, H Hirt, A Buchala, JP Métraux, SC Peck, R Ulm
+
+Mitogen-activated protein (MAP) kinase phosphatases are important negative regulators of the levels and kinetics of MAP kinase activation that modulate cellular responses. The dual-specificity phosphatase MAP KINASE PHOSPHATASE1 (MKP1) was previously shown to regulate MAP KINASE6 (MPK6) activation levels and abiotic stress responses in Arabidopsis thaliana. Here, we report that the mkp1 null mutation in the Columbia (Col) accession results in growth defects and constitutive biotic defense responses, including elevated levels of salicylic acid, camalexin, PR gene expression, and resistance to the bacterial pathogen Pseudomonas syringae. PROTEIN TYROSINE PHOSPHATASE1 (PTP1) also interacts with MPK6, but the ptp1 null mutant shows no aberrant growth phenotype. However, the pronounced constitutive defense response of the mkp1 ptp1 double mutant reveals that MKP1 and PTP1 repress defense responses in a coordinated fashion. Moreover, mutations in MPK3 and MPK6 distinctly suppress mkp1 and mkp1 ptp1 phenotypes, indicating that MKP1 and PTP1 act as repressors of inappropriate MPK3/MPK6-dependent stress signaling. Finally, we provide evidence that the natural modifier of mkp1 in Col is largely the disease resistance gene homolog SUPPRESSOR OF npr1-1, CONSTITUTIVE 1 (SNC1) that is absent in the Wassilewskija accession. Our data thus indicate a major role of MKP1 and PTP1 in repressing salicylic acid biosynthesis in the autoimmune-like response caused by SNC1.
+
+-Arabidopsis (+genetics; -metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Dual-Specificity Phosphatases (-genetics; +metabolism)
+-Gene Expression Regulation, Enzymologic
+-Gene Expression Regulation, Plant
+-Immunity, Innate
+-Indoles (-metabolism)
+-Mitogen-Activated Protein Kinase Kinases
+-Mitogen-Activated Protein Kinases (-genetics; +metabolism)
+-Mutation
+-Plant Diseases (-genetics; -microbiology)
+-Plants, Genetically Modified (-genetics; -metabolism)
+-Pseudomonas syringae
+-RNA, Plant (-genetics)
+-Salicylic Acid (+metabolism)
+-Signal Transduction
+-Thiazoles (-metabolism)
+
+pii:tpc.109.067678
+doi:10.1105/tpc.109.067678
+pubmed:19789277
+pmc:PMC2768924
+

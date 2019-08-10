@@ -1,0 +1,18 @@
+J. Mol. Biol.
+
+The limited role of nonnative contacts in the folding pathways of a lattice protein.
+
+BC Gin, JP Garrahan, PL Geissler
+
+Models of protein energetics that neglect interactions between amino acids that are not adjacent in the native state, such as the Gō model, encode or underlie many influential ideas on protein folding. Implicit in this simplification is a crucial assumption that has never been critically evaluated in a broad context: Detailed mechanisms of protein folding are not biased by nonnative contacts, typically argued to be a consequence of sequence design and/or topology. Here we present, using computer simulations of a well-studied lattice heteropolymer model, the first systematic test of this oft-assumed correspondence over the statistically significant range of hundreds of thousands of amino acid sequences that fold to the same native structure. Contrary to previous conjectures, we find a multiplicity of folding mechanisms, suggesting that Gō-like models cannot be justified by considerations of topology alone. Instead, we find that the crucial factor in discriminating among topological pathways is the heterogeneity of native contact energies: The order in which native contacts accumulate is profoundly insensitive to omission of nonnative interactions, provided that native contact heterogeneity is retained. This robustness holds over a surprisingly wide range of folding rates for our designed sequences. Mirroring predictions based on the principle of minimum frustration, fast-folding sequences match their Gō-like counterparts in both topological mechanism and transit times. Less optimized sequences dwell much longer in the unfolded state and/or off-pathway intermediates than do Gō-like models. For dynamics that bridge unfolded and unfolded states, however, even slow folders exhibit topological mechanisms and transit times nearly identical with those of their Gō-like counterparts. Our results do not imply a direct correspondence between folding trajectories of Gō-like models and those of real proteins, but they do help to clarify key topological and energetic assumptions that are commonly used to justify such caricatures.
+
+-Computer Simulation
+-Cytoskeletal Proteins (+metabolism)
+-Models, Chemical
+-Protein Binding
++Protein Folding
+
+pii:S0022-2836(09)00788-8
+doi:10.1016/j.jmb.2009.06.058
+pubmed:19576901
+

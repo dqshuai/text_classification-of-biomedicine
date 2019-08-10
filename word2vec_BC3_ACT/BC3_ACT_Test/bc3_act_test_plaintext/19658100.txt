@@ -1,0 +1,24 @@
+Proteomics
+
+Phosphorylation of the SSBP2 and ABL proteins by the ZNF198-FGFR1 fusion kinase seen in atypical myeloproliferative disorders as revealed by phosphopeptide-specific MS.
+
+C Kasyapa, TL Gu, L Nagarajan, L Natarajan, R Polakiewicz, JK Cowell
+
+The ZNF198-fibroblast growth factor receptor-1 (FGFR1) fusion kinase is a constitutively activated tyrosine kinase associated with a specific atypical myeloproliferative disease. The chimeric protein localizes to the cytoplasm, unlike the wild type FGFR1 receptor kinase, and presumably inappropriately phosphorylates specific targets as part of the oncogenic signaling cascade. Other than known targets of the FGFR1 kinase itself, few specific targets of ZNF198-FGFR1 have been identified. Using a genetically engineered HEK 293 cell system, we have identified proteins that are specifically phosphorylated in the presence of the fusion kinase using anti-phosphotyrosine immunoprecipitation and MS. Compared with 293 cells expressing exongenous wild type FGFR1, ZNF198-FGFR1 is associated with phosphorylation of several proteins including SSBP2, ABL, FLJ14235, CALM and TRIM4 proteins. The specificity of the phosphorylation events in the SSBP2 and ABL proteins, which have previously been implicated in leukemogenesis, was further confirmed independently using immunoprecipitation with protein-specific antibodies and Western blotting. The MS analysis also identified the phosphorylation events in the ZNF198 moiety in the chimeric protein that might be related to its function. These studies identify the intersection of several different leukemia-related pathways in the development of this myeloproliferative disorder and provide new insights into the substrates of FGFR1 under defined conditions.
+
+-Blotting, Western
+-Cell Line
+-DNA-Binding Proteins (-genetics; +metabolism)
+-Humans
+-Immunoprecipitation
+-Mass Spectrometry (+methods)
+-Monomeric Clathrin Assembly Proteins (-metabolism)
+-Myeloproliferative Disorders (+enzymology; -genetics; +metabolism)
+-Phosphorylation
+-Proto-Oncogene Proteins c-abl (+metabolism)
+-Receptor, Fibroblast Growth Factor, Type 1 (-genetics; +metabolism)
+-Transcription Factors (-genetics; +metabolism)
+
+doi:10.1002/pmic.200800852
+pubmed:19658100
+

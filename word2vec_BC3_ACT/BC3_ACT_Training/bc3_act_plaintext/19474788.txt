@@ -1,0 +1,26 @@
+Nature
+
+Structural insight into the autoinhibition mechanism of AMP-activated protein kinase.
+
+L Chen, ZH Jiao, LS Zheng, YY Zhang, ST Xie, ZX Wang, JW Wu
+
+The AMP-activated protein kinase (AMPK) is characterized by its ability to bind to AMP, which enables it to adjust enzymatic activity by sensing the cellular energy status and maintain the balance between ATP production and consumption in eukaryotic cells. It also has important roles in the regulation of cell growth and proliferation, and in the establishment and maintenance of cell polarity. These important functions have rendered AMPK an important drug target for obesity, type 2 diabetes and cancer treatments. However, the regulatory mechanism of AMPK activity by AMP binding remains unsolved. Here we report the crystal structures of an unphosphorylated fragment of the AMPK alpha-subunit (KD-AID) from Schizosaccharomyces pombe that contains both the catalytic kinase domain and an autoinhibitory domain (AID), and of a phosphorylated kinase domain from Saccharomyces cerevisiae (Snf1-pKD). The AID binds, from the 'backside', to the hinge region of its kinase domain, forming contacts with both amino-terminal and carboxy-terminal lobes. Structural analyses indicate that AID binding might constrain the mobility of helix alphaC, hence resulting in an autoinhibited KD-AID with much lower kinase activity than that of the kinase domain alone. AMP activates AMPK both allosterically and by inhibiting dephosphorylation. Further in vitro kinetic studies demonstrate that disruption of the KD-AID interface reverses the autoinhibition and these AMPK heterotrimeric mutants no longer respond to the change in AMP concentration. The structural and biochemical data have shown the primary mechanism of AMPK autoinhibition and suggest a conformational switch model for AMPK activation by AMP.
+
+-AMP-Activated Protein Kinases (+chemistry; +metabolism)
+-Adenosine Monophosphate (-metabolism)
+-Amino Acid Sequence
+-Animals
++Models, Molecular
+-Molecular Sequence Data
+-Mutation
+-Phosphorylation
+-Protein Structure, Tertiary
+-Rats
+-Saccharomyces cerevisiae (+enzymology)
+-Schizosaccharomyces (+enzymology)
+-Sequence Alignment
+
+pii:nature08075
+doi:10.1038/nature08075
+pubmed:19474788
+

@@ -1,0 +1,34 @@
+Cell. Physiol. Biochem.
+
+Mechanistic study on growth suppression and apoptosis induction by targeting hepatoma-derived growth factor in human hepatocellular carcinoma HepG2 cells.
+
+TY Tsang, WY Tang, WP Tsang, NN Co, SK Kong, TT Kwok
+
+Hepatoma-derived growth factor (HDGF) is frequently overexpressed in human cancer. The growth factor was previously demonstrated to be a survival factor as knock-down of HDGF suppresses the growth and induces apoptosis in human cancer cells through the Bad-mediated intrinsic apoptotic pathway. However, inactivation of Bad cannot completely repress the apoptosis induced upon HDGF knock-down, indicating the presence of other unidentified pathways. In the present study, HDGF knock-down was shown to trigger the Fas-mediated extrinsic apoptotic pathway in human hepatocellular carcinoma HepG2 cells through NF-kappaB signaling pathway. Increases in Fas expression and fas promoter activity were detected upon HDGF knock-down by Western blot analysis and luciferase reporter assay. Knock-down of fas inhibited HDGF knock-down effect on apoptosis induction and growth suppression as revealed by annexin V binding assay and soft agar assay. Down-regulation of IkappaBalpha was also observed upon HDGF knock-down. Overexpression of IkappaBalpha by transient transfection or inhibition of NF-kappaB by BAY11-7082 suppressed HDGF knock-down effect on fas promoter activation, Fas up-regulation, apoptosis induction and growth suppression. Furthermore, the interaction of Fas-mediated extrinsic and Bad-mediated intrinsic apoptotic pathways was demonstrated as a stronger inhibition on apoptosis induction and growth suppression upon HDGF knock-down was observed when both pathways were inactivated. The results therefore suggested that, through both intrinsic and extrinsic apoptotic pathways, HDGF may function as a survival factor and be a potential target for cancer therapy.
+
+-Annexin A5 (-analysis; -metabolism)
+-Antigens, CD95 (-biosynthesis)
++Apoptosis
+-Carcinoma, Hepatocellular (-genetics; +metabolism; +pathology)
+-Cell Line, Tumor
+-DNA Fragmentation (-drug effects)
+-Gene Expression Regulation, Neoplastic (-drug effects)
+-Genes, Reporter
+-Humans
+-Intercellular Signaling Peptides and Proteins (+genetics)
+-Liver Neoplasms (-genetics; +metabolism; +pathology)
+-Luciferases, Renilla (-metabolism)
+-Models, Biological
+-NF-kappa B (-antagonists & inhibitors; -metabolism)
+-Nitriles (-pharmacology)
+-Oligonucleotides, Antisense (-pharmacology)
+-RNA, Small Interfering (-metabolism)
+-Signal Transduction
+-Sulfones (-pharmacology)
+-Transfection
+-bcl-Associated Death Protein (-metabolism)
+
+pii:000233250
+doi:10.1159/000233250
+pubmed:19710540
+

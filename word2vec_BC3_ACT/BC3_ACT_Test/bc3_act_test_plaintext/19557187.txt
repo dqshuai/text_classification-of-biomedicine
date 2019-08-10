@@ -1,0 +1,18 @@
+PLoS Genet.
+
+Telomere recombination accelerates cellular aging in Saccharomyces cerevisiae.
+
+XF Chen, FL Meng, JQ Zhou
+
+Telomeres are nucleoprotein structures located at the linear ends of eukaryotic chromosomes. Telomere integrity is required for cell proliferation and survival. Although the vast majority of eukaryotic species use telomerase as a primary means for telomere maintenance, a few species can use recombination or retrotransposon-mediated maintenance pathways. Since Saccharomyces cerevisiae can use both telomerase and recombination to replicate telomeres, budding yeast provides a useful system with which to examine the evolutionary advantages of telomerase and recombination in preserving an organism or cell under natural selection. In this study, we examined the life span in telomerase-null, post-senescent type II survivors that have employed homologous recombination to replicate their telomeres. Type II recombination survivors stably maintained chromosomal integrity but exhibited a significantly reduced replicative life span. Normal patterns of cell morphology at the end of a replicative life span and aging-dependent sterility were observed in telomerase-null type II survivors, suggesting the type II survivors aged prematurely in a manner that is phenotypically consistent with that of wild-type senescent cells. The shortened life span of type II survivors was extended by calorie restriction or TOR1 deletion, but not by Fob1p inactivation or Sir2p over-expression. Intriguingly, rDNA recombination was decreased in type II survivors, indicating that the premature aging of type II survivors was not caused by an increase in extra-chromosomal rDNA circle accumulation. Reintroduction of telomerase activity immediately restored the replicative life span of type II survivors despite their heterogeneous telomeres. These results suggest that telomere recombination accelerates cellular aging in telomerase-null type II survivors and that telomerase is likely a superior telomere maintenance pathway in sustaining yeast replicative life span.
+
+-Cell Aging
++Recombination, Genetic
+-Saccharomyces cerevisiae (-genetics; +physiology)
+-Saccharomyces cerevisiae Proteins (-genetics; -metabolism)
+-Telomere (+genetics; -physiology)
+
+doi:10.1371/journal.pgen.1000535
+pubmed:19557187
+pmc:PMC2694356
+

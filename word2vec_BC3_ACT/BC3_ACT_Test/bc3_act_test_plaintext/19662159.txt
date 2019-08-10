@@ -1,0 +1,24 @@
+PLoS Comput. Biol.
+
+Towards reproducible descriptions of neuronal network models.
+
+E Nordlie, MO Gewaltig, HE Plesser
+
+Progress in science depends on the effective exchange of ideas among scientists. New ideas can be assessed and criticized in a meaningful manner only if they are formulated precisely. This applies to simulation studies as well as to experiments and theories. But after more than 50 years of neuronal network simulations, we still lack a clear and common understanding of the role of computational models in neuroscience as well as established practices for describing network models in publications. This hinders the critical evaluation of network models as well as their re-use. We analyze here 14 research papers proposing neuronal network models of different complexity and find widely varying approaches to model descriptions, with regard to both the means of description and the ordering and placement of material. We further observe great variation in the graphical representation of networks and the notation used in equations. Based on our observations, we propose a good model description practice, composed of guidelines for the organization of publications, a checklist for model descriptions, templates for tables presenting model structure, and guidelines for diagrams of networks. The main purpose of this good practice is to trigger a debate about the communication of neuronal network models in a manner comprehensible to humans, as opposed to machine-readable model description languages. We believe that the good model description practice proposed here, together with a number of other recent initiatives on data-, model-, and software-sharing, may lead to a deeper and more fruitful exchange of ideas among computational neuroscientists in years to come. We further hope that work on standardized ways of describing--and thinking about--complex neuronal networks will lead the scientific community to a clearer understanding of high-level concepts in network dynamics, and will thus lead to deeper insights into the function of the brain.
+
+-Animals
+-Brain (+physiology)
+-Computational Biology (+methods)
+-Humans
+-Membrane Potentials (-physiology)
++Models, Neurological
+-Nerve Net (+physiology)
+-Neurons (-physiology)
+-Neurosciences (+methods)
+-Reproducibility of Results
+-Synapses (-physiology)
+
+doi:10.1371/journal.pcbi.1000456
+pubmed:19662159
+pmc:PMC2713426
+

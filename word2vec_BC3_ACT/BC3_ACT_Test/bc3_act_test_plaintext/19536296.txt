@@ -1,0 +1,28 @@
+PLoS ONE
+
+Gene specificity of suppression of transgene-mediated insertional transcriptional activation by the chicken HS4 insulator.
+
+R Desprat, EE Bouhassira
+
+Insertional mutagenesis has emerged as a major obstacle for gene therapy based on vectors that integrate randomly in the genome. Reducing the genotoxicity of genomic viral integration can, in first approximation, be equated with reducing the risk of oncogene activation, at least in the case of therapeutic payloads that have no known oncogenic potential, such as the globin genes. An attractive solution to the problem of oncogene activation is the inclusion of insulators/enhancer-blockers in the viral vectors. In this study we have used Recombinase-Mediated Cassette Exchange to characterize the effect of integration of globin therapeutic cassettes in the presence or absence of the chicken HS4 and three other putative insulators inserted near Stil, Tal1 and MAP17, three well-known cellular proto-oncogenes in the SCL/Tal1 locus. We show that insertion of a Locus Control Region-driven globin therapeutic globin transgene had a dramatic activating effect on Tal1 and Map17, the two closest genes, a minor effect on Stil, and no effect on Cyp4x1, a non-expressed gene. Of the four element tested, cHS4 was the only one that was able to suppress this transgene-mediated insertional transcriptional activation. cHS4 had a strong suppressive effect on the activation expression of Map17 but has little or no effect on expression of Tal1. The suppressive activity of cHS4 is therefore promoter specific. Importantly, the observed suppressive effect of cHS4 on Map17 activation did not depend on its intercalation between the LCR and the Map 17 promoter. Rather, presence of one or two copies of cHS4 anywhere within the transgene was sufficient to almost completely block the activation of Map17. Therefore, at this complex locus, suppression of transgene-mediated insertional transcriptional activation by cHS4 could not be adequately explained by models that predict that cHS4 can only suppress expression through an enhancer-blocking activity that requires intercalation between an enhancer and a promoter. This has important implications for our theoretical understanding of the possible effects of the insertion of cHS4 on gene therapy vectors. We also show that cHS4 decreased the level of expression of the globin transgene. Therefore, the benefits of partially preventing insertional gene activation are in part negated by the lower expression level of the transgene. A cost/benefit analysis of the utility of incorporation of insulators in gene therapy vectors will require further studies in which the effects of insulators on both the therapeutic gene and the flanking genes are determined at a large number of integration sites. Identification of insulators with minimal promoter specificity would also be of great value.
+
+-Animals
+-Cell Separation
+-Chickens
+-Flow Cytometry
++Gene Expression Regulation
+-Gene Silencing
+-Gene Therapy (-methods)
+-Genetic Techniques
+-Hemoglobinopathies (-genetics; -therapy)
+-Mutagenesis
++Mutagenesis, Insertional
+-Reverse Transcriptase Polymerase Chain Reaction
++Transcriptional Activation
++Transgenes
+-beta-Globins (+genetics; -metabolism)
+
+doi:10.1371/journal.pone.0005956
+pubmed:19536296
+pmc:PMC2694267
+

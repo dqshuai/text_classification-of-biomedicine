@@ -1,0 +1,29 @@
+EMBO J.
+
+The mammalian formin FHOD1 is activated through phosphorylation by ROCK and mediates thrombin-induced stress fibre formation in endothelial cells.
+
+R Takeya, K Taniguchi, S Narumiya, H Sumimoto
+
+Formin-family proteins, in the active state, form actin-based structures such as stress fibres. Their activation mechanisms, however, are largely unknown except that mDia and its closely related formins can be activated by direct binding of the small GTPase Rho or Cdc42. Here we show that the Rho-dependent protein kinase ROCK phosphorylates the C-terminal residues Ser1131, Ser1137, and Thr1141 of formin homology domain protein 1 (FHOD1), a major endothelial formin that is normally autoinhibited by intramolecular interaction between the N- and C-terminal regions. Phosphorylation of FHOD1 at the three residues fully disrupts the autoinhibitory interaction, which culminates in formation of stress fibres. We also demonstrate that, in vascular endothelial cells, thrombin, a vasoactive substance leading to Rho activation, elicits both FHOD1 phosphorylation and stress fibre formation in a ROCK-dependent manner, and that FHOD1 depletion by RNA interference impairs thrombin-induced stress fibre formation. Based on these findings we propose a novel mechanism for activation of formin-family proteins: ROCK, activated by G protein-coupled receptor ligands such as thrombin, directly phosphorylates FHOD1 at the C-terminal region, which renders this formin in the active form, leading to stress fibre formation.
+
+-Amino Acid Sequence
+-Cells, Cultured
+-Endothelial Cells (-drug effects; -metabolism)
+-Fetal Proteins (-genetics; +metabolism)
+-Hela Cells
+-Humans
+-Molecular Sequence Data
+-Nuclear Proteins (-genetics; +metabolism)
+-Phosphorylation
+-RNA Interference
+-Sequence Alignment
+-Stress Fibers (-metabolism)
+-Thrombin (-physiology)
+-rho-Associated Kinases (-genetics; +metabolism)
+-rhoA GTP-Binding Protein (-metabolism)
+
+pii:emboj20087
+doi:10.1038/emboj.2008.7
+pubmed:18239683
+pmc:PMC2262041
+

@@ -1,0 +1,32 @@
+Cancer Lett.
+
+Cancer-related transcriptional targets of the circadian gene NPAS2 identified by genome-wide ChIP-on-chip analysis.
+
+CH Yi, T Zheng, D Leaderer, A Hoffman, Y Zhu
+
+The transcription factor NPAS2 is one of nine human core circadian genes that influence a variety of biological processes by regulating the 24-h circadian rhythm. Recently, it has been shown that NPAS2 is a risk biomarker in human cancers and plays a role in tumorigenesis by affecting cancer-related gene expression, and relevant biological pathways. However, it is difficult to study the biological involvement of NPAS2 in cancer development, as little is known about its direct transcriptional targets. The aim of the current study is to create a transcriptional profile of genes regulated by NPAS2, using a human binding ChIP-on-chip analysis of NPAS2 in MCF-7 cells. This genome-wide mapping approach identified 26 genes that contain potential NPAS2 binding regions. Subsequent real-time PCR assays confirmed 16 of these targets, and 9 of these genes (ARHGAP29, CDC25A, CDKN2AIP, CX3CL1, ELF4, GNAL, KDELR1, POU4F2, and THRA) have a known role in tumorigenesis. In addition, a networking analysis of these validated NPAS2 targets revealed that all nine genes, together with REN, are involved in a "Cancer, Cell cycle, Neurological Disease" network. These results report the first list of direct transcriptional targets of NPAS2 and will shed light on the role of circadian genes in tumorigenesis.
+
+-Adenocarcinoma (-genetics; -metabolism; -pathology)
+-Basic Helix-Loop-Helix Transcription Factors (-antagonists & inhibitors; -genetics; +physiology)
+-Breast Neoplasms (-genetics; -metabolism; -pathology)
+-Cell Line, Tumor (-metabolism)
+-Cell Transformation, Neoplastic (+genetics)
+-Chromatin Immunoprecipitation
+-Circadian Rhythm (-genetics)
+-Female
++Gene Expression Profiling
+-Gene Expression Regulation, Neoplastic
++Gene Regulatory Networks
+-Genome-Wide Association Study (+methods)
+-Humans
+-Neoplasm Proteins (+genetics; -physiology)
+-Nerve Tissue Proteins (-antagonists & inhibitors; -genetics; +physiology)
++Oligonucleotide Array Sequence Analysis
+-RNA Interference
+-RNA, Small Interfering (-pharmacology)
+-Transcription, Genetic
+
+pii:S0304-3835(09)00276-6
+doi:10.1016/j.canlet.2009.04.017
+pubmed:19457610
+

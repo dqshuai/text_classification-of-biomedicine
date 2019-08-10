@@ -1,0 +1,14 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Coexistence and transition between Cassie and Wenzel state on pillared hydrophobic surface.
+
+T Koishi, K Yasuoka, S Fujikawa, T Ebisuzaki, XC Zeng
+
+Water droplets on rugged hydrophobic surfaces typically exhibit one of the following two states: (i) the Wenzel state [Wenzel RN (1936) Ind Eng Chem 28:988-994] in which water droplets are in full contact with the rugged surface (referred as the wetted contact) or (ii) the Cassie state [Cassie, ABD, Baxter S (1944) Trans Faraday Soc 40:546-551] in which water droplets are in contact with peaks of the rugged surface as well as the "air pockets" trapped between surface grooves (the composite contact). Here, we show large-scale molecular dynamics simulation of transition between Wenzel state and Cassie state of water droplets on a periodic nanopillared hydrophobic surface. Physical conditions that can strongly affect the transition include the height of nanopillars, the spacing between pillars, the intrinsic contact angle, and the impinging velocity of water nanodroplet ("raining" simulation). There exists a critical pillar height beyond which water droplets on the pillared surface can be either in the Wenzel state or in the Cassie state, depending on their initial location. The free-energy barrier separating the Wenzel and Cassie state was computed on the basis of a statistical-mechanics method and kinetic raining simulation. The barrier ranges from a few tenths of k(B)T(0) (where k(B) is the Boltzmann constant, and T(0) is the ambient temperature) for a rugged surface at the critical pillar height to approximately 8 k(B)T(0) for the surface with pillar height greater than the length scale of water droplets. For a highly rugged surface, the barrier from the Wenzel-to-Cassie state is much higher than from Cassie-to-Wenzel state. Hence, once a droplet is trapped deeply inside the grooves, it would be much harder to relocate on top of high pillars.
+
+
+pii:0902027106
+doi:10.1073/pnas.0902027106
+pubmed:19429707
+pmc:PMC2688995
+

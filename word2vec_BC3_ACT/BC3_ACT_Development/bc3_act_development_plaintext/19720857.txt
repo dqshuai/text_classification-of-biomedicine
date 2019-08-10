@@ -1,0 +1,31 @@
+Genetics
+
+MAP kinase signaling antagonizes PAR-1 function during polarization of the early Caenorhabditis elegans embryo.
+
+AC Spilker, A Rabilotta, C Zbinden, JC Labbé, M Gotta
+
+PAR proteins (partitioning defective) are major regulators of cell polarity and asymmetric cell division. One of the par genes, par-1, encodes a Ser/Thr kinase that is conserved from yeast to mammals. In Caenorhabditis elegans, par-1 governs asymmetric cell division by ensuring the polar distribution of cell fate determinants. However the precise mechanisms by which PAR-1 regulates asymmetric cell division in C. elegans remain to be elucidated. We performed a genomewide RNAi screen and identified six genes that specifically suppress the embryonic lethal phenotype associated with mutations in par-1. One of these suppressors is mpk-1, the C. elegans homolog of the conserved mitogen activated protein (MAP) kinase ERK. Loss of function of mpk-1 restored embryonic viability, asynchronous cell divisions, the asymmetric distribution of cell fate specification markers, and the distribution of PAR-1 protein in par-1 mutant embryos, indicating that this genetic interaction is functionally relevant for embryonic development. Furthermore, disrupting the function of other components of the MAPK signaling pathway resulted in suppression of par-1 embryonic lethality. Our data therefore indicates that MAP kinase signaling antagonizes PAR-1 signaling during early C. elegans embryonic polarization.
+
+-Amino Acid Sequence
+-Animals
+-Caenorhabditis elegans (-embryology; -genetics; +metabolism)
+-Caenorhabditis elegans Proteins (-genetics; +metabolism)
+-Cell Polarity (-genetics; -physiology)
+-Embryo, Nonmammalian (-cytology; -embryology; +metabolism)
+-Epistasis, Genetic
+-Genome, Helminth (-genetics)
+-MAP Kinase Signaling System (-genetics; -physiology)
+-Microscopy, Confocal
+-Mitogen-Activated Protein Kinase 1 (-genetics; +metabolism)
+-Molecular Sequence Data
+-Mutation
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-RNA Interference
+-Sequence Homology, Amino Acid
+-Time Factors
+
+pii:genetics.109.106716
+doi:10.1534/genetics.109.106716
+pubmed:19720857
+pmc:PMC2778991
+

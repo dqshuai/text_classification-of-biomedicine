@@ -1,0 +1,33 @@
+Science
+
+C3PO, an endoribonuclease that promotes RNAi by facilitating RISC activation.
+
+Y Liu, X Ye, F Jiang, C Liang, D Chen, J Peng, LN Kinch, NV Grishin, Q Liu
+
+The catalytic engine of RNA interference (RNAi) is the RNA-induced silencing complex (RISC), wherein the endoribonuclease Argonaute and single-stranded small interfering RNA (siRNA) direct target mRNA cleavage. We reconstituted long double-stranded RNA- and duplex siRNA-initiated RISC activities with the use of recombinant Drosophila Dicer-2, R2D2, and Ago2 proteins. We used this core reconstitution system to purify an RNAi regulator that we term C3PO (component 3 promoter of RISC), a complex of Translin and Trax. C3PO is a Mg2+-dependent endoribonuclease that promotes RISC activation by removing siRNA passenger strand cleavage products. These studies establish an in vitro RNAi reconstitution system and identify C3PO as a key activator of the core RNAi machinery.
+
+-Amino Acid Sequence
+-Animals
+-Carrier Proteins (-chemistry; -genetics; -isolation & purification; +metabolism)
+-Catalytic Domain
+-Drosophila Proteins (-chemistry; -genetics; -isolation & purification; +metabolism)
+-Drosophila melanogaster (-chemistry; -enzymology; +genetics)
+-Models, Molecular
+-Molecular Sequence Data
+-Mutation
+-Protein Conformation
+-RNA Helicases (-genetics; -metabolism)
++RNA Interference
+-RNA, Double-Stranded (-chemistry; -metabolism)
+-RNA, Small Interfering (-chemistry; -metabolism)
+-RNA-Binding Proteins (-genetics; -metabolism)
+-RNA-Induced Silencing Complex (-genetics; +metabolism)
+-Recombinant Proteins (-metabolism)
+-Ribonuclease III (-genetics; -metabolism)
+
+pii:325/5941/750
+doi:10.1126/science.1176325
+pubmed:19661431
+mid:NIHMS191999
+pmc:PMC2855623
+

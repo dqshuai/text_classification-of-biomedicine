@@ -1,0 +1,25 @@
+Biochem. Biophys. Res. Commun.
+
+Structure prediction and functional analysis of KdsD, an enzyme involved in lipopolysaccharide biosynthesis.
+
+S Sommaruga, LD Gioia, P Tortora, A Polissi
+
+Lipopolysaccharide is an essential component of the outer membrane of Gram-negative bacteria and consists of three elements: lipid A, the core oligosaccharide and the O-antigen. The inner core region is highly conserved and contains at least one residue of 3-deoxy-D-manno-octulosonate (Kdo). The first committed step of Kdo biosynthesis is the aldol-keto isomerisation of d-ribulose 5-phosphate to d-arabinose 5-phosphate catalyzed by arabinose 5-phosphate isomerase encoded in Escherichia coli by the kdsD gene. KdsD contains an N-terminal sugar isomerase (SIS) domain commonly found in phosphosugar isomerases but its three-dimensional structure is unknown. The structure of the KdsD SIS domain has been predicted by homology modeling using the hypothetical 3etn protein as a template. Moreover by sequence alignments, comparison with other sugar isomerases structurally related to KdsD, and site-directed mutagenesis we implicated four residues in KdsD activity or substrate recognition. A possible role of these residues in the catalysis is discussed.
+
+-Aldose-Ketose Isomerases (+chemistry; -genetics; -metabolism)
+-Amino Acid Sequence
+-Escherichia coli Proteins (+chemistry; -genetics; -metabolism)
+-Histidine (-chemistry; -genetics)
+-Lipopolysaccharides (+biosynthesis)
+-Lysine (-chemistry; -genetics)
+-Molecular Sequence Data
+-Mutation
+-Protein Conformation
+-Protein Structure, Tertiary
+-Sequence Alignment
+-Sugar Acids (+metabolism)
+
+pii:S0006-291X(09)01516-2
+doi:10.1016/j.bbrc.2009.07.154
+pubmed:19664604
+

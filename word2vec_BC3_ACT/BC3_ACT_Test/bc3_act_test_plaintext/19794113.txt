@@ -1,0 +1,30 @@
+Plant Cell
+
+A tripartite SNARE-K+ channel complex mediates in channel-dependent K+ nutrition in Arabidopsis.
+
+A Honsbein, S Sokolovski, C Grefen, P Campanoni, R Pratelli, M Paneque, Z Chen, I Johansson, MR Blatt
+
+A few membrane vesicle trafficking (SNARE) proteins in plants are associated with signaling and transmembrane ion transport, including control of plasma membrane ion channels. Vesicle traffic contributes to the population of ion channels at the plasma membrane. Nonetheless, it is unclear whether these SNAREs also interact directly to affect channel gating and, if so, what functional impact this might have on the plant. Here, we report that the Arabidopsis thaliana SNARE SYP121 binds to KC1, a regulatory K(+) channel subunit that assembles with different inward-rectifying K(+) channels to affect their activities. We demonstrate that SYP121 interacts preferentially with KC1 over other Kv-like K(+) channel subunits and that KC1 interacts specifically with SYP121 but not with its closest structural and functional homolog SYP122 nor with another related SNARE SYP111. SYP121 promoted gating of the inward-rectifying K(+) channel AKT1 but only when heterologously coexpressed with KC1. Mutation in any one of the three genes, SYP121, KC1, and AKT1, selectively suppressed the inward-rectifying K(+) current in Arabidopsis root epidermal protoplasts as well as K(+) acquisition and growth in seedlings when channel-mediated K(+) uptake was limiting. That SYP121 should be important for gating of a K(+) channel and its role in inorganic mineral nutrition demonstrates an unexpected role for SNARE-ion channel interactions, apparently divorced from signaling and vesicle traffic. Instead, it suggests a role in regulating K(+) uptake coordinately with membrane expansion for cell growth.
+
+-Animals
+-Arabidopsis (+genetics; -metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Electrophysiology
+-Gene Expression Regulation, Plant
+-Insects
+-Ion Channel Gating
+-Mutation
+-Oocytes (-metabolism)
+-Plant Roots (-genetics; -metabolism)
+-Potassium (+metabolism)
+-Potassium Channels (-genetics; -metabolism)
+-Potassium Channels, Inwardly Rectifying (-genetics; +metabolism)
+-Qa-SNARE Proteins (-genetics; +metabolism)
+-RNA, Plant (-genetics)
+-Xenopus
+
+pii:tpc.109.066118
+doi:10.1105/tpc.109.066118
+pubmed:19794113
+pmc:PMC2768940
+

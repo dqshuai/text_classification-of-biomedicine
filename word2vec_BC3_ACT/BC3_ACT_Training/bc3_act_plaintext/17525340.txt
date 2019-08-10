@@ -1,0 +1,26 @@
+Science
+
+Abraxas and RAP80 form a BRCA1 protein complex required for the DNA damage response.
+
+B Wang, S Matsuoka, BA Ballif, D Zhang, A Smogorzewska, SP Gygi, SJ Elledge
+
+The BRCT repeats of the breast and ovarian cancer predisposition protein BRCA1 are essential for tumor suppression. Phosphopeptide affinity proteomic analysis identified a protein, Abraxas, that directly binds the BRCA1 BRCT repeats through a phospho-Ser-X-X-Phe motif. Abraxas binds BRCA1 to the mutual exclusion of BACH1 (BRCA1-associated C-terminal helicase) and CtIP (CtBP-interacting protein), forming a third type of BRCA1 complex. Abraxas recruits the ubiquitin-interacting motif (UIM)-containing protein RAP80 to BRCA1. Both Abraxas and RAP80 were required for DNA damage resistance, G(2)-M checkpoint control, and DNA repair. RAP80 was required for optimal accumulation of BRCA1 on damaged DNA (foci) in response to ionizing radiation, and the UIM domains alone were capable of foci formation. The RAP80-Abraxas complex may help recruit BRCA1 to DNA damage sites in part through recognition of ubiquitinated proteins.
+
+-Amino Acid Sequence
+-BRCA1 Protein (+physiology)
+-Carrier Proteins (+physiology)
+-Cell Line, Tumor
++DNA Damage
++DNA Repair
+-Hela Cells
+-Humans
+-Mass Spectrometry
+-Molecular Sequence Data
+-Nuclear Proteins (+physiology)
+-Protein Binding
+-Protein Structure, Tertiary
+
+pii:316/5828/1194
+doi:10.1126/science.1139476
+pubmed:17525340
+

@@ -1,0 +1,36 @@
+Infect. Immun.
+
+The posttranslocation chaperone PrsA2 contributes to multiple facets of Listeria monocytogenes pathogenesis.
+
+F Alonzo, GC Port, M Cao, NE Freitag
+
+Listeria monocytogenes is an intracellular bacterial pathogen whose virulence depends on the regulated expression of numerous secreted bacterial factors. As for other gram-positive bacteria, many proteins secreted by L. monocytogenes are translocated across the bacterial membrane in an unfolded state to the compartment existing between the membrane and the cell wall. This compartment presents a challenging environment for protein folding due to its high density of negative charge, high concentrations of cations, and low pH. We recently identified PrsA2 as a gene product required for L. monocytogenes virulence. PrsA2 was identified based on its increased secretion by strains containing a mutationally activated form of prfA, the key regulator of L. monocytogenes virulence gene expression. The prsA2 gene product is one of at least two predicted peptidyl-prolyl cis/trans-isomerases encoded by L. monocytogenes; these proteins function as posttranslocation protein chaperones and/or foldases. In this study, we demonstrate that PrsA2 plays a unique and important role in L. monocytogenes pathogenesis by promoting the activity and stability of at least two critical secreted virulence factors: listeriolysin O (LLO) and a broad-specificity phospholipase. Loss of PrsA2 activity severely attenuated virulence in mice and impaired bacterial cell-to-cell spread in host cells. In contrast, mutants lacking prsA1 resembled wild-type bacteria with respect to intracellular growth and cell-to-cell spread as well as virulence in mice. PrsA2 is thus distinct from PrsA1 in its unique requirement for the stability and full activity of L. monocytogenes-secreted factors that contribute to host infection.
+
+-Amino Acid Sequence
+-Animals
+-Bacterial Toxins (+metabolism)
+-Cell Line
+-Female
+-Gene Deletion
+-Gene Order
+-Heat-Shock Proteins (+metabolism)
+-Hemolysin Proteins (+metabolism)
+-Listeria Infections (-microbiology)
+-Listeria monocytogenes (+pathogenicity)
+-Liver (-microbiology)
+-Macrophages (-microbiology)
+-Mice
+-Molecular Chaperones (-genetics; +physiology)
+-Molecular Sequence Data
+-Peptidylprolyl Isomerase (-genetics; +physiology)
+-Phospholipases (+metabolism)
+-Sequence Alignment
+-Spleen (-microbiology)
+-Virulence
+-Virulence Factors (+metabolism)
+
+pii:IAI.00280-09
+doi:10.1128/IAI.00280-09
+pubmed:19451247
+pmc:PMC2708592
+

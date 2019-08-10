@@ -1,0 +1,32 @@
+J. Exp. Med.
+
+NF-kappaB activity marks cells engaged in receptor editing.
+
+EJ Cadera, F Wan, RH Amin, H Nolla, MJ Lenardo, MS Schlissel
+
+Because of the extreme diversity in immunoglobulin genes, tolerance mechanisms are necessary to ensure that B cells do not respond to self-antigens. One such tolerance mechanism is called receptor editing. If the B cell receptor (BCR) on an immature B cell recognizes self-antigen, it is down-regulated from the cell surface, and light chain gene rearrangement continues in an attempt to edit the autoreactive specificity. Analysis of a heterozygous mutant mouse in which the NF-kappaB-dependent IkappaB alpha gene was replaced with a lacZ (beta-gal) reporter complementary DNA (cDNA; IkappaB alpha(+/lacZ)) suggests a potential role for NF-kappaB in receptor editing. Sorted beta-gal(+) pre-B cells showed increased levels of various markers of receptor editing. In IkappaB alpha(+/lacZ) reporter mice expressing either innocuous or self-specific knocked in BCRs, beta-gal was preferentially expressed in pre-B cells from the mice with self-specific BCRs. Retroviral-mediated expression of a cDNA encoding an IkappaB alpha superrepressor in primary bone marrow cultures resulted in diminished germline kappa and rearranged lambda transcripts but similar levels of RAG expression as compared with controls. We found that IRF4 transcripts were up-regulated in beta-gal(+) pre-B cells. Because IRF4 is a target of NF-kappaB and is required for receptor editing, we suggest that NF-kappaB could be acting through IRF4 to regulate receptor editing.
+
+-Animals
+-Base Sequence
+-Cell Differentiation
+-Cell Line
+-DNA Primers (-genetics)
+-DNA, Complementary (-genetics)
+-Gene Rearrangement, B-Lymphocyte, Light Chain
+-I-kappa B Proteins (-genetics)
+-Interferon Regulatory Factors (-genetics)
+-Mice
+-Mice, Inbred C57BL
+-Mice, Mutant Strains
+-Mice, Transgenic
+-NF-kappa B (+metabolism)
+-Precursor Cells, B-Lymphoid (-cytology; +immunology; +metabolism)
++RNA Editing
+-Receptors, Antigen, B-Cell (-genetics)
+-Self Tolerance (-genetics)
+
+pii:jem.20082815
+doi:10.1084/jem.20082815
+pubmed:19581408
+pmc:PMC2722169
+

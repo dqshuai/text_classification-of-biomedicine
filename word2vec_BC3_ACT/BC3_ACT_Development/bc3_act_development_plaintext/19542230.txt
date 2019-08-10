@@ -1,0 +1,31 @@
+J. Biol. Chem.
+
+Mechanism and regulatory function of CpG signaling via scavenger receptor B1 in primary B cells.
+
+P Zhu, X Liu, LS Treml, MP Cancro, BD Freedman
+
+It is well established that CpG promotes pro-inflammatory cytokine and antibody production by B cells via the Toll-like receptor 9 (TLR9)-dependent pathway. However, scavenger receptors (SRs) are also capable of binding such pathogen-derived molecules, yet their contribution to CpG-induced signaling events has not yet been evaluated. Here we identified a novel TLR9-independent mechanism of CpG-induced signaling and immune function that is mediated by the scavenger B1 receptor (SR-B1). Specifically, we show that CpG/SR-B1 triggers calcium entry into primary B lymphocytes via phospholipase C gamma-1-mediated activation of TRPC3 channels and also B cell adhesion to vascular cell adhesion molecule-1. CpG-induced calcium signals and vascular cell adhesion molecule-1 adhesion are TLR9-independent and are mediated exclusively by SR-B1. Although pro-inflammatory cytokine and Ig production induced by CpG require TLR9 expression, we also found that SR-B1 negatively regulates TLR9-dependent production of interleukin-6, interleukin-10, and IgM. Thus, our results provide a novel perspective on the complexity of CpG signaling within B cells by demonstrating that SR-B1 is an alternative pathway for nucleic acid-induced signaling that provides feedback inhibition on specific TLR9-dependent responses of B cells. Consequently, these results have wide implications for understanding the mechanisms regulating immune tolerance to nucleic acids and pathogen-associated molecules.
+
+-Animals
+-Antibodies (-metabolism)
+-B-Lymphocytes (-drug effects; +metabolism)
+-Calcium (-metabolism)
+-Cells, Cultured
+-Dinucleoside Phosphates (-pharmacology; +physiology)
+-Electrophysiology
+-Humans
+-Interleukin-10
+-Mice
+-Mice, Inbred C57BL
+-Patch-Clamp Techniques
+-Phospholipase C gamma (-antagonists & inhibitors; -metabolism)
+-Scavenger Receptors, Class B (-antagonists & inhibitors; +metabolism)
++Signal Transduction (-drug effects)
+-TRPC Cation Channels (-genetics; -physiology)
+-Toll-Like Receptor 9 (-genetics; -physiology)
+
+pii:M109.018580
+doi:10.1074/jbc.M109.018580
+pubmed:19542230
+pmc:PMC2755695
+

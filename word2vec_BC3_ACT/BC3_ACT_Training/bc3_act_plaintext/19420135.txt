@@ -1,0 +1,31 @@
+Mol. Biol. Cell
+
+IC138 defines a subdomain at the base of the I1 dynein that regulates microtubule sliding and flagellar motility.
+
+R Bower, K VanderWaal, E O'Toole, L Fox, C Perrone, J Mueller, M Wirschell, R Kamiya, WS Sale, ME Porter
+
+To understand the mechanisms that regulate the assembly and activity of flagellar dyneins, we focused on the I1 inner arm dynein (dynein f) and a null allele, bop5-2, defective in the gene encoding the IC138 phosphoprotein subunit. I1 dynein assembles in bop5-2 axonemes but lacks at least four subunits: IC138, IC97, LC7b, and flagellar-associated protein (FAP) 120--defining a new I1 subcomplex. Electron microscopy and image averaging revealed a defect at the base of the I1 dynein, in between radial spoke 1 and the outer dynein arms. Microtubule sliding velocities also are reduced. Transformation with wild-type IC138 restores assembly of the IC138 subcomplex and rescues microtubule sliding. These observations suggest that the IC138 subcomplex is required to coordinate I1 motor activity. To further test this hypothesis, we analyzed microtubule sliding in radial spoke and double mutant strains. The results reveal an essential role for the IC138 subcomplex in the regulation of I1 activity by the radial spoke/phosphorylation pathway.
+
+-Algal Proteins (-genetics; +metabolism)
+-Animals
+-Axoneme (-metabolism; -physiology; -ultrastructure)
+-Binding Sites
+-Blotting, Southern
+-Blotting, Western
+-Chlamydomonas reinhardtii (-genetics; -metabolism; -physiology)
+-Dyneins (-genetics; +metabolism)
+-Exons (-genetics)
+-Flagella (-genetics; -metabolism; +physiology)
+-Gene Deletion
+-Microscopy, Electron
+-Microtubules (-metabolism; +physiology)
+-Mutation
+-Phosphoproteins (-genetics; -metabolism)
+-Polymerase Chain Reaction
+-Protein Subunits (-genetics; -metabolism)
+
+pii:E09-04-0277
+doi:10.1091/mbc.E09-04-0277
+pubmed:19420135
+pmc:PMC2704157
+

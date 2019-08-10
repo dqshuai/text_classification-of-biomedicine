@@ -1,0 +1,29 @@
+Dev. Cell
+
+Monoubiquitinylation regulates endosomal localization of Lst2, a negative regulator of EGF receptor signaling.
+
+Y Mosesson, D Chetrit, L Schley, J Berghoff, T Ziv, S Carvalho, F Milanezi, A Admon, F Schmitt, M Ehrlich, Y Yarden
+
+Genetic screens performed in worms identified major regulators of the epidermal growth factor receptor (EGFR) pathway, including the ubiquitin ligase Cbl/SLI-1. Here we focus on the less-characterized Lst2 protein and confirm suppression of MAPK signals. Unexpectedly, human Lst2, a monoubiquitinylated phosphoprotein, does not localize to endosomes, despite an intrinsic phosphoinositol-binding FYVE domain. By constructing an ubiquitinylation-defective mutant and an ubiquitin fusion, we conclude that endosomal localization of Lst2, along with an ability to divert incoming EGFR molecules to degradation in lysosomes, is regulated by ubiquitinylation/deubiquitinylation cycles. Consistent with bifurcating roles, Lst2 physically binds Trim3/BERP, which interacts with Hrs and a complex that biases cargo recycling. These results establish an ubiquitin-based endosomal switch of receptor sorting, functionally equivalent to the mechanism inactivating Hrs via monoubiquitinylation.
+
+-Adaptor Proteins, Signal Transducing
+-Carrier Proteins (-metabolism)
++Endocytosis
+-Endosomal Sorting Complexes Required for Transport
+-Endosomes (-chemistry)
+-Hela Cells
+-Humans
+-Lysine (-metabolism)
+-Membrane Proteins
+-Phosphoproteins (-chemistry; +metabolism)
+-Phosphorylation
+-Protein Structure, Tertiary
+-Receptor, Epidermal Growth Factor (+metabolism)
++Signal Transduction
+-Ubiquitination
+-Zinc Fingers
+
+pii:S1534-5807(09)00136-1
+doi:10.1016/j.devcel.2009.03.015
+pubmed:19460345
+

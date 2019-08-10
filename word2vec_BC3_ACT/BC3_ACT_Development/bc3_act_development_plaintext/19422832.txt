@@ -1,0 +1,30 @@
+J. Mol. Biol.
+
+The N-terminal region of the RecU holliday junction resolvase is essential for homologous recombination.
+
+B Carrasco, C Cañas, GJ Sharples, JC Alonso, S Ayora
+
+The RecU Holliday junction (HJ)-resolving enzyme is highly conserved in the Firmicutes phylum of bacteria. In Bacillus subtilis, the recU gene has two putative initiation codons, at positions 1 and 33. In rec(+) cells, only the full-length RecU polypeptide (206 residues, 23.9 kDa) was detected even after different stress treatments. To address the relevance of the flexible N-terminus, we constructed mutant variants. Experiments in vivo revealed that recUDelta1-32 (which initiates at Met33 and encodes RecUDelta1-32) and recU31 (the conserved Arg31 residue was substituted with alanine to give RecUR31A) are genuine RecU mutants, rendering cells impaired in DNA repair and chromosomal segregation. RecU has three activities: It (i) cleaves HJs, (ii) anneals complementary strands and (iii) modulates RecA activities. RecUR31A binds and cleaves HJ DNA in vitro as efficiently as wild-type RecU, but RuvB.ATPgammaS.Mg(2+) fails to stimulate the RecUR31A cleavage reaction. In contrast, RecUDelta1-32 forms unstable complexes with DNA and fails to cleave HJs. RecU and its variants are capable of promoting DNA strand annealing and exert a negative effect on deoxy-ATP-dependent RecA-mediated DNA strand exchange. This study shows that the flexible N-terminus of RecU is essential for protein activity.
+
+-Amino Acid Sequence
+-Amino Acid Substitution (-genetics)
+-Bacillus subtilis (+enzymology; +physiology)
+-Bacterial Proteins (-genetics; +metabolism)
+-Chromosome Segregation
+-DNA Repair
+-DNA, Bacterial (-genetics; +metabolism)
+-Holliday Junction Resolvases (-genetics; +metabolism)
+-Microbial Viability
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Mutation, Missense
+-Protein Binding
+-Protein Structure, Tertiary
++Recombination, Genetic
+-Sequence Alignment
+-Sequence Deletion
+
+pii:S0022-2836(09)00520-8
+doi:10.1016/j.jmb.2009.04.065
+pubmed:19422832
+

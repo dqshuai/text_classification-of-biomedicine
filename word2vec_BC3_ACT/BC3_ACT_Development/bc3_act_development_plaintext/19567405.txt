@@ -1,0 +1,29 @@
+Hum. Mol. Genet.
+
+Direct and indirect roles of RECQL4 in modulating base excision repair capacity.
+
+SH Schurman, M Hedayati, Z Wang, DK Singh, E Speina, Y Zhang, K Becker, M Macris, P Sung, DM Wilson, DL Croteau, VA Bohr
+
+RECQL4 is a human RecQ helicase which is mutated in approximately two-thirds of individuals with Rothmund-Thomson syndrome (RTS), a disease characterized at the cellular level by chromosomal instability. BLM and WRN are also human RecQ helicases, which are mutated in Bloom and Werner's syndrome, respectively, and associated with chromosomal instability as well as premature aging. Here we show that primary RTS and RECQL4 siRNA knockdown human fibroblasts accumulate more H(2)O(2)-induced DNA strand breaks than control cells, suggesting that RECQL4 may stimulate repair of H(2)O(2)-induced DNA damage. RTS primary fibroblasts also accumulate more XRCC1 foci than control cells in response to endogenous or induced oxidative stress and have a high basal level of endogenous formamidopyrimidines. In cells treated with H(2)O(2), RECQL4 co-localizes with APE1, and FEN1, key participants in base excision repair. Biochemical experiments indicate that RECQL4 specifically stimulates the apurinic endonuclease activity of APE1, the DNA strand displacement activity of DNA polymerase beta, and incision of a 1- or 10-nucleotide flap DNA substrate by Flap Endonuclease I. Additionally, RTS cells display an upregulation of BER pathway genes and fail to respond like normal cells to oxidative stress. The data herein support a model in which RECQL4 regulates both directly and indirectly base excision repair capacity.
+
+-Biocatalysis
+-Cells, Cultured
+-DNA Damage
+-DNA Polymerase beta (-metabolism)
++DNA Repair
+-DNA-(Apurinic or Apyrimidinic Site) Lyase (-metabolism)
+-DNA-Binding Proteins (-genetics)
+-Guanine (-analogs & derivatives; -metabolism)
+-Humans
+-Hydrogen Peroxide (-pharmacology)
+-Oligonucleotide Array Sequence Analysis
+-Pyrimidines (-metabolism)
+-RNA, Small Interfering (-genetics)
+-RecQ Helicases (+genetics; -metabolism)
+-Rothmund-Thomson Syndrome (-genetics; -metabolism)
+
+pii:ddp291
+doi:10.1093/hmg/ddp291
+pubmed:19567405
+pmc:PMC2729667
+

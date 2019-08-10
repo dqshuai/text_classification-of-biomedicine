@@ -1,0 +1,20 @@
+BMC Genomics
+
+Polymorphic segmental duplication in the nematode Caenorhabditis elegans.
+
+IA Vergara, AK Mah, JC Huang, M Tarailo-Graovac, RC Johnsen, DL Baillie, N Chen
+
+BACKGROUND: The nematode Caenorhabditis elegans was the first multicellular organism to have its genome fully sequenced. Over the last 10 years since the original publication in 1998, the C. elegans genome has been scrutinized and the last gaps were filled in November 2002, which present a unique opportunity for examining genome-wide segmental duplications. RESULTS: Here, we performed analysis of the C. elegans genome in search for segmental duplications using a new tool -- OrthoCluster -- we have recently developed. We detected 3,484 duplicated segments -- duplicons -- ranging in size from 234 bp to 108 Kb. The largest pair of duplicons, 108 kb in length located on the left arm of Chromosome V, was further characterized. They are nearly identical at the DNA level (99.7% identity) and each duplicon contains 26 putative protein coding genes. Genotyping of 76 wild-type strains obtained from different labs in the C. elegans community revealed that not all strains contain this duplication. In fact, only 29 strains carry this large segmental duplication, suggesting a very recent duplication event in the C. elegans genome. CONCLUSION: This report represents the first demonstration that the C. elegans laboratory wild-type N2 strains has acquired large-scale differences.
+
+-Animals
+-Caenorhabditis elegans (+genetics)
+-Caenorhabditis elegans Proteins (+genetics)
++Genes, Duplicate
+-Genome, Helminth
++Polymorphism, Genetic
+
+pii:1471-2164-10-329
+doi:10.1186/1471-2164-10-329
+pubmed:19622155
+pmc:PMC2728738
+

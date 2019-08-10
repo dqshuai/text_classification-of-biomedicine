@@ -1,0 +1,27 @@
+Mol. Biol. Cell
+
+CSN-5, a component of the COP9 signalosome complex, regulates the levels of UNC-96 and UNC-98, two components of M-lines in Caenorhabditis elegans muscle.
+
+RK Miller, H Qadota, TJ Stark, KB Mercer, TS Wortham, A Anyanful, GM Benian
+
+In Caenorhabditis elegans two M-line proteins, UNC-98 and UNC-96, are involved in myofibril assembly and/or maintenance, especially myosin thick filaments. We found that CSN-5, a component of the COP9 signalosome complex, binds to UNC-98 and -96 using the yeast two-hybrid method. These interactions were confirmed by biochemical methods. The CSN-5 protein contains a Mov34 domain. Although one other COP9 signalosome component, CSN-6, also has a Mov34 domain, CSN-6 did not interact with UNC-98 or -96. Anti-CSN-5 antibody colocalized with paramyosin at A-bands in wild type and colocalized with abnormal accumulations of paramyosin found in unc-98, -96, and -15 (encodes paramyosin) mutants. Double knockdown of csn-5 and -6 could slightly suppress the unc-96 mutant phenotype. In the double knockdown of csn-5 and -6, the levels of UNC-98 protein were increased and the levels of UNC-96 protein levels were slightly reduced, suggesting that CSN-5 promotes the degradation of UNC-98 and that CSN-5 stabilizes UNC-96. In unc-15 and unc-96 mutants, CSN-5 protein was reduced, implying the existence of feed back regulation from myofibril proteins to CSN-5 protein levels. Taken together, we found that CSN-5 functions in muscle cells to regulate UNC-98 and -96, two M-line proteins.
+
+-Blotting, Western
+-Caenorhabditis elegans Proteins (-genetics; +metabolism)
+-Carrier Proteins (-genetics; +metabolism)
+-Fluorescent Antibody Technique
+-Multiprotein Complexes (-genetics; -metabolism)
+-Muscle Proteins (-genetics; +metabolism)
+-Muscles (+metabolism)
+-Mutation
+-Peptide Hydrolases (-genetics; -metabolism)
+-Protein Binding
+-RNA Interference
+-Tropomyosin (-genetics; -metabolism)
+-Two-Hybrid System Techniques
+
+pii:E09-03-0208
+doi:10.1091/mbc.E09-03-0208
+pubmed:19535455
+pmc:PMC2719578
+

@@ -1,0 +1,20 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Efficient computation of optimal actions.
+
+E Todorov
+
+Optimal choice of actions is a fundamental problem relevant to fields as diverse as neuroscience, psychology, economics, computer science, and control engineering. Despite this broad relevance the abstract setting is similar: we have an agent choosing actions over time, an uncertain dynamical system whose state is affected by those actions, and a performance criterion that the agent seeks to optimize. Solving problems of this kind remains hard, in part, because of overly generic formulations. Here, we propose a more structured formulation that greatly simplifies the construction of optimal control laws in both discrete and continuous domains. An exhaustive search over actions is avoided and the problem becomes linear. This yields algorithms that outperform Dynamic Programming and Reinforcement Learning, and thereby solve traditional problems more efficiently. Our framework also enables computations that were not possible before: composing optimal control laws by mixing primitives, applying deterministic methods to stochastic systems, quantifying the benefits of error tolerance, and inferring goals from behavioral data via convex optimization. Development of a general class of easily solvable problems tends to accelerate progress--as linear systems theory has done, for example. Our framework may have similar impact in fields where optimal choice of actions is relevant.
+
++Algorithms
+-Information Science (+methods)
++Models, Theoretical
++Problem Solving
+-Stochastic Processes
++Uncertainty
+
+pii:0710743106
+doi:10.1073/pnas.0710743106
+pubmed:19574462
+pmc:PMC2705278
+

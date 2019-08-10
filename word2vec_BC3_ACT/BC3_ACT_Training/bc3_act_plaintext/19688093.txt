@@ -1,0 +1,20 @@
+PLoS ONE
+
+Comparison of two quantitative methods of discerning airspace enlargement in smoke-exposed mice.
+
+RE Jacob, JP Carson, KM Gideon, BG Amidan, CL Smith, KM Lee
+
+In this work, we compare two methods for evaluating and quantifying pulmonary airspace enlargement in a mouse model of chronic cigarette smoke exposure. Standard stereological sample preparation, sectioning, and imaging of mouse lung tissues were performed for semi-automated acquisition of mean linear intercept (L(m)) data. After completion of the L(m) measurements, D(2), a metric of airspace enlargement, was measured in a blinded manner on the same lung images using a fully automated technique developed in-house. An analysis of variance (ANOVA) shows that although L(m) was able to separate the smoke-exposed and control groups with statistical significance (p = 0.034), D(2) was better able to differentiate the groups (p<0.001) and did so without any overlap between the control and smoke-exposed individual animal data. In addition, the fully automated implementation of D(2) represented a time savings of at least 24x over semi-automated L(m) measurements. Although D(2) does not provide 3D stereological metrics of airspace dimensions as L(m) does, results show that it has higher sensitivity and specificity for detecting the subtle airspace enlargement one would expect to find in mild or early stage emphysema. Therefore, D(2) may serve as a more accurate screening measure for detecting early lung disease than L(m).
+
+-Analysis of Variance
+-Animals
+-Female
+-Lung (+anatomy & histology)
+-Mice
+-Mice, Inbred AKR
++Smoke
+
+doi:10.1371/journal.pone.0006670
+pubmed:19688093
+pmc:PMC2722737
+

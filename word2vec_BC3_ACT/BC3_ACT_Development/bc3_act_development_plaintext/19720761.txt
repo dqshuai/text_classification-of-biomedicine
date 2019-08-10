@@ -1,0 +1,31 @@
+Infect. Immun.
+
+Mycobacteria exploit p38 signaling to affect CD1 expression and lipid antigen presentation by human dendritic cells.
+
+MC Gagliardi, R Teloni, F Giannoni, S Mariotti, ME Remoli, V Sargentini, M Videtta, M Pardini, G De Libero, EM Coccia, R Nisini
+
+Group I CD1 proteins are specialized antigen-presenting molecules that present both microbial and self lipid antigens to CD1-restricted alpha/beta T lymphocytes. The production of high levels of gamma interferon and lysis of infected macrophages by lipid-specific T lymphocytes are believed to play pivotal roles mainly in the defense against mycobacterial infections. We previously demonstrated that Mycobacterium tuberculosis and bacillus Calmette-Guérin (Mycobacterium bovis BCG) induce human monocytes to differentiate into CD1- dendritic cells (DC), which cannot present lipid antigens to specific T cells. Here, we show that in human monocytes mycobacteria trigger phosphorylation of p38 mitogen-activated protein kinase to inhibit CD1 expression in DC derived from infected monocytes. Pretreatment with a specific p38 inhibitor renders monocytes insensitive to mycobacterial subversion and allows them to differentiate into CD1+ DC, which are fully capable of presenting lipid antigens to specific T cells. We also report that one of the pathogen recognition receptors triggered by BCG to activate p38 is complement receptor 3 (CR3), as shown by reduced p38 phosphorylation and partial reestablishment of CD1 membrane expression obtained by CR3 blockade before infection. In conclusion, we propose that p38 signaling is a novel pathway exploited by mycobacteria to affect the expression of CD1 antigen-presenting cells and avoid immune recognition.
+
+-Activating Transcription Factor 2 (-metabolism)
+-Antigen Presentation (+immunology)
+-Antigens, CD1 (+biosynthesis)
+-Blotting, Western
+-Cell Differentiation (-drug effects; -physiology)
+-Dendritic Cells (-immunology; -metabolism; +microbiology)
+-Enzyme Inhibitors (-pharmacology)
+-Humans
+-Lipids (-immunology)
+-Macrophage-1 Antigen (-metabolism)
+-Monocytes (-cytology; -immunology; +microbiology)
+-Mycobacterium (-immunology; +metabolism)
+-Phosphorylation
+-RNA, Messenger (-analysis)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Signal Transduction (-physiology)
+-p38 Mitogen-Activated Protein Kinases (+metabolism)
+
+pii:IAI.00607-09
+doi:10.1128/IAI.00607-09
+pubmed:19720761
+pmc:PMC2772541
+

@@ -1,0 +1,19 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Positional averaging explains crowding with letter-like stimuli.
+
+JA Greenwood, PJ Bex, SC Dakin
+
+Visual crowding is a breakdown in object identification that occurs in cluttered scenes, a process that represents the principle restriction on visual performance in the periphery. When crowded objects are presented experimentally, a key finding is that observers frequently report nearby flanking items instead of the target. This observation has led to the proposal that crowding reflects increased noise in the positional code for objects; although how the presence of nearby objects might disrupt positional encoding remains unclear. We quantified this disruption using cross-like stimuli, where observers judged whether the horizontal target line was positioned above or below the stimulus midpoint. Overall, observers were poorer at judging position in the presence of crowding flankers. However, offsetting horizontal lines in the flankers also led observers to report that the horizontal line in the target was shifted in the same direction, an effect that held for subthreshold flanker offsets. In short, crowding induced both random and systematic errors in observers' judgment of position, with or without the detection of flanker structure. Computational modeling reveals that perceived position in the presence of flankers follows a weighted average of noisy target- and flanker-line positions, rather than a substitution of flanker-features into the target, as has been proposed previously. Together, our results suggest that crowding is a preattentive process that uses averaging to regularize the noisy representation of position in the periphery.
+
+-Humans
+-Pattern Recognition, Visual (+physiology)
+-Perceptual Masking (+physiology)
+-Space Perception (+physiology)
+-Visual Fields (+physiology)
+
+pii:0901352106
+doi:10.1073/pnas.0901352106
+pubmed:19617570
+pmc:PMC2711865
+

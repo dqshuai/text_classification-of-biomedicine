@@ -1,0 +1,24 @@
+Nature
+
+Co-translational mRNA decay in Saccharomyces cerevisiae.
+
+W Hu, TJ Sweet, S Chamnongpol, KE Baker, J Coller
+
+The rates of RNA decay and transcription determine the steady-state levels of all messenger RNA and both can be subject to regulation. Although the details of transcriptional regulation are becoming increasingly understood, the mechanism(s) controlling mRNA decay remain unclear. In yeast, a major pathway of mRNA decay begins with deadenylation followed by decapping and 5'-3' exonuclease digestion. Importantly, it is hypothesized that ribosomes must be removed from mRNA before transcripts are destroyed. Contrary to this prediction, here we show that decay takes place while mRNAs are associated with actively translating ribosomes. The data indicate that dissociation of ribosomes from mRNA is not a prerequisite for decay and we suggest that the 5'-3' polarity of mRNA degradation has evolved to ensure that the last translocating ribosome can complete translation.
+
+-Poly A (-metabolism)
+-Polyadenylation
+-Polyribosomes (-metabolism)
++Protein Biosynthesis
+-RNA Caps (-metabolism)
++RNA Stability
+-RNA, Fungal (-genetics; +metabolism)
+-RNA, Messenger (-genetics; +metabolism)
+-Saccharomyces cerevisiae (+genetics)
+
+pii:nature08265
+doi:10.1038/nature08265
+pubmed:19701183
+mid:NIHMS130529
+pmc:PMC2745705
+

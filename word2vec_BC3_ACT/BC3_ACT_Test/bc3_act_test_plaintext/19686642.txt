@@ -1,0 +1,22 @@
+Biophys. J.
+
+Cellular morphogenesis in silico.
+
+T Shinbrot, Y Chun, C Caicedo-Carvajal, R Foty
+
+We describe a model that simulates spherical cells of different types that can migrate and interact either attractively or repulsively. We find that both expected morphologies and previously unreported patterns spontaneously self-assemble. Among the newly discovered patterns are a segmented state of alternating discs, and a "shish-kebab" state, in which one cell type forms a ring around a second type. We show that these unique states result from cellular attraction that increases with distance (e.g., as membranes stretch viscoelastically), and would not be seen in traditional, e.g., molecular, potentials that diminish with distance. Most of the states found computationally have been observed in vitro, and it remains to be established what role these self-assembled states may play in in vivo morphogenesis.
+
+-Animals
+-Cell Communication (+physiology)
+-Cell Movement
+-Cell Size
+-Computer Simulation
+-Humans
++Models, Biological
+-Morphogenesis (+physiology)
+
+pii:S0006-3495(09)01024-8
+doi:10.1016/j.bpj.2009.05.020
+pubmed:19686642
+pmc:PMC2726306
+

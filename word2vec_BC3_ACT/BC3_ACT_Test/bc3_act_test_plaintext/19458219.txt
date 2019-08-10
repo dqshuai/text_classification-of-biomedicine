@@ -1,0 +1,40 @@
+J. Neurosci.
+
+Synaptic scaling requires the GluR2 subunit of the AMPA receptor.
+
+MA Gainey, JR Hurvitz-Wolff, ME Lambo, GG Turrigiano
+
+Two functionally distinct forms of synaptic plasticity, Hebbian long-term potentiation (LTP) and homeostatic synaptic scaling, are thought to cooperate to promote information storage and circuit refinement. Both arise through changes in the synaptic accumulation of AMPA receptors (AMPARs), but whether they use similar or distinct receptor-trafficking pathways is unknown. Here, we show that TTX-induced synaptic scaling in cultured visual cortical neurons leads to the insertion of GluR2-containing AMPARs at synapses. Similarly, visual deprivation with monocular TTX injections results in synaptic accumulation of GluR2-containing AMPARs. Unlike chemical LTP, synaptic scaling is blocked by a GluR2 C-tail peptide but not by a GluR1 C-tail peptide. Knockdown of endogenous GluR2 with an short hairpin RNA (shRNA) also blocks synaptic scaling but not chemical LTP. Scaling can be rescued with expression of exogenous GluR2 resistant to the shRNA, but a chimeric GluR2 subunit with the C-terminal domain swapped with the GluR1 C-terminal domain (GluR2/CT1) does not rescue synaptic scaling, indicating that regulatory sequences on the GluR2 C-tail are required for the accumulation of synaptic AMPARs during scaling. Together, our results suggest that synaptic scaling and LTP use different trafficking pathways, making these two forms of plasticity both functionally and molecularly distinct.
+
+-Adamantane (-analogs & derivatives; -pharmacology)
+-Analysis of Variance
+-Animals
+-Animals, Newborn
+-Biophysics
+-Cells, Cultured
+-Electric Stimulation (-methods)
+-Excitatory Amino Acid Antagonists (-pharmacology)
+-Excitatory Postsynaptic Potentials (-drug effects; -physiology)
+-Intracellular Signaling Peptides and Proteins (-metabolism)
+-Long-Term Potentiation (-drug effects; -physiology)
+-Membrane Proteins (-metabolism)
+-Neurons (-cytology; -physiology)
+-Patch-Clamp Techniques (-methods)
+-RNA Interference (-physiology)
+-RNA, Small Interfering (-pharmacology)
+-Rats
+-Rats, Long-Evans
+-Receptors, AMPA (-chemistry; -genetics; +metabolism)
+-Sodium Channel Blockers (-pharmacology)
+-Synapses (-drug effects; +physiology)
+-Tetrodotoxin (-pharmacology)
+-Transfection (-methods)
+-Visual Cortex (-cytology)
+-alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid (-pharmacology)
+
+pii:29/20/6479
+doi:10.1523/JNEUROSCI.3753-08.2009
+pubmed:19458219
+mid:NIHMS119157
+pmc:PMC2714274
+

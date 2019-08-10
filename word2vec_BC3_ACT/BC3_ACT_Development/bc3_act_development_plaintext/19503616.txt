@@ -1,0 +1,29 @@
+PLoS Comput. Biol.
+
+FINDSITE: a threading-based approach to ligand homology modeling.
+
+M Brylinski, J Skolnick
+
+Ligand virtual screening is a widely used tool to assist in new pharmaceutical discovery. In practice, virtual screening approaches have a number of limitations, and the development of new methodologies is required. Previously, we showed that remotely related proteins identified by threading often share a common binding site occupied by chemically similar ligands. Here, we demonstrate that across an evolutionarily related, but distant family of proteins, the ligands that bind to the common binding site contain a set of strongly conserved anchor functional groups as well as a variable region that accounts for their binding specificity. Furthermore, the sequence and structure conservation of residues contacting the anchor functional groups is significantly higher than those contacting ligand variable regions. Exploiting these insights, we developed FINDSITE(LHM) that employs structural information extracted from weakly related proteins to perform rapid ligand docking by homology modeling. In large scale benchmarking, using the predicted anchor-binding mode and the crystal structure of the receptor, FINDSITE(LHM) outperforms classical docking approaches with an average ligand RMSD from native of approximately 2.5 A. For weakly homologous receptor protein models, using FINDSITE(LHM), the fraction of recovered binding residues and specific contacts is 0.66 (0.55) and 0.49 (0.38) for highly confident (all) targets, respectively. Finally, in virtual screening for HIV-1 protease inhibitors, using similarity to the ligand anchor region yields significantly improved enrichment factors. Thus, the rather accurate, computationally inexpensive FINDSITE(LHM) algorithm should be a useful approach to assist in the discovery of novel biopharmaceuticals.
+
++Algorithms
+-Bacterial Proteins (-chemistry)
+-Binding Sites
+-Computational Biology (+methods)
+-Conserved Sequence
+-Databases, Protein
+-Drug Discovery (-methods)
+-Humans
+-Ligands
+-Matrix Metalloproteinase 8 (-chemistry)
+-Models, Molecular
+-Protein Binding
+-Protein Conformation
++Proteins (-chemistry; -metabolism)
+-Sequence Alignment
++Structural Homology, Protein
+
+doi:10.1371/journal.pcbi.1000405
+pubmed:19503616
+pmc:PMC2685473
+

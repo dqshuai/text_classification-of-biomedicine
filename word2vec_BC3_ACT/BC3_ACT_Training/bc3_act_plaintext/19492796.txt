@@ -1,0 +1,18 @@
+Biochemistry
+
+FTIR evidence that the PsbP extrinsic protein induces protein conformational changes around the oxygen-evolving Mn cluster in photosystem II.
+
+M Tomita, K Ifuku, F Sato, T Noguchi
+
+Extrinsic proteins of photosystem II (PSII) regulate the oxygen-evolving reaction performed at the Mn cluster by controlling the binding properties of the indispensable cofactors Ca(2+) and Cl(-). However, the molecular mechanism underlying this regulation is not yet understood. We have investigated the structural couplings of the extrinsic proteins PsbO, PsbP, and PsbQ of higher plants with the Mn cluster using Fourier transform infrared (FTIR) spectroscopy. Light-induced FTIR difference spectra upon the S(1) --> S(2) transition were measured using spinach PSII membranes, and the effects of the selective depletion of extrinsic proteins were examined. Depletion of the PsbP and PsbQ proteins by NaCl washing revealed clear changes in the amide I bands with no appreciable changes in the bands of carboxylate and imidazole groups, whereas the depletion of all three proteins by CaCl(2) washing did not cause further changes. The original amide I features were recovered by reconstitution of the NaCl-washed PSII with PsbP, and the same recovery was observed with (13)C-labeled PsbP. These results indicate that the PsbP protein, but not PsbQ and PsbO, affects the protein conformation around the Mn cluster in the intrinsic proteins without changing the ligand structure. Reconstitution with Delta15-PabP, in which the 15 N-terminal residues were truncated, did not restore the amide I bands, indicating that the interaction of the N-terminal region induces the conformational changes. This observation correlates well with a previous finding that Delta15-PabP did not restore the Ca(2+) and Cl(-) retention ability upon rebinding to PSII [Ifuku, K., et al. (2005) Photosynth. Res. 84, 251-255]. Therefore, the evidence strongly suggests that protein conformational changes around the Mn cluster induced by PsbP through its N-terminal region affect the binding properties of Ca(2+) and Cl(-) and enhance their retention.
+
+-Manganese (+chemistry)
+-Oxygen (+chemistry)
+-Photosystem II Protein Complex (+chemistry)
+-Plant Proteins (+chemistry)
+-Protein Conformation
+-Spectroscopy, Fourier Transform Infrared (+methods)
+
+doi:10.1021/bi9006308
+pubmed:19492796
+

@@ -1,0 +1,22 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Observation of a Zundel-like transition state during proton transfer in aqueous hydroxide solutions.
+
+ST Roberts, PB Petersen, K Ramasesha, A Tokmakoff, IS Ufimtsev, TJ Martinez
+
+It is generally accepted that the anomalous diffusion of the aqueous hydroxide ion results from its ability to accept a proton from a neighboring water molecule; yet, many questions exist concerning the mechanism for this process. What is the solvation structure of the hydroxide ion? In what way do water hydrogen bond dynamics influence the transfer of a proton to the ion? We present the results of femtosecond pump-probe and 2D infrared experiments that probe the O-H stretching vibration of a solution of dilute HOD dissolved in NaOD/D(2)O. Upon the addition of NaOD, measured pump-probe transients and 2D IR spectra show a new feature that decays with a 110-fs time scale. The calculation of 2D IR spectra from an empirical valence bond molecular dynamics simulation of a single NaOH molecule in a bath of H(2)O indicates that this fast feature is due to an overtone transition of Zundel-like H(3)O(2)(-) states, wherein a proton is significantly shared between a water molecule and the hydroxide ion. Given the frequency of vibration of shared protons, the observations indicate the shared proton state persists for 2-3 vibrational periods before the proton localizes on a hydroxide. Calculations based on the EVB-MD model argue that the collective electric field in the proton transfer direction is the appropriate coordinate to describe the creation and relaxation of these Zundel-like transition states.
+
+-Computer Simulation
+-Hydrogen Bonding
+-Hydroxides (+chemistry)
+-Models, Chemical
++Protons
+-Spectrophotometry, Infrared
+-Vibration
+-Water (+chemistry)
+
+pii:0901571106
+doi:10.1073/pnas.0901571106
+pubmed:19666493
+pmc:PMC2741221
+

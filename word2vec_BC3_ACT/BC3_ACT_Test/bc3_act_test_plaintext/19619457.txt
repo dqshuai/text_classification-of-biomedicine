@@ -1,0 +1,19 @@
+Biophys. J.
+
+Analysis of reaction-diffusion systems with anomalous subdiffusion.
+
+JM Haugh
+
+Reaction-diffusion equations are the cornerstone of modeling biochemical systems with spatial gradients, which are relevant to biological processes such as signal transduction. Implicit in the formulation of these equations is the assumption of Fick's law, which states that the local diffusive flux of species i is proportional to its concentration gradient; however, in the context of complex fluids such as cytoplasm and cell membranes, the use of Fick's law is based on empiricism, whereas evidence has been mounting that such media foster anomalous subdiffusion (with mean-squared displacement increasing less than linearly with time) over certain length scales. Particularly when modeling diffusion-controlled reactions and other systems where the spatial domain is considered semi-infinite, assuming Fickian diffusion might not be appropriate. In this article, two simple, conceptually extreme models of anomalous subdiffusion are used in the framework of Green's functions to demonstrate the solution of four reaction-diffusion problems that are well known in the biophysical context of signal transduction: fluorescence recovery after photobleaching, the Smolochowski limit for diffusion-controlled reactions in solution, the spatial range of a diffusing molecule with finite lifetime, and the collision coupling mechanism of diffusion-controlled reactions in two dimensions. In each case, there are only subtle differences between the two subdiffusion models, suggesting how measurements of mean-squared displacement versus time might generally inform models of reactive systems with partial diffusion control.
+
+-Cell Membrane (-metabolism)
++Diffusion
+-Fluorescence Recovery After Photobleaching
++Models, Biological
+-Time Factors
+
+pii:S0006-3495(09)00982-5
+doi:10.1016/j.bpj.2009.05.014
+pubmed:19619457
+pmc:PMC2711345
+

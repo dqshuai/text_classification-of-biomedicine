@@ -1,0 +1,19 @@
+Biochem. Biophys. Res. Commun.
+
+Mixed modes in opening of KcsA potassium channel from a targeted molecular dynamics simulation.
+
+W Zhong, W Guo
+
+Potassium channels conduct K(+) flow selectively across the membrane through a central pore. During a process called gating, the potassium channels undergo a conformational change that opens or closes the ion-conducting pore. The potassium channel KcsA has been structurally determined in its closed state. However, the dynamic mechanism of the gating transition of the KcsA channel is still being investigated. Here, a targeted molecular dynamics simulation up to 150ns is performed to investigate the detailed opening process of the KcsA channel with an open Kv1.2 structure serving as the target. The channel arrived at a self-determined quasi-stable state within 60ns. The rigid-body and hinge-bending modes are observed mixed together in the remaining 90ns long quasi-stable state. The mixed-mode movement seems come from the competition between the helix rigidity and the biased-applied gating force.
+
+-Bacterial Proteins (-chemistry; +physiology)
++Ion Channel Gating
+-Potassium Channels (-chemistry; +physiology)
+-Protein Conformation
+-Protein Subunits (-chemistry; -physiology)
+-Streptomyces lividans
+
+pii:S0006-291X(09)01481-8
+doi:10.1016/j.bbrc.2009.07.123
+pubmed:19646417
+

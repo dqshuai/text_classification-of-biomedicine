@@ -1,0 +1,27 @@
+EMBO Rep.
+
+Tetratricopeptide repeat proteins Tom70 and Tom71 mediate yeast mitochondrial morphogenesis.
+
+N Kondo-Okamoto, JM Shaw, K Okamoto
+
+The maintenance of correct mitochondrial shape requires numerous proteins that act on the surface or inside of the organelle. Although the soluble F-box protein Mfb1 was recently found to associate peripherally with mitochondria and to regulate organelle connectivity in budding yeast, how it localizes to mitochondria is unknown. Here, we show that two tetratricopeptide repeat proteins-the general preprotein import receptor Tom70 (a component of translocase of the outer membrane) and its paralogue Tom71-are required for Mfb1 mitochondrial localization. Mitochondria in cells lacking Tom70 and Tom71 form short tubules and aggregates, aberrant morphologies similar to those observed in the mfb1-null mutant. In addition, Mfb1 interacts with Tom71 in vivo, and binds to mitochondria through Tom70 in vitro. Our data indicate an unexpected role for Tom70 in recruitment of soluble proteins to the mitochondrial surface, and indicate that Tom71 has a specialized role in Mfb1-mediated mitochondrial morphogenesis.
+
+-F-Box Proteins (-metabolism)
+-Membrane Proteins (+chemistry; +metabolism)
+-Membrane Transport Proteins (+chemistry; +metabolism)
+-Mitochondria (+metabolism)
+-Mitochondrial Membrane Transport Proteins
+-Mitochondrial Membranes (-metabolism)
+-Mutation (-genetics)
+-Protein Binding
+-Protein Structure, Tertiary
+-Protein Transport
++Repetitive Sequences, Amino Acid
+-Saccharomyces cerevisiae (-cytology; +metabolism)
+-Saccharomyces cerevisiae Proteins (+chemistry; +metabolism)
+
+pii:7401113
+doi:10.1038/sj.embor.7401113
+pubmed:18007655
+pmc:PMC2246612
+

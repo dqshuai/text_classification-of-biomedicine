@@ -1,0 +1,21 @@
+Cell Cycle
+
+Role of the protein kinase Kin1 and nuclear centering in actomyosin ring formation in fission yeast.
+
+A Cadou, S La Carbona, A Couturier, C Le Goff, X Le Goff
+
+Cytokinesis is the last step of the cell cycle, producing two daughter cells inheriting equal genetic information. This process involves the assembly of an actomyosin ring during mitosis. In the fission yeast Schizosaccharomyces pombe, cytokinesis occurs at the geometric cell centre, a position which is defined by the interphase nucleus and the anilin-related Mid1 protein. The pom1Delta, tea1Delta and tea4Delta mutants are defective in restricting Mid1 as a band around the nucleus and misplace the division site. We previously reported that inhibition of the protein kinase Kin1 promoted failure of cytokinesis in pom1Delta and tea1Delta cells but the mechanism involving Kin1 remained elusive. Here we investigated the contribution of Kin1 in cytokinesis. We show that Kin1-GFP has a dynamic cell cycle regulated distribution. Like pom1Delta and tea1Delta, tea4Delta exhibits a strong genetic interaction with kin1Delta. Using a conditional repressible kin1 allele that only alters interphase nuclear centering, we observed that Kin1 downregulation severely compromised actomyosin ring formation and septum synthesis in tea4Delta cells. In addition, nuclear displacement induced either by overexpression of a putative catalytically inactive Kin1 mutant, by chemically mediated microtubule depolymerization or by mutation in the par1Delta gene impaired cytokinesis in tea4Delta but not tea4(+) cells. We propose that nuclear mispositioning exacerbates the tea4Delta, pom1Delta and tea1Delta cell division phenotype. Our work reveal that nuclear centering becomes essential when Pom1/Tea1/Tea4 function is compromised and that Kin1 expression level is a key regulatory element in this situation. Our results suggest the existence of distinct overlapping control mechanisms to ensure efficient cell division.
+
+-Actomyosin (+metabolism)
+-Alleles
+-Cytokinesis (-genetics; +physiology)
+-Down-Regulation (-genetics; -physiology)
+-Microtubule-Associated Proteins (+metabolism)
+-Protein Kinases (+metabolism)
+-Protein-Serine-Threonine Kinases (+metabolism)
+-Schizosaccharomyces (-cytology; -genetics; +physiology)
+-Schizosaccharomyces pombe Proteins (+metabolism)
+
+pii:9219
+pubmed:19597328
+

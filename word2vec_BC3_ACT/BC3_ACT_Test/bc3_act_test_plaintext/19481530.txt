@@ -1,0 +1,32 @@
+Mol. Cell
+
+GPS2 is required for cholesterol efflux by triggering histone demethylation, LXR recruitment, and coregulator assembly at the ABCG1 locus.
+
+T Jakobsson, N Venteclef, G Toresson, AE Damdimopoulos, A Ehrlund, X Lou, S Sanyal, KR Steffensen, JA Gustafsson, E Treuter
+
+Transcriptional coregulators, rather than ligand signals, are suspected to confer context and pathway specificity to nuclear receptor signaling, but the identity of such specifying coregulators and the underlying molecular mechanisms remain largely enigmatic. Here we address this issue in metabolic oxysterol receptor LXR pathways and describe the selective requirement of GPS2 for ABCG1 cholesterol transporter gene transcription and cholesterol efflux from macrophages. We implicate GPS2 in facilitating LXR recruitment to an ABCG1-specific promoter/enhancer unit upon ligand activation and identify functional links to histone H3K9 demethylation. We further describe fundamental differences between ABCG1 and ABCA1 with regard to GPS2 in relation to other coregulators, which are likely to apply to additional LXR-regulated genes. Our work identifies a coregulator-dependent epigenetic mechanism governing the access of a nuclear receptor to communicating regulatory regions in the genome. The pathway and coregulator selectivity of this mechanism implies pharmacological possibilities for the development of selective LXR agonists.
+
+-ATP-Binding Cassette Transporters (-genetics; +metabolism)
+-Animals
+-Cell Line
+-Cholesterol (+metabolism)
+-DNA-Binding Proteins (-genetics; +metabolism)
+-Enhancer Elements, Genetic
+-Epistasis, Genetic
+-Histones (+metabolism)
+-Humans
+-Intracellular Signaling Peptides and Proteins (-genetics; +metabolism)
+-Macrophages (-cytology; -metabolism)
+-Orphan Nuclear Receptors
+-Promoter Regions, Genetic
+-RNA, Small Interfering (-genetics; -metabolism)
+-Receptors, Cytoplasmic and Nuclear (-genetics; +metabolism)
+-Recombinant Proteins (-genetics; -metabolism)
+-Retinoid X Receptors (-genetics; -metabolism)
+-Transcription, Genetic
+-Two-Hybrid System Techniques
+
+pii:S1097-2765(09)00314-1
+doi:10.1016/j.molcel.2009.05.006
+pubmed:19481530
+

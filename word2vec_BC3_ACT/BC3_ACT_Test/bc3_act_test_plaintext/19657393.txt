@@ -1,0 +1,25 @@
+PLoS ONE
+
+Mad is required for wingless signaling in wing development and segment patterning in Drosophila.
+
+E Eivers, LC Fuentealba, V Sander, JC Clemens, L Hartnett, EM De Robertis
+
+A key question in developmental biology is how growth factor signals are integrated to generate pattern. In this study we investigated the integration of the Drosophila BMP and Wingless/GSK3 signaling pathways via phosphorylations of the transcription factor Mad. Wingless was found to regulate the phosphorylation of Mad by GSK3 in vivo. In epistatic experiments, the effects of Wingless on wing disc molecular markers (senseless, distalless and vestigial) were suppressed by depletion of Mad with RNAi. Wingless overexpression phenotypes, such as formation of ectopic wing margins, were induced by Mad GSK3 phosphorylation-resistant mutant protein. Unexpectedly, we found that Mad phosphorylation by GSK3 and MAPK occurred in segmental patterns. Mad depletion or overexpression produced Wingless-like embryonic segmentation phenotypes. In Xenopus embryos, segmental border formation was disrupted by Smad8 depletion. The results show that Mad is required for Wingless signaling and for the integration of gradients of positional information.
+
+-Animals
++Body Patterning
+-DNA-Binding Proteins (-genetics; +physiology)
+-Drosophila (+embryology)
+-Drosophila Proteins (-genetics; +metabolism; +physiology)
+-Mutation
+-Phenotype
+-RNA Interference
+-Signal Transduction (+physiology)
+-Transcription Factors (-genetics; +physiology)
+-Wing (+embryology)
+-Wnt1 Protein (+metabolism)
+
+doi:10.1371/journal.pone.0006543
+pubmed:19657393
+pmc:PMC2717371
+

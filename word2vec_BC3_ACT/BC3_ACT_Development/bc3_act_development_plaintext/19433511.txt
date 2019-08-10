@@ -1,0 +1,21 @@
+Nucleic Acids Res.
+
+BioBIKE: a Web-based, programmable, integrated biological knowledge base.
+
+J Elhai, A Taton, JP Massar, JK Myers, M Travers, J Casey, M Slupesky, J Shrager
+
+BioBIKE (biobike.csbc.vcu.edu) is a web-based environment enabling biologists with little programming expertise to combine tools, data, and knowledge in novel and possibly complex ways, as demanded by the biological problem at hand. BioBIKE is composed of three integrated components: a biological knowledge base, a graphical programming interface and an extensible set of tools. Each of the five current BioBIKE instances provides all available information (genomic, metabolic, experimental) appropriate to a given research community. The BioBIKE programming language and graphical programming interface employ familiar operations to help users combine functions and information to conduct biologically meaningful analyses. Many commonly used tools, such as Blast and PHYLIP, are built-in, allowing users to access them within the same interface and to pass results from one to another. Users may also invent their own tools, packaging complex expressions under a single name, which is immediately made accessible through the graphical interface. BioBIKE represents a partial solution to the difficult question of how to enable those with no background in computer programming to work directly and creatively with mass biological information. BioBIKE is distributed under the MIT Open Source license. A description of the underlying language and other technical matters is available at www.Biobike.org.
+
+-Biology
+-Computer Graphics
++Databases, Genetic
+-Internet
++Software
+-Systems Integration
+-User-Computer Interface
+
+pii:gkp354
+doi:10.1093/nar/gkp354
+pubmed:19433511
+pmc:PMC2703918
+

@@ -1,0 +1,21 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Colloidal glasses and gels: The interplay of bonding and caging.
+
+E Zaccarelli, WC Poon
+
+We report simulations of glassy arrest in hard-core particles with short-range interparticle attraction. Previous experiments, theory, and simulations suggest that in this kind of system, two qualitatively distinct kinds of glasses exist, dominated respectively by repulsion and attraction. It is thought that in the former, particles are trapped "topologically," by nearest-neighbor cages, whereas in the latter, nonergodicity is due to interparticle "bonds." Subsequent experiments and simulations have suggested that bond breaking destabilizes attractive glasses, but the long-term fate of these arrested states remains unknown. By running simulations to times a few orders of magnitude longer than those reached by previous experiments or simulations, we show that arrest in an attractive glass is, in the long run, also topological. Nevertheless, it is still possible to distinguish between "nonbonded" and "bonded" repulsive glassy states. We study the melting of bonded repulsive glasses into a hitherto unknown "dense gel" state, which is distinct from dense, ergodic fluids. We propose a "modified state diagram" for concentrated attractive particles, and discuss the relevance of our results in the light of recent rheological measurements in colloid-polymer mixtures.
+
+-Colloids (+chemistry)
+-Computer Simulation
+-Gels (+chemistry)
++Models, Chemical
++Phase Transition
+-Polymers (+chemistry)
+-Rheology
+
+pii:0902294106
+doi:10.1073/pnas.0902294106
+pubmed:19706405
+pmc:PMC2741229
+

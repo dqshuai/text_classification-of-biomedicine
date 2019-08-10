@@ -1,0 +1,26 @@
+Genes Dev.
+
+Structures of three distinct activator-TFIID complexes.
+
+WL Liu, RA Coleman, E Ma, P Grob, JL Yang, Y Zhang, G Dailey, E Nogales, R Tjian
+
+Sequence-specific DNA-binding activators, key regulators of gene expression, stimulate transcription in part by targeting the core promoter recognition TFIID complex and aiding in its recruitment to promoter DNA. Although it has been established that activators can interact with multiple components of TFIID, it is unknown whether common or distinct surfaces within TFIID are targeted by activators and what changes if any in the structure of TFIID may occur upon binding activators. As a first step toward structurally dissecting activator/TFIID interactions, we determined the three-dimensional structures of TFIID bound to three distinct activators (i.e., the tumor suppressor p53 protein, glutamine-rich Sp1 and the oncoprotein c-Jun) and compared their structures as determined by electron microscopy and single-particle reconstruction. By a combination of EM and biochemical mapping analysis, our results uncover distinct contact regions within TFIID bound by each activator. Unlike the coactivator CRSP/Mediator complex that undergoes drastic and global structural changes upon activator binding, instead, a rather confined set of local conserved structural changes were observed when each activator binds holo-TFIID. These results suggest that activator contact may induce unique structural features of TFIID, thus providing nanoscale information on activator-dependent TFIID assembly and transcription initiation.
+
+-Hela Cells
+-Humans
+-Imaging, Three-Dimensional
+-Immunoglobulins (-chemistry; -metabolism)
++Models, Molecular
+-Protein Binding
+-Protein Multimerization (+physiology)
+-Protein Structure, Quaternary
+-Proto-Oncogene Proteins c-jun (-chemistry; -metabolism)
+-TATA-Binding Protein Associated Factors (-metabolism)
+-Transcription Factor TFIID (+chemistry; +metabolism)
+-Tumor Suppressor Protein p53 (-chemistry; -metabolism)
+
+pii:23/13/1510
+doi:10.1101/gad.1790709
+pubmed:19571180
+pmc:PMC2704470
+

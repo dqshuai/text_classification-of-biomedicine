@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+No specific subcellular localization of protein kinase C is required for cytotoxic T cell granule exocytosis.
+
+AT Pores-Fernando, MY Ranaghan, A Zweifach
+
+Cytotoxic T cells kill virus-infected cells and tumor cells by releasing lytic granules that contain cell-killing contents. Exocytosis requires calcium influx and protein kinase C (PKC) activation. Here, we extend our previous finding regarding the lack of isoform specificity of PKCs in the granule release step, showing that mutant constitutively active PKCdelta can substitute for phorbol esters and support exocytosis. PKCdelta, a novel PKC isoform, was recently shown to play a role in lytic granule reorientation. Surprisingly, however, our results suggested that mutant PKCdelta did not localize to the plasma membrane (PM). To test directly whether PKC has to be in the PM to drive exocytosis, we generated mutants of various PKC isoforms that were tethered either to the outer mitochondrial membrane or to the PM. Tethered mutant PKCdeltas were able to promote exocytosis as effectively as the untethered version. The substrates of PKCs involved in lytic granule exocytosis are currently unknown, but subcellular localization is believed to be a critical factor in determining PKC accessibility to substrates. That there is no requirement for specific PKC localization in lytic granule exocytosis may have important implications for the identity of PKC substrates.
+
+-Cell Line, Tumor
+-Cell Membrane (-metabolism)
+-Computer Simulation
+-Cytoplasmic Granules (-metabolism)
+-DNA, Complementary (-metabolism)
++Exocytosis
+-Humans
+-Mitochondria (-metabolism)
+-Models, Biological
+-Mutation
+-Protein Isoforms
+-Protein Kinase C (+chemistry; -metabolism)
+-Protein Kinase C-delta (-chemistry; +physiology)
+-T-Lymphocytes, Cytotoxic (+immunology)
+-Transfection
+
+pii:M109.011866
+doi:10.1074/jbc.M109.011866
+pubmed:19592494
+pmc:PMC2757214
+

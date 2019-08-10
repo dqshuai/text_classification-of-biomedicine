@@ -1,0 +1,33 @@
+Genes Dev.
+
+Cilium-independent regulation of Gli protein function by Sufu in Hedgehog signaling is evolutionarily conserved.
+
+MH Chen, CW Wilson, YJ Li, KK Law, CS Lu, R Gacayan, X Zhang, CC Hui, PT Chuang
+
+A central question in Hedgehog (Hh) signaling is how evolutionarily conserved components of the pathway might use the primary cilium in mammals but not fly. We focus on Suppressor of fused (Sufu), a major Hh regulator in mammals, and reveal that Sufu controls protein levels of full-length Gli transcription factors, thus affecting the production of Gli activators and repressors essential for graded Hh responses. Surprisingly, despite ciliary localization of most Hh pathway components, regulation of Gli protein levels by Sufu is cilium-independent. We propose that Sufu-dependent processes in Hh signaling are evolutionarily conserved. Consistent with this, Sufu regulates Gli protein levels by antagonizing the activity of Spop, a conserved Gli-degrading factor. Furthermore, addition of zebrafish or fly Sufu restores Gli protein function in Sufu-deficient mammalian cells. In contrast, fly Smo is unable to translocate to the primary cilium and activate the mammalian Hh pathway. We also uncover a novel positive role of Sufu in regulating Hh signaling, resulting from its control of both Gli activator and repressor function. Taken together, these studies delineate important aspects of cilium-dependent and cilium-independent Hh signal transduction and provide significant mechanistic insight into Hh signaling in diverse species.
+
+-Animals
+-Cell Line, Transformed
+-Cilia (+metabolism)
+-Drosophila
+-Drosophila Proteins (-metabolism)
++Evolution, Molecular
+-Hedgehog Proteins (+physiology)
+-Humans
+-Kruppel-Like Transcription Factors (+metabolism)
+-Mice
+-Nerve Tissue Proteins (+metabolism)
+-Nuclear Proteins (-metabolism)
+-Receptors, Cell Surface (-genetics)
+-Receptors, G-Protein-Coupled (-deficiency; -metabolism)
+-Repressor Proteins (-genetics; +metabolism)
++Signal Transduction
+-Up-Regulation
+-Zebrafish
+-Zebrafish Proteins (-metabolism)
+
+pii:23/16/1910
+doi:10.1101/gad.1794109
+pubmed:19684112
+pmc:PMC2725943
+

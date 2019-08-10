@@ -1,0 +1,32 @@
+Mol. Biol. Cell
+
+The Ldb1 and Ldb2 transcriptional cofactors interact with the Ste20-like kinase SLK and regulate cell migration.
+
+CJ Storbeck, S Wagner, P O'Reilly, M McKay, RJ Parks, H Westphal, LA Sabourin
+
+Cell migration involves a multitude of signals that converge on cytoskeletal reorganization, essential for development, immune responses, and tissue repair. Here, we show that the microtubule-associated Ste20 kinase SLK, required for cell migration, interacts with the LIM domain binding transcriptional cofactor proteins Ldb1/CLIM2 and Ldb2/CLIM1/NLI. We demonstrate that Ldb1 and 2 bind directly to the SLK carboxy-terminal AT1-46 homology domain in vitro and in vivo. We find that Ldb1 and -2 colocalize with SLK in migrating cells and that both knockdown and overexpression of either factor results in increased motility. Supporting this, knockdown of Ldb1 increases focal adhesion turnover and enhances migration in fibroblasts. We propose that Ldb1/2 function to maintain SLK in an inactive state before its activation. These findings highlight a novel function for Ldb1 and -2 and expand their role to include the control of cell migration.
+
+-3T3 Cells
+-Animals
+-Binding Sites
+-Blotting, Western
+-Cell Line
++Cell Movement
+-Cells, Cultured
+-DNA-Binding Proteins (-genetics; +metabolism)
+-Immunoprecipitation
+-Mice
+-Microscopy, Confocal
+-Mutation
+-NIH 3T3 Cells
+-Protein Binding
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-RNA Interference
+-Transcription Factors (-genetics; +metabolism)
+-Two-Hybrid System Techniques
+
+pii:E08-07-0707
+doi:10.1091/mbc.E08-07-0707
+pubmed:19675209
+pmc:PMC2754931
+

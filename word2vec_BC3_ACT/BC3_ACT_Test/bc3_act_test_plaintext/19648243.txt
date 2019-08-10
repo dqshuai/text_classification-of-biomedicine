@@ -1,0 +1,27 @@
+J. Bacteriol.
+
+MrdH, a novel metal resistance determinant of Pseudomonas putida KT2440, is flanked by metal-inducible mobile genetic elements.
+
+A Haritha, KP Sagar, A Tiwari, P Kiranmayi, A Rodrigue, PM Mohan, SS Singh
+
+We report here the identification and characterization of mrdH, a novel chromosomal metal resistance determinant, located in the genomic island 55 of Pseudomonas putida KT2440. It encodes for MrdH, a predicted protein of approximately 40 kDa with a chimeric domain organization derived from the RcnA and RND (for resistance-nodulation-cell division) metal efflux proteins. The metal resistance function of mrdH was identified by the ability to confer nickel resistance upon its complementation into rcnA mutant (a nickel- and cobalt-sensitive mutant) of Escherichia coli. However, the disruption of mrdH in P. putida resulted in an increased sensitivity to cadmium and zinc apart from nickel. Expression studies using quantitative reverse transcription-PCR showed the induction of mrdH by cadmium, nickel, zinc, and cobalt. In association with mrdH, we also identified a conserved hypothetical gene mreA whose encoded protein showed significant homology to NreA and NreA-like proteins. Expression of the mreA gene in rcnA mutant of E. coli enhanced its cadmium and nickel resistance. Transcriptional studies showed that both mrdH and mreA underwent parallel changes in gene expression. The mobile genetic elements Tn4652 and IS1246, flanking mrdH and mreA were found to be induced by cadmium, nickel, and zinc, but not by cobalt. This study is the first report of a single-component metal efflux transporter, mrdH, showing chimeric domain organization, a broad substrate spectrum, and a location amid metal-inducible mobile genetic elements.
+
+-Bacterial Proteins (+genetics; -physiology)
+-Cadmium (-pharmacology)
+-Cobalt (-pharmacology)
+-Drug Resistance, Bacterial (-genetics)
+-Gene Expression Regulation, Bacterial (+drug effects)
+-Genomic Islands (-genetics)
+-Interspersed Repetitive Sequences (+drug effects; +genetics)
+-Membrane Transport Proteins (-genetics)
+-Metals (+pharmacology)
+-Nickel
+-Pseudomonas putida (+drug effects; +genetics)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Zinc (-pharmacology)
+
+pii:JB.00465-09
+doi:10.1128/JB.00465-09
+pubmed:19648243
+pmc:PMC2747888
+

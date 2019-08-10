@@ -1,0 +1,25 @@
+Biochemistry
+
+Dynamics of nucleosomes revealed by time-lapse atomic force microscopy.
+
+LS Shlyakhtenko, AY Lushnikov, YL Lyubchenko
+
+The dynamics of chromatin provides the access to DNA within nucleosomes, and therefore, this process is critically involved in the regulation of chromatin function. However, our knowledge of the large-range dynamics of nucleosomes is limited. Answers to the questions, such as the range of opening of the nucleosome and the mechanism via which the opening occurs and propagates, remain unknown. Here we applied single-molecule time-lapse atomic force microscopy (AFM) imaging to directly visualize the dynamics of nucleosomes and identify the mechanism of the large range DNA exposure. With this technique, we are able to observe the process of unwrapping of nucleosomes. The unwrapping of nucleosomes proceeds from the ends of the particles, allowing for the unwrapping of DNA regions as large as dozens of base pairs. This process may lead to a complete unfolding of nucleosomes and dissociation of the histone core from the complex. The unwrapping occurs in the absence of proteins involved in the chromatin remodeling that require ATP hydrolysis for their function, suggesting that the inherent dynamics of nucleosomes can contribute to the chromatin unwrapping process. These findings shed a new light on molecular mechanisms of nucleosome dynamics and provide novel hypotheses about the understanding of the action of remodeling proteins as well as other intracellular systems in chromatin dynamics.
+
+-DNA, Superhelical (-chemistry; -genetics; -ultrastructure)
+-Histones (-chemistry; -genetics; -ultrastructure)
+-Humans
+-Microscopy, Atomic Force (+methods)
++Models, Genetic
++Models, Molecular
+-Nucleic Acid Conformation
+-Nucleosomes (+chemistry; -genetics; +ultrastructure)
+-Particle Size
+-Templates, Genetic
+-Time Factors
+
+doi:10.1021/bi900977t
+pubmed:19618963
+mid:NIHMS134366
+pmc:PMC2752652
+

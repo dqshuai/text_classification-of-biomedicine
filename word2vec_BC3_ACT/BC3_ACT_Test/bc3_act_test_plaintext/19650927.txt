@@ -1,0 +1,23 @@
+BMC Struct. Biol.
+
+A tool for calculating binding-site residues on proteins from PDB structures.
+
+J Hu, C Yan
+
+BACKGROUND: In the research on protein functional sites, researchers often need to identify binding-site residues on a protein. A commonly used strategy is to find a complex structure from the Protein Data Bank (PDB) that consists of the protein of interest and its interacting partner(s) and calculate binding-site residues based on the complex structure. However, since a protein may participate in multiple interactions, the binding-site residues calculated based on one complex structure usually do not reveal all binding sites on a protein. Thus, this requires researchers to find all PDB complexes that contain the protein of interest and combine the binding-site information gleaned from them. This process is very time-consuming. Especially, combing binding-site information obtained from different PDB structures requires tedious work to align protein sequences. The process becomes overwhelmingly difficult when researchers have a large set of proteins to analyze, which is usually the case in practice. RESULTS: In this study, we have developed a tool for calculating binding-site residues on proteins, TCBRP http://yanbioinformatics.cs.usu.edu:8080/ppbindingsubmit. For an input protein, TCBRP can quickly find all binding-site residues on the protein by automatically combining the information obtained from all PDB structures that consist of the protein of interest. Additionally, TCBRP presents the binding-site residues in different categories according to the interaction type. TCBRP also allows researchers to set the definition of binding-site residues. CONCLUSION: The developed tool is very useful for the research on protein binding site analysis and prediction.
+
+-Algorithms
+-Binding Sites
+-DNA-Directed RNA Polymerases (-chemistry)
++Databases, Protein
+-Protein Binding
++Protein Conformation
+-Protein Structure, Tertiary
++Software
+-Viral Proteins (-chemistry)
+
+pii:1472-6807-9-52
+doi:10.1186/1472-6807-9-52
+pubmed:19650927
+pmc:PMC2728722
+

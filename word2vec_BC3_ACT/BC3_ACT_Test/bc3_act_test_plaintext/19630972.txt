@@ -1,0 +1,26 @@
+BMC Genomics
+
+A comparative genomics approach to understanding the biosynthesis of the sunscreen scytonemin in cyanobacteria.
+
+T Soule, K Palmer, Q Gao, RM Potrafka, V Stout, F Garcia-Pichel
+
+BACKGROUND: The extracellular sunscreen scytonemin is the most common and widespread indole-alkaloid among cyanobacteria. Previous research using the cyanobacterium Nostoc punctiforme ATCC 29133 revealed a unique 18-gene cluster (NpR1276 to NpR1259 in the N. punctiforme genome) involved in the biosynthesis of scytonemin. We provide further genomic characterization of these genes in N. punctiforme and extend it to homologous regions in other cyanobacteria. RESULTS: Six putative genes in the scytonemin gene cluster (NpR1276 to NpR1271 in the N. punctiforme genome), with no previously known protein function and annotated in this study as scyA to scyF, are likely involved in the assembly of scytonemin from central metabolites, based on genetic, biochemical, and sequence similarity evidence. Also in this cluster are redundant copies of genes encoding for aromatic amino acid biosynthetic enzymes. These can theoretically lead to tryptophan and the tyrosine precursor, p-hydroxyphenylpyruvate, (expected biosynthetic precursors of scytonemin) from end products of the shikimic acid pathway. Redundant copies of the genes coding for the key regulatory and rate-limiting enzymes of the shikimic acid pathway are found there as well. We identified four other cyanobacterial strains containing orthologues of all of these genes, three of them by database searches (Lyngbya PCC 8106, Anabaena PCC 7120, and Nodularia CCY 9414) and one by targeted sequencing (Chlorogloeopsis sp. strain Cgs-089; CCMEE 5094). Genomic comparisons revealed that most scytonemin-related genes were highly conserved among strains and that two additional conserved clusters, NpF5232 to NpF5236 and a putative two-component regulatory system (NpF1278 and NpF1277), are likely involved in scytonemin biosynthesis and regulation, respectively, on the basis of conservation and location. Since many of the protein product sequences for the newly described genes, including ScyD, ScyE, and ScyF, have export signal domains, while others have putative transmembrane domains, it can be inferred that scytonemin biosynthesis is compartmentalized within the cell. Basic structural monomer synthesis and initial condensation are most likely cytoplasmic, while later reactions are predicted to be periplasmic. CONCLUSION: We show that scytonemin biosynthetic genes are highly conserved among evolutionarily diverse strains, likely include more genes than previously determined, and are predicted to involve compartmentalization of the biosynthetic pathway in the cell, an unusual trait for prokaryotes.
+
+-Animals
+-Biosynthetic Pathways (-genetics)
++Comparative Genomic Hybridization
+-Genes, Bacterial
+-Indoles (+metabolism)
+-Molecular Sequence Data
+-Multigene Family
+-Nostoc (+genetics; -metabolism)
+-Phenols (+metabolism)
+-Pigments, Biological (+biosynthesis; -genetics)
+-Sequence Analysis, DNA
+-Sunscreening Agents (+metabolism)
+
+pii:1471-2164-10-336
+doi:10.1186/1471-2164-10-336
+pubmed:19630972
+pmc:PMC2726228
+

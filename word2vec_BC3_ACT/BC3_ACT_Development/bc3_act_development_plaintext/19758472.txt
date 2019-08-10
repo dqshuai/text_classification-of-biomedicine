@@ -1,0 +1,23 @@
+BMC Bioinformatics
+
+Correlating protein function and stability through the analysis of single amino acid substitutions.
+
+Y Bromberg, B Rost
+
+BACKGROUND: Mutations resulting in the disruption of protein function are the underlying causes of many genetic diseases. Some mutations affect the number of expressed proteins while others alter the activity on a per-molecule basis. Single amino acid substitutions as caused by non-synonymous Single Nucleotide Polymorphisms (nsSNPs) often disrupt function by altering protein structure and/or stability, but can also wreak havoc by directly impacting functional binding sites. Given the experimental three-dimensional (3D) structure of a protein, we can try to differentiate between the "effect on structure/stability" and the "effect on binding". However, experimental 3D structures are available for only 1% of all known proteins; the magnitude of stability change caused by a given mutation is more widely available. RESULTS: Here, we analyze to which extent the functional effect of a mutation can be predicted from the effect on protein stability. We find that simple sequence-based methods succeed in predicting functional effects of nsSNPs. In fact, such methods consistently outperform approaches that predict functional change through the application of binary thresholds to stability change. We also observed that if stability is affected, functional change is easier to predict than when stability is not affected. CONCLUSION: Our results confirmed that stability change is somehow related to function change. However, we also show that the knowledge of stability changes in no way suffices to predict functional changes and that many function changing mutations have no effect on stability.
+
++Amino Acid Substitution
+-Computational Biology (+methods)
+-Databases, Protein
+-Information Storage and Retrieval
+-Polymorphism, Single Nucleotide
+-Protein Stability
+-Proteins (+chemistry)
+-Sequence Alignment
+-Structure-Activity Relationship
+
+pii:1471-2105-10-S8-S8
+doi:10.1186/1471-2105-10-S8-S8
+pubmed:19758472
+pmc:PMC2745590
+

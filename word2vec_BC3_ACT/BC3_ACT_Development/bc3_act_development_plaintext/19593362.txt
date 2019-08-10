@@ -1,0 +1,21 @@
+PLoS Comput. Biol.
+
+Predicting the distribution of spiral waves from cell properties in a developmental-path model of Dictyostelium pattern formation.
+
+D Geberth, MT Hütt
+
+The slime mold Dictyostelium discoideum is one of the model systems of biological pattern formation. One of the most successful answers to the challenge of establishing a spiral wave pattern in a colony of homogeneously distributed D. discoideum cells has been the suggestion of a developmental path the cells follow (Lauzeral and coworkers). This is a well-defined change in properties each cell undergoes on a longer time scale than the typical dynamics of the cell. Here we show that this concept leads to an inhomogeneous and systematic spatial distribution of spiral waves, which can be predicted from the distribution of cells on the developmental path. We propose specific experiments for checking whether such systematics are also found in data and thus, indirectly, provide evidence of a developmental path.
+
+-Algorithms
+-Animals
+-Computational Biology (+methods)
+-Cyclic AMP (-metabolism)
+-Dictyostelium (-growth & development; -metabolism; +physiology)
++Models, Biological
+-Models, Statistical
+-Phosphoric Diester Hydrolases (-metabolism)
+
+doi:10.1371/journal.pcbi.1000422
+pubmed:19593362
+pmc:PMC2699541
+

@@ -1,0 +1,21 @@
+Genome Res.
+
+Overlapping pools for high-throughput targeted resequencing.
+
+S Prabhu, I Pe'er
+
+Resequencing genomic DNA from pools of individuals is an effective strategy to detect new variants in targeted regions and compare them between cases and controls. There are numerous ways to assign individuals to the pools on which they are to be sequenced. The naïve, disjoint pooling scheme (many individuals to one pool) in predominant use today offers insight into allele frequencies, but does not offer the identity of an allele carrier. We present a framework for overlapping pool design, where each individual sample is resequenced in several pools (many individuals to many pools). Upon discovering a variant, the set of pools where this variant is observed reveals the identity of its carrier. We formalize the mathematical framework for such pool designs and list the requirements from such designs. We specifically address three practical concerns for pooled resequencing designs: (1) false-positives due to errors introduced during amplification and sequencing; (2) false-negatives due to undersampling particular alleles aggravated by nonuniform coverage; and consequently, (3) ambiguous identification of individual carriers in the presence of errors. We build on theory of error-correcting codes to design pools that overcome these pitfalls. We show that in practical parameters of resequencing studies, our designs guarantee high probability of unambiguous singleton carrier identification while maintaining the features of naïve pools in terms of sensitivity, specificity, and the ability to estimate allele frequencies. We demonstrate the ability of our designs in extracting rare variations using short read data from the 1000 Genomes Pilot 3 project.
+
+-Algorithms
+-Computer Simulation
+-DNA (+analysis)
++Gene Pool
+-Genetic Variation
+-Humans
+-Sequence Analysis, DNA (+methods)
+
+pii:gr.088559.108
+doi:10.1101/gr.088559.108
+pubmed:19447964
+pmc:PMC2704440
+

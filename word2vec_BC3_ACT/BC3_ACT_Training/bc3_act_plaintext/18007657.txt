@@ -1,0 +1,27 @@
+EMBO Rep.
+
+Regulation of flowering time by the protein arginine methyltransferase AtPRMT10.
+
+L Niu, F Lu, Y Pei, C Liu, X Cao
+
+In plants, histone H3 lysine methyltransferases are important in gene silencing and developmental regulation; however, the roles of histone H4 methylation in plant development remain unclear. Recent studies found a type II histone arginine methyltransferase, AtPRTM5, which is involved in promoting growth and flowering. Here, we purified a dimerized plant-specific histone H4 methyltransferase, plant histone arginine methyltransferase 10 (PHRMT10), from cauliflower. Arabidopsis thaliana protein arginine methyltransferase 10 (AtPRMT10)--the Arabidopsis homologue of PHRMT10--was shown to be a type I PRMT, which preferentially asymmetrically methylated histone H4R3 in vitro. Genetic disruption of AtPRMT10 resulted in late flowering by upregulating FLOWERING LOCUS C (FLC) transcript levels. In addition, we show that AtPRMT10 functions genetically separate from AtPRMT5, but that each acts to fine-tune expression of FLC. This work adds an extra layer of complexity to flowering-time regulation and also sheds light on the importance of asymmetric arginine methylation in plant development.
+
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Brassica (-enzymology; -genetics)
+-Chromatography, Thin Layer
+-Electrophoresis, Polyacrylamide Gel
+-Flowers (+enzymology; -genetics; -growth & development)
+-Genetic Complementation Test
+-Histone-Lysine N-Methyltransferase (-genetics; -metabolism)
+-Methyltransferases (-genetics; +metabolism)
+-Mutation
+-Plant Proteins (-genetics; -metabolism)
+-Protein Methyltransferases
+-Protein-Arginine N-Methyltransferases (-genetics; +metabolism)
+-Time Factors
+
+pii:7401111
+doi:10.1038/sj.embor.7401111
+pubmed:18007657
+pmc:PMC2267234
+

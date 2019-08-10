@@ -1,0 +1,19 @@
+Biophys. J.
+
+Evaluating the performance of the ff99SB force field based on NMR scalar coupling data.
+
+L Wickstrom, A Okur, C Simmerling
+
+Force-field validation is essential for the identification of weaknesses in current models and the development of more accurate models of biomolecules. NMR coupling and relaxation methods have been used to effectively diagnose the strengths and weaknesses of many existing force fields. Studies using the ff99SB force field have shown excellent agreement between experimental and calculated order parameters and residual dipolar calculations. However, recent studies have suggested that ff99SB demonstrates poor agreement with J-coupling constants for short polyalanines. We performed extensive replica-exchange molecular-dynamics simulations on Ala(3) and Ala(5) in TIP3P and TIP4P-Ew solvent models. Our results suggest that the performance of ff99SB is among the best of currently available models. In addition, scalar coupling constants derived from simulations in the TIP4P-Ew model show a slight improvement over those obtained using the TIP3P model. Despite the overall excellent agreement, the data suggest areas for possible improvement.
+
+-Computer Simulation
++Models, Chemical
+-Nuclear Magnetic Resonance, Biomolecular
+-Peptides (+chemistry)
+-Water (-chemistry)
+
+pii:S0006-3495(09)01031-5
+doi:10.1016/j.bpj.2009.04.063
+pubmed:19651043
+pmc:PMC2718158
+

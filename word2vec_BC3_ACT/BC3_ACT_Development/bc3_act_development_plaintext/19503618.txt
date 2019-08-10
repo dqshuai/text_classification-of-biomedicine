@@ -1,0 +1,26 @@
+PLoS ONE
+
+The impact of outgroup choice and missing data on major seed plant phylogenetics using genome-wide EST data.
+
+JE de la Torre-Bárcena, SO Kolokotronis, EK Lee, DW Stevenson, ED Brenner, MS Katari, GM Coruzzi, R DeSalle
+
+BACKGROUND: Genome level analyses have enhanced our view of phylogenetics in many areas of the tree of life. With the production of whole genome DNA sequences of hundreds of organisms and large-scale EST databases a large number of candidate genes for inclusion into phylogenetic analysis have become available. In this work, we exploit the burgeoning genomic data being generated for plant genomes to address one of the more important plant phylogenetic questions concerning the hierarchical relationships of the several major seed plant lineages (angiosperms, Cycadales, Gingkoales, Gnetales, and Coniferales), which continues to be a work in progress, despite numerous studies using single, few or several genes and morphology datasets. Although most recent studies support the notion that gymnosperms and angiosperms are monophyletic and sister groups, they differ on the topological arrangements within each major group. METHODOLOGY: We exploited the EST database to construct a supermatrix of DNA sequences (over 1,200 concatenated orthologous gene partitions for 17 taxa) to examine non-flowering seed plant relationships. This analysis employed programs that offer rapid and robust orthology determination of novel, short sequences from plant ESTs based on reference seed plant genomes. Our phylogenetic analysis retrieved an unbiased (with respect to gene choice), well-resolved and highly supported phylogenetic hypothesis that was robust to various outgroup combinations. CONCLUSIONS: We evaluated character support and the relative contribution of numerous variables (e.g. gene number, missing data, partitioning schemes, taxon sampling and outgroup choice) on tree topology, stability and support metrics. Our results indicate that while missing characters and order of addition of genes to an analysis do not influence branch support, inadequate taxon sampling and limited choice of outgroup(s) can lead to spurious inference of phylogeny when dealing with phylogenomic scale data sets. As expected, support and resolution increases significantly as more informative characters are added, until reaching a threshold, beyond which support metrics stabilize, and the effect of adding conflicting characters is minimized.
+
+-Arabidopsis (+genetics)
+-Data Interpretation, Statistical
+-Databases, Genetic
++Expressed Sequence Tags
+-Genes, Plant
++Genome, Plant
+-Genomics
+-Likelihood Functions
+-Models, Genetic
+-Phylogeny
+-Plants
+-Seeds (-metabolism)
+-Sequence Analysis, DNA
+
+doi:10.1371/journal.pone.0005764
+pubmed:19503618
+pmc:PMC2685480
+

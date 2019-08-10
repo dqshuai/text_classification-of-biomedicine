@@ -1,0 +1,29 @@
+Cell Death Differ.
+
+Apoptosis blocks Beclin 1-dependent autophagosome synthesis: an effect rescued by Bcl-xL.
+
+S Luo, DC Rubinsztein
+
+Apoptotic cell death is mediated by caspase activation. Autophagy involves the sequestration of cytoplasmic contents into autophagosomes for traffic to lysosomes for degradation. Although autophagy is antiapoptotic, increased numbers of autophagosomes have been associated with forms of non-apoptotic cell death. Apoptosis and autophagy may be co-regulated in the same directions, as the antiapoptotic Bcl-2 and Bcl-xL proteins negatively regulate autophagy by binding to Beclin 1 (mammalian Atg6), and proapoptotic BH3-only proteins may reverse this effect by displacing these interactions. Here, we show that apoptosis can suppress autophagy. Apoptosis induced by the proapoptotic protein Bax reduced autophagy by enhancing caspase-mediated cleavage of Beclin 1 at D149. After cleavage, both N- and C-terminal Beclin 1 fragments change their localisations and these fragments do not interact normally with Vps34, which is required for autophagy. The cleavage of Beclin 1 is a critical event whereby caspases inhibit autophagy, as a non-cleavable Beclin 1 mutant restored autophagy in cells overexpressing Bax.
+
+-Animals
+-Apoptosis (+physiology)
+-Apoptosis Regulatory Proteins (-genetics; +metabolism)
+-Autophagy (+physiology)
+-Caspase 3 (-metabolism)
+-Cytoplasm (-metabolism)
+-Hela Cells
+-Humans
+-Membrane Proteins (-genetics; +metabolism)
+-Mice
+-RNA, Small Interfering
+-Transfection
+-bcl-Associated Death Protein (-metabolism; -pharmacology)
+-bcl-X Protein (-genetics; +metabolism)
+
+pii:cdd2009121
+doi:10.1038/cdd.2009.121
+pubmed:19713971
+mid:UKMS27827
+pmc:PMC2894406
+

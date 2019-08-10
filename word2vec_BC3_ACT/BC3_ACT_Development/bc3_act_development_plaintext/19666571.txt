@@ -1,0 +1,25 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+A Markov model of the Indus script.
+
+RP Rao, N Yadav, MN Vahia, H Joglekar, R Adhikari, I Mahadevan
+
+Although no historical information exists about the Indus civilization (flourished ca. 2600-1900 B.C.), archaeologists have uncovered about 3,800 short samples of a script that was used throughout the civilization. The script remains undeciphered, despite a large number of attempts and claimed decipherments over the past 80 years. Here, we propose the use of probabilistic models to analyze the structure of the Indus script. The goal is to reveal, through probabilistic analysis, syntactic patterns that could point the way to eventual decipherment. We illustrate the approach using a simple Markov chain model to capture sequential dependencies between signs in the Indus script. The trained model allows new sample texts to be generated, revealing recurring patterns of signs that could potentially form functional subunits of a possible underlying language. The model also provides a quantitative way of testing whether a particular string belongs to the putative language as captured by the Markov model. Application of this test to Indus seals found in Mesopotamia and other sites in West Asia reveals that the script may have been used to express different content in these regions. Finally, we show how missing, ambiguous, or unreadable signs on damaged objects can be filled in with most likely predictions from the model. Taken together, our results indicate that the Indus script exhibits rich synactic structure and the ability to represent diverse content. both of which are suggestive of a linguistic writing system rather than a nonlinguistic symbol system.
+
+-Archaeology (-methods)
+-Civilization
+-Cultural Evolution
+-History, Ancient
+-Humans
+-India
++Language
+-Linguistics
+-Markov Chains
+-Pakistan
++Writing
+
+pii:0906237106
+doi:10.1073/pnas.0906237106
+pubmed:19666571
+pmc:PMC2721819
+

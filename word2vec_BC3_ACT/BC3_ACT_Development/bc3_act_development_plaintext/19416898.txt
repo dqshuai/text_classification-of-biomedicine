@@ -1,0 +1,28 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+MicroRNAs are essential for development and function of inner ear hair cells in vertebrates.
+
+LM Friedman, AA Dror, E Mor, T Tenne, G Toren, T Satoh, DJ Biesemeier, N Shomron, DM Fekete, E Hornstein, KB Avraham
+
+MicroRNAs (miRNAs) inhibit the translation of target mRNAs and affect, directly or indirectly, the expression of a large portion of the protein-coding genes. This study focuses on miRNAs that are expressed in the mouse cochlea and vestibule, the 2 inner ear compartments. A conditional knock-out mouse for Dicer1 demonstrated that miRNAs are crucial for postnatal survival of functional hair cells of the inner ear. We identified miRNAs that have a role in the vertebrate developing inner ear by combining miRNA transcriptome analysis, spatial and temporal expression patterns, and bioinformatics. Microarrays revealed similar miRNA profiles in newborn-mouse whole cochleae and vestibules, but different temporal and spatial expression patterns of six miRNAs (miR-15a, miR-18a, miR-30b, miR-99a, miR-182, and miR-199a) may reflect their roles. Two of these miRNAs, miR-15a-1 and miR-18a, were also shown to be crucial for zebrafish inner ear development and morphogenesis. To suggest putative target mRNAs whose translation may be inhibited by selected miRNAs, we combined bioinformatics-based predictions and mRNA expression data. Finally, we present indirect evidence that Slc12a2, Cldn12, and Bdnf mRNAs may be targets for miR-15a. Our data support the hypothesis that inner ear tissue differentiation and maintenance are regulated and controlled by conserved sets of cell-specific miRNAs in both mouse and zebrafish.
+
+-Animals
+-Cochlea (+embryology; -physiology)
+-Computational Biology (-methods)
+-Gene Expression Profiling
+-Hair Cells, Auditory, Inner (+physiology)
+-Homozygote
+-Mice
+-Mice, Knockout
+-MicroRNAs (+metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Point Mutation
+-Vertebrates
+-Vestibule, Labyrinth (+embryology; -physiology)
+-Zebrafish
+
+pii:0812446106
+doi:10.1073/pnas.0812446106
+pubmed:19416898
+pmc:PMC2683084
+

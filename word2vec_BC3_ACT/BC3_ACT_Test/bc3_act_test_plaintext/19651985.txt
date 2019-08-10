@@ -1,0 +1,32 @@
+Genes Dev.
+
+A developmentally regulated inducer of EMT, LBX1, contributes to breast cancer progression.
+
+M Yu, GA Smolen, J Zhang, B Wittner, BJ Schott, E Brachtel, S Ramaswamy, S Maheswaran, DA Haber
+
+Epithelial-to-mesenchymal transition (EMT) plays an important role during normal embryogenesis, and it has been implicated in cancer invasion and metastasis. Here, we report that Ladybird homeobox 1 (LBX1), a developmentally regulated homeobox gene, directs expression of the known EMT inducers ZEB1, ZEB2, Snail1, and transforming growth factor beta2 (TGFB2). In mammary epithelial cells, overexpression of LBX1 leads to morphological transformation, expression of mesenchymal markers, enhanced cell migration, increased CD44(high)/CD24(low) progenitor cell population, and tumorigenic cooperation with known oncogenes. In human breast cancer, LBX1 is up-regulated in the unfavorable estrogen receptor (ER)/progesterone (PR)/HER2 triple-negative basal-like subtype. Thus, aberrant expression of LBX1 may lead to the activation of a developmentally regulated EMT pathway in human breast cancer.
+
+-Animals
+-Antigens, CD24 (-metabolism)
+-Antigens, CD44 (-metabolism)
+-Breast Neoplasms (+physiopathology)
+-Cell Line, Tumor
+-Cell Movement
++Disease Progression
++Gene Expression Regulation, Neoplastic
+-Homeodomain Proteins (-genetics; +metabolism)
+-Humans
+-Mammary Glands, Human (-cytology; -metabolism)
+-Oncogenes (-physiology)
+-Organic Cation Transport Proteins (+metabolism)
+-Repressor Proteins (-metabolism)
+-Stem Cells (-metabolism)
+-Transcription Factors (-genetics; +metabolism)
+-Transforming Growth Factor beta2 (-metabolism)
+-Up-Regulation
+
+pii:23/15/1737
+doi:10.1101/gad.1809309
+pubmed:19651985
+pmc:PMC2720264
+

@@ -1,0 +1,25 @@
+Genome Res.
+
+Large-scale screening for novel low-affinity extracellular protein interactions.
+
+KM Bushell, C Söllner, B Schuster-Boeckler, A Bateman, GJ Wright
+
+Extracellular protein-protein interactions are essential for both intercellular communication and cohesion within multicellular organisms. Approximately a fifth of human genes encode membrane-tethered or secreted proteins, but they are largely absent from recent large-scale protein interaction datasets, making current interaction networks biased and incomplete. This discrepancy is due to the unsuitability of popular high-throughput methods to detect extracellular interactions because of the biochemical intractability of membrane proteins and their interactions. For example, cell surface proteins contain insoluble hydrophobic transmembrane regions, and their extracellular interactions are often highly transient, having half-lives of less than a second. To detect transient extracellular interactions on a large scale, we developed AVEXIS (avidity-based extracellular interaction screen), a high-throughput assay that overcomes these technical issues and can detect very transient interactions (half-lives <or= 0.1 sec) with a low false-positive rate. We used it to systematically screen for receptor-ligand pairs within the zebrafish immunoglobulin superfamily and identified novel ligands for both well-known and orphan receptors. Genes encoding receptor-ligand pairs were often clustered phylogenetically and expressed in the same or adjacent tissues, immediately implying their involvement in similar biological processes. Using AVEXIS, we have determined the first systematic low-affinity extracellular protein interaction network, supported by independent biological data. This technique will now allow large-scale extracellular protein interaction mapping in a broad range of experimental contexts.
+
+-Animals
+-Extracellular Space (-metabolism)
+-Gene Expression
+-Immunoglobulins (-metabolism)
+-Kinetics
+-Ligands
+-Membrane Proteins (-chemistry; +metabolism)
+-Protein Interaction Mapping (+methods)
+-Protein Structure, Tertiary
+-Zebrafish (-embryology; -genetics; -metabolism)
+-Zebrafish Proteins (-metabolism)
+
+pii:gr.7187808
+doi:10.1101/gr.7187808
+pubmed:18296487
+pmc:PMC2279249
+

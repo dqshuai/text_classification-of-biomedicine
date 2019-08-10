@@ -1,0 +1,31 @@
+J. Immunol.
+
+Downstream signals for MyD88-mediated phagocytosis of Borrelia burgdorferi can be initiated by TRIF and are dependent on PI3K.
+
+OS Shin, LS Miller, RL Modlin, S Akira, S Uematsu, LT Hu
+
+We previously have shown that MyD88 is important for uptake of Borrelia burgdorferi by bone marrow derived macrophages (BMDMs). The mechanism by which MyD88 is involved in uptake of B. burgdorferi is currently is not well characterized. Here, we report that MyD88-mediated defect in the phagocytosis of B. burgdorferi can be complemented by TLR3/Toll/IL-1R domain-containing adaptor-inducing IFN-beta (TRIF) activation in BMDMs from MyD88(-/-) mice. This effect of TLR3/TRIF activation was not due to its induction of type I IFNs, suggesting instead a convergence of signaling pathways downstream of MyD88 and TRIF. To characterize signaling pathways involved in MyD88-mediated phagocytosis of B. burgdorferi, BMDMs were treated with specific inhibitors of MAPK, protein kinase C, JAK/STAT, or PI3K. Only inhibition of PI3K resulted in a significant decrease of B. burgdorferi uptake. Consistent with this, B. burgdorferi activation of MyD88 or TLR3/TRIF signaling resulted in increased activity of PI3K. Additionally, association of B. burgdorferi with actin-related protein (Arp2/3) complexes, which facilitate actin rearrangements during phagocytosis, was similarly reduced in MyD88(-/-) BMDMs and in BMDMs treated with a PI3K inhibitor. Taken together, these findings define an essential pathway whereby downstream signals from MyD88 or TRIF converge on PI3K, which triggers actin polymerization to initiate the phagocytosis of B. burgdorferi.
+
+-1-Phosphatidylinositol 3-Kinase (+metabolism; -physiology)
+-Adaptor Proteins, Vesicular Transport (+physiology)
+-Animals
+-Bone Marrow Cells (-enzymology; -immunology; -microbiology)
+-Borrelia burgdorferi (+immunology)
+-Cell Line
+-Cells, Cultured
+-Enzyme Activation (-immunology)
+-Macrophages (-enzymology; -immunology; -microbiology)
+-Mice
+-Mice, Inbred C57BL
+-Mice, Knockout
+-Myeloid Differentiation Factor 88 (-deficiency; -genetics; +physiology)
+-Phagocytosis (-genetics; +immunology)
+-Poly I-C (-pharmacology)
+-Signal Transduction (-genetics; +immunology)
+
+pii:183/1/491
+doi:10.4049/jimmunol.0900724
+pubmed:19542460
+mid:NIHMS152908
+pmc:PMC2772066
+

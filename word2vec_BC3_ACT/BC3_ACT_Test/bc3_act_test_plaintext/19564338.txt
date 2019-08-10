@@ -1,0 +1,31 @@
+J. Biol. Chem.
+
+Role of ADAMs in the ectodomain shedding and conformational conversion of the prion protein.
+
+DR Taylor, ET Parkin, SL Cocklin, JR Ault, AE Ashcroft, AJ Turner, NM Hooper
+
+The cellular prion protein (PrP(C)) is essential for the pathogenesis and transmission of prion diseases. PrP(C) is bound to the plasma membrane via a glycosylphosphatidylinositol anchor, although a secreted, soluble form has also been identified. Previously we reported that PrP(C) is subject to ectodomain shedding from the membrane by zinc metalloproteinases with a similar inhibition profile to those involved in shedding the amyloid precursor protein. Here we have used gain-of-function (overexpression) and loss-of-function (small interfering RNA knockdown) experiments in cells to identify the ADAMs (a disintegrin and metalloproteinases) involved in the ectodomain shedding of PrP(C). These experiments revealed that ADAM9 and ADAM10, but not ADAM17, are involved in the shedding of PrP(C) and that ADAM9 exerts its effect on PrP(C) shedding via ADAM10. Using dominant negative, catalytically inactive mutants, we show that the catalytic activity of ADAM9 is required for its effect on ADAM10. Mass spectrometric analysis revealed that ADAM10, but not ADAM9, cleaved PrP between Gly(228) and Arg(229), three residues away from the site of glycosylphosphatidylinositol anchor attachment. The shedding of another membrane protein, the amyloid precursor protein beta-secretase BACE1, by ADAM9 is also mediated via ADAM10. Furthermore, we show that pharmacological inhibition of PrP(C) shedding or activation of both PrP(C) and PrP(Sc) shedding by ADAM10 overexpression in scrapie-infected neuroblastoma N2a cells does not alter the formation of proteinase K-resistant PrP(Sc). Collectively, these data indicate that although PrP(C) can be shed through the action of ADAM family members, modulation of PrP(C) or PrP(Sc) ectodomain shedding does not regulate prion conversion.
+
+-ADAM Proteins (-genetics; +metabolism)
+-Amyloid Precursor Protein Secretases (-genetics; +metabolism)
+-Animals
+-Aspartic Acid Endopeptidases (-genetics; -metabolism)
+-Cell Line
+-Cell Line, Tumor
+-DNA, Complementary
+-Humans
+-Immunoblotting
+-Mass Spectrometry
+-Membrane Proteins (-genetics; +metabolism)
+-Mice
+-PrPC Proteins (-genetics; +metabolism)
+-PrPSc Proteins (-genetics; -metabolism)
+-RNA, Small Interfering
+-Recombinant Proteins (-genetics; -metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+
+pii:M109.032599
+doi:10.1074/jbc.M109.032599
+pubmed:19564338
+pmc:PMC2755666
+

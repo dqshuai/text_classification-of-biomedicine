@@ -1,0 +1,28 @@
+PLoS Pathog.
+
+HIV evolution in early infection: selection pressures, patterns of insertion and deletion, and the impact of APOBEC.
+
+N Wood, T Bhattacharya, BF Keele, E Giorgi, M Liu, B Gaschen, M Daniels, G Ferrari, BF Haynes, A McMichael, GM Shaw, BH Hahn, B Korber, C Seoighe
+
+The pattern of viral diversification in newly infected individuals provides information about the host environment and immune responses typically experienced by the newly transmitted virus. For example, sites that tend to evolve rapidly across multiple early-infection patients could be involved in enabling escape from common early immune responses, could represent adaptation for rapid growth in a newly infected host, or could represent reversion from less fit forms of the virus that were selected for immune escape in previous hosts. Here we investigated the diversification of HIV-1 env coding sequences in 81 very early B subtype infections previously shown to have resulted from transmission or expansion of single viruses (n = 78) or two closely related viruses (n = 3). In these cases, the sequence of the infecting virus can be estimated accurately, enabling inference of both the direction of substitutions as well as distinction between insertion and deletion events. By integrating information across multiple acutely infected hosts, we find evidence of adaptive evolution of HIV-1 env and identify a subset of codon sites that diversified more rapidly than can be explained by a model of neutral evolution. Of 24 such rapidly diversifying sites, 14 were either i) clustered and embedded in CTL epitopes that were verified experimentally or predicted based on the individual's HLA or ii) in a nucleotide context indicative of APOBEC-mediated G-to-A substitutions, despite having excluded heavily hypermutated sequences prior to the analysis. In several cases, a rapidly evolving site was embedded both in an APOBEC motif and in a CTL epitope, suggesting that APOBEC may facilitate early immune escape. Ten rapidly diversifying sites could not be explained by CTL escape or APOBEC hypermutation, including the most frequently mutated site, in the fusion peptide of gp41. We also examined the distribution, extent, and sequence context of insertions and deletions, and we provide evidence that the length variation seen in hypervariable loop regions of the envelope glycoprotein is a consequence of selection and not of mutational hotspots. Our results provide a detailed view of the process of diversification of HIV-1 following transmission, highlighting the role of CTL escape and hypermutation in shaping viral evolution during the establishment of new infections.
+
+-Base Sequence
+-Cross-Sectional Studies
+-Cytidine Deaminase (+metabolism)
+-Epitopes, T-Lymphocyte (-genetics)
++Evolution, Molecular
+-Genes, Viral (-physiology)
+-HIV Infections (+genetics; -virology)
+-HIV-1 (+genetics)
+-Humans
+-INDEL Mutation
+-Models, Genetic
+-Molecular Sequence Data
+-Phylogeny
+-T-Lymphocytes, Cytotoxic (-virology)
+-env Gene Products, Human Immunodeficiency Virus (+genetics)
+
+doi:10.1371/journal.ppat.1000414
+pubmed:19424423
+pmc:PMC2671846
+

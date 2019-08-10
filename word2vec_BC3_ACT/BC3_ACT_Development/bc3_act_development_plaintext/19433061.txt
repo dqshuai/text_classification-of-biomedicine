@@ -1,0 +1,24 @@
+Biochem. Biophys. Res. Commun.
+
+A minimal regulatory domain in the C terminus of STIM1 binds to and activates ORAI1 CRAC channels.
+
+T Kawasaki, I Lange, S Feske
+
+Store-operated Ca(2+) entry (SOCE) is a universal mechanism to increase intracellular Ca(2+) concentrations in non-excitable cells. It is initiated by the depletion of ER Ca(2+) stores, activation of stromal interaction molecule (STIM) 1 and gating of the Ca(2+) release activated Ca(2+) (CRAC) channel ORAI1 in the plasma membrane. We identified a minimal activation domain in the cytoplasmic region of STIM1 (CCb9) which activated Ca(2+) influx and CRAC currents (I(CRAC)) in the absence of store depletion similar to but more potently than the entire C terminus of STIM1. A STIM1 fragment (CCb7) that is longer by 39 [corrected] amino acids than CCb9 at its C terminal end showed reduced ability to constitutively activate I(CRAC) consistent with our observation that CCb9 but not CCb7 efficiently colocalized with and bound to ORAI1. Intracellular application of a 31 amino acid peptide contained in CCb7 but not CCb9 inhibited constitutive and store-dependent CRAC channel activation. In summary, these findings suggest that CCb9 represents a minimal ORAI1 activation domain within STIM1 that is masked by an adjacent 31 amino acid peptide preventing efficient CRAC channel activation in cells with replete Ca(2+) stores.
+
+-Amino Acid Sequence
+-Calcium Channels (-genetics; +metabolism)
+-Cell Line
+-Humans
+-Membrane Proteins (-genetics; +metabolism)
+-Neoplasm Proteins (-genetics; +metabolism)
+-Peptides (-genetics; -metabolism)
+-Protein Binding
+-Protein Structure, Tertiary
+
+pii:S0006-291X(09)00908-5
+doi:10.1016/j.bbrc.2009.05.020
+pubmed:19433061
+mid:NIHMS116539
+pmc:PMC2821023
+

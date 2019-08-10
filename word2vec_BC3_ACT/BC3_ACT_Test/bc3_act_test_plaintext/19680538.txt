@@ -1,0 +1,22 @@
+PLoS Genet.
+
+Statistical estimation of correlated genome associations to a quantitative trait network.
+
+S Kim, EP Xing
+
+Many complex disease syndromes, such as asthma, consist of a large number of highly related, rather than independent, clinical or molecular phenotypes. This raises a new technical challenge in identifying genetic variations associated simultaneously with correlated traits. In this study, we propose a new statistical framework called graph-guided fused lasso (GFlasso) to directly and effectively incorporate the correlation structure of multiple quantitative traits such as clinical metrics and gene expressions in association analysis. Our approach represents correlation information explicitly among the quantitative traits as a quantitative trait network (QTN) and then leverages this network to encode structured regularization functions in a multivariate regression model over the genotypes and traits. The result is that the genetic markers that jointly influence subgroups of highly correlated traits can be detected jointly with high sensitivity and specificity. While most of the traditional methods examined each phenotype independently and combined the results afterwards, our approach analyzes all of the traits jointly in a single statistical framework. This allows our method to borrow information across correlated phenotypes to discover the genetic markers that perturb a subset of the correlated traits synergistically. Using simulated datasets based on the HapMap consortium and an asthma dataset, we compared the performance of our method with other methods based on single-marker analysis and regression-based methods that do not use any of the relational information in the traits. We found that our method showed an increased power in detecting causal variants affecting correlated traits. Our results showed that, when correlation patterns among traits in a QTN are considered explicitly and directly during a structured multivariate genome association analysis using our proposed methods, the power of detecting true causal SNPs with possibly pleiotropic effects increased significantly without compromising performance on non-pleiotropic SNPs.
+
+-Asthma (+genetics)
+-Computer Simulation
+-Data Interpretation, Statistical
+-Genome
++Genome, Human
+-Humans
+-Models, Genetic
+-Models, Statistical
++Quantitative Trait, Heritable
+
+doi:10.1371/journal.pgen.1000587
+pubmed:19680538
+pmc:PMC2719086
+

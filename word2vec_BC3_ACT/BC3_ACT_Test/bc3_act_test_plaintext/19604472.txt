@@ -1,0 +1,32 @@
+Structure
+
+Improving structure-based function prediction using molecular dynamics.
+
+DS Glazer, RJ Radmer, RB Altman
+
+The number of molecules with solved three-dimensional structure but unknown function is increasing rapidly. Particularly problematic are novel folds with little detectable similarity to molecules of known function. Experimental assays can determine the functions of such molecules, but are time-consuming and expensive. Computational approaches can identify potential functional sites; however, these approaches generally rely on single static structures and do not use information about dynamics. In fact, structural dynamics can enhance function prediction: we coupled molecular dynamics simulations with structure-based function prediction algorithms that identify Ca(2+) binding sites. When applied to 11 challenging proteins, both methods showed substantial improvement in performance, revealing 22 more sites in one case and 12 more in the other, with a modest increase in apparent false positives. Thus, we show that treating molecules as dynamic entities improves the performance of structure-based function prediction methods.
+
+-Algorithms
+-Amino Acid Sequence
+-Binding Sites
+-Calcium (-metabolism)
+-Computational Biology
+-Computer Simulation
+-Models, Chemical
++Models, Molecular
+-Molecular Sequence Data
++Predictive Value of Tests
+-Protein Binding
+-Protein Conformation
+-Protein Folding
+-Proteins (-chemistry; -genetics; -metabolism)
+-Sequence Alignment (-methods)
+-Sequence Analysis, Protein (-methods)
+-Structure-Activity Relationship
+
+pii:S0969-2126(09)00222-6
+doi:10.1016/j.str.2009.05.010
+pubmed:19604472
+mid:NIHMS124946
+pmc:PMC2748254
+

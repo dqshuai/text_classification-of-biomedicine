@@ -1,0 +1,23 @@
+Biophys. J.
+
+Water replacement hypothesis in atomic detail--factors determining the structure of dehydrated bilayer stacks.
+
+EA Golovina, AV Golovin, FA Hoekstra, R Faller
+
+According to the water replacement hypothesis, trehalose stabilizes dry membranes by preventing the decrease of spacing between membrane lipids under dehydration. In this study, we use molecular-dynamics simulations to investigate the influence of trehalose on the area per lipid (APL) and related structural properties of dehydrated bilayers in atomic detail. The starting conformation of a palmitoyloleolylphosphatidylcholine lipid bilayer in excess water was been obtained by self-assembly. A series of molecular-dynamics simulations of palmitoyloleolylphosphatidylcholine with different degrees of dehydration (28.5, 11.7, and 5.4 waters per lipid) and different molar trehalose/lipid ratios (<1:1, 1:1, and >1:1) were carried out in the NPT ensemble. Water removal causes the formation of multilamellar "stacks" through periodic boundary conditions. The headgroups reorient from pointing outward to inward with dehydration. This causes changes in the electrostatic interactions between interfaces, resulting in interface interpenetration. Interpenetration creates self-spacing of the bilayers and prevents gel-phase formation. At lower concentrations, trehalose does not separate the interfaces, and acting together with self-spacing, it causes a considerable increase of APL. APL decreases at higher trehalose concentrations when the layer of sugar physically separates the interfaces. When interfaces are separated, the model confirms the water replacement hypothesis.
+
+-Lipid Bilayers (+chemistry; -metabolism)
++Models, Molecular
+-Nitrogen (-chemistry)
+-Phosphatidylcholines (-chemistry)
+-Phosphorus (-chemistry)
+-Reproducibility of Results
+-Time Factors
+-Trehalose (-chemistry; -metabolism)
+-Water (+chemistry)
+
+pii:S0006-3495(09)00957-6
+doi:10.1016/j.bpj.2009.05.007
+pubmed:19619463
+pmc:PMC2711319
+

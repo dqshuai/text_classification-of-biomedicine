@@ -1,0 +1,19 @@
+PLoS ONE
+
+Intragenic and extragenic suppressors of temperature sensitive mutations in the replication initiation genes dnaD and dnaB of Bacillus subtilis.
+
+ME Rokop, AD Grossman
+
+BACKGROUND: The Bacillus subtilis genes dnaD and dnaB are essential for the initiation of DNA replication and are required for loading of the replicative helicase at the chromosomal origin of replication oriC. Wild type DnaD and DnaB interact weakly in vitro and this interaction has not been detected in vivo or in yeast two-hybrid assays. METHODOLOGY/PRINCIPAL FINDINGS: We isolated second site suppressors of the temperature sensitive phenotypes caused by one dnaD mutation and two different dnaB mutations. Five different intragenic suppressors of the dnaD23ts mutation were identified. One intragenic suppressor was a deletion of two amino acids in DnaD. This deletion caused increased and detectable interaction between the mutant DnaD and wild type DnaB in a yeast two-hybrid assay, similar to the increased interaction caused by a missense mutation in dnaB that is an extragenic suppressor of dnaD23ts. We isolated both intragenic and extragenic suppressors of the two dnaBts alleles. Some of the extragenic suppressors were informational suppressors (missense suppressors) in tRNA genes. These suppressor mutations caused a change in the anticodon of an alanine tRNA so that it would recognize the mutant codon (threonine) in dnaB and likely insert the wild type amino acid (alanine). CONCLUSIONS/SIGNIFICANCE: The intragenic suppressors should provide insights into structure-function relationships in DnaD and DnaB, and interactions between DnaD and DnaB. The extragenic suppressors in the tRNA genes have important implications regarding the amount of wild type DnaB needed in the cell. Since missense suppressors are typically inefficient, these findings indicate that production of a small amount of wild type DnaB, in combination with the mutant protein, is sufficient to restore some DnaB function.
+
+-Bacillus subtilis (+genetics)
+-Bacterial Proteins (+genetics)
++Genes, Bacterial
++Mutation
+-Temperature
+-Two-Hybrid System Techniques
+
+doi:10.1371/journal.pone.0006774
+pubmed:19707554
+pmc:PMC2727948
+

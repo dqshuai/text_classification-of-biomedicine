@@ -1,0 +1,29 @@
+Genetics
+
+Nonmetric multidimensional scaling corrects for population structure in association mapping with different sample types.
+
+C Zhu, J Yu
+
+Recent research has developed various promising methods to control for population structure in genomewide association mapping of complex traits, but systematic examination of how well these methods perform under different genetic scenarios is still lacking. Appropriate methods for controlling genetic relationships among individuals need to balance the concern of false positives and statistical power, which can vary for different association sample types. We used a series of simulated samples and empirical data sets from cross- and self-pollinated species to demonstrate the performance of several contemporary methods in correcting for different types of genetic relationships encountered in association analysis. We proposed a two-stage dimension determination approach for both principal component analysis and nonmetric multidimensional scaling (nMDS) to capture the major structure pattern in association mapping samples. Our results showed that by exploiting both genotypic and phenotypic information, this two-stage dimension determination approach balances the trade-off between data fit and model complexity, resulting in an effective reduction in false positive rate with minimum loss in statistical power. Further, the nMDS technique of correcting for genetic relationship proved to be a powerful complement to other existing methods. Our findings highlight the significance of appropriate application of different statistical methods for dealing with complex genetic relationships in various genomewide association studies.
+
+-Algorithms
+-Arabidopsis (-genetics)
+-Chromosome Mapping (+methods)
+-Crosses, Genetic
+-Genetics, Population
+-Genome, Plant (-genetics)
+-Genome-Wide Association Study (+methods)
+-Genotype
++Models, Genetic
+-Phenotype
+-Plants (+genetics)
+-Pollination (-genetics)
+-Polymorphism, Single Nucleotide
+-Quantitative Trait, Heritable
+-Zea mays (-genetics)
+
+pii:genetics.108.098863
+doi:10.1534/genetics.108.098863
+pubmed:19414565
+pmc:PMC2710166
+

@@ -1,0 +1,29 @@
+PLoS Pathog.
+
+Fine pathogen discrimination within the APL1 gene family protects Anopheles gambiae against human and rodent malaria species.
+
+C Mitri, JC Jacques, I Thiery, MM Riehle, J Xu, E Bischoff, I Morlais, SE Nsango, KD Vernick, C Bourgouin
+
+Genetically controlled resistance of Anopheles gambiae mosquitoes to Plasmodium falciparum is a common trait in the natural population, and a cluster of natural resistance loci were mapped to the Plasmodium-Resistance Island (PRI) of the A. gambiae genome. The APL1 family of leucine-rich repeat (LRR) proteins was highlighted by candidate gene studies in the PRI, and is comprised of paralogs APL1A, APL1B and APL1C that share > or =50% amino acid identity. Here, we present a functional analysis of the joint response of APL1 family members during mosquito infection with human and rodent Plasmodium species. Only paralog APL1A protected A. gambiae against infection with the human malaria parasite P. falciparum from both the field population and in vitro culture. In contrast, only paralog APL1C protected against the rodent malaria parasites P. berghei and P. yoelii. We show that anti-P. falciparum protection is mediated by the Imd/Rel2 pathway, while protection against P. berghei infection was shown to require Toll/Rel1 signaling. Further, only the short Rel2-S isoform and not the long Rel2-F isoform of Rel2 confers protection against P. falciparum. Protection correlates with the transcriptional regulation of APL1A by Rel2-S but not Rel2-F, suggesting that the Rel2-S anti-parasite phenotype results at least in part from its transcriptional control over APL1A. These results indicate that distinct members of the APL1 gene family display a mutually exclusive protective effect against different classes of Plasmodium parasites. It appears that a gene-for-pathogen-class system orients the appropriate host defenses against distinct categories of similar pathogens. It is known that insect innate immune pathways can distinguish between grossly different microbes such as Gram-positive bacteria, Gram-negative bacteria, or fungi, but the function of the APL1 paralogs reveals that mosquito innate immunity possesses a more fine-grained capacity to distinguish between classes of closely related eukaryotic pathogens than has been previously recognized.
+
+-Analysis of Variance
+-Animals
+-Anopheles gambiae (-genetics; +immunology)
+-Caenorhabditis elegans Proteins
+-Child
+-Child, Preschool
+-Female
+-Humans
+-Insect Proteins (-genetics; +immunology)
+-Malaria (+immunology)
+-Membrane Proteins
+-Models, Immunological
+-Plasmodium (+pathogenicity)
+-Signal Transduction (-immunology)
+-Statistics, Nonparametric
+-Trans-Activators (+immunology)
+
+doi:10.1371/journal.ppat.1000576
+pubmed:19750215
+pmc:PMC2734057
+

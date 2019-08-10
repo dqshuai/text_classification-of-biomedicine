@@ -1,0 +1,16 @@
+J. Mol. Biol.
+
+Understanding the functional roles of amino acid residues in enzyme catalysis.
+
+GL Holliday, JB Mitchell, JM Thornton
+
+The MACiE database contains 223 distinct step-wise enzyme reaction mechanisms and holds representatives from each EC sub-subclass where there is a crystal structure and sufficient evidence in the literature to support a mechanism. Each catalytic step of every reaction sequence in MACiE is fully annotated so that it includes the function of the catalytic residues involved in the reaction and the mechanism by which substrates are transformed into products. Using MACiE as a knowledge base, we have seen that the top 10 most catalytic residues are histidine, aspartate, glutamate, lysine, cysteine, arginine, serine, threonine, tyrosine and tryptophan. Of these only seven (cysteine, histidine, aspartate, lysine, serine, threonine and tyrosine) dominate catalysis and provide essentially five functional roles that are essential. Stabilisation is the most common and essential role for all classes of enzyme, followed by general acid/base (proton acceptor and proton donor) functionality, with nucleophilic addition following closely behind (nucleophile and nucleofuge). We investigated the occurrence of these residues in MACiE and the Catalytic Site Atlas and found that, as expected, certain residue types are associated with each functional role, with some residue types able to perform diverse roles. In addition, it was seen that different EC classes of enzyme have a tendency to employ different residues for catalysis. Further, we show that whilst the differences between EC classes in catalytic residue composition are not immediately obvious from the general classes of Ingold mechanisms, there is some weak correlation between the mechanisms involved in a given EC class and the functions that the catalytic amino acid residues are performing. The analysis presented here provides a valuable insight into the functional roles of catalytic amino acid residues, which may have applications in many aspects of enzymology, from the design of novel enzymes to the prediction and validation of enzyme reaction mechanisms.
+
+-Amino Acids (+chemistry; +metabolism)
++Biocatalysis
+-Enzymes (+chemistry; +metabolism)
+
+pii:S0022-2836(09)00579-8
+doi:10.1016/j.jmb.2009.05.015
+pubmed:19447117
+

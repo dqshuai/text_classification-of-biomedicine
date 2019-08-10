@@ -1,0 +1,27 @@
+BMC Genomics
+
+Molecular signature of cell cycle exit induced in human T lymphoblasts by IL-2 withdrawal.
+
+M Chechlinska, JK Siwicki, M Gos, M Oczko-Wojciechowska, M Jarzab, A Pfeifer, B Jarzab, J Steffen
+
+BACKGROUND: The molecular mechanisms of cell cycle exit are poorly understood. Studies on lymphocytes at cell cycle exit after growth factor deprivation have predominantly focused on the initiation of apoptosis. We aimed to study gene expression profile of primary and immortalised IL-2-dependent human T cells forced to exit the cell cycle by growth factor withdrawal, before apoptosis could be evidenced. RESULTS: By the Affymetrix microarrays HG-U133 2.0 Plus, 53 genes were distinguished as differentially expressed before and soon after IL-2 deprivation. Among those, PIM1, BCL2, IL-8, HBEGF, DUSP6, OSM, CISH, SOCS2, SOCS3, LIF and IL13 were down-regulated and RPS24, SQSTM1, TMEM1, LRRC8D, ECOP, YY1AP1, C1orf63, ASAH1, SLC25A46 and MIA3 were up-regulated. Genes linked to transcription, cell cycle, cell growth, proliferation and differentiation, cell adhesion, and immune functions were found to be overrepresented within the set of the differentially expressed genes. CONCLUSION: Cell cycle exit of the growth factor-deprived T lymphocytes is characterised by a signature of differentially expressed genes. A coordinate repression of a set of genes known to be induced during T cell activation is observed. However, growth arrest following exit from the cell cycle is actively controlled by several up-regulated genes that enforce the non-dividing state. The identification of genes involved in cell cycle exit and quiescence provides new hints for further studies on the molecular mechanisms regulating the non-dividing state of a cell, the mechanisms closely related to cancer development and to many biological processes.
+
+-Cell Cycle (+drug effects)
+-Cell Line
+-Cell Proliferation
+-Cluster Analysis
+-Down-Regulation
++Gene Expression Profiling
+-Gene Expression Regulation
+-Humans
+-Interleukin-2 (+pharmacology)
+-Oligonucleotide Array Sequence Analysis
+-Principal Component Analysis
+-T-Lymphocytes (+cytology; -drug effects; -metabolism)
+-Up-Regulation
+
+pii:1471-2164-10-261
+doi:10.1186/1471-2164-10-261
+pubmed:19505301
+pmc:PMC2706892
+

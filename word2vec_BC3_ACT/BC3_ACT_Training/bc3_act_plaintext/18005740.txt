@@ -1,0 +1,29 @@
+Cell Host Microbe
+
+Colocalization of transcription and translation within cytoplasmic poxvirus factories coordinates viral expression and subjugates host functions.
+
+GC Katsafanas, B Moss
+
+Poxviruses are large DNA viruses that include the causal agent of human smallpox and vaccinia virus. Poxviruses replicate in cytoplasmic foci known as DNA factories. Here we show that a virus-encoded transcription factor, viral mRNA, cellular RNA-binding protein heterodimer G3BP/Caprin-1 (p137), translation initiation factors eIF4E and eIF4G, and ribosomal proteins are concentrated in the same subdomains of cytoplasmic DNA factories. Furthermore, a cell coinfected with two recombinant vaccinia viruses expressing a virus core protein fused to cyan or yellow fluorescent protein displayed separate cyan and yellow factories, indicating that each factory formed from a single genome and was the site of transcription and translation as well as DNA replication. Hijacking of the host translation apparatus within the factory likely enhances the efficiency of virus replication and contributes to the suppression of host protein synthesis, thereby facilitating poxvirus subjugation of the cell.
+
+-Carrier Proteins (+metabolism)
+-Cell Cycle Proteins (+metabolism)
+-Cytoplasm (+metabolism; +virology)
+-Eukaryotic Initiation Factor-4E (+metabolism)
+-Eukaryotic Initiation Factor-4G (+metabolism)
++Gene Expression Regulation
+-Hela Cells
+-Humans
+-Microscopy, Confocal
+-Ribosomal Proteins (-metabolism)
+-Transcription Factors (+metabolism)
+-Vaccinia virus (+physiology)
+-Viral Proteins (+metabolism)
+-Virus Replication
+
+pii:S1931-3128(07)00215-6
+doi:10.1016/j.chom.2007.08.005
+pubmed:18005740
+mid:NIHMS32643
+pmc:PMC2084088
+

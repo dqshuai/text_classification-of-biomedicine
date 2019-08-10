@@ -1,0 +1,28 @@
+Nucleic Acids Res.
+
+Tracking transcription factor complexes on DNA using total internal reflectance fluorescence protein binding microarrays.
+
+AJ Bonham, T Neumann, M Tirrell, NO Reich
+
+We have developed a high-throughput protein binding microarray (PBM) assay to systematically investigate transcription regulatory protein complexes binding to DNA with varied specificity and affinity. Our approach is based on the novel coupling of total internal reflectance fluorescence (TIRF) spectroscopy, swellable hydrogel double-stranded DNA microarrays and dye-labeled regulatory proteins, making it possible to determine both equilibrium binding specificities and kinetic rates for multiple protein:DNA interactions in a single experiment. DNA specificities and affinities for the general transcription factors TBP, TFIIA and IIB determined by TIRF-PBM are similar to those determined by traditional methods, while simultaneous measurement of the factors in binary and ternary protein complexes reveals preferred binding combinations. TIRF-PBM provides a novel and extendible platform for multi-protein transcription factor investigation.
+
+-Binding Sites
+-DNA (-chemistry; -metabolism)
+-DNA-Binding Proteins (+metabolism)
+-Hydrogels
+-Kinetics
+-Promoter Regions, Genetic
+-Protein Array Analysis (+methods)
+-Spectrometry, Fluorescence
+-TATA-Box Binding Protein (-metabolism)
+-Thermodynamics
+-Transcription Factor TFIIA (-metabolism)
+-Transcription Factor TFIIB (-metabolism)
+-Transcription Factors (+metabolism)
+-Transcription Factors, General (-metabolism)
+
+pii:gkp424
+doi:10.1093/nar/gkp424
+pubmed:19487241
+pmc:PMC2715255
+

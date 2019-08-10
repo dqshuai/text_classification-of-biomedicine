@@ -1,0 +1,33 @@
+Leukemia
+
+Inhibition of KSP by ARRY-520 induces cell cycle block and cell death via the mitochondrial pathway in AML cells.
+
+BZ Carter, DH Mak, R Woessner, S Gross, WD Schober, Z Estrov, H Kantarjian, M Andreeff
+
+Kinesin spindle protein (KSP), a microtubule-associated motor protein essential for cell cycle progression, is overexpressed in many cancers and is a potential anti-tumor target. We found that inhibition of KSP by a selective inhibitor, ARRY-520, blocked cell cycle progression, leading to apoptosis in acute myeloid leukemia cell lines that express high levels of KSP. Knockdown of p53, overexpression of XIAP and mutation in caspase-8 did not significantly affect sensitivity to ARRY-520, suggesting that the response is independent of p53, XIAP and the extrinsic apoptotic pathway. Although ARRY-520 induced mitotic arrest in both HL-60 and Bcl-2-overexpressing HL-60Bcl-2 cells, cell death was blunted in HL-60Bcl-2 cells, suggesting that the apoptotic program is executed through the mitochondrial pathway. Accordingly, inhibition of Bcl-2 by ABT-737 was synergistic with ARRY-520 in HL-60Bcl-2 cells. Furthermore, ARRY-520 increased Bim protein levels prior to caspase activation in HL-60 cells. ARRY-520 significantly inhibited tumor growth of xenografts in SCID mice and inhibited AML blast but not normal colony formation, supporting a critical role for KSP in proliferation of leukemic progenitor cells. These results demonstrate that ARRY-520 potently induces cell cycle block and subsequent death in leukemic cells via the mitochondrial pathway and has the potential to eradicate AML progenitor cells.
+
+-Animals
+-Antineoplastic Agents (+pharmacology)
+-Apoptosis (+drug effects)
+-Blotting, Western
+-Caspase 8 (-genetics; -metabolism)
+-Cell Cycle (+drug effects)
+-Cell Line, Tumor
+-Colony-Forming Units Assay
+-Female
+-Humans
+-Kinesin (+antagonists & inhibitors; -metabolism)
+-Mice
+-Mice, SCID
+-Mitochondria (+drug effects; -metabolism)
+-Mutation (-genetics)
+-Proto-Oncogene Proteins c-bcl-2 (-metabolism)
+-Thiadiazoles (+pharmacology)
+-Tumor Suppressor Protein p53 (-antagonists & inhibitors; -metabolism)
+-X-Linked Inhibitor of Apoptosis Protein (-metabolism)
+-Xenograft Model Antitumor Assays
+
+pii:leu2009101
+doi:10.1038/leu.2009.101
+pubmed:19458629
+

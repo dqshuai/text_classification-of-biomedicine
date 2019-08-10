@@ -1,0 +1,31 @@
+Science
+
+Common regulatory variation impacts gene expression in a cell type-dependent manner.
+
+AS Dimas, S Deutsch, BE Stranger, SB Montgomery, C Borel, H Attar-Cohen, C Ingle, C Beazley, M Gutierrez Arcelus, M Sekowska, M Gagnebin, J Nisbett, P Deloukas, ET Dermitzakis, SE Antonarakis
+
+Studies correlating genetic variation to gene expression facilitate the interpretation of common human phenotypes and disease. As functional variants may be operating in a tissue-dependent manner, we performed gene expression profiling and association with genetic variants (single-nucleotide polymorphisms) on three cell types of 75 individuals. We detected cell type-specific genetic effects, with 69 to 80% of regulatory variants operating in a cell type-specific manner, and identified multiple expressive quantitative trait loci (eQTLs) per gene, unique or shared among cell types and positively correlated with the number of transcripts per gene. Cell type-specific eQTLs were found at larger distances from genes and at lower effect size, similar to known enhancers. These data suggest that the complete regulatory variant repertoire can only be uncovered in the context of cell-type specificity.
+
+-Allelic Imbalance
+-B-Lymphocytes
+-Cell Line
+-Enhancer Elements, Genetic
+-Fibroblasts
+-Gene Expression Profiling
++Gene Expression Regulation
+-Gene Frequency
+-Genotype
+-Humans
++Polymorphism, Single Nucleotide
++Quantitative Trait Loci
+-RNA, Messenger (-genetics; -metabolism)
++Regulatory Elements, Transcriptional
+-Statistics, Nonparametric
+-T-Lymphocytes
+
+pii:1174148
+doi:10.1126/science.1174148
+pubmed:19644074
+mid:UKMS29999
+pmc:PMC2867218
+

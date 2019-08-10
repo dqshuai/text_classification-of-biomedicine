@@ -1,0 +1,23 @@
+Plant Signal Behav
+
+Quantitative proteomics identifies oxidant-induced, AtMPK6-dependent changes in Arabidopsis thaliana protein profiles.
+
+GP Miles, MA Samuel, JA Ranish, SM Donohoe, GM Sperrazzo, BE Ellis
+
+In Arabidopsis thaliana, oxidant-induced signalling has been shown to utilize the mitogen-activated protein kinase (MAPK), AtMPK6. To identify proteins whose accumulation is altered by ozone in an AtMPK6-dependent manner we employed isotope-coded affinity tagging (ICAT) technology to investigate the impact of AtMPK6-suppression on the protein profiles in Arabidopsis both before (air control) and during continuous ozone (O(3)) fumigation (500 nL L(-1) for 8 h). Among the 150 proteins positively identified and quantified in the O(3)-treated plants, we identified thirteen proteins whose abundance was greater in the AtMPK6-suppressed genotype than in wild-type (WT). These include the antioxidant proteins, monodehydroascorbate reductase, peroxiredoxin Q, and glutathione reductase. A further eighteen proteins were identified whose abundance was lower in the ozone-treated AtMPK6-suppressed line relative to ozone-exposed WT plants. These predominantly comprised proteins involved in carbohydrate-, energy-, and amino acid metabolism, and tetrapyrrole biosynthesis. In control plants, five proteins increased, and nine proteins decreased in abundance in the AtMPK6-suppressed genotype compared to that of the WT, reflecting changes in the protein composition of plants that have AtMPK6 constitutively suppressed. Since a number of these proteins are part of the redox response pathway, and loss of AtMPK6 renders Arabidopsis more susceptible to oxidative stress, we propose that AtMPK6 plays a key role in the plant's overall ability to manage oxidative stress.
+
+-Arabidopsis (-genetics; +metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Gene Expression Regulation, Plant
+-Genotype
+-Hydrogen Peroxide (-metabolism)
+-Isotope Labeling
+-Mitogen-Activated Protein Kinases (-genetics; +metabolism)
+-Oxidative Stress
+-Ozone (+metabolism)
+-Proteomics (+methods)
+
+pii:8538
+pubmed:19816138
+pmc:PMC2688295
+

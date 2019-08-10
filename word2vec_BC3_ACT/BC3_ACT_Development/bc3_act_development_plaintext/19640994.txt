@@ -1,0 +1,28 @@
+J. Virol.
+
+The expression of N-terminal deletion DNA pilot proteins inhibits the early stages of phiX174 replication.
+
+MV Ruboyianes, M Chen, MS Dubrava, JE Cherwa, BA Fane
+
+The phiX174 DNA pilot protein H contains four predicted C-terminal coiled-coil domains. The region of the gene encoding these structures was cloned, expressed in vivo, and found to strongly inhibit wild-type replication. DNA and protein synthesis was investigated in the absence of de novo H protein synthesis and in wild-type-infected cells expressing the inhibitory proteins (DeltaH). The expression of the DeltaH proteins interfered with early stages of DNA replication, which did not require de novo H protein synthesis, suggesting that the inhibitory proteins interfere with the wild-type H protein that enters the cell with the penetrating DNA. As transcription and protein synthesis are dependent on DNA replication in positive single-stranded DNA life cycles, viral protein synthesis was also reduced. However, unlike DNA synthesis, efficient viral protein synthesis required de novo H protein synthesis, a novel function for this protein. A single amino acid change in the C terminus of protein H was both necessary and sufficient to confer resistance to the inhibitory DeltaH proteins, restoring both DNA and protein synthesis to wild-type levels. DeltaH proteins derived from the resistant mutant did not inhibit wild-type or resistant mutant replication. The inhibitory effects of the DeltaH proteins were lessened by the coexpression of the internal scaffolding protein, which may suppress H-H protein interactions. While coexpression relieved the block in DNA biosynthesis, viral protein synthesis remained suppressed. These data indicate that protein H's role in DNA replication and stimulating viral protein synthesis can be uncoupled.
+
+-Bacteriophage phi X 174 (+genetics; +physiology)
+-Codon
+-DNA, Viral (-chemistry; -genetics)
+-Escherichia coli (-genetics; -virology)
+-Gene Deletion
++Gene Expression Regulation, Viral
+-Models, Biological
+-Mutation
+-Nuclear Proteins (-metabolism)
+-Plasmids (-metabolism)
+-Protein Structure, Tertiary
+-Recombination, Genetic
+-Viral Proteins (-chemistry)
++Virus Replication
+
+pii:JVI.01077-09
+doi:10.1128/JVI.01077-09
+pubmed:19640994
+pmc:PMC2748053
+

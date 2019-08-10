@@ -1,0 +1,26 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+DNA looping provides stability and robustness to the bacteriophage lambda switch.
+
+MJ Morelli, PR Ten Wolde, RJ Allen
+
+The bistable gene regulatory switch controlling the transition from lysogeny to lysis in bacteriophage lambda presents a unique challenge to quantitative modeling. Despite extensive characterization of this regulatory network, the origin of the extreme stability of the lysogenic state remains unclear. We have constructed a stochastic model for this switch. Using Forward Flux Sampling simulations, we show that this model predicts an extremely low rate of spontaneous prophage induction in a recA mutant, in agreement with experimental observations. In our model, the DNA loop formed by octamerization of CI bound to the O(L) and O(R) operator regions is crucial for stability, allowing the lysogenic state to remain stable even when a large fraction of the total CI is depleted by nonspecific binding to genomic DNA. DNA looping also ensures that the switch is robust to mutations in the order of the O(R) binding sites. Our results suggest that DNA looping can provide a mechanism to maintain a stable lysogenic state in the face of a range of challenges including noisy gene expression, nonspecific DNA binding, and operator site mutations.
+
+-Bacteriophage lambda (+genetics)
+-Binding Sites
+-DNA, Viral (-chemistry; +physiology)
+-Gene Expression Regulation, Viral
++Genes, Switch
++Genomic Instability
+-Lysogeny (-genetics)
+-Models, Genetic
+-Mutation
+-Nucleic Acid Conformation
+-Operator Regions, Genetic
+-Stochastic Processes
+
+pii:0810399106
+doi:10.1073/pnas.0810399106
+pubmed:19416825
+pmc:PMC2686219
+

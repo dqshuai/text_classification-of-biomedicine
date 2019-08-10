@@ -1,0 +1,26 @@
+RNA
+
+RNase J1 endonuclease activity as a probe of RNA secondary structure.
+
+R Daou-Chabo, C Condon
+
+Reliable determination of RNA secondary structure depends on both computer algorithms and experimental probing of nucleotides in single- or double-stranded conformation. Here we describe the exploitation of the endonucleolytic activity of the Bacillus subtilis enzyme RNase J1 as a probe of RNA structure. RNase J1 cleaves in single-stranded regions and, in vitro at least, the enzyme has relatively relaxed nucleotide specificity. We confirmed the feasibility of the approach on an RNA of known structure, B. subtilis tRNA(Thr). We then used RNase J1 to solve the secondary structure of the 5' end of the hbs mRNA. Finally, we showed that RNase J1 can also be used in footprinting experiments by probing the interaction between the 30S ribosomal subunit and the Shine-Dalgarno element of the hbs mRNA.
+
+-Bacillus subtilis (+enzymology; +genetics)
+-Bacterial Proteins (-genetics; -metabolism)
+-Base Sequence
+-DNA Footprinting
+-DNA-Binding Proteins (-genetics; -metabolism)
+-Guanosine Triphosphate (-metabolism)
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-RNA, Bacterial (+chemistry; -genetics; -metabolism)
+-RNA, Transfer (+chemistry; -genetics; -metabolism)
+-Ribonucleases (+genetics; +metabolism)
+-Substrate Specificity
+
+pii:rna.1574309
+doi:10.1261/rna.1574309
+pubmed:19458035
+pmc:PMC2704070
+

@@ -1,0 +1,33 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+SPLUNC1 regulates airway surface liquid volume by protecting ENaC from proteolytic cleavage.
+
+A Garcia-Caballero, JE Rasmussen, E Gaillard, MJ Watson, JC Olsen, SH Donaldson, MJ Stutts, R Tarran
+
+Many epithelia, including the superficial epithelia of the airways, are thought to secrete "volume sensors," which regulate the volume of the mucosal lining fluid. The epithelial Na(+) channel (ENaC) is often the rate limiting factor in fluid absorption, and must be cleaved by extracellular and/or intracellular proteases before it can conduct Na(+) and absorb excess mucosal liquid, a process that can be blocked by proteases inhibitors. In the airways, airway surface liquid dilution or removal activates ENaC. Therefore, we hypothesized that endogenous proteases are membrane-anchored, whereas endogenous proteolysis inhibitors are soluble and can function as airway surface liquid volume sensors to inhibit ENaC activity. Using a proteomic approach, we identified short palate, lung, and nasal epithelial clone (SPLUNC)1 as a candidate volume sensor. Recombinant SPLUNC1 inhibited ENaC activity in both human bronchial epithelial cultures and Xenopus oocytes. Knockdown of SPLUNC1 by shRNA resulted in a failure of bronchial epithelial cultures to regulate ENaC activity and airway surface liquid volume, which was restored by adding recombinant SPLUNC1 to the airway surface liquid. Despite being able to inhibit ENaC, recombinant SPLUNC1 had little effect on extracellular serine protease activity. However, SPLUNC1 specifically bound to ENaC, preventing its cleavage and activation by serine proteases. SPLUNC1 is highly expressed in the airways, as well as in colon and kidney. Thus, we propose that SPLUNC1 is secreted onto mucosal surfaces as a soluble volume sensor whose concentration and dilution can regulate ENaC activity and mucosal volumes, including that of airway surface liquid.
+
+-Animals
+-Cell Polarity
+-Cystic Fibrosis Transmembrane Conductance Regulator (-metabolism)
+-Epithelial Cells (-cytology; -metabolism)
+-Epithelial Sodium Channel (+metabolism)
+-Glycoproteins (+metabolism)
+-Homeostasis
+-Humans
+-Ion Channel Gating
+-Ion Transport
+-Oocytes (-metabolism)
+-Phosphoproteins (+metabolism)
+-Protein Binding
++Protein Processing, Post-Translational
+-Respiratory Mucosa (+physiology)
+-Surface Properties
+-Trypsin (-metabolism)
+-Xenopus
+-Xenopus Proteins (+metabolism)
+
+pii:0903609106
+doi:10.1073/pnas.0903609106
+pubmed:19541605
+pmc:PMC2708735
+

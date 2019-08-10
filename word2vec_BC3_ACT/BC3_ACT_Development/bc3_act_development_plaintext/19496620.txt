@@ -1,0 +1,29 @@
+Biochemistry
+
+A sequential binding mechanism in a PDZ domain.
+
+CN Chi, A Bach, A Engström, H Wang, K Strømgaard, S Gianni, P Jemth
+
+Conformational selection and induced fit are two well-known mechanisms of allosteric protein-ligand interaction. Some proteins, like ubiquitin, have recently been found to exist in multiple conformations at equilibrium, suggesting that the conformational selection may be a general mechanism of interaction, in particular for single-domain proteins. Here, we found that the PDZ2 domain of SAP97 binds its ligand via a sequential (induced fit) mechanism. We performed binding experiments using SAP97 PDZ2 and peptide ligands and observed biphasic kinetics with the stopped-flow technique, indicating that ligand binding involves at least a two-step process. By using an ultrarapid continuous-flow mixer, we then detected a hyperbolic dependence of binding rate constants on peptide concentration, corroborating the two-step binding mechanism. Furthermore, we found a similar dependence of the rate constants on both PDZ and peptide concentration, demonstrating that the PDZ2-peptide interaction involves a precomplex, which then undergoes a conformational change, and thereby follows an induced fit mechanism.
+
+-Adaptor Proteins, Signal Transducing (+chemistry; -genetics; +metabolism)
+-Amino Acid Sequence
+-Binding Sites
+-DNA-Binding Proteins (-genetics)
+-Humans
+-Ligands
+-Membrane Proteins (+chemistry; -genetics; +metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Oncogene Proteins, Viral (-genetics)
++PDZ Domains
+-Peptides (+chemistry; -genetics; +metabolism)
+-Protein Binding
++Protein Conformation
+-Protein Denaturation
+-Protein Folding
+-Thermodynamics
+
+doi:10.1021/bi900559k
+pubmed:19496620
+

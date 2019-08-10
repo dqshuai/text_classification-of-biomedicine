@@ -1,0 +1,27 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+A hyperfused mitochondrial state achieved at G1-S regulates cyclin E buildup and entry into S phase.
+
+K Mitra, C Wunder, B Roysam, G Lin, J Lippincott-Schwartz
+
+Mitochondria undergo fission-fusion events that render these organelles highly dynamic in cells. We report a relationship between mitochondrial form and cell cycle control at the G(1)-S boundary. Mitochondria convert from isolated, fragmented elements into a hyperfused, giant network at G(1)-S transition. The network is electrically continuous and has greater ATP output than mitochondria at any other cell cycle stage. Depolarizing mitochondria at early G(1) to prevent these changes causes cell cycle progression into S phase to be blocked. Inducing mitochondrial hyperfusion by acute inhibition of dynamin-related protein-1 (DRP1) causes quiescent cells maintained without growth factors to begin replicating their DNA and coincides with buildup of cyclin E, the cyclin responsible for G(1)-to-S phase progression. Prolonged or untimely formation of hyperfused mitochondria, through chronic inhibition of DRP1, causes defects in mitotic chromosome alignment and S-phase entry characteristic of cyclin E overexpression. These findings suggest a hyperfused mitochondrial system with specialized properties at G(1)-S is linked to cyclin E buildup for regulation of G(1)-to-S progression.
+
+-Cyclin E (+metabolism)
+-Cyclin-Dependent Kinase Inhibitor p21 (-metabolism)
+-G0 Phase
++G1 Phase
+-GTP Phosphohydrolases (-metabolism)
+-HCT116 Cells
+-Humans
+-Membrane Potential, Mitochondrial
+-Microtubule-Associated Proteins (-metabolism)
+-Mitochondria (+metabolism)
+-Mitochondrial Proteins (-metabolism)
++S Phase
+-Tumor Suppressor Protein p53 (-metabolism)
+
+pii:0904875106
+doi:10.1073/pnas.0904875106
+pubmed:19617534
+pmc:PMC2710990
+

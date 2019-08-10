@@ -1,0 +1,25 @@
+Nature
+
+Architecture and secondary structure of an entire HIV-1 RNA genome.
+
+JM Watts, KK Dang, RJ Gorelick, CW Leonard, JW Bess, R Swanstrom, CL Burch, KM Weeks
+
+Single-stranded RNA viruses encompass broad classes of infectious agents and cause the common cold, cancer, AIDS and other serious health threats. Viral replication is regulated at many levels, including the use of conserved genomic RNA structures. Most potential regulatory elements in viral RNA genomes are uncharacterized. Here we report the structure of an entire HIV-1 genome at single nucleotide resolution using SHAPE, a high-throughput RNA analysis technology. The genome encodes protein structure at two levels. In addition to the correspondence between RNA and protein primary sequences, a correlation exists between high levels of RNA structure and sequences that encode inter-domain loops in HIV proteins. This correlation suggests that RNA structure modulates ribosome elongation to promote native protein folding. Some simple genome elements previously shown to be important, including the ribosomal gag-pol frameshift stem-loop, are components of larger RNA motifs. We also identify organizational principles for unstructured RNA regions, including splice site acceptors and hypervariable regions. These results emphasize that the HIV-1 genome and, potentially, many coding RNAs are punctuated by previously unrecognized regulatory motifs and that extensive RNA structure constitutes an important component of the genetic code.
+
+-Computational Biology
+-Genome, Viral (+genetics)
+-HIV Envelope Protein gp120 (-genetics)
+-HIV-1 (+genetics; -metabolism)
+-Human Immunodeficiency Virus Proteins (-chemistry; -genetics)
++Nucleic Acid Conformation
+-Protein Conformation
+-Protein Folding
+-Protein Sorting Signals (-genetics)
+-RNA, Viral (+chemistry; +genetics)
+
+pii:nature08237
+doi:10.1038/nature08237
+pubmed:19661910
+mid:NIHMS126697
+pmc:PMC2724670
+

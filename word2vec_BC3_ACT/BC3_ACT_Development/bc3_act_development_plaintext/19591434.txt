@@ -1,0 +1,33 @@
+Biochemistry
+
+Biophysical investigation of GpIbalpha binding to thrombin anion binding exosite II.
+
+TM Sabo, MC Maurer
+
+Substrates and cofactors of the serine protease thrombin (IIa) employ two anion binding exosites (ABE-I and -II) to aid in binding. On the surface of platelets resides the GpIbalpha/beta-GpIX-GpV membrane-bound receptor complex. IIa's ABE-II is proposed to interact with an anionic portion of GpIbalpha which enhances IIa cleavage of PAR-1 and subsequent activation of platelets. In this work, one-dimensional (1D) and two-dimensional (2D) NMR, analytical ultracentrifugation (AUC), and hydrogen-deuterium exchange (HDX) coupled with MALDI-TOF MS were performed to further characterize the features of binding to IIa's ABEs. The described work builds upon investigations performed in a prior study with fibrin(ogen)'s gamma' peptide and IIa [Sabo, T. M., Farrell, D. H., and Maurer, M. C. (2006) Biochemistry 45, 7434-7445]. 1D line broadening NMR (1H and 31P) and 2D trNOESY NMR studies indicate that GpIbalpha residues D274-E285 interact extensively with the IIa surface in an extended conformation. AUC demonstrates that both GpIbalpha (269-286) and gamma' (410-427) peptides interact with IIa with a 1:1 stoichiometry. When the HDX results are compared to those for the ABE-I targeting peptide hirudin (54-65), the data imply that GpIbalpha (269-286), GpIbalpha (1-290), and gamma' (410-427) are indeed directed to ABE-II. The ABE-II binding fragments reduce HDX for sites distant from the interface, suggesting long-range conformational effects. These studies illustrate that GpIbalpha and gamma' target ABE-II with similar consequences on IIa dynamics, albeit with differing structural features.
+
+-Animals
++Anions (-chemistry; -metabolism)
+-Binding Sites
+-Cattle
+-Deuterium Exchange Measurement
+-Hirudins (-chemistry; -genetics; -metabolism)
+-Humans
+-Hydrogen-Ion Concentration
+-Membrane Glycoproteins (+chemistry; -genetics; +metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Nuclear Magnetic Resonance, Biomolecular
+-Peptide Fragments (-chemistry; -genetics; -metabolism)
+-Peptides (-chemistry; -metabolism)
+-Protein Binding
++Protein Conformation
+-Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization
+-Structure-Activity Relationship
+-Thrombin (+chemistry; -genetics; +metabolism)
+
+doi:10.1021/bi900745b
+pubmed:19591434
+mid:NIHMS131739
+pmc:PMC2842903
+

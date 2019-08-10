@@ -1,0 +1,32 @@
+Mol. Cell. Biol.
+
+Two GW repeat proteins interact with Tetrahymena thermophila argonaute and promote genome rearrangement.
+
+J Bednenko, T Noto, LV DeSouza, KW Siu, RE Pearlman, K Mochizuki, MA Gorovsky
+
+In conjugating Tetrahymena thermophila, massive DNA elimination occurs upon the development of the new somatic genome from the germ line genome. Small, approximately 28-nucleotide scan RNAs (scnRNAs) and Twi1p, an Argonaute family member, mediate H3K27me3 and H3K9me3 histone H3 modifications, which lead to heterochromatin formation and the excision of the heterochromatinized germ line-limited sequences. In our search for new factors involved in developmental DNA rearrangement, we identified two Twi1p-interacting proteins, Wag1p and CnjBp. Both proteins contain GW (glycine and tryptophan) repeats, which are characteristic of several Argonaute-interacting proteins in other organisms. Wag1p and CnjBp colocalize with Twi1p in the parental macronucleus early in conjugation and in the new developing macronucleus during later developmental stages. Around the time DNA elimination occurs, Wag1p forms multiple nuclear bodies in the developing macronuclei that do not colocalize with heterochromatic DNA elimination structures. Analyses of DeltaWAG1, DeltaCnjB, and double DeltaWAG1 DeltaCnjB knockout strains revealed that WAG1 and CnjB genes need to be deleted together to inhibit the downregulation of specific scnRNAs, the formation of DNA elimination structures, and DNA excision. Thus, Wag1p and CnjBp are two novel players with overlapping functions in RNA interference-mediated genome rearrangement in Tetrahymena.
+
+-Animals
+-Base Sequence
+-Cell Nucleus (-metabolism)
+-DNA, Protozoan (-metabolism)
+-Down-Regulation (-genetics)
+-Gene Knockout Techniques
++Gene Rearrangement
+-Genome, Protozoan (+genetics)
+-Immunoprecipitation
+-Phenotype
+-Protein Binding
+-Protein Transport
+-Protozoan Proteins (+chemistry; -genetics; +metabolism)
+-RNA, Messenger (-genetics; -metabolism)
+-RNA, Small Interfering (-metabolism)
+-RNA, Untranslated (-metabolism)
++Repetitive Sequences, Amino Acid
+-Tetrahymena thermophila (-cytology; +genetics; +metabolism)
+
+pii:MCB.00076-09
+doi:10.1128/MCB.00076-09
+pubmed:19596782
+pmc:PMC2738283
+

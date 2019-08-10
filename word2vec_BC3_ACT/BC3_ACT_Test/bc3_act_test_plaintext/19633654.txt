@@ -1,0 +1,29 @@
+Nat. Biotechnol.
+
+Stabilized gene duplication enables long-term selection-free heterologous pathway expression.
+
+KE Tyo, PK Ajikumar, G Stephanopoulos
+
+Engineering robust microbes for the biotech industry typically requires high-level, genetically stable expression of heterologous genes and pathways. Although plasmids have been used for this task, fundamental issues concerning their genetic stability have not been adequately addressed. Here we describe chemically inducible chromosomal evolution (CIChE), a plasmid-free, high gene copy expression system for engineering Escherichia coli. CIChE uses E. coli recA homologous recombination to evolve a chromosome with approximately 40 consecutive copies of a recombinant pathway. Pathway copy number is stabilized by recA knockout, and the resulting engineered strain requires no selection markers and is unaffected by plasmid instabilities. Comparison of CIChE-engineered strains with equivalent plasmids revealed that CIChE improved genetic stability approximately tenfold and growth phase-specific productivity approximately fourfold for a strain producing the high metabolic burden-biopolymer poly-3-hydroxybutyrate. We also increased the yield of the nutraceutical lycopene by 60%. CIChE should be applicable in many organisms, as it only requires having targeted genomic integration methods and a recA homolog.
+
+-3-Hydroxybutyric Acid (-metabolism)
+-Alleles
+-Anti-Bacterial Agents (-pharmacology)
+-Carotenoids (-metabolism)
+-Chromosomes, Bacterial (-genetics)
+-DNA, Recombinant (-genetics)
+-Directed Molecular Evolution
+-Escherichia coli (+genetics)
+-Gene Dosage (-drug effects)
++Gene Duplication (-drug effects)
++Gene Expression (-drug effects)
+-Genomic Instability (-drug effects)
+-Mutation (-genetics)
+-Plasmids (-genetics)
++Selection, Genetic
+-Time Factors
+
+pii:nbt.1555
+doi:10.1038/nbt.1555
+pubmed:19633654
+

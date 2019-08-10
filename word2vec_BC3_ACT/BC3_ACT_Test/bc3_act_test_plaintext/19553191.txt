@@ -1,0 +1,25 @@
+Nucleic Acids Res.
+
+BRCA2-dependent homologous recombination is required for repair of Arsenite-induced replication lesions in mammalian cells.
+
+S Ying, K Myers, S Bottomley, T Helleday, HE Bryant
+
+Arsenic exposure constitutes one of the most widespread environmental carcinogens, and is associated with increased risk of many different types of cancers. Here we report that arsenite (As[III]) can induce both replication-dependent DNA double-strand breaks (DSB) and homologous recombination (HR) at doses as low as 5 microM (0.65 mg/l), which are within the typical doses often found in drinking water in contaminated areas. We show that the production of DSBs is dependent on active replication and is likely to be the result of conversion of a DNA single-strand break (SSB) into a toxic DSB when encountered by a replication fork. We demonstrate that HR is required for the repair of these breaks and show that a functional HR pathway protects against As[III]-induced cytotoxicity. In addition, BRCA2-deficient cells are sensitive to As[III] and we suggest that As[III] could be exploited as a therapy for HR-deficient tumours such as BRCA1 and BRCA2 mutated breast and ovarian cancers.
+
+-Animals
+-Arsenites (+toxicity)
+-BRCA2 Protein (+metabolism)
+-Carcinogens (+toxicity)
+-Cell Line
+-Cricetinae
+-Cricetulus
++DNA Breaks, Double-Stranded
++DNA Repair
+-DNA Replication
++Recombination, Genetic
+
+pii:gkp538
+doi:10.1093/nar/gkp538
+pubmed:19553191
+pmc:PMC2731915
+

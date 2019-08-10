@@ -1,0 +1,26 @@
+Plant Cell
+
+The heat shock response in moss plants is regulated by specific calcium-permeable channels in the plasma membrane.
+
+Y Saidi, A Finka, M Muriset, Z Bromberg, YG Weiss, FJ Maathuis, P Goloubinoff
+
+Land plants are prone to strong thermal variations and must therefore sense early moderate temperature increments to induce appropriate cellular defenses, such as molecular chaperones, in anticipation of upcoming noxious temperatures. To investigate how plants perceive mild changes in ambient temperature, we monitored in recombinant lines of the moss Physcomitrella patens the activation of a heat-inducible promoter, the integrity of a thermolabile enzyme, and the fluctuations of cytoplasmic calcium. Mild temperature increments, or isothermal treatments with membrane fluidizers or Hsp90 inhibitors, induced a heat shock response (HSR) that critically depended on a preceding Ca(2+) transient through the plasma membrane. Electrophysiological experiments revealed the presence of a Ca(2+)-permeable channel in the plasma membrane that is transiently activated by mild temperature increments or chemical perturbations of membrane fluidity. The amplitude of the Ca(2+) influx during the first minutes of a temperature stress modulated the intensity of the HSR, and Ca(2+) channel blockers prevented HSR and the onset of thermotolerance. Our data suggest that early sensing of mild temperature increments occurs at the plasma membrane of plant cells independently from cytosolic protein unfolding. The heat signal is translated into an effective HSR by way of a specific membrane-regulated Ca(2+) influx, leading to thermotolerance.
+
+-Bryophyta (-genetics; +physiology)
+-Calcium Channels (+metabolism)
++Calcium Signaling
+-Cell Membrane (+metabolism)
+-Electrophysiology
+-Gene Expression Regulation, Plant
+-Heat-Shock Response (+physiology)
+-Hot Temperature
+-Molecular Sequence Data
+-Patch-Clamp Techniques
+-Plants, Genetically Modified (-genetics; -physiology)
+-Stress, Physiological
+
+pii:tpc.108.065318
+doi:10.1105/tpc.108.065318
+pubmed:19773386
+pmc:PMC2768932
+

@@ -1,0 +1,24 @@
+Genome Biol.
+
+Depletion of T-cell intracellular antigen proteins promotes cell proliferation.
+
+R Reyes, J Alcalde, JM Izquierdo
+
+BACKGROUND: T-cell intracellular antigen-1 (TIA-1) and TIA-1 related/like protein (TIAR/TIAL1), two DNA/RNA binding proteins broadly expressed in eukaryotic cells, participate in the regulation of gene expression through RNA metabolism. Despite the biological relevance of these regulators, there are no genome-wide studies assessing global transcriptomic and phenotypic impacts after changes in the expression and/or function of these proteins. RESULTS: Using high-throughput gene expression profiling, we found that the TIA-1/TIAR-depleted cell phenotype is linked to a transcriptome involved in the control of inflammation, cell-cell signaling, immune-suppression, angiogenesis, metabolism and cell proliferation. Induced genes included pro-inflammatory cytokines, inflammatory chemokines, growth-stimulating factors and pro-angiogenic inducers. Repressed genes involved the RAS oncogene family member RAB40B, regulators of cytoskeleton organization and biogenesis and a mitochondrial modulator. Consistent with these observations, depletion of TIA proteins in HeLa cells results in increased cell proliferation, altered cell-cycle and anchorage-independent growth. Mechanistically, the changes associated with the steady-state target mRNA levels regulated by TIA proteins are consistent with overlapping effects on gene basal transcription rate and mRNA turnover. CONCLUSIONS: Collectively, our findings suggest a role for TIA proteins as cellular sensors that modulate gene expression control at the transcriptional and post-transcriptional levels, coupling cell proliferation responses and metabolic homeostasis to cell survival and growth.
+
++Cell Proliferation
+-Chemokines (-genetics)
+-Cytokines (-genetics)
++Gene Expression Profiling
+-Hela Cells
+-Humans
+-Intercellular Signaling Peptides and Proteins (-genetics)
+-Oligonucleotide Array Sequence Analysis
+-Poly(A)-Binding Proteins (-genetics; +metabolism)
+-RNA-Binding Proteins (-genetics; +metabolism)
+
+pii:gb-2009-10-8-r87
+doi:10.1186/gb-2009-10-8-r87
+pubmed:19709424
+pmc:PMC2745768
+

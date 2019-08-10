@@ -1,0 +1,23 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Translesion DNA polymerases are required for spontaneous deletion formation in Salmonella typhimurium.
+
+S Koskiniemi, DI Andersson
+
+How spontaneous deletions form in bacteria is still a partly unresolved problem. Here, we show that deletion formation in Salmonella typhimurium requires the presence of functional translesion polymerases. First, in wild-type bacteria, removal of the known translesion DNA polymerases, PolII (polB), PolIV (dinB), PolV (umuDC), and SamAB (samAB), resulted in a 10-fold decrease in the deletion rate, indicating that 90% of all spontaneous deletions require these polymerases for their formation. Second, overexpression of these polymerases by derepression of the DNA damage-inducible LexA regulon caused a 25-fold increase in deletion rate that depended on the presence of functional translesion polymerases. Third, overexpression of the polymerases PolII and PolIV from a plasmid increased the deletion rate 12- to 30-fold, respectively. Last, in a recBC(-) mutant where dsDNA ends are stabilized due to the lack of the end-processing nuclease RecBC, the deletion rate was increased 20-fold. This increase depended on the translesion polymerases. In lexA(def) mutant cells with constitutive SOS expression, a 10-fold increase in DNA breaks was observed. Inactivation of all 4 translesion polymerases in the lexA(def) mutant reduced the deletion rate 250-fold without any concomitant reduction in the amount of DNA breaks. Mutational inactivation of 3 endonucleases under LexA control reduced the number of DNA breaks to the wild-type level in a lexA(def) mutant with a concomitant 50-fold reduction in deletion rate. These findings suggest that the translesion polymerases are not involved in forming the DNA breaks, but that they require them to stimulate deletion formation.
+
+-Bacterial Proteins (-genetics; -metabolism)
++DNA Breaks
++DNA Repair
+-DNA-Directed DNA Polymerase (-genetics; +metabolism)
+-Rec A Recombinases (-genetics; -metabolism)
+-Regulon
+-Salmonella typhimurium (-enzymology; +genetics)
++Sequence Deletion
+-Serine Endopeptidases (-genetics; -metabolism)
+
+pii:0904389106
+doi:10.1073/pnas.0904389106
+pubmed:19525399
+pmc:PMC2700912
+

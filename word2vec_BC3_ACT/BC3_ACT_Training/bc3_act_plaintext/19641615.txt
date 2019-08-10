@@ -1,0 +1,19 @@
+PLoS ONE
+
+Long-range correlations in rectal temperature fluctuations of healthy infants during maturation.
+
+G Stern, J Beel, B Suki, M Silverman, J Westaway, M Cernelc, D Baldwin, U Frey
+
+BACKGROUND: Control of breathing, heart rate, and body temperature are interdependent in infants, where instabilities in thermoregulation can contribute to apneas or even life-threatening events. Identifying abnormalities in thermoregulation is particularly important in the first 6 months of life, where autonomic regulation undergoes critical development. Fluctuations in body temperature have been shown to be sensitive to maturational stage as well as system failure in critically ill patients. We thus aimed to investigate the existence of fractal-like long-range correlations, indicative of temperature control, in night time rectal temperature (T(rec)) patterns in maturing infants. METHODOLOGY/PRINCIPAL FINDINGS: We measured T(rec) fluctuations in infants every 4 weeks from 4 to 20 weeks of age and before and after immunization. Long-range correlations in the temperature series were quantified by the correlation exponent, alpha using detrended fluctuation analysis. The effects of maturation, room temperature, and immunization on the strength of correlation were investigated. We found that T(rec) fluctuations exhibit fractal long-range correlations with a mean (SD) alpha of 1.51 (0.11), indicating that T(rec) is regulated in a highly correlated and hence deterministic manner. A significant increase in alpha with age from 1.42 (0.07) at 4 weeks to 1.58 (0.04) at 20 weeks reflects a change in long-range correlation behavior with maturation towards a smoother and more deterministic temperature regulation, potentially due to the decrease in surface area to body weight ratio in the maturing infant. alpha was not associated with mean room temperature or influenced by immunization CONCLUSIONS: This study shows that the quantification of long-range correlations using alpha derived from detrended fluctuation analysis is an observer-independent tool which can distinguish developmental stages of night time T(rec) pattern in young infants, reflective of maturation of the autonomic system. Detrended fluctuation analysis may prove useful for characterizing thermoregulation in premature and other infants at risk for life-threatening events.
+
++Body Temperature
+-Humans
+-Infant
+-Infant, Newborn
++Rectum
+-Reference Values
+
+doi:10.1371/journal.pone.0006431
+pubmed:19641615
+pmc:PMC2713399
+

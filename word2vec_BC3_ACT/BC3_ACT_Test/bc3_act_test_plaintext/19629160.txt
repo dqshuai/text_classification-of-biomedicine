@@ -1,0 +1,24 @@
+PLoS Genet.
+
+Coevolution of interacting fertilization proteins.
+
+NL Clark, J Gasper, M Sekino, SA Springer, CF Aquadro, WJ Swanson
+
+Reproductive proteins are among the fastest evolving in the proteome, often due to the consequences of positive selection, and their rapid evolution is frequently attributed to a coevolutionary process between interacting female and male proteins. Such a process could leave characteristic signatures at coevolving genes. One signature of coevolution, predicted by sexual selection theory, is an association of alleles between the two genes. Another predicted signature is a correlation of evolutionary rates during divergence due to compensatory evolution. We studied female-male coevolution in the abalone by resequencing sperm lysin and its interacting egg coat protein, VERL, in populations of two species. As predicted, we found intergenic linkage disequilibrium between lysin and VERL, despite our demonstration that they are not physically linked. This finding supports a central prediction of sexual selection using actual genotypes, that of an association between a male trait and its female preference locus. We also created a novel likelihood method to show that lysin and VERL have experienced correlated rates of evolution. These two signatures of coevolution can provide statistical rigor to hypotheses of coevolution and could be exploited for identifying coevolving proteins a priori. We also present polymorphism-based evidence for positive selection and implicate recent selective events at the specific structural regions of lysin and VERL responsible for their species-specific interaction. Finally, we observed deep subdivision between VERL alleles in one species, which matches a theoretical prediction of sexual conflict. Thus, abalone fertilization proteins illustrate how coevolution can lead to reproductive barriers and potentially drive speciation.
+
+-Animals
+-Egg Proteins (+genetics; -metabolism)
++Evolution, Molecular
+-Female
+-Fertilization
+-Gastropoda (+genetics; -metabolism)
+-Genetic Speciation
+-Male
+-Mucoproteins (+genetics; -metabolism)
+-Polymorphism, Genetic
+-Receptors, Cell Surface (+genetics; -metabolism)
+
+doi:10.1371/journal.pgen.1000570
+pubmed:19629160
+pmc:PMC2704960
+

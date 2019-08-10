@@ -1,0 +1,32 @@
+J. Mol. Biol.
+
+The vapBC operon from Mycobacterium smegmatis is an autoregulated toxin-antitoxin module that controls growth via inhibition of translation.
+
+J Robson, JL McKenzie, R Cursons, GM Cook, VL Arcus
+
+The largest family of bacterial toxin-antitoxin (TA) modules is formed by the vapBC operons, and these are grouped together by virtue of their toxin components belonging to the PilT N-terminal domain family of proteins that are thought to function as ribonucleases. We have identified a single vapBC operon in the genome of Mycobacterium smegmatis and herein report the molecular and biochemical characterisation of this TA module. In M. smegmatis, the vapBC genes are transcribed as a leaderless mRNA that is constitutively synthesised throughout the growth cycle. The vapBC operon is autoregulated by the VapBC protein complex as demonstrated by a threefold increase in vapBC expression (promoter-vapB-lacZ) in a DeltavapBC mutant. Electrophoretic mobility shift assays using purified VapBC protein complex show that the complex binds to inverted repeat DNA sequences in the vapBC promoter region that overlap the -35 and -10 promoter elements, thus explaining the autoregulation and the low-level constitutive expression of this operon in M. smegmatis. Neither a DeltavapBC nor a DeltavapB mutant strain exhibited any phenotypic deviation to that of the isogenic wild-type parent strain under normal laboratory growth conditions, but conditional overexpression of VapC in M. smegmatis inhibited growth by a bacteriostatic mechanism and this phenotype is exacerbated in a DeltavapBC mutant. This effect is mediated through VapC-dependent inhibition of translation, not inhibition of DNA replication or transcription. The growth inhibitory effect of VapC was neutralised when co-expressed with its cognate antitoxin VapB. Western blot analysis revealed the overproduction of VapC under inducing conditions and that the VapC protein is not produced in the DeltavapB mutant despite the presence of mRNA transcript. Taken together, these data demonstrate that VapBC from M. smegmatis has all the hallmarks of a TA module with the capacity to cause growth inhibition by regulating translation.
+
+-Bacterial Proteins (-genetics; +metabolism)
+-Bacterial Toxins (-genetics; +metabolism)
+-Base Sequence
+-Binding Sites
+-DNA, Bacterial (-metabolism)
+-Electrophoretic Mobility Shift Assay
+-Gene Deletion
+-Gene Dosage
++Gene Expression Regulation, Bacterial
+-Gene Order
+-Genes, Bacterial
+-Genetic Complementation Test
+-Growth Inhibitors (-genetics; +metabolism)
+-Molecular Sequence Data
+-Mycobacterium smegmatis (-growth & development; +physiology)
+-Operon
+-Promoter Regions, Genetic
+-Protein Binding
++Protein Biosynthesis
+
+pii:S0022-2836(09)00572-5
+doi:10.1016/j.jmb.2009.05.006
+pubmed:19445953
+

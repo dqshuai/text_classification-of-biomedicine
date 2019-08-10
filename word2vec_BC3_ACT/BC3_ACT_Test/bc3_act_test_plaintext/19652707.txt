@@ -1,0 +1,23 @@
+PLoS ONE
+
+Reverse engineering of the spindle assembly checkpoint.
+
+A Doncic, E Ben-Jacob, S Einav, N Barkai
+
+The Spindle Assembly Checkpoint (SAC) is an intracellular mechanism that ensures proper chromosome segregation. By inhibiting Cdc20, a co-factor of the Anaphase Promoting Complex (APC), the checkpoint arrests the cell cycle until all chromosomes are properly attached to the mitotic spindle. Inhibition of Cdc20 is mediated by a conserved network of interacting proteins. The individual functions of these proteins are well characterized, but understanding of their integrated function is still rudimentary. We here describe our attempts to reverse-engineer the SAC network based on gene deletion phenotypes. We begun by formulating a general model of the SAC which enables us to predict the rate of chromosomal missegregation for any putative set of interactions between the SAC proteins. Next the missegregation rates of seven yeast strains are measured in response to the deletion of one or two checkpoint proteins. Finally, we searched for the set of interactions that correctly predicted the observed missegregation rates of all deletion mutants. Remarkably, although based on only seven phenotypes, the consistent network we obtained successfully reproduces many of the known properties of the SAC. Further insights provided by our analysis are discussed.
+
+-Cell Cycle Proteins (+genetics; -metabolism)
+-Chromosomes, Fungal
+-Gene Deletion
+-Genes, Fungal
++Genetic Engineering
++Mitotic Spindle Apparatus
+-Models, Theoretical
+-Phosphorylation
+-Saccharomyces cerevisiae (-genetics)
+-Saccharomyces cerevisiae Proteins (+genetics; -metabolism)
+
+doi:10.1371/journal.pone.0006495
+pubmed:19652707
+pmc:PMC2714964
+

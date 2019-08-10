@@ -1,0 +1,26 @@
+PLoS Pathog.
+
+Membrane-anchored HIV-1 N-heptad repeat peptides are highly potent cell fusion inhibitors via an altered mode of action.
+
+Y Wexler-Cohen, Y Shai
+
+Peptide inhibitors derived from HIV-gp41 envelope protein play a pivotal role in deciphering the molecular mechanism of HIV-cell fusion. According to accepted models, N-heptad repeat (NHR) peptides can bind two targets in an intermediate fusion conformation, thereby inhibiting progression of the fusion process. In both cases the orientation towards the endogenous intermediate conformation should be important. To test this, we anchored NHR to the cell membrane by conjugating fatty acids with increasing lengths to the N- or C-terminus of N36, as well as to two known N36 mutants; one that cannot bind C-heptad repeat (CHR) but can bind NHR (N36 MUTe,g), and the second cannot bind to either NHR or CHR (N36 MUTa,d). Importantly, the IC(50) increased up to 100-fold in a lipopeptide-dependent manner. However, no preferred directionality was observed for the wild type derived lipopeptides, suggesting a planar orientation of the peptides as well as the endogenous NHR region on the cell membrane. Furthermore, based on: (i) specialized analysis of the inhibition curves, (ii) the finding that N36 conjugates reside more on the target cells that occupy the receptors, and (iii) the finding that N36 MUTe,g acts as a monomer both in its soluble form and when anchored to the cell membrane, we suggest that anchoring N36 to the cell changes the inhibitory mode from a trimer which can target both the endogenous NHR and CHR regions, to mainly monomeric lipopetides that target primarily the internal NHR. Besides shedding light on the mode of action of HIV-cell fusion, the similarity between functional regions in the envelopes of other viruses suggests a new approach for developing potent HIV-1 inhibitors.
+
+-Cell Membrane (-metabolism)
+-Circular Dichroism
+-HIV Envelope Protein gp41 (-chemistry; -genetics; -metabolism; +pharmacology)
+-HIV Fusion Inhibitors (-chemistry; -metabolism; +pharmacology)
+-HIV-1 (-drug effects; -genetics; +physiology)
+-Humans
+-Jurkat Cells
+-Lipopeptides (-metabolism; -pharmacology)
+-Models, Biological
+-Mutation
+-Peptide Fragments (-chemistry; -genetics; -metabolism; +pharmacology)
+-Protein Conformation
+-Virus Physiological Processes
+
+doi:10.1371/journal.ppat.1000509
+pubmed:19593361
+pmc:PMC2699469
+

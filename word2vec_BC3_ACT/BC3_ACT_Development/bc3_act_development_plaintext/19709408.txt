@@ -1,0 +1,32 @@
+Breast Cancer Res.
+
+BRCA1-deficient mammary tumor cells are dependent on EZH2 expression and sensitive to Polycomb Repressive Complex 2-inhibitor 3-deazaneplanocin A.
+
+J Puppe, R Drost, X Liu, SA Joosse, B Evers, P Cornelissen-Steijger, P Nederlof, Q Yu, J Jonkers, M van Lohuizen, AM Pietersen
+
+INTRODUCTION : Treatment of breast cancer is becoming more individualized with the recognition of tumor subgroups that respond differently to available therapies. Breast cancer 1 gene (BRCA1)-deficient tumors are usually of the basal subtype and associated with poor survival rates, highlighting the need for more effective therapy. METHODS : We investigated a mouse model that closely mimics breast cancer arising in BRCA1-mutation carriers to better understand the molecular mechanism of tumor progression and tested whether targeting of the Polycomb-group protein EZH2 would be a putative therapy for BRCA1-deficient tumors. RESULTS : Gene expression analysis demonstrated that EZH2 is overexpressed in BRCA1-deficient mouse mammary tumors. By immunohistochemistry we show that an increase in EZH2 protein levels is also evident in tumors from BRCA1-mutation carriers. EZH2 is responsible for repression of genes driving differentiation and could thus be involved in the undifferentiated phenotype of these tumors. Importantly, we show that BRCA1-deficient cancer cells are selectively dependent on their elevated EZH2 levels. In addition, a chemical inhibitor of EZH2, 3-deazaneplanocin A (DZNep), is about 20-fold more effective in killing BRCA1-deficient cells compared to BRCA1-proficient mammary tumor cells. CONCLUSIONS : We demonstrate by specific knock-down experiments that EZH2 overexpression is functionally relevant in BRCA1-deficient breast cancer cells. The effectiveness of a small molecule inhibitor indicates that EZH2 is a druggable target. The overexpression of EZH2 in all basal-like breast cancers warrants further investigation of the potential for targeting the genetic make-up of this particular breast cancer type.
+
+-Adenosine (+analogs & derivatives; -pharmacology)
+-Animals
+-BRCA1 Protein (+deficiency; -genetics; -physiology)
+-Breast Neoplasms (+genetics; -pathology)
+-Cell Line, Tumor (-drug effects; -metabolism)
+-DNA Repair (-genetics)
+-Drug Delivery Systems
+-Female
+-Gene Knockdown Techniques
++Genes, BRCA1
+-Histone-Lysine N-Methyltransferase (-antagonists & inhibitors; -biosynthesis; -genetics; +physiology)
+-Humans
+-Mice
+-Mutation
+-RNA, Messenger (-biosynthesis)
+-RNA, Neoplasm (-biosynthesis)
+-RNA, Small Interfering (-pharmacology)
+-Recombinant Fusion Proteins (-physiology)
+
+pii:bcr2354
+doi:10.1186/bcr2354
+pubmed:19709408
+pmc:PMC2750125
+

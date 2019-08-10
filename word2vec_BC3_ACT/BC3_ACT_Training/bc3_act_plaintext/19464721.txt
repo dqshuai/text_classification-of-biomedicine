@@ -1,0 +1,34 @@
+Virology
+
+Hepatitis B virus HBx protein localized to the nucleus restores HBx-deficient virus replication in HepG2 cells and in vivo in hydrodynamically-injected mice.
+
+VV Keasler, AJ Hodgson, CR Madden, BL Slagle
+
+Identifying the requirements for the regulatory HBx protein in hepatitis B virus (HBV) replication is an important goal. A plasmid-based HBV replication assay was used to evaluate whether HBx subcellular localization influences its ability to promote virus replication, as measured by real time PCR quantitation of viral capsid-associated DNA. HBx targeted to the nucleus by a nuclear localization signal (NLS-HBx) was able to restore HBx-deficient HBV replication, while HBx containing a nuclear export signal (NES-HBx) was not. Both NLS-HBx and NES-HBx were expressed at similar levels (by immunoprecipitation and Western blotting), and proper localization of the signal sequence-tagged proteins was confirmed by deconvolution microscopy using HBx, NLS-HBx, and NES-HBx proteins fused to GFP. Importantly, these findings were confirmed in vivo by hydrodynamic injection into mice. Our results demonstrate that in these HBV replication assays, at least one function of HBx requires its localization to the nucleus.
+
+-Animals
+-Base Sequence
+-Cell Line
+-Cell Nucleus (-virology)
+-DNA Primers (-genetics)
+-DNA, Viral (-genetics; -metabolism)
+-Female
+-Gene Expression
+-Genes, Viral
+-Genetic Vectors
+-Hepatitis B virus (-genetics; +physiology)
+-Humans
+-Mice
+-Mice, Inbred ICR
+-Nuclear Export Signals (-genetics)
+-Nuclear Localization Signals (-genetics)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Trans-Activators (-genetics; +physiology)
+-Virus Replication (+physiology)
+
+pii:S0042-6822(09)00288-8
+doi:10.1016/j.virol.2009.05.001
+pubmed:19464721
+mid:NIHMS133461
+pmc:PMC2749295
+

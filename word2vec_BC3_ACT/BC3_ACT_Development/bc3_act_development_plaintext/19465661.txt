@@ -1,0 +1,26 @@
+J. Bacteriol.
+
+Expression of Kingella kingae type IV pili is regulated by sigma54, PilS, and PilR.
+
+TE Kehl-Fie, EA Porsch, SE Miller, JW St Geme
+
+Kingella kingae is a member of the Neisseriaceae and is being recognized increasingly as an important cause of serious disease in children. Recent work has demonstrated that K. kingae expresses type IV pili that mediate adherence to respiratory epithelial and synovial cells and are selected against during invasive disease. In the current study, we examined the genome of K. kingae strain 269-492 and identified homologs of the rpoN and the pilS and pilR genes that are essential for pilus expression in Pseudomonas aeruginosa but not in the pathogenic Neisseria species. The disruption of either rpoN or pilR in K. kingae resulted in a marked reduction in the level of transcript for the major pilus subunit (pilA1) and eliminated piliation. In contrast, the disruption of pilS resulted in only partial reduction in the level of pilA1 transcript and a partial decrease in piliation. Furthermore, the disruption of pilS in colony variants with high-density piliation resulted in variants with low-density piliation. Mutations in the promoter region of pilA1 and gel shift analysis demonstrated that both sigma(54) and PilR act directly at the pilA1 promoter, with PilR binding to two repetitive elements. These data suggest that the regulation of K. kingae type IV pilus expression is complex and multilayered, influenced by both the genetic state and environmental cues.
+
+-Bacterial Proteins (-genetics; +physiology)
+-Electrophoretic Mobility Shift Assay
+-Fimbriae Proteins (-genetics; +physiology)
+-Fimbriae, Bacterial (-genetics; +metabolism; -ultrastructure)
+-Gene Expression Regulation, Bacterial (-genetics; -physiology)
+-Kingella kingae (-genetics; +growth & development; +metabolism; -ultrastructure)
+-Microscopy, Electron, Transmission
+-Molecular Sequence Data
+-Promoter Regions, Genetic (-genetics)
+-RNA Polymerase Sigma 54 (-genetics; +physiology)
+-Transcription Factors (-genetics; +physiology)
+-Transcription, Genetic (-genetics)
+
+pii:JB.00123-09
+doi:10.1128/JB.00123-09
+pubmed:19465661
+pmc:PMC2715724
+

@@ -1,0 +1,21 @@
+BMC Mol. Biol.
+
+Elongation factor eEF1B modulates functions of the release factors eRF1 and eRF3 and the efficiency of translation termination in yeast.
+
+IA Valouev, GV Fominov, EE Sokolova, VN Smirnov, MD Ter-Avanesyan
+
+BACKGROUND: Termination of translation in eukaryotes is controlled by two interacting polypeptide chain release factors, eRF1 and eRF3. While eRF1 recognizes nonsense codons, eRF3 facilitates polypeptide chain release from the ribosome in a GTP-dependent manner. Besides termination, both release factors have essential, but poorly characterized functions outside of translation. RESULTS: To characterize further the functions of yeast eRF1 and eRF3, a genetic screen for their novel partner proteins was performed. As a result, the genes for gamma (TEF4 and TEF3/CAM1) and alpha (TEF5/EFB1) subunits of the translation elongation factor eEF1B, known to catalyze the exchange of bound GDP for GTP on eEF1A, were revealed. These genes act as dosage suppressors of a synthetic growth defect caused by some mutations in the SUP45 and SUP35 genes encoding eRF1 and eRF3, respectively. Extra copies of TEF5 and TEF3 can also suppress the temperature sensitivity of some sup45 and sup35 mutants and reduce nonsense codon readthrough caused by these omnipotent suppressors. Besides, overproduction of eEF1Balpha reduces nonsense codon readthrough in the strain carrying suppressor tRNA. Such effects were not shown for extra copies of TEF2, which encodes eEF1A, thus indicating that they were not due to eEF1A activation. CONCLUSION: The data obtained demonstrate involvement of the translation elongation factor eEF1B in modulating the functions of translation termination factors and suggest its possible role in GDP for GTP exchange on eRF3.
+
+-Guanosine Diphosphate (-metabolism)
+-Guanosine Triphosphate (-metabolism)
++Peptide Chain Termination, Translational
+-Peptide Elongation Factor 1 (+metabolism)
+-Peptide Termination Factors (+metabolism)
+-Saccharomyces cerevisiae (-genetics; +metabolism)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+
+pii:1471-2199-10-60
+doi:10.1186/1471-2199-10-60
+pubmed:19545407
+pmc:PMC2705663
+

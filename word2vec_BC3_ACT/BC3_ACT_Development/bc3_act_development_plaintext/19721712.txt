@@ -1,0 +1,28 @@
+PLoS ONE
+
+Nuclear receptor SHP activates miR-206 expression via a cascade dual inhibitory mechanism.
+
+G Song, L Wang
+
+MicroRNAs play a critical role in many essential cellular functions in the mammalian species. However, limited information is available regarding the regulation of miRNAs gene transcription. Microarray profiling and real-time PCR analysis revealed a marked down-regulation of miR-206 in nuclear receptor SHP(-/-) mice. To understand the regulatory function of SHP with regard to miR-206 gene expression, we determined the putative transcriptional initiation site of miR-206 and also its full length primary transcript using a database mining approach and RACE. We identified the transcription factor AP1 binding sites on the miR-206 promoter and further showed that AP1 (c-Jun and c-Fos) induced miR-206 promoter transactivity and expression which was repressed by YY1. ChIP analysis confirmed the physical association of AP1 (c-Jun) and YY1 with the endogenous miR-206 promoter. In addition, we also identified nuclear receptor ERRgamma (NR3B3) binding site on the YY1 promoter and showed that YY1 promoter was transactivated by ERRgamma, which was inhibited by SHP (NROB2). ChIP analysis confirmed the ERRgamma binding to the YY1 promoter. Forced expression of SHP and AP1 induced miR-206 expression while overexpression of ERRgamma and YY1 reduced its expression. The effects of AP1, ERRgamma, and YY1 on miR-206 expression were reversed by siRNA knockdown of each gene, respectively. Thus, we propose a novel cascade "dual inhibitory" mechanism governing miR-206 gene transcription by SHP: SHP inhibition of ERRgamma led to decreased YY1 expression and the de-repression of YY1 on AP1 activity, ultimately leading to the activation of miR-206. This is the first report to elucidate a cascade regulatory mechanism governing miRNAs gene transcription.
+
+-Animals
+-Binding Sites
+-Cell Nucleus (+metabolism)
+-Down-Regulation
+-Gene Expression Profiling
++Gene Expression Regulation, Neoplastic
+-Mice
+-Mice, Transgenic
+-MicroRNAs (+biosynthesis; -physiology)
+-Mutagenesis
+-Oligonucleotide Array Sequence Analysis
+-Promoter Regions, Genetic
+-Protein Tyrosine Phosphatase, Non-Receptor Type 6 (-metabolism; +physiology)
+-Transcription, Genetic
+-Transcriptional Activation
+
+doi:10.1371/journal.pone.0006880
+pubmed:19721712
+pmc:PMC2730526
+

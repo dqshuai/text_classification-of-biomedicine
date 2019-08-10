@@ -1,0 +1,22 @@
+Biochemistry
+
+Base pairing configuration and stability of an oligonucleotide duplex containing a 5-chlorouracil-adenine base pair.
+
+JA Theruvathu, CH Kim, DK Rogstad, JW Neidigh, LC Sowers
+
+Inflammation-mediated reactive molecules can damage DNA by oxidation and chlorination. The biological consequences of this damage are as yet incompletely understood. In this paper, we have constructed oligonucleotides containing 5-chlorouracil (ClU), one of the known inflammation damage products. The thermodynamic stability, base pairing configuration, and duplex conformation of oligonucleotides containing ClU paired opposite adenine have been examined. NMR spectra reveal that the ClU-A base pair adopts a geometry similar to that of the T-A base pair, and the ClU-A base pair-containing duplex adopts a normal B-form conformation. The line width of the imino proton of the ClU residue is substantially greater than that of the corresponding T imino proton; however, this difference is not attributed to a reduced thermal or thermodynamic stability or to an increased level of proton exchange with solvent. While the NMR studies reveal an increased level of chemical exchange for the ClU imino proton of the ClU-A base pair, the ClU residue is not a target for removal by the Escherichia coli mispaired uracil glycosylase, which senses damage-related helix instability. The results of this study are consistent with previous reports indicating that the DNA of replicating cells can tolerate substantial substitution with ClU. The fraudulent, pseudo-Watson-Crick ClU-A base pair is sufficiently stable to avoid glycosylase removal and, therefore, might constitute a persistent form of cellular DNA damage.
+
+-Adenine (+chemistry)
+-Base Pair Mismatch (-genetics)
++Base Pairing (-genetics)
+-Deoxyuridine (-chemistry)
++Nucleic Acid Conformation
+-Nucleic Acid Heteroduplexes (+chemical synthesis; -genetics)
+-Oligonucleotides (+chemical synthesis)
+-RNA Stability (-genetics)
+-Thermodynamics
+-Uracil (+analogs & derivatives; -chemistry)
+
+doi:10.1021/bi9007947
+pubmed:19618901
+

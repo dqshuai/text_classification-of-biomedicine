@@ -1,0 +1,26 @@
+Biochemistry
+
+Site-directed mutagenesis as a probe of the acid-base catalytic mechanism of homoisocitrate dehydrogenase from Saccharomyces cerevisiae.
+
+Y Lin, AH West, PF Cook
+
+Homoisocitrate dehydrogenase (HIcDH) catalyzes the Mg2+- and K+-dependent oxidative decarboxylation of homoisocitrate to alpha-ketoadipate using NAD as the oxidant. A recent consideration of the structures of enzymes in the same family as HIcDH, including isopropylmalate and isocitrate dehydrogenases, suggests all of the family members utilize a Lys-Tyr pair to catalyze the acid-base chemistry of the reaction [Aktas, D. F., and Cook, P. F. (2009) Biochemistry 48, 3565-3577]. Multiple-sequence alignment indicates the active site Lys-Tyr pair consists of lysine 206 and tyrosine 150. Therefore, the K206M and Y150F mutants of HIcDH were prepared and characterized to test the potential roles of these residues as acid-base catalysts. The V/Et values of the K206M and Y150F mutant enzymes at pH 7.5 are decreased by approximately 2400- and approximately 680-fold, respectively, compared to that of wild-type HIcDH; the K(m) for HIc does not change significantly. V/Et and V/K(MgHIc)Et for the K206M mutant enzyme are pH-independent below pH 6 and decrease to a constant value above pH 7, while V/K(NAD)Et is independent over the pH range from 6.2 to 9.5. In the case of the Y150F mutant enzyme, V/Et and V/K(NAD)Et are pH-independent above pH 9.5 and decrease to a constant value below pH 8. This behavior can be compared to that of the wild-type enzyme, where V/Et decreases at high and low pH, giving pKa values of approximately 6.5 and approximately 9.5, respectively. Data were interpreted in terms of a group with a pKa of 6.5 that acts as a general base in the hydride transfer step and a group with a pKa of 9.5 that acts as a general acid to protonate C3 in the tautomerization reaction [Lin, Y., Volkman, J., Nicholas, K. M., Yamamoto, T., Eguchi, T., Nimmo, S. L., West, A. H., and Cook, P. F. (2008) Biochemistry 47, 4169-4180]. Solvent deuterium isotope effects on V and V/K(MgHIc) were near unity for the K206M mutant enzyme but approximately 2.2 for the Y150F mutant enzyme. The dramatic decreases in activity, the measured solvent deuterium isotope effects, and changes in the pH dependence of kinetic parameters compared to that of the wild type are consistent with K206 acting as a general base in the hydride transfer step of the wild-type enzyme but as a general acid in the Y150F mutant enzyme, replacing Y150 in the tautomerization reaction. In addition, Y150 acts as a general acid in the tautomerization reaction of the wild-type enzyme and replaces K206 as the general base in the hydride transfer step of the K206M mutant enzyme.
+
+-Alcohol Oxidoreductases (-chemistry; +genetics; +metabolism)
+-Catalysis
+-Deuterium (-chemistry)
+-Hydrogen-Ion Concentration
+-Lysine (-genetics; -metabolism)
+-Molecular Structure
+-Mutagenesis, Site-Directed
+-Saccharomyces cerevisiae (+enzymology)
+-Saccharomyces cerevisiae Proteins (-chemistry; +genetics; +metabolism)
+-Solvents
+-Tyrosine (-genetics; -metabolism)
+-Viscosity
+
+doi:10.1021/bi900175z
+pubmed:19530703
+mid:NIHMS132617
+pmc:PMC2760458
+

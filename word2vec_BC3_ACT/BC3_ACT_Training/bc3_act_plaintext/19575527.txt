@@ -1,0 +1,26 @@
+Biochemistry
+
+Properties of Arg481 mutants of the aa3-type cytochrome c oxidase from Rhodobacter sphaeroides suggest that neither R481 nor the nearby D-propionate of heme a3 is likely to be the proton loading site of the proton pump.
+
+HJ Lee, L Ojemyr, A Vakkasoglu, P Brzezinski, RB Gennis
+
+Cytochrome c oxidase utilizes the energy from electron transfer and reduction of oxygen to water and pumps protons across the membrane, generating a proton motive force. A large body of biochemical work has shown that all the pumped protons enter the enzyme through the D-channel, which is apparent in X-ray structures as a chain of water molecules connecting D132 at the cytoplasmic surface of the enzyme to E286, near the enzyme active site. The exit pathway utilized by pumped protons beyond this point and leading to the bacterial periplasm is not known. Also not known is the proton loading site (or sites) which undergoes changes in pKa in response to the chemistry at the enzyme active site and drives the proton pump mechanism. In this paper, we examine the role of R481, a highly conserved arginine that forms an ion pair with the D-propionate of heme a3. The R481H, R481N, R481Q, and R481L mutants were examined. The R481H mutant oxidase is approximately 18% active and pumps protons with approximately 40% of the stoichiometry of the wild type. The R481N, R481Q, and R481L mutants each retain only approximately 5% of the steady-state activity, and this is shown to be due to inhibition of steps in the reaction of O(2) with the reduced enzyme. Neither the R481N mutant nor the R481Q mutant oxidases pump protons, but remarkably, the R481L mutant does pump protons with the same efficiency as the R481H mutant. Since the proton pump is clearly operating in the R481L mutant, these results rule out an essential role in the proton pump mechanism for R481 or its hydrogen bond partner, the D-propionate of heme a3.
+
+-Arginine (-genetics; +metabolism)
++Bacterial Proteins (-chemistry; -genetics; -metabolism)
+-Catalytic Domain
+-Electrochemistry
++Electron Transport Complex IV (-chemistry; -genetics; -metabolism)
+-Heme (+analogs & derivatives; -chemistry; -genetics; -metabolism)
+-Mutagenesis, Site-Directed
+-Oxidation-Reduction
++Propionic Acids (-chemistry; -metabolism)
++Proton Pumps (-chemistry; -genetics; -metabolism)
++Rhodobacter sphaeroides (-enzymology; -genetics)
+-Spectroscopy, Fourier Transform Infrared
+
+doi:10.1021/bi901015d
+pubmed:19575527
+mid:NIHMS131731
+pmc:PMC2735617
+

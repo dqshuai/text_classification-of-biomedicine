@@ -1,0 +1,29 @@
+J. Immunol.
+
+CARMA1 controls an early checkpoint in the thymic development of FoxP3+ regulatory T cells.
+
+LL Molinero, J Yang, T Gajewski, C Abraham, MA Farrar, ML Alegre
+
+Natural regulatory T cells (nTregs) that develop in the thymus are essential to limit immune responses and prevent autoimmunity. However, the steps necessary for their thymic development are incompletely understood. The CARMA1/Bcl10/Malt1 (CBM) complex, comprised of adaptors that link the TCR to the transcription factor NF-kappaB, is required for development of regulatory T cells (Tregs) but not conventional T cells. Current models propose that TCR-NF-kappaB is needed in a Treg-extrinsic manner for IL-2 production by conventional T cells or in already precommitted Treg precursors for driving IL-2/STAT5 responsiveness and further maturation into Tregs and/or for promoting cell survival. Using CARMA1-knockout mice, our data show instead that the CBM complex is needed in a Treg-intrinsic rather than -extrinsic manner. Constitutive activity of STAT5 or protection from apoptosis by transgenic expression of Bcl2 in developing Tregs is not sufficient to rescue CARMA1-knockout Treg development. Instead, our results demonstrate that the CBM complex controls an early checkpoint in Treg development by enabling generation of thymic precursors of Tregs. These data suggest a modified model of nTreg development in which TCR-CBM-dependent signals are essential to commit immature thymocytes to the nTreg lineage.
+
+-Adaptor Proteins, Signal Transducing (+metabolism)
+-Animals
+-CARD Signaling Adaptor Proteins (+physiology)
+-Caspases (+metabolism)
++Cell Cycle
++Forkhead Transcription Factors
+-Mice
+-Mice, Knockout
+-Multiprotein Complexes (-immunology)
+-Neoplasm Proteins (+metabolism)
+-Proto-Oncogene Proteins c-bcl-2
+-STAT5 Transcription Factor
+-T-Lymphocytes, Regulatory (+cytology)
+-Thymus Gland (+immunology)
+
+pii:182/11/6736
+doi:10.4049/jimmunol.0900498
+pubmed:19454668
+mid:NIHMS179632
+pmc:PMC2830151
+

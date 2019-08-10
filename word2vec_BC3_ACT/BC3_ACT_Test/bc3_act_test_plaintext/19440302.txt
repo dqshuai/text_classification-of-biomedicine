@@ -1,0 +1,21 @@
+PLoS ONE
+
+Methylobacterium genome sequences: a reference blueprint to investigate microbial metabolism of C1 compounds from natural and industrial sources.
+
+S Vuilleumier, L Chistoserdova, MC Lee, F Bringel, A Lajus, Y Zhou, B Gourion, V Barbe, J Chang, S Cruveiller, C Dossat, W Gillett, C Gruffaz, E Haugen, E Hourcade, R Levy, S Mangenot, E Muller, T Nadalig, M Pagni, C Penny, R Peyraud, DG Robinson, D Roche, Z Rouy, C Saenampechek, G Salvignol, D Vallenet, Z Wu, CJ Marx, JA Vorholt, MV Olson, R Kaul, J Weissenbach, C Médigue, ME Lidstrom
+
+BACKGROUND: Methylotrophy describes the ability of organisms to grow on reduced organic compounds without carbon-carbon bonds. The genomes of two pink-pigmented facultative methylotrophic bacteria of the Alpha-proteobacterial genus Methylobacterium, the reference species Methylobacterium extorquens strain AM1 and the dichloromethane-degrading strain DM4, were compared. METHODOLOGY/PRINCIPAL FINDINGS: The 6.88 Mb genome of strain AM1 comprises a 5.51 Mb chromosome, a 1.26 Mb megaplasmid and three plasmids, while the 6.12 Mb genome of strain DM4 features a 5.94 Mb chromosome and two plasmids. The chromosomes are highly syntenic and share a large majority of genes, while plasmids are mostly strain-specific, with the exception of a 130 kb region of the strain AM1 megaplasmid which is syntenic to a chromosomal region of strain DM4. Both genomes contain large sets of insertion elements, many of them strain-specific, suggesting an important potential for genomic plasticity. Most of the genomic determinants associated with methylotrophy are nearly identical, with two exceptions that illustrate the metabolic and genomic versatility of Methylobacterium. A 126 kb dichloromethane utilization (dcm) gene cluster is essential for the ability of strain DM4 to use DCM as the sole carbon and energy source for growth and is unique to strain DM4. The methylamine utilization (mau) gene cluster is only found in strain AM1, indicating that strain DM4 employs an alternative system for growth with methylamine. The dcm and mau clusters represent two of the chromosomal genomic islands (AM1: 28; DM4: 17) that were defined. The mau cluster is flanked by mobile elements, but the dcm cluster disrupts a gene annotated as chelatase and for which we propose the name "island integration determinant" (iid). CONCLUSION/SIGNIFICANCE: These two genome sequences provide a platform for intra- and interspecies genomic comparisons in the genus Methylobacterium, and for investigations of the adaptive mechanisms which allow bacterial lineages to acquire methylotrophic lifestyles.
+
+-Acyl Coenzyme A (-metabolism)
+-Formaldehyde (-metabolism)
+-Genome, Bacterial (+genetics; -physiology)
+-Methanol (-metabolism)
+-Methylamines (-metabolism)
+-Methylobacterium (+genetics; +metabolism)
+-Models, Biological
+-Models, Genetic
+
+doi:10.1371/journal.pone.0005584
+pubmed:19440302
+pmc:PMC2680597
+

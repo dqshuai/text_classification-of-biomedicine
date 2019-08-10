@@ -1,0 +1,22 @@
+Protein Sci.
+
+Water polygons in high-resolution protein crystal structures.
+
+J Lee, SH Kim
+
+We have analyzed the interstitial water (ISW) structures in 1500 protein crystal structures deposited in the Protein Data Bank that have greater than 1.5 A resolution with less than 90% sequence similarity with each other. We observed varieties of polygonal water structures composed of three to eight water molecules. These polygons may represent the time- and space-averaged structures of "stable" water oligomers present in liquid water, and their presence as well as relative population may be relevant in understanding physical properties of liquid water at a given temperature. On an average, 13% of ISWs are localized enough to be visible by X-ray diffraction. Of those, averages of 78% are water molecules in the first water layer on the protein surface. Of the localized ISWs beyond the first layer, almost half of them form water polygons such as trigons, tetragons, as well as expected pentagons, hexagons, higher polygons, partial dodecahedrons, and disordered networks. Most of the octagons and nanogons are formed by fusion of smaller polygons. The trigons are most commonly observed. We suggest that our observation provides an experimental basis for including these water polygon structures in correlating and predicting various water properties in liquid state.
+
+-Databases, Protein
+-Electrons
+-Hydrogen Bonding
+-Models, Statistical
+-Molecular Conformation
+-Proteins (+chemistry)
+-Software
+-Water (+chemistry)
+-X-Ray Diffraction (+methods)
+
+doi:10.1002/pro.162
+pubmed:19551896
+pmc:PMC2775207
+

@@ -1,0 +1,30 @@
+Genes Dev.
+
+Switching of the core transcription machinery during myogenesis.
+
+MD Deato, R Tjian
+
+Transcriptional mechanisms that govern cellular differentiation typically include sequence-specific DNA-binding proteins and chromatin-modifying activities. These regulatory factors are assumed necessary and sufficient to drive both divergent programs of proliferation and terminal differentiation. By contrast, potential contributions of the basal transcriptional apparatus to orchestrate cell-specific gene expression have been poorly explored. In order to probe alternative mechanisms that control differentiation, we have assessed the fate of the core promoter recognition complex, TFIID, during skeletal myogenesis. Here we report that differentiation of myoblast to myotubes involves the disruption of the canonical holo-TFIID and replacement by a novel TRF3/TAF3 (TBP-related factor 3/TATA-binding protein-associated factor 3) complex. This required switching of core promoter complexes provides organisms a simple yet effective means to selectively turn on one transcriptional program while silencing many others. Although this drastic but parsimonious transcriptional switch had previously escaped our attention, it may represent a more general mechanism for regulating cell type-specific terminal differentiation.
+
+-Animals
++Cell Differentiation
+-Cell Line
++Gene Expression Regulation, Developmental
+-Humans
+-Mice
+-Models, Genetic
+-Muscle Development (+genetics)
+-Muscle Fibers, Skeletal (-metabolism)
+-Muscle, Skeletal (-embryology)
+-Myofibrils (-metabolism)
+-Nuclear Proteins (+physiology)
+-RNA Interference
+-TATA Box Binding Protein-Like Proteins (+physiology)
+-Transcription Factor TFIID (+physiology)
++Transcription, Genetic
+
+pii:gad.1583407
+doi:10.1101/gad.1583407
+pubmed:17704303
+pmc:PMC1950853
+

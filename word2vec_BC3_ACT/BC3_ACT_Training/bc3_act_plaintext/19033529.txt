@@ -1,0 +1,27 @@
+Plant Cell
+
+HAB1-SWI3B interaction reveals a link between abscisic acid signaling and putative SWI/SNF chromatin-remodeling complexes in Arabidopsis.
+
+A Saez, A Rodrigues, J Santiago, S Rubio, PL Rodriguez
+
+Abscisic acid (ABA) has an important role for plant growth, development, and stress adaptation. HYPERSENSITIVE TO ABA1 (HAB1) is a protein phosphatase type 2C that plays a key role as a negative regulator of ABA signaling; however, the molecular details of HAB1 action in this process are not known. A two-hybrid screen revealed that SWI3B, an Arabidopsis thaliana homolog of the yeast SWI3 subunit of SWI/SNF chromatin-remodeling complexes, is a prevalent interacting partner of HAB1. The interaction mapped to the N-terminal half of SWI3B and required an intact protein phosphatase catalytic domain. Bimolecular fluorescence complementation and coimmunoprecipitation assays confirmed the interaction of HAB1 and SWI3B in the nucleus of plant cells. swi3b mutants showed a reduced sensitivity to ABA-mediated inhibition of seed germination and growth and reduced expression of the ABA-responsive genes RAB18 and RD29B. Chromatin immunoprecipitation experiments showed that the presence of HAB1 in the vicinity of RD29B and RAB18 promoters was abolished by ABA, which suggests a direct involvement of HAB1 in the regulation of ABA-induced transcription. Additionally, our results uncover SWI3B as a novel positive regulator of ABA signaling and suggest that HAB1 modulates ABA response through the regulation of a putative SWI/SNF chromatin-remodeling complex.
+
+-Abscisic Acid (+metabolism)
+-Arabidopsis (-genetics; +metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
++Chromatin Assembly and Disassembly
+-Gene Expression Regulation, Plant
+-Germination
+-Mutation
+-Phosphoprotein Phosphatases (-genetics; +metabolism)
+-Plants, Genetically Modified (-genetics; -metabolism)
+-Protein Interaction Mapping
+-RNA, Plant (-genetics)
+-RNA-Binding Proteins (-genetics; +metabolism)
+-Tobacco (-genetics; -metabolism)
+
+pii:tpc.107.056705
+doi:10.1105/tpc.107.056705
+pubmed:19033529
+pmc:PMC2613670
+

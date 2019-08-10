@@ -1,0 +1,22 @@
+Biochemistry
+
+Redox-dependent dynamics of a dual thioredoxin fold protein: evolution of specialized folds.
+
+A Hall, D Parsonage, D Horita, PA Karplus, LB Poole, E Barbar
+
+An enzyme system protecting bacteria from oxidative stress includes the flavoprotein AhpF and the peroxiredoxin AhpC. The N-terminal domain of AhpF (NTD), with two fused thioredoxin (Trx) folds, belongs to the hyperthermophilic protein disulfide oxidoreductase family. The NTD is distinct in that it contains a redox active a fold with a CxxC sequence and a redox inactive b fold that has lost the CxxC motif. Here we characterize the stability, the (15)N backbone relaxation, and the hydrogen-deuterium exchange properties of reduced [NTD-(SH)(2)] and oxidized (NTD-S(2)) NTD from Salmonella typhimurium. While both NTD-(SH)(2) and NTD-S(2) exhibit similar equilibrium unfolding transitions and order parameters, R(ex) relaxation terms are quite distinct with considerably more intermediate time scale motions in NTD-S(2). Hydrogen exchange protection factors show that the slowly exchanging core corresponds to residues in the b fold in both NTD-(SH)(2) and NTD-S(2). Interestingly, folded-state dynamic fluctuations in the catalytic a fold are significantly increased for residues in NTD-S(2) compared to NTD-(SH)(2). Taken together, these data demonstrate that oxidation of the active site disulfide does not significantly increase stability but results in a dramatic increase in conformational heterogeneity in residues primarily in the redox active a fold. Differences in dynamics between the two folds of the NTD suggest that each evolved a specialized function which, in the a fold, couples redox state to internal motions which may enhance catalysis and specificity and, in the b fold, provides a redox insensitive stable core.
+
+-Escherichia coli Proteins (-chemistry; -metabolism)
++Evolution, Molecular
+-Oxidation-Reduction
+-Peroxiredoxins (-chemistry; -metabolism)
+-Protein Denaturation
++Protein Folding
+-Protein Structure, Tertiary
+-Thioredoxins (+chemistry; -metabolism)
+
+doi:10.1021/bi900270w
+pubmed:19459661
+mid:NIHMS125690
+pmc:PMC2744581
+

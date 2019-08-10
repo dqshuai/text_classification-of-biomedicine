@@ -1,0 +1,28 @@
+Biophys. J.
+
+CHARMM-GUI Membrane Builder for mixed bilayers and its application to yeast membranes.
+
+S Jo, JB Lim, JB Klauda, W Im
+
+The CHARMM-GUI Membrane Builder (http://www.charmm-gui.org/input/membrane), an intuitive, straightforward, web-based graphical user interface, was expanded to automate the building process of heterogeneous lipid bilayers, with or without a protein and with support for up to 32 different lipid types. The efficacy of these new features was tested by building and simulating lipid bilayers that resemble yeast membranes, composed of cholesterol, dipalmitoylphosphatidylcholine, dioleoylphosphatidylcholine, palmitoyloleoylphosphatidylethanolamine, palmitoyloleoylphosphatidylamine, and palmitoyloleoylphosphatidylserine. Four membranes with varying concentrations of cholesterol and phospholipids were simulated, for a total of 170 ns at 303.15 K. Unsaturated phospholipid chain concentration had the largest influence on membrane properties, such as average lipid surface area, density profiles, deuterium order parameters, and cholesterol tilt angle. Simulations with a high concentration of unsaturated chains (73%, membrane(unsat)) resulted in a significant increase in lipid surface area and a decrease in deuterium order parameters, compared with membranes with a high concentration of saturated chains (60-63%, membrane(sat)). The average tilt angle of cholesterol with respect to bilayer normal was largest, and the distribution was significantly broader for membrane(unsat). Moreover, short-lived cholesterol orientations parallel to the membrane surface existed only for membrane(unsat). The membrane(sat) simulations were in a liquid-ordered state, and agree with similar experimental cholesterol-containing membranes.
+
+-1,2-Dipalmitoylphosphatidylcholine (-chemistry)
+-Automation
+-Cell Membrane (+chemistry)
+-Cholesterol (-chemistry)
+-Computer Simulation
+-Electrons
+-Lipid Bilayers (+chemistry)
++Models, Biological
+-Models, Molecular
+-Phosphatidylcholines (-chemistry)
+-Phosphatidylethanolamines (-chemistry)
+-Phosphatidylserines (-chemistry)
++Software
+-Yeasts (+chemistry)
+
+pii:S0006-3495(09)00791-7
+doi:10.1016/j.bpj.2009.04.013
+pubmed:19580743
+pmc:PMC2711372
+

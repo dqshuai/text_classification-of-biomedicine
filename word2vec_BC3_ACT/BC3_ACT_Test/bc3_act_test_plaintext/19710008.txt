@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+Two lysine residues in the bacterial luciferase mobile loop stabilize reaction intermediates.
+
+ZT Campbell, TO Baldwin
+
+Bacterial luciferase catalyzes the reaction of FMNH(2), O(2), and a long chain aliphatic aldehyde, yielding FMN, carboxylic acid, and blue-green light. The most conserved contiguous region of the primary sequence corresponds to a crystallographically disordered loop adjacent to the active center (Fisher, A. J., Raushel, F. M., Baldwin, T. O., and Rayment, I. (1995) Biochemistry 34, 6581-6586; Fisher, A. J., Thompson, T. B., Thoden, J. B., Baldwin, T. O., and Rayment, I. (1996) J. Biol. Chem. 271, 21956-21968). Deletion of the mobile loop does not alter the chemistry of the reaction but decreases the total quantum yield of bioluminescence by 2 orders of magnitude (Sparks, J. M., and Baldwin, T. O. (2001) Biochemistry 40, 15436-15443). In this study, we attempt to localize the loss of activity observed in the loop deletion mutant to individual residues in the mobile loop. Using alanine mutagenesis, the effects of substitution at 15 of the 29 mobile loop residues were examined. Nine of the point mutants had reduced activity in vivo. Two mutations, K283A and K286A, resulted in a loss in quantum yield comparable with that of the loop deletion mutant. The bioluminescence emission spectrum of both mutants was normal, and both yielded the carboxylic acid chemical product at the same efficiency as the wild-type enzyme. Substitution of Lys(283) with alanine resulted in destabilization of intermediate II, whereas mutation of Lys(286) had an increase in exposure of reaction intermediates to a dynamic quencher. Based on a model of the enzyme-reduced flavin complex, the two critical lysine residues are adjacent to the quininoidal edge of the isoalloxazine.
+
+-Alanine (-chemistry)
+-Amino Acid Sequence
+-Bacteria (+metabolism)
+-Carboxylic Acids (-chemistry)
+-Escherichia coli (-metabolism)
+-Flavins (-chemistry)
+-Genetic Vectors
+-Luciferases (-metabolism)
+-Lysine (+chemistry)
+-Molecular Sequence Data
+-Mutagenesis
+-Point Mutation
+-Protein Structure, Tertiary
+-Sequence Homology, Amino Acid
+-Vibrio (-metabolism)
+
+pii:M109.031716
+doi:10.1074/jbc.M109.031716
+pubmed:19710008
+pmc:PMC2781699
+

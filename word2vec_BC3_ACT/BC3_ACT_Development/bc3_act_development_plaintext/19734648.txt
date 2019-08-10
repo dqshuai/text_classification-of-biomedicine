@@ -1,0 +1,23 @@
+Biosci. Biotechnol. Biochem.
+
+DNA vector-based RNA interference in cell lines derived from Bombyx mori.
+
+K Fujita, A Sagisaka, K Tomimoto, J Ishibashi, S Imanishi, M Yamakawa, H Tanaka
+
+Gene-knockdown technology using RNA interference (RNAi) is widely used to characterize gene functions in many organisms. In this study, we analyzed the conditions for employing DNA vector-based RNAi in silkworm cell lines using long-hairpin RNA-expressing plasmid DNA. We found that NIAS-Bm-oyanagi2 was the most effective cell line for RNAi. Expression of long-hairpin RNA containing an approximately 500 base-pair stem region suppressed expression of a reporter target gene by more than 99% in this cell line. Furthermore, the loop sequence of hairpin RNA was not as important to RNAi efficiency as previously observed in Drosophila melanogaster. DNA vector-based RNAi also induced significant suppression of endogenous clathrin in NIAS-Bm-oyanagi2. Luciferase activity from recombinant Bombyx mori nucleopolyhedrovirus (BmNPV) containing luciferase in the clathrin-knockdown cells was significantly less than in the control cells, suggesting that clathrin is indispensable for the entry of BmNPV into silkworm cell lines.
+
+-Animals
+-Base Sequence
+-Bombyx (-cytology; +genetics)
+-Cell Line
+-Clathrin (-genetics)
+-DNA (+genetics)
+-DNA Primers
+-Gene Knockdown Techniques
++Genetic Vectors
++RNA Interference
+-Transfection
+
+pii:JST.JSTAGE/bbb/90223
+pubmed:19734648
+

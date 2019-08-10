@@ -1,0 +1,36 @@
+Biochemistry
+
+Structure, dynamics, and activity of an all-cysteine mutated human beta defensin-3 peptide analogue.
+
+KB Chandrababu, B Ho, D Yang
+
+Human beta defensin-3 (HBD-3) is a unique potent antimicrobial peptide. To explore the importance of the three-dimensional structure of HBD-3 in its activity and selectivity, we have mutated all six cysteine residues of HBD-3 to other amino acids, expressed the mutant (named as Def-A) in Escherichia coli, and analyzed the mutant's activity, structure, and dynamics. Def-A is active against several bacterial strains, but the activity is influenced by the ionic strength of the environment. When subjected to vesicles like POPG or to micelles like SDS, Def-A is changed from a random coil structure to an ordered helical form. We have determined the structure of Def-A in SDS micelle and found that it is folded into two distinct helices separated by a proline kink. We propose that the long N-terminal helix with many hydrophobic residues is inserted inside the micelle while the C-terminal helix with one large positive charge patch is located outside the micelle and interacts with the charged head groups of the micelle. The model is supported by NMR relaxation and H-D exchange data. Our results indicate that in addition to the number of positively charged residues and hydrophobic residues, the arrangement of these residues in the three-dimensional space is important to the antimicrobial selectivity and salt-dependent activity of human beta defensins.
+
+-Amino Acid Sequence
++Amino Acid Substitution
+-Bacteria (-drug effects)
+-Calorimetry
+-Cell Proliferation (-drug effects)
+-Cysteine (+genetics)
+-Humans
+-Hydrophobicity
+-Liposomes (-chemistry)
+-Membranes, Artificial
+-Micelles
+-Microbial Sensitivity Tests
+-Models, Molecular
+-Molecular Sequence Data
+-Nuclear Magnetic Resonance, Biomolecular
+-Osmolar Concentration
+-Phosphatidylglycerols (-chemistry)
+-Protein Conformation
+-Protein Structure, Secondary
+-Recombinant Proteins (-chemical synthesis; -chemistry; -isolation & purification)
+-Sodium Dodecyl Sulfate (-chemistry)
+-Surface Properties
+-Thermodynamics
+-beta-Defensins (+chemistry; -genetics; +pharmacology)
+
+doi:10.1021/bi900154f
+pubmed:19480463
+

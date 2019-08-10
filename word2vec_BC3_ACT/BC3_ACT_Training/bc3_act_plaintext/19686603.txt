@@ -1,0 +1,25 @@
+BMC Mol. Biol.
+
+Functional mapping of the fission yeast DNA polymerase delta B-subunit Cdc1 by site-directed and random pentapeptide insertion mutagenesis.
+
+J Sanchez Garcia, AG Baranovskiy, EV Knatko, FC Gray, TH Tahirov, SA MacNeill
+
+BACKGROUND: DNA polymerase delta plays an essential role in chromosomal DNA replication in eukaryotic cells, being responsible for synthesising the bulk of the lagging strand. In fission yeast, Pol delta is a heterotetrameric enzyme comprising four evolutionarily well-conserved proteins: the catalytic subunit Pol3 and three smaller subunits Cdc1, Cdc27 and Cdm1. Pol3 binds directly to the B-subunit, Cdc1, which in turn binds the C-subunit, Cdc27. Human Pol delta comprises the same four subunits, and the crystal structure was recently reported of a complex of human p50 and the N-terminal domain of p66, the human orthologues of Cdc1 and Cdc27, respectively. RESULTS: To gain insights into the structure and function of Cdc1, random and directed mutagenesis techniques were used to create a collection of thirty alleles encoding mutant Cdc1 proteins. Each allele was tested for function in fission yeast and for binding of the altered protein to Pol3 and Cdc27 using the two-hybrid system. Additionally, the locations of the amino acid changes in each protein were mapped onto the three-dimensional structure of human p50. The results obtained from these studies identify amino acid residues and regions within the Cdc1 protein that are essential for interaction with Pol3 and Cdc27 and for in vivo function. Mutations specifically defective in Pol3-Cdc1 interactions allow the identification of a possible Pol3 binding surface on Cdc1. CONCLUSION: In the absence of a three-dimensional structure of the entire Pol delta complex, the results of this study highlight regions in Cdc1 that are vital for protein function in vivo and provide valuable clues to possible protein-protein interaction surfaces on the Cdc1 protein that will be important targets for further study.
+
+-Amino Acid Sequence
+-Binding Sites
+-DNA Polymerase III (-chemistry; +genetics; +metabolism)
+-Humans
+-Molecular Sequence Data
+-Mutagenesis, Insertional
+-Mutagenesis, Site-Directed
+-Protein Binding
+-Protein Subunits (-chemistry; -genetics; -metabolism)
+-Schizosaccharomyces (-chemistry; +genetics; -metabolism)
+-Sequence Alignment
+
+pii:1471-2199-10-82
+doi:10.1186/1471-2199-10-82
+pubmed:19686603
+pmc:PMC2734569
+

@@ -1,0 +1,30 @@
+PLoS Pathog.
+
+NOD2, RIP2 and IRF5 play a critical role in the type I interferon response to Mycobacterium tuberculosis.
+
+AK Pandey, Y Yang, Z Jiang, SM Fortune, F Coulombe, MA Behr, KA Fitzgerald, CM Sassetti, MA Kelliher
+
+While the recognition of microbial infection often occurs at the cell surface via Toll-like receptors, the cytosol of the cell is also under surveillance for microbial products that breach the cell membrane. An important outcome of cytosolic recognition is the induction of IFNalpha and IFNbeta, which are critical mediators of immunity against both bacteria and viruses. Like many intracellular pathogens, a significant fraction of the transcriptional response to Mycobacterium tuberculosis infection depends on these type I interferons, but the recognition pathways responsible remain elusive. In this work, we demonstrate that intraphagosomal M. tuberculosis stimulates the cytosolic Nod2 pathway that responds to bacterial peptidoglycan, and this event requires membrane damage that is actively inflicted by the bacterium. Unexpectedly, this recognition triggers the expression of type I interferons in a Tbk1- and Irf5-dependent manner. This response is only partially impaired by the loss of Irf3 and therefore, differs fundamentally from those stimulated by bacterial DNA, which depend entirely on this transcription factor. This difference appears to result from the unusual peptidoglycan produced by mycobacteria, which we show is a uniquely potent agonist of the Nod2/Rip2/Irf5 pathway. Thus, the Nod2 system is specialized to recognize bacteria that actively perturb host membranes and is remarkably sensitive to mycobacteria, perhaps reflecting the strong evolutionary pressure exerted by these pathogens on the mammalian immune system.
+
+-Acetylmuramyl-Alanyl-Isoglutamine (-metabolism)
+-Animals
+-Bacterial Proteins (-genetics)
+-Cell Line
+-Interferon Regulatory Factor-3 (-immunology; -metabolism)
+-Interferon Regulatory Factors (+immunology; -metabolism)
+-Interferon Type I (-biosynthesis; +immunology; -metabolism)
+-Macrophages (-immunology; -metabolism)
+-Mice
+-Mice, Inbred C57BL
+-Mutation
+-Mycobacterium tuberculosis (-genetics; +immunology)
+-Nod2 Signaling Adaptor Protein (+immunology; -metabolism)
+-Protein-Serine-Threonine Kinases (-immunology; -metabolism)
+-Receptor-Interacting Protein Serine-Threonine Kinases (+immunology; -metabolism)
+-Tuberculosis (+immunology; -metabolism; -microbiology)
+-Ubiquitin (-immunology; -metabolism)
+
+doi:10.1371/journal.ppat.1000500
+pubmed:19578435
+pmc:PMC2698121
+

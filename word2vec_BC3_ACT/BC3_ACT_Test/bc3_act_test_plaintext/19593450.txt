@@ -1,0 +1,19 @@
+PLoS ONE
+
+Identification of global transcriptional dynamics.
+
+EH Yang, RR Almon, DC Dubois, WJ Jusko, IP Androulakis
+
+BACKGROUND: One of the challenges in exploiting high throughput measurement techniques such as microarrays is the conversion of the vast amounts of data obtained into relevant knowledge. Of particular importance is the identification of the intrinsic response of a transcriptional experiment and the characterization of the underlying dynamics. METHODOLOGY AND FINDINGS: The proposed algorithm seeks to provide the researcher a summary as to various aspects relating to the dynamic progression of a biological system, rather than that of individual genes. The approach is based on the identification of smaller number of expression motifs that define the transcriptional state of the system which quantifies the deviation of the cellular response from a control state in the presence of an external perturbation. The approach is demonstrated with a number of data sets including a synthetic base case and four animal studies. The synthetic dataset will be used to establish the response of the algorithm on a "null" dataset, whereas the four different experimental datasets represent a spectrum of possible time course experiments in terms of the degree of perturbation associated with the experiment as well as representing a wide range of temporal sampling strategies. This wide range of experimental datasets will thus allow us to explore the performance of the proposed algorithm and determine its ability identify relevant information. CONCLUSIONS AND SIGNIFICANCE: In this work, we present a computational approach which operates on high throughput temporal gene expression data to assess the information content of the experiment, identify dynamic markers of important processes associated with the experimental perturbation, and summarize in a concise manner the evolution of the system over time with respect to the experimental perturbation.
+
+-Adrenal Cortex Hormones (-administration & dosage)
+-Algorithms
+-Burns (-genetics)
+-Circadian Rhythm
+-Cluster Analysis
++Transcription, Genetic
+
+doi:10.1371/journal.pone.0005992
+pubmed:19593450
+pmc:PMC2705787
+

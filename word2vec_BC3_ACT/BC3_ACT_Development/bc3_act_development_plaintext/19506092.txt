@@ -1,0 +1,32 @@
+Genome Res.
+
+A method for rapid, targeted CNV genotyping identifies rare variants associated with neurocognitive disease.
+
+HC Mefford, GM Cooper, T Zerr, JD Smith, C Baker, N Shafer, EC Thorland, C Skinner, CE Schwartz, DA Nickerson, EE Eichler
+
+Copy-number variants (CNVs) are substantial contributors to human disease. A central challenge in CNV-disease association studies is to characterize the pathogenicity of rare and possibly incompletely penetrant events, which requires the accurate detection of rare CNVs in large numbers of individuals. Cost and throughput issues limit our ability to perform these studies. We have adapted the Illumina BeadXpress SNP genotyping assay and developed an algorithm, SNP-Conditional OUTlier detection (SCOUT), to rapidly and accurately detect both rare and common CNVs in large cohorts. This approach is customizable, cost effective, highly parallelized, and largely automated. We applied this method to screen 69 loci in 1105 children with unexplained intellectual disability, identifying pathogenic variants in 3.1% of these individuals and potentially pathogenic variants in an additional 2.3%. We identified seven individuals (0.7%) with a deletion of 16p11.2, which has been previously associated with autism. Our results widen the phenotypic spectrum of these deletions to include intellectual disability without autism. We also detected 1.65-3.4 Mbp duplications at 16p13.11 in 1.1% of affected individuals and 350 kbp deletions at 15q11.2, near the Prader-Willi/Angelman syndrome critical region, in 0.8% of affected individuals. Compared to published CNVs in controls they are significantly (P = 4.7 x 10(-5) and 0.003, respectively) enriched in these children, supporting previously published hypotheses that they are neurocognitive disease risk factors. More generally, this approach offers a previously unavailable balance between customization, cost, and throughput for analysis of CNVs and should prove valuable for targeted CNV detection in both research and diagnostic settings.
+
+-Algorithms
+-Autistic Disorder (-genetics)
+-Child
+-Chromosomes, Human, Pair 15 (-genetics)
+-Chromosomes, Human, Pair 16 (-genetics)
+-Cognition Disorders (+genetics)
+-Computational Biology (+methods)
+-Gene Deletion
++Gene Dosage
+-Gene Duplication
++Genetic Variation
+-Genome, Human (-genetics)
+-Genotype
+-Humans
+-Mental Retardation (-genetics)
+-Polymorphism, Single Nucleotide (+genetics)
+-Prader-Willi Syndrome (-genetics)
+-Time Factors
+
+pii:gr.094987.109
+doi:10.1101/gr.094987.109
+pubmed:19506092
+pmc:PMC2752120
+

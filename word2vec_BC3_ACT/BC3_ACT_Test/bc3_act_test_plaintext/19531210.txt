@@ -1,0 +1,26 @@
+Genome Biol.
+
+A novel and universal method for microRNA RT-qPCR data normalization.
+
+P Mestdagh, P Van Vlierberghe, A De Weer, D Muth, F Westermann, F Speleman, J Vandesompele
+
+Gene expression analysis of microRNA molecules is becoming increasingly important. In this study we assess the use of the mean expression value of all expressed microRNAs in a given sample as a normalization factor for microRNA real-time quantitative PCR data and compare its performance to the currently adopted approach. We demonstrate that the mean expression value outperforms the current normalization strategy in terms of better reduction of technical variation and more accurate appreciation of biological changes.
+
+-Algorithms
+-Cell Line, Tumor
+-Down-Regulation (-genetics)
+-False Positive Reactions
+-Gene Expression Regulation, Neoplastic
+-Humans
+-MicroRNAs (+genetics)
+-Neuroblastoma (-genetics)
+-Nuclear Proteins (-genetics; -metabolism)
+-Oncogene Proteins (-genetics; -metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction (+methods; +standards)
+-Statistics, Nonparametric
+
+pii:gb-2009-10-6-r64
+doi:10.1186/gb-2009-10-6-r64
+pubmed:19531210
+pmc:PMC2718498
+

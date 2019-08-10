@@ -1,0 +1,18 @@
+J. Am. Chem. Soc.
+
+Permeation of membranes by ribose and its diastereomers.
+
+C Wei, A Pohorille
+
+It was recently found that ribose permeates membranes an order of magnitude faster than its diastereomers arabinose and xylose (Sacerdote, M. G.; Szostak, J. W. Proc. Natl. Acad. Sci. U.S.A. 2005, 102, 6004). On this basis it was hypothesized that differences in membrane permeability to aldopentoses provide a mechanism for preferential delivery of ribose to primitive cells for subsequent selective incorporation into nucleotides and their polymers. However, the origins of these unusually large differences have not been well understood. We address this issue in molecular dynamics simulations combined with free energy calculations. It is found that the free energy of transferring ribose from water to the bilayer is lower by 1.5-2 kcal/mol than the barrier for transferring the other two aldopentoses. The calculated and measured permeability coefficients are in excellent agreement. The sugar structures that permeate the membrane are beta-pyranoses, with a possible contribution of the alpha-anomer for arabinose. The furanoid form of ribose is not substantially involved in permeation, even though it is non-negligibly populated in aqueous solution. The differences in free energy of transfer between ribose and arabinose or xylose are attributed, at least in part, to stronger highly cooperative, intramolecular interactions between consecutive exocyclic hydroxyl groups, which are stable in nonpolar media but rare in water. Water/hexadecane partition coefficients of the sugars obtained from separate molecular dynamics simulations correlate with the calculated permeability coefficients, in qualitative agreement with the Overton rule. The relevance of our calculations to understanding the origins of life is discussed.
+
+-Arabinose (+chemistry)
++Membranes, Artificial
+-Permeability
+-Ribose (+chemistry; +metabolism)
+-Stereoisomerism
+-Xylose (+chemistry)
+
+doi:10.1021/ja902531k
+pubmed:19621967
+

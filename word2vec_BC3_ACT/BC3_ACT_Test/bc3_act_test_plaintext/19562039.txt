@@ -1,0 +1,29 @@
+PLoS ONE
+
+Targeting 160 candidate genes for blood pressure regulation with a genome-wide genotyping array.
+
+S Sõber, E Org, K Kepp, P Juhanson, S Eyheramendy, C Gieger, P Lichtner, N Klopp, G Veldre, M Viigimaa, A Döring, M Putku, P Kelgo, S Shaw-Hawkins, P Howard, A Onipinla, RJ Dobson, SJ Newhouse, M Brown, A Dominiczak, J Connell, N Samani, M Farrall, MJ Caulfield, PB Munroe, T Illig, HE Wichmann, T Meitinger, M Laan
+
+The outcome of Genome-Wide Association Studies (GWAS) has challenged the field of blood pressure (BP) genetics as previous candidate genes have not been among the top loci in these scans. We used Affymetrix 500K genotyping data of KORA S3 cohort (n = 1,644; Southern-Germany) to address (i) SNP coverage in 160 BP candidate genes; (ii) the evidence for associations with BP traits in genome-wide and replication data, and haplotype analysis. In total, 160 gene regions (genic region+/-10 kb) covered 2,411 SNPs across 11.4 Mb. Marker densities in genes varied from 0 (n = 11) to 0.6 SNPs/kb. On average 52.5% of the HAPMAP SNPs per gene were captured. No evidence for association with BP was obtained for 1,449 tested SNPs. Considerable associations (P<10(-3)) were detected for the genes, where >50% of HAPMAP SNPs were tagged. In general, genes with higher marker density (>0.2 SNPs/kb) revealed a better chance to reach close to significance associations. Although, none of the detected P-values remained significant after Bonferroni correction (P<0.05/2319, P<2.15 x 10(-5)), the strength of some detected associations was close to this level: rs10889553 (LEPR) and systolic BP (SBP) (P = 4.5 x 10(-5)) as well as rs10954174 (LEP) and diastolic BP (DBP) (P = 5.20 x 10(-5)). In total, 12 markers in 7 genes (ADRA2A, LEP, LEPR, PTGER3, SLC2A1, SLC4A2, SLC8A1) revealed considerable association (P<10(-3)) either with SBP, DBP, and/or hypertension (HYP). None of these were confirmed in replication samples (KORA S4, HYPEST, BRIGHT). However, supportive evidence for the association of rs10889553 (LEPR) and rs11195419 (ADRA2A) with BP was obtained in meta-analysis across samples stratified either by body mass index, smoking or alcohol consumption. Haplotype analysis highlighted LEPR and PTGER3. In conclusion, the lack of associations in BP candidate genes may be attributed to inadequate marker coverage on the genome-wide arrays, small phenotypic effects of the loci and/or complex interaction with life-style and metabolic parameters.
+
+-Adult
+-Aged
+-Blood Pressure (+genetics)
+-Female
+-Genetic Markers
+-Genome, Human
++Genome-Wide Association Study
+-Genotype
+-Humans
+-Male
+-Middle Aged
+-Models, Genetic
+-Oligonucleotide Array Sequence Analysis
+-Phenotype
+-Polymorphism, Single Nucleotide
+-Risk Factors
+
+doi:10.1371/journal.pone.0006034
+pubmed:19562039
+pmc:PMC2699027
+

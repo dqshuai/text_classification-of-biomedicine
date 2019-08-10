@@ -1,0 +1,24 @@
+Nat. Cell Biol.
+
+Local auxin biosynthesis modulates gradient-directed planar polarity in Arabidopsis.
+
+Y Ikeda, S Men, U Fischer, AN Stepanova, JM Alonso, K Ljung, M Grebe
+
+The coordination of cell polarity within the plane of a single tissue layer (planar polarity) is a crucial task during development of multicellular organisms. Mechanisms underlying establishment of planar polarity, however, differ substantially between plants and animals. In Arabidopsis thaliana, planar polarity of root-hair positioning along epidermal cells is coordinated towards maximum concentration of an auxin gradient in the root tip. This gradient has been hypothesized to be sink-driven and computational modelling suggests that auxin efflux carrier activity may be sufficient to generate the gradient in the absence of auxin biosynthesis in the root. Here, we demonstrate that the Raf-like kinase CONSTITUTIVE TRIPLE RESPONSE1 (CTR1; Refs 8, 9) acts as a concentration-dependent repressor of a biosynthesis-dependent auxin gradient that modulates planar polarity in the root tip. We analysed auxin biosynthesis and concentration gradients in a variety of root-hair-position mutants affected in CTR1 activity, auxin biosynthesis and transport. Our results reveal that planar polarity relies on influx- and efflux-carrier-mediated auxin redistribution from a local biosynthesis maximum. Thus, a local source of auxin biosynthesis contributes to gradient homeostasis during long-range coordination of cellular morphogenesis.
+
+-Animals
++Arabidopsis (-anatomy & histology; -metabolism)
+-Arabidopsis Proteins (-biosynthesis; -genetics; +metabolism)
++Cell Polarity
+-Genes, Reporter
+-Morphogenesis (+physiology)
+-Mutation
+-Plant Roots (-cytology; -growth & development)
+-Plants, Genetically Modified
+-Protein Kinases (-genetics; +metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+
+pii:ncb1879
+doi:10.1038/ncb1879
+pubmed:19448626
+

@@ -1,0 +1,23 @@
+PLoS Comput. Biol.
+
+A mapping of drug space from the viewpoint of small molecule metabolism.
+
+JC Adams, MJ Keiser, L Basuino, HF Chambers, DS Lee, OG Wiest, PC Babbitt
+
+Small molecule drugs target many core metabolic enzymes in humans and pathogens, often mimicking endogenous ligands. The effects may be therapeutic or toxic, but are frequently unexpected. A large-scale mapping of the intersection between drugs and metabolism is needed to better guide drug discovery. To map the intersection between drugs and metabolism, we have grouped drugs and metabolites by their associated targets and enzymes using ligand-based set signatures created to quantify their degree of similarity in chemical space. The results reveal the chemical space that has been explored for metabolic targets, where successful drugs have been found, and what novel territory remains. To aid other researchers in their drug discovery efforts, we have created an online resource of interactive maps linking drugs to metabolism. These maps predict the "effect space" comprising likely target enzymes for each of the 246 MDDR drug classes in humans. The online resource also provides species-specific interactive drug-metabolism maps for each of the 385 model organisms and pathogens in the BioCyc database collection. Chemical similarity links between drugs and metabolites predict potential toxicity, suggest routes of metabolism, and reveal drug polypharmacology. The metabolic maps enable interactive navigation of the vast biological data on potential metabolic drug targets and the drug chemistry currently available to prosecute those targets. Thus, this work provides a large-scale approach to ligand-based prediction of drug action in small molecule metabolism.
+
+-Animals
+-Computational Biology (+methods)
+-Databases, Factual
+-Drug Delivery Systems (+methods)
+-Drug Discovery
+-Enzymes (+metabolism)
+-Humans
+-Metabolic Networks and Pathways
+-Methicillin-Resistant Staphylococcus aureus (-enzymology; -physiology)
+-Pharmaceutical Preparations (+metabolism)
+
+doi:10.1371/journal.pcbi.1000474
+pubmed:19701464
+pmc:PMC2727484
+

@@ -1,0 +1,25 @@
+BMC Bioinformatics
+
+PanGEA: identification of allele specific gene expression using the 454 technology.
+
+R Kofler, T Teixeira Torres, T Lelley, C Schlötterer
+
+BACKGROUND: Next generation sequencing technologies hold great potential for many biological questions. While mainly used for genomic sequencing, they are also very promising for gene expression profiling. Sequencing of cDNA does not only provide an estimate of the absolute expression level, it can also be used for the identification of allele specific gene expression. RESULTS: We developed PanGEA, a tool which enables a fast and user-friendly analysis of allele specific gene expression using the 454 technology. PanGEA allows mapping of 454-ESTs to genes or whole genomes, displaying gene expression profiles, identification of SNPs and the quantification of allele specific gene expression. The intuitive GUI of PanGEA facilitates a flexible and interactive analysis of the data. PanGEA additionally implements a modification of the Smith-Waterman algorithm which deals with incorrect estimates of homopolymer length as occuring in the 454 technology CONCLUSION: To our knowledge, PanGEA is the first tool which facilitates the identification of allele specific gene expression. PanGEA is distributed under the Mozilla Public License and available at: http://www.kofler.or.at/bioinformatics/PanGEA
+
++Alleles
+-Base Sequence
+-Databases, Genetic
+-Expressed Sequence Tags
++Gene Expression
+-Gene Expression Profiling (+methods)
+-Molecular Sequence Data
+-Oligonucleotide Array Sequence Analysis
+-Polymorphism, Single Nucleotide
+-Sequence Analysis, DNA
++Software
+
+pii:1471-2105-10-143
+doi:10.1186/1471-2105-10-143
+pubmed:19442283
+pmc:PMC2693439
+

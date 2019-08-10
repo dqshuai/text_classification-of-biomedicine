@@ -1,0 +1,29 @@
+Methods
+
+Small animal micro-CT colonography.
+
+BY Durkee, JP Weichert, RB Halberg
+
+Microcomputed tomography colonography (mCTC) is a new method for detecting colonic tumors in living animals and estimating their volume, which allows investigators to determine the spontaneous fate of individually annotated tumors as well as their response to chemotherapeutics. This imaging platform was developed using the Min mouse, but is applicable to any murine model of human colorectal cancer. MicroCT is capable of 20 micron resolution, however, 100 microns is sufficient for this application. Scan quality is primarily dependent on animal preparation with the most critical parameters being proper anesthesia, bowel cleansing, and sufficient insufflation. The detection of colonic tumors is possible by both 2D and 3D rendering of image data. Tumor volume is estimated using a semi-automated five-step process which is based on three algorithms within the Amira software package. The estimates are precise, accurate and reproducible enabling changes in volume as small as 16% to be readily observed. Confirmation of mCTC observations by gross examination and histology is sometimes useful in this otherwise non-invasive protocol. Finally, mCTC is compared to other newly developed small animal imaging platforms including microMRI and microoptical colonoscopy. A major advantage of these platforms is that investigators can be perform longitudinal studies, which often have much greater statistical power than traditional cross-sectional studies; consequently, fewer animals are required for testing.
+
+-Animals
+-Antineoplastic Agents (-pharmacology)
+-Automation
+-Colonography, Computed Tomographic (+methods)
+-Colonoscopy (-methods)
+-Colorectal Neoplasms (+diagnosis; +radiography)
+-Contrast Media (-pharmacology)
+-Humans
+-Image Processing, Computer-Assisted (-methods)
+-Magnetic Resonance Imaging (-methods)
+-Mice
+-Reproducibility of Results
+-Software
+-X-Ray Microtomography (+methods)
+
+pii:S1046-2023(09)00181-9
+doi:10.1016/j.ymeth.2009.07.008
+pubmed:19651214
+mid:NIHMS141486
+pmc:PMC2818102
+

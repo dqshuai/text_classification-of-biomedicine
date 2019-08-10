@@ -1,0 +1,27 @@
+Cell Cycle
+
+Origin licensing and p53 status regulate Cdk2 activity during G(1).
+
+KR Nevis, M Cordeiro-Stone, JG Cook
+
+Origins of DNA replication are licensed through the assembly of a chromatin-bound prereplication complex. Multiple regulatory mechanisms block new prereplication complex assembly after the G(1)/S transition to prevent rereplication. The strict inhibition of licensing after the G(1)/S transition means that all origins used in S phase must have been licensed in the preceding G(1). Nevertheless mechanisms that coordinate S phase entry with the completion of origin licensing are still poorly understood. We demonstrate that depletion of either of two essential licensing factors, Cdc6 or Cdt1, in normal human fibroblasts induces a G(1) arrest accompanied by inhibition of cyclin E/Cdk2 activity and hypophosphorylation of Rb. The Cdk2 inhibition is attributed to a reduction in the essential activating phosphorylation of T160 and an associated delay in Cdk2 nuclear accumulation. In contrast, licensing inhibition in the HeLa or U2OS cancer cell lines failed to regulate Cdk2 or Rb phosphorylation, and these cells died by apoptosis. Co-depletion of Cdc6 and p53 in normal cells restored Cdk2 activation and Rb phosphorylation, permitting them to enter S phase with a reduced rate of replication and also to accumulate markers of DNA damage. These results demonstrate dependence on origin licensing for multiple events required for G(1) progression, and suggest a mechanism to prevent premature S phase entry that functions in normal cells but not in p53-deficient cells.
+
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Cell Line, Tumor
+-Cyclin-Dependent Kinase 2 (+metabolism)
++DNA Replication
+-Fibroblasts (-metabolism)
+-G1 Phase (-physiology)
+-Hela Cells
+-Humans
+-Nuclear Proteins (-genetics; +metabolism)
+-Origin Recognition Complex (-genetics; +metabolism)
+-Phosphorylation
++Replication Origin
+-Retinoblastoma Protein (-metabolism)
+-S Phase (-physiology)
+-Tumor Suppressor Protein p53 (-genetics; +metabolism)
+
+pii:8811
+pubmed:19440053
+

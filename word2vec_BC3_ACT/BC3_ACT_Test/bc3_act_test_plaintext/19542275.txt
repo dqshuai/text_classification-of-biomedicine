@@ -1,0 +1,30 @@
+J. Bacteriol.
+
+CtrA, a global response regulator, uses a distinct second category of weak DNA binding sites for cell cycle transcription control in Caulobacter crescentus.
+
+W Spencer, R Siam, MC Ouimet, DP Bastedo, GT Marczynski
+
+CtrA controls cell cycle programs of chromosome replication and genetic transcription. Phosphorylated CtrA approximately P exhibits high affinity (dissociation constant [K(d)], <10 nM) for consensus TTAA-N7-TTAA binding sites with "typical" (N = 7) spacing. We show here that ctrA promoters P1 and P2 use low-affinity (K(d), >500 nM) CtrA binding sites with "atypical" (N not equal 7) spacing. Footprints demonstrated that phosphorylated CtrA approximately P does not exhibit increased affinity for "atypical" sites, as it does for sites in the replication origin. Instead, high levels of CtrA (>10 microM) accumulate, which can drive CtrA binding to "atypical" sites. In vivo cross-linking showed that when the stable CtrADelta3 protein persists during the cell cycle, the "atypical" sites at ctrA and motB are persistently bound. Interestingly, the cell cycle timing of ctrA P1 and P2 transcription is not altered by persistent CtrADelta3 binding. Therefore, operator DNA occupancy is not sufficient for regulation, and it is the cell cycle variation of CtrA approximately P phosphorylation that provides the dominant "activation" signal. Protein dimerization is one potential means of "activation." The glutathione S-transferase (GST) protein dimerizes, and fusion with CtrA (GST-CtrA) creates a stable dimer with enhanced affinity for TTAA motifs. Electrophoretic mobility shift assays with GST-CtrA revealed cooperative modes of binding that further distinguish the "atypical" sites. GST-CtrA also binds a single TTAA motif in ctrA P1 aided by DNA in the extended TTAACCAT motif. We discuss how "atypical" sites are a common yet distinct category of CtrA regulatory sites and new implications for the working and evolution of cell cycle control networks.
+
+-Bacterial Proteins (+metabolism)
+-Base Sequence
+-Binding Sites
+-Caulobacter crescentus (+physiology)
++Cell Cycle
+-DNA Footprinting
+-DNA, Bacterial (+metabolism)
+-DNA-Binding Proteins (+metabolism)
+-Dimerization
++Gene Expression Regulation, Bacterial
+-Models, Biological
+-Molecular Sequence Data
+-Phosphorylation
+-Protein Binding
+-Transcription Factors (+metabolism)
++Transcription, Genetic
+
+pii:JB.00355-09
+doi:10.1128/JB.00355-09
+pubmed:19542275
+pmc:PMC2725627
+

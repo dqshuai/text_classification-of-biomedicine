@@ -1,0 +1,28 @@
+PLoS ONE
+
+Origin of saxitoxin biosynthetic genes in cyanobacteria.
+
+A Moustafa, JE Loram, JD Hackett, DM Anderson, FG Plumley, D Bhattacharya
+
+BACKGROUND: Paralytic shellfish poisoning (PSP) is a potentially fatal syndrome associated with the consumption of shellfish that have accumulated saxitoxin (STX). STX is produced by microscopic marine dinoflagellate algae. Little is known about the origin and spread of saxitoxin genes in these under-studied eukaryotes. Fortuitously, some freshwater cyanobacteria also produce STX, providing an ideal model for studying its biosynthesis. Here we focus on saxitoxin-producing cyanobacteria and their non-toxic sisters to elucidate the origin of genes involved in the putative STX biosynthetic pathway. METHODOLOGY/PRINCIPAL FINDINGS: We generated a draft genome assembly of the saxitoxin-producing (STX+) cyanobacterium Anabaena circinalis ACBU02 and searched for 26 candidate saxitoxin-genes (named sxtA to sxtZ) that were recently identified in the toxic strain Cylindrospermopsis raciborskii T3. We also generated a draft assembly of the non-toxic (STX-) sister Anabaena circinalis ACFR02 to aid the identification of saxitoxin-specific genes. Comparative phylogenomic analyses revealed that nine putative STX genes were horizontally transferred from non-cyanobacterial sources, whereas one key gene (sxtA) originated in STX+ cyanobacteria via two independent horizontal transfers followed by fusion. In total, of the 26 candidate saxitoxin-genes, 13 are of cyanobacterial provenance and are monophyletic among the STX+ taxa, four are shared amongst STX+ and STX-cyanobacteria, and the remaining nine genes are specific to STX+ cyanobacteria. CONCLUSIONS/SIGNIFICANCE: Our results provide evidence that the assembly of STX genes in ACBU02 involved multiple HGT events from different sources followed presumably by coordination of the expression of foreign and native genes in the common ancestor of STX+ cyanobacteria. The ability to produce saxitoxin was subsequently lost multiple independent times resulting in a nested relationship of STX+ and STX- strains among Anabaena circinalis strains.
+
+-Anabaena (+metabolism)
+-Animals
+-Cyanobacteria (-genetics; +metabolism)
+-Genome
+-Genome, Bacterial
+-Genomics
+-Likelihood Functions
+-Marine Toxins (-metabolism)
+-Models, Biological
+-Models, Genetic
+-Nucleic Acid Conformation
+-Phylogeny
+-RNA, Ribosomal, 16S (-metabolism)
+-Saxitoxin (+chemistry)
+-Symbiosis
+
+doi:10.1371/journal.pone.0005758
+pubmed:19484122
+pmc:PMC2684587
+

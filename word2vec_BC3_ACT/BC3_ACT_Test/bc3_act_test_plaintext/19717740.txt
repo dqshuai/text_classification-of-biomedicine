@@ -1,0 +1,29 @@
+Eukaryotic Cell
+
+Goa1p of Candida albicans localizes to the mitochondria during stress and is required for mitochondrial function and virulence.
+
+A Bambach, MP Fernandes, A Ghosh, M Kruppa, D Alex, D Li, WA Fonzi, N Chauhan, N Sun, OA Agrellos, AE Vercesi, RJ Rolfes, R Calderone
+
+Using a Tn7 transposon library of Candida albicans, we have identified a mutant that exhibited sensitivity in drop plate assays to oxidants such as menadione and hydrogen peroxide. To verify the role of the mutated gene in stress adaptation, null mutants were constructed and phenotypically characterized. Because of its apparent functions in growth and oxidant adaptation, we have named the gene GOA1. Goa1p appears to be unique to the CTG subclade of the Saccharomycotina, including C. albicans. Mutants of C. albicans lacking goa1 (strain GOA31) were more sensitive to 6 mM H(2)O(2) and 0.125 mM menadione than the wild type (wt) or a gene-reconstituted (GOA32) strain. The sensitivity to oxidants correlated with reduced survival of the GOA31 mutant in human neutrophils and avirulence compared to control strains. Other phenotypes of GOA31 include reduced growth and filamentation in 10% serum, Spider, and SLAD agar media and an inability to form chlamydospores. Since Goa1p has an N-terminal mitochondrion localization site, we also show that green fluorescent protein-tagged Goa1p shows a mitochondrionlike distribution during oxidant or osmotic stress. Further, the inability of GOA31 to grow in medium containing lactate, ethanol, or glycerol as the sole carbon source indicates that the mitochondria are defective in the mutant. To determine how Goa1p contributes to mitochondrial function, we compared the wt, GOA32, and GOA31 strains for mitochondrial electrical membrane potential, respiration, and oxidative phosphorylation. We now show that GOA31, but not the wt or GOA32, had decreased respiration and mitochondrial membrane potential such that mutant cells are unable to drive oxidative phosphorylation. This is the first report in C. albicans of a respiratory defect caused by a loss of mitochondrial membrane potential.
+
+-Animals
+-Candida albicans (-genetics; +pathogenicity; +physiology)
+-Candidiasis (-immunology; +microbiology)
+-Cells, Cultured
+-Female
+-Fungal Proteins (-genetics; +metabolism)
+-Humans
+-Membrane Potential, Mitochondrial
+-Mice
+-Mice, Inbred BALB C
+-Mitochondria (-genetics; +metabolism)
+-Neutrophils (-immunology; -microbiology)
+-Protein Transport
+-Stress, Physiological
+-Virulence
+
+pii:EC.00066-09
+doi:10.1128/EC.00066-09
+pubmed:19717740
+pmc:PMC2772395
+

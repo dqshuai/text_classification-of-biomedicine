@@ -1,0 +1,12 @@
+J. Am. Chem. Soc.
+
+Broadband "infinite-speed" magic-angle spinning NMR spectroscopy.
+
+YY Hu, EM Levin, K Schmidt-Rohr
+
+High-resolution magic-angle spinning NMR of high-Z spin-1/2 nuclei such as (125)Te, (207)Pb, (119)Sn, (113)Cd, and (195)Pt is often hampered by large (>1000 ppm) chemical-shift anisotropies, which result in strong spinning sidebands that can obscure the centerbands of interest. In various tellurides with applications as thermoelectrics and as phase-change materials for data storage, even 22-kHz magic-angle spinning cannot resolve the center- and sidebands broadened by chemical-shift dispersion, which precludes peak identification or quantification. For sideband suppression over the necessary wide spectral range (up to 200 kHz), radio frequency pulse sequences with few, short pulses are required. We have identified Gan's two-dimensional magic-angle-turning (MAT) experiment with five 90 degrees pulses as a promising broadband technique for obtaining spectra without sidebands. We have adapted it to broad spectra and fast magic-angle spinning by accounting for long pulses (comparable to the dwell time in t(1)) and short rotation periods. Spectral distortions are small and residual sidebands negligible even for spectra with signals covering a range of 1.5 gammaB(1), due to a favorable disposition of the narrow ranges containing the signals of interest in the spectral plane. The method is demonstrated on various technologically interesting tellurides with spectra spanning up to 170 kHz, at 22 kHz MAS.
+
+
+doi:10.1021/ja903334p
+pubmed:19489580
+

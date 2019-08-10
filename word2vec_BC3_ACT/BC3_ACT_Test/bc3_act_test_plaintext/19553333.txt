@@ -1,0 +1,30 @@
+J. Virol.
+
+Site-specific phosphorylation regulates human T-cell leukemia virus type 2 Rex function in vivo.
+
+M Kesic, M Ward, OJ Semmes, PL Green
+
+Human T-cell leukemia virus type 2 (HTLV-2) Rex is a transacting regulatory protein required for efficient cytoplasmic expression of the unspliced and incompletely spliced viral mRNA transcripts encoding the structural and enzymatic proteins. Previously, it was demonstrated that phosphorylation of Rex-2, predominantly on serine residues, is correlated with an altered conformation, as observed by a gel mobility shift and the detection of two related protein species (p24(Rex) and p26(Rex)). Rex-2 phosphorylation is required for specific binding to its viral-mRNA target sequence and inhibition of mRNA splicing and may be linked to subcellular compartmentalization. Thus, the phosphorylation-induced structural state of Rex in the infected cell may be a switch that determines whether HTLV exists in a latent or productive state. We conducted a phosphoryl and functional mapping of both structural forms of mammalian-cell-expressed Rex 2 using affinity purification, liquid chromatography-tandem mass spectrometry, and site-directed substitutional mutational analysis. We identified two phosphorylation sites in p24(Rex) at Ser-117 and Thr-164. We also identified six phosphorylation sites in p26(Rex) at Thr-19, Ser-117, Ser-125, Ser-151, Ser-153, and Thr-164. We evaluated the functional significance of these phosphorylation events and found that phosphorylation on Thr-164, Ser-151, and Ser-153 is critical for Rex-2 function in vivo and that phosphorylation of Ser-151 is correlated with nuclear/nucleolar subcellular localization. Overall, this work is the first to completely map the phosphorylation sites in Rex-2 and provides important insight into the phosphorylation continuum that tightly regulates Rex-2 structure, cellular localization, and function.
+
+-Amino Acid Sequence
+-Cell Nucleus (-chemistry)
+-Chromatography, Affinity
+-Cytoplasm (-chemistry)
++Gene Expression Regulation, Viral
+-Gene Products, rex (-genetics; -isolation & purification; +metabolism)
+-Human T-lymphotropic virus 2 (+physiology)
+-Humans
+-Models, Biological
+-Models, Molecular
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Phosphorylation
+-Serine (-metabolism)
+-Tandem Mass Spectrometry
+-Threonine (-metabolism)
+
+pii:JVI.00908-09
+doi:10.1128/JVI.00908-09
+pubmed:19553333
+pmc:PMC2738208
+

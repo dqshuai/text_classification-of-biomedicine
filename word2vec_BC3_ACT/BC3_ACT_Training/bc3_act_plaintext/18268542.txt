@@ -1,0 +1,28 @@
+Cell Res.
+
+FIT interacts with AtbHLH38 and AtbHLH39 in regulating iron uptake gene expression for iron homeostasis in Arabidopsis.
+
+Y Yuan, H Wu, N Wang, J Li, W Zhao, J Du, D Wang, HQ Ling
+
+Iron is an essential element for plant growth and development. Iron homeostasis in plants is tightly regulated at both transcriptional and posttranscriptional level. Several bHLH transcription factors involved in iron homeostasis have been identified recently. However, their regulatory mechanisms remain unknown. In this work, we demonstrate that the transcription factor FIT interacted with AtbHLH38 and AtbHLH39 and directly conferred the expression regulation of iron uptake genes for iron homeostasis in Arabidopsis. Yeast two-hybrid analysis and transient expression in Arabidopsis protoplasts showed that AtbHLH38 or AtbHLH39 interacted with FIT, a central transcription factor involved in iron homeostasis in Arabidopsis. Expression of FIT/AtbHLH38 or FIT/AtbHLH39 in yeast cells activated GUS expression driven by ferric chelate reductase (FRO2) and ferrous transporter (IRT1) promoters. Overexpression of FIT with either AtbHLH38 or AtbHLH39 in plants converted the expression of the iron uptake genes FRO2 and IRT1 from induced to constitutive. Further analysis revealed that FRO2 and IRT1 were not regulated at the posttranscriptional level in these plants because IRT1 protein accumulation and high ferric chelate reductase activity were detected in the overexpression plants under both iron deficiency and iron sufficiency. The double overexpression plants accumulated more iron in their shoots than wild type or the plants overexpressing either AtbHLH38, AtbHLH39 or FIT. Our data support that ferric-chelate reductase FRO2 and ferrous-transporter IRT1 are the targets of the three transcription factors and the transcription of FRO2 and IRT1 is directly regulated by a complex of FIT/AtbHLH38 or FIT/AtbHLH39.
+
+-Arabidopsis (-genetics; +metabolism)
+-Arabidopsis Proteins (-biosynthesis; -genetics; +metabolism)
+-Basic Helix-Loop-Helix Transcription Factors (-genetics; +metabolism)
+-Biological Transport (-physiology)
+-Cation Transport Proteins (-biosynthesis; -genetics)
+-FMN Reductase (-biosynthesis; -genetics)
+-Gene Expression Regulation, Plant (+physiology)
+-Homeostasis (+physiology)
+-Iron (+metabolism)
+-Plant Shoots (-genetics; -metabolism)
+-Promoter Regions, Genetic (-physiology)
+-Protoplasts (-metabolism)
+-Saccharomyces cerevisiae
+-Transcription, Genetic (+physiology)
+-Two-Hybrid System Techniques
+
+pii:cr200826
+doi:10.1038/cr.2008.26
+pubmed:18268542
+

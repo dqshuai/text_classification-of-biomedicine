@@ -1,0 +1,28 @@
+PLoS ONE
+
+Strain-induced alignment in collagen gels.
+
+D Vader, A Kabla, D Weitz, L Mahadevan
+
+Collagen is the most abundant extracellular-network-forming protein in animal biology and is important in both natural and artificial tissues, where it serves as a material of great mechanical versatility. This versatility arises from its almost unique ability to remodel under applied loads into anisotropic and inhomogeneous structures. To explore the origins of this property, we develop a set of analysis tools and a novel experimental setup that probes the mechanical response of fibrous networks in a geometry that mimics a typical deformation profile imposed by cells in vivo. We observe strong fiber alignment and densification as a function of applied strain for both uncrosslinked and crosslinked collagenous networks. This alignment is found to be irreversibly imprinted in uncrosslinked collagen networks, suggesting a simple mechanism for tissue organization at the microscale. However, crosslinked networks display similar fiber alignment and the same geometrical properties as uncrosslinked gels, but with full reversibility. Plasticity is therefore not required to align fibers. On the contrary, our data show that this effect is part of the fundamental non-linear properties of fibrous biological networks.
+
+-Biophysics (-methods)
+-Cell Line, Tumor
+-Collagen (-chemistry; +metabolism)
+-Computational Biology (-methods)
+-Cross-Linking Reagents
+-Extracellular Matrix (-metabolism)
+-Gels
+-Humans
+-Image Processing, Computer-Assisted
+-Microscopy, Confocal (-methods)
+-Models, Biological
+-Models, Statistical
+-Polymers (-chemistry)
+-Rheology
+-Species Specificity
+
+doi:10.1371/journal.pone.0005902
+pubmed:19529768
+pmc:PMC2691583
+

@@ -1,0 +1,26 @@
+Nucleic Acids Res.
+
+Transcriptome analysis by strand-specific sequencing of complementary DNA.
+
+D Parkhomchuk, T Borodina, V Amstislavskiy, M Banaru, L Hallen, S Krobitsch, H Lehrach, A Soldatov
+
+High-throughput complementary DNA sequencing (RNA-Seq) is a powerful tool for whole-transcriptome analysis, supplying information about a transcript's expression level and structure. However, it is difficult to determine the polarity of transcripts, and therefore identify which strand is transcribed. Here, we present a simple cDNA sequencing protocol that preserves information about a transcript's direction. Using Saccharomyces cerevisiae and mouse brain transcriptomes as models, we demonstrate that knowing the transcript's orientation allows more accurate determination of the structure and expression of genes. It also helps to identify new genes and enables studying promoter-associated and antisense transcription. The transcriptional landscapes we obtained are available online.
+
+-Animals
+-DNA, Complementary (+chemistry)
+-Deoxyuracil Nucleotides (-metabolism)
++Gene Expression Profiling
+-Genes, Fungal
+-Mice
+-Promoter Regions, Genetic
+-RNA, Antisense (-biosynthesis)
+-Reproducibility of Results
+-Saccharomyces cerevisiae (-genetics; -metabolism)
+-Sequence Analysis, DNA (+methods)
+-Transcription, Genetic
+
+pii:gkp596
+doi:10.1093/nar/gkp596
+pubmed:19620212
+pmc:PMC2764448
+

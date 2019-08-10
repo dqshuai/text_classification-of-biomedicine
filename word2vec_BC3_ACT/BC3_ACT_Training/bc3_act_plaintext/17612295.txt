@@ -1,0 +1,19 @@
+BioTechniques
+
+Yeast split-ubiquitin-based cytosolic screening system to detect interactions between transcriptionally active proteins.
+
+N Möckli, A Deplazes, PO Hassa, Z Zhang, M Peter, MO Hottiger, I Stagljar, D Auerbach
+
+Interactions between proteins are central to most biological processes; consequently, understanding the latter requires identification of all possible protein interactions within a cell. To extend the range of existing assays for the detection of protein interactions, we present a novel genetic screening assay, the cytosolic yeast two-hybrid system (cytoY2H), which is based on the split-ubiquitin technique and detects protein-protein interactions in the cytoplasm. We show that the assay can be applied to a wide range of proteins that are difficult to study in the classical yeast two-hybrid (Y2H) system, including transcription factors such as p53 and members of the NF-kappaB complex. Furthermore, we applied the cytoY2H system to cDNA library screening and identified several new interaction partners of Uri1p, an uncharacterized yeast protein. The cytoY2H system extends existing methods for the detection of protein interactions by providing a convenient solution for screening a wide range of transcriptionally active proteins.
+
+-Cytosol (+metabolism)
++Genetic Testing
+-Saccharomyces cerevisiae (-chemistry; +metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Transcription, Genetic
+-Two-Hybrid System Techniques
+-Ubiquitin (+metabolism)
+
+pii:000112455
+pubmed:17612295
+

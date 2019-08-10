@@ -1,0 +1,19 @@
+Nucleic Acids Res.
+
+PhyloPars: estimation of missing parameter values using phylogeny.
+
+J Bruggeman, J Heringa, BW Brandt
+
+A wealth of information on metabolic parameters of a species can be inferred from observations on species that are phylogenetically related. Phylogeny-based information can complement direct empirical evidence, and is particularly valuable if experiments on the species of interest are not feasible. The PhyloPars web server provides a statistically consistent method that combines an incomplete set of empirical observations with the species phylogeny to produce a complete set of parameter estimates for all species. It builds upon a state-of-the-art evolutionary model, extended with the ability to handle missing data. The resulting approach makes optimal use of all available information to produce estimates that can be an order of magnitude more accurate than ad-hoc alternatives. Uploading a phylogeny and incomplete feature matrix suffices to obtain estimates of all missing values, along with a measure of certainty. Real-time cross-validation provides further insight in the accuracy and bias expected for estimated values. The server allows for easy, efficient estimation of metabolic parameters, which can benefit a wide range of fields including systems biology and ecology. PhyloPars is available at: http://www.ibi.vu.nl/programs/phylopars/.
+
+-Internet
+-Phenotype
++Phylogeny
+-Phytoplankton (-classification; -genetics)
++Software
+
+pii:gkp370
+doi:10.1093/nar/gkp370
+pubmed:19443453
+pmc:PMC2703881
+

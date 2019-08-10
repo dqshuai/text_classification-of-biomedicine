@@ -1,0 +1,24 @@
+J. Med. Chem.
+
+Structure-based discovery of triphenylmethane derivatives as inhibitors of hepatitis C virus helicase.
+
+CS Chen, CT Chiou, GS Chen, SC Chen, CY Hu, WK Chi, YD Chu, LH Hwang, PJ Chen, DS Chen, SH Liaw, JW Chern
+
+Hepatitis C virus nonstructural protein 3 (HCV NS3) helicase is believed to be essential for viral replication and has become an attractive target for the development of antiviral drugs. A fluorescence resonant energy transfer helicase assay was established for fast screening of putative inhibitors selected from virtual screening using the program DOCK. Soluble blue HT (1) was first identified as a novel HCV helicase inhibitor. Crystal structure of the NS3 helicase in complex with soluble blue HT shows that the inhibitor bears a significantly higher binding affinity mainly through a 4-sulfonatophenylaminophenyl group, and this is consistent with the activity assay. Subsequently, fragment-based searches were utilized to identify triphenylmethane derivatives for more potent inhibitors. Lead optimization resulted in a 3-bromo-4-hydroxyl substituted derivative 12 with an EC(50) value of 2.72 microM to Ava.5/Huh-7 cells and a lower cytotoxicity to parental Huh-7 cells (CC(50) = 10.5 microM), and it indeed suppressed HCV replication in the HCV replicon cells. Therefore, these inhibitors with structural novelty may serve as a useful scaffold for the discovery of new HCV NS3 helicase inhibitors.
+
+-Binding Sites
+-Cell Line
+-Cell Proliferation (-drug effects)
++Drug Discovery
+-Drug Evaluation, Preclinical
+-Hepacivirus (-drug effects; +enzymology)
+-Models, Molecular
+-Protease Inhibitors (+chemistry; +pharmacology)
+-Replicon (-drug effects)
+-Software
+-Trityl Compounds (+chemistry; +pharmacology)
+-Viral Nonstructural Proteins (+antagonists & inhibitors; -chemistry)
+
+doi:10.1021/jm8011905
+pubmed:19419203
+

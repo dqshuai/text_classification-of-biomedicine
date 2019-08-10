@@ -1,0 +1,28 @@
+PLoS ONE
+
+The type 2 diabetes associated minor allele of rs2237895 KCNQ1 associates with reduced insulin release following an oral glucose load.
+
+J Holmkvist, K Banasik, G Andersen, H Unoki, TS Jensen, C Pisinger, K Borch-Johnsen, A Sandbaek, T Lauritzen, S Brunak, S Maeda, T Hansen, O Pedersen
+
+BACKGROUND: Polymorphisms in the potassium channel, voltage-gated, KQT-like subfamily, member 1 (KCNQ1) have recently been reported to associate with type 2 diabetes. The primary aim of the present study was to investigate the putative impact of these KCNQ1 polymorphisms (rs2283228, rs2237892, rs2237895, and rs2237897) on estimates of glucose stimulated insulin release. METHODOLOGY/PRINCIPAL FINDINGS: Genotypes were examined for associations with serum insulin levels following an oral glucose tolerance test (OGTT) in a population-based sample of 6,039 middle-aged and treatment-naïve individuals. Insulin release indices estimated from the OGTT and the interplay between insulin sensitivity and insulin release were investigated using linear regression and Hotelling T2 analyses. Applying an additive genetic model the minor C-allele of rs2237895 was associated with reduced serum insulin levels 30 min (mean+/-SD: (CC) 277+/-160 vs. (AC) 280+/-164 vs. (AA) 299+/-200 pmol/l, p = 0.008) after an oral glucose load, insulinogenic index (29.6+/-17.4 vs. 30.2+/-18.7vs. 32.2+/-22.1, p = 0.007), incremental area under the insulin curve (20,477+/-12,491 vs. 20,503+/-12,386 vs. 21,810+/-14,685, p = 0.02) among the 4,568 individuals who were glucose tolerant. Adjustment for the degree of insulin sensitivity had no effect on the measures of reduced insulin release. The rs2237895 genotype had a similar impact in the total sample of treatment-naïve individuals. No association with measures of insulin release were identified for the less common diabetes risk alleles of rs2237892, rs2237897, or rs2283228. CONCLUSION: The minor C-allele of rs2237895 of KCNQ1, which has a prevalence of about 42% among Caucasians was associated with reduced measures of insulin release following an oral glucose load suggesting that the increased risk of type 2 diabetes, previously reported for this variant, likely is mediated through an impaired beta cell function.
+
+-Alleles
+-Case-Control Studies
+-Computational Biology (-methods)
+-Diabetes Mellitus, Type 2 (+genetics; +pathology)
+-Genotype
+-Glucose (+metabolism)
++Glucose Tolerance Test
+-Humans
+-Insulin (+metabolism)
+-Insulin-Secreting Cells (-metabolism)
+-KCNQ1 Potassium Channel (+genetics)
+-Models, Genetic
+-Multivariate Analysis
++Polymorphism, Genetic
+-Protein Interaction Mapping
+
+doi:10.1371/journal.pone.0005872
+pubmed:19516902
+pmc:PMC2689931
+

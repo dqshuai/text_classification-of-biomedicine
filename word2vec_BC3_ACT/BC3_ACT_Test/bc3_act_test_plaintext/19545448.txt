@@ -1,0 +1,29 @@
+BMC Cancer
+
+A novel method, digital genome scanning detects KRAS gene amplification in gastric cancers: involvement of overexpressed wild-type KRAS in downstream signaling and cancer cell growth.
+
+H Mita, M Toyota, F Aoki, H Akashi, R Maruyama, Y Sasaki, H Suzuki, M Idogawa, L Kashima, K Yanagihara, M Fujita, M Hosokawa, M Kusano, SV Sabau, H Tatsumi, K Imai, Y Shinomura, T Tokino
+
+BACKGROUND: Gastric cancer is the third most common malignancy affecting the general population worldwide. Aberrant activation of KRAS is a key factor in the development of many types of tumor, however, oncogenic mutations of KRAS are infrequent in gastric cancer. We have developed a novel quantitative method of analysis of DNA copy number, termed digital genome scanning (DGS), which is based on the enumeration of short restriction fragments, and does not involve PCR or hybridization. In the current study, we used DGS to survey copy-number alterations in gastric cancer cells. METHODS: DGS of gastric cancer cell lines was performed using the sequences of 5000 to 15000 restriction fragments. We screened 20 gastric cancer cell lines and 86 primary gastric tumors for KRAS amplification by quantitative PCR, and investigated KRAS amplification at the DNA, mRNA and protein levels by mutational analysis, real-time PCR, immunoblot analysis, GTP-RAS pull-down assay and immunohistochemical analysis. The effect of KRAS knock-down on the activation of p44/42 MAP kinase and AKT and on cell growth were examined by immunoblot and colorimetric assay, respectively. RESULTS: DGS analysis of the HSC45 gastric cancer cell line revealed the amplification of a 500-kb region on chromosome 12p12.1, which contains the KRAS gene locus. Amplification of the KRAS locus was detected in 15% (3/20) of gastric cancer cell lines (8-18-fold amplification) and 4.7% (4/86) of primary gastric tumors (8-50-fold amplification). KRAS mutations were identified in two of the three cell lines in which KRAS was amplified, but were not detected in any of the primary tumors. Overexpression of KRAS protein correlated directly with increased KRAS copy number. The level of GTP-bound KRAS was elevated following serum stimulation in cells with amplified wild-type KRAS, but not in cells with amplified mutant KRAS. Knock-down of KRAS in gastric cancer cells that carried amplified wild-type KRAS resulted in the inhibition of cell growth and suppression of p44/42 MAP kinase and AKT activity. CONCLUSION: Our study highlights the utility of DGS for identification of copy-number alterations. Using DGS, we identified KRAS as a gene that is amplified in human gastric cancer. We demonstrated that gene amplification likely forms the molecular basis of overactivation of KRAS in gastric cancer. Additional studies using a larger cohort of gastric cancer specimens are required to determine the diagnostic and therapeutic implications of KRAS amplification and overexpression.
+
+-Carcinoma (+genetics; +metabolism)
+-Cell Line, Tumor
+-Cell Proliferation
+-Computational Biology (-methods)
+-DNA Mutational Analysis (+methods)
+-Gene Expression Profiling (+methods)
++Gene Expression Regulation, Neoplastic
++Genes, ras
+-Genome, Human
+-Humans
+-Immunohistochemistry
+-Karyotyping
+-Proto-Oncogene Proteins p21(ras) (-genetics; +physiology)
+-Signal Transduction
+-Stomach Neoplasms (+genetics; +metabolism)
+
+pii:1471-2407-9-198
+doi:10.1186/1471-2407-9-198
+pubmed:19545448
+pmc:PMC2717977
+

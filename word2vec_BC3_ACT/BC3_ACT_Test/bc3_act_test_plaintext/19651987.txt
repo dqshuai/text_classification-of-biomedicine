@@ -1,0 +1,30 @@
+Genes Dev.
+
+A timing mechanism for stem cell maintenance and differentiation in the Arabidopsis floral meristem.
+
+B Sun, Y Xu, KH Ng, T Ito
+
+Developmental regulation of the floral meristem ensures that plants of the same species have similarly sized flowers with a fixed number of floral organs. The maintenance of stem cells in the floral meristem is terminated after the production of a fixed number of floral organ primordia. Precise repression of the Arabidopsis thaliana homeobox gene WUSCHEL (WUS) by the floral homeotic protein AGAMOUS (AG) plays a major part in this process. Here we show that KNUCKLES (KNU) mediates the repression of WUS in floral meristem determinacy control. AG directly induces the transcription of KNU, which encodes a C2H2-type zinc finger protein with a conserved transcriptional repression motif. In turn, KNU represses WUS transcription to abolish stem cell activity. We also show that the timing of KNU induction is key in balancing proliferation and differentiation in flower development. Delayed KNU expression results in an indeterminate meristem, whereas ectopic KNU expression prematurely terminates the floral meristem. Furthermore, KNU induction by AG is preceded by changes in repressive histone modification at the KNU locus, which occurs in an AG-dependent manner. This study provides a mechanistic link between transcriptional feedback and epigenetic regulation in plant stem cell proliferation.
+
+-AGAMOUS Protein, Arabidopsis (-metabolism)
+-Arabidopsis (+cytology; +growth & development)
+-Arabidopsis Proteins (-metabolism)
+-Carrier Proteins (-metabolism)
++Cell Differentiation
+-Flowers (-cytology; +growth & development; -metabolism)
+-Gene Expression Regulation, Developmental
++Gene Expression Regulation, Plant
+-Histones (-metabolism)
+-Homeodomain Proteins (-metabolism)
+-Meristem (+cytology; -growth & development)
+-Phenotype
+-Promoter Regions, Genetic
+-Protein Binding
+-Stem Cells (+cytology; -metabolism; -physiology)
+-Time Factors
+
+pii:23/15/1791
+doi:10.1101/gad.1800409
+pubmed:19651987
+pmc:PMC2720260
+

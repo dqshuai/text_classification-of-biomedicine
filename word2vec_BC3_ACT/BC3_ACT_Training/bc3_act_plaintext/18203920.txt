@@ -1,0 +1,28 @@
+Plant Cell
+
+Membrane association of the Arabidopsis ARF exchange factor GNOM involves interaction of conserved domains.
+
+N Anders, M Nielsen, J Keicher, YD Stierhof, M Furutani, M Tasaka, K Skriver, G Jürgens
+
+The GNOM protein plays a fundamental role in Arabidopsis thaliana development by regulating endosome-to-plasma membrane trafficking required for polar localization of the auxin efflux carrier PIN1. GNOM is a family member of large ARF guanine nucleotide exchange factors (ARF-GEFs), which regulate vesicle formation by activating ARF GTPases on specific membranes in animals, plants, and fungi. However, apart from the catalytic exchange activity of the SEC7 domain, the functional significance of other conserved domains is virtually unknown. Here, we show that a distinct N-terminal domain of GNOM mediates dimerization and in addition interacts heterotypically with two other conserved domains in vivo. In contrast with N-terminal dimerization, the heterotypic interaction is essential for GNOM function, as mutations abolishing this interaction inactivate the GNOM protein and compromise its membrane association. Our results suggest a general model of large ARF-GEF function in which regulated changes in protein conformation control membrane association of the exchange factor and, thus, activation of ARFs.
+
+-ADP-Ribosylation Factors (-chemistry; +metabolism)
+-Amino Acid Sequence
+-Arabidopsis (+cytology; +metabolism)
+-Arabidopsis Proteins (+chemistry; +metabolism)
+-Catalysis
+-Cell Membrane (+metabolism)
++Conserved Sequence
+-Dimerization
+-Guanine Nucleotide Exchange Factors (+chemistry; +metabolism)
+-Immunophilins (-metabolism)
+-Molecular Sequence Data
+-Mutant Proteins (-metabolism)
+-Protein Binding
+-Protein Structure, Tertiary
+
+pii:tpc.107.056515
+doi:10.1105/tpc.107.056515
+pubmed:18203920
+pmc:PMC2254928
+

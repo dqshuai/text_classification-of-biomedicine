@@ -1,0 +1,25 @@
+J. Exp. Bot.
+
+AtRAB-H1b and AtRAB-H1c GTPases, homologues of the yeast Ypt6, target reporter proteins to the Golgi when expressed in Nicotiana tabacum and Arabidopsis thaliana.
+
+JN Johansen, CM Chow, I Moore, C Hawes
+
+Ypt/Rab GTPases act as key regulators of intracellular traffic through the conformational differences exhibited by their GTP or GDP-bound forms. In this paper, two Arabidopsis Ypt6 homologues, AtRAB-H1(b) and AtRAB-H1(c) were characterized and compared. Using a live cell imaging approach, it is shown that yellow fluorescent protein-fusions (YFP) of AtRAB-H1(b) and AtRAB-H1(c) locate to the Golgi and to the cytosol in both Nicotiana tabacum and in Arabidopsis thaliana. In addition, YFP-AtRAB-H1(b) targets an as yet unknown compartment not labelled by YFP-AtRAB-H1(c) or Golgi markers. It is also shown that the subcellular location of YFP-AtRAB-H1(b) and YFP-AtRAB-H1(c) is affected by the state of GTP-binding and that expression of a GTP-deficient mutant results in increased apoplastic fluorescence of a secretory form of YFP.
+
+-Arabidopsis (+genetics; -metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Cytosol (-metabolism)
++Gene Expression
++Genes, Reporter
+-Golgi Apparatus (-genetics; +metabolism)
+-Guanosine Triphosphate (-metabolism)
+-Protein Binding
+-Protein Transport
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Tobacco (+genetics; -metabolism)
+-rab GTP-Binding Proteins (-genetics; +metabolism)
+
+pii:erp153
+doi:10.1093/jxb/erp153
+pubmed:19454595
+

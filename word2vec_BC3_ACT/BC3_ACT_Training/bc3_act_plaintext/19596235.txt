@@ -1,0 +1,26 @@
+Cell
+
+Mammalian BTBD12/SLX4 assembles a Holliday junction resolvase and is required for DNA repair.
+
+JM Svendsen, A Smogorzewska, ME Sowa, BC O'Connell, SP Gygi, SJ Elledge, JW Harper
+
+Structure-specific endonucleases mediate cleavage of DNA structures formed during repair of collapsed replication forks and double-strand breaks (DSBs). Here, we identify BTBD12 as the human ortholog of the budding yeast DNA repair factor Slx4p and D. melanogaster MUS312. Human SLX4 forms a multiprotein complex with the ERCC4(XPF)-ERCC1, MUS81-EME1, and SLX1 endonucleases and also associates with MSH2/MSH3 mismatch repair complex, telomere binding complex TERF2(TRF2)-TERF2IP(RAP1), the protein kinase PLK1 and the uncharacterized protein C20orf94. Depletion of SLX4 causes sensitivity to mitomycin C and camptothecin and reduces the efficiency of DSB repair in vivo. SLX4 complexes cleave 3' flap, 5' flap, and replication fork structures; yet unlike other endonucleases associated with SLX4, the SLX1-SLX4 module promotes symmetrical cleavage of static and migrating Holliday junctions (HJs), identifying SLX1-SLX4 as a HJ resolvase. Thus, SLX4 assembles a modular toolkit for repair of specific types of DNA lesions and is critical for cellular responses to replication fork failure.
+
+-Animals
+-Cell Line
+-DNA Breaks, Double-Stranded
+-DNA Damage
++DNA Repair
+-DNA Replication
+-DNA-Binding Proteins (-metabolism)
+-Endonucleases (-metabolism)
+-Humans
+-Multiprotein Complexes (-metabolism)
+-Recombinases (-chemistry; -genetics; +metabolism)
+
+pii:S0092-8674(09)00777-6
+doi:10.1016/j.cell.2009.06.030
+pubmed:19596235
+mid:NIHMS132166
+pmc:PMC2720686
+

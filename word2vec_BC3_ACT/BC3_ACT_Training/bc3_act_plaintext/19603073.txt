@@ -1,0 +1,19 @@
+PLoS ONE
+
+A comprehensive analysis of the structure-function relationship in proteins based on local structure similarity.
+
+TR Hvidsten, A Laegreid, A Kryshtafovych, G Andersson, K Fidelis, J Komorowski
+
+BACKGROUND: Sequence similarity to characterized proteins provides testable functional hypotheses for less than 50% of the proteins identified by genome sequencing projects. With structural genomics it is believed that structural similarities may give functional hypotheses for many of the remaining proteins. METHODOLOGY/PRINCIPAL FINDINGS: We provide a systematic analysis of the structure-function relationship in proteins using the novel concept of local descriptors of protein structure. A local descriptor is a small substructure of a protein which includes both short- and long-range interactions. We employ a library of commonly reoccurring local descriptors general enough to assemble most existing protein structures. We then model the relationship between these local shapes and Gene Ontology using rule-based learning. Our IF-THEN rule model offers legible, high resolution descriptions that combine local substructures and is able to discriminate functions even for functionally versatile folds such as the frequently occurring TIM barrel and Rossmann fold. By evaluating the predictive performance of the model, we provide a comprehensive quantification of the structure-function relationship based only on local structure similarity. Our findings are, among others, that conserved structure is a stronger prerequisite for enzymatic activity than for binding specificity, and that structure-based predictions complement sequence-based predictions. The model is capable of generating correct hypotheses, as confirmed by a literature study, even when no significant sequence similarity to characterized proteins exists. CONCLUSIONS/SIGNIFICANCE: Our approach offers a new and complete description and quantification of the structure-function relationship in proteins. By demonstrating how our predictions offer higher sensitivity than using global structure, and complement the use of sequence, we show that the presented ideas could advance the development of meta-servers in function prediction.
+
+-Amino Acid Sequence
+-Biocatalysis
+-Models, Molecular
+-Molecular Sequence Data
+-Proteins (+chemistry)
+-Structure-Activity Relationship
+
+doi:10.1371/journal.pone.0006266
+pubmed:19603073
+pmc:PMC2705683
+

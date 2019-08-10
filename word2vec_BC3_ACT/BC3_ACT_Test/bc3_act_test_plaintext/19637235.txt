@@ -1,0 +1,24 @@
+Proteomics
+
+Proteomics-based identification of two novel direct targets of hypoxia-inducible factor-1 and their potential roles in migration/invasion of cancer cells.
+
+SH Liao, XY Zhao, YH Han, J Zhang, LS Wang, L Xia, KW Zhao, Y Zheng, M Guo, GQ Chen
+
+Hypoxia-inducible factor-1 (HIF-1), consisting of oxygen-sensitive HIF-1alpha and constitutively expressed HIF-1beta subunits, is a master transcriptional activator for cellular response to hypoxia. To explore direct HIF-1 targets, here we used differential gel electrophoresis (DIGE) to compare the HIF-1-regulated proteins between leukemic U937T-cell line with and without conditional induction of HIF-1alpha protein by tetracycline-off system. Among the upregulated proteins identified, mRNA levels of annexin A1, macrophage-capping protein (CapG), S100 calcium-binding protein A4 (S100A4), S100A11, acyl-CoA-binding protein and calcyclin-binding protein also increased. The expressions of the annexin A1, CapG and S100A4 genes were significantly induced by hypoxia in five adherent cell lines tested besides U937 cells, while their expressions were blocked by the short hairpin RNA specifically against HIF-1alpha. Further luciferase reporter assay and chromatin immunoprecipitation showed that HIF-1alpha directly bound to three hypoxia-responsive elements located at intron 1 of S100A4 gene and hypoxia-responsive element at -350 to -346 of CapG gene, which are essential for HIF-1-induced expression. Additionally, the role of S100A4 expression in migration and invasion of cancer cells were also confirmed. These findings would provide new sights for understanding the molecular mechanisms underlying HIF-1 action.
+
+-Annexin A1 (-genetics; -metabolism)
+-Cell Hypoxia
+-Cell Line, Tumor
+-Cell Movement
+-Electrophoresis, Gel, Two-Dimensional
++Gene Expression Regulation, Neoplastic
+-Humans
+-Hypoxia-Inducible Factor 1, alpha Subunit (-genetics; +metabolism)
+-Microfilament Proteins (-genetics; -metabolism)
+-Nuclear Proteins (-genetics; -metabolism)
+-Proteome (-genetics; +metabolism)
+-S100 Proteins (-genetics; -metabolism)
+
+doi:10.1002/pmic.200800922
+pubmed:19637235
+

@@ -1,0 +1,25 @@
+Genome Res.
+
+JBrowse: a next-generation genome browser.
+
+ME Skinner, AV Uzilov, LD Stein, CJ Mungall, IH Holmes
+
+We describe an open source, portable, JavaScript-based genome browser, JBrowse, that can be used to navigate genome annotations over the web. JBrowse helps preserve the user's sense of location by avoiding discontinuous transitions, instead offering smoothly animated panning, zooming, navigation, and track selection. Unlike most existing genome browsers, where the genome is rendered into images on the webserver and the role of the client is restricted to displaying those images, JBrowse distributes work between the server and client and therefore uses significantly less server overhead than previous genome browsers. We report benchmark results empirically comparing server- and client-side rendering strategies, review the architecture and design considerations of JBrowse, and describe a simple wiki plug-in that allows users to upload and share annotation tracks.
+
+-Animals
+-Computational Biology (-methods)
+-Database Management Systems
+-Databases, Genetic
+-Drosophila melanogaster (-genetics)
+-Genome (+genetics)
+-Genome, Insect (-genetics)
++Internet
++Software
+-Software Design
+-User-Computer Interface
+
+pii:gr.094607.109
+doi:10.1101/gr.094607.109
+pubmed:19570905
+pmc:PMC2752129
+

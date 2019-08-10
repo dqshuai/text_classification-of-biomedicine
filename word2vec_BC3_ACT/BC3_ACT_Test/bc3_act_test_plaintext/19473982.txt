@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+X-linked inhibitor of apoptosis protein (XIAP) regulates PTEN ubiquitination, content, and compartmentalization.
+
+C Van Themsche, V Leblanc, S Parent, E Asselin
+
+Apoptotic cell death plays a normal role in various physiological processes, and deregulated apoptosis is a hallmark of several diseases, including cancer. Cell fate is dictated by the balance between pro- and antiapoptotic factors. Akt is one of these antiapoptotic factors, which must be activated through phosphorylation. The phosphorylation of Akt has previously been shown to be promoted by X-linked inhibitor of apoptosis protein (XIAP), another antiapoptotic protein dictating the fate of normal and cancer cells. However, the underlying mechanisms are poorly understood. We have observed that XIAP associates with PTEN (phosphatase and tensin homolog deleted on chromosome ten), the best characterized negative regulator of Akt phosphorylation, in vitro and in vivo. XIAP knockdown reduces constitutive mono- and polyubiquitination of PTEN, increases PTEN protein levels, and prevents nuclear accumulation of PTEN. Overexpression of XIAP induces polyubiquitination of PTEN and proteasome-dependent decrease of PTEN protein levels. RNA interference experiments showed that XIAP-induced regulation of Akt phosphorylation is PTEN-dependent. Additional experiments confirmed that XIAP also regulates PTEN in vivo; primary mouse embryonic fibroblasts derived from XIAP(-/-) mice contain higher levels of PTEN protein, less mono- and polyubiquitinated PTEN, and less nuclear PTEN than primary mouse embryonic fibroblasts derived from XIAP(+/+) mice. Finally, we found that XIAP can directly ubiquitinate PTEN in vitro. We thus propose that XIAP acts as an E3 ubiquitin ligase for PTEN and promotes Akt activity by regulating PTEN content and compartmentalization.
+
+-Animals
++Cell Compartmentation
+-Cell Line
+-Cell Nucleus (-enzymology)
+-Humans
+-Mice
+-PTEN Phosphohydrolase (+metabolism)
+-Phosphorylation
+-Proteasome Endopeptidase Complex (-metabolism)
+-Protein Binding
+-Protein Processing, Post-Translational
+-Protein Transport
+-Proto-Oncogene Proteins c-akt (-metabolism)
++Ubiquitination
+-X-Linked Inhibitor of Apoptosis Protein (+metabolism)
+
+pii:C109.009522
+doi:10.1074/jbc.C109.009522
+pubmed:19473982
+pmc:PMC2742810
+

@@ -1,0 +1,28 @@
+Nucleic Acids Res.
+
+Labeled microRNA pull-down assay system: an experimental approach for high-throughput identification of microRNA-target mRNAs.
+
+RJ Hsu, HJ Yang, HJ Tsai
+
+We developed a simple, direct and cost-effective approach to search for the most likely target genes of a known microRNA (miRNA) in vitro. We term this method 'labeled miRNA pull-down (LAMP)' assay system. Briefly, the pre-miRNA is labeled with digoxigenin (DIG), mixed with cell extracts and immunoprecipitated by anti-DIG antiserum. When the DIG-labeled miRNA and bound mRNA complex are obtained, the total cDNAs are then subcloned and sequenced, or RT-PCR-amplified, to search for the putative target genes of a known miRNA. After successfully identifying the known target genes of Caenorhabditis elegans miRNAs lin-4 and let-7 and zebrafish let-7, we applied LAMP to find the unknown target gene of zebrafish miR-1, which resulted in the identification of hand2. We then confirmed hand2 as a novel target gene of miR-1 by whole-mount in situ hybridization and luciferase reporter gene assay. We further validated this target gene by microarray analysis, and the results showed that hand2 is the top-scoring among 302 predicted putative target genes. We concluded that LAMP is an experimental approach for high-throughput identification of the target gene of known miRNAs from both C. elegans and zebrafish, yielding fewer false positive results than those produced by using only the bioinformatics approach.
+
+-3' Untranslated Regions (-chemistry)
+-Animals
+-Basic Helix-Loop-Helix Transcription Factors (-genetics; -metabolism)
+-COS Cells
+-Caenorhabditis elegans (-genetics; -metabolism)
+-Cercopithecus aethiops
+-Immunoprecipitation (+methods)
+-MicroRNAs (-isolation & purification; +metabolism)
+-Oligonucleotide Array Sequence Analysis
++RNA Interference
+-RNA Precursors (-isolation & purification; -metabolism)
+-RNA, Messenger (-chemistry; -isolation & purification; +metabolism)
+-Zebrafish (-genetics; -metabolism)
+-Zebrafish Proteins (-genetics; -metabolism)
+
+pii:gkp274
+doi:10.1093/nar/gkp274
+pubmed:19420057
+pmc:PMC2691847
+

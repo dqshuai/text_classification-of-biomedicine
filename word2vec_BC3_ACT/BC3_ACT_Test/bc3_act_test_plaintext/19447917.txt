@@ -1,0 +1,27 @@
+RNA
+
+Mutations in the U5 snRNA result in altered splicing of subsets of pre-mRNAs and reduced stability of Prp8.
+
+CJ Kershaw, JD Barrass, JD Beggs, RT O'Keefe
+
+The U5 snRNA loop 1 aligns the 5' and 3' exons for ligation during the second step of pre-mRNA splicing. U5 is intimately associated with Prp8, which mediates pre-mRNA repositioning within the catalytic core of the spliceosome and interacts directly with U5 loop 1. The genome-wide effect of three U5 loop 1 mutants has been assessed by microarray analysis. These mutants exhibited impaired and improved splicing of subsets of pre-mRNAs compared to wild-type U5. Analysis of pre-mRNAs that accumulate revealed a change in base prevalence at specific positions near the splice sites. Analysis of processed pre-mRNAs exhibiting mRNA accumulation revealed a bias in base prevalence at one position within the 5' exon. While U5 loop 1 can interact with some of these positions the base bias is not directly related to sequence changes in loop 1. All positions that display a bias in base prevalence are at or next to positions known to interact with Prp8. Analysis of Prp8 in the presence of the three U5 loop 1 mutants revealed that the most severe mutant displayed reduced Prp8 stability. Depletion of U5 snRNA in vivo also resulted in reduced Prp8 stability. Our data suggest that certain mutations in U5 loop 1 perturb the stability of Prp8 and may affect interactions of Prp8 with a subset of pre-mRNAs influencing their splicing. Therefore, the integrity of U5 is important for the stability of Prp8 during splicing and provides one possible explanation for why U5 loop 1 and Prp8 are so highly conserved.
+
++Alternative Splicing
+-Base Sequence
+-Genome, Fungal
+-Molecular Sequence Data
+-Mutation (+genetics)
+-Nucleic Acid Conformation
+-RNA Precursors (+genetics)
+-RNA, Small Nuclear (+genetics)
+-Ribonucleoprotein, U4-U6 Small Nuclear (+chemistry; -genetics; +metabolism)
+-Ribonucleoprotein, U5 Small Nuclear (+chemistry; -genetics; +metabolism)
+-Saccharomyces cerevisiae (+genetics; -growth & development; -metabolism)
+-Saccharomyces cerevisiae Proteins (+chemistry; -genetics; +metabolism)
+-Spliceosomes (-physiology)
+
+pii:rna.1347409
+doi:10.1261/rna.1347409
+pubmed:19447917
+pmc:PMC2704078
+

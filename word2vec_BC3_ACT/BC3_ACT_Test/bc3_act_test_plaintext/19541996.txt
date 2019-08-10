@@ -1,0 +1,22 @@
+Science
+
+Rapid and accurate large-scale coestimation of sequence alignments and phylogenetic trees.
+
+K Liu, S Raghavan, S Nelesen, CR Linder, T Warnow
+
+Inferring an accurate evolutionary tree of life requires high-quality alignments of molecular sequence data sets from large numbers of species. However, this task is often difficult, slow, and idiosyncratic, especially when the sequences are highly diverged or include high rates of insertions and deletions (collectively known as indels). We present SATé (simultaneous alignment and tree estimation), an automated method to quickly and accurately estimate both DNA alignments and trees with the maximum likelihood criterion. In our study, it improved tree and alignment accuracy compared to the best two-phase methods currently available for data sets of up to 1000 sequences, showing that coestimation can be both rapid and accurate in phylogenetic studies.
+
+-Algorithms
+-Automation
+-Computer Simulation
+-DNA
+-Evolution, Molecular
+-Likelihood Functions
++Phylogeny
++Sequence Alignment (-methods)
++Software
+
+pii:324/5934/1561
+doi:10.1126/science.1171243
+pubmed:19541996
+

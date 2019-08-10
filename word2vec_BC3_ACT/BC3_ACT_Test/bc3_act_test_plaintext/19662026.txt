@@ -1,0 +1,26 @@
+Cell Death Differ.
+
+Apoptosis commitment and activation of mitochondrial Bax during anoikis is regulated by p38MAPK.
+
+TW Owens, AJ Valentijn, JP Upton, J Keeble, L Zhang, J Lindsay, NK Zouq, AP Gilmore
+
+Most cells undergo apoptosis through the intrinsic pathway. This is dependent on mitochondrial outer membrane permeabilisation (MOMP), which is mediated by the pro-apoptotic Bcl-2 family proteins, Bax and Bak. During apoptosis, Bax translocates from the cytosol to the outer mitochondrial membrane (OMM), wherein it contributes to the formation of pores to release cytochrome-c. However, it remains unclear whether Bax translocation is sufficient to bring about MOMP or whether Bax requires further signals on the OMM to be fully activated. We have previously shown that during mammary epithelial cell anoikis, Bax translocation does not commit cells to MOMP and detached cells are rescued if survival signals from the extracellular matrix (ECM) are restored. These findings implied that a second signal is required for mitochondrial Bax to fully activate and cause MOMP. We now identify p38MAPK (mitogen-activated protein kinase) as this necessary signal to activate Bax after its translocation to mitochondria. The inhibition of p38MAPK did not prevent Bax translocation, but its activity was required for mitochondrial Bax to bring about MOMP. p38MAPK was activated and recruited to a high molecular weight mitochondrial complex after loss of ECM attachment. Artificially targeting p38MAPK to the OMM increased the kinetics of anoikis, supporting a requirement for its mitochondrial localisation to regulate Bax activation and drive commitment to apoptosis.
+
+-Animals
+-Anoikis (+physiology)
++Apoptosis
+-Cell Line
+-Cytochromes c (-metabolism)
+-Imidazoles (-pharmacology)
+-JNK Mitogen-Activated Protein Kinases (-metabolism)
+-Mice
+-Mitochondria (+metabolism)
+-Mitogen-Activated Protein Kinase 14 (+metabolism)
+-Pyridines (-pharmacology)
+-RNA, Small Interfering (-metabolism)
+-bcl-2-Associated X Protein (+metabolism)
+
+pii:cdd2009102
+doi:10.1038/cdd.2009.102
+pubmed:19662026
+

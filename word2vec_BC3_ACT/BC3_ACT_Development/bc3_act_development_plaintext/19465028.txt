@@ -1,0 +1,23 @@
+J. Mol. Biol.
+
+Docking of antizyme to ornithine decarboxylase and antizyme inhibitor using experimental mutant and double-mutant cycle data.
+
+O Cohavi, D Tobi, G Schreiber
+
+Antizyme (Az) is a highly conserved key regulatory protein bearing a major role in regulating polyamine levels in the cell. It has the ability to bind and inhibit ornithine decarboxylase (ODC), targeting it for degradation. Az inhibitor (AzI) impairs the activity of Az. In this study, we mapped the binding sites of ODC and AzI on Az using Ala scan mutagenesis and generated models of the two complexes by constrained computational docking. In order to scan a large number of mutants in a short time, we developed a workflow combining high-throughput mutagenesis, small-scale parallel partial purification of His-tagged proteins and their immobilization on a tris-nitrilotriacetic-acid-coated surface plasmon resonance chip. This combination of techniques resulted in a significant reduction in time for production and measurement of large numbers of mutant proteins. The data-driven docking results suggest that both proteins occupy the same binding site on Az, with Az binding within a large groove in AzI and ODC. However, single-mutant data provide information concerning the location of the binding sites only, not on their relative orientations. Therefore, we generated a large number of double-mutant cycles between residues on Az and ODC and used the resulting interaction energies to restrict docking. The model of the complex is well defined and accounts for the mutant data generated here, and previously determined biochemical data for this system. Insights on the structure and function of the complexes, as well as general aspects of the method, are discussed.
+
+-Carrier Proteins (+chemistry; +metabolism)
+-Computer Simulation
+-Models, Molecular
+-Mutagenesis, Site-Directed
+-Mutant Proteins (+chemistry; -genetics; -metabolism)
+-Mutation, Missense
+-Ornithine Decarboxylase (+chemistry; -genetics; +metabolism)
+-Protein Binding
+-Protein Interaction Mapping
+-Proteins (+chemistry; -genetics; +metabolism)
+
+pii:S0022-2836(09)00604-4
+doi:10.1016/j.jmb.2009.05.029
+pubmed:19465028
+

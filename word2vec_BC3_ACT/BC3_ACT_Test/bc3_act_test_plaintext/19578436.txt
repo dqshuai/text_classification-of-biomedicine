@@ -1,0 +1,36 @@
+PLoS Pathog.
+
+Chemical genetics reveals bacterial and host cell functions critical for type IV effector translocation by Legionella pneumophila.
+
+X Charpentier, JE Gabay, M Reyes, JW Zhu, A Weiss, HA Shuman
+
+Delivery of effector proteins is a process widely used by bacterial pathogens to subvert host cell functions and cause disease. Effector delivery is achieved by elaborate injection devices and can often be triggered by environmental stimuli. However, effector export by the L. pneumophila Icm/Dot Type IVB secretion system cannot be detected until the bacterium encounters a target host cell. We used chemical genetics, a perturbation strategy that utilizes small molecule inhibitors, to determine the mechanisms critical for L. pneumophila Icm/Dot activity. From a collection of more than 2,500 annotated molecules we identified specific inhibitors of effector translocation. We found that L. pneumophila effector translocation in macrophages requires host cell factors known to be involved in phagocytosis such as phosphoinositide 3-kinases, actin and tubulin. Moreover, we found that L. pneumophila phagocytosis and effector translocation also specifically require the receptor protein tyrosine phosphate phosphatases CD45 and CD148. We further show that phagocytosis is required to trigger effector delivery unless intimate contact between the bacteria and the host is artificially generated. In addition, real-time analysis of effector translocation suggests that effector export is rate-limited by phagocytosis. We propose a model in which L. pneumophila utilizes phagocytosis to initiate an intimate contact event required for the translocation of pre-synthesized effector molecules. We discuss the need for host cell participation in the initial step of the infection and its implications in the L. pneumophila lifestyle. Chemical genetic screening provides a novel approach to probe the host cell functions and factors involved in host-pathogen interactions.
+
+-Animals
+-Antigens, CD45 (-genetics; -metabolism)
+-Bacterial Proteins (-metabolism)
+-Carbonyl Cyanide m-Chlorophenyl Hydrazone (-pharmacology)
+-Carbonyl Cyanide p-Trifluoromethoxyphenylhydrazone (-pharmacology)
+-Carrier Proteins (-metabolism)
+-Cell Line
+-Cytoskeleton (-physiology)
+-Genes, Reporter
+-Host-Pathogen Interactions (-physiology)
+-Humans
+-Ionophores (-pharmacology)
+-Legionella pneumophila (-genetics; +physiology)
+-Legionnaires' Disease (-genetics; +microbiology)
+-Macrophages (-metabolism; -microbiology)
+-Membrane Proteins (-metabolism)
+-Mice
+-Opsonin Proteins
+-Phagocytosis (-physiology)
+-Protein Transport
+-Receptor-Like Protein Tyrosine Phosphatases, Class 3 (-metabolism)
+-Small Molecule Libraries
+-beta-Lactamases (-genetics; -metabolism)
+
+doi:10.1371/journal.ppat.1000501
+pubmed:19578436
+pmc:PMC2698123
+

@@ -1,0 +1,22 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Genome-wide association and meta-analysis of bipolar disorder in individuals of European ancestry.
+
+LJ Scott, P Muglia, XQ Kong, W Guan, M Flickinger, R Upmanyu, F Tozzi, JZ Li, M Burmeister, D Absher, RC Thompson, C Francks, F Meng, A Antoniades, AM Southwick, AF Schatzberg, WE Bunney, JD Barchas, EG Jones, R Day, K Matthews, P McGuffin, JS Strauss, JL Kennedy, L Middleton, AD Roses, SJ Watson, JB Vincent, RM Myers, AE Farmer, H Akil, DK Burns, M Boehnke
+
+Bipolar disorder (BP) is a disabling and often life-threatening disorder that affects approximately 1% of the population worldwide. To identify genetic variants that increase the risk of BP, we genotyped on the Illumina HumanHap550 Beadchip 2,076 bipolar cases and 1,676 controls of European ancestry from the National Institute of Mental Health Human Genetics Initiative Repository, and the Prechter Repository and samples collected in London, Toronto, and Dundee. We imputed SNP genotypes and tested for SNP-BP association in each sample and then performed meta-analysis across samples. The strongest association P value for this 2-study meta-analysis was 2.4 x 10(-6). We next imputed SNP genotypes and tested for SNP-BP association based on the publicly available Affymetrix 500K genotype data from the Wellcome Trust Case Control Consortium for 1,868 BP cases and a reference set of 12,831 individuals. A 3-study meta-analysis of 3,683 nonoverlapping cases and 14,507 extended controls on >2.3 M genotyped and imputed SNPs resulted in 3 chromosomal regions with association P approximately 10(-7): 1p31.1 (no known genes), 3p21 (>25 known genes), and 5q15 (MCTP1). The most strongly associated nonsynonymous SNP rs1042779 (OR = 1.19, P = 1.8 x 10(-7)) is in the ITIH1 gene on chromosome 3, with other strongly associated nonsynonymous SNPs in GNL3, NEK4, and ITIH3. Thus, these chromosomal regions harbor genes implicated in cell cycle, neurogenesis, neuroplasticity, and neurosignaling. In addition, we replicated the reported ANK3 association results for SNP rs10994336 in the nonoverlapping GSK sample (OR = 1.37, P = 0.042). Although these results are promising, analysis of additional samples will be required to confirm that variant(s) in these regions influence BP risk.
+
+-Bipolar Disorder (+genetics)
+-Chromosomes, Human, Pair 1 (+genetics)
+-Chromosomes, Human, Pair 3 (+genetics)
+-Chromosomes, Human, Pair 5 (+genetics)
+-Europe
++Genome, Human
+-Genome-Wide Association Study
+-Humans
+
+pii:0813386106
+doi:10.1073/pnas.0813386106
+pubmed:19416921
+pmc:PMC2678639
+

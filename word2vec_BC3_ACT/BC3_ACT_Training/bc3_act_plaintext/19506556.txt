@@ -1,0 +1,27 @@
+Nature
+
+A soma-to-germline transformation in long-lived Caenorhabditis elegans mutants.
+
+SP Curran, X Wu, CG Riedel, G Ruvkun
+
+Unlike the soma, which ages during the lifespan of multicellular organisms, the germ line traces an essentially immortal lineage. Genomic instability in somatic cells increases with age, and this decline in somatic maintenance might be regulated to facilitate resource reallocation towards reproduction at the expense of cellular senescence. Here we show that Caenorhabditis elegans mutants with increased longevity exhibit a soma-to-germline transformation of gene expression programs normally limited to the germ line. Decreased insulin-like signalling causes the somatic misexpression of the germline-limited pie-1 and pgl family of genes in intestinal and ectodermal tissues. The forkhead boxO1A (FOXO) transcription factor DAF-16, the major transcriptional effector of insulin-like signalling, regulates pie-1 expression by directly binding to the pie-1 promoter. The somatic tissues of insulin-like mutants are more germline-like and protected from genotoxic stress. Gene inactivation of components of the cytosolic chaperonin complex that induce increased longevity also causes somatic misexpression of PGL-1. These results indicate that the acquisition of germline characteristics by the somatic cells of C. elegans mutants with increased longevity contributes to their increased health and survival.
+
+-Animals
+-Caenorhabditis elegans (+cytology; +genetics)
+-Caenorhabditis elegans Proteins (-metabolism)
+-Cell Survival
+-Gene Expression Regulation
+-Germ Cells (-cytology; -metabolism)
+-Insulin (-physiology)
+-Insulin-Like Growth Factor I (-physiology)
+-Longevity (+genetics)
+-Nuclear Proteins (-metabolism)
+-Transcription Factors (-metabolism)
++Transformation, Genetic (-genetics)
+
+pii:nature08106
+doi:10.1038/nature08106
+pubmed:19506556
+mid:NIHMS114952
+pmc:PMC2716045
+

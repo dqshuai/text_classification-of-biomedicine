@@ -1,0 +1,24 @@
+BMC Mol. Biol.
+
+Selection of reference genes for normalisation of real-time RT-PCR in brain-stem death injury in Ovis aries.
+
+M Passmore, M Nataatmadja, JF Fraser
+
+BACKGROUND: Heart and lung transplantation is frequently the only therapeutic option for patients with end stage cardio respiratory disease. Organ donation post brain stem death (BSD) is a pre-requisite, yet BSD itself causes such severe damage that many organs offered for donation are unusable, with lung being the organ most affected by BSD. In Australia and New Zealand, less than 50% of lungs offered for donation post BSD are suitable for transplantation, as compared with over 90% of kidneys, resulting in patients dying for lack of suitable lungs. Our group has developed a novel 24 h sheep BSD model to mimic the physiological milieu of the typical human organ donor. Characterisation of the gene expression changes associated with BSD is critical and will assist in determining the aetiology of lung damage post BSD. Real-time PCR is a highly sensitive method involving multiple steps from extraction to processing RNA so the choice of housekeeping genes is important in obtaining reliable results. Little information however, is available on the expression stability of reference genes in the sheep pulmonary artery and lung. We aimed to establish a set of stably expressed reference genes for use as a standard for analysis of gene expression changes in BSD. RESULTS: We evaluated the expression stability of 6 candidate normalisation genes (ACTB, GAPDH, HGPRT, PGK1, PPIA and RPLP0) using real time quantitative PCR. There was a wide range of Ct-values within each tissue for pulmonary artery (15-24) and lung (16-25) but the expression pattern for each gene was similar across the two tissues. After geNorm analysis, ACTB and PPIA were shown to be the most stably expressed in the pulmonary artery and ACTB and PGK1 in the lung tissue of BSD sheep. CONCLUSION: Accurate normalisation is critical in obtaining reliable and reproducible results in gene expression studies. This study demonstrates tissue associated variability in the selection of these normalisation genes in BSD sheep and underlines the importance of selecting the correct reference genes for both the animal model and tissue studied.
+
+-Animals
+-Brain Injuries (+genetics; -pathology)
+-Cell Death
+-DNA (-genetics)
+-Gene Expression
+-Nucleic Acid Denaturation
+-Reverse Transcriptase Polymerase Chain Reaction
+-Sheep, Domestic (+genetics; -injuries)
+-Stem Cells (+cytology; -metabolism)
+-Time Factors
+
+pii:1471-2199-10-72
+doi:10.1186/1471-2199-10-72
+pubmed:19624860
+pmc:PMC2721835
+

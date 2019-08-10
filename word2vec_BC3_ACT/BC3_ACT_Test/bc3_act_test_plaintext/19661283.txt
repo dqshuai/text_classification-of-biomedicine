@@ -1,0 +1,20 @@
+Nucleic Acids Res.
+
+Predicting eukaryotic transcriptional cooperativity by Bayesian network integration of genome-wide data.
+
+Y Wang, XS Zhang, Y Xia
+
+Transcriptional cooperativity among several transcription factors (TFs) is believed to be the main mechanism of complexity and precision in transcriptional regulatory programs. Here, we present a Bayesian network framework to reconstruct a high-confidence whole-genome map of transcriptional cooperativity in Saccharomyces cerevisiae by integrating a comprehensive list of 15 genomic features. We design a Bayesian network structure to capture the dominant correlations among features and TF cooperativity, and introduce a supervised learning framework with a well-constructed gold-standard dataset. This framework allows us to assess the predictive power of each genomic feature, validate the superior performance of our Bayesian network compared to alternative methods, and integrate genomic features for optimal TF cooperativity prediction. Data integration reveals 159 high-confidence predicted cooperative relationships among 105 TFs, most of which are subsequently validated by literature search. The existing and predicted transcriptional cooperativities can be grouped into three categories based on the combination patterns of the genomic features, providing further biological insights into the different types of TF cooperativity. Our methodology is the first supervised learning approach for predicting transcriptional cooperativity, compares favorably to alternative unsupervised methodologies, and can be applied to other genomic data integration tasks where high-quality gold-standard positive data are scarce.
+
+-Bayes Theorem
++Gene Regulatory Networks
++Genome, Fungal
+-Saccharomyces cerevisiae (+genetics)
+-Transcription Factors (+metabolism)
++Transcription, Genetic
+
+pii:gkp625
+doi:10.1093/nar/gkp625
+pubmed:19661283
+pmc:PMC2764433
+

@@ -1,0 +1,35 @@
+EMBO Rep.
+
+MCPH1/BRIT1 cooperates with E2F1 in the activation of checkpoint, DNA repair and apoptosis.
+
+SZ Yang, FT Lin, WC Lin
+
+Microcephalin (MCPH1) has a crucial role in the DNA damage response by promoting the expression of Checkpoint kinase 1 (CHK1) and Breast cancer susceptibility gene 1 (BRCA1); however, the mechanism of this regulation remains unclear. Here, we show that MCPH1 regulates CHK1 and BRCA1 through the interaction with E2F1 on the promoters of both genes. MCPH1 also regulates other E2F target genes involved in DNA repair and apoptosis such as RAD51, DDB2, TOPBP1, p73 and caspases. MCPH1 interacts with E2F1 on the p73 promoter, and regulates p73 induction and E2F1-induced apoptosis as a result of DNA damage. MCPH1 forms oligomers through the second and third BRCT domains. An MCPH1 mutant containing only its oligomerization domain has a dominant-negative role by blocking MCPH1 binding to E2F1. It also inhibits p73 induction in DNA damage and E2F1-dependent apoptosis. Taken together, MCPH1 cooperates with E2F1 to regulate genes involved in DNA repair, checkpoint and apoptosis, and might participate in the maintenance of genomic integrity.
+
+-Apoptosis (-drug effects; -genetics; +physiology)
+-Carrier Proteins (-genetics; -metabolism)
+-Cell Line
+-Cell Line, Tumor
+-Chromatin Immunoprecipitation
+-DNA Repair (-drug effects; -genetics; +physiology)
+-DNA-Binding Proteins (-genetics; -metabolism)
+-Doxorubicin (-pharmacology)
+-E2F1 Transcription Factor (-genetics; +metabolism)
+-Humans
+-Immunoblotting
+-Mutation
+-Nerve Tissue Proteins (-genetics; +metabolism)
+-Nuclear Proteins (-genetics; -metabolism)
+-Promoter Regions, Genetic
+-Protein Binding
+-Protein Kinases (-genetics; -metabolism)
+-Rad51 Recombinase (-genetics; -metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Transfection
+-Tumor Suppressor Proteins (-genetics; -metabolism)
+
+pii:embor2008128
+doi:10.1038/embor.2008.128
+pubmed:18660752
+pmc:PMC2529348
+

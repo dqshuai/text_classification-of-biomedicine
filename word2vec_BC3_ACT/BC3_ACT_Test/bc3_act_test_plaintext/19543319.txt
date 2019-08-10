@@ -1,0 +1,28 @@
+Oncogene
+
+Cyclic GMP-dependent protein kinase II inhibits cell proliferation, Sox9 expression and Akt phosphorylation in human glioma cell lines.
+
+FJ Swartling, M Ferletta, M Kastemar, WA Weiss, B Westermark
+
+Earlier we used a glioma model to identify loci in the mouse genome, which were repeatedly targeted by platelet-derived growth factor (PDGF)-containing Moloney murine leukemia viruses. The gene Prkg2, encoding cyclic guanosine monophosphate (cGMP)-dependent protein kinase II, cGKII, was tagged by retroviral insertions in two brain tumors. The insertions were both situated upstream of the kinase domain and suggested creating a truncated form of the cGKII protein. We transfected different human glioma cell lines with Prkg2 and found an overall reduction in colony formation and cell proliferation compared with controls transfected with truncated Prkg2 (lacking the kinase domain) or empty vector. All glioma cells transfected with the cGKII phosphorylate vasodilator-stimulated phosphoprotein, VASP, after cGMP analog treatment. Glioma cell lines positive for the Sox9 transcription factor showed reduced Sox9 expression when Prkg2 was stably transfected. When cGKII was activated by cGMP analog treatment, Sox9 was phosphorylated, Sox9 protein expression was suppressed and the glioma cell lines displayed loss of cell adhesion, inhibition of Akt phosphorylation and G1 arrest. Sox9 repression by siRNA was similarly shown to reduce glioma cell proliferation. Expression analysis of stem and glial lineage cell markers also suggests that cGKII induces differentiation of glioma cell lines. These findings describe an anti-proliferative role of cGKII in human glioma biology and would further explain the retroviral tagging of the cGKII gene during brain tumor formation in PDGF-induced tumors.
+
+-Cell Adhesion (-physiology)
+-Cell Culture Techniques
+-Cell Line, Tumor
++Cell Proliferation
+-Culture Media, Serum-Free
+-Cyclic GMP-Dependent Protein Kinases (-genetics; -metabolism; +physiology)
+-Genetic Vectors
+-Glioma (+pathology)
+-Humans
+-Phosphorylation
+-Proto-Oncogene Proteins c-akt (+metabolism)
+-Retroviridae (-genetics)
+-SOX9 Transcription Factor (-genetics; +metabolism)
+-Time Factors
+-Transfection
+
+pii:onc2009168
+doi:10.1038/onc.2009.168
+pubmed:19543319
+

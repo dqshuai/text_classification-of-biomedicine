@@ -1,0 +1,18 @@
+PLoS ONE
+
+A tale of four "carp": invasion potential and ecological niche modeling.
+
+SC DeVaney, KM McNyset, JB Williams, AT Peterson, EO Wiley
+
+BACKGROUND: Invasive species are a serious problem in ecosystems, but are difficult to eradicate once established. Predictive methods can be key in determining which areas are of concern regarding invasion by such species to prevent establishment [1]. We assessed the geographic potential of four Eurasian cyprinid fishes (common carp, tench, grass carp, black carp) as invaders in North America via ecological niche modeling (ENM). These "carp" represent four stages of invasion of the continent (a long-established invader with a wide distribution, a long-established invader with a limited distribution, a spreading invader whose distribution is expanding, and a newly introduced potential invader that is not yet established), and as such illustrate the progressive reduction of distributional disequilibrium over the history of species' invasions. METHODOLOGY/PRINCIPAL FINDINGS: We used ENM to estimate the potential distributional area for each species in North America using models based on native range distribution data. Environmental data layers for native and introduced ranges were imported from state, national, and international climate and environmental databases. Models were evaluated using independent validation data on native and invaded areas. We calculated omission error for the independent validation data for each species: all native range tests were highly successful (all omission values <7%); invaded-range predictions were predictive for common and grass carp (omission values 8.8 and 19.8%, respectively). Model omission was high for introduced tench populations (54.7%), but the model correctly identified some areas where the species has been successful; distributional predictions for black carp show that large portions of eastern North America are at risk. CONCLUSIONS/SIGNIFICANCE: ENMs predicted potential ranges of carp species accurately even in regions where the species have not been present until recently. ENM can forecast species' potential geographic ranges with reasonable precision and within the short screening time required by proposed U.S. invasive species legislation.
+
+-Animals
+-Carps (-classification; +physiology)
++Ecosystem
++Models, Biological
+-Population Dynamics
+
+doi:10.1371/journal.pone.0005451
+pubmed:19421314
+pmc:PMC2673581
+

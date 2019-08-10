@@ -1,0 +1,27 @@
+BMC Genomics
+
+Discovery and mapping of single feature polymorphisms in wheat using Affymetrix arrays.
+
+AN Bernardo, PJ Bradbury, H Ma, S Hu, RL Bowden, ES Buckler, G Bai
+
+BACKGROUND: Wheat (Triticum aestivum L.) is a staple food crop worldwide. The wheat genome has not yet been sequenced due to its huge genome size (approximately 17,000 Mb) and high levels of repetitive sequences; the whole genome sequence may not be expected in the near future. Available linkage maps have low marker density due to limitation in available markers; therefore new technologies that detect genome-wide polymorphisms are still needed to discover a large number of new markers for construction of high-resolution maps. A high-resolution map is a critical tool for gene isolation, molecular breeding and genomic research. Single feature polymorphism (SFP) is a new microarray-based type of marker that is detected by hybridization of DNA or cRNA to oligonucleotide probes. This study was conducted to explore the feasibility of using the Affymetrix GeneChip to discover and map SFPs in the large hexaploid wheat genome. RESULTS: Six wheat varieties of diverse origins (Ning 7840, Clark, Jagger, Encruzilhada, Chinese Spring, and Opata 85) were analyzed for significant probe by variety interactions and 396 probe sets with SFPs were identified. A subset of 164 unigenes was sequenced and 54% showed polymorphism within probes. Microarray analysis of 71 recombinant inbred lines from the cross Ning 7840/Clark identified 955 SFPs and 877 of them were mapped together with 269 simple sequence repeat markers. The SFPs were randomly distributed within a chromosome but were unevenly distributed among different genomes. The B genome had the most SFPs, and the D genome had the least. Map positions of a selected set of SFPs were validated by mapping single nucleotide polymorphism using SNaPshot and comparing with expressed sequence tags mapping data. CONCLUSION: The Affymetrix array is a cost-effective platform for SFP discovery and SFP mapping in wheat. The new high-density map constructed in this study will be a useful tool for genetic and genomic research in wheat.
+
+-Chromosome Mapping (+methods)
+-Chromosomes, Plant
+-Cluster Analysis
+-Genes, Plant
+-Genetic Markers
+-Genome, Plant
+-Genomics (+methods)
+-Nucleic Acid Probes
+-Oligonucleotide Array Sequence Analysis
++Polymorphism, Single Nucleotide
+-RNA, Complementary (-genetics)
+-RNA, Plant (-genetics)
+-Triticum (+genetics)
+
+pii:1471-2164-10-251
+doi:10.1186/1471-2164-10-251
+pubmed:19480702
+pmc:PMC2698007
+

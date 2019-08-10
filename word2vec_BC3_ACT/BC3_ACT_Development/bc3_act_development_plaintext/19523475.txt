@@ -1,0 +1,25 @@
+J. Mol. Biol.
+
+Conversion of linear DNA with hairpin telomeres into a circular molecule in the course of phage N15 lytic replication.
+
+AV Mardanov, NV Ravin
+
+The prophage of temperate coliphage N15 is not integrated into the bacterial chromosome but exists as a linear plasmid molecule with covalently closed ends. Upon infection of an Escherichia coli cell, the phage DNA circularises via cohesive ends. A phage-encoded enzyme, protelomerase, then cuts at another site, telRL, and forms hairpin ends (telomeres) of linear plasmid prophage. Bidirectional replication of a linear plasmid produces a molecule with duplicated telomeres that is subsequently resolved into unit-length plasmids by protelomerase. Here, we analysed the structures of N15 DNA in the course of phage lytic development and found that, upon circularisation of infecting phage DNA, the circular molecule is not used to initiate lambda-like lytic replication but is converted into a linear plasmid. Replication of N15 DNA then follows the plasmid mode, and only at late steps did the circular unit-length molecules that could start lambda-like late replication and DNA encapsidation appear. Consistently, we found that protelomerase is required not only for plasmid replication but also for phage N15 lytic development. We found that conversion of linear plasmid with hairpin telomeres into a circular molecule with unresolved telomeres in the course of lytic development depends on N15 DNA replication, suggesting that the circular monomer is generated not directly from a linear plasmid in reverse "telomere fusion" reaction but results from resolution of a circular dimer intermediate of plasmid replication into two circular molecules with joined telRL telomeres. Mutation H415A in protelomerase results in accumulation of monomeric circular molecules in the course of replication of linear plasmid. The switch to circular plasmid formation in the course of lytic replication of N15 may result from depletion of protelomerase or modification of its activity by some phage-encoded factor at late steps of lytic growth.
+
+-Bacteriolysis
+-Coliphages (-enzymology; -genetics; +physiology)
+-DNA Replication
+-DNA, Circular (+biosynthesis; -chemistry)
+-DNA, Viral (+biosynthesis; -chemistry)
+-Enzyme Precursors (-genetics; -metabolism)
+-Mutation
+-Nucleic Acid Conformation
+-Telomerase (-genetics; -metabolism)
+-Telomere (-chemistry; -genetics; +physiology)
+-Viral Proteins (-genetics; -metabolism)
++Virus Replication
+
+pii:S0022-2836(09)00725-6
+doi:10.1016/j.jmb.2009.06.021
+pubmed:19523475
+

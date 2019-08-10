@@ -1,0 +1,27 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Multimeric nature of voltage-gated proton channels.
+
+HP Koch, T Kurokawa, Y Okochi, M Sasaki, Y Okamura, HP Larsson
+
+Voltage-gated potassium channels are comprised of four subunits, and each subunit has a pore domain and a voltage-sensing domain (VSD). The four pore domains assemble to form one single central pore, and the four individual VSDs control the gate of the pore. Recently, a family of voltage-gated proton channels, such as H(V) or voltage sensor only protein (VSOP), was discovered that contain a single VSD but no pore domain. It has been assumed that VSOP channels are monomeric and contain a single VSD that functions as both the VSD and the pore domain. It remains unclear, however, how a protein that contains only a VSD and no pore domain can conduct ions. Using fluorescence measurements and immunoprecipitation techniques, we show here that VSOP channels are expressed as multimeric channels. Further, FRET experiments on constructs with covalently linked subunits show that VSOP channels are dimers. Truncation of the cytoplasmic regions of VSOP reduced the dimerization, suggesting that the dimerization is caused mainly by cytoplasmic protein-protein interactions. However, these N terminus- and C terminus-deleted channels displayed large proton currents. Therefore, we conclude that even though VSOP channels are expressed mainly as dimers in the cell membrane, single VSOP subunits could function independently as proton channels.
+
+-Animals
+-Cell Line
+-Cell Membrane (-metabolism)
+-Ciona intestinalis
+-Cytoplasm (-metabolism)
+-Dimerization
+-Humans
+-Immunoprecipitation
++Ion Channel Gating
+-Ion Channels (+metabolism)
+-Protein Subunits (-metabolism)
++Protons
+-Xenopus
+
+pii:0801553105
+doi:10.1073/pnas.0801553105
+pubmed:18583477
+pmc:PMC2449373
+

@@ -1,0 +1,31 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+The AMPK agonist AICAR inhibits the growth of EGFRvIII-expressing glioblastomas by inhibiting lipogenesis.
+
+D Guo, IJ Hildebrandt, RM Prins, H Soto, MM Mazzotta, J Dang, J Czernin, JY Shyy, AD Watson, M Phelps, CG Radu, TF Cloughesy, PS Mischel
+
+The EGFR/PI3K/Akt/mTOR signaling pathway is activated in many cancers including glioblastoma, yet mTOR inhibitors have largely failed to show efficacy in the clinic. Rapamycin promotes feedback activation of Akt in some patients, potentially underlying clinical resistance and raising the need for alternative approaches to block mTOR signaling. AMPK is a metabolic checkpoint that integrates growth factor signaling with cellular metabolism, in part by negatively regulating mTOR. We used pharmacological and genetic approaches to determine whether AMPK activation could block glioblastoma growth and cellular metabolism, and we examined the contribution of EGFR signaling in determining response in vitro and in vivo. The AMPK-agonist AICAR, and activated AMPK adenovirus, inhibited mTOR signaling and blocked the growth of glioblastoma cells expressing the activated EGFR mutant, EGFRvIII. Across a spectrum of EGFR-activated cancer cell lines, AICAR was more effective than rapamycin at blocking tumor cell proliferation, despite less efficient inhibition of mTORC1 signaling. Unexpectedly, addition of the metabolic products of cholesterol and fatty acid synthesis rescued the growth inhibitory effect of AICAR, whereas inhibition of these lipogenic enzymes mimicked AMPK activation, thus demonstrating that AMPK blocked tumor cell proliferation primarily through inhibition of cholesterol and fatty acid synthesis. Most importantly, AICAR treatment in mice significantly inhibited the growth and glycolysis (as measured by (18)fluoro-2-deoxyglucose microPET) of glioblastoma xenografts engineered to express EGFRvIII, but not their parental counterparts. These results suggest a mechanism by which AICAR inhibits the proliferation of EGFRvIII expressing glioblastomas and point toward a potential therapeutic strategy for targeting EGFR-activated cancers.
+
+-AMP-Activated Protein Kinases (-physiology)
+-Aminoimidazole Carboxamide (+analogs & derivatives; -pharmacology)
+-Animals
+-Cell Line, Tumor
+-Cell Proliferation (-drug effects)
+-Glioblastoma (+drug therapy; -pathology)
+-Humans
+-Lipogenesis (+drug effects)
+-Mice
+-PTEN Phosphohydrolase (-physiology)
+-Protein Kinases (-drug effects)
+-Receptor, Epidermal Growth Factor (-analysis; +physiology)
+-Ribonucleotides (+pharmacology)
+-Ribosomal Protein S6 Kinases (-physiology)
+-Ribosomal Protein S6 Kinases, 90-kDa (-physiology)
+-Signal Transduction (-drug effects)
+-Sirolimus (-pharmacology)
+
+pii:0906606106
+doi:10.1073/pnas.0906606106
+pubmed:19625624
+pmc:PMC2714280
+

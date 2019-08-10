@@ -1,0 +1,20 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Docking for fragment inhibitors of AmpC beta-lactamase.
+
+DG Teotico, K Babaoglu, GJ Rocklin, RS Ferreira, AM Giannetti, BK Shoichet
+
+Fragment screens for new ligands have had wide success, notwithstanding their constraint to libraries of 1,000-10,000 molecules. Larger libraries would be addressable were molecular docking reliable for fragment screens, but this has not been widely accepted. To investigate docking's ability to prioritize fragments, a library of >137,000 such molecules were docked against the structure of beta-lactamase. Forty-eight fragments highly ranked by docking were acquired and tested; 23 had K(i) values ranging from 0.7 to 9.2 mM. X-ray crystal structures of the enzyme-bound complexes were determined for 8 of the fragments. For 4, the correspondence between the predicted and experimental structures was high (RMSD between 1.2 and 1.4 A), whereas for another 2, the fidelity was lower but retained most key interactions (RMSD 2.4-2.6 A). Two of the 8 fragments adopted very different poses in the active site owing to enzyme conformational changes. The 48% hit rate of the fragment docking compares very favorably with "lead-like" docking and high-throughput screening against the same enzyme. To understand this, we investigated the occurrence of the fragment scaffolds among larger, lead-like molecules. Approximately 1% of commercially available fragments contain these inhibitors whereas only 10(-7)% of lead-like molecules do. This suggests that many more chemotypes and combinations of chemotypes are present among fragments than are available among lead-like molecules, contributing to the higher hit rates. The ability of docking to prioritize these fragments suggests that the technique can be used to exploit the better chemotype coverage that exists at the fragment level.
+
+-Bacterial Proteins (+antagonists & inhibitors; +chemistry)
+-Combinatorial Chemistry Techniques
++Drug Discovery
+-Enzyme Inhibitors (+chemistry; -isolation & purification; -pharmacology)
+-Ligands
+-beta-Lactamases (+antagonists & inhibitors; +chemistry)
+
+pii:0813029106
+doi:10.1073/pnas.0813029106
+pubmed:19416920
+pmc:PMC2671983
+

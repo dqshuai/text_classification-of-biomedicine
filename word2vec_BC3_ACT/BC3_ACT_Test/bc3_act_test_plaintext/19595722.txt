@@ -1,0 +1,39 @@
+Mol. Cell
+
+Drosophila MUS312 and the vertebrate ortholog BTBD12 interact with DNA structure-specific endonucleases in DNA repair and recombination.
+
+SL Andersen, DT Bergstralh, KP Kohl, JR LaRocque, CB Moore, J Sekelsky
+
+DNA recombination and repair pathways require structure-specific endonucleases to process DNA structures that include forks, flaps, and Holliday junctions. Previously, we determined that the Drosophila MEI-9-ERCC1 endonuclease interacts with the MUS312 protein to produce meiotic crossovers, and that MUS312 has a MEI-9-independent role in interstrand crosslink (ICL) repair. The importance of MUS312 to pathways crucial for maintaining genomic stability in Drosophila prompted us to search for orthologs in other organisms. Based on sequence, expression pattern, conserved protein-protein interactions, and ICL repair function, we determined that the mammalian ortholog of MUS312 is BTBD12. Orthology between these proteins and S. cerevisiae Slx4 helped identify a conserved interaction with a second structure-specific endonuclease, SLX1. Genetic and biochemical evidence described here and in related papers suggest that MUS312 and BTBD12 direct Holliday junction resolution by at least two distinct endonucleases in different recombination and repair contexts.
+
+-Amino Acid Sequence
+-Animals
+-Brain (-abnormalities; -metabolism)
++DNA Repair
+-Drosophila Proteins (-genetics; +metabolism)
+-Drosophila melanogaster (-genetics; -growth & development)
+-Endodeoxyribonucleases (-genetics; -metabolism)
+-Endonucleases (-genetics; +metabolism)
+-Female
+-Gene Expression Profiling
+-Hela Cells
+-Humans
+-Male
+-Mice
+-Molecular Sequence Data
+-Mutation
+-Protein Binding
+-RNA, Small Interfering (-genetics)
+-Recombinases (-genetics; +metabolism)
++Recombination, Genetic
+-Saccharomyces cerevisiae Proteins (-genetics; -metabolism)
+-Sequence Homology, Amino Acid
+-Transfection
+-Two-Hybrid System Techniques
+
+pii:S1097-2765(09)00432-8
+doi:10.1016/j.molcel.2009.06.019
+pubmed:19595722
+mid:NIHMS128969
+pmc:PMC2746756
+

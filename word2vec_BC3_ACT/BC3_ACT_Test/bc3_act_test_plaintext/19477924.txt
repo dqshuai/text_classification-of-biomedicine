@@ -1,0 +1,32 @@
+Mol. Biol. Cell
+
+Cdh1 regulates cell cycle through modulating the claspin/Chk1 and the Rb/E2F1 pathways.
+
+D Gao, H Inuzuka, M Korenjak, A Tseng, T Wu, L Wan, M Kirschner, N Dyson, W Wei
+
+APC/Cdh1 is a major cell cycle regulator and its function has been implicated in DNA damage repair; however, its exact role remains unclear. Using affinity purification coupled with mass spectrometry, we identified Claspin as a novel Cdh1-interacting protein and further demonstrated that Claspin is a novel Cdh1 ubiquitin substrate. As a result, inactivation of Cdh1 leads to activation of the Claspin/Chk1 pathway. Previously, we demonstrated that Rb interacts with Cdh1 to influence its ability to degrade Skp2. Here, we report that Cdh1 reciprocally regulates the Rb pathway through competing with E2F1 to bind the hypophosphorylated form of Rb. Although inactivation of Cdh1 in HeLa cells, with defective p53/Rb pathways, led to premature S phase entry, acute depletion of Cdh1 in primary human fibroblasts resulted in premature senescence. Acute loss of many other major tumor suppressors, including PTEN and VHL, also induces premature senescence in a p53- or Rb-dependent manner. Similarly, we showed that inactivation of the p53/Rb pathways by overexpression of SV40 LT-antigen partially reversed Cdh1 depletion-induced growth arrest. Therefore, loss of Cdh1 is only beneficial to cells with abnormal p53 and Rb pathways, which helps explain why Cdh1 loss is not frequently found in many tumors.
+
+-Adaptor Proteins, Signal Transducing (-chemistry; +metabolism)
+-Antigens, Polyomavirus Transforming (-metabolism)
+-Cadherins (-deficiency; +metabolism)
+-Cell Aging
++Cell Cycle
+-Cells, Cultured
+-E2F1 Transcription Factor (+metabolism)
+-Enzyme Activation
+-Fibroblasts (-cytology; -enzymology)
+-G1 Phase
+-Humans
+-Phenotype
+-Protein Binding
+-Protein Kinases (+metabolism)
+-Protein Processing, Post-Translational
+-Protein Stability
+-Retinoblastoma Protein (+metabolism)
+-Tumor Suppressor Protein p53 (-metabolism)
+
+pii:E09-01-0092
+doi:10.1091/mbc.E09-01-0092
+pubmed:19477924
+pmc:PMC2710831
+

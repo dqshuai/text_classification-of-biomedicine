@@ -1,0 +1,28 @@
+PLoS ONE
+
+Differential role of autophagy in CD4 T cells and macrophages during X4 and R5 HIV-1 infection.
+
+L Espert, M Varbanov, V Robert-Hebmann, S Sagnier, I Robbins, F Sanchez, V Lafont, M Biard-Piechaczyk
+
+BACKGROUND: HIV-1 can infect and replicate in both CD4 T cells and macrophages. In these cell types, HIV-1 entry is mediated by the binding of envelope glycoproteins (gp120 and gp41, Env) to the receptor CD4 and a coreceptor, principally CCR5 or CXCR4, depending on the viral strain (R5 or X4, respectively). Uninfected CD4 T cells undergo X4 Env-mediated autophagy, leading to their apoptosis, a mechanism now recognized as central to immunodeficiency. METHODOLOGY/PRINCIPAL FINDINGS: We demonstrate here that autophagy and cell death are also induced in the uninfected CD4 T cells by HIV-1 R5 Env, while autophagy is inhibited in productively X4 or R5-infected CD4 T cells. In contrast, uninfected macrophages, a preserved cell population during HIV-1 infection, do not undergo X4 or R5 Env-mediated autophagy. Autophagosomes, however, are present in macrophages exposed to infectious HIV-1 particles, independently of coreceptor use. Interestingly, we observed two populations of autophagic cells: one highly autophagic and the other weakly autophagic. Surprisingly, viruses could be detected in the weakly autophagic cells but not in the highly autophagic cells. In addition, we show that the triggering of autophagy in macrophages is necessary for viral replication but addition of Bafilomycin A1, which blocks the final stages of autophagy, strongly increases productive infection. CONCLUSIONS/SIGNIFICANCE: Taken together, our data suggest that autophagy plays a complex, but essential, role in HIV pathology by regulating both viral replication and the fate of the target cells.
+
+-Apoptosis
++Autophagy
+-CD4-Positive T-Lymphocytes (+metabolism)
+-Cell Lineage
+-Coculture Techniques
+-Flow Cytometry (-methods)
+-Green Fluorescent Proteins (-metabolism)
+-HIV Envelope Protein gp120 (-metabolism)
+-HIV-1 (+metabolism)
+-Humans
+-Macrolides (-pharmacology)
+-Macrophages (-metabolism)
+-Microscopy, Electron, Transmission (-methods)
+-Phagosomes (-metabolism)
+-Species Specificity
+
+doi:10.1371/journal.pone.0005787
+pubmed:19492063
+pmc:PMC2686268
+

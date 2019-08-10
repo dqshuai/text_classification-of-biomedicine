@@ -1,0 +1,27 @@
+Structure
+
+Crystal structure of the CaV2 IQ domain in complex with Ca2+/calmodulin: high-resolution mechanistic implications for channel regulation by Ca2+.
+
+MX Mori, CW Vander Kooi, DJ Leahy, DT Yue
+
+Calmodulin (CaM) regulation of Ca(2+) channels is central to Ca(2+) signaling. Ca(V)1 versus Ca(V)2 classes of these channels exhibit divergent forms of regulation, potentially relating to customized CaM/IQ interactions among different channels. Here we report the crystal structures for the Ca(2+)/CaM IQ domains of both Ca(V)2.1 and Ca(V)2.3 channels. These highly similar structures emphasize that major CaM contacts with the IQ domain extend well upstream of traditional consensus residues. Surprisingly, upstream mutations strongly diminished Ca(V)2.1 regulation, whereas downstream perturbations had limited effects. Furthermore, our Ca(V)2 structures closely resemble published Ca(2+)/CaM-Ca(V)1.2 IQ structures, arguing against Ca(V)1/2 regulatory differences based solely on contrasting CaM/IQ conformations. Instead, alanine scanning of the Ca(V)2.1 IQ domain, combined with structure-based molecular simulation of corresponding CaM/IQ binding energy perturbations, suggests that the C lobe of CaM partially dislodges from the IQ element during channel regulation, allowing exposed IQ residues to trigger regulation via isoform-specific interactions with alternative channel regions.
+
+-Alanine (-genetics)
+-Amino Acid Sequence
+-Calcium (+chemistry)
+-Calcium Channels, N-Type (+chemistry; -genetics)
+-Calcium Channels, R-Type (+chemistry)
+-Calmodulin (+chemistry)
+-Crystallography, X-Ray
++Models, Molecular
+-Molecular Sequence Data
+-Mutagenesis
+-Protein Structure, Tertiary
+-Sequence Homology, Amino Acid
+
+pii:S0969-2126(08)00065-8
+doi:10.1016/j.str.2008.01.011
+pubmed:18400181
+mid:NIHMS46478
+pmc:PMC2363160
+

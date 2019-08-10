@@ -1,0 +1,28 @@
+J. Virol.
+
+The spike protein of murine coronavirus regulates viral genome transport from the cell surface to the endoplasmic reticulum during infection.
+
+H Zhu, D Yu, X Zhang
+
+We observed that the nonfusogenic mouse hepatitis virus (MHV) strain MHV-2 reached a titer of approximately 2 log10 higher than that of the fusogenic strain A59 in astrocytoma DBT cells. To determine whether the spike protein is responsible for the difference, a recombinant virus, Penn-98-1, that contains the A59 genome with a spike from MHV-2 was used to infect DBT cells. Results showed that Penn-98-1 behaved like MHV-2, thus establishing a role for the spike protein in viral growth. The inverse correlation between viral fusogenicity and growth was further established in four different cell types and with a fusogenic mutant, the S757R mutant, derived from isogenic Penn-98-1. While both A59 and Penn-98-1 entered cells at similar levels, viral RNA and protein syntheses were significantly delayed for A59. Interestingly, when the genomic RNAs were delivered directly into the cells via transfection, the levels of gene expression for these viruses were similar. Furthermore, cell fractionation experiments revealed that significantly more genomic RNAs for the nonfusogenic MHVs were detected in the endoplasmic reticulum (ER) within the first 2 h after infection than for the fusogenic MHVs. Pretreatment of Penn-98-1 with trypsin reversed its properties in syncytium formation, virus production, and genome transport to the ER. These findings identified a novel role for the spike protein in regulating the uncoating and delivery of the viral genome to the ER after internalization.
+
+-Animals
+-Cell Line, Tumor
+-Cell Membrane (+virology)
+-Endoplasmic Reticulum (+virology)
++Gene Expression Regulation, Viral
+-Genome, Viral (+physiology)
+-Membrane Fusion (-genetics)
+-Membrane Glycoproteins (-genetics; +metabolism)
+-Mice
+-Murine hepatitis virus (-genetics; -metabolism; +pathogenicity)
+-Mutation
+-NIH 3T3 Cells
+-Viral Envelope Proteins (-genetics; +metabolism)
+-Virulence
+
+pii:JVI.00956-09
+doi:10.1128/JVI.00956-09
+pubmed:19570858
+pmc:PMC2753108
+

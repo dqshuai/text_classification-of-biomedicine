@@ -1,0 +1,27 @@
+PLoS Genet.
+
+Run-off replication of host-adaptability genes is associated with gene transfer agents in the genome of mouse-infecting Bartonella grahamii.
+
+EC Berglund, AC Frank, A Calteau, O Vinnere Pettersson, F Granberg, AS Eriksson, K Näslund, M Holmberg, H Lindroos, SG Andersson
+
+The genus Bartonella comprises facultative intracellular bacteria adapted to mammals, including previously recognized and emerging human pathogens. We report the 2,341,328 bp genome sequence of Bartonella grahamii, one of the most prevalent Bartonella species in wild rodents. Comparative genomics revealed that rodent-associated Bartonella species have higher copy numbers of genes for putative host-adaptability factors than the related human-specific pathogens. Many of these gene clusters are located in a highly dynamic region of 461 kb. Using hybridization to a microarray designed for the B. grahamii genome, we observed a massive, putatively phage-derived run-off replication of this region. We also identified a novel gene transfer agent, which packages the bacterial genome, with an over-representation of the amplified DNA, in 14 kb pieces. This is the first observation associating the products of run-off replication with a gene transfer agent. Because of the high concentration of gene clusters for host-adaptation proteins in the amplified region, and since the genes encoding the gene transfer agent and the phage origin are well conserved in Bartonella, we hypothesize that these systems are driven by selection. We propose that the coupling of run-off replication with gene transfer agents promotes diversification and rapid spread of host-adaptability factors, facilitating host shifts in Bartonella.
+
+-Animals
+-Bacterial Proteins (-genetics; -metabolism)
+-Bacteriophages (-genetics; +physiology)
+-Bartonella (-classification; -genetics; -metabolism; +virology)
+-Bartonella Infections (+microbiology)
+-Disease Reservoirs (+microbiology)
++Gene Transfer, Horizontal
++Genome, Bacterial
+-Host-Pathogen Interactions
+-Humans
+-Mice (+microbiology)
+-Molecular Sequence Data
+-Phylogeny
++Virus Replication
+
+doi:10.1371/journal.pgen.1000546
+pubmed:19578403
+pmc:PMC2697382
+

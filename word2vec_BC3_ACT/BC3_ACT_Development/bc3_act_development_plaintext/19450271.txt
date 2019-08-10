@@ -1,0 +1,24 @@
+BMC Bioinformatics
+
+Global optimal eBURST analysis of multilocus typing data using a graphic matroid approach.
+
+AP Francisco, M Bugalho, M Ramirez, JA Carriço
+
+BACKGROUND: Multilocus Sequence Typing (MLST) is a frequently used typing method for the analysis of the clonal relationships among strains of several clinically relevant microbial species. MLST is based on the sequence of housekeeping genes that result in each strain having a distinct numerical allelic profile, which is abbreviated to a unique identifier: the sequence type (ST). The relatedness between two strains can then be inferred by the differences between allelic profiles. For a more comprehensive analysis of the possible patterns of evolutionary descent, a set of rules were proposed and implemented in the eBURST algorithm. These rules allow the division of a data set into several clusters of related strains, dubbed clonal complexes, by implementing a simple model of clonal expansion and diversification. Within each clonal complex, the rules identify which links between STs correspond to the most probable pattern of descent. However, the eBURST algorithm is not globally optimized, which can result in links, within the clonal complexes, that violate the rules proposed. RESULTS: Here, we present a globally optimized implementation of the eBURST algorithm - goeBURST. The search for a global optimal solution led to the formalization of the problem as a graphic matroid, for which greedy algorithms that provide an optimal solution exist. Several public data sets of MLST data were tested and differences between the two implementations were found and are discussed for five bacterial species: Enterococcus faecium, Streptococcus pneumoniae, Burkholderia pseudomallei, Campylobacter jejuni and Neisseria spp.. A novel feature implemented in goeBURST is the representation of the level of tiebreak rule reached before deciding if a link should be drawn, which can used to visually evaluate the reliability of the represented hypothetical pattern of descent. CONCLUSION: goeBURST is a globally optimized implementation of the eBURST algorithm, that identifies alternative patterns of descent for several bacterial species. Furthermore, the algorithm can be applied to any multilocus typing data based on the number of differences between numeric profiles. A software implementation is available at http://goeBURST.phyloviz.net.
+
+-Algorithms
+-Bacteria (+genetics)
++Cluster Analysis
+-Databases, Genetic
+-Evolution, Molecular
+-Genes, Bacterial
+-Genomics (+methods)
+-Models, Genetic
+-Sequence Analysis, DNA (+methods)
++Software
+
+pii:1471-2105-10-152
+doi:10.1186/1471-2105-10-152
+pubmed:19450271
+pmc:PMC2705362
+

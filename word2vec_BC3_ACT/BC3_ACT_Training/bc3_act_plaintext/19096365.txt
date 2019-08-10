@@ -1,0 +1,27 @@
+EMBO J.
+
+Structure of the transcriptional regulator LmrR and its mechanism of multidrug recognition.
+
+PK Madoori, H Agustiandari, AJ Driessen, AM Thunnissen
+
+LmrR is a PadR-related transcriptional repressor that regulates the production of LmrCD, a major multidrug ABC transporter in Lactococcus lactis. Transcriptional regulation is presumed to follow a drug-sensitive induction mechanism involving the direct binding of transporter ligands to LmrR. Here, we present crystal structures of LmrR in an apo state and in two drug-bound states complexed with Hoechst 33342 and daunomycin. LmrR shows a common topology containing a typical beta-winged helix-turn-helix domain with an additional C-terminal helix involved in dimerization. Its dimeric organization is highly unusual with a flat-shaped hydrophobic pore at the dimer centre serving as a multidrug-binding site. The drugs bind in a similar manner with their aromatic rings sandwiched in between the indole groups of two dimer-related tryptophan residues. Multidrug recognition is facilitated by conformational plasticity and the absence of drug-specific hydrogen bonds. Combined analyses using site-directed mutagenesis, fluorescence-based drug binding and protein-DNA gel shift assays reveal an allosteric coupling between the multidrug- and DNA-binding sites of LmrR that most likely has a function in the induction mechanism.
+
+-Amino Acid Sequence
+-Bacterial Proteins (+chemistry; -metabolism)
+-Benzimidazoles (+chemistry)
+-Daunorubicin (+chemistry)
+-Dimerization
+-Helix-Turn-Helix Motifs
+-Hydrogen Bonding
+-Lactococcus lactis (+metabolism)
++Models, Molecular
+-Molecular Sequence Data
+-Protein Binding
+-Protein Conformation
+-Transcription, Genetic
+
+pii:emboj2008263
+doi:10.1038/emboj.2008.263
+pubmed:19096365
+pmc:PMC2634732
+

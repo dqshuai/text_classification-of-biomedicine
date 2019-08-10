@@ -1,0 +1,30 @@
+Proteomics
+
+Phosphoproteomic analysis of distinct tumor cell lines in response to nocodazole treatment.
+
+K Nagano, T Shinkawa, H Mutoh, O Kondoh, S Morimoto, N Inomata, M Ashihara, N Ishii, Y Aoki, M Haramura
+
+Here, we report for the first time a comparative phosphoproteomic analysis of distinct tumor cell lines in the presence or absence of the microtubule-interfering agent nocodazole. In total, 1525 phosphorylation sites assigned to 726 phosphoproteins were identified using LC-MS-based technology following phosphopeptide enrichment. Analysis of the amino acid composition surrounding the identified in vivo phosphorylation sites revealed that they could be classified into two motif groups: pSer-Pro and pSer-Asp/Glu. Phosphoproteomic change resulting from nocodazole treatment varied among cell lines in terms of the numbers of total phosphopeptides identified, motif groups, and functional annotation groups; however, the cell lines were equally sensitive to nocodazole. The identified phosphoproteome subset contained major signaling proteins and proteins known to be involved in mitosis, but did not always exhibit the same changes in the tumor cells from nocodazole treatment. In spite of the complex changes observed in the phosphorylation of many of the proteins, possible common features induced by nocodazole were found, including phosphorylation of nucleophosmin (NPM) S254 and coatomer protein complex, subunit alpha (COPA) S173, suggesting that the events are not cell-type specific but events generally occurring in mitosis or induced by a microtubule-interfering agent. Further, temporal analysis of phosphoproteome change revealed that phosphorylation of NPM S254 and COPA S173 was observed from the early (6 h) and late (24 h) time point after nocodazole treatment, respectively, suggesting that NPM S254 may be involved in the induction of M-phase arrest by nocodazole, whereas COPA S173 may be caused as a result of M-phase arrest.
+
+-Amino Acid Sequence
+-Cell Line, Tumor
+-Chromatography, Liquid
+-Gene Expression Regulation, Neoplastic (+drug effects)
+-HCT116 Cells
+-Hela Cells
+-Humans
+-Mass Spectrometry
+-Mitosis
+-Molecular Sequence Data
+-Neoplasm Proteins (+analysis; -genetics; -metabolism)
+-Nocodazole (+pharmacology)
+-Phosphoproteins (+analysis; -metabolism)
+-Phosphorylation
+-Protein Structure, Tertiary
+-Proteomics
+-Signal Transduction
+-Time Factors
+
+doi:10.1002/pmic.200800667
+pubmed:19415658
+

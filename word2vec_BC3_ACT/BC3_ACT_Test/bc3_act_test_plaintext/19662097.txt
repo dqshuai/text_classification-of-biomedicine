@@ -1,0 +1,33 @@
+PLoS ONE
+
+Protein kinase Cdelta stimulates proteasome-dependent degradation of C/EBPalpha during apoptosis induction of leukemic cells.
+
+M Zhao, XF Duan, XY Zhao, B Zhang, Y Lu, W Liu, JK Cheng, GQ Chen
+
+BACKGROUND: The precise regulation and maintenance of balance between cell proliferation, differentiation and death in metazoan are critical for tissue homeostasis. CCAAT/enhancer-binding protein alpha (C/EBPalpha) has been implicated as a key regulator of differentiation and proliferation in various cell types. Here we investigated the potential dynamic change and role of C/EBPalpha protein during apoptosis induction. METHODOLOGY/PRINCIPAL FINDINGS: Upon onset of apoptosis induced by various kinds of inducers such as NSC606985, etoposide and others, C/EBPalpha expression presented a profound down-regulation in leukemic cell lines and primary cells via induction of protein degradation and inhibition of transcription, as assessed respectively by cycloheximide inhibition test, real-time quantitative RT-PCR and luciferase reporter assay. Applying chemical inhibition, forced expression of dominant negative mutant and catalytic fragment (CF) of protein kinase Cdelta (PKCdelta), which was proteolytically activated during apoptosis induction tested, we showed that the active PKCdelta protein contributed to the increased degradation of C/EBPalpha protein. Three specific proteasome inhibitors antagonized C/EBPalpha degradation during apoptosis induction. More importantly, ectopic expression of PKCdelta-CF stimulated the ubiquitination of C/EBPalpha protein, while the chemical inhibition of PKCdelta action significantly inhibited the enhanced ubiquitination of C/EBPalpha protein under NSC606985 treatment. Additionally, silencing of C/EBPalpha expression by small interfering RNAs enhanced, while inducible expression of C/EBPalpha inhibited NSC606985/etoposide-induced apoptosis in leukemic cells. CONCLUSIONS/SIGNIFICANCE: These observations indicate that the activation of PKCdelta upon apoptosis results in the increased proteasome-dependent degradation of C/EBPalpha, which partially contributes to PKCdelta-mediated apoptosis.
+
++Apoptosis (-drug effects)
+-Base Sequence
+-Blotting, Western
+-CCAAT-Enhancer-Binding Protein-alpha (-genetics; +metabolism)
+-Caspase 3 (-metabolism)
+-Cell Line, Tumor
+-DNA Primers
+-Down-Regulation
+-Etoposide (-pharmacology)
+-Gene Silencing
+-Humans
+-Hydrolysis
+-Leukemia (-enzymology; -metabolism; +pathology)
+-Proteasome Endopeptidase Complex (+metabolism)
+-Protein Kinase C-delta (+metabolism)
+-RNA, Messenger (-genetics)
+-RNA, Small Interfering
+-Reverse Transcriptase Polymerase Chain Reaction
+-Transcription, Genetic
+-Ubiquitination
+
+doi:10.1371/journal.pone.0006552
+pubmed:19662097
+pmc:PMC2719015
+

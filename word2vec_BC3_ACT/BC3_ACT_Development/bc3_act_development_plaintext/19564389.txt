@@ -1,0 +1,24 @@
+Infect. Immun.
+
+Analysis of the genome of the Escherichia coli O157:H7 2006 spinach-associated outbreak isolate indicates candidate genes that may enhance virulence.
+
+BR Kulasekara, M Jacobs, Y Zhou, Z Wu, E Sims, C Saenphimmachak, L Rohmer, JM Ritchie, M Radey, M McKevitt, TL Freeman, H Hayden, E Haugen, W Gillett, C Fong, J Chang, V Beskhlebnaya, MK Waldor, M Samadpour, TS Whittam, R Kaul, M Brittnacher, SI Miller
+
+In addition to causing diarrhea, Escherichia coli O157:H7 infection can lead to hemolytic-uremic syndrome (HUS), a severe disease characterized by hemolysis and renal failure. Differences in HUS frequency among E. coli O157:H7 outbreaks have been noted, but our understanding of bacterial factors that promote HUS is incomplete. In 2006, in an outbreak of E. coli O157:H7 caused by consumption of contaminated spinach, there was a notably high frequency of HUS. We sequenced the genome of the strain responsible (TW14359) with the goal of identifying candidate genetic factors that contribute to an enhanced ability to cause HUS. The TW14359 genome contains 70 kb of DNA segments not present in either of the two reference O157:H7 genomes. We identified seven putative virulence determinants, including two putative type III secretion system effector proteins, candidate genes that could result in increased pathogenicity or, alternatively, adaptation to plants, and an intact anaerobic nitric oxide reductase gene, norV. We surveyed 100 O157:H7 isolates for the presence of these putative virulence determinants. A norV deletion was found in over one-half of the strains surveyed and correlated strikingly with the absence of stx(1). The other putative virulence factors were found in 8 to 35% of the O157:H7 isolates surveyed, and their presence also correlated with the presence of norV and the absence of stx(1), indicating that the presence of norV may serve as a marker of a greater propensity for HUS, similar to the correlation between the absence of stx(1) and a propensity for HUS.
+
+-DNA, Bacterial (-analysis)
++Disease Outbreaks
+-Escherichia coli O157 (+genetics; +pathogenicity)
+-Foodborne Diseases (+epidemiology; +microbiology)
++Genome, Bacterial
+-Hemolytic-Uremic Syndrome (-etiology)
+-Polymorphism, Genetic
+-Shiga Toxin 2 (-genetics)
+-Spinacia oleracea (+microbiology)
+-Virulence
+
+pii:IAI.00198-09
+doi:10.1128/IAI.00198-09
+pubmed:19564389
+pmc:PMC2738036
+

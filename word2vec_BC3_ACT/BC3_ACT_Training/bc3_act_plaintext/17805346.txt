@@ -1,0 +1,26 @@
+EMBO J.
+
+Sequential steps and checkpoints in the early exocytic compartment during secretory IgM biogenesis.
+
+T Anelli, S Ceppi, L Bergamelli, M Cortini, S Masciarelli, C Valetti, R Sitia
+
+The biogenesis of secretory IgM occurs stepwise under stringent quality control, formation of micro(2)L(2) preceding polymerization. How is efficiency of IgM secretion coupled to fidelity? We show here that ERp44, a soluble protein involved in thiol-mediated retention, interacts with ERGIC-53. Binding to this hexameric lectin contributes to ERp44 localization in the ER-golgi intermediate compartment. ERp44 and ERGIC-53 increase during B-lymphocyte differentiation, concomitantly with the onset of IgM polymerization. Both preferentially bind micro(2)L(2) and higher order intermediates. Their overexpression or silencing in non-lymphoid cells promotes or decreases secretion of IgM polymers, respectively. In IgM-secreting B-lymphoma cells, micro chains interact first with BiP and later with ERp44 and ERGIC-53. Our findings suggest that ERGIC-53 provides a platform that receives micro(2)L(2) subunits from the BiP-dependent checkpoint, assisting polymerization. In this process, ERp44 couples thiol-dependent assembly and quality control.
+
+-B-Lymphocytes (+secretion)
+-Endoplasmic Reticulum (-genetics; +metabolism)
+-Gene Silencing
+-Golgi Apparatus (-genetics; +metabolism)
+-Heat-Shock Proteins (-genetics; -metabolism)
+-Hela Cells
+-Humans
+-Immunoglobulin Light Chains (-biosynthesis; -genetics)
+-Immunoglobulin mu-Chains (+biosynthesis; -genetics)
+-Mannose-Binding Lectins (-genetics; +metabolism)
+-Membrane Proteins (-genetics; +metabolism)
+-Molecular Chaperones (-genetics; +metabolism)
+
+pii:7601844
+doi:10.1038/sj.emboj.7601844
+pubmed:17805346
+pmc:PMC2230840
+

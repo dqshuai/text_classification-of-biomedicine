@@ -1,0 +1,25 @@
+J. Mol. Biol.
+
+Coupling molecular dynamics simulations with experiments for the rational design of indolicidin-analogous antimicrobial peptides.
+
+CW Tsai, NY Hsu, CH Wang, CY Lu, Y Chang, HH Tsai, RC Ruaan
+
+Antimicrobial peptides (AMPs) have attracted much interest in recent years because of their potential use as new-generation antibiotics. Indolicidin (IL) is a 13-residue cationic AMP that is effective against a broad spectrum of bacteria, fungi, and even viruses. Unfortunately, its high hemolytic activity retards its clinical applications. In this study, we adopted molecular dynamics (MD) simulations as an aid toward the rational design of IL analogues exhibiting high antimicrobial activity but low hemolysis. We employed long-timescale, multi-trajectory all-atom MD simulations to investigate the interactions of the peptide IL with model membranes. The lipid bilayer formed by the zwitterionic 1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine (POPC) was chosen as the model erythrocyte membrane; lipid bilayers formed from a mixture of POPC and the negatively charged 1-palmitoyl-2-oleoyl-sn-glycero-3-phosphoglycerol were chosen to model bacterial membranes. MD simulations with a total simulation time of up to 4 micros revealed the mechanisms of the processes of IL adsorption onto and insertion into the membranes. The packing order of these lipid bilayers presumably correlated to the membrane stability upon IL adsorption and insertion. We used the degree of local membrane thinning and the reduction in the order parameter of the acyl chains of the lipids to characterize the membrane stability. The order of the mixed 1-palmitoyl-2-oleoyl-sn-glycero-3-phosphoglycerol/POPC lipid bilayer reduced significantly upon the adsorption of IL. On the other hand, although the order of the pure-POPC lipid bilayer was perturbed slightly during the adsorption stage, the value was reduced more dramatically upon the insertion of IL into the membrane's hydrophobic region. The results imply that enhancing IL adsorption on the microbial membrane may amplify its antimicrobial activity, while the degree of hemolysis may be reduced through inhibition of IL insertion into the hydrophobic region of the erythrocyte membrane. In addition, through simulations, we identified the amino acids that are most responsible for the adsorption onto or insertion into the two model membranes. Positive charges are critical to the peptide's adsorption, whereas the presence of hydrophobic Trp8 and Trp9 leads to its deeper insertion. Combining the hypothetical relationships between the membrane disordering and the antimicrobial and hemolytical activities with the simulated results, we designed three new IL-analogous peptides: IL-K7 (Pro7-->Lys), IL-F89 (Trp8 and Trp9-->Phe), and IL-K7F89 (Pro7-->Lys; Trp8 and Trp9-->Phe). The hemolytic activity of IL-F89 is considerably lower than that of IL, whereas the antimicrobial activity of IL-K7 is greatly enhanced. In particular, the de novo peptide IL-K7F89 exhibits higher antimicrobial activity against Escherichia coli; its hemolytic activity decreased to only 10% of that of IL. Our simulated and experimental results correlated well. This approach-coupling MD simulations with experimental design-is a useful strategy toward the rational design of AMPs for potential therapeutic use.
+
+-Anti-Infective Agents (+chemical synthesis; +chemistry; -pharmacology)
+-Antimicrobial Cationic Peptides (+chemistry)
++Computer Simulation
+-Hemolysis (-drug effects)
+-Humans
+-Lipid Bilayers (-chemistry)
+-Models, Molecular
+-Peptides (+chemical synthesis; +chemistry; -genetics; -pharmacology)
+-Phosphatidylcholines (-chemistry)
+-Phosphatidylglycerols (-chemistry)
+-Protein Conformation
+-Static Electricity
+
+pii:S0022-2836(09)00803-1
+doi:10.1016/j.jmb.2009.06.071
+pubmed:19576903
+

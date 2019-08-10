@@ -1,0 +1,30 @@
+Genetics
+
+Reproductive value and fluctuating selection in an age-structured population.
+
+S Engen, R Lande, BE Saether
+
+Fluctuations in age structure caused by environmental stochasticity create autocorrelation and transient fluctuations in both population size and allele frequency, which complicate demographic and evolutionary analyses. Following a suggestion of Fisher, we show that weighting individuals of different age by their reproductive value serves as a filter, removing temporal autocorrelation in population demography and evolution due to stochastic age structure. Assuming weak selection, random mating, and a stationary distribution of environments with no autocorrelation, we derive a diffusion approximation for evolution of the reproductive value weighted allele frequency. The expected evolution obeys an adaptive topography defined by the long-run growth rate of the population. The expected fitness of a genotype is its Malthusian fitness in the average environment minus the covariance of its growth rate with that of the population. Simulations of the age-structured model verify the accuracy of the diffusion approximation. We develop statistical methods for measuring the expected selection on the reproductive value weighted allele frequency in a fluctuating age-structured population.
+
+-Algorithms
+-Animals
+-Computer Simulation
+-Evolution, Molecular
+-Female
+-Fertility (-genetics)
+-Gene Frequency
+-Genetics, Population
+-Genotype
+-Humans
+-Male
++Models, Genetic
+-Population Density
+-Reproduction (+genetics)
++Selection, Genetic
+-Time Factors
+
+pii:genetics.109.105841
+doi:10.1534/genetics.109.105841
+pubmed:19620391
+pmc:PMC2766322
+

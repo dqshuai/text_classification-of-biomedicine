@@ -1,0 +1,21 @@
+Nucleic Acids Res.
+
+NNcon: improved protein contact map prediction using 2D-recursive neural networks.
+
+AN Tegge, Z Wang, J Eickholt, J Cheng
+
+Protein contact map prediction is useful for protein folding rate prediction, model selection and 3D structure prediction. Here we describe NNcon, a fast and reliable contact map prediction server and software. NNcon was ranked among the most accurate residue contact predictors in the Eighth Critical Assessment of Techniques for Protein Structure Prediction (CASP8), 2008. Both NNcon server and software are available at http://casp.rnet.missouri.edu/nncon.html.
+
+-Internet
+-Models, Molecular
+-Neural Networks (Computer)
++Protein Conformation
+-Protein Folding
+-Reproducibility of Results
++Software
+
+pii:gkp305
+doi:10.1093/nar/gkp305
+pubmed:19420062
+pmc:PMC2703959
+

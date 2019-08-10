@@ -1,0 +1,22 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Global distribution of conformational states derived from redundant models in the PDB points to non-uniqueness of the protein structure.
+
+PV Burra, Y Zhang, A Godzik, B Stec
+
+It is commonly accepted that proteins have evolutionarily conserved 3-dimensional structures, uniquely defined by their amino acid sequence. Here, we question the direct association of structure to sequence by comparing multiple models of identical proteins. Rapidly growing structural databases contain models of proteins determined independently multiple times. We have collected these models in the database of the redundant sets of protein structures and then derived their conformational states by clustering the models with low root-mean-square deviations (RMSDs). The distribution of conformational states represented in these sets is wider than commonly believed, in fact exceeding the possible range of structure determination errors, by at least an order of magnitude. We argue that differences among the models represent the natural distribution of conformational states. Our results suggest that we should change the common notion of a protein structure by augmenting a single 3-dimensional model by the width of the ensemble distribution. This width must become an indispensible attribute of the protein description. We show that every protein contains regions of high rigidity (solid-like) and regions of high mobility (liquid-like) in different and characteristic contribution. We also show that the extent of local flexibility is correlated with the functional class of the protein. This study suggests that the protein-folding problem has no unique solution and should be limited to defining the folding class of the solid-like fragments even though they may constitute only a small part of the protein. These results limit the capability of modeling protein structures with multiple conformational states.
+
+-Cluster Analysis
+-Crystallography, X-Ray
++Databases, Protein
+-Models, Molecular
++Protein Conformation
+-Protein Folding
+-Protein Structure, Tertiary
+-Proteins (+chemistry; -classification)
+
+pii:0812152106
+doi:10.1073/pnas.0812152106
+pubmed:19553204
+pmc:PMC2705611
+

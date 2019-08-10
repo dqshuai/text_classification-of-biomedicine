@@ -1,0 +1,28 @@
+Nucleic Acids Res.
+
+Intra-tumor heterogeneity of MLH1 promoter methylation revealed by deep single molecule bisulfite sequencing.
+
+KE Varley, DG Mutch, TB Edmonston, PJ Goodfellow, RD Mitra
+
+A single tumor may contain cells with different somatic mutations. By characterizing this genetic heterogeneity within tumors, advances have been made in the prognosis, treatment and understanding of tumorigenesis. In contrast, the extent of epigenetic intra-tumor heterogeneity and how it influences tumor biology is under-explored. We have characterized epigenetic heterogeneity within individual tumors using next-generation sequencing. We used deep single molecule bisulfite sequencing and sample-specific DNA barcodes to determine the spectrum of MLH1 promoter methylation across an average of 1000 molecules in each of 33 individual samples in parallel, including endometrial cancer, matched blood and normal endometrium. This first glimpse, deep into each tumor, revealed unexpectedly heterogeneous patterns of methylation at the MLH1 promoter within a subset of endometrial tumors. This high-resolution analysis allowed us to measure the clonality of methylation in individual tumors and gain insight into the accumulation of aberrant promoter methylation on both alleles during tumorigenesis.
+
+-Adaptor Proteins, Signal Transducing (+genetics; -metabolism)
+-Alleles
++DNA Methylation
+-Endometrial Neoplasms (+genetics; -metabolism)
+-Endometrium (-metabolism)
++Epigenesis, Genetic
+-Female
+-Genetic Variation
+-Humans
+-Nuclear Proteins (+genetics; -metabolism)
+-Polymerase Chain Reaction
++Promoter Regions, Genetic
+-Sequence Analysis, DNA (+methods)
+-Sulfites (-chemistry)
+
+pii:gkp457
+doi:10.1093/nar/gkp457
+pubmed:19494183
+pmc:PMC2724279
+

@@ -1,0 +1,22 @@
+BMC Plant Biol.
+
+DNA ligase 1 deficient plants display severe growth defects and delayed repair of both DNA single and double strand breaks.
+
+WM Waterworth, J Kozak, CM Provost, CM Bray, KJ Angelis, CE West
+
+BACKGROUND: DNA ligase enzymes catalyse the joining of adjacent polynucleotides and as such play important roles in DNA replication and repair pathways. Eukaryotes possess multiple DNA ligases with distinct roles in DNA metabolism, with clear differences in the functions of DNA ligase orthologues between animals, yeast and plants. DNA ligase 1, present in all eukaryotes, plays critical roles in both DNA repair and replication and is indispensable for cell viability. RESULTS: Knockout mutants of atlig1 are lethal. Therefore, RNAi lines with reduced levels of AtLIG1 were generated to allow the roles and importance of Arabidopsis DNA ligase 1 in DNA metabolism to be elucidated. Viable plants were fertile but displayed a severely stunted and stressed growth phenotype. Cell size was reduced in the silenced lines, whilst flow cytometry analysis revealed an increase of cells in S-phase in atlig1-RNAi lines relative to wild type plants. Comet assay analysis of isolated nuclei showed atlig1-RNAi lines displayed slower repair of single strand breaks (SSBs) and also double strand breaks (DSBs), implicating AtLIG1 in repair of both these lesions. CONCLUSION: Reduced levels of Arabidopsis DNA ligase 1 in the silenced lines are sufficient to support plant development but result in retarded growth and reduced cell size, which may reflect roles for AtLIG1 in both replication and repair. The finding that DNA ligase 1 plays an important role in DSB repair in addition to its known function in SSB repair, demonstrates the existence of a previously uncharacterised novel pathway, independent of the conserved NHEJ. These results indicate that DNA ligase 1 functions in both DNA replication and in repair of both ss and dsDNA strand breaks in higher plants.
+
+-Arabidopsis (-enzymology; +genetics; -growth & development)
+-Cell Size
+-Comet Assay
++DNA Breaks, Double-Stranded
++DNA Breaks, Single-Stranded
+-DNA Ligases (+metabolism)
++DNA Repair
+-RNA Interference
+
+pii:1471-2229-9-79
+doi:10.1186/1471-2229-9-79
+pubmed:19558640
+pmc:PMC2708163
+

@@ -1,0 +1,28 @@
+J. Biol. Chem.
+
+RGS16 inhibits breast cancer cell growth by mitigating phosphatidylinositol 3-kinase signaling.
+
+G Liang, G Bansal, Z Xie, KM Druey
+
+Aberrant activity of the phosphatidylinositol 3-kinase (PI3K) pathway supports growth of many tumors including those of breast, lung, and prostate. Resistance of breast cancer cells to targeted chemotherapies including tyrosine kinase inhibitors (TKI) has been linked to persistent PI3K activity, which may in part be due to increased membrane expression of epidermal growth factor (EGF) receptors (HER2 and HER3). Recently we found that proteins of the RGS (regulator of G protein signaling) family suppress PI3K activity downstream of the receptor by sequestering its p85alpha subunit from signaling complexes. Because a substantial percentage of breast tumors have RGS16 mutations and reduced RGS16 protein expression, we investigated the link between regulation of PI3K activity by RGS16 and breast cancer cell growth. RGS16 overexpression in MCF7 breast cancer cells inhibited EGF-induced proliferation and Akt phosphorylation, whereas shRNA-mediated extinction of RGS16 augmented cell growth and resistance to TKI treatment. Exposure to TKI also reduced RGS16 expression in MCF7 and BT474 cell lines. RGS16 bound the amino-terminal SH2 and inter-SH2 domains of p85alpha and inhibited its interaction with the EGF receptor-associated adapter protein Gab1. These results suggest that the loss of RGS16 in some breast tumors enhances PI3K signaling elicited by growth factors and thereby promotes proliferation and TKI evasion downstream of HER activation.
+
+-1-Phosphatidylinositol 3-Kinase (+metabolism)
+-Adaptor Proteins, Signal Transducing (-metabolism)
+-Breast Neoplasms (+metabolism; -pathology)
+-Cell Line
+-Cell Line, Tumor
+-Cell Proliferation
+-Cell Survival
+-Epidermal Growth Factor (-metabolism)
++Gene Expression Regulation, Neoplastic
+-Humans
+-Models, Biological
+-Protein Structure, Tertiary
+-RGS Proteins (-metabolism; +physiology)
+-Signal Transduction
+
+pii:M109.028407
+doi:10.1074/jbc.M109.028407
+pubmed:19509421
+pmc:PMC2755894
+

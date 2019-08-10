@@ -1,0 +1,28 @@
+Genome Res.
+
+Instrumenting the health care enterprise for discovery research in the genomic era.
+
+S Murphy, S Churchill, L Bry, H Chueh, S Weiss, R Lazarus, Q Zeng, A Dubey, V Gainer, M Mendis, J Glaser, I Kohane
+
+Tens of thousands of subjects may be required to obtain reliable evidence relating disease characteristics to the weak effects typically reported from common genetic variants. The costs of assembling, phenotyping, and studying these large populations are substantial, recently estimated at three billion dollars for 500,000 individuals. They are also decade-long efforts. We hypothesized that automation and analytic tools can repurpose the informational byproducts of routine clinical care, bringing sample acquisition and phenotyping to the same high-throughput pace and commodity price-point as is currently true of genome-wide genotyping. Described here is a demonstration of the capability to acquire samples and data from densely phenotyped and genotyped individuals in the tens of thousands for common diseases (e.g., in a 1-yr period: N = 15,798 for rheumatoid arthritis; N = 42,238 for asthma; N = 34,535 for major depressive disorder) in one academic health center at an order of magnitude lower cost. Even for rare diseases caused by rare, highly penetrant mutations such as Huntington disease (N = 102) and autism (N = 756), these capabilities are also of interest.
+
+-Academic Medical Centers
+-Arthritis, Rheumatoid (-genetics)
+-Asthma (-genetics)
+-Case-Control Studies
+-Cohort Studies
+-Depressive Disorder (-genetics)
+-Electronic Health Records (+utilization)
+-Electronics
++Genome-Wide Association Study (-economics; -instrumentation; -methods)
+-Genomics (-economics; -instrumentation; +methods)
+-Genotype
+-Humans
+-Phenotype
+-Research Design (+trends)
+
+pii:gr.094615.109
+doi:10.1101/gr.094615.109
+pubmed:19602638
+pmc:PMC2752136
+

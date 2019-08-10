@@ -1,0 +1,25 @@
+Cell Cycle
+
+Effects of cell number on teratoma formation by human embryonic stem cells.
+
+AS Lee, C Tang, F Cao, X Xie, K van der Bogt, A Hwang, AJ Connolly, RC Robbins, JC Wu
+
+Teratoma formation is a critical obstacle to safe clinical translation of human embryonic stem (ES) cell-based therapies in the future. As current methods of isolation are unable to yield 100% pure population of differentiated cells from a pluripotent donor source, potential development of these tumors is a significant concern. Here we used non-invasive reporter gene imaging to investigate the relationship between human ES cell number and teratoma formation in a xenogenic model of ES cell transplantation. Human ES cells (H9 line) were stably transduced with a double fusion (DF) reporter construct containing firefly luciferase and enhanced green fluorescent protein (Fluc-eGFP) driven by a human ubiquitin promoter. Immunodeficient mice received intramyocardial (n = 35) or skeletal muscle (n = 35) injection of 1 x 10(2), 1 x 10(3), 1 x 10(4), 1 x 10(5) or 1 x 10(6) DF positive ES cells suspended in saline for myocardium and Matrigel for skeletal muscle. Cell survival and proliferation were monitored via bioluminescence imaging (BLI) for an 8 week period following transplantation. Mice negative for Fluc signal after 8 weeks were followed out to day 365 to confirm tumor absence. Significantly, in this study, a minimum of 1 x 10(5) ES cells in the myocardium and 1 x 10(4) cells in the skeletal muscle was observed to be requisite for teratoma development, suggesting that human ES cell number may be a critical factor in teratoma formation. Engraftment and tumor occurrence were also observed to be highly dependent on ES cell number. We anticipate these results should yield useful insights to the safe and reliable application of human ES cell derivatives in the clinic.
+
+-Animals
+-Cell Line
+-Embryonic Stem Cells (+cytology; -metabolism; +physiology)
+-Female
+-Humans
+-Mice
+-Muscle, Skeletal (-metabolism; -pathology)
+-Myocardium (-metabolism; -pathology)
+-Stem Cell Transplantation (-adverse effects)
+-Teratoma (-metabolism; +pathology)
+-Transplantation, Heterologous
+
+pii:9353
+pubmed:19597339
+mid:NIHMS138880
+pmc:PMC2866168
+

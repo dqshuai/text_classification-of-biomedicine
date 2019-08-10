@@ -1,0 +1,26 @@
+BMC Genomics
+
+An integrated RH map of porcine chromosome 10.
+
+JG Ma, H Yasue, KE Eyer, H Hiraiwa, T Shimogiri, SN Meyers, JE Beever, LB Schook, CW Beattie, WS Liu
+
+BACKGROUND: Whole genome radiation hybrid (WG-RH) maps serve as "scaffolds" to significantly improve the orientation of small bacterial artificial chromosome (BAC) contigs, order genes within the contigs and assist assembly of a sequence-ready map for virtually any species. Here, we report the construction of a porcine: human comparative map for pig (Sus scrofa) chromosome 10 (SSC10) using the IMNpRH2(12,000-rad) porcine WG-RH panel, integrated with the IMpRH(7000-rad) WG-RH, genetic and BAC fingerprinted contig (FPC) maps. RESULTS: Map vectors from the IMNpRH2(12,000-rad) and IMpRH(7,000-rad) panels were merged to construct parallel framework (FW) maps, within which FW markers common to both panels have an identical order. This strategy reduced map discrepancies between the two panels and significantly improved map accuracy. A total of 216 markers, including 50 microsatellites (MSs), 97 genes and ESTs, and 69 BAC end sequences (BESs), were ordered within two linkage groups at two point (2 pt) LOD score of 8. One linkage group covers SSC10p with accumulated map distances of 738.2 cR(7,000) and 1814.5 cR(12,000), respectively. The second group covers SSC10q at map distances of 1336.9 cR(7,000) and 3353.6 cR(12,000), yielding an overall average map resolution of 16.4 kb/cR(12,000) or 393.5 kb per marker on SSC10. This represents an approximately 2.5-fold increase in map resolution over the IMpRH(7,000-rad) panel. Based on 127 porcine markers that have homologous sequences in the human genome, a detailed comparative map between SSC10 and human (Homo sapiens) chromosome (HSA) 1, 9 and 10 was built. CONCLUSION: This initial comparative RH map of SSC10 refines the syntenic regions between SSC10 and HSA1, 9 and 10. It integrates the IMNpRH2(12,000-rad) and IMpRH(7,000-rad), genetic and BAC FPC maps and provides a scaffold to close potential gaps between contigs prior to genome sequencing and assembly. This map is also useful in fine mapping of QTLs on SSC10.
+
+-Animals
+-Chromosomes, Artificial, Bacterial
+-Expressed Sequence Tags
+-Gene Order
+-Genetic Markers
+-Humans
+-Microsatellite Repeats
+-Radiation Hybrid Mapping (+methods)
+-Sequence Alignment
+-Sequence Analysis, DNA
+-Sus scrofa (+genetics)
+-Synteny
+
+pii:1471-2164-10-211
+doi:10.1186/1471-2164-10-211
+pubmed:19426492
+pmc:PMC2689272
+

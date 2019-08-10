@@ -1,0 +1,26 @@
+J. Neurosci.
+
+The input-output transformation of the hippocampal granule cells: from grid cells to place fields.
+
+L de Almeida, M Idiart, JE Lisman
+
+Grid cells in the rat medial entorhinal cortex fire (periodically) over the entire environment. These cells provide input to hippocampal granule cells whose output is characterized by one or more small place fields. We sought to understand how this input-output transformation occurs. Available information allows simulation of this process with no freely adjustable parameters. We first examined the spatial distribution of excitation in granule cells produced by the convergence of excitatory inputs from randomly chosen grid cells. Because the resulting summation depends on the number of inputs, it is necessary to use a realistic number (approximately 1200) and to take into consideration their 20-fold variation in strength. The resulting excitation maps have only modest peaks and valleys. To analyze how this excitation interacts with inhibition, we used an E%-max (percentage of maximal suprathreshold excitation) winner-take-all rule that describes how gamma-frequency inhibition affects firing. We found that simulated granule cells have firing maps that have one or more place fields whose size and number approximates those observed experimentally. A substantial fraction of granule cells have no place fields, as observed experimentally. Because the input firing rates and synaptic properties are known, the excitatory charge into granule cells could be calculated (2-3 pC) and was found to be only somewhat larger than required to fire granule cells (1 pC). We conclude that the input-output transformation of dentate granule does not depend strongly on synaptic modification; place field formation can be understood in terms of simple summation of randomly chosen excitatory inputs, in conjunction with a winner-take-all network mechanism.
+
+-Action Potentials
+-Algorithms
+-Animals
+-Computer Simulation
+-Excitatory Postsynaptic Potentials
+-Hippocampus (+cytology; +physiology)
++Models, Neurological
+-Neural Inhibition
+-Neurons (-cytology; +physiology)
+-Rats
++Synaptic Transmission
+
+pii:29/23/7504
+doi:10.1523/JNEUROSCI.6048-08.2009
+pubmed:19515918
+mid:NIHMS124502
+pmc:PMC2747669
+

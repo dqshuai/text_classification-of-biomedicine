@@ -1,0 +1,23 @@
+J. Am. Chem. Soc.
+
+Toward an artificial Golgi: redesigning the biological activities of heparan sulfate on a digital microfluidic chip.
+
+JG Martin, M Gupta, Y Xu, S Akella, J Liu, JS Dordick, RJ Linhardt
+
+Using digital microfluidics, recombinant enzyme technology, and magnetic nanoparticles, we have created a functional prototype of an artificial Golgi organelle. Analogous to the natural Golgi, which is responsible for the enzymatic modification of glycosaminoglycans immobilized on proteins, this artificial Golgi enzymatically modifies glycosaminoglycans, specifically heparan sulfate (HS) chains immobilized onto magnetic nanoparticles. Sulfo groups were transferred from adenosine 3'-phosphate 5'-phosphosulfate to the 3-hydroxyl group of the D-glucosamine residue in an immobilized HS chain using D-glucosaminyl 3-O-sulfotransferase. After modification, the nanoparticles with immobilized HS exhibited increased affinity for fluorescently labeled antithrombin III as detected by confocal microscopy. Since the biosynthesis of HS involves an array of specialized glycosyl transferases, epimerase, and sulfotransferases, this approach should mimic the synthesis of HS in vivo. Furthermore, our method demonstrates the feasibility of investigating the effects of multienzyme systems on the structure of final glycan products for HS-based glycomic studies.
+
+-Biomimetic Materials (+chemistry)
+-Enzymes, Immobilized (-metabolism)
+-Glycosaminoglycans (-chemistry; -metabolism)
+-Golgi Apparatus (+chemistry)
+-Heparitin Sulfate (-biosynthesis; +metabolism)
+-Immobilized Proteins (-metabolism)
+-Magnetics
+-Microfluidic Analytical Techniques (+methods)
+-Nanoparticles
+
+doi:10.1021/ja903038d
+pubmed:19591465
+mid:NIHMS131743
+pmc:PMC2765222
+

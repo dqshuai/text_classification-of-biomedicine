@@ -1,0 +1,28 @@
+Mol. Cell
+
+Two-site phosphorylation of EPRS coordinates multimodal regulation of noncanonical translational control activity.
+
+A Arif, J Jia, R Mukhopadhyay, B Willard, M Kinter, PL Fox
+
+Glutamyl-prolyl tRNA synthetase (EPRS) is a component of the heterotetrameric gamma-interferon-activated inhibitor of translation (GAIT) complex that binds 3'UTR GAIT elements in multiple interferon-gamma (IFN-gamma)-inducible mRNAs and suppresses their translation. Here, we elucidate the specific EPRS phosphorylation events that regulate GAIT-mediated gene silencing. IFN-gamma induces sequential phosphorylation of Ser(886) and Ser(999) in the noncatalytic linker connecting the synthetase cores. Phosphorylation of both sites is essential for EPRS release from the parent tRNA multisynthetase complex. Ser(886) phosphorylation is required for the interaction of NSAP1, which blocks EPRS binding to target mRNAs. The same phosphorylation event induces subsequent binding of ribosomal protein L13a and GAPDH and restores mRNA binding. Finally, Ser(999) phosphorylation directs the formation of a functional GAIT complex that binds initiation factor eIF4G and represses translation. Thus, two-site phosphorylation provides structural and functional pliability to EPRS and choreographs the repertoire of activities that regulates inflammatory gene expression.
+
+-Amino Acyl-tRNA Synthetases (-chemistry; -metabolism; +physiology)
+-Cells, Cultured
+-Eukaryotic Initiation Factor-4G (-metabolism)
+-Gene Silencing (+physiology)
+-Humans
+-Interferon-gamma (-metabolism; -physiology)
+-Models, Genetic
+-Phosphorylation
+-Protein Biosynthesis (+physiology)
+-Protein Structure, Tertiary
+-RNA, Messenger (-metabolism; -physiology)
+-Ribosomal Proteins (-metabolism)
+-Serine (-metabolism)
+
+pii:S1097-2765(09)00468-7
+doi:10.1016/j.molcel.2009.05.028
+pubmed:19647514
+mid:NIHMS132413
+pmc:PMC2752289
+

@@ -1,0 +1,33 @@
+Cell Death Differ.
+
+Targeted depletion of BMI1 sensitizes tumor cells to P53-mediated apoptosis in response to radiation therapy.
+
+NM Alajez, W Shi, AB Hui, S Yue, R Ng, KW Lo, C Bastianutto, B O'Sullivan, P Gullane, FF Liu
+
+Overexpression of BMI1 correlates with cancer development, progression, and therapy failure; however, the underlying molecular mechanisms remain to be fully elucidated. Using the C666-1 nasopharyngeal cancer (NPC) model, the role of BMI1 in mediating response of NPC cells to radiation therapy (RT) was investigated. The results showed a novel radioresistance function for BMI1 in NPC, wherein BMI1 depletion sensitized NPC cells to RT. Cell cycle analysis and transmission electron microscopy (TEM) showed apoptosis as the major mode of cell death, and the mitochondria as a primary targeted cellular organelle. Genome-wide microarray and pathway analyses revealed that the P53 pathway is a critical mediator of this process. Cotransfection with siP53 rescued C666-1 cells from cytotoxicity upon BMI1 depletion and RT, thereby corroborating the role for P53. Pretreatment with the antioxidant, Trolox, inhibited apoptosis, indicating that production of reactive oxygen species (ROS) is also mediating cytotoxicity. In vivo, BMI1 depletion combined with RT abrogated tumor-forming capacity in SCID mice, showing the relevance of this process in a more complex tumor environment. Hence, we show a novel role for BMI1 in conferring radioresistance in cancer cells through the downregulation of p53-mediated apoptosis. These results suggest a potential strategy of BMI1 depletion combined with RT for tumors wherein BMI1 appears to be driving disease progression.
+
+-Animals
++Apoptosis
+-Chromans (-pharmacology)
+-Disease Progression
+-Gene Expression Profiling
+-Gene Knockdown Techniques
+-Histones (-metabolism)
+-Humans
+-Mice
+-Microarray Analysis
+-Nasopharyngeal Neoplasms (+radiotherapy)
+-Nuclear Proteins (-genetics; -metabolism; +physiology)
+-Proto-Oncogene Proteins (-genetics; -metabolism; +physiology)
+-RNA, Messenger (-metabolism)
+-RNA, Small Interfering
+-Reactive Oxygen Species (-metabolism)
+-Repressor Proteins (-genetics; -metabolism; +physiology)
+-Transplantation, Heterologous
+-Tumor Cells, Cultured
+-Tumor Suppressor Protein p53 (-genetics; +metabolism)
+
+pii:cdd200985
+doi:10.1038/cdd.2009.85
+pubmed:19575017
+

@@ -1,0 +1,30 @@
+Invest. Ophthalmol. Vis. Sci.
+
+In vivo imaging of microscopic structures in the rat retina.
+
+Y Geng, KP Greenberg, R Wolfe, DC Gray, JJ Hunter, A Dubra, JG Flannery, DR Williams, J Porter
+
+PURPOSE: The ability to resolve single retinal cells in rodents in vivo has applications in rodent models of the visual system and retinal disease. The authors have characterized the performance of a fluorescence adaptive optics scanning laser ophthalmoscope (fAOSLO) that provides cellular and subcellular imaging of rat retina in vivo. METHODS: Enhanced green fluorescent protein (eGFP) was expressed in retinal ganglion cells of normal Sprague-Dawley rats via intravitreal injections of adeno-associated viral vectors. Simultaneous reflectance and fluorescence retinal images were acquired using the fAOSLO. fAOSLO resolution was characterized by comparing in vivo images with subsequent imaging of retinal sections from the same eyes using confocal microscopy. RESULTS: Retinal capillaries and eGFP-labeled ganglion cell bodies, dendrites, and axons were clearly resolved in vivo with adaptive optics. Adaptive optics correction reduced the total root mean square wavefront error, on average, from 0.30 microm to 0.05 microm (measured at 904 nm, 1.7-mm pupil). The full width at half maximum (FWHM) of the average in vivo line-spread function (LSF) was approximately 1.84 microm, approximately 82% greater than the FWHM of the diffraction-limited LSF. CONCLUSIONS: With perfect aberration compensation, the in vivo resolution in the rat eye could be approximately 2x greater than that in the human eye because of its large numerical aperture (approximately 0.43). Although the fAOSLO corrects a substantial fraction of the rat eye's aberrations, direct measurements of retinal image quality reveal some blur beyond that expected from diffraction. Nonetheless, subcellular features can be resolved, offering promise for using adaptive optics to investigate the rodent eye in vivo with high resolution.
+
+-Animals
+-Axons (+physiology)
+-Capillaries (-cytology)
+-Dendrites (+physiology)
+-Dependovirus (-genetics)
+-Gene Expression
+-Genetic Vectors
+-Green Fluorescent Proteins (-genetics)
+-Lasers (-diagnostic use)
++Microscopy, Confocal
++Ophthalmoscopy
+-Rats
+-Rats, Sprague-Dawley
+-Retinal Ganglion Cells (+cytology; -metabolism)
+-Retinal Vessels (+cytology; -metabolism)
+
+pii:iovs.09-3675
+doi:10.1167/iovs.09-3675
+pubmed:19578019
+mid:NIHMS195946
+pmc:PMC2873188
+

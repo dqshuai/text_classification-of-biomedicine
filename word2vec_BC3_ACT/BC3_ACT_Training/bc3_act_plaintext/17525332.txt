@@ -1,0 +1,36 @@
+Science
+
+ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage.
+
+S Matsuoka, BA Ballif, A Smogorzewska, ER McDonald, KE Hurov, J Luo, CE Bakalarski, Z Zhao, N Solimini, Y Lerenthal, Y Shiloh, SP Gygi, SJ Elledge
+
+Cellular responses to DNA damage are mediated by a number of protein kinases, including ATM (ataxia telangiectasia mutated) and ATR (ATM and Rad3-related). The outlines of the signal transduction portion of this pathway are known, but little is known about the physiological scope of the DNA damage response (DDR). We performed a large-scale proteomic analysis of proteins phosphorylated in response to DNA damage on consensus sites recognized by ATM and ATR and identified more than 900 regulated phosphorylation sites encompassing over 700 proteins. Functional analysis of a subset of this data set indicated that this list is highly enriched for proteins involved in the DDR. This set of proteins is highly interconnected, and we identified a large number of protein modules and networks not previously linked to the DDR. This database paints a much broader landscape for the DDR than was previously appreciated and opens new avenues of investigation into the responses to DNA damage in mammals.
+
+-Animals
+-Binding Sites
+-Cell Cycle (-physiology)
+-Cell Cycle Proteins (+physiology)
+-Cell Line
+-Computational Biology
+-Consensus Sequence
++DNA Damage
++DNA Repair
+-DNA Replication (-physiology)
+-DNA-Binding Proteins (+physiology)
+-Humans
+-Immunoprecipitation
+-Isotope Labeling
+-Mice
+-NIH 3T3 Cells
+-Phosphorylation
+-Protein-Serine-Threonine Kinases (+physiology)
+-Proteome (-isolation & purification; -physiology)
+-RNA, Small Interfering
+-Signal Transduction
+-Substrate Specificity
+-Tumor Suppressor Proteins (+physiology)
+
+pii:316/5828/1160
+doi:10.1126/science.1140321
+pubmed:17525332
+

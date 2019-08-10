@@ -1,0 +1,28 @@
+J. Mol. Biol.
+
+A 5'UTR-spliced mRNA isoform is specialized for enhanced HIV-2 gag translation.
+
+CL Strong, JM Lanchy, A Dieng-Sarr, PJ Kanki, JS Lodmell
+
+Full-length unspliced genomic RNA plays critical roles in HIV replication, serving both as mRNA for the synthesis of the key viral polyproteins Gag and Gag-Pol and as genomic RNA for encapsidation into assembling viral particles. We show that a second gag mRNA species that differs from the genomic RNA molecule by the absence of an intron in the 5' untranslated region (5'UTR) is produced during HIV-2 replication in cell culture and in infected patients. We developed a cotransfection system in which epitopically tagged Gag proteins can be traced back to their mRNA origins in the translation pool. We show that a disproportionate amount of Gag is translated from 5'UTR intron-spliced mRNAs, demonstrating a role for the 5'UTR intron in the regulation of gag translation. To further characterize the effects of the HIV-2 5'UTR on translation, we fused wild-type, spliced, or mutant leader RNA constructs to a luciferase reporter gene and assayed their translation in reticulocyte lysates. These assays confirmed that leaders lacking the 5'UTR intron increased translational efficiency compared to that of the unspliced leader. In addition, we found that removal or mutagenesis of the C-box, a pyrimidine-rich sequence located in the 5'UTR intron and previously shown to affect RNA dimerization, also strongly influenced translational efficiency. These results suggest that the splicing of both the 5'UTR intron and the C-box element have key roles in regulation of HIV-2 gag translation in vitro and in vivo.
+
+-5' Untranslated Regions (+genetics)
+-Animals
+-COS Cells
+-Cell Line, Tumor
+-Cercopithecus aethiops
+-HIV-2 (-genetics; +metabolism)
+-Humans
+-Luciferases (-biosynthesis)
+-Mutation
+-Peptide Biosynthesis (+genetics)
++RNA Splicing
+-RNA, Viral (+genetics)
+-gag Gene Products, Human Immunodeficiency Virus (+genetics)
+
+pii:S0022-2836(09)00765-7
+doi:10.1016/j.jmb.2009.06.046
+pubmed:19559029
+mid:NIHMS127118
+pmc:PMC2750851
+

@@ -1,0 +1,29 @@
+Yeast
+
+Identification of proteins associated with the yeast mitochondrial RNA polymerase by tandem affinity purification.
+
+DA Markov, M Savkina, M Anikin, M Del Campo, K Ecker, AM Lambowitz, JP De Gnore, WT McAllister
+
+The abundance of mitochondrial (mt) transcripts varies under different conditions, and is thought to depend upon rates of transcription initiation, transcription termination/attenuation and RNA processing/degradation. The requirement to maintain the balance between RNA synthesis and processing may involve coordination between these processes; however, little is known about factors that regulate the activity of mtRNA polymerase (mtRNAP). Recent attempts to identify mtRNAP-protein interactions in yeast by means of a generalized tandem affinity purification (TAP) protocol were not successful, most likely because they involved a C-terminal mtRNAP-TAP fusion (which is incompatible with mtRNAP function) and because of the use of whole-cell solubilization protocols that did not preserve the integrity of mt protein complexes. Based upon the structure of T7 RNAP (to which mtRNAPs show high sequence similarity), we identified positions in yeast mtRNAP that allow insertion of a small affinity tag, confirmed the mature N-terminus, constructed a functional N-terminal TAP-mtRNAP fusion, pulled down associated proteins, and identified them by LC-MS-MS. Among the proteins found in the pull-down were a DEAD-box protein (Mss116p) and an RNA-binding protein (Pet127p). Previous genetic experiments suggested a role for these proteins in linking transcription and RNA degradation, in that a defect in the mt degradadosome could be suppressed by overexpression of either of these proteins or, independently, by mutations in either mtRNAP or its initiation factor Mtf1p. Further, we found that Mss116p inhibits transcription by mtRNAP in vitro in a steady-state reaction. Our results support the hypothesis that Mss116p and Pet127p are involved in modulation of mtRNAP activity.
+
+-Amino Acid Sequence
+-Chromatography, Affinity (+methods)
+-Chromatography, Liquid
+-DNA-Directed RNA Polymerases (+isolation & purification)
+-GTP-Binding Proteins (+isolation & purification; -metabolism)
+-Mitochondria (+enzymology)
+-Mitochondrial Proteins (+isolation & purification; -metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Protein Structure, Tertiary
+-RNA (-metabolism)
+-RNA, Fungal (-metabolism)
+-Saccharomyces cerevisiae (+enzymology)
+-Saccharomyces cerevisiae Proteins (+isolation & purification; -metabolism)
+-Sequence Homology, Amino Acid
+-Tandem Mass Spectrometry
+
+doi:10.1002/yea.1672
+pubmed:19536766
+pmc:PMC2896726
+

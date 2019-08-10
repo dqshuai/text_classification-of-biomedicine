@@ -1,0 +1,30 @@
+Breast Cancer Res.
+
+The cytotoxicity of gamma-secretase inhibitor I to breast cancer cells is mediated by proteasome inhibition, not by gamma-secretase inhibition.
+
+J Han, I Ma, MJ Hendzel, J Allalunis-Turner
+
+INTRODUCTION : Notch is a family of transmembrane protein receptors whose activation requires proteolytic cleavage by gamma-secretase. Since aberrant Notch signaling can induce mammary carcinomas in transgenic mice and high expression levels of Notch receptors and ligands correlates with overall poor clinical outcomes, inhibiting gamma-secretase with small molecules may be a promising approach for breast cancer treatment. Consistent with this hypothesis, two recent papers reported that gamma-secretase inhibitor I (GSI I), Z-LLNle-CHO, is toxic to breast cancer cells both in vitro and in vivo. In this study, we compared the activity and cytotoxicity of Z-LLNle-CHO to that of two highly specific GSIs, DAPT and L-685,458 and three structurally unrelated proteasome inhibitors, MG132, lactacystin, and bortezomib in order to study the mechanism underlying the cytotoxicity of Z-LLNle-CHO in breast cancer cells. METHODS : Three estrogen receptor (ER) positive cell lines, MCF-7, BT474, and T47D, and three ER negative cell lines, SKBR3, MDA-MB-231, and MDA-MB-468, were used in this study. Both SKBR3 and BT474 cells also overexpress HER2/neu. Cytotoxicity was measured by using an MTS cell viability/proliferation assay. Inhibition of gamma-secretase activity was measured by both immunoblotting and immunofluorescent microscopy in order to detect active Notch1 intracellular domain. Proteasome inhibition was determined by using a cell-based proteasome activity assay kit, by immunoblotting to detect accumulation of polyubiquitylated protein, and by immunofluorescent microscopy to detect redistribution of cellular ubiquitin. RESULTS : We found that blocking gamma-secretase activity by DAPT and L-685,458 had no effect on the survival and proliferation of a panel of six breast cancer cell lines while Z-LLNle-CHO could cause cell death even at concentrations that inhibited gamma-secretase activity less efficiently. Furthermore, we observed that Z-LLNle-CHO could inhibit proteasome activity and the relative cellular sensitivity of these six breast cancer cell lines to Z-LLNle-CHO was the same as observed for three proteasome inhibitors. Finally, we found that the cell killing effect of Z-LLNle-CHO could be reversed by a chemical that restored the proteasome activity. CONCLUSIONS : We conclude that the cytotoxicity of Z-LLNle-CHO in breast cancer cells is mediated by proteasome inhibition, not by gamma-secretase inhibition.
+
+-Adenocarcinoma (-enzymology; +pathology)
+-Amyloid Precursor Protein Secretases (+antagonists & inhibitors)
+-Breast Neoplasms (-enzymology; +pathology)
+-Carbamates (-pharmacology)
+-Cell Line, Tumor (-drug effects; -enzymology; -pathology)
+-Dipeptides (-pharmacology)
+-Drug Delivery Systems
+-Estrogens
+-Female
+-Humans
+-Neoplasm Proteins (-analysis; +antagonists & inhibitors; -metabolism)
+-Neoplasms, Hormone-Dependent (-enzymology; -pathology)
+-Oligopeptides (-pharmacology; +toxicity)
+-Proteasome Endopeptidase Complex (+antagonists & inhibitors; -drug effects)
+-Receptor, Notch1 (-metabolism)
+-Receptors, Estrogen (-analysis)
+
+pii:bcr2347
+doi:10.1186/bcr2347
+pubmed:19660128
+pmc:PMC2750119
+

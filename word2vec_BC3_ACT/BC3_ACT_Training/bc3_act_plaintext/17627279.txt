@@ -1,0 +1,26 @@
+EMBO J.
+
+HP1alpha guides neuronal fate by timing E2F-targeted genes silencing during terminal differentiation.
+
+I Panteleeva, S Boutillier, V See, DG Spiller, C Rouaux, G Almouzni, D Bailly, C Maison, HC Lai, JP Loeffler, AL Boutillier
+
+A critical step of neuronal terminal differentiation is the permanent withdrawal from the cell cycle that requires the silencing of genes that drive mitosis. Here, we describe that the alpha isoform of the heterochromatin protein 1 (HP1) protein family exerts such silencing on several E2F-targeted genes. Among the different isoforms, HP1alpha levels progressively increase throughout differentiation and take over HP1gamma binding on E2F sites in mature neurons. When overexpressed, only HP1alpha is able to ensure a timed repression of E2F genes. Specific inhibition of HP1alpha expression drives neuronal progenitors either towards death or cell cycle progression, yet preventing the expression of the neuronal marker microtubule-associated protein 2. Furthermore, we provide evidence that this mechanism occurs in cerebellar granule neurons in vivo, during the postnatal development of the cerebellum. Finally, our results suggest that E2F-targeted genes are packaged into higher-order chromatin structures in mature neurons relative to neuroblasts, likely reflecting a transition from a 'repressed' versus 'silenced' status of these genes. Together, these data present new epigenetic regulations orchestrated by HP1 isoforms, critical for permanent cell cycle exit during neuronal differentiation.
+
+-Animals
+-Base Sequence
++Cell Differentiation
+-Cell Lineage
+-Cells, Cultured
+-Chromosomal Proteins, Non-Histone (+physiology)
+-E2F Transcription Factors (+physiology)
+-Flow Cytometry
++Gene Silencing
+-Mice
+-Neurons (+cytology)
+-RNA, Small Interfering
+
+pii:7601789
+doi:10.1038/sj.emboj.7601789
+pubmed:17627279
+pmc:PMC1949014
+

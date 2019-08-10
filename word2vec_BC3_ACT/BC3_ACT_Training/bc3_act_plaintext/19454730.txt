@@ -1,0 +1,29 @@
+Plant Cell
+
+Local differentiation of sugar donor specificity of flavonoid glycosyltransferase in Lamiales.
+
+A Noguchi, M Horikawa, Y Fukui, M Fukuchi-Mizutani, A Iuchi-Okada, M Ishiguro, Y Kiso, T Nakayama, E Ono
+
+Flavonoids are most commonly conjugated with various sugar moieties by UDP-sugar:glycosyltransferases (UGTs) in a lineage-specific manner. Generally, the phylogenetics and regiospecificity of flavonoid UGTs are correlated, indicating that the regiospecificity of UGT differentiated prior to speciation. By contrast, it is unclear how the sugar donor specificity of UGTs evolved. Here, we report the biochemical, homology-modeled, and phylogenetic characterization of flavonoid 7-O-glucuronosyltransferases (F7GAT), which is responsible for producing specialized metabolites in Lamiales plants. All of the Lamiales F7GATs were found to be members of the UGT88-related cluster and specifically used UDP-glucuronic acid (UDPGA). We identified an Arg residue that is specifically conserved in the PSPG box in the Lamiales F7GATs. Substitution of this Arg with Trp was sufficient to convert the sugar donor specificity of the Lamiales F7GATs from UDPGA to UDP-glucose. Homology modeling of the Lamiales F7GAT suggested that the Arg residue plays a critical role in the specific recognition of anionic carboxylate of the glucuronic acid moiety of UDPGA with its cationic guanidinium moiety. These results support the hypothesis that differentiation of sugar donor specificity of UGTs occurred locally, in specific plant lineages, after establishment of general regiospecificity for the sugar acceptor. Thus, the plasticity of sugar donor specificity explains, in part, the extraordinary structural diversification of phytochemicals.
+
+-Amino Acid Sequence
+-Angiosperms (+enzymology)
+-Carbohydrate Metabolism
+-Cloning, Molecular
+-Conserved Sequence
+-Flavonoids (-chemistry; +metabolism)
+-Glycosyltransferases (-chemistry; -classification; +metabolism)
+-Lamiaceae (-enzymology)
+-Models, Molecular
+-Molecular Sequence Data
+-Phylogeny
+-Plantago (-enzymology)
+-Protein Structure, Tertiary
+-Sequence Alignment
+-Substrate Specificity
+
+pii:tpc.108.063826
+doi:10.1105/tpc.108.063826
+pubmed:19454730
+pmc:PMC2700533
+

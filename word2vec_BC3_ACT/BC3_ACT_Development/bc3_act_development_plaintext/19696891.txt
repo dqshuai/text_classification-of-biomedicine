@@ -1,0 +1,30 @@
+PLoS Pathog.
+
+Vibrio cholerae proteome-wide screen for immunostimulatory proteins identifies phosphatidylserine decarboxylase as a novel Toll-like receptor 4 agonist.
+
+A Thanawastien, WR Montor, J Labaer, JJ Mekalanos, SS Yoon
+
+Recognition of conserved bacterial components provides immediate and efficient immune responses and plays a critical role in triggering antigen-specific adaptive immunity. To date, most microbial components that are detected by host innate immune system are non-proteinaceous structural components. In order to identify novel bacterial immunostimulatory proteins, we developed a new high-throughput approach called "EPSIA", Expressed Protein Screen for Immune Activators. Out of 3,882 Vibrio cholerae proteins, we identified phosphatidylserine decarboxylase (PSD) as a conserved bacterial protein capable of activating host innate immunity. PSD in concentrations as low as 100 ng/ml stimulated RAW264.7 murine macrophage cells and primary peritoneal macrophage cells to secrete TNFalpha and IL-6, respectively. PSD-induced proinflammatory response was dependent on the presence of MyD88, a known adaptor molecule for innate immune response. An enzymatically inactive PSD mutant and heat-inactivated PSD induced approximately 40% and approximately 15% of IL-6 production compared to that by native PSD, respectively. This suggests that PSD induces the production of IL-6, in part, via its enzymatic activity. Subsequent receptor screening determined TLR4 as a receptor mediating the PSD-induced proinflammatory response. Moreover, no detectable IL-6 was produced in TLR4-deficient mouse macrophages by PSD. PSD also exhibited a strong adjuvant activity against a co-administered antigen, BSA. Anti-BSA response was decreased in TLR4-deficient mice immunized with BSA in combination with PSD, further proving the role of TLR4 in PSD signaling in vivo. Taken together, these results provide evidence for the identification of V. cholerae PSD as a novel TLR4 agonist and further demonstrate the potential application of PSD as a vaccine adjuvant.
+
+-Adjuvants, Immunologic (-metabolism; -pharmacology)
+-Animals
+-Carboxy-Lyases (-immunology; -metabolism; +pharmacology)
+-Female
+-Host-Pathogen Interactions
+-Interleukin-6 (-biosynthesis; -immunology)
+-Macrophages, Peritoneal (-drug effects; -immunology; -metabolism)
+-Mice
+-Mice, Inbred BALB C
+-Myeloid Differentiation Factor 88 (-immunology)
+-Proteome (+analysis; -immunology)
+-Proteomics (-methods)
+-Serum Albumin, Bovine (-immunology)
+-Signal Transduction (-immunology)
+-Toll-Like Receptor 4 (+agonists; -immunology)
+-Tumor Necrosis Factor-alpha (-biosynthesis; -immunology)
+-Vibrio cholerae (+enzymology; -genetics; -immunology)
+
+doi:10.1371/journal.ppat.1000556
+pubmed:19696891
+pmc:PMC2722020
+

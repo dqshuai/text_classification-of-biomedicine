@@ -1,0 +1,38 @@
+Mol. Biol. Cell
+
+Structural and spatial determinants regulating TC21 activation by RasGRF family nucleotide exchange factors.
+
+F Calvo, P Crespo
+
+RasGRF family guanine nucleotide exchange factors (GEFs) promote guanosine diphosphate (GDP)/guanosine triphosphate (GTP) exchange on several Ras GTPases, including H-Ras and TC21. Although the mechanisms controlling RasGRF function as an H-Ras exchange factor are relatively well characterized, little is known about how TC21 activation is regulated. Here, we have studied the structural and spatial requirements involved in RasGRF 1/2 exchange activity on TC21. We show that RasGRF GEFs can activate TC21 in all of its sublocalizations except at the Golgi complex. We also demonstrate that TC21 susceptibility to activation by RasGRF GEFs depends on its posttranslational modifications: farnesylated TC21 can be activated by both RasGRF1 and RasGRF2, whereas geranylgeranylated TC21 is unresponsive to RasGRF2. Importantly, we show that RasGRF GEFs ability to catalyze exchange on farnesylated TC21 resides in its pleckstrin homology 1 domain, by a mechanism independent of localization and of its ability to associate to membranes. Finally, our data indicate that Cdc42-GDP can inhibit TC21 activation by RasGRF GEFs, demonstrating that Cdc42 negatively affects the functions of RasGRF GEFs irrespective of the GTPase being targeted.
+
+-Animals
+-COS Cells (-metabolism)
+-Cercopithecus aethiops
+-Enzyme Activation (-drug effects)
+-Guanosine Diphosphate (-metabolism)
+-Hela Cells (-metabolism)
+-Humans
+-Ionomycin (-pharmacology)
+-Lysophospholipids (-pharmacology)
+-Membrane Proteins (-chemistry; -genetics; +metabolism)
+-Monomeric GTP-Binding Proteins (-chemistry; -genetics; +metabolism)
+-Organelles (-metabolism)
+-Prenylation
+-Protein Interaction Mapping
+-Protein Processing, Post-Translational
+-Protein Structure, Tertiary
+-RNA, Small Interfering (-pharmacology)
+-Recombinant Fusion Proteins (-physiology)
+-Structure-Activity Relationship
+-Subcellular Fractions (-metabolism)
+-Substrate Specificity
+-cdc42 GTP-Binding Protein (+physiology)
+-ras Guanine Nucleotide Exchange Factors (-antagonists & inhibitors; -genetics; +physiology)
+-ras-GRF1 (-genetics; +physiology)
+
+pii:E09-03-0212
+doi:10.1091/mbc.E09-03-0212
+pubmed:19692568
+pmc:PMC2762140
+

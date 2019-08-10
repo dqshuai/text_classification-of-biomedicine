@@ -1,0 +1,28 @@
+FEBS Lett.
+
+GRASP-1 is a neuronal scaffold protein for the JNK signaling pathway.
+
+B Ye, WP Yu, GM Thomas, RL Huganir
+
+GRASP-1 is a neuronally enriched protein that interacts with the AMPA-type glutamate receptor/GRIP complex. GRASP-1 can be cleaved by Caspase-3 in both normal and ischemic brains although the functional significance of this cleavage remains elusive. We investigated signal transduction pathways that might lie downstream of GRASP-1 and found that GRASP-1 potently activates JNK pathway signaling, with no effect on ERK signaling. Such JNK pathway activating activity requires binding of GRASP-1 to both JNK and the upstream JNK pathway activator MEKK-1. Furthermore, mutations that prevent Caspase 3-cleavage of GRASP-1 dramatically inhibit the JNK pathway activating activity of GRASP-1, suggesting a novel link between Caspase-3 activation and JNK pathway signaling. These results suggest that GRASP-1 serves as a scaffold protein to facilitate MEKK-1 activation of JNK signaling in neurons.
+
+-Binding Sites (-genetics)
+-Carrier Proteins (-genetics; +metabolism; -physiology)
+-Caspase 3 (-metabolism)
+-Cell Line
+-Extracellular Signal-Regulated MAP Kinases (-genetics; -metabolism)
+-Humans
+-Immunoprecipitation
+-JNK Mitogen-Activated Protein Kinases (-genetics; +metabolism)
+-MAP Kinase Kinase Kinase 1 (-genetics; -metabolism)
+-Mitogen-Activated Protein Kinase 8 (-genetics; -metabolism)
+-Mutation
+-Signal Transduction (-genetics; +physiology)
+-Transfection
+
+pii:S0014-5793(07)00876-9
+doi:10.1016/j.febslet.2007.08.008
+pubmed:17761173
+mid:NIHMS30595
+pmc:PMC2720598
+

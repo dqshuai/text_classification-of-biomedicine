@@ -1,0 +1,32 @@
+Biochemistry
+
+The flexibility of a distant loop modulates active site motion and product release in ribonuclease A.
+
+N Doucet, ED Watt, JP Loria
+
+The role of the flexible loop 1 in protein conformational motion and in the dissociation of enzymatic product from ribonuclease A (RNase A) was investigated by creation of a chimeric enzyme in which a 6-residue loop 1 from the RNase A homologue, eosinophil cationic protein (ECP), replaced the 12-residue loop 1 in RNase A. The chimera (RNase A(ECP)) experiences only local perturbations in NMR backbone chemical shifts compared to WT RNase A. Many of the flexible residues that were previously identified in WT as involved in an important conformational change now experience no NMR-detected millisecond motions in the chimera. Likewise, binding of the product analogue, 3'-CMP, to RNase A(ECP) results in only minor chemical shift changes in the enzyme similar to what is observed for the H48A mutant of RNase A and in contrast to WT enzyme. For both RNase A(ECP) and H48A there is a 10-fold decrease in the product release rate constant, k(off), compared to WT, in agreement with previous studies indicating the importance of flexibility in RNase A in the overall rate-limiting product release step. Together, these NMR and biochemical experiments provide additional insight into the mechanism of millisecond motions in the RNase A catalytic cycle.
+
+-Amino Acid Sequence
+-Animals
+-Catalytic Domain
+-Cattle
+-Cytidine Monophosphate (-metabolism)
+-Eosinophil Cationic Protein (-chemistry; -genetics; -metabolism)
+-Humans
+-Models, Molecular
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Nuclear Magnetic Resonance, Biomolecular
+-Pliability
+-Protein Folding
++Protein Structure, Secondary
++Protein Structure, Tertiary
+-Recombinant Fusion Proteins (+chemistry; -genetics; -metabolism)
+-Ribonuclease, Pancreatic (+chemistry; -genetics; -metabolism)
+-Thermodynamics
+
+doi:10.1021/bi900830g
+pubmed:19588901
+mid:NIHMS132649
+pmc:PMC2741010
+

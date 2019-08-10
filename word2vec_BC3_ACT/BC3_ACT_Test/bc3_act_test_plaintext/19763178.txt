@@ -1,0 +1,30 @@
+PLoS Comput. Biol.
+
+Transcriptional profiling of the dose response: a more powerful approach for characterizing drug activities.
+
+RR Ji, H de Silva, Y Jin, RE Bruccoleri, J Cao, A He, W Huang, PS Kayne, IM Neuhaus, KH Ott, B Penhallow, MI Cockett, MG Neubauer, NO Siemers, P Ross-Macdonald
+
+The dose response curve is the gold standard for measuring the effect of a drug treatment, but is rarely used in genomic scale transcriptional profiling due to perceived obstacles of cost and analysis. One barrier to examining transcriptional dose responses is that existing methods for microarray data analysis can identify patterns, but provide no quantitative pharmacological information. We developed analytical methods that identify transcripts responsive to dose, calculate classical pharmacological parameters such as the EC50, and enable an in-depth analysis of coordinated dose-dependent treatment effects. The approach was applied to a transcriptional profiling study that evaluated four kinase inhibitors (imatinib, nilotinib, dasatinib and PD0325901) across a six-logarithm dose range, using 12 arrays per compound. The transcript responses proved a powerful means to characterize and compare the compounds: the distribution of EC50 values for the transcriptome was linked to specific targets, dose-dependent effects on cellular processes were identified using automated pathway analysis, and a connection was seen between EC50s in standard cellular assays and transcriptional EC50s. Our approach greatly enriches the information that can be obtained from standard transcriptional profiling technology. Moreover, these methods are automated, robust to non-optimized assays, and could be applied to other sources of quantitative data.
+
+-Algorithms
+-Benzamides (-pharmacology)
+-Cell Cycle (-drug effects)
+-Cell Line
+-Cluster Analysis
+-Computational Biology (+methods)
+-Diphenylamine (-analogs & derivatives; -pharmacology)
+-Dose-Response Relationship, Drug
+-Gene Expression (+drug effects)
+-Gene Expression Profiling (+methods)
+-Humans
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Piperazines (-pharmacology)
+-Protein Kinase Inhibitors (+pharmacology)
+-Pyrimidines (-pharmacology)
+-Signal Transduction (-drug effects)
+-Thiazoles (-pharmacology)
+
+doi:10.1371/journal.pcbi.1000512
+pubmed:19763178
+pmc:PMC2735650
+

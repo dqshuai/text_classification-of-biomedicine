@@ -1,0 +1,23 @@
+DNA Repair (Amst.)
+
+Behind the wheel and under the hood: functions of cyclin-dependent kinases in response to DNA damage.
+
+L Wohlbold, RP Fisher
+
+Cell division and the response to genotoxic stress are intimately connected in eukaryotes, for example, by checkpoint pathways that signal the presence of DNA damage or its ongoing repair to the cell cycle machinery, leading to reversible arrest or apoptosis. Recent studies reveal another connection: the cyclin-dependent kinases (CDKs) that govern both DNA synthesis (S) phase and mitosis directly coordinate DNA repair processes with progression through the cell cycle. In both mammalian cells and yeast, the two major modes of double strand break (DSB) repair--homologous recombination (HR) and non-homologous end joining (NHEJ)--are reciprocally regulated during the cell cycle. In yeast, the cell cycle kinase Cdk1 directly promotes DSB repair by HR during the G2 phase. In mammalian cells, loss of Cdk2, which is active throughout S and G2 phases, results in defective DNA damage repair and checkpoint signaling. Here we provide an overview of data that implicate CDKs in the regulation of DNA damage responses in yeast and metazoans. In yeast, CDK activity is required at multiple points in the HR pathway; the precise roles of CDKs in mammalian HR have yet to be determined. Finally, we consider how the two different, and in some cases opposing, roles of CDKs--as targets of negative regulation by checkpoint signaling and as positive effectors of repair pathway selection and function--could be balanced to produce a coordinated and effective response to DNA damage.
+
+-Animals
+-Cell Cycle
+-Cyclin-Dependent Kinases (+metabolism)
++DNA Damage
+-DNA Repair
+-Humans
+-Recombination, Genetic (-genetics)
+-Telomere (-metabolism)
+
+pii:S1568-7864(09)00103-7
+doi:10.1016/j.dnarep.2009.04.009
+pubmed:19464967
+mid:NIHMS113990
+pmc:PMC2725215
+

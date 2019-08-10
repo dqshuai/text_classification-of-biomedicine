@@ -1,0 +1,27 @@
+Genome Biol.
+
+Developmental roles of 21 Drosophila transcription factors are determined by quantitative differences in binding to an overlapping set of thousands of genomic regions.
+
+S MacArthur, XY Li, J Li, JB Brown, HC Chu, L Zeng, BP Grondona, A Hechmer, L Simirenko, SV Keränen, DW Knowles, M Stapleton, P Bickel, MD Biggin, MB Eisen
+
+BACKGROUND: We previously established that six sequence-specific transcription factors that initiate anterior/posterior patterning in Drosophila bind to overlapping sets of thousands of genomic regions in blastoderm embryos. While regions bound at high levels include known and probable functional targets, more poorly bound regions are preferentially associated with housekeeping genes and/or genes not transcribed in the blastoderm, and are frequently found in protein coding sequences or in less conserved non-coding DNA, suggesting that many are likely non-functional. RESULTS: Here we show that an additional 15 transcription factors that regulate other aspects of embryo patterning show a similar quantitative continuum of function and binding to thousands of genomic regions in vivo. Collectively, the 21 regulators show a surprisingly high overlap in the regions they bind given that they belong to 11 DNA binding domain families, specify distinct developmental fates, and can act via different cis-regulatory modules. We demonstrate, however, that quantitative differences in relative levels of binding to shared targets correlate with the known biological and transcriptional regulatory specificities of these factors. CONCLUSIONS: It is likely that the overlap in binding of biochemically and functionally unrelated transcription factors arises from the high concentrations of these proteins in nuclei, which, coupled with their broad DNA binding specificities, directs them to regions of open chromatin. We suggest that most animal transcription factors will be found to show a similar broad overlapping pattern of binding in vivo, with specificity achieved by modulating the amount, rather than the identity, of bound factor.
+
+-Animals
+-Binding Sites (-genetics)
+-Blastoderm (+metabolism)
+-Body Patterning (-genetics)
+-Chromatin Immunoprecipitation
+-Drosophila Proteins (-genetics; +metabolism)
+-Drosophila melanogaster (-embryology; -genetics; -metabolism)
+-Gene Expression Regulation, Developmental
+-Genome, Insect (+genetics)
+-Homeodomain Proteins (-genetics)
+-Protein Binding
+-Transcription Factors (-genetics; +metabolism)
+-Transcription Initiation Site
+
+pii:gb-2009-10-7-r80
+doi:10.1186/gb-2009-10-7-r80
+pubmed:19627575
+pmc:PMC2728534
+

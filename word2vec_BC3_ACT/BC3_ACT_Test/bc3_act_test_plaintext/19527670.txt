@@ -1,0 +1,24 @@
+Biophys. J.
+
+A novel approach to high accuracy of video-based microrheology.
+
+PH Wu, SH Arce, PR Burney, Y Tseng
+
+Video-based particle tracking monitors the microscopic movement of labeled biomolecules and fluorescent probes within a complex cellular environment. Information gained from this technique enables us to extract the dynamic behavior of biomolecules and the local mechanical properties inside the cell from a tracked particle's mean-square displacement (MSD). However, MSD measurements are highly susceptible to static error introduced by noise in the image acquisition process that leads to an incorrect positioning of the particle. Static error can mask the subtle effects from the local microenvironment on the MSD and potentially generate misleading conclusions about the biophysical properties of cells. An approach that greatly increases the accuracy of MSD measurements is presented herein by combining experimental data with Monte Carlo simulations to eliminate the inherent static error. This practical method of static error correction greatly advances particle-tracking techniques.
+
+-Animals
+-Cell Line
+-Light
+-Mice
+-Microspheres
+-Monte Carlo Method
+-Particle Size
+-Polystyrenes
+-Rheology (+methods)
+-Video Recording (+methods)
+
+pii:S0006-3495(09)00770-X
+doi:10.1016/j.bpj.2009.03.029
+pubmed:19527670
+pmc:PMC2712022
+

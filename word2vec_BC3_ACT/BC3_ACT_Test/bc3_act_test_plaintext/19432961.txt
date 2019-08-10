@@ -1,0 +1,30 @@
+Breast Cancer Res.
+
+MicroRNA signatures predict oestrogen receptor, progesterone receptor and HER2/neu receptor status in breast cancer.
+
+AJ Lowery, N Miller, A Devaney, RE McNeill, PA Davoren, C Lemetre, V Benes, S Schmidt, J Blake, G Ball, MJ Kerin
+
+INTRODUCTION: Breast cancer is a heterogeneous disease encompassing a number of phenotypically diverse tumours. Expression levels of the oestrogen, progesterone and HER2/neu receptors which characterize clinically distinct breast tumours have been shown to change during disease progression and in response to systemic therapies. Mi(cro)RNAs play critical roles in diverse biological processes and are aberrantly expressed in several human neoplasms including breast cancer, where they function as regulators of tumour behaviour and progression. The aims of this study were to identify miRNA signatures that accurately predict the oestrogen receptor (ER), progesterone receptor (PR) and HER2/neu receptor status of breast cancer patients to provide insight into the regulation of breast cancer phenotypes and progression. METHODS: Expression profiling of 453 miRNAs was performed in 29 early-stage breast cancer specimens. miRNA signatures associated with ER, PR and HER2/neu status were generated using artificial neural networks (ANN), and expression of specific miRNAs was validated using RQ-PCR. RESULTS: Stepwise ANN analysis identified predictive miRNA signatures corresponding with oestrogen (miR-342, miR-299, miR-217, miR-190, miR-135b, miR-218), progesterone (miR-520g, miR-377, miR-527-518a, miR-520f-520c) and HER2/neu (miR-520d, miR-181c, miR-302c, miR-376b, miR-30e) receptor status. MiR-342 and miR-520g expression was further analysed in 95 breast tumours. MiR-342 expression was highest in ER and HER2/neu-positive luminal B tumours and lowest in triple-negative tumours. MiR-520g expression was elevated in ER and PR-negative tumours. CONCLUSIONS: This study demonstrates that ANN analysis reliably identifies biologically relevant miRNAs associated with specific breast cancer phenotypes. The association of specific miRNAs with ER, PR and HER2/neu status indicates a role for these miRNAs in disease classification of breast cancer. Decreased expression of miR-342 in the therapeutically challenging triple-negative breast tumours, increased miR-342 expression in the luminal B tumours, and downregulated miR-520g in ER and PR-positive tumours indicates that not only is dysregulated miRNA expression a marker for poorer prognosis breast cancer, but that it could also present an attractive target for therapeutic intervention.
+
+-Adult
+-Aged
+-Aged, 80 and over
+-Algorithms
+-Breast Neoplasms (+metabolism)
+-Female
+-Gene Expression Profiling
++Gene Expression Regulation, Neoplastic
+-Humans
++MicroRNAs
+-Middle Aged
+-Neural Networks (Computer)
+-Oligonucleotide Array Sequence Analysis
+-Receptor, erbB-2 (+metabolism)
+-Receptors, Estrogen (+metabolism)
+-Receptors, Progesterone (+metabolism)
+
+pii:bcr2257
+doi:10.1186/bcr2257
+pubmed:19432961
+pmc:PMC2716495
+

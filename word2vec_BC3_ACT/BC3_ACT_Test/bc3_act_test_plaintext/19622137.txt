@@ -1,0 +1,26 @@
+BMC Genomics
+
+Surviving the cold: molecular analyses of insect cryoprotective dehydration in the Arctic springtail Megaphorura arctica (Tullberg).
+
+MS Clark, MA Thorne, J Purać, G Burns, G Hillyard, ZD Popović, G Grubor-Lajsić, MR Worland
+
+BACKGROUND: Insects provide tractable models for enhancing our understanding of the physiological and cellular processes that enable survival at extreme low temperatures. They possess three main strategies to survive the cold: freeze tolerance, freeze avoidance or cryoprotective dehydration, of which the latter method is exploited by our model species, the Arctic springtail Megaphorura arctica, formerly Onychiurus arcticus (Tullberg 1876). The physiological mechanisms underlying cryoprotective dehydration have been well characterised in M. arctica and to date this process has been described in only a few other species: the Antarctic nematode Panagrolaimus davidi, an enchytraied worm, the larvae of the Antarctic midge Belgica antarctica and the cocoons of the earthworm Dendrobaena octaedra. There are no in-depth molecular studies on the underlying cold survival mechanisms in any species. RESULTS: A cDNA microarray was generated using 6,912 M. arctica clones printed in duplicate. Analysis of clones up-regulated during dehydration procedures (using both cold- and salt-induced dehydration) has identified a number of significant cellular processes, namely the production and mobilisation of trehalose, protection of cellular systems via small heat shock proteins and tissue/cellular remodelling during the dehydration process. Energy production, initiation of protein translation and cell division, plus potential tissue repair processes dominate genes identified during recovery. Heat map analysis identified a duplication of the trehalose-6-phosphate synthase (TPS) gene in M. arctica and also 53 clones co-regulated with TPS, including a number of membrane associated and cell signalling proteins. Q-PCR on selected candidate genes has also contributed to our understanding with glutathione-S-transferase identified as the major antioxdidant enzyme protecting the cells during these stressful procedures, and a number of protein kinase signalling molecules involved in recovery. CONCLUSION: Microarray analysis has proved to be a powerful technique for understanding the processes and genes involved in cryoprotective dehydration, beyond the few candidate genes identified in the current literature. Dehydration is associated with the mobilisation of trehalose, cell protection and tissue remodelling. Energy production, leading to protein production, and cell division characterise the recovery process. Novel membrane proteins, along with aquaporins and desaturases, have been identified as promising candidates for future functional analyses to better understand membrane remodelling during cellular dehydration.
+
+-Animals
+-Arthropods (-enzymology; +genetics; -physiology)
++Cold Temperature
+-Cryoprotective Agents (-metabolism)
+-Dehydration (+genetics)
+-Expressed Sequence Tags
+-Gene Expression Profiling
+-Genes, Duplicate
+-Glucosyltransferases (+genetics)
+-Oligonucleotide Array Sequence Analysis
+-Stress, Physiological
+-Trehalose (-metabolism)
+
+pii:1471-2164-10-328
+doi:10.1186/1471-2164-10-328
+pubmed:19622137
+pmc:PMC2726227
+

@@ -1,0 +1,27 @@
+Neuron
+
+A general model of synaptic transmission and short-term plasticity.
+
+B Pan, RS Zucker
+
+Some synapses transmit strongly to action potentials (APs), but weaken with repeated activation; others transmit feebly at first, but strengthen with sustained activity. We measured synchronous and asynchronous transmitter release at "phasic" crayfish neuromuscular junctions (NMJs) showing depression and at facilitating "tonic" junctions, and define the kinetics of depression and facilitation. We offer a comprehensive model of presynaptic processes, encompassing mobilization of reserve vesicles, priming of docked vesicles, their association with Ca(2+) channels, and refractoriness of release sites, while accounting for data on presynaptic buffers governing Ca(2+) diffusion. Model simulations reproduce many experimentally defined aspects of transmission and plasticity at these synapses. Their similarity to vertebrate central synapses suggests that the model might be of general relevance to synaptic transmission.
+
+-Action Potentials (-physiology)
+-Animals
+-Astacoidea
+-Biophysics
+-Calcium (-metabolism)
+-Cesium (-pharmacology)
+-Computer Simulation
+-Electric Stimulation (-methods)
++Models, Biological
+-Neuromuscular Junction (-drug effects; +physiology)
+-Neuronal Plasticity (-drug effects; +physiology)
+-Neurotransmitter Agents (-metabolism)
+-Synaptic Transmission (+physiology)
+-Time Factors
+
+pii:S0896-6273(09)00285-2
+doi:10.1016/j.neuron.2009.03.025
+pubmed:19477155
+

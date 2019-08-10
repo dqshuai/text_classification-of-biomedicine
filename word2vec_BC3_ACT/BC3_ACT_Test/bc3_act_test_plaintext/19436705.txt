@@ -1,0 +1,36 @@
+PLoS Genet.
+
+MSH2 ATPase domain mutation affects CTG*CAG repeat instability in transgenic mice.
+
+S Tomé, I Holt, W Edelmann, GE Morris, A Munnich, CE Pearson, G Gourdon
+
+Myotonic dystrophy type 1 (DM1) is associated with one of the most highly unstable CTG*CAG repeat expansions. The formation of further repeat expansions in transgenic mice carrying expanded CTG*CAG tracts requires the mismatch repair (MMR) proteins MSH2 and MSH3, forming the MutSbeta complex. It has been proposed that binding of MutSbeta to CAG hairpins blocks its ATPase activity compromising hairpin repair, thereby causing expansions. This would suggest that binding, but not ATP hydrolysis, by MutSbeta is critical for trinucleotide expansions. However, it is unknown if the MSH2 ATPase activity is dispensible for instability. To get insight into the mechanism by which MSH2 generates trinucleotide expansions, we crossed DM1 transgenic mice carrying a highly unstable >(CTG)(300) repeat tract with mice carrying the G674A mutation in the MSH2 ATPase domain. This mutation impairs MSH2 ATPase activity and ablates base-base MMR, but does not affect the ability of MSH2 (associated with MSH6) to bind DNA mismatches. We found that the ATPase domain mutation of MSH2 strongly affects the formation of CTG expansions and leads instead to transmitted contractions, similar to a Msh2-null or Msh3-null deficiency. While a decrease in MSH2 protein level was observed in tissues from Msh2(G674) mice, the dramatic reduction of expansions suggests that the expansion-biased trinucleotide repeat instability requires a functional MSH2 ATPase domain and probably a functional MMR system.
+
+-Adenosine Triphosphatases (-chemistry; -genetics; -metabolism)
+-Animals
+-Base Sequence
+-Brain (-metabolism)
+-DNA Mismatch Repair (-genetics)
+-DNA Primers (-genetics)
+-DNA-Binding Proteins (-metabolism)
+-Female
++Genomic Instability
+-Humans
+-Male
+-Mice
+-Mice, Knockout
+-Mice, Transgenic
+-MutS Homolog 2 Protein (+chemistry; -deficiency; +genetics; -metabolism)
+-Myotonic Dystrophy (-genetics; -metabolism)
+-Ovary (-metabolism)
++Point Mutation
+-Protein Structure, Tertiary
+-Protein-Serine-Threonine Kinases (-genetics)
+-Proteins (-genetics; -metabolism)
+-Testis (-metabolism)
++Trinucleotide Repeat Expansion
+
+doi:10.1371/journal.pgen.1000482
+pubmed:19436705
+pmc:PMC2674216
+

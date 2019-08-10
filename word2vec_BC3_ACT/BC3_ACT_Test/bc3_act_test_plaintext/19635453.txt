@@ -1,0 +1,23 @@
+Biochem. Biophys. Res. Commun.
+
+Ectopic Repo suppresses expression of castor gene in Drosophila central nervous system.
+
+KS Park, SI Moon, SH Kim, SH Jeon
+
+The ventral nerve cord (VNC) of the Drosophila embryo is derived from neuroblasts (NBs). NBs divide in a stem cell lineage to generate a series of ganglion mother cells (GMCs), each of which divides once to produce a pair of neurons or glial cells. One of the NB genes, castor (cas), is expressed in a subset of NBs and has never been identified in neurons and the peripheral nervous system; cas plays a role in axonogenesis. But its limited expression along the dorsal-ventral axis within the central nervous system has not been investigated yet. In the present study, we examined the expression patterns of both genes using confocal microscopy to determine the effects of repo mutation on cas expression. Cas was mainly expressed in layers different from repo-expressed layers during early embryogenesis: repo was expressed mostly from deep to mid layers, while cas, from mid to superficial layers. Loss-of-function of repo did not result in an ectopic expression of cas, but rather, a scattering of cas-expressing cells. However, repo gain-of-function mutation caused repression of cas. In addition, repo-expressing cells seemed to block the migration of cas-expressing cells.
+
+-Animals
+-Cell Movement (-genetics)
+-Central Nervous System (-cytology; +embryology; -metabolism)
+-DNA-Binding Proteins (+genetics)
+-Drosophila Proteins (+genetics; +metabolism)
+-Drosophila melanogaster (+embryology; -genetics)
++Gene Expression Regulation, Developmental
+-Homeodomain Proteins (-genetics; +metabolism)
+-Mutation
+-Neurons (-metabolism; -physiology)
+
+pii:S0006-291X(09)01468-5
+doi:10.1016/j.bbrc.2009.07.107
+pubmed:19635453
+

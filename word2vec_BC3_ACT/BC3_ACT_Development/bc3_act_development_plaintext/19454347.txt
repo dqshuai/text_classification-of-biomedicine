@@ -1,0 +1,22 @@
+Cell Host Microbe
+
+Dissecting regulatory networks in host-pathogen interaction using chIP-on-chip technology.
+
+C Sala, DC Grainger, ST Cole
+
+Understanding host-microbe interactions has been greatly enhanced by our broadening knowledge of the regulatory mechanisms at the heart of pathogenesis. The "transcriptomics" approach of measuring global gene expression has identified genes involved in bacterial pathogenesis. More recently, chromatin immunoprecipitation (ChIP) and hybridization to microarrays (chIP-on-chip) has emerged as a complementary tool that permits protein-DNA interactions to be studied in vivo. Thus, chIP-on-chip can be used to map the binding sites of transcription factors, thereby teasing apart gene regulatory networks. In this Review, we discuss the ChIP-on-chip technique and focus on its application to the study of host-pathogen interactions.
+
+-Animals
+-Binding Sites
+-Chromatin Immunoprecipitation (+methods)
++Gene Regulatory Networks
++Host-Pathogen Interactions
+-Humans
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Protein Binding
+-Transcription Factors (-metabolism)
+
+pii:S1931-3128(09)00109-7
+doi:10.1016/j.chom.2009.04.007
+pubmed:19454347
+

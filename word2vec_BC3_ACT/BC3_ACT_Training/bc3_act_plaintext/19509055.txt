@@ -1,0 +1,27 @@
+J. Cell. Sci.
+
+Functional homology of mammalian syntaxin 16 and yeast Tlg2p reveals a conserved regulatory mechanism.
+
+MS Struthers, SG Shanks, C MacDonald, LN Carpp, AM Drozdowska, D Kioumourtzoglou, ML Furgason, M Munson, NJ Bryant
+
+Membrane fusion in all eukaryotic cells is regulated by the formation of specific SNARE (soluble N-ethylmaleimide-sensitive factor attachment protein receptor) complexes. The molecular mechanisms that control this process are conserved through evolution and require several protein families, including Sec1p/Munc18 (SM) proteins. Here, we demonstrate that the mammalian SNARE protein syntaxin 16 (Sx16, also known as Syn16) is a functional homologue of the yeast SNARE Tlg2p, in that its expression fully complements the mutant phenotypes of tlg2Delta mutant yeast. We have used this functional homology to demonstrate that, as observed for Tlg2p, the function of Sx16 is regulated by the SM protein Vps45p. Furthermore, in vitro SNARE-complex assembly studies demonstrate that the N-terminal domain of Tlg2p is inhibitory to the formation of SNARE complexes, and that this inhibition can be lifted by the addition of purified Vps45p. By combining these cell-biological and biochemical analyses, we propose an evolutionarily conserved regulatory mechanism for Vps45p function. Our data support a model in which the SM protein is required to facilitate a switch of Tlg2p and Sx16 from a closed to an open conformation, thus allowing SNARE-complex assembly and membrane fusion to proceed.
+
+-Animals
+-Genetic Complementation Test
+-Membrane Fusion (+physiology)
+-Munc18 Proteins (-genetics; -metabolism)
+-Qa-SNARE Proteins (-genetics; +metabolism)
+-Receptors, Mating Factor (-genetics; -metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-SNARE Proteins (-genetics; -metabolism)
+-Saccharomyces cerevisiae (-cytology; -genetics; +metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Syntaxin 16 (-genetics; +metabolism)
+-Vacuoles (-metabolism)
+-Vesicular Transport Proteins (-genetics; -metabolism)
+
+pii:jcs.046441
+doi:10.1242/jcs.046441
+pubmed:19509055
+pmc:PMC2723147
+

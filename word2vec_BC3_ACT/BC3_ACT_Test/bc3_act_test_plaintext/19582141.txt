@@ -1,0 +1,35 @@
+PLoS Biol.
+
+Regulated fluctuations in nanog expression mediate cell fate decisions in embryonic stem cells.
+
+T Kalmar, C Lim, P Hayward, S Muñoz-Descalzo, J Nichols, J Garcia-Ojalvo, A Martinez Arias
+
+There is evidence that pluripotency of mouse embryonic stem (ES) cells is associated with the activity of a network of transcription factors with Sox2, Oct4, and Nanog at the core. Using fluorescent reporters for the expression of Nanog, we observed that a population of ES cells is best described by a dynamic distribution of Nanog expression characterized by two peaks defined by high (HN) and low (LN) Nanog expression. Typically, the LN state is 5%-20% of the total population, depending on the culture conditions. Modelling of the activity of Nanog reveals that a simple network of Oct4/Sox2 and Nanog activity can account for the observed distribution and its properties as long as the transcriptional activity is tuned by transcriptional noise. The model also predicts that the LN state is unstable, something that is born out experimentally. While in this state, cells can differentiate. We suggest that transcriptional fluctuations in Nanog expression are an essential element of the pluripotent state and that the function of Sox2, Oct4, and Nanog is to act as a network that promotes and maintains transcriptional noise to interfere with the differentiation signals.
+
+-Animals
+-Cell Differentiation (-physiology)
+-Cell Line
+-Cell Lineage
+-Embryonal Carcinoma Stem Cells (-cytology; +physiology)
+-Embryonic Stem Cells (-cytology; +physiology)
+-Flow Cytometry
+-Gene Expression Profiling
++Gene Expression Regulation
+-Gene Regulatory Networks
+-Genes, Reporter
+-Homeodomain Proteins (-chemistry; +genetics; -metabolism)
+-Mice
+-Models, Biological
+-Octamer Transcription Factor-3 (-chemistry; -metabolism)
+-Phenotype
+-Pluripotent Stem Cells (-cytology; +physiology)
+-SOXB1 Transcription Factors (-chemistry; -metabolism)
+-Transcription Factors (-chemistry; +metabolism)
+-Transcription, Genetic
+-Transgenes
+-Tumor Cells, Cultured
+
+doi:10.1371/journal.pbio.1000149
+pubmed:19582141
+pmc:PMC2700273
+

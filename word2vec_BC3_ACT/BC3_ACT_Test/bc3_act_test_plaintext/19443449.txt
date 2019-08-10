@@ -1,0 +1,34 @@
+Nucleic Acids Res.
+
+Characterization of sINR, a strict version of the Initiator core promoter element.
+
+G Yarden, R Elfakess, K Gazit, R Dikstein
+
+The proximal promoter consists of binding sites for transcription regulators and a core promoter. We identified an overrepresented motif in the proximal promoter of human genes with an Initiator (INR) positional bias. The core of the motif fits the INR consensus but its sequence is more strict and flanked by additional conserved sequences. This strict INR (sINR) is enriched in TATA-less genes that belong to specific functional categories. Analysis of the sINR-containing DHX9 and ATP5F1 genes showed that the entire sINR sequence, including the strict core and the conserved flanking sequences, is important for transcription. A conventional INR sequence could not substitute for DHX9 sINR whereas, sINR could replace a conventional INR. The minimal region required to create the major TSS of the DHX9 promoter includes the sINR and an upstream Sp1 site. In a heterologous context, sINR substituted for the TATA box when positioned downstream to several Sp1 sites. Consistent with that the majority of sINR promoters contain at least one Sp1 site. Thus, sINR is a TATA-less-specific INR that functions in cooperation with Sp1. These findings support the idea that the INR is a family of related core promoter motifs.
+
+-Animals
+-Base Sequence
+-Binding Sites
+-Cell Line
+-Conserved Sequence
+-Cricetinae
+-DEAD-box RNA Helicases (-genetics)
+-Hela Cells
+-Humans
+-Inverted Repeat Sequences
+-Molecular Sequence Data
+-Neoplasm Proteins (-genetics)
++Promoter Regions, Genetic
+-Sp1 Transcription Factor (-metabolism)
+-TATA Box
+-Transcription Factor TFIID (-physiology)
+-Transcription Initiation Site
++Transcription, Genetic
+-Transcriptional Activation
+-YY1 Transcription Factor (-metabolism)
+
+pii:gkp315
+doi:10.1093/nar/gkp315
+pubmed:19443449
+pmc:PMC2715227
+

@@ -1,0 +1,21 @@
+EMBO J.
+
+A sequential program of dual phosphorylation of KaiC as a basis for circadian rhythm in cyanobacteria.
+
+T Nishiwaki, Y Satomi, Y Kitayama, K Terauchi, R Kiyohara, T Takao, T Kondo
+
+The circadian phosphorylation cycle of the cyanobacterial clock protein KaiC has been reconstituted in vitro. The phosphorylation profiles of two phosphorylation sites in KaiC, serine 431 (S431) and threonine 432 (T432), revealed that the phosphorylation cycle contained four steps: (i) T432 phosphorylation; (ii) S431 phosphorylation to generate the double-phosphorylated form of KaiC; (iii) T432 dephosphorylation; and (iv) S431 dephosphorylation. We then examined the effects of mutations introduced at one KaiC phosphorylation site on the intact phosphorylation site. We found that the product of each step in the phosphorylation cycle regulated the reaction in the next step, and that double phosphorylation converted KaiC from an autokinase to an autophosphatase, whereas complete dephosphorylation had the opposite effect. These mechanisms serve as the basis for cyanobacterial circadian rhythm generation. We also found that associations among KaiA, KaiB, and KaiC result from S431 phosphorylation, and these interactions would maintain the amplitude of the rhythm.
+
+-Bacterial Proteins (+metabolism)
++Circadian Rhythm
+-Circadian Rhythm Signaling Peptides and Proteins
+-Cyanobacteria (-metabolism; +physiology)
+-Phosphorylation
+-Serine (-metabolism)
+-Threonine (-metabolism)
+
+pii:7601832
+doi:10.1038/sj.emboj.7601832
+pubmed:17717528
+pmc:PMC1994132
+

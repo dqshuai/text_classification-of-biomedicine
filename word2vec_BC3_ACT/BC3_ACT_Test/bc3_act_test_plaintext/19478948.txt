@@ -1,0 +1,24 @@
+PLoS ONE
+
+Selective killing of tumors deficient in methylthioadenosine phosphorylase: a novel strategy.
+
+M Lubin, A Lubin
+
+BACKGROUND: The gene for methylthioadenosine phosphorylase (MTAP) lies on 9p21, close to the gene CDKN2A that encodes the tumor suppressor proteins p16 and p14ARF. MTAP and CDKN2A are homozygously co-deleted, with a frequency of 35 to 70%, in lung and pancreatic cancer, glioblastoma, osteosarcoma, soft-tissue sarcoma, mesothelioma, and T-cell acute lymphoblastic leukemia. In normal cells, but not in tumor cells lacking MTAP, MTAP cleaves the natural substrate, 5'-deoxy-5'-methylthioadenosine (MTA), to adenine and 5-methylthioribose-1-phosphate (MTR-1-P), which are then converted to adenine nucleotides and methionine. This distinct difference between normal MTAP-positive cells and tumor MTAP-negative cells led to several proposals for therapy. We offer a novel strategy in which both MTA and a toxic adenine analog, such as 2,6-diaminopurine (DAP), 6-methylpurine (MeP), or 2-fluoroadenine (F-Ade), are administered. In MTAP-positive cells, abundant adenine, generated from supplied MTA, competitively blocks the conversion of an analog, by adenine phosphoribosyltransferase (APRT), to its active nucleotide form. In MTAP-negative tumor cells, the supplied MTA cannot generate adenine; hence conversion of the analog is not blocked. PRINCIPAL FINDINGS: We show that this combination treatment--adenine analog plus MTA--kills MTAP-negative A549 lung tumor cells, while MTAP-positive human fibroblasts (HF) are protected. In co-cultures of the breast tumor cell line, MCF-7, and HF cells, MCF-7 is inhibited or killed, while HF cells proliferate robustly. 5-Fluorouracil (5-FU) and 6-thioguanine (6-TG) may also be used with our strategy. Though neither analog is activated by APRT, in MTAP-positive cells, adenine produced from supplied MTA blocks conversion of 5-FU and 6-TG to their toxic nucleotide forms by competing for 5-phosphoribosyl-1-pyrophosphate (PRPP). The combination of MTA with 5-FU or 6-TG, in the treatment of MTAP-negative tumors, may produce a significantly improved therapeutic index. CONCLUSION: We describe a selective strategy to kill tumor cells lacking MTAP.
+
+-Adenine (-analogs & derivatives; -pharmacology)
+-Cell Death (-drug effects)
+-Cell Line
+-Coculture Techniques
+-Deoxyadenosines (-pharmacology)
+-Drug Screening Assays, Antitumor (+methods)
+-Fluorouracil (-pharmacology)
+-Humans
+-Neoplasms (+enzymology; +pathology)
+-Purine-Nucleoside Phosphorylase (+metabolism)
+-Thioguanine (-pharmacology)
+
+doi:10.1371/journal.pone.0005735
+pubmed:19478948
+pmc:PMC2684647
+

@@ -1,0 +1,28 @@
+PLoS ONE
+
+Extraction of surface-related features in a recurrent model of V1-V2 interactions.
+
+U Weidenbacher, H Neumann
+
+BACKGROUND: Humans can effortlessly segment surfaces and objects from two-dimensional (2D) images that are projections of the 3D world. The projection from 3D to 2D leads partially to occlusions of surfaces depending on their position in depth and on viewpoint. One way for the human visual system to infer monocular depth cues could be to extract and interpret occlusions. It has been suggested that the perception of contour junctions, in particular T-junctions, may be used as cue for occlusion of opaque surfaces. Furthermore, X-junctions could be used to signal occlusion of transparent surfaces. METHODOLOGY/PRINCIPAL FINDINGS: In this contribution, we propose a neural model that suggests how surface-related cues for occlusion can be extracted from a 2D luminance image. The approach is based on feedforward and feedback mechanisms found in visual cortical areas V1 and V2. In a first step, contours are completed over time by generating groupings of like-oriented contrasts. Few iterations of feedforward and feedback processing lead to a stable representation of completed contours and at the same time to a suppression of image noise. In a second step, contour junctions are localized and read out from the distributed representation of boundary groupings. Moreover, surface-related junctions are made explicit such that they are evaluated to interact as to generate surface-segmentations in static images. In addition, we compare our extracted junction signals with a standard computer vision approach for junction detection to demonstrate that our approach outperforms simple feedforward computation-based approaches. CONCLUSIONS/SIGNIFICANCE: A model is proposed that uses feedforward and feedback mechanisms to combine contextually relevant features in order to generate consistent boundary groupings of surfaces. Perceptually important junction configurations are robustly extracted from neural representations to signal cues for occlusion and transparency. Unlike previous proposals which treat localized junction configurations as 2D image features, we link them to mechanisms of apparent surface segregation. As a consequence, we demonstrate how junctions can change their perceptual representation depending on the scene context and the spatial configuration of boundary fragments.
+
+-Computer Simulation
++Form Perception
+-Humans
+-Models, Biological
+-Models, Neurological
+-Models, Theoretical
+-Motion Perception
+-Neurons (-physiology)
+-Pattern Recognition, Visual
+-Photic Stimulation (-methods)
+-Vision, Binocular
++Vision, Ocular
+-Visual Cortex (+physiology)
+-Visual Pathways
+-Visual Perception
+
+doi:10.1371/journal.pone.0005909
+pubmed:19526061
+pmc:PMC2691604
+

@@ -1,0 +1,28 @@
+EMBO Rep.
+
+DNA-damage response control of E2F7 and E2F8.
+
+LP Zalmas, X Zhao, AL Graham, R Fisher, C Reilly, AS Coutts, NB La Thangue
+
+Here, we report that the two recently identified E2F subunits, E2F7 and E2F8, are induced in cells treated with DNA-damaging agents where they have an important role in dictating the outcome of the DNA-damage response. The DNA-damage-dependent induction coincides with the binding of E2F7 and E2F8 to the promoters of certain E2F-responsive genes, most notably that of the E2F1 gene, in which E2F7 and E2F8 coexist in a DNA-binding complex. As a consequence, E2F7 and E2F8 repress E2F target genes, such as E2F1, and reducing the level of each subunit results in an increase in E2F1 expression and activity. Importantly, depletion of either E2F7 or E2F8 prevents the cell-cycle effects that occur in response to DNA damage. Thus, E2F7 and E2F8 act upstream of E2F1, and influence the ability of cells to undergo a DNA-damage response. E2F7 and E2F8, therefore, underpin the DNA-damage response.
+
+-Animals
+-Apoptosis (-drug effects)
++DNA Damage
+-E2F1 Transcription Factor (-metabolism)
+-E2F7 Transcription Factor (+metabolism)
+-Etoposide (-pharmacology)
+-Hela Cells
+-Humans
+-Mice
+-Promoter Regions, Genetic (-genetics)
+-Protein Binding (-drug effects)
+-Protein Transport (-drug effects)
+-RNA, Small Interfering (-metabolism)
+-Repressor Proteins (+metabolism)
+
+pii:7401158
+doi:10.1038/sj.embor.7401158
+pubmed:18202719
+pmc:PMC2267382
+

@@ -1,0 +1,26 @@
+Plant Signal Behav
+
+Suppression of MKK5 reduces ozone-induced signal transmission to both MPK3 and MPK6 and confers increased ozone sensitivity in Arabidopsis thaliana.
+
+GP Miles, MA Samuel, BE Ellis
+
+In Arabidopsis thaliana, ozone-induced signaling has been shown to involve the mitogen-activated protein kinases (MAPKs) MPK3 and MPK6. To identify a possible ozone-induced mitogen-activated protein kinase kinase (MAPKK) involved in the activation of these specific MAPKs, we employed RNA interference-(RNAi)-based suppression of MKK5, a known cognate MAPKK to both MPK3 and MPK6. When exposed to ozone, activation of both MPK3 and MPK6 was markedly reduced in the MKK5-suppressed plants compared to WT. Additionally, the MKK5-suppressed plants were found to be highly sensitive to ozone as determined by visible leaf damage concomitant with elevated levels of leaf-localised H(2)O(2). Taken together, our data suggest MKK5 functions both in ozone-induced activation of MPK3 and MPK6 and in integrating ROS homeostasis during ozone stress.
+
+-Arabidopsis (-chemistry; -drug effects; +enzymology; -genetics; -metabolism)
+-Arabidopsis Proteins (+metabolism)
+-Enzyme Activation (-drug effects)
+-Genotype
+-Hydrogen Peroxide (-metabolism)
+-Mitogen-Activated Protein Kinase Kinases (-chemistry; +genetics; +metabolism)
+-Mitogen-Activated Protein Kinases (+metabolism)
+-Ozone (+pharmacology)
+-Plant Leaves (-drug effects; -enzymology)
+-Plants, Genetically Modified
+-RNA Interference (-drug effects)
+-Signal Transduction (+drug effects)
++Suppression, Genetic
+
+pii:9298
+pubmed:19820329
+pmc:PMC2801376
+

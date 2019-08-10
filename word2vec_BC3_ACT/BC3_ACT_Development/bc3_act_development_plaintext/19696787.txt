@@ -1,0 +1,27 @@
+Cell Death Differ.
+
+p53-independent upregulation of miR-34a during oncogene-induced senescence represses MYC.
+
+NR Christoffersen, R Shalgi, LB Frankel, E Leucci, M Lees, M Klausen, Y Pilpel, FC Nielsen, M Oren, AH Lund
+
+Aberrant oncogene activation induces cellular senescence, an irreversible growth arrest that acts as a barrier against tumorigenesis. To identify microRNAs (miRNAs) involved in oncogene-induced senescence, we examined the expression of miRNAs in primary human TIG3 fibroblasts after constitutive activation of B-RAF. Among the regulated miRNAs, both miR-34a and miR-146a were strongly induced during senescence. Although members of the miR-34 family are known to be transcriptionally regulated by p53, we find that miR-34a is regulated independently of p53 during oncogene-induced senescence. Instead, upregulation of miR-34a is mediated by the ETS family transcription factor, ELK1. During senescence, miR-34a targets the important proto-oncogene MYC and our data suggest that miR-34a thereby coordinately controls a set of cell cycle regulators. Hence, in addition to its integration in the p53 pathway, we show that alternative cancer-related pathways regulate miR-34a, emphasising its significance as a tumour suppressor.
+
+-Cell Aging (+genetics)
+-Cell Cycle (-genetics)
+-Cell Division (-genetics)
+-Cell Line, Transformed
+-Fibroblasts (+cytology; +physiology)
+-Humans
+-MicroRNAs (+genetics; -metabolism)
+-Neoplasms (-genetics; -pathology)
+-Oncogenes (-physiology)
+-Proto-Oncogene Proteins B-raf (-genetics; -metabolism)
+-Proto-Oncogene Proteins c-myc (+genetics; -metabolism)
+-Tumor Suppressor Protein p53 (-genetics; -metabolism)
+-Up-Regulation (-physiology)
+-ets-Domain Protein Elk-1 (-genetics; -metabolism)
+
+pii:cdd2009109
+doi:10.1038/cdd.2009.109
+pubmed:19696787
+

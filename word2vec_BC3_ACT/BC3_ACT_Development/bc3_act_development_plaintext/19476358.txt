@@ -1,0 +1,12 @@
+J. Am. Chem. Soc.
+
+A multiscale scheme for the simulation of conformational and solution properties of different dendrimer molecules.
+
+G Del Río Echenique, R Rodríguez Schmidt, JJ Freire, JG Hernández Cifre, J García de la Torre
+
+We propose a multiscale protocol for the simulation of conformation and dynamics of dendrimer molecules in dilute solution. Conformational properties (radius of gyration, mass distribution, and scattering intensities) and overall hydrodynamic properties (translational diffusion and intrinsic viscosity) are predicted by means of a very simple coarse-grained bead-and-spring model, whose parameters are not adjusted against experimental properties, but rather they are obtained from previous, atomic-level simulations which are also quite simple, performed with small fragments and Langevin dynamics simulation. The scheme is described and applied systematically to four different dendrimer molecules with up to seven generations. The predictive capability of this scheme is tested by comparison with experimental data. It is found that the predicted geometric and hydrodynamic radii of the dendrimer molecules are in agreement (typical error is about 4%) with a large set experimental values of the four dendrimers with various numbers of generations. Agreement with some X-ray scattering experimental intensities also confirms the good prediction of the internal structure. This scheme is easily extendable to study more complex molecules (e.g., functionalized dendrimers) and to simulate internal dynamics.
+
+
+doi:10.1021/ja901275d
+pubmed:19476358
+

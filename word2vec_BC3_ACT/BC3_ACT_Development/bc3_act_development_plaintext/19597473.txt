@@ -1,0 +1,25 @@
+Oncogene
+
+Counterbalance between RB inactivation and miR-17-92 overexpression in reactive oxygen species and DNA damage induction in lung cancers.
+
+H Ebi, T Sato, N Sugito, Y Hosono, Y Yatabe, Y Matsuyama, T Yamaguchi, H Osada, M Suzuki, T Takahashi
+
+Small-cell lung cancer (SCLC) is a highly aggressive disease that exhibits rapid growth and genetic instability. We found earlier frequent overexpression of the miR-17-92 microRNA cluster, and showed that SCLC cells were addicted to continued expressions of miR-17-5p and miR-20a, major components of this microRNA cluster. In this study, we identified the frequent presence of constitutively phosphorylated H2AX (gamma-H2AX), which reflects continuing DNA damage, preferentially in SCLC. Knockdown of RB induced gamma-H2AX foci formation in non-small cell lung cancer (NSCLC) cells with wild-type RB, in association with growth inhibition and reactive oxygen species (ROS) generation, which was canceled by overexpression of miR-17-92. Conversely, induction of gamma-H2AX was observed in a miR-17-92-overexpressing SCLC cell line with miR-20a antisense oligonucleotides. These findings suggest that miR-17-92 overexpression may serve as a fine-tuning influence to counterbalance the generation of DNA damage in RB-inactivated SCLC cells, thus reducing excessive DNA damage to a tolerable level and consequently leading to genetic instability. Therefore, miR-17-92 may be an excellent therapeutic target candidate to elicit excessive DNA damage in combination with DNA-damaging chemotherapeutics.
+
+-Carcinoma, Small Cell (+metabolism; -pathology)
+-Cell Line, Tumor
+-Cyclin E (-physiology)
++DNA Damage
+-Histones (-genetics; -metabolism)
+-Humans
+-Lung Neoplasms (+metabolism; -pathology)
+-MicroRNAs (+physiology)
+-Phosphorylation
+-Protein Phosphatase 2 (-genetics)
+-Reactive Oxygen Species (+metabolism)
+-Retinoblastoma Protein (+physiology)
+
+pii:onc2009201
+doi:10.1038/onc.2009.201
+pubmed:19597473
+

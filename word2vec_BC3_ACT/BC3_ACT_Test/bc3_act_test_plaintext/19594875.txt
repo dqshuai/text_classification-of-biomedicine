@@ -1,0 +1,21 @@
+BMC Genomics
+
+HAPPI: an online database of comprehensive human annotated and predicted protein interactions.
+
+JY Chen, S Mamidipalli, T Huan
+
+BACKGROUND: Human protein-protein interaction (PPIs) data are the foundation for understanding molecular signalling networks and the functional roles of biomolecules. Several human PPI databases have become available; however, comparisons of these datasets have suggested limited data coverage and poor data quality. Ongoing collection and integration of human PPIs from different sources, both experimentally and computationally, can enable disease-specific network biology modelling in translational bioinformatics studies. RESULTS: We developed a new web-based resource, the Human Annotated and Predicted Protein Interaction (HAPPI) database, located at http://bio.informatics.iupui.edu/HAPPI/. The HAPPI database was created by extracting and integrating publicly available protein interaction databases, including HPRD, BIND, MINT, STRING, and OPHID, using database integration techniques. We designed a unified entity-relationship data model to resolve semantic level differences of diverse concepts involved in PPI data integration. We applied a unified scoring model to give each PPI a measure of its reliability that can place each PPI at one of the five star rank levels from 1 to 5. We assessed the quality of PPIs contained in the new HAPPI database, using evolutionary conserved co-expression pairs called "MetaGene" pairs to measure the extent of MetaGene pair and PPI pair overlaps. While the overall quality of the HAPPI database across all star ranks is comparable to the overall qualities of HPRD or IntNetDB, the subset of the HAPPI database with star ranks between 3 and 5 has a much higher average quality than all other human PPI databases. As of summer 2008, the database contains 142,956 non-redundant, medium to high-confidence level human protein interaction pairs among 10,592 human proteins. The HAPPI database web application also provides ..." should be "The HAPPI database web application also provides hyperlinked information of genes, pathways, protein domains, protein structure displays, and sequence feature maps for interactive exploration of PPI data in the database. CONCLUSION: HAPPI is by far the most comprehensive public compilation of human protein interaction information. It enables its users to fully explore PPI data with quality measures and annotated information necessary for emerging network biology studies.
+
+-Computational Biology (+methods)
++Databases, Protein
+-Humans
+-Internet
+-Models, Theoretical
+-Protein Interaction Mapping (+methods)
+-User-Computer Interface
+
+pii:1471-2164-10-S1-S16
+doi:10.1186/1471-2164-10-S1-S16
+pubmed:19594875
+pmc:PMC2709259
+

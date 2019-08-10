@@ -1,0 +1,24 @@
+Nat. Methods
+
+Versatile P[acman] BAC  libraries for transgenesis  studies in Drosophila  melanogaster.
+
+KJ Venken, JW Carlson, KL Schulze, H Pan, Y He, R Spokony, KH Wan, M Koriabine, PJ de Jong, KP White, HJ Bellen, RA Hoskins
+
+We constructed Drosophila melanogaster bacterial artificial chromosome libraries with 21-kilobase and 83-kilobase inserts in the P[acman] system. We mapped clones representing 12-fold coverage and encompassing more than 95% of annotated genes onto the reference genome. These clones can be integrated into predetermined attP sites in the genome using UC31 integrase to rescue mutations. They can be modified through recombineering, for example, to incorporate protein tags and assess expression patterns.
+
+-Animals
+-Animals, Genetically Modified (+genetics)
+-Base Sequence
+-Chromosome Mapping (+methods)
+-Chromosomes, Artificial, Bacterial (+genetics)
+-Cloning, Molecular (+methods)
+-Drosophila melanogaster (+genetics)
++Gene Library
+-Molecular Sequence Data
+
+pii:nmeth.1331
+doi:10.1038/nmeth.1331
+pubmed:19465919
+mid:NIHMS112300
+pmc:PMC2784134
+

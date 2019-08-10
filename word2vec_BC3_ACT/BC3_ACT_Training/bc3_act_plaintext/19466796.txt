@@ -1,0 +1,28 @@
+Biochemistry
+
+Effect of a single-amino acid substitution of the 43 kDa chlorophyll protein on the oxygen-evolving reaction of the cyanobacterium Synechocystis sp. PCC 6803: analysis of the Glu354Gln mutation.
+
+Y Shimada, H Suzuki, T Tsuchiya, T Tomo, T Noguchi, M Mimuro
+
+We constructed a mutant (CP43-Glu354Gln) of the cyanobacterium Synechocystis sp. PCC 6803 in which the glutamic acid at position 354 of the 43 kDa chlorophyll protein (CP43) was replaced with glutamine. To determine the effect of this mutation on the reaction processes of the Mn cluster in the oxygen-evolving complex, we mainly analyzed the spectroscopic properties, including Fourier transform infrared (FTIR) spectroscopy, of photosystem II core complexes. Mutant cells exhibited a lower oxygen-evolving activity than wild-type cells, and an altered pattern of flash-dependent delayed luminescence. This phenotype differed somewhat from an earlier report of the same mutant [Strickler, M. A., et al. (2008) Philos. Trans. R. Soc. London, Ser. B 363, 1179-1187]. FTIR difference spectroscopy revealed that CP43-Glu354 functions as a ligand to the Mn cluster, most likely with bridging bidentate coordination to two Mn ions in the S(1) state and chelating bidentate coordination to a single Mn ion in the S(2) state. A single water molecule was bound to the same Mn atom to which CP43-Glu354 was ligated, and this Mn atom was oxidized in the S(1)-to-S(2) transition. This is the first report on a binding site of a water molecule relevant to a specific amino acid ligand. We found that the Mn ion or ligand that is oxidized in the S(2)-to-S(3) transition was not directly coupled to CP43-Glu354. While the definitive assignment of ligation to the Mn atoms is still under debate, our identification of a novel water binding site will lead to new insights into the oxygen evolution mechanism.
+
+-Amino Acid Substitution (+physiology)
+-Hydrogen Bonding
+-Light
+-Luminescence
+-Manganese (-chemistry)
+-Membrane Proteins (-analysis)
+-Models, Molecular
+-Mutation, Missense (-physiology)
+-Oxygen (+metabolism)
+-Photosystem II Protein Complex (+chemistry; -genetics; +metabolism)
+-Spectrometry, Fluorescence
+-Spectrophotometry
+-Spectroscopy, Fourier Transform Infrared
+-Synechocystis (+chemistry)
+-Thylakoids (-chemistry; -radiation effects)
+-Water (-chemistry)
+
+doi:10.1021/bi900317a
+pubmed:19466796
+

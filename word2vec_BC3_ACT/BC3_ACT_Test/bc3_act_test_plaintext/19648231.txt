@@ -1,0 +1,32 @@
+Plant Physiol.
+
+The Arabidopsis GRF-INTERACTING FACTOR gene family performs an overlapping function in determining organ size as well as multiple developmental properties.
+
+BH Lee, JH Ko, S Lee, Y Lee, JH Pak, JH Kim
+
+Previously, the GRF-INTERACTING FACTOR1 (GIF1)/ANGUSTIFOLIA3 (AN3) transcription coactivator gene, a member of a small gene family comprising three genes, was characterized as a positive regulator of cell proliferation in lateral organs, such as leaves and flowers, of Arabidopsis (Arabidopsis thaliana). As yet, it remains unclear how GIF1/AN3 affects the cell proliferation process. In this study, we demonstrate that the other members of the GIF gene family, GIF2 and GIF3, are also required for cell proliferation and lateral organ growth, as gif1, gif2, and gif3 mutations cause a synergistic reduction in cell numbers, leading to small lateral organs. Furthermore, GIF1, GIF2, and GIF3 overexpression complemented a cell proliferation defect of the gif1 mutant and significantly increased lateral organ growth of wild-type plants as well, indicating that members of the GIF gene family are functionally redundant. Kinematic analysis on leaf growth revealed that the gif triple mutant as well as other strong gif mutants developed leaf primordia with fewer cells, which was due to the low rate of cell proliferation, eventually resulting in earlier exit from the proliferative phase of organ growth. The low proliferative activity of primordial leaves was accompanied by decreased expression of cell cycle-regulating genes, indicating that GIF genes may act upstream of cell cycle regulators. Analysis of gif double and triple mutants clarified a previously undescribed role of the GIF gene family: gif mutants had small vegetative shoot apical meristems, which was correlated with the development of small leaf primordia. gif triple mutants also displayed defective structures of floral organs. Taken together, our results suggest that the GIF gene family plays important roles in the control of cell proliferation via cell cycle regulation and in other developmental properties that are associated with shoot apical meristem function.
+
+-Arabidopsis (+anatomy & histology; -genetics; +growth & development)
+-Biomechanics
+-Cell Cycle Proteins (-genetics; -metabolism)
+-Computational Biology
+-DNA, Bacterial (-genetics)
+-Gene Expression Profiling
+-Gene Expression Regulation, Plant
+-Meristem (-cytology; -genetics)
+-Molecular Sequence Data
+-Multigene Family (+genetics)
+-Mutagenesis, Insertional
+-Mutant Proteins (-genetics; -isolation & purification; -metabolism)
+-Mutation (-genetics)
+-Organ Size
+-Phenotype
+-Plant Leaves (-anatomy & histology; -growth & development)
+-RNA, Messenger (-genetics; -metabolism)
+-Trans-Activators (+genetics; -metabolism)
+
+pii:pp.109.141838
+doi:10.1104/pp.109.141838
+pubmed:19648231
+pmc:PMC2754652
+

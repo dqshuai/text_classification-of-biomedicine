@@ -1,0 +1,33 @@
+J. Biol. Chem.
+
+Artemis regulates cell cycle recovery from the S phase checkpoint by promoting degradation of cyclin E.
+
+H Wang, X Zhang, L Geng, L Teng, RJ Legerski
+
+Artemis, a member of the SNM1 gene family, is a known phosphorylation target of ATM, ATR, and DNA-PKcs. We have previously identified two serine residues in Artemis (Ser(516) and Ser(645)) that are subject to phosphorylation by ATM and are involved in mediating recovery from the G(2)/M checkpoint in response to ionizing radiation. Here we show that these same sites are also phosphorylated by ATR in response to various types of replication stress including UVC, aphidicolin, and hydroxyurea. We also show that mutation of the Ser(516) and Ser(645) residues causes a prolonged S phase checkpoint recovery after treatment with UV or aphidicolin, and that this delayed recovery process coincides with a prolonged stabilization of cyclin E and down-regulation of Cdk2 kinase activity. Furthermore, we show that Artemis interacts with the F-box protein Fbw7, and that this interaction regulates cyclin E degradation through the SCF(Fbw7) E3 ubiquitin ligase complex. The interaction between Artemis and Fbw7 is regulated by phosphorylation of Ser(516) and Ser(645) sites that occur in response to replication stress. Thus, our findings suggest a novel pathway of recovery from the S phase checkpoint in that in response to replication stress phosphorylation of Artemis by ATR enhances its interaction with Fbw7, which in turn promotes ubiquitylation and the ultimate degradation of cyclin E.
+
+-Cell Cycle Proteins (-metabolism)
+-Cell Line
+-Cyclin E (+metabolism)
+-Cyclin-Dependent Kinase 2 (-metabolism)
+-F-Box Proteins (-metabolism)
+-Flow Cytometry
+-Humans
+-Kidney (-cytology)
+-Mutagenesis, Site-Directed
+-Nuclear Proteins (-genetics; +metabolism)
+-Oncogene Proteins (+metabolism)
+-Phosphorylation (-physiology)
+-Protein-Serine-Threonine Kinases (-metabolism)
+-RNA, Small Interfering
+-S Phase (+physiology)
+-Serine (-metabolism)
+-Stress, Physiological (-physiology)
+-Ubiquitin (-metabolism)
+-Ubiquitin-Protein Ligases (-metabolism)
+
+pii:M109.002584
+doi:10.1074/jbc.M109.002584
+pubmed:19423708
+pmc:PMC2709338
+

@@ -1,0 +1,21 @@
+BMC Bioinformatics
+
+Regression based predictor for p53 transactivation.
+
+S Gowrisankar, AG Jegga
+
+BACKGROUND: The p53 protein is a master regulator that controls the transcription of many genes in various pathways in response to a variety of stress signals. The extent of this regulation depends in part on the binding affinity of p53 to its response elements (REs). Traditional profile scores for p53 based on position weight matrices (PWM) are only a weak indicator of binding affinity because the level of binding also depends on various other factors such as interaction between the nucleotides and, in case of p53-REs, the extent of the spacer between the dimers. RESULTS: In the current study we introduce a novel in-silico predictor for p53-RE transactivation capability based on a combination of multidimensional scaling and multinomial logistic regression. Experimentally validated known p53-REs along with their transactivation capabilities are used for training. Through cross-validation studies we show that our method outperforms other existing methods. To demonstrate the utility of this method we (a) rank putative p53-REs of target genes and target microRNAs based on the predicted transactivation capability and (b) study the implication of polymorphisms overlapping p53-RE on its transactivation capability. CONCLUSION: Taking into account both nucleotide interactions and the spacer length of p53-RE, we have created a novel in-silico regression-based transactivation capability predictor for p53-REs and used it to analyze validated and novel p53-REs and to predict the impact of SNPs overlapping these elements.
+
+-Algorithms
+-Computational Biology (+methods)
+-Polymorphism, Single Nucleotide
+-Regression Analysis
+-Response Elements
++Transcriptional Activation
+-Tumor Suppressor Protein p53 (+metabolism)
+
+pii:1471-2105-10-215
+doi:10.1186/1471-2105-10-215
+pubmed:19602281
+pmc:PMC2719629
+

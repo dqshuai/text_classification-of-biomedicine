@@ -1,0 +1,28 @@
+Leukemia
+
+A robust xenotransplantation model for acute myeloid leukemia.
+
+PV Sanchez, RL Perry, JE Sarry, AE Perl, K Murphy, CR Swider, A Bagg, JK Choi, JA Biegel, G Danet-Desnoyers, M Carroll
+
+Xenotransplantation of human acute myeloid leukemia (AML) in immunocompromised animals has been critical for defining leukemic stem cells. However, existing immunodeficient strains of mice have short life spans and low levels of AML cell engraftment, hindering long-term evaluation of primary human AML biology. A recent study suggested that NOD/LtSz-scid IL2Rgammac null (NSG) mice have enhanced AML cell engraftment, but this relied on technically challenging neonatal injections. Here, we performed extensive analysis of AML engraftment in adult NSG mice using tail vein injection. Of the 35 AML samples analyzed, 66% showed bone marrow engraftment over 0.1%. Further, 37% showed high levels of engraftment (>10%), with some as high as 95%. A 2-44-fold expansion of AML cells was often seen. Secondary and tertiary recipients showed consistent engraftment, with most showing further AML cell expansion. Engraftment did not correlate with French-American-British subtype or cytogenetic abnormalities. However, samples with FLT3 mutations showed a higher probability of engraftment than FLT3 wild type. Importantly, animals developed organomegaly and a wasting illness consistent with advanced leukemia. We conclude that the NSG xenotransplantation model is a robust model for human AML cell engraftment, which will allow better characterization of AML biology and testing of new therapies.
+
+-Animals
++Disease Models, Animal
+-Humans
+-Leukemia, Myeloid, Acute (-genetics; +pathology; -physiopathology)
+-Mice
++Mice, Inbred NOD
+-Mice, SCID
+-Neoplasm Transplantation (+methods)
+-Point Mutation
+-Primary Myelofibrosis (-pathology)
+-Receptors, Interleukin-2 (-genetics)
+-Severity of Illness Index
+-T-Lymphocytes, Cytotoxic (-pathology)
+-Transplantation, Heterologous (+methods)
+-fms-Like Tyrosine Kinase 3 (-genetics)
+
+pii:leu2009143
+doi:10.1038/leu.2009.143
+pubmed:19626050
+

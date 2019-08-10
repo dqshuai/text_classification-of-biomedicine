@@ -1,0 +1,27 @@
+RNA
+
+Uridine insertion/deletion RNA editing in trypanosomatid mitochondria: In search of the editosome.
+
+D Osato, K Rogers, Q Guo, F Li, G Richmond, F Klug, L Simpson
+
+The RNA ligase-containing or L-complex is the core complex involved in uridine insertion/deletion RNA editing in trypanosome mitochondria. Blue native gels of glycerol gradient-separated fractions of mitochondrial lysate from cells transfected with the TAP-tagged editing protein, LC-8 (TbMP44/KREPB5), show a approximately 1 MDa L-complex band and, in addition, two minor higher molecular weight REL1-containing complexes: one (L*a) co-sedimenting with the L-complex and running in the gel at around 1.2 MDa; the other (L*b) showing a continuous increase in molecular weight from 1 MDa to particles sedimenting over 70S. The L*b-complexes appear to be mainly composed of L-complex components, since polypeptide profiles of L- and L*b-complex gradient fractions were similar in composition and L*b-complex bands often degraded to L-complex bands after manipulation or freeze-thaw cycles. The L*a-complex may be artifactual since this gel shift can be produced by various experimental manipulations. However, the nature of the change and any cellular role remain to be determined. The L*b-complexes from both lysate and TAP pull-down were sensitive to RNase A digestion, suggesting that RNA is involved with the stability of the L*b-complexes. The MRP1/2 RNA binding complex is localized mainly in the L*b-complexes in substoichiometric amounts and this association is RNase sensitive. We suggest that the L*b-complexes may provide a scaffold for dynamic interaction with other editing factors during the editing process to form the active holoenzyme or "editosome."
+
+-Animals
+-Carbon-Oxygen Ligases (-genetics; -metabolism)
+-Mitochondria (+metabolism)
+-Mitochondrial Proteins (-genetics; -metabolism)
+-Protozoan Proteins (-genetics; +metabolism)
+-RNA (-genetics; -metabolism)
++RNA Editing
+-RNA, Messenger (-genetics; +metabolism)
+-RNA, Protozoan (+genetics)
+-RNA-Binding Proteins (-genetics; -metabolism)
+-Subcellular Fractions
+-Trypanosoma brucei brucei (-genetics; +metabolism)
+-Uridine (+genetics; -metabolism)
+
+pii:rna.1642809
+doi:10.1261/rna.1642809
+pubmed:19447916
+pmc:PMC2704074
+

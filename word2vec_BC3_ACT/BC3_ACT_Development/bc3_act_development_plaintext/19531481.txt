@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+PARP1 poly(ADP-ribosyl)ates Sox2 to control Sox2 protein levels and FGF4 expression during embryonic stem cell differentiation.
+
+F Gao, SW Kwon, Y Zhao, Y Jin
+
+Transcription factors Oct4 and Sox2 are key players in maintaining the pluripotent state of embryonic stem cells (ESCs). Small changes in their levels disrupt normal expression of their target genes. However, it remains elusive how protein levels of Oct4 and Sox2 and expression of their target genes are precisely controlled in ESCs. Here we identify PARP1, a DNA-binding protein with an NAD+-dependent enzymatic activity, as a cofactor of Oct4 and Sox2 to regulate expression of their target gene FGF4. We demonstrate for the first time that PARP1 binds the FGF4 enhancer to positively regulate FGF4 expression. Our data show that PARP1 interacts with and poly(ADP-ribosyl)ates Sox2 directly, which may be a step required for dissociation and degradation of inhibitory Sox2 proteins from the FGF4 enhancer. When PARP1 activity is inhibited or absent, poly(ADP-ribosyl)ation of Sox2 decreases and association of Sox2 with FGF4 enhancers increases, accompanied by an elevated level of Sox2 proteins and reduced expression of FGF4. Significantly, specific knockdown of Sox2 expression by RNA interference can considerably abrogate the inhibitory effect of the poly(ADP-ribose) polymerase inhibitor on FGF4 expression. Interestingly, PARP1 deficiency does not affect undifferentiated ESCs but compromises cell survival and/or growth when ESCs are induced into differentiation. Addition of FGF4 can partially rescue the phenotypes caused by PARP1 deficiency during ESC differentiation. Taken together, this study uncovers new mechanisms through which Sox2 protein levels and FGF4 expression are dynamically regulated during ESC differentiation and adds a new member to the family of proteins regulating the properties of ESCs.
+
+-Animals
+-Cell Differentiation
+-Cell Nucleus (-metabolism)
+-Cell Survival
+-Embryonic Stem Cells (+cytology)
+-Fibroblast Growth Factor 4 (+metabolism)
++Gene Expression Regulation
+-Glutathione Transferase (-metabolism)
+-Luciferases (-metabolism)
+-Mice
+-Mice, Transgenic
+-Phenotype
+-Poly(ADP-ribose) Polymerases (+metabolism)
+-RNA Interference
+-SOXB1 Transcription Factors (+metabolism)
+
+pii:M109.033118
+doi:10.1074/jbc.M109.033118
+pubmed:19531481
+pmc:PMC2755950
+

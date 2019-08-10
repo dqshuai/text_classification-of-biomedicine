@@ -1,0 +1,19 @@
+PLoS ONE
+
+HAAD: A quick algorithm for accurate prediction of hydrogen atoms in protein structures.
+
+Y Li, A Roy, Y Zhang
+
+Hydrogen constitutes nearly half of all atoms in proteins and their positions are essential for analyzing hydrogen-bonding interactions and refining atomic-level structures. However, most protein structures determined by experiments or computer prediction lack hydrogen coordinates. We present a new algorithm, HAAD, to predict the positions of hydrogen atoms based on the positions of heavy atoms. The algorithm is built on the basic rules of orbital hybridization followed by the optimization of steric repulsion and electrostatic interactions. We tested the algorithm using three independent data sets: ultra-high-resolution X-ray structures, structures determined by neutron diffraction, and NOE proton-proton distances. Compared with the widely used programs CHARMM and REDUCE, HAAD has a significantly higher accuracy, with the average RMSD of the predicted hydrogen atoms to the X-ray and neutron diffraction structures decreased by 26% and 11%, respectively. Furthermore, hydrogen atoms placed by HAAD have more matches with the NOE restraints and fewer clashes with heavy atoms. The average CPU cost by HAAD is 18 and 8 times lower than that of CHARMM and REDUCE, respectively. The significant advantage of HAAD in both the accuracy and the speed of the hydrogen additions should make HAAD a useful tool for the detailed study of protein structure and function. Both an executable and the source code of HAAD are freely available at http://zhang.bioinformatics.ku.edu/HAAD.
+
++Algorithms
+-Hydrogen (+chemistry)
+-Magnetic Resonance Spectroscopy
++Protein Conformation
+-Proteins (+chemistry)
+-X-Ray Diffraction
+
+doi:10.1371/journal.pone.0006701
+pubmed:19693270
+pmc:PMC2724740
+

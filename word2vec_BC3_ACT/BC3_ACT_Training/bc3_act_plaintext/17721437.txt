@@ -1,0 +1,30 @@
+EMBO Rep.
+
+Reversible phosphorylation of Drp1 by cyclic AMP-dependent protein kinase and calcineurin regulates mitochondrial fission and cell death.
+
+JT Cribbs, S Strack
+
+Opposing mitochondrial fission and fusion reactions determine the shape and interconnectivity of mitochondria. Dynamin-related protein 1 (Drp1) is an ancient mechanoenzyme that uses GTP hydrolysis to power the constriction and division of mitochondria. Although Drp1-mediated mitochondrial fragmentation is recognized as an early event in the apoptotic programme, acute regulation of Drp1 activity is poorly understood. Here, we identify a crucial phosphorylation site that is conserved in all metazoan Drp1 orthologues. Ser 656 is phosphorylated by cyclic AMP-dependent protein kinase and dephosphorylated by calcineurin, and its phosphorylation state is controlled by sympathetic tone, calcium levels and cell viability. Pseudophosphorylation of Drp1 by mutation of Ser 656 to aspartic acid leads to the elongation of mitochondria and confers resistance to various pro-apoptotic insults. Conversely, the constitutively dephosphorylated Ser656Ala mutant Drp1 promotes mitochondrial fragmentation and increases cell vulnerability. Thus, Drp1 phosphorylation at Ser 656 provides a mechanism for the integration of cAMP and calcium signals in the control of mitochondrial shape, apoptosis and other aspects of mitochondrial function.
+
+-Animals
+-Apoptosis (-genetics; +physiology)
+-COS Cells
+-Calcineurin (+metabolism)
+-Calcium (-metabolism)
+-Cell Line, Tumor
+-Cercopithecus aethiops
+-Cyclic AMP-Dependent Protein Kinases (+metabolism)
+-GTP Phosphohydrolases (-genetics; +metabolism)
+-Mitochondria (+metabolism)
+-Mitochondrial Proteins (-genetics; -metabolism)
+-Mutation
+-Phosphorylation (-drug effects)
+-Rats
+-Serine (-metabolism)
+-Staurosporine (-pharmacology)
+
+pii:7401062
+doi:10.1038/sj.embor.7401062
+pubmed:17721437
+pmc:PMC2002551
+

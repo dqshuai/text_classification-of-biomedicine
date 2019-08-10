@@ -1,0 +1,13 @@
+Nature
+
+Demonstration of two-qubit algorithms with a superconducting quantum processor.
+
+L DiCarlo, JM Chow, JM Gambetta, LS Bishop, BR Johnson, DI Schuster, J Majer, A Blais, L Frunzio, SM Girvin, RJ Schoelkopf
+
+Quantum computers, which harness the superposition and entanglement of physical states, could outperform their classical counterparts in solving problems with technological impact-such as factoring large numbers and searching databases. A quantum processor executes algorithms by applying a programmable sequence of gates to an initialized register of qubits, which coherently evolves into a final state containing the result of the computation. Building a quantum processor is challenging because of the need to meet simultaneously requirements that are in conflict: state preparation, long coherence times, universal gate operations and qubit readout. Processors based on a few qubits have been demonstrated using nuclear magnetic resonance, cold ion trap and optical systems, but a solid-state realization has remained an outstanding challenge. Here we demonstrate a two-qubit superconducting processor and the implementation of the Grover search and Deutsch-Jozsa quantum algorithms. We use a two-qubit interaction, tunable in strength by two orders of magnitude on nanosecond timescales, which is mediated by a cavity bus in a circuit quantum electrodynamics architecture. This interaction allows the generation of highly entangled states with concurrence up to 94 per cent. Although this processor constitutes an important step in quantum computing with integrated circuits, continuing efforts to increase qubit coherence times, gate performance and register size will be required to fulfil the promise of a scalable technology.
+
+
+pii:nature08121
+doi:10.1038/nature08121
+pubmed:19561592
+

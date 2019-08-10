@@ -1,0 +1,36 @@
+J. Biol. Chem.
+
+Regulation of inflammatory cytokine expression in pulmonary epithelial cells by pre-B-cell colony-enhancing factor via a nonenzymatic and AP-1-dependent mechanism.
+
+P Liu, H Li, J Cepeda, Y Xia, JA Kempf, H Ye, LQ Zhang, SQ Ye
+
+Although our previous studies found Pre-B-cell colony-enhancing factor (PBEF) as a highly up-regulated gene in acute lung injury that could stimulate expressions of other inflammatory cytokines, the underlying molecular mechanisms remain to be fully elucidated. Growing evidence indicates that PBEF is a nicotinamide phosphoribosyltransferase involved in the mammalian salvage pathway of NAD synthesis. This study was designed to determine whether the effect of PBEF to stimulate expressions of inflammatory cytokines depends on its enzymatic activity. We prepared two human PBEF mutant (H247E and H247A) recombinant proteins and overexpressing constructs for their overexpressions in A549 cells and confirmed that enzymatic activities of both mutants were nearly or completely abolished. Two mutants stimulated interleukin-8 (IL-8) expression at both the mRNA level and protein level just as equally effective as the wild-type PBEF did. These effects were due to the increased transcription, not the mRNA stability, of the IL-8 gene. Reporter gene assays and gel shift experiments indicated that AP-1 transcription factor is required to mediate these effects. SB203580, a p38 MAPK pathway inhibitor, and JNK inhibitor 1 can attenuate these effects. Both PBEF mutants similarly stimulated the expression of two other inflammatory cytokines: IL-16 and CCR3. These results indicate that PBEF stimulated expression of IL-8, IL-16, and CCR3 via its non-enzymatic activity. This effect is AP-1-dependent, in part via the p38 MAPK pathway and the JNK pathway. This finding reveals a new insight, which may manifest a novel role of PBEF in the pathogenesis of acute lung injury and other inflammatory disorders.
+
+-Animals
+-Cell Line, Tumor
+-Cytokines (+genetics; -metabolism)
+-Epithelial Cells (-enzymology; +metabolism)
++Gene Expression Regulation
+-Humans
+-Inflammation (-metabolism)
+-Interleukin-8 (-genetics; -secretion)
+-JNK Mitogen-Activated Protein Kinases (-metabolism)
+-Lung (+cytology)
+-MAP Kinase Signaling System
+-Mice
+-Mutation
+-Nicotinamide Phosphoribosyltransferase (-genetics; -isolation & purification; +metabolism)
+-Nicotinamide-Nucleotide Adenylyltransferase (-isolation & purification; -metabolism)
+-Promoter Regions, Genetic (-genetics)
+-RNA Stability
+-RNA, Messenger (-genetics; -metabolism)
+-Recombinant Fusion Proteins (-genetics; -isolation & purification; -metabolism)
+-Transcription Factor AP-1 (+metabolism)
+-Transcriptional Activation
+-p38 Mitogen-Activated Protein Kinases (-metabolism)
+
+pii:M109.002519
+doi:10.1074/jbc.M109.002519
+pubmed:19654329
+pmc:PMC2785662
+

@@ -1,0 +1,28 @@
+BMC Genet.
+
+Accuracy of genome-wide imputation of untyped markers and impacts on statistical power for association studies.
+
+K Hao, E Chudin, J McElwee, EE Schadt
+
+BACKGROUND: Although high-throughput genotyping arrays have made whole-genome association studies (WGAS) feasible, only a small proportion of SNPs in the human genome are actually surveyed in such studies. In addition, various SNP arrays assay different sets of SNPs, which leads to challenges in comparing results and merging data for meta-analyses. Genome-wide imputation of untyped markers allows us to address these issues in a direct fashion. METHODS: 384 Caucasian American liver donors were genotyped using Illumina 650Y (Ilmn650Y) arrays, from which we also derived genotypes from the Ilmn317K array. On these data, we compared two imputation methods: MACH and BEAGLE. We imputed 2.5 million HapMap Release22 SNPs, and conducted GWAS on approximately 40,000 liver mRNA expression traits (eQTL analysis). In addition, 200 Caucasian American and 200 African American subjects were genotyped using the Affymetrix 500 K array plus a custom 164 K fill-in chip. We then imputed the HapMap SNPs and quantified the accuracy by randomly masking observed SNPs. RESULTS: MACH and BEAGLE perform similarly with respect to imputation accuracy. The Ilmn650Y results in excellent imputation performance, and it outperforms Affx500K or Ilmn317K sets. For Caucasian Americans, 90% of the HapMap SNPs were imputed at 98% accuracy. As expected, imputation of poorly tagged SNPs (untyped SNPs in weak LD with typed markers) was not as successful. It was more challenging to impute genotypes in the African American population, given (1) shorter LD blocks and (2) admixture with Caucasian populations in this population. To address issue (2), we pooled HapMap CEU and YRI data as an imputation reference set, which greatly improved overall performance. The approximate 40,000 phenotypes scored in these populations provide a path to determine empirically how the power to detect associations is affected by the imputation procedures. That is, at a fixed false discovery rate, the number of cis-eQTL discoveries detected by various methods can be interpreted as their relative statistical power in the GWAS. In this study, we find that imputation offer modest additional power (by 4%) on top of either Ilmn317K or Ilmn650Y, much less than the power gain from Ilmn317K to Ilmn650Y (13%). CONCLUSION: Current algorithms can accurately impute genotypes for untyped markers, which enables researchers to pool data between studies conducted using different SNP sets. While genotyping itself results in a small error rate (e.g. 0.5%), imputing genotypes is surprisingly accurate. We found that dense marker sets (e.g. Ilmn650Y) outperform sparser ones (e.g. Ilmn317K) in terms of imputation yield and accuracy. We also noticed it was harder to impute genotypes for African American samples, partially due to population admixture, although using a pooled reference boosts performance. Interestingly, GWAS carried out using imputed genotypes only slightly increased power on top of assayed SNPs. The reason is likely due to adding more markers via imputation only results in modest gain in genetic coverage, but worsens the multiple testing penalties. Furthermore, cis-eQTL mapping using dense SNP set derived from imputation achieves great resolution, and locate associate peak closer to causal variants than conventional approach.
+
+-African Americans (-genetics)
+-Algorithms
+-Chromosome Mapping (-methods)
+-European Continental Ancestry Group (-genetics)
+-Genetic Markers
++Genome, Human
+-Genome-Wide Association Study (+methods)
++Genotype
+-Humans
+-Liver (-metabolism)
+-Models, Statistical
++Polymorphism, Single Nucleotide
+-RNA, Messenger (-metabolism)
+-Sensitivity and Specificity
+
+pii:1471-2156-10-27
+doi:10.1186/1471-2156-10-27
+pubmed:19531258
+pmc:PMC2709633
+

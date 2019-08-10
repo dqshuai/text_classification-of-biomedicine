@@ -1,0 +1,24 @@
+J. Bacteriol.
+
+Importance of proteins controlling initiation of DNA replication in the growth of the high-pressure-loving bacterium Photobacterium profundum SS9.
+
+ZW El-Hajj, T Tryfona, DJ Allcock, F Hasan, FM Lauro, L Sawyer, DH Bartlett, GP Ferguson
+
+The molecular mechanism(s) by which deep-sea bacteria grow optimally under high hydrostatic pressure at low temperatures is poorly understood. To gain further insight into the mechanism(s), a previous study screened transposon mutant libraries of the deep-sea bacterium Photobacterium profundum SS9 and identified mutants which exhibited alterations in growth at high pressure relative to that of the parent strain. Two of these mutants, FL23 (PBPRA3229::mini-Tn10) and FL28 (PBPRA1039::mini-Tn10), were found to have high-pressure sensitivity and enhanced-growth phenotypes, respectively. The PBPRA3229 and PBPRA1039 genes encode proteins which are highly similar to Escherichia coli DiaA, a positive regulator, and SeqA, a negative regulator, respectively, of the initiation of DNA replication. In this study, we investigated the hypothesis that PBPRA3229 and PBPRA1039 encode DiaA and SeqA homologs, respectively. Consistent with this, we determined that the plasmid-carried PBPRA3229 and PBPRA1039 genes restored synchrony to the initiation of DNA replication in E. coli mutants lacking DiaA and SeqA, respectively. Additionally, PBPRA3229 restored the cold sensitivity phenotype of an E. coli dnaA(Cs) diaA double mutant whereas PBPRA1039 suppressed the cold sensitivity phenotype of an E. coli dnaA(Cs) single mutant. Taken together, these findings show that the genes disrupted in FL23 and FL28 encode DiaA and SeqA homologs, respectively. Consequently, our findings add support to a model whereby high pressure affects the initiation of DNA replication in P. profundum SS9 and either the presence of a positive regulator (DiaA) or the removal of a negative regulator (SeqA) promotes growth under these conditions.
+
+-Bacterial Proteins (-genetics; +metabolism)
+-Cold Temperature
+-DNA Replication (+physiology)
+-Escherichia coli (-genetics; -metabolism)
+-Gene Expression Regulation, Bacterial (+physiology)
+-Genes, Bacterial
+-Lipopolysaccharides (-metabolism)
+-Mutation
+-Photobacterium (-genetics; +growth & development; -metabolism)
+-Plasmids (-metabolism)
+
+pii:JB.00576-09
+doi:10.1128/JB.00576-09
+pubmed:19700526
+pmc:PMC2753030
+

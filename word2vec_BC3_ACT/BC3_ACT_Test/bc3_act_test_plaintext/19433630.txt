@@ -1,0 +1,33 @@
+Genetics
+
+Genomewide analysis reveals novel pathways affecting endoplasmic reticulum homeostasis, protein modification and quality control.
+
+A Copic, M Dorrington, S Pagant, J Barry, MC Lee, I Singh, JL Hartman, EA Miller
+
+To gain new mechanistic insight into ER homeostasis and the biogenesis of secretory proteins, we screened a genomewide collection of yeast mutants for defective intracellular retention of the ER chaperone, Kar2p. We identified 87 Kar2p-secreting strains, including a number of known components in secretory protein modification and sorting. Further characterization of the 73 nonessential Kar2p retention mutants revealed roles for a number of novel gene products in protein glycosylation, GPI-anchor attachment, ER quality control, and retrieval of escaped ER residents. A subset of these mutants, required for ER retrieval, included the GET complex and two novel proteins that likely function similarly in membrane insertion of tail-anchored proteins. Finally, the variant histone, Htz1p, and its acetylation state seem to play an important role in maintaining ER retrieval pathways, suggesting a surprising link between chromatin remodeling and ER homeostasis.
+
+-Acetylation
+-Endoplasmic Reticulum (+metabolism)
+-Fungal Proteins (-chemistry; -genetics; -metabolism)
++Genome, Fungal
+-Glycosylation
+-Golgi Apparatus (-metabolism)
+-HSP70 Heat-Shock Proteins (-chemistry; -genetics; -metabolism)
+-Histones (-genetics; -metabolism)
+-Homeostasis (+physiology)
+-Immunoblotting
+-Immunoprecipitation
+-Models, Biological
+-Mutation
+-Protein Folding
+-Protein Processing, Post-Translational (+physiology)
+-Receptors, Peptide (-genetics; -metabolism)
+-Saccharomyces cerevisiae (-genetics; -metabolism; -physiology)
+-Saccharomyces cerevisiae Proteins (-genetics; -metabolism)
+-Signal Transduction (-genetics; +physiology)
+
+pii:genetics.109.101105
+doi:10.1534/genetics.109.101105
+pubmed:19433630
+pmc:PMC2710157
+

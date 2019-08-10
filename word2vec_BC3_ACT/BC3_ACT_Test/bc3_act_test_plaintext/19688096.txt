@@ -1,0 +1,18 @@
+PLoS ONE
+
+Predicting cell cycle regulated genes by causal interactions.
+
+F Emmert-Streib, M Dehmer
+
+The fundamental difference between classic and modern biology is that technological innovations allow to generate high-throughput data to get insights into molecular interactions on a genomic scale. These high-throughput data can be used to infer gene networks, e.g., the transcriptional regulatory or signaling network, representing a blue print of the current dynamical state of the cellular system. However, gene networks do not provide direct answers to biological questions, instead, they need to be analyzed to reveal functional information of molecular working mechanisms. In this paper we propose a new approach to analyze the transcriptional regulatory network of yeast to predict cell cycle regulated genes. The novelty of our approach is that, in contrast to all other approaches aiming to predict cell cycle regulated genes, we do not use time series data but base our analysis on the prior information of causal interactions among genes. The major purpose of the present paper is to predict cell cycle regulated genes in S. cerevisiae. Our analysis is based on the transcriptional regulatory network, representing causal interactions between genes, and a list of known periodic genes. No further data are used. Our approach utilizes the causal membership of genes and the hierarchical organization of the transcriptional regulatory network leading to two groups of periodic genes with a well defined direction of information flow. We predict genes as periodic if they appear on unique shortest paths connecting two periodic genes from different hierarchy levels. Our results demonstrate that a classical problem as the prediction of cell cycle regulated genes can be seen in a new light if the concept of a causal membership of a gene is applied consequently. This also shows that there is a wealth of information buried in the transcriptional regulatory network whose unraveling may require more elaborate concepts than it might seem at first.
+
++Gene Expression Regulation
++Genes, Fungal
++Genes, cdc
+-Saccharomyces cerevisiae (+genetics)
+-Transcription, Genetic
+
+doi:10.1371/journal.pone.0006633
+pubmed:19688096
+pmc:PMC2723924
+

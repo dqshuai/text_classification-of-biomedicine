@@ -1,0 +1,34 @@
+Infect. Immun.
+
+Restriction of Legionella pneumophila replication in macrophages requires concerted action of the transcriptional regulators Irf1 and Irf8 and nod-like receptors Naip5 and Nlrc4.
+
+A Fortier, K Doiron, M Saleh, S Grinstein, P Gros
+
+The unique permissiveness of A/J mouse macrophages for replication of Legionella pneumophila is caused by a deficiency in the Nod-like receptor (NLR) protein and intracellular sensor for L. pneumophila flagellin (Naip5). The signaling pathways and proteins activated by Naip5 sensing in macrophages were investigated. Transcript profiling of macrophages from susceptible A/J mice and from resistant A/J mice harboring a transgenic wild-type copy of Naip5 at 4 h following L. pneumophila infection suggested that two members of the Irf transcriptional regulator family, Irf1 and Irf8, are regulated in response to Naip5 sensing of L. pneumophila. We show that macrophages having defective alleles of either Irf1 (Irf1-/-) or its heterodimerization partner gene Irf8 (Irf8R294C) become permissive for L. pneumophila replication, indicating that both the Irf1 and Irf8 proteins are essential for macrophage defense against L. pneumophila. Moreover, macrophages doubly heterozygous (Naip5AJ/WT Irf8R294C/WT or Nlrc4-/+ Irf8R294C/WT) for combined loss-of-function mutations in Irf8 and in either Naip5 or Nlrc4 are highly susceptible to L. pneumophila, indicating that there is a strong genetic interaction between Irf8 and the NLR protein family in the macrophage response to L. pneumophila. Legionella-containing phagosomes (LCPs) formed in permissive Irf1-/- or Irf8R294C macrophages behave like LCPs formed in Naip5-insufficient and Nlrc4-deficient macrophages which fail to acidify. These results suggest that, in addition to Naip5 and Nlrc4, Irf1 and Irf8 play a critical role in the early response of macrophages to infection with L. pneumophila, including antagonizing the ability of L. pneumophila to block phagosome acidification. They also suggest that flagellin sensing by the NLR proteins Naip5 and Nlrc4 may be coupled to Irf1-Irf8-mediated transcriptional activation of key effector genes essential for macrophage resistance to L. pneumophila infection.
+
+-Animals
+-Apoptosis Regulatory Proteins (-genetics; +metabolism)
+-Blotting, Northern
+-Calcium-Binding Proteins (-genetics; +metabolism)
+-Flagellin (-metabolism)
+-Gene Expression Profiling
+-Gene Expression Regulation, Bacterial (-physiology)
+-Host-Parasite Interactions (-physiology)
+-Interferon Regulatory Factor-1 (-genetics; +metabolism)
+-Interferon Regulatory Factors (-genetics; +metabolism)
+-Legionella pneumophila
+-Legionnaires' Disease (+genetics; -metabolism)
+-Macrophages (-metabolism; +microbiology)
+-Mice
+-Mice, Transgenic
+-Neuronal Apoptosis-Inhibitory Protein (-genetics; +metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Phagosomes (-metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Signal Transduction (-physiology)
+
+pii:IAI.01546-08
+doi:10.1128/IAI.01546-08
+pubmed:19720760
+pmc:PMC2772531
+

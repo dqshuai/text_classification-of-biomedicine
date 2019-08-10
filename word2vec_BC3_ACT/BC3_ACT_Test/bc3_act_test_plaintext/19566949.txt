@@ -1,0 +1,24 @@
+BMC Genomics
+
+cDNA-AFLP analysis reveals differential gene expression in compatible interaction of wheat challenged with Puccinia striiformis f. sp. tritici.
+
+X Wang, C Tang, G Zhang, Y Li, C Wang, B Liu, Z Qu, J Zhao, Q Han, L Huang, X Chen, Z Kang
+
+BACKGROUND: Puccinia striiformis f. sp. tritici is a fungal pathogen causing stripe rust, one of the most important wheat diseases worldwide. The fungus is strictly biotrophic and thus, completely dependent on living host cells for its reproduction, which makes it difficult to study genes of the pathogen. In spite of its economic importance, little is known about the molecular basis of compatible interaction between the pathogen and wheat host. In this study, we identified wheat and P. striiformis genes associated with the infection process by conducting a large-scale transcriptomic analysis using cDNA-AFLP. RESULTS: Of the total 54,912 transcript derived fragments (TDFs) obtained using cDNA-AFLP with 64 primer pairs, 2,306 (4.2%) displayed altered expression patterns after inoculation, of which 966 showed up-regulated and 1,340 down-regulated. 186 TDFs produced reliable sequences after sequencing of 208 TDFs selected, of which 74 (40%) had known functions through BLAST searching the GenBank database. Majority of the latter group had predicted gene products involved in energy (13%), signal transduction (5.4%), disease/defence (5.9%) and metabolism (5% of the sequenced TDFs). BLAST searching of the wheat stem rust fungus genome database identified 18 TDFs possibly from the stripe rust pathogen, of which 9 were validated of the pathogen origin using PCR-based assays followed by sequencing confirmation. Of the 186 reliable TDFs, 29 homologous to genes known to play a role in disease/defense, signal transduction or uncharacterized genes were further selected for validation of cDNA-AFLP expression patterns using qRT-PCR analyses. Results confirmed the altered expression patterns of 28 (96.5%) genes revealed by the cDNA-AFLP technique. CONCLUSION: The results show that cDNA-AFLP is a reliable technique for studying expression patterns of genes involved in the wheat-stripe rust interactions. Genes involved in compatible interactions between wheat and the stripe rust pathogen were identified and their expression patterns were determined. The present study should be helpful in elucidating the molecular basis of the infection process, and identifying genes that can be targeted for inhibiting the growth and reproduction of the pathogen. Moreover, this study can also be used to elucidate the defence responses of the genes that were of plant origin.
+
+-Amplified Fragment Length Polymorphism Analysis (+methods)
+-Basidiomycota (+physiology)
+-DNA, Complementary (-genetics)
++Gene Expression Profiling
+-Gene Expression Regulation, Plant
+-Host-Pathogen Interactions
+-Plant Diseases (+genetics; -microbiology)
+-RNA, Plant (-genetics)
+-Sequence Analysis, DNA
+-Triticum (+genetics; -microbiology)
+
+pii:1471-2164-10-289
+doi:10.1186/1471-2164-10-289
+pubmed:19566949
+pmc:PMC2717123
+

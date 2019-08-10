@@ -1,0 +1,25 @@
+EMBO J.
+
+A non-redundant role for MKP5 in limiting ROS production and preventing LPS-induced vascular injury.
+
+F Qian, J Deng, N Cheng, EJ Welch, Y Zhang, AB Malik, RA Flavell, C Dong, RD Ye
+
+There are at least 11 mitogen-activated protein kinase (MAPK) phosphatases (MKPs) and only 3 major groups of MAPKs, raising the question of whether these phosphatases have non-redundant functions in vivo. Using a modified mouse model of local Shwartzman reaction, we found that deletion of the MKP5 gene, but not the MKP1 gene, led to robust and accelerated vascular inflammatory responses to a single dose of LPS injection. Depletion of neutrophils significantly reduced the vascular injury in Mkp5(-/-) mice, whereas adoptive transfer of Mkp5(-/-) neutrophils replicated the LPS-induced skin lesions in wild-type recipients. Neutrophils isolated from Mkp5(-/-) mice exhibited augmented p38 MAPK activation and increased superoxide generation on activation. The p38 MAPK inhibitor, SB203580, significantly reduced p47(phox) phosphorylation and diminished superoxide production in neutrophils. p38 MAPK phosphorylated mouse p47(phox), and deletion of the p47(phox) gene ablated the LPS-induced vascular injury in Mkp5(-/-) mice. Collectively, these results show an earlier unrecognized and non-redundant function of MKP5 in restraining p38 MAPK-mediated neutrophil oxidant production, thereby preventing LPS-induced vascular injury.
+
+-Animals
+-Dual-Specificity Phosphatases (-genetics; +metabolism)
+-Gene Deletion
+-Lipopolysaccharides (+immunology)
+-Mice
+-Microvessels (-immunology; +injuries)
+-NADPH Oxidase (-metabolism)
+-Neutrophils (-immunology; -metabolism)
+-Reactive Oxygen Species (-metabolism)
+-Superoxides (-metabolism)
+-p38 Mitogen-Activated Protein Kinases (-metabolism)
+
+pii:emboj2009234
+doi:10.1038/emboj.2009.234
+pubmed:19696743
+pmc:PMC2760111
+

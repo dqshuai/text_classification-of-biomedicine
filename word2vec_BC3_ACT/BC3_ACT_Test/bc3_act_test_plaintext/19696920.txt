@@ -1,0 +1,33 @@
+PLoS Pathog.
+
+Draft genome sequencing of giardia intestinalis assemblage B isolate GS: is human giardiasis caused by two different species?
+
+O Franzén, J Jerlström-Hultqvist, E Castro, E Sherwood, J Ankarklev, DS Reiner, D Palm, JO Andersson, B Andersson, SG Svärd
+
+Giardia intestinalis is a major cause of diarrheal disease worldwide and two major Giardia genotypes, assemblages A and B, infect humans. The genome of assemblage A parasite WB was recently sequenced, and the structurally compact 11.7 Mbp genome contains simplified basic cellular machineries and metabolism. We here performed 454 sequencing to 16x coverage of the assemblage B isolate GS, the only Giardia isolate successfully used to experimentally infect animals and humans. The two genomes show 77% nucleotide and 78% amino-acid identity in protein coding regions. Comparative analysis identified 28 unique GS and 3 unique WB protein coding genes, and the variable surface protein (VSP) repertoires of the two isolates are completely different. The promoters of several enzymes involved in the synthesis of the cyst-wall lack binding sites for encystation-specific transcription factors in GS. Several synteny-breaks were detected and verified. The tetraploid GS genome shows higher levels of overall allelic sequence polymorphism (0.5 versus <0.01% in WB). The genomic differences between WB and GS may explain some of the observed biological and clinical differences between the two isolates, and it suggests that assemblage A and B Giardia can be two different species.
+
+-Animals
+-Base Sequence
+-Gene Frequency
+-Genome, Bacterial (-genetics)
++Genome, Protozoan
+-Giardia lamblia (-classification; +genetics)
+-Giardiasis (+parasitology)
+-Humans
+-Introns
+-Molecular Sequence Data
+-Phylogeny
+-Polymorphism, Genetic
+-Porphyromonas gingivalis (-genetics)
+-Promoter Regions, Genetic
+-Protozoan Proteins (-genetics; -metabolism)
+-RNA Splicing
+-RNA, Messenger (-metabolism)
+-RNA, Protozoan (-genetics)
+-Sequence Alignment
+-Synteny
+
+doi:10.1371/journal.ppat.1000560
+pubmed:19696920
+pmc:PMC2723961
+

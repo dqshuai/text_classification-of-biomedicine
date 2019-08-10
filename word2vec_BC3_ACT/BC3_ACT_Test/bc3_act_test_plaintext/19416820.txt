@@ -1,0 +1,24 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Resting GABA concentration predicts peak gamma frequency and fMRI amplitude in response to visual stimulation in humans.
+
+SD Muthukumaraswamy, RA Edden, DK Jones, JB Swettenham, KD Singh
+
+Functional imaging of the human brain is an increasingly important technique for clinical and cognitive neuroscience research, with functional MRI (fMRI) of the blood oxygen level-dependent (BOLD) response and electroencephalography or magnetoencephalography (MEG) recordings of neural oscillations being 2 of the most popular approaches. However, the neural and physiological mechanisms that generate these responses are only partially understood and sources of interparticipant variability in these measures are rarely investigated. Here, we test the hypothesis that the properties of these neuroimaging metrics are related to individual levels of cortical inhibition by combining magnetic resonance spectroscopy to quantify resting GABA concentration in the visual cortex, MEG to measure stimulus-induced visual gamma oscillations and fMRI to measure the BOLD response to a simple visual grating stimulus. Our results demonstrate that across individuals gamma oscillation frequency is positively correlated with resting GABA concentration in visual cortex (R = 0.68; P < 0.02), BOLD magnitude is inversely correlated with resting GABA (R = -0.64; P < 0.05) and that gamma oscillation frequency is strongly inversely correlated with the magnitude of the BOLD response (R = -0.88; P < 0.001). Our results are therefore supportive of recent theories suggesting that these functional neuroimaging metrics are dependent on the excitation/inhibition balance in an individual's cortex and have important implications for the interpretation of functional imaging results, particularly when making between-group comparisons in clinical research.
+
+-Adult
+-Brain Mapping
+-Humans
+-Magnetic Resonance Imaging (+methods)
+-Magnetoencephalography (+methods)
+-Male
+-Oxygen (-blood)
++Photic Stimulation
+-Visual Cortex (-chemistry; -metabolism)
+-gamma-Aminobutyric Acid (+analysis)
+
+pii:0900728106
+doi:10.1073/pnas.0900728106
+pubmed:19416820
+pmc:PMC2688873
+

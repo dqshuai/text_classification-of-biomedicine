@@ -1,0 +1,26 @@
+Plant Physiol.
+
+The transcription factor ABI4 is a regulator of mitochondrial retrograde expression of ALTERNATIVE OXIDASE1a.
+
+E Giraud, O Van Aken, LH Ho, J Whelan
+
+Plant cells integrate signals from external sources and from organelles to regulate gene expression, referred to as anterograde and retrograde signaling, respectively. Functional characterization of the promoter of ALTERNATIVE OXIDASE1a (AOX1a) from Arabidopsis (Arabidopsis thaliana), a marker for mitochondrial retrograde response, was carried out by testing the ability of the AOX1a promoter to drive expression of the reporter gene GUS. This approach identified a strong repressor element, designated the B element, that was necessary for an increased promoter activity in response to the mitochondrial complex I inhibitor rotenone. This element overlaps with a previously identified potential binding site for the transcription factor ABSCISIC ACID INSENSITIVE4 (ABI4). AOX1a promoter activity was fully derepressed in abi4 mutants and was unresponsive to rotenone. Furthermore, deletion of the B element of the AOX1a promoter resulted in increased GUS staining activity compared to the wild-type promoter in transgenic plants. Binding of the ABI4 transcription factor to this region of the AOX1a promoter was demonstrated by electromobility shift and yeast one-hybrid assays. Analysis of transcript abundance for AOX1a in abi4 mutant lines revealed significantly increased levels of AOX1a mRNA that could not be further induced by rotenone, consistent with the role of ABI4 as a repressor that is derepressed in response to rotenone. These results show that ABI4 plays a central role in mediating mitochondrial retrograde signals to induce the expression of AOX1a. Furthermore, they provide a molecular link between mitochondrial and chloroplast retrograde signaling, as ABI4 has been previously shown to act downstream of at least two chloroplast retrograde signaling pathways.
+
+-Abscisic Acid (-metabolism; -pharmacology)
+-Arabidopsis (-genetics; +metabolism)
+-Arabidopsis Proteins (-genetics; -metabolism; +physiology)
+-Binding Sites
++Gene Expression Regulation, Plant (-drug effects)
+-Mitochondria (+metabolism)
+-Oxidoreductases (+genetics; -metabolism)
+-Plant Growth Regulators (-metabolism; -pharmacology)
+-Promoter Regions, Genetic
+-Protein Interaction Mapping
+-RNA, Messenger (-metabolism)
+-Transcription Factors (-genetics; -metabolism; +physiology)
+
+pii:pp.109.139782
+doi:10.1104/pp.109.139782
+pubmed:19482916
+pmc:PMC2705018
+

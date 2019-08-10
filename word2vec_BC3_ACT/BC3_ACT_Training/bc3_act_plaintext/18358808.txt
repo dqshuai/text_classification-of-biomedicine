@@ -1,0 +1,31 @@
+Cell
+
+Identification of ATPases pontin and reptin as telomerase components essential for holoenzyme assembly.
+
+AS Venteicher, Z Meng, PJ Mason, TD Veenstra, SE Artandi
+
+Telomerase is a multisubunit ribonucleoprotein (RNP) complex that adds telomere repeats to the ends of chromosomes. Three essential telomerase components have been identified thus far: the telomerase reverse transcriptase (TERT), the telomerase RNA component (TERC), and the TERC-binding protein dyskerin. Few other proteins are known to be required for human telomerase function, limiting our understanding of both telomerase regulation and mechanisms of telomerase action. Here, we identify the ATPases pontin and reptin as telomerase components through affinity purification of TERT from human cells. Pontin interacts directly with both TERT and dyskerin, and the amount of TERT bound to pontin and reptin peaks in S phase, evidence for cell-cycle-dependent regulation of TERT. Depletion of pontin and reptin markedly impairs telomerase RNP accumulation, indicating an essential role in telomerase assembly. These findings reveal an unanticipated requirement for additional enzymes in telomerase biogenesis and suggest alternative approaches for inhibiting telomerase in cancer.
+
+-Adenosine Triphosphatases (-chemistry; -isolation & purification; -metabolism)
+-Carrier Proteins (+chemistry; -isolation & purification; -metabolism)
+-Cell Cycle
+-Cell Cycle Proteins (-metabolism)
+-Chromatography, Affinity
+-DNA Helicases (+chemistry; -isolation & purification; -metabolism)
+-Hela Cells
+-Holoenzymes (-chemistry; -metabolism)
+-Humans
+-Models, Biological
+-Models, Molecular
+-Nuclear Proteins (-metabolism)
+-RNA (-metabolism)
+-S Phase
+-Telomerase (+chemistry; -metabolism)
+-Telomere (-metabolism)
+
+pii:S0092-8674(08)00119-0
+doi:10.1016/j.cell.2008.01.019
+pubmed:18358808
+mid:NIHMS44021
+pmc:PMC2291539
+

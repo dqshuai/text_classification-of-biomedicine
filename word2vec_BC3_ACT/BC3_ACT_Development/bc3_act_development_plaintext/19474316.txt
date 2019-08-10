@@ -1,0 +1,33 @@
+J. Neurosci.
+
+Membrane potential changes in dendritic spines during action potentials and synaptic input.
+
+LM Palmer, GJ Stuart
+
+Excitatory input onto many neurons in the brain occurs onto specialized projections called dendritic spines. Despite their potential importance in neuronal function, direct experimental evidence on electrical signaling in dendritic spines is lacking as their small size makes them inaccessible to standard electrophysiological techniques. Here, we investigate electrical signaling in dendritic spines using voltage-sensitive dye imaging in cortical pyramidal neurons during backpropagating action potentials and synaptic input. Backpropagating action potentials were found to fully invade dendritic spines without voltage loss. The voltage change in dendritic spines during synaptic input ranged from a few millivolts up to approximately 20 mV. During hyperpolarization of the membrane potential, the amplitude of the synaptic voltage in spines was increased, consistent with the expected change resulting from the increased driving force. This observation suggests that voltage-activated channels do not significantly boost the voltage response in dendritic spines during synaptic input. Finally, we used simulations of our experimental observations in morphologically realistic models to estimate spine neck resistance. These simulations indicated that spine neck resistance ranges up to approximately 500 Mohms. Spine neck resistances of this magnitude reduce somatic EPSPs by <15%, indicating that the spine neck is unlikely to act as a physical device to significantly modify synaptic strength.
+
+-Action Potentials (+physiology)
+-Analysis of Variance
+-Animals
+-Biophysical Phenomena (-physiology)
+-Biophysics
+-Calcium Signaling (-physiology)
+-Computer Simulation
+-Dendritic Spines (+physiology)
+-Electric Impedance
+-Electric Stimulation (-methods)
+-Excitatory Postsynaptic Potentials (+physiology)
+-Fluorescent Dyes (-metabolism)
+-Membrane Potentials (+physiology)
+-Microscopy, Confocal (-methods)
+-Models, Neurological
+-Patch-Clamp Techniques (-methods)
+-Pyramidal Cells (+cytology)
+-Rats
+-Rats, Wistar
+-Somatosensory Cortex (-cytology)
+
+pii:29/21/6897
+doi:10.1523/JNEUROSCI.5847-08.2009
+pubmed:19474316
+

@@ -1,0 +1,32 @@
+PLoS ONE
+
+Genetic architecture of intrinsic antibiotic susceptibility.
+
+HS Girgis, AK Hottes, S Tavazoie
+
+BACKGROUND: Antibiotic exposure rapidly selects for more resistant bacterial strains, and both a drug's chemical structure and a bacterium's cellular network affect the types of mutations acquired. METHODOLOGY/PRINCIPAL FINDINGS: To better characterize the genetic determinants of antibiotic susceptibility, we exposed a transposon-mutagenized library of Escherichia coli to each of 17 antibiotics that encompass a wide range of drug classes and mechanisms of action. Propagating the library for multiple generations with drug concentrations that moderately inhibited the growth of the isogenic parental strain caused the abundance of strains with even minor fitness advantages or disadvantages to change measurably and reproducibly. Using a microarray-based genetic footprinting strategy, we then determined the quantitative contribution of each gene to E. coli's intrinsic antibiotic susceptibility. We found both loci whose removal increased general antibiotic tolerance as well as pathways whose down-regulation increased tolerance to specific drugs and drug classes. The beneficial mutations identified span multiple pathways, and we identified pairs of mutations that individually provide only minor decreases in antibiotic susceptibility but that combine to provide higher tolerance. CONCLUSIONS/SIGNIFICANCE: Our results illustrate that a wide-range of mutations can modulate the activity of many cellular resistance processes and demonstrate that E. coli has a large mutational target size for increasing antibiotic tolerance. Furthermore, the work suggests that clinical levels of antibiotic resistance might develop through the sequential accumulation of chromosomal mutations of small individual effect.
+
+-Aerobiosis (-drug effects)
+-Aminoglycosides (-pharmacology)
+-Anti-Bacterial Agents (-classification; -pharmacology)
+-DNA Transposable Elements (-genetics)
+-Drug Resistance, Microbial (+genetics)
+-Electron Transport (-drug effects)
+-Escherichia coli (-drug effects; -enzymology; -genetics)
+-Escherichia coli Proteins (-metabolism)
+-Flagella (-drug effects; -metabolism)
+-Folic Acid (-biosynthesis)
+-Genes, Bacterial
+-Microbial Sensitivity Tests
+-Mutagenesis, Insertional (-drug effects)
+-Mutation (-genetics)
+-Racemases and Epimerases (-metabolism)
+-Reproducibility of Results
+-Selection, Genetic
+-Tetrahydrofolate Dehydrogenase (-metabolism)
+-beta-Lactams (-pharmacology)
+
+doi:10.1371/journal.pone.0005629
+pubmed:19462005
+pmc:PMC2680486
+

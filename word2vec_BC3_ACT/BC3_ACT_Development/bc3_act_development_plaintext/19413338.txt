@@ -1,0 +1,25 @@
+Biochemistry
+
+Evidence for convergent evolution in the signaling properties of a choanoflagellate tyrosine kinase.
+
+W Li, S Scarlata, WT Miller
+
+Until recently, phosphotyrosine signaling was thought to be restricted to multicellular animals. Surprisingly, the unicellular choanoflagellate Monosiga brevicollis contains a number and diversity of tyrosine kinases that exceeds that of any metazoan, including humans. Many of these M. brevicollis tyrosine kinases possess combinations of signaling domains that do not occur in metazoans. One such kinase, the Src-like protein MbSrc4, contains a lipid-binding C2 domain N-terminal to the conserved SH3-SH2-kinase domains. Here, we report that the enzyme is highly active as a tyrosine kinase and that the targeting functions of the C2, SH3, and SH2 domains are similar to the mammalian counterparts. The membrane-binding activity of the C2 domain is functionally equivalent to the myristoylation signal of c-Src, suggesting that it is an example of convergent evolution. When expressed in mammalian cells, full-length MbSrc4 displays low activity toward endogenous proteins, and it cannot functionally substitute for mammalian c-Src in a reporter gene assay. Removal of the MbSrc4 C2 domain leads to increased phosphorylation of cellular proteins. Thus, in contrast to the related M. brevicollis Src-like kinase MbSrc1, MbSrc4 is not targeted properly to mammalian Src substrates, suggesting that the C2 domain plays a specific role in M. brevicollis signaling.
+
+-Animals
+-Binding Sites
+-COS Cells
+-Cercopithecus aethiops
++Evolution, Molecular
+-Genes, src
+-Phosphorylation
+-Protein-Tyrosine Kinases (-genetics; +metabolism)
++Signal Transduction
+-Spodoptera (-metabolism)
+-Transfection
+
+doi:10.1021/bi9000672
+pubmed:19413338
+mid:NIHMS184480
+pmc:PMC2841302
+

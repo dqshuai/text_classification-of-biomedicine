@@ -1,0 +1,21 @@
+J. Proteome Res.
+
+Correlation between y-type ions observed in ion trap and triple quadrupole mass spectrometers.
+
+CA Sherwood, A Eastham, LW Lee, J Risler, O Vitek, DB Martin
+
+Multiple reaction monitoring mass spectrometry (MRM-MS) is a technique for high-sensitivity targeted analysis. In proteomics, MRM-MS can be used to monitor and quantify a peptide based on the production of expected fragment peaks from the selected peptide precursor ion. The choice of which fragment ions to monitor in order to achieve maximum sensitivity in MRM-MS can potentially be guided by existing MS/MS spectra. However, because the majority of discovery experiments are performed on ion trap platforms, there is concern in the field regarding the generalizability of these spectra to MRM-MS on a triple quadrupole instrument. In light of this concern, many operators perform an optimization step to determine the most intense fragments for a target peptide on a triple quadrupole mass spectrometer. We have addressed this issue by targeting, on a triple quadrupole, the top six y-ion peaks from ion trap-derived consensus library spectra for 258 doubly charged peptides from three different sample sets and quantifying the observed elution curves. This analysis revealed a strong correlation between the y-ion peak rank order and relative intensity across platforms. This suggests that y-type ions obtained from ion trap-based library spectra are well-suited for generating MRM-MS assays for triple quadrupoles and that optimization is not required for each target peptide.
+
+-Area Under Curve
+-Databases, Protein
+-Mass Spectrometry (+methods)
+-Peptide Fragments (+chemistry; -metabolism)
+-Proteomics (+methods)
+-Saccharomyces cerevisiae Proteins (+chemistry; -metabolism)
+-Trypsin (-metabolism)
+
+doi:10.1021/pr900298b
+pubmed:19603825
+mid:NIHMS162990
+pmc:PMC2802215
+

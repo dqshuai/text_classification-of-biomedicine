@@ -1,0 +1,21 @@
+Biophys. J.
+
+Reduced efficiency of magnetotaxis in magnetotactic coccoid bacteria in higher than geomagnetic fields.
+
+Y Pan, W Lin, J Li, W Wu, L Tian, C Deng, Q Liu, R Zhu, M Winklhofer, N Petersen
+
+Magnetotactic bacteria are microorganisms that orient and migrate along magnetic field lines. The classical model of polar magnetotaxis predicts that the field-parallel migration velocity of magnetotactic bacteria increases monotonically with the strength of an applied magnetic field. We here test this model experimentally on magnetotactic coccoid bacteria that swim along helical trajectories. It turns out that the contribution of the field-parallel migration velocity decreases with increasing field strength from 0.1 to 1.5 mT. This unexpected observation can be explained and reproduced in a mathematical model under the assumption that the magnetosome chain is inclined with respect to the flagellar propulsion axis. The magnetic disadvantage, however, becomes apparent only in stronger than geomagnetic fields, which suggests that magnetotaxis is optimized under geomagnetic field conditions. It is therefore not beneficial for these bacteria to increase their intracellular magnetic dipole moment beyond the value needed to overcome Brownian motion in geomagnetic field conditions.
+
+-Bacterial Physiological Phenomena (+radiation effects)
+-Cell Movement (+physiology; +radiation effects)
+-Computer Simulation
+-Dose-Response Relationship, Radiation
+-Electromagnetic Fields
++Models, Biological
+-Radiation Dosage
+
+pii:S0006-3495(09)01118-7
+doi:10.1016/j.bpj.2009.06.012
+pubmed:19686645
+pmc:PMC2726326
+

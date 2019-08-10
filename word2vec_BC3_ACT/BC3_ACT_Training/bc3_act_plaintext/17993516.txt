@@ -1,0 +1,25 @@
+J. Bacteriol.
+
+A multiprotein bicarbonate dehydration complex essential to carboxysome function in cyanobacteria.
+
+SS Cot, AK So, GS Espie
+
+Carboxysomes are proteinaceous biochemical compartments that constitute the enzymatic "back end" of the cyanobacterial CO2-concentrating mechanism. These protein-bound organelles catalyze HCO3- dehydration and photosynthetic CO2 fixation. In Synechocystis sp. strain PCC6803 these reactions involve the beta-class carbonic anhydrase (CA), CcaA, and Form 1B ribulose-1,5-bisphosphate carboxylase/oxygenase (Rubisco). The surrounding shell is thought to be composed of proteins encoded by the ccmKLMN operon, although little is known about how structural and catalytic proteins integrate to form a functional carboxysome. Using biochemical activity assays and molecular approaches we have identified a catalytic, multiprotein HCO3- dehydration complex (BDC) associated with the protein shell of Synechocystis carboxysomes. The complex was minimally composed of a CcmM73 trimer, CcaA dimer, and CcmN. Larger native complexes also contained RbcL, RbcS, and two or three immunologically identified smaller forms of CcmM (62, 52, and 36 kDa). Yeast two-hybrid analyses indicated that the BDC was associated with the carboxysome shell through CcmM73-specific protein interactions with CcmK and CcmL. Protein interactions between CcmM73 and CcaA, CcmM73 and CcmN, or CcmM73 and itself required the N-terminal gamma-CA-like domain of CcmM73. The specificity of the CcmM73-CcaA interaction provided both a mechanism to integrate CcaA into the fabric of the carboxysome shell and a means to recruit this enzyme to the BDC during carboxysome biogenesis. Functionally, CcaA was the catalytic core of the BDC. CcmM73 bound H14CO3- but was unable to catalyze HCO3- dehydration, suggesting that it may potentially regulate BDC activity.
+
+-Bacterial Proteins (-chemistry; -genetics; +metabolism)
+-Bicarbonates (+metabolism)
+-Carbon Dioxide (-metabolism)
+-Dimerization
++Gene Expression Regulation, Bacterial
+-Multiprotein Complexes (-chemistry; -genetics; +metabolism)
+-Organelles (+metabolism)
+-Ribulose-Bisphosphate Carboxylase (-chemistry; -genetics; -metabolism)
+-Structure-Activity Relationship
+-Synechocystis (-genetics; -growth & development; +metabolism)
+-Two-Hybrid System Techniques
+
+pii:JB.01283-07
+doi:10.1128/JB.01283-07
+pubmed:17993516
+pmc:PMC2223583
+

@@ -1,0 +1,19 @@
+Cell Res.
+
+Predicting intrinsic disorder in proteins: an overview.
+
+B He, K Wang, Y Liu, B Xue, VN Uversky, AK Dunker
+
+The discovery of intrinsically disordered proteins (IDP) (i.e., biologically active proteins that do not possess stable secondary and/or tertiary structures) came as an unexpected surprise, as the existence of such proteins is in contradiction to the traditional "sequence-->structure-->function" paradigm. Accurate prediction of a protein's predisposition to be intrinsically disordered is a necessary prerequisite for the further understanding of principles and mechanisms of protein folding and function, and is a key for the elaboration of a new structural and functional hierarchy of proteins. Therefore, prediction of IDPs has attracted the attention of many researchers, and a number of prediction tools have been developed. Predictions of disorder, in turn, are playing major roles in directing laboratory experiments that are leading to the discovery of ever more disordered proteins, and thereby leading to a positive feedback loop in the investigation of these proteins. In this review of algorithms for intrinsic disorder prediction, the basic concepts of various prediction methods for IDPs are summarized, the strengths and shortcomings of many of the methods are analyzed, and the difficulties and directions of future development of IDP prediction techniques are discussed.
+
+-Algorithms
+-Computational Biology
+-Protein Conformation
+-Protein Folding
+-Proteins (+chemistry; -classification)
+-Structure-Activity Relationship
+
+pii:cr200987
+doi:10.1038/cr.2009.87
+pubmed:19597536
+

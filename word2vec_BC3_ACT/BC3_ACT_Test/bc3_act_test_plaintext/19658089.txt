@@ -1,0 +1,27 @@
+Proteomics
+
+Spectral clustering in peptidomics studies helps to unravel modification profile of biologically active peptides and enhances peptide identification rate.
+
+G Menschaert, TT Vandekerckhove, B Landuyt, E Hayakawa, L Schoofs, W Luyten, W Van Criekinge
+
+When studying the set of biologically active peptides (the so-called peptidome) of a cell type, organ, or entire organism, the identification of peptides is mostly attempted by MS. However, identification rates are often dismally unsatisfactory. A great deal of failed or missed identifications may be attributable to the wealth of modifications on peptides, some of which may originate from in vivo post-translational processes to activate the molecule, whereas others could be introduced during the tissue preparation procedures. Preliminary knowledge of the modification profile of specific peptidome samples would greatly improve identification rates. To this end we developed an approach that performs clustering of mass spectra in a way that allows us to group spectra having similar peak patterns over significant segments. Comparing members of one spectral group enables us to assess the modifications (expressed as mass shifts in Dalton) present in a peptidome sample. The clustering algorithm in this study is called Bonanza, and it was applied to MALDI-TOF/TOF MS spectra from the mouse. Peptide identification rates went up from 17 to 36% for 278 spectra obtained from the pancreatic islets and from 21 to 43% for 163 pituitary spectra. Spectral clustering with subsequent advanced database search may result in the discovery of new biologically active peptides and modifications thereof, as shown by this report indeed.
+
+-Algorithms
+-Animals
++Cluster Analysis
+-Databases, Protein
+-Female
+-Islets of Langerhans (-chemistry; -metabolism)
+-Male
+-Mice
+-Mice, Inbred BALB C
+-Peptides (-analysis; +metabolism)
+-Pituitary Gland (-chemistry; -metabolism)
++Protein Processing, Post-Translational
+-Proteomics (+methods)
+-Reproducibility of Results
+-Tandem Mass Spectrometry
+
+doi:10.1002/pmic.200900248
+pubmed:19658089
+

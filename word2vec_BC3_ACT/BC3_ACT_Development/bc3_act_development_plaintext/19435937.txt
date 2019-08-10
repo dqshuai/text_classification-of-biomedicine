@@ -1,0 +1,24 @@
+Plant Cell
+
+The NGATHA genes direct style development in the Arabidopsis gynoecium.
+
+M Trigueros, M Navarrete-Gómez, S Sato, SK Christensen, S Pelaz, D Weigel, MF Yanofsky, C Ferrándiz
+
+The gynoecium is the most complex floral organ, designed to protect the ovules and ensure their fertilization. Correct patterning and tissue specification in the developing gynoecium involves the concerted action of a host of genetic factors. In addition, apical-basal patterning into different domains, stigma and style, ovary and gynophore, appears to depend on the establishment and maintenance of asymmetric auxin distribution, with an auxin maximum at the apex. Here, we show that a small subfamily of the B3 transcription factor superfamily, the NGATHA (NGA) genes, act redundantly to specify style development in a dosage-dependent manner. Characterization of the NGA gene family is based on an analysis of the activation-tagged mutant named tower-of-pisa1 (top1), which was found to overexpress NGA3. Quadruple nga mutants completely lack style and stigma development. This mutant phenotype is likely caused by a failure to activate two auxin biosynthetic enzymes, YUCCA2 and YUCCA4, in the apical gynoecium domain. The NGA mutant phenotypes are similar to those caused by multiple combinations of mutations in STYLISH1 (STY1) and additional members of its family. NGA3/TOP1 and STY1 share almost identical patterns of expression, but they do not appear to regulate each other at the transcriptional level. Strong synergistic phenotypes are observed when nga3/top1 and sty1 mutants are combined. Furthermore, constitutive expression of both NGA3/TOP1 and STY1 induces the conversion of the ovary into style tissue. Taken together, these data suggest that the NGA and STY factors act cooperatively to promote style specification, in part by directing YUCCA-mediated auxin synthesis in the apical gynoecium domain.
+
+-Arabidopsis (-genetics; +growth & development; -ultrastructure)
+-Arabidopsis Proteins (-genetics; -metabolism; +physiology)
+-Carrier Proteins (-metabolism; -physiology)
+-DNA-Binding Proteins (-genetics; -metabolism; +physiology)
+-Gene Expression
+-Indoleacetic Acids (-metabolism)
+-Molecular Sequence Data
+-Mutation
+-Phenotype
+-Signal Transduction (-genetics)
+
+pii:tpc.109.065508
+doi:10.1105/tpc.109.065508
+pubmed:19435937
+pmc:PMC2700528
+

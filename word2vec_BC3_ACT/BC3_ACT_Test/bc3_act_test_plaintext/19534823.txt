@@ -1,0 +1,29 @@
+BMC Genomics
+
+Assessment of adaptive evolution between wheat and rice as deduced from full-length common wheat cDNA sequence data and expression patterns.
+
+K Kawaura, K Mochida, A Enju, Y Totoki, A Toyoda, Y Sakaki, C Kai, J Kawai, Y Hayashizaki, M Seki, K Shinozaki, Y Ogihara
+
+BACKGROUND: Wheat is an allopolyploid plant that harbors a huge, complex genome. Therefore, accumulation of expressed sequence tags (ESTs) for wheat is becoming particularly important for functional genomics and molecular breeding. We prepared a comprehensive collection of ESTs from the various tissues that develop during the wheat life cycle and from tissues subjected to stress. We also examined their expression profiles in silico. As full-length cDNAs are indispensable to certify the collected ESTs and annotate the genes in the wheat genome, we performed a systematic survey and sequencing of the full-length cDNA clones. This sequence information is a valuable genetic resource for functional genomics and will enable carrying out comparative genomics in cereals. RESULTS: As part of the functional genomics and development of genomic wheat resources, we have generated a collection of full-length cDNAs from common wheat. By grouping the ESTs of recombinant clones randomly selected from the full-length cDNA library, we were able to sequence 6,162 independent clones with high accuracy. About 10% of the clones were wheat-unique genes, without any counterparts within the DNA database. Wheat clones that showed high homology to those of rice were selected in order to investigate their expression patterns in various tissues throughout the wheat life cycle and in response to abiotic-stress treatments. To assess the variability of genes that have evolved differently in wheat and rice, we calculated the substitution rate (Ka/Ks) of the counterparts in wheat and rice. Genes that were preferentially expressed in certain tissues or treatments had higher Ka/Ks values than those in other tissues and treatments, which suggests that the genes with the higher variability expressed in these tissues is under adaptive selection. CONCLUSION: We have generated a high-quality full-length cDNA resource for common wheat, which is essential for continuation of the ongoing curation and annotation of the wheat genome. The data for each clone's expression in various tissues and stress treatments and its variability in wheat and rice as a result of their diversification are valuable tools for functional genomics in wheat and for comparative genomics in cereals.
+
+-Adaptation, Biological (+genetics)
+-DNA, Complementary (-genetics)
+-DNA, Plant (-genetics)
++Evolution, Molecular
+-Expressed Sequence Tags
+-Gene Expression Profiling
+-Gene Expression Regulation, Plant
+-Gene Library
+-Genes, Plant
+-Genomics
+-Oryza sativa (+genetics)
+-Salt-Tolerant Plants (+genetics)
+-Sequence Analysis, DNA
+-Stress, Physiological
+-Triticum (+genetics)
+
+pii:1471-2164-10-271
+doi:10.1186/1471-2164-10-271
+pubmed:19534823
+pmc:PMC2703658
+

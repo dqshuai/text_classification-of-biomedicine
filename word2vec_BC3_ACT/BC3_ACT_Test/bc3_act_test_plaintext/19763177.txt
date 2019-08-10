@@ -1,0 +1,31 @@
+PLoS Genet.
+
+A high throughput genetic screen identifies new early meiotic recombination functions in Arabidopsis thaliana.
+
+A De Muyt, L Pereira, D Vezon, L Chelysheva, G Gendrot, A Chambon, S Lainé-Choinard, G Pelletier, R Mercier, F Nogué, M Grelon
+
+Meiotic recombination is initiated by the formation of numerous DNA double-strand breaks (DSBs) catalysed by the widely conserved Spo11 protein. In Saccharomyces cerevisiae, Spo11 requires nine other proteins for meiotic DSB formation; however, unlike Spo11, few of these are conserved across kingdoms. In order to investigate this recombination step in higher eukaryotes, we took advantage of a high-throughput meiotic mutant screen carried out in the model plant Arabidopsis thaliana. A collection of 55,000 mutant lines was screened, and spo11-like mutations, characterised by a drastic decrease in chiasma formation at metaphase I associated with an absence of synapsis at prophase, were selected. This screen led to the identification of two populations of mutants classified according to their recombination defects: mutants that repair meiotic DSBs using the sister chromatid such as Atdmc1 or mutants that are unable to make DSBs like Atspo11-1. We found that in Arabidopsis thaliana at least four proteins are necessary for driving meiotic DSB repair via the homologous chromosomes. These include the previously characterised DMC1 and the Hop1-related ASY1 proteins, but also the meiotic specific cyclin SDS as well as the Hop2 Arabidopsis homologue AHP2. Analysing the mutants defective in DSB formation, we identified the previously characterised AtSPO11-1, AtSPO11-2, and AtPRD1 as well as two new genes, AtPRD2 and AtPRD3. Our data thus increase the number of proteins necessary for DSB formation in Arabidopsis thaliana to five. Unlike SPO11 and (to a minor extent) PRD1, these two new proteins are poorly conserved among species, suggesting that the DSB formation mechanism, but not its regulation, is conserved among eukaryotes.
+
+-Alleles
+-Amino Acid Sequence
+-Arabidopsis (+cytology; -enzymology; +genetics)
+-Arabidopsis Proteins (-chemistry; -metabolism)
+-Chromosome Pairing (-genetics)
+-Chromosomes, Plant (-genetics)
+-DNA Breaks, Double-Stranded
+-Exons (-genetics)
+-Genes, Plant
+-High-Throughput Screening Assays (+methods)
+-Introns (-genetics)
+-Meiosis (+genetics)
+-Molecular Sequence Data
+-Mutation (-genetics)
+-Protein Transport
+-Recombinases (-metabolism)
++Recombination, Genetic
+-Sequence Alignment
+
+doi:10.1371/journal.pgen.1000654
+pubmed:19763177
+pmc:PMC2735182
+

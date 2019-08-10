@@ -1,0 +1,30 @@
+Genome Res.
+
+Mouse population-guided resequencing reveals that variants in CD44 contribute to acetaminophen-induced liver injury in humans.
+
+AH Harrill, PB Watkins, S Su, PK Ross, DE Harbourt, IM Stylianou, GA Boorman, MW Russo, RS Sackler, SC Harris, PC Smith, R Tennant, M Bogue, K Paigen, C Harris, T Contractor, T Wiltshire, I Rusyn, DW Threadgill
+
+Interindividual variability in response to chemicals and drugs is a common regulatory concern. It is assumed that xenobiotic-induced adverse reactions have a strong genetic basis, but many mechanism-based investigations have not been successful in identifying susceptible individuals. While recent advances in pharmacogenetics of adverse drug reactions show promise, the small size of the populations susceptible to important adverse events limits the utility of whole-genome association studies conducted entirely in humans. We present a strategy to identify genetic polymorphisms that may underlie susceptibility to adverse drug reactions. First, in a cohort of healthy adults who received the maximum recommended dose of acetaminophen (4 g/d x 7 d), we confirm that about one third of subjects develop elevations in serum alanine aminotransferase, indicative of liver injury. To identify the genetic basis for this susceptibility, a panel of 36 inbred mouse strains was used to model genetic diversity. Mice were treated with 300 mg/kg or a range of additional acetaminophen doses, and the extent of liver injury was quantified. We then employed whole-genome association analysis and targeted sequencing to determine that polymorphisms in Ly86, Cd44, Cd59a, and Capn8 correlate strongly with liver injury and demonstrated that dose-curves vary with background. Finally, we demonstrated that variation in the orthologous human gene, CD44, is associated with susceptibility to acetaminophen in two independent cohorts. Our results indicate a role for CD44 in modulation of susceptibility to acetaminophen hepatotoxicity. These studies demonstrate that a diverse mouse population can be used to understand and predict adverse toxicity in heterogeneous human populations through guided resequencing.
+
+-Acetaminophen (-administration & dosage; +adverse effects)
+-Alanine Transaminase (-blood)
+-Animals
+-Antigens, CD44 (-chemistry; +genetics)
+-Cohort Studies
+-Drug-Induced Liver Injury (+genetics; +physiopathology)
+-Genetic Predisposition to Disease
+-Humans
+-Mice
+-Mice, Inbred C3H
+-Mice, Inbred C57BL
+-Mice, Inbred DBA
+-Mice, Inbred Strains
+-Polymorphism, Genetic
++Sequence Analysis, DNA (-methods)
+-Species Specificity
+
+pii:gr.090241.108
+doi:10.1101/gr.090241.108
+pubmed:19416960
+pmc:PMC2752130
+

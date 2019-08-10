@@ -1,0 +1,27 @@
+Dev. Cell
+
+Mitochondria-anchored receptor Atg32 mediates degradation of mitochondria via selective autophagy.
+
+K Okamoto, N Kondo-Okamoto, Y Ohsumi
+
+Mitochondria are essential organelles that produce most of the energy for a cell, but concomitantly accumulate oxidative damage. Degradation of damaged mitochondria is critical for cell homeostasis, and this process is thought to be mediated by mitophagy, an autophagy-related pathway specific for mitochondria. However, whether mitochondria are selectively degraded, and how the autophagic machinery is targeted to mitochondria, remain largely unknown. Here we demonstrate that, in post-log phase cells under respiratory conditions, a substantial fraction of mitochondria are exclusively sequestered as cargoes and transported to the vacuole, a lytic compartment in yeast, in an autophagy-dependent manner. Interestingly, we found Atg32, a mitochondria-anchored protein essential for mitophagy that is induced during respiratory growth. In addition, our data suggest that Atg32 interacts with Atg8 and Atg11, autophagy-related proteins critical for recognition of cargo receptors. We propose that Atg32 acts as a mitophagy-specific receptor and regulates selective degradation of mitochondria.
+
+-Amino Acid Sequence
+-Autophagy (+physiology)
+-Cell Respiration (-physiology)
+-Luminescent Proteins (-genetics; -metabolism)
+-Microtubule-Associated Proteins (-genetics; -metabolism)
+-Mitochondria (+metabolism; -ultrastructure)
+-Mitochondrial Membranes (-metabolism; -ultrastructure)
+-Molecular Sequence Data
+-Receptors, Cytoplasmic and Nuclear (-genetics; +metabolism)
+-Saccharomyces cerevisiae (-cytology; +metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Sequence Alignment
+-Two-Hybrid System Techniques
+-Vesicular Transport Proteins (-genetics; -metabolism)
+
+pii:S1534-5807(09)00254-8
+doi:10.1016/j.devcel.2009.06.013
+pubmed:19619494
+

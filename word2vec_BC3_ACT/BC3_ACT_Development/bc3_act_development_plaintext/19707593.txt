@@ -1,0 +1,22 @@
+PLoS ONE
+
+Stage dependent aberrant regulation of cytokine-STAT signaling in murine systemic lupus erythematosus.
+
+MB Hale, PO Krutzik, SS Samra, JM Crane, GP Nolan
+
+Systemic lupus erythematosus (SLE) is a complex autoimmune disease of unknown etiology that involves multiple interacting cell types driven by numerous cytokines and autoimmune epitopes. Although the initiating events leading to SLE pathology are not understood, there is a growing realization that dysregulated cytokine action on immune cells plays an important role in promoting the inflammatory autoimmune state. We applied phospho-specific flow cytometry to characterize the extent to which regulation of cytokine signal transduction through the STAT family of transcription factors is disturbed during the progression of SLE. Using a panel of 10 cytokines thought to have causal roles in the disease, we measured signaling responses at the single-cell level in five immune cell types from the MRLlpr murine model. This generated a highly multiplexed view of how cytokine stimuli are processed by intracellular signaling networks in adaptive and innate immune cells during different stages of SLE pathogenesis. We report that robust changes in cytokine signal transduction occur during the progression of SLE in multiple immune cell subtypes including increased T cell responsiveness to IL-10 and ablation of Stat1 responses to IFNalpha, IFNgamma, IL-6, and IL-21, Stat3 responses to IL-6, Stat5 responses to IL-15, and Stat6 responses to IL-4. We found increased intracellular expression of Suppressor of Cytokine Signaling 1 protein correlated with negative regulation of Stat1 responses to inflammatory cytokines. The results provide evidence of negative feedback regulation opposing inflammatory cytokines that have self-sustaining activities and suggest a cytokine-driven oscillator circuit may drive the periodic disease activity observed in many SLE patients.
+
+-Animals
+-Blotting, Western
+-Cytokines (+metabolism)
+-Disease Progression
+-Lupus Erythematosus, Systemic (+metabolism; -pathology)
+-Mice
+-Reverse Transcriptase Polymerase Chain Reaction
+-STAT Transcription Factors (+metabolism)
++Signal Transduction
+
+doi:10.1371/journal.pone.0006756
+pubmed:19707593
+pmc:PMC2727051
+

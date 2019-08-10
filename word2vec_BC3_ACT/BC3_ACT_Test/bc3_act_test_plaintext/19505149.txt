@@ -1,0 +1,30 @@
+Biochemistry
+
+Toward the catalytic mechanism of a cysteine ligase (MshC) from Mycobacterium smegmatis: an enzyme involved in the biosynthetic pathway of mycothiol.
+
+F Fan, JS Blanchard
+
+Mycobacterium tuberculosis and other members of the actinomycete family produce mycothiol (MSH or acetylcysteine-glucosamine-inositol, AcCys-GlcN-Ins) to protect the organism against oxidative and antibiotic stress. The biosynthesis of MSH proceeds via a five-step process that involves four unique enzymes, MshA-D, which represent specific targets for inhibitor design. Recombinant Mycobacterium smegmatis MshC catalyzes the ATP-dependent condensation of glucosamine-inositol (GlcN-Ins) and cysteine to form Cys-GlcN-Ins. The 1.6 A three-dimensional structure of MshC in complex with a tight binding bisubstrate analogue, 5'-O-[N-(L-cysteinyl)sulfamonyl]adenosine (CSA), has suggested specific roles for T46, H55, T83, W227, and D251. In addition, a catalytic role for H55 has been proposed on the basis of studies of related aminoacyl-tRNA synthetases. Site-directed mutagenesis was conducted to evaluate the functional roles of these highly conserved residues. All mutants exhibited significantly decreased k(cat) values, with the exception of T83V for which a <7-fold decrease was observed compared to that of the wild type (WT). For the T46V, H55A, W227F, and D251N mutants, the rate of cysteine activation decreased 100-1400-fold compared to that of WT, consistent with the important roles of these residues in the first half-reaction. The approximately 2000-fold decrease in k(cat)/K(m) as well as the approximately 20-fold decrease in K(m) for cysteine suggested a significant role for T46 in cysteine binding. Kinetic studies also indicate a function for W227 in cysteine binding but not in substrate discrimination against serine. H55 was also observed to play a significant role in ATP binding as well as cysteine adenylation. The activity of H55A was partially rescued with exogenous imidazole at acidic pH values, suggesting that the protonated form of histidine is exerting a catalytic role. The pH dependence of the kinetic parameters with the WT enzyme suggests an additional requirement for a catalytic base in cysteinyl ligation.
+
+-Adenosine (-analogs & derivatives)
+-Adenosine Triphosphate (-metabolism)
+-Biosynthetic Pathways (-physiology)
+-Carbon-Nitrogen Ligases (-chemistry; -genetics; +metabolism)
+-Catalytic Domain
+-Cysteine (-biosynthesis; -chemistry; +metabolism)
+-Glycopeptides (+biosynthesis; -chemistry)
+-Hydrogen-Ion Concentration
+-Imidazoles (-metabolism)
+-Inositol (+biosynthesis; -chemistry)
+-Ligases (-chemistry; -genetics; +metabolism)
+-Molecular Sequence Data
+-Molecular Structure
+-Mutagenesis, Site-Directed
+-Mycobacterium smegmatis (+enzymology)
+-Protein Structure, Tertiary
+
+doi:10.1021/bi900457x
+pubmed:19505149
+mid:NIHMS129498
+pmc:PMC2748416
+

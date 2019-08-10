@@ -1,0 +1,27 @@
+PLoS Pathog.
+
+Genomic diversity and evolution of Mycobacterium ulcerans revealed by next-generation sequencing.
+
+W Qi, M Käser, K Röltgen, D Yeboah-Manu, G Pluschke
+
+Mycobacterium ulcerans is the causative agent of Buruli ulcer, the third most common mycobacterial disease after tuberculosis and leprosy. It is an emerging infectious disease that afflicts mainly children and youths in West Africa. Little is known about the evolution and transmission mode of M. ulcerans, partially due to the lack of known genetic polymorphisms among isolates, limiting the application of genetic epidemiology. To systematically profile single nucleotide polymorphisms (SNPs), we sequenced the genomes of three M. ulcerans strains using 454 and Solexa technologies. Comparison with the reference genome of the Ghanaian classical lineage isolate Agy99 revealed 26,564 SNPs in a Japanese strain representing the ancestral lineage. Only 173 SNPs were found when comparing Agy99 with two other Ghanaian isolates, which belong to the two other types previously distinguished in Ghana by variable number tandem repeat typing. We further analyzed a collection of Ghanaian strains using the SNPs discovered. With 68 SNP loci, we were able to differentiate 54 strains into 13 distinct SNP haplotypes. The average SNP nucleotide diversity was low (average 0.06-0.09 across 68 SNP loci), and 96% of the SNP locus pairs were in complete linkage disequilibrium. We estimated that the divergence of the M. ulcerans Ghanaian clade from the Japanese strain occurred 394 to 529 thousand years ago. The Ghanaian subtypes diverged about 1000 to 3000 years ago, or even much more recently, because we found evidence that they evolved significantly faster than average. Our results offer significant insight into the evolution of M. ulcerans and provide a comprehensive report on genetic diversity within a highly clonal M. ulcerans population from a Buruli ulcer endemic region, which can facilitate further epidemiological studies of this pathogen through the development of high-resolution tools.
+
+-Buruli Ulcer (-epidemiology; +microbiology)
++Evolution, Molecular
+-Genes, Bacterial
+-Genetic Variation
++Genome, Bacterial
+-Ghana (-epidemiology)
+-Humans
+-Linkage Disequilibrium
+-Molecular Epidemiology
+-Mycobacterium ulcerans (+genetics; -isolation & purification; -pathogenicity)
+-Phylogeny
+-Polymorphism, Single Nucleotide
+-Reproducibility of Results
+-Sequence Analysis, DNA (-methods)
+
+doi:10.1371/journal.ppat.1000580
+pubmed:19806175
+pmc:PMC2736377
+

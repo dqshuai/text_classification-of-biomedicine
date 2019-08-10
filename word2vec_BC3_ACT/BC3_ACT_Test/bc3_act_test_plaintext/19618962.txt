@@ -1,0 +1,28 @@
+Biochemistry
+
+The mutagenicity of thymidine glycol in Escherichia coli is increased when it is part of a tandem lesion.
+
+H Huang, S Imoto, MM Greenberg
+
+Tandem lesions are comprised of two contiguously damaged nucleotides. Tandem lesions make up the major family of reaction products generated from a pyrimidine nucleobase radical, which are formed in large amounts by ionizing radiation. One of these tandem lesions contains a thymidine glycol lesion flanked on its 5'-side by 2-deoxyribonolactone (LTg). The replication of this tandem lesion was investigated in Escherichia coli using single-stranded genomes. LTg is a much more potent replication block than thymidine glycol and is bypassed only under SOS-induced conditions. The adjacent thymidine glycol does not significantly affect nucleotide incorporation opposite 2-deoxyribonolactone in wild-type cells. In contrast, the misinsertion frequency opposite thymidine glycol, which is negligible in the absence of 2-deoxyribonolactone, increases to 10% in wild-type cells when LTg is flanked by a 3'-dG. Experiments in which the flanking nucleotides are varied and in cells lacking one of the SOS-induced bypass polymerases indicate that the mutations are due to a mechanism in which the primer misaligns prior to bypassing the lesion, which allows for an additional nucleotide to be incorporated across from the 3'-flanking nucleotide. Subsequent realignment and extension results in the observed mutations. DNA polymerases II and IV are responsible for misalignment induced mutations and compete with DNA polymerase V which reads through the tandem lesion. These experiments reveal that incorporation of the thymidine glycol into a tandem lesion indirectly induces increases in mutations by blocking replication, which enables the misalignment-realignment mechanism to compete with direct bypass by DNA polymerase V.
+
+-5' Untranslated Regions (-drug effects; -genetics)
+-Bacteriophage M13 (-genetics)
++DNA Damage
+-DNA Repair (-drug effects; -genetics)
+-DNA, Bacterial (-chemical synthesis; +drug effects)
+-Dinucleotide Repeats (+drug effects; -genetics)
+-Escherichia coli (+drug effects; +genetics)
+-Genome, Bacterial (-drug effects)
+-Hydroxyl Radical (-toxicity)
++Mutagenesis
+-SOS Response (Genetics) (-drug effects)
+-Sequence Deletion (-drug effects)
+-Sugar Acids (-toxicity)
+-Thymidine (+analogs & derivatives; -toxicity)
+
+doi:10.1021/bi900927d
+pubmed:19618962
+mid:NIHMS135262
+pmc:PMC2728776
+

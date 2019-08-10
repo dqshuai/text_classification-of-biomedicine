@@ -1,0 +1,26 @@
+Methods
+
+High-throughput bisulfite sequencing in mammalian genomes.
+
+ZD Smith, H Gu, C Bock, A Gnirke, A Meissner
+
+DNA methylation is a critical epigenetic mark that is essential for mammalian development and aberrant in many diseases including cancer. Over the past decade multiple methods have been developed and applied to characterize its genome-wide distribution. Of these, reduced representation bisulfite sequencing (RRBS) generates nucleotide resolution DNA methylation bisulfite sequencing libraries that enrich for CpG-dense regions by methylation-insensitive restriction digestion. Here we provide an extensive, optimized protocol for generating RRBS libraries and discuss the power of this strategy for methylome profiling. We include information on sequence analysis and the relative coverage over genomic regions of interest for a representative mouse MspI generated RRBS library. Contemporary sequencing and array-based technologies are compared against sample throughput and coverage, highlighting the variety of options available to investigate methylation on the genome-scale.
+
+-Animals
+-Base Sequence
++CpG Islands
++DNA Methylation
+-DNA-Cytosine Methylases (-metabolism)
++Genomic Library
+-Genomics (+methods)
+-Humans
+-Mice
+-Sequence Analysis, DNA (+methods)
+-Sulfites (-chemistry)
+
+pii:S1046-2023(09)00111-X
+doi:10.1016/j.ymeth.2009.05.003
+pubmed:19442738
+mid:NIHMS135191
+pmc:PMC2864123
+

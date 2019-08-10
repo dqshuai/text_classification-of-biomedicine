@@ -1,0 +1,22 @@
+Nucleic Acids Res.
+
+Preparation of selective and segmentally labeled single-stranded DNA for NMR by self-primed PCR and asymmetrical endonuclease double digestion.
+
+FH Nelissen, FC Girard, M Tessari, HA Heus, SS Wijmenga
+
+We demonstrate a new, efficient and easy-to-use method for enzymatic synthesis of (stereo-)specific and segmental (13)C/(15)N/(2)H isotope-labeled single-stranded DNA in amounts sufficient for NMR, based on the highly efficient self-primed PCR. To achieve this, new approaches are introduced and combined. (i) Asymmetric endonuclease double digestion of tandem-repeated PCR product. (ii) T4 DNA ligase mediated ligation of two ssDNA segments. (iii) In vitro dNTP synthesis, consisting of in vitro rNTP synthesis followed by enzymatic stereo-selective reduction of the C2' of the rNTP, and a one-pot add-up synthesis of dTTP from dUTP. The method is demonstrated on two ssDNAs: (i) a 36-nt three-way junction, selectively (13)C(9)/(15)N(3)/(2)H((1',2'',3',4',5',5''))-dC labeled and (ii) a 39-nt triple-repeat three-way junction, selectively (13)C(9)/(15)N(3)/(2)H((1',2'',3',4',5',5''))-dC and (13)C(9)/(15)N(2)/(2)H((1',2'',3',4',5',5''))-dT labeled in segment C20-C39. Their NMR spectra show the spectral simplification, while the stereo-selective (2)H-labeling in the deoxyribose of the dC-residues, straightforwardly provided assignment of their C1'-H2' and C2'-H2' resonances. The labeling protocols can be extended to larger ssDNA molecules and to more than two segments.
+
+-DNA Ligases
+-DNA Primers (-chemistry)
+-DNA Restriction Enzymes
+-DNA, Single-Stranded (+biosynthesis; +chemistry)
+-Deoxyribonucleotides (-biosynthesis)
+-Isotope Labeling
++Nuclear Magnetic Resonance, Biomolecular
+-Polymerase Chain Reaction (+methods)
+
+pii:gkp540
+doi:10.1093/nar/gkp540
+pubmed:19553193
+pmc:PMC2761255
+

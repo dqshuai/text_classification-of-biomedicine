@@ -1,0 +1,26 @@
+J. Neurosci.
+
+The positive allosteric modulator morantel binds at noncanonical subunit interfaces of neuronal nicotinic acetylcholine receptors.
+
+S Seo, JT Henry, AH Lewis, N Wang, MM Levandoski
+
+We are interested in the positive allosteric modulation of neuronal nicotinic acetylcholine (ACh) receptors and have recently shown that the anthelmintic compound morantel potentiates by enhancing channel gating of the alpha3beta2 subtype. Based on the demonstration that morantel-elicited currents were inhibited by the classic ACh competitor dihydro-beta-erythroidine in a noncompetitive manner and that morantel still potentiates at saturating concentrations of agonist (Wu et al., 2008), we hypothesized that morantel binds at the noncanonical beta2(+)/alpha3(-) subunit interface. In the present study, we created seven cysteine-substituted subunits by site-directed mutagenesis, choosing residues in the putative morantel binding site with the aid of structural homology models. We coexpressed the mutant subunits and their respective wild-type partners in Xenopus oocytes and characterized the morantel potentiation of ACh-evoked currents, as well as morantel-evoked currents, before and after treatment with a variety of methanethiosulfonate (MTS)-based compounds, using voltage-clamp recordings. The properties of four of the seven mutants, two residues on each side of the interface, were changed by MTS treatments. Coapplication with ACh enhanced the extent of MTS modification for alpha3A106Cbeta2 and alpha3beta2S192C receptors. The activities of two mutants, alpha3T115Cbeta2 and alpha3beta2T150C, were dramatically altered by MTS modification. For alpha3beta2T150C, while peak current amplitudes were reduced, potentiation was enhanced. For alpha3T115Cbeta2, both current amplitudes and potentiation were reduced. MTS modification and morantel were mutually inhibitory: MTS treatment decreased morantel-evoked currents and morantel decreased the rate of MTS modification. We conclude that the four residues showing MTS effects contribute to the morantel binding site.
+
+-Allosteric Regulation (-drug effects; -genetics)
+-Animals
+-Evoked Potentials (-drug effects; -genetics)
+-Female
+-Morantel (+metabolism; -pharmacology)
+-Neurons (-drug effects; +metabolism; -physiology)
+-Protein Binding (-drug effects; -genetics)
+-Protein Subunits (-genetics; +metabolism; -physiology)
+-Rats
+-Receptors, Nicotinic (-genetics; +metabolism; -physiology)
+-Xenopus laevis
+
+pii:29/27/8734
+doi:10.1523/JNEUROSCI.1859-09.2009
+pubmed:19587280
+mid:NIHMS133636
+pmc:PMC2726771
+

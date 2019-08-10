@@ -1,0 +1,27 @@
+J. Proteome Res.
+
+Soybean proteome database: a data resource for plant differential omics.
+
+K Sakata, H Ohyanagi, H Nobori, T Nakamura, A Hashiguchi, Y Nanjo, Y Mikami, H Yunokawa, S Komatsu
+
+The Soybean Proteome Database aims to be a data repository for functional analyses of soybean responses to flooding injury, recognized as a major constraint for establishment and production of this plant. The current release contains 21 reference maps of soybean (Glycine max cv. Enrei) proteins electrophoresed on two-dimensional polyacrylamide gels of which the samples were collected from several organs, tissues and organelles. These reference maps include 7311 detected proteins and 532 identified proteins, or proteins for which a sequence or peptide peak has been determined. The database is searchable by protein properties such as accession number, description and isoelectric point and molecular weight range. The Soybean Proteome Database also integrates multiple "omes". An omics table reveals relationships among 106 mRNAs, 51 proteins and 89 metabolites that vary over time under flooding stress. The tabulated metabolites are anchored to a metabolome network. A unified temporal-profile tag attached to the mRNAs, proteins and metabolites facilitates retrieval of the data based on the temporal expression profiles. A graphical user interface based on dynamic HTML facilitates viewing the metabolome network as well as the profiles of multiple omes in a uniform manner. The entire database is available at http://proteome.dc.affrc.go.jp/Soybean/.
+
+-Arabidopsis (-metabolism)
+-Databases, Protein
+-Electrophoresis, Gel, Two-Dimensional
+-Internet
+-Mass Spectrometry (-methods)
+-Metabolome
+-Models, Biological
+-Peptide Mapping (-methods)
+-Plant Proteins (+chemistry)
+-Protein Structure, Tertiary
+-Proteome
+-Proteomics (+methods)
+-RNA, Messenger (-metabolism)
+-Soybeans (+chemistry)
+-Time Factors
+
+doi:10.1021/pr900229k
+pubmed:19489578
+

@@ -1,0 +1,27 @@
+Genome Res.
+
+Mapping epigenetic mutations in fission yeast using whole-genome next-generation sequencing.
+
+DV Irvine, DB Goto, MW Vaughn, Y Nakaseko, WR McCombie, M Yanagida, R Martienssen
+
+Fission yeast is an important model for epigenetic studies due to the ease with which genetic mutants can be isolated. However, it can be difficult to complement epigenetic phenotypes with genomic libraries in order to identify the genes responsible. This is because epigenetic phenotypes are typically unstable, and can prohibit complementation if silencing cannot be reestablished. Here we have resequenced the fission yeast genome following mutagenesis to readily identify a novel mutant involved in heterochromatic silencing. Candidate genes were identified as functional single base changes linked to the mutation, which were then reconstituted in a wild-type strain to recapitulate the mutant phenotype. By this procedure we identified a weak allele of ubc4, which encodes an essential E2 ubiquitin ligase, as responsible for the swi*603 mutant phenotype. In combination with a large collection of mutants and suppressor plasmids, next-generation genomic resequencing promises to dramatically enhance the power of yeast genetics, permitting the isolation of subtle alleles of essential genes, alleles with quantitative effects, and enhancers and suppressors of heterochromatic silencing.
+
+-Amino Acid Substitution
+-Chromosome Mapping (-methods)
+-Chromosomes, Fungal (-genetics)
+-Epigenesis, Genetic
+-Fungal Proteins (-genetics)
+-Genes, Essential
+-Genome, Fungal (+genetics)
++Mutation
+-Phenotype
+-Polymorphism, Single Nucleotide
+-Schizosaccharomyces (+genetics)
+-Sequence Analysis, DNA (+methods)
+-Ubiquitin-Conjugating Enzymes (-genetics)
+
+pii:gr.089318.108
+doi:10.1101/gr.089318.108
+pubmed:19423874
+pmc:PMC2694473
+

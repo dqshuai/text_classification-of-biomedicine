@@ -1,0 +1,30 @@
+Nature
+
+CD14 regulates the dendritic cell life cycle after LPS exposure through NFAT activation.
+
+I Zanoni, R Ostuni, G Capuano, M Collini, M Caccia, AE Ronchi, M Rocchetti, F Mingozzi, M Foti, G Chirico, B Costa, A Zaza, P Ricciardi-Castagnoli, F Granucci
+
+Toll-like receptors (TLRs) are the best characterized pattern recognition receptors. Individual TLRs recruit diverse combinations of adaptor proteins, triggering signal transduction pathways and leading to the activation of various transcription factors, including nuclear factor kappaB, activation protein 1 and interferon regulatory factors. Interleukin-2 is one of the molecules produced by mouse dendritic cells after stimulation by different pattern recognition receptor agonists. By analogy with the events after T-cell receptor engagement leading to interleukin-2 production, it is therefore plausible that the stimulation of TLRs on dendritic cells may lead to activation of the Ca(2+)/calcineurin and NFAT (nuclear factor of activated T cells) pathway. Here we show that mouse dendritic cell stimulation with lipopolysaccharide (LPS) induces Src-family kinase and phospholipase Cgamma2 activation, influx of extracellular Ca(2+) and calcineurin-dependent nuclear NFAT translocation. The initiation of this pathway is independent of TLR4 engagement, and dependent exclusively on CD14. We also show that LPS-induced NFAT activation via CD14 is necessary to cause the apoptotic death of terminally differentiated dendritic cells, an event that is essential for maintaining self-tolerance and preventing autoimmunity. Consequently, blocking this pathway in vivo causes prolonged dendritic cell survival and an increase in T-cell priming capability. Our findings reveal novel aspects of molecular signalling triggered by LPS in dendritic cells, and identify a new role for CD14: the regulation of the dendritic cell life cycle through NFAT activation. Given the involvement of CD14 in disease, including sepsis and chronic heart failure, the discovery of signal transduction pathways activated exclusively via CD14 is an important step towards the development of potential treatments involving interference with CD14 functions.
+
+-Animals
+-Antigens, CD14 (+metabolism)
+-Apoptosis (-drug effects)
+-Bone Marrow Cells (-drug effects)
+-CD4-Positive T-Lymphocytes (-drug effects; -immunology)
+-Calcium (-metabolism)
+-Calcium Signaling (-drug effects)
+-Cell Differentiation
+-Cell Survival (-drug effects)
+-Dendritic Cells (+cytology; -drug effects; +immunology; -metabolism)
+-Lipopolysaccharides (+immunology; -pharmacology)
+-Macrophages (-cytology; -drug effects; -immunology)
+-Mice
+-Mice, Inbred C57BL
+-NFATC Transcription Factors (+metabolism)
+-Phospholipase C gamma (-metabolism)
+-src-Family Kinases (-metabolism)
+
+pii:nature08118
+doi:10.1038/nature08118
+pubmed:19525933
+

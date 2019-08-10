@@ -1,0 +1,28 @@
+J. Med. Chem.
+
+Hybrid compound design to overcome the gatekeeper T338M mutation in cSrc.
+
+M Getlik, C Grütter, JR Simard, S Klüter, M Rabiller, HB Rode, A Robubi, D Rauh
+
+The emergence of drug resistance remains a fundamental challenge in the development of kinase inhibitors that are effective over long-term treatments. Allosteric inhibitors that bind to sites lying outside the highly conserved ATP pocket are thought to be more selective than ATP-competitive inhibitors and may circumvent some mechanisms of drug resistance. Crystal structures of type I and allosteric type III inhibitors in complex with the tyrosine kinase cSrc allowed us to employ principles of structure-based design to develop these scaffolds into potent type II kinase inhibitors. One of these compounds, 3c (RL46), disrupts FAK-mediated focal adhesions in cancer cells via direct inhibition of cSrc. Details gleaned from crystal structures revealed a key feature of a subset of these compounds, a surprising flexibility in the vicinity of the gatekeeper residue that allows these compounds to overcome a dasatinib-resistant gatekeeper mutation emerging in cSrc.
+
+-Allosteric Site
+-Animals
+-Cell Line
+-Crystallography, X-Ray
+-Drug Design
+-Drug Resistance, Neoplasm
+-Focal Adhesions (-drug effects)
+-Humans
++Mutation, Missense
+-Neoplasms (-drug therapy; -pathology)
+-Protein Kinase Inhibitors (+chemistry)
+-Protein-Tyrosine Kinases (+chemistry; -genetics)
+-Proto-Oncogene Proteins (+chemistry; -genetics)
+-Pyrazoles (+chemistry; -pharmacology)
+-Structure-Activity Relationship
+-Urea (+analogs & derivatives; -chemistry; -pharmacology)
+
+doi:10.1021/jm9002928
+pubmed:19462975
+

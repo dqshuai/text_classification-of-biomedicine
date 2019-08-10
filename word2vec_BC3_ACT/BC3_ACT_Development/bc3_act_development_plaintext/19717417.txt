@@ -1,0 +1,26 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+A genome-wide genetic screen for host factors required for hepatitis C virus propagation.
+
+Q Li, AL Brass, A Ng, Z Hu, RJ Xavier, TJ Liang, SJ Elledge
+
+Hepatitis C virus (HCV) infection is a major cause of end-stage liver disease and a leading indication for liver transplantation. Current therapy fails in many instances and is associated with significant side effects. HCV encodes only a few proteins and depends heavily on host factors for propagation. Each of these host dependencies is a potential therapeutic target. To find host factors required by HCV, we completed a genome-wide small interfering RNA (siRNA) screen using an infectious HCV cell culture system. We applied a two-part screening protocol to allow identification of host factors involved in the complete viral lifecycle. The candidate genes found included known or previously identified factors, and also implicate many additional host cell proteins in HCV infection. To create a more comprehensive view of HCV and host cell interactions, we performed a bioinformatic meta-analysis that integrates our data with those of previous functional and proteomic studies. The identification of host factors participating in the complete HCV lifecycle will both advance our understanding of HCV pathogenesis and illuminate therapeutic targets.
+
+-Antigens, CD (-genetics; -metabolism)
+-Apolipoproteins E (-genetics; -metabolism)
+-Cell Line, Tumor
+-Computational Biology (-methods)
+-Genome, Human (+genetics)
+-Genome-Wide Association Study (+methods)
+-Hepacivirus (-genetics; -metabolism; +physiology)
+-Host-Pathogen Interactions
+-Humans
++RNA Interference
+-RNA, Small Interfering (-genetics)
+-Viral Proteins (-genetics; -metabolism)
+
+pii:0907439106
+doi:10.1073/pnas.0907439106
+pubmed:19717417
+pmc:PMC2752535
+

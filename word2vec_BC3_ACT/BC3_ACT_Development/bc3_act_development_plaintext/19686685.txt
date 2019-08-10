@@ -1,0 +1,25 @@
+Dev. Cell
+
+Phosphorylation-dependent protein interactions at the spindle midzone mediate cell cycle regulation of spindle elongation.
+
+A Khmelinskii, J Roostalu, H Roque, C Antony, E Schiebel
+
+The metaphase-to-anaphase transition is one of the most dramatic and highly regulated steps in cell division. At anaphase onset the protease separase dissolves sister chromatid cohesion. Simultaneously, the mitotic spindle elongates as interpolar microtubules (iMTs) slide apart at the spindle midzone, ensuring chromosome segregation. However, it remains unclear how spindle elongation is coordinated with cell cycle progression. Here we demonstrate that phosphorylation of the midzone organizer Ase1 controls localization and function of Cin8, a kinesin-5 that slides iMTs relative to each other. Phosphorylation of Ase1 by Cdk1 (cyclin-dependent kinase) inhibits Cin8 binding to iMTs, preventing bending and collapse of the metaphase spindle. In anaphase Ase1 dephosphorylation by the separase-activated phosphatase Cdc14 is necessary and sufficient for Cin8 recruitment to the midzone, where it drives spindle elongation. Our results reveal that sliding forces at the midzone are activated by separase and explain how spindle elongation is triggered with anaphase entry.
+
+-CDC2 Protein Kinase (-genetics; -metabolism)
+-Cell Cycle (+physiology)
+-Cell Cycle Proteins (-genetics; -metabolism)
+-Microtubule-Associated Proteins (-genetics; -metabolism)
+-Microtubules (+metabolism)
+-Mitotic Spindle Apparatus (+metabolism)
+-Phosphorylation
+-Protein Tyrosine Phosphatases (-genetics; -metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Saccharomyces cerevisiae (+cytology; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; -metabolism)
+-Tubulin (-genetics; -metabolism)
+
+pii:S1534-5807(09)00252-4
+doi:10.1016/j.devcel.2009.06.011
+pubmed:19686685
+

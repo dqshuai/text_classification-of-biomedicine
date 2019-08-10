@@ -1,0 +1,20 @@
+Proteomics
+
+Growth phase-dependent global protein and metabolite profiles of Phaeobacter gallaeciensis strain DSM 17395, a member of the marine Roseobacter-clade.
+
+H Zech, S Thole, K Schreiber, D Kalhöfer, S Voget, T Brinkhoff, M Simon, D Schomburg, R Rabus
+
+The marine heterotrophic roseobacter Phaeobacter gallaeciensis DSM 17395 was grown with glucose in defined mineral medium. Relative abundance changes of global protein (2-D DIGE) and metabolite (GC-MS) profiles were determined across five different time points of growth. In total, 215 proteins were identified and 147 metabolites detected (101 structurally identified), among which 60 proteins and 87 metabolites displayed changed abundances upon entry into stationary growth phase. Glucose breakdown to pyruvate apparently proceeds via the Entner-Doudoroff (ED) pathway, since phosphofructokinase of the Embden-Meyerhof-Parnas pathway is missing and the key metabolite of the ED-pathway, 2-keto-3-desoxygluconate, was detected. The absence of pfk in other genome-sequenced roseobacters suggests that the use of the ED pathway is an important physiological property among these heterotrophic marine bacteria. Upon entry into stationary growth phase (due to glucose starvation), sulfur assimilation (including cysteine biosynthesis) and parts of cell envelope synthesis (e.g. the lipid precursor 1-monooleoylglycerol) were down-regulated and cadaverine formation up-regulated. In contrast, central carbon catabolism remained essentially unchanged, pointing to a metabolic "stand-by" modus as an ecophysiological adaptation strategy. Stationary phase response of P. gallaeciensis differs markedly from that of standard organisms such as Escherichia coli, as evident e.g. by the absence of an rpoS gene.
+
+-Bacterial Proteins (-genetics; +metabolism)
+-Gene Expression Regulation, Bacterial (-genetics; +physiology)
+-Gene Expression Regulation, Developmental (-genetics; +physiology)
+-Genomics (-methods)
+-Molecular Sequence Data
+-Proteomics (-methods)
+-Roseobacter (-genetics; +growth & development; +metabolism)
+-Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization
+
+doi:10.1002/pmic.200900120
+pubmed:19639587
+

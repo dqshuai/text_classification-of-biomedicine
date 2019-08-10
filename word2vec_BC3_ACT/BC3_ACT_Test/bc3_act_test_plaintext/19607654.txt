@@ -1,0 +1,27 @@
+BMC Genomics
+
+Application of chicken microarrays for gene expression analysis in other avian species.
+
+TM Crowley, VR Haring, S Burggraaf, RJ Moore
+
+BACKGROUND: With the threat of emerging infectious diseases such as avian influenza, whose natural hosts are thought to be a variety of wild water birds including duck, we are armed with very few genomic resources to investigate large scale immunological gene expression studies in avian species. Multiple options exist for conducting large gene expression studies in chickens and in this study we explore the feasibility of using one of these tools to investigate gene expression in other avian species. RESULTS: In this study we utilised a whole genome long oligonucleotide chicken microarray to assess the utility of cross species hybridisation (CSH). We successfully hybridised a number of different avian species to this array, obtaining reliable signals. We were able to distinguish ducks that were infected with avian influenza from uninfected ducks using this microarray platform. In addition, we were able to detect known chicken immunological genes in all of the hybridised avian species. CONCLUSION: Cross species hybridisation using long oligonucleotide microarrays is a powerful tool to study the immune response in avian species with little available genomic information. The present study validated the use of the whole genome long oligonucleotide chicken microarray to investigate gene expression in a range of avian species.
+
+-Animals
+-Chickens (+genetics)
+-Comparative Genomic Hybridization (+methods)
+-Ducks (-genetics; -immunology)
+-Gene Expression Profiling
+-Genomics (+methods)
+-Influenza A Virus, H5N1 Subtype
+-Influenza in Birds (-genetics; -immunology)
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Poultry Diseases (-genetics; -immunology)
+-Sequence Analysis, DNA
+-Species Specificity
+-Spleen (-immunology; -metabolism)
+
+pii:1471-2164-10-S2-S3
+doi:10.1186/1471-2164-10-S2-S3
+pubmed:19607654
+pmc:PMC2713436
+

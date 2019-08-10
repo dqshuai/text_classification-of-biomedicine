@@ -1,0 +1,34 @@
+EMBO J.
+
+The structural basis of cyclic diguanylate signal transduction by PilZ domains.
+
+J Benach, SS Swaminathan, R Tamayo, SK Handelman, E Folta-Stogniew, JE Ramos, F Forouhar, H Neely, J Seetharaman, A Camilli, JF Hunt
+
+The second messenger cyclic diguanylate (c-di-GMP) controls the transition between motile and sessile growth in eubacteria, but little is known about the proteins that sense its concentration. Bioinformatics analyses suggested that PilZ domains bind c-di-GMP and allosterically modulate effector pathways. We have determined a 1.9 A crystal structure of c-di-GMP bound to VCA0042/PlzD, a PilZ domain-containing protein from Vibrio cholerae. Either this protein or another specific PilZ domain-containing protein is required for V. cholerae to efficiently infect mice. VCA0042/PlzD comprises a C-terminal PilZ domain plus an N-terminal domain with a similar beta-barrel fold. C-di-GMP contacts seven of the nine strongly conserved residues in the PilZ domain, including three in a seven-residue long N-terminal loop that undergoes a conformational switch as it wraps around c-di-GMP. This switch brings the PilZ domain into close apposition with the N-terminal domain, forming a new allosteric interaction surface that spans these domains and the c-di-GMP at their interface. The very small size of the N-terminal conformational switch is likely to explain the facile evolutionary diversification of the PilZ domain.
+
+-Amino Acid Sequence
+-Animals
+-Bacterial Proteins (+chemistry; -classification; -genetics; -metabolism)
+-Binding Sites
+-Crystallography, X-Ray
+-Cyclic GMP (+analogs & derivatives; -chemistry; -genetics; -metabolism)
+-Humans
+-Mice
+-Models, Molecular
+-Molecular Conformation
+-Molecular Sequence Data
+-Phylogeny
+-Protein Binding
+-Protein Structure, Quaternary
++Protein Structure, Secondary
++Protein Structure, Tertiary
+-Sequence Alignment
+-Sequence Homology, Amino Acid
+-Signal Transduction (+physiology)
+-Vibrio cholerae (-metabolism; -pathogenicity)
+
+pii:7601918
+doi:10.1038/sj.emboj.7601918
+pubmed:18034161
+pmc:PMC2140105
+

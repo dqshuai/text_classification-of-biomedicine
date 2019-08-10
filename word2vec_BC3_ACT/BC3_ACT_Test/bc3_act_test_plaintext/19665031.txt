@@ -1,0 +1,28 @@
+J. Mol. Biol.
+
+Ligand entry and exit pathways in the beta2-adrenergic receptor.
+
+T Wang, Y Duan
+
+The recently determined crystal structure of the human beta(2)-adrenergic (beta(2)AR) G-protein-coupled receptor provides an excellent structural basis for exploring beta(2)AR-ligand binding and dissociation process. Based on this crystal structure, we simulated ligand exit from the beta(2)AR receptor by applying the random acceleration molecular dynamics (RAMD) simulation method. The simulation results showed that the extracellular opening on the receptor surface was the most frequently observed egress point (referred to as pathway A), and a few other pathways through interhelical clefts were also observed with significantly lower frequencies. In the egress trajectories along pathway A, the D192-K305 salt bridge between the extracellular loop 2 (ECL2) and the apex of the transmembrane helix 7 (TM7) was exclusively broken. The spatial occupancy maps of the ligand computed from the 100 RAMD simulation trajectories indicated that the receptor-ligand interactions that restrained the ligand in the binding pocket were the major resistance encountered by the ligand during exit and no second barrier was notable. We next performed RAMD simulations by using a putative ligand-free conformation of the receptor as input structure. This conformation was obtained in a standard molecular dynamics simulation in the absence of the ligand and it differed from the ligand-bound conformation in a hydrophobic patch bridging ECL2 and TM7 due to the rotation of F193 of ECL2. Results from the RAMD simulations with this putative ligand-free conformation suggest that the cleft formed by the hydrophobic bridge, TM2, TM3, and TM7 on the extracellular surface likely serves as a more specific ligand-entry site and the ECL2-TM7 hydrophobic junction can be partially interrupted upon the entry of ligand that pushes F193 to rotate, resulting in a conformation as observed in the ligand-bound crystal structure. These results may help in the design of beta(2)AR-targeting drugs with improved efficacy, as well as in understanding the receptor subtype selectivity of ligand binding in the beta family of the adrenergic receptors that share almost identical ligand-binding pockets, but show notable amino acid sequence divergence in the putative ligand-entry site, including ECL2 and the extracellular end of TM7.
+
+-Adrenergic beta-Antagonists (-chemistry; -pharmacokinetics)
+-Binding Sites
+-Crystallography, X-Ray
+-Humans
+-Hydrophobicity
++Ligands
+-Models, Molecular
+-Movement (+physiology)
+-Propanolamines (-chemistry; -pharmacokinetics)
+-Protein Binding
+-Protein Structure, Quaternary
+-Receptors, Adrenergic, beta-2 (+chemistry; +metabolism)
+-Salts (-pharmacokinetics)
+
+pii:S0022-2836(09)00981-4
+doi:10.1016/j.jmb.2009.07.093
+pubmed:19665031
+mid:NIHMS138089
+pmc:PMC2809666
+

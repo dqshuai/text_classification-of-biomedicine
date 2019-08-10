@@ -1,0 +1,27 @@
+BMC Bioinformatics
+
+Ovarian cancer detection from metabolomic liquid chromatography/mass spectrometry data by support vector machines.
+
+W Guan, M Zhou, CY Hampton, BB Benigno, LD Walker, A Gray, JF McDonald, FM Fernández
+
+BACKGROUND: The majority of ovarian cancer biomarker discovery efforts focus on the identification of proteins that can improve the predictive power of presently available diagnostic tests. We here show that metabolomics, the study of metabolic changes in biological systems, can also provide characteristic small molecule fingerprints related to this disease. RESULTS: In this work, new approaches to automatic classification of metabolomic data produced from sera of ovarian cancer patients and benign controls are investigated. The performance of support vector machines (SVM) for the classification of liquid chromatography/time-of-flight mass spectrometry (LC/TOF MS) metabolomic data focusing on recognizing combinations or "panels" of potential metabolic diagnostic biomarkers was evaluated. Utilizing LC/TOF MS, sera from 37 ovarian cancer patients and 35 benign controls were studied. Optimum panels of spectral features observed in positive or/and negative ion mode electrospray (ESI) MS with the ability to distinguish between control and ovarian cancer samples were selected using state-of-the-art feature selection methods such as recursive feature elimination and L1-norm SVM. CONCLUSION: Three evaluation processes (leave-one-out-cross-validation, 12-fold-cross-validation, 52-20-split-validation) were used to examine the SVM models based on the selected panels in terms of their ability for differentiating control vs. disease serum samples. The statistical significance for these feature selection results were comprehensively investigated. Classification of the serum sample test set was over 90% accurate indicating promise that the above approach may lead to the development of an accurate and reliable metabolomic-based approach for detecting ovarian cancer.
+
+-Adult
+-Aged
+-Aged, 80 and over
++Algorithms
+-Chromatography, Liquid (+methods)
+-Computational Biology (+methods)
+-Female
+-Humans
+-Mass Spectrometry (+methods)
+-Metabolomics (+methods)
+-Middle Aged
+-Ovarian Neoplasms (+diagnosis)
+-Pattern Recognition, Automated (-methods)
+
+pii:1471-2105-10-259
+doi:10.1186/1471-2105-10-259
+pubmed:19698113
+pmc:PMC2741455
+

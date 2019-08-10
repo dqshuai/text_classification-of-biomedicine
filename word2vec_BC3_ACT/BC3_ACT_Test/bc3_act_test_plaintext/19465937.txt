@@ -1,0 +1,27 @@
+Oncogene
+
+DNA methyltransferase-mediated transcriptional silencing in malignant glioma: a combined whole-genome microarray and promoter array analysis.
+
+G Foltz, JG Yoon, H Lee, TC Ryken, Z Sibenaller, M Ehrich, L Hood, A Madan
+
+Epigenetic inactivation of tumor suppressor genes is a common feature in human cancer. Promoter hypermethylation and histone deacetylation are reversible epigenetic mechanisms associated with transcriptional regulation. DNA methyltransferases (DNMT1 and DNMT3b) regulate and maintain promoter methylation and are overexpressed in human cancer. We performed whole-genome microarray analysis to identify genes with altered expression after RNAi-induced suppression of DNMT in a glioblastoma multiforme (GBM) cell line. We then identified genes with both decreased expression and evidence of promoter CpG island hypermethylation in GBM tissue samples using a combined whole-genome microarray transcriptome analysis in conjunction with a promoter array analysis after DNA immunoprecipitation with anti-5-methylcytidine. DNMT1 and 3b knockdown resulted in the restored expression of 308 genes that also contained promoter region hypermethylation. Of these, 43 were also found to be downregulated in GBM tissue samples. Three downregulated genes with hypermethylated promoters and restored expression in response to acute DNMT suppression were assayed for methylation changes using bisulfite sequence analysis of the promoter region after chronic DNMT suppression. Restoration of gene expression was not associated with changes in promoter region methylation, but rather with changes in histone methylation and chromatin conformation. Two of the identified genes exhibited growth suppressive activity in in vitro assays. Combining targeted genetic manipulations with comprehensive genomic and expression analyses provides a potentially powerful new approach for identifying epigenetically regulated genes in GBM.
+
+-Base Sequence
+-Cell Line, Tumor
+-CpG Islands
+-DNA (Cytosine-5-)-Methyltransferase (-genetics; +physiology)
++DNA Methylation
++Gene Expression Regulation, Neoplastic
++Gene Silencing
+-Genome-Wide Association Study
+-Glioma (-enzymology; +genetics)
+-Histones (-metabolism)
+-Humans
+-Promoter Regions, Genetic
+-RNA, Small Interfering (-genetics)
+-Transcription, Genetic
+
+pii:onc2009122
+doi:10.1038/onc.2009.122
+pubmed:19465937
+

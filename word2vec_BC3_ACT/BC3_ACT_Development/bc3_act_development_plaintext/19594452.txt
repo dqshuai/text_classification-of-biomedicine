@@ -1,0 +1,28 @@
+BioTechniques
+
+Site-directed mutagenesis of multi-copy-number plasmids: Red/ET recombination and unique restriction site elimination.
+
+S Noll, G Hampp, H Bausbacher, N Pellegata, H Kranz
+
+Existing methods for site-directed plasmid mutagenesis are restrained by the small spectrum of modifications that can be introduced by mutagenic primers and the amplicon size limitations of in vitro DNA synthesis. As demonstrated here, the combined use of Red/ET recombination and unique restriction site elimination enables extensive manipulation regardless of plasmid size and DNA sequence elements. First, a selectable marker is PCR-amplified with synthetic primers attaching 50-bp homology target flanks for Red/ET recombination and an arbitrary restriction site absent in the substrate plasmid. The resulting cassette is co-electroporated with substrate plasmids in Red/ET-proficient Escherichia coli cells. Following isolation of recombinant plasmids, linear nonselectable DNA replaces the cassette and introduces the desired mutation(s) in a second Red/ET recombination step. Upon selective digestion of parental plasmids and retransformation, a 38% mutation efficiency was achieved using a synthetic 97-nucleotide oligonucleotide to cure a 17-bp deletion within lacZalpha of pUC19 (2,686 bp). A PCR fragment was used with similar efficiency to co-replace mouse Cdkn1b codons 9 and 76 in gene-targeting vector pGTC (13,083 bp).
+
+-Animals
+-Base Sequence
+-Codon (-genetics)
+-Exons (-genetics)
++Gene Dosage
+-Genetic Vectors (-genetics)
+-Mice
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed (+methods)
+-Oligonucleotides (-metabolism)
+-Plasmids (+genetics)
+-Point Mutation (-genetics)
+-Recombination, Genetic (+genetics)
+-Restriction Mapping (+methods)
+-Transformation, Genetic
+
+pii:000113150
+doi:10.2144/000113150
+pubmed:19594452
+

@@ -1,0 +1,24 @@
+PLoS ONE
+
+The C/H3 domain of p300 is required to protect VRK1 and VRK2 from their downregulation induced by p53.
+
+A Valbuena, S Blanco, FM Vega, PA Lazo
+
+BACKGROUND: The vaccinia-related kinase 1 (VRK1) protein, an activator of p53, can be proteolytically downregulated by an indirect mechanism, which requires p53-dependent transcription. PRINCIPAL FINDINGS: In this work we have biochemically characterized the contribution of several p53 transcriptional cofactors with acetyl transferase activity to the induction of VRK1 downregulation that was used as a functional assay. Downregulation of VRK1 induced by p53 is prevented in a dose dependent manner by either p300 or CBP, but not by PCAF, used as transcriptional co-activators, suggesting that p53 has a different specificity depending on the relative level of these transcriptional cofactors. This inhibition does not require p53 acetylation, since a p53 acetylation mutant also induces VRK1 downregulation. PCAF can not revert the VRK1 protection effect of p300, indicating that these two proteins do not compete for a common factor needed to induce VRK1 downregulation. The protective effect is also induced by the C/H3 domain of p300, a region implicated in binding to several transcription factors and SV40 large T antigen; but the protective effect is lost when a mutant C/H3Del33 is used. The protective effect is a consequence of direct binding of the C/H3 domain to the transactivation domain of p53. A similar downregulatory effect can also be detected with VRK2 protein. CONCLUSIONS/SIGNIFICANCE: Specific p53-dependent effects are determined by the availability and ratios of its transcriptional cofactors. Specifically, the downregulation of VRK1/VRK2 protein levels, as a consequence of p53 accumulation, is thus dependent on the levels of the p300/CBP protein available for transcriptional complexes, since in this context this cofactor functions as a repressor of the effect. These observations point to the relevance of knowing the cofactor levels in order to determine one effect or another.
+
+-Cell Line, Tumor
+-Chloroquine (-pharmacology)
++Down-Regulation
+-Humans
+-Intracellular Signaling Peptides and Proteins (+genetics; -metabolism)
+-Protein Structure, Tertiary
+-Protein-Serine-Threonine Kinases (+genetics; -metabolism)
+-Transcriptional Activation
+-Transfection
+-Tumor Suppressor Protein p53 (+metabolism)
+-p300-CBP Transcription Factors (+chemistry; -metabolism)
+
+doi:10.1371/journal.pone.0002649
+pubmed:18612383
+pmc:PMC2441436
+

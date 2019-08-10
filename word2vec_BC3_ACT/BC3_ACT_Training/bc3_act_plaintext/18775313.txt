@@ -1,0 +1,28 @@
+Cell
+
+UBXD7 binds multiple ubiquitin ligases and implicates p97 in HIF1alpha turnover.
+
+G Alexandru, J Graumann, GT Smith, NJ Kolawa, R Fang, RJ Deshaies
+
+p97 is an ATP-dependent chaperone that plays an important role in endoplasmic reticulum-associated degradation but whose connections to turnover of soluble proteins remain sparse. Binding of p97 to substrates is mediated by cofactors that contain ubiquitin-binding domains. We employed "network proteomics" to show that p97 assembles with all of the 13 mammalian UBX-domain proteins. The UBX proteins that bind ubiquitin conjugates also interact with dozens of E3 ubiquitin ligases, only one of which had been previously linked to p97. In particular, UBXD7 links p97 to the ubiquitin ligase CUL2/VHL and its substrate hypoxia-inducible factor 1alpha (HIF1alpha). Depletion of p97 leads to accumulation of endogenous HIF1alpha and increased expression of a HIF1alpha target gene. The large number of ubiquitin ligases found associated with UBX proteins suggests that p97 plays a far broader role than previously anticipated in the global regulation of protein turnover.
+
+-Adenosine Triphosphatases (+metabolism)
+-Amino Acid Sequence
+-Carrier Proteins (+metabolism)
+-Cell Cycle Proteins (+metabolism)
+-Cell Line
+-Humans
+-Hypoxia-Inducible Factor 1, alpha Subunit (+metabolism)
+-Metabolic Networks and Pathways
+-Molecular Sequence Data
+-Protein Binding
+-Protein Structure, Tertiary
+-Proteome
+-Ubiquitin-Protein Ligases (-metabolism)
+
+pii:S0092-8674(08)00835-0
+doi:10.1016/j.cell.2008.06.048
+pubmed:18775313
+mid:HHMIMS69681
+pmc:PMC2614663
+

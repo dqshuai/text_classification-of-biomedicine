@@ -1,0 +1,27 @@
+PLoS Comput. Biol.
+
+Integrating extrinsic and intrinsic cues into a minimal model of lineage commitment for hematopoietic progenitors.
+
+S Palani, CA Sarkar
+
+Autoregulation of transcription factors and cross-antagonism between lineage-specific transcription factors are a recurrent theme in cell differentiation. An equally prevalent event that is frequently overlooked in lineage commitment models is the upregulation of lineage-specific receptors, often through lineage-specific transcription factors. Here, we use a minimal model that combines cell-extrinsic and cell-intrinsic elements of regulation in order to understand how both instructive and stochastic events can inform cell commitment decisions in hematopoiesis. Our results suggest that cytokine-mediated positive receptor feedback can induce a "switch-like" response to external stimuli during multilineage differentiation by providing robustness to both bipotent and committed states while protecting progenitors from noise-induced differentiation or decommitment. Our model provides support to both the instructive and stochastic theories of commitment: cell fates are ultimately driven by lineage-specific transcription factors, but cytokine signaling can strongly bias lineage commitment by regulating these inherently noisy cell-fate decisions with complex, pertinent behaviors such as ligand-mediated ultrasensitivity and robust multistability. The simulations further suggest that the kinetics of differentiation to a mature cell state can depend on the starting progenitor state as well as on the route of commitment that is chosen. Lastly, our model shows good agreement with lineage-specific receptor expression kinetics from microarray experiments and provides a computational framework that can integrate both classical and alternative commitment paths in hematopoiesis that have been observed experimentally.
+
+-Algorithms
+-Cell Differentiation (+physiology)
+-Cell Lineage
+-Computational Biology (+methods)
+-Computer Simulation
+-Feedback, Physiological
+-Hematopoiesis (+physiology)
+-Hematopoietic Stem Cells (+physiology)
++Models, Biological
+-Oligonucleotide Array Sequence Analysis
+-Receptors, Cell Surface (-genetics; -metabolism)
+-Signal Transduction
+-Stochastic Processes
+-Transcription Factors (-genetics; -metabolism)
+
+doi:10.1371/journal.pcbi.1000518
+pubmed:19911036
+pmc:PMC2736398
+

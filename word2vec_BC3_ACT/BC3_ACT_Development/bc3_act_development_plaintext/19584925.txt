@@ -1,0 +1,18 @@
+PLoS ONE
+
+Evidence for the concerted evolution between short linear protein motifs and their flanking regions.
+
+C Chica, F Diella, TJ Gibson
+
+BACKGROUND: Linear motifs are short modules of protein sequences that play a crucial role in mediating and regulating many protein-protein interactions. The function of linear motifs strongly depends on the context, e.g. functional instances mainly occur inside flexible regions that are accessible for interaction. Sometimes linear motifs appear as isolated islands of conservation in multiple sequence alignments. However, they also occur in larger blocks of sequence conservation, suggesting an active role for the neighbouring amino acids. RESULTS: The evolution of regions flanking 116 functional linear motif instances was studied. The conservation of the amino acid sequence and order/disorder tendency of those regions was related to presence/absence of the instance. For the majority of the analysed instances, the pairs of sequences conserving the linear motif were also observed to maintain a similar local structural tendency and/or to have higher local sequence conservation when compared to pairs of sequences where one is missing the linear motif. Furthermore, those instances have a higher chance to co-evolve with the neighbouring residues in comparison to the distant ones. Those findings are supported by examples where the regulation of the linear motif-mediated interaction has been shown to depend on the modifications (e.g. phosphorylation) at neighbouring positions or is thought to benefit from the binding versatility of disordered regions. CONCLUSION: The results suggest that flanking regions are relevant for linear motif-mediated interactions, both at the structural and sequence level. More interestingly, they indicate that the prediction of linear motif instances can be enriched with contextual information by performing a sequence analysis similar to the one presented here. This can facilitate the understanding of the role of these predicted instances in determining the protein function inside the broader context of the cellular network where they arise.
+
++Amino Acid Motifs
++Evolution, Molecular
+-Gene Expression Profiling
+-Proteins (-chemistry; +genetics)
+-Sequence Alignment
+
+doi:10.1371/journal.pone.0006052
+pubmed:19584925
+pmc:PMC2702822
+

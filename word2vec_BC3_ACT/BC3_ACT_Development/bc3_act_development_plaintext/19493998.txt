@@ -1,0 +1,28 @@
+J. Virol.
+
+The CXCR4-tropic human immunodeficiency virus envelope promotes more-efficient gene delivery to resting CD4+ T cells than the vesicular stomatitis virus glycoprotein G envelope.
+
+LM Agosto, JJ Yu, MK Liszewski, C Baytop, N Korokhov, LM Humeau, U O'Doherty
+
+Current gene transfer protocols for resting CD4(+) T cells include an activation step to enhance transduction efficiency. This step is performed because it is thought that resting cells are resistant to transduction by lentiviral-based gene therapy vectors. However, activating resting cells prior to transduction alters their physiology, with foreseeable and unforeseeable negative consequences. Thus, it would be desirable to transduce resting CD4(+) T cells without activation. We recently demonstrated, contrary to the prevailing belief, that wild-type human immunodeficiency virus (HIV) integrates into resting CD4(+) T cells. Based on that finding, we investigated whether a commonly used, vesicular stomatitis virus glycoprotein G (VSV-G)-pseudotyped lentiviral gene therapy vector could also integrate into resting CD4(+) T cells. To investigate this, we inoculated resting CD4(+) T cells with lentiviral particles that were pseudotyped with VSV-G or CXCR4-tropic HIV Env and assayed binding, fusion, reverse transcription, and integration. We found that the VSV-G-pseudotyped lentiviral vector failed to fuse to resting CD4(+) T cells while HIV Env-pseudotyped lentiviral vectors fused, reverse transcribed, and integrated in resting cells. Our findings suggest that HIV Env could be used effectively for the delivery of therapeutic genes to resting CD4(+) T cells and suggest that fusion may be the critical step restricting transduction of resting CD4(+) T cells by lentiviral gene therapy vectors.
+
+-CD4-Positive T-Lymphocytes (+virology)
+-Cell Line
++Gene Transfer Techniques
+-Genetic Vectors (-genetics; -physiology)
+-HIV (-genetics; +physiology)
+-HIV Infections (-metabolism; -virology)
+-Humans
+-Membrane Fusion
+-Membrane Glycoproteins (-genetics; +physiology)
+-Protein Binding
+-Receptors, CXCR4 (-genetics; +metabolism)
+-Viral Envelope Proteins (-genetics; +physiology)
+-Virus Integration
+-env Gene Products, Human Immunodeficiency Virus (-genetics; +metabolism)
+
+pii:JVI.00220-09
+doi:10.1128/JVI.00220-09
+pubmed:19493998
+pmc:PMC2715791
+

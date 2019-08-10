@@ -1,0 +1,22 @@
+Nat. Methods
+
+Rapid creation and quantitative monitoring of high coverage shRNA libraries.
+
+MC Bassik, RJ Lebbink, LS Churchman, NT Ingolia, W Patena, EM LeProust, M Schuldiner, JS Weissman, MT McManus
+
+Short hairpin RNA libraries are limited by low efficacy of many shRNAs and by off-target effects, which give rise to false negatives and false positives, respectively. Here we present a strategy for rapidly creating expanded shRNA pools (approximately 30 shRNAs per gene) that are analyzed by deep sequencing (EXPAND). This approach enables identification of multiple effective target-specific shRNAs from a complex pool, allowing a rigorous statistical evaluation of true hits.
+
+-Base Sequence
++Gene Library
+-Humans
+-Molecular Sequence Data
+-Polymerase Chain Reaction (+methods)
+-RNA, Messenger (+genetics)
+-Sequence Analysis, RNA (+methods)
+
+pii:nmeth.1330
+doi:10.1038/nmeth.1330
+pubmed:19448642
+mid:NIHMS112301
+pmc:PMC2783737
+

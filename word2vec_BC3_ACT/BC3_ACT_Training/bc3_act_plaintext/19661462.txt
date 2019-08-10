@@ -1,0 +1,32 @@
+Circ. Res.
+
+Using lidocaine and benzocaine to link sodium channel molecular conformations to state-dependent antiarrhythmic drug affinity.
+
+DA Hanck, E Nikitina, MM McNulty, HA Fozzard, GM Lipkind, MF Sheets
+
+RATIONALE: Lidocaine and other antiarrhythmic drugs bind in the inner pore of voltage-gated Na channels and affect gating use-dependently. A phenylalanine in domain IV, S6 (Phe1759 in Na(V)1.5), modeled to face the inner pore just below the selectivity filter, is critical in use-dependent drug block. OBJECTIVE: Measurement of gating currents and concentration-dependent availability curves to determine the role of Phe1759 in coupling of drug binding to the gating changes. METHODS AND RESULTS: The measurements showed that replacement of Phe1759 with a nonaromatic residue permits clear separation of action of lidocaine and benzocaine into 2 components that can be related to channel conformations. One component represents the drug acting as a voltage-independent, low-affinity blocker of closed channels (designated as lipophilic block), and the second represents high-affinity, voltage-dependent block of open/inactivated channels linked to stabilization of the S4s in domains III and IV (designated as voltage-sensor inhibition) by Phe1759. A homology model for how lidocaine and benzocaine bind in the closed and open/inactivated channel conformation is proposed. CONCLUSIONS: These 2 components, lipophilic block and voltage-sensor inhibition, can explain the differences in estimates between tonic and open-state/inactivated-state affinities, and they identify how differences in affinity for the 2 binding conformations can control use-dependence, the hallmark of successful antiarrhythmic drugs.
+
+-Anti-Arrhythmia Agents (-chemistry; -metabolism; +pharmacology)
+-Benzocaine (-chemistry; -metabolism; +pharmacology)
+-Binding Sites
+-Cell Line
+-Dose-Response Relationship, Drug
+-Humans
+-Ion Channel Gating (+drug effects)
+-Lidocaine (-chemistry; -metabolism; +pharmacology)
+-Membrane Potentials
+-Models, Molecular
+-Molecular Structure
+-Muscle Proteins (-chemistry; +drug effects; -genetics; -metabolism)
+-Phenylalanine
+-Protein Conformation
+-Protein Structure, Tertiary
+-Sodium Channels (-chemistry; +drug effects; -genetics; -metabolism)
+-Transfection
+
+pii:CIRCRESAHA.109.198572
+doi:10.1161/CIRCRESAHA.109.198572
+pubmed:19661462
+mid:NIHMS139823
+pmc:PMC2735213
+

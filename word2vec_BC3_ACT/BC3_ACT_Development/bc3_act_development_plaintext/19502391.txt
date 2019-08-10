@@ -1,0 +1,30 @@
+J. Bacteriol.
+
+An excretory function for the Escherichia coli outer membrane pore TolC: upregulation of marA and soxS transcription and Rob activity due to metabolites accumulated in tolC mutants.
+
+JL Rosner, RG Martin
+
+Efflux pumps function to rid bacteria of xenobiotics, including antibiotics, bile salts, and organic solvents. TolC, which forms an outer membrane channel, is an essential component of several efflux pumps in Escherichia coli. We asked whether TolC has a role during growth in the absence of xenobiotics. Because tolC transcription is activated by three paralogous activators, MarA, SoxS, and Rob, we examined the regulation of these activators in tolC mutants. Using transcriptional fusions, we detected significant upregulation of marRAB and soxS transcription and Rob protein activity in tolC mutants. Three mechanisms could be distinguished: (i) activation of marRAB transcription was independent of marRAB, soxR, and rob functions; (ii) activation of soxS transcription required SoxR, a sensor of oxidants; and (iii) Rob protein was activated posttranscriptionally. This mechanism is similar to the mechanisms of upregulation of marRAB, soxS, and Rob by treatment with certain phenolics, superoxides, and bile salts, respectively. The transcription of other marA/soxS/rob regulon promoters, including tolC itself, was also elevated in tolC mutants. We propose that TolC is involved in the efflux of certain cellular metabolites, not only xenobiotics. As these metabolites accumulate during growth, they trigger the upregulation of MarA, SoxS, and Rob, which in turn upregulate tolC and help rid the bacteria of these metabolites, thereby restoring homeostasis.
+
+-Bacterial Outer Membrane Proteins (+genetics; -physiology)
+-Bacterial Proteins (-genetics; -physiology)
+-DNA-Binding Proteins (+genetics; -physiology)
+-Escherichia coli (+genetics; -metabolism)
+-Escherichia coli Proteins (+genetics; -physiology)
+-Gene Expression Regulation, Bacterial
+-Membrane Proteins (-genetics; -physiology)
+-Membrane Transport Proteins (+genetics; -physiology)
+-Models, Genetic
+-Mutation
+-Promoter Regions, Genetic (-genetics)
+-Regulon (-genetics)
+-Repressor Proteins (-genetics; -physiology)
+-Trans-Activators (+genetics; -physiology)
+-Transcription Factors (-genetics; -physiology)
+-Transcription, Genetic (+genetics; -physiology)
+
+pii:JB.00507-09
+doi:10.1128/JB.00507-09
+pubmed:19502391
+pmc:PMC2725600
+

@@ -1,0 +1,37 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Activation of PI3K/Akt and MAPK pathways regulates Myc-mediated transcription by phosphorylating and promoting the degradation of Mad1.
+
+J Zhu, J Blenis, J Yuan
+
+Mad1, a member of the Myc/Max/Mad family, suppresses Myc-mediated transcriptional activity by competing with Myc for heterodimerization with its obligatory partner, Max. The expression of Mad1 suppresses Myc-mediated cell proliferation and transformation. The levels of Mad1 protein are generally low in many human cancers, and Mad1 protein has a very short half-life. However, the mechanism that regulates the turnover of Mad1 protein is poorly understood. In this study, we showed that Mad1 is a substrate of p90 ribosomal kinase (RSK) and p70 S6 kinase (S6K). Both RSK and S6K phosphorylate serine 145 of Mad1 upon serum or insulin stimulation. Ser-145 phosphorylation of Mad1 accelerates the ubiquitination and degradation of Mad1 through the 26S proteasome pathway, which in turn promotes the transcriptional activity of Myc. Our study provides a direct link between the growth factor signaling pathways regulated by PI3 kinase/Akt and MAP kinases with Myc-mediated transcription.
+
+-1-Phosphatidylinositol 3-Kinase (+metabolism)
+-Amino Acid Sequence
+-Amino Acid Substitution
+-Cell Cycle Proteins (-chemistry; +metabolism)
+-Cell Line, Tumor
+-Cell Proliferation (-drug effects)
+-Enzyme Activation (-drug effects)
+-Humans
+-Insulin (-pharmacology)
+-Mitogens (-pharmacology)
+-Molecular Sequence Data
+-Nuclear Proteins (-chemistry; +metabolism)
+-Phosphorylation (-drug effects)
+-Phosphoserine (-metabolism)
++Protein Processing, Post-Translational (-drug effects)
+-Proto-Oncogene Proteins c-akt (+metabolism)
+-Proto-Oncogene Proteins c-myc (+metabolism)
+-Ribosomal Protein S6 Kinases (-metabolism)
+-Ribosomal Protein S6 Kinases, 90-kDa (-metabolism)
+-Serum
+-Substrate Specificity (-drug effects)
+-Thermodynamics
++Transcription, Genetic (-drug effects)
+
+pii:0802785105
+doi:10.1073/pnas.0802785105
+pubmed:18451027
+pmc:PMC2373325
+

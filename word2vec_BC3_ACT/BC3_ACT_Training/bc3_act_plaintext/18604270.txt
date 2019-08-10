@@ -1,0 +1,35 @@
+PLoS Pathog.
+
+Vaccinia virus E3 protein prevents the antiviral action of ISG15.
+
+S Guerra, A Cáceres, KP Knobeloch, I Horak, M Esteban
+
+The ubiquitin-like modifier ISG15 is one of the most predominant proteins induced by type I interferons (IFN). In this study, murine embryo fibroblast (MEFs) and mice lacking the gene were used to demonstrate a novel role of ISG15 as a host defense molecule against vaccinia virus (VACV) infection. In MEFs, the growth of replication competent Western Reserve (WR) VACV strain was affected by the absence of ISG15, but in addition, virus lacking E3 protein (VVDeltaE3L) that is unable to grow in ISG15+/+ cells replicated in ISG15-deficient cells. Inhibiting ISG15 with siRNA or promoting its expression in ISG15-/- cells with a lentivirus vector showed that VACV replication was controlled by ISG15. Immunoprecipitation analysis revealed that E3 binds ISG15 through its C-terminal domain. The VACV antiviral action of ISG15 and its interaction with E3 are events independent of PKR (double-stranded RNA-dependent protein kinase). In mice lacking ISG15, infection with VVDeltaE3L caused significant disease and mortality, an effect not observed in VVDeltaE3L-infected ISG15+/+ mice. Pathogenesis in ISG15-deficient mice infected with VVDeltaE3L or with an E3L deletion mutant virus lacking the C-terminal domain triggered an enhanced inflammatory response in the lungs compared with ISG15+/+-infected mice. These findings showed an anti-VACV function of ISG15, with the virus E3 protein suppressing the action of the ISG15 antiviral factor.
+
+-Animals
+-Cell Survival
+-Cercopithecus aethiops
+-Cricetinae
+-Cytokines (+metabolism)
+-Disease Susceptibility
+-Fibroblasts (-metabolism; -virology)
+-Gene Silencing
+-Hela Cells (-metabolism; -virology)
+-Humans
+-Mice
+-Mice, Inbred C57BL
+-Mice, Knockout
+-Mutation
+-RNA, Small Interfering (-genetics)
+-RNA-Binding Proteins (+physiology)
+-Transfection
+-Ubiquitins (-metabolism)
+-Up-Regulation
+-Vaccinia virus (+physiology)
+-Viral Proteins (+physiology)
+-Virus Replication (+physiology)
+
+doi:10.1371/journal.ppat.1000096
+pubmed:18604270
+pmc:PMC2434199
+

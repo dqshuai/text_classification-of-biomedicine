@@ -1,0 +1,27 @@
+PLoS ONE
+
+BDNF activates mTOR to regulate GluR1 expression required for memory formation.
+
+L Slipczuk, P Bekinschtein, C Katche, M Cammarota, I Izquierdo, JH Medina
+
+BACKGROUND: The mammalian target of Rapamycin (mTOR) kinase plays a key role in translational control of a subset of mRNAs through regulation of its initiation step. In neurons, mTOR is present at the synaptic region, where it modulates the activity-dependent expression of locally-translated proteins independently of mRNA synthesis. Indeed, mTOR is necessary for different forms of synaptic plasticity and long-term memory (LTM) formation. However, little is known about the time course of mTOR activation and the extracellular signals governing this process or the identity of the proteins whose translation is regulated by this kinase, during mnemonic processing. METHODOLOGY/PRINCIPAL FINDINGS: Here we show that consolidation of inhibitory avoidance (IA) LTM entails mTOR activation in the dorsal hippocampus at the moment of and 3 h after training and is associated with a rapid and rapamycin-sensitive increase in AMPA receptor GluR1 subunit expression, which was also blocked by intra-hippocampal delivery of GluR1 antisense oligonucleotides (ASO). In addition, we found that pre- or post-training administration of function-blocking anti-BDNF antibodies into dorsal CA1 hampered IA LTM retention, abolished the learning-induced biphasic activation of mTOR and its readout, p70S6K and blocked GluR1 expression, indicating that BDNF is an upstream factor controlling mTOR signaling during fear-memory consolidation. Interestingly, BDNF ASO hindered LTM retention only when given into dorsal CA1 1 h after but not 2 h before training, suggesting that BDNF controls the biphasic requirement of mTOR during LTM consolidation through different mechanisms: an early one involving BDNF already available at the moment of training, and a late one, happening around 3 h post-training that needs de novo synthesis of this neurotrophin. CONCLUSIONS/SIGNIFICANCE: IN CONCLUSION, OUR FINDINGS DEMONSTRATE THAT: 1) mTOR-mediated mRNA translation is required for memory consolidation during at least two restricted time windows; 2) this kinase acts downstream BDNF in the hippocampus and; 3) it controls the increase of synaptic GluR1 necessary for memory consolidation.
+
+-Animals
+-Brain-Derived Neurotrophic Factor (+metabolism)
+-Hippocampus (-metabolism)
+-Male
++Memory
+-Models, Biological
+-Neuronal Plasticity
+-Protein Kinases (+metabolism)
+-RNA, Messenger (-metabolism)
+-Rats
+-Rats, Wistar
+-Receptors, AMPA (+metabolism)
+-Synapses (-pathology)
+-Time Factors
+
+doi:10.1371/journal.pone.0006007
+pubmed:19547753
+pmc:PMC2695538
+

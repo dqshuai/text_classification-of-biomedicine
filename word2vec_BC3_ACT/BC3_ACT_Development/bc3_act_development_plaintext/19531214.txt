@@ -1,0 +1,23 @@
+BMC Mol. Biol.
+
+Validation of housekeeping genes for quantitative real-time PCR in in-vivo and in-vitro models of cerebral ischaemia.
+
+C Gubern, O Hurtado, R Rodríguez, JR Morales, VG Romera, MA Moro, I Lizasoain, J Serena, J Mallolas
+
+BACKGROUND: Studies of gene expression in experimental cerebral ischaemia models can contribute to understanding the pathophysiology of brain ischaemia and to identifying prognostic markers and potential therapeutic targets. The normalization of relative qRT-PCR data using a suitable reference gene is a crucial prerequisite for obtaining reliable conclusions. No validated housekeeping genes have been reported for the relative quantification of the mRNA expression profile activated in in-vitro ischaemic conditions, whereas for the in-vivo model different reference genes have been used. The present study aims to determine the expression stability of ten housekeeping genes (Gapdh, beta2m, Hprt, Ppia, Rpl13a, Oaz1, 18S rRNA, Gusb, Ywhaz and Sdha) to establish their suitability as control genes for in-vitro and in-vivo cerebral ischaemia models. RESULTS: The expression stability of the candidate reference genes was evaluated using the 2-Delta C'T method and ANOVA followed by Dunnett's test. For the in-vitro model using primary cultures of rat astrocytes, all genes analysed except for Rpl13a and Sdha were found to have significantly different levels of mRNA expression. These different levels were also found in the case of the in-vivo model of pMCAO in rats except for Hprt, Sdha and Ywhaz mRNA, where the expression did not vary. Sdha and Ywhaz were identified by geNorm and NormFinder as the two most stable genes. CONCLUSION: We have validated endogenous control genes for qRT-PCR analysis of gene expression in in-vitro and in-vivo cerebral ischaemia models. For normalization purposes, Rpl13a and Sdha are found to be the most suitable genes for the in-vitro model and Sdha and Ywhaz for the in-vivo model. Genes previously used as housekeeping genes for the in-vivo model in the literature were not validated as good control genes in the present study, showing the need for careful evaluation for each new experimental setup.
+
+-Animals
+-Astrocytes (-metabolism)
+-Brain Ischemia (+genetics)
+-Cells, Cultured
+-Disease Models, Animal
++Gene Expression
+-Humans
++Polymerase Chain Reaction
+-Rats
+
+pii:1471-2199-10-57
+doi:10.1186/1471-2199-10-57
+pubmed:19531214
+pmc:PMC2706836
+

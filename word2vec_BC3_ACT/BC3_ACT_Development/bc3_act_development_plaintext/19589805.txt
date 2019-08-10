@@ -1,0 +1,21 @@
+Nucleic Acids Res.
+
+Detection of genomic islands via segmental genome heterogeneity.
+
+AJ Arvey, RK Azad, A Raval, JG Lawrence
+
+While the recognition of genomic islands can be a powerful mechanism for identifying genes that distinguish related bacteria, few methods have been developed to identify them specifically. Rather, identification of islands often begins with cataloging individual genes likely to have been recently introduced into the genome; regions with many putative alien genes are then examined for other features suggestive of recent acquisition of a large genomic region. When few phylogenetic relatives are available, the identification of alien genes relies on their atypical features relative to the bulk of the genes in the genome. The weakness of these 'bottom-up' approaches lies in the difficulty in identifying robustly those genes which are atypical, or phylogenetically restricted, due to recent foreign ancestry. Herein, we apply an alternative 'top-down' approach where bacterial genomes are recursively divided into progressively smaller regions, each with uniform composition. In this way, large chromosomal regions with atypical features are identified with high confidence due to the simultaneous analysis of multiple genes. This approach is based on a generalized divergence measure to quantify the compositional difference between segments in a hypothesis-testing framework. We tested the proposed genome island prediction algorithm on both artificial chimeric genomes and genuine bacterial genomes.
+
++Algorithms
+-Genes, Bacterial
+-Genetic Heterogeneity
++Genome, Bacterial
++Genomic Islands
+-Genomics (+methods)
+-Salmonella typhi (-genetics)
+
+pii:gkp576
+doi:10.1093/nar/gkp576
+pubmed:19589805
+pmc:PMC2760805
+

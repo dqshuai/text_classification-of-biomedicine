@@ -1,0 +1,24 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+DNA-triggered innate immune responses are propagated by gap junction communication.
+
+SJ Patel, KR King, M Casali, ML Yarmush
+
+Cells respond to infection by sensing pathogens and communicating danger signals to noninfected neighbors; however, little is known about this complex spatiotemporal process. Here we show that activation of the innate immune system by double-stranded DNA (dsDNA) triggers intercellular communication through a gap junction-dependent signaling pathway, recruiting colonies of cells to collectively secrete antiviral and inflammatory cytokines for the propagation of danger signals across the tissue at large. By using live-cell imaging of a stable IRF3-sensitive GFP reporter, we demonstrate that dsDNA sensing leads to multicellular colonies of IRF3-activated cells that express the majority of secreted cytokines, including IFNbeta and TNFalpha. Inhibiting gap junctions decreases dsDNA-induced IRF3 activation, cytokine production, and the resulting tissue-wide antiviral state, indicating that this immune response propagation pathway lies upstream of the paracrine action of secreted cytokines and may represent a host-derived mechanism for evading viral antiinterferon strategies.
+
+-Animals
++Cell Communication
+-Cells, Cultured
+-DNA (+pharmacology)
+-Gap Junctions (+physiology)
+-Humans
++Immunity, Innate
+-Inflammation (-etiology)
+-Interferon Regulatory Factor-3 (-physiology)
+-Mice
+
+pii:0809292106
+doi:10.1073/pnas.0809292106
+pubmed:19617563
+pmc:PMC2722330
+

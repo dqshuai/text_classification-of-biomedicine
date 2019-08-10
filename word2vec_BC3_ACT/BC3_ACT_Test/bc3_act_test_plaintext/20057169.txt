@@ -1,0 +1,21 @@
+Genes Genet. Syst.
+
+A new simple method to introduce marker-free deletions in the Bacillus subtilis genome.
+
+T Morimoto, K Ara, K Ozaki, N Ogasawara
+
+A genetic tool to introduce marker-free deletions is essential for multiple manipulations of genomes. We report a simple and efficient method to create marker-free deletion mutants of Bacillus subtilis through transformation with recombinant PCR products, using the Escherichia coli mazF gene encoding an endoribonuclease that cleaves free mRNAs as a counter-selection tool. Our method will be applicable to any bacterium in which introduction of the mazF cassette into the genome by double crossover homologous recombination is possible.
+
+-Bacillus subtilis (+genetics)
+-DNA-Binding Proteins (-genetics)
+-Endoribonucleases (-genetics)
+-Escherichia coli (-genetics)
+-Escherichia coli Proteins (-genetics)
++Gene Deletion
+-Genetic Markers (-genetics)
+-Genome, Bacterial (+genetics)
++Recombination, Genetic
+
+pii:JST.JSTAGE/ggs/84.315
+pubmed:20057169
+

@@ -1,0 +1,25 @@
+PLoS ONE
+
+Tolerance induction to cytoplasmic beta-galactosidase by hepatic AAV gene transfer: implications for antigen presentation and immunotoxicity.
+
+AT Martino, S Nayak, BE Hoffman, M Cooper, G Liao, DM Markusic, BJ Byrne, C Terhorst, RW Herzog
+
+BACKGROUND: Hepatic gene transfer, in particular using adeno-associated viral (AAV) vectors, has been shown to induce immune tolerance to several protein antigens. This approach has been exploited in animal models of inherited protein deficiency for systemic delivery of therapeutic proteins. Adequate levels of transgene expression in hepatocytes induce a suppressive T cell response, thereby promoting immune tolerance. This study addresses the question of whether AAV gene transfer can induce tolerance to a cytoplasmic protein. MAJOR FINDINGS: AAV-2 vector-mediated hepatic gene transfer for expression of cytoplasmic beta-galactosidase (beta-gal) was performed in immune competent mice, followed by a secondary beta-gal gene transfer with E1/E3-deleted adenoviral Ad-LacZ vector to provoke a severe immunotoxic response. Transgene expression from the AAV-2 vector in approximately 2% of hepatocytes almost completely protected from inflammatory T cell responses against beta-gal, eliminated antibody formation, and significantly reduced adenovirus-induced hepatotoxicity. Consequently, approximately 10% of hepatocytes continued to express beta-gal 45 days after secondary Ad-LacZ gene transfer, a time point when control mice had lost all Ad-LacZ derived expression. Suppression of inflammatory T cell infiltration in the liver and liver damage was linked to specific transgene expression and was not seen for secondary gene transfer with Ad-GFP. A combination of adoptive transfer studies and flow cytometric analyses demonstrated induction of Treg that actively suppressed CD8(+) T cell responses to beta-gal and that was amplified in liver and spleen upon secondary Ad-LacZ gene transfer. CONCLUSIONS: These data demonstrate that tolerance induction by hepatic AAV gene transfer does not require systemic delivery of the transgene product and that expression of a cytoplasmic neo-antigen in few hepatocytes can induce Treg and provide long-term suppression of inflammatory responses and immunotoxicity.
+
+-Animals
+-Cytoplasm (+enzymology)
+-Dependovirus (+genetics)
++Gene Transfer Techniques
++Genetic Vectors
+-Immune Tolerance (+genetics)
+-Liver (-enzymology; +metabolism)
+-Mice
+-Mice, Inbred BALB C
+-Mice, Inbred C57BL
+-Transduction, Genetic
+-beta-Galactosidase (-genetics; +immunology)
+
+doi:10.1371/journal.pone.0006376
+pubmed:19652717
+pmc:PMC2715858
+

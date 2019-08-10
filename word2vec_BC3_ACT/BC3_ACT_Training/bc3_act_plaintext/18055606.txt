@@ -1,0 +1,31 @@
+Plant Cell
+
+PRR3 Is a vascular regulator of TOC1 stability in the Arabidopsis circadian clock.
+
+A Para, EM Farré, T Imaizumi, JL Pruneda-Paz, FG Harmon, SA Kay
+
+The pseudoresponse regulators (PRRs) participate in the progression of the circadian clock in Arabidopsis thaliana. The founding member of the family, TIMING OF CAB EXPRESSION1 (TOC1), is an essential component of the transcriptional network that constitutes the core mechanism of the circadian oscillator. Recent data suggest a role in circadian regulation for all five members of the PRR family; however, the molecular function of TOC1 or any other PRRs remains unknown. In this work, we present evidence for the involvement of PRR3 in the regulation of TOC1 protein stability. PRR3 was temporally coexpressed with TOC1 under different photoperiods, yet its tissue expression was only partially overlapping with that of TOC1, as PRR3 appeared restricted to the vasculature. Decreased expression of PRR3 resulted in reduced levels of TOC1 protein, while overexpression of PRR3 caused an increase in the levels of TOC1, all without affecting the amount of TOC1 transcript. PRR3 was able to bind to TOC1 in yeast and in plants and to perturb TOC1 interaction with ZEITLUPE (ZTL), which targets TOC1 for proteasome-dependent degradation. Together, our results indicate that PRR3 might function to modulate TOC1 stability by hindering ZTL-dependent TOC1 degradation, suggesting the existence of local regulators of clock activity and adding to the growing importance of posttranslational regulation in the design of circadian timing mechanisms in plants.
+
+-Arabidopsis (-cytology; -genetics; +physiology)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Biological Clocks (+physiology)
+-Circadian Rhythm (+physiology)
+-Gene Expression Regulation, Plant
+-Genes, Reporter
+-Mutation (-genetics)
+-Phenotype
+-Photoperiod
+-Plant Leaves (-cytology; -genetics; +metabolism)
+-Plants, Genetically Modified
+-Protein Binding
+-RNA Interference
+-Saccharomyces cerevisiae (-metabolism)
+-Thermodynamics
+-Transcription Factors (-genetics; +metabolism)
+-Transcription, Genetic
+
+pii:tpc.107.054775
+doi:10.1105/tpc.107.054775
+pubmed:18055606
+pmc:PMC2174887
+

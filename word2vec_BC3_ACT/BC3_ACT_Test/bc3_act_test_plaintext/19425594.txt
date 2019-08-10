@@ -1,0 +1,24 @@
+Biochemistry
+
+Altered enthalpy-entropy compensation in picomolar transition state analogues of human purine nucleoside phosphorylase.
+
+AA Edwards, JM Mason, K Clinch, PC Tyler, GB Evans, VL Schramm
+
+Human purine nucleoside phosphorylase (PNP) belongs to the trimeric class of PNPs and is essential for catabolism of deoxyguanosine. Genetic deficiency of PNP in humans causes a specific T-cell immune deficiency, and transition state analogue inhibitors of PNP are in development for treatment of T-cell cancers and autoimmune disorders. Four generations of Immucillins have been developed, each of which contains inhibitors binding with picomolar affinity to human PNP. Full inhibition of PNP occurs upon binding to the first of three subunits, and binding to subsequent sites occurs with negative cooperativity. In contrast, substrate analogue and product bind without cooperativity. Titrations of human PNP using isothermal calorimetry indicate that binding of a structurally rigid first-generation Immucillin (K(d) = 56 pM) is driven by large negative enthalpy values (DeltaH = -21.2 kcal/mol) with a substantial entropic (-TDeltaS) penalty. The tightest-binding inhibitors (K(d) = 5-9 pM) have increased conformational flexibility. Despite their conformational freedom in solution, flexible inhibitors bind with high affinity because of reduced entropic penalties. Entropic penalties are proposed to arise from conformational freezing of the PNP.inhibitor complex with the entropy term dominated by protein dynamics. The conformationally flexible Immucillins reduce the system entropic penalty. Disrupting the ribosyl 5'-hydroxyl interaction of transition state analogues with PNP causes favorable entropy of binding. Tight binding of the 17 Immucillins is characterized by large enthalpic contributions, emphasizing their similarity to the transition state. Via introduction of flexibility into the inhibitor structure, the enthalpy-entropy compensation pattern is altered to permit tighter binding.
+
+-Binding Sites
+-Catalytic Domain
++Entropy
+-Humans
+-Hypoxanthine (-chemistry; -metabolism)
+-Inosine (-analogs & derivatives; -chemistry; -metabolism)
+-Ligands
+-Purine-Nucleoside Phosphorylase (+chemistry; -metabolism)
+-Pyrrolidines (-chemistry; -metabolism)
+-Substrate Specificity
+
+doi:10.1021/bi9005896
+pubmed:19425594
+mid:NIHMS117757
+pmc:PMC2711852
+

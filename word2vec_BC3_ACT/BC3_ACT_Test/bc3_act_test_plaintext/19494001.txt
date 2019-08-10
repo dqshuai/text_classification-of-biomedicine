@@ -1,0 +1,23 @@
+J. Virol.
+
+A complicated message: Identification of a novel PB1-related protein translated from influenza A virus segment 2 mRNA.
+
+HM Wise, A Foeglein, J Sun, RM Dalton, S Patel, W Howard, EC Anderson, WS Barclay, P Digard
+
+Influenza A virus segment 2 is known to encode two polypeptides in overlapping open reading frames: PB1, the polymerase, and PB1-F2, a proapoptotic virulence factor. We show that a third major polypeptide is synthesized from PB1 mRNA via differential AUG codon usage. PB1 codon 40 directs translation of an N-terminally truncated version of the polypeptide (N40) that lacks transcriptase function but nevertheless interacts with PB2 and the polymerase complex in the cellular environment. Importantly, the expression of N40, PB1-F2, and PB1 are interdependent, and certain mutations previously used to ablate PB1-F2 production affected N40 accumulation. Removal of the PB1-F2 AUG upregulated N40 synthesis, while truncating PB1-F2 after codon 8 (with a concomitant M40I change in PB1) abolished N40 expression. A virus lacking both N40 and PB1-F2 replicated normally. However, viruses that did not express N40 but retained an intact PB1-F2 gene overexpressed PB1 early in infection and replicated slowly in tissue culture. Thus, the influenza A virus proteome includes a 12th primary translation product that (similarly to PB1-F2) is nonessential for virus viability but whose loss, in particular genetic backgrounds, is detrimental to virus replication.
+
+-Humans
+-Influenza A virus (-genetics; +physiology)
+-Peptide Fragments (+genetics; -metabolism)
+-Peptides (-genetics; -metabolism)
++Protein Biosynthesis
+-RNA, Messenger (+genetics; -metabolism)
+-RNA, Viral (+genetics; -metabolism)
+-Viral Proteins (+genetics; -metabolism)
+-Virus Replication
+
+pii:JVI.00826-09
+doi:10.1128/JVI.00826-09
+pubmed:19494001
+pmc:PMC2715786
+

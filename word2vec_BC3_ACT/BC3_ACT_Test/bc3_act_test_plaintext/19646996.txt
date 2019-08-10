@@ -1,0 +1,25 @@
+J. Mol. Biol.
+
+Catalytic mechanism of retaining alpha-galactosidase belonging to glycoside hydrolase family 97.
+
+M Okuyama, M Kitamura, H Hondoh, MS Kang, H Mori, A Kimura, I Tanaka, M Yao
+
+Glycoside hydrolase family 97 (GH 97) is a unique glycoside family that contains inverting and retaining glycosidases. Of these, BtGH97a (SusB) and BtGH97b (UniProtKB/TrEMBL entry Q8A6L0), derived from Bacteroides thetaiotaomicron, have been characterized as an inverting alpha-glucoside hydrolase and a retaining alpha-galactosidase, respectively. Previous studies on the three-dimensional structures of BtGH97a and site-directed mutagenesis indicated that Glu532 acts as an acid catalyst and that Glu439 and Glu508 function as the catalytic base in the inverting mechanism. However, BtGH97b lacks base catalysts but possesses a putative catalytic nucleophilic residue, Asp415. Here, we report that Asp415 in BtGH97b is the nucleophilic catalyst based on the results of crystal structure analysis and site-directed mutagenesis study. Structural comparison between BtGH97b and BtGH97a indicated that OD1 of Asp415 in BtGH97b is located at a position spatially identical with the catalytic water molecule of BtGH97a, which attacks on the anomeric carbon from the beta-face (i.e., Asp415 is poised for nucleophilic attack on the anomeric carbon). Site-directed mutagenesis of Asp415 leads to inactivation of the enzyme, and the activity is rescued by an external nucleophilic azide ion. That is, Asp415 functions as a nucleophilic catalyst. The multiple amino acid sequence alignment of GH 97 members indicated that almost half of the GH 97 enzymes possess base catalyst residues at the end of beta-strands 3 and 5, while the other half of the family show a conserved nucleophilic residue at the end of beta-strand 4. The different positions of functional groups on the beta-face of the substrate, which seem to be due to "hopping of the functional group" during evolution, have led to divergence of catalytic mechanism within the same family.
+
+-Amino Acid Sequence
+-Bacteroides (+enzymology)
+-Biocatalysis
+-Catalytic Domain
+-Conserved Sequence
+-Crystallography, X-Ray
+-Glycoside Hydrolases (+chemistry; -genetics; +metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Protein Structure, Tertiary
+-alpha-Galactosidase (+chemistry; -genetics; +metabolism)
+
+pii:S0022-2836(09)00935-8
+doi:10.1016/j.jmb.2009.07.068
+pubmed:19646996
+

@@ -1,0 +1,22 @@
+J. Bacteriol.
+
+Steric gate variants of UmuC confer UV hypersensitivity on Escherichia coli.
+
+BW Shurtleff, JN Ollivierre, M Tehrani, GC Walker, PJ Beuning
+
+Y family DNA polymerases are specialized for replication of damaged DNA and represent a major contribution to cellular resistance to DNA lesions. Although the Y family polymerase active sites have fewer contacts with their DNA substrates than replicative DNA polymerases, Y family polymerases appear to exhibit specificity for certain lesions. Thus, mutation of the steric gate residue of Escherichia coli DinB resulted in the specific loss of lesion bypass activity. We constructed variants of E. coli UmuC with mutations of the steric gate residue Y11 and of residue F10 and determined that strains harboring these variants are hypersensitive to UV light. Moreover, these UmuC variants are dominant negative with respect to sensitivity to UV light. The UV hypersensitivity and the dominant negative phenotype are partially suppressed by additional mutations in the known motifs in UmuC responsible for binding to the beta processivity clamp, suggesting that the UmuC steric gate variant exerts its effects via access to the replication fork. Strains expressing the UmuC Y11A variant also exhibit decreased UV mutagenesis. Strikingly, disruption of the dnaQ gene encoding the replicative DNA polymerase proofreading subunit suppressed the dominant negative phenotype of a UmuC steric gate variant. This could be due to a recruitment function of the proofreading subunit or involvement of the proofreading subunit in a futile cycle of base insertion/excision with the UmuC steric gate variant.
+
+-DNA Polymerase III (-genetics; -physiology)
+-DNA-Directed DNA Polymerase (-genetics; +physiology)
+-Escherichia coli (-genetics; +radiation effects)
+-Escherichia coli Proteins (-genetics; +physiology)
+-Mutagenesis, Site-Directed
+-Mutation
+-Structure-Activity Relationship
++Ultraviolet Rays
+
+pii:JB.01742-08
+doi:10.1128/JB.01742-08
+pubmed:19482923
+pmc:PMC2715726
+

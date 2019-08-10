@@ -1,0 +1,32 @@
+Genetics
+
+A molecular mechanism of temperature sensitivity for mutations affecting the Drosophila muscle regulator Myocyte enhancer factor-2.
+
+TL Lovato, MM Adams, PW Baker, RM Cripps
+
+Temperature-sensitive (TS) mutations are a useful tool for elucidating gene function where a gene of interest is essential at multiple stages of development. However, the molecular mechanisms behind TS alleles vary. TS mutations of the myogenic regulator Myocyte enhancer factor-2 (MEF2) in Drosophila arise in the heteroallelic combination Mef2(30-5)/Mef2(44-5). We show that the 30-5 mutation affects the N-terminal MADS domain, causing impaired DNA binding ability and failure of homozygous mutants to survive to adulthood. The 44-5 mutation deletes a downstream splice acceptor site and results in a truncated protein that is unable to activate MEF2 targets. 44-5 homozygotes consequently show severely impaired myogenesis and die as embryos. We propose that in heteroallelic mutants at the permissive temperature, 30-5/44-5 heterodimers form and have a sufficiently stable interaction with DNA to activate myogenic gene expression; at the restrictive temperature, 44-5 homodimers displace 30-5/44-5 heterodimers from target genes, thus acting in a dominant-negative manner. To test this, we show that 30-5/44-5 heterodimers can form, and we study additional Mef2 alleles for complementation with the 30-5 allele. An allele affecting the DNA binding domain fails to complement 30-5, whereas two alleles affecting downstream residues show temperature-dependent complementation. Thus, by combining one MEF2 isoform having weakened DNA binding ability with a second truncated MEF2 mutant that has lost its activation ability, a TS form of intragenic complementation can be generated. These findings will provide new insight and guidance into the functions of dimeric proteins and how they might be engineered to generate TS combinations.
+
+-Alleles
+-Animals
+-Cells, Cultured
+-DNA (-metabolism)
+-Dimerization
+-Drosophila melanogaster (-embryology; +genetics; -metabolism)
+-Embryo, Nonmammalian
+-Gene Expression Regulation, Developmental (-genetics)
+-Models, Biological
+-Muscles (+embryology; -metabolism)
+-Mutation (+physiology)
+-Myogenic Regulatory Factors (-chemistry; +genetics; -metabolism; -physiology)
+-Phenotype
+-Protein Binding
+-Protein Isoforms (-chemistry; -metabolism; -physiology)
+-Protein Stability
+-Protein Structure, Tertiary (-genetics)
++Temperature
+
+pii:genetics.109.105056
+doi:10.1534/genetics.109.105056
+pubmed:19564485
+pmc:PMC2746136
+

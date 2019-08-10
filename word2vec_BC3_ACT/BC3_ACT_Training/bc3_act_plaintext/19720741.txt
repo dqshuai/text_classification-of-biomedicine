@@ -1,0 +1,30 @@
+Mol. Cell. Biol.
+
+Overlapping functions of nuclear envelope proteins NET25 (Lem2) and emerin in regulation of extracellular signal-regulated kinase signaling in myoblast differentiation.
+
+MD Huber, T Guan, L Gerace
+
+Mutations in certain nuclear envelope (NE) proteins cause muscular dystrophies and other disorders, but the disease mechanisms remain unclear. The nuclear envelope transmembrane protein NET25 (Lem2) is a truncated paralog of MAN1, an NE component linked to bone disorders. NET25 and MAN1 share an approximately 40-residue LEM homology domain with emerin, the protein mutated in X-linked Emery-Dreifuss muscular dystrophy. However, roles for NET25 and MAN1 in myogenesis have not yet been described. Using RNA interference in C2C12 myoblasts, we show for the first time that both NET25 and MAN1 are required for myogenic differentiation. NET25 depletion causes hyperactivation of extracellular signal-regulated kinase 1/2 at the onset of differentiation, and pharmacological inhibition of this transient overactivation rescues myogenesis. In contrast, pharmacological inhibition of both mitogen-activated protein kinase and transforming growth factor beta signaling is required to rescue differentiation after MAN1 depletion. Ectopic expression of silencing-resistant NET25 rescues myogenesis after depletion of emerin but not after MAN1 silencing. Thus, NET25 and emerin have at least partially overlapping functions during myogenic differentiation, which are distinct from those of MAN1. Our work supports the hypothesis that deregulation of cell signaling contributes to NE-linked disorders and suggests that mutations in NET25 and MAN1 may cause muscle diseases.
+
+-Animals
+-Cell Cycle (-drug effects)
++Cell Differentiation (-drug effects)
+-Cells, Cultured
+-DNA-Binding Proteins (-metabolism)
+-Epidermal Growth Factor (-pharmacology)
+-Extracellular Signal-Regulated MAP Kinases (+metabolism)
+-Genetic Complementation Test
+-Humans
+-MAP Kinase Signaling System (-drug effects)
+-Membrane Proteins (-chemistry; -deficiency; +metabolism)
+-Mice
+-Muscle Development (-drug effects)
+-Myoblasts (+cytology; -drug effects; +enzymology)
+-Nuclear Envelope (-drug effects; +metabolism)
+-Nuclear Proteins (-chemistry; -deficiency; +metabolism)
+
+pii:MCB.00270-09
+doi:10.1128/MCB.00270-09
+pubmed:19720741
+pmc:PMC2772735
+

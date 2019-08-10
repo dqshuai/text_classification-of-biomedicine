@@ -1,0 +1,22 @@
+DNA Repair (Amst.)
+
+A tale of two tails: activation of DNA damage checkpoint kinase Mec1/ATR by the 9-1-1 clamp and by Dpb11/TopBP1.
+
+VM Navadgi-Patil, PM Burgers
+
+The DNA damage and replication checkpoint kinase Mec1/ATR is a member of the PI3-kinase related kinases that function in response to various genotoxic stresses. The checkpoint clamp 9-1-1 (Rad9-Rad1-Hus1 in S. pombe and mammals; Ddc1-Rad17-Mec3 in S. cerevisiae) executes two distinct checkpoint functions. In S. cerevisiae, DNA-bound 9-1-1 directly activates Mec1 kinase activity, a function that has not been demonstrated in other organisms. A second, conserved activity of 9-1-1 is that of TopBP1/Cut5/Dpb11 recruitment to stalled replication sites; subsequent activation of Mec1/ATR is carried out by TopBP1/Cut5/Dpb11. Biochemical studies indicate that the mode of Mec1/ATR activation by S. cerevisiae 9-1-1 is analogous to activation by S. cerevisiae Dpb11 or by vertebrate TopBP1: activation is mediated by the intrinsically disordered C-terminal tail of each activator. The relative contributions made by multiple activators of Mec1/ATR are discussed.
+
+-Cell Cycle Proteins (+metabolism)
++DNA Damage
+-Enzyme Activation
+-Intracellular Signaling Peptides and Proteins (+metabolism)
+-Protein-Serine-Threonine Kinases (+metabolism)
+-Saccharomyces cerevisiae (+enzymology)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+
+pii:S1568-7864(09)00099-8
+doi:10.1016/j.dnarep.2009.03.011
+pubmed:19464966
+mid:NIHMS114293
+pmc:PMC2725207
+

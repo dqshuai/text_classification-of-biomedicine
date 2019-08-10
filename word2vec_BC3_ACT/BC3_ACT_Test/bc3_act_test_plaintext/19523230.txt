@@ -1,0 +1,21 @@
+BMC Genomics
+
+Gene expression profiling in peanut using high density oligonucleotide microarrays.
+
+P Payton, KR Kottapalli, D Rowland, W Faircloth, B Guo, M Burow, N Puppala, M Gallo
+
+BACKGROUND: Transcriptome expression analysis in peanut to date has been limited to a relatively small set of genes and only recently has a significant number of ESTs been released into the public domain. Utilization of these ESTs for oligonucleotide microarrays provides a means to investigate large-scale transcript responses to a variety of developmental and environmental signals, ultimately improving our understanding of plant biology. RESULTS: We have developed a high-density oligonucleotide microarray for peanut using 49,205 publicly available ESTs and tested the utility of this array for expression profiling in a variety of peanut tissues. To identify putatively tissue-specific genes and demonstrate the utility of this array for expression profiling in a variety of peanut tissues, we compared transcript levels in pod, peg, leaf, stem, and root tissues. Results from this experiment showed 108 putatively pod-specific/abundant genes, as well as transcripts whose expression was low or undetected in pod compared to peg, leaf, stem, or root. The transcripts significantly over-represented in pod include genes responsible for seed storage proteins and desiccation (e.g., late-embryogenesis abundant proteins, aquaporins, legumin B), oil production, and cellular defense. Additionally, almost half of the pod-abundant genes represent unknown genes allowing for the possibility of associating putative function to these previously uncharacterized genes. CONCLUSION: The peanut oligonucleotide array represents the majority of publicly available peanut ESTs and can be used as a tool for expression profiling studies in diverse tissues.
+
+-Arachis hypogaea (+genetics)
++Expressed Sequence Tags
+-Gene Expression Profiling (+methods)
+-Genes, Plant
+-Genome, Plant
+-Oligonucleotide Array Sequence Analysis (+methods)
+-RNA, Plant (-genetics)
+
+pii:1471-2164-10-265
+doi:10.1186/1471-2164-10-265
+pubmed:19523230
+pmc:PMC2703657
+

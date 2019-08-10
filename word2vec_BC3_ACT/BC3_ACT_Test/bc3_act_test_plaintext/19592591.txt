@@ -1,0 +1,24 @@
+J. Bacteriol.
+
+GidA posttranscriptionally regulates rhl quorum sensing in Pseudomonas aeruginosa.
+
+R Gupta, TR Gobble, M Schuster
+
+The opportunistic pathogen Pseudomonas aeruginosa utilizes two interconnected acyl-homoserine lactone quorum-sensing (acyl-HSL QS) systems, LasRI and RhlRI, to regulate the expression of hundreds of genes. The QS circuitry itself is integrated into a complex network of regulation by other factors. However, our understanding of this network is still unlikely to be complete, as a comprehensive, saturating approach to identifying regulatory components has never been attempted. Here, we utilized a nonredundant P. aeruginosa PA14 transposon library to identify additional genes that regulate QS at the level of LasRI/RhlRI. We initially screened all 5,459 mutants for loss of function in one QS-controlled trait (skim milk proteolysis) and then rescreened attenuated candidates for defects in other QS phenotypes (LasA protease, rhamnolipid, and pyocyanin production) to exclude mutants defective in functions other than QS. We identified several known and novel genes, but only two novel genes, gidA and pcnB, affected all of the traits assayed. We characterized gidA, which exhibited the most striking QS phenotypes, further. This gene is predicted to encode a conserved flavin adenine dinucleotide-binding protein involved in tRNA modification. Inactivation of the gene primarily affected rhlR-dependent QS phenotypes such as LasA, pyocyanin, and rhamnolipid production. GidA affected RhlR protein but not transcript levels and also had no impact on LasR and acyl-HSL production. Overexpression of rhlR in a gidA mutant partially restored QS-dependent phenotypes. Taken together, these results indicate that GidA selectively controls QS gene expression posttranscriptionally via RhlR-dependent and -independent pathways.
+
+-Acyl-Butyrolactones
+-Bacterial Proteins (-genetics; +metabolism)
+-Culture Media
+-DNA Transposable Elements
+-Gene Deletion
++Gene Expression Regulation, Bacterial
+-Gene Library
+-Mutation
+-Pseudomonas aeruginosa (-genetics; -growth & development; -metabolism)
++Quorum Sensing
+
+pii:JB.00335-09
+doi:10.1128/JB.00335-09
+pubmed:19592591
+pmc:PMC2737955
+

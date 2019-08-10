@@ -1,0 +1,23 @@
+EMBO J.
+
+In vivo analysis of cohesin architecture using FRET in the budding yeast Saccharomyces cerevisiae.
+
+J Mc Intyre, EG Muller, S Weitzer, BE Snydsman, TN Davis, F Uhlmann
+
+Cohesion between sister chromatids in eukaryotes is mediated by the evolutionarily conserved cohesin complex. Cohesin forms a proteinaceous ring, large enough to trap pairs of replicated sister chromatids. The circumference consists of the Smc1 and Smc3 subunits, while Scc1 is thought to close the ring by bridging the Smc (structural maintenance of chromosomes) ATPase head domains. Little is known about two additional subunits, Scc3 and Pds5, and about possible conformational changes of the complex during the cell cycle. We have employed fluorescence resonance energy transfer (FRET) to analyse interactions within the cohesin complex in live budding yeast. These experiments reveal an unexpected geometry of Scc1 at the Smc heads, and suggest that Pds5 plays a role at the Smc hinge on the opposite side of the ring. Key subunit interactions, including close proximity of the two ATPase heads, are constitutive throughout the cell cycle. This depicts cohesin as a stable molecular machine undergoing only transient conformational changes during binding and dissociation from chromosomes. Using FRET, we did not observe interactions between more than one cohesin complex in vivo.
+
+-Cell Cycle Proteins (+chemistry; -genetics; +metabolism)
+-Chromosomal Proteins, Non-Histone (+chemistry; -genetics; +metabolism)
+-Fluorescence Resonance Energy Transfer
+-Nuclear Proteins (+chemistry; -genetics; +metabolism)
++Protein Structure, Tertiary
+-Protein Subunits (-chemistry; -genetics; -metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Saccharomyces cerevisiae (-genetics; +metabolism)
+-Saccharomyces cerevisiae Proteins (+chemistry; -genetics; +metabolism)
+
+pii:7601793
+doi:10.1038/sj.emboj.7601793
+pubmed:17660750
+pmc:PMC1952217
+

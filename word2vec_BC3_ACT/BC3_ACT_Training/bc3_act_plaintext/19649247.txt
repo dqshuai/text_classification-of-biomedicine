@@ -1,0 +1,17 @@
+PLoS ONE
+
+The random nature of genome architecture: predicting open reading frame distributions.
+
+MW McCoy, AP Allen, JF Gillooly
+
+BACKGROUND: A better understanding of the size and abundance of open reading frames (ORFS) in whole genomes may shed light on the factors that control genome complexity. Here we examine the statistical distributions of open reading frames (i.e. distribution of start and stop codons) in the fully sequenced genomes of 297 prokaryotes, and 14 eukaryotes. METHODOLOGY/PRINCIPAL FINDINGS: By fitting mixture models to data from whole genome sequences we show that the size-frequency distributions for ORFS are strikingly similar across prokaryotic and eukaryotic genomes. Moreover, we show that i) a large fraction (60-80%) of ORF size-frequency distributions can be predicted a priori with a stochastic assembly model based on GC content, and that (ii) size-frequency distributions of the remaining "non-random" ORFs are well-fitted by log-normal or gamma distributions, and similar to the size distributions of annotated proteins. CONCLUSIONS/SIGNIFICANCE: Our findings suggest stochastic processes have played a primary role in the evolution of genome complexity, and that common processes govern the conservation and loss of functional genomics units in both prokaryotes and eukaryotes.
+
++Genome
+-Models, Genetic
++Open Reading Frames
+-Stochastic Processes
+
+doi:10.1371/journal.pone.0006456
+pubmed:19649247
+pmc:PMC2714469
+

@@ -1,0 +1,25 @@
+J. Bacteriol.
+
+An A257V mutation in the bacillus subtilis response regulator Spo0A prevents regulated expression of promoters with low-consensus binding sites.
+
+SD Seredick, BM Seredick, D Baker, GB Spiegelman
+
+In Bacillus species, the master regulator of sporulation is Spo0A. Spo0A functions by both activating and repressing transcription initiation from target promoters that contain 0A boxes, the binding sites for Spo0A. Several classes of spo0A mutants have been isolated, and the molecular basis for their phenotypes has been determined. However, the molecular basis of the Spo0A(A257V) substitution, representative of an unusual phenotypic class, is not understood. Spo0A(A257V) is unusual in that it abolishes sporulation; in vivo, it fails to activate transcription from key stage II promoters yet retains the ability to repress the abrB promoter. To determine how Spo0A(A257V) retains the ability to repress but not stimulate transcription, we performed a series of in vitro and in vivo assays. We found unexpectedly that the mutant protein both stimulated transcription from the spoIIG promoter and repressed transcription from the abrB promoter, albeit twofold less than the wild type. A DNA binding analysis of Spo0A(A257V) showed that the mutant protein was less able to tolerate alterations in the sequence and arrangement of its DNA binding sites than the wild-type protein. In addition, we found that Spo0A(A257V) could stimulate transcription of a mutant spoIIG promoter in vivo in which low-consensus binding sites were replaced by high-consensus binding sites. We conclude that Spo0A(A257V) is able to bind to and regulate the expression of only genes whose promoters contain high-consensus binding sites and that this effect is sufficient to explain the observed sporulation defect.
+
+-Amino Acid Substitution (-genetics)
+-Bacillus subtilis (+physiology)
+-Bacterial Proteins (-genetics; +metabolism)
+-Binding Sites
+-DNA, Bacterial (-metabolism)
++Gene Expression Regulation, Bacterial
+-Mutant Proteins (+metabolism)
++Mutation, Missense
++Promoter Regions, Genetic
+-Protein Binding
+-Transcription Factors (-genetics; +metabolism)
+
+pii:JB.00590-09
+doi:10.1128/JB.00590-09
+pubmed:19581368
+pmc:PMC2725607
+

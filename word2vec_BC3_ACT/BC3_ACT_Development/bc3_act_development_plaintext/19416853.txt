@@ -1,0 +1,28 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Identification of ARIA regulating endothelial apoptosis and angiogenesis by modulating proteasomal degradation of cIAP-1 and cIAP-2.
+
+K Ikeda, R Nakano, M Uraoka, Y Nakagawa, M Koide, A Katsume, K Minamino, E Yamada, H Yamada, T Quertermous, H Matsubara
+
+Endothelial apoptosis is a pivotal process for angiogenesis during embryogenesis as well as postnatal life. By using a retrovirus-mediated signal sequence trap method, we identified a previously undescribed gene, termed ARIA (apoptosis regulator through modulating IAP expression), which regulates endothelial apoptosis and angiogenesis. ARIA was expressed in blood vessels during mouse embryogenesis, as well as in endothelial cells both in vitro and in vivo. ARIA is a unique protein with no homology to previously reported conserved domain structures. Knockdown of ARIA in HUVECs by using small interfering RNA significantly reduced endothelial apoptosis without affecting either cell migration or proliferation. ARIA knockdown significantly increased inhibitor of apoptosis (cIAP)-1 and cIAP-2 protein expression, although their mRNA expression was not changed. Simultaneous knockdown of cIAP-1 and cIAP-2 abolished the antiapoptotic effect of ARIA knockdown. Using yeast 2-hybrid screening, we identified the interaction of ARIA with 20S proteasome subunit alpha-7. Thereafter, we found that cIAP-1 and cIAP-2 were degraded by proteasomes in endothelial cells under normal condition. Overexpression of ARIA significantly reduced cIAP-1 expression, and this reduction was abolished by proteasomal inhibition in BAECs. Also, knockdown of ARIA demonstrated an effect similar to proteasomal inhibition with respect to not only expression but also subcellular localization of cIAP-1 and cIAP-2. In vivo angiogenesis studied by Matrigel-plug assay, mouse ischemic retinopathy model, and tumor xenograft model was significantly enhanced by ARIA knockdown. Together, our data indicate that ARIA is a unique factor regulating endothelial apoptosis, as well as angiogenesis, presumably through modulating proteasomal degradation of cIAP-1 and cIAP-2 in endothelial cells.
+
+-Animals
++Apoptosis
+-Cells, Cultured
+-Endothelial Cells (+cytology)
+-Endothelium, Vascular (-cytology)
+-Humans
+-Inhibitor of Apoptosis Proteins (-analysis; -genetics; +metabolism)
+-Mice
+-Molecular Sequence Data
++Neovascularization, Pathologic
+-Nerve Tissue Proteins (-genetics; +physiology)
+-Proteasome Endopeptidase Complex (+metabolism)
+-RNA, Messenger (-analysis)
+-RNA, Small Interfering (-pharmacology)
+
+pii:0806780106
+doi:10.1073/pnas.0806780106
+pubmed:19416853
+pmc:PMC2676168
+

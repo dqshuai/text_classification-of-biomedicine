@@ -1,0 +1,21 @@
+Proteomics
+
+A proteomics study of barley powdery mildew haustoria.
+
+D Godfrey, Z Zhang, G Saalbach, H Thordal-Christensen
+
+A number of fungal and oomycete plant pathogens of major economic importance feed on their hosts by means of haustoria, which they place inside living plant cells. The underlying mechanisms are poorly understood, partly due to difficulty in preparing haustoria. We have therefore developed a procedure for isolating haustoria from the barley powdery mildew fungus (Blumeria graminis f.sp. hordei, Bgh). We subsequently aimed to understand the molecular mechanisms of haustoria through a study of their proteome. Extracted proteins were digested using trypsin, separated by LC, and analysed by MS/MS. Searches of a custom Bgh EST sequence database and the NCBI-NR fungal protein database, using the MS/MS data, identified 204 haustoria proteins. The majority of the proteins appear to have roles in protein metabolic pathways and biological energy production. Surprisingly, pyruvate decarboxylase (PDC), involved in alcoholic fermentation and commonly abundant in fungi and plants, was absent in our Bgh proteome data set. A sequence encoding this enzyme was also absent in our EST sequence database. Significantly, BLAST searches of the recently available Bgh genome sequence data also failed to identify a sequence encoding this enzyme, strongly indicating that Bgh does not have a gene for PDC.
+
+-Ascomycota (+chemistry; -isolation & purification; -metabolism)
+-Chromatography, Liquid
+-Fungal Proteins (+analysis)
+-Fungal Structures (-chemistry; -metabolism)
+-Hordeum (+microbiology)
+-Proteome (+analysis)
+-Proteomics (+methods)
+-Pyruvate Decarboxylase (-deficiency; -metabolism)
+-Tandem Mass Spectrometry
+
+doi:10.1002/pmic.200800645
+pubmed:19562796
+

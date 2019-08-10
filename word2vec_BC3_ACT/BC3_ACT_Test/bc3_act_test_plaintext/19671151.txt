@@ -1,0 +1,25 @@
+Retrovirology
+
+Mechanism of HIV-1 Tat RNA translation and its activation by the Tat protein.
+
+N Charnay, R Ivanyi-Nagy, R Soto-Rifo, T Ohlmann, M López-Lastra, JL Darlix
+
+BACKGROUND: The human immunodeficiency virus type 1 (HIV-1) Tat protein is a major viral transactivator required for HIV-1 replication. In the nucleus Tat greatly stimulates the synthesis of full-length transcripts from the HIV-1 promoter by causing efficient transcriptional elongation. Tat induces elongation by directly interacting with the bulge of the transactivation response (TAR) RNA, a hairpin-loop located at the 5'-end of all nascent viral transcripts, and by recruiting cellular transcriptional co-activators. In the cytoplasm, Tat is thought to act as a translational activator of HIV-1 mRNAs. Thus, Tat plays a central role in the regulation of HIV-1 gene expression both at the level of mRNA and protein synthesis. The requirement of Tat in these processes poses an essential question on how sufficient amounts of Tat can be made early on in HIV-1 infected cells to sustain its own synthesis. To address this issue we studied translation of the Tat mRNA in vitro and in human cells using recombinant monocistronic and dicistronic RNAs containing the 5' untranslated region (5'-UTR) of Tat RNA. RESULTS: This study shows that the Tat mRNA can be efficiently translated both in vitro and in cells. Furthermore, our data suggest that translation initiation from the Tat mRNA probably occurs by a internal ribosome entry site (IRES) mechanism. Finally, we show that Tat protein can strongly stimulate translation from its cognate mRNA in a TAR dependent fashion. CONCLUSION: These results indicate that Tat mRNA translation is efficient and benefits from a feedback stimulation by the Tat protein. This translational control mechanism would ensure that minute amounts of Tat mRNA are sufficient to generate enough Tat protein required to stimulate HIV-1 replication.
+
+-Artificial Gene Fusion
+-Cell Line
+-Gene Products, tat (+biosynthesis)
+-Genes, Reporter
+-HIV-1 (+physiology)
+-Humans
+-Luciferases (-biosynthesis; -genetics)
++Protein Biosynthesis
+-RNA, Viral (-genetics; +metabolism)
++Virus Replication
+-beta-Galactosidase (-biosynthesis; -genetics)
+
+pii:1742-4690-6-74
+doi:10.1186/1742-4690-6-74
+pubmed:19671151
+pmc:PMC2739156
+

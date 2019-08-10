@@ -1,0 +1,25 @@
+Nucleic Acids Res.
+
+HomozygosityMapper--an interactive approach to homozygosity mapping.
+
+D Seelow, M Schuelke, F Hildebrandt, P Nürnberg
+
+Homozygosity mapping is a common method for mapping recessive traits in consanguineous families. In most studies, applications for multipoint linkage analyses are applied to determine the genomic region linked to the disease. Unfortunately, these are neither suited for very large families nor for the inclusion of tens of thousands of SNPs. Even if less than 10,000 markers are employed, such an analysis may easily last hours if not days. Here we present a web-based approach to homozygosity mapping. Our application stores marker data in a database into which users can directly upload their own SNP genotype files. Within a few minutes, the database analyses the data, detects homozygous stretches and provides an intuitive graphical interface to the results. The homozygosity in affected individuals is visualized genome-wide with the ability to zoom into single chromosomes and user-defined chromosomal regions. The software also displays the underlying genotypes in all samples. It is integrated with our candidate gene search engine, GeneDistiller, so that users can interactively determine the most promising gene. They can at any point restrict access to their data or make it public, allowing HomozygosityMapper to be used as a data repository for homozygosity-mapping studies. HomozygosityMapper is available at http://www.homozygositymapper.org/.
+
++Chromosome Mapping
+-Computer Graphics
+-Genetic Heterogeneity
+-Genotype
++Homozygote
+-Internet
+-Linkage (Genetics)
+-Polymorphism, Single Nucleotide
+-Reproducibility of Results
++Software
+-User-Computer Interface
+
+pii:gkp369
+doi:10.1093/nar/gkp369
+pubmed:19465395
+pmc:PMC2703915
+

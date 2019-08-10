@@ -1,0 +1,21 @@
+Genome Biol.
+
+Metabolic-network-driven analysis of bacterial ecological strategies.
+
+S Freilich, A Kreimer, E Borenstein, N Yosef, R Sharan, U Gophna, E Ruppin
+
+BACKGROUND: The growth-rate of an organism is an important phenotypic trait, directly affecting its ability to survive in a given environment. Here we present the first large scale computational study of the association between ecological strategies and growth rate across 113 bacterial species, occupying a variety of metabolic habitats. Genomic data are used to reconstruct the species' metabolic networks and habitable metabolic environments. These reconstructions are then used to investigate the typical ecological strategies taken by organisms in terms of two basic species-specific measures: metabolic variability--the ability of a species to survive in a variety of different environments; and co-habitation score vector--the distribution of other species that co-inhabit each environment. RESULTS: We find that growth rate is significantly correlated with metabolic variability and the level of co-habitation (that is, competition) encountered by an organism. Most bacterial organisms adopt one of two main ecological strategies: a specialized niche with little co-habitation, associated with a typically slow rate of growth; or ecological diversity with intense co-habitation, associated with a typically fast rate of growth. CONCLUSIONS: The pattern observed suggests a universal principle where metabolic flexibility is associated with a need to grow fast, possibly in the face of competition. This new ability to produce a quantitative description of the growth rate-metabolism-community relationship lays a computational foundation for the study of a variety of aspects of the communal metabolic life.
+
+-Aerobiosis
+-Bacteria (-growth & development; +metabolism)
++Ecosystem
+-Genome, Bacterial (-genetics)
++Metabolic Networks and Pathways
+-Models, Biological
+-Time Factors
+
+pii:gb-2009-10-6-r61
+doi:10.1186/gb-2009-10-6-r61
+pubmed:19500338
+pmc:PMC2718495
+

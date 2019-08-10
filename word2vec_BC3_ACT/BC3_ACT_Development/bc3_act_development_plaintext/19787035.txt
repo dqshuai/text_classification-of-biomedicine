@@ -1,0 +1,23 @@
+PLoS Biol.
+
+Exploration of uncharted regions of the protein universe.
+
+L Jaroszewski, Z Li, SS Krishna, C Bakolitsa, J Wooley, AM Deacon, IA Wilson, A Godzik
+
+The genome projects have unearthed an enormous diversity of genes of unknown function that are still awaiting biological and biochemical characterization. These genes, as most others, can be grouped into families based on sequence similarity. The PFAM database currently contains over 2,200 such families, referred to as domains of unknown function (DUF). In a coordinated effort, the four large-scale centers of the NIH Protein Structure Initiative have determined the first three-dimensional structures for more than 250 of these DUF families. Analysis of the first 248 reveals that about two thirds of the DUF families likely represent very divergent branches of already known and well-characterized families, which allows hypotheses to be formulated about their biological function. The remainder can be formally categorized as new folds, although about one third of these show significant substructure similarity to previously characterized folds. These results infer that, despite the enormous increase in the number and the diversity of new genes being uncovered, the fold space of the proteins they encode is gradually becoming saturated. The previously unexplored sectors of the protein universe appear to be primarily shaped by extreme diversification of known protein families, which then enables organisms to evolve new functions and adapt to particular niches and habitats. Notwithstanding, these DUF families still constitute the richest source for discovery of the remaining protein folds and topologies.
+
+-Animals
+-Databases, Protein
+-Humans
+-Models, Molecular
+-Multigene Family
+-Protein Structure, Secondary
+-Protein Structure, Tertiary
+-Proteins (+chemistry)
+-Structural Homology, Protein
+-Time Factors
+
+doi:10.1371/journal.pbio.1000205
+pubmed:19787035
+pmc:PMC2744874
+

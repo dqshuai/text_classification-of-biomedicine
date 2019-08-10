@@ -1,0 +1,23 @@
+PLoS ONE
+
+Comparative analysis of gene regulation by the transcription factor PPARalpha between mouse and human.
+
+M Rakhshandehroo, G Hooiveld, M Müller, S Kersten
+
+BACKGROUND: Studies in mice have shown that PPARalpha is an important regulator of hepatic lipid metabolism and the acute phase response. However, little information is available on the role of PPARalpha in human liver. Here we set out to compare the function of PPARalpha in mouse and human hepatocytes via analysis of target gene regulation. METHODOLOGY/PRINCIPAL FINDINGS: Primary hepatocytes from 6 human and 6 mouse donors were treated with PPARalpha agonist Wy14643 and gene expression profiling was performed using Affymetrix GeneChips followed by a systems biology analysis. Baseline PPARalpha expression was similar in human and mouse hepatocytes. Depending on species and time of exposure, Wy14643 significantly induced the expression of 362-672 genes. Surprisingly minor overlap was observed between the Wy14643-regulated genes from mouse and human, although more substantial overlap was observed at the pathway level. Xenobiotics metabolism and apolipoprotein synthesis were specifically regulated by PPARalpha in human hepatocytes, whereas glycolysis-gluconeogenesis was regulated specifically in mouse hepatocytes. Most of the genes commonly regulated in mouse and human were involved in lipid metabolism and many represented known PPARalpha targets, including CPT1A, HMGCS2, FABP1, ACSL1, and ADFP. Several genes were identified that were specifically induced by PPARalpha in human (MBL2, ALAS1, CYP1A1, TSKU) or mouse (Fbp2, lgals4, Cd36, Ucp2, Pxmp4). Furthermore, several putative novel PPARalpha targets were identified that were commonly regulated in both species, including CREB3L3, KLF10, KLF11 and MAP3K8. CONCLUSIONS/SIGNIFICANCE: Our results suggest that PPARalpha activation has a major impact on gene regulation in human hepatocytes. Importantly, the role of PPARalpha as master regulator of hepatic lipid metabolism is generally well-conserved between mouse and human. Overall, however, PPARalpha regulates a mostly divergent set of genes in mouse and human hepatocytes.
+
+-Animals
+-Gene Expression Regulation (+physiology)
+-Hepatocytes (-drug effects; -metabolism)
+-Humans
+-Lipid Metabolism
+-Mice
+-PPAR alpha (-agonists; +physiology)
+-Peroxisome Proliferators (-pharmacology)
+-Pyrimidines (-pharmacology)
+-Species Specificity
+
+doi:10.1371/journal.pone.0006796
+pubmed:19710929
+pmc:PMC2729378
+

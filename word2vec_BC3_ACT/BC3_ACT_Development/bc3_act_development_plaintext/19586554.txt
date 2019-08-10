@@ -1,0 +1,29 @@
+BMC Cancer
+
+Downregulation of SFRP5 expression and its inverse correlation with those of MMP-7 and MT1-MMP in gastric cancer.
+
+C Zhao, X Bu, N Zhang, W Wang
+
+BACKGROUND: As negative regulators in Wnt signaling, Secreted Frizzled-Related Proteins (SFRPs) are downregulated in a series of human cancers; and specifically, some matrix metalloproteinases (MMPs), including MMP-2, MMP-7, MMP-9 and MT1-MMP, are frequently overexpressed in gastric cancer. The aim of this study is to determine the expression status of SFRP5 in gastric cancer and explore the correlation between both the expression of SFRP5 and that of these MMPs in this cancer. METHODS: Expression of SFRP5, MMP-2, MMP-7, MMP-9 and MT1-MMP was determined by real-time PCR, RT-PCR or Western blotting. The methylation status of SFRP5 was detected by Methylation-specific PCR (MSP). Cell lines with SFRP5 methylation were demethylated by a DNA methyltransferase inhibitor 5-Aza-2'-deoxycytidine (DAC). KatoIII cells were transfected with pcDNA3.1 SFRP5 vector to strengthen SFRP5 expression. To abrogate SFRP5 expression in MKN1 cells, SFRP5 RNAi plamid was used to transfect them. RESULTS: SFRP5 expression was remarkably downregulated in 24 of 32 primary gastric cancer specimens, and even was not detectable in 5 of 8 gastric cancer cell lines. MMP-7 and MT1-MMP mRNA showed a stronger expression in these 24 specimens compared to the other 8 specimens. They also showed higher levels in gastric cancer cell lines AGS and NCI-N87 which had no SFRP5 expression, compared to MKN1 with strong SFRP5 expression. However, they were significantly downregulated, with SFRP5 expression restored in AGS and NCI-N87; and were considerably upregulated with it abrogated in MKN1. CONCLUSION: The results indicate there are frequent occurrences of downregualtion of SFRP5 expression in gastric cancer, primarily due to SFRP5 methylation. It seems to be responsible for the upregulation of MMP-7 expression and MT1-MMP expression on the ground that they are inversely correlated with SFRP5 expression.
+
+-Cell Line, Tumor
++Down-Regulation
+-Eye Proteins (+biosynthesis)
++Gene Expression Regulation, Neoplastic
+-Gene Silencing
+-Humans
+-Matrix Metalloproteinase 14 (+biosynthesis)
+-Matrix Metalloproteinase 7 (+biosynthesis)
+-Membrane Proteins (+biosynthesis)
+-Neoplasm Proteins (-metabolism)
+-RNA Interference
+-Reverse Transcriptase Polymerase Chain Reaction
+-Signal Transduction
+-Stomach Neoplasms (+metabolism)
+-Tumor Markers, Biological (-metabolism)
+
+pii:1471-2407-9-224
+doi:10.1186/1471-2407-9-224
+pubmed:19586554
+pmc:PMC2714159
+

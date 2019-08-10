@@ -1,0 +1,33 @@
+Genetics
+
+Functional analysis of saxophone, the Drosophila gene encoding the BMP type I receptor ortholog of human ALK1/ACVRL1 and ACVR1/ALK2.
+
+V Twombly, E Bangi, V Le, B Malnic, MA Singer, KA Wharton
+
+In metazoans, bone morphogenetic proteins (BMPs) direct a myriad of developmental and adult homeostatic events through their heterotetrameric type I and type II receptor complexes. We examined 3 existing and 12 newly generated mutations in the Drosophila type I receptor gene, saxophone (sax), the ortholog of the human Activin Receptor-Like Kinase1 and -2 (ALK1/ACVRL1 and ALK2/ACVR1) genes. Our genetic analyses identified two distinct classes of sax alleles. The first class consists of homozygous viable gain-of-function (GOF) alleles that exhibit (1) synthetic lethality in combination with mutations in BMP pathway components, and (2) significant maternal effect lethality that can be rescued by an increased dosage of the BMP encoding gene, dpp+. In contrast, the second class consists of alleles that are recessive lethal and do not exhibit lethality in combination with mutations in other BMP pathway components. The alleles in this second class are clearly loss-of-function (LOF) with both complete and partial loss-of-function mutations represented. We find that one allele in the second class of recessive lethals exhibits dominant-negative behavior, albeit distinct from the GOF activity of the first class of viable alleles. On the basis of the fact that the first class of viable alleles can be reverted to lethality and on our ability to independently generate recessive lethal sax mutations, our analysis demonstrates that sax is an essential gene. Consistent with this conclusion, we find that a normal sax transcript is produced by saxP, a viable allele previously reported to be null, and that this allele can be reverted to lethality. Interestingly, we determine that two mutations in the first class of sax alleles show the same amino acid substitutions as mutations in the human receptors ALK1/ACVRl-1 and ACVR1/ALK2, responsible for cases of hereditary hemorrhagic telangiectasia type 2 (HHT2) and fibrodysplasia ossificans progressiva (FOP), respectively. Finally, the data presented here identify different functional requirements for the Sax receptor, support the proposal that Sax participates in a heteromeric receptor complex, and provide a mechanistic framework for future investigations into disease states that arise from defects in BMP/TGF-beta signaling.
+
+-Activin Receptors, Type I (-genetics; -physiology)
+-Activin Receptors, Type II (-genetics; -physiology)
+-Alleles
+-Amino Acid Substitution
+-Animals
+-Bone Morphogenetic Protein Receptors, Type I (-genetics; -physiology)
+-Crosses, Genetic
+-DNA Transposable Elements (-genetics)
+-Drosophila Proteins (+genetics; -metabolism; +physiology)
+-Drosophila melanogaster (-genetics; -physiology)
+-Female
+-Humans
+-Male
+-Mutagenesis, Insertional
+-Mutation
+-Receptors, Transforming Growth Factor beta (+genetics; +physiology)
+-Signal Transduction (-genetics; -physiology)
+-Transposases (-genetics; -metabolism)
+-Wing (-growth & development; -metabolism)
+
+pii:genetics.109.105585
+doi:10.1534/genetics.109.105585
+pubmed:19620392
+pmc:PMC2766317
+

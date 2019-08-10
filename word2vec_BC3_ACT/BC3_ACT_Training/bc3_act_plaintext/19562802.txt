@@ -1,0 +1,30 @@
+Proteomics
+
+Systems approach to explore components and interactions in the presynapse.
+
+NS Abul-Husn, I Bushlin, JA Morón, SL Jenkins, G Dolios, R Wang, R Iyengar, A Ma'ayan, LA Devi
+
+The application of proteomic techniques to neuroscientific research provides an opportunity for a greater understanding of nervous system structure and function. As increasing amounts of neuroproteomic data become available, it is necessary to formulate methods to integrate these data in a meaningful way to obtain a more comprehensive picture of neuronal subcompartments. Furthermore, computational methods can be used to make biologically relevant predictions from large proteomic data sets. Here, we applied an integrated proteomics and systems biology approach to characterize the presynaptic (PRE) nerve terminal. For this, we carried out proteomic analyses of presynaptically enriched fractions, and generated a PRE literature-based protein-protein interaction network. We combined these with other proteomic analyses to generate a core list of 117 PRE proteins, and used graph theory-inspired algorithms to predict 92 additional components and a PRE complex containing 17 proteins. Some of these predictions were validated experimentally, indicating that the computational analyses can identify novel proteins and complexes in a subcellular compartment. We conclude that the combination of techniques (proteomics, data integration, and computational analyses) used in this study are useful in obtaining a comprehensive understanding of functional components, especially low-abundance entities and/or interactions in the PRE nerve terminal.
+
+-Animals
+-Chromatography, High Pressure Liquid
+-Databases, Protein
+-Hippocampus (-chemistry)
+-Immunohistochemistry
+-Male
+-Mice
+-Mice, Inbred C57BL
+-Presynaptic Terminals (+metabolism)
+-Proteome (+metabolism)
+-Proteomics (+methods)
+-Rats
+-Rats, Sprague-Dawley
+-Reproducibility of Results
+-Signal Transduction
+-Tandem Mass Spectrometry
+
+doi:10.1002/pmic.200800767
+pubmed:19562802
+mid:NIHMS146830
+pmc:PMC2766278
+

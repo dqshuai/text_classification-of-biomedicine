@@ -1,0 +1,22 @@
+J. Bacteriol.
+
+The Mycoplasma genitalium MG_454 gene product resists killing by organic hydroperoxides.
+
+S Saikolappan, SJ Sasindran, HD Yu, JB Baseman, S Dhandayuthapani
+
+Mycoplasma genitalium is the smallest self-replicating organism and a successful human pathogen associated with a range of genitourinary maladies. As a consequence of its restricted genome size, genes that are highly conserved in other bacteria are absent in M. genitalium. Significantly, genes that encode antioxidants like superoxide dismutase and catalase-peroxidase are lacking. Nevertheless, comparative genomics has revealed that MG_454 of M. genitalium encodes a protein with putative function as an organic hydroperoxide reductase (Ohr). In this study, we found that an M. genitalium transposon mutant that lacks expression of MG_454 was sensitive to killing by t-butyl hydroperoxide and cumene hydroperoxide. To understand whether this sensitivity to hydroperoxides was linked to MG_454, we cloned this gene behind an arabinose-inducible PBAD promoter in plasmid pHERD20T and transformed this construct (pHERDMG454) into a Pseudomonas aeruginosa strain having deletion in its ohr gene (ohr mutant) and showing sensitivity to organic hydroperoxides. The P. aeruginosa ohr mutant harboring pHERDMG454, when induced with arabinose, was able to reverse its sensitivity to organic hydroperoxides, thus supporting the notion that the product of MG_454 resists organic hydroperoxides in M. genitalium. Surprisingly, real-time reverse transcription-PCR showed that expression of MG_454 in M. genitalium was not elevated in response to oxidative stress but was elevated in response to physical stresses, like salt (NaCl) and heat. Although failure of MG_454 to respond to oxidative stress in M. genitalium implies the absence of a known oxidative stress response regulator in the genome of M. genitalium, elevated expression of MG_454 due to physical stress suggests its control by an unidentified regulator.
+
+-Bacterial Proteins (-genetics; +metabolism)
+-Gene Expression Regulation, Bacterial (-physiology)
+-Genome, Bacterial
+-Mycoplasma genitalium (-drug effects; -genetics; +metabolism)
+-Oxidative Stress (-physiology)
+-Peroxidases (-genetics; +metabolism)
+-Peroxides (+pharmacology)
+-Reactive Oxygen Species
+
+pii:JB.01066-08
+doi:10.1128/JB.01066-08
+pubmed:19717589
+pmc:PMC2795314
+

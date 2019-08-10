@@ -1,0 +1,23 @@
+BMC Genet.
+
+Single-feature polymorphism discovery by computing probe affinity shape powers.
+
+WW Xu, S Cho, SS Yang, YT Bolon, H Bilgic, H Jia, Y Xiong, GJ Muehlbauer
+
+BACKGROUND: Single-feature polymorphism (SFP) discovery is a rapid and cost-effective approach to identify DNA polymorphisms. However, high false positive rates and/or low sensitivity are prevalent in previously described SFP detection methods. This work presents a new computing method for SFP discovery. RESULTS: The probe affinity differences and affinity shape powers formed by the neighboring probes in each probe set were computed into SFP weight scores. This method was validated by known sequence information and was comprehensively compared with previously-reported methods using the same datasets. A web application using this algorithm has been implemented for SFP detection. Using this method, we identified 364 SFPs in a barley near-isogenic line pair carrying either the wild type or the mutant uniculm2 (cul2) allele. Most of the SFP polymorphisms were identified on chromosome 6H in the vicinity of the Cul2 locus. CONCLUSION: This SFP discovery method exhibits better performance in specificity and sensitivity over previously-reported methods. It can be used for other organisms for which GeneChip technology is available. The web-based tool will facilitate SFP discovery. The 364 SFPs discovered in a barley near-isogenic line pair provide a set of genetic markers for fine mapping and future map-based cloning of the Cul2 locus.
+
+-Chromosome Mapping
+-Chromosomes, Plant (-genetics)
+-Computational Biology (+methods)
+-DNA Probes (-genetics)
+-DNA, Plant (-genetics)
+-Hordeum (-genetics)
++Polymorphism, Single Nucleotide
+-Sensitivity and Specificity
+-Sequence Analysis, DNA (+methods)
+
+pii:1471-2156-10-48
+doi:10.1186/1471-2156-10-48
+pubmed:19709416
+pmc:PMC2746803
+

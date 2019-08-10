@@ -1,0 +1,28 @@
+Mol. Biol. Cell
+
+Reduced ATR or Chk1 expression leads to chromosome instability and chemosensitization of mismatch repair-deficient colorectal cancer cells.
+
+MJ Jardim, Q Wang, R Furumai, T Wakeman, BK Goodman, XF Wang
+
+Genomic instability in colorectal cancer is categorized into two distinct classes: chromosome instability (CIN) and microsatellite instability (MSI). MSI is the result of mutations in the mismatch repair (MMR) machinery, whereas CIN is often thought to be associated with a disruption in the APC gene. Clinical data has recently shown the presence of heterozygous mutations in ATR and Chk1 in human cancers that exhibit MSI, suggesting that those mutations may contribute to tumorigenesis. To determine whether reduced activity in the DNA damage checkpoint pathway would cooperate with MMR deficiency to induce CIN, we used siRNA strategies to partially decrease the expression of ATR or Chk1 in MMR-deficient colorectal cancer cells. The resultant cancer cells display a typical CIN phenotype, as characterized by an increase in the number of chromosomal abnormalities. Importantly, restoration of MMR proficiency completely inhibited induction of the CIN phenotype, indicating that the combination of partial checkpoint blockage and MMR deficiency is necessary to trigger CIN. Moreover, disruption of ATR and Chk1 in MMR-deficient cells enhanced the sensitivity to treatment with the commonly used colorectal chemotherapeutic compound, 5-fluorouracil. These results provide a basis for the development of a combination therapy for those cancer patients.
+
+-Animals
+-Antimetabolites, Antineoplastic (-therapeutic use)
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Cell Line, Tumor
+-Centrosome (-metabolism)
++Chromosomal Instability
+-Colorectal Neoplasms (-drug therapy; +genetics)
+-DNA Breaks, Double-Stranded
++DNA Mismatch Repair
+-Fluorouracil (-therapeutic use)
+-Humans
+-Protein Kinases (-genetics; +metabolism)
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-RNA, Small Interfering (-genetics; -metabolism)
+
+pii:E09-04-0303
+doi:10.1091/mbc.E09-04-0303
+pubmed:19570909
+pmc:PMC2735479
+

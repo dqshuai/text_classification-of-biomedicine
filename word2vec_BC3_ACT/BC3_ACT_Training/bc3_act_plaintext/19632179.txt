@@ -1,0 +1,24 @@
+Cell
+
+CD47 is an adverse prognostic factor and therapeutic antibody target on human acute myeloid leukemia stem cells.
+
+R Majeti, MP Chao, AA Alizadeh, WW Pang, S Jaiswal, KD Gibbs, N van Rooijen, IL Weissman
+
+Acute myeloid leukemia (AML) is organized as a cellular hierarchy initiated and maintained by a subset of self-renewing leukemia stem cells (LSC). We hypothesized that increased CD47 expression on human AML LSC contributes to pathogenesis by inhibiting their phagocytosis through the interaction of CD47 with an inhibitory receptor on phagocytes. We found that CD47 was more highly expressed on AML LSC than their normal counterparts, and that increased CD47 expression predicted worse overall survival in three independent cohorts of adult AML patients. Furthermore, blocking monoclonal antibodies directed against CD47 preferentially enabled phagocytosis of AML LSC and inhibited their engraftment in vivo. Finally, treatment of human AML LSC-engrafted mice with anti-CD47 antibody depleted AML and targeted AML LSC. In summary, increased CD47 expression is an independent, poor prognostic factor that can be targeted on human AML stem cells with blocking monoclonal antibodies capable of enabling phagocytosis of LSC.
+
+-Animals
+-Antibodies, Monoclonal (-immunology; -therapeutic use)
+-Antigens, CD47 (+immunology; -metabolism)
+-Humans
+-Leukemia, Myeloid, Acute (+diagnosis; +immunology; -therapy)
+-Mice
++Phagocytosis
+-Prognosis
+-Receptors, Immunologic (-immunology; -metabolism)
+
+pii:S0092-8674(09)00650-3
+doi:10.1016/j.cell.2009.05.045
+pubmed:19632179
+mid:NIHMS122682
+pmc:PMC2726837
+

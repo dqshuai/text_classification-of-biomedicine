@@ -1,0 +1,22 @@
+J. Exp. Bot.
+
+Function of Arabidopsis hexokinase-like1 as a negative regulator of plant growth.
+
+A Karve, BD Moore
+
+A recent analysis of the hexokinase (HXK) gene family from Arabidopsis revealed that three hexokinase-like (HKL) proteins lack catalytic activity, but share about 50% identity with the primary glucose (glc) sensor/transducer protein AtHXK1. Since the AtHKL1 protein is predicted to bind glc, although with a relatively decreased affinity, a reverse genetics approach was used to test whether HKL1 might have a related regulatory function in plant growth. By comparing phenotypes of an HKL1 mutant (hkl1-1), an HXK1 mutant (gin2-1), and transgenic lines that overexpress HKL1 in either wild-type or gin2-1 genetic backgrounds, it is shown that HKL1 is a negative effector of plant growth. Interestingly, phenotypes of HKL1 overexpression lines are generally very similar to those of gin2-1. These are quantified, in part, as reduced seedling sensitivity to high glc concentrations and reduced seedling sensitivity to auxin-induced lateral root formation. However, commonly recognized targets of glc signalling are not apparently altered in any of the HKL1 mutant or transgenic lines. In fact, most, but not all, of the observed phenotypes associated with HKL1 overexpression occur independently of the presence of HXK1 protein. The data indicate that HKL1 mediates cross-talk between glc and other plant hormone response pathways. It is also considered Whether a possibly decreased glc binding affinity of HKL1 could possibly be a feedback mechanism to limit plant growth in the presence of excessive carbohydrate availability is further considered.
+
+-Arabidopsis (+enzymology; -genetics; +growth & development; -metabolism)
+-Arabidopsis Proteins (-genetics; +metabolism)
++Gene Expression Regulation, Plant
+-Glucose (-metabolism)
+-Hexokinase (-genetics; +metabolism)
+-Indoleacetic Acids (-metabolism)
+-Plant Roots (-enzymology; -genetics; -growth & development; -metabolism)
+-Signal Transduction
+
+pii:erp252
+doi:10.1093/jxb/erp252
+pubmed:19706780
+pmc:PMC2755033
+

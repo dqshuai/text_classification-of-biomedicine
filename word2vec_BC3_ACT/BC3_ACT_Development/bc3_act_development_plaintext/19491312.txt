@@ -1,0 +1,20 @@
+Nucleic Acids Res.
+
+G-SESAME: web tools for GO-term-based gene similarity analysis and knowledge discovery.
+
+Z Du, L Li, CF Chen, PS Yu, JZ Wang
+
+We have developed a set of online tools for measuring the semantic similarities of Gene Ontology (GO) terms and the functional similarities of gene products, and for further discovering biomedical knowledge from the GO database. The tools have been used for about 6.9 million times by 417 institutions from 43 countries since October 2006. The online tools are available at: http://bioinformatics.clemson.edu/G-SESAME.
+
+-Cluster Analysis
+-Databases, Genetic
++Genes
+-Internet
++Software
++Vocabulary, Controlled
+
+pii:gkp463
+doi:10.1093/nar/gkp463
+pubmed:19491312
+pmc:PMC2703883
+

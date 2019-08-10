@@ -1,0 +1,27 @@
+J. Virol.
+
+Probing the spatial organization of measles virus fusion complexes.
+
+T Paal, MA Brindley, C St Clair, A Prussia, D Gaus, SA Krumm, JP Snyder, RK Plemper
+
+The spatial organization of metastable paramyxovirus fusion (F) and attachment glycoprotein hetero-oligomers is largely unknown. To further elucidate the organization of functional fusion complexes of measles virus (MeV), an archetype of the paramyxovirus family, we subjected central predictions of alternative docking models to experimental testing using three distinct approaches. Carbohydrate shielding through engineered N-glycans indicates close proximity of a membrane-distal, but not membrane-proximal, section of the MeV attachment (H) protein stalk domain to F. Directed mutagenesis of this section identified residues 111, 114, and 118 as modulators of avidity of glycoprotein interactions and determinants of F triggering. Stalk-length variation through deletion or insertion of HR elements at positions flanking this section demonstrates that the location of the stalk segment containing these residues cannot be altered in functional fusion complexes. In contrast, increasing the distance between the H head domains harboring the receptor binding sites and this section through insertion of structurally rigid alpha-helical domains with a pitch of up to approximately 75 A downstream of stalk position 118 partially maintains functionality in transient expression assays and supports efficient growth of recombinant virions. In aggregate, these findings argue against specific protein-protein contacts between the H head and F head domains but instead support a docking model that is characterized by short-range contacts between the prefusion F head and the attachment protein stalk, possibly involving H residues 111, 114, and 118, and extension of the head domain of the attachment protein above prefusion F.
+
+-Animals
+-Cercopithecus aethiops
+-Chick Embryo
+-Cricetinae
+-Humans
+-Measles virus (+chemistry; -genetics; +metabolism; -physiology)
+-Models, Molecular
+-Mutagenesis, Site-Directed
+-Protein Binding
+-Recombinant Fusion Proteins (-chemistry; -genetics; -metabolism)
+-Vero Cells
++Viral Fusion Proteins (-chemistry; -genetics; -metabolism)
++Viral Proteins (-chemistry; -genetics; -metabolism)
+
+pii:JVI.01195-09
+doi:10.1128/JVI.01195-09
+pubmed:19656895
+pmc:PMC2753148
+

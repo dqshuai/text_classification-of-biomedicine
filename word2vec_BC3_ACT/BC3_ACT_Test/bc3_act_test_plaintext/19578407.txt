@@ -1,0 +1,23 @@
+PLoS Genet.
+
+The genomics of speciation in Drosophila: diversity, divergence, and introgression estimated using low-coverage genome sequencing.
+
+RJ Kulathinal, LS Stevison, MA Noor
+
+In nature, closely related species may hybridize while still retaining their distinctive identities. Chromosomal regions that experience reduced recombination in hybrids, such as within inversions, have been hypothesized to contribute to the maintenance of species integrity. Here, we examine genomic sequences from closely related fruit fly taxa of the Drosophila pseudoobscura subgroup to reconstruct their evolutionary histories and past patterns of genic exchange. Partial genomic assemblies were generated from two subspecies of Drosophila pseudoobscura (D. ps.) and an outgroup species, D. miranda. These new assemblies were compared to available assemblies of D. ps. pseudoobscura and D. persimilis, two species with overlapping ranges in western North America. Within inverted regions, nucleotide divergence among each pair of the three species is comparable, whereas divergence between D. ps. pseudoobscura and D. persimilis in non-inverted regions is much lower and closer to levels of intraspecific variation. Using molecular markers flanking each of the major chromosomal inversions, we identify strong crossover suppression in F(1) hybrids extending over 2 megabase pairs (Mbp) beyond the inversion breakpoints. These regions of crossover suppression also exhibit the high nucleotide divergence associated with inverted regions. Finally, by comparison to a geographically isolated subspecies, D. ps. bogotana, our results suggest that autosomal gene exchange between the North American species, D. ps. pseudoobscura and D. persimilis, occurred since the split of the subspecies, likely within the last 200,000 years. We conclude that chromosomal rearrangements have been vital to the ongoing persistence of these species despite recent hybridization. Our study serves as a proof-of-principle on how whole genome sequencing can be applied to formulate and test hypotheses about species formation in lesser-known non-model systems.
+
+-Animals
+-Chromosome Aberrations
+-Drosophila (-chemistry; +genetics)
++Evolution, Molecular
++Genetic Speciation
++Genetic Variation
++Genome, Insect
++Genomics
+-Models, Genetic
+-Sequence Analysis, DNA
+
+doi:10.1371/journal.pgen.1000550
+pubmed:19578407
+pmc:PMC2696600
+

@@ -1,0 +1,38 @@
+Invest. Ophthalmol. Vis. Sci.
+
+Clinical evaluation of the proper orthogonal decomposition framework for detecting glaucomatous changes in human subjects.
+
+M Balasubramanian, C Bowd, RN Weinreb, G Vizzeri, LM Alencar, PA Sample, N O'Leary, LM Zangwill
+
+PURPOSE: To evaluate the new proper orthogonal decomposition (POD) framework for detecting glaucomatous progression from HRT topographies of human subjects and compare it with HRT topographic change analysis (TCA). METHODS: Of 267 eyes of 187 participants with > or =4 retinal tomographic examinations in the University of California, San Diego Diagnostic Innovations in Glaucoma Study (DIGS), 21 eyes were of longitudinally normal subjects and 36 eyes progressed by stereophotographs or visual field-guided progression analysis (progressors). All others were considered nonprogressing (nonprogressors; n = 210 eyes). POD parameters of Euclidean distance (L(2) norm), image Euclidean distance, and correlation were computed, and their area under receiver operating characteristic curves (AUC) in differentiating progressors from nonprogressors and normal subjects were compared to the TCA parameters of the number of superpixels with significant decrease in retinal height (red pixels), size of the largest cluster of red pixels (CSIZE), and CSIZE% of disc size, all within the optic disc margin. RESULTS: AUCs of the best performing POD L(2) norm and TCA red pixel parameters in differentiating progressors from normal subjects were both 0.86 and in differentiating progressors from nonprogressors were 0.68 and 0.64, respectively; the AUC differences were not statistically significant. CONCLUSIONS: The POD framework, which can detect and confirm glaucomatous changes in a single follow-up visit, provides a performance similar to that of TCA in differentiating progressors from normal subjects and nonprogressors.
+
+-Adult
+-Aged
+-Aged, 80 and over
+-Algorithms
+-Area Under Curve
+-Disease Progression
+-Female
+-Glaucoma (+diagnosis)
+-Humans
+-Lasers (-diagnostic use)
+-Male
+-Middle Aged
+-Nerve Fibers (+pathology)
+-Ophthalmoscopy
+-Optic Disk (+pathology)
+-Optic Nerve Diseases (+diagnosis)
+-Perimetry
+-Reproducibility of Results
+-Retinal Ganglion Cells (+pathology)
+-Tomography
+-Vision Disorders
+-Visual Fields
+-Young Adult
+
+pii:iovs.08-2014
+doi:10.1167/iovs.08-2014
+pubmed:19661228
+mid:NIHMS181247
+pmc:PMC2848164
+

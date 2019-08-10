@@ -1,0 +1,35 @@
+Nat. Cell Biol.
+
+Reversible acetylation of the chromatin remodelling complex NoRC is required for non-coding RNA-dependent silencing.
+
+Y Zhou, KM Schmitz, C Mayer, X Yuan, A Akhtar, I Grummt
+
+The SNF2h (sucrose non-fermenting protein 2 homologue)-containing chromatin-remodelling complex NoRC silences a fraction of ribosomal RNA genes (rDNA) by establishing a heterochromatic structure at the rDNA promoter. Here we show that the acetyltransferase MOF (males absent on the first) acetylates TIP5, the largest subunit of NoRC, at a single lysine residue, K633, adjacent to the TIP5 RNA-binding domain, and that the NAD(+)-dependent deacetylase SIRT1 (sirtuin-1) removes the acetyl group from K633. Acetylation regulates the interaction of NoRC with promoter-associated RNA (pRNA), which in turn affects heterochromatin formation, nucleosome positioning and rDNA silencing. Significantly, NoRC acetylation is responsive to the intracellular energy status and fluctuates during S phase. Activation of SIRT1 on glucose deprivation leads to deacetylation of K633, enhanced pRNA binding and an increase in heterochromatic histone marks. These results suggest a mechanism that links the epigenetic state of rDNA to cell metabolism and reveal another layer of epigenetic control that involves post-translational modification of a chromatin remodelling complex.
+
+-Acetylation
+-Adenosine Triphosphatases (-genetics; +metabolism)
+-Animals
+-Blotting, Western
+-Cell Line
+-Cell Line, Tumor
++Chromatin Assembly and Disassembly
+-Chromatin Immunoprecipitation
+-Chromosomal Proteins, Non-Histone (-genetics; +metabolism)
+-Flow Cytometry
+-Hela Cells
+-Heterochromatin (-genetics)
+-Histone Acetyltransferases (-genetics; -metabolism)
+-Humans
+-Lysine (-metabolism)
+-Mice
+-NIH 3T3 Cells
++RNA Interference
+-RNA, Ribosomal (+genetics)
+-S Phase
+-Sirtuin 1
+-Sirtuins (-genetics; -metabolism)
+
+pii:ncb1914
+doi:10.1038/ncb1914
+pubmed:19578370
+

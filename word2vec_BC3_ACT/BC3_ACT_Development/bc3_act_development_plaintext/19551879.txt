@@ -1,0 +1,31 @@
+Protein Sci.
+
+Monomeric structure of the cardioprotective chemokine SDF-1/CXCL12.
+
+CT Veldkamp, JJ Ziarek, J Su, H Basnet, R Lennertz, JJ Weiner, FC Peterson, JE Baker, BF Volkman
+
+The chemokine stromal cell-derived factor-1 (SDF-1/CXCL12) directs leukocyte migration, stem cell homing, and cancer metastasis through activation of CXCR4, which is also a coreceptor for T-tropic HIV-1. Recently, SDF-1 was shown to play a protective role after myocardial infarction, and the protein is a candidate for development of new anti-ischemic compounds. SDF-1 is monomeric at nanomolar concentrations but binding partners promote self-association at higher concentrations to form a typical CXC chemokine homodimer. Two NMR structures have been reported for the SDF-1 monomer, but only one matches the conformation observed in a series of dimeric crystal structures. In the other model, the C-terminal helix is tilted at an angle incompatible with SDF-1 dimerization. Using a rat heart explant model for ischemia/reperfusion injury, we found that dimeric SDF-1 exerts no cardioprotective effect, suggesting that the active species is monomeric. To resolve the discrepancy between existing models, we solved the NMR structure of the SDF-1 monomer in different solution conditions. Irrespective of pH and buffer composition, the C-terminal helix remains tilted at an angle with no evidence for the perpendicular arrangement. Furthermore, we find that phospholipid bicelles promote dimerization that necessarily shifts the helix to the perpendicular orientation, yielding dipolar couplings that are incompatible with the NOE distance constraints. We conclude that interactions with the alignment medium biased the previous structure, masking flexibility in the helix position that may be essential for the distinct functional properties of the SDF-1 monomer.
+
+-Animals
+-Cardiotonic Agents (+chemistry; -metabolism; -pharmacology)
+-Chemokine CXCL12 (+chemistry; -metabolism; -pharmacology)
+-Dimyristoylphosphatidylcholine (-metabolism)
+-Disease Models, Animal
+-Heart (-drug effects)
+-Histidine (-chemistry)
+-Hydrogen-Ion Concentration
+-Micelles
+-Models, Molecular
+-Myocardial Infarction (-drug therapy)
+-Myocardial Reperfusion
+-Nuclear Magnetic Resonance, Biomolecular
+-Phosphates (-chemistry)
+-Phospholipid Ethers (-metabolism)
+-Protein Multimerization
+-Rats
+-Static Electricity
+
+doi:10.1002/pro.167
+pubmed:19551879
+pmc:PMC2775206
+

@@ -1,0 +1,38 @@
+J. Biol. Chem.
+
+Proteolytic cascade for the activation of the insect toll pathway induced by the fungal cell wall component.
+
+KB Roh, CH Kim, H Lee, HM Kwon, JW Park, JH Ryu, K Kurokawa, NC Ha, WJ Lee, B Lemaitre, K Söderhäll, BL Lee
+
+The insect Toll signaling pathway is activated upon recognition of Gram-positive bacteria and fungi, resulting in the expression of antimicrobial peptides via NF-kappaB-like transcription factor. This activation is mediated by a serine protease cascade leading to the processing of Spätzle, which generates the functional ligand of the Toll receptor. Recently, we identified three serine proteases mediating Toll pathway activation induced by lysine-type peptidoglycan of Gram-positive bacteria. However, the identities of the downstream serine protease components of Gram-negative-binding protein 3 (GNBP3), a receptor for a major cell wall component beta-1,3-glucan of fungi, and their order of activation have not been characterized yet. Here, we identified three serine proteases that are required for Toll activation by beta-1,3-glucan in the larvae of a large beetle, Tenebrio molitor. The first one is a modular serine protease functioning immediately downstream of GNBP3 that proteolytically activates the second one, a Spätzle-processing enzyme-activating enzyme that in turn activates the third serine protease, a Spätzle-processing enzyme. The active form of Spätzle-processing enzyme then cleaves Spätzle into the processed Spätzle as Toll ligand. In addition, we show that injection of beta-1,3-glucan into Tenebrio larvae induces production of two antimicrobial peptides, Tenecin 1 and Tenecin 2, which are also inducible by injection of the active form of Spätzle-processing enzyme-activating enzyme or processed Spätzle. These results demonstrate a three-step proteolytic cascade essential for the Toll pathway activation by fungal beta-1,3-glucan in Tenebrio larvae, which is shared with lysine-type peptidoglycan-induced Toll pathway activation.
+
+-Amidohydrolases (-metabolism)
+-Amino Acid Sequence
+-Animals
+-Anti-Infective Agents (-pharmacology)
+-Calcium (-pharmacology)
+-Cell Wall (-chemistry)
+-Enzyme Precursors (-genetics; -metabolism)
+-Escherichia coli (-drug effects; -growth & development)
+-Fungi (-chemistry)
+-Gene Expression (-drug effects)
+-Immunoblotting
+-Insect Proteins (-genetics; +metabolism; -pharmacology)
+-Larva (-drug effects; -genetics; -metabolism)
+-Models, Biological
+-Molecular Sequence Data
+-Protein Processing, Post-Translational
+-Reverse Transcriptase Polymerase Chain Reaction
+-Saccharomyces cerevisiae (-drug effects; -growth & development)
+-Sequence Homology, Amino Acid
+-Serine Endopeptidases (-genetics; +metabolism)
+-Signal Transduction (+drug effects)
+-Tenebrio (-drug effects; -genetics; -metabolism)
+-Toll-Like Receptors (+metabolism)
+-beta-Glucans (+pharmacology)
+
+pii:M109.007419
+doi:10.1074/jbc.M109.007419
+pubmed:19473968
+pmc:PMC2740573
+

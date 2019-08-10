@@ -1,0 +1,23 @@
+Nature
+
+Metatranscriptomics reveals unique microbial small RNAs in the ocean's water column.
+
+Y Shi, GW Tyson, EF DeLong
+
+Microbial gene expression in the environment has recently been assessed via pyrosequencing of total RNA extracted directly from natural microbial assemblages. Several such 'metatranscriptomic' studies have reported that many complementary DNA sequences shared no significant homology with known peptide sequences, and so might represent transcripts from uncharacterized proteins. Here we report that a large fraction of cDNA sequences detected in microbial metatranscriptomic data sets are comprised of well-known small RNAs (sRNAs), as well as new groups of previously unrecognized putative sRNAs (psRNAs). These psRNAs mapped specifically to intergenic regions of microbial genomes recovered from similar habitats, displayed characteristic conserved secondary structures and were frequently flanked by genes that indicated potential regulatory functions. Depth-dependent variation of psRNAs generally reflected known depth distributions of broad taxonomic groups, but fine-scale differences in the psRNAs within closely related populations indicated potential roles in niche adaptation. Genome-specific mapping of a subset of psRNAs derived from predominant planktonic species such as Pelagibacter revealed recently discovered as well as potentially new regulatory elements. Our analyses show that metatranscriptomic data sets can reveal new information about the diversity, taxonomic distribution and abundance of sRNAs in naturally occurring microbial communities, and indicate their involvement in environmentally relevant processes including carbon metabolism and nutrient acquisition.
+
+-Algorithms
+-DNA, Complementary (-genetics)
+-Ecosystem
++Gene Expression Profiling
+-Gene Expression Regulation, Bacterial (+genetics)
+-Oceans and Seas
+-Plankton (-genetics; -isolation & purification; -metabolism)
+-RNA, Bacterial (+analysis; +genetics; -isolation & purification)
+-Seawater (+microbiology)
+-Sequence Analysis
+
+pii:nature08055
+doi:10.1038/nature08055
+pubmed:19444216
+

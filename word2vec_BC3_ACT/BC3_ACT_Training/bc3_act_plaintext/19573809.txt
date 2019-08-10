@@ -1,0 +1,29 @@
+Cancer Cell
+
+AKT-independent signaling downstream of oncogenic PIK3CA mutations in human cancer.
+
+KM Vasudevan, DA Barbie, MA Davies, R Rabinovsky, CJ McNear, JJ Kim, BT Hennessy, H Tseng, P Pochanard, SY Kim, IF Dunn, AC Schinzel, P Sandy, S Hoersch, Q Sheng, PB Gupta, JS Boehm, JH Reiling, S Silver, Y Lu, K Stemke-Hale, B Dutta, C Joy, AA Sahin, AM Gonzalez-Angulo, A Lluch, LE Rameh, T Jacks, DE Root, ES Lander, GB Mills, WC Hahn, WR Sellers, LA Garraway
+
+Dysregulation of the phosphatidylinositol 3-kinase (PI3K) signaling pathway occurs frequently in human cancer. PTEN tumor suppressor or PIK3CA oncogene mutations both direct PI3K-dependent tumorigenesis largely through activation of the AKT/PKB kinase. However, here we show through phosphoprotein profiling and functional genomic studies that many PIK3CA mutant cancer cell lines and human breast tumors exhibit only minimal AKT activation and a diminished reliance on AKT for anchorage-independent growth. Instead, these cells retain robust PDK1 activation and membrane localization and exhibit dependency on the PDK1 substrate SGK3. SGK3 undergoes PI3K- and PDK1-dependent activation in PIK3CA mutant cancer cells. Thus, PI3K may promote cancer through both AKT-dependent and AKT-independent mechanisms. Knowledge of differential PI3K/PDK1 signaling could inform rational therapeutics in cancers harboring PIK3CA mutations.
+
+-1-Phosphatidylinositol 3-Kinase (+genetics; -metabolism)
+-Breast Neoplasms (-enzymology; +genetics; -metabolism; -physiopathology)
+-Cell Line, Tumor
+-Cell Survival (-genetics)
+-Enzyme Activation
+-Female
+-Gene Expression Profiling
+-Humans
++Mutation
+-Neoplasms (+genetics; -metabolism)
+-PTEN Phosphohydrolase (-deficiency; -genetics)
+-Protein-Serine-Threonine Kinases (-genetics; -metabolism)
+-Proto-Oncogene Proteins c-akt (-genetics; +physiology)
+-Signal Transduction (-genetics)
+
+pii:S1535-6108(09)00177-9
+doi:10.1016/j.ccr.2009.04.012
+pubmed:19573809
+mid:NIHMS130825
+pmc:PMC2752826
+

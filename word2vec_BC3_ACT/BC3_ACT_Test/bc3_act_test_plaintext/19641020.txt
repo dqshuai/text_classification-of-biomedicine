@@ -1,0 +1,35 @@
+Mol. Biol. Cell
+
+Heterogeneous nuclear ribonucleoprotein A2 is a common transcriptional coactivator in the nuclear transcription response to mitochondrial respiratory stress.
+
+M Guha, H Pan, JK Fang, NG Avadhani
+
+Mitochondrial dysfunction and altered transmembrane potential initiate a mitochondrial respiratory stress response, also known as mitochondrial retrograde response, in a wide spectrum of cells. The mitochondrial stress response activates calcineurin, which regulates transcription factors, including a new nuclear factor-kappaB (NF-kappaB) pathway, different from the canonical and noncanonical pathways. In this study using a combination of small interfering RNA-mediated mRNA knock down, transcriptional analysis, and chromatin immunoprecipitation, we report a common mechanism for the regulation of previously established stress response genes Cathepsin L, RyR1, and Glut4. Stress-regulated transcription involves the cooperative interplay between NF-kappaB (cRel: p50), C/EBPdelta, cAMP response element-binding protein, and nuclear factor of activated T cells. We show that the functional synergy of these factors requires the stress-activated heterogeneous nuclear ribonucleoprotein (hnRNP) A2 as a coactivator. HnRNP A2 associates with the enhanceosome, mostly through protein-protein interactions with DNA-bound factors. Silencing of hnRNP A2 as well as other DNA binding signature factors prevents stress-induced transcriptional activation and reverses the invasiveness of mitochondrial DNA-depleted C2C12 cells. Induction of mitochondrial stress signaling by electron transfer chain inhibitors also involved hnRNPA2 activation. We describe a common mechanism of mitochondrial respiratory stress-induced activation of nuclear target genes that involves hnRNP A2 as a transcription coactivator.
+
+-Animals
+-Cathepsin L (-genetics)
+-Cell Nucleus (+genetics)
+-Cell Respiration (-genetics)
+-Gene Silencing
+-Glucose Transporter Type 4 (-genetics)
+-Heterogeneous-Nuclear Ribonucleoprotein Group A-B (-chemistry; +metabolism)
+-Humans
+-Mice
+-Mitochondria (+genetics)
+-Models, Genetic
+-Promoter Regions, Genetic (-genetics)
+-Protein Binding
+-Protein Interaction Mapping
+-Protein Structure, Tertiary
+-Ryanodine Receptor Calcium Release Channel (-genetics)
+-Signal Transduction
+-Stress, Physiological (+genetics)
+-Trans-Activators (+metabolism)
++Transcription, Genetic
+-Transcriptional Activation (-genetics)
+
+pii:E09-04-0296
+doi:10.1091/mbc.E09-04-0296
+pubmed:19641020
+pmc:PMC2743628
+

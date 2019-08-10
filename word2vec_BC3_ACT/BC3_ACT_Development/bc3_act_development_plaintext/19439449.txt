@@ -1,0 +1,38 @@
+Mol. Biol. Cell
+
+PUMA promotes Bax translocation by both directly interacting with Bax and by competitive binding to Bcl-X L during UV-induced apoptosis.
+
+Y Zhang, D Xing, L Liu
+
+Cell apoptosis induced by UV irradiation is a highly complex process in which different molecular signaling pathways are involved. p53 up-regulated modulator of apoptosis (PUMA) has been proposed as an important regulator in UV irradiation-induced apoptosis. However, the molecular mechanism through which PUMA regulates apoptosis, especially how PUMA activates Bcl-2-associated X protein (Bax) in response to UV irradiation is still controversial. In this study, by using real-time single-cell analysis and fluorescence resonance energy transfer, we investigated the tripartite nexus among PUMA, Bax, and Bcl-X(L) in living human lung adenocarcinoma cells (ASTC-a-1) to illustrate how PUMA promotes Bax translocation to initiate apoptosis. Our results show that the interaction between PUMA and Bax increased gradually, with Bax translocating to mitochondria and colocalizing with PUMA after UV irradiation, indicating PUMA promotes Bax translocation directly. Simultaneously, the interaction increased markedly between PUMA and Bcl-X(L) and decreased significantly between Bcl-X(L) and Bax after UV treatment, suggesting PUMA competitively binds to Bcl-X(L) to activate Bax indirectly. The above-mentioned results were further confirmed by coimmunoprecipitation experiments. In addition, pifithrin-alpha (a p53 inhibitor) and cycloheximide (a protein synthesis inhibitor) could inhibit PUMA-mediated Bax translocation and cell apoptosis. Together, these studies create an important conclusion that PUMA promotes Bax translocation by both by directly interacting with Bax and by competitive binding to Bcl-X(L) in UV-induced apoptosis.
+
+-Apoptosis (+radiation effects)
+-Apoptosis Regulatory Proteins (-genetics; +metabolism)
+-Benzothiazoles (-pharmacology)
+-Binding, Competitive
+-Blotting, Western
+-Cell Line, Tumor
+-Cell Survival (-radiation effects)
+-Cycloheximide (-pharmacology)
+-Dose-Response Relationship, Radiation
+-Fluorescence Resonance Energy Transfer
+-Humans
+-Immunoprecipitation
+-Luminescent Proteins (-genetics; -metabolism)
+-Microscopy, Confocal
+-Protein Binding
+-Protein Transport (-drug effects)
+-Proto-Oncogene Proteins (-genetics; +metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Time Factors
+-Toluene (-analogs & derivatives; -pharmacology)
+-Transfection
++Ultraviolet Rays
+-bcl-2-Associated X Protein (-genetics; +metabolism)
+-bcl-X Protein (-genetics; +metabolism)
+
+pii:E08-11-1109
+doi:10.1091/mbc.E08-11-1109
+pubmed:19439449
+pmc:PMC2704159
+

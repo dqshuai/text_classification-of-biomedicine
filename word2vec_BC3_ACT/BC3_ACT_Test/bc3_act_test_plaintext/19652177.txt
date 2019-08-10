@@ -1,0 +1,26 @@
+Genetics
+
+In Saccharomyces cerevisiae, yKu and subtelomeric core X sequences repress homologous recombination near telomeres as part of the same pathway.
+
+ME Marvin, CD Griffin, DE Eyre, DB Barton, EJ Louis
+
+Unlike in meiosis where recombination near telomeres is repressed, subtelomeric regions appear to recombine with each other frequently in vegetative cells with no detrimental consequences. To test whether or not such recombination is prevented in the core of chromosomes for maintenance of genome stability, we measured allelic homologous recombination (HR) along chromosome arms and between different ectopic locations. We found that there is an increase of recombination at telomeres in wild-type cells compared with sequences at proximal subtelomeric and interstitial regions of the genome. We also screened for mutations that result in an increase in HR between a telomeric sequence and a more internal sequence, which normally exhibit very low rates of HR. YKU80 was hit most frequently in our screen, and we show that the yKu heterodimer specifically represses HR in the vicinity of telomeres. This repression of HR is not explained solely by the role of yKu in maintaining telomere length, silencing, or tethering to the nuclear periphery. Analysis of mutant strains harboring deleted core X sequences revealed a role for this subtelomeric element in preventing telomeric recombination. Furthermore, core X bestowed this protection as part of the same pathway as yKu. Our findings implicate a role for both yKu and core X in stabilizing the genome against recombination events involving telomeric sequences.
+
+-Chromosome Mapping
+-Chromosomes, Fungal (-genetics)
+-DNA, Fungal (+genetics)
+-DNA-Binding Proteins (-genetics)
+-Genome, Fungal (-genetics)
+-Genomic Instability
+-Mutation
+-Recombination, Genetic (+genetics)
+-Saccharomyces cerevisiae (+genetics)
+-Saccharomyces cerevisiae Proteins (-genetics)
+-Signal Transduction (-genetics)
+-Telomere (+genetics)
+
+pii:genetics.109.106674
+doi:10.1534/genetics.109.106674
+pubmed:19652177
+pmc:PMC2766308
+

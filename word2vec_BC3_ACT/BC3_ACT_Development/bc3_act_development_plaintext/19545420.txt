@@ -1,0 +1,24 @@
+BMC Genomics
+
+Improved resolution in the position of drought-related QTLs in a single mapping population of rice by meta-analysis.
+
+FS Khowaja, GJ Norton, B Courtois, AH Price
+
+BACKGROUND: Meta-analysis of QTLs combines the results of several QTL detection studies and provides narrow confidence intervals for meta-QTLs, permitting easier positional candidate gene identification. It is usually applied to multiple mapping populations, but can be applied to one. Here, a meta-analysis of drought related QTLs in the Bala x Azucena mapping population compiles data from 13 experiments and 25 independent screens providing 1,650 individual QTLs separated into 5 trait categories; drought avoidance, plant height, plant biomass, leaf morphology and root traits. A heat map of the overlapping 1 LOD confidence intervals provides an overview of the distribution of QTLs. The programme BioMercator is then used to conduct a formal meta-analysis at example QTL clusters to illustrate the value of meta-analysis of QTLs in this population. RESULTS: The heat map graphically illustrates the genetic complexity of drought related traits in rice. QTLs can be linked to their physical position on the rice genome using Additional file 1 provided. Formal meta-analysis on chromosome 1, where clusters of QTLs for all trait categories appear close, established that the sd1 semi-dwarfing gene coincided with a plant height meta-QTL, that the drought avoidance meta-QTL was not likely to be associated with this gene, and that this meta-QTL was not pleiotropic with close meta-QTLs for leaf morphology and root traits. On chromosome 5, evidence suggests that a drought avoidance meta-QTL was pleiotropic with leaf morphology and plant biomass meta-QTLs, but not with meta-QTLs for root traits and plant height 10 cM lower down. A region of dense root QTL activity graphically visible on chromosome 9 was dissected into three meta-QTLs within a space of 35 cM. The confidence intervals for meta-QTLs obtained ranged from 5.1 to 14.5 cM with an average of 9.4 cM, which is approximately 180 genes in rice. CONCLUSION: The meta-analysis is valuable in providing improved ability to dissect the complex genetic structure of traits, and distinguish between pleiotropy and close linkage. It also provides relatively small target regions for the identification of positional candidate genes.
+
+-Chromosome Mapping (+methods)
+-Chromosomes, Plant
++Droughts
+-Genes, Plant
+-Genome, Plant
+-Oryza sativa (+genetics)
+-Phenotype
+-Plant Roots (-genetics)
++Quantitative Trait Loci
+-Stress, Physiological
+
+pii:1471-2164-10-276
+doi:10.1186/1471-2164-10-276
+pubmed:19545420
+pmc:PMC2708188
+

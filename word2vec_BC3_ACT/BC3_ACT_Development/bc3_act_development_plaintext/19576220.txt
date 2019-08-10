@@ -1,0 +1,23 @@
+J. Mol. Biol.
+
+Structural reorganization of alpha-synuclein at low pH observed by NMR and REMD simulations.
+
+KP Wu, DS Weinstock, C Narayanan, RM Levy, J Baum
+
+alpha-Synuclein is an intrinsically disordered protein that appears in aggregated forms in the brains of patients with Parkinson's disease. The conversion from monomer to aggregate is complex, and aggregation rates are sensitive to changes in amino acid sequence and environmental conditions. It has previously been observed that alpha-synuclein aggregates faster at low pH than at neutral pH. Here, we combine NMR spectroscopy and molecular simulations to characterize alpha-synuclein conformational ensembles at both neutral and low pH in order to understand how the altered charge distribution at low pH changes the structural properties of these ensembles and leads to an increase in aggregation rate. The N-terminus, which has a small positive charge at neutral pH due to a balance of positively and negatively charged amino acid residues, is very positively charged at low pH. Conversely, the acidic C-terminus is highly negatively charged at neutral pH and becomes essentially neutral and hydrophobic at low pH. Our NMR experiments and replica exchange molecular dynamics simulations indicate that there is a significant structural reorganization within the low-pH ensemble relative to that at neutral pH in terms of long-range contacts, hydrodynamic radius, and the amount of heterogeneity within the conformational ensembles. At neutral pH, there is a very heterogeneous ensemble with transient contacts between the N-terminus and the non-amyloid beta component (NAC); however, at low pH, there is a more homogeneous ensemble that exhibits strong contacts between the NAC and the C-terminus. At both pH values, transient contacts between the N- and C-termini are observed, the NAC region shows similar exposure to solvent, and the entire protein shows similar propensities to secondary structure. Based on the comparison of the neutral- and low-pH conformational ensembles, we propose that exposure of the NAC region to solvent and the secondary-structure propensity are not factors that account for differences in propensity to aggregate in this context. Instead, the comparison of the neutral- and low-pH ensembles suggests that the change in long-range interactions between the low- and neutral-pH ensembles, the compaction of the C-terminal region at low pH, and the uneven distribution of charges across the sequence are key to faster aggregation.
+
++Computer Simulation
+-Humans
++Hydrogen-Ion Concentration
+-Models, Molecular
+-Molecular Sequence Data
++Nuclear Magnetic Resonance, Biomolecular
++Protein Conformation
+-alpha-Synuclein (+chemistry; -genetics; -metabolism)
+
+pii:S0022-2836(09)00795-5
+doi:10.1016/j.jmb.2009.06.063
+pubmed:19576220
+mid:NIHMS134338
+pmc:PMC2766395
+

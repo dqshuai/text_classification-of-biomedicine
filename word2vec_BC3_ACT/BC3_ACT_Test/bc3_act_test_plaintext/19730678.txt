@@ -1,0 +1,22 @@
+PLoS Genet.
+
+Regulation of Ubx expression by epigenetic enhancer silencing in response to Ubx levels and genetic variation.
+
+MA Crickmore, V Ranade, RS Mann
+
+For gene products that must be present in cells at defined concentrations, expression levels must be tightly controlled to ensure robustness against environmental, genetic, and developmental noise. By studying the regulation of the concentration-sensitive Drosophila melanogaster Hox gene Ultrabithorax (Ubx), we found that Ubx enhancer activities respond to both increases in Ubx levels and genetic background. Large, transient increases in Ubx levels are capable of silencing all enhancer input into Ubx transcription, resulting in the complete silencing of this gene. Small increases in Ubx levels, brought about by duplications of the Ubx locus, cause sporadic silencing of subsets of Ubx enhancers. Ubx enhancer silencing can also be induced by outcrossing laboratory stocks to D. melanogaster strains established from wild flies from around the world. These results suggest that enhancer activities are not rigidly determined, but instead are sensitive to genetic background. Together, these findings suggest that enhancer silencing may be used to maintain gene product levels within the correct range in response to natural genetic variation.
+
+-Animals
+-Drosophila Proteins (-genetics; +metabolism)
+-Drosophila melanogaster (+genetics; -metabolism)
++Enhancer Elements, Genetic
++Gene Expression Regulation
++Gene Silencing
++Genetic Variation
+-Homeodomain Proteins (-genetics; +metabolism)
+-Transcription Factors (-genetics; +metabolism)
+
+doi:10.1371/journal.pgen.1000633
+pubmed:19730678
+pmc:PMC2726431
+

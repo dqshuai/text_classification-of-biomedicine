@@ -1,0 +1,21 @@
+Genetics
+
+High-throughput multiplex sequencing to discover copy number variants in Drosophila.
+
+B Daines, H Wang, Y Li, Y Han, R Gibbs, R Chen
+
+Copy number variation (CNV) contributes in phenotypically relevant ways to the genetic variability of many organisms. Cost-effective genomewide methods for identifying copy number variation are necessary to elucidate the contribution that these structural variants make to the genomes of model organisms. We have developed a novel approach for the identification of copy number variation by next generation sequencing. As a proof of concept our method has been applied to map the deletions of three Drosophila deficiency strains. We demonstrate that low sequence coverage is sufficient for identifying and mapping large deletions at kilobase resolution, suggesting that data generated from high-throughput sequencing experiments are sufficient for simultaneously analyzing many strains. Genomic DNA from two Drosophila deficiency stocks was barcoded and sequenced in multiplex, and the breakpoints associated with each deletion were successfully identified. The approach we describe is immediately applicable to the systematic exploration of copy number variation in model organisms and humans.
+
+-Animals
++DNA Copy Number Variations
+-Drosophila melanogaster (+genetics)
+-Genome, Insect (-genetics)
+-Methods
+-Sequence Analysis, DNA (-methods)
+-Sequence Deletion
+
+pii:genetics.109.103218
+doi:10.1534/genetics.109.103218
+pubmed:19528327
+pmc:PMC2728881
+

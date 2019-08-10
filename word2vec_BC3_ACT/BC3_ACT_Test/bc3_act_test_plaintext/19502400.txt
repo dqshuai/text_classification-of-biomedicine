@@ -1,0 +1,20 @@
+J. Bacteriol.
+
+A new minimal replicon of Bacillus anthracis plasmid pXO1.
+
+AP Pomerantsev, A Camp, SH Leppla
+
+An 8,883-bp mini-pXO1 plasmid containing a replicon from Bacillus anthracis pXO1 (181.6 kb) was identified by making large deletions in the original plasmid using a newly developed Cre-loxP system. Portions of the truncated mini-pXO1 were cloned into an Escherichia coli vector unable to replicate in B. anthracis. A 5.95-kb region encompassing three putative genes was identified as the minimal pXO1 fragment required for replication of the resulting recombinant shuttle plasmid (named pMR) in B. anthracis. Deletion analysis showed that the only genes essential for replication were the pXO1-14 and pXO1-16 genes, which are transcribed in opposite directions and encode predicted proteins of 66.5 and 67.1 kDa, respectively. The ORF14 protein contains a helix-turn-helix motif, while the ORF16 upstream region contains attributes of a theta-replicating plasmid origin of replication (Ori), namely, an exclusively A+T-containing segment, five 9-bp direct repeats, an inverted repeat, and a sigma(A)-dependent promoter for the putative replication initiator Rep protein (ORF16). Spontaneous mutations generated in the ORF14, ORF16, and Ori regions of pMR during PCR amplification produced a temperature-sensitive plasmid that is unable to replicate in B. anthracis at 37 degrees C. The efficacy of transformation of plasmid-free B. anthracis Ames and Sterne strains by the original pMR was approximately 10(3) CFU/microg, while Bacillus cereus strains 569 and ATCC 10987 were transformed with efficiencies of 10(4) and 10(2) CFU/microg, respectively. Around 95% of B. anthracis cells retained pMR after one round of sporulation and germination.
+
+-Bacillus anthracis (+genetics)
+-Models, Genetic
+-Open Reading Frames (-genetics)
+-Plasmids (+genetics)
+-Replicon (+genetics)
+-Sequence Analysis, DNA
+
+pii:JB.00422-09
+doi:10.1128/JB.00422-09
+pubmed:19502400
+pmc:PMC2725576
+

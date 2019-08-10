@@ -1,0 +1,23 @@
+Science
+
+Recruitment of an area involved in eye movements during mental arithmetic.
+
+A Knops, B Thirion, EM Hubbard, V Michel, S Dehaene
+
+Throughout the history of mathematics, concepts of number and space have been tightly intertwined. We tested the hypothesis that cortical circuits for spatial attention contribute to mental arithmetic in humans. We trained a multivariate classifier algorithm to infer the direction of an eye movement, left or right, from the brain activation measured in the posterior parietal cortex. Without further training, the classifier then generalized to an arithmetic task. Its left versus right classification could be used to sort out subtraction versus addition trials, whether performed with symbols or with sets of dots. These findings are consistent with the suggestion that mental arithmetic co-opts parietal circuitry associated with spatial coding.
+
+-Adult
+-Eye Movements (+physiology)
+-Female
+-Humans
+-Magnetic Resonance Imaging
+-Male
++Mathematics
+-Mental Processes (+physiology)
+-Parietal Lobe (+physiology)
+-Recruitment, Neurophysiological
+
+pii:1171599
+doi:10.1126/science.1171599
+pubmed:19423779
+

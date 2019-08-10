@@ -1,0 +1,27 @@
+Hum. Mol. Genet.
+
+A non-synonymous variant in ADH1B is strongly associated with prenatal alcohol use in a European sample of pregnant women.
+
+L Zuccolo, N Fitz-Simon, R Gray, SM Ring, K Sayal, GD Smith, SJ Lewis
+
+Pregnant women are advised to abstain from alcohol despite insufficient evidence on the fetal consequences of moderate prenatal alcohol use. Mendelian randomization could help distinguish causal effects from artifacts due to residual confounding and measurement errors; however, polymorphisms reliably associated with alcohol phenotypes are needed. We aimed to test whether alcohol dehydrogenase (ADH) gene variants were associated with alcohol use before and during pregnancy. Ten variants in four ADH genes were genotyped in women from South-West England. Phenotypes of interest were quantity and patterns of alcohol consumption before and during pregnancy, including quitting alcohol following pregnancy recognition. We tested single-locus associations between genotypes and phenotypes with regression models. We used Bayesian models (multi-locus) to take account of linkage disequilibrium and reanalyzed the data with further exclusions following two conservative definitions of 'white ethnicity' based on the woman's reported parental ethnicity or a set of ancestry-informative genetic markers. Single-locus analyses on 7410 women of white/European background showed strong associations for rs1229984 (ADH1B). Rare allele carriers consumed less alcohol before pregnancy [odds ratio (OR) = 0.69; 95% confidence interval (CI): 0.56-0.86, P = 0.001], were less likely to have 'binged' during pregnancy (OR = 0.55, 95% CI: 0.38-0.78, P = 0.0009), and more likely to have abstained in the first trimester of gestation (adjusted OR = 1.42, 95% CI: 1.12-1.80, P = 0.004). Multi-locus models confirmed these results. Sensitivity analyses did not suggest the presence of residual population stratification. We confirmed the established association of rs1229984 with reduced alcohol consumption over the life-course, contributing new evidence of an effect before and during pregnancy.
+
+-Adult
+-Alcohol Dehydrogenase (+genetics)
+-Alcohol Drinking (+genetics)
+-England
+-European Continental Ancestry Group (+genetics)
+-Female
+-Genetic Variation
+-Genotype
+-Humans
+-Odds Ratio
++Polymorphism, Single Nucleotide
+-Pregnancy
+-Young Adult
+
+pii:ddp388
+doi:10.1093/hmg/ddp388
+pubmed:19687126
+pmc:PMC2766294
+

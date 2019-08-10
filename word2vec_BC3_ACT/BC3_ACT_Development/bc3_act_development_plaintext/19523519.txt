@@ -1,0 +1,29 @@
+Methods
+
+Quantification of adiposity in small rodents using micro-CT.
+
+S Judex, YK Luu, E Ozcivici, B Adler, S Lublinsky, CT Rubin
+
+Non-invasive three-dimensional imaging of live rodents is a powerful research tool that has become critical for advances in many biomedical fields. For investigations into adipose development, obesity, or diabetes, accurate and precise techniques that quantify adiposity in vivo are critical. Because total body fat mass does not accurately predict health risks associated with the metabolic syndrome, imaging modalities should be able to stratify total adiposity into subcutaneous and visceral adiposity. Micro-computed tomography (micro-CT) acquires high-resolution images based on the physical density of the material and can readily discriminate between subcutaneous and visceral fat. Here, a micro-CT based method to image the adiposity of live rodents is described. An automated and validated algorithm to quantify the volume of discrete fat deposits from the computed tomography is available. Data indicate that scanning the abdomen provides sufficient information to estimate total body fat. Very high correlations between micro-CT determined adipose volumes and the weight of explanted fat pads demonstrate that micro-CT can accurately monitor site-specific changes in adiposity. Taken together, in vivo micro-CT is a non-invasive, highly quantitative imaging modality with greater resolution and selectivity, but potentially lower throughput, than many other methods to precisely determine total and regional adipose volumes and fat infiltration in live rodents.
+
+-Adipose Tissue (+radiography)
+-Animals
+-Automatic Data Processing
+-Disease Models, Animal
+-Equipment Design
+-Image Processing, Computer-Assisted (-methods)
+-Imaging, Three-Dimensional (-methods)
+-Intra-Abdominal Fat (+radiography)
+-Mice
+-Normal Distribution
+-Obesity (-radiography)
+-Rats
+-Time Factors
+-X-Ray Microtomography (+instrumentation; +methods)
+
+pii:S1046-2023(09)00149-2
+doi:10.1016/j.ymeth.2009.05.017
+pubmed:19523519
+mid:NIHMS123229
+pmc:PMC2818008
+

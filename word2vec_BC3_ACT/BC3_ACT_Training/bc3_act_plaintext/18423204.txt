@@ -1,0 +1,31 @@
+Cell
+
+Rac1 activation controls nuclear localization of beta-catenin during canonical Wnt signaling.
+
+X Wu, X Tu, KS Joeng, MJ Hilton, DA Williams, F Long
+
+Canonical Wnt signaling critically regulates cell fate and proliferation in development and disease. Nuclear localization of beta-catenin is indispensable for canonical Wnt signaling; however, the mechanisms governing beta-catenin nuclear localization are not well understood. Here we demonstrate that nuclear accumulation of beta-catenin in response to Wnt requires Rac1 activation. The role of Rac1 depends on phosphorylation of beta-catenin at Ser191 and Ser605, which is mediated by JNK2 kinase. Mutations of these residues significantly affect Wnt-induced beta-catenin nuclear accumulation. Genetic ablation of Rac1 in the mouse embryonic limb bud ectoderm disrupts canonical Wnt signaling and phenocopies deletion of beta-catenin in causing severe truncations of the limb. Finally, Rac1 interacts genetically with beta-catenin and Dkk1 in controlling limb outgrowth. Together these results uncover Rac1 activation and subsequent beta-catenin phosphorylation as a hitherto uncharacterized mechanism controlling canonical Wnt signaling and may provide additional targets for therapeutic intervention of this important pathway.
+
+-1-Phosphatidylinositol 3-Kinase (-metabolism)
+-Animals
+-Cell Line
+-Cell Nucleus (+chemistry; -metabolism)
+-Embryo, Mammalian (-metabolism)
+-Extremities (-embryology)
+-Intercellular Signaling Peptides and Proteins (-metabolism)
+-Mice
+-Mitogen-Activated Protein Kinase 9 (-metabolism)
+-Neuropeptides (+metabolism)
+-Phosphorylation
++Signal Transduction
+-Wnt Proteins (-metabolism)
+-beta Catenin (+analysis; -genetics; -metabolism)
+-rac GTP-Binding Proteins (+metabolism)
+-rho GTP-Binding Proteins (-metabolism)
+
+pii:S0092-8674(08)00279-1
+doi:10.1016/j.cell.2008.01.052
+pubmed:18423204
+mid:NIHMS47578
+pmc:PMC2390926
+

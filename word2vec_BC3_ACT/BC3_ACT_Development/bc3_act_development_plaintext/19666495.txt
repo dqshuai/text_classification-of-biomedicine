@@ -1,0 +1,22 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Anomalous yet Brownian.
+
+B Wang, SM Anthony, SC Bae, S Granick
+
+We describe experiments using single-particle tracking in which mean-square displacement is simply proportional to time (Fickian), yet the distribution of displacement probability is not Gaussian as should be expected of a classical random walk but, instead, is decidedly exponential for large displacements, the decay length of the exponential being proportional to the square root of time. The first example is when colloidal beads diffuse along linear phospholipid bilayer tubes whose radius is the same as that of the beads. The second is when beads diffuse through entangled F-actin networks, bead radius being less than one-fifth of the actin network mesh size. We explore the relevance to dynamic heterogeneity in trajectory space, which has been extensively discussed regarding glassy systems. Data for the second system might suggest activated diffusion between pores in the entangled F-actin networks, in the same spirit as activated diffusion and exponential tails observed in glassy systems. But the first system shows exceptionally rapid diffusion, nearly as rapid as for identical colloids in free suspension, yet still displaying an exponential probability distribution as in the second system. Thus, although the exponential tail is reminiscent of glassy systems, in fact, these dynamics are exceptionally rapid. We also compare with particle trajectories that are at first subdiffusive but Fickian at the longest measurement times, finding that displacement probability distributions fall onto the same master curve in both regimes. The need is emphasized for experiments, theory, and computer simulation to allow definitive interpretation of this simple and clean exponential probability distribution.
+
+-Actins (+chemistry)
+-Colloids (+chemistry)
+-Diffusion
+-Lipid Bilayers (+chemistry)
+-Microspheres
++Models, Chemical
+-Probability
+-Time Factors
+
+pii:0903554106
+doi:10.1073/pnas.0903554106
+pubmed:19666495
+pmc:PMC2776241
+

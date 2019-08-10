@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+Gains and unexpected lessons from genome-scale promoter mapping.
+
+KS Shavkunov, IS Masulis, MN Tutukina, AA Deev, ON Ozoline
+
+Potential promoters in the genome of Escherichia coli were searched by pattern recognition software PlatProm and classified on the basis of positions relative to gene borders. Beside the expected promoters located in front of the coding sequences we found a considerable amount of intragenic promoter-like signals with a putative ability to drive either antisense or alternative transcription and revealed unusual genomic regions with extremely high density of predicted transcription start points (promoter 'islands'), some of which are located in coding sequences. PlatProm scores converted into probability of RNA polymerase binding demonstrated certain correlation with the enzyme retention registered by ChIP-on-chip technique; however, in 'dense' regions the value of correlation coefficient is lower than throughout the entire genome. Experimental verification confirmed the ability of RNA polymerase to interact and form multiple open complexes within promoter 'island' associated with appY, yet transcription efficiency was lower than might be expected. Analysis of expression data revealed the same tendency for other promoter 'islands', thus assuming functional relevance of non-productive RNA polymerase binding. Our data indicate that genomic DNA of E. coli is enriched by numerous unusual promoter-like sites with biological role yet to be understood.
+
+-Binding Sites
+-Chromosome Mapping
+-DNA-Directed RNA Polymerases (-metabolism)
+-Escherichia coli (+genetics)
++Genome, Bacterial
+-Genomics
++Promoter Regions, Genetic
+-Software
++Transcription Initiation Site
+
+pii:gkp490
+doi:10.1093/nar/gkp490
+pubmed:19528070
+pmc:PMC2731890
+

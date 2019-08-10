@@ -1,0 +1,21 @@
+BMC Bioinformatics
+
+Extracting biologically significant patterns from short time series gene expression data.
+
+AB Tchagang, KV Bui, T McGinnis, PV Benos
+
+BACKGROUND: Time series gene expression data analysis is used widely to study the dynamics of various cell processes. Most of the time series data available today consist of few time points only, thus making the application of standard clustering techniques difficult. RESULTS: We developed two new algorithms that are capable of extracting biological patterns from short time point series gene expression data. The two algorithms, ASTRO and MiMeSR, are inspired by the rank order preserving framework and the minimum mean squared residue approach, respectively. However, ASTRO and MiMeSR differ from previous approaches in that they take advantage of the relatively few number of time points in order to reduce the problem from NP-hard to linear. Tested on well-defined short time expression data, we found that our approaches are robust to noise, as well as to random patterns, and that they can correctly detect the temporal expression profile of relevant functional categories. Evaluation of our methods was performed using Gene Ontology (GO) annotations and chromatin immunoprecipitation (ChIP-chip) data. CONCLUSION: Our approaches generally outperform both standard clustering algorithms and algorithms designed specifically for clustering of short time series gene expression data. Both algorithms are available at http://www.benoslab.pitt.edu/astro/.
+
++Algorithms
+-Computational Biology (+methods)
+-Databases, Genetic
++Gene Expression
+-Gene Expression Profiling
+-Information Storage and Retrieval (+methods)
+-Pattern Recognition, Automated (+methods)
+
+pii:1471-2105-10-255
+doi:10.1186/1471-2105-10-255
+pubmed:19695084
+pmc:PMC2743670
+

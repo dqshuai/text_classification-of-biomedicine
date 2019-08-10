@@ -1,0 +1,27 @@
+J. Proteome Res.
+
+IDPicker 2.0: Improved protein assembly with high discrimination peptide identification filtering.
+
+ZQ Ma, S Dasari, MC Chambers, MD Litton, SM Sobecki, LJ Zimmerman, PJ Halvey, B Schilling, PM Drake, BW Gibson, DL Tabb
+
+Tandem mass spectrometry-based shotgun proteomics has become a widespread technology for analyzing complex protein mixtures. A number of database searching algorithms have been developed to assign peptide sequences to tandem mass spectra. Assembling the peptide identifications to proteins, however, is a challenging issue because many peptides are shared among multiple proteins. IDPicker is an open-source protein assembly tool that derives a minimum protein list from peptide identifications filtered to a specified False Discovery Rate. Here, we update IDPicker to increase confident peptide identifications by combining multiple scores produced by database search tools. By segregating peptide identifications for thresholding using both the precursor charge state and the number of tryptic termini, IDPicker retrieves more peptides for protein assembly. The new version is more robust against false positive proteins, especially in searches using multispecies databases, by requiring additional novel peptides in the parsimony process. IDPicker has been designed for incorporation in many identification workflows by the addition of a graphical user interface and the ability to read identifications from the pepXML format. These advances position IDPicker for high peptide discrimination and reliable protein assembly in large-scale proteomics studies. The source code and binaries for the latest version of IDPicker are available from http://fenchurch.mc.vanderbilt.edu/ .
+
+-Algorithms
+-Blood Proteins (-analysis)
+-Cell Line, Tumor
+-Databases, Protein
+-Humans
+-Neoplasm Proteins (-analysis)
+-Peptide Fragments (+analysis)
+-Peptide Mapping (+methods)
+-Proteomics (+methods)
+-Reproducibility of Results
++Software
+-Tandem Mass Spectrometry (-methods)
+-User-Computer Interface
+
+doi:10.1021/pr900360j
+pubmed:19522537
+mid:NIHMS168853
+pmc:PMC2810655
+

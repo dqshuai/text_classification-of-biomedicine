@@ -1,0 +1,29 @@
+Mol. Cell. Biol.
+
+Three proteins of the U7-specific Sm ring function as the molecular ruler to determine the site of 3'-end processing in mammalian histone pre-mRNA.
+
+XC Yang, MP Torres, WF Marzluff, Z Dominski
+
+Cleavage of histone pre-mRNAs at the 3' end is guided by the U7 snRNP, which is a component of a larger 3'-end processing complex. To identify other components of this complex, we isolated proteins that stably associate with a fragment of histone pre-mRNA containing all necessary processing elements and a biotin affinity tag at the 5' end. Among the isolated proteins, we identified three well-characterized processing factors: the stem-loop binding protein (SLBP), which interacts with the stem-loop structure upstream of the cleavage site, and both Lsm11 and SmB, which are components of the U7-specific Sm ring. We also identified 3'hExo/Eri-1, a multifunctional 3' exonuclease that is known to trim the 3' end of 5.8S rRNA. 3'hExo primarily binds to the downstream portion of the stem-loop structure in mature histone mRNA, with the upstream portion being occupied by SLBP. The two proteins bind their respective RNA sites in a cooperative manner, and 3'hExo can recruit SLBP to a mutant stem-loop that itself does not interact with SLBP. UV-cross-linking studies used to characterize interactions within the processing complex demonstrated that 3'hExo also interacts in a U7-dependent manner with unprocessed histone pre-mRNA. However, this interaction is not required for the cleavage reaction. The region between the cleavage site and the U7-binding site interacts with three low-molecular-weight proteins, which were identified as components of the U7-specific Sm core: SmB, SmD3, and Lsm10. These proteins likely rigidify the substrate and function as the molecular ruler in determining the site of cleavage.
+
+-3' Untranslated Regions (-genetics)
+-Animals
+-Base Sequence
+-Binding Sites (-genetics)
+-Blotting, Western
+-Cell Line, Tumor
+-Histones (+genetics)
+-Immunoprecipitation
+-Mice
+-Nucleic Acid Conformation
+-Protein Binding
+-RNA Precursors (-genetics; +metabolism)
++RNA Processing, Post-Transcriptional
+-RNA, Spliced Leader (-genetics; -metabolism)
+-Ribonucleoprotein, U7 Small Nuclear (-chemistry; -genetics; +metabolism)
+
+pii:MCB.00296-09
+doi:10.1128/MCB.00296-09
+pubmed:19470752
+pmc:PMC2715809
+

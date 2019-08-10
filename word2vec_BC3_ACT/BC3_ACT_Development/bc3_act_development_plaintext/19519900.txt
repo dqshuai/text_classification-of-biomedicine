@@ -1,0 +1,22 @@
+BMC Biochem.
+
+Analysis of DNA relaxation and cleavage activities of recombinant Mycobacterium tuberculosis DNA topoisomerase I from a new expression and purification protocol.
+
+T Annamalai, N Dani, B Cheng, YC Tse-Dinh
+
+BACKGROUND: Mycobacterium tuberculosis DNA topoisomerase I is an attractive target for discovery of novel TB drugs that act by enhancing the accumulation of the topoisomerase-DNA cleavage product. It shares a common transesterification domain with other type IA DNA topoisomerases. There is, however, no homology between the C-terminal DNA binding domains of Escherichia coli and M. tuberculosis DNA topoisomerase I proteins. RESULTS: A new protocol for expression and purification of recombinant M. tuberculosis DNA topoisomerase I (MtTOP) has been developed to produce enzyme of much higher specific activity than previously characterized recombinant enzyme. MtTOP was found to be less efficient than E. coli DNA topoisomerase I (EcTOP) in removal of remaining negative supercoils from partially relaxed DNA. DNA cleavage by MtTOP was characterized for the first time. Comparison of DNA cleavage site selectivity with EcTOP showed differences in cleavage site preferences, but the preferred sites of both enzymes have a C nucleotide in the -4 position. CONCLUSION: Recombinant M. tuberculosis DNA topoisomerase I can be expressed as a soluble protein and purified in high yield from E. coli host with a new protocol. Analysis of DNA cleavage with M. tuberculosis DNA substrate showed that the preferred DNA cleavage sites have a C nucleotide in the -4 position.
+
+-Bacterial Proteins (-chemistry; -genetics; +isolation & purification; +metabolism)
+-DNA Topoisomerases, Type I (-chemistry; -genetics; +isolation & purification; +metabolism)
+-DNA, Single-Stranded (-chemistry; -genetics; -metabolism)
+-Escherichia coli (-chemistry; -enzymology; -genetics)
++Gene Expression
+-Mycobacterium tuberculosis (-chemistry; +enzymology; -genetics)
+-Recombinant Proteins (-chemistry; -genetics; -isolation & purification; -metabolism)
+-Substrate Specificity
+
+pii:1471-2091-10-18
+doi:10.1186/1471-2091-10-18
+pubmed:19519900
+pmc:PMC2702276
+

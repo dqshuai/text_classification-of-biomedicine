@@ -1,0 +1,21 @@
+PLoS ONE
+
+Characterization of whole blood gene expression profiles as a sequel to globin mRNA reduction in patients with sickle cell disease.
+
+N Raghavachari, X Xu, PJ Munson, MT Gladwin
+
+Global transcriptome analysis of whole blood RNA using microarrays has been proven to be challenging due to the high abundance of globin transcripts that constitute 70% of whole blood mRNA. This is a particular problem in patients with sickle cell disease, secondary to the high abundance of globin-expressing nucleated red blood cells and reticulocytes in the circulation. In order to accurately measure the steady state blood transcriptome in sickle cell patients we evaluated the efficacy of reducing globin transcripts in PAXgene stabilized RNA for genome-wide transcriptome analyses using microarrays. We demonstrate here by both microarrays and Q-PCR that the globin mRNA depletion method resulted in 55-65 fold reduction in globin transcripts in whole blood collected from healthy volunteers and sickle cell disease patients. This led to an improvement in microarray data quality by reducing data variability, with increased detection rate of expressed genes and improved overlap with the expression signatures of isolated peripheral blood mononuclear (PBMC) preparations. Analysis of differences between the whole blood transcriptome and PBMC transcriptome revealed important erythrocyte genes that participate in sickle cell pathogenesis and compensation. The combination of globin mRNA reduction after whole-blood RNA stabilization represents a robust clinical research methodology for the discovery of biomarkers for hematologic diseases.
+
+-Anemia, Sickle Cell (-blood; +genetics)
+-Electrophoresis, Polyacrylamide Gel
++Gene Expression Profiling
+-Globins (+genetics)
+-Humans
+-Oligonucleotide Array Sequence Analysis
+-RNA, Messenger (+genetics)
+-Reverse Transcriptase Polymerase Chain Reaction
+
+doi:10.1371/journal.pone.0006484
+pubmed:19649296
+pmc:PMC2714456
+

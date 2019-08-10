@@ -1,0 +1,30 @@
+Neuron
+
+Inhibitory regulation of electrically coupled neurons in the inferior olive is mediated by asynchronous release of GABA.
+
+AR Best, WG Regehr
+
+Inhibitory projection neurons in the deep cerebellar nuclei (DCN) provide GABAergic input to neurons of the inferior olive (IO) that in turn produce climbing fiber synapses onto Purkinje cells. Anatomical evidence suggests that DCN to IO synapses control electrical coupling between IO neurons. In vivo studies suggest that they also control the synchrony of IO neurons and play an important role in cerebellar learning. Here we describe the DCN to IO synapse. Remarkably, GABA release was almost exclusively asynchronous, with little conventional synchronous release. Synaptic transmission was extremely frequency dependent, with low-frequency stimulation being largely ineffective. However, due to the prominence of asynchronous release, stimulation at frequencies above 10 Hz evoked steady-state inhibitory currents. These properties seem ideally suited to transform the firing rate of DCN neurons into sustained inhibition that both suppresses the firing of IO cells and regulates the effective coupling between IO neurons.
+
+-Analysis of Variance
+-Animals
+-Animals, Newborn
+-Biophysics
+-Calcium (-metabolism)
+-Cerebellar Nuclei (-cytology; -physiology)
+-Egtazic Acid (-analogs & derivatives; -pharmacology)
+-Electric Stimulation (-methods)
+-Electrical Synapses (+physiology)
+-Inhibitory Postsynaptic Potentials (-drug effects; +physiology)
+-Neural Inhibition (+physiology)
+-Neurons (+physiology)
+-Olivary Nucleus (+cytology)
+-Patch-Clamp Techniques (-methods)
+-Rats
+-Rats, Sprague-Dawley
+-gamma-Aminobutyric Acid (+metabolism)
+
+pii:S0896-6273(09)00321-3
+doi:10.1016/j.neuron.2009.04.018
+pubmed:19477156
+

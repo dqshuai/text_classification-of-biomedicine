@@ -1,0 +1,23 @@
+Proteomics
+
+The Pseudomonas putida Crc global regulator controls the hierarchical assimilation of amino acids in a complete medium: evidence from proteomic and genomic analyses.
+
+R Moreno, M Martínez-Gomariz, L Yuste, C Gil, F Rojo
+
+The Crc protein is a global translational regulator involved in catabolite repression of catabolic pathways for several non-preferred carbon sources in Pseudomonads when other preferred substrates are present. Using proteomic and transcriptomic approaches, we have analyzed the influence of Crc in cells growing in a complete medium, where amino acids are the main carbon source. Inactivation of the crc gene modified the expression of at least 134 genes. Most of them were involved in the transport and assimilation of amino acids or sugars. This allowed envisioning which amino acids are preferentially used. Crc did not inhibit the pathways for proline, alanine, glutamate, glutamine and histidine. These amino acids are good carbon sources for P. putida. In the case of arginine, lysine, aspartate and asparagine, which can be assimilated through several pathways, Crc favored one particular route, inhibiting other alternatives. Finally, Crc-inhibited genes needed to assimilate valine, isoleucine, leucine, tyrosine, phenylalanine, threonine, glycine and serine, amino acids that provide a less efficient growth. Crc has therefore a key role in coordinating metabolism, controlling the sequential assimilation of amino acids when cells grow in a complete medium. Inactivation of crc reduced growth rate, suggesting that Crc optimizes metabolism.
+
+-Amino Acids (+metabolism)
+-Bacterial Proteins (+genetics; +metabolism)
+-Biological Transport, Active
+-Carbohydrate Metabolism
+-Electrophoresis, Gel, Two-Dimensional (-methods)
+-Gene Expression Profiling (-methods)
+-Gene Knockout Techniques
+-Genomics (+methods)
+-Proteomics (+methods)
+-Pseudomonas putida (+genetics; -growth & development; +metabolism)
+-Repressor Proteins (+genetics; +metabolism)
+
+doi:10.1002/pmic.200800918
+pubmed:19526543
+

@@ -1,0 +1,34 @@
+Mol. Cell. Biol.
+
+XRCC2 and XRCC3 regulate the balance between short- and long-tract gene conversions between sister chromatids.
+
+G Nagaraju, A Hartlerode, A Kwok, G Chandramouly, R Scully
+
+Sister chromatid recombination (SCR) is a potentially error-free pathway for the repair of DNA lesions associated with replication and is thought to be important for suppressing genomic instability. The mechanisms regulating the initiation and termination of SCR in mammalian cells are poorly understood. Previous work has implicated all the Rad51 paralogs in the initiation of gene conversion and the Rad51C/XRCC3 complex in its termination. Here, we show that hamster cells deficient in the Rad51 paralog XRCC2, a component of the Rad51B/Rad51C/Rad51D/XRCC2 complex, reveal a bias in favor of long-tract gene conversion (LTGC) during SCR. This defect is corrected by expression of wild-type XRCC2 and also by XRCC2 mutants defective in ATP binding and hydrolysis. In contrast, XRCC3-mediated homologous recombination and suppression of LTGC are dependent on ATP binding and hydrolysis. These results reveal an unexpectedly general role for Rad51 paralogs in the control of the termination of gene conversion between sister chromatids.
+
+-Adenosine Triphosphate (-metabolism)
+-Animals
+-Blotting, Western
+-CHO Cells
+-Cell Line
+-Chromatids (-genetics; +metabolism)
+-Cricetinae
+-Cricetulus
+-DNA-Binding Proteins (-genetics; +metabolism)
++Gene Conversion
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Humans
+-Hydrolysis
+-Mutation
+-Plasmids (-genetics)
+-Protein Binding
+-Rad51 Recombinase (-genetics; -metabolism)
+-Recombination, Genetic
++Sister Chromatid Exchange
+-Transfection
+
+pii:MCB.01406-08
+doi:10.1128/MCB.01406-08
+pubmed:19470754
+pmc:PMC2715807
+

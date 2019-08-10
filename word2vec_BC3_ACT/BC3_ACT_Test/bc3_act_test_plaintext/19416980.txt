@@ -1,0 +1,35 @@
+J. Biol. Chem.
+
+Implication of checkpoint kinase-dependent up-regulation of ribonucleotide reductase R2 in DNA damage response.
+
+YW Zhang, TL Jones, SE Martin, NJ Caplen, Y Pommier
+
+To investigate drug mechanisms of action and identify molecular targets for the development of rational drug combinations, we conducted synthetic small interfering RNA (siRNA)-based RNAi screens to identify genes whose silencing affects anti-cancer drug responses. Silencing of RRM1 and RRM2, which encode the large and small subunits of the human ribonucleotide reductase complex, respectively, markedly enhanced the cytotoxicity of the topoisomerase I inhibitor camptothecin (CPT). Silencing of RRM2 was also found to enhance DNA damage as measured by histone gamma-H2AX. Further studies showed that CPT up-regulates both RRM1 and RRM2 mRNA and protein levels and induces the nuclear translocation of RRM2. The checkpoint kinase 1 (Chk1) was up-regulated and activated in response to CPT, and CHEK1 down-regulation by siRNA and small molecule inhibitors of Chk1 blocked RRM2 induction by CPT. CHEK1 siRNA also suppressed E2F1 up-regulation by CPT, and silencing of E2F1 suppressed the up-regulation of RRM2. Silencing of ATR or ATM and inhibition of ATM activity by KU-55933 blocked Chk1 activation and RRM2 up-regulation. This study links the known components of CPT-induced DNA damage response with proteins required for the synthesis of dNTPs and DNA repair. Specifically, we propose that upon DNA damage, Chk1 activation, mediated by ATM and ATR, up-regulates RRM2 expression through the E2F1 transcription factor. Up-regulation in RRM2 expression levels coupled with its nuclear recruitment suggests an active role for ribonucleotide reductase in the cellular response to CPT-mediated DNA damage that could potentially be exploited as a strategy for enhancing the efficacy of topoisomerase I inhibitors.
+
+-Breast Neoplasms (-drug therapy; +genetics; -pathology)
+-Camptothecin (+pharmacology)
+-Cell Cycle Proteins (-genetics)
+-Colorectal Neoplasms (-drug therapy; +genetics; -pathology)
+-DNA Damage (+genetics)
+-DNA Replication (-physiology)
+-DNA Topoisomerases, Type I (-antagonists & inhibitors)
+-DNA-Binding Proteins (-genetics)
+-Drug Resistance, Neoplasm (+genetics)
+-E2F1 Transcription Factor (-genetics)
+-Enzyme Inhibitors (-pharmacology)
+-Female
+-HCT116 Cells
+-Histones (-metabolism)
+-Humans
+-Protein Kinases (-genetics)
+-Protein-Serine-Threonine Kinases (-genetics)
+-RNA, Small Interfering
+-Ribonucleoside Diphosphate Reductase (+genetics; -metabolism)
+-Tumor Suppressor Proteins (-genetics; -metabolism)
+-Up-Regulation (-physiology)
+
+pii:M109.003020
+doi:10.1074/jbc.M109.003020
+pubmed:19416980
+pmc:PMC2709352
+

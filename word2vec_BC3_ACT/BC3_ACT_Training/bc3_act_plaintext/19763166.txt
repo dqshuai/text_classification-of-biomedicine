@@ -1,0 +1,20 @@
+PLoS Comput. Biol.
+
+Noise management by molecular networks.
+
+FJ Bruggeman, N Blüthgen, HV Westerhoff
+
+Fluctuations in the copy number of key regulatory macromolecules ("noise") may cause physiological heterogeneity in populations of (isogenic) cells. The kinetics of processes and their wiring in molecular networks can modulate this molecular noise. Here we present a theoretical framework to study the principles of noise management by the molecular networks in living cells. The theory makes use of the natural, hierarchical organization of those networks and makes their noise management more understandable in terms of network structure. Principles governing noise management by ultrasensitive systems, signaling cascades, gene networks and feedback circuitry are discovered using this approach. For a few frequently occurring network motifs we show how they manage noise. We derive simple and intuitive equations for noise in molecule copy numbers as a determinant of physiological heterogeneity. We show how noise levels and signal sensitivity can be set independently in molecular networks, but often changes in signal sensitivity affect noise propagation. Using theory and simulations, we show that negative feedback can both enhance and reduce noise. We identify a trade-off; noise reduction in one molecular intermediate by negative feedback is at the expense of increased noise in the levels of other molecules along the feedback loop. The reactants of the processes that are strongly (cooperatively) regulated, so as to allow for negative feedback with a high strength, will display enhanced noise.
+
++Algorithms
+-Computer Simulation
++Feedback
+-Gene Regulatory Networks
++Models, Biological
+-Signal Transduction
+-Systems Biology (+methods)
+
+doi:10.1371/journal.pcbi.1000506
+pubmed:19763166
+pmc:PMC2731877
+

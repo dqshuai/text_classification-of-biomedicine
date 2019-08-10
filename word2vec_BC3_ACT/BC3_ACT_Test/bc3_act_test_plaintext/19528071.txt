@@ -1,0 +1,27 @@
+Nucleic Acids Res.
+
+cDNA display: a novel screening method for functional disulfide-rich peptides by solid-phase synthesis and stabilization of mRNA-protein fusions.
+
+J Yamaguchi, M Naimuddin, M Biyani, T Sasaki, M Machida, T Kubo, T Funatsu, Y Husimi, N Nemoto
+
+We report a robust display technology for the screening of disulfide-rich peptides, based on cDNA-protein fusions, by developing a novel and versatile puromycin-linker DNA. This linker comprises four major portions: a 'ligation site' for T4 RNA ligase, a 'biotin site' for solid-phase handling, a 'reverse transcription primer site' for the efficient and rapid conversion from an unstable mRNA-protein fusion (mRNA display) to a stable mRNA/cDNA-protein fusion (cDNA display) whose cDNA is covalently linked to its encoded protein and a 'restriction enzyme site' for the release of a complex from the solid support. This enables not only stabilizing mRNA-protein fusions but also promoting both protein folding and disulfide shuffling reactions. We evaluated the performance of cDNA display in different model systems and demonstrated an enrichment efficiency of 20-fold per selection round. Selection of a 32-residue random library against interleukin-6 receptor generated novel peptides containing multiple disulfide bonds with a unique linkage for its function. The peptides were found to bind with the target in the low nanomolar range. These results show the suitability of our method for in vitro selections of disulfide-rich proteins and other potential applications.
+
+-Cell-Free System
+-DNA (-chemistry)
+-DNA, Complementary (+biosynthesis)
+-Disulfides (-chemistry)
+-Genetic Techniques
++Peptide Library
+-Peptides (+chemistry)
+-Protein Biosynthesis
+-Proteins (+chemistry)
+-Puromycin (-chemistry)
+-RNA, Messenger (+chemistry)
+-Receptors, Interleukin-6 (-chemistry)
+-Reverse Transcription
+
+pii:gkp514
+doi:10.1093/nar/gkp514
+pubmed:19528071
+pmc:PMC2760808
+

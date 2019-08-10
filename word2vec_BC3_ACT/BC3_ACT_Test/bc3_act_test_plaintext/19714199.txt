@@ -1,0 +1,26 @@
+PLoS Comput. Biol.
+
+Computation of conformational coupling in allosteric proteins.
+
+BA Kidd, D Baker, WE Thomas
+
+In allosteric regulation, an effector molecule binding a protein at one site induces conformational changes, which alter structure and function at a distant active site. Two key challenges in the computational modeling of allostery are the prediction of the structure of one allosteric state starting from the structure of the other, and elucidating the mechanisms underlying the conformational coupling of the effector and active sites. Here we approach these two challenges using the Rosetta high-resolution structure prediction methodology. We find that the method can recapitulate the relaxation of effector-bound forms of single domain allosteric proteins into the corresponding ligand-free states, particularly when sampling is focused on regions known to change conformation most significantly. Analysis of the coupling between contacting pairs of residues in large ensembles of conformations spread throughout the landscape between and around the two allosteric states suggests that the transitions are built up from blocks of tightly coupled interacting sets of residues that are more loosely coupled to one another.
+
+-Algorithms
+-Allosteric Site
+-Binding Sites
+-Catalytic Domain
+-Computational Biology (+methods)
+-Databases, Protein
+-Ligands
+-Models, Statistical
+-Models, Theoretical
+-Molecular Conformation
+-Protein Conformation
+-Proteins (+chemistry)
+-Software
+
+doi:10.1371/journal.pcbi.1000484
+pubmed:19714199
+pmc:PMC2720451
+

@@ -1,0 +1,33 @@
+J. Bacteriol.
+
+CodY activates transcription of a small RNA in Bacillus subtilis.
+
+H Preis, RA Eckart, RK Gudipati, N Heidrich, S Brantl
+
+Regulatory small RNAs (sRNAs) in bacterial genomes have become a focus of research over the past 8 years. Whereas more than 100 such sRNAs have been found in Escherichia coli, relatively little is known about sRNAs in gram-positive bacteria. Using a computational approach, we identified two sRNAs in intergenic regions of the Bacillus subtilis genome, SR1 and SR2 (renamed BsrF). Recently, we demonstrated that SR1 inhibits the translation initiation of the transcriptional activator AhrC. Here, we describe detection of BsrF, its expression profile, and its regulation by CodY. Furthermore, we mapped the secondary structure of BsrF. BsrF is expressed in complex and minimal media in all growth phases in B. subtilis and, with a similar expression profile, also in Bacillus amyloliquefaciens. Neither overexpression nor deletion of bsrF affected the growth of B. subtilis. BsrF was found to be long-lived in complex and minimal media. Analysis of 13 putative transcription factor binding sites upstream of bsrF revealed only an effect for CodY. Here, we showed by using Northern blotting, lacZ reporter gene fusions, in vitro transcription, and DNase I footprinting that the transcription of bsrF is activated by CodY in the presence of branched-chain amino acids and GTP. Furthermore, BsrF transcription was increased 1.5- to 2-fold by glucose in the presence of branched-chain amino acids, and this increase was independent of the known glucose-dependent regulators. BsrF is the second target for which transcriptional activation by CodY has been discovered.
+
+-Amino Acids, Branched-Chain (-metabolism)
+-Bacillus subtilis (+physiology)
+-Bacterial Proteins (+physiology)
+-Base Sequence
+-Blotting, Northern
+-DNA Footprinting
+-DNA, Bacterial (-metabolism)
+-Gene Expression Profiling
++Gene Expression Regulation, Bacterial
+-Genes, Reporter
+-Guanosine Triphosphate (-metabolism)
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-Promoter Regions, Genetic
+-Protein Binding
+-RNA, Small Interfering (+biosynthesis; -chemistry; -genetics)
+-Trans-Activators (+physiology)
++Transcription, Genetic
+-beta-Galactosidase (-biosynthesis; -genetics)
+
+pii:JB.00602-09
+doi:10.1128/JB.00602-09
+pubmed:19542274
+pmc:PMC2725614
+

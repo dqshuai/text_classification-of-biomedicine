@@ -1,0 +1,30 @@
+J. Biol. Chem.
+
+Mechanisms of resistance to interferon-gamma-mediated cell growth arrest in human oral squamous carcinoma cells.
+
+M Hiroi, K Mori, K Sekine, Y Sakaeda, J Shimada, Y Ohmori
+
+Interferon-gamma (IFNgamma) has an antiproliferative effect on a variety of tumor cells. However, many tumor cells resist treatment with IFNs. Here, we show that IFNgamma fails to inhibit the growth of some types of oral squamous cell carcinoma (OSCC) cells that possess a fully functional IFNgamma/STAT1 (signal transducer and activator of transcription-1) signaling pathway. IFNgamma inhibited the growth of the HSC-2, HSC-3, and HSC-4 OSCC cell lines. However, Ca9-22 cells were resistant to IFNgamma despite having intact STAT1-dependent signaling, such as normal tyrosine phosphorylation, DNA binding activity, and transcriptional activity of STAT1. The growth inhibition of HSC-2 cells resulted from S-phase arrest of the cell cycle. IFNgamma inhibited cyclin A2 (CcnA2)-associated kinase activity, which correlated with the IFNgamma-mediated down-regulation of CcnA2 and Cdk2 expression at both the transcriptional and post-transcriptional level in HSC-2 cells but not in Ca9-22 cells. RNAi-mediated knockdown of CcnA2 and Cdk2 resulted in growth inhibition in both cell lines. These results indicate that the resistance of OSCC to IFNgamma is not due simply to the deficiency in STAT1-dependent signaling but results from a defect in the signaling component that mediates this IFNgamma-induced down-regulation of CcnA2 and Cdk2 expression at the transcriptional and post-transcriptional levels.
+
+-Carcinoma, Squamous Cell (+metabolism)
+-Cell Line, Tumor
+-Cell Nucleus (-metabolism)
+-Cell Proliferation
+-Cyclin A (-metabolism)
+-Cyclin A2
+-Cyclin-Dependent Kinase 2 (-metabolism)
++Drug Resistance, Neoplasm
++Gene Expression Regulation, Neoplastic
+-Humans
+-Interferon-gamma (+metabolism)
+-Mouth Neoplasms (+metabolism)
+-Phosphorylation
+-Recombinant Proteins (-chemistry)
+-STAT1 Transcription Factor (-metabolism)
+-Signal Transduction
+
+pii:M109.025932
+doi:10.1074/jbc.M109.025932
+pubmed:19596857
+pmc:PMC2757190
+

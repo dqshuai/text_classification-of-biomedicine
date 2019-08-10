@@ -1,0 +1,20 @@
+PLoS ONE
+
+Genomes2Drugs: identifies target proteins and lead drugs from proteome data.
+
+D Toomey, HC Hoppe, MP Brennan, KB Nolan, AJ Chubb
+
+BACKGROUND: Genome sequencing and bioinformatics have provided the full hypothetical proteome of many pathogenic organisms. Advances in microarray and mass spectrometry have also yielded large output datasets of possible target proteins/genes. However, the challenge remains to identify new targets for drug discovery from this wealth of information. Further analysis includes bioinformatics and/or molecular biology tools to validate the findings. This is time consuming and expensive, and could fail to yield novel drugs if protein purification and crystallography is impossible. To pre-empt this, a researcher may want to rapidly filter the output datasets for proteins that show good homology to proteins that have already been structurally characterised or proteins that are already targets for known drugs. Critically, those researchers developing novel antibiotics need to select out the proteins that show close homology to any human proteins, as future inhibitors are likely to cross-react with the host protein, causing off-target toxicity effects later in clinical trials. METHODOLOGY/PRINCIPAL FINDINGS: To solve many of these issues, we have developed a free online resource called Genomes2Drugs which ranks sequences to identify proteins that are (i) homologous to previously crystallized proteins or (ii) targets of known drugs, but are (iii) not homologous to human proteins. When tested using the Plasmodium falciparum malarial genome the program correctly enriched the ranked list of proteins with known drug target proteins. CONCLUSIONS/SIGNIFICANCE: Genomes2Drugs rapidly identifies proteins that are likely to succeed in drug discovery pipelines. This free online resource helps in the identification of potential drug targets. Importantly, the program further highlights proteins that are likely to be inhibited by FDA-approved drugs. These drugs can then be rapidly moved into Phase IV clinical studies under 'change-of-application' patents.
+
+-Animals
+-Antimalarials (-pharmacology)
++Drug Discovery
++Genome, Protozoan
+-Humans
+-Plasmodium falciparum (-drug effects; -genetics; -metabolism)
++Proteome
+
+doi:10.1371/journal.pone.0006195
+pubmed:19593435
+pmc:PMC2704375
+

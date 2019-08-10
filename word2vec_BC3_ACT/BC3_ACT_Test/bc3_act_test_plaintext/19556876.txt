@@ -1,0 +1,25 @@
+Cell Cycle
+
+Transcription factors LSF and E2Fs: tandem cyclists driving G0 to S?
+
+U Hansen, L Owens, UH Saxena
+
+Cell cycle progression in mammalian cells from G(1) into S phase requires sensing and integration of multiple inputs, in order to determine whether to continue to cellular DNA replication and subsequently, to cell division. Passage to S requires transition through the restriction point, which at a molecular level consists of a bistable switch involving E2Fs and pRb family members. At the G(1)/S boundary, a number of genes essential for DNA replication and cell cycle progression are upregulated, promoting entry into S phase. Although the activating E2Fs are the most extensively characterized transcription factors driving G(1)/S expression, LSF is also a transcription factor essential for stimulating G(1)/S gene expression. A critical LSF target gene at this stage, Tyms, encodes thymidylate synthetase. In investigating how LSF is activated in a cell cycle-dependent manner, we recently identified a novel time delay mechanism for regulating its activity during G(1) progression, which is apparently independent of the E2F/pRb axis. This involves inhibition of LSF in early G(1) by two major proliferative signaling pathways: ERK and cyclin C/CDK, followed by gradual dephosphorylation during mid- to late-G(1). Whether LSF and E2F act independently or in concert to promote G(1)/S progression remains to be determined.
+
+-Cyclin-Dependent Kinases (-metabolism)
+-Cyclins (-metabolism)
+-DNA-Binding Proteins (-chemistry; +metabolism)
+-E2F Transcription Factors (+metabolism)
+-Extracellular Signal-Regulated MAP Kinases (-metabolism)
++G0 Phase
+-Humans
+-Phosphorylation
++S Phase
+-Signal Transduction
+-Transcription Factors (-chemistry; +metabolism)
+
+pii:9089
+pubmed:19556876
+mid:NIHMS163974
+pmc:PMC2796248
+

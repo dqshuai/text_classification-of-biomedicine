@@ -1,0 +1,23 @@
+J. Mol. Biol.
+
+Microscopic factors that control beta-sheet registry in amyloid fibrils formed by fragment 11-25 of amyloid beta peptide: insights from computer simulations.
+
+L Negureanu, A Baumketner
+
+Short fragments of amyloidogenic proteins are widely used as model systems in studies of amyloid formation. Fragment 11-25 of the amyloid beta protein involved in Alzheimer's disease (Abeta11-25) was recently shown to form amyloid fibrils composed of anti-parallel beta-sheets. Interestingly, fibrils grown under neutral and acidic conditions were seen to possess different registries of their inter-beta-strand hydrogen bonds. In an effort to explain the microscopic origin of this pH dependence, we studied Abeta11-25 fibrils using methods of theoretical modeling. Several structural models were built for fibrils at low and neutral pH levels and these were examined in short molecular dynamics simulations in explicit water. The models that displayed the lowest free energy, as estimated using an implicit solvent model, were selected as representative of the true fibrillar structure. It was shown that the registry of these models agrees well with the experimental results. At neutral pH, the main contribution to the free energy difference between the two registries comes from the electrostatic interactions. The charge group of the carboxy terminus makes a large contribution to these interactions and thus appears to have a critical role in determining the registry.
+
+-Amyloid (+chemistry; +metabolism)
+-Amyloid beta-Protein (+chemistry; +metabolism)
+-Computer Simulation
+-Hydrogen-Ion Concentration
+-Models, Molecular
+-Peptide Fragments (+chemistry; +metabolism)
+-Protein Structure, Secondary
+-Static Electricity
+
+pii:S0022-2836(09)00514-2
+doi:10.1016/j.jmb.2009.04.058
+pubmed:19414017
+mid:NIHMS115015
+pmc:PMC2696565
+

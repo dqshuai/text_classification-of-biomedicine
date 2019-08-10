@@ -1,0 +1,24 @@
+J. Am. Chem. Soc.
+
+The molecular mechanism of the catalase reaction.
+
+M Alfonso-Prieto, X Biarnés, P Vidossich, C Rovira
+
+Catalases are ubiquitous enzymes that prevent cell oxidative damage by degrading hydrogen peroxide to water and oxygen (2H(2)O(2) --> 2 H(2)O + O(2)) with high efficiency. The enzyme is first oxidized to a high-valent iron intermediate, known as Compound I (Cpd I) which, in contrast to other hydroperoxidases, is reduced back to the resting state by further reacting with H(2)O(2). By means of hybrid QM/MM Car-Parrinello metadynamics simulations, we have investigated the mechanism of the reduction of Compound I by H(2)O(2) in Helicobacter pylori catalase (HPC) and Penicillium vitale catalase (PVC). We found that the Cpd I-H(2)O(2) complex evolves to a Cpd II-like species through the transfer of a hydrogen atom from the peroxide to the oxoferryl unit. To complete the reaction, two mechanisms may be operative: a His-mediated (Fita-Rossmann) mechanism, which involves the distal His as an acid-base catalyst mediating the transfer of a proton (associated with an electron transfer), and a direct mechanism, in which a hydrogen atom transfer occurs. Independently of the mechanism, the reaction proceeds by two one-electron transfers rather than one two-electron transfer, as has long been the lore. The calculations provide a detailed view of the atomic and electronic reorganizations during the reaction, and highlight the key role of the distal residues to assist the reaction. Additional calculations on the in silico HPC His56Gly mutant and gas-phase models provide clues to understand the requirements for the reaction to proceed with low barriers.
+
+-Catalase (-chemistry; +metabolism)
+-Gases (-metabolism)
+-Helicobacter pylori (-enzymology)
+-Histidine (-metabolism)
+-Hydrogen Peroxide (-metabolism)
+-Models, Molecular
+-Oxidation-Reduction
+-Penicillium (-enzymology)
+-Porphyrins (-metabolism)
+-Protein Conformation
+-Quantum Theory
+-Thermodynamics
+
+doi:10.1021/ja9018572
+pubmed:19653683
+

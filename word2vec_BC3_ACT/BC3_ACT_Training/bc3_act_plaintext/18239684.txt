@@ -1,0 +1,29 @@
+EMBO J.
+
+Phosphorylation of Skp2 regulated by CDK2 and Cdc14B protects it from degradation by APC(Cdh1) in G1 phase.
+
+G Rodier, P Coulombe, PL Tanguay, C Boutonnet, S Meloche
+
+The p27(Kip1) ubiquitin ligase receptor Skp2 is often overexpressed in human tumours and displays oncogenic properties. The activity of SCF(Skp2) is regulated by the APC(Cdh1), which targets Skp2 for degradation. Here we show that Skp2 phosphorylation on Ser64/Ser72 positively regulates its function in vivo. Phosphorylation of Ser64, and to a lesser extent Ser72, stabilizes Skp2 by interfering with its association with Cdh1, without affecting intrinsic ligase activity. Cyclin-dependent kinase (CDK)2-mediated phosphorylation of Skp2 on Ser64 allows its expression in mid-G1 phase, even in the presence of active APC(Cdh1). Reciprocally, dephosphorylation of Skp2 by the mitotic phosphatase Cdc14B at the M --> G1 transition promotes its degradation by APC(Cdh1). Importantly, lowering the levels of Cdc14B accelerates cell cycle progression from mitosis to S phase in an Skp2-dependent manner, demonstrating epistatic relationship of Cdc14B and Skp2 in the regulation of G1 length. Thus, our results reveal that reversible phosphorylation plays a key role in the timing of Skp2 expression in the cell cycle.
+
+-Animals
+-Cell Line
+-Cyclin-Dependent Kinase 2 (+metabolism)
+-Dual-Specificity Phosphatases (+metabolism)
+-G1 Phase
+-Hela Cells
+-Humans
+-Mice
+-Mutation
+-NIH 3T3 Cells
+-Phosphorylation
+-Rats
+-S-Phase Kinase-Associated Proteins (-genetics; +metabolism)
+-Transfection
+-Ubiquitin-Protein Ligase Complexes (+metabolism)
+
+pii:emboj20086
+doi:10.1038/emboj.2008.6
+pubmed:18239684
+pmc:PMC2262036
+

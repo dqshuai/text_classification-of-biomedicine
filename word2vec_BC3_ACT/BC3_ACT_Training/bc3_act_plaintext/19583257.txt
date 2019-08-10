@@ -1,0 +1,23 @@
+J. Am. Chem. Soc.
+
+A suite of activity-based probes for human cytochrome P450 enzymes.
+
+AT Wright, JD Song, BF Cravatt
+
+Cytochrome P450 (P450) enzymes regulate a variety of endogenous signaling molecules and play central roles in the metabolism of xenobiotics and drugs. We recently showed that an aryl alkyne serves as an effective activity-based probe for profiling mouse liver microsomal P450s in vitro and in vivo. However, individual P450s display distinct substrate and inhibitor specificities, indicating that multiple probe structures may be required to achieve comprehensive coverage of this large and diverse enzyme family. Here, we have synthesized a suite of P450-directed, activity-based protein profiling (ABPP) probes that contain: (1) varied chemical architectures validated as mechanism-based inhibitors of the P450 enzyme family, and (2) terminal alkyne groups for click chemistry conjugation of reporter tags. This set of probes was screened against a wide cross-section of human P450s, leading to the discovery of an optimal set of probes that provide broad coverage of this enzyme family. We used these probes to profile the effects on P450 activity of aromatase inhibitors in current clinical use for the treatment of breast cancer. We describe the surprising discovery that one of these aromatase inhibitors, anastrozole, significantly increases probe-labeling of P450 1A2, indicative of a heterotypic cooperativity effect on a central P450 isozyme involved in metabolizing numerous drugs and xenobiotics. The results presented herein greatly expand the suite of ABPP probes for profiling P450s and illuminate new applications for these tools to understand P450-drug interactions.
+
+-Androstenedione (-analogs & derivatives; -pharmacology)
+-Animals
+-Aromatase Inhibitors (-pharmacology)
+-Cytochrome P-450 Enzyme System (-analysis; +metabolism)
+-Drug Design
+-Humans
+-Mice
+-Pharmaceutical Preparations (-metabolism)
+-Staining and Labeling
+
+doi:10.1021/ja9037609
+pubmed:19583257
+mid:NIHMS132633
+pmc:PMC2737065
+

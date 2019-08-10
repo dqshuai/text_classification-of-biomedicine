@@ -1,0 +1,21 @@
+BMC Bioinformatics
+
+Issues in learning an ontology from text.
+
+C Brewster, S Jupp, J Luciano, D Shotton, RD Stevens, Z Zhang
+
+BACKGROUND: Ontology construction for any domain is a labour intensive and complex process. Any methodology that can reduce the cost and increase efficiency has the potential to make a major impact in the life sciences. This paper describes an experiment in ontology construction from text for the animal behaviour domain. Our objective was to see how much could be done in a simple and relatively rapid manner using a corpus of journal papers. We used a sequence of pre-existing text processing steps, and here describe the different choices made to clean the input, to derive a set of terms and to structure those terms in a number of hierarchies. We describe some of the challenges, especially that of focusing the ontology appropriately given a starting point of a heterogeneous corpus. RESULTS: Using mainly automated techniques, we were able to construct an 18055 term ontology-like structure with 73% recall of animal behaviour terms, but a precision of only 26%. We were able to clean unwanted terms from the nascent ontology using lexico-syntactic patterns that tested the validity of term inclusion within the ontology. We used the same technique to test for subsumption relationships between the remaining terms to add structure to the initially broad and shallow structure we generated. All outputs are available at http://thirlmere.aston.ac.uk/~kiffer/animalbehaviour/. CONCLUSION: We present a systematic method for the initial steps of ontology or structured vocabulary construction for scientific domains that requires limited human effort and can make a contribution both to ontology learning and maintenance. The method is useful both for the exploration of a scientific domain and as a stepping stone towards formally rigourous ontologies. The filtering of recognised terms from a heterogeneous corpus to focus upon those that are the topic of the ontology is identified to be one of the main challenges for research in ontology learning.
+
+-Algorithms
+-Animals
+-Computational Biology (+methods)
+-Database Management Systems
+-Information Storage and Retrieval
+-Pattern Recognition, Automated
++Vocabulary, Controlled
+
+pii:1471-2105-10-S5-S1
+doi:10.1186/1471-2105-10-S5-S1
+pubmed:19426458
+pmc:PMC2679401
+

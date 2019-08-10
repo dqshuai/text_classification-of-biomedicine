@@ -1,0 +1,23 @@
+PLoS Comput. Biol.
+
+Predicting the evolution of sex on complex fitness landscapes.
+
+D Misevic, RD Kouyos, S Bonhoeffer
+
+Most population genetic theories on the evolution of sex or recombination are based on fairly restrictive assumptions about the nature of the underlying fitness landscapes. Here we use computer simulations to study the evolution of sex on fitness landscapes with different degrees of complexity and epistasis. We evaluate predictors of the evolution of sex, which are derived from the conditions established in the population genetic literature for the evolution of sex on simpler fitness landscapes. These predictors are based on quantities such as the variance of Hamming distance, mean fitness, additive genetic variance, and epistasis. We show that for complex fitness landscapes all the predictors generally perform poorly. Interestingly, while the simplest predictor, Delta Var(HD), also suffers from a lack of accuracy, it turns out to be the most robust across different types of fitness landscapes. Delta Var(HD) is based on the change in Hamming distance variance induced by recombination and thus does not require individual fitness measurements. The presence of loci that are not under selection can, however, severely diminish predictor accuracy. Our study thus highlights the difficulty of establishing reliable criteria for the evolution of sex on complex fitness landscapes and illustrates the challenge for both theoretical and experimental research on the origin and maintenance of sexual reproduction.
+
+-Computer Simulation
+-Discriminant Analysis
+-Epistasis, Genetic (-genetics)
++Evolution, Molecular
+-Genetic Fitness (+genetics)
+-Genotype
++Models, Genetic
+-Sample Size
++Sex
+-Systems Biology (+methods)
+
+doi:10.1371/journal.pcbi.1000510
+pubmed:19763171
+pmc:PMC2734178
+

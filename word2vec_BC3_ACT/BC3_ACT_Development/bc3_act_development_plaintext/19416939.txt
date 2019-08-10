@@ -1,0 +1,25 @@
+Genetics
+
+Epigenetic inheritance and the missing heritability problem.
+
+M Slatkin
+
+Epigenetic phenomena, and in particular heritable epigenetic changes, or transgenerational effects, are the subject of much discussion in the current literature. This article presents a model of transgenerational epigenetic inheritance and explores the effect of epigenetic inheritance on the risk and recurrence risk of a complex disease. The model assumes that epigenetic modifications of the genome are gained and lost at specified rates and that each modification contributes multiplicatively to disease risk. The potentially high rate of loss of epigenetic modifications causes the probability of identity in state in close relatives to be smaller than is implied by their relatedness. As a consequence, the recurrence risk to close relatives is reduced. Although epigenetic modifications may contribute substantially to average risk, they will not contribute much to recurrence risk and heritability unless they persist on average for many generations. If they do persist for long times, they are equivalent to mutations and hence are likely to be in linkage disequilibrium with SNPs surveyed in genomewide association studies. Thus epigenetic modifications are a potential solution to the problem of missing causality of complex diseases but not to the problem of missing heritability. The model highlights the need for empirical estimates of the persistence times of heritable epialleles.
+
+-Algorithms
+-Animals
+-Epigenesis, Genetic (+genetics)
+-Genetic Predisposition to Disease (+genetics)
+-Genome-Wide Association Study (+methods)
+-Humans
+-Linkage Disequilibrium
++Models, Genetic
+-Mutation
+-Polymorphism, Single Nucleotide
+-Time Factors
+
+pii:genetics.109.102798
+doi:10.1534/genetics.109.102798
+pubmed:19416939
+pmc:PMC2710163
+

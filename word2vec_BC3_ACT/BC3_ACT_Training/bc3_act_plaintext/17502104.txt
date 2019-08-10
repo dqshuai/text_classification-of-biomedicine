@@ -1,0 +1,24 @@
+Structure
+
+Structure of the calcineurin-NFAT complex: defining a T cell activation switch using solution NMR and crystal coordinates.
+
+K Takeuchi, MH Roehrl, ZY Sun, G Wagner
+
+Calcineurin (Cn) is a serine/threonine protein phosphatase that plays pivotal roles in many physiological processes, including cell proliferation, development, and apoptosis. Most prominently, Cn targets the nuclear factors of activated T cell (NFATs), transcription factors that activate cytokine genes. Calcium-activated Cn dephosphorylates multiple residues within the regulatory domain of NFAT, triggering joint nuclear translocation. This relies crucially on the interaction between the catalytic domain of Cn (CnCat) and the conserved PxIxIT motif located in a region distinct from the dephosphorylation sites of NFAT. Here, we present the structure of the complex between the 39 kDa CnCat and a 14 residue peptide containing a PVIVIT segment that was derived from affinity-driven peptide selection based on the conserved PxIxIT motif of NFATs. The structure of the complex was determined by using NMR assignments and structural constraints and the coordinates of the CnCat crystal structure. The NMR analysis relied on recently developed labeling and spectroscopic techniques. The VIVIT peptide is accommodated in a hydrophobic cleft formed by beta strands 11 and 14, and the loop between beta strands 11 and 12, forming a short parallel beta sheet with the exposed beta strand 14 in Cn. The side chains of conserved residues in the PxIxIT sequences make extensive interactions with conserved residues in Cn, while those of nonconserved residues are solvent exposed. The architecture of the interface explains the diversity of recognition sequences compatible with NFAT function and uncovers a potential targeting site for immune-suppressive agents. The structure reveals that the orientation of the bound PxIxIT directs the phosphorylation sites in NFAT's regulatory domain toward the Cn catalytic site.
+
+-Binding Sites (-physiology)
+-Calcineurin (+chemistry; -metabolism)
+-Crystallography, X-Ray
+-Humans
+-Lymphocyte Activation (+physiology)
++Magnetic Resonance Spectroscopy
+-NFATC Transcription Factors (+chemistry; -metabolism)
+-Protein Binding (-physiology)
+-T-Lymphocytes (-chemistry; +metabolism)
+
+pii:S0969-2126(07)00144-X
+doi:10.1016/j.str.2007.03.015
+pubmed:17502104
+mid:NIHMS23816
+pmc:PMC1989110
+

@@ -1,0 +1,28 @@
+Nucleic Acids Res.
+
+TARGeT: a web-based pipeline for retrieving and characterizing gene and transposable element families from genomic sequences.
+
+Y Han, JM Burnette, SR Wessler
+
+Gene families compose a large proportion of eukaryotic genomes. The rapidly expanding genomic sequence database provides a good opportunity to study gene family evolution and function. However, most gene family identification programs are restricted to searching protein databases where data are often lagging behind the genomic sequence data. Here, we report a user-friendly web-based pipeline, named TARGeT (Tree Analysis of Related Genes and Transposons), which uses either a DNA or amino acid 'seed' query to: (i) automatically identify and retrieve gene family homologs from a genomic database, (ii) characterize gene structure and (iii) perform phylogenetic analysis. Due to its high speed, TARGeT is also able to characterize very large gene families, including transposable elements (TEs). We evaluated TARGeT using well-annotated datasets, including the ascorbate peroxidase gene family of rice, maize and sorghum and several TE families in rice. In all cases, TARGeT rapidly recapitulated the known homologs and predicted new ones. We also demonstrated that TARGeT outperforms similar pipelines and has functionality that is not offered elsewhere.
+
+-Base Sequence
++DNA Transposable Elements
+-Genes, Plant
+-Genomics (+methods)
+-Internet
+-Molecular Sequence Data
++Multigene Family
+-Oryza sativa (-genetics)
+-Peroxidases (-genetics)
+-Phylogeny
+-Sequence Alignment
++Software
+-Sorghum (-genetics)
+-Zea mays (-genetics)
+
+pii:gkp295
+doi:10.1093/nar/gkp295
+pubmed:19429695
+pmc:PMC2699529
+

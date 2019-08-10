@@ -1,0 +1,23 @@
+PLoS Pathog.
+
+Fitness of Escherichia coli during urinary tract infection requires gluconeogenesis and the TCA cycle.
+
+CJ Alteri, SN Smith, HL Mobley
+
+Microbial pathogenesis studies traditionally encompass dissection of virulence properties such as the bacterium's ability to elaborate toxins, adhere to and invade host cells, cause tissue damage, or otherwise disrupt normal host immune and cellular functions. In contrast, bacterial metabolism during infection has only been recently appreciated to contribute to persistence as much as their virulence properties. In this study, we used comparative proteomics to investigate the expression of uropathogenic Escherichia coli (UPEC) cytoplasmic proteins during growth in the urinary tract environment and systematic disruption of central metabolic pathways to better understand bacterial metabolism during infection. Using two-dimensional fluorescence difference in gel electrophoresis (2D-DIGE) and tandem mass spectrometry, it was found that UPEC differentially expresses 84 cytoplasmic proteins between growth in LB medium and growth in human urine (P<0.005). Proteins induced during growth in urine included those involved in the import of short peptides and enzymes required for the transport and catabolism of sialic acid, gluconate, and the pentose sugars xylose and arabinose. Proteins required for the biosynthesis of arginine and serine along with the enzyme agmatinase that is used to produce the polyamine putrescine were also up-regulated in urine. To complement these data, we constructed mutants in these genes and created mutants defective in each central metabolic pathway and tested the relative fitness of these UPEC mutants in vivo in an infection model. Import of peptides, gluconeogenesis, and the tricarboxylic acid cycle are required for E. coli fitness during urinary tract infection while glycolysis, both the non-oxidative and oxidative branches of the pentose phosphate pathway, and the Entner-Doudoroff pathway were dispensable in vivo. These findings suggest that peptides and amino acids are the primary carbon source for E. coli during infection of the urinary tract. Because anaplerosis, or using central pathways to replenish metabolic intermediates, is required for UPEC fitness in vivo, we propose that central metabolic pathways of bacteria could be considered critical components of virulence for pathogenic microbes.
+
+-Bacterial Proteins (-analysis; -urine)
++Citric Acid Cycle
+-Electrophoresis, Gel, Two-Dimensional
+-Escherichia coli (+metabolism; +pathogenicity; -physiology)
++Gluconeogenesis
+-Humans
+-Metabolic Networks and Pathways
+-Proteomics (-methods)
+-Tandem Mass Spectrometry
+-Urinary Tract Infections (+microbiology)
+
+doi:10.1371/journal.ppat.1000448
+pubmed:19478872
+pmc:PMC2680622
+

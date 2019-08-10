@@ -1,0 +1,35 @@
+Genome Res.
+
+Epigenetic profiling at mouse imprinted gene clusters reveals novel epigenetic and genetic features at differentially methylated regions.
+
+SV Dindot, R Person, M Strivens, R Garcia, AL Beaudet
+
+Genomic imprinting arises from allele-specific epigenetic modifications that are established during gametogenesis and that are maintained throughout somatic development. These parental-specific modifications include DNA methylation and post-translational modifications to histones, which create allele-specific active and repressive domains at imprinted regions. Through the use of a high-density genomic tiling array, we generated DNA and histone methylation profiles at 11 imprinted gene clusters in the mouse from DNA and from chromatin immunoprecipitated from sperm, heart, and cerebellum. Our analysis revealed that despite high levels of differential DNA methylation at non-CpG islands within these regions, imprinting control regions (ICRs) and secondary differentially methylated regions (DMRs) were identified by an overlapping pattern of H3K4 trimethylation (active chromatin) and H3K9 trimethylation (repressive chromatin) modifications in somatic tissue, and a sperm differentially methylated region (sDMR; sperm not equal somatic tissue). Using these features as a common signature of DMRs, we identified 11 unique regions that mapped to known imprinted genes, to uncharacterized genes, and to intergenic regions flanking known imprinted genes. A common feature among these regions was the presence of a CpG island and an array of tandem repeats. Collectively, this study provides a comprehensive analysis of DNA methylation and histone H3K4me3 and H3K9me3 modifications at imprinted gene clusters, and identifies common epigenetic and genetic features of regions regulating genomic imprinting.
+
+-Animals
+-Chromatin Immunoprecipitation
+-Chromosome Mapping
+-Chromosomes, Mammalian (-genetics)
+-CpG Islands (-genetics)
++DNA Methylation
+-Epigenesis, Genetic (+genetics)
+-Female
+-Genome-Wide Association Study
++Genomic Imprinting
+-Histones (-metabolism)
+-Humans
+-Lysine (-metabolism)
+-Male
+-Methylation
+-Mice
+-Multigene Family (+genetics)
+-RNA, Untranslated (-genetics)
+-Repetitive Sequences, Nucleic Acid (-genetics)
+-Short Interspersed Nucleotide Elements
+-Spermatozoa (-metabolism)
+
+pii:gr.089185.108
+doi:10.1101/gr.089185.108
+pubmed:19542493
+pmc:PMC2720189
+

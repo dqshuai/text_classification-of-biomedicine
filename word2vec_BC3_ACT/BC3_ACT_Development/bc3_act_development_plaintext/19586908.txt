@@ -1,0 +1,31 @@
+J. Biol. Chem.
+
+Checkpoint kinase ATR promotes nucleotide excision repair of UV-induced DNA damage via physical interaction with xeroderma pigmentosum group A.
+
+SM Shell, Z Li, N Shkriabai, M Kvaratskhelia, C Brosey, MA Serrano, WJ Chazin, PR Musich, Y Zou
+
+In response to DNA damage, eukaryotic cells activate a series of DNA damage-dependent pathways that serve to arrest cell cycle progression and remove DNA damage. Coordination of cell cycle arrest and damage repair is critical for maintenance of genomic stability. However, this process is still poorly understood. Nucleotide excision repair (NER) and the ATR-dependent cell cycle checkpoint are the major pathways responsible for repair of UV-induced DNA damage. Here we show that ATR physically interacts with the NER factor Xeroderma pigmentosum group A (XPA). Using a mass spectrometry-based protein footprinting method, we found that ATR interacts with a helix-turn-helix motif in the minimal DNA-binding domain of XPA where an ATR phosphorylation site (serine 196) is located. XPA-deficient cells complemented with XPA containing a point mutation of S196A displayed a reduced repair efficiency of cyclobutane pyrimidine dimers as compared with cells complemented with wild-type XPA, although no effect was observed for repair of (6-4) photoproducts. This suggests that the ATR-dependent phosphorylation of XPA may promote NER repair of persistent DNA damage. In addition, a K188A point mutation of XPA that disrupts the ATR-XPA interaction inhibits the nuclear import of XPA after UV irradiation and, thus, significantly reduced DNA repair efficiency. By contrast, the S196A mutation has no effect on XPA nuclear translocation. Taken together, our results suggest that the ATR-XPA interaction mediated by the helix-turn-helix motif of XPA plays an important role in DNA-damage responses to promote cell survival and genomic stability after UV irradiation.
+
+-Active Transport, Cell Nucleus (-genetics; -radiation effects)
+-Amino Acid Motifs (-genetics)
+-Animals
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Cell Line
+-Cell Nucleus (-genetics; +metabolism)
+-Cell Survival (-genetics; -radiation effects)
+-DNA Damage (+radiation effects)
+-DNA Repair (+radiation effects)
+-Humans
+-Mass Spectrometry
+-Phosphorylation (-genetics; -radiation effects)
+-Point Mutation
+-Protein Binding (-radiation effects)
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
++Ultraviolet Rays
+-Xeroderma Pigmentosum Group A Protein (-genetics; +metabolism)
+
+pii:M109.000745
+doi:10.1074/jbc.M109.000745
+pubmed:19586908
+pmc:PMC2782015
+

@@ -1,0 +1,25 @@
+Plant Cell
+
+Dynamic plastid redox signals integrate gene expression and metabolism to induce distinct metabolic states in photosynthetic acclimation in Arabidopsis.
+
+K Bräutigam, L Dietzel, T Kleine, E Ströher, D Wormuth, KJ Dietz, D Radke, M Wirtz, R Hell, P Dörmann, A Nunes-Nesi, N Schauer, AR Fernie, SN Oliver, P Geigenberger, D Leister, T Pfannschmidt
+
+Plants possess acclimation responses in which structural reconfigurations adapt the photosynthetic apparatus to fluctuating illumination. Long-term acclimation involves changes in plastid and nuclear gene expression and is controlled by redox signals from photosynthesis. The kinetics of these signals and the adjustments of energetic and metabolic demands to the changes in the photosynthetic apparatus are currently poorly understood. Using a redox signaling system that preferentially excites either photosystem I or II, we measured the time-dependent impact of redox signals on the transcriptome and metabolome of Arabidopsis thaliana. We observed rapid and dynamic changes in nuclear transcript accumulation resulting in differential and specific expression patterns for genes associated with photosynthesis and metabolism. Metabolite pools also exhibited dynamic changes and indicate readjustments between distinct metabolic states depending on the respective illumination. These states reflect reallocation of energy resources in a defined and reversible manner, indicating that structural changes in the photosynthetic apparatus during long-term acclimation are additionally supported at the level of metabolism. We propose that photosynthesis can act as an environmental sensor, producing retrograde redox signals that trigger two parallel adjustment loops that coordinate photosynthesis and metabolism to adapt plant primary productivity to the environment.
+
+-Acclimatization (-genetics)
+-Arabidopsis (-genetics; +metabolism)
+-Gene Expression Profiling
+-Gene Expression Regulation, Plant
+-Light
+-Metabolome
++Oxidation-Reduction
++Photosynthesis
+-Plastids (+metabolism)
+-RNA, Plant (-genetics)
++Signal Transduction
+
+pii:tpc.108.062018
+doi:10.1105/tpc.108.062018
+pubmed:19737978
+pmc:PMC2768923
+

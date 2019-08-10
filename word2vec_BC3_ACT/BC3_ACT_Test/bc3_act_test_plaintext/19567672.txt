@@ -1,0 +1,32 @@
+Cancer Res.
+
+Protein kinase D regulates cell migration by direct phosphorylation of the cofilin phosphatase slingshot 1 like.
+
+P Peterburs, J Heering, G Link, K Pfizenmaier, MA Olayioye, A Hausser
+
+Protein kinase D (PKD) has been identified as a negative regulator of epithelial cell migration; however, its molecular substrates and downstream signaling pathways that mediate this activity have remained elusive. In this study, we provide evidence that the cofilin phosphatase slingshot 1 like (SSH1L), an important regulator of the complex actin remodeling machinery, is a novel in vivo PKD substrate. PKD-mediated phosphorylation of serines 937 and 978 regulates SSH1L subcellular localization by binding of 14-3-3 proteins and thus impacts the control of local cofilin activation and actin remodeling during cell migration. In line with this, we show that the loss of PKD decreases cofilin phosphorylation, induces a more spread cell morphology, and stimulates chemotactic migration of breast cancer cells in an SSHL1-dependent fashion. Our data thus identify PKD as a central regulator of the cofilin signaling network via direct phosphorylation and regulation of SSH1L.
+
+-Animals
+-COS Cells
+-Cell Line
+-Cell Line, Tumor
++Cell Movement
+-Cercopithecus aethiops
+-Cofilin 1 (+metabolism)
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Humans
+-Immunoblotting
+-Microscopy, Confocal
+-Microscopy, Fluorescence
+-Mutation
+-Phosphoprotein Phosphatases (-genetics; +metabolism)
+-Phosphorylation
+-Protein Kinase C (-genetics; +metabolism)
+-RNA, Small Interfering (-genetics)
+-Serine (-metabolism)
+-Transfection
+
+pii:0008-5472.CAN-09-0718
+doi:10.1158/0008-5472.CAN-09-0718
+pubmed:19567672
+

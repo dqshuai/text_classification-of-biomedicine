@@ -1,0 +1,28 @@
+J. Biol. Chem.
+
+Translesional DNA synthesis through a C8-guanyl adduct of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) in Vitro: REV1 inserts dC opposite the lesion, and DNA polymerase kappa potentially catalyzes extension reaction from the 3'-dC terminus.
+
+H Fukuda, T Takamura-Enya, Y Masuda, T Nohmi, C Seki, K Kamiya, T Sugimura, C Masutani, F Hanaoka, H Nakagama
+
+2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) is the most abundant heterocyclic amine in cooked foods, and is both mutagenic and carcinogenic. It has been suspected that the carcinogenicity of PhIP is derived from its ability to form DNA adducts, principally dG-C8-PhIP. To shed further light on the molecular mechanisms underlying the induction of mutations by PhIP, in vitro DNA synthesis analyses were carried out using a dG-C8-PhIP-modified oligonucleotide template. In this template, the dG-C8-PhIP adduct was introduced into the second G of the TCC GGG AAC sequence located in the 5' region. This represents one of the mutation hot spots in the rat Apc gene that is targeted by PhIP. Guanine deletions at this site in the Apc gene have been found to be preferentially induced by PhIP in rat colon tumors. DNA synthesis with A- or B-family DNA polymerases, such as Escherichia coli polymerase (pol) I and human pol delta, was completely blocked at the adducted guanine base. Translesional synthesis polymerases of the Y-family, pol eta, pol iota, pol kappa, and REV1, were also used for in vitro DNA synthesis analyses with the same templates. REV1, pol eta, and pol kappa were able to insert dCTP opposite dG-C8-PhIP, although the efficiencies for pol eta and pol kappa were low. pol kappa was also able to catalyze the extension reaction from the dC opposite dG-C8-PhIP, during which it often skipped over one dG of the triple dG sequence on the template. This slippage probably leads to the single dG base deletion in colon tumors.
+
+-Animals
+-Cell-Free System (-chemistry; -metabolism)
+-Colonic Neoplasms (-chemistry; -genetics; +metabolism)
+-DNA Adducts (-chemistry; -genetics; +metabolism)
+-DNA, Neoplasm (+biosynthesis; -chemistry; -genetics)
+-DNA-Directed DNA Polymerase (-chemistry; -genetics; +metabolism)
++Genes, APC
+-Humans
+-Imidazoles (-chemistry; +metabolism)
+-Nuclear Proteins (-chemistry; -genetics; +metabolism)
+-Nucleotidyltransferases (-chemistry; -genetics; +metabolism)
+-Oligonucleotides (-chemistry; -genetics; -metabolism)
+-Rats
+-Sequence Deletion
+
+pii:M109.037259
+doi:10.1074/jbc.M109.037259
+pubmed:19628463
+pmc:PMC2757960
+

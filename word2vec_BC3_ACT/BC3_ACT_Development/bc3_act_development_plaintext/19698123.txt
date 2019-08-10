@@ -1,0 +1,30 @@
+BMC Struct. Biol.
+
+The crystal structure of Haloferax volcanii proliferating cell nuclear antigen reveals unique surface charge characteristics due to halophilic adaptation.
+
+JA Winter, P Christofi, S Morroll, KA Bunting
+
+BACKGROUND: The high intracellular salt concentration required to maintain a halophilic lifestyle poses challenges to haloarchaeal proteins that must stay soluble, stable and functional in this extreme environment. Proliferating cell nuclear antigen (PCNA) is a fundamental protein involved in maintaining genome integrity, with roles in both DNA replication and repair. To investigate the halophilic adaptation of such a key protein we have crystallised and solved the structure of Haloferax volcanii PCNA (HvPCNA) to a resolution of 2.0 A. RESULTS: The overall architecture of HvPCNA is very similar to other known PCNAs, which are highly structurally conserved. Three commonly observed adaptations in halophilic proteins are higher surface acidity, bound ions and increased numbers of intermolecular ion pairs (in oligomeric proteins). HvPCNA possesses the former two adaptations but not the latter, despite functioning as a homotrimer. Strikingly, the positive surface charge considered key to PCNA's role as a sliding clamp is dramatically reduced in the halophilic protein. Instead, bound cations within the solvation shell of HvPCNA may permit sliding along negatively charged DNA by reducing electrostatic repulsion effects. CONCLUSION: The extent to which individual proteins adapt to halophilic conditions varies, presumably due to their diverse characteristics and roles within the cell. The number of ion pairs observed in the HvPCNA monomer-monomer interface was unexpectedly low. This may reflect the fact that the trimer is intrinsically stable over a wide range of salt concentrations and therefore additional modifications for trimer maintenance in high salt conditions are not required. Halophilic proteins frequently bind anions and cations and in HvPCNA cation binding may compensate for the remarkable reduction in positive charge in the pore region, to facilitate functional interactions with DNA. In this way, HvPCNA may harness its environment as opposed to simply surviving in extreme halophilic conditions.
+
+-Adaptation, Biological
+-Amino Acid Sequence
+-Archaeal Proteins (+chemistry; -metabolism)
+-Binding Sites
+-Crystallography, X-Ray
+-Haloferax volcanii (+chemistry; -metabolism)
++Hydrophobicity
+-Ions (-chemistry; -metabolism)
+-Models, Molecular
+-Proliferating Cell Nuclear Antigen (+chemistry; -metabolism)
+-Protein Binding
+-Protein Structure, Quaternary
+-Protein Structure, Tertiary
+-Salts (+chemistry; -metabolism)
+-Sequence Alignment
+-Structural Homology, Protein
+
+pii:1472-6807-9-55
+doi:10.1186/1472-6807-9-55
+pubmed:19698123
+pmc:PMC2737543
+

@@ -1,0 +1,28 @@
+PLoS ONE
+
+Hemichannel-mediated and pH-based feedback from horizontal cells to cones in the vertebrate retina.
+
+I Fahrenfort, M Steijaert, T Sjoerdsma, E Vickers, H Ripps, J van Asselt, D Endeman, J Klooster, R Numan, H ten Eikelder, H von Gersdorff, M Kamermans
+
+BACKGROUND: Recent studies designed to identify the mechanism by which retinal horizontal cells communicate with cones have implicated two processes. According to one account, horizontal cell hyperpolarization induces an increase in pH within the synaptic cleft that activates the calcium current (Ca(2+)-current) in cones, enhancing transmitter release. An alternative account suggests that horizontal cell hyperpolarization increases the Ca(2+)-current to promote transmitter release through a hemichannel-mediated ephaptic mechanism. METHODOLOGY/PRINCIPAL FINDINGS: To distinguish between these mechanisms, we interfered with the pH regulating systems in the retina and studied the effects on the feedback responses of cones and horizontal cells. We found that the pH buffers HEPES and Tris partially inhibit feedback responses in cones and horizontal cells and lead to intracellular acidification of neurons. Application of 25 mM acetate, which does not change the extracellular pH buffer capacity, does lead to both intracellular acidification and inhibition of feedback. Because intracellular acidification is known to inhibit hemichannels, the key experiment used to test the pH hypothesis, i.e. increasing the extracellular pH buffer capacity, does not discriminate between a pH-based feedback system and a hemichannel-mediated feedback system. To test the pH hypothesis in a manner independent of artificial pH-buffer systems, we studied the effect of interfering with the endogenous pH buffer, the bicarbonate/carbonic anhydrase system. Inhibition of carbonic anhydrase allowed for large changes in pH in the synaptic cleft of bipolar cell terminals and cone terminals, but the predicted enhancement of the cone feedback responses, according to the pH-hypothesis, was not observed. These experiments thus failed to support a proton mediated feedback mechanism. The alternative hypothesis, the hemichannel-mediated ephaptic feedback mechanism, was therefore studied experimentally, and its feasibility was buttressed by means of a quantitative computer model of the cone/horizontal cell synapse. CONCLUSION: We conclude that the data presented in this paper offers further support for physiologically relevant ephaptic interactions in the retina.
+
+-Acetates (-chemistry)
+-Animals
+-Calcium (-metabolism)
+-Electrophysiology (-methods)
+-Feedback, Physiological
+-Female
+-Goldfish
+-Hydrogen-Ion Concentration
+-Models, Biological
+-Oocytes (-metabolism)
+-Retina (+metabolism)
+-Retinal Cone Photoreceptor Cells (+metabolism)
+-Synaptic Transmission
+-Vertebrates (+metabolism)
+-Xenopus laevis
+
+doi:10.1371/journal.pone.0006090
+pubmed:19564917
+pmc:PMC2699542
+

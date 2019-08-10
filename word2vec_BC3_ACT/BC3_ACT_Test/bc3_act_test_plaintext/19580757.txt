@@ -1,0 +1,23 @@
+Biophys. J.
+
+spFRET using alternating excitation and FCS reveals progressive DNA unwrapping in nucleosomes.
+
+WJ Koopmans, R Buning, T Schmidt, J van Noort
+
+Accessibility to DNA wrapped in nucleosomes is essential for nuclear processes such as DNA transcription. Large conformational changes in nucleosome structure are required to facilitate protein binding to target sites within nucleosomal DNA. Transient unwrapping of DNA from nucleosome ends can provide an intrinsic exposure of wrapped DNA, allowing proteins to bind DNA that would otherwise be occluded in the nucleosome. The molecular details underlying these mechanisms remain to be resolved. Here we show how DNA unwrapping occurs progressively from both nucleosome ends. We performed single-pair fluorescence resonance energy transfer (spFRET) spectroscopy with alternating laser excitation (ALEX) on nucleosomes either in free solution or confined in a gel after PAGE separation. We combined ALEX-spFRET with a correlation analysis on selected bursts of fluorescence, to resolve a variety of unwrapped nucleosome conformations. The experiments reveal that nucleosomes are unwrapped with an equilibrium constant of approximately 0.2-0.6 at nucleosome ends and approximately 0.1 at a location 27 basepairs inside the nucleosome, but still remain stably associated. Our findings, obtained using a powerful combination of single-molecule fluorescence techniques and gel electrophoresis, emphasize the delicate interplay between DNA accessibility and condensation in chromatin.
+
+-DNA (-chemistry; +metabolism)
+-Electrophoresis, Polyacrylamide Gel
+-Fluorescence
+-Fluorescence Resonance Energy Transfer
+-Lasers
+-Microscopy, Fluorescence
++Nucleic Acid Conformation
+-Nucleosomes (+physiology)
+-Spectrometry, Fluorescence (-methods)
+
+pii:S0006-3495(09)00849-2
+doi:10.1016/j.bpj.2009.04.030
+pubmed:19580757
+pmc:PMC2711358
+

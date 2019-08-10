@@ -1,0 +1,26 @@
+BMC Bioinformatics
+
+Differential splicing using whole-transcript microarrays.
+
+MD Robinson, TP Speed
+
+BACKGROUND: The latest generation of Affymetrix microarrays are designed to interrogate expression over the entire length of every locus, thus giving the opportunity to study alternative splicing genome-wide. The Exon 1.0 ST (sense target) platform, with versions for Human, Mouse and Rat, is designed primarily to probe every known or predicted exon. The smaller Gene 1.0 ST array is designed as an expression microarray but still interrogates expression with probes along the full length of each well-characterized transcript. We explore the possibility of using the Gene 1.0 ST platform to identify differential splicing events. RESULTS: We propose a strategy to score differential splicing by using the auxiliary information from fitting the statistical model, RMA (robust multichip analysis). RMA partitions the probe-level data into probe effects and expression levels, operating robustly so that if a small number of probes behave differently than the rest, they are downweighted in the fitting step. We argue that adjacent poorly fitting probes for a given sample can be evidence of differential splicing and have designed a statistic to search for this behaviour. Using a public tissue panel dataset, we show many examples of tissue-specific alternative splicing. Furthermore, we show that evidence for putative alternative splicing has a strong correspondence between the Gene 1.0 ST and Exon 1.0 ST platforms. CONCLUSION: We propose a new approach, FIRMAGene, to search for differentially spliced genes using the Gene 1.0 ST platform. Such an analysis complements the search for differential expression. We validate the method by illustrating several known examples and we note some of the challenges in interpreting the probe-level data.Software implementing our methods is freely available as an R package.
+
++Alternative Splicing
+-Animals
+-Data Interpretation, Statistical
+-Genomics (+methods)
+-Humans
+-Mice
+-Models, Statistical
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Rats
+-Reproducibility of Results
++Software
++Transcription, Genetic
+
+pii:1471-2105-10-156
+doi:10.1186/1471-2105-10-156
+pubmed:19463149
+pmc:PMC2703633
+

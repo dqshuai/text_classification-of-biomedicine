@@ -1,0 +1,28 @@
+PLoS ONE
+
+Universal temporal profile of replication origin activation in eukaryotes.
+
+A Goldar, MC Marsolier-Kergoat, O Hyrien
+
+Although replication proteins are conserved among eukaryotes, the sequence requirements for replication initiation differ between species. In all species, however, replication origins fire asynchronously throughout S phase. The temporal program of origin firing is reproducible in cell populations but largely probabilistic at the single-cell level. The mechanisms and the significance of this program are unclear. Replication timing has been correlated with gene activity in metazoans but not in yeast. One potential role for a temporal regulation of origin firing is to minimize fluctuations in replication end time and avoid persistence of unreplicated DNA in mitosis. Here, we have extracted the population-averaged temporal profiles of replication initiation rates for S. cerevisiae, S. pombe, D. melanogaster, X. laevis and H. sapiens from genome-wide replication timing and DNA combing data. All the profiles have a strikingly similar shape, increasing during the first half of S phase then decreasing before its end. A previously proposed minimal model of stochastic initiation modulated by accumulation of a recyclable, limiting replication-fork factor and fork-promoted initiation of new origins, quantitatively described the observed profiles without requiring new implementations.The selective pressure for timely completion of genome replication and optimal usage of replication proteins that must be imported into the cell nucleus can explain the generic shape of the profiles. We have identified a universal behavior of eukaryotic replication initiation that transcends the mechanisms of origin specification. The population-averaged efficiency of replication origin usage changes during S phase in a strikingly similar manner in a highly diverse set of eukaryotes. The quantitative model previously proposed for origin activation in X. laevis can be generalized to explain this evolutionary conservation.
+
+-Algorithms
+-Animals
+-Computational Biology
+-DNA (-metabolism)
+-Drosophila melanogaster (-genetics)
+-Gene Expression Profiling (+methods)
+-Genome
+-Genomics (+methods)
+-Humans
++Mitosis
+-Models, Statistical
++Replication Origin
+-Saccharomyces cerevisiae (-genetics)
+-Schizosaccharomyces (-genetics)
+-Xenopus laevis (-genetics)
+
+doi:10.1371/journal.pone.0005899
+pubmed:19521533
+pmc:PMC2690853
+

@@ -1,0 +1,23 @@
+BMC Plant Biol.
+
+Tissue culture-induced transpositional activity of mPing is correlated with cytosine methylation in rice.
+
+F Ngezahayo, C Xu, H Wang, L Jiang, J Pang, B Liu
+
+BACKGROUND: mPing is an endogenous MITE in the rice genome, which is quiescent under normal conditions but can be induced towards mobilization under various stresses. The cellular mechanism responsible for modulating the activity of mPing remains unknown. Cytosine methylation is a major epigenetic modification in most eukaryotes, and the primary function of which is to serve as a genome defense system including taming activity of transposable elements (TEs). Given that tissue-culture is capable of inducing both methylation alteration and mPing transposition in certain rice genotypes, it provides a tractable system to investigate the possible relationship between the two phenomena. RESULTS: mPing transposition and cytosine methylation alteration were measured in callus and regenerated plants in three rice (ssp. indica) genotypes, V14, V27 and R09. All three genotypes showed transposition of mPing, though at various frequencies. Cytosine methylation alteration occurred both at the mPing-flanks and at random loci sampled globally in callus and regenerated plants of all three genotypes. However, a sharp difference in the changing patterns was noted between the mPing-flanks and random genomic loci, with a particular type of methylation modification, i.e., CNG hypermethylation, occurred predominantly at the mPing-flanks. Pearson's test on pairwise correlations indicated that mPing activity is positively correlated with specific patterns of methylation alteration at random genomic loci, while the element's immobility is positively correlated with methylation levels of the mPing's 5'-flanks. Bisulfite sequencing of two mPing-containing loci showed that whereas for the immobile locus loss of CG methylation in the 5'-flank was accompanied by an increase in CHG methylation, together with an overall increase in methylation of all three types (CG, CHG and CHH) in the mPing-body region, for the active locus erasure of CG methylation in the 5'-flank was not followed by such a change. CONCLUSION: Our results documented that tissue culture-induced mPing activity in rice ssp. indica is correlated with alteration in cytosine methylation patterns at both random genomic loci and the elements' flanks, while the stability of mPing positively correlates with enhanced methylation levels of both the flanks and probably the elements per se. Thus, our results implicate a possible role of cytosine methylation in maintaining mPing stability under normal conditions, and in releasing the element's activity as a consequence of epigenetic perturbation in a locus-specific manner under certain stress conditions.
+
+-Cytosine (+metabolism)
++DNA Methylation
++DNA Transposable Elements
+-DNA, Plant (+metabolism)
+-Epigenesis, Genetic
+-Gene Expression Regulation, Plant
+-Genotype
+-Oryza sativa (+genetics; -metabolism)
+-Tissue Culture Techniques
+
+pii:1471-2229-9-91
+doi:10.1186/1471-2229-9-91
+pubmed:19604382
+pmc:PMC2715021
+

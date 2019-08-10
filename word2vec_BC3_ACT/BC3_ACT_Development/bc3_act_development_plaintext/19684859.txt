@@ -1,0 +1,26 @@
+PLoS ONE
+
+RNA silencing of Mcl-1 enhances ABT-737-mediated apoptosis in melanoma: role for a caspase-8-dependent pathway.
+
+AM Keuling, KE Felton, AA Parker, M Akbari, SE Andrew, VA Tron
+
+BACKGROUND: Malignant melanoma is resistant to almost all conventional forms of chemotherapy. Recent evidence suggests that anti-apoptotic proteins of the Bcl-2 family are overexpressed in melanoma and may contribute to melanoma's striking resistance to apoptosis. ABT-737, a small-molecule inhibitor of Bcl-2, Bcl-xl and Bcl-w, has demonstrated efficacy in several forms of leukemia, lymphoma as well as solid tumors. However, overexpression of Mcl-1, a frequent observance in melanoma, is known to confer ABT-737 resistance. METHODOLOGY/PRINCIPAL FINDINGS: Here we report that knockdown of Mcl-1 greatly reduces cell viability in combination with ABT-737 in six different melanoma cell lines. We demonstrate that the cytotoxic effect of this combination treatment is due to apoptotic cell death involving not only caspase-9 activation but also activation of caspase-8, caspase-10 and Bid, which are normally associated with the extrinsic pathway of apoptosis. Caspase-8 (and caspase-10) activation is abrogated by inhibition of caspase-9 but not by inhibitors of the death receptor pathways. Furthermore, while caspase-8/-10 activity is required for the full induction of cell death with treatment, the death receptor pathways are not. Finally, we demonstrate that basal levels of caspase-8 and Bid correlate with treatment sensitivity. CONCLUSIONS/SIGNIFICANCE: Our findings suggest that the combination of ABT-737 and Mcl-1 knockdown represents a promising, new treatment strategy for malignant melanoma. We also report a death receptor-independent role for extrinsic pathway proteins in treatment response and suggest that caspase-8 and Bid may represent potential markers of treatment sensitivity.
+
+-Apoptosis (+drug effects)
+-Biphenyl Compounds (+pharmacology)
+-Caspase 8 (-genetics; +metabolism)
+-Cell Line, Tumor
+-Gene Knockdown Techniques
+-Humans
+-Melanoma (-enzymology; -genetics; +pathology)
+-Nitrophenols (+pharmacology)
+-Piperazines (-pharmacology)
+-Polymorphism, Genetic
+-Proto-Oncogene Proteins c-bcl-2 (+genetics)
++RNA Interference
+-Sulfonamides (+pharmacology)
+
+doi:10.1371/journal.pone.0006651
+pubmed:19684859
+pmc:PMC2722728
+

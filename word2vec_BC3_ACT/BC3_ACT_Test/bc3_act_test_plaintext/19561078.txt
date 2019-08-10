@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+Knockdown of ASIC1 and epithelial sodium channel subunits inhibits glioblastoma whole cell current and cell migration.
+
+N Kapoor, R Bartoszewski, YJ Qadri, Z Bebok, JK Bubien, CM Fuller, DJ Benos
+
+High grade gliomas such as glioblastoma multiforme express multiple members of the epithelial sodium channel (ENaC)/Degenerin family, characteristically displaying a basally active amiloride-sensitive cation current not seen in normal human astrocytes or lower grade gliomas. Using quantitative real time PCR, we have shown higher expression of ASIC1, alphaENaC, and gammaENaC in D54-MG human glioblastoma multiforme cells compared with primary human astrocytes. We hypothesize that this glioma current is mediated by a hybrid channel composed of a mixture of ENaC and acid-sensing ion channel (ASIC) subunits. To test this hypothesis we made dominant negative cDNAs for ASIC1, alphaENaC, gammaENaC, and deltaENaC. D54-MG cells transfected with the dominant negative constructs for ASIC1, alphaENaC, or gammaENaC showed reduced protein expression and a significant reduction in the amiloride-sensitive whole cell current as compared with untransfected D54-MG cells. Knocking down alphaENaC or gammaENaC also abolished the high P(K)(+)/P(Na)(+) of D54-MG cells. Knocking down deltaENaC in D54-MG cells reduced deltaENaC protein expression but had no effect on either the whole cell current or K(+) permeability. Using co-immunoprecipitation we show interactions between ASIC1, alphaENaC, and gammaENaC, consistent with these subunits interacting with each other to form an ion channel in glioma cells. We also found a significant inhibition of D54-MG cell migration after ASIC1, alphaENaC, or gammaENaC knockdown, consistent with the hypothesis that ENaC/Degenerin subunits play an important role in glioma cell biology.
+
+-Animals
+-Astrocytes (-metabolism)
+-CHO Cells
++Cell Movement
+-Cricetinae
+-Cricetulus
+-Epithelial Sodium Channel (-genetics; +metabolism)
+-Gene Knockdown Techniques
+-Glioblastoma (-genetics; +mortality)
+-Humans
++Membrane Potentials
+-Nerve Tissue Proteins (-genetics; +metabolism)
+-Protein Binding
+-Protein Subunits (-genetics; -metabolism)
+-Sodium Channels (-genetics; +metabolism)
+
+pii:M109.037390
+doi:10.1074/jbc.M109.037390
+pubmed:19561078
+pmc:PMC2782044
+

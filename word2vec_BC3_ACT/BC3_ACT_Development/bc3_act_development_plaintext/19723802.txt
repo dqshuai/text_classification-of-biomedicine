@@ -1,0 +1,26 @@
+J. Cell. Sci.
+
+Sox2 is dispensable for the reprogramming of melanocytes and melanoma cells into induced pluripotent stem cells.
+
+J Utikal, N Maherali, W Kulalert, K Hochedlinger
+
+Induced pluripotent stem cells (iPSCs) have been derived at low frequencies from different cell types through ectopic expression of the transcription factors Oct4 and Sox2, combined with either Klf4 and c-Myc or Lin28 and Nanog. In order to generate iPSCs more effectively, it will be crucial to identify somatic cells that are easily accessible and possibly require fewer factors for conversion into iPSCs. Here, we show that both human and mouse melanocytes give rise to iPSCs at higher efficiencies than fibroblasts. Moreover, we demonstrate that a mouse malignant melanoma cell line, which has previously been reprogrammed into embryonic stem cells by nuclear transfer, remains equally amenable to reprogramming into iPSCs by these transcription factors. In contrast to skin fibroblasts, melanocytes and melanoma cells did not require ectopic Sox2 expression for conversion into iPSCs. iPSC lines from melanocytic cells expressed pluripotency markers, formed teratomas and contributed to viable chimeric mice with germ line transmission. Our results identify skin melanocytes as an alternative source for deriving patient-specific iPSCs at increased efficiency and with fewer genetic elements. In addition, our results suggest that cancer cells remain susceptible to transcription factor-mediated reprogramming, which should facilitate the study of epigenetic changes in human cancer.
+
+-Animals
++Cell Differentiation
+-Cell Line, Tumor
+-Cells, Cultured
+-Gene Expression
+-Humans
+-Melanocytes (+cytology; -metabolism)
+-Melanoma (-metabolism; +physiopathology)
+-Mice
+-Mice, Inbred C57BL
+-Pluripotent Stem Cells (+cytology; -metabolism)
+-SOXB1 Transcription Factors (-genetics; +metabolism)
+
+pii:jcs.054783
+doi:10.1242/jcs.054783
+pubmed:19723802
+pmc:PMC2746132
+

@@ -1,0 +1,20 @@
+BMC Mol. Biol.
+
+RNF168, a new RING finger, MIU-containing protein that modifies chromatin by ubiquitination of histones H2A and H2AX.
+
+S Pinato, C Scandiuzzi, N Arnaudo, E Citterio, G Gaudino, L Penengo
+
+BACKGROUND: Modulation of chromatin structure has emerged as a critical molecular device to control gene expression. Histones undergo different post-translational modifications that increase chromatin accessibility to a number of regulatory factors. Among them, histone ubiquitination appears relevant in nuclear processes that govern gene silencing, either by inhibiting or activating transcription, and maintain genome stability, acting as scaffold to properly organize the DNA damage response. Thus, it is of paramount importance the identification and the characterization of new ubiquitin ligases that address histones. RESULTS: We identified and characterized RNF168, a new chromatin-associated RING finger protein. We demonstrated that RNF168 is endowed with ubiquitin ligase activity both in vitro and in vivo, which targets histones H2A and H2AX, but not H2B, forming K63 polyubiquitin chains. We previously described the presence within RNF168 sequence of two MIU domains, responsible for the binding to ubiquitinated proteins. Here we showed that inactivation of the MIUs impairs ubiquitin binding ability in vitro and reduces chromatin association of RNF168 in vivo. Moreover, upon formation of DNA double strand breaks induced by chemical and physical agents, RNF168 is recruited to the DNA damage foci, where it co-localizes with gammaH2AX and 53BP1. The localization of RNF168 at the site of damage highly increases the local concentration of ubiquitinated proteins and determines the prolonged ubiquitination signal. CONCLUSION: The RING finger protein RNF168 is a new ubiquitin ligase that functions as chromatin modifier, through histone ubiquitination. We hypothesize a dual function for RNF168. In normal condition RNF168 modifies chromatin structure by modulating ubiquitination of histone H2A. Upon DNA lesions, RNF168 is recruited to DNA damage response foci where it contributes to increase the amount of ubiquitinated proteins, thereby facilitating the downstream signalling cascade.
+
+-Cell Line
++Chromatin Assembly and Disassembly
+-Histones (+metabolism)
+-Humans
+-Ubiquitin-Protein Ligases (+metabolism)
++Ubiquitination
+
+pii:1471-2199-10-55
+doi:10.1186/1471-2199-10-55
+pubmed:19500350
+pmc:PMC2699339
+

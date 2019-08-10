@@ -1,0 +1,32 @@
+Oncogene
+
+The prolyl isomerase Pin1 regulates the NF-kappaB signaling pathway and interleukin-8 expression in glioblastoma.
+
+GP Atkinson, SE Nozell, DK Harrison, MS Stonecypher, D Chen, EN Benveniste
+
+The brain tumor glioblastoma (GBM) remains one of the most aggressive and devastating tumors despite decades of effort to find more effective treatments. A hallmark of GBM is the constitutive activation of the nuclear factor kappa-light-chain-enhancer of activated B cells (NF-kappaB) signaling pathway, which regulates cell proliferation, inflammation, migration and apoptosis. The prolyl isomerase, Pin1, has been found to bind directly to the NF-kappaB protein, p65, and cause increases in NF-kappaB promoter activity in a breast cancer model. We now present evidence that this interaction occurs in GBM and that it has important consequences on NF-kappaB signaling. We demonstrate that Pin1 levels are enhanced in primary GBM tissues compared with controls, and that this difference in Pin1 expression affects the migratory capacity of GBM-derived cells. Pin1 knockdown decreases the amount of activated, phosphorylated p65 in the nucleus, resulting in inhibition of the transcriptional program of the IL-8 gene. Through the use of microarray, we also observed changes in the expression levels of other NF-kappaB regulated genes due to Pin1 knockdown. Taken together, these data suggest that Pin1 is an important regulator of NF-kappaB in GBM, and support the notion of using Pin1 as a therapeutic target in the future.
+
+-Animals
+-Brain Neoplasms (+genetics; -metabolism; -pathology)
+-Cell Line, Tumor
+-Cell Movement (-genetics)
++Gene Expression Regulation, Neoplastic (-drug effects)
+-Gene Knockdown Techniques
+-Glioblastoma (+genetics; -metabolism; -pathology)
+-Humans
+-Interleukin-8 (+genetics)
+-Inverted Repeat Sequences
+-Mice
+-NF-kappa B (+metabolism)
+-Peptidylprolyl Isomerase (-deficiency; -genetics; +metabolism)
+-Phosphorylation
+-Promoter Regions, Genetic
+-RNA, Messenger (-genetics; -metabolism)
++Signal Transduction
+-Tetracycline (-pharmacology)
+-Transcription Factor RelA (-metabolism)
+
+pii:onc2009232
+doi:10.1038/onc.2009.232
+pubmed:19668231
+

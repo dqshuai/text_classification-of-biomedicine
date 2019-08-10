@@ -1,0 +1,20 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Nucleosome disassembly intermediates characterized by single-molecule FRET.
+
+A Gansen, A Valeri, F Hauger, S Felekyan, S Kalinin, K Tóth, J Langowski, CA Seidel
+
+The nucleosome has a central role in the compaction of genomic DNA and the control of DNA accessibility for transcription and replication. To help understanding the mechanism of nucleosome opening and closing in these processes, we studied the disassembly of mononucleosomes by quantitative single-molecule FRET with high spatial resolution, using the SELEX-generated "Widom 601" positioning sequence labeled with donor and acceptor fluorophores. Reversible dissociation was induced by increasing NaCl concentration. At least 3 species with different FRET were identified and assigned to structures: (i) the most stable high-FRET species corresponding to the intact nucleosome, (ii) a less stable mid-FRET species that we attribute to a first intermediate with a partially unwrapped DNA and less histones, and (iii) a low-FRET species characterized by a very broad FRET distribution, representing highly unwrapped structures and free DNA formed at the expense of the other 2 species. Selective FCS analysis indicates that even in the low-FRET state, some histones are still bound to the DNA. The interdye distance of 54.0 A measured for the high-FRET species corresponds to a compact conformation close to the known crystallographic structure. The coexistence and interconversion of these species is first demonstrated under non-invasive conditions. A geometric model of the DNA unwinding predicts the presence of the observed FRET species. The different structures of these species in the disassembly pathway map the energy landscape indicating major barriers for 10-bp and minor ones for 5-bp DNA unwinding steps.
+
+-DNA (-metabolism)
+-Fluorescence Resonance Energy Transfer (+methods)
+-Histones (-metabolism)
++Models, Molecular
+-Nucleosomes (-metabolism; +ultrastructure)
+-Sodium Chloride
+
+pii:0903005106
+doi:10.1073/pnas.0903005106
+pubmed:19706432
+pmc:PMC2741247
+

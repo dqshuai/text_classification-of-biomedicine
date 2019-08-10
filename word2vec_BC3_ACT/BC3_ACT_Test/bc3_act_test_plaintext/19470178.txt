@@ -1,0 +1,23 @@
+BMC Genomics
+
+Primate phylogenomics: developing numerous nuclear non-coding, non-repetitive markers for ecological and phylogenetic applications and analysis of evolutionary rate variation.
+
+Z Peng, N Elango, DE Wildman, SV Yi
+
+BACKGROUND: Genetic analyses are often limited by the availability of appropriate molecular markers. Markers from neutrally evolving genomic regions may be particularly useful for inferring evolutionary histories because they escape the constraints of natural selection. For the majority of taxa however, obtaining such markers is challenging. Advances in genomics have the potential to alleviate the shortage of neutral markers. Here we present a method to develop numerous markers from putatively neutral regions of primate genomes. RESULTS: We began with the available whole genome sequences of human, chimpanzee and macaque. Using computational methods, we identified a total of 280 potential amplicons from putatively neutral, non-coding, non-repetitive regions of these genomes. Subsequently we amplified, using experimental methods, many of these amplicons from diverse primate taxa, including a ring-tailed lemur, which is distantly related to the genomic resources. Using a subset of 10 markers, we demonstrate the utility of the developed markers in phylogenetic and evolutionary rate analyses. Particularly, we uncovered substantial evolutionary rate variation among lineages, some of which are previously not reported. CONCLUSION: We successfully developed numerous markers from putatively neutral regions of primate genomes using a strategy combining computational and experimental methods. Applying these markers to phylogenetic and evolutionary rate variation analyses exemplifies the utility of these markers. Diverse ecological and evolutionary analyses will benefit from these markers. Importantly, methods similar to those presented here can be applied to other taxa in the near future.
+
+-Animals
++Evolution, Molecular
+-Genetic Markers
+-Genome
+-Genomics (+methods)
+-Humans
++Phylogeny
+-Primates (+genetics)
+-Sequence Analysis, DNA
+
+pii:1471-2164-10-247
+doi:10.1186/1471-2164-10-247
+pubmed:19470178
+pmc:PMC2693144
+

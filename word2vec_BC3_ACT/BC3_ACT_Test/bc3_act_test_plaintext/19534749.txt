@@ -1,0 +1,19 @@
+BMC Bioinformatics
+
+A bioinformatics knowledge discovery in text application for grid computing.
+
+M Castellano, G Mastronardi, R Bellotti, G Tarricone
+
+BACKGROUND: A fundamental activity in biomedical research is Knowledge Discovery which has the ability to search through large amounts of biomedical information such as documents and data. High performance computational infrastructures, such as Grid technologies, are emerging as a possible infrastructure to tackle the intensive use of Information and Communication resources in life science. The goal of this work was to develop a software middleware solution in order to exploit the many knowledge discovery applications on scalable and distributed computing systems to achieve intensive use of ICT resources. METHODS: The development of a grid application for Knowledge Discovery in Text using a middleware solution based methodology is presented. The system must be able to: perform a user application model, process the jobs with the aim of creating many parallel jobs to distribute on the computational nodes. Finally, the system must be aware of the computational resources available, their status and must be able to monitor the execution of parallel jobs. These operative requirements lead to design a middleware to be specialized using user application modules. It included a graphical user interface in order to access to a node search system, a load balancing system and a transfer optimizer to reduce communication costs. RESULTS: A middleware solution prototype and the performance evaluation of it in terms of the speed-up factor is shown. It was written in JAVA on Globus Toolkit 4 to build the grid infrastructure based on GNU/Linux computer grid nodes. A test was carried out and the results are shown for the named entity recognition search of symptoms and pathologies. The search was applied to a collection of 5,000 scientific documents taken from PubMed. CONCLUSION: In this paper we discuss the development of a grid application based on a middleware solution. It has been tested on a knowledge discovery in text process to extract new and useful information about symptoms and pathologies from a large collection of unstructured scientific documents. As an example a computation of Knowledge Discovery in Database was applied on the output produced by the KDT user module to extract new knowledge about symptom and pathology bio-entities.
+
+-Computational Biology (+methods)
+-Database Management Systems
+-Databases, Factual
+-Information Storage and Retrieval (+methods)
+-Software
+
+pii:1471-2105-10-S6-S23
+doi:10.1186/1471-2105-10-S6-S23
+pubmed:19534749
+pmc:PMC2697647
+

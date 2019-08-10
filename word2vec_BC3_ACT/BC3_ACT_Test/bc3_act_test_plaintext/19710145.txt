@@ -1,0 +1,29 @@
+J. Virol.
+
+The Epstein-Barr virus protein kinase BGLF4 and the exonuclease BGLF5 have opposite effects on the regulation of viral protein production.
+
+R Feederle, AM Mehl-Lautscham, H Bannert, HJ Delecluse
+
+The Epstein-Barr virus BGLF4 and BGLF5 genes encode a protein kinase and an alkaline exonuclease, respectively. Both proteins were previously found to regulate multiple steps of virus replication, including lytic DNA replication and primary egress. However, while inactivation of BGLF4 led to the downregulation of several viral proteins, the absence of BGLF5 had the opposite effect. Using recombinant viruses that lack both viral enzymes, we confirm and extend these initial observations, e.g., by showing that both BGLF4 and BGLF5 are required for proper phosphorylation of the DNA polymerase processivity factor BMRF1. We further found that neither BGLF4 nor BGLF5 is required for baseline viral protein production. Complementation with BGLF5 downregulated mRNA levels and translation of numerous viral genes, though to various degrees, whereas BGLF4 had the opposite effect. BGLF4 and BGLF5 influences on viral expression were most pronounced for BFRF1 and BFLF2, two proteins essential for nuclear egress. For most viral genes studied, cotransfection of BGLF4 and BGLF5 had only a marginal influence on their expression patterns, showing that BGLF4 antagonizes BGLF5-mediated viral gene shutoff. To be able to exert its functions on viral gene expression, BGLF4 must be able to escape BGLF5's shutoff activities. Indeed, we found that BGLF5 stimulated the BGLF4 gene's transcription through an as yet uncharacterized molecular mechanism. The BGLF4/BGLF5 enzyme pair builds a regulatory loop that allows fine-tuning of virus protein production, which is required for efficient viral replication.
+
+-Animals
+-Cell Line
+-DNA Replication
+-DNA, Viral (-biosynthesis)
+-Deoxyribonucleases (-genetics; +metabolism)
+-Gene Expression Regulation, Viral
+-Gene Knockout Techniques
+-Genetic Complementation Test
+-Herpesvirus 4, Human (+enzymology)
+-Humans
+-Nucleocapsid (-metabolism; -ultrastructure)
+-Phenotype
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-Viral Proteins (-genetics; +metabolism)
+-Virus Replication (-genetics)
+
+pii:JVI.00525-09
+doi:10.1128/JVI.00525-09
+pubmed:19710145
+pmc:PMC2772808
+

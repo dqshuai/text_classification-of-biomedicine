@@ -1,0 +1,27 @@
+Eukaryotic Cell
+
+Saccharomyces cerevisiae Rbg1 protein and its binding partner Gir2 interact on Polyribosomes with Gcn1.
+
+PK Wout, E Sattlegger, SM Sullivan, JR Maddock
+
+Rbg1 is a previously uncharacterized protein of Saccharomyces cerevisiae belonging to the Obg/CgtA subfamily of GTP-binding proteins whose members are involved in ribosome function in both prokaryotes and eukaryotes. We show here that Rbg1 specifically associates with translating ribosomes. In addition, in this study proteins were identified that interact with Rbg1 by yeast two-hybrid screening and include Tma46, Ygr250c, Yap1, and Gir2. Gir2 contains a GI (Gcn2 and Impact) domain similar to that of Gcn2, an essential factor of the general amino acid control pathway required for overcoming amino acid shortage. Interestingly, we found that Gir2, like Gcn2, interacts with Gcn1 through its GI domain, and overexpression of Gir2, under conditions mimicking amino acid starvation, resulted in inhibition of growth that could be reversed by Gcn2 co-overexpression. Moreover, we found that Gir2 also cofractionated with polyribosomes, and this fractionation pattern was partially dependent on the presence of Gcn1. Based on these findings, we conclude that Rbg1 and its interacting partner Gir2 associate with ribosomes, and their possible biological roles are discussed.
+
+-Amino Acids (-deficiency)
+-Binding Sites (-genetics)
+-Carrier Proteins (-genetics; +metabolism)
+-GTP-Binding Proteins (-genetics; +metabolism)
+-Gene Expression Regulation, Fungal (-physiology)
+-Peptide Elongation Factors (-genetics; +metabolism)
+-Protein Binding (-genetics)
+-Protein Biosynthesis (-physiology)
+-Protein Structure, Tertiary (-genetics)
+-Ribosomes (-genetics; +metabolism; -ultrastructure)
+-Saccharomyces cerevisiae (-genetics; +metabolism; -ultrastructure)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Signal Transduction (-physiology)
+
+pii:EC.00356-08
+doi:10.1128/EC.00356-08
+pubmed:19448108
+pmc:PMC2708457
+

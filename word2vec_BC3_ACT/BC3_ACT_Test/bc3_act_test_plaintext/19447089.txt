@@ -1,0 +1,26 @@
+Neuron
+
+Genetic identification of an On-Off direction-selective retinal ganglion cell subtype reveals a layer-specific subcortical map of posterior motion.
+
+AD Huberman, W Wei, J Elstrott, BK Stafford, MB Feller, BA Barres
+
+Motion detection is an essential component of visual processing. On-Off direction-selective retinal ganglion cells (On-Off DSGCs) detect objects moving along specific axes of the visual field due to their precise retinal circuitry. The brain circuitry of On-Off DSGCs, however, is largely unknown. We report a mouse with GFP expressed selectively by the On-Off DSGCs that detect posterior motion (On-Off pDSGCs), allowing two-photon targeted recordings of their light responses and delineation of their complete map of central connections. On-Off pDSGCs project exclusively to the dorsal lateral geniculate nucleus and superior colliculus and in both targets form synaptic lamina that are separate from a lamina corresponding to non-DSGCs. Thus, individual On-Off DSGC subtypes are molecularly distinct and establish circuits that map specific qualities of directional motion to dedicated subcortical areas. This suggests that each RGC subtype represents a unique parallel pathway whose synaptic specificity in the retina is recapitulated in central targets.
+
+-Animals
++Brain Mapping
+-Geniculate Bodies (-cytology; +physiology)
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Luminescent Agents (-metabolism)
+-Mice
+-Mice, Inbred C57BL
+-Mice, Transgenic
+-Motion Perception (+physiology)
+-Retinal Ganglion Cells (-classification; -metabolism; +physiology)
+-Superior Colliculi (-cytology; +physiology)
+-Synapses (-metabolism)
+-Visual Pathways (-cytology; +physiology)
+
+pii:S0896-6273(09)00295-5
+doi:10.1016/j.neuron.2009.04.014
+pubmed:19447089
+

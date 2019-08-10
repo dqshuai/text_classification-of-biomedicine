@@ -1,0 +1,22 @@
+PLoS Comput. Biol.
+
+Parallel computational subunits in dentate granule cells generate multiple place fields.
+
+B Ujfalussy, T Kiss, P Erdi
+
+A fundamental question in understanding neuronal computations is how dendritic events influence the output of the neuron. Different forms of integration of neighbouring and distributed synaptic inputs, isolated dendritic spikes and local regulation of synaptic efficacy suggest that individual dendritic branches may function as independent computational subunits. In the present paper, we study how these local computations influence the output of the neuron. Using a simple cascade model, we demonstrate that triggering somatic firing by a relatively small dendritic branch requires the amplification of local events by dendritic spiking and synaptic plasticity. The moderately branching dendritic tree of granule cells seems optimal for this computation since larger dendritic trees favor local plasticity by isolating dendritic compartments, while reliable detection of individual dendritic spikes in the soma requires a low branch number. Finally, we demonstrate that these parallel dendritic computations could contribute to the generation of multiple independent place fields of hippocampal granule cells.
+
+-Algorithms
+-Computational Biology (+methods)
+-Computer Simulation
+-Dendrites (-physiology)
+-Dentate Gyrus (+cytology)
++Models, Neurological
+-Neuronal Plasticity
+-Neurons (+physiology)
+-Synapses (-physiology)
+
+doi:10.1371/journal.pcbi.1000500
+pubmed:19750211
+pmc:PMC2730574
+

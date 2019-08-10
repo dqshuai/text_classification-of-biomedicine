@@ -1,0 +1,26 @@
+Oncogene
+
+GATA4 is a regulator of astrocyte cell proliferation and apoptosis in the human and murine central nervous system.
+
+S Agnihotri, A Wolf, D Picard, C Hawkins, A Guha
+
+The GATA transcription factors consist of six family members, which bind to the consensus DNA-binding element, W-GATA-R, and are poorly characterized in the central nervous system (CNS). Using retroviral gene trapping on transgenic mouse glioma models, we identified GATA6 to be a novel tumor suppressor gene in glioblastoma multiforme. We now show GATA4, a family member of GATA6, to be expressed in the neurons and glia of normal murine and human embryonic and adult CNS. Silencing GATA4 in normal astrocytes did not alter their growth properties. In contrast, knockdown of Gata4 in p53 null non-transformed murine astrocytes induced transformation, with increased proliferation and resistance to chemotherapy or radiation-induced apoptosis. Furthermore, GATA4 expression was lost in a panel of human malignant astrocytoma cell lines. GATA4 overexpression in normal human and murine astrocytes resulted in a cell cycle block in G1 phase, with increased apoptosis. Mechanistically, GATA4 was a transcriptional inducer of the cyclin-dependent kinase inhibitor, p15INK4B, leading to the attenuation of cyclin D1. GATA4 expression was also induced by transforming growth factor-beta, leading to the inhibition of astrocyte proliferation. Collectively, we show that GATA4 is expressed in the embryonic and adult CNS and acts as a negative regulator of astrocyte proliferation and growth.
+
+-Animals
++Apoptosis
+-Astrocytes (+physiology)
+-Brain (+cytology; -embryology)
+-Cell Cycle
+-Cell Proliferation
+-Cells, Cultured
+-Cyclin-Dependent Kinase Inhibitor p15 (-genetics)
+-GATA4 Transcription Factor (+physiology)
+-Humans
+-Mice
+-Transforming Growth Factor beta (-pharmacology)
+-Tumor Suppressor Protein p53 (-physiology)
+
+pii:onc2009159
+doi:10.1038/onc.2009.159
+pubmed:19543315
+

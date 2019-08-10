@@ -1,0 +1,22 @@
+Biophys. J.
+
+Force field bias in protein folding simulations.
+
+PL Freddolino, S Park, B Roux, K Schulten
+
+Long timescale (>1 micros) molecular dynamics simulations of protein folding offer a powerful tool for understanding the atomic-scale interactions that determine a protein's folding pathway and stabilize its native state. Unfortunately, when the simulated protein fails to fold, it is often unclear whether the failure is due to a deficiency in the underlying force fields or simply a lack of sufficient simulation time. We examine one such case, the human Pin1 WW domain, using the recently developed deactivated morphing method to calculate free energy differences between misfolded and folded states. We find that the force field we used favors the misfolded states, explaining the failure of the folding simulations. Possible further applications of deactivated morphing and implications for force field development are discussed.
+
++Computer Simulation
+-Humans
++Models, Molecular
+-Peptidylprolyl Isomerase (+chemistry)
++Protein Folding
+-Protein Structure, Secondary
+-Software
+-Time Factors
+
+pii:S0006-3495(09)00588-8
+doi:10.1016/j.bpj.2009.02.033
+pubmed:19413983
+pmc:PMC2711430
+

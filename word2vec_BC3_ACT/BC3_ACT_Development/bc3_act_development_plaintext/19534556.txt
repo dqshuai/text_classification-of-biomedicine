@@ -1,0 +1,26 @@
+J. Med. Chem.
+
+Improved, selective, human intestinal carboxylesterase inhibitors designed to modulate 7-ethyl-10-[4-(1-piperidino)-1-piperidino]carbonyloxycamptothecin (Irinotecan; CPT-11) toxicity.
+
+LD Hicks, JL Hyatt, S Stoddard, L Tsurkan, CC Edwards, RM Wadkins, PM Potter
+
+CPT-11 is an antitumor prodrug that is hydrolyzed by carboxylesterases (CE) to yield SN-38, a potent topoisomerase I poison. However, the dose limiting toxicity delays diarrhea that is thought to arise, in part, from activation of the prodrug by a human intestinal CE (hiCE). Therefore, we have sought to identify selective inhibitors of hiCE that may have utility in modulating drug toxicity. We have evaluated one such class of molecules (benzene sulfonamides) and developed QSAR models for inhibition of this protein. Using these predictive models, we have synthesized a panel of fluorene analogues that are selective for hiCE, demonstrating no cross reactivity to the human liver CE, hCE1, or toward human cholinesterases, and have K(i) values as low as 14 nM. These compounds prevented hiCE-mediated hydrolysis of the drug and the potency of enzyme inhibition correlated with the clogP of the molecules. These studies will allow the development and application of hiCE-specific inhibitors designed to selectively modulate drug hydrolysis in vivo.
+
+-Camptothecin (-adverse effects; +analogs & derivatives; -toxicity)
+-Carboxylic Ester Hydrolases (+antagonists & inhibitors)
++Drug Design
+-Enzyme Inhibitors (+chemical synthesis; -chemistry; +pharmacology)
+-Humans
+-Intestines (+enzymology)
+-Molecular Structure
+-Quantitative Structure-Activity Relationship
+-Reproducibility of Results
+-Sensitivity and Specificity
+-Stereoisomerism
+-Substrate Specificity
+
+doi:10.1021/jm9001296
+pubmed:19534556
+mid:NIHMS117491
+pmc:PMC2780016
+

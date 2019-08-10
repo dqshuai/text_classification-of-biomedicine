@@ -1,0 +1,26 @@
+Protein Sci.
+
+Fusion order controls expression level and activity of elastin-like polypeptide fusion proteins.
+
+T Christensen, M Amiram, S Dagher, K Trabbic-Carlson, MF Shamji, LA Setton, A Chilkoti
+
+We have previously developed a method to purify recombinant proteins, termed inverse transition cycling (ITC) that eliminates the need for column chromatography. ITC exploits the inverse solubility phase transition of an elastin-like polypeptide (ELP) that is fused to a protein of interest. In ITC, a recombinant ELP fusion protein is cycled through its phase transition, resulting in separation of the ELP fusion protein from other Escherichia coli contaminants. Herein, we examine the role of the position of the ELP in the fusion protein on the expression levels and yields of purified protein for four recombinant ELP fusion proteins. Placing the ELP at the C-terminus of the target protein (protein-ELP) results in a higher expression level for the four ELP fusion proteins, which also translates to a greater yield of purified protein. The position of the fusion protein also has a significant impact on its specific activity, as ELP-protein constructs have a lower specific activity than protein-ELP constructs for three out of the four proteins. Our results show no difference in mRNA levels between protein-ELP and ELP-protein fusion constructs. Instead, we suggest two possible explanations for these results: first, the translational efficiency of mRNA may differ between the fusion protein in the two orientations and second, the lower level of protein expression and lower specific activity is consistent with a scenario that placement of the ELP at the N-terminus of the fusion protein increases the fraction of misfolded, and less active conformers, which are also preferentially degraded compared to fusion proteins in which the ELP is present at the C-terminal end of the protein.
+
+-Centrifugation
+-Cloning, Molecular (+methods)
+-Elastin
+-Escherichia coli (-genetics)
+-Gene Expression
+-Inclusion Bodies
+-Luminescent Proteins (-genetics; -metabolism)
+-Peptides (-genetics; +metabolism)
+-RNA, Messenger (-metabolism)
+-Recombinant Fusion Proteins (+biosynthesis; -genetics; -isolation & purification; -metabolism)
+-Sodium Chloride (-chemistry)
+-Temperature
+-Transcription, Genetic
+
+doi:10.1002/pro.157
+pubmed:19533768
+pmc:PMC2775208
+

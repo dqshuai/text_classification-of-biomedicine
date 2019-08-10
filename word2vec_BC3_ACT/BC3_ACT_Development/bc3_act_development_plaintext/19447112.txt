@@ -1,0 +1,19 @@
+J. Mol. Biol.
+
+Structural interpretation of paramagnetic relaxation enhancement-derived distances for disordered protein states.
+
+D Ganguly, J Chen
+
+Paramagnetic relaxation enhancement (PRE) is a powerful technique for studying transient tertiary organizations of unfolded and partially folded proteins. The heterogeneous and dynamic nature of disordered protein states, together with the r(-6) dependence of PRE, presents significant challenges for reliable structural interpretation of PRE-derived distances. Without additional knowledge of accessible conformational substates, ensemble-simulation-based protocols have been used to calculate structure ensembles that appear to be consistent with the PRE distance restraints imposed on the ensemble level with the proper r(-6) weighting. However, rigorous assessment of the reliability of such protocols has been difficult without intimate knowledge of the true nature of disordered protein states. Here we utilize sets of theoretical PRE distances derived from simulated structure ensembles that represent the folded, partially folded and unfolded states of a small protein to investigate the efficacy of ensemble-simulation-based structural interpretation of PRE distances. The results confirm a critical limitation that, due to r(-6) weighting, only one or a few members need to satisfy the distance restraints and the rest of the ensemble are essentially unrestrained. Consequently, calculated structure ensembles will appear artificially heterogeneous no matter whether the PRE distances are derived from the folded, partially unfolded or unfolded state. Furthermore, the nature of the heterogeneous ensembles is largely determined by the protein model employed in structure calculation and reflects little on the true nature of the underlying disordered state. These findings suggest that PRE measurements on disordered protein states alone generally do not contain enough information for a reliable structural interpretation and that the latter will require additional knowledge of accessible conformational substates. Interestingly, when a very large number of PRE measurements is available, faithful structural interpretation might be possible with intermediate ensemble sizes under ideal conditions.
+
++Computer Simulation
+-Models, Molecular
++Protein Conformation
++Protein Folding
+-Protein Structure, Tertiary
+-Proteins (+chemistry)
+
+pii:S0022-2836(09)00583-X
+doi:10.1016/j.jmb.2009.05.019
+pubmed:19447112
+

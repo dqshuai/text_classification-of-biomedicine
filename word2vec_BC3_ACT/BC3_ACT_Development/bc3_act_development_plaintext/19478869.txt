@@ -1,0 +1,24 @@
+PLoS Pathog.
+
+Viral sequestration of antigen subverts cross presentation to CD8(+) T cells.
+
+EF Tewalt, JM Grant, EL Granger, DC Palmer, ND Heuss, DS Gregerson, NP Restifo, CC Norbury
+
+Virus-specific CD8(+) T cells (T(CD8+)) are initially triggered by peptide-MHC Class I complexes on the surface of professional antigen presenting cells (pAPC). Peptide-MHC complexes are produced by two spatially distinct pathways during virus infection. Endogenous antigens synthesized within virus-infected pAPC are presented via the direct-presentation pathway. Many viruses have developed strategies to subvert direct presentation. When direct presentation is blocked, the cross-presentation pathway, in which antigen is transferred from virus-infected cells to uninfected pAPC, is thought to compensate and allow the generation of effector T(CD8+). Direct presentation of vaccinia virus (VACV) antigens driven by late promoters does not occur, as an abortive infection of pAPC prevents production of these late antigens. This lack of direct presentation results in a greatly diminished or ablated T(CD8+) response to late antigens. We demonstrate that late poxvirus antigens do not enter the cross-presentation pathway, even when identical antigens driven by early promoters access this pathway efficiently. The mechanism mediating this novel means of viral modulation of antigen presentation involves the sequestration of late antigens within virus factories. Early antigens and cellular antigens are cross-presented from virus-infected cells, as are late antigens that are targeted to compartments outside of the virus factories. This virus-mediated blockade specifically targets the cross-presentation pathway, since late antigen that is not cross-presented efficiently enters the MHC Class II presentation pathway. These data are the first to describe an evasion mechanism employed by pathogens to prevent entry into the cross-presentation pathway. In the absence of direct presentation, this evasion mechanism leads to a complete ablation of the T(CD8+) response and a potential replicative advantage for the virus. Such mechanisms of viral modulation of antigen presentation must also be taken into account during the rational design of antiviral vaccines.
+
+-Animals
+-Antigen Presentation
+-Antigen-Presenting Cells (-immunology)
+-Antigens, Viral (-immunology)
+-CD8-Positive T-Lymphocytes (+immunology; -virology)
+-Cell Line
+-Cross-Priming (+immunology)
+-Histocompatibility Antigens Class I
+-Histocompatibility Antigens Class II
+-Humans
+-Vaccinia virus (+immunology)
+
+doi:10.1371/journal.ppat.1000457
+pubmed:19478869
+pmc:PMC2680035
+

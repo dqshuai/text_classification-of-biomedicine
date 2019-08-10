@@ -1,0 +1,21 @@
+Biophys. J.
+
+Vibrational dynamics of icosahedrally symmetric biomolecular assemblies compared with predictions based on continuum elasticity.
+
+Z Yang, I Bahar, M Widom
+
+Coarse-grained elastic network models elucidate the fluctuation dynamics of proteins around their native conformations. Low-frequency collective motions derived by simplified normal mode analysis are usually involved in biological function, and these motions often possess noteworthy symmetries related to the overall shape of the molecule. Here, insights into these motions and their frequencies are sought by considering continuum models with appropriate symmetry and boundary conditions to approximately represent the true atomistic molecular structure. We solve the elastic wave equations analytically for the case of spherical symmetry, yielding a symmetry-based classification of molecular motions together with explicit predictions for their vibrational frequencies. We address the case of icosahedral symmetry as a perturbation to the spherical case. Applications to lumazine synthase, satellite tobacco mosaic virus, and brome mosaic virus show that the spherical elastic model efficiently provides insights on collective motions that are otherwise obtained by detailed elastic network models. A major utility of the continuum models is the possibility of estimating macroscopic material properties such as the Young's modulus or Poisson's ratio for different types of viruses.
+
+-Algorithms
+-Bromovirus (-chemistry)
++Elasticity
++Models, Chemical
+-Multienzyme Complexes (-chemistry)
+-Tobacco mosaic satellite virus (-chemistry)
++Vibration
+
+pii:S0006-3495(09)00701-2
+doi:10.1016/j.bpj.2009.03.016
+pubmed:19486668
+pmc:PMC2711457
+

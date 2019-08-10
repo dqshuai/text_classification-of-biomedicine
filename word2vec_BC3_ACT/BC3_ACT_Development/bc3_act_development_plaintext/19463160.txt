@@ -1,0 +1,21 @@
+Genome Biol.
+
+Multi-tissue coexpression networks reveal unexpected subnetworks associated with disease.
+
+R Dobrin, J Zhu, C Molony, C Argman, ML Parrish, S Carlson, MF Allan, D Pomp, EE Schadt
+
+BACKGROUND: Obesity is a particularly complex disease that at least partially involves genetic and environmental perturbations to gene-networks connecting the hypothalamus and several metabolic tissues, resulting in an energy imbalance at the systems level. RESULTS: To provide an inter-tissue view of obesity with respect to molecular states that are associated with physiological states, we developed a framework for constructing tissue-to-tissue coexpression networks between genes in the hypothalamus, liver or adipose tissue. These networks have a scale-free architecture and are strikingly independent of gene-gene coexpression networks that are constructed from more standard analyses of single tissues. This is the first systematic effort to study inter-tissue relationships and highlights genes in the hypothalamus that act as information relays in the control of peripheral tissues in obese mice. The subnetworks identified as specific to tissue-to-tissue interactions are enriched in genes that have obesity-relevant biological functions such as circadian rhythm, energy balance, stress response, or immune response. CONCLUSIONS: Tissue-to-tissue networks enable the identification of disease-specific genes that respond to changes induced by different tissues and they also provide unique details regarding candidate genes for obesity that are identified in genome-wide association studies. Identifying such genes from single tissue analyses would be difficult or impossible.
+
+-Adipose Tissue (+metabolism)
+-Animals
++Gene Regulatory Networks
+-Humans
+-Liver (+metabolism)
+-Mice
+-Obesity (+genetics; -physiopathology)
+
+pii:gb-2009-10-5-r55
+doi:10.1186/gb-2009-10-5-r55
+pubmed:19463160
+pmc:PMC2718521
+

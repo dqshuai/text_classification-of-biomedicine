@@ -1,0 +1,26 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Spatial dynamics of ecological public goods.
+
+JY Wakano, MA Nowak, C Hauert
+
+The production, consumption, and exploitation of common resources ranging from extracellular products in microorganisms to global issues of climate change refer to public goods interactions. Individuals can cooperate and sustain common resources at some cost or defect and exploit the resources without contributing. This generates a conflict of interest, which characterizes social dilemmas: Individual selection favors defectors, but for the community, it is best if everybody cooperates. Traditional models of public goods do not take into account that benefits of the common resource enable cooperators to maintain higher population densities. This leads to a natural feedback between population dynamics and interaction group sizes as captured by "ecological public goods." Here, we show that the spatial evolutionary dynamics of ecological public goods in "selection-diffusion" systems promotes cooperation based on different types of pattern formation processes. In spatial settings, individuals can migrate (diffuse) to populate new territories. Slow diffusion of cooperators fosters aggregation in highly productive patches (activation), whereas fast diffusion enables defectors to readily locate and exploit these patches (inhibition). These antagonistic forces promote coexistence of cooperators and defectors in static or dynamic patterns, including spatial chaos of ever-changing configurations. The local environment of cooperators and defectors is shaped by the production or consumption of common resources. Hence, diffusion-induced self-organization into spatial patterns not only enhances cooperation but also provides simple mechanisms for the spontaneous generation of habitat diversity, which denotes a crucial determinant of the viability of ecological systems.
+
+-Biodiversity
+-Computer Simulation
+-Cooperative Behavior
+-Ecology (+methods)
+-Ecosystem
+-Evolution
+-Game Theory
+-Greenhouse Effect
+-Humans
+-Models, Biological
++Population Dynamics
+-Software
+
+pii:0812644106
+doi:10.1073/pnas.0812644106
+pubmed:19416839
+pmc:PMC2683138
+

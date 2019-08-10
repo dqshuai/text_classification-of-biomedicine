@@ -1,0 +1,26 @@
+J. Virol.
+
+Virus entry via the alternative coreceptors CCR3 and FPRL1 differs by human immunodeficiency virus type 1 subtype.
+
+R Nedellec, M Coetzer, N Shimizu, H Hoshino, VR Polonis, L Morris, UE Mårtensson, J Binley, J Overbaugh, DE Mosier
+
+Human immunodeficiency virus type 1 (HIV-1) infects target cells by binding to CD4 and a chemokine receptor, most commonly CCR5. CXCR4 is a frequent alternative coreceptor (CoR) in subtype B and D HIV-1 infection, but the importance of many other alternative CoRs remains elusive. We have analyzed HIV-1 envelope (Env) proteins from 66 individuals infected with the major subtypes of HIV-1 to determine if virus entry into highly permissive NP-2 cell lines expressing most known alternative CoRs differed by HIV-1 subtype. We also performed linear regression analysis to determine if virus entry via the major CoR CCR5 correlated with use of any alternative CoR and if this correlation differed by subtype. Virus pseudotyped with subtype B Env showed robust entry via CCR3 that was highly correlated with CCR5 entry efficiency. By contrast, viruses pseudotyped with subtype A and C Env proteins were able to use the recently described alternative CoR FPRL1 more efficiently than CCR3, and use of FPRL1 was correlated with CCR5 entry. Subtype D Env was unable to use either CCR3 or FPRL1 efficiently, a unique pattern of alternative CoR use. These results suggest that each subtype of circulating HIV-1 may be subject to somewhat different selective pressures for Env-mediated entry into target cells and suggest that CCR3 may be used as a surrogate CoR by subtype B while FPRL1 may be used as a surrogate CoR by subtypes A and C. These data may provide insight into development of resistance to CCR5-targeted entry inhibitors and alternative entry pathways for each HIV-1 subtype.
+
+-Cell Line
+-HIV Infections (+virology)
+-HIV-1 (-genetics; +physiology)
+-Humans
+-Molecular Sequence Data
+-Receptors, CCR3 (+metabolism)
+-Receptors, Formyl Peptide (+metabolism)
+-Receptors, Lipoxin (+metabolism)
+-Receptors, Virus (+metabolism)
+-Sequence Analysis, DNA
++Virus Internalization
+-env Gene Products, Human Immunodeficiency Virus (-genetics)
+
+pii:JVI.00780-09
+doi:10.1128/JVI.00780-09
+pubmed:19553323
+pmc:PMC2738165
+

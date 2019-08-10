@@ -1,0 +1,23 @@
+EMBO Rep.
+
+The zinc-binding protein Hot13 promotes oxidation of the mitochondrial import receptor Mia40.
+
+N Mesecke, K Bihlmaier, B Grumbt, S Longen, N Terziyska, K Hell, JM Herrmann
+
+A disulphide relay system mediates the import of cysteine-containing proteins into the intermembrane space of mitochondria. This system consists of two essential proteins, Mia40 and Erv1, which bind to newly imported proteins by disulphide transfer. A third component, Hot13, was proposed to be important in the biogenesis of cysteine-rich proteins of the intermembrane space, but the molecular function of Hot13 remained unclear. Here, we show that Hot13, a conserved zinc-binding protein, interacts functionally and physically with the import receptor Mia40. It improves the Erv1-dependent oxidation of Mia40 both in vivo and in vitro. As a consequence, in mutants lacking Hot13, the import of substrates of Mia40 is impaired, particularly in the presence of zinc ions. In mitochondria as well as in vitro, Hot13 can be functionally replaced by zinc-binding chelators. We propose that Hot13 maintains Mia40 in a zinc-free state, thereby facilitating its efficient oxidation by Erv1.
+
+-Amino Acid Sequence
+-Carrier Proteins (-metabolism)
+-Mitochondria (-metabolism)
+-Mitochondrial Membrane Transport Proteins (+metabolism)
+-Mitochondrial Proteins (-chemistry; +metabolism)
+-Molecular Sequence Data
+-Saccharomyces cerevisiae (+metabolism)
+-Saccharomyces cerevisiae Proteins (-chemistry; +metabolism)
+-Sequence Alignment
+
+pii:embor2008173
+doi:10.1038/embor.2008.173
+pubmed:18787558
+pmc:PMC2581857
+

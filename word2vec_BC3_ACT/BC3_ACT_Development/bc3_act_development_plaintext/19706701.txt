@@ -1,0 +1,31 @@
+J. Virol.
+
+Low pH-triggered beta-propeller switch of the low-density lipoprotein receptor assists rhinovirus infection.
+
+T Konecsni, U Berka, A Pickl-Herk, G Bilek, AG Khan, L Gajdzig, R Fuchs, D Blaas
+
+Minor group human rhinoviruses (HRVs) bind three members of the low-density lipoprotein receptor (LDLR) family: LDLR proper, very-LDLR (VLDLR) and LDLR-related protein (LRP). Whereas ICAM-1, the receptor of major group HRVs actively contributes to viral uncoating, LDLRs are rather considered passive vehicles for cargo delivery to the low-pH environment of endosomes. Since the Tyr-Trp-Thr-Asp beta-propeller domain of LDLR has been shown to be involved in the dissociation of bound LDL via intramolecular competition at low pH, we studied whether it also plays a role in HRV infection. Human cell lines deficient in LDLR family proteins are not available. Therefore, we used CHO-ldla7 cells that lack endogenous LDLR. These were stably transfected to express either wild-type (wt) human LDLR or a mutant with a deletion of the beta-propeller. When HRV2 was attached to the propeller-negative LDLR, a lower pH was required for conversion to subviral particles than when attached to wt LDLR. This indicates that high-avidity receptor binding maintains the virus in its native conformation. HRV2 internalization directed the mutant LDLR but not wt LDLR to lysosomes, resulting in reduced plasma membrane expression of propeller-negative LDLR. Infection assays using a CHO-adapted HRV2 variant showed a delay in intracellular viral conversion and de novo viral synthesis in cells expressing the truncated LDLR. Our data indicate that the beta-propeller attenuates the virus-stabilizing effect of LDLR binding and thereby facilitates RNA release from endosomes, resulting in the enhancement of infection. This is a nice example of a virus exploiting high-avidity multimodule receptor binding with an intrinsic release mechanism.
+
+-Animals
+-CHO Cells
+-Cricetinae
+-Cricetulus
+-Hela Cells
+-Humans
+-Hydrogen-Ion Concentration
+-Lipoproteins, LDL (-metabolism)
+-Lysosomes (-metabolism)
+-Mutation
+-Picornaviridae Infections (+metabolism)
++Protein Structure, Secondary
+-RNA, Viral (-genetics; -metabolism)
+-Receptors, LDL (+chemistry; -genetics; +metabolism)
+-Rhinovirus (+physiology)
+-Virus Attachment
++Virus Internalization
+
+pii:JVI.01312-09
+doi:10.1128/JVI.01312-09
+pubmed:19706701
+pmc:PMC2772763
+

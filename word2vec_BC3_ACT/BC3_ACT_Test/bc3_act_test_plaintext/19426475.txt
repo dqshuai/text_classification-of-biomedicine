@@ -1,0 +1,20 @@
+BMC Bioinformatics
+
+Infrastructure for the life sciences: design and implementation of the UniProt website.
+
+E Jain, A Bairoch, S Duvaud, I Phan, N Redaschi, BE Suzek, MJ Martin, P McGarvey, E Gasteiger
+
+BACKGROUND: The UniProt consortium was formed in 2002 by groups from the Swiss Institute of Bioinformatics (SIB), the European Bioinformatics Institute (EBI) and the Protein Information Resource (PIR) at Georgetown University, and soon afterwards the website http://www.uniprot.org was set up as a central entry point to UniProt resources. Requests to this address were redirected to one of the three organisations' websites. While these sites shared a set of static pages with general information about UniProt, their pages for searching and viewing data were different. To provide users with a consistent view and to cut the cost of maintaining three separate sites, the consortium decided to develop a common website for UniProt. Following several years of intense development and a year of public beta testing, the http://www.uniprot.org domain was switched to the newly developed site described in this paper in July 2008. DESCRIPTION: The UniProt consortium is the main provider of protein sequence and annotation data for much of the life sciences community. The http://www.uniprot.org website is the primary access point to this data and to documentation and basic tools for the data. These tools include full text and field-based text search, similarity search, multiple sequence alignment, batch retrieval and database identifier mapping. This paper discusses the design and implementation of the new website, which was released in July 2008, and shows how it improves data access for users with different levels of experience, as well as to machines for programmatic access.http://www.uniprot.org/ is open for both academic and commercial use. The site was built with open source tools and libraries. Feedback is very welcome and should be sent to help@uniprot.org. CONCLUSION: The new UniProt website makes accessing and understanding UniProt easier than ever. The two main lessons learned are that getting the basics right for such a data provider website has huge benefits, but is not trivial and easy to underestimate, and that there is no substitute for using empirical data throughout the development process to decide on what is and what is not working for your users.
+
++Databases, Protein
+-Information Storage and Retrieval (-methods)
+-Internet
+-Proteins (-chemistry)
++Sequence Analysis, Protein
+-User-Computer Interface
+
+pii:1471-2105-10-136
+doi:10.1186/1471-2105-10-136
+pubmed:19426475
+pmc:PMC2686714
+

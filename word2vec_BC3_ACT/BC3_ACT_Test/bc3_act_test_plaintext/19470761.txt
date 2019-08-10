@@ -1,0 +1,32 @@
+Mol. Cell. Biol.
+
+An rtt109-independent role for vps75 in transcription-associated nucleosome dynamics.
+
+LA Selth, Y Lorch, MT Ocampo-Hafalla, R Mitter, M Shales, NJ Krogan, RD Kornberg, JQ Svejstrup
+
+The histone chaperone Vps75 forms a complex with, and stimulates the activity of, the histone acetyltransferase Rtt109. However, Vps75 can also be isolated on its own and might therefore possess Rtt109-independent functions. Analysis of epistatic miniarray profiles showed that VPS75 genetically interacts with factors involved in transcription regulation whereas RTT109 clusters with genes linked to DNA replication/repair. Additional genetic and biochemical experiments revealed a close relationship between Vps75 and RNA polymerase II. Furthermore, Vps75 is recruited to activated genes in an Rtt109-independent manner, and its genome-wide association with genes correlates with transcription rate. Expression microarray analysis identified a number of genes whose normal expression depends on VPS75. Interestingly, histone H2B dynamics at some of these genes are consistent with a role for Vps75 in histone H2A/H2B eviction/deposition during transcription. Indeed, reconstitution of nucleosome disassembly using the ATP-dependent chromatin remodeler Rsc and Vps75 revealed that these proteins can cooperate to remove H2A/H2B dimers from nucleosomes. These results indicate a role for Vps75 in nucleosome dynamics during transcription, and importantly, this function appears to be largely independent of Rtt109.
+
+-Acetylation
+-Binding Sites (-genetics)
+-Chromatin Immunoprecipitation
+-Cluster Analysis
+-Gene Expression Profiling
+-Genome, Fungal (-genetics)
+-Histone Acetyltransferases (-genetics; +metabolism)
+-Histones (-genetics; -metabolism)
+-Lysine (-genetics; -metabolism)
+-Molecular Chaperones (-genetics; +metabolism)
+-Mutation
+-Nucleosomes (+metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Protein Binding
+-RNA Polymerase II (-metabolism)
+-Saccharomyces cerevisiae (-genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
++Transcription, Genetic
+
+pii:MCB.01882-08
+doi:10.1128/MCB.01882-08
+pubmed:19470761
+pmc:PMC2715805
+

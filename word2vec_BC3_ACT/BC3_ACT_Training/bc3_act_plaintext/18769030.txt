@@ -1,0 +1,35 @@
+Cell. Physiol. Biochem.
+
+The RCC1 domain of protein associated with Myc (PAM) interacts with and regulates KCC2.
+
+N Garbarini, E Delpire
+
+GABAergic and glycinergic function is dependent on neuronal intracellular chloride. The neuron-specific electroneutral potassium (K(+)) and chloride (Cl(-)) cotransporter (KCC2), is a key regulator of neuronal Cl(-), yet little is known about KCC2 regulation. Using yeast two-hybrid, we identified Protein Associated with Myc (PAM) as a binding partner of KCC2. The RCC1 (Regulator of Chromatin Condensation) domain of PAM binds to the carboxyl terminus of KCC2, as demonstrated through yeast two-hybrid and GST-pull-down assays. RCC1/PAM and full-length KCC2 coimmunoprecipitate following heterologous co-expression in HEK293 cells. Additionally, (86)Rb/K(+) uptake assays in this model system show that RCC1/PAM causes increased KCC2-mediated flux. After narrowing down RCC1/PAM binding to a 20 amino acid region on the KCC2 carboxyl terminus, we created a point mutant in this region to eliminate interaction between the KCC2 carboxyl terminus and RCC1/PAM. This same mutation abolishes N-ethylmaleimide activation of KCC2, suggesting that PAM plays a role in modulating KCC2 function.
+
+-Amino Acid Sequence
+-Animals
+-Binding Sites
+-Biological Transport (-drug effects)
+-Carrier Proteins (+chemistry; +metabolism)
+-Cell Line
+-Ethylmaleimide (-pharmacology)
+-Gene Expression Regulation (-drug effects)
+-Humans
+-Immunoprecipitation
+-Mice
+-Molecular Sequence Data
+-Mutant Proteins (-metabolism)
+-Point Mutation (-genetics)
+-Protein Binding (-drug effects)
+-Protein Structure, Tertiary
+-RNA, Messenger (-genetics; -metabolism)
+-Rats
+-Symporters (-chemistry; -genetics; +metabolism)
+-Transfection
+
+pii:000149781
+doi:10.1159/000149781
+pubmed:18769030
+mid:NIHMS48160
+pmc:PMC2535904
+

@@ -1,0 +1,22 @@
+BMC Plant Biol.
+
+EST and EST-SSR marker resources for Iris.
+
+S Tang, RA Okashah, MM Cordonnier-Pratt, LH Pratt, V Ed Johnson, CA Taylor, ML Arnold, SJ Knapp
+
+BACKGROUND: Limited DNA sequence and DNA marker resources have been developed for Iris (Iridaceae), a monocot genus of 200-300 species in the Asparagales, several of which are horticulturally important. We mined an I. brevicaulis-I. fulva EST database for simple sequence repeats (SSRs) and developed ortholog-specific EST-SSR markers for genetic mapping and other genotyping applications in Iris. Here, we describe the abundance and other characteristics of SSRs identified in the transcript assembly (EST database) and the cross-species utility and polymorphisms of I. brevicaulis-I. fulva EST-SSR markers among wild collected ecotypes and horticulturally important cultivars. RESULTS: Collectively, 6,530 ESTs were produced from normalized leaf and root cDNA libraries of I. brevicaulis (IB72) and I. fulva (IF174), and assembled into 4,917 unigenes (1,066 contigs and 3,851 singletons). We identified 1,447 SSRs in 1,162 unigenes and developed 526 EST-SSR markers, each tracing a different unigene. Three-fourths of the EST-SSR markers (399/526) amplified alleles from IB72 and IF174 and 84% (335/399) were polymorphic between IB25 and IF174, the parents of I. brevicaulis x I. fulva mapping populations. Forty EST-SSR markers were screened for polymorphisms among 39 ecotypes or cultivars of seven species - 100% amplified alleles from wild collected ecotypes of Louisiana Iris (I.brevicaulis, I.fulva, I. nelsonii, and I. hexagona), whereas 42-52% amplified alleles from cultivars of three horticulturally important species (I. pseudacorus, I. germanica, and I. sibirica). Ecotypes and cultivars were genetically diverse - the number of alleles/locus ranged from two to 18 and mean heterozygosity was 0.76. CONCLUSION: Nearly 400 ortholog-specific EST-SSR markers were developed for comparative genetic mapping and other genotyping applications in Iris, were highly polymorphic among ecotypes and cultivars, and have broad utility for genotyping applications within the genus.
+
+-DNA, Plant (-genetics)
++Databases, Genetic
++Expressed Sequence Tags
+-Gene Library
+-Genetic Markers
+-Iris Plant (+genetics)
++Microsatellite Repeats
+-Polymorphism, Genetic
+
+pii:1471-2229-9-72
+doi:10.1186/1471-2229-9-72
+pubmed:19515254
+pmc:PMC2703627
+

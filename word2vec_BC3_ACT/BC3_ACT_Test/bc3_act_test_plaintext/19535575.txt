@@ -1,0 +1,34 @@
+J. Neurosci.
+
+Gephyrin oligomerization controls GlyR mobility and synaptic clustering.
+
+M Calamai, CG Specht, J Heller, D Alcor, P Machado, C Vannier, A Triller
+
+High local concentrations of glycine receptors (GlyRs) at inhibitory postsynaptic sites are achieved through their binding to the scaffold protein gephyrin. The N- and C-terminal domains of gephyrin are believed to trimerize and dimerize, respectively, thus contributing to the formation of submembranous gephyrin clusters at synapses. GlyRs are associated with gephyrin also at extrasynaptic locations. We have investigated how gephyrin oligomerization influences GlyR dynamics and clustering in COS-7 cells and in cultured spinal cord neurons. To this aim, we have expressed isolated N- and C-terminal domains of gephyrin that interfere with the oligomerization of the full-length protein. We also studied the effect of an endogenous splice variant, ge(2,4,5), with a decreased propensity to trimerize. A reduction of the size and number of gephyrin-GlyR clusters was found in cells expressing the various interfering gephyrin constructs. Using fluorescence recovery after photobleaching, we studied the exchange kinetics of synaptic gephyrin clusters. Real-time single-particle tracking was used to analyze the mobility of GlyRs. We found that all the tested constructs displayed faster rates of recovery than wild-type gephyrin and increased the mobility of extrasynaptic receptors, showing that gephyrin-gephyrin interactions modulate the lateral diffusion of GlyRs. Furthermore, we observed an inverse correlation between GlyR diffusion properties and gephyrin cluster size that depended on the number of binding sites blocked by the different constructs. Since alterations in the oligomerization properties of gephyrin are related to the dynamics of GlyRs, the gephyrin splice variant ge(2,4,5) may be implicated in the modulation of synaptic strength.
+
+-Animals
+-COS Cells
+-Carrier Proteins (-chemistry; -genetics; +metabolism)
+-Cells, Cultured
+-Cercopithecus aethiops
+-Dendrites (-metabolism)
+-Embryo, Mammalian
+-Fluorescence Recovery After Photobleaching (-methods)
+-Luminescent Proteins (-genetics)
+-Membrane Proteins (-chemistry; -genetics; +metabolism)
+-Neurons (-cytology; +metabolism)
+-Protein Multimerization (-genetics; +physiology)
+-Protein Structure, Quaternary
+-Protein Transport (-physiology)
+-Rats
+-Rats, Sprague-Dawley
+-Receptors, Glycine (-chemistry; +metabolism)
+-Spinal Cord (-cytology)
+-Synapses (+metabolism)
+-Time Factors
+-Transfection (-methods)
+
+pii:29/24/7639
+doi:10.1523/JNEUROSCI.5711-08.2009
+pubmed:19535575
+

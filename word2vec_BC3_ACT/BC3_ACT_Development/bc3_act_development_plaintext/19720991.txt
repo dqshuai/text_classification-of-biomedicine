@@ -1,0 +1,22 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+On the fluctuations that drive small ions toward, and away from, interfaces between polar liquids and their vapors.
+
+J Noah-Vanhoucke, PL Geissler
+
+Contrary to the expectations from classic theories of ion solvation, spectroscopy and computer simulations of the liquid-vapor interface of aqueous electrolyte solutions suggest that ions little larger than a water molecule can prefer to reside near the liquid's surface. Here we advance the view that such affinity originates in a competition between strong opposing forces, primarily due to volume exclusion and dielectric polarization, that are common to all dense polar liquids. We present evidence for this generic mechanism from computer simulations of (i) water and (ii) a Stockmayer fluid near its triple point. In both cases, we show that strong surface enhancement of small ions, obtained by tuning solutes' size and charge, can be accentuated or suppressed by modest changes in either of those parameters. Statistics of solvent polarization, when the ion is held at and above the Gibbs dividing surface, highlight a basic deficiency in conventional models of dielectric response, namely, the neglect of interfacial flexibility. By distorting the solution's boundary, an ion experiences fluctuations in electrostatic potential and in electric field whose magnitudes attenuate much more gradually (as the ion is removed from the liquid phase) than for a quiescent planar interface. As one consequence, the collective responses that determine free energies of solvation can resolve very differently in nonuniform environments than in bulk. We show that this persistence of electric-field fluctuations additionally shapes the sensitivity of solute distributions to ion polarizability.
+
+-Computer Simulation
+-Electrolytes (+chemistry)
+-Ions (+chemistry)
++Models, Chemical
++Phase Transition
+-Static Electricity
+-Surface Properties
+-Water (-chemistry)
+
+pii:0905168106
+doi:10.1073/pnas.0905168106
+pubmed:19720991
+pmc:PMC2741216
+

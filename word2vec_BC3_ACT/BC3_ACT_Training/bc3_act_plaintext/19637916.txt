@@ -1,0 +1,28 @@
+J. Am. Chem. Soc.
+
+Combining molecular dynamics with bayesian analysis to predict and evaluate ligand-binding mutations in influenza hemagglutinin.
+
+PM Kasson, DL Ensign, VS Pande
+
+Influenza virus attaches to and infects target cells via binding of cell-surface glycans by the viral hemagglutinin. This binding specificity is considered a major reason why avian influenza is typically poorly transmitted between humans, while swine influenza is better transmitted due to glycan similarity between the human and swine upper respiratory tract. Predicting mutations that control glycan binding is thus important to continued surveillance against new pandemic influenza strains. We have designed a molecular-dynamics approach for scoring potential mutants with predictive power for both receptor-binding-domain and allosteric mutations similar to those identified from clinical isolates of avian influenza. We have performed thousands of simulations of 17 different hemagglutinin mutants totaling >1 ms in length and employ a bayesian model to rank mutations that disrupt the stability of the hemagglutinin-ligand complex. Based on our simulations, we predict a significantly increased k(off) for seven of these mutants. This means of using molecular dynamics analysis to make experimentally verifiable predictions offers a potentially general method to identify ligand-binding mutants, particularly allosteric ones. Our analysis of ligand dissociation provides a means to evaluate mutants prior to experimental mutagenesis and testing and constitutes an important step toward understanding the determinants of ligand binding by H5N1 influenza.
+
+-Animals
+-Birds (-virology)
+-Computer Simulation
+-Hemagglutinin Glycoproteins, Influenza Virus (-chemistry; +genetics; +metabolism)
+-Humans
+-Influenza A Virus, H5N1 Subtype (-genetics; +metabolism)
+-Influenza in Birds (-virology)
+-Influenza, Human (-virology)
+-Ligands
+-Models, Molecular
+-Mutation
+-Orthomyxoviridae Infections (+virology)
+-Protein Binding
+-Protein Conformation
+
+doi:10.1021/ja904557w
+pubmed:19637916
+mid:NIHMS135785
+pmc:PMC2737089
+

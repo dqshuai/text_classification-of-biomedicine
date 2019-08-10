@@ -1,0 +1,25 @@
+PLoS Biol.
+
+A disease-mediated trophic cascade in the Serengeti and its implications for ecosystem C.
+
+RM Holdo, AR Sinclair, AP Dobson, KL Metzger, BM Bolker, ME Ritchie, RD Holt
+
+Tree cover is a fundamental structural characteristic and driver of ecosystem processes in terrestrial ecosystems, and trees are a major global carbon (C) sink. Fire and herbivores have been hypothesized to play dominant roles in regulating trees in African savannas, but the evidence for this is conflicting. Moving up a trophic scale, the factors that regulate fire occurrence and herbivores, such as disease and predation, are poorly understood for any given ecosystem. We used a Bayesian state-space model to show that the wildebeest population eruption that followed disease (rinderpest) eradication in the Serengeti ecosystem of East Africa led to a widespread reduction in the extent of fire and an ongoing recovery of the tree population. This supports the hypothesis that disease has played a key role in the regulation of this ecosystem. We then link our state-space model with theoretical and empirical results quantifying the effects of grazing and fire on soil carbon to predict that this cascade may have led to important shifts in the size of pools of C stored in soil and biomass. Our results suggest that the dynamics of herbivores and fire are tightly coupled at landscape scales, that fire exerts clear top-down effects on tree density, and that disease outbreaks in dominant herbivores can lead to complex trophic cascades in savanna ecosystems. We propose that the long-term status of the Serengeti and other intensely grazed savannas as sources or sinks for C may be fundamentally linked to the control of disease outbreaks and poaching.
+
+-Africa
+-Animals
+-Bayes Theorem
+-Databases as Topic
++Disease
++Ecosystem
+-Fires
+-Geography
+-Models, Biological
+-Reproducibility of Results
+-Rinderpest virus (-physiology)
+-Trees (-physiology)
+
+doi:10.1371/journal.pbio.1000210
+pubmed:19787022
+pmc:PMC2740867
+

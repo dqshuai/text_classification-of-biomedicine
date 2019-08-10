@@ -1,0 +1,25 @@
+Biophys. J.
+
+Determination of interspin distance distributions by cw-ESR is a single linear inverse problem.
+
+YW Chiang, TY Zheng, CJ Kao, JC Horng
+
+Cw-ESR distance measurement method is extremely valuable for studying the dynamics-function relationship of biomolecules. However, extracting distance distributions from experiments has been a highly technique-demanding procedure. It has never been conclusively identified, to our knowledge, that the problems involved in the analysis are ill posed and are best solved using Tikhonov regularization. We treat the problems from a novel point of view. First of all, we identify the equations involved and uncover that they are actually two linear first-kind Fredholm integral equations. They can be combined into one single linear inverse problem and solved in a Tikhonov regularization procedure. The improvement with our new treatment is significant. Our approach is a direct and reliable mathematical method capable of providing an unambiguous solution to the ill-posed problem. It need not perform nonlinear least-squares fitting to infer a solution from noise-contaminated data and, accordingly, substantially reduces the computation time and the difficulty of analysis. Numerical tests and experimental data of polyproline II peptides with variant spin-labeled sites are provided to demonstrate our approach. The high resolution of the distance distributions obtainable with our new approach enables a detailed insight into the flexibility of dynamic structure and the identification of conformational species in solution state.
+
+-Computer Simulation
+-Electron Spin Resonance Spectroscopy (+methods)
+-Glycerol (-chemistry)
+-Least-Squares Analysis
+-Linear Models
+-Models, Theoretical
+-Peptides (-chemistry)
+-Probability
+-Protein Structure, Secondary
+-Spin Labels
+-Sucrose (-chemistry)
+
+pii:S0006-3495(09)01036-4
+doi:10.1016/j.bpj.2009.05.030
+pubmed:19651052
+pmc:PMC2718175
+

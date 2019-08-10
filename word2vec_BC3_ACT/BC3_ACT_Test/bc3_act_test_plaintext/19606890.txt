@@ -1,0 +1,22 @@
+Biochemistry
+
+Double-strand break formation during nucleotide excision repair of a DNA interstrand cross-link.
+
+JT Sczepanski, AC Jacobs, B Van Houten, MM Greenberg
+
+The DNA interstrand cross-link (ICL) resulting from the C4'-oxidized abasic site (C4-AP) is a unique clustered lesion comprised of a cross-link adjacent to a nick. The ICL is a substrate for the UvrABC nucleotide excision repair system. The strand containing the nick is preferentially incised, but the nick influences the cleavage sites. Moreover, in approximately 15% of the molecules, the strand opposite the nick is incised, resulting in a more toxic double-strand break. This is the first example in which an interstrand cross-link is converted by nucleotide excision misrepair into a more deleterious double-strand break.
+
+-Base Sequence
+-DNA (+chemistry; -genetics; +metabolism)
++DNA Breaks, Double-Stranded
++DNA Repair
+-Endodeoxyribonucleases (-metabolism)
+-Escherichia coli Proteins (-metabolism)
+-Molecular Sequence Data
+-Molecular Structure
+
+doi:10.1021/bi901006b
+pubmed:19606890
+mid:NIHMS134091
+pmc:PMC2725361
+

@@ -1,0 +1,26 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Both treated and untreated tumors are eliminated by short hairpin RNA-based induction of target-specific immune responses.
+
+W Gu, M Cochrane, GR Leggatt, E Payne, A Choyce, F Zhou, R Tindle, NA McMillan
+
+RNA interference (RNAi) for cancer treatment relies on the ability to directly kill cancer cells via down-regulation of target genes, but issues of delivery and efficacy have limited clinical adoption. Furthermore, current studies using immune-deficient animal models disregard potential interactions with the adaptive immune system. It has previously been observed that certain viral antigens appear to be more rapidly presented to the immune system than normal proteins due to the production of defective ribosomal products by the virus. Given that RNAi could potentially result in the generation of truncated mRNAs, we wondered whether a similar mechanism of immune presentation of a target gene was possible. Here we show that RNAi-cleaved mRNAs can be translated into incomplete protein, and if cleavage was downstream of cytotoxic T cell epitopes, resulted in increased presentation of target protein and the generation of a tumor-protective immune response. We show that mice inoculated with tumor cells treated with such short hairpin RNAs (shRNAs) were protected from subsequent challenge with untreated tumors. However, protection was only found if shRNAs were targeted downstream of the dominant cytotoxic T cell (CTL) epitope. Our work suggests that RNAi can alter immunity to targets and shows that not all tumor cells require direct RNAi exposure for treatment to be effective in vivo, pointing the way to a new class of RNAi-based therapy.
+
+-Animals
+-Antigens, Neoplasm (-drug effects; +genetics)
+-Epitopes (-genetics)
+-Humans
+-Hydrolysis
+-Immunity (+drug effects)
+-Mice
+-Neoplasms, Experimental (+drug therapy)
+-RNA, Messenger (-drug effects; -metabolism)
+-RNA, Small Interfering (-pharmacology; +therapeutic use)
+-T-Lymphocytes, Cytotoxic (-immunology)
+-Up-Regulation (-drug effects; +immunology)
+
+pii:0812085106
+doi:10.1073/pnas.0812085106
+pubmed:19416823
+pmc:PMC2688843
+

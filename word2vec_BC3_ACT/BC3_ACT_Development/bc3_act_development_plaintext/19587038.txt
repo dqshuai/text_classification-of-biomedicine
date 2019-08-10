@@ -1,0 +1,24 @@
+J. Virol.
+
+Clearance of measles virus from persistently infected cells by short hairpin RNA.
+
+M Zinke, S Kendl, K Singethan, M Fehrholz, D Reuter, L Rennick, MJ Herold, J Schneider-Schaulies
+
+Subacute sclerosing panencephalitis (SSPE) is a demyelinating central nervous system disease caused by a persistent measles virus (MV) infection of neurons and glial cells. There is still no specific therapy available, and in spite of an intact innate and adaptive immune response, SSPE leads inevitably to death. In order to select effective antiviral short interfering RNAs (siRNAs), we established a plasmid-based test system expressing the mRNA of DsRed2 fused with mRNA sequences of single viral genes, to which certain siRNAs were directed. siRNA sequences were expressed as short hairpin RNA (shRNA) from a lentiviral vector additionally expressing enhanced green fluorescent protein (EGFP) as an indicator. Evaluation by flow cytometry of the dual-color system (DsRed and EGFP) allowed us to find optimal shRNA sequences. Using the most active shRNA constructs, we transduced persistently infected human NT2 cells expressing virus-encoded HcRed (piNT2-HcRed) as an indicator of infection. shRNA against N, P, and L mRNAs of MV led to a reduction of the infection below detectable levels in a high percentage of transduced piNT2-HcRed cells within 1 week. The fraction of virus-negative cells in these cultures was constant over at least 3 weeks posttransduction in the presence of a fusion-inhibiting peptide (Z-Phe-Phe-Gly), preventing the cell fusion of potentially cured cells with persistently infected cells. Transduced piNT2 cells that lost HcRed did not fuse with underlying Vero/hSLAM cells, indicating that these cells do not express viral proteins any more and are "cured." This demonstrates in tissue culture that NT2 cells persistently infected with MV can be cured by the transduction of lentiviral vectors mediating the long-lasting expression of anti-MV shRNA.
+
+-Cell Line, Tumor
+-Genes, Reporter
+-Genetic Vectors
+-Humans
+-Lentivirus
+-Measles (+drug therapy)
+-Measles virus (+genetics)
+-RNA, Small Interfering (+pharmacology; -therapeutic use)
+-RNA, Viral (+drug effects)
+-Transduction, Genetic
+
+pii:JVI.00846-09
+doi:10.1128/JVI.00846-09
+pubmed:19587038
+pmc:PMC2738273
+

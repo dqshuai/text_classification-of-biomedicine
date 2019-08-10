@@ -1,0 +1,25 @@
+PLoS Genet.
+
+Nuclear calcium signaling controls expression of a large gene pool: identification of a gene program for acquired neuroprotection induced by synaptic activity.
+
+SJ Zhang, M Zou, L Lu, D Lau, DA Ditzel, C Delucinge-Vivier, Y Aso, P Descombes, H Bading
+
+Synaptic activity can boost neuroprotection through a mechanism that requires synapse-to-nucleus communication and calcium signals in the cell nucleus. Here we show that in hippocampal neurons nuclear calcium is one of the most potent signals in neuronal gene expression. The induction or repression of 185 neuronal activity-regulated genes is dependent upon nuclear calcium signaling. The nuclear calcium-regulated gene pool contains a genomic program that mediates synaptic activity-induced, acquired neuroprotection. The core set of neuroprotective genes consists of 9 principal components, termed Activity-regulated Inhibitor of Death (AID) genes, and includes Atf3, Btg2, GADD45beta, GADD45gamma, Inhibin beta-A, Interferon activated gene 202B, Npas4, Nr4a1, and Serpinb2, which strongly promote survival of cultured hippocampal neurons. Several AID genes provide neuroprotection through a common process that renders mitochondria more resistant to cellular stress and toxic insults. Stereotaxic delivery of AID gene-expressing recombinant adeno-associated viruses to the hippocampus confers protection in vivo against seizure-induced brain damage. Thus, treatments that enhance nuclear calcium signaling or supplement AID genes represent novel therapies to combat neurodegenerative conditions and neuronal cell loss caused by synaptic dysfunction, which may be accompanied by a deregulation of calcium signal initiation and/or propagation to the cell nucleus.
+
+-Animals
++Calcium Signaling
+-Cell Nucleus (-genetics; +metabolism)
+-Cell Survival
++Gene Expression Regulation
++Gene Pool
+-Hippocampus (-cytology; -metabolism)
+-Mice
+-Mice, Inbred C57BL
+-Neurons (+cytology; -metabolism)
+-Synapses (-genetics; +metabolism)
+-Synaptic Transmission
+
+doi:10.1371/journal.pgen.1000604
+pubmed:19680447
+pmc:PMC2718706
+

@@ -1,0 +1,30 @@
+Immunity
+
+The mTOR kinase differentially regulates effector and regulatory T cell lineage commitment.
+
+GM Delgoffe, TP Kole, Y Zheng, PE Zarek, KL Matthews, B Xiao, PF Worley, SC Kozma, JD Powell
+
+Effector T cell differentiation requires the simultaneous integration of multiple, and sometimes opposing, cytokine signals. We demonstrated mTOR's role in dictating the outcome of T cell fate. mTOR-deficient T cells displayed normal activation and IL-2 production upon initial stimulation. However, such cells failed to differentiate into T helper 1 (Th1), Th2, or Th17 effector cells. The inability to differentiate was associated with decreased STAT transcription factor activation and failure to upregulate lineage-specific transcription factors. Under normally activating conditions, T cells lacking mTOR differentiated into Foxp3(+) regulatory T cells. This was associated with hyperactive Smad3 activation in the absence of exogenous TGF-beta. Surprisingly, T cells selectively deficient in TORC1 do not divert to a regulatory T cell pathway, implicating both TORC1 and TORC2 in preventing the generation of regulatory T cells. Overall, our studies suggest that mTOR kinase signaling regulates decisions between effector and regulatory T cell lineage commitment.
+
+-Animals
+-Carrier Proteins (-genetics; -immunology; +metabolism)
+-Cell Differentiation (+immunology)
+-Interleukin-2 (-biosynthesis; -immunology)
+-Mice
+-Mice, Knockout
+-Phosphotransferases (Alcohol Group Acceptor) (-genetics; -immunology; +metabolism)
+-Receptors, Antigen, T-Cell (-immunology; -metabolism)
+-STAT Transcription Factors (-immunology; -metabolism)
+-Signal Transduction (-immunology)
+-T-Lymphocytes, Helper-Inducer (-enzymology; +immunology)
+-T-Lymphocytes, Regulatory (-enzymology; +immunology)
+-Trans-Activators (+immunology; -metabolism)
+-Transcription Factors (-genetics; +immunology; -metabolism)
+-Transforming Growth Factor beta (-immunology; -metabolism)
+
+pii:S1074-7613(09)00237-4
+doi:10.1016/j.immuni.2009.04.014
+pubmed:19538929
+mid:NIHMS126629
+pmc:PMC2768135
+

@@ -1,0 +1,17 @@
+PLoS ONE
+
+Univariate/multivariate genome-wide association scans using data from families and unrelated samples.
+
+L Zhang, YF Pei, J Li, CJ Papasian, HW Deng
+
+As genome-wide association studies (GWAS) are becoming more popular, two approaches, among others, could be considered in order to improve statistical power for identifying genes contributing subtle to moderate effects to human diseases. The first approach is to increase sample size, which could be achieved by combining both unrelated and familial subjects together. The second approach is to jointly analyze multiple correlated traits. In this study, by extending generalized estimating equations (GEEs), we propose a simple approach for performing univariate or multivariate association tests for the combined data of unrelated subjects and nuclear families. In particular, we correct for population stratification by integrating principal component analysis and transmission disequilibrium test strategies. The proposed method allows for multiple siblings as well as missing parental information. Simulation studies show that the proposed test has improved power compared to two popular methods, EIGENSTRAT and FBAT, by analyzing the combined data, while correcting for population stratification. In addition, joint analysis of bivariate traits has improved power over univariate analysis when pleiotropic effects are present. Application to the Genetic Analysis Workshop 16 (GAW16) data sets attests to the feasibility and applicability of the proposed method.
+
++Genome-Wide Association Study
+-Humans
+-Models, Genetic
+-Multivariate Analysis
+
+doi:10.1371/journal.pone.0006502
+pubmed:19652719
+pmc:PMC2715864
+

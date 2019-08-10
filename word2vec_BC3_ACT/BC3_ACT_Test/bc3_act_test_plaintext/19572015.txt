@@ -1,0 +1,19 @@
+PLoS ONE
+
+Models of emergency departments for reducing patient waiting times.
+
+M Laskowski, RD McLeod, MR Friesen, BW Podaima, AS Alfa
+
+In this paper, we apply both agent-based models and queuing models to investigate patient access and patient flow through emergency departments. The objective of this work is to gain insights into the comparative contributions and limitations of these complementary techniques, in their ability to contribute empirical input into healthcare policy and practice guidelines. The models were developed independently, with a view to compare their suitability to emergency department simulation. The current models implement relatively simple general scenarios, and rely on a combination of simulated and real data to simulate patient flow in a single emergency department or in multiple interacting emergency departments. In addition, several concepts from telecommunications engineering are translated into this modeling context. The framework of multiple-priority queue systems and the genetic programming paradigm of evolutionary machine learning are applied as a means of forecasting patient wait times and as a means of evolving healthcare policy, respectively. The models' utility lies in their ability to provide qualitative insights into the relative sensitivities and impacts of model input parameters, to illuminate scenarios worthy of more complex investigation, and to iteratively validate the models as they continue to be refined and extended. The paper discusses future efforts to refine, extend, and validate the models with more data and real data relative to physical (spatial-topographical) and social inputs (staffing, patient care models, etc.). Real data obtained through proximity location and tracking system technologies is one example discussed.
+
+-Emergency Service, Hospital (+organization & administration)
+-Health Services Accessibility
+-Humans
++Models, Organizational
+-Personnel Staffing and Scheduling
++Time and Motion Studies
+
+doi:10.1371/journal.pone.0006127
+pubmed:19572015
+pmc:PMC2700281
+

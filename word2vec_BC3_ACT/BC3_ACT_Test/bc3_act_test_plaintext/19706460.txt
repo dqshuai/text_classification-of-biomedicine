@@ -1,0 +1,25 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Immunopurification of Ago1 miRNPs selects for a distinct class of microRNA targets.
+
+X Hong, M Hammell, V Ambros, SM Cohen
+
+microRNAs comprise a few percent of animal genes and have been recognized as important regulators of a diverse range of biological processes. Understanding the biological functions of miRNAs requires effective means to identify their targets. Combined efforts from computational prediction, miRNA over-expression or depletion, and biochemical purification have identified thousands of potential miRNA-target pairs in cells and organisms. Complementarity to the miRNA seed sequence appears to be a common principle in target recognition. Other features, including miRNA-target duplex stability, binding site accessibility, and local UTR structure might affect target recognition. Yet computational approaches using such contextual features have yielded largely nonoverlapping results and experimental assessment of their impact has been limited. Here, we compare two large sets of miRNA targets: targets identified using an improved Ago1 immunopurification method and targets identified among transcripts up-regulated after Ago1 depletion. We found surprisingly limited overlap between these sets. The two sets showed enrichment for target sites with different molecular, structural and functional properties. Intriguingly, we found a strong correlation between UTR length and other contextual features that distinguish the two groups. This finding was extended to all predicted microRNA targets. Distinct repression mechanisms could have evolved to regulate targets with different contextual features. This study reveals a complex relationship among different features in miRNA-target recognition and poses a new challenge for computational prediction.
+
+-Animals
+-Drosophila Proteins (+genetics)
+-Drosophila melanogaster (+genetics)
+-Eukaryotic Initiation Factors (+genetics)
+-Genome-Wide Association Study
+-MicroRNAs (-chemistry; -genetics; -immunology; +isolation & purification)
+-Nucleic Acid Conformation
+-RNA, Messenger (-genetics)
+-Systems Biology (-methods)
+-Transcription, Genetic
+-Up-Regulation
+
+pii:0908149106
+doi:10.1073/pnas.0908149106
+pubmed:19706460
+pmc:PMC2728611
+

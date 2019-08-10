@@ -1,0 +1,31 @@
+Hum. Mol. Genet.
+
+An allergy-associated polymorphism in a novel regulatory element enhances IL13 expression.
+
+P Kiesler, A Shakya, D Tantin, D Vercelli
+
+IL-13 is a central effector of Th2-mediated allergic inflammation and is critical for the induction of IgE synthesis. Common IL13 variants are associated with allergy phenotypes in populations of distinct ethnic background. We recently demonstrated that IL13 expression by human CD4+ T cells is paralleled by extensive IL13 locus remodeling, which results in the appearance of multiple DNase I hypersensitive sites. Among these, HS4 in the distal promoter is constitutive in both naïve and polarized Th1 and Th2 cells, and spans a common single nucleotide polymorphism, IL13-1512A>C (rs1881457), strongly associated with total serum IgE levels. We recently characterized HS4 as a novel cis-acting element that upregulates IL13 transcription in activated human and murine T cells. Here we show that IL13-1512A>C is a functional polymorphism that significantly enhances HS4-dependent IL13 expression by creating a binding site for the transcription factor Oct-1. Of note, endogenous Oct-1 was preferentially recruited to the IL13-1512C risk allele in primary CD4+ T cells from IL13-1512A>C heterozygous subjects. Moreover, the IL13-1512C allele was overexpressed in transfected Th2 cells from Oct1(+/+) mice, but not from Oct1(+/-) mice, demonstrating that increased activity was exquisitely dependent on physiologic levels of Oct-1. Our results illustrate how a functional variant in a regulatory element enhances transcription of an allergy-associated gene, thereby modulating disease susceptibility.
+
+-Animals
+-Base Sequence
+-CD4-Positive T-Lymphocytes (-immunology)
+-Cells, Cultured
++Gene Expression
+-Humans
+-Hypersensitivity (+genetics; -immunology)
+-Interleukin-13 (+genetics; -immunology)
+-Mice
+-Mice, Inbred C57BL
+-Mice, Transgenic
+-Molecular Sequence Data
+-Octamer Transcription Factor-1 (-genetics; -metabolism)
++Polymorphism, Single Nucleotide
+-Protein Binding
++Regulatory Sequences, Nucleic Acid
+-Th2 Cells (-immunology)
+
+pii:ddp411
+doi:10.1093/hmg/ddp411
+pubmed:19706623
+pmc:PMC2773266
+

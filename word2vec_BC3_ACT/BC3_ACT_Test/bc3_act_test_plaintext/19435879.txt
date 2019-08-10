@@ -1,0 +1,21 @@
+Nucleic Acids Res.
+
+Pomelo II: finding differentially expressed genes.
+
+ER Morrissey, R Diaz-Uriarte
+
+Pomelo II (http://pomelo2.bioinfo.cnio.es) is an open-source, web-based, freely available tool for the analysis of gene (and protein) expression and tissue array data. Pomelo II implements: permutation-based tests for class comparisons (t-test, ANOVA) and regression; survival analysis using Cox model; contingency table analysis with Fisher's exact test; linear models (of which t-test and ANOVA are especial cases) that allow additional covariates for complex experimental designs and use empirical Bayes moderated statistics. Permutation-based and Cox model analysis use parallel computing, which permits taking advantage of multicore CPUs and computing clusters. Access to, and further analysis of, additional biological information and annotations (PubMed references, Gene Ontology terms, KEGG and Reactome pathways) are available either for individual genes (from clickable links in tables and figures) or sets of genes. The source code is available, allowing for extending and reusing the software. A comprehensive test suite is also available, and covers both the user interface and the numerical results. The possibility of including additional covariates, parallelization of computation, open-source availability of the code and comprehensive testing suite make Pomelo II a unique tool.
+
+-Data Interpretation, Statistical
++Gene Expression Profiling
+-Proteins (-genetics)
+-Reproducibility of Results
++Software
+-Tissue Array Analysis
+-User-Computer Interface
+
+pii:gkp366
+doi:10.1093/nar/gkp366
+pubmed:19435879
+pmc:PMC2703955
+

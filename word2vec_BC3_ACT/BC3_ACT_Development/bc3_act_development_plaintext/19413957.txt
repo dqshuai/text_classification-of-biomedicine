@@ -1,0 +1,29 @@
+Biophys. J.
+
+Frequency and selectivity of mitochondrial fusion are key to its quality maintenance function.
+
+PK Mouli, G Twig, OS Shirihai
+
+Turnover of mitochondria by autophagy constitutes an essential quality maintenance mechanism. Recent studies have demonstrated that efficient clearance of damaged mitochondrial components depends on mitochondrial dynamics, a process characterized by frequent fusion and fission events that enable the redistribution of mitochondrial components across a population of hundreds of individual mitochondria. The presented simulation identifies kinetic parameters of fusion and fission that may influence the maintenance of mitochondrial function. The program simulated repetitive cycles of fusion and fission events in which intact and damaged mitochondrial contents were redistributed between fusion mates. Redistribution impacted mitochondrial function, thereby influencing the fate of each mitochondrion, to be either destined for a subsequent fusion or eliminated by autophagy. Our findings indicate that, when paired with fission, fusion events may serve to accelerate the removal of damaged mitochondrial components by autophagy. The model predicts the existence of an optimal frequency of fusion and fission events that can maintain respiratory function at steady-state levels amid the existence of a continuous damaging process that inactivates mitochondrial components. A further elevation of the fusion frequency can increase the clearance efficiency of damaged content. However, this requires fusion to be a selective process in which depolarized mitochondria are excluded from the fusing population. The selectivity of fusion was found to be particularly beneficial in conditions of elevated rate of damage, because it permits the increase of fusion frequency without compromising the removal of damaged content by autophagy.
+
+-Algorithms
+-Animals
+-Autophagy (+physiology)
+-COS Cells
+-Cell Line
+-Cell Membrane (-physiology)
+-Cercopithecus aethiops
++Computer Simulation
+-DNA, Mitochondrial (-genetics; -physiology)
+-Kinetics
+-Mitochondria (+physiology)
++Models, Biological
+-Monte Carlo Method
+-Mutation
+-Rats
+
+pii:S0006-3495(09)00500-1
+doi:10.1016/j.bpj.2008.12.3959
+pubmed:19413957
+pmc:PMC2711405
+

@@ -1,0 +1,20 @@
+Genes Dev.
+
+Reconstitution of initial steps of dsDNA break repair by the RecF pathway of E. coli.
+
+N Handa, K Morimatsu, ST Lovett, SC Kowalczykowski
+
+The RecF pathway of Escherichia coli is important for recombinational repair of DNA breaks and gaps. Here ;we reconstitute in vitro a seven-protein reaction that recapitulates early steps of dsDNA break repair using purified RecA, RecF, RecO, RecR, RecQ, RecJ, and SSB proteins, components of the RecF system. Their combined action results in processing of linear dsDNA and its homologous pairing with supercoiled DNA. RecA, RecO, RecR, and RecJ are essential for joint molecule formation, whereas SSB and RecF are stimulatory. This reconstituted system reveals an unexpected essential function for RecJ exonuclease: the capability to resect duplex DNA. RecQ helicase stimulates this processing, but also disrupts joint molecules. RecO and RecR have two indispensable functions: They mediate exchange of RecA for SSB to form the RecA nucleoprotein filament, and act with RecF to load RecA onto the SSB-ssDNA complex at processed ssDNA-dsDNA junctions. The RecF pathway has many parallels with recombinational repair in eukaryotes.
+
++DNA Breaks, Double-Stranded
+-DNA Repair (+genetics)
+-DNA-Binding Proteins (+metabolism)
+-Escherichia coli (+genetics; +metabolism)
+-Escherichia coli Proteins (+metabolism)
+-RecQ Helicases (-metabolism)
+
+pii:23/10/1234
+doi:10.1101/gad.1780709
+pubmed:19451222
+pmc:PMC2685532
+

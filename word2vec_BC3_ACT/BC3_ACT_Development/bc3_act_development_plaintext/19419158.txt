@@ -1,0 +1,25 @@
+Biochemistry
+
+DNA-binding activity of the vancomycin resistance associated regulator protein VraR and the role of phosphorylation in transcriptional regulation of the vraSR operon.
+
+A Belcheva, V Verma, D Golemi-Kotra
+
+In Staphylococcus aureus the VraSR two-component system acts as a sentinel that can rapidly sense cell wall peptidoglycan damage and coordinate a response to enhance the resistance phenotype. VraR is a transcription factor and its cognate kinase, VraS, modulates the DNA-binding activity of VraR by regulating its phosphorylation state and hence its dimerization state. Here we provide the first report on the VraR transcriptional activity by investigating the interaction with the vraSR operon control region. We found that this region contains three VraR-binding sites, each with unique VraR-binding features. VraR binding to the most conserved site is phosphorylation independent, and dimerization is proposed to be induced through binding to DNA. By contrast, binding to the less conserved site requires phosphorylation of VraR. This site overlaps with the binding site of the sigma subunit of the RNA polymerase complex, suggesting that VraR could be interacting with the transcription machinery in the presence of the cell wall stress signal. Mutagenesis studies on the VraR binding sites suggest that there is directionality in the binding of VraR to the target DNA, probably dictated by VraR dimerization. We also constructed a P(vraSR)-fused lux operon reporter vector to investigate in vivo the significance of our in vitro studies. These studies show that upon cell wall stress, induced by oxacillin, the expression level of the lux operon goes up and it is affected by the integrity of the two identified VraR-binding sites in agreement with the in vitro studies. Further, they demonstrate that the VraR most conserved binding site is essential to the vraSR operon expression. On the other hand, they suggest that the role of the VraR less conserved site could be that of mediating high levels of vraSR operon expression during cell wall stress conditions.
+
+-Bacterial Proteins (-chemistry; +metabolism)
+-Base Sequence
+-Binding Sites
+-DNA (-chemistry; +metabolism)
+-DNA-Binding Proteins (-chemistry; +metabolism)
++Gene Expression Regulation, Bacterial
+-Models, Biological
+-Molecular Sequence Data
+-Operon (+genetics)
+-Phosphorylation
+-Transcription Factors (-chemistry; -genetics; -metabolism)
+-Transcription, Genetic (+genetics)
++Vancomycin Resistance
+
+doi:10.1021/bi900478b
+pubmed:19419158
+

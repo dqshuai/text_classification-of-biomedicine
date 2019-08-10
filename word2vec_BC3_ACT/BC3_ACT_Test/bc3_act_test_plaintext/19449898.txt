@@ -1,0 +1,21 @@
+Biochemistry
+
+Chemical mechanism of saccharopine reductase from Saccharomyces cerevisiae.
+
+AK Vashishtha, AH West, PF Cook
+
+Saccharopine reductase (SR) [saccharopine dehydrogenase (l-glutamate forming), EC 1.5.1.10] catalyzes the condensation of l-alpha-aminoadipate-delta-semialdehyde (AASA) with l-glutamate to give an imine, which is reduced by NADPH to give saccharopine. An acid-base chemical mechanism has been proposed for SR on the basis of pH-rate profiles and solvent deuterium kinetic isotope effects. A finite solvent isotope effect is observed indicating that proton(s) are in flight in the rate-limiting step(s) and likely the same step is limiting under both limiting and saturating substrate concentrations. A concave upward proton inventory suggests that more than one proton is transferred in a single transition state, likely a conformation change required to open the site and release products. Two groups are involved in the acid-base chemistry of the reaction. One of these groups catalyzes the steps involved in forming the imine between the alpha-amine of glutamate and the aldehyde of AASA. The group, which has a pK(a) of about 8, is observed in the pH-rate profiles for V(1) and V(1)/K(Glu) and must be protonated for optimal activity. It is also observed in the V(2) and V(2)/K(Sacc) pH-rate profiles and is required unprotonated. The second group, which has a pK(a) of 5.6, accepts a proton from the alpha-amine of glutamate so that it can act as a nucleophile in forming a carbinolamine upon attack of the carbonyl of AASA.
+
+-Deuterium Exchange Measurement
+-Hydrogen-Ion Concentration
+-Kinetics
+-Lysine (-analogs & derivatives; -chemistry; -metabolism)
+-NADP (-chemistry; -metabolism)
+-Saccharomyces cerevisiae (+enzymology)
+-Saccharomyces cerevisiae Proteins (-antagonists & inhibitors; +chemistry; -metabolism)
+-Saccharopine Dehydrogenases (-antagonists & inhibitors; +chemistry; -metabolism)
+-Solvents
+
+doi:10.1021/bi900599s
+pubmed:19449898
+

@@ -1,0 +1,33 @@
+J. Biol. Chem.
+
+Red fluorescent protein pH biosensor to detect concentrative nucleoside transport.
+
+DE Johnson, HW Ai, P Wong, JD Young, RE Campbell, JR Casey
+
+Human concentrative nucleoside transporter, hCNT3, mediates Na+/nucleoside and H+/nucleoside co-transport. We describe a new approach to monitor H+/uridine co-transport in cultured mammalian cells, using a pH-sensitive monomeric red fluorescent protein variant, mNectarine, whose development and characterization are also reported here. A chimeric protein, mNectarine fused to the N terminus of hCNT3 (mNect.hCNT3), enabled measurement of pH at the intracellular surface of hCNT3. mNectarine fluorescence was monitored in HEK293 cells expressing mNect.hCNT3 or mNect.hCNT3-F563C, an inactive hCNT3 mutant. Free cytosolic mNect, mNect.hCNT3, and the traditional pH-sensitive dye, BCECF, reported cytosolic pH similarly in pH-clamped HEK293 cells. Cells were incubated at the permissive pH for H(+)-coupled nucleoside transport, pH 5.5, under both Na(+)-free and Na(+)-containing conditions. In mNect.hCNT3-expressing cells (but not under negative control conditions) the rate of acidification increased in media containing 0.5 mm uridine, providing the first direct evidence for H(+)-coupled uridine transport. At pH 5.5, there was no significant difference in uridine transport rates (coupled H+ flux) in the presence or absence of Na+ (1.09 +/- 0.11 or 1.18 +/- 0.32 mm min(-1), respectively). This suggests that in acidic Na(+)-containing conditions, 1 Na+ and 1 H+ are transported per uridine molecule, while in acidic Na(+)-free conditions, 1 H+ alone is transported/uridine. In acid environments, including renal proximal tubule, H+/nucleoside co-transport may drive nucleoside accumulation by hCNT3. Fusion of mNect to hCNT3 provided a simple, self-referencing, and effective way to monitor nucleoside transport, suggesting an approach that may have applications in assays of transport activity of other H(+)-coupled transport proteins.
+
+-Biological Transport
++Biosensing Techniques
+-Cell Line
+-Cytosol (-metabolism)
+-Fluoresceins (-metabolism)
+-Genetic Engineering
+-Glycosylation
+-Humans
+-Hydrogen-Ion Concentration
+-Intracellular Space (-metabolism)
+-Kinetics
+-Luminescent Proteins (+metabolism)
+-Mutant Proteins (-metabolism)
+-Nucleosides (+metabolism)
+-Photobleaching
+-Protons
+-Recombinant Fusion Proteins (-metabolism)
+-Spectrometry, Fluorescence
+-Uridine (-metabolism)
+
+pii:M109.019042
+doi:10.1074/jbc.M109.019042
+pubmed:19494110
+pmc:PMC2742814
+

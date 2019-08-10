@@ -1,0 +1,28 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+The human IgM pentamer is a mushroom-shaped molecule with a flexural bias.
+
+DM Czajkowsky, Z Shao
+
+The textbook planar model of pentameric IgM, a potent activator of complement C1q, is based upon the crystallographic structure of IgG. Although widely accepted, key predictions of this model have not yet been directly confirmed, which is particularly important since IgG lacks a major Ig fold domain in its Fc region that is present in IgM. Here, we construct a homology-based structural model of the IgM pentamer using the recently obtained crystallographic structure of IgE Fc, which has this additional Ig domain, under the constraint that all of the cysteine residues known to form disulfide bridges both within each monomer and between monomers are bonded together. In contrast to the planar model, this model predicts a non-planar, mushroom-shaped complex, with the central portion formed by the C-terminal domains protruding out of the plane formed by the Fab domains. This unexpected conformation of IgM is, however, directly confirmed by cryo-atomic force microscopy of individual human IgM molecules. Further analysis of this model with free energy calculations of out-of-plane Fab domain rotations reveals a pronounced asymmetry favoring flexions toward the central protrusion. This bias, together with polyvalent attachment to cell surface antigen, would ensure that the IgM pentamer is oriented on the cell membrane with its C1q binding sites fully exposed to the solution, and thus provides a mechanistic explanation for the first steps of C1q activation by IgM.
+
+-Amino Acid Sequence
+-Crystallography, X-Ray
+-Humans
+-Immunoglobulin Fab Fragments (-chemistry)
+-Immunoglobulin M (+chemistry; -genetics; -metabolism; -ultrastructure)
+-Microscopy, Atomic Force
+-Models, Molecular
+-Molecular Sequence Data
+-Mutation
++Protein Multimerization
+-Protein Structure, Quaternary
+-Sequence Alignment
+-Sequence Homology, Amino Acid
+-Structural Homology, Protein
+
+pii:0903805106
+doi:10.1073/pnas.0903805106
+pubmed:19706439
+pmc:PMC2736442
+

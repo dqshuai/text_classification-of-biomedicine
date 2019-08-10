@@ -1,0 +1,38 @@
+Genome Res.
+
+High-resolution analysis of epigenetic changes associated with X inactivation.
+
+H Marks, JC Chow, S Denissov, KJ Françoijs, N Brockdorff, E Heard, HG Stunnenberg
+
+Differentiation of female murine ES cells triggers silencing of one X chromosome through X-chromosome inactivation (XCI). Immunofluorescence studies showed that soon after Xist RNA coating the inactive X (Xi) undergoes many heterochromatic changes, including the acquisition of H3K27me3. However, the mechanisms that lead to the establishment of heterochromatin remain unclear. We first analyze chromatin changes by ChIP-chip, as well as RNA expression, around the X-inactivation center (Xic) in female and male ES cells, and their day 4 and 10 differentiated derivatives. A dynamic epigenetic landscape is observed within the Xic locus. Tsix repression is accompanied by deposition of H3K27me3 at its promoter during differentiation of both female and male cells. However, only in female cells does an active epigenetic landscape emerge at the Xist locus, concomitant with high Xist expression. Several regions within and around the Xic show unsuspected chromatin changes, and we define a series of unusual loci containing highly enriched H3K27me3. Genome-wide ChIP-seq analyses show a female-specific quantitative increase of H3K27me3 across the X chromosome as XCI proceeds in differentiating female ES cells. Using female ES cells with nonrandom XCI and polymorphic X chromosomes, we demonstrate that this increase is specific to the Xi by allele-specific SNP mapping of the ChIP-seq tags. H3K27me3 becomes evenly associated with the Xi in a chromosome-wide fashion. A selective and robust increase of H3K27me3 and concomitant decrease in H3K4me3 is observed over active genes. This indicates that deposition of H3K27me3 during XCI is tightly associated with the act of silencing of individual genes across the Xi.
+
+-Animals
+-Cell Differentiation (-genetics)
+-Cells, Cultured
+-Chromatin Immunoprecipitation
+-Embryonic Stem Cells (-cytology; +metabolism)
++Epigenesis, Genetic
+-Female
++Gene Expression Profiling
+-Genome-Wide Association Study
+-Histones (-metabolism)
+-Kinetics
+-Lysine (-metabolism)
+-Male
+-Methylation
+-Mice
+-Mice, Inbred C3H
+-Oligonucleotide Array Sequence Analysis
+-Polymorphism, Single Nucleotide
+-RNA, Untranslated (-genetics)
+-Repetitive Sequences, Nucleic Acid (-genetics)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Transcription, Genetic (-genetics)
+-X Chromosome (-genetics)
+-X Chromosome Inactivation (+genetics)
+
+pii:gr.092643.109
+doi:10.1101/gr.092643.109
+pubmed:19581487
+pmc:PMC2720191
+

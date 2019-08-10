@@ -1,0 +1,24 @@
+Nucleic Acids Res.
+
+The PREP suite: predictive RNA editors for plant mitochondrial genes, chloroplast genes and user-defined alignments.
+
+JP Mower
+
+RNA editing alters plant mitochondrial and chloroplast transcripts by converting specific cytidines to uridines, which usually results in a change in the amino acid sequence of the translated protein. Systematic studies have experimentally identified sites of RNA editing in organellar transcriptomes from several species, but these analyses have not kept pace with rate of genome sequencing. The PREP (predictive RNA editors for plants) suite was developed to computationally predict sites of RNA editing based on the well-known principle that editing in plant organelles increases the conservation of proteins across species. The PREP suite provides predictive RNA editors for plant mitochondrial genes (PREP-Mt), for chloroplast genes (PREP-Cp), and for alignments submitted by the user (PREP-Aln). These servers require minimal input, are very fast, and are highly accurate on all seed plants examined to date. PREP-Mt has proved useful in several research studies and the newly developed PREP-Cp and PREP-Aln servers should be of further assistance for analyses that require knowledge of the location of sites of RNA editing. The PREP suite is freely available at http://prep.unl.edu/.
+
+-Chloroplasts (-genetics)
++Gene Expression Regulation, Plant
++Genes, Mitochondrial
+-Genes, Plant
++RNA Editing
+-Sequence Alignment
+-Sequence Analysis, DNA
+-Sequence Analysis, RNA
++Software
+-User-Computer Interface
+
+pii:gkp337
+doi:10.1093/nar/gkp337
+pubmed:19433507
+pmc:PMC2703948
+

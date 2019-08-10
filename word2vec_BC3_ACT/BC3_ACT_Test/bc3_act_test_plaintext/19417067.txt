@@ -1,0 +1,19 @@
+Nucleic Acids Res.
+
+Web API for biology with a workflow navigation system.
+
+Y Kwon, Y Shigemoto, Y Kuwana, H Sugawara
+
+DNA Data Bank of Japan (DDBJ) provides Web-based systems for biological analysis, called Web APIs for biology (WABI). So far, we have developed over 20 SOAP services and several workflows that consist of a series of method invocations. In this article, we present newly developed services of WABI, that is, REST-based Web services, additional workflows and a workflow navigation system. Each Web service and workflow can be used as a complete service or a building block for programmers to construct more complex information processing systems. The workflow navigation system aims to help non-programming biologists perform analysis tasks by providing next applicable services on Web browsers according to the output of a previously selected service. With this function, users can apply multiple services consecutively only by following links without any programming or manual copy-and-paste operations on Web browsers. The listed services are determined automatically by the system referring to the dictionaries of service categories, the input/output types of services and HTML tags. WABI and the workflow navigation system are freely accessible at http://www.xml.nig.ac.jp/index.html and http://cyclamen.ddbj.nig.ac.jp/, respectively.
+
++Biology
++Databases, Nucleic Acid
+-Internet
++Software
+-User-Computer Interface
+
+pii:gkp300
+doi:10.1093/nar/gkp300
+pubmed:19417067
+pmc:PMC2703950
+

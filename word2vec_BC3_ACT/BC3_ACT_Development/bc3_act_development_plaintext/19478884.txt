@@ -1,0 +1,23 @@
+PLoS Genet.
+
+Cdc7p-Dbf4p regulates mitotic exit by inhibiting Polo kinase.
+
+CT Miller, C Gabrielse, YC Chen, M Weinreich
+
+Cdc7p-Dbf4p is a conserved protein kinase required for the initiation of DNA replication. The Dbf4p regulatory subunit binds Cdc7p and is essential for Cdc7p kinase activation, however, the N-terminal third of Dbf4p is dispensable for its essential replication activities. Here, we define a short N-terminal Dbf4p region that targets Cdc7p-Dbf4p kinase to Cdc5p, the single Polo kinase in budding yeast that regulates mitotic progression and cytokinesis. Dbf4p mediates an interaction with the Polo substrate-binding domain to inhibit its essential role during mitosis. Although Dbf4p does not inhibit Polo kinase activity, it nonetheless inhibits Polo-mediated activation of the mitotic exit network (MEN), presumably by altering Polo substrate targeting. In addition, although dbf4 mutants defective for interaction with Polo transit S-phase normally, they aberrantly segregate chromosomes following nuclear misorientation. Therefore, Cdc7p-Dbf4p prevents inappropriate exit from mitosis by inhibiting Polo kinase and functions in the spindle position checkpoint.
+
+-Cell Cycle
+-Cell Cycle Proteins (-chemistry; -genetics; +metabolism)
++Gene Expression Regulation, Fungal
++Mitosis
+-Protein Binding
+-Protein Kinases (-genetics; +metabolism)
+-Protein Structure, Tertiary
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-Saccharomyces cerevisiae (-chemistry; +cytology; -genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (-chemistry; -genetics; +metabolism)
+
+doi:10.1371/journal.pgen.1000498
+pubmed:19478884
+pmc:PMC2682205
+

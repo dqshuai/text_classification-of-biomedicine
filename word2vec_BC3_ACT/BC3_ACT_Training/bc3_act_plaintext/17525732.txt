@@ -1,0 +1,27 @@
+EMBO J.
+
+ATMIN defines an NBS1-independent pathway of ATM signalling.
+
+N Kanu, A Behrens
+
+The checkpoint kinase ATM (ataxia telangiectasia mutated) transduces genomic stress signals to halt cell cycle progression and promote DNA repair in response to DNA damage. Here, we report the characterisation of an essential cofactor for ATM, ATMIN (ATM INteracting protein). ATMIN interacts with ATM through a C-terminal motif, which is also present in Nijmegen breakage syndrome (NBS)1. ATMIN and ATM co-localised in response to ATM activation by chloroquine and hypotonic stress, but not after induction of double-strand breaks by ionising radiation (IR). ATM/ATMIN complex disruption by IR was attenuated in cells with impaired NBS1 function, suggesting competition of NBS1 and ATMIN for ATM binding. ATMIN protein levels were reduced in ataxia telangiectasia cells and ATM protein levels were low in primary murine fibroblasts lacking ATMIN, indicating reciprocal stabilisation. Whereas phosphorylation of Smc1, Chk2 and p53 was normal after IR in ATMIN-deficient cells, basal ATM activity and ATM activation by hypotonic stress and inhibition of DNA replication was impaired. Thus, ATMIN defines a novel NBS1-independent pathway of ATM signalling.
+
+-Base Sequence
+-Carrier Proteins (+metabolism)
+-Cell Cycle Proteins (+metabolism)
+-Cell Line
+-DNA Damage
+-DNA Primers
+-DNA-Binding Proteins (+metabolism)
+-Humans
+-Nuclear Proteins (+metabolism)
+-Protein Binding
+-Protein-Serine-Threonine Kinases (+metabolism)
++Signal Transduction
+-Tumor Suppressor Proteins (+metabolism)
+
+pii:7601733
+doi:10.1038/sj.emboj.7601733
+pubmed:17525732
+pmc:PMC1894771
+

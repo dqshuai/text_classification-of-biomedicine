@@ -1,0 +1,30 @@
+Mol. Cell. Biol.
+
+The Ime2 protein kinase enhances the disassociation of the Sum1 repressor from middle meiotic promoters.
+
+NT Ahmed, D Bungard, ME Shin, M Moore, E Winter
+
+Meiotic development in Saccharomyces cerevisiae (sporulation) is controlled by the sequential transcription of temporally distinct sets of meiosis-specific genes. The induction of middle genes controls exit from meiotic prophase, the completion of the nuclear divisions, and spore formation. Middle promoters are controlled through DNA elements termed middle sporulation elements (MSEs) that are bound by the Sum1 repressor during vegetative growth and by the Ndt80 activator during meiosis. It has been proposed that the induction of middle promoters is controlled by competition between Ndt80 and Sum1 for MSE occupancy. Here, we show that the Sum1 repressor can be removed from middle promoters in meiotic cells independent of Ndt80 expression. This process requires the phosphorylation of Sum1 by the meiosis-specific cyclin-dependent kinase-like kinase Ime2. The deletion of HST1, which encodes a Sir2 paralog that interacts with Sum1, bypasses the requirement for this phosphorylation. These findings suggest that in the presence of Ndt80, Sum1 may be displaced from MSEs through a competition-based mechanism but that in the absence of Ndt80, Sum1 is removed from chromatin in a separate pathway requiring the phosphorylation of Sum1 by Ime2 and the inhibition of Hst1.
+
+-DNA-Binding Proteins (-genetics; -metabolism)
++Gene Expression Regulation, Fungal
+-Histone Deacetylases (-genetics; -metabolism)
+-Intracellular Signaling Peptides and Proteins (-genetics; +metabolism)
+-Meiosis (+physiology)
+-Mitogen-Activated Protein Kinases (-genetics; -metabolism)
+-Nuclear Proteins (-genetics; +metabolism)
+-Phosphorylation
++Promoter Regions, Genetic
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-Repressor Proteins (-genetics; +metabolism)
+-Saccharomyces cerevisiae (-cytology; +physiology)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Sirtuin 2
+-Sirtuins (-genetics; -metabolism)
+-Transcription Factors (-genetics; -metabolism)
+
+pii:MCB.00305-09
+doi:10.1128/MCB.00305-09
+pubmed:19528232
+pmc:PMC2725727
+

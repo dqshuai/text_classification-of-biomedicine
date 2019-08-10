@@ -1,0 +1,28 @@
+J. Virol.
+
+Nuclear factor 90 negatively regulates influenza virus replication by interacting with viral nucleoprotein.
+
+P Wang, W Song, BW Mok, P Zhao, K Qin, A Lai, GJ Smith, J Zhang, T Lin, Y Guan, H Chen
+
+Interactions between host factors and the viral replication complex play important roles in host adaptation and regulation of influenza virus replication. A cellular protein, nuclear factor 90 (NF90), was copurified with H5N1 viral nucleoprotein (NP) from human cells in which NP was transiently expressed and identified by matrix-assisted laser desorption ionization-time of flight mass spectrometry analysis. In vitro coimmunoprecipitation of NF90 and NP coexpressed in HEK 293T cells or individually expressed in bacterial and HEK 293T cells, respectively, confirmed a direct interaction between NF90 and NP, independent of other subunits of the ribonucleoprotein complex. This interaction was prevented by a mutation, F412A, in the C-terminal region of the NP, indicating that the C-terminal of NP is required for NF90 binding. RNase V treatment did not prevent coprecipitation of NP and NF90, which demonstrates that the interaction is RNA binding independent. After small interfering RNA knockdown of NF90 expression in A549 and HeLa cells, viral polymerase complex activity and virus replication were significantly increased, suggesting that NF90 negatively affects viral replication. Both NP and NF90 colocalized in the nucleus of virus-infected cells during the early phase of infection, suggesting that the interaction between NF90 and NP is an early event in virus replication. Quantitative reverse transcription-PCR showed that NF90 downregulates both viral genome replication and mRNA transcription in infected cells. These results suggest that NF90 inhibits influenza virus replication during the early phase of infection through direct interaction with viral NP.
+
+-Amino Acid Sequence
+-Cell Line
+-Cell Nucleus (-genetics; -metabolism)
++Down-Regulation
+-Humans
+-Influenza A Virus, H5N1 Subtype (-genetics; +physiology)
+-Influenza, Human (+metabolism; -virology)
+-Molecular Sequence Data
+-Nuclear Factor 90 Proteins (-chemistry; -genetics; +metabolism)
+-Nucleoproteins (-genetics; +metabolism)
+-Protein Binding
+-Sequence Alignment
+-Viral Proteins (-genetics; +metabolism)
++Virus Replication
+
+pii:JVI.00735-09
+doi:10.1128/JVI.00735-09
+pubmed:19494010
+pmc:PMC2715781
+

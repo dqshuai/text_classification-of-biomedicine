@@ -1,0 +1,32 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Maximum-entropy network analysis reveals a role for tumor necrosis factor in peripheral nerve development and function.
+
+PS Dhadialla, IE Ohiorhenuan, A Cohen, S Strickland
+
+Gene regulatory interactions that shape developmental processes can often can be inferred from microarray analysis of gene expression, but most computational methods used require extensive datasets that can be difficult to generate. Here, we show that maximum-entropy network analysis allows extraction of genetic interactions from limited microarray datasets. Maximum-entropy networks indicated that the inflammatory cytokine TNF-alpha plays a pivotal role in Schwann cell-axon interactions, and these data suggested that TNF mediates its effects by orchestrating cytoplasmic movement and axon guidance. In vivo and in vitro experiments confirmed these predictions, showing that Schwann cells in TNF(-/-) peripheral sensory bundles fail to envelop axons efficiently, and that recombinant TNF can partially correct these defects. These data demonstrate the power of maximum-entropy network-based methods for analysis of microarray data, and they indicate that TNF-alpha plays a direct role in Schwann cell-axon communication.
+
+-Animals
+-Antibodies (-immunology; -pharmacology)
+-Cell Communication
+-Cells, Cultured
+-Coculture Techniques
+-Gene Expression Profiling
+-Gene Regulatory Networks
+-Mice
+-Mice, Knockout
+-Microscopy, Electron
+-Motor Activity (-physiology)
+-Neurogenesis (-drug effects; -genetics; +physiology)
+-Neurons (-cytology; +metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Pain Measurement (-methods)
+-Schwann Cells (-cytology; +metabolism; -ultrastructure)
+-Sciatic Nerve (-cytology; -physiology)
+-Tumor Necrosis Factor-alpha (-genetics; -immunology; +physiology)
+
+pii:0902237106
+doi:10.1073/pnas.0902237106
+pubmed:19597151
+pmc:PMC2718354
+

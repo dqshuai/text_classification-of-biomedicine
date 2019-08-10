@@ -1,0 +1,19 @@
+BMC Mol. Biol.
+
+Identification and validation of housekeeping genes in brains of the desert locust Schistocerca gregaria under different developmental conditions.
+
+MB Van Hiel, P Van Wielendaele, L Temmerman, S Van Soest, K Vuerinckx, R Huybrechts, JV Broeck, G Simonet
+
+BACKGROUND: To obtain reliable quantitative RT-PCR data, normalization relative to stable housekeeping genes is required. However, in practice, expression levels of 'typical' housekeeping genes have been found to vary between tissues and under different experimental conditions. To date, validation studies of reference genes in insects are extremely rare and have never been performed in locusts. In this study, putative housekeeping genes were identified in the desert locust, Schistocerca gregaria and two different software programs (geNorm and Normfinder) were applied to assess the stability of these genes. RESULTS: We have identified seven orthologs of commonly used housekeeping genes in the desert locust. The selected genes were the orthologs of actin, EF1a, GAPDH, RP49, TubA1, Ubi, and CG13220. By employing real time RT-PCR we have analysed the expression of these housekeeping genes in brain tissue of fifth instar nymphs and adults. In the brain of fifth instar nymphs geNorm indicated Sg-EF1a, Sg-GAPDH and Sg-RP49 as most stable genes, while Normfinder ranked Sg-RP49, Sg-EF1a and Sg-ACT as most suitable candidates for normalization. The best normalization candidates for gene expression studies in the brains of adult locusts were Sg-EF1a, Sg-GAPDH and Sg-Ubi according to geNorm, while Normfinder determined Sg-GAPDH, Sg-Ubi and Sg-ACT as the most stable housekeeping genes. CONCLUSION: To perform transcript profiling studies on brains of the desert locust, the use of Sg-RP49, Sg-EF1a and Sg-ACT as reference genes is proposed for studies of fifth instar nymphs. In experiments with adult brains, however, the most preferred reference genes were Sg-GAPDH, Sg-Ubi and Sg-EF1a. These data will facilitate transcript profiling studies in desert locusts and provide a good starting point for the initial selection of genes for validation studies in other insects.
+
+-Animals
+-Brain (-metabolism)
+-Gene Expression Profiling
++Genes, Insect
+-Grasshoppers (+genetics; +growth & development)
+
+pii:1471-2199-10-56
+doi:10.1186/1471-2199-10-56
+pubmed:19508726
+pmc:PMC2700112
+

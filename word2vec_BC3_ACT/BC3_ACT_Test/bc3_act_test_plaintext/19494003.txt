@@ -1,0 +1,25 @@
+J. Virol.
+
+Topoisomerase I and RecQL1 function in Epstein-Barr virus lytic reactivation.
+
+P Wang, AJ Rennekamp, Y Yuan, PM Lieberman
+
+Cellular topoisomerases and helicases are thought to play an essential role in herpesvirus replication and gene expression and are considered to be potential targets for antiviral therapies. Topoisomerase I (Topo I) and Topo II inhibitors can selectively inhibit Epstein-Barr virus (EBV) lytic cycle DNA replication. We found that the Topo I inhibitor camptothecin and, to a lesser extent, the Topo II inhibitor etoposide are potent inhibitors of the transcription and replication function of the EBV-encoded immediate-early protein Zta (also referred to as ZEBRA, EB1, and BZLF1). Camptothecin inhibited the Zta transcription activation of endogenous and reporter-linked viral promoters. Small interfering RNA depletion of Topo I also inhibited the Zta-dependent activation of lytic cycle DNA replication. Topo I could be coimmunoprecipitated with Zta, but this interaction was restricted to EBV-positive cells, suggesting that other viral proteins stabilize the interaction between Zta and Topo I. We also found that the RecQL1 helicase, which is known to associate with Kaposi's sarcoma-associated herpesvirus (KSHV) OriLyt, interacts with EBV OriLyt. Treatment with camptothecin reduced both Zta and RecQL1 binding to OriLyt in vivo, suggesting that Topo I promotes replication protein assembly at OriLyt.
+
+-Cell Line
+-DNA Topoisomerases, Type I (-genetics; +metabolism)
+-Epstein-Barr Virus Infections (+enzymology; -metabolism; -virology)
+-Herpesvirus 4, Human (-genetics; +physiology)
+-Humans
+-Protein Binding
+-RecQ Helicases (-genetics; +metabolism)
+-Trans-Activators (-genetics; -metabolism)
+-Viral Proteins (-genetics; -metabolism)
++Virus Activation
+-Virus Replication
+
+pii:JVI.02379-08
+doi:10.1128/JVI.02379-08
+pubmed:19494003
+pmc:PMC2715768
+

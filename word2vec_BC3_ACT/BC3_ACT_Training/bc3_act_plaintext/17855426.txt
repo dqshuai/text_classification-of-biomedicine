@@ -1,0 +1,26 @@
+Development
+
+The HECATE genes regulate female reproductive tract development in Arabidopsis thaliana.
+
+K Gremski, G Ditta, MF Yanofsky
+
+Successful fertilization in plants requires the properly coordinated development of female reproductive tissues, including stigma, style, septum and transmitting tract. We have identified three closely related genes, HECATE1 (HEC1), HECATE2 (HEC2) and HECATE3 (HEC3), the expression domains of which encompass these regions of the Arabidopsis gynoecium. The HEC genes encode putative basic helix-loop-helix (bHLH) transcription factors with overlapping functionality. Depending on the amount of HEC function missing, plants exhibit varying degrees of infertility, defects in septum, transmitting tract and stigma development and impaired pollen tube growth. The observed phenotypes are similar to those reported for mutations in the SPATULA (SPT) gene, which also encodes a bHLH transcription factor required for development of the same female tissues. We show that the HEC proteins can dimerize with SPT in a yeast two-hybrid system, indicating that the HEC genes work in concert with SPT to coordinately regulate development of the female reproductive tract. Furthermore, when the HEC genes are ectopically expressed from the CaMV 35S promoter, some of the resulting transgenic plants show pin-shaped inflorescences, suggesting that the HEC genes are probably involved in auxin-mediated control of gynoecium patterning.
+
+-Amino Acid Sequence
+-Arabidopsis (-anatomy & histology; -embryology; +genetics; -growth & development)
+-Arabidopsis Proteins (-chemistry; +genetics; +metabolism)
+-Basic Helix-Loop-Helix Transcription Factors (-genetics; -metabolism)
++Flowers (-physiology; -ultrastructure)
+-Gene Expression Regulation, Plant
++Genes, Plant
+-Molecular Sequence Data
+-Morphogenesis
+-Plants, Genetically Modified
++Pollen Tube (-physiology; -ultrastructure)
+-Sequence Alignment
+-Two-Hybrid System Techniques
+
+pii:dev.011510
+doi:10.1242/dev.011510
+pubmed:17855426
+

@@ -1,0 +1,28 @@
+Mol. Cell
+
+Mechanism of substrate unfolding and translocation by the regulatory particle of the proteasome from Methanocaldococcus jannaschii.
+
+F Zhang, Z Wu, P Zhang, G Tian, D Finley, Y Shi
+
+In the archaebacterium Methanocaldococcus jannaschii (M. jannaschii), the proteasomal regulatory particle (RP), a homohexameric complex of proteasome-activating nucleotidase (PAN), is responsible for target protein recognition, followed by unfolding and translocation of the bound protein into the core particle (CP) for degradation. Guided by structure-based mutagenesis, we identify amino acids and structural motifs that are essential for PAN function. Key residues line the axial channel of PAN, defining the apparent pathway of substrate translocation. Subcomplex II of PAN, comprising the ATPase domain, associates with the CP and drives ATP-dependent unfolding of the substrate protein, whereas the distal subcomplex I forms the entry port of the substrate translocation channel. A linker segment between subcomplexes I and II is essential for PAN function, implying functional and perhaps mechanical coupling between these domains. Sequence conservation suggests that the principles of PAN function are likely to apply to the proteasomal RP of eukaryotes.
+
++Adenosine Triphosphatases (-chemistry; -genetics; -metabolism)
+-Amino Acid Sequence
++Archaeal Proteins (-chemistry; -genetics; -metabolism)
+-Crystallography, X-Ray
+-Methanococcales (+enzymology; -genetics)
+-Models, Molecular
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Proteasome Endopeptidase Complex (+chemistry; -genetics; +metabolism)
++Protein Conformation
+-Protein Folding
++Protein Subunits (-chemistry; -genetics; -metabolism)
+-RNA, Bacterial (-chemistry; -genetics; -metabolism)
+-Recombinant Fusion Proteins (-chemistry; -genetics; -metabolism)
+-Sequence Alignment
+
+pii:S1097-2765(09)00275-5
+doi:10.1016/j.molcel.2009.04.022
+pubmed:19481528
+

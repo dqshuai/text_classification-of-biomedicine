@@ -1,0 +1,27 @@
+PLoS Comput. Biol.
+
+Brain anatomical network and intelligence.
+
+Y Li, Y Liu, J Li, W Qin, K Li, C Yu, T Jiang
+
+Intuitively, higher intelligence might be assumed to correspond to more efficient information transfer in the brain, but no direct evidence has been reported from the perspective of brain networks. In this study, we performed extensive analyses to test the hypothesis that individual differences in intelligence are associated with brain structural organization, and in particular that higher scores on intelligence tests are related to greater global efficiency of the brain anatomical network. We constructed binary and weighted brain anatomical networks in each of 79 healthy young adults utilizing diffusion tensor tractography and calculated topological properties of the networks using a graph theoretical method. Based on their IQ test scores, all subjects were divided into general and high intelligence groups and significantly higher global efficiencies were found in the networks of the latter group. Moreover, we showed significant correlations between IQ scores and network properties across all subjects while controlling for age and gender. Specifically, higher intelligence scores corresponded to a shorter characteristic path length and a higher global efficiency of the networks, indicating a more efficient parallel information transfer in the brain. The results were consistently observed not only in the binary but also in the weighted networks, which together provide convergent evidence for our hypothesis. Our findings suggest that the efficiency of brain structural organization may be an important biological basis for intelligence.
+
+-Adolescent
+-Adult
+-Brain (+anatomy & histology; -physiology)
+-Brain Mapping
+-Cluster Analysis
+-Diffusion Magnetic Resonance Imaging
+-Female
+-Humans
+-Intelligence (+physiology)
+-Intelligence Tests
+-Male
++Models, Neurological
+-Nerve Net (+anatomy & histology)
+-Neural Pathways (+anatomy & histology)
+
+doi:10.1371/journal.pcbi.1000395
+pubmed:19492086
+pmc:PMC2683575
+

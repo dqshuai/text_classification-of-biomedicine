@@ -1,0 +1,26 @@
+J. Mol. Biol.
+
+Insights into the biosynthesis of the Vibrio cholerae major autoinducer CAI-1 from the crystal structure of the PLP-dependent enzyme CqsA.
+
+N Jahan, JA Potter, MA Sheikh, CH Botting, SL Shirran, NJ Westwood, GL Taylor
+
+CqsA is an enzyme involved in the biosynthesis of cholerae autoinducer-1 (CAI-1), the major Vibrio cholerae autoinducer engaged in quorum sensing. The amino acid sequence of CqsA suggests that it belongs to the family of alpha-oxoamine synthases that catalyse the condensation of an amino acid to an acyl-CoA substrate. Here we present the apo- and PLP-bound crystal structures of CqsA and confirm that it shares structural homology with the dimeric alpha-oxoamine synthases, including a conserved PLP-binding site. The chemical structure of CAI-1 suggests that decanoyl-CoA may be one substrate of CqsA and that another substrate may be l-threonine or l-2-aminobutyric acid. A crystal structure of CqsA at 1.9-A resolution obtained in the presence of PLP and l-threonine reveals an external aldimine that has lost the l-threonine side chain. Similarly, a 1.9-A-resolution crystal structure of CqsA in the presence of PLP, l-threonine, and decanoyl-CoA shows a trapped external aldimine intermediate, suggesting that the condensation and decarboxylation steps have occurred, again with loss of the l-threonine side chain. It is suggested that this side-chain loss, an observation supported by mass spectrometry, is due to a retro-aldol reaction. Although no structural data have been obtained on CqsA using l-2-aminobutyric acid and decanoyl-CoA as substrates, mass spectrometry confirms the expected product of the enzyme reaction. It is proposed that a region of structure that is disordered in the apo structure is involved in the release of product. While not confirming if CqsA alone is able to synthesize CAI-1, these results suggest possible synthetic routes.
+
+-Amino Acid Sequence
+-Bacterial Proteins (+biosynthesis; +chemistry; -genetics)
+-Binding Sites
+-Crystallography, X-Ray
+-Humans
++Ketones (-chemistry; -metabolism)
+-Models, Molecular
+-Molecular Sequence Data
+-Molecular Structure
++Protein Conformation
+-Schiff Bases (-chemistry)
+-Sequence Alignment
+-Vibrio cholerae (+enzymology)
+
+pii:S0022-2836(09)00881-X
+doi:10.1016/j.jmb.2009.07.042
+pubmed:19631226
+

@@ -1,0 +1,31 @@
+PLoS Biol.
+
+Plk1 self-organization and priming phosphorylation of HsCYK-4 at the spindle midzone regulate the onset of division in human cells.
+
+ME Burkard, J Maciejowski, V Rodriguez-Bravo, M Repka, DM Lowery, KR Clauser, C Zhang, KM Shokat, SA Carr, MB Yaffe, PV Jallepalli
+
+Animal cells initiate cytokinesis in parallel with anaphase onset, when an actomyosin ring assembles and constricts through localized activation of the small GTPase RhoA, giving rise to a cleavage furrow. Furrow formation relies on positional cues provided by anaphase spindle microtubules (MTs), but how such cues are generated remains unclear. Using chemical genetics to achieve both temporal and spatial control, we show that the self-organized delivery of Polo-like kinase 1 (Plk1) to the midzone and its local phosphorylation of a MT-bound substrate are critical for generating this furrow-inducing signal. When Plk1 was active but unable to target itself to this equatorial landmark, both cortical RhoA recruitment and furrow induction failed to occur, thus recapitulating the effects of anaphase-specific Plk1 inhibition. Using tandem mass spectrometry and phosphospecific antibodies, we found that Plk1 binds and directly phosphorylates the HsCYK-4 subunit of centralspindlin (also known as MgcRacGAP) at the midzone. At serine 157, this modification creates a major docking site for the tandem BRCT repeats of the Rho GTP exchange factor Ect2. Cells expressing only a nonphosphorylatable form of HsCYK-4 failed to localize Ect2 at the midzone and were severely impaired in cleavage furrow formation, implying that HsCYK-4 is Plk1's rate-limiting target upstream of RhoA. Conversely, tethering an inhibitor-resistant allele of Plk1 to HsCYK-4 allowed furrows to form despite global inhibition of all other Plk1 molecules in the cell. Our findings illuminate two key mechanisms governing the initiation of cytokinesis in human cells and illustrate the power of chemical genetics to probe such regulation both in time and space.
+
+-Anaphase (-physiology)
+-Animals
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Cell Division (-genetics; +physiology)
+-Cell Line
+-GTPase-Activating Proteins (-genetics; +metabolism)
+-Humans
+-Immunoblotting
+-Immunoprecipitation
+-Mitotic Spindle Apparatus (-metabolism)
+-Phosphorylation
+-Protein Binding
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-Proto-Oncogene Proteins (-genetics; +metabolism)
+-RNA, Small Interfering (-genetics; -physiology)
+-Serine (-metabolism; -physiology)
+-Spodoptera
+-Tandem Mass Spectrometry
+
+doi:10.1371/journal.pbio.1000111
+pubmed:19468302
+pmc:PMC2680336
+

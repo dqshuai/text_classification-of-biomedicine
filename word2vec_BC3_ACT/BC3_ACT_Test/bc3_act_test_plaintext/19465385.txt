@@ -1,0 +1,32 @@
+Nucleic Acids Res.
+
+RFXB and its splice variant RFXBSV mediate the antagonism between IFNgamma and TGFbeta on COL1A2 transcription in vascular smooth muscle cells.
+
+M Fang, X Kong, P Li, F Fang, X Wu, H Bai, X Qi, Q Chen, Y Xu
+
+Cytokines secreted by infiltrating immune cells during atherogenesis modulate vascular remodeling. One exemplary event is the antagonism between transformed growth factor (TGF-beta) and interferon gamma (IFN-gamma) on the transcriptional control of type I collagen gene (COL1A2). Previously we have reported that IFN-gamma up-regulates regulatory factor for X-box B (RFXB) to repress collagen transcription while down-regulates the expression of RFXBSV, a splice variant of RFXB that blocks collagen repression in fibroblasts. Here we demonstrate that TGF-beta abrogated COL1A2 repression by IFN-gamma through altering the relative expression of RFXB and RFXBSV. Unlike RFXB, RFXBSV did not bind to the collagen promoter and competed with RFXB for the co-repressor histone deacetylase 2 (HDAC2), limiting HDAC2 recruitment to the collagen transcription start site as evidenced by chromatin immunoprecipitation assays. Over-expression of RFXB by lentiviral infection in HASMCs enhanced HDAC2 enlistment, promoted histone deacetylation surrounding the collagen site by IFN-gamma, and blocked the TGF-beta antagonism, a pattern reversed by RFXBSV infection. On the contrary, silencing of RFXB, but not both RFXB and RFXBSV, expression promoted the TGF-beta antagonism. Thus, we have identified a novel mechanism whereby TGF-beta antagonizes the IFN-gamma repression of collagen transcription in HASMCs and as such provided new insights into antiatherogenic strategies.
+
+-Binding, Competitive
+-Cells, Cultured
+-Collagen (+genetics)
++Gene Expression Regulation
+-Histone Deacetylase 2
+-Histone Deacetylases (-metabolism)
+-Histones (-metabolism)
+-Humans
+-Interferon-gamma (+antagonists & inhibitors)
+-Muscle, Smooth, Vascular (-cytology; +metabolism)
+-Myocytes, Smooth Muscle (-drug effects; -metabolism)
+-RNA Interference
+-RNA Splicing
+-Repressor Proteins (-metabolism)
+-Transcription Factors (-antagonists & inhibitors; -genetics; +metabolism)
+-Transcription Initiation Site
+-Transcription, Genetic
+-Transforming Growth Factor beta (+pharmacology)
+
+pii:gkp398
+doi:10.1093/nar/gkp398
+pubmed:19465385
+pmc:PMC2715248
+

@@ -1,0 +1,32 @@
+PLoS ONE
+
+Transcriptome-wide prediction of miRNA targets in human and mouse using FASTH.
+
+C Ragan, N Cloonan, SM Grimmond, M Zuker, MA Ragan
+
+Transcriptional regulation by microRNAs (miRNAs) involves complementary base-pairing at target sites on mRNAs, yielding complex secondary structures. Here we introduce an efficient computational approach and software (FASTH) for genome-scale prediction of miRNA target sites based on minimizing the free energy of duplex structure. We apply our approach to identify miRNA target sites in the human and mouse transcriptomes. Our results show that short sequence motifs in the 5' end of miRNAs frequently match mRNAs perfectly, not only at validated target sites but additionally at many other, energetically favourable sites. High-quality matching regions are abundant and occur at similar frequencies in all mRNA regions, not only the 3'UTR. About one-third of potential miRNA target sites are reassigned to different mRNA regions, or gained or lost altogether, among different transcript isoforms from the same gene. Many potential miRNA target sites predicted in human are not found in mouse, and vice-versa, but among those that do occur in orthologous human and mouse mRNAs most are situated in corresponding mRNA regions, i.e. these sites are themselves orthologous. Using a luciferase assay in HEK293 cells, we validate four of six predicted miRNA-mRNA interactions, with the mRNA level reduced by an average of 73%. We demonstrate that a thermodynamically based computational approach to prediction of miRNA binding sites on mRNAs can be scaled to analyse complete mammalian transcriptome datasets. These results confirm and extend the scope of miRNA-mediated species- and transcript-specific regulation in different cell types, tissues and developmental conditions.
+
+-3' Untranslated Regions (-genetics)
+-Animals
+-Base Pairing (-genetics)
+-Base Sequence
+-Bias (Epidemiology)
+-Binding Sites
+-Cell Line
+-Computational Biology (+methods)
++Gene Expression Profiling
+-Humans
+-Mice
+-MicroRNAs (+metabolism)
+-Nucleotides (-genetics)
+-Open Reading Frames (-genetics)
+-Protein Isoforms
+-RNA, Messenger (-genetics)
+-Reproducibility of Results
++Software
+-Thermodynamics
+
+doi:10.1371/journal.pone.0005745
+pubmed:19478946
+pmc:PMC2684643
+

@@ -1,0 +1,34 @@
+Oncogene
+
+Plk1 regulates liver tumor cell death by phosphorylation of TAp63.
+
+S Komatsu, H Takenobu, T Ozaki, K Ando, N Koida, Y Suenaga, T Ichikawa, T Hishiki, T Chiba, A Iwama, H Yoshida, N Ohnuma, A Nakagawara, T Kamijo
+
+We previously found that Plk1 inhibited the p53/p73 activity through its direct phosphorylation. In this study, we investigated the functional role of Plk1 in modulating the p53 family member TAp63, resulting in the control of apoptotic cell death in liver tumor cells. Immunoprecipitation and in vitro pull-down assay showed that p63 binds to the kinase domain of Plk1 through its DNA-binding region. in vitro kinase assay indicated that p63 is phosphorylated by Plk1 at Ser-52 of the transactivating (TA) domain. Plk1 decreased the protein stability of TAp63 by its phosphorylation and suppressed TAp63-induced cell death. Furthermore, Plk1 knockdown in p53-mutated liver tumor cells transactivated p53 family downstream effectors, PUMA, p21(Cip1/WAF1) and 14-3-3sigma, and induced apoptotic cell death. Double knockdown of Plk1/p63 attenuated Plk1 knockdown-induced apoptotic cell death and transactivation. Intriguingly, both Plk1 and p63 are highly expressed in the side population (SP) fraction of liver tumor cells compared to non-SP fraction cells, suggesting the significance of Plk1/TAp63 in the control of cell death in tumor-initiating SP fraction cells. Thus, Plk1 controls TAp63 by its phosphorylation and regulates apoptotic cell death in liver tumor cells. Plk1/TAp63 may be a suitable candidate as a molecular target of liver tumor treatments.
+
+-Animals
+-Apoptosis (-genetics)
+-Cell Cycle Proteins (-chemistry; -genetics; +metabolism)
+-Cell Line, Tumor
+-DNA (-metabolism)
+-Gene Expression Regulation, Neoplastic
+-Gene Knockdown Techniques
+-Humans
+-Liver Neoplasms (-genetics; +metabolism; +pathology; -therapy)
+-Neoplastic Stem Cells (-metabolism)
+-Phosphorylation
+-Protein Stability
+-Protein Structure, Tertiary
+-Protein-Serine-Threonine Kinases (-chemistry; -deficiency; -genetics; +metabolism)
+-Proto-Oncogene Proteins (-chemistry; -deficiency; -genetics; +metabolism)
+-Serine (-metabolism)
+-Signal Transduction
+-Trans-Activators (-chemistry; -genetics; +metabolism)
+-Transcription, Genetic
+-Transcriptional Activation
+-Tumor Suppressor Proteins (-chemistry; -genetics; +metabolism)
+
+pii:onc2009216
+doi:10.1038/onc.2009.216
+pubmed:19668228
+

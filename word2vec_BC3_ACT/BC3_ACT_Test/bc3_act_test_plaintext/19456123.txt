@@ -1,0 +1,22 @@
+Biochemistry
+
+A new function of GAPDH from Chlamydomonas reinhardtii: a thiol-disulfide exchange reaction with CP12.
+
+J Erales, M Lorenzi, R Lebrun, A Fournel, E Etienne, C Courcelle, B Guigliarelli, B Gontero, V Belle
+
+CP12 is a flexible protein that is well-known to interact with GAPDH, and this association is crucial to the regulation of enzyme activity. This regulation is likely related to structural transitions of both proteins, but the molecular bases of these changes are not yet understood. To answer this issue, we undertook a study based on the use of paramagnetic probes grafted on cysteine residues and followed by EPR spectroscopy. We present a new application of this approach that enables us to probe the functional role of cysteine residues in protein-protein interactions. Algal CP12 contains four cysteine residues involved in two disulfide bridges in its oxidized state and has some alpha-helical secondary structural elements. In contrast, in its reduced state, CP12 is mainly unstructured and shares some physical properties with intrinsically disordered proteins. Treatment of CP12 with a methane thiosulfonate derivative spin-label (MTSL) led to the labeling of the cysteine residues involved in the C-terminal bridge only as revealed by mass spectrometry. Surprisingly, the partner protein GAPDH induced the cleavage of the disulfide bridge between the cysteine residues of CP12 and the spin-label, resulting in the full release of the label. We showed the existence of a transitory interaction between both proteins and proposed a mechanism based on a thiol-disulfide exchange reaction. The results of this study point out a novel role of the algal GAPDH which is often termed a "moonlighting" protein.
+
+-Animals
+-Chlamydomonas reinhardtii (+enzymology; -metabolism)
+-Cysteine (-metabolism)
+-Disulfides (-chemistry; +metabolism)
+-Glyceraldehyde-3-Phosphate Dehydrogenases (+metabolism)
+-Hydrolysis
+-Plant Proteins (+metabolism)
+-Recombinant Proteins (-metabolism)
+-Spin Labels
+-Sulfhydryl Compounds (-chemistry; +metabolism)
+
+doi:10.1021/bi900569h
+pubmed:19456123
+

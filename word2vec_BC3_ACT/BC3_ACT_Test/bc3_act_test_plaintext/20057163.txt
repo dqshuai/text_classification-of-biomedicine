@@ -1,0 +1,21 @@
+Genes Genet. Syst.
+
+Assessment of transcriptional responses of Bacillus subtilis cells to the antibiotic enduracidin, which interferes with cell wall synthesis, using a high-density tiling chip.
+
+A Rukmana, T Morimoto, H Takahashi, Giyanto, N Ogasawara
+
+The cell envelope is the target for many antibiotics. In Gram-positive bacteria, membrane alterations and dysfunction caused by antibiotics are sensed mainly by two classes of signal transduction systems: the ECF sigma factors and the two-component signal transduction systems (TCSs). Enduracidin is an antibiotic that inhibits the transglycosylation step of peptidoglycan biosynthesis, and is an attractive target for further antibiotic development studies. We assessed transcriptional responses to enduracidin in Bacillus subtilis cells using a high-density tiling chip, and compared the results with responses to bacitracin, which inhibits the lipid II cycle of peptidoglycan synthesis. We exploited the quantitative advantage of the tiling chip to introduce a new criterion, an increase in transcriptional level, in addition to the conventional induction ratio, in order to distinguish genes of biological significance from those with lower induction ratios. Our results indicate that introduction of the new criterion led to unambiguous identification of core transcriptional responses to antibiotics, with a reduction in the number of possible background genes, compared to previous results obtained using gene arrays. We identified 129 genes that were significantly upregulated by enduracidin and/or bacitracin. Notably, we found that inactivation of the LiaRS TCS, which was the system most strongly induced by the two antibiotics, resulted in increased sensitivity to enduracidin, probably through a failure to induce LiaIH proteins. We noted that 33 genes belonging to the SigM regulon were induced by both antibiotics. Consistent with stronger induction of the SigM regulon in enduracidin-treated cells, inactivation of sigM resulted in increased sensitivity to enduracidin. In addition, and for the first time, we found that the Spx regulon was induced in cells challenged by enduracidin and bacitracin, suggesting that thiol-oxidative stress occurred in cells treated with antibiotics. These findings contribute to further our understanding of the molecular nature of genetic systems involved in antibiotic resistance.
+
+-Anti-Infective Agents (+pharmacology)
+-Bacillus subtilis (-genetics; +metabolism)
+-Bacterial Proteins (+biosynthesis)
+-Cell Wall (-genetics; +metabolism)
+-Gene Expression Profiling
+-Gene Expression Regulation, Bacterial (+drug effects)
+-Oligonucleotide Array Sequence Analysis
+-Peptides, Cyclic (+pharmacology)
+-Signal Transduction (-drug effects)
+
+pii:JST.JSTAGE/ggs/84.253
+pubmed:20057163
+

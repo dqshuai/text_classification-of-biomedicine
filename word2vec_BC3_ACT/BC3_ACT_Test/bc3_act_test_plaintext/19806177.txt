@@ -1,0 +1,33 @@
+PLoS Pathog.
+
+Mucosal immunization with iron receptor antigens protects against urinary tract infection.
+
+CJ Alteri, EC Hagan, KE Sivick, SN Smith, HL Mobley
+
+Uncomplicated infections of the urinary tract, caused by uropathogenic Escherichia coli, are among the most common diseases requiring medical intervention. A preventive vaccine to reduce the morbidity and fiscal burden these infections have upon the healthcare system would be beneficial. Here, we describe the results of a large-scale selection process that incorporates bioinformatic, genomic, transcriptomic, and proteomic screens to identify six vaccine candidates from the 5379 predicted proteins encoded by uropathogenic E. coli strain CFT073. The vaccine candidates, ChuA, Hma, Iha, IreA, IroN, and IutA, all belong to a functional class of molecules that is involved in iron acquisition, a process critical for pathogenesis in all microbes. Intranasal immunization of CBA/J mice with these outer membrane iron receptors elicited a systemic and mucosal immune response that included the production of antigen-specific IgM, IgG, and IgA antibodies. The cellular response to vaccination was characterized by the induction and secretion of IFN-gamma and IL-17. Of the six potential vaccine candidates, IreA, Hma, and IutA provided significant protection from experimental infection. In immunized animals, class-switching from IgM to IgG and production of antigen-specific IgA in the urine represent immunological correlates of protection from E. coli bladder colonization. These findings are an important first step toward the development of a subunit vaccine to prevent urinary tract infections and demonstrate how targeting an entire class of molecules that are collectively required for pathogenesis may represent a fundamental strategy to combat infections.
+
+-Administration, Intranasal
+-Animals
+-Antibodies, Bacterial (-blood; -immunology)
+-Antigens, Bacterial (-genetics; +immunology; -metabolism)
+-Cells, Cultured
+-Escherichia coli (-immunology)
+-Escherichia coli Infections (-immunology; +prevention & control)
+-Escherichia coli Proteins (-genetics; +immunology; -metabolism)
+-Escherichia coli Vaccines (-administration & dosage; +immunology)
+-Female
+-Immunoglobulin A, Secretory (-metabolism; -urine)
+-Immunoglobulin Class Switching (-immunology)
+-Interferon-gamma (-metabolism)
+-Interleukin-17 (-metabolism)
+-Mice
+-Mice, Inbred CBA
+-Recombinant Fusion Proteins (-genetics; -immunology; -metabolism)
+-Spleen (-cytology; -immunology; -metabolism)
+-Statistics, Nonparametric
+-Urinary Tract Infections (-immunology; +prevention & control)
+
+doi:10.1371/journal.ppat.1000586
+pubmed:19806177
+pmc:PMC2736566
+

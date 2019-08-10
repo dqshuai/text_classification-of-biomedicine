@@ -1,0 +1,23 @@
+Plant Cell
+
+The mediator complex subunit PFT1 is a key regulator of jasmonate-dependent defense in Arabidopsis.
+
+BN Kidd, CI Edgar, KK Kumar, EA Aitken, PM Schenk, JM Manners, K Kazan
+
+Jasmonate signaling plays an important role in both plant defense and development. Here, we have identified a subunit of the Mediator complex as a regulator of the jasmonate signaling pathway in Arabidopsis thaliana. The Mediator complex is a conserved multiprotein complex that acts as a universal adaptor between transcription factors and the RNA polymerase II transcriptional machinery. We report that the PHYTOCHROME AND FLOWERING TIME1 (PFT1) gene, which encodes the MEDIATOR25 subunit of Mediator, is required for jasmonate-dependent defense gene expression and resistance to leaf-infecting necrotrophic fungal pathogens. Conversely, PFT1 appears to confer susceptibility to Fusarium oxysporum, a root-infecting hemibiotrophic fungal pathogen known to hijack jasmonate responses for disease development. Consistent with this, jasmonate gene expression was suppressed in the pft1 mutant during infection with F. oxysporum. In addition, a wheat (Triticum aestivum) homolog of PFT1 complemented the defense and the developmental phenotypes of the pft1 mutant, suggesting that the jasmonate signaling functions of PFT1 may be conserved in higher plants. Overall, our results identify an important control point in the regulation of the jasmonate signaling pathway within the transcriptional machinery.
+
+-Arabidopsis (-genetics; +metabolism; +microbiology)
+-Arabidopsis Proteins (-genetics; +physiology)
+-Cyclopentanes (+metabolism)
+-Fusarium (-pathogenicity)
+-Gene Expression Regulation, Plant
+-Oxylipins (+metabolism)
+-Plant Diseases (-genetics; -microbiology)
+-Plants, Genetically Modified (-genetics; -metabolism; -microbiology)
+-Signal Transduction (-genetics; -physiology)
+
+pii:tpc.109.066910
+doi:10.1105/tpc.109.066910
+pubmed:19671879
+pmc:PMC2751954
+

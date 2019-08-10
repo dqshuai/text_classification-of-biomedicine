@@ -1,0 +1,29 @@
+Nat. Genet.
+
+Variants in the CDKN2B and RTEL1 regions are associated with high-grade glioma susceptibility.
+
+M Wrensch, RB Jenkins, JS Chang, RF Yeh, Y Xiao, PA Decker, KV Ballman, M Berger, JC Buckner, S Chang, C Giannini, C Halder, TM Kollmeyer, ML Kosel, DH LaChance, L McCoy, BP O'Neill, J Patoka, AR Pico, M Prados, C Quesenberry, T Rice, AL Rynearson, I Smirnov, T Tihan, J Wiemels, P Yang, JK Wiencke
+
+The causes of glioblastoma and other gliomas remain obscure. To discover new candidate genes influencing glioma susceptibility, we conducted a principal component-adjusted genome-wide association study (GWAS) of 275,895 autosomal variants among 692 adult high-grade glioma cases (622 from the San Francisco Adult Glioma Study (AGS) and 70 from the Cancer Genome Atlas (TCGA)) and 3,992 controls (602 from AGS and 3,390 from Illumina iControlDB (iControls)). For replication, we analyzed the 13 SNPs with P < 10(-6) using independent data from 176 high-grade glioma cases and 174 controls from the Mayo Clinic. On 9p21, rs1412829 near CDKN2B had discovery P = 3.4 x 10(-8), replication P = 0.0038 and combined P = 1.85 x 10(-10). On 20q13.3, rs6010620 intronic to RTEL1 had discovery P = 1.5 x 10(-7), replication P = 0.00035 and combined P = 3.40 x 10(-9). For both SNPs, the direction of association was the same in discovery and replication phases.
+
+-Adult
+-Case-Control Studies
+-Chromosome Mapping
+-Chromosomes, Human, Pair 9 (-genetics)
+-Cyclin-Dependent Kinase Inhibitor p15 (+genetics)
+-DNA Helicases (+genetics)
++Genetic Predisposition to Disease
+-Genome, Human (-genetics)
+-Genome-Wide Association Study
+-Glioma (+genetics)
+-Haplotypes
+-Humans
+-Models, Genetic
+-Polymorphism, Single Nucleotide (+genetics)
+-Principal Component Analysis
+-Regression Analysis
+
+pii:ng.408
+doi:10.1038/ng.408
+pubmed:19578366
+

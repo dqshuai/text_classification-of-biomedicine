@@ -1,0 +1,27 @@
+Plant Cell
+
+Medicago N2-fixing symbiosomes acquire the endocytic identity marker Rab7 but delay the acquisition of vacuolar identity.
+
+E Limpens, S Ivanov, W van Esse, G Voets, E Fedorova, T Bisseling
+
+Rhizobium bacteria form N(2)-fixing organelles, called symbiosomes, inside the cells of legume root nodules. The bacteria are generally thought to enter the cells via an endocytosis-like process. To examine this, we studied the identity of symbiosomes in relation to the endocytic pathway. We show that in Medicago truncatula, the small GTPases Rab5 and Rab7 are endosomal membrane identity markers, marking different (partly overlapping) endosome populations. Although symbiosome formation is considered to be an endocytosis-like process, symbiosomes do not acquire Rab5 at any stage during their development, nor do they accept the trans-Golgi network identity marker SYP4, presumed to mark early endosomes in plants. By contrast, the endosomal marker Rab7 does occur on symbiosomes from an early stage of development when they have stopped dividing up to the senescence stage. However, the symbiosomes do not acquire vacuolar SNAREs (SYP22 and VTI11) until the onset of their senescence. By contrast, symbiosomes acquire the plasma membrane SNARE SYP132 from the start of symbiosome formation throughout their development. Therefore, symbiosomes appear to be locked in a unique SYP132- and Rab7-positive endosome stage and the delay in acquiring (lytic) vacuolar identity (e.g., vacuolar SNAREs) most likely ensures their survival and maintenance as individual units.
+
+-Endosomes (-genetics; +metabolism)
+-Gene Expression Regulation, Plant
+-Medicago truncatula (+genetics; -metabolism; -microbiology)
+-Phylogeny
+-Plant Proteins (-genetics; +metabolism)
+-Plants, Genetically Modified (-genetics; -metabolism; -microbiology)
+-RNA, Plant (-genetics)
+-Rhizobium (-physiology)
+-Root Nodules, Plant (-genetics; +metabolism)
+-SNARE Proteins (-metabolism)
+-Symbiosis (-genetics)
+-Vacuoles (-genetics; -metabolism)
+-rab GTP-Binding Proteins (-genetics; +metabolism)
+
+pii:tpc.108.064410
+doi:10.1105/tpc.108.064410
+pubmed:19734435
+pmc:PMC2768938
+

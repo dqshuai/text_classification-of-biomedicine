@@ -1,0 +1,22 @@
+FEBS J.
+
+A novel ATP-binding cassette transporter is responsible for resistance to viologen herbicides in the cyanobacterium Synechocystis sp. PCC 6803.
+
+J Prosecka, AV Orlov, YS Fantin, VV Zinchenko, MM Babykin, M Tichy
+
+The charged quaternary ammonium compounds--methyl, ethyl and benzyl viologens--generate reactive oxygen species in photosynthetic cells. Three independent methyl viologen-resistant spontaneous mutants of Synechocystis sp. PCC 6803 were identified, in which the conserved R115 residue of the Slr1174 protein was replaced with G115, L115 and C115. The Slr1174 protein of the DUF990 family is related to the permease subunit of an ABC-2-type transporter and its R115 mutation was found to be solely responsible for the observed methyl viologen resistance. Bioinformatic analysis showed that in various bacterial genomes, two genes encoding another permease subunit and the ATPase component of an ATP-binding cassette transporter form putative operons with slr1174 orthologs, suggesting that the protein products of these genes may form functional transporters. The corresponding genes in Synechocystis sp. PCC 6803, i.e. slr0610 for the permease and slr1901 for the ATPase, did not form such an operon. However, insertional inactivation of any slr1174, slr0610 or slr1901 genes in both the wild-type and the R115-resistant mutant resulted in increased sensitivity to methyl, ethyl and benzyl viologens; moreover, single- and double-insertion mutants did not differ in their viologen sensitivity. Our data suggest that Slr1901, Slr1174 and Slr0610 form a heteromeric ATP-binding cassette-type viologen exporter, in which each component is critical for viologen extrusion. Because the greatest increase in mutant sensitivity was observed in the case of ethyl viologen, the three proteins have been named EvrA (Slr1901), EvrB (Slr1174) and EvrC (Slr0610). This is the first report of a function for a DUF990 family protein.
+
+-ATP-Binding Cassette Transporters (-genetics; +physiology)
+-Amino Acid Substitution
+-Drug Resistance, Bacterial (+drug effects)
+-Drug Resistance, Multiple (-genetics)
+-Genome, Bacterial
+-Herbicides (-toxicity)
+-Paraquat (+toxicity)
+-Plant Proteins (-physiology)
+-Synechocystis (+drug effects; -genetics; -physiology)
+
+pii:EJB7109
+doi:10.1111/j.1742-4658.2009.07109.x
+pubmed:19594831
+

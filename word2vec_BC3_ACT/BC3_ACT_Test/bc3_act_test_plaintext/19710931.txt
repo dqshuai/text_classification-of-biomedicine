@@ -1,0 +1,18 @@
+PLoS ONE
+
+Incorporating existing network information into gene network inference.
+
+S Christley, Q Nie, X Xie
+
+One methodology that has met success to infer gene networks from gene expression data is based upon ordinary differential equations (ODE). However new types of data continue to be produced, so it is worthwhile to investigate how to integrate these new data types into the inference procedure. One such data is physical interactions between transcription factors and the genes they regulate as measured by ChIP-chip or ChIP-seq experiments. These interactions can be incorporated into the gene network inference procedure as a priori network information. In this article, we extend the ODE methodology into a general optimization framework that incorporates existing network information in combination with regularization parameters that encourage network sparsity. We provide theoretical results proving convergence of the estimator for our method and show the corresponding probabilistic interpretation also converges. We demonstrate our method on simulated network data and show that existing network information improves performance, overcomes the lack of observations, and performs well even when some of the existing network information is incorrect. We further apply our method to the core regulatory network of embryonic stem cells utilizing predicted interactions from two studies as existing network information. We show that including the prior network information constructs a more closely representative regulatory network versus when no information is provided.
+
+-Chromatin Immunoprecipitation
++Gene Expression
+-Humans
+-Models, Theoretical
+-Probability
+
+doi:10.1371/journal.pone.0006799
+pubmed:19710931
+pmc:PMC2729382
+

@@ -1,0 +1,26 @@
+Biochemistry
+
+Impact of actin glutathionylation on the actomyosin-S1 ATPase.
+
+GO Pizarro, O Ogut
+
+Glutathionylation of intracellular proteins is an established physiological regulator of protein function. In multiple models, including ischemia-reperfusion of the heart, increased oxidative stress results in the glutathionylation of sarcomeric actin. We hypothesized that actin glutathionylation may play a role in the multifactorial change in cardiac muscle contractility observed during this pathophysiological state. Therefore, the functional impact of glutathionylated actin on the interaction with myosin-S1 was examined. Substituting glutathionylated F-actin for unmodified F-actin reduced the maximum actomyosin-S1 ATPase, and this was accompanied by an increase in the activation energy of the steady state ATPase. Measurement of steady state binding did not suggest a large impact of actin glutathionylation on the binding to myosin-S1. However, transient binding and dissociation kinetics determined by stopped-flow methods demonstrated that although actin glutathionylation did not significantly alter the rate constant of myosin-S1 binding, there was a significant decrease in the rate of ATP-induced myosin-S1 detachment in the presence of ADP. These results suggest that actin glutathionylation may play a limited but defined role in the alteration of contractility following oxidative stress to the myocardium, particularly through a decrease in the actomyosin ATPase activity.
+
+-Actins (+chemistry; -physiology)
+-Actomyosin (-chemistry; +metabolism)
+-Adenosine Diphosphate (-metabolism)
+-Adenosine Triphosphate (-metabolism)
+-Animals
+-Glutathione (-chemistry; +metabolism)
+-Myocardial Contraction
+-Myosin Subfragments (-chemistry; +metabolism)
+-Oxidative Stress (-physiology)
+-Protein Binding
+-Rabbits
+-Tropomyosin (-metabolism)
+
+doi:10.1021/bi900669m
+pubmed:19580330
+mid:NIHMS132615
+pmc:PMC2753222
+

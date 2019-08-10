@@ -1,0 +1,28 @@
+Nucleic Acids Res.
+
+Estradiol-regulated microRNAs control estradiol response in breast cancer cells.
+
+P Bhat-Nakshatri, G Wang, NR Collins, MJ Thomson, TR Geistlinger, JS Carroll, M Brown, S Hammond, EF Srour, Y Liu, H Nakshatri
+
+Estradiol (E2) regulates gene expression at the transcriptional level by functioning as a ligand for estrogen receptor alpha (ERalpha) and estrogen receptor beta (ERbeta). E2-inducible proteins c-Myc and E2Fs are required for optimal ERalpha activity and secondary estrogen responses, respectively. We show that E2 induces 21 microRNAs and represses seven microRNAs in MCF-7 breast cancer cells; these microRNAs have the potential to control 420 E2-regulated and 757 non-E2-regulated mRNAs at the post-transcriptional level. The serine/threonine kinase, AKT, alters E2-regulated expression of microRNAs. E2 induced the expression of eight Let-7 family members, miR-98 and miR-21 microRNAs; these microRNAs reduced the levels of c-Myc and E2F2 proteins. Dicer, a ribonuclease III enzyme required for microRNA processing, is also an E2-inducible gene. Several E2-regulated microRNA genes are associated with ERalpha-binding sites or located in the intragenic region of estrogen-regulated genes. We propose that the clinical course of ERalpha-positive breast cancers is dependent on the balance between E2-regulated tumor-suppressor microRNAs and oncogenic microRNAs. Additionally, our studies reveal a negative-regulatory loop controlling E2 response through microRNAs as well as differences in E2-induced transcriptome and proteome.
+
+-Binding Sites
+-Breast Neoplasms (+genetics; -metabolism)
+-Cell Line, Tumor
+-E2F Transcription Factors (-biosynthesis; -genetics)
+-Estradiol (+pharmacology)
+-Estrogen Receptor alpha (-metabolism)
+-Female
++Gene Expression Regulation, Neoplastic
+-Humans
+-MicroRNAs (-genetics; +metabolism)
+-Proto-Oncogene Proteins c-akt (-genetics)
+-Proto-Oncogene Proteins c-myc (-biosynthesis; -genetics)
+-Regulatory Elements, Transcriptional
+-Ribonuclease III (-biosynthesis; -genetics)
+
+pii:gkp500
+doi:10.1093/nar/gkp500
+pubmed:19528081
+pmc:PMC2724297
+

@@ -1,0 +1,22 @@
+Nat. Struct. Mol. Biol.
+
+A UPF3-mediated regulatory switch that maintains RNA surveillance.
+
+WK Chan, AD Bhalla, H Le Hir, LS Nguyen, L Huang, J Gécz, MF Wilkinson
+
+Nonsense-mediated decay (NMD) is an RNA decay pathway that downregulates aberrant mRNAs and a subset of normal mRNAs. The regulation of NMD is poorly understood. Here we identify a regulatory mechanism acting on two related UPF (up-frameshift) factors crucial for NMD: UPF3A and UPF3B. This regulatory mechanism, which reduces the level of UPF3A in response to the presence of UPF3B, is relieved in individuals harboring UPF3B mutations, leading to strongly increased steady-state levels of UPF3A. UPF3A compensates for the loss of UPF3B by regulating several NMD target transcripts, but it can also impair NMD, as it competes with the stronger NMD activator UPF3B for binding to the essential NMD factor UPF2. This deleterious effect of UPF3A protein is prevented by its destabilization using a conserved UPF3B-dependent mechanism. Together, our results suggest that UPF3A levels are tightly regulated by a post-transcriptional switch to maintain appropriate levels of NMD substrates in cells containing different levels of UPF3B.
+
+-Animals
+-Hela Cells
+-Humans
+-Mice
+-Protein Isoforms (-genetics; -metabolism)
+-RNA Interference
++RNA Stability
+-RNA, Messenger (-genetics; +metabolism)
+-RNA-Binding Proteins (-genetics; +metabolism)
+
+pii:nsmb.1612
+doi:10.1038/nsmb.1612
+pubmed:19503078
+

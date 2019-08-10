@@ -1,0 +1,24 @@
+PLoS ONE
+
+Base flipping in tn10 transposition: an active flip and capture mechanism.
+
+J Bischerour, R Chalmers
+
+The bacterial Tn5 and Tn10 transposases have a single active site that cuts both strands of DNA at their respective transposon ends. This is achieved using a hairpin intermediate that requires the DNA to change conformation during the reaction. In Tn5 these changes are controlled in part by a flipped nucleoside that is stacked on a tryptophan residue in a hydrophobic pocket of the transposase. Here we have investigated the base flipping mechanism in Tn10 transposition. As in Tn5 transposition, we find that base flipping takes place after the first nick and is required for efficient hairpin formation and resolution. Experiments with an abasic substrate show that the role of base flipping in hairpin formation is to remove the base from the DNA helix. Specific interactions between the flipped base and the stacking tryptophan residue are required for hairpin resolution later in the reaction. We show that base flipping in Tn10 transposition is not a passive reaction in which a spontaneously flipped base is captured and retained by the protein. Rather, it is driven in part by a methionine probe residue that helps to force the flipped base from the base stack. Overall, it appears that base flipping in Tn10 transposition is similar to that in Tn5 transposition.
+
+-Amino Acid Sequence
++Base Pairing
+-Base Sequence
+-Biocatalysis
+-DNA (-chemistry; +metabolism)
++DNA Transposable Elements
+-Molecular Sequence Data
++Nucleic Acid Conformation
+-Oligodeoxyribonucleotides
+-Sequence Homology, Amino Acid
+-Transposases (+metabolism)
+
+doi:10.1371/journal.pone.0006201
+pubmed:19593448
+pmc:PMC2705183
+

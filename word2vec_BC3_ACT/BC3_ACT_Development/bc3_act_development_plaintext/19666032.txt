@@ -1,0 +1,25 @@
+J. Mol. Biol.
+
+A C-terminal phosphatase module conserved in vertebrate CMP-sialic acid synthetases provides a tetramerization interface for the physiologically active enzyme.
+
+M Oschlies, A Dickmanns, T Haselhorst, W Schaper, K Stummeyer, J Tiralongo, B Weinhold, R Gerardy-Schahn, M von Itzstein, R Ficner, AK Münster-Kühnel
+
+The biosynthesis of sialic acid-containing glycoconjugates is crucial for the development of vertebrate life. Cytidine monophosphate-sialic acid synthetase (CSS) catalyzes the metabolic activation of sialic acids. In vertebrates, the enzyme is chimeric, with the N-terminal domain harboring the synthetase activity. The function of the highly conserved C-terminal domain (CSS-CT) is unknown. To shed light on its biological function, we solved the X-ray structure of murine CSS-CT to 1.9 A resolution. CSS-CT is a stable shamrock-like tetramer that superimposes well with phosphatases of the haloacid dehalogenase superfamily. However, a region found exclusively in vertebrate CSS-CT appears to block the active-site entrance. Accordingly, no phosphatase activity was observed in vitro, which points toward a nonenzymatic function of CSS-CT. A computational three-dimensional model of full-length CSS, in combination with in vitro oligomerization studies, provides evidence that CSS-CT serves as a platform for the quaternary organization governing the kinetic properties of the physiologically active enzyme as demonstrated in kinetic studies.
+
+-Amino Acid Sequence
+-Animals
+-Crystallography, X-Ray
+-Kinetics
+-Mice
+-Models, Molecular
+-Molecular Sequence Data
+-N-Acylneuraminate Cytidylyltransferase (+chemistry; +metabolism)
++Protein Multimerization
+-Protein Structure, Quaternary
+-Protein Structure, Tertiary
+-Sequence Alignment
+
+pii:S0022-2836(09)00985-1
+doi:10.1016/j.jmb.2009.08.003
+pubmed:19666032
+

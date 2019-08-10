@@ -1,0 +1,31 @@
+PLoS ONE
+
+SHMT1 and SHMT2 are functionally redundant in nuclear de novo thymidylate biosynthesis.
+
+DD Anderson, PJ Stover
+
+The three enzymes that constitute the de novo thymidylate synthesis pathway in mammals, cytoplasmic serine hydroxymethyltransferase (SHMT1), thymidylate synthase (TYMS) and dihydrofolate reductase (DHFR) undergo sumoylation and nuclear import during S-phase. In this study, we demonstrate that purified intact mouse liver nuclei convert dUMP to dTMP in the presence of NADPH and serine. Neither nuclear extracts nor intact nuclei exposed to aminomethylphosphonate, a SHMT inhibitor, exhibit thymidylate synthesis activity. Nuclei isolated from Shmt1(-/-) mouse livers retained 25% of thymidylate synthesis activity exhibited by nuclei isolated from wild type mice. This residual activity was due to the presence of a cytoplasmic/nuclear isozyme of SHMT encoded by Shmt2. Shmt2 is shown to encode two transcripts, one which encodes a protein that localizes exclusively to the mitochondria (SHMT2), and a second transcript that lacks exon 1 and encodes a protein that localizes to the cytoplasm and nucleus during S-phase (SHMT2alpha). The ability of Shmt2 to encode a cytoplasmic isozyme of SHMT may account for the viability of Shmt1(-/-) mice and provide redundancy that permitted the expansion of the human SHMT1 L474F polymorphism that impairs SHMT1 sumoylation and nuclear translocation.
+
+-Amino Acid Sequence
+-Animals
+-Base Sequence
+-CHO Cells
+-Cell Nucleus (-metabolism)
+-Cricetinae
+-Cricetulus
+-Glycine Hydroxymethyltransferase (+metabolism)
+-Hela Cells
+-Humans
+-Liver (-metabolism)
+-Mice
+-Molecular Sequence Data
+-NADP (-chemistry)
+-NIH 3T3 Cells
+-Serine (-chemistry)
+-Tetrahydrofolate Dehydrogenase (-metabolism)
+-Thymine Nucleotides (+chemistry)
+
+doi:10.1371/journal.pone.0005839
+pubmed:19513116
+pmc:PMC2688753
+

@@ -1,0 +1,35 @@
+DNA Repair (Amst.)
+
+High osmolality activates the G1 and G2 cell cycle checkpoints and affects the DNA integrity of nucleus pulposus intervertebral disc cells triggering an enhanced DNA repair response.
+
+E Mavrogonatou, D Kletsas
+
+Nucleus pulposus intervertebral disc cells experience a broad range of physicochemical stimuli in their native environment including osmotic fluctuations. Here we show that hyperosmotic treatment reduced nucleus pulposus cells' proliferation by activating the G2 and G1 cell cycle checkpoints. p38 MAPK was found to participate in the manifestation of the G2 arrest under conditions of increased osmolality, since inhibition of its activity by SB203580 released the cells from G2 phase into mitosis. High osmolality resulted in the ATM-mediated phosphorylation of p53 on Ser15, the up-regulation of p21(WAF1) and the hypophosphorylation of the retinoblastoma protein in accordance to the observed G1 arrest. siRNA knocking down of p53 inhibited the expression of p21(WAF1) while maintaining the hyperphosphorylated form of the retinoblastoma protein and thus abrogated the G1 arrest observed under hyperosmotic conditions. Comet assay revealed that high osmolality provoked DNA damage to nucleus pulposus cells. Several previous reports have shown that renal cells become unable to sense and repair DNA damage under conditions of increased osmolality. On the contrary, nucleus pulposus cells residing within a hyperosmotic environment clearly preserved their ability to sense newly introduced DNA damage, as confirmed by the reactivation of p53 by ionizing radiation, retained the MRN complex in the nucleus and phosphorylated H2A.X on Ser139. H2A.X phosphorylation was attenuated in cells persistently experiencing hyperosmotic stress which, combined with the concurrent reduction in comet tails' length, indicated an active DNA repair machinery. Even more, when the DNA repair efficiency of nucleus pulposus cells was directly measured by a host cell reactivation of luciferase activity assay, it was found to be significantly increased under hyperosmotic pressure. Finally, p53 depletion of nucleus pulposus cells by siRNA enhanced and prolonged H2A.X phosphorylation, attributing to p53 a regulatory role in the DNA repair pathway induced by increased osmolality.
+
+-Animals
+-Cattle
+-Cell Cycle Proteins (-metabolism)
+-Cell Proliferation (-drug effects)
+-DNA (+metabolism)
+-DNA Damage
++DNA Repair (-drug effects)
+-DNA-Binding Proteins (-metabolism)
+-Enzyme Activation (-drug effects)
++G1 Phase (-drug effects)
++G2 Phase (-drug effects)
+-Histones (-metabolism)
+-Hypertonic Solutions (-pharmacology)
+-Intervertebral Disk (+cytology; -enzymology)
+-Osmolar Concentration
+-Osmotic Pressure (-drug effects)
+-Phosphorylation (-drug effects)
+-Protein-Serine-Threonine Kinases (-metabolism)
+-S Phase (-drug effects)
+-Tumor Suppressor Protein p53 (-metabolism)
+-Tumor Suppressor Proteins (-metabolism)
+-p38 Mitogen-Activated Protein Kinases (-metabolism)
+
+pii:S1568-7864(09)00138-4
+doi:10.1016/j.dnarep.2009.05.005
+pubmed:19535302
+

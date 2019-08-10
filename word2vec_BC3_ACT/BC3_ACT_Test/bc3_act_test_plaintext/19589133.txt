@@ -1,0 +1,21 @@
+BMC Bioinformatics
+
+Iterative refinement of structure-based sequence alignments by Seed Extension.
+
+C Kim, CH Tai, B Lee
+
+BACKGROUND: Accurate sequence alignment is required in many bioinformatics applications but, when sequence similarity is low, it is difficult to obtain accurate alignments based on sequence similarity alone. The accuracy improves when the structures are available, but current structure-based sequence alignment procedures still mis-align substantial numbers of residues. In order to correct such errors, we previously explored the possibility of replacing the residue-based dynamic programming algorithm in structure alignment procedures with the Seed Extension algorithm, which does not use a gap penalty. Here, we describe a new procedure called RSE (Refinement with Seed Extension) that iteratively refines a structure-based sequence alignment. RESULTS: RSE uses SE (Seed Extension) in its core, which is an algorithm that we reported recently for obtaining a sequence alignment from two superimposed structures. The RSE procedure was evaluated by comparing the correctly aligned fractions of residues before and after the refinement of the structure-based sequence alignments produced by popular programs. CE, DaliLite, FAST, LOCK2, MATRAS, MATT, TM-align, SHEBA and VAST were included in this analysis and the NCBI's CDD root node set was used as the reference alignments. RSE improved the average accuracy of sequence alignments for all programs tested when no shift error was allowed. The amount of improvement varied depending on the program. The average improvements were small for DaliLite and MATRAS but about 5% for CE and VAST. More substantial improvements have been seen in many individual cases. The additional computation times required for the refinements were negligible compared to the times taken by the structure alignment programs. CONCLUSION: RSE is a computationally inexpensive way of improving the accuracy of a structure-based sequence alignment. It can be used as a standalone procedure following a regular structure-based sequence alignment or to replace the traditional iterative refinement procedures based on residue-level dynamic programming algorithm in many structure alignment programs.
+
++Algorithms
+-Amino Acid Sequence
+-Computational Biology (+methods)
+-Databases, Protein
+-Molecular Sequence Data
+-Sequence Alignment (+methods)
+-Sequence Analysis, Protein (-methods)
+
+pii:1471-2105-10-210
+doi:10.1186/1471-2105-10-210
+pubmed:19589133
+pmc:PMC2753854
+

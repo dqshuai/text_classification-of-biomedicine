@@ -1,0 +1,28 @@
+Genome Res.
+
+The ClinSeq Project: piloting large-scale genome sequencing for research in genomic medicine.
+
+LG Biesecker, JC Mullikin, FM Facio, C Turner, PF Cherukuri, RW Blakesley, GG Bouffard, PS Chines, P Cruz, NF Hansen, JK Teer, B Maskeri, AC Young, TA Manolio, AF Wilson, T Finkel, P Hwang, A Arai, AT Remaley, V Sachdev, R Shamburek, RO Cannon, ED Green
+
+ClinSeq is a pilot project to investigate the use of whole-genome sequencing as a tool for clinical research. By piloting the acquisition of large amounts of DNA sequence data from individual human subjects, we are fostering the development of hypothesis-generating approaches for performing research in genomic medicine, including the exploration of issues related to the genetic architecture of disease, implementation of genomic technology, informed consent, disclosure of genetic information, and archiving, analyzing, and displaying sequence data. In the initial phase of ClinSeq, we are enrolling roughly 1000 participants; the evaluation of each includes obtaining a detailed family and medical history, as well as a clinical evaluation. The participants are being consented broadly for research on many traits and for whole-genome sequencing. Initially, Sanger-based sequencing of 300-400 genes thought to be relevant to atherosclerosis is being performed, with the resulting data analyzed for rare, high-penetrance variants associated with specific clinical traits. The participants are also being consented to allow the contact of family members for additional studies of sequence variants to explore their potential association with specific phenotypes. Here, we present the general considerations in designing ClinSeq, preliminary results based on the generation of an initial 826 Mb of sequence data, the findings for several genes that serve as positive controls for the project, and our views about the potential implications of ClinSeq. The early experiences with ClinSeq illustrate how large-scale medical sequencing can be a practical, productive, and critical component of research in genomic medicine.
+
+-Aged
+-Atherosclerosis (+genetics)
++Biomedical Research
+-Cardiovascular Diseases (+genetics)
+-Cohort Studies
+-Female
++Genome, Human
++Genomics
+-Humans
+-Male
+-Pedigree
+-Phenotype
++Pilot Projects
+-Sequence Analysis, DNA (+methods)
+
+pii:gr.092841.109
+doi:10.1101/gr.092841.109
+pubmed:19602640
+pmc:PMC2752125
+

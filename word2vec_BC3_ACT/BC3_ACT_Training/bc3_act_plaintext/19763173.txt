@@ -1,0 +1,28 @@
+PLoS Genet.
+
+Nucleolar proteins suppress Caenorhabditis elegans innate immunity by inhibiting p53/CEP-1.
+
+LE Fuhrman, AK Goel, J Smith, KV Shianna, A Aballay
+
+The tumor suppressor p53 has been implicated in multiple functions that play key roles in health and disease, including ribosome biogenesis, control of aging, and cell cycle regulation. A genetic screen for negative regulators of innate immunity in Caenorhabditis elegans led to the identification of a mutation in NOL-6, a nucleolar RNA-associated protein (NRAP), which is involved in ribosome biogenesis and conserved across eukaryotic organisms. Mutation or silencing of NOL-6 and other nucleolar proteins results in an enhanced resistance to bacterial infections. A full-genome microarray analysis on animals with altered immune function due to mutation in nol-6 shows increased transcriptional levels of genes regulated by a p53 homologue, CEP-1. Further studies indicate that the activation of innate immunity by inhibition of nucleolar proteins requires p53/CEP-1 and its transcriptional target SYM-1. Since nucleoli and p53/CEP-1 are conserved, our results reveal an ancient immune mechanism by which the nucleolus may regulate immune responses against bacterial pathogens.
+
+-Animals
+-Caenorhabditis elegans (-cytology; -genetics; +immunology; -microbiology)
+-Caenorhabditis elegans Proteins (+antagonists & inhibitors; -genetics; -metabolism)
+-Cell Death
+-Escherichia coli (-physiology)
+-Gene Knockdown Techniques
+-Genes, Helminth
+-Immunity, Innate (+immunology)
+-Longevity
+-Nuclear Proteins (+metabolism)
+-RNA Interference
+-Salmonella enterica (-immunology; -physiology)
+-Suppression, Genetic
+-Transcription, Genetic
+-Tumor Suppressor Protein p53 (+antagonists & inhibitors; -genetics)
+
+doi:10.1371/journal.pgen.1000657
+pubmed:19763173
+pmc:PMC2734340
+

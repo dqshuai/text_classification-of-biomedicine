@@ -1,0 +1,27 @@
+Mol. Cell. Biol.
+
+Repression of ESR1 through actions of estrogen receptor alpha and Sin3A at the proximal promoter.
+
+SJ Ellison-Zelski, NM Solodin, ET Alarid
+
+Gene expression results from the coordinated actions of transcription factor proteins and coregulators. Estrogen receptor alpha (ERalpha) is a ligand-activated transcription factor that can both activate and repress the expression of genes. Activation of transcription by estrogen-bound ERalpha has been studied in detail, as has antagonist-induced repression, such as that which occurs by tamoxifen. How estrogen-bound ERalpha represses gene transcription remains unclear. In this report, we identify a new mechanism of estrogen-induced transcriptional repression by using the ERalpha gene, ESR1. Upon estrogen treatment, ERalpha is recruited to two sites on ESR1, one distal (ENH1) and the other at the proximal (A) promoter. Coactivator proteins, namely, p300 and AIB1, are found at both ERalpha-binding sites. However, recruitment of the Sin3A repressor, loss of RNA polymerase II, and changes in histone modifications occur only at the A promoter. Reduction of Sin3A expression by RNA interference specifically inhibits estrogen-induced repression of ESR1. Furthermore, an estrogen-responsive interaction between Sin3A and ERalpha is identified. These data support a model of repression wherein actions of ERalpha and Sin3A at the proximal promoter can overcome activating signals at distal or proximal sites and ultimately decrease gene expression.
+
+-Binding Sites
+-Cell Line
+-Estradiol (-pharmacology)
+-Estrogen Receptor alpha (+genetics; -metabolism)
+-Histones (-metabolism)
+-Humans
+-Models, Biological
++Promoter Regions, Genetic
+-Protein Binding (-drug effects)
+-Protein Processing, Post-Translational (-drug effects)
+-Repressor Proteins (+metabolism)
+-Trans-Activators (-metabolism)
+-Transcription, Genetic (-drug effects)
+
+pii:MCB.00383-09
+doi:10.1128/MCB.00383-09
+pubmed:19620290
+pmc:PMC2738295
+

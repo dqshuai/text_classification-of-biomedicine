@@ -1,0 +1,25 @@
+J. Biol. Chem.
+
+The transcription factor Atf1 binds and activates the APC/C ubiquitin ligase in fission yeast.
+
+A Ors, M Grimaldi, Y Kimata, CR Wilkinson, N Jones, H Yamano
+
+Fission yeast Atf1 is a member of the ATF/CREB basic leucine zipper (bZIP) family of transcription factors with strong homology to mammalian ATF2. Atf1 regulates transcription in response to stress stimuli and also plays a role in controlling heterochromatin formation and recombination. However, its DNA binding independent role is poorly studied. Here, we report that Atf1 has a distinct role in regulating the anaphase-promoting complex/cyclosome (APC/C) ubiquitin ligase. We have identified atf1(+) as a dose-dependent suppressor of apc5-1, a mutation causing mitotic arrest. Remarkably, the suppression is not dependent upon the bZIP domain and is therefore independent of the ability of Atf1 to bind DNA. Interestingly, Atf1 physically binds the APC/C in vivo. Furthermore, we show that addition of purified Atf1 proteins into a cell-free system stimulates ubiquitylation of cyclin B and securin by the APC/C. These results reveal a novel role for Atf1 in cell cycle control through protein-protein interaction.
+
+-Activating Transcription Factor 1 (-genetics; +metabolism)
+-Cell-Free System (-metabolism)
+-Cyclin B (-genetics; -metabolism)
+-Heterochromatin (-genetics; -metabolism)
+-Mitosis (+physiology)
+-Phosphoproteins (-genetics; +metabolism)
+-Recombination, Genetic (-physiology)
+-Schizosaccharomyces (-genetics; +metabolism)
+-Schizosaccharomyces pombe Proteins (-genetics; +metabolism)
+-Ubiquitin-Protein Ligase Complexes (-genetics; -metabolism)
+-Ubiquitin-Protein Ligases (-genetics; +metabolism)
+
+pii:M109.018309
+doi:10.1074/jbc.M109.018309
+pubmed:19584054
+pmc:PMC2781993
+

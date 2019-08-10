@@ -1,0 +1,24 @@
+Infect. Immun.
+
+CspA-mediated binding of human factor H inhibits complement deposition and confers serum resistance in Borrelia burgdorferi.
+
+MR Kenedy, SR Vuppala, C Siegel, P Kraiczy, DR Akins
+
+Borrelia burgdorferi has developed efficient mechanisms for evading the innate immune response during mammalian infection and has been shown to be resistant to the complement-mediated bactericidal activity of human serum. It is well recognized that B. burgdorferi expresses multiple lipoproteins on its surface that bind the human complement inhibitors factor H and factor H-like protein 1 (FH/FHL-1). The binding of FH/FHL-1 on the surface of B. burgdorferi is thought to enhance its ability to evade serum-mediated killing during the acute phase of infection. One of the key B. burgdorferi FH/FHL-1 binding proteins identified thus far was designated CspA. While it is known that CspA binds FH/FHL-1, it is unclear how the interaction between CspA and FH/FHL-1 specifically enhances serum resistance. To better understand how CspA mediates serum resistance in B. burgdorferi, we inactivated cspA in a virulent strain of B. burgdorferi. An affinity ligand blot immunoassay and indirect immunofluorescence revealed that the CspA mutant does not efficiently bind human FH to its surface. Consistent with the lack of FH binding, the CspA mutant was also highly sensitive to killing by human serum. Additionally, the deposition of complement components C3, C6, and C5b-9 was enhanced on the surface of the CspA mutant compared to that of the wild-type strain. The combined data lead us to conclude that the CspA-mediated binding of human FH confers serum resistance by directly inhibiting complement deposition on the surface of B. burgdorferi.
+
+-Bacterial Proteins (-genetics; +metabolism)
+-Blood Bactericidal Activity (+immunology)
+-Blood Physiological Phenomena (+immunology)
+-Borrelia burgdorferi (+immunology; -pathogenicity)
+-Complement Factor H (-metabolism)
+-Complement System Proteins (-immunology; +metabolism)
+-Gene Knockout Techniques
+-Humans
+-Microbial Viability
+-Protein Binding
+
+pii:IAI.00318-09
+doi:10.1128/IAI.00318-09
+pubmed:19451251
+pmc:PMC2708555
+

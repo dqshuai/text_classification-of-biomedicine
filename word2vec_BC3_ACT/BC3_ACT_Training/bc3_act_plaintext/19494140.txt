@@ -1,0 +1,30 @@
+J. Neurosci.
+
+Transcriptional control of behavior: engrailed knock-out changes cockroach escape trajectories.
+
+D Booth, B Marie, P Domenici, JM Blagburn, JP Bacon
+
+The cerci of the cockroach are covered with identified sensory hairs that detect air movements. The sensory neurons that innervate these hairs synapse with giant interneurons in the terminal ganglion that in turn synapse with interneurons and leg motor neurons in thoracic ganglia. This neural circuit mediates the animal's escape behavior. The transcription factor Engrailed (En) is expressed only in the medially born sensory neurons, which suggested that it could work as a positional determinant of sensory neuron identity. Previously, we used double-stranded RNA interference to abolish En expression and found that the axonal arborization and synaptic outputs of an identified En-positive sensory neuron changed so that it came to resemble a nearby En-negative cell, which was itself unaffected. We thus demonstrated directly that En controls synaptic choice, as well as axon projections. Is escape behavior affected as a result of this miswiring? We showed recently that adult cockroaches keep each escape unpredictable by running along one of a set of preferred escape trajectories (ETs) at fixed angles from the direction of the threatening stimulus. The probability of selecting a particular ET is influenced by wind direction. In this present study, we show that early instar juvenile cockroaches also use those same ETs. En knock-out significantly perturbs the animals' perception of posterior wind, altering the choice of ETs to one more appropriate for anterior wind. This is the first time that it has been shown that knock-out of a transcription factor controlling synaptic connectivity can alter the perception of a directional stimulus.
+
+-Age Factors
+-Animals
+-Behavior, Animal (-drug effects; -physiology)
+-Cockroaches (-anatomy & histology; +physiology)
+-Computer Simulation
+-Escape Reaction (-drug effects; +physiology)
+-Ganglia, Invertebrate (-cytology; -drug effects; -physiology)
+-Homeodomain Proteins (+antagonists & inhibitors; -genetics)
+-Models, Biological
+-Physical Stimulation
+-Probability
+-RNA, Double-Stranded (-pharmacology)
+-Sensory Receptor Cells (-drug effects)
+-Spatial Behavior (-drug effects; +physiology)
+-Wind
+
+pii:29/22/7181
+doi:10.1523/JNEUROSCI.1374-09.2009
+pubmed:19494140
+mid:NIHMS113772
+pmc:PMC2744400
+

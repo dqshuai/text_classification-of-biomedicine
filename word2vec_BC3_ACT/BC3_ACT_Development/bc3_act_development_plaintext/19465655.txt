@@ -1,0 +1,24 @@
+J. Bacteriol.
+
+Characterization of a gene cluster involved in 4-chlorocatechol degradation by Pseudomonas reinekei MT1.
+
+B Cámara, P Nikodem, P Bielecki, R Bobadilla, H Junca, DH Pieper
+
+Pseudomonas reinekei MT1 has previously been reported to degrade 4- and 5-chlorosalicylate by a pathway with 4-chlorocatechol, 3-chloromuconate, 4-chloromuconolactone, and maleylacetate as intermediates, and a gene cluster channeling various salicylates into an intradiol cleavage route has been reported. We now report that during growth on 5-chlorosalicylate, besides a novel (chloro)catechol 1,2-dioxygenase, C12O(ccaA), a novel (chloro)muconate cycloisomerase, MCI(ccaB), which showed features not yet reported, was induced. This cycloisomerase, which was practically inactive with muconate, evolved for the turnover of 3-substituted muconates and transforms 3-chloromuconate into equal amounts of cis-dienelactone and protoanemonin, suggesting that it is a functional intermediate between chloromuconate cycloisomerases and muconate cycloisomerases. The corresponding genes, ccaA (C12O(ccaA)) and ccaB (MCI(ccaB)), were located in a 5.1-kb genomic region clustered with genes encoding trans-dienelactone hydrolase (ccaC) and maleylacetate reductase (ccaD) and a putative regulatory gene, ccaR, homologous to regulators of the IclR-type family. Thus, this region includes genes sufficient to enable MT1 to transform 4-chlorocatechol to 3-oxoadipate. Phylogenetic analysis showed that C12O(ccaA) and MCI(ccaB) are only distantly related to previously described catechol 1,2-dioxygenases and muconate cycloisomerases. Kinetic analysis indicated that MCI(ccaB) and the previously identified C12O(salD), rather than C12O(ccaA), are crucial for 5-chlorosalicylate degradation. Thus, MT1 uses enzymes encoded by a completely novel gene cluster for degradation of chlorosalicylates, which, together with a gene cluster encoding enzymes for channeling salicylates into the ortho-cleavage pathway, form an effective pathway for 4- and 5-chlorosalicylate mineralization.
+
+-Bacterial Proteins (-genetics; +physiology)
+-Catechols (+metabolism)
+-Intramolecular Lyases (-genetics; +physiology)
+-Kinetics
+-Molecular Sequence Data
+-Multigene Family (+genetics; +physiology)
+-Phylogeny
+-Pseudomonas (+enzymology; -genetics; +metabolism)
+-Sequence Analysis, DNA
+-Substrate Specificity
+
+pii:JB.00331-09
+doi:10.1128/JB.00331-09
+pubmed:19465655
+pmc:PMC2715737
+

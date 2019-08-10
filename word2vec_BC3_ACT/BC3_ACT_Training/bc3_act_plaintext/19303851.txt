@@ -1,0 +1,27 @@
+Cell
+
+The Ste5 scaffold directs mating signaling by catalytically unlocking the Fus3 MAP kinase for activation.
+
+M Good, G Tang, J Singleton, A Reményi, WA Lim
+
+The scaffold protein Ste5 is required to properly direct signaling through the yeast mating pathway to the mitogen-activated protein kinase (MAPK), Fus3. Scaffolds are thought to function by tethering kinase and substrate in proximity. We find, however, that the previously identified Fus3-binding site on Ste5 is not required for signaling, suggesting an alternative mechanism controls Fus3's activation by the MAPKK Ste7. Reconstituting MAPK signaling in vitro, we find that Fus3 is an intrinsically poor substrate for Ste7, although the related filamentation MAPK, Kss1, is an excellent substrate. We identify and structurally characterize a domain in Ste5 that catalytically unlocks Fus3 for phosphorylation by Ste7. This domain selectively increases the k(cat) of Ste7-->Fus3 phosphorylation but has no effect on Ste7-->Kss1 phosphorylation. The dual requirement for both Ste7 and this Ste5 domain in Fus3 activation explains why Fus3 is selectively activated by the mating pathway and not by other pathways that also utilize Ste7.
+
+-Adaptor Proteins, Signal Transducing (-chemistry; +metabolism)
+-Allosteric Regulation
+-Enzyme Activation
+-MAP Kinase Signaling System
+-Mitogen-Activated Protein Kinase Kinases
+-Mitogen-Activated Protein Kinases (-chemistry; +metabolism)
+-Models, Molecular
+-Phosphorylation
+-Protein Kinases (-metabolism)
+-Protein Structure, Tertiary
+-Saccharomyces cerevisiae (+metabolism)
+-Saccharomyces cerevisiae Proteins (-chemistry; +metabolism)
+
+pii:S0092-8674(09)00134-2
+doi:10.1016/j.cell.2009.01.049
+pubmed:19303851
+mid:NIHMS104774
+pmc:PMC2777755
+

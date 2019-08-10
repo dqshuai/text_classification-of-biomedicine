@@ -1,0 +1,29 @@
+Mol. Cell. Biol.
+
+The S-phase checkpoint is required to respond to R-loops accumulated in THO mutants.
+
+B Gómez-González, I Felipe-Abrio, A Aguilera
+
+Cotranscriptional R-loops are formed in yeast mutants of the THO complex, which functions at the interface between transcription and mRNA export. Despite the relevance of R-loops in transcription-associated recombination, the mechanisms by which they trigger recombination are still elusive. In order to understand how R-loops compromise genome stability, we have analyzed the genetic interaction of THO with 26 genes involved in replication, S-phase checkpoint, DNA repair, and chromatin remodeling. We found a synthetic growth defect in double null mutants of THO and S-phase checkpoint factors, such as the replication factor C- and PCNA-like complexes. Under replicative stress, R-loop-forming THO null mutants require functional S-phase checkpoint functions but not double-strand-break repair functions for survival. Furthermore, R-loop-forming hpr1Delta mutants display replication fork progression impairment at actively transcribed chromosomal regions and trigger Rad53 phosphorylation. We conclude that R-loop-mediated DNA damage activates the S-phase checkpoint, which is required for the cell survival of THO mutants under replicative stress. In light of these results, we propose a model in which R-loop-mediated recombination is explained by template switching.
+
+-Cell Cycle Proteins (-genetics; -metabolism)
+-Chromosomes
+-DNA Damage
++DNA Repair
+-DNA Replication
+-DNA, Fungal (-genetics)
+-Mutation
+-Nuclear Proteins (-genetics; -metabolism)
+-Phosphorylation
+-Protein Binding
+-Protein-Serine-Threonine Kinases (-genetics; -metabolism)
++S Phase
+-Saccharomyces cerevisiae (-cytology; +genetics; -physiology)
+-Saccharomyces cerevisiae Proteins (-genetics; -metabolism)
+-Transcription Factors (+genetics; -metabolism)
+
+pii:MCB.00402-09
+doi:10.1128/MCB.00402-09
+pubmed:19651896
+pmc:PMC2747986
+

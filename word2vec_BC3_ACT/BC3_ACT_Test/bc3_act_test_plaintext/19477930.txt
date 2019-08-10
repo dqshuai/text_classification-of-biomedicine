@@ -1,0 +1,28 @@
+Mol. Biol. Cell
+
+Essential features of the class V myosin from budding yeast for ASH1 mRNA transport.
+
+CS Bookwalter, M Lord, KM Trybus
+
+Myo4p, a single-headed and nonprocessive class V myosin in budding yeast, transports >20 different mRNAs asymmetrically to the bud. Here, we determine the features of the Myo4p motor that are necessary for correct localization of ASH1 mRNA to the daughter cell, a process that also requires the adapter protein She3p and the dimeric mRNA-binding protein She2p. The rod region of Myo4p, but not the globular tail, is essential for correct localization of ASH1 mRNA, confirming that the rod contains the primary binding site for She3p. The requirement for both the rod region and She3p can be bypassed by directly coupling the mRNA-binding protein She2p to Myo4p. ASH1 mRNA was also correctly localized when one motor was bound per dimeric She2p, or when two motors were joined together by a leucine zipper. Because multiple mRNAs are cotransported to the bud, it is likely that this process involves multiple motor transport regardless of the number of motors per zip code. Our results show that the most important feature for correct localization is the retention of coupling between all the members of the complex (Myo4p-She3p-She2p-ASH1 mRNA), which is aided by She3p being a tightly bound subunit of Myo4p.
+
+-Genes, Reporter
+-Microscopy, Fluorescence
+-Models, Biological
+-Mutant Proteins (-metabolism)
+-Myosin Heavy Chains (+metabolism)
+-Myosin Type V (+metabolism)
+-Protein Binding
+-Protein Multimerization
++RNA Transport
+-RNA, Messenger (-genetics; -metabolism)
+-RNA-Binding Proteins (-metabolism)
+-Repressor Proteins (+metabolism)
+-Saccharomyces cerevisiae (-cytology; +metabolism)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+
+pii:E08-08-0801
+doi:10.1091/mbc.E08-08-0801
+pubmed:19477930
+pmc:PMC2710842
+

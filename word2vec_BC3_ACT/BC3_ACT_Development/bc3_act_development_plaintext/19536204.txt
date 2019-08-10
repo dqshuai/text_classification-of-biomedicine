@@ -1,0 +1,23 @@
+Mol. Syst. Biol.
+
+Robustness and fragility in the yeast high osmolarity glycerol (HOG) signal-transduction pathway.
+
+M Krantz, D Ahmadpour, LG Ottosson, J Warringer, C Waltermann, B Nordlander, E Klipp, A Blomberg, S Hohmann, H Kitano
+
+Cellular signalling networks integrate environmental stimuli with the information on cellular status. These networks must be robust against stochastic fluctuations in stimuli as well as in the amounts of signalling components. Here, we challenge the yeast HOG signal-transduction pathway with systematic perturbations in components' expression levels under various external conditions in search for nodes of fragility. We observe a substantially higher frequency of fragile nodes in this signal-transduction pathway than that has been observed for other cellular processes. These fragilities disperse without any clear pattern over biochemical functions or location in pathway topology and they are largely independent of pathway activation by external stimuli. However, the strongest toxicities are caused by pathway hyperactivation. In silico analysis highlights the impact of model structure on in silico robustness, and suggests complex formation and scaffolding as important contributors to the observed fragility patterns. Thus, in vivo robustness data can be used to discriminate and improve mathematical models.
+
+-Cluster Analysis
+-Computer Simulation
+-Mitogen-Activated Protein Kinases (-metabolism; +physiology)
+-Models, Biological
+-Osmolar Concentration
+-Saccharomyces cerevisiae (-metabolism; +physiology)
+-Saccharomyces cerevisiae Proteins (-metabolism; +physiology)
+-Signal Transduction
+-Stress, Physiological
+
+pii:msb200936
+doi:10.1038/msb.2009.36
+pubmed:19536204
+pmc:PMC2710867
+

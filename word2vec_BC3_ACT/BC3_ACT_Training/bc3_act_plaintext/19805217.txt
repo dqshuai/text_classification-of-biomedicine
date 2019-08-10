@@ -1,0 +1,29 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Identification of an RNA-dependent RNA polymerase in Drosophila involved in RNAi and transposon suppression.
+
+C Lipardi, BM Paterson
+
+Here, we show that recombinant Drosophila elp1 (D-elp1) produced in Sf9 cells or Escherichia coli, corresponding to the largest of the three subunits in the RNA polymerase II core elongator complex, has RNA-dependent RNA polymerase (RdRP) activity. D-elp1 is a noncanonical RdRP that can synthesize dsRNA from different ssRNA templates using either a primer-dependent or primer-independent initiation mechanism. Of the three core subunits, only D-elp1 depletion inhibits RNAi in S2 cells but does not affect micro RNA function. Furthermore, D-elp1 depletion results in increased steady state levels of representative transposon RNAs and a decrease in the corresponding transposon antisense transcripts and endo siRNAs. In contrast, although Dcr-2 depletion results in increased transposon RNA levels and a reduction in the corresponding endo siRNAs, there is no change in the transposon antisense RNA levels. In D-elp1 null third instar larvae transposon RNA levels are also increased and the corresponding transposon antisense RNAs are reduced. D-elp1 associates tightly with Dcr-2, similar to the Dicer-RdRP interaction observed in lower eukaryotes. These results identify an aspect of the RNAi pathway in Drosophila that suggest transposon derived endo siRNAs, critical for transposon suppression, are produced, in part, in a D-elp1 dependent step that converts transposon RNA into dsRNA that is subsequently processed by Dcr-2. The generality of this mechanism in genome defense and RNA silencing in higher eukaryotes is suggested.
+
+-Animals
+-Baculoviridae (-genetics)
+-Cell Line
+-DNA Transposable Elements (+genetics)
+-Drosophila (+enzymology; +genetics)
+-Drosophila Proteins (-genetics; -metabolism)
+-Escherichia coli (-enzymology; -genetics)
+-Gene Deletion
+-Genes, Insect
+-RNA Helicases (-genetics; -metabolism)
+-RNA Interference (+physiology)
+-RNA Replicase (-genetics; +metabolism)
+-Recombinant Proteins (-genetics; -metabolism)
+-Ribonuclease III (-genetics; -metabolism)
+-Suppression, Genetic
+
+pii:0904984106
+doi:10.1073/pnas.0904984106
+pubmed:19805217
+pmc:PMC2736140
+

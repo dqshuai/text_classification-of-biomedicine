@@ -1,0 +1,20 @@
+EMBO J.
+
+A quantitative systems view of the spindle assembly checkpoint.
+
+A Ciliberto, JV Shah
+
+The idle assembly checkpoint acts to delay chromosome segregation until all duplicated sister chromatids are captured by the mitotic spindle. This pathway ensures that each daughter cell receives a complete copy of the genome. The high fidelity and robustness of this process have made it a subject of intense study in both the experimental and computational realms. A significant number of checkpoint proteins have been identified but how they orchestrate the communication between local spindle attachment and global cytoplasmic signalling to delay segregation is not yet understood. Here, we propose a systems view of the spindle assembly checkpoint to focus attention on the key regulators of the dynamics of this pathway. These regulators in turn have been the subject of detailed cellular measurements and computational modelling to connect molecular function to the dynamics of spindle assembly checkpoint signalling. A review of these efforts reveals the insights provided by such approaches and underscores the need for further interdisciplinary studies to reveal in full the quantitative underpinnings of this cellular control pathway.
+
++Cell Cycle
+-Cell Cycle Proteins (-metabolism)
++Chromosome Segregation
+-Mitotic Spindle Apparatus (+physiology)
+-Models, Biological
+-Nuclear Proteins (-metabolism)
+
+pii:emboj2009186
+doi:10.1038/emboj.2009.186
+pubmed:19629044
+pmc:PMC2722251
+

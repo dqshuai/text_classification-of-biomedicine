@@ -1,0 +1,28 @@
+Nature
+
+Population context determines cell-to-cell variability in endocytosis and virus infection.
+
+B Snijder, R Sacher, P Rämö, EM Damm, P Liberali, L Pelkmans
+
+Single-cell heterogeneity in cell populations arises from a combination of intrinsic and extrinsic factors. This heterogeneity has been measured for gene transcription, phosphorylation, cell morphology and drug perturbations, and used to explain various aspects of cellular physiology. In all cases, however, the causes of heterogeneity were not studied. Here we analyse, for the first time, the heterogeneous patterns of related cellular activities, namely virus infection, endocytosis and membrane lipid composition in adherent human cells. We reveal correlations with specific cellular states that are defined by the population context of a cell, and we derive probabilistic models that can explain and predict most cellular heterogeneity of these activities, solely on the basis of each cell's population context. We find that accounting for population-determined heterogeneity is essential for interpreting differences between the activity levels of cell populations. Finally, we reveal that synergy between two molecular components, focal adhesion kinase and the sphingolipid GM1, enhances the population-determined pattern of simian virus 40 (SV40) infection. Our findings provide an explanation for the origin of heterogeneity patterns of cellular activities in adherent cell populations.
+
+-Cell Adhesion
+-Cell Count
+-Cell Line, Tumor
+-Cell Size
+-Clone Cells (+pathology; -virology)
+-Dengue Virus (-physiology)
++Endocytosis
+-Focal Adhesion Kinase 1 (-metabolism)
+-G(M1) Ganglioside (-metabolism)
+-Humans
+-Membrane Lipids (-analysis; -metabolism)
+-Murine hepatitis virus (-physiology)
+-Rotavirus (-physiology)
+-Simian virus 40 (-physiology)
+-Virus Diseases (+pathology; -virology)
+
+pii:nature08282
+doi:10.1038/nature08282
+pubmed:19710653
+

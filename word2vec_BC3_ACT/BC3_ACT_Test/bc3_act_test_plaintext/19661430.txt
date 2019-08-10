@@ -1,0 +1,21 @@
+Science
+
+Generalized models reveal stabilizing factors in food webs.
+
+T Gross, L Rudolf, SA Levin, U Dieckmann
+
+Insights into what stabilizes natural food webs have always been limited by a fundamental dilemma: Studies either need to make unwarranted simplifying assumptions, which undermines their relevance, or only examine few replicates of small food webs, which hampers the robustness of findings. We used generalized modeling to study several billion replicates of food webs with nonlinear interactions and up to 50 species. In this way, first we show that higher variability in link strengths stabilizes food webs only when webs are relatively small, whereas larger webs are instead destabilized. Second, we reveal a new power law describing how food-web stability scales with the number of species and their connectance. Third, we report two universal rules: Food-web stability is enhanced when (i) species at a high trophic level feed on multiple prey species and (ii) species at an intermediate trophic level are fed upon by multiple predator species.
+
+-Animals
+-Biodiversity
+-Ecosystem
++Food Chain
++Models, Biological
+-Nonlinear Dynamics
+-Population Dynamics
+-Predatory Behavior
+
+pii:325/5941/747
+doi:10.1126/science.1173536
+pubmed:19661430
+

@@ -1,0 +1,36 @@
+Plant Cell
+
+Mutation of the membrane-associated M1 protease APM1 results in distinct embryonic and seedling developmental defects in Arabidopsis.
+
+WA Peer, FN Hosein, A Bandyopadhyay, SN Makam, MS Otegui, GJ Lee, JJ Blakeslee, Y Cheng, B Titapiwatanakun, B Yakubov, B Bangari, AS Murphy
+
+Aminopeptidase M1 (APM1), a single copy gene in Arabidopsis thaliana, encodes a metallopeptidase originally identified via its affinity for, and hydrolysis of, the auxin transport inhibitor 1-naphthylphthalamic acid (NPA). Mutations in this gene result in haploinsufficiency. Loss-of-function mutants show irregular, uncoordinated cell divisions throughout embryogenesis, affecting the shape and number of cotyledons and the hypophysis, and is seedling lethal at 5 d after germination due to root growth arrest. Quiescent center and cell cycle markers show no signals in apm1-1 knockdown mutants, and the ground tissue specifiers SHORTROOT and SCARECROW are misexpressed or mislocalized. apm1 mutants have multiple, fused cotyledons and hypocotyls with enlarged epidermal cells with cell adhesion defects. apm1 alleles show defects in gravitropism and auxin transport. Gravistimulation decreases APM1 expression in auxin-accumulating root epidermal cells, and auxin treatment increases expression in the stele. On sucrose gradients, APM1 occurs in unique light membrane fractions. APM1 localizes at the margins of Golgi cisternae, plasma membrane, select multivesicular bodies, tonoplast, dense intravacuolar bodies, and maturing metaxylem cells. APM1 associates with brefeldin A-sensitive endomembrane structures and the plasma membrane in cortical and epidermal cells. The auxin-related phenotypes and mislocalization of auxin efflux proteins in apm1 are consistent with biochemical interactions between APM1 and NPA.
+
+-Aminopeptidases (-genetics; +physiology)
+-Arabidopsis (-embryology; +enzymology; -genetics; -growth & development)
+-Arabidopsis Proteins (-genetics; +physiology)
+-Biological Transport (-genetics)
+-Cell Division (-genetics)
+-Cell Membrane (-metabolism; -ultrastructure)
+-Cotyledon (-anatomy & histology; -genetics; -growth & development)
+-Gene Expression Regulation, Plant
+-Gene Silencing
+-Golgi Apparatus (-metabolism; -ultrastructure)
+-Gravitropism (-genetics)
+-Hypocotyl (-anatomy & histology; -genetics; -growth & development)
+-Indoleacetic Acids (-metabolism)
+-Membrane Proteins (-genetics; +physiology)
+-Microscopy, Electron, Transmission
++Mutation
+-Phenotype
+-Phthalimides (-pharmacology)
+-Plant Roots (-enzymology; -genetics; -growth & development)
+-Plant Shoots (-enzymology; -genetics; -growth & development)
+-Seedling (-drug effects; -enzymology; -genetics; +growth & development)
+-Seeds (-drug effects; -enzymology; -genetics; +growth & development)
+
+pii:tpc.108.059634
+doi:10.1105/tpc.108.059634
+pubmed:19531600
+pmc:PMC2714933
+

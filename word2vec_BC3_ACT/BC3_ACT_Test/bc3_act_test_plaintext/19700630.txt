@@ -1,0 +1,26 @@
+Plant Cell
+
+Nuclear pore complex component MOS7/Nup88 is required for innate immunity and nuclear accumulation of defense regulators in Arabidopsis.
+
+YT Cheng, H Germain, M Wiermer, D Bi, F Xu, AV García, L Wirthmueller, C Després, JE Parker, Y Zhang, X Li
+
+Plant immune responses depend on dynamic signaling events across the nuclear envelope through nuclear pores. Nuclear accumulation of certain resistance (R) proteins and downstream signal transducers are critical for their functions, but it is not understood how these processes are controlled. Here, we report the identification, cloning, and analysis of Arabidopsis thaliana modifier of snc1,7 (mos7-1), a partial loss-of-function mutation that suppresses immune responses conditioned by the autoactivated R protein snc1 (for suppressor of npr1-1, constitutive 1). mos7-1 single mutant plants exhibit defects in basal and R protein-mediated immunity and in systemic acquired resistance but do not display obvious pleiotropic defects in development, salt tolerance, or plant hormone responses. MOS7 is homologous to human and Drosophila melanogaster nucleoporin Nup88 and resides at the nuclear envelope. In animals, Nup88 attenuates nuclear export of activated NF-kappaB transcription factors, resulting in nuclear accumulation of NF-kappaB. Our analysis shows that nuclear accumulation of snc1 and the defense signaling components Enhanced Disease Susceptibility 1 and Nonexpresser of PR genes 1 is significantly reduced in mos7-1 plants, while nuclear retention of other tested proteins is unaffected. The data suggest that specifically modulating the nuclear concentrations of certain defense proteins regulates defense outputs.
+
+-Animals
+-Arabidopsis (-genetics; +immunology; +metabolism; -microbiology)
+-Arabidopsis Proteins (-genetics; -metabolism; +physiology)
+-DNA-Binding Proteins (-genetics; -metabolism; -physiology)
+-Drosophila Proteins (-genetics; -metabolism; -physiology)
+-Humans
+-Immunity, Innate (-genetics; +physiology)
+-Immunoblotting
+-Nuclear Pore (+metabolism)
+-Nuclear Pore Complex Proteins (-genetics; -metabolism; -physiology)
+-Plants, Genetically Modified (-genetics; +immunology; +metabolism; -microbiology)
+-Pseudomonas syringae (-pathogenicity)
+
+pii:tpc.108.064519
+doi:10.1105/tpc.108.064519
+pubmed:19700630
+pmc:PMC2751965
+

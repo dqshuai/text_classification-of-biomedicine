@@ -1,0 +1,24 @@
+EMBO J.
+
+Individual CREB-target genes dictate usage of distinct cAMP-responsive coactivation mechanisms.
+
+W Xu, LH Kasper, S Lerach, T Jeevan, PK Brindle
+
+CREB is a key mediator of cAMP- and calcium-inducible transcription, where phosphorylation of serine 133 in its Kinase-Inducible Domain (KID) is often equated with transactivation. Phospho-Ser133 is required for CREB to bind the KIX domain of the coactivators CBP and p300 (CBP/p300) in vitro, although the importance of this archetype coactivator interaction for endogenous gene expression is unclear. Here, we show that the CREB interaction with KIX is necessary for only a part of cAMP-inducible transcription and CBP/p300 recruitment. Surprisingly, individual cAMP-inducible genes with CREB bound at their promoters differed in their reliance on KIX and none examined showed complete dependence. Alternatively, we found that arginine 314 (Arg314) in the CREB basic-leucine zipper (bZIP) domain contributed to CBP/p300 recruitment and KIX-independent CREB transactivation function. This implicates Transducer Of Regulated CREB (TORC), an unrelated cAMP-responsive coactivator that binds via Arg314, and which can bind CBP/p300, in these functions. Interestingly, KIX was also required for the full cAMP induction of a gene that did not require CREB. Thus, individual CREB-target gene context dictates the relative contribution of at least two different cAMP-responsive coactivation mechanisms.
+
+-Animals
+-Cells, Cultured
+-Cyclic AMP (+physiology)
+-Cyclic AMP Response Element-Binding Protein (+physiology)
+-Gene Expression Regulation (+physiology)
+-Mice
+-Mutation
+-Transcription Factors (-genetics)
+-Transcriptional Activation (+physiology)
+-p300-CBP Transcription Factors (-genetics)
+
+pii:7601734
+doi:10.1038/sj.emboj.7601734
+pubmed:17525731
+pmc:PMC1894772
+

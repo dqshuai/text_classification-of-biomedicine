@@ -1,0 +1,25 @@
+Nature
+
+Argonaute HITS-CLIP decodes microRNA-mRNA interaction maps.
+
+SW Chi, JB Zang, A Mele, RB Darnell
+
+MicroRNAs (miRNAs) have critical roles in the regulation of gene expression; however, as miRNA activity requires base pairing with only 6-8 nucleotides of messenger RNA, predicting target mRNAs is a major challenge. Recently, high-throughput sequencing of RNAs isolated by crosslinking immunoprecipitation (HITS-CLIP) has identified functional protein-RNA interaction sites. Here we use HITS-CLIP to covalently crosslink native argonaute (Ago, also called Eif2c) protein-RNA complexes in mouse brain. This produced two simultaneous data sets-Ago-miRNA and Ago-mRNA binding sites-that were combined with bioinformatic analysis to identify interaction sites between miRNA and target mRNA. We validated genome-wide interaction maps for miR-124, and generated additional maps for the 20 most abundant miRNAs present in P13 mouse brain. Ago HITS-CLIP provides a general platform for exploring the specificity and range of miRNA action in vivo, and identifies precise sequences for targeting clinically relevant miRNA-mRNA interactions.
+
+-Animals
+-Cross-Linking Reagents (-chemistry; -metabolism)
++Gene Expression Regulation
+-Hela Cells
+-Humans
+-Immunoprecipitation (+methods)
+-Mice
+-MicroRNAs (+metabolism)
+-Protein Interaction Mapping
+-Reproducibility of Results
+
+pii:nature08170
+doi:10.1038/nature08170
+pubmed:19536157
+mid:NIHMS120632
+pmc:PMC2733940
+

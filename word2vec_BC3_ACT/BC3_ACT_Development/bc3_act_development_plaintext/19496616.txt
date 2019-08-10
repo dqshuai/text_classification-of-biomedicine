@@ -1,0 +1,24 @@
+Biochemistry
+
+Structural bioinformatics-based prediction of exceptional selectivity of p38 MAP kinase inhibitor PH-797804.
+
+L Xing, HS Shieh, SR Selness, RV Devraj, JK Walker, B Devadas, HR Hope, RP Compton, JF Schindler, JL Hirsch, AG Benson, RG Kurumbail, RA Stegeman, JM Williams, RM Broadus, Z Walden, JB Monahan
+
+PH-797804 is a diarylpyridinone inhibitor of p38alpha mitogen-activated protein (MAP) kinase derived from a racemic mixture as the more potent atropisomer (aS), first proposed by molecular modeling and subsequently confirmed by experiments. On the basis of structural comparison with a different biaryl pyrazole template and supported by dozens of high-resolution crystal structures of p38alpha inhibitor complexes, PH-797804 is predicted to possess a high level of specificity across the broad human kinase genome. We used a structural bioinformatics approach to identify two selectivity elements encoded by the TXXXG sequence motif on the p38alpha kinase hinge: (i) Thr106 that serves as the gatekeeper to the buried hydrophobic pocket occupied by 2,4-difluorophenyl of PH-797804 and (ii) the bidentate hydrogen bonds formed by the pyridinone moiety with the kinase hinge requiring an induced 180 degrees rotation of the Met109-Gly110 peptide bond. The peptide flip occurs in p38alpha kinase due to the critical glycine residue marked by its conformational flexibility. Kinome-wide sequence mining revealed rare presentation of the selectivity motif. Corroboratively, PH-797804 exhibited exceptionally high specificity against MAP kinases and the related kinases. No cross-reactivity was observed in large panels of kinase screens (selectivity ratio of >500-fold). In cellular assays, PH-797804 demonstrated superior potency and selectivity consistent with the biochemical measurements. PH-797804 has met safety criteria in human phase I studies and is under clinical development for several inflammatory conditions. Understanding the rationale for selectivity at the molecular level helps elucidate the biological function and design of specific p38alpha kinase inhibitors.
+
+-Benzamides (-chemistry; +pharmacology)
++Computational Biology
+-Crystallography, X-Ray
+-Humans
+-Hydrogen Bonding
+-Models, Molecular
+-Molecular Structure
+-Phosphorylation
+-Protein Kinase Inhibitors (-chemistry; +pharmacology)
+-Pyrones (-chemistry; +pharmacology)
+-Substrate Specificity
+-p38 Mitogen-Activated Protein Kinases (+antagonists & inhibitors; -metabolism)
+
+doi:10.1021/bi900655f
+pubmed:19496616
+

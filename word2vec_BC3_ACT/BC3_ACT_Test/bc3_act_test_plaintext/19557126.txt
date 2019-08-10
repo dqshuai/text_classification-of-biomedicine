@@ -1,0 +1,28 @@
+PLoS ONE
+
+Quantification of normal cell fraction and copy number neutral LOH in clinical lung cancer samples using SNP array data.
+
+H Göransson, K Edlund, M Rydåker, M Rasmussen, J Winquist, S Ekman, M Bergqvist, A Thomas, M Lambe, R Rosenquist, L Holmberg, P Micke, J Botling, A Isaksson
+
+BACKGROUND: Technologies based on DNA microarrays have the potential to provide detailed information on genomic aberrations in tumor cells. In practice a major obstacle for quantitative detection of aberrations is the heterogeneity of clinical tumor tissue. Since tumor tissue invariably contains genetically normal stromal cells, this may lead to a failure to detect aberrations in the tumor cells. PRINCIPAL FINDING: Using SNP array data from 44 non-small cell lung cancer samples we have developed a bioinformatic algorithm that accurately models the fractions of normal and tumor cells in clinical tumor samples. The proportion of normal cells in combination with SNP array data can be used to detect and quantify copy number neutral loss-of-heterozygosity (CNNLOH) in the tumor cells both in crude tumor tissue and in samples enriched for tumor cells by laser capture microdissection. CONCLUSION: Genome-wide quantitative analysis of CNNLOH using the CNNLOH Quantifier method can help to identify recurrent aberrations contributing to tumor development in clinical tumor samples. In addition, SNP-array based analysis of CNNLOH may become important for detection of aberrations that can be used for diagnostic and prognostic purposes.
+
+-Alleles
+-Carcinoma, Non-Small-Cell Lung (+genetics; -metabolism)
+-Cell Line, Tumor
+-Gene Expression Profiling (-methods)
++Gene Expression Regulation, Neoplastic
+-Genotype
+-Heterozygote
+-Humans
+-In Situ Hybridization, Fluorescence
+-Lasers
++Loss of Heterozygosity
+-Lung Neoplasms (+genetics; -metabolism)
+-Microdissection
+-Oligonucleotide Array Sequence Analysis (+methods)
++Polymorphism, Single Nucleotide
+
+doi:10.1371/journal.pone.0006057
+pubmed:19557126
+pmc:PMC2699026
+

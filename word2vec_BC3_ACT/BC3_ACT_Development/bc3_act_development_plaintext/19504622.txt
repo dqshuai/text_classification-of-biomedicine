@@ -1,0 +1,20 @@
+Yeast
+
+Proteome analysis of the xylose-fermenting mutant yeast strain TMB 3400.
+
+K Karhumaa, AK Påhlman, B Hahn-Hägerdal, F Levander, MF Gorwa-Grauslund
+
+Xylose fermentation in yeast has been a target of research for years, yet not all the factors that may affect xylose fermentation performance of yeast strains are known. In this study, the mutant S. cerevisiae strain TMB 3400, which has good xylose fermentation properties, was compared with its parental strain to examine the factors behind the improved xylose utilization at protein level. The proteome of the parental and the mutant strains were characterized by difference in gel electrophoresis (DiGE) to quantitatively identify proteins that are expressed at altered levels in the mutant. The most significant changes detected by proteome analysis were the 6-10-fold increased levels of xylose reductase, xylitol dehydrogenase and transketolase (Tkl1) in the mutant, which is in accordance with previous knowledge about xylose metabolism in yeast. The level of acetaldehyde dehydrogenase (Ald6) was also significantly increased. In addition, several proteins homologous to proteins from yeast species other than S. cerevisiae were identified in both strains, demonstrating the genetic heterogeneity of industrial yeast strains. The results were also compared with a previously reported transcription analysis performed with identical experimental set-up; however, very little correlation between the two datasets was observed. The results of the proteome analysis were in good agreement with a parallel study in which rationally designed overexpression of XR, XDH and the non-oxidative pentose phosphate pathway resulted in similar improvement in xylose utilization, which demonstrates the usefulness of proteome analysis for the identification of target genes for further metabolic engineering strategies in industrial yeast strains.
+
+-Aldehyde Oxidoreductases (-biosynthesis)
+-Aldehyde Reductase (-biosynthesis)
+-D-Xylulose Reductase (-biosynthesis)
+-Proteome (+analysis)
+-Saccharomyces (+chemistry; -metabolism)
+-Saccharomyces cerevisiae Proteins (+analysis; -biosynthesis)
+-Transketolase (-biosynthesis)
+-Xylose (+metabolism)
+
+doi:10.1002/yea.1673
+pubmed:19504622
+

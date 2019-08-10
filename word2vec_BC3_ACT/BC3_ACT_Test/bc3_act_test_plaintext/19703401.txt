@@ -1,0 +1,19 @@
+Cell
+
+Defining network topologies that can achieve biochemical adaptation.
+
+W Ma, A Trusina, H El-Samad, WA Lim, C Tang
+
+Many signaling systems show adaptation-the ability to reset themselves after responding to a stimulus. We computationally searched all possible three-node enzyme network topologies to identify those that could perform adaptation. Only two major core topologies emerge as robust solutions: a negative feedback loop with a buffering node and an incoherent feedforward loop with a proportioner node. Minimal circuits containing these topologies are, within proper regions of parameter space, sufficient to achieve adaptation. More complex circuits that robustly perform adaptation all contain at least one of these topologies at their core. This analysis yields a design table highlighting a finite set of adaptive circuits. Despite the diversity of possible biochemical networks, it may be common to find that only a finite set of core topologies can execute a particular function. These design rules provide a framework for functionally classifying complex natural networks and a manual for engineering networks. For a video summary of this article, see the PaperFlick file with the Supplemental Data available online.
+
++Adaptation, Physiological
+-Computer Simulation
+-Enzymes (-metabolism)
+-Feedback, Physiological
++Models, Biological
++Signal Transduction
+
+pii:S0092-8674(09)00712-0
+doi:10.1016/j.cell.2009.06.013
+pubmed:19703401
+

@@ -1,0 +1,34 @@
+Breast Cancer Res.
+
+Dysregulated expression of Fau and MELK is associated with poor prognosis in breast cancer.
+
+MR Pickard, AR Green, IO Ellis, C Caldas, VL Hedge, M Mourtada-Maarabouni, GT Williams
+
+INTRODUCTION : Programmed cell death through apoptosis plays an essential role in the hormone-regulated physiological turnover of mammary tissue. Failure of this active gene-dependent process is central both to the development of breast cancer and to the appearance of the therapy-resistant cancer cells that produce clinical relapse. Functional expression cloning in two independent laboratories has identified Finkel-Biskis-Reilly murine sarcoma virus-associated ubiquitously expressed gene (Fau) as a novel apoptosis regulator and candidate tumour suppressor. Fau modifies apoptosis-controller Bcl-G, which is also a key target for candidate oncoprotein maternal embryonic leucine zipper kinase (MELK). METHODS : We have used RNA interference to downregulate Fau and Bcl-G expression, both simultaneously and independently, in breast cancer cells in vitro to determine the importance of their roles in apoptosis. Expression of Fau, Bcl-G and MELK was measured by quantitative RT-PCR in breast cancer tissue and in matched breast epithelial tissue from the same patients. Expression data of these genes obtained using microarrays from a separate group of patients were related to patient survival in Kaplan-Meier analyses. RESULTS : siRNA-mediated downregulation of either Fau or Bcl-G expression inhibited apoptosis, and the inhibition produced by combining the two siRNAs was consistent with control of Bcl-G by Fau. Fau expression is significantly reduced in breast cancer tissue and this reduction is associated with poor patient survival, as predicted for a candidate breast cancer tumour suppressor. In addition, MELK expression is increased in breast cancer tissue and this increase is also associated with poor patient survival, as predicted for a candidate oncogene. Bcl-G expression is reduced in breast cancer tissue but decreased Bcl-G expression showed no correlation with survival, indicating that the most important factors controlling Bcl-G activity are post-translational modification (by Fau and MELK) rather than the rate of transcription of Bcl-G itself. CONCLUSIONS : The combination of in vitro functional studies with the analysis of gene expression in clinical breast cancer samples indicates that three functionally interconnected genes, Fau, Bcl-G and MELK, are crucially important in breast cancer and identifies them as attractive targets for improvements in breast cancer risk prediction, prognosis and therapy.
+
+-Adenocarcinoma (+genetics; -mortality)
+-Apoptosis (-genetics; -radiation effects)
+-Breast Neoplasms (+genetics; -mortality)
+-Cell Line, Tumor (-cytology; -radiation effects)
+-Epithelial Cells (-cytology; -metabolism)
+-Female
++Gene Expression Regulation, Neoplastic (-drug effects)
+-Gene Knockdown Techniques
+-Genetic Association Studies
+-Humans
+-Kaplan-Meiers Estimate
+-Neoplasm Proteins (-antagonists & inhibitors; -genetics; +physiology)
+-Prognosis
+-Protein-Serine-Threonine Kinases (-antagonists & inhibitors; -genetics; +physiology)
+-Proto-Oncogene Proteins c-bcl-2 (-biosynthesis; -genetics; +physiology)
+-RNA Interference
+-RNA, Small Interfering (-pharmacology)
+-Ribosomal Proteins (-antagonists & inhibitors; -genetics; +physiology)
+-Tumor Stem Cell Assay
+-Ultraviolet Rays
+
+pii:bcr2350
+doi:10.1186/bcr2350
+pubmed:19671159
+pmc:PMC2750122
+

@@ -1,0 +1,27 @@
+Mol. Cell. Biol.
+
+Nonsense-mediated mRNA decay effectors are essential for zebrafish embryonic development and survival.
+
+N Wittkopp, E Huntzinger, C Weiler, J Saulière, S Schmidt, M Sonawane, E Izaurralde
+
+The nonsense-mediated mRNA decay (NMD) pathway promotes rapid degradation of mRNAs containing premature translation termination codons (PTCs or nonsense codons), preventing accumulation of potentially detrimental truncated proteins. In metazoa, seven genes (upf1, upf2, upf3, smg1, smg5, smg6, and smg7) have been identified as essential for NMD; here we show that the zebrafish genome encodes orthologs of upf1, upf2, smg1, and smg5 to smg7 and two upf3 paralogs. We also show that Upf1 is required for degradation of PTC-containing mRNAs in zebrafish embryos. Moreover, its depletion has a severe impact on embryonic development, early patterning, and viability. Similar phenotypes are observed in Upf2-, Smg5-, or Smg6-depleted embryos, suggesting that zebrafish embryogenesis requires an active NMD pathway. Using cultured cells, we demonstrate that the ability of a PTC to trigger NMD is strongly stimulated by downstream exon-exon boundaries. Thus, as in mammals and plants but in contrast to invertebrates and fungi, NMD is coupled to splicing in zebrafish. Our results together with previous studies show that NMD effectors are essential for vertebrate embryogenesis and suggest that the coupling of splicing and NMD has been maintained in vertebrates but lost in fungi and invertebrates.
+
+-Animals
+-Cells, Cultured
+-Exons
+-Humans
+-Introns
+-Molecular Sequence Data
+-Oligonucleotides, Antisense (-genetics; -metabolism)
+-Phenotype
++RNA Stability
++RNA, Messenger (-genetics; -metabolism)
+-Signal Transduction (-physiology)
+-Zebrafish (+embryology; +genetics; -metabolism)
++Zebrafish Proteins (-genetics; -metabolism)
+
+pii:MCB.00177-09
+doi:10.1128/MCB.00177-09
+pubmed:19414594
+pmc:PMC2698750
+

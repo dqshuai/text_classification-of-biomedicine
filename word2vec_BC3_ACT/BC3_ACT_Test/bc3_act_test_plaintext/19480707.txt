@@ -1,0 +1,23 @@
+BMC Genomics
+
+Large-scale analysis of antisense transcription in wheat using the Affymetrix GeneChip Wheat Genome Array.
+
+TE Coram, ML Settles, X Chen
+
+BACKGROUND: Natural antisense transcripts (NATs) are transcripts of the opposite DNA strand to the sense-strand either at the same locus (cis-encoded) or a different locus (trans-encoded). They can affect gene expression at multiple stages including transcription, RNA processing and transport, and translation. NATs give rise to sense-antisense transcript pairs and the number of these identified has escalated greatly with the availability of DNA sequencing resources and public databases. Traditionally, NATs were identified by the alignment of full-length cDNAs or expressed sequence tags to genome sequences, but an alternative method for large-scale detection of sense-antisense transcript pairs involves the use of microarrays. In this study we developed a novel protocol to assay sense- and antisense-strand transcription on the 55 K Affymetrix GeneChip Wheat Genome Array, which is a 3' in vitro transcription (3'IVT) expression array. We selected five different tissue types for assay to enable maximum discovery, and used the 'Chinese Spring' wheat genotype because most of the wheat GeneChip probe sequences were based on its genomic sequence. This study is the first report of using a 3'IVT expression array to discover the expression of natural sense-antisense transcript pairs, and may be considered as proof-of-concept. RESULTS: By using alternative target preparation schemes, both the sense- and antisense-strand derived transcripts were labeled and hybridized to the Wheat GeneChip. Quality assurance verified that successful hybridization did occur in the antisense-strand assay. A stringent threshold for positive hybridization was applied, which resulted in the identification of 110 sense-antisense transcript pairs, as well as 80 potentially antisense-specific transcripts. Strand-specific RT-PCR validated the microarray observations, and showed that antisense transcription is likely to be tissue specific. For the annotated sense-antisense transcript pairs, analysis of the gene ontology terms showed a significant over-representation of transcripts involved in energy production. These included several representations of ATP synthase, photosystem proteins and RUBISCO, which indicated that photosynthesis is likely to be regulated by antisense transcripts. CONCLUSION: This study demonstrated the novel use of an adapted labeling protocol and a 3'IVT GeneChip array for large-scale identification of antisense transcription in wheat. The results show that antisense transcription is relatively abundant in wheat, and may affect the expression of valuable agronomic phenotypes. Future work should select potentially interesting transcript pairs for further functional characterization to determine biological activity.
+
++Antisense Elements (Genetics)
+-DNA, Complementary (-genetics)
+-Gene Expression Regulation, Plant
++Genome, Plant
+-Genotype
+-Oligonucleotide Array Sequence Analysis (+methods)
+-RNA, Plant (-genetics)
++Transcription, Genetic
+-Triticum (+genetics)
+
+pii:1471-2164-10-253
+doi:10.1186/1471-2164-10-253
+pubmed:19480707
+pmc:PMC2694213
+

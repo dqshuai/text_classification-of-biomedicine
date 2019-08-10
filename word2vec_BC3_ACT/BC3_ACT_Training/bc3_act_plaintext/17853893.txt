@@ -1,0 +1,35 @@
+EMBO J.
+
+Human ESCRT and ALIX proteins interact with proteins of the midbody and function in cytokinesis.
+
+E Morita, V Sandrin, HY Chung, SG Morham, SP Gygi, CK Rodesch, WI Sundquist
+
+TSG101 and ALIX both function in HIV budding and in vesicle formation at the multivesicular body (MVB), where they interact with other Endosomal Sorting Complex Required for Transport (ESCRT) pathway factors required for release of viruses and vesicles. Proteomic analyses revealed that ALIX and TSG101/ESCRT-I also bind a series of proteins involved in cytokinesis, including CEP55, CD2AP, ROCK1, and IQGAP1. ALIX and TSG101 concentrate at centrosomes and are then recruited to the midbodies of dividing cells through direct interactions between the central CEP55 'hinge' region and GPP-based motifs within TSG101 and ALIX. ESCRT-III and VPS4 proteins are also recruited, indicating that much of the ESCRT pathway localizes to the midbody. Depletion of ALIX and TSG101/ESCRT-I inhibits the abscission step of HeLa cell cytokinesis, as does VPS4 overexpression, confirming a requirement for these proteins in cell division. Furthermore, ALIX point mutants that block CEP55 and CHMP4/ESCRT-III binding also inhibit abscission, indicating that both interactions are essential. These experiments suggest that the ESCRT pathway may be recruited to facilitate analogous membrane fission events during HIV budding, MVB vesicle formation, and the abscission stage of cytokinesis.
+
+-Amino Acid Motifs (-physiology)
+-Animals
+-COS Cells
+-Calcium-Binding Proteins (-genetics; +metabolism)
+-Carrier Proteins (-genetics; +metabolism)
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Centrosome (-metabolism)
+-Cercopithecus aethiops
+-Cytokinesis (+physiology)
+-DNA-Binding Proteins (-genetics; +metabolism)
+-Endosomal Sorting Complexes Required for Transport
+-Endosomes (-genetics; -metabolism)
+-HIV (-physiology)
+-Hela Cells
+-Humans
+-Multiprotein Complexes (-genetics; -metabolism)
+-Protein Binding (-physiology)
+-Protein Structure, Tertiary (-physiology)
+-Transcription Factors (-genetics; +metabolism)
+-Virus Assembly (-physiology)
+-Virus Internalization
+
+pii:7601850
+doi:10.1038/sj.emboj.7601850
+pubmed:17853893
+pmc:PMC2230844
+

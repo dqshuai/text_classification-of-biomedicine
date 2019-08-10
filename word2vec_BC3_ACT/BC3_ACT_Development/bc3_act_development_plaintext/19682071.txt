@@ -1,0 +1,26 @@
+FEBS J.
+
+The yeast ubiquitin ligase Rsp5 downregulates the alpha subunit of nascent polypeptide-associated complex Egd2 under stress conditions.
+
+H Hiraishi, T Shimada, I Ohtsu, TA Sato, H Takagi
+
+The ubiquitination and subsequent degradation of stress-induced abnormal proteins are indispensable to cell survival. We previously showed that a yeast (Saccharomyces cerevisiae) mutant carrying a single amino acid change, Ala401Glu, in RSP5, which encodes an essential E3 ubiquitin ligase, is hypersensitive to various stresses. To identify the protein substrates of Rsp5, we performed a comparative proteome analysis of the wild-type and rsp5 mutant strains under stress conditions. The results we obtained indicate that several proteins, including the a-subunit of nascent polypeptide-associated complex (aNAC, Egd2) accumulated in the rsp5 mutant. To investigate whether or not Rsp5 ubiquitinates these proteins in a stress-dependent manner, cell extracts were analyzed by immunoprecipitation followed by western blotting after exposure to temperature upshift. Interestingly, Egd2 was ubiquitinated in the wild-type cells but not in the rsp5 mutant cells under these stress conditions. We also detected in vitro ubiquitination of Egd2 by Rsp5 at elevated temperature. Moreover, Egd2 was ubiquitinated in the egd1 and not4 deletion mutants lacking bNAC and the RING-type ubiquitin ligase Not4, respectively, indicating that ubiquitination of Egd2 is independent of Egd1 and Not4. We also showed that, under stress conditions, Egd2 was mainly degraded via the proteasome pathway. These results strongly suggest that Rsp5 is involved in selective ubiquitination and degradation of stress-induced unstable proteins, such as Egd2.
+
+-Base Sequence
+-DNA-Binding Proteins (-chemistry; +metabolism; -physiology)
+-Down-Regulation
+-Endosomal Sorting Complexes Required for Transport
+-Molecular Sequence Data
+-Protein Subunits
+-Proteome
+-Saccharomyces cerevisiae Proteins (-chemistry; +metabolism; +physiology)
+-Stress, Physiological
+-Transcription Factors (-chemistry; -physiology)
+-Ubiquitin (-metabolism)
+-Ubiquitin-Protein Ligase Complexes (+physiology)
+-Ubiquitin-Protein Ligases (-physiology)
+
+pii:EJB7226
+doi:10.1111/j.1742-4658.2009.07226.x
+pubmed:19682071
+

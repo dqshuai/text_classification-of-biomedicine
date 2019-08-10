@@ -1,0 +1,24 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+The protein factors MBNL1 and U2AF65 bind alternative RNA structures to regulate splicing.
+
+MB Warf, JV Diegel, PH von Hippel, JA Berglund
+
+Myotonic dystrophy type 1 (DM1) is a genetic disorder linked to a (CTG)(n) repeat expansion in the 3' untranslated region of the DMPK gene. Upon transcription in the nucleus, the CUG repeats form a stable RNA stem-loop that sequesters the RNA-binding protein MBNL1 from its normal function in the cell. MBNL1 regulates the alternative splicing of many pre-mRNAs, and upon MBNL1's sequestration, the alternative splicing of many genes is mis-regulated, leading to disease symptoms. MBNL1 is known to bind directly to at least 3 of the pre-mRNAs that it regulates, but how MBNL1 binding mechanistically regulates alternative splicing is unclear. Here, we demonstrate that MBNL1 controls the splicing of exon 5 in the cardiac troponin T (cTNT) pre-mRNA by competing directly with the essential splicing factor U2AF65 for binding at the 3' end of intron 4. When U2AF65 is prevented from binding to the pre-mRNA, the U2 snRNP can no longer be recruited and the following exon is skipped. Furthermore, MBNL1 and U2AF65 appear to compete by binding to mutually exclusive RNA structures. When bound by splicing factors, the 3' end of intron 4 can form either a stem-loop or a single-stranded structure. MBNL1 binds a portion of the intron as a stem-loop, whereas U2AF65 binds the same region in a single-strand structure. Mutations that strengthen the stem-loop decrease U2AF65 binding affinity and also repress exon 5 inclusion, independently of MBNL1. Thus, U2AF65 binding can be blocked either by MBNL1 binding or by the stabilization of RNA secondary structure.
+
+-Base Sequence
+-Humans
+-Introns
+-Molecular Sequence Data
+-Nuclear Proteins (+metabolism)
+-Nucleic Acid Conformation
++RNA Splicing
+-RNA-Binding Proteins (+metabolism)
+-Ribonucleoproteins (+metabolism)
+-Troponin T (-genetics)
+
+pii:0900342106
+doi:10.1073/pnas.0900342106
+pubmed:19470458
+pmc:PMC2695092
+

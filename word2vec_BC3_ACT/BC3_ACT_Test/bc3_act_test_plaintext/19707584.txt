@@ -1,0 +1,17 @@
+PLoS ONE
+
+Modeling the quantitative specificity of DNA-binding proteins from example binding sites.
+
+DS Homsi, V Gupta, GD Stormo
+
+BACKGROUND: The binding of transcription factors to their respective DNA sites is a key component of every regulatory network. Predictions of transcription factor binding sites are usually based on models for transcription factor specificity. These models, in turn, are often based on examples of known binding sites. METHODOLOGY/PRINCIPAL FINDINGS: Collections of binding sites are obtained in simulation experiments where the true model for the transcription factor is known and various sampling procedures are employed. We compare the accuracies of three different and commonly used methods for predicting the specificity of the transcription factor based on example binding sites. Different methods for constructing the models can lead to significant differences in the accuracy of the predictions and we show that commonly used methods can be positively misleading, even at large sample sizes and using noise-free data. Methods that minimize the number of predicted binding sequences are often significantly more accurate than the other methods tested. CONCLUSIONS/SIGNIFICANCE: Different methods for generating motifs from example binding sites can have significantly different numbers of false positive and false negative predictions. For many different sampling procedures models based on quadratic programming are the most accurate.
+
+-Binding Sites
+-DNA-Binding Proteins (+metabolism)
+-Models, Theoretical
+-ROC Curve
+
+doi:10.1371/journal.pone.0006736
+pubmed:19707584
+pmc:PMC2726951
+

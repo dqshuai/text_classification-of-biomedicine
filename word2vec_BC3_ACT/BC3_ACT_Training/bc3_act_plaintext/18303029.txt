@@ -1,0 +1,32 @@
+J. Biol. Chem.
+
+BAF60a interacts with p53 to recruit the SWI/SNF complex.
+
+J Oh, DH Sohn, M Ko, H Chung, SH Jeon, RH Seong
+
+To understand the tumor-suppressing mechanism of the SWI/SNF chromatin remodeling complex, we investigated its molecular relationship with p53. Using the pREP4-luc episomal reporter, we first demonstrated that p53 utilizes the chromatin remodeling activity of the SWI/SNF complex to initiate transcription from the chromatin-structured promoter. Among the components of the SWI/SNF complex, we identified BAF60a as a mediator of the interaction with p53 by the yeast two-hybrid assay. p53 directly interacted only with BAF60a, but not with other components of the SWI/SNF complex, such as BRG1, SRG3, SNF5, or BAF57. We found out that multiple residues at the amino acid 108-150 region of BAF60a were involved in the interaction with the tetramerization domain of p53. The N-terminal fragment of BAF60a containing the p53-interacting region as well as small interfering RNA for baf60a inhibited the SWI/SNF complex-mediated transcriptional activity of p53. The uncoupling of p53 with the SWI/SNF complex resulted in the repression of both p53-dependent apoptosis and cell cycle arrest by the regulation of target genes. These results suggest that the SWI/SNF chromatin remodeling complex is involved in the suppression of tumors by the interaction with p53.
+
+-Amino Acid Sequence
+-Animals
+-Apoptosis (-drug effects)
+-Cell Cycle (-drug effects)
+-Cell Line
+-Chromatin Assembly and Disassembly (-drug effects)
+-Chromosomal Proteins, Non-Histone (-chemistry; -genetics; +metabolism)
+-Down-Regulation (-drug effects)
+-Doxorubicin (-pharmacology)
+-Humans
+-Mice
+-Mutant Proteins (-metabolism)
+-Protein Binding (-drug effects)
+-Protein Interaction Mapping
+-Protein Structure, Tertiary
+-Transcription Factors (+metabolism)
+-Transcription, Genetic (-drug effects)
+-Transduction, Genetic
+-Tumor Suppressor Protein p53 (-chemistry; -genetics; +metabolism)
+
+pii:M705401200
+doi:10.1074/jbc.M705401200
+pubmed:18303029
+

@@ -1,0 +1,20 @@
+BMC Bioinformatics
+
+Modeling heterocyst pattern formation in cyanobacteria.
+
+ZP Gerdtzen, JC Salgado, A Osses, JA Asenjo, I Rapaport, BA Andrews
+
+BACKGROUND: To allow the survival of the population in the absence of nitrogen, some cyanobacteria strains have developed the capability of differentiating into nitrogen fixing cells, forming a characteristic pattern. In this paper, the process by which cyanobacteria differentiates from vegetative cells into heterocysts in the absence of nitrogen and the elements of the gene network involved that allow the formation of such a pattern are investigated. METHODS: A simple gene network model, which represents the complexity of the differentiation process, and the role of all variables involved in this cellular process is proposed. Specific characteristics and details of the system's behavior such as transcript profiles for ntcA, hetR and patS between consecutive heterocysts were studied. RESULTS: The proposed model is able to capture one of the most distinctive features of this system: a characteristic distance of 10 cells between two heterocysts, with a small standard deviation according to experimental variability. The system's response to knock-out and over-expression of patS and hetR was simulated in order to validate the proposed model against experimental observations. In all cases, simulations show good agreement with reported experimental results. CONCLUSION: A simple evolution mathematical model based on the gene network involved in heterocyst differentiation was proposed. The behavior of the biological system naturally emerges from the network and the model is able to capture the spacing pattern observed in heterocyst differentiation, as well as the effect of external perturbations such as nitrogen deprivation, gene knock-out and over-expression without specific parameter fitting.
+
+-Bacterial Proteins (-genetics)
+-Cyanobacteria (+genetics)
++Gene Regulatory Networks
+-Genes, Bacterial
++Models, Genetic
+-Nitrogen Fixation
+
+pii:1471-2105-10-S6-S16
+doi:10.1186/1471-2105-10-S6-S16
+pubmed:19534741
+pmc:PMC2697639
+

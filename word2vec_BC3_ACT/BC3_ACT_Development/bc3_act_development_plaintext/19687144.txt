@@ -1,0 +1,38 @@
+Genome Res.
+
+Allele-specific DNA methylation in mouse strains is mainly determined by cis-acting sequences.
+
+E Schilling, C El Chartouni, M Rehli
+
+DNA methylation is a vital epigenetic mark that participates in establishing and maintaining chromatin structures and regulates gene transcription during mammalian development and cellular differentiation. Differences in epigenetic patterns between individuals may contribute to phenotypic variation and disease susceptibility; however, little is known about the extent of such variation or how different epigenetic patterns are established. Here we have compared DNA methylation profiles of macrophages from two inbred mouse strains (C57BL/6 and BALB/c) at 181 large genomic intervals that were selected based on differential gene expression patterns. Using a DNA methylation-dependent fractionation approach based on a combination of methyl-CpG immunoprecipitation and locus-wide tiling arrays, we identified several hundred differentially methylated regions, and simultaneously uncovered previously unrecognized genetic variability between both mouse strains at the studied loci. DNA sequence and methylation differences were validated by DNA sequencing and mass spectrometry analysis of bisulfite-treated DNA for a subset of regions. Importantly, we show that in F1 hybrids, the majority of strain-specific methylation patterns in somatic cells were maintained on the parental allele, regardless of their status in the male germ line. The common association of differentially methylated regions with sequence polymorphisms suggests that the genomic context determines the developmentally regulated epigenetic status at most nonimprinted regions of mammalian genomes.
+
++Alleles
+-Animals
+-Base Sequence
+-Bone Marrow Cells (-cytology; -metabolism)
+-Cells, Cultured
+-CpG Islands (-genetics)
++DNA Methylation
+-Epigenesis, Genetic
+-Gene Expression Profiling
+-Genetic Variation
+-Genomics (+methods)
+-Macrophages (-cytology; +metabolism)
+-Male
+-Mice
+-Mice, Inbred BALB C
+-Mice, Inbred C57BL
+-Molecular Sequence Data
+-Oligonucleotide Array Sequence Analysis (-methods)
+-Polymorphism, Genetic
+-Regulatory Sequences, Nucleic Acid (-genetics)
+-Sequence Analysis, DNA
+-Sequence Homology, Nucleic Acid
+-Species Specificity
+-Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization
+
+pii:gr.095562.109
+doi:10.1101/gr.095562.109
+pubmed:19687144
+pmc:PMC2775599
+

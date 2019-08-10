@@ -1,0 +1,22 @@
+Nucleic Acids Res.
+
+FASTR3D: a fast and accurate search tool for similar RNA 3D structures.
+
+CE Lai, MY Tsai, YC Liu, CW Wang, KT Chen, CL Lu
+
+FASTR3D is a web-based search tool that allows the user to fast and accurately search the PDB database for structurally similar RNAs. Currently, it allows the user to input three types of queries: (i) a PDB code of an RNA tertiary structure (default), optionally with specified residue range, (ii) an RNA secondary structure, optionally with primary sequence, in the dot-bracket notation and (iii) an RNA primary sequence in the FASTA format. In addition, the user can run FASTR3D with specifying additional filtering options: (i) the released date of RNA structures in the PDB database, and (ii) the experimental methods used to determine RNA structures and their least resolutions. In the output page, FASTR3D will show the user-queried RNA molecule, as well as user-specified options, followed by a detailed list of identified structurally similar RNAs. Particularly, when queried with RNA tertiary structures, FASTR3D provides a graphical display to show the structural superposition of the query structure and each of identified structures. FASTR3D is now available online at http://bioalgorithm.life.nctu.edu.tw/FASTR3D/.
+
+-Computer Graphics
+-Databases, Genetic
+-Models, Molecular
+-Nucleic Acid Conformation
+-RNA (+chemistry)
+-RNA, Untranslated (-chemistry)
++Software
+-User-Computer Interface
+
+pii:gkp330
+doi:10.1093/nar/gkp330
+pubmed:19435878
+pmc:PMC2703968
+

@@ -1,0 +1,24 @@
+FEBS J.
+
+Design and humanization of a murine scFv that blocks human platelet glycoprotein VI in vitro.
+
+J Muzard, M Bouabdelli, M Zahid, V Ollivier, JJ Lacapère, M Jandrot-Perrus, P Billiald
+
+Platelet adhesion and aggregation at the site of vascular injury is essential for hemostasis, but can also lead to arterial occlusion in thrombotic disorders. Glycoprotein (GP) VI is the major platelet membrane receptor that interacts directly with collagen, the most thrombogenic compound in the blood vessels. GPVI could therefore be a major therapeutic target. Fab fragments of the anti-GPVI murine monoclonal IgG 9O12 have previously been shown to completely block collagen-induced platelet aggregation, to inhibit the procoagulant activity of collagen-stimulated platelets, and to prevent thrombus formation under arterial flow conditions without significantly prolonging the bleeding time. Here, we engineered recombinant scFvs that preserve the functional properties of 9O12, and could constitute building blocks for designing new compounds with potentially therapeutic antithrombotic properties. First, the 9O12 variable domains were cloned, sequenced, and expressed as a recombinant murine scFv, which was fully characterized. This scFv preserved all the characteristics that make 9O12 Fab potentially useful for therapeutic applications, including its high affinity for GPVI, ability to inhibit platelet adhesion, and aggregation with collagen under arterial flow conditions. A humanized version of this scFv was also designed after complementarity-determining region grafting and structural refinements using homology-based modeling. The final product was produced in recombinant bacteria. It retained GPVI-binding specificity and high affinity, which are the main parameters usually impaired by humanization procedures. This is a simple, efficient and straightforward method that could also be used for humanizing other antibodies.
+
+-Animals
+-Chromatography, Gel
+-Humans
+-Immunoglobulin Fab Fragments (-genetics; +pharmacology)
+-Kinetics
+-Mice
+-Platelet Adhesiveness (-drug effects)
+-Platelet Aggregation (-drug effects)
+-Platelet Membrane Glycoproteins (+antagonists & inhibitors; -genetics; -metabolism)
+-Proto-Oncogene Proteins c-myc (-chemistry; -metabolism)
+-Sequence Tagged Sites
+
+pii:EJB7129
+doi:10.1111/j.1742-4658.2009.07129.x
+pubmed:19558491
+

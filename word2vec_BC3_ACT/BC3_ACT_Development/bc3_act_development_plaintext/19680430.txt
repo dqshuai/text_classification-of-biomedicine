@@ -1,0 +1,26 @@
+PLoS Genet.
+
+The CUGBP2 splicing factor regulates an ensemble of branchpoints from perimeter binding sites with implications for autoregulation.
+
+JA Dembowski, PJ Grabowski
+
+Alternative pre-mRNA splicing adjusts the transcriptional output of the genome by generating related mRNAs from a single primary transcript, thereby expanding protein diversity. A fundamental unanswered question is how splicing factors achieve specificity in the selection of target substrates despite the recognition of information-poor sequence motifs. The CUGBP2 splicing regulator plays a key role in the brain region-specific silencing of the NI exon of the NMDA R1 receptor. However, the sequence motifs utilized by this factor for specific target exon selection and its role in splicing silencing are not understood. Here, we use chemical modification footprinting to map the contact sites of CUGBP2 to GU-rich motifs closely positioned at the boundaries of the branch sites of the NI exon, and we demonstrate a mechanistic role for this specific arrangement of motifs for the regulation of branchpoint formation. General support for a branch site-perimeter-binding model is indicated by the identification of a group of novel target exons with a similar configuration of motifs that are silenced by CUGBP2. These results reveal an autoregulatory role for CUGBP2 as indicated by its direct interaction with functionally significant RNA motifs surrounding the branch sites upstream of exon 6 of the CUGBP2 transcript itself. The perimeter-binding model explains how CUGBP2 can effectively embrace the branch site region to achieve the specificity needed for the selection of exon targets and the fine-tuning of alternative splicing patterns.
+
++Alternative Splicing
+-Animals
+-Base Sequence
+-Cell Line
+-Exons
++Gene Expression Regulation
+-Humans
+-Mice
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-Protein Binding
+-RNA Precursors (-chemistry; +genetics; -metabolism)
+-RNA-Binding Proteins (-chemistry; +genetics; +metabolism)
+
+doi:10.1371/journal.pgen.1000595
+pubmed:19680430
+pmc:PMC2715136
+

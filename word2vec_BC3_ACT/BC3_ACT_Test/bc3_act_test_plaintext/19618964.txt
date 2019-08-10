@@ -1,0 +1,29 @@
+Biochemistry
+
+The amino acid motif L/IIxxFE defines a novel actin-binding sequence in PDZ-RhoGEF.
+
+J Banerjee, CC Fischer, PB Wedegaertner
+
+PDZ-RhoGEF is a member of the regulator family of G protein signaling (RGS) domain-containing RhoGEFs (RGS-RhoGEFs) that link activated heterotrimeric G protein alpha subunits of the G12 family to activation of the small GTPase RhoA. Unique among the RGS-RhoGEFs, PDZ-RhoGEF contains a short sequence that localizes the protein to the actin cytoskeleton. In this report, we demonstrate that the actin-binding domain, located between amino acids 561 and 585, directly binds to F-actin in vitro. Extensive mutagenesis identifies isoleucine 568, isoleucine 569, phenylalanine 572, and glutamic acid 573 as being necessary for binding to actin and for colocalization with the actin cytoskeleton in cells. These results define a novel actin-binding sequence in PDZ-RhoGEF with a critical amino acid motif of IIxxFE. Moreover, sequence analysis identifies a similar actin-binding motif in the N-terminus of the RhoGEF frabin, and as with PDZ-RhoGEF, mutagenesis and actin interaction experiments demonstrate an LIxxFE motif, consisting of the key amino acids leucine 23, isoleucine 24, phenylalanine 27, and glutamic acid 28. Taken together, results with PDZ-RhoGEF and frabin identify a novel actin-binding sequence. Lastly, inducible dimerization of the actin-binding region of PDZ-RhoGEF revealed a dimerization-dependent actin bundling activity in vitro. PDZ-RhoGEF exists in cells as a dimer, raising the possibility that PDZ-RhoGEF could influence actin structure in a manner independent of its ability to activate RhoA.
+
+-Actins (+chemistry; +metabolism)
+-Amino Acid Motifs (-genetics)
+-Amino Acid Sequence
+-Animals
+-COS Cells
+-Cercopithecus aethiops
+-Conserved Sequence
+-Dimerization
+-Guanine Nucleotide Exchange Factors (+chemistry; -genetics; +metabolism)
+-Mice
+-Microfilament Proteins (+chemistry; -genetics; +metabolism)
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Zebrafish Proteins (-chemistry; -metabolism)
+-rhoA GTP-Binding Protein (-metabolism)
+
+doi:10.1021/bi9010013
+pubmed:19618964
+mid:NIHMS135253
+pmc:PMC2728795
+

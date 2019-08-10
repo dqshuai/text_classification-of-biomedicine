@@ -1,0 +1,17 @@
+PLoS ONE
+
+SlimPLS: a method for feature selection in gene expression-based disease classification.
+
+M Gutkin, R Shamir, G Dror
+
+A major challenge in biomedical studies in recent years has been the classification of gene expression profiles into categories, such as cases and controls. This is done by first training a classifier by using a labeled training set containing labeled samples from the two populations, and then using that classifier to predict the labels of new samples. Such predictions have recently been shown to improve the diagnosis and treatment selection practices for several diseases. This procedure is complicated, however, by the high dimensionality if the data. While microarrays can measure the levels of thousands of genes per sample, case-control microarray studies usually involve no more than several dozen samples. Standard classifiers do not work well in these situations where the number of features (gene expression levels measured in these microarrays) far exceeds the number of samples. Selecting only the features that are most relevant for discriminating between the two categories can help construct better classifiers, in terms of both accuracy and efficiency. In this work we developed a novel method for multivariate feature selection based on the Partial Least Squares algorithm. We compared the method's variants with common feature selection techniques across a large number of real case-control datasets, using several classifiers. We demonstrate the advantages of the method and the preferable combinations of classifier and feature selection technique.
+
+-Disease (+classification)
++Gene Expression Profiling
+-Humans
+-Multivariate Analysis
+
+doi:10.1371/journal.pone.0006416
+pubmed:19649265
+pmc:PMC2715895
+

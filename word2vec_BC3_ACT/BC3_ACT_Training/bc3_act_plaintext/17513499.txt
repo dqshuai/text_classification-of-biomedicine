@@ -1,0 +1,35 @@
+Plant Cell
+
+NUCLEAR PORE ANCHOR, the Arabidopsis homolog of Tpr/Mlp1/Mlp2/megator, is involved in mRNA export and SUMO homeostasis and affects diverse aspects of plant development.
+
+XM Xu, A Rose, S Muthuswamy, SY Jeong, S Venkatakrishnan, Q Zhao, I Meier
+
+Vertebrate Tpr and its yeast homologs Mlp1/Mlp2, long coiled-coil proteins of nuclear pore inner basket filaments, are involved in mRNA export, telomere organization, spindle pole assembly, and unspliced RNA retention. We identified Arabidopsis thaliana NUCLEAR PORE ANCHOR (NUA) encoding a 237-kD protein with similarity to Tpr. NUA is located at the inner surface of the nuclear envelope in interphase and in the vicinity of the spindle in prometaphase. Four T-DNA insertion lines were characterized, which comprise an allelic series of increasing severity for several correlating phenotypes, such as early flowering under short days and long days, increased abundance of SUMO conjugates, altered expression of several flowering regulators, and nuclear accumulation of poly(A)+ RNA. nua mutants phenocopy mutants of EARLY IN SHORT DAYS4 (ESD4), an Arabidopsis SUMO protease concentrated at the nuclear periphery. nua esd4 double mutants resemble nua and esd4 single mutants, suggesting that the two proteins act in the same pathway or complex, supported by yeast two-hybrid interaction. Our data indicate that NUA is a component of nuclear pore-associated steps of sumoylation and mRNA export in plants and that defects in these processes affect the signaling events of flowering time regulation and additional developmental processes.
+
+-Alleles
+-Arabidopsis (-cytology; -genetics; +growth & development; -metabolism)
+-Arabidopsis Proteins (+metabolism)
+-DNA, Bacterial
+-Flowers (-physiology)
+-Gene Expression Regulation, Plant
+-Green Fluorescent Proteins (-metabolism)
++Homeostasis
+-Molecular Sequence Data
+-Mutagenesis, Insertional
+-Nuclear Matrix-Associated Proteins (+chemistry)
+-Nuclear Pore Complex Proteins (+metabolism)
+-Phenotype
+-Photoperiod
+-Poly A (-metabolism)
+-Protein Transport
++RNA Transport
+-RNA, Messenger (-genetics; -metabolism)
++Sequence Homology, Amino Acid
+-Small Ubiquitin-Related Modifier Proteins (+metabolism)
+-Subcellular Fractions (-metabolism)
+
+pii:tpc.106.049239
+doi:10.1105/tpc.106.049239
+pubmed:17513499
+pmc:PMC1913724
+

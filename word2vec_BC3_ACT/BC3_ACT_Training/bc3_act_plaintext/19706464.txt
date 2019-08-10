@@ -1,0 +1,24 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Src family protein tyrosine kinase (PTK) modulates the effect of SGK1 and WNK4 on ROMK channels.
+
+P Yue, DH Lin, CY Pan, Q Leng, G Giebisch, RP Lifton, WH Wang
+
+WNK4 (with no lysine kinase 4) inhibits ROMK channel activity in the distal nephron by stimulating clathrin-dependent endocytosis, an effect attenuated by SGK1 (serum-glucocorticoids-induced kinase)-mediated phosphorylation. It has been suggested that increased ROMK activity because of SGK1-mediated inhibition of WNK4 plays a role in promoting renal K secretion in response to elevated serum K or high K (HK) intake. In contrast, intravascular volume depletion also increases SGK1 activity but fails to stimulate ROMK channels and K secretion. Because HK intake decreases Src family protein tyrosine kinase (PTK) activity an inhibitor of ROMK channels, it is possible that Src family PTK may modulate the effects of SGK1 on WNK4. Here, we show that c-Src prevents SGK1 from attenuating WNK4's inhibition of ROMK activity. This effect of c-Src was WNK4-dependent because c-Src had no effect on ROMK harboring mutation at the site of c-Src phosphorylation (R1Y337A) in the absence of WNK4. Moreover, expression c-Src diminished the SGK1-mediated increase in serine phosphorylation of WNK4, suggesting that c-Src enhances WNK4-mediated inhibition of ROMK channels by suppressing the SGK1-induced phosphorylation. This notion is also supported by the observation that c-Src was not able to modulate the interaction between SGK1 and WNK4 mutants (WNK4(S1169A) or WNK4(S1169D)) in which an SGK1-phosphorylation site (serine 1169) was mutated by alanine or aspartate. We conclude that c-Src inhibits SGK1-mediated phosphorylation hereby restoring the WNK4-mediated inhibition of ROMK channels thus suppressing K secretion.
+
+-Cell Line
+-Electrophysiological Phenomena
+-Humans
+-Immediate-Early Proteins (+metabolism)
+-Patch-Clamp Techniques
+-Phosphoserine (-metabolism)
+-Potassium Channels, Inwardly Rectifying (-genetics; +metabolism)
+-Protein Binding
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-src-Family Kinases (+metabolism)
+
+pii:0907855106
+doi:10.1073/pnas.0907855106
+pubmed:19706464
+pmc:PMC2736404
+

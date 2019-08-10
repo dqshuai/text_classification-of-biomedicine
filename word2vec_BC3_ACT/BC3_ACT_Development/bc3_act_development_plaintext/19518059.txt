@@ -1,0 +1,27 @@
+Biochemistry
+
+Annotating enzymes of uncertain function: the deacylation of D-amino acids by members of the amidohydrolase superfamily.
+
+JA Cummings, AA Fedorov, C Xu, S Brown, E Fedorov, PC Babbitt, SC Almo, FM Raushel
+
+The catalytic activities of three members of the amidohydrolase superfamily were discovered using amino acid substrate libraries. Bb3285 from Bordetella bronchiseptica, Gox1177 from Gluconobacter oxidans, and Sco4986 from Streptomyces coelicolor are currently annotated as d-aminoacylases or N-acetyl-d-glutamate deacetylases. These three enzymes are 22-34% identical to one another in amino acid sequence. Substrate libraries containing nearly all combinations of N-formyl-d-Xaa, N-acetyl-d-Xaa, N-succinyl-d-Xaa, and l-Xaa-d-Xaa were used to establish the substrate profiles for these enzymes. It was demonstrated that Bb3285 is restricted to the hydrolysis of N-acyl-substituted derivatives of d-glutamate. The best substrates for this enzyme are N-formyl-d-glutamate (k(cat)/K(m) = 5.8 x 10(6) M(-1) s(-1)), N-acetyl-d-glutamate (k(cat)/K(m) = 5.2 x 10(6) M(-1) s(-1)), and l-methionine-d-glutamate (k(cat)/K(m) = 3.4 x 10(5) M(-1) s(-1)). Gox1177 and Sco4986 preferentially hydrolyze N-acyl-substituted derivatives of hydrophobic d-amino acids. The best substrates for Gox1177 are N-acetyl-d-leucine (k(cat)/K(m) = 3.2 x 10(4) M(-1) s(-1)), N-acetyl-d-tryptophan (k(cat)/K(m) = 4.1 x 10(4) M(-1) s(-1)), and l-tyrosine-d-leucine (k(cat)/K(m) = 1.5 x 10(4) M(-1) s(-1)). A fourth protein, Bb2785 from B. bronchiseptica, did not have d-aminoacylase activity. The best substrates for Sco4986 are N-acetyl-d-phenylalanine and N-acetyl-d-tryptophan. The three-dimensional structures of Bb3285 in the presence of the product acetate or a potent mimic of the tetrahedral intermediate were determined by X-ray diffraction methods. The side chain of the d-glutamate moiety of the inhibitor is ion-paired to Arg-295, while the alpha-carboxylate is ion-paired with Lys-250 and Arg-376. These results have revealed the chemical and structural determinants for substrate specificity in this protein. Bioinformatic analyses of an additional approximately 250 sequences identified as members of this group suggest that there are no simple motifs that allow prediction of substrate specificity for most of these unknowns, highlighting the challenges for computational annotation of some groups of homologous proteins.
+
+-Acylation
+-Amino Acid Sequence
+-Amino Acids (-chemistry; +metabolism)
+-Aminohydrolases (-genetics; +metabolism)
+-Base Sequence
+-Biocatalysis
+-DNA Primers
+-Kinetics
+-Molecular Sequence Data
+-Protein Conformation
+-Sequence Homology, Amino Acid
+-Substrate Specificity
+-X-Ray Diffraction
+
+doi:10.1021/bi900661b
+pubmed:19518059
+mid:NIHMS132557
+pmc:PMC2748305
+

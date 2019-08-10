@@ -1,0 +1,27 @@
+PLoS ONE
+
+Identification of an endogenous ligand bound to a native orphan nuclear receptor.
+
+X Yuan, TC Ta, M Lin, JR Evans, Y Dong, E Bolotin, MA Sherman, BM Forman, FM Sladek
+
+Orphan nuclear receptors have been instrumental in identifying novel signaling pathways and therapeutic targets. However, identification of ligands for these receptors has often been based on random compound screens or other biased approaches. As a result, it remains unclear in many cases if the reported ligands are the true endogenous ligands,--i.e., the ligand that is bound to the receptor in an unperturbed in vivo setting. Technical limitations have limited our ability to identify ligands based on this rigorous definition. The orphan receptor hepatocyte nuclear factor 4 alpha (HNF4alpha) is a key regulator of many metabolic pathways and linked to several diseases including diabetes, atherosclerosis, hemophilia and cancer. Here we utilize an affinity isolation/mass-spectrometry (AIMS) approach to demonstrate that HNF4alpha is selectively occupied by linoleic acid (LA, C18:2omega6) in mammalian cells and in the liver of fed mice. Receptor occupancy is dramatically reduced in the fasted state and in a receptor carrying a mutation derived from patients with Maturity Onset Diabetes of the Young 1 (MODY1). Interestingly, however, ligand occupancy does not appear to have a significant effect on HNF4alpha transcriptional activity, as evidenced by genome-wide expression profiling in cells derived from human colon. We also use AIMS to show that LA binding is reversible in intact cells, indicating that HNF4alpha could be a viable drug target. This study establishes a general method to identify true endogenous ligands for nuclear receptors (and other lipid binding proteins), independent of transcriptional function, and to track in vivo receptor occupancy under physiologically relevant conditions.
+
+-Animals
+-COS Cells
+-Cercopithecus aethiops
+-Electrophoretic Mobility Shift Assay
+-Gene Expression Profiling
+-Hepatocyte Nuclear Factor 4 (+metabolism)
+-Linoleic Acid (+metabolism)
+-Male
+-Mass Spectrometry
+-Mice
+-Mice, Inbred C57BL
+-Polymerase Chain Reaction
+-Protein Binding (-physiology)
+-Rats
+
+doi:10.1371/journal.pone.0005609
+pubmed:19440305
+pmc:PMC2680617
+

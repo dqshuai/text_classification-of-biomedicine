@@ -1,0 +1,25 @@
+Oncogene
+
+Sonic hedgehog paracrine signaling regulates metastasis and lymphangiogenesis in pancreatic cancer.
+
+JM Bailey, AM Mohr, MA Hollingsworth
+
+Sonic hedgehog (SHH) expression is tightly regulated throughout development. In the adult, aberrant expression of SHH is associated with the onset and progression of pancreatic cancer, as evidenced by increased levels of expression in premalignant and malignant lesions of the pancreas. We investigated the hypothesis that SHH, secreted from pancreatic tumors, functions in a paracrine manner to influence the biological condition of mesenchymal and endothelial cells. Orthotopic implantation of a pancreatic tumor cell line expressing SHH (Capan-2) and a transformed primary cell line that overexpresses SHH (T-HPNE.SHH) were used to show that overexpression of SHH increased primary tumor size and metastasis. Treatment with a neutralizing antibody, 5E1, decreased primary tumor volume and inhibited metastasis. Lyve-1+ vessels and stromal fibroblasts in tumors expressed primary cilium and showed localization of the receptor Smoothened to the primary cilium, providing evidence of active SHH signaling through this pathway. Although primary cilia are present on normal ductal cells of the pancreas, we did not observe primary cilium on the ductal tumor cells, suggesting decreased autocrine signaling through pathways mediated by the primary cilium in pancreatic cancer. These data support the hypothesis that SHH, secreted from pancreatic epithelia, is critical in establishing and regulating the tumor microenvironment and thereby contributes to progression of pancreatic cancer.
+
+-Animals
+-Cell Line, Tumor
+-Cell Proliferation
+-Hedgehog Proteins (+physiology)
+-Humans
++Lymphangiogenesis
+-Mice
+-Pancreatic Neoplasms (+pathology)
++Paracrine Communication
+-Stromal Cells (-physiology)
+
+pii:onc2009220
+doi:10.1038/onc.2009.220
+pubmed:19633682
+mid:NIHMS154976
+pmc:PMC2910592
+

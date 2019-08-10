@@ -1,0 +1,25 @@
+Nucleic Acids Res.
+
+SePreSA: a server for the prediction of populations susceptible to serious adverse drug reactions implementing the methodology of a chemical-protein interactome.
+
+L Yang, H Luo, J Chen, Q Xing, L He
+
+Serious adverse drug reactions (SADRs) are caused by unexpected drug-human protein interactions, and some polymorphisms within binding pockets make the population carrying these polymorphisms susceptible to SADR. Predicting which populations are likely to be susceptible to SADR will not only strengthen drug safety, but will also assist enterprises to adjust R&D and marketing strategies. Making such predictions has recently been facilitated by the introduction of a web server named SePreSA. The server has a comprehensive collection of the structural models of nearly all the well known SADR targets. Once a drug molecule is submitted, the scale of its potential interaction with multi-SADR targets is calculated using the DOCK program. The server utilizes a 2-directional Z-transformation scoring algorithm, which computes the relative drug-protein interaction strength based on the docking-score matrix of a chemical-protein interactome, thus achieve greater accuracy in prioritizing SADR targets than simply using dock scoring functions. The server also suggests the binding pattern of the lowest docking score through 3D visualization, by highlighting and visualizing amino acid residues involved in the binding on the customer's browser. Polymorphism information for different populations for each of the interactive residues will be displayed, helping users to deduce the population-specific susceptibility of their drug molecule. The server is freely available at http://SePreSA.Bio-X.cn/.
+
+-Algorithms
+-Binding Sites
+-Drug Toxicity (+genetics)
+-Humans
+-Models, Molecular
+-Pharmaceutical Preparations (+chemistry)
++Polymorphism, Genetic
+-Protein Conformation
+-Proteins (-chemistry; +genetics)
++Software
+-User-Computer Interface
+
+pii:gkp312
+doi:10.1093/nar/gkp312
+pubmed:19417066
+pmc:PMC2703957
+

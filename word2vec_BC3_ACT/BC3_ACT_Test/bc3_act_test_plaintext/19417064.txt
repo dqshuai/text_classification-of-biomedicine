@@ -1,0 +1,22 @@
+Nucleic Acids Res.
+
+Comprehensive prediction of novel microRNA targets in Arabidopsis thaliana.
+
+L Alves, S Niemeier, A Hauenschild, M Rehmsmeier, T Merkle
+
+MicroRNAs (miRNAs) are 20-24 nt long endogenous non-coding RNAs that act as post-transcriptional regulators in metazoa and plants. Plant miRNA targets typically contain a single sequence motif with near-perfect complementarity to the miRNA. Here, we extended and applied the program RNAhybrid to identify novel miRNA targets in the complete annotated Arabidopsis thaliana transcriptome. RNAhybrid predicts the energetically most favorable miRNA:mRNA hybrids that are consistent with user-defined structural constraints. These were: (i) perfect base pairing of the duplex from nucleotide 8 to 12 counting from the 5'-end of the miRNA; (ii) loops with a maximum length of one nucleotide in either strand; (iii) bulges with no more than one nucleotide in size; and (iv) unpaired end overhangs not longer than two nucleotides. G:U base pairs are not treated as mismatches, but contribute less favorable to the overall free energy. The resulting hybrids were filtered according to their minimum free energy, resulting in an overall prediction of more than 600 novel miRNA targets. The specificity and signal-to-noise ratio of the prediction was assessed with either randomized miRNAs or randomized target sequences as negative controls. Our results are in line with recent observations that the majority of miRNA targets are not transcription factors.
+
+-Arabidopsis (+genetics; -metabolism)
+-Arabidopsis Proteins (-genetics)
+-Gene Expression Profiling
+-Gene Expression Regulation, Plant
+-MicroRNAs (+chemistry)
+-RNA, Messenger (+chemistry)
+-RNA, Plant (+chemistry)
+-Software
+
+pii:gkp272
+doi:10.1093/nar/gkp272
+pubmed:19417064
+pmc:PMC2709567
+

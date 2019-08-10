@@ -1,0 +1,29 @@
+J. Virol.
+
+The paramyxoviruses simian virus 5 and mumps virus recruit host cell CD46 to evade complement-mediated neutralization.
+
+JB Johnson, K Grant, GD Parks
+
+The complement system is a critical component of the innate immune response that all animal viruses must face during natural infections. Our previous results have shown that treatment of the paramyxovirus simian virus 5 (SV5) with human serum results in deposition of complement C3-derived polypeptides on virion particles. Here, we show that the virion-associated C3 component includes the inactive form iC3b, suggesting that SV5 may have mechanisms to evade the host complement system. Electron microscopy, gradient centrifugation, and Western blot analysis indicated that purified SV5 virions derived from human A549 cells contained CD46, a plasma membrane-expressed regulator of complement that acts as a cofactor for cleavage and inactivation of C3b into iC3b. In vitro cleavage assays with purified complement components showed that SV5 virions had C3b cofactor activity, resulting in specific factor I-mediated cleavage of C3b into inactive iC3b. SV5 particles generated in CHO cells, which do not express CD46, did not have cofactor activity. Conversely, virions derived from a CHO cell line that was engineered to overexpress human CD46 contained elevated levels of virion-associated CD46 and displayed enhanced C3b cofactor activity. In comparison with C3b, purified SV5 virions had very low cofactor activity against C4b, consistent with the known preference of CD46 for C3b versus C4b. Similar results were obtained for the closely related mumps virus (MuV), except that MuV particles derived from CHO-CD46 cells had higher C4b cofactor activity than SV5 virions. In neutralization assays with human serum, SV5 and MuV containing CD46 showed slower kinetics and more resistance to neutralization than SV5 and MuV that lacked CD46. Our results support a model in which the rubulaviruses SV5 and MuV incorporate cell surface complement inhibitors into progeny virions as a mechanism to limit complement-mediated neutralization.
+
+-Animals
+-Antigens, CD46 (+immunology)
+-CHO Cells
+-Cell Line
+-Complement Activation
+-Complement C3b (+immunology)
+-Complement C4b (-immunology)
+-Cricetinae
+-Cricetulus
+-Humans
+-Mumps (+immunology; -virology)
+-Mumps virus (+immunology)
+-Neutralization Tests
+-Rubulavirus Infections (+immunology; -virology)
+-Simian virus 5 (+immunology)
+
+pii:JVI.00713-09
+doi:10.1128/JVI.00713-09
+pubmed:19457998
+pmc:PMC2708606
+

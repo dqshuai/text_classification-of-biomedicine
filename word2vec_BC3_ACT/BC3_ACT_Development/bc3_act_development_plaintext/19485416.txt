@@ -1,0 +1,26 @@
+Biochemistry
+
+A CA(+) pair adjacent to a sheared GA or AA pair stabilizes size-symmetric RNA internal loops.
+
+G Chen, SD Kennedy, DH Turner
+
+RNA internal loops are often important sites for folding and function. Residues in internal loops can have pKa values shifted close to neutral pH because of the local structural environment. A series of RNA internal loops were studied at different pH by UV absorbance versus temperature melting experiments and imino proton nuclear magnetic resonance (NMR). A stabilizing CA pair forms at pH 7 in the CG/AA and CA/AA nearest neighbors when the CA pair is the first noncanonical pair (loop-terminal pair) in 3 x 3 nucleotide and larger size-symmetric internal loops. These CG/AA and CA/AA nearest neighbors, with CA adjacent to a closing Watson-Crick pair, are further stabilized when the pH is lowered from 7 to 5.5. The results are consistent with a significantly larger fraction (from approximately 20% at pH 7 to approximately 90% at pH 5.5) of adenines being protonated at the N1 position to form stabilizing wobble CA+ pairs adjacent to a sheared GA or AA pair. The noncanonical pair adjacent to the GA pair in CG/AA can either stabilize or destabilize the loop, consistent with the sequence-dependent thermodynamics of GA pairs. No significant pH-dependent stabilization is found for most of the other nearest neighbor combinations involving CA pairs (e.g., CA/AG and AG/CA), which is consistent with the formation of various nonwobble pairs observed in different local sequence contexts in crystal and NMR structures. A revised free-energy model, including stabilization by wobble CA+ pairs, is derived for predicting stabilities of medium-size RNA internal loops.
+
+-Adenine (+chemistry)
+-Base Pairing
+-Base Sequence
+-Cytosine (+chemistry)
+-Guanine (+chemistry)
+-Hydrogen-Ion Concentration
+-Magnetic Resonance Spectroscopy
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-Oligonucleotides (-chemistry; -metabolism)
+-RNA (+chemistry; -metabolism)
+-RNA Stability
+-Thermodynamics
+
+doi:10.1021/bi8019405
+pubmed:19485416
+pmc:PMC2697601
+

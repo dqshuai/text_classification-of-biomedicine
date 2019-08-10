@@ -1,0 +1,35 @@
+PLoS ONE
+
+Customized treatment in non-small-cell lung cancer based on EGFR mutations and BRCA1 mRNA expression.
+
+R Rosell, L Perez-Roca, JJ Sanchez, M Cobo, T Moran, I Chaib, M Provencio, M Domine, MA Sala, U Jimenez, P Diz, I Barneto, JA Macias, R de Las Peñas, S Catot, D Isla, JM Sanchez, R Ibeas, G Lopez-Vivanco, J Oramas, P Mendez, N Reguart, R Blanco, M Taron
+
+BACKGROUND: Median survival is 10 months and 2-year survival is 20% in metastatic non-small-cell lung cancer (NSCLC) treated with platinum-based chemotherapy. A small fraction of non-squamous cell lung cancers harbor EGFR mutations, with improved outcome to gefitinib and erlotinib. Experimental evidence suggests that BRCA1 overexpression enhances sensitivity to docetaxel and resistance to cisplatin. RAP80 and Abraxas are interacting proteins that form complexes with BRCA1 and could modulate the effect of BRCA1. In order to further examine the effect of EGFR mutations and BRCA1 mRNA levels on outcome in advanced NSCLC, we performed a prospective non-randomized phase II clinical trial, testing the hypothesis that customized therapy would confer improved outcome over non-customized therapy. In an exploratory analysis, we also examined the effect of RAP80 and Abraxas mRNA levels. METHODOLOGY/PRINCIPAL FINDINGS: We treated 123 metastatic non-squamous cell lung carcinoma patients using a customized approach. RNA and DNA were isolated from microdissected specimens from paraffin-embedded tumor tissue. Patients with EGFR mutations received erlotinib, and those without EGFR mutations received chemotherapy with or without cisplatin based on their BRCA1 mRNA levels: low, cisplatin plus gemcitabine; intermediate, cisplatin plus docetaxel; high, docetaxel alone. An exploratory analysis examined RAP80 and Abraxas expression. Median survival exceeded 28 months for 12 patients with EGFR mutations, and was 11 months for 38 patients with low BRCA1, 9 months for 40 patients with intermediate BRCA1, and 11 months for 33 patients with high BRCA1. Two-year survival was 73.3%, 41.2%, 15.6% and 0%, respectively. Median survival was influenced by RAP80 expression in the three BRCA1 groups. For example, for patients with both low BRCA1 and low RAP80, median survival exceeded 26 months. RAP80 was a significant factor for survival in patients treated according to BRCA1 levels (hazard ratio, 1.3 [95% CI, 1-1.7]; P = 0.05). CONCLUSIONS/SIGNIFICANCE: Chemotherapy customized according to BRCA1 expression levels is associated with excellent median and 2-year survival for some subsets of NSCLC patients , and RAP80 could play a crucial modulating effect on this model of customized chemotherapy. TRIAL REGISTRATION: (ClinicalTrials.gov) NCT00883480.
+
+-Adult
+-Aged
+-BRCA1 Protein (+genetics)
+-Carcinoma, Non-Small-Cell Lung (+drug therapy; +genetics; -mortality)
+-Carrier Proteins (+genetics)
+-Cisplatin (-administration & dosage)
+-Deoxycytidine (-administration & dosage; -analogs & derivatives)
+-Drug Dosage Calculations
+-Drug Resistance, Neoplasm (-genetics)
+-Female
+-Humans
+-Male
+-Middle Aged
++Mutation
+-Nuclear Proteins (+genetics)
+-Pharmacogenetics (+methods)
+-RNA, Messenger (-analysis)
+-RNA, Neoplasm (-analysis)
+-Receptor, Epidermal Growth Factor (+genetics)
+-Survival Rate
+-Taxoids (-administration & dosage)
+-Treatment Outcome
+
+doi:10.1371/journal.pone.0005133
+pubmed:19415121
+pmc:PMC2673583
+

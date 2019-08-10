@@ -1,0 +1,25 @@
+J. Biol. Chem.
+
+Ror2 receptor requires tyrosine kinase activity to mediate Wnt5A signaling.
+
+A Mikels, Y Minami, R Nusse
+
+The Wnts include a large family of secreted proteins that serve as important signals during embryonic development and adult homeostasis. In the most well understood Wnt signaling pathway, Wnt binding to Frizzled and low density lipoprotein receptor-related protein induces beta-catenin protein stabilization and entry into the nucleus, resulting in changes in target gene transcription. Emerging evidence suggests that Wnt5a can inhibit Wnt/beta-catenin signaling through interaction with the receptor Ror2. The Ror2 protein belongs to the receptor tyrosine kinase superfamily and contains several recognizable structural motifs. However, limited information is available regarding which specific domains are required for the inhibitory signaling activity of Wnt5a. Through mutation and deletion analysis, we have analyzed which specific domains and residues, including those necessary for tyrosine kinase activity, mediate the Wnt5a signal. To determine whether Ror2 can inhibit canonical Wnt signaling in vivo, we examined the effect of Ror2 loss on the expression of the Wnt reporter Axin2(LacZ), finding increased reporter activity in Ror2 null mice, demonstrating that Ror2 can also inhibit Wnt/beta-catenin signaling in the context of intact tissues.
+
+-Animals
+-Humans
+-Mice
+-Mice, Knockout
+-Mutagenesis, Site-Directed
+-Protein-Tyrosine Kinases (-metabolism)
+-Proto-Oncogene Proteins (+metabolism)
+-Receptor Tyrosine Kinase-like Orphan Receptors (-deficiency; -genetics; +physiology)
++Signal Transduction
+-Wnt Proteins (+metabolism)
+-beta Catenin
+
+pii:M109.041715
+doi:10.1074/jbc.M109.041715
+pubmed:19720827
+pmc:PMC2781572
+

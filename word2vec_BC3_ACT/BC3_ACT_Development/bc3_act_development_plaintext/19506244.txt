@@ -1,0 +1,20 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Collective dynamics of social annotation.
+
+C Cattuto, A Barrat, A Baldassarri, G Schehr, V Loreto
+
+The enormous increase of popularity and use of the worldwide web has led in the recent years to important changes in the ways people communicate. An interesting example of this fact is provided by the now very popular social annotation systems, through which users annotate resources (such as web pages or digital photographs) with keywords known as "tags." Understanding the rich emergent structures resulting from the uncoordinated actions of users calls for an interdisciplinary effort. In particular concepts borrowed from statistical physics, such as random walks (RWs), and complex networks theory, can effectively contribute to the mathematical modeling of social annotation systems. Here, we show that the process of social annotation can be seen as a collective but uncoordinated exploration of an underlying semantic space, pictured as a graph, through a series of RWs. This modeling framework reproduces several aspects, thus far unexplained, of social annotation, among which are the peculiar growth of the size of the vocabulary used by the community and its complex network structure that represents an externalization of semantic structures grounded in cognition and that are typically hard to access.
+
++Computer Communication Networks
+-Databases, Factual
+-Humans
+-Information Storage and Retrieval (+methods)
++Internet
+-Semantics
+
+pii:0901136106
+doi:10.1073/pnas.0901136106
+pubmed:19506244
+pmc:PMC2705610
+

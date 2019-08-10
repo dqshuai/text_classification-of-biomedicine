@@ -1,0 +1,25 @@
+EMBO J.
+
+Implementing the LIM code: the structural basis for cell type-specific assembly of LIM-homeodomain complexes.
+
+M Bhati, C Lee, AL Nancarrow, M Lee, VJ Craig, I Bach, JM Guss, JP Mackay, JM Matthews
+
+LIM-homeodomain (LIM-HD) transcription factors form a combinatorial 'LIM code' that contributes to the specification of cell types. In the ventral spinal cord, the binary LIM homeobox protein 3 (Lhx3)/LIM domain-binding protein 1 (Ldb1) complex specifies the formation of V2 interneurons. The additional expression of islet-1 (Isl1) in adjacent cells instead specifies the formation of motor neurons through assembly of a ternary complex in which Isl1 contacts both Lhx3 and Ldb1, displacing Lhx3 as the binding partner of Ldb1. However, little is known about how this molecular switch occurs. Here, we have identified the 30-residue Lhx3-binding domain on Isl1 (Isl1(LBD)). Although the LIM interaction domain of Ldb1 (Ldb1(LID)) and Isl1(LBD) share low levels of sequence homology, X-ray and NMR structures reveal that they bind Lhx3 in an identical manner, that is, Isl1(LBD) mimics Ldb1(LID). These data provide a structural basis for the formation of cell type-specific protein-protein interactions in which unstructured linear motifs with diverse sequences compete to bind protein partners. The resulting alternate protein complexes can target different genes to regulate key biological events.
+
+-Crystallography, X-Ray
+-DNA-Binding Proteins (+chemistry; -genetics; +metabolism)
+-Homeodomain Proteins (+chemistry; -genetics; +metabolism)
+-Humans
+-Models, Molecular
+-Mutagenesis
+-Nuclear Magnetic Resonance, Biomolecular
+-Protein Interaction Domains and Motifs
+-Thermodynamics
+-Transcription Factors
+-Two-Hybrid System Techniques
+
+pii:emboj2008123
+doi:10.1038/emboj.2008.123
+pubmed:18583962
+pmc:PMC2486278
+

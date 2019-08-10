@@ -1,0 +1,27 @@
+PLoS ONE
+
+The roles of entropy and kinetics in structure prediction.
+
+GR Bowman, VS Pande
+
+BACKGROUND: Here we continue our efforts to use methods developed in the folding mechanism community to both better understand and improve structure prediction. Our previous work demonstrated that Rosetta's coarse-grained potentials may actually impede accurate structure prediction at full-atom resolution. Based on this work we postulated that it may be time to work completely at full-atom resolution but that doing so may require more careful attention to the kinetics of convergence. METHODOLOGY/PRINCIPAL FINDINGS: To explore the possibility of working entirely at full-atom resolution, we apply enhanced sampling algorithms and the free energy theory developed in the folding mechanism community to full-atom protein structure prediction with the prominent Rosetta package. We find that Rosetta's full-atom scoring function is indeed able to recognize diverse protein native states and that there is a strong correlation between score and Calpha RMSD to the native state. However, we also show that there is a huge entropic barrier to folding under this potential and the kinetics of folding are extremely slow. We then exploit this new understanding to suggest ways to improve structure prediction. CONCLUSIONS/SIGNIFICANCE: Based on this work we hypothesize that structure prediction may be improved by taking a more physical approach, i.e. considering the nature of the model thermodynamics and kinetics which result from structure prediction simulations.
+
+-Algorithms
+-Computational Biology (-methods)
+-Computer Simulation
+-Computers
+-Databases, Protein
+-Entropy
+-Kinetics
+-Protein Conformation
+-Protein Folding
+-Protein Structure, Tertiary
+-Proteins (+chemistry)
+-Software
+-Temperature
+-Thermodynamics
+
+doi:10.1371/journal.pone.0005840
+pubmed:19513117
+pmc:PMC2688754
+

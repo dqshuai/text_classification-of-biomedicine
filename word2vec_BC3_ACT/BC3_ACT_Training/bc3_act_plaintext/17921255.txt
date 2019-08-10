@@ -1,0 +1,22 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Structural basis for antiactivation in bacterial quorum sensing.
+
+G Chen, PD Jeffrey, C Fuqua, Y Shi, L Chen
+
+Bacteria can communicate via diffusible signal molecules they generate and release to coordinate their behavior in response to the environment. Signal molecule concentration is often proportional to bacterial population density, and when this reaches a critical concentration, reflecting a bacterial quorum, specific behaviors including virulence, symbiosis, and horizontal gene transfer are activated. Quorum-sensing regulation in many Gram-negative bacteria involves acylated homoserine lactone signals that are perceived through binding to LuxR-type, acylated-homoserine-lactone-responsive transcription factors. Bacteria of the rhizobial group employ the LuxR-type transcriptional activator TraR in quorum sensing, and its activity is further regulated through interactions with the TraM antiactivator. In this study, we have crystallographically determined the 3D structure of the TraR-TraM antiactivation complex from Rhizobium sp. strain NGR234. Unexpectedly, the antiactivator TraM binds to TraR at a site distinct from its DNA-binding motif and induces an allosteric conformational change in the protein, thereby preventing DNA binding. Structural analysis reveals a highly conserved TraR-TraM interface and suggests a mechanism for antiactivation complex formation. This structure may inform alternative strategies to control quorum-sensing-regulated microbial activity including amelioration of infectious disease and antibiotic resistance. In addition, the structural basis of antiactivation presents a regulatory interaction that provides general insights relevant to the field of transcription regulation and signal transduction.
+
+-Amino Acid Sequence
+-Bacterial Proteins (+chemistry; -genetics; -metabolism)
+-Crystallography, X-Ray
+-Molecular Sequence Data
+-Protein Conformation
++Quorum Sensing
+-Repressor Proteins (+chemistry; -genetics; -metabolism)
+-Rhizobium radiobacter (+physiology)
+
+pii:0704843104
+doi:10.1073/pnas.0704843104
+pubmed:17921255
+pmc:PMC2034266
+

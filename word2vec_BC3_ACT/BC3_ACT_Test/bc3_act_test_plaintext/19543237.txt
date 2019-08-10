@@ -1,0 +1,33 @@
+Cell Death Differ.
+
+IL-17 stimulates the proliferation and differentiation of human mesenchymal stem cells: implications for bone remodeling.
+
+H Huang, HJ Kim, EJ Chang, ZH Lee, SJ Hwang, HM Kim, Y Lee, HH Kim
+
+Interleukin-17 (IL-17) is a cytokine secreted primarily by T(H)-17 cells. Although IL-17 is primarily associated with the induction of tissue inflammation, the other biological roles of IL-17, including non-immune functions, have yet to be thoroughly explored. Here, we report that T-cell-produced IL-17 can induce proliferation of human bone marrow-derived mesenchymal stem cells (hMSCs) in a manner dependent on the generation of reactive oxygen species (ROS). Rac1 GTPase and NADPH oxidase 1 (Nox1) are activated by IL-17 to produce ROS, which in turn stimulates hMSC proliferation. The activation of the MEK-ERK pathway is also crucial for IL-17-dependent hMSC proliferation. TRAF6 and Act1 are required to activate Nox 1 and to phosphorylate MEK on IL-17 stimulation. Interestingly, IL-17 not only accelerates the proliferation of hMSCs, but also induces their migration, motility, and osteoblastic differentiation. Furthermore, IL-17 induces the expression of M-CSF and receptor activator of NF-kappaB ligand (RANKL) on hMSCs, thereby supporting osteoclastogenesis both in vivo and in vitro. On the basis of these results, we suggest that IL-17 can function as a signal to induce extensive bone turnover by regulating hMSC recruitment, proliferation, motility, and differentiation.
+
+-Azacitidine (-pharmacology)
++Bone Remodeling
++Cell Differentiation
+-Cell Movement
++Cell Proliferation
+-Connexin 43 (-genetics; -metabolism)
+-Core Binding Factor Alpha 1 Subunit (-metabolism)
+-Cyclooxygenase 2 (-metabolism)
+-Humans
+-Interleukin-17 (+metabolism)
+-Macrophage Colony-Stimulating Factor (-metabolism)
+-Mesenchymal Stem Cells (+cytology; -metabolism)
+-NADPH Oxidase (-genetics; -metabolism)
+-Peptide Fragments (-genetics; -metabolism)
+-RANK Ligand (-metabolism)
+-RNA, Small Interfering (-metabolism)
+-Reactive Oxygen Species (-metabolism)
+-Signal Transduction
+-T-Lymphocytes (-immunology; -metabolism)
+-TNF Receptor-Associated Factor 6 (-genetics; -metabolism)
+
+pii:cdd200974
+doi:10.1038/cdd.2009.74
+pubmed:19543237
+

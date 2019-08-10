@@ -1,0 +1,32 @@
+Cell
+
+Mre11 nuclease activity has essential roles in DNA repair and genomic stability distinct from ATM activation.
+
+J Buis, Y Wu, Y Deng, J Leddon, G Westfield, M Eckersdorff, JM Sekiguchi, S Chang, DO Ferguson
+
+The Mre11/Rad50/NBS1 (MRN) complex maintains genomic stability by bridging DNA ends and initiating DNA damage signaling through activation of the ATM kinase. Mre11 possesses DNA nuclease activities that are highly conserved in evolution but play unknown roles in mammals. To define the functions of Mre11, we engineered targeted mouse alleles that either abrogate nuclease activities or inactivate the entire MRN complex. Mre11 nuclease deficiency causes a striking array of phenotypes indistinguishable from the absence of MRN, including early embryonic lethality and dramatic genomic instability. We identify a crucial role for the nuclease activities in homology-directed double-strand-break repair and a contributing role in activating the ATR kinase. However, the nuclease activities are not required to activate ATM after DNA damage or telomere deprotection. Therefore, nucleolytic processing by Mre11 is an essential function of fundamental importance in DNA repair, distinct from MRN control of ATM signaling.
+
+-Amino Acid Sequence
+-Animals
+-Cell Cycle Proteins (-metabolism)
+-Cell Line, Transformed
+-Cell Proliferation
+-DNA Breaks, Double-Stranded
+-DNA Damage
++DNA Repair
+-DNA Repair Enzymes (-chemistry; +metabolism)
+-DNA-Binding Proteins (-chemistry; +metabolism)
+-Fibroblasts (-metabolism)
++Genomic Instability
+-Mice
+-Protein-Serine-Threonine Kinases (-metabolism)
+-Recombination, Genetic
+-Telomere (-metabolism)
+-Tumor Suppressor Proteins (-metabolism)
+
+pii:S0092-8674(08)01023-4
+doi:10.1016/j.cell.2008.08.015
+pubmed:18854157
+mid:NIHMS73075
+pmc:PMC2645868
+

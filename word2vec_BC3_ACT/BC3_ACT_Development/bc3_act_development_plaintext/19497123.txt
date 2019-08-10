@@ -1,0 +1,27 @@
+Virol. J.
+
+Effective suppression of Dengue fever virus in mosquito cell cultures using retroviral transduction of hammerhead ribozymes targeting the viral genome.
+
+P Nawtaisong, J Keith, T Fraser, V Balaraman, A Kolokoltsov, RA Davey, S Higgs, A Mohammed, Y Rongsriyam, N Komalamisra, MJ Fraser
+
+Outbreaks of Dengue impose a heavy economic burden on developing countries in terms of vector control and human morbidity. Effective vaccines against all four serotypes of Dengue are in development, but population replacement with transgenic vectors unable to transmit the virus might ultimately prove to be an effective approach to disease suppression, or even eradication. A key element of the refractory transgenic vector approach is the development of transgenes that effectively prohibit viral transmission. In this report we test the effectiveness of several hammerhead ribozymes for suppressing DENV in lentivirus-transduced mosquito cells in an attempt to mimic the transgenic use of these effector molecules in mosquitoes. A lentivirus vector that expresses these ribozymes as a fusion RNA molecule using an Ae. aegypti tRNA(val) promoter and terminating with a 60A tail insures optimal expression, localization, and activity of the hammerhead ribozyme against the DENV genome. Among the 14 hammerhead ribozymes we designed to attack the DENV-2 NGC genome, several appear to be relatively effective in reducing virus production from transduced cells by as much as 2 logs. Among the sequences targeted are 10 that are conserved among all DENV serotype 2 strains. Our results confirm that hammerhead ribozymes can be effective in suppressing DENV in a transgenic approach, and provide an alternative or supplementary approach to proposed siRNA strategies for DENV suppression in transgenic mosquitoes.
+
+-Animals
+-Base Sequence
+-Cell Line
+-Culicidae
+-Dengue Virus (+physiology)
++Gene Silencing
+-Humans
+-Lentivirus (+genetics)
+-Molecular Sequence Data
+-RNA, Catalytic (+genetics)
+-Sequence Alignment
+-Transduction, Genetic (+methods)
++Virus Replication
+
+pii:1743-422X-6-73
+doi:10.1186/1743-422X-6-73
+pubmed:19497123
+pmc:PMC2704196
+

@@ -1,0 +1,24 @@
+Genome Res.
+
+The consequences of genetic drift for bacterial genome complexity.
+
+CH Kuo, NA Moran, H Ochman
+
+Genetic drift, which is particularly effective within small populations, can shape the size and complexity of genomes by affecting the fixation of deleterious mutations. In Bacteria, assessing the contribution of genetic drift to genome evolution is problematic because the usual methods, based on intraspecific polymorphisms, can be thwarted by difficulties in delineating species' boundaries. The increased availability of sequenced bacterial genomes allows application of an alternative estimator of drift, the genome-wide ratio of replacement to silent substitutions in protein-coding sequences. This ratio, which reflects the action of purifying selection across the entire genome, shows a strong inverse relationship with genome size, indicating that drift promotes genome reduction in bacteria.
+
+-Bacteria (-classification; +genetics)
+-Computational Biology
+-Databases, Genetic
++Evolution, Molecular
+-Genes, Bacterial (-genetics)
++Genetic Drift
+-Genome, Bacterial (+genetics)
+-Models, Genetic
+-Mutation
+-Species Specificity
+
+pii:gr.091785.109
+doi:10.1101/gr.091785.109
+pubmed:19502381
+pmc:PMC2720180
+

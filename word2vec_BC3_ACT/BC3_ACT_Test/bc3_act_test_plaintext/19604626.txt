@@ -1,0 +1,37 @@
+Cancer Lett.
+
+Enhanced cytotoxicity with a novel system combining the paclitaxel-2'-ethylcarbonate prodrug and an HSV amplicon with an attenuated replication-competent virus, HF10 as a helper virus.
+
+D Ishida, A Nawa, T Tanino, F Goshima, CH Luo, M Iwaki, H Kajiyama, K Shibata, E Yamamoto, K Ino, T Tsurumi, Y Nishiyama, F Kikkawa
+
+We previously demonstrated that HF10, which is a natural, non-engineered HSV-1, has potent oncolytic activity in the treatment of solid malignant tumors in vitro and in vivo [H. Takakuwa, F. Goshima, N. Nozawa, T. Yoshikawa, H. Kimata, A. Nakao, et al., Oncolytic viral therapy using a spontaneously generated herpes simplex virus type 1 variant for disseminated peritoneal tumor in immunocompetent mice, Arch. Virol. 148 (2003) 813-825; S. Kohno, C. Lou, F. Goshima, Y. Nishiyama, T. Sata, Y. Ono, Herpes simplex virus type 1 mutant HF10 oncolytic viral therapy for bladder cancer, Urology 66 (2005) 1116-1121; D. Watanabe, F. Goshima, I. Mori, Y. Tamada, Y. Matsumoto, Y. Nishiyama, Oncolytic virotherapy for malignant melanoma with herpes simplex virus type 1 mutant HF10, J. Dermatol. Sci. 50 (2008) 185-196; A. Nawa, C. Luo, L. Zhang, Y. Ushijima, D. Ishida, M. Kamakura, et al., Non-engineered, naturally oncolytic herpes simplex virus HSV1 HF10: applications for cancer gene therapy, Curr. Gene. Ther. 8 (2008) 208-221]. Previous reports have also shown that a combination of HF10 and paclitaxel (TAX) was more efficacious than either regimen alone for some types of malignant tumors [S. Shimoyama, F. Goshima, O. Teshigahara, H. Kasuya, Y. Kodera, A. Nakao, et al., Enhanced efficacy of herpes simplex virus mutant HF10 combined with paclitaxel in peritoneal cancer dissemination models, Hepatogastroenterology 54 (2007) 1038-1042]. In this study, we investigated the efficacy of gene-directed enzyme prodrug therapy (GDEPT) using a novel system that combines the paclitaxel-2'-ethylcarbonate prodrug (TAX-2'-Et) and an HSV amplicon expressing rabbit-carboxylesterase (CES) with HF10 as a helper virus. This GDEPT system aims to produce high level of CES at the tumor site, resulting in efficient local conversion of the TAX-2'-Et prodrug into the active drug TAX [A. Nawa, T. Tanino, C. Lou, M. Iwaki, H. Kajiyama, K. Shibata, et al., Gene directed enzyme prodrug therapy for ovarian cancer: could GDEPT become a promising treatment against ovarian cancer?, Anti-Cancer Agents Med Chem 8 (2008) 232-239]. We demonstrated that the green fluorescent protein (GFP) gene, as a trace maker, was more efficiently introduced by the HSV amplicon compared to the expression vector, pHGCX, and that the HSV amplicon system expressed an active CES enzyme that could convert TAX-2'-Et to TAX in Cos7 cells. Furthermore, although the cytotoxicity of this amplicon system was not enhanced in virus-sensitive tumor cells, it was significantly enhanced in low virus-sensitive tumor cells in the presence of the prodrug in a concentration-dependent manner, compared to the control virus alone (p<0.05). These results indicate that the addition of a prodrug converting enzyme may be a feasible approach to further enhance the efficacy of HF10 as a cancer therapeutics in low HF10-sensitive malignancies.
+
+-Animals
+-Antineoplastic Agents, Phytogenic (-metabolism; +pharmacology)
+-COS Cells
+-Carboxylesterase (-biosynthesis; -genetics)
+-Cell Proliferation (+drug effects)
+-Cell Survival (-drug effects)
+-Cercopithecus aethiops
+-Combined Modality Therapy
+-Dose-Response Relationship, Drug
+-Female
++Genetic Vectors
+-Green Fluorescent Proteins (-biosynthesis; -genetics)
+-Hela Cells
+-Herpesvirus 1, Human (-enzymology; +genetics)
+-Humans
+-Neoplasms (-enzymology; -genetics; +pathology)
++Oncolytic Virotherapy
+-Oncolytic Viruses (-enzymology; +genetics)
+-Paclitaxel (+analogs & derivatives; -metabolism; -pharmacology)
+-Prodrugs (-metabolism; +pharmacology)
+-Rabbits
+-Time Factors
+-Transfection
+-Vero Cells
+
+pii:S0304-3835(09)00431-5
+doi:10.1016/j.canlet.2009.06.014
+pubmed:19604626
+

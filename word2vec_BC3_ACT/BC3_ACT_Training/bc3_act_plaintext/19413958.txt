@@ -1,0 +1,22 @@
+Biophys. J.
+
+Peptide nanopores and lipid bilayers: interactions by coarse-grained molecular-dynamics simulations.
+
+JW Klingelhoefer, T Carpenter, MS Sansom
+
+A set of 49 protein nanopore-lipid bilayer systems was explored by means of coarse-grained molecular-dynamics simulations to study the interactions between nanopores and the lipid bilayers in which they are embedded. The seven nanopore species investigated represent the two main structural classes of membrane proteins (alpha-helical and beta-barrel), and the seven different bilayer systems range in thickness from approximately 28 to approximately 43 A. The study focuses on the local effects of hydrophobic mismatch between the nanopore and the lipid bilayer. The effects of nanopore insertion on lipid bilayer thickness, the dependence between hydrophobic thickness and the observed nanopore tilt angle, and the local distribution of lipid types around a nanopore in mixed-lipid bilayers are all analyzed. Different behavior for nanopores of similar hydrophobic length but different geometry is observed. The local lipid bilayer perturbation caused by the inserted nanopores suggests possible mechanisms for both lipid bilayer-induced protein sorting and protein-induced lipid sorting. A correlation between smaller lipid bilayer thickness (larger hydrophobic mismatch) and larger nanopore tilt angle is observed and, in the case of larger hydrophobic mismatches, the simulated tilt angle distribution seems to broaden. Furthermore, both nanopore size and key residue types (e.g., tryptophan) seem to influence the level of protein tilt, emphasizing the reciprocal nature of nanopore-lipid bilayer interactions.
+
++Computer Simulation
+-Hydrophobicity
+-Lipid Bilayers (+chemistry)
+-Membrane Transport Proteins (+chemistry)
++Models, Molecular
+-Peptides (+chemistry)
+-Phosphatidylcholines (-chemistry)
+-Protein Structure, Secondary
+
+pii:S0006-3495(09)00578-5
+doi:10.1016/j.bpj.2009.01.046
+pubmed:19413958
+pmc:PMC2711413
+

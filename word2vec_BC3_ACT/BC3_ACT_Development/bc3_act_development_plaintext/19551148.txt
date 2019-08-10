@@ -1,0 +1,25 @@
+PLoS ONE
+
+Large-scale assessment of the effect of popularity on the reliability of research.
+
+T Pfeiffer, R Hoffmann
+
+Based on theoretical reasoning it has been suggested that the reliability of findings published in the scientific literature decreases with the popularity of a research field. Here we provide empirical support for this prediction. We evaluate published statements on protein interactions with data from high-throughput experiments. We find evidence for two distinctive effects. First, with increasing popularity of the interaction partners, individual statements in the literature become more erroneous. Second, the overall evidence on an interaction becomes increasingly distorted by multiple independent testing. We therefore argue that for increasing the reliability of research it is essential to assess the negative effects of popularity and develop approaches to diminish these effects.
+
+-Computational Biology (-methods)
+-Computer Simulation
+-Databases, Protein
+-Fungal Proteins (+chemistry)
+-Internet
+-Protein Interaction Mapping (+methods)
+-Proteins (+chemistry)
+-Publication Bias
+-Reproducibility of Results
+-Research (+trends)
+-Research Design (+standards)
+-Saccharomyces cerevisiae (+metabolism)
+
+doi:10.1371/journal.pone.0005996
+pubmed:19551148
+pmc:PMC2696594
+

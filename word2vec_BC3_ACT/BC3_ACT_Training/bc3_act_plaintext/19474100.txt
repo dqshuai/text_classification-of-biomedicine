@@ -1,0 +1,30 @@
+J. Virol.
+
+Mitochondrial antiviral signaling protein plays a major role in induction of the fish innate immune response against RNA and DNA viruses.
+
+S Biacchesi, M LeBerre, A Lamoureux, Y Louise, E Lauret, P Boudinot, M Brémont
+
+Viral infection triggers host innate immune responses through cellular sensor molecules which activate multiple signaling cascades that induce the production of interferons (IFN) and other cytokines. The recent identification of mammalian cytoplasmic viral RNA sensors, such as retinoic acid-inducible gene I (RIG-I)-like receptors (RLRs) and their mitochondrial adaptor, the mitochondrial antiviral signaling protein (MAVS), also called IPS-1, VISA, and Cardif, highlights the significance of these molecules in the induction of IFN. Teleost fish also possess a strong IFN system, but nothing is known concerning the RLRs and their downstream adaptor. In this study, we cloned MAVS cDNAs from several fish species (including salmon and zebrafish) and showed that they were orthologs of mammalian MAVS. We demonstrated that overexpression of these mitochondrial proteins in fish cells led to a constitutive induction of IFN and IFN-stimulated genes (ISGs). MAVS-overexpressing cells were almost fully protected against RNA virus infection, with a strong inhibition of both DNA and RNA virus replication (1,000- and 10,000-fold decreases, respectively). Analyses of MAVS deletion mutants showed that both the N-terminal CARD-like and C-terminal transmembrane domains, but not the central proline-rich region, were indispensable for MAVS signaling function. In addition, we cloned the cDNAs encoding a RIG-I-like molecule from salmonid and cyprinid cell lines. Like the case with MAVS, overexpression of RIG-I CARDs in fish cells led to a strong induction of both IFN and ISGs, conferring on fish cells full protection against RNA virus infection. This report provides the first demonstration that teleost fish possess a functional RLR pathway in which MAVS may play a central role in the induction of the innate immune response.
+
+-Amino Acid Sequence
+-Animals
+-Cell Line
+-DNA Viruses (+physiology)
+-Fish Diseases (-immunology; +virology)
+-Fish Proteins (-chemistry; -genetics; +immunology)
+-Fishes (-classification; -genetics; +immunology; -virology)
+-Immunity, Innate
+-Interferons (-immunology)
+-Mitochondrial Proteins (-chemistry; -genetics; +immunology)
+-Molecular Sequence Data
+-Phylogeny
+-RNA Viruses (+physiology)
+-Sequence Alignment
++Signal Transduction
+-Virus Diseases (-immunology; +veterinary; -virology)
+
+pii:JVI.00404-09
+doi:10.1128/JVI.00404-09
+pubmed:19474100
+pmc:PMC2715792
+

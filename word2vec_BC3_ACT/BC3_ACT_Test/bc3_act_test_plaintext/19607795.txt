@@ -1,0 +1,39 @@
+Neuron
+
+Endocytic trafficking and recycling maintain a pool of mobile surface AMPA receptors required for synaptic potentiation.
+
+EM Petrini, J Lu, L Cognet, B Lounis, MD Ehlers, D Choquet
+
+At excitatory glutamatergic synapses, postsynaptic endocytic zones (EZs), which are adjacent to the postsynaptic density (PSD), mediate clathrin-dependent endocytosis of surface AMPA receptors (AMPAR) as a first step to receptor recycling or degradation. However, it remains unknown whether receptor recycling influences AMPAR lateral diffusion and whether EZs are important for the expression of synaptic potentiation. Here, we demonstrate that the presence of both EZs and AMPAR recycling maintain a large pool of mobile AMPARs at synapses. In addition, we find that synaptic potentiation is accompanied by an accumulation and immobilization of AMPARs at synapses resulting from both their exocytosis and stabilization at the PSD. Displacement of EZs from the postsynaptic region impairs the expression of synaptic potentiation by blocking AMPAR recycling. Thus, receptor recycling is crucial for maintaining a mobile population of surface AMPARs that can be delivered to synapses for increases in synaptic strength.
+
+-Analysis of Variance
+-Animals
+-Carrier Proteins (-genetics; -metabolism)
+-Cells, Cultured
+-Clathrin (-genetics; -metabolism)
+-Dyneins (-genetics)
+-Embryo, Mammalian
+-Endocytosis (+physiology)
+-Excitatory Postsynaptic Potentials (-genetics)
+-Fluorescence Recovery After Photobleaching (-methods)
+-Glycine (-pharmacology)
+-Green Fluorescent Proteins (-genetics)
+-Hippocampus (-cytology)
+-Models, Biological
+-Nerve Tissue Proteins (-genetics; -metabolism)
+-Neurons (+cytology; -drug effects)
+-Patch-Clamp Techniques
+-Protein Transport (-drug effects; -genetics)
+-Rats
+-Rats, Sprague-Dawley
+-Receptors, AMPA (-genetics; +metabolism)
+-Synapses (-drug effects; +metabolism)
+-Time Factors
+-Transfection (-methods)
+
+pii:S0896-6273(09)00400-0
+doi:10.1016/j.neuron.2009.05.025
+pubmed:19607795
+mid:NIHMS184575
+pmc:PMC2847611
+

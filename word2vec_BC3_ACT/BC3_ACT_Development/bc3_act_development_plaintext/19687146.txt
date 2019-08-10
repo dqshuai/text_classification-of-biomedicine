@@ -1,0 +1,33 @@
+Genome Res.
+
+Elucidation of the ELK1 target gene network reveals a role in the coordinate regulation of core components of the gene regulation machinery.
+
+J Boros, IJ Donaldson, A O'Donnell, ZA Odrowaz, L Zeef, M Lupien, CA Meyer, XS Liu, M Brown, AD Sharrocks
+
+Transcription factors play an important role in orchestrating the activation of specific networks of genes through targeting their proximal promoter and distal enhancer regions. However, it is unclear how the specificity of downstream responses is maintained by individual members of transcription-factor families and, in most cases, what their target repertoire is. We have used ChIP-chip analysis to identify the target genes of the ETS-domain transcription factor ELK1. Two distinct modes of ELK1 target gene selection are identified; the first involves redundant promoter binding with other ETS-domain family members; the second occurs through combinatorial binding with a second transcription factor SRF, which specifies a unique group of target genes. One of the most prominent groups of genes forming the ELK1 target network includes classes involved in core gene expression control, namely, components of the basal transcriptional machinery, the spliceosome and the ribosome. Amongst the set of genes encoding the basal transcription machinery components, are a functionally linked subset of GTFs and TAFs. Our study, therefore, reveals an unsuspected level of coordinate regulation of components of the core gene expression control machinery and also identifies two different modes of promoter targeting through binding with a second transcription factor or redundant binding with other ETS-domain family members.
+
+-Base Sequence
+-Binding Sites (-genetics)
+-Blotting, Western
+-Cell Line
+-Chromatin Immunoprecipitation
+-GA-Binding Protein Transcription Factor (-genetics; -metabolism)
++Gene Expression Regulation
++Gene Regulatory Networks
+-Hela Cells
+-Humans
+-Jurkat Cells
+-Luciferases (-genetics; -metabolism)
+-Promoter Regions, Genetic (-genetics)
+-Protein Binding
+-RNA Interference
+-Reverse Transcriptase Polymerase Chain Reaction
+-Serum Response Factor (-genetics; -metabolism)
+-Transfection
+-ets-Domain Protein Elk-1 (+genetics; -metabolism)
+
+pii:gr.093047.109
+doi:10.1101/gr.093047.109
+pubmed:19687146
+pmc:PMC2775591
+

@@ -1,0 +1,29 @@
+Neuron
+
+Spontaneous events outline the realm of possible sensory responses in neocortical populations.
+
+A Luczak, P Barthó, KD Harris
+
+Neocortical assemblies produce complex activity patterns both in response to sensory stimuli and spontaneously without sensory input. To investigate the structure of these patterns, we recorded from populations of 40-100 neurons in auditory and somatosensory cortices of anesthetized and awake rats using silicon microelectrodes. Population spike time patterns were broadly conserved across multiple sensory stimuli and spontaneous events. Although individual neurons showed timing variations between stimuli, these were not sufficient to disturb a generally conserved sequential organization observed at the population level, lasting for approximately 100 ms with spiking reliability decaying progressively after event onset. Preserved constraints were also seen in population firing rate vectors, with vectors evoked by individual stimuli occupying subspaces of a larger but still constrained space outlined by the set of spontaneous events. These results suggest that population spike patterns are drawn from a limited "vocabulary," sampled widely by spontaneous events but more narrowly by sensory responses.
+
+-Acoustic Stimulation
+-Action Potentials (-physiology)
+-Animals
+-Auditory Cortex (-cytology; +physiology)
++Cortical Synchronization
+-Evoked Potentials, Auditory (+physiology)
+-Miniature Postsynaptic Potentials (+physiology)
+-Nerve Net (-physiology)
+-Neurons (+physiology)
+-Perception (-physiology)
+-Rats
+-Rats, Sprague-Dawley
+-Reaction Time (-physiology)
+-Somatosensory Cortex (-cytology; +physiology)
+
+pii:S0896-6273(09)00237-2
+doi:10.1016/j.neuron.2009.03.014
+pubmed:19447096
+mid:NIHMS106610
+pmc:PMC2696272
+

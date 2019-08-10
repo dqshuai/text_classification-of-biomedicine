@@ -1,0 +1,36 @@
+J. Am. Chem. Soc.
+
+Modular nucleic acid assembled p/MHC microarrays for multiplexed sorting of antigen-specific T cells.
+
+GA Kwong, CG Radu, K Hwang, CJ Shu, C Ma, RC Koya, B Comin-Anduix, SR Hadrup, RC Bailey, ON Witte, TN Schumacher, A Ribas, JR Heath
+
+The human immune system consists of a large number of T cells capable of recognizing and responding to antigens derived from various sources. The development of peptide-major histocompatibility (p/MHC) tetrameric complexes has enabled the direct detection of these antigen-specific T cells. With the goal of increasing throughput and multiplexing of T cell detection, protein microarrays spotted with defined p/MHC complexes have been reported, but studies have been limited due to the inherent instability and reproducibility of arrays produced via conventional spotted methods. Herein, we report on a platform for the detection of antigen-specific T cells on glass substrates that offers significant advantages over existing surface-bound schemes. In this approach, called "Nucleic Acid Cell Sorting (NACS)", single-stranded DNA oligomers conjugated site-specifically to p/MHC tetramers are employed to immobilize p/MHC tetramers via hybridization to a complementary-printed substrate. Fully assembled p/MHC arrays are used to detect and enumerate T cells captured from cellular suspensions, including primary human T cells collected from cancer patients. NACS arrays outperform conventional spotted arrays assessed in key criteria such as repeatability and homogeneity. The versatility of employing DNA sequences for cell sorting is exploited to enable the programmed, selective release of target populations of immobilized T cells with restriction endonucleases for downstream analysis. Because of the performance, facile and modular assembly of p/MHC tetramer arrays, NACS holds promise as a versatile platform for multiplexed T cell detection.
+
+-Animals
+-Base Sequence
+-Cell Line
+-Cell Separation (+methods)
+-Cytological Techniques (+methods)
+-DNA Restriction Enzymes (-metabolism)
+-DNA, Complementary (-genetics)
+-DNA, Single-Stranded (-chemistry; -genetics; +metabolism)
+-Glass (-chemistry)
+-Histocompatibility Antigens (-chemistry; +immunology)
+-Humans
+-Immobilized Proteins (-chemistry; -immunology; -metabolism)
+-Mice
+-Nucleic Acid Hybridization
+-Protein Array Analysis (+methods)
+-Protein Multimerization
+-Protein Structure, Quaternary
+-Receptors, Antigen, T-Cell (-metabolism)
+-Reproducibility of Results
+-Streptavidin (-chemistry; -metabolism)
+-Substrate Specificity
+-T-Lymphocytes (+immunology)
+
+doi:10.1021/ja9006707
+pubmed:19552409
+mid:NIHMS127833
+pmc:PMC2720314
+

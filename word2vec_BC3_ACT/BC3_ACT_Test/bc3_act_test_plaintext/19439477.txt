@@ -1,0 +1,20 @@
+J. Virol.
+
+Evidence that the linker between the methyltransferase and helicase domains of potato virus X replicase is involved in homologous RNA recombination.
+
+HK Draghici, M Varrelmann
+
+Recombination in RNA viruses, one of the main factors contributing to their genetic variability and evolution, is a widespread phenomenon. In this study, an in vivo assay to characterize RNA recombination in potato virus X (PVX), under high selection pressure, was established. Agrobacterium tumefaciens was used to express in Nicotiana benthamiana leaf tissue both a PVX isolate labeled with green fluorescent protein (GFP) containing a coat protein deletion mutation (DeltaCP) and a transcript encoding a functional coat protein +3'-ntr. Coexpression of the constructs led to virus movement and systemic infection; reconstituted recombinants were observed in 92% of inoculated plants. Similar results were obtained using particle bombardment, demonstrating that recombination mediated by A. tumefaciens was not responsible for the occurrence of PXC recombinants. The speed of recombination could be estimated by agroinfection of two PVX mutants lacking the 3' and 5' halves of the genome, respectively, with an overlap in the triple gene block 1 gene, allowing GFP expression only in the case of recombination. Ten different pentapeptide insertion scanning replicase mutants with replication abilities comparable to wild-type virus were applied in the different recombination assays. Two neighboring mutants affecting the linker between the methyltransferase and helicase domains were shown to be strongly debilitated in their ability to recombine. The possible functional separation of replication and recombination in the replicase molecule supports the model that RNA recombination represents a distinct function of this protein, although the underlying mechanism still needs to be investigated.
+
+-Potexvirus (-chemistry; +enzymology; +genetics)
+-Protein Structure, Tertiary
+-RNA Replicase (-chemistry; -genetics; +metabolism)
++Recombination, Genetic
+-Tobacco (+virology)
+-Viral Proteins (-chemistry; -genetics; +metabolism)
+
+pii:JVI.00179-08
+doi:10.1128/JVI.00179-08
+pubmed:19439477
+pmc:PMC2708637
+

@@ -1,0 +1,19 @@
+BMC Bioinformatics
+
+Error statistics of hidden Markov model and hidden Boltzmann model results.
+
+LA Newberg
+
+BACKGROUND: Hidden Markov models and hidden Boltzmann models are employed in computational biology and a variety of other scientific fields for a variety of analyses of sequential data. Whether the associated algorithms are used to compute an actual probability or, more generally, an odds ratio or some other score, a frequent requirement is that the error statistics of a given score be known. What is the chance that random data would achieve that score or better? What is the chance that a real signal would achieve a given score threshold? RESULTS: Here we present a novel general approach to estimating these false positive and true positive rates that is significantly more efficient than are existing general approaches. We validate the technique via an implementation within the HMMER 3.0 package, which scans DNA or protein sequence databases for patterns of interest, using a profile-HMM. CONCLUSION: The new approach is faster than general naïve sampling approaches, and more general than other current approaches. It provides an efficient mechanism by which to estimate error statistics for hidden Markov model and hidden Boltzmann model results.
+
+-Computational Biology (+methods)
+-False Positive Reactions
+-Markov Chains
+-Sequence Analysis, DNA (-methods)
+-Sequence Analysis, Protein (-methods)
+
+pii:1471-2105-10-212
+doi:10.1186/1471-2105-10-212
+pubmed:19589158
+pmc:PMC2722652
+

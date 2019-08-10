@@ -1,0 +1,27 @@
+BMC Cell Biol.
+
+High-content live cell imaging with RNA probes: advancements in high-throughput antimalarial drug discovery.
+
+S Cervantes, J Prudhomme, D Carter, KG Gopi, Q Li, YT Chang, KG Le Roch
+
+BACKGROUND: Malaria, a major public health issue in developing nations, is responsible for more than one million deaths a year. The most lethal species, Plasmodium falciparum, causes up to 90% of fatalities. Drug resistant strains to common therapies have emerged worldwide and recent artemisinin-based combination therapy failures hasten the need for new antimalarial drugs. Discovering novel compounds to be used as antimalarials is expedited by the use of a high-throughput screen (HTS) to detect parasite growth and proliferation. Fluorescent dyes that bind to DNA have replaced expensive traditional radioisotope incorporation for HTS growth assays, but do not give additional information regarding the parasite stage affected by the drug and a better indication of the drug's mode of action. Live cell imaging with RNA dyes, which correlates with cell growth and proliferation, has been limited by the availability of successful commercial dyes. RESULTS: After screening a library of newly synthesized stryrl dyes, we discovered three RNA binding dyes that provide morphological details of live parasites. Utilizing an inverted confocal imaging platform, live cell imaging of parasites increases parasite detection, improves the spatial and temporal resolution of the parasite under drug treatments, and can resolve morphological changes in individual cells. CONCLUSION: This simple one-step technique is suitable for automation in a microplate format for novel antimalarial compound HTS. We have developed a new P. falciparum RNA high-content imaging growth inhibition assay that is robust with time and energy efficiency.
+
+-Animals
+-Antimalarials (+pharmacology)
+-Drug Discovery (+methods)
+-Erythrocytes (-parasitology)
+-Fluorescent Dyes (+chemistry)
+-Humans
+-Microscopy, Confocal
+-Microscopy, Fluorescence
+-Plasmodium falciparum (-drug effects; -genetics; -growth & development)
+-RNA Probes (-chemistry)
+-RNA, Protozoan (-analysis)
+-Staining and Labeling (-methods)
+-Styrenes (-chemistry)
+
+pii:1471-2121-10-45
+doi:10.1186/1471-2121-10-45
+pubmed:19515257
+pmc:PMC2702272
+

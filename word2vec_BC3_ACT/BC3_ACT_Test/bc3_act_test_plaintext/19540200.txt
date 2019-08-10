@@ -1,0 +1,18 @@
+Biochem. Biophys. Res. Commun.
+
+The interstrand amino acid pairs play a significant role in determining the parallel or antiparallel orientation of beta-strands.
+
+N Zhang, J Ruan, G Duan, S Gao, T Zhang
+
+It is widely considered that it is not appropriate to treat beta-pairs in isolation, since other secondary structural models (such as helices, coils), protein topology and protein tertiary structures would limit beta-strand pairing. However, to understand the underlying mechanisms of beta-sheet formation, studies ought to be performed separately on more concrete aspects. In this study, we focus on the parallel or antiparallel orientation of beta-strands. First, statistical analysis was performed on the relative frequencies of the interstrand amino acid pairs within parallel and antiparallel beta-strands. Consequently, features were extracted by singular value decomposition from the statistical results. By using the support vector machine to distinguish the features extracted from the two types of beta-strands, high accuracy was achieved (up to 99.4%). This suggests that the interstrand amino acid pairs play a significant role in determining the parallel or antiparallel orientation of beta-strands. These results may provide useful information for developing other useful algorithms to examine to the beta-strand folding pathways, and could eventually lead to protein structure predictions.
+
+-Amino Acid Sequence
+-Amino Acids (+chemistry)
+-Data Interpretation, Statistical
++Models, Chemical
++Protein Structure, Secondary
+
+pii:S0006-291X(09)01225-X
+doi:10.1016/j.bbrc.2009.06.072
+pubmed:19540200
+

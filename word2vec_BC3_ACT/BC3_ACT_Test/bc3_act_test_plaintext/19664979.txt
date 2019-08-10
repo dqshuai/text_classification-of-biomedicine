@@ -1,0 +1,25 @@
+Cell Host Microbe
+
+Gene expression signatures diagnose influenza and other symptomatic respiratory viral infections in humans.
+
+AK Zaas, M Chen, J Varkey, T Veldman, AO Hero, J Lucas, Y Huang, R Turner, A Gilbert, R Lambkin-Williams, NC Øien, B Nicholson, S Kingsmore, L Carin, CW Woods, GS Ginsburg
+
+Acute respiratory infections (ARIs) are a common reason for seeking medical attention, and the threat of pandemic influenza will likely add to these numbers. Using human viral challenge studies with live rhinovirus, respiratory syncytial virus, and influenza A, we developed peripheral blood gene expression signatures that distinguish individuals with symptomatic ARIs from uninfected individuals with >95% accuracy. We validated this "acute respiratory viral" signature-encompassing genes with a known role in host defense against viral infections-across each viral challenge. We also validated the signature in an independently acquired data set for influenza A and classified infected individuals from healthy controls with 100% accuracy. In the same data set, we could also distinguish viral from bacterial ARIs (93% accuracy). These results demonstrate that ARIs induce changes in human peripheral blood gene expression that can be used to diagnose a viral etiology of respiratory infection and triage symptomatic individuals.
+
+-Blood Cells (-metabolism; -virology)
+-Cells, Cultured
+-Cohort Studies
+-Gene Expression Profiling (+methods)
+-Humans
+-Influenza A virus (-physiology)
+-Influenza, Human (+diagnosis; +genetics; -virology)
+-Respiratory Tract Infections (+diagnosis; +genetics; -virology)
+-Virus Diseases (-diagnosis; -genetics; -virology)
+-Virus Physiological Phenomena
+
+pii:S1931-3128(09)00251-0
+doi:10.1016/j.chom.2009.07.006
+pubmed:19664979
+mid:NIHMS187330
+pmc:PMC2852511
+

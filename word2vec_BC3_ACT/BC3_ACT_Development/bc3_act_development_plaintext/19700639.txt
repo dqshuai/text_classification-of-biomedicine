@@ -1,0 +1,22 @@
+Eukaryotic Cell
+
+A unique 45-amino-acid region in the toprim domain of Plasmodium falciparum gyrase B is essential for its activity.
+
+A Dar, D Prusty, N Mondal, SK Dhar
+
+DNA gyrase is the only topoisomerase that can introduce negative supercoils into the DNA at the cost of ATP hydrolysis. Some but not all the steps of the topoisomerization reaction are understood clearly for both eukaryotic topoII and DNA gyrase. This study is an attempt to understand whether the B subunit of DNA gyrase binds to DNA directly, which may be central to the stimulation of its ATPase activity essential for gyrase function. We have dissected the Plasmodium falciparum gyrase B (PfGyrB) subunit to identify a 45-amino-acid region in the toprim domain that is responsible for its intrinsic DNA binding activity, DNA-stimulated ATPase activity, and DNA cleavage. We find that DNA has to enter through the ATP-operated clamp of PfGyrB to gain access to the DNA binding region. Furthermore, the rate of ATP hydrolysis of PfGyrB increases significantly with increasing DNA length, suggesting a possible communication between the ATPase domain and the DNA binding region that can account for its optimal ATPase activity. These results not only highlight the mechanism of GyrB action in the deadly human parasite P. falciparum but also provide meaningful insights into the current mechanistic model of DNA transport by gyrase during the topoisomerization reaction.
+
+-Amino Acid Sequence
+-DNA Gyrase (+chemistry; -genetics; +metabolism)
+-Molecular Sequence Data
+-Plasmodium falciparum (-chemistry; +enzymology; -genetics)
+-Protein Structure, Tertiary
+-Protein Subunits (-chemistry; -genetics; -metabolism)
+-Protozoan Proteins (+chemistry; -genetics; +metabolism)
+-Sequence Alignment
+
+pii:EC.00149-09
+doi:10.1128/EC.00149-09
+pubmed:19700639
+pmc:PMC2772398
+

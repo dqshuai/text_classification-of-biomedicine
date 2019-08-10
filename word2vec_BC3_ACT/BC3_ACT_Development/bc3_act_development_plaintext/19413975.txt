@@ -1,0 +1,28 @@
+Biophys. J.
+
+Fluorophore binding aptamers as a tool for RNA visualization.
+
+K Eydeler, E Magbanua, A Werner, P Ziegelmüller, U Hahn
+
+Fluorescence correlation spectroscopy (FCS) is suitable for the detection of fluorescent molecules in living cells. For the visualization of mRNA, we genetically fused a fluorophore-specific RNA aptamer to the coding mRNA of the green fluorescent protein, as well as to noncoding sequences. Using these constructs, we showed that the aptamer portion of the mRNA still binds the fluorophore in the nanomolar range as determined via FCS. Furthermore, the binding took place in the context of total RNA extract. A tandem construct of the RNA aptamer even exhibited a lower K(d) than the monomer. This FCS-based method establishes a tool for minimal invasive detection of RNA at the single molecule level in individual living cells.
+
+-Algorithms
+-Animals
+-Aptamers, Nucleotide (-chemistry; +metabolism)
+-COS Cells
+-Cercopithecus aethiops
+-Diffusion
+-Electrophoresis, Polyacrylamide Gel
+-Green Fluorescent Proteins (-chemistry; -metabolism)
+-RNA, Messenger (+analysis; -chemistry; -metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Rhodamines (-chemistry)
+-Spectrometry, Fluorescence (+methods)
+-Time Factors
+-Transcription, Genetic
+
+pii:S0006-3495(09)00556-6
+doi:10.1016/j.bpj.2009.01.041
+pubmed:19413975
+pmc:PMC2711399
+

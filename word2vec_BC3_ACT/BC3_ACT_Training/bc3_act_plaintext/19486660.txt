@@ -1,0 +1,26 @@
+Biophys. J.
+
+Association of helical beta-peptides and their aggregation behavior from the potential of mean force in explicit solvent.
+
+CA Miller, SH Gellman, NL Abbott, JJ de Pablo
+
+Helical beta-peptides have been shown to fold into well-defined structures. In aqueous solution, some beta-peptides self-assemble into nanoscale fibers, aggregates, and liquid crystalline phases. Molecular simulations, at an atomistic level, are used to examine, in a systematic manner, the interactions between distinct beta-peptide molecules. The relationship between side-chain chemistry (and position along the backbone) and, in particular, aggregation behaviors, is assessed by calculating the potential of mean force or dimerization free energy of two peptides in explicit water. The free energy profiles as a function of separation for helical, amphiphilic beta-peptides are consistent with experimental observations, and help explain the origins of aggregate or fiber formation in solution. Close examination of the energetic and entropic contributions to the free energy reveals that, depending on the position of certain side groups along the molecule, the tendency of two peptides to aggregate can be driven by entropy or by energy, respectively. In contrast to findings from previous works that employed a coarse representation of the solvent, it is shown that water-peptide interactions play key roles in the association behavior of beta-peptides.
+
+-Algorithms
+-Computer Simulation
+-Entropy
++Models, Chemical
+-Peptides (+chemistry)
+-Probability
++Protein Conformation
++Protein Multimerization
+-Solvents (+chemistry)
+-Static Electricity
+-Temperature
+-Water (-chemistry)
+
+pii:S0006-3495(09)00675-4
+doi:10.1016/j.bpj.2008.11.076
+pubmed:19486660
+pmc:PMC2711497
+

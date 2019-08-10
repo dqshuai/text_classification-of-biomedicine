@@ -1,0 +1,29 @@
+PLoS Genet.
+
+Xpf and not the Fanconi anaemia proteins or Rev3 accounts for the extreme resistance to cisplatin in Dictyostelium discoideum.
+
+XY Zhang, J Langenick, D Traynor, MM Babu, RR Kay, KJ Patel
+
+Organisms like Dictyostelium discoideum, often referred to as DNA damage "extremophiles", can survive exposure to extremely high doses of radiation and DNA crosslinking agents. These agents form highly toxic DNA crosslinks that cause extensive DNA damage. However, little is known about how Dictyostelium and the other "extremophiles" can tolerate and repair such large numbers of DNA crosslinks. Here we describe a comprehensive genetic analysis of crosslink repair in Dictyostelium discoideum. We analyse three gene groups that are crucial for a replication-coupled repair process that removes DNA crosslinks in higher eukarya: The Fanconi anaemia pathway (FA), translesion synthesis (TLS), and nucleotide excision repair. Gene disruption studies unexpectedly reveal that the FA genes and the TLS enzyme Rev3 play minor roles in tolerance to crosslinks in Dictyostelium. However, disruption of the Xpf nuclease subcomponent results in striking hypersensitivity to crosslinks. Genetic interaction studies reveal that although Xpf functions with FA and TLS gene products, most Xpf mediated repair is independent of these two gene groups. These results suggest that Dictyostelium utilises a distinct Xpf nuclease-mediated repair process to remove crosslinked DNA. Other DNA damage-resistant organisms and chemoresistant cancer cells might adopt a similar strategy to develop resistance to DNA crosslinking agents.
+
+-Animals
+-Cisplatin (+pharmacology)
+-Cross-Linking Reagents (-pharmacology)
+-DNA Repair (-drug effects)
+-DNA-Binding Proteins (+metabolism)
+-DNA-Directed DNA Polymerase (+metabolism)
+-Dictyostelium (+drug effects; +enzymology; -genetics)
+-Drug Resistance (+drug effects)
+-Fanconi Anemia Complementation Group D2 Protein (-metabolism)
+-Fanconi Anemia Complementation Group Proteins (+metabolism)
+-Gene Targeting
+-Genes, Protozoan
+-Models, Biological
+-Mutation (-genetics)
+-Ubiquitin (-metabolism)
+-Ubiquitination (-drug effects)
+
+doi:10.1371/journal.pgen.1000645
+pubmed:19763158
+pmc:PMC2730050
+

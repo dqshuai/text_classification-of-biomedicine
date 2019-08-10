@@ -1,0 +1,27 @@
+Methods
+
+Bioinformatic approaches to identifying orthologs and assessing evolutionary relationships.
+
+EJ Vallender
+
+Non-human primate genetic research defines itself through comparisons to humans; few other species require the implicit comparative genomics approaches. Because of this, errors in the identification of non-human primate orthologs can have profound effects. Gene prediction algorithms can and have produced false transcripts that have become incorporated into commonly used databases and genomics portals. These false transcripts can arise from deficiencies in the algorithms themselves as well as through gaps and other problems in the genome assembly. Putative genes generated can not only miss microexons, but improperly incorporate non-coding sequence resulting in pseudogenes or other transcripts without biological relevance. False transcripts then become identified as orthologs to established human genes and are too often taken as gospel by unwary researchers. Here, the processes through which these errors propagate are isolated and methods are described for identifying false orthologs in databases with several representative errors illustrated. Through these steps any researcher seeking to make use of non-human primate genetic information will have the tools at their disposal to ascertain where errors exist and to remedy them once encountered.
+
+-Algorithms
+-Amino Acid Sequence
+-Animals
+-Base Sequence
+-Computational Biology (+methods)
++Evolution, Molecular
+-Humans
+-Macaca mulatta (-classification)
+-Mannosyltransferases (-genetics)
+-Molecular Sequence Data
+-Pan troglodytes (-classification)
+-Phylogeny
+
+pii:S1046-2023(09)00132-7
+doi:10.1016/j.ymeth.2009.05.010
+pubmed:19467333
+mid:NIHMS119851
+pmc:PMC2732758
+

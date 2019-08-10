@@ -1,0 +1,23 @@
+BMC Struct. Biol.
+
+Universal partitioning of the hierarchical fold network of 50-residue segments in proteins.
+
+J Ito, Y Sonobe, K Ikeda, K Tomii, J Higo
+
+BACKGROUND: Several studies have demonstrated that protein fold space is structured hierarchically and that power-law statistics are satisfied in relation between the numbers of protein families and protein folds (or superfamilies). We examined the internal structure and statistics in the fold space of 50 amino-acid residue segments taken from various protein folds. We used inter-residue contact patterns to measure the tertiary structural similarity among segments. Using this similarity measure, the segments were classified into a number (Kc) of clusters. We examined various Kc values for the clustering. The special resolution to differentiate the segment tertiary structures increases with increasing Kc. Furthermore, we constructed networks by linking structurally similar clusters. RESULTS: The network was partitioned persistently into four regions for Kc >or= 1000. This main partitioning is consistent with results of earlier studies, where similar partitioning was reported in classifying protein domain structures. Furthermore, the network was partitioned naturally into several dozens of sub-networks (i.e., communities). Therefore, intra-sub-network clusters were mutually connected with numerous links, although inter-sub-network ones were rarely done with few links. For Kc >or= 1000, the major sub-networks were about 40; the contents of the major sub-networks were conserved. This sub-partitioning is a novel finding, suggesting that the network is structured hierarchically: Segments construct a cluster, clusters form a sub-network, and sub-networks constitute a region. Additionally, the network was characterized by non-power-law statistics, which is also a novel finding. CONCLUSION: Main findings are: (1) The universe of 50 residue segments found here was characterized by non-power-law statistics. Therefore, the universe differs from those ever reported for the protein domains. (2) The 50-residue segments were partitioned persistently and universally into some dozens (ca. 40) of major sub-networks, irrespective of the number of clusters. (3) These major sub-networks encompassed 90% of all segments. Consequently, the protein tertiary structure is constructed using the dozens of elements (sub-networks).
+
++Amino Acid Sequence
+-Computational Biology
++Conserved Sequence
+-Databases, Protein
+-Protein Binding
+-Protein Conformation
++Protein Folding
+-Protein Structure, Tertiary
+-Proteins (+chemistry)
+
+pii:1472-6807-9-34
+doi:10.1186/1472-6807-9-34
+pubmed:19454039
+pmc:PMC2693521
+

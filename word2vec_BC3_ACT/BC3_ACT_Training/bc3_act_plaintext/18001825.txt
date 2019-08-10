@@ -1,0 +1,35 @@
+Cell
+
+RNF8 transduces the DNA-damage signal via histone ubiquitylation and checkpoint protein assembly.
+
+MS Huen, R Grant, I Manke, K Minn, X Yu, MB Yaffe, J Chen
+
+DNA-damage signaling utilizes a multitude of posttranslational modifiers as molecular switches to regulate cell-cycle checkpoints, DNA repair, cellular senescence, and apoptosis. Here we show that RNF8, a FHA/RING domain-containing protein, plays a critical role in the early DNA-damage response. We have solved the X-ray crystal structure of the FHA domain structure at 1.35 A. We have shown that RNF8 facilitates the accumulation of checkpoint mediator proteins BRCA1 and 53BP1 to the damaged chromatin, on one hand through the phospho-dependent FHA domain-mediated binding of RNF8 to MDC1, on the other hand via its role in ubiquitylating H2AX and possibly other substrates at damage sites. Moreover, RNF8-depleted cells displayed a defective G2/M checkpoint and increased IR sensitivity. Together, our study implicates RNF8 as a novel DNA-damage-responsive protein that integrates protein phosphorylation and ubiquitylation signaling and plays a critical role in the cellular response to genotoxic stress.
+
+-Amino Acid Motifs
+-BRCA1 Protein (-metabolism)
+-Binding Sites
+-Cell Cycle (-radiation effects)
+-Cell Cycle Proteins (+metabolism)
+-Cells, Cultured
+-DNA Damage (+physiology)
+-DNA-Binding Proteins (-chemistry; -metabolism; +physiology)
+-Histones (+metabolism; -physiology)
+-Humans
+-Intracellular Signaling Peptides and Proteins (-metabolism)
+-Models, Biological
+-Models, Molecular
+-Nuclear Proteins (-physiology)
+-Phosphorylation
+-Protein Binding
+-Protein Structure, Tertiary
+-Signal Transduction
+-Trans-Activators (-physiology)
++Ubiquitination (-physiology)
+
+pii:S0092-8674(07)01270-6
+doi:10.1016/j.cell.2007.09.041
+pubmed:18001825
+mid:NIHMS35444
+pmc:PMC2149842
+

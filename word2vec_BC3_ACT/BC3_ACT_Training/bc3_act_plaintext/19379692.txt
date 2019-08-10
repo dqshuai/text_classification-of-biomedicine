@@ -1,0 +1,28 @@
+Cell
+
+Dimethylation of H3K4 by Set1 recruits the Set3 histone deacetylase complex to 5' transcribed regions.
+
+T Kim, S Buratowski
+
+Cotranscriptional histone methylations by Set1 and Set2 have been shown to affect histone acetylation at promoters and 3' regions of genes, respectively. While histone H3K4 trimethylation (H3K4me3) is thought to promote nucleosome acetylation and remodeling near promoters, we show here that H3K4 dimethylation (H3K4me2) by Set1 leads to reduced histone acetylation levels near 5' ends of genes. H3K4me2 recruits the Set3 complex via the Set3 PHD finger, localizing the Hos2 and Hst1 subunits to deacetylate histones in 5' transcribed regions. Cells lacking the Set1-Set3 complex pathway are sensitive to mycophenolic acid and have reduced polymerase levels at a Set3 target gene, suggesting a positive role in transcription. We propose that Set1 establishes two distinct chromatin zones on genes: H3K4me3 leads to high levels of acetylation and low nucleosome density at promoters, while H3K4me2 just downstream recruits the Set3 complex to suppress nucleosome acetylation and remodeling.
+
+-Acetylation
+-Chromatin Assembly and Disassembly
+-DNA-Binding Proteins (+metabolism)
+-Histone Deacetylases (+metabolism)
+-Histone-Lysine N-Methyltransferase
+-Histones (+metabolism)
+-Methylation
+-Nucleosomes (-metabolism)
+-Saccharomyces cerevisiae (+metabolism)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+-Telomere (-metabolism)
+-Transcription Factors (+metabolism)
++Transcription, Genetic
+
+pii:S0092-8674(09)00267-0
+doi:10.1016/j.cell.2009.02.045
+pubmed:19379692
+mid:NIHMS104376
+pmc:PMC2802783
+

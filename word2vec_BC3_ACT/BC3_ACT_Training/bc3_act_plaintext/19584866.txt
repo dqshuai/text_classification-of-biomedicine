@@ -1,0 +1,30 @@
+Nat. Med.
+
+A small molecule blocking oncogenic protein EWS-FLI1 interaction with RNA helicase A inhibits growth of Ewing's sarcoma.
+
+HV Erkizan, Y Kong, M Merchant, S Schlottmann, JS Barber-Rotenberg, L Yuan, OD Abaan, TH Chou, S Dakshanamurthy, ML Brown, A Uren, JA Toretsky
+
+Many sarcomas and leukemias carry nonrandom chromosomal translocations encoding tumor-specific mutant fusion transcription factors that are essential to their molecular pathogenesis. Ewing's sarcoma family tumors (ESFTs) contain a characteristic t(11;22) translocation leading to expression of the oncogenic fusion protein EWS-FLI1. EWS-FLI1 is a disordered protein that precludes standard structure-based small-molecule inhibitor design. EWS-FLI1 binding to RNA helicase A (RHA) is important for its oncogenic function. We therefore used surface plasmon resonance screening to identify compounds that bind EWS-FLI1 and might block its interaction with RHA. YK-4-279, a derivative of the lead compound from the screen, blocks RHA binding to EWS-FLI1, induces apoptosis in ESFT cells and reduces the growth of ESFT orthotopic xenografts. These findings provide proof of principle that inhibiting the interaction of mutant cancer-specific transcription factors with the normal cellular binding partners required for their oncogenic activity provides a promising strategy for the development of uniquely effective, tumor-specific anticancer agents.
+
+-Animals
+-Antineoplastic Agents (+pharmacology)
+-COS Cells
+-Caspase 3 (-metabolism)
+-Cells, Cultured
+-Cercopithecus aethiops
+-DEAD-box RNA Helicases (+metabolism)
+-Humans
+-Mice
+-Neoplasm Proteins (+metabolism)
+-Oncogene Proteins, Fusion (+antagonists & inhibitors)
+-Sarcoma, Ewing's (+drug therapy; -pathology)
+-Surface Plasmon Resonance
+-Transcription Factors (+antagonists & inhibitors)
+-Xenograft Model Antitumor Assays
+
+pii:nm.1983
+doi:10.1038/nm.1983
+pubmed:19584866
+mid:NIHMS116382
+pmc:PMC2777681
+

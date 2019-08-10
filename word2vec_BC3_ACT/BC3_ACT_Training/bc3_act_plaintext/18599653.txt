@@ -1,0 +1,26 @@
+Plant Physiol.
+
+AGL61 interacts with AGL80 and is required for central cell development in Arabidopsis.
+
+JG Steffen, IH Kang, MF Portereiko, A Lloyd, GN Drews
+
+The central cell of the female gametophyte plays a role in pollen tube guidance and in regulating the initiation of endosperm development. Following fertilization, the central cell gives rise to the seed's endosperm, which nourishes the developing embryo within the seed. The molecular mechanisms controlling specification and differentiation of the central cell are poorly understood. We identified AGL61 in a screen for transcription factor genes expressed in the female gametophyte. AGL61 encodes a Type I MADS domain protein, which likely functions as a transcription factor. Consistent with this, an AGL61-green fluorescent protein fusion protein is localized to the nucleus. In the context of the ovule and seed, AGL61 is expressed exclusively in the central cell and early endosperm. agl61 female gametophytes are affected in the central cell specifically. The morphological defects include an overall reduction in size of the central cell and a reduced or absent central cell vacuole. When fertilized with wild-type pollen, agl61 central cells fail to give rise to endosperm. In addition, synergid- and antipodal-expressed genes are ectopically expressed in agl61 central cells. The expression pattern and mutant phenotype of AGL61 are similar to those of AGL80, suggesting that AGL61 may function as a heterodimer with AGL80 within the central cell; consistent with this, AGL61 and AGL80 interact in yeast two-hybrid assays. Together, these data suggest that AGL61 functions as a transcription factor and controls the expression of downstream genes during central cell development.
+
+-AGAMOUS Protein, Arabidopsis (+metabolism)
+-Arabidopsis (-genetics; +growth & development; -metabolism)
+-Arabidopsis Proteins (+metabolism)
+-Flowers (+growth & development; -metabolism)
+-Gene Expression
++Gene Expression Regulation, Plant
+-Genetic Complementation Test
+-Homeostasis
+-MADS Domain Proteins (+metabolism)
+-Mutation
+-Saccharomyces cerevisiae (-genetics; -metabolism)
+-Seeds (-growth & development; -metabolism)
+
+pii:pp.108.119404
+doi:10.1104/pp.108.119404
+pubmed:18599653
+pmc:PMC2528130
+

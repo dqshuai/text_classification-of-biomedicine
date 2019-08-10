@@ -1,0 +1,27 @@
+BMC Plant Biol.
+
+Saccharomyces cerevisiae FKBP12 binds Arabidopsis thaliana TOR and its expression in plants leads to rapamycin susceptibility.
+
+R Sormani, L Yao, B Menand, N Ennar, C Lecampion, C Meyer, C Robaglia
+
+BACKGROUND: The eukaryotic TOR pathway controls translation, growth and the cell cycle in response to environmental signals such as nutrients or growth-stimulating factors. The TOR protein kinase can be inactivated by the antibiotic rapamycin following the formation of a ternary complex between TOR, rapamycin and FKBP12 proteins. The TOR protein is also found in higher plants despite the fact that they are rapamycin insensitive. Previous findings using the yeast two hybrid system suggest that the FKBP12 plant homolog is unable to form a complex with rapamycin and TOR, while the FRB domain of plant TOR is still able to bind to heterologous FKBP12 in the presence of rapamycin. The resistance to rapamycin is therefore limiting the molecular dissection of the TOR pathway in higher plants. RESULTS: Here we show that none of the FKBPs from the model plant Arabidopsis (AtFKBPs) is able to form a ternary complex with the FRB domain of AtTOR in the presence of rapamycin in a two hybrid system. An antibody has been raised against the AtTOR protein and binding of recombinant yeast ScFKBP12 to native Arabidopsis TOR in the presence of rapamycin was demonstrated in pull-down experiments. Transgenic lines expressing ScFKBP12 were produced and were found to display a rapamycin-dependent reduction of the primary root growth and a lowered accumulation of high molecular weight polysomes. CONCLUSION: These results further strengthen the idea that plant resistance to rapamycin evolved as a consequence of mutations in plant FKBP proteins. The production of rapamycin-sensitive plants through the expression of the ScFKBP12 protein illustrates the conservation of the TOR pathway in eukaryotes. Since AtTOR null mutants were found to be embryo lethal 1, transgenic ScFKBP12 plants will provide an useful tool for the post-embryonic study of plant TOR functions. This work also establish for the first time a link between TOR activity and translation in plant cells.
+
+-Amino Acid Sequence
+-Arabidopsis (-drug effects; -genetics; +metabolism)
+-Arabidopsis Proteins (-metabolism)
+-DNA Primers
+-Gene Expression Regulation, Plant
+-Genome, Plant
+-Molecular Sequence Data
+-Protein Binding
+-Protein-Serine-Threonine Kinases (+metabolism)
+-Saccharomyces cerevisiae (+metabolism)
+-Saccharomyces cerevisiae Proteins (-metabolism)
+-Sirolimus (+chemical synthesis; +pharmacology)
+-Tacrolimus Binding Protein 1A (+genetics; +metabolism)
+
+pii:1471-2229-7-26
+doi:10.1186/1471-2229-7-26
+pubmed:17543119
+pmc:PMC1903354
+

@@ -1,0 +1,24 @@
+Cell
+
+A protein domain-based interactome network for C. elegans early embryogenesis.
+
+M Boxem, Z Maliga, N Klitgord, N Li, I Lemmens, M Mana, L de Lichtervelde, JD Mul, D van de Peut, M Devos, N Simonis, MA Yildirim, M Cokol, HL Kao, AS de Smet, H Wang, AL Schlaitz, T Hao, S Milstein, C Fan, M Tipsword, K Drew, M Galli, K Rhrissorrakrai, D Drechsel, D Koller, FP Roth, LM Iakoucheva, AK Dunker, R Bonneau, KC Gunsalus, DE Hill, F Piano, J Tavernier, S van den Heuvel, AA Hyman, M Vidal
+
+Many protein-protein interactions are mediated through independently folding modular domains. Proteome-wide efforts to model protein-protein interaction or "interactome" networks have largely ignored this modular organization of proteins. We developed an experimental strategy to efficiently identify interaction domains and generated a domain-based interactome network for proteins involved in C. elegans early-embryonic cell divisions. Minimal interacting regions were identified for over 200 proteins, providing important information on their domain organization. Furthermore, our approach increased the sensitivity of the two-hybrid system, resulting in a more complete interactome network. This interactome modeling strategy revealed insights into C. elegans centrosome function and is applicable to other biological processes in this and other organisms.
+
+-Animals
+-Caenorhabditis elegans (+embryology)
+-Cell Division
+-Embryo, Nonmammalian (+metabolism)
++Embryonic Development
+-Protein Interaction Domains and Motifs
++Protein Interaction Mapping
+-Proteome
+-Two-Hybrid System Techniques
+
+pii:S0092-8674(08)00886-6
+doi:10.1016/j.cell.2008.07.009
+pubmed:18692475
+mid:NIHMS65171
+pmc:PMC2596478
+

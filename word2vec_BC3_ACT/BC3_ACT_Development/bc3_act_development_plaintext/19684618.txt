@@ -1,0 +1,26 @@
+Oncogene
+
+Protein lysate microarray analysis to identify microRNAs regulating estrogen receptor signaling in breast cancer cell lines.
+
+SK Leivonen, R Mäkelä, P Ostling, P Kohonen, S Haapa-Paananen, K Kleivi, E Enerly, A Aakula, K Hellström, N Sahlberg, VN Kristensen, AL Børresen-Dale, P Saviranta, M Perälä, O Kallioniemi
+
+Predicting the impact of microRNAs (miRNAs) on target proteins is challenging because of their different regulatory effects at the transcriptional and translational levels. In this study, we applied a novel protein lysate microarray (LMA) technology to systematically monitor for target protein levels after high-throughput transfections of 319 pre-miRs into breast cancer cells. We identified 21 miRNAs that downregulated the estrogen receptor-alpha (ERalpha), as validated by western blotting and quantitative real time-PCR, and by demonstrating the inhibition of estrogen-stimulated cell growth. Five potent ERalpha-regulating miRNAs, miR-18a, miR-18b, miR-193b, miR-206 and miR-302c, were confirmed to directly target ERalpha in 3'-untranslated region reporter assays. The gene expression signature that they repressed highly overlapped with that of a small interfering RNA against ERalpha, and across all the signatures tested, was most closely associated with the repression of known estrogen-induced genes. Furthermore, miR-18a and miR-18b showed higher levels of expression in ERalpha-negative as compared with ERalpha-positive clinical tumors. In summary, we present systematic and direct functional evidence of miRNAs inhibiting ERalpha signaling in breast cancer, and demonstrate the high-throughput LMA technology as a novel, powerful technique in determining the relative impact of various miRNAs on key target proteins and associated cellular processes and pathways.
+
+-3' Untranslated Regions
+-Breast Neoplasms
+-Cell Line, Tumor
+-Cell-Free System (-metabolism)
++Down-Regulation
+-Estrogen Receptor alpha (+biosynthesis)
+-Female
++Gene Expression Regulation, Neoplastic
+-Humans
+-MicroRNAs (+metabolism)
+-Oligonucleotide Array Sequence Analysis
+-RNA, Neoplasm (+metabolism)
++Signal Transduction
+
+pii:onc2009241
+doi:10.1038/onc.2009.241
+pubmed:19684618
+

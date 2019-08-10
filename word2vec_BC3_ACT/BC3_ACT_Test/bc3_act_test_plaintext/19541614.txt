@@ -1,0 +1,26 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Evaluating beta-turn mimics as beta-sheet folding nucleators.
+
+AA Fuller, D Du, F Liu, JE Davoren, G Bhabha, G Kroon, DA Case, HJ Dyson, ET Powers, P Wipf, M Gruebele, JW Kelly
+
+Beta-turns are common conformations that enable proteins to adopt globular structures, and their formation is often rate limiting for folding. Beta-turn mimics, molecules that replace the i + 1 and i + 2 amino acid residues of a beta-turn, are envisioned to act as folding nucleators by preorganizing the pendant polypeptide chains, thereby lowering the activation barrier for beta-sheet formation. However, the crucial kinetic experiments to demonstrate that beta-turn mimics can act as strong nucleators in the context of a cooperatively folding protein have not been reported. We have incorporated 6 beta-turn mimics simulating varied beta-turn types in place of 2 residues in an engineered beta-turn 1 or beta-bulge turn 1 of the Pin 1 WW domain, a three-stranded beta-sheet protein. We present 2 lines of kinetic evidence that the inclusion of beta-turn mimics alters beta-sheet folding rates, enabling us to classify beta-turn mimics into 3 categories: those that are weak nucleators but permit Pin WW folding, native-like nucleators, and strong nucleators. Strong nucleators accelerate folding relative to WW domains incorporating all alpha-amino acid sequences. A solution NMR structure reveals that the native Pin WW beta-sheet structure is retained upon incorporating a strong E-olefin nucleator. These beta-turn mimics can now be used to interrogate protein folding transition state structures and the 2 kinetic analyses presented can be used to assess the nucleation capacity of other beta-turn mimics.
+
+-Amino Acid Sequence
+-Humans
+-Kinetics
++Molecular Mimicry
+-Molecular Sequence Data
+-Mutant Proteins
+-Peptidylprolyl Isomerase (+chemistry)
+-Protein Stability
+-Protein Structure, Secondary
+-Protein Structure, Tertiary
+-Solutions
+-Thermodynamics
+
+pii:0813012106
+doi:10.1073/pnas.0813012106
+pubmed:19541614
+pmc:PMC2708776
+

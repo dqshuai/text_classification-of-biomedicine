@@ -1,0 +1,29 @@
+PLoS Biol.
+
+The viral oncoprotein LMP1 exploits TRADD for signaling by masking its apoptotic activity.
+
+F Schneider, J Neugebauer, J Griese, N Liefold, H Kutz, C Briseño, A Kieser
+
+The tumor necrosis factor (TNF)-receptor 1-associated death domain protein (TRADD) mediates induction of apoptosis as well as activation of NF-kappaB by cellular TNF-receptor 1 (TNFR1). TRADD is also recruited by the latent membrane protein 1 (LMP1) oncoprotein of Epstein-Barr virus, but its role in LMP1 signaling has remained enigmatic. In human B lymphocytes, we have generated, to our knowledge, the first genetic knockout of TRADD to investigate TRADD's role in LMP1 signal transduction. Our data from TRADD-deficient cells demonstrate that TRADD is a critical signaling mediator of LMP1 that is required for LMP1 to recruit and activate I-kappaB kinase beta (IKKbeta). However, in contrast to TNFR1, LMP1-induced TRADD signaling does not induce apoptosis. Searching for the molecular basis for this observation, we characterized the 16 C-terminal amino acids of LMP1 as an autonomous and unique virus-derived TRADD-binding domain. Replacing the death domain of TNFR1 by LMP1's TRADD-binding domain converts TNFR1 into a nonapoptotic receptor that activates NF-kappaB through a TRAF6-dependent pathway, like LMP1 but unlike wild-type TNFR1. Thus, the unique interaction of LMP1 with TRADD encodes the transforming phenotype of viral TRADD signaling and masks TRADD's pro-apoptotic function.
+
++Apoptosis
+-B-Lymphocytes (-metabolism)
+-Binding Sites
+-Cells, Cultured
+-Enzyme Activation
+-Humans
+-I-kappa B Kinase (-metabolism)
+-JNK Mitogen-Activated Protein Kinases (-metabolism)
+-Molecular Sequence Data
+-NF-kappa B (-metabolism)
+-Oncogene Proteins (+metabolism)
+-Protein Binding
++Signal Transduction
+-TNF Receptor-Associated Death Domain Protein (-deficiency; -genetics; +metabolism)
+-Viral Matrix Proteins (+metabolism)
+
+pii:07-PLBI-RA-0831
+doi:10.1371/journal.pbio.0060008
+pubmed:18198944
+pmc:PMC2174972
+

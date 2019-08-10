@@ -1,0 +1,26 @@
+J. Cell Biol.
+
+The TRC8 E3 ligase ubiquitinates MHC class I molecules before dislocation from the ER.
+
+HR Stagg, M Thomas, D van den Boomen, EJ Wiertz, HA Drabkin, RM Gemmill, PJ Lehner
+
+The US2 and US11 gene products of human cytomegalovirus promote viral evasion by hijacking the endoplasmic reticulum (ER)-associated degradation (ERAD) pathway. US2 and US11 initiate dislocation of newly translocated major histocompatibility complex class I (MHC I) from the ER to the cytosol for proteasome-mediated degradation, thereby decreasing cell surface MHC I. Despite being instrumental in elucidating the mammalian ERAD pathway, the responsible E3 ligase or ligases remain unknown. Using a functional small interfering RNA library screen, we now identify TRC8 (translocation in renal carcinoma, chromosome 8 gene), an ER-resident E3 ligase previously implicated as a hereditary kidney cancer gene, as required for US2-mediated MHC I ubiquitination. Depletion of TRC8 prevents MHC I ubiquitination and dislocation by US2 and restores cell surface MHC I. TRC8 forms an integral part of a novel multiprotein ER complex that contains MHC I, US2, and signal peptide peptidase. Our data show that the TRC8 E3 ligase is required for MHC I dislocation from the ER and identify a new complex associated with mammalian ERAD.
+
+-Animals
+-Endoplasmic Reticulum (+metabolism)
+-Hela Cells
+-Histocompatibility Antigens Class I (-genetics; +metabolism)
+-Humans
++Major Histocompatibility Complex
+-Mutation
+-RNA Interference
+-Receptors, Cell Surface (-genetics; +metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Ubiquitin (+metabolism)
+-Viral Envelope Proteins (-genetics; -metabolism)
+
+pii:jcb.200906110
+doi:10.1083/jcb.200906110
+pubmed:19720873
+pmc:PMC2742190
+

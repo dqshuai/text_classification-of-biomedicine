@@ -1,0 +1,28 @@
+J Biomol Tech
+
+The ABRF Edman Sequencing Research Group 2008 Study: investigation into homopolymeric amino acid N-terminal sequence tags and their effects on automated Edman degradation.
+
+RS Thoma, JS Smith, W Sandoval, JW Leone, P Hunziker, B Hampton, KD Linse, ND Denslow
+
+The Edman Sequence Research Group (ESRG) of the Association of Biomolecular Resource designs and executes interlaboratory studies investigating the use of automated Edman degradation for protein and peptide analysis. In 2008, the ESRG enlisted the help of core sequencing facilities to investigate the effects of a repeating amino acid tag at the N-terminus of a protein. Commonly, to facilitate protein purification, an affinity tag containing a polyhistidine sequence is conjugated to the N-terminus of the protein. After expression, polyhistidine-tagged protein is readily purified via chelation with an immobilized metal affinity resin. The addition of the polyhistidine tag presents unique challenges for the determination of protein identity using Edman degradation chemistry. Participating laboratories were asked to sequence one protein engineered in three configurations: with an N-terminal polyhistidine tag; with an N-terminal polyalanine tag; or with no tag. Study participants were asked to return a data file containing the uncorrected amino acid picomole yields for the first 17 cycles. Initial and repetitive yield (R.Y.) information and the amount of lag were evaluated. Information about instrumentation and sample treatment was also collected as part of the study. For this study, the majority of participating laboratories successfully called the amino acid sequence for 17 cycles for all three test proteins. In general, laboratories found it more difficult to call the sequence containing the polyhistidine tag. Lag was observed earlier and more consistently with the polyhistidine-tagged protein than the polyalanine-tagged protein. Histidine yields were significantly less than the alanine yields in the tag portion of each analysis. The polyhistidine and polyalanine protein-R.Y. calculations were found to be equivalent. These calculations showed that the nontagged portion from each protein was equivalent. The terminal histidines from the tagged portion of the protein were demonstrated to be responsible for the high lag during N-terminal sequence analysis.
+
+-Affinity Labels (+analysis)
+-Amino Acid Sequence
+-Amino Acids (-isolation & purification)
+-Automation
+-Efficiency
+-Histidine (+analysis)
+-Human Growth Hormone (+chemistry; -isolation & purification)
+-Humans
+-Laboratories (-standards)
+-Molecular Sequence Data
+-Organophosphorus Compounds
+-Peptides (+analysis)
+-Protein Structure, Tertiary
+-Recombinant Fusion Proteins (-chemistry)
+-Sequence Analysis, Protein (-instrumentation; +methods; -standards)
+-Transfection
+
+pubmed:19721823
+pmc:PMC2729483
+

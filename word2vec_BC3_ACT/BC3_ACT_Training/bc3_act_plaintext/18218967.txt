@@ -1,0 +1,29 @@
+Plant Physiol.
+
+MYB72 is required in early signaling steps of rhizobacteria-induced systemic resistance in Arabidopsis.
+
+S Van der Ent, BW Verhagen, R Van Doorn, D Bakker, MG Verlaan, MJ Pel, RG Joosten, MC Proveniers, LC Van Loon, J Ton, CM Pieterse
+
+Colonization of Arabidopsis thaliana roots by nonpathogenic Pseudomonas fluorescens WCS417r bacteria triggers a jasmonate/ethylene-dependent induced systemic resistance (ISR) that is effective against a broad range of pathogens. Microarray analysis revealed that the R2R3-MYB-like transcription factor gene MYB72 is specifically activated in the roots upon colonization by WCS417r. Here, we show that T-DNA knockout mutants myb72-1 and myb72-2 are incapable of mounting ISR against the pathogens Pseudomonas syringae pv tomato, Hyaloperonospora parasitica, Alternaria brassicicola, and Botrytis cinerea, indicating that MYB72 is essential to establish broad-spectrum ISR. Overexpression of MYB72 did not result in enhanced resistance against any of the pathogens tested, demonstrating that MYB72 is not sufficient for the expression of ISR. Yeast two-hybrid analysis revealed that MYB72 physically interacts in vitro with the ETHYLENE INSENSITIVE3 (EIN3)-LIKE3 transcription factor EIL3, linking MYB72 function to the ethylene response pathway. However, WCS417r activated MYB72 in ISR-deficient, ethylene-insensitive ein2-1 plants. Moreover, exogenous application of the ethylene precursor 1-aminocyclopropane-1-carboxylate induced wild-type levels of resistance in myb72-1, suggesting that MYB72 acts upstream of ethylene in the ISR pathway. Collectively, this study identified the transcriptional regulator MYB72 as a novel ISR signaling component that is required in the roots during early signaling steps of rhizobacteria-mediated ISR.
+
+-Acetic Acids (-metabolism)
+-Amino Acids, Cyclic (-metabolism)
+-Arabidopsis (-microbiology; +physiology)
+-Arabidopsis Proteins (+genetics; -metabolism)
+-Cyclopentanes (-metabolism)
+-DNA-Binding Proteins (-metabolism)
+-Ethylenes (-metabolism)
++Gene Expression Regulation, Plant
+-Glucans (-metabolism)
+-Mutagenesis, Insertional
+-Oxylipins (-metabolism)
+-Plant Roots (+immunology; -metabolism; -microbiology)
+-Pseudomonas fluorescens (+physiology)
+-Signal Transduction (-physiology)
+-Transcription Factors (+genetics; -metabolism)
+
+pii:pp.107.113829
+doi:10.1104/pp.107.113829
+pubmed:18218967
+pmc:PMC2259080
+

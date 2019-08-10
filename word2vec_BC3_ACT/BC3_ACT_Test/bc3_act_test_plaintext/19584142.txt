@@ -1,0 +1,19 @@
+Plant Cell
+
+Phylogenomic analysis demonstrates a pattern of rare and ancient horizontal gene transfer between plants and fungi.
+
+TA Richards, DM Soanes, PG Foster, G Leonard, CR Thornton, NJ Talbot
+
+Horizontal gene transfer (HGT) describes the transmission of genetic material across species boundaries and is an important evolutionary phenomenon in the ancestry of many microbes. The role of HGT in plant evolutionary history is, however, largely unexplored. Here, we compare the genomes of six plant species with those of 159 prokaryotic and eukaryotic species and identify 1689 genes that show the highest similarity to corresponding genes from fungi. We constructed a phylogeny for all 1689 genes identified and all homolog groups available from the rice (Oryza sativa) genome (3177 gene families) and used these to define 14 candidate plant-fungi HGT events. Comprehensive phylogenetic analyses of these 14 data sets, using methods that account for site rate heterogeneity, demonstrated support for nine HGT events, demonstrating an infrequent pattern of HGT between plants and fungi. Five HGTs were fungi-to-plant transfers and four were plant-to-fungi HGTs. None of the fungal-to-plant HGTs involved angiosperm recipients. These results alter the current view of organismal barriers to HGT, suggesting that phagotrophy, the consumption of a whole cell by another, is not necessarily a prerequisite for HGT between eukaryotes. Putative functional annotation of the HGT candidate genes suggests that two fungi-to-plant transfers have added phenotypes important for life in a soil environment. Our study suggests that genetic exchange between plants and fungi is exceedingly rare, particularly among the angiosperms, but has occurred during their evolutionary history and added important metabolic traits to plant lineages.
+
+-Evolution, Molecular
+-Fungi (+genetics)
+-Gene Transfer, Horizontal (+genetics)
++Phylogeny
+-Plants (+genetics; +microbiology)
+
+pii:tpc.109.065805
+doi:10.1105/tpc.109.065805
+pubmed:19584142
+pmc:PMC2729602
+

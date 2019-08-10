@@ -1,0 +1,23 @@
+J. Med. Chem.
+
+Discovery of geranylgeranyltransferase-I inhibitors with novel scaffolds by the means of quantitative structure-activity relationship modeling, virtual screening, and experimental validation.
+
+YK Peterson, XS Wang, PJ Casey, A Tropsha
+
+Geranylgeranylation is critical to the function of several proteins including Rho, Rap1, Rac, Cdc42, and G-protein gamma subunits. Geranylgeranyltransferase type I (GGTase-I) inhibitors (GGTIs) have therapeutic potential to treat inflammation, multiple sclerosis, atherosclerosis, and many other diseases. Following our standard workflow, we have developed and rigorously validated quantitative structure-activity relationship (QSAR) models for 48 GGTIs using variable selection k nearest neighbor (kNN), automated lazy learning (ALL), and partial least squares (PLS) methods. The QSAR models were employed for virtual screening of 9.5 million commercially available chemicals, yielding 47 diverse computational hits. Seven of these compounds with novel scaffolds and high predicted GGTase-I inhibitory activities were tested in vitro, and all were found to be bona fide and selective micromolar inhibitors. Notably, these novel hits could not be identified using traditional similarity search. These data demonstrate that rigorously developed QSAR models can serve as reliable virtual screening tools, leading to the discovery of structurally novel bioactive compounds.
+
+-Algorithms
+-Alkyl and Aryl Transferases (+antagonists & inhibitors)
+-Animals
+-Cell Line
+-Combinatorial Chemistry Techniques
+-Drug Evaluation, Preclinical (+methods)
+-Enzyme Inhibitors (+chemistry; +pharmacology)
++Quantitative Structure-Activity Relationship
+-Reproducibility of Results
+
+doi:10.1021/jm8013772
+pubmed:19537691
+mid:NIHMS125694
+pmc:PMC2726652
+

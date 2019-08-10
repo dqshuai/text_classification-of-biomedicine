@@ -1,0 +1,28 @@
+PLoS Genet.
+
+Iron-sulfur (Fe/S) protein biogenesis: phylogenomic and genetic studies of A-type carriers.
+
+D Vinella, C Brochier-Armanet, L Loiseau, E Talla, F Barras
+
+Iron sulfur (Fe/S) proteins are ubiquitous and participate in multiple biological processes, from photosynthesis to DNA repair. Iron and sulfur are highly reactive chemical species, and the mechanisms allowing the multiprotein systems ISC and SUF to assist Fe/S cluster formation in vivo have attracted considerable attention. Here, A-Type components of these systems (ATCs for A-Type Carriers) are studied by phylogenomic and genetic analyses. ATCs that have emerged in the last common ancestor of bacteria were conserved in most bacteria and were acquired by eukaryotes and few archaea via horizontal gene transfers. Many bacteria contain multiple ATCs, as a result of gene duplication and/or horizontal gene transfer events. Based on evolutionary considerations, we could define three subfamilies: ATC-I, -II and -III. Escherichia coli, which has one ATC-I (ErpA) and two ATC-IIs (IscA and SufA), was used as a model to investigate functional redundancy between ATCs in vivo. Genetic analyses revealed that, under aerobiosis, E. coli IscA and SufA are functionally redundant carriers, as both are potentially able to receive an Fe/S cluster from IscU or the SufBCD complex and transfer it to ErpA. In contrast, under anaerobiosis, redundancy occurs between ErpA and IscA, which are both potentially able to receive Fe/S clusters from IscU and transfer them to an apotarget. Our combined phylogenomic and genetic study indicates that ATCs play a crucial role in conveying ready-made Fe/S clusters from components of the biogenesis systems to apotargets. We propose a model wherein the conserved biochemical function of ATCs provides multiple paths for supplying Fe/S clusters to apotargets. This model predicts the occurrence of a dynamic network, the structure and composition of which vary with the growth conditions. As an illustration, we depict three ways for a given protein to be matured, which appears to be dependent on the demand for Fe/S biogenesis.
+
+-Aerobiosis
+-Anaerobiosis
+-Carrier Proteins (+genetics; -metabolism)
+-Escherichia coli (+genetics; -metabolism)
+-Escherichia coli Proteins (+genetics; -metabolism)
+-Eukaryotic Cells (-classification; -metabolism)
++Evolution, Molecular
+-Gene Dosage
+-Genome, Bacterial
+-Iron-Sulfur Proteins (+genetics; -metabolism)
+-Models, Genetic
+-Molecular Sequence Data
++Phylogeny
+-Polyisoprenyl Phosphates (-metabolism)
+-Prokaryotic Cells (-classification; -metabolism)
+
+doi:10.1371/journal.pgen.1000497
+pubmed:19478995
+pmc:PMC2682760
+

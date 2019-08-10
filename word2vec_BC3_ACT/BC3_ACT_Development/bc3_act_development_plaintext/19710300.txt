@@ -1,0 +1,36 @@
+J. Neurosci.
+
+Reliable coding emerges from coactivation of climbing fibers in microbands of cerebellar Purkinje neurons.
+
+I Ozden, MR Sullivan, HM Lee, SS Wang
+
+The inferior olive projects climbing fiber axons to cerebellar Purkinje neurons, where they trigger calcium-based dendritic spikes. These responses dynamically shape the immediate spike output of Purkinje cells as well as provide an instructive signal to guide long-term plasticity. Climbing fibers typically fire approximately once a second, and the instructive role is distributed over many such firing events. However, transmission of salient information on an immediate basis needs to occur on a shorter timescale during which a Purkinje cell would typically be activated by a climbing fiber only once. Here we show using in vivo calcium imaging in anesthetized mice and rats that sensory events are rapidly and reliably represented by momentary, simultaneous coactivation of microbands of adjacent Purkinje cells. Microbands were sagittally oriented and spanned up to 100 microm mediolaterally, representing hundreds of Purkinje cells distributed over multiple folia. Spontaneous and sensory-evoked microbands followed boundaries that were close or identical to one another and were desynchronized by olivary injection of the gap junction blocker mefloquine, indicating that excitation to the olive is converted to synchronized firing by electrical coupling. One-time activation of microbands could distinguish a sensory response from spontaneous activity with up to 98% accuracy. Given the anatomy of the olivocerebellar system, microband synchrony may shape the output of neurons in the cerebellar nuclei either via powerful inhibition by Purkinje cells or by direct monosynaptic excitation from the inferior olive.
+
+-Action Potentials (-drug effects; -physiology)
+-Animals
+-Animals, Newborn
+-Biophysics
+-Calcium (-metabolism)
+-Cerebellum (+cytology)
+-Dendrites (-physiology)
+-Gap Junctions (-physiology)
+-Green Fluorescent Proteins (-genetics)
+-Likelihood Functions
+-Mice
+-Mice, Inbred C57BL
+-Mice, Transgenic
+-Microscopy, Confocal (-methods)
+-Nerve Fibers (+physiology)
+-Nerve Net (-physiology)
+-Olivary Nucleus (+cytology)
+-Physical Stimulation (-methods)
+-Purkinje Cells (-cytology; +physiology)
+-Rats
+-Rats, Wistar
+
+pii:29/34/10463
+doi:10.1523/JNEUROSCI.0967-09.2009
+pubmed:19710300
+mid:NIHMS143899
+pmc:PMC2783593
+

@@ -1,0 +1,24 @@
+Curr. Biol.
+
+Mechanical forces of fission yeast growth.
+
+N Minc, A Boudaoud, F Chang
+
+Mechanical properties contribute to the control of cell size, morphogenesis, development, and lifestyle of fungal cells. Tip growth can be understood by a viscoplastic model, in which growth is derived by high internal turgor pressure and cell-wall elasticity. To understand how these properties regulate growth in the rod-shaped fission yeast Schizosaccaromyces pombe, we devised femtoliter cylindrical polydimethylsiloxane (PDMS) microchambers with varying elasticity as force sensors for single cells. By buckling cells in these chambers, we determine the elastic surface modulus of the cell wall to be 20.2 +/- 6.1 N.m(-1). By analyzing the growth of the cells as they push against the walls of the chamber, we derive force-velocity relationships and values for internal effective turgor pressure of 0.85 +/- 0.15 MPa and a growth-stalling force of 11 +/- 3 muN. The behavior of cells buckling under the force of their own growth provides an independent test of this model and parameters. Force generation is dependent on turgor pressure and a glycerol synthesis gene, gpd1(+) (glycerol-3-phosphate dehydrogenase), and is independent of actin cables. This study develops a quantitative framework for tip cell growth and characterizes mechanisms of force generation that contribute to fungal invasion into host tissues.
+
+-Actins (-metabolism)
++Biological Assay (-instrumentation; -methods)
+-Cell Wall (-physiology)
+-Elastic Modulus
+-Elasticity
+-Mechanotransduction, Cellular (-physiology)
+-Models, Biological
++Schizosaccharomyces (-cytology; -physiology)
++Stress, Mechanical
+
+pii:S0960-9822(09)01132-4
+doi:10.1016/j.cub.2009.05.031
+pubmed:19500986
+mid:NIHMS119895
+pmc:PMC2790036
+

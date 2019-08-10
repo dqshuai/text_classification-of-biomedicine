@@ -1,0 +1,28 @@
+PLoS Comput. Biol.
+
+Detection of functional modes in protein dynamics.
+
+JS Hub, BL de Groot
+
+Proteins frequently accomplish their biological function by collective atomic motions. Yet the identification of collective motions related to a specific protein function from, e.g., a molecular dynamics trajectory is often non-trivial. Here, we propose a novel technique termed "functional mode analysis" that aims to detect the collective motion that is directly related to a particular protein function. Based on an ensemble of structures, together with an arbitrary "functional quantity" that quantifies the functional state of the protein, the technique detects the collective motion that is maximally correlated to the functional quantity. The functional quantity could, e.g., correspond to a geometric, electrostatic, or chemical observable, or any other variable that is relevant to the function of the protein. In addition, the motion that displays the largest likelihood to induce a substantial change in the functional quantity is estimated from the given protein ensemble. Two different correlation measures are applied: first, the Pearson correlation coefficient that measures linear correlation only; and second, the mutual information that can assess any kind of interdependence. Detecting the maximally correlated motion allows one to derive a model for the functional state in terms of a single collective coordinate. The new approach is illustrated using a number of biomolecules, including a polyalanine-helix, T4 lysozyme, Trp-cage, and leucine-binding protein.
+
+-Algorithms
+-Bacteriophage T4 (-enzymology)
+-Binding Sites
+-Computational Biology (+methods)
+-Computer Simulation
+-Escherichia coli Proteins (-chemistry)
+-Models, Statistical
+-Molecular Conformation
+-Muramidase (-chemistry)
+-Peptides (-chemistry)
+-Periplasmic Binding Proteins (-chemistry)
+-Proteins (+chemistry)
+-Solvents (-chemistry)
+-Static Electricity
+-Tryptophan (-chemistry)
+
+doi:10.1371/journal.pcbi.1000480
+pubmed:19714202
+pmc:PMC2721685
+

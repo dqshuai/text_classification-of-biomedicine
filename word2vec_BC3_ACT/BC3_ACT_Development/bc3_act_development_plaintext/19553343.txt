@@ -1,0 +1,30 @@
+RNA
+
+Fluorescently labeled ribosomes as a tool for analyzing antibiotic binding.
+
+B Llano-Sotelo, RP Hickerson, L Lancaster, HF Noller, AS Mankin
+
+Measuring the binding of antibiotics and other small-molecular-weight ligands to the 2.5 MDa ribosome often presents formidable challenges. Here, we describe a general method for studying binding of ligands to ribosomes that carry a site-specific fluorescent label covalently attached to one of the ribosomal proteins. As a proof of principle, an environment-sensitive fluorescent group was placed at several specific sites within the ribosomal protein S12. Small ribosomal subunits were reconstituted from native 16S rRNA, individually purified small subunit proteins, and fluorescently labeled S12. The fluorescence characteristics of the reconstituted subunits were affected by several antibiotics, including streptomycin and neomycin, which bind in the vicinity of protein S12. The equilibrium dissociation constants of the drugs obtained using a conventional fluorometer were in good agreement with those observed using previously published methods and with measurements based on the use of radiolabeled streptomycin. The newly developed method is rapid and sensitive, and can be used for determining thermodynamic and kinetic binding characteristics of antibiotics and other small ribosomal ligands. The method can readily be adapted for use in high-throughput screening assays.
+
+-Anti-Bacterial Agents (-chemistry; +metabolism; -pharmacology)
+-Binding Sites
+-Escherichia coli Proteins (-chemistry; -metabolism)
+-Fluorescent Dyes
+-Kinetics
+-Ligands
+-Models, Molecular
+-Neomycin (-chemistry; -metabolism; -pharmacology)
+-RNA, Bacterial (-chemistry; -metabolism)
+-RNA, Ribosomal, 16S (-chemistry; -metabolism)
+-Ribosomal Proteins (-chemistry; -metabolism)
+-Ribosomes (-chemistry; -drug effects; +metabolism)
+-Sensitivity and Specificity
+-Spectrometry, Fluorescence (-methods)
+-Streptomycin (-chemistry; -metabolism; -pharmacology)
+-Thermodynamics
+
+pii:rna.1681609
+doi:10.1261/rna.1681609
+pubmed:19553343
+pmc:PMC2714759
+

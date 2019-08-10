@@ -1,0 +1,24 @@
+Proteomics
+
+A novel peak detection approach with chemical noise removal using short-time FFT for prOTOF MS data.
+
+S Zhang, TJ DeGraba, H Wang, GT Hoehn, DA Gonzales, AF Suffredini, WK Ching, MK Ng, X Zhou, ST Wong
+
+Peak detection is a pivotal first step in biomarker discovery from MS data and can significantly influence the results of downstream data analysis steps. We developed a novel automatic peak detection method for prOTOF MS data, which does not require a priori knowledge of protein masses. Random noise is removed by an undecimated wavelet transform and chemical noise is attenuated by an adaptive short-time discrete Fourier transform. Isotopic peaks corresponding to a single protein are combined by extracting an envelope over them. Depending on the S/N, the desired peaks in each individual spectrum are detected and those with the highest intensity among their peak clusters are recorded. The common peaks among all the spectra are identified by choosing an appropriate cut-off threshold in the complete linkage hierarchical clustering. To remove the 1 Da shifting of the peaks, the peak corresponding to the same protein is determined as the detected peak with the largest number among its neighborhood. We validated this method using a data set of serial peptide and protein calibration standards. Compared with MoverZ program, our new method detects more peaks and significantly enhances S/N of the peak after the chemical noise removal. We then successfully applied this method to a data set from prOTOF MS spectra of albumin and albumin-bound proteins from serum samples of 59 patients with carotid artery disease compared to vascular disease-free patients to detect peaks with S/N> or =2. Our method is easily implemented and is highly effective to define peaks that will be used for disease classification or to highlight potential biomarkers.
+
+-Blood Proteins (+analysis)
+-Carotid Artery Diseases (-blood; -diagnosis)
+-Cluster Analysis
+-Fourier Analysis
+-Humans
+-Mass Spectrometry (+methods)
+-Proteomics (-methods)
+-Reproducibility of Results
+-Serum Albumin (-analysis)
++Software
+
+doi:10.1002/pmic.200800030
+pubmed:19681055
+mid:NIHMS148394
+pmc:PMC2782493
+

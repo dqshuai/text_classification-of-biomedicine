@@ -1,0 +1,32 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Specific ER quality control components required for biogenesis of the plant innate immune receptor EFR.
+
+J Li, C Zhao-Hui, M Batoux, V Nekrasov, M Roux, D Chinchilla, C Zipfel, JD Jones
+
+Plant innate immunity depends in part on recognition of pathogen-associated molecular patterns (PAMPs), such as bacterial flagellin, EF-Tu, and fungal chitin. Recognition is mediated by pattern-recognition receptors (PRRs) and results in PAMP-triggered immunity. EF-Tu and flagellin, and the derived peptides elf18 and flg22, are recognized in Arabidopsis by the leucine-rich repeat receptor kinases (LRR-RK), EFR and FLS2, respectively. To gain insights into the molecular mechanisms underlying PTI, we investigated EFR-mediated PTI using genetics. A forward-genetic screen for Arabidopsis elf18-insensitive (elfin) mutants revealed multiple alleles of calreticulin3 (CRT3), UDP-glucose glycoprotein glucosyl transferase (UGGT), and an HDEL receptor family member (ERD2b), potentially involved in endoplasmic reticulum quality control (ER-QC). Strikingly, FLS2-mediated responses were not impaired in crt3, uggt, and erd2b null mutants, revealing that the identified mutations are specific to EFR. A crt3 null mutant did not accumulate EFR protein, suggesting that EFR is a substrate for CRT3. Interestingly, Erd2b did not accumulate CRT3 protein, although they accumulate wild-type levels of other ER proteins. ERD2B seems therefore to be a specific HDEL receptor for CRT3 that allows its retro-translocation from the Golgi to the ER. These data reveal a previously unsuspected role of a specific subset of ER-QC machinery components for PRR accumulation in plant innate immunity.
+
+-Alleles
+-Arabidopsis (-genetics; +immunology; -physiology)
+-Arabidopsis Proteins (-genetics; +immunology; -physiology)
+-Base Sequence
+-Calreticulin (-genetics; -immunology; -physiology)
+-DNA Primers (-genetics)
+-Endoplasmic Reticulum (-genetics; +immunology; -physiology)
+-Genes, Plant
+-Glucosyltransferases (-genetics; -immunology; -physiology)
+-Host-Pathogen Interactions (-genetics; +immunology; -physiology)
+-Immunity, Innate (-genetics; +physiology)
+-Membrane Proteins (-genetics; -immunology; -physiology)
+-Mutation
+-Plant Diseases (-immunology; -microbiology)
+-Plants, Genetically Modified
+-Protein Kinases (-genetics; -immunology; -physiology)
+-Pseudomonas syringae (-immunology; -pathogenicity)
+-Signal Transduction
+
+pii:0905532106
+doi:10.1073/pnas.0905532106
+pubmed:19717464
+pmc:PMC2747228
+

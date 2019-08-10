@@ -1,0 +1,26 @@
+J. Mol. Biol.
+
+Quantitative determination of site-specific conformational distributions in an unfolded protein by solid-state nuclear magnetic resonance.
+
+KN Hu, RH Havlin, WM Yau, R Tycko
+
+Solid-state nuclear magnetic resonance (NMR) techniques are used to investigate the structure of the 35-residue villin headpiece subdomain (HP35) in folded, partially denatured, and fully denatured states. Experiments are carried out in frozen glycerol/water solutions, with chemical denaturation by guanidine hydrochloride (GdnHCl). Without GdnHCl, two-dimensional solid-state (13)C NMR spectra of samples prepared with uniform (13)C labeling of selected residues show relatively sharp cross-peaks at chemical shifts that are consistent with the known three-helix bundle structure of folded HP35. At high GdnHCl concentrations, most cross-peaks broaden and shift, qualitatively indicating disruption of the folded structure and development of static conformational disorder in the frozen denatured state. Conformational distributions at one residue in each helical segment are probed quantitatively with three solid-state NMR techniques that provide independent constraints on backbone varphi and psi torsion angles in samples with sequential pairs of carbonyl (13)C labels. Without GdnHCl, the combined data are well fit by alpha-helical conformations. At [GdnHCl]=4.5 M, corresponding to the approximate denaturation midpoint, the combined data are well fit by a combination of alpha-helical and partially extended conformations at each site, but with a site-dependent population ratio. At [GdnHCl]=7.0 M, corresponding to the fully denatured state, the combined data are well fit by a combination of partially extended and polyproline II conformations, again with a site-dependent population ratio. Two entirely different models for conformational distributions lead to nearly the same best-fit distributions, demonstrating the robustness of these conclusions. This work represents the first quantitative investigation of site-specific conformational distributions in partially folded and unfolded states of a protein by solid-state NMR.
+
+-Amino Acid Sequence
+-Computer Simulation
+-Freezing
+-Microfilament Proteins (+analysis; +chemistry)
+-Models, Molecular
+-Normal Distribution
++Nuclear Magnetic Resonance, Biomolecular (-methods)
+-Peptide Fragments (-chemistry)
+-Protein Denaturation (-physiology)
++Protein Folding
+-Protein Structure, Tertiary (-physiology)
+
+pii:S0022-2836(09)00940-1
+doi:10.1016/j.jmb.2009.07.073
+pubmed:19647001
+mid:NIHMS136181
+pmc:PMC2754388
+

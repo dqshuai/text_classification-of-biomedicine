@@ -1,0 +1,28 @@
+Plant Cell
+
+Association genetics reveals three novel avirulence genes from the rice blast fungal pathogen Magnaporthe oryzae.
+
+K Yoshida, H Saitoh, S Fujisawa, H Kanzaki, H Matsumura, K Yoshida, Y Tosa, I Chuma, Y Takano, J Win, S Kamoun, R Terauchi
+
+To subvert rice (Oryza sativa) host defenses, the devastating ascomycete fungus pathogen Magnaporthe oryzae produces a battery of effector molecules, including some with avirulence (AVR) activity, which are recognized by host resistance (R) proteins resulting in rapid and effective activation of innate immunity. To isolate novel avirulence genes from M. oryzae, we examined DNA polymorphisms of secreted protein genes predicted from the genome sequence of isolate 70-15 and looked for an association with AVR activity. This large-scale study found significantly more presence/absence polymorphisms than nucleotide polymorphisms among 1032 putative secreted protein genes. Nucleotide diversity of M. oryzae among 46 isolates of a worldwide collection was extremely low (theta=8.2x10(-5)), suggestive of recent pathogen dispersal. However, no association between DNA polymorphism and AVR was identified. Therefore, we used genome resequencing of Ina168, an M. oryzae isolate that contains nine AVR genes. Remarkably, a total of 1.68 Mb regions, comprising 316 candidate effector genes, were present in Ina168 but absent in the assembled sequence of isolate 70-15. Association analyses of these 316 genes revealed three novel AVR genes, AVR-Pia, AVR-Pii, and AVR-Pik/km/kp, corresponding to five previously known AVR genes, whose products are recognized inside rice cells possessing the cognate R genes. AVR-Pia and AVR-Pii have evolved by gene gain/loss processes, whereas AVR-Pik/km/kp has evolved by nucleotide substitutions and gene gain/loss.
+
+-Amino Acid Sequence
+-Cluster Analysis
+-Fungal Proteins (-chemistry; -genetics; +physiology)
++Genes, Fungal
+-Genetic Complementation Test
+-Genome, Fungal
+-Magnaporthe (+genetics; -pathogenicity)
+-Molecular Sequence Data
+-Open Reading Frames
+-Oryza sativa (+microbiology)
+-Phenotype
+-Polymorphism, Genetic
+-Sequence Alignment
+-Virulence (-genetics)
+
+pii:tpc.109.066324
+doi:10.1105/tpc.109.066324
+pubmed:19454732
+pmc:PMC2700537
+

@@ -1,0 +1,25 @@
+Nat. Methods
+
+Protein interaction platforms: visualization of interacting proteins in yeast.
+
+AM Schmitz, MF Morrison, AO Agunwamba, ML Nibert, CF Lesser
+
+Here we describe the protein interaction platform assay, a method for identifying interacting proteins in Saccharomyces cerevisiae. This assay relies on the reovirus scaffolding protein microNS, which forms large focal inclusions in living cells. When a query protein is fused to microNS and potential interaction partners are fused to a fluorescent reporter, interactors can be identified by screening for yeast that display fluorescent foci.
+
+-Bacterial Proteins (-genetics; -metabolism)
+-Mutation
+-Plasmids (-genetics)
+-Protein Interaction Mapping (+methods)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Saccharomyces cerevisiae (-genetics; -metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Salmonella typhimurium (-genetics; -pathogenicity)
+-Shigella flexneri (-genetics; -pathogenicity)
+-Virulence (-genetics)
+
+pii:nmeth.1337
+doi:10.1038/nmeth.1337
+pubmed:19483691
+mid:NIHMS170674
+pmc:PMC2819136
+

@@ -1,0 +1,15 @@
+Methods
+
+Development of structural MR brain imaging protocols to study genetics and maturation.
+
+P Kochunov, M Duff Davis
+
+Structural imaging research offers excellent translational benefits when non-human primate (NHP) models are employed. In this paper, we will discuss the development of anatomical MR imaging protocols for two important applications of structural imaging in NHPs: studies of genetic variability in brain morphology and longitudinal imaging of fetal brain maturation trends. In contrast with imaging studies of adult humans, structural imaging in the NHPs is challenging due to a comparatively small brain size (2- to 200-fold smaller volume, depending on the species). This difference in size is further accentuated in NHP studies of brain development in which fetal brain volumes are 10-50% of their adult size. The sizes of cortical gyri and sulci scale allometrically with brain size. Thus, achieving spatial sampling that is comparable to that of high-quality human studies (approximately 1.0 mm(3)) requires a brain-size-adjusted reduction in the sampling volumes of from 500-to-150 microm(3). Imaging at this spatial resolution while maintaining sufficient contrast and signal to noise ratio necessitates the development of specialized MRI protocols. Here we discuss our strategy to optimize the protocol parameters for two commonly available structural imaging sequences: MPRAGE and TrueFisp. In addition, computational tools developed for the analysis of human structural images were applied to the NHP studies. These included removal of non-brain tissues, correction for RF inhomogeneity, spatial normalization, building of optimized target brain and analysis of cerebral gyrification and individual cortical variability. Finally, recent findings in the genetics of cerebral gyrification and tracking of maturation trends in the fetal, newborn and adult brain are described.
+
+
+pii:S1046-2023(09)00195-9
+doi:10.1016/j.ymeth.2009.08.002
+pubmed:19665566
+mid:NIHMS144863
+pmc:PMC2828529
+

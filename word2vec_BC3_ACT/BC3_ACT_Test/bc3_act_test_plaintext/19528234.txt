@@ -1,0 +1,30 @@
+Mol. Cell. Biol.
+
+Hyphal chain formation in Candida albicans: Cdc28-Hgc1 phosphorylation of Efg1 represses cell separation genes.
+
+A Wang, PP Raniga, S Lane, Y Lu, H Liu
+
+Cell chain formation is a characteristic of filamentous growth in fungi. How it is regulated developmentally in multimorphic fungi is not known. In Candida albicans, degradation of septa during yeast growth is accomplished by enzymes encoded by Ace2 activated genes expressed in G(1). We found that phosphorylation of a conserved developmental regulator, Efg1, by the cyclin-dependent kinase Cdc28-Hgc1 (hypha-specific G(1) cyclin) downregulates Ace2 target genes during hyphal growth in G(1). A strain containing a threonine-to-alanine mutation at a conserved Cdc28 phosphorylation site of Efg1 displays a loss of hypha-specific repression of these genes and impaired cell chain formation, mimicking the hgc1 deletion, whereas a strain containing the threonine to aspartic acid mutation leads to a downregulation of these genes and cell chain formation during yeast growth. Furthermore, the phosphomimic mutation can suppress cell separation defects of hgc1. Efg1 also displays preferential association with Ace2 target gene promoters during hyphal growth. We show that convergent regulation of Ace2 and Efg1 defines the transcriptional program of cell chain formation.
+
+-Amino Acid Sequence
+-CDC2-CDC28 Kinases (-genetics; +metabolism)
+-Candida albicans (-cytology; +genetics; +growth & development; -metabolism)
+-Cell Cycle (-physiology)
+-DNA-Binding Proteins (-genetics; +metabolism)
+-Fungal Proteins (-genetics; +metabolism)
++Gene Expression Regulation, Fungal
+-Hyphae (+growth & development; -metabolism)
+-Molecular Sequence Data
+-Mutation
+-Peptidyl-Dipeptidase A (-genetics; -metabolism)
+-Phosphorylation
+-Promoter Regions, Genetic
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Transcription Factors (-genetics; +metabolism)
+-Transcription, Genetic
+
+pii:MCB.01502-08
+doi:10.1128/MCB.01502-08
+pubmed:19528234
+pmc:PMC2725740
+

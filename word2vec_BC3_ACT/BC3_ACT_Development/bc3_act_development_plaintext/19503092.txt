@@ -1,0 +1,37 @@
+Oncogene
+
+Cyclophilins contribute to Stat3 signaling and survival of multiple myeloma cells.
+
+K Bauer, AK Kretzschmar, H Cvijic, C Blumert, D Löffler, K Brocke-Heidrich, C Schiene-Fischer, G Fischer, A Sinz, CV Clevenger, F Horn
+
+Signal transducer and activator of transcription 3 (Stat3) is the major mediator of interleukin-6 (IL-6) family cytokines. In addition, Stat3 is known to be involved in the pathophysiology of many malignancies. Here, we show that the cis-trans peptidyl-prolyl isomerase cyclophilin (Cyp) B specifically interacts with Stat3, whereas the highly related CypA does not. CypB knockdown inhibited the IL-6-induced transactivation potential but not the tyrosine phosphorylation of Stat3. Binding of CypB to Stat3 target promoters and alteration of the intranuclear localization of Stat3 on CypB depletion suggested a nuclear function of Stat3/CypB interaction. By contrast, CypA knockdown inhibited Stat3 IL-6-induced tyrosine phosphorylation and nuclear translocation. The Cyp inhibitor cyclosporine A (CsA) caused similar effects. However, Stat1 activation in response to IL-6 or interferon-gamma was not affected by Cyp silencing or CsA treatment. As a result, Cyp knockdown shifted IL-6 signaling to a Stat1-dominated pathway. Furthermore, Cyp depletion or treatment with CsA induced apoptosis in IL-6-dependent multiple myeloma cells, whereas an IL-6-independent line was not affected. Thus, Cyps support the anti-apoptotic action of Stat3. Taken together, CypA and CypB both play pivotal roles, yet at different signaling levels, for Stat3 activation and function. These data also suggest a novel mechanism of CsA action.
+
+-Apoptosis
+-Cell Cycle
+-Cell Line
+-Cell Line, Tumor
+-Cell Survival
+-Chromatin Immunoprecipitation
+-Cyclophilin A (-genetics; +metabolism)
+-Cyclophilins (-genetics; +metabolism)
+-Flow Cytometry
+-Humans
+-Immunoblotting
+-Interleukin-6 (-pharmacology)
+-Luciferases (-genetics; -metabolism)
+-Luminescent Proteins (-genetics; -metabolism)
+-Microscopy, Fluorescence
+-Multiple Myeloma (-genetics; -metabolism; -pathology)
+-Phosphorylation (-drug effects)
+-Protein Binding
+-RNA, Small Interfering (-genetics)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-STAT3 Transcription Factor (-genetics; +metabolism)
++Signal Transduction
+-Transcriptional Activation (-drug effects)
+-Transfection
+
+pii:onc2009142
+doi:10.1038/onc.2009.142
+pubmed:19503092
+

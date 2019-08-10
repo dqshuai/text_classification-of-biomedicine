@@ -1,0 +1,24 @@
+PLoS ONE
+
+Comprehensive mRNA expression profiling distinguishes tauopathies and identifies shared molecular pathways.
+
+IF Bronner, Z Bochdanovits, P Rizzu, W Kamphorst, R Ravid, JC van Swieten, P Heutink
+
+BACKGROUND: Understanding the aetiologies of neurodegenerative diseases such as Alzheimer's disease (AD), Pick's disease (PiD), Progressive Supranuclear Palsy (PSP) and Frontotemporal dementia (FTD) is often hampered by the considerable clinical and molecular overlap between these diseases and normal ageing. The development of high throughput genomic technologies such as microarrays provide a new molecular tool to gain insight in the complexity and relationships between diseases, as they provide data on the simultaneous activity of multiple genes, gene networks and cellular pathways. METHODOLOGY/PRINCIPAL FINDINGS: We have constructed genome wide expression profiles from snap frozen post-mortem tissue from the medial temporal lobe of patients with four neurodegenerative disorders (5 AD, 5 PSP, 5 PiD and 5 FTD patients) and 5 control subjects. All patients were matched for age, gender, ApoE-epsilon and MAPT (tau) haplotype. From all groups a total of 790 probes were shown to be differently expressed when compared to control individuals. The results from these experiments were then used to investigate the correlations between clinical, pathological and molecular findings. From the 790 identified probes we extracted a gene set of 166 probes whose expression could discriminate between these disorders and normal ageing. CONCLUSIONS/SIGNIFICANCE: From genome wide expression profiles we extracted a gene set of 166 probes whose expression could discriminate between neurological disorders and normal ageing. This gene set can be further developed into an accurate microarray-based classification test. Furthermore, from this dataset we extracted a disease specific set of genes and identified two aging related transcription factors (FOXO1A and FOXO3A) as possible drug targets related to neurodegenerative disease.
+
+-Case-Control Studies
+-Cluster Analysis
+-DNA Primers
++Gene Expression Profiling
+-Genome-Wide Association Study
+-Humans
+-Neurodegenerative Diseases (+genetics; -physiopathology)
+-Oligonucleotide Array Sequence Analysis
+-Polymerase Chain Reaction
+-RNA, Messenger (+genetics)
+-tau Proteins (-genetics; +physiology)
+
+doi:10.1371/journal.pone.0006826
+pubmed:19714246
+pmc:PMC2729393
+

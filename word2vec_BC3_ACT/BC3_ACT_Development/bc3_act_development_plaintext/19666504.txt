@@ -1,0 +1,14 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Quasiclassical trajectory study of H+SiH4 reactions in full-dimensionality reveals atomic-level mechanisms.
+
+J Cao, Z Zhang, C Zhang, K Liu, M Wang, W Bian
+
+This work elucidates new atomic-level mechanisms that may be common in a range of chemical reactions, and our findings are important for the understanding of the nature of polyatomic abstraction and exchange reactions. A global 12-dimensional ab initio potential energy surface (PES), which describes both H+SiH(4) abstraction and exchange reactions is constructed, based on the modified Shepard interpolation method and UCCSD(T)/cc-pVQZ energy calculations at 4,015 geometries. This PES has a classical barrier height of 5.35 kcal/mol for abstraction (our best estimate is 5.35 +/- 0.15 kcal/mol from extensive ab initio calculations), and an exothermicity of -13.12 kcal/mol, in excellent agreement with experiment. Quasiclassical trajectory calculations on this new PES reveal interesting features of detailed dynamical quantities and underlying new mechanisms. Our calculated product angular distributions for exchange are in the forward hemisphere with a tail sideways, and are attributed to the combination of three mechanisms: inversion, torsion-tilt, and side-inversion. With increase of collision energy our calculated angular distributions for abstraction first peak at backward scattering and then shift toward smaller scattering angles, which is explained by a competition between rebound and stripping mechanisms; here stripping is seen at much lower energies, but is conceptually similar to what was observed in the reaction of H+CD(4) by Zare and coworkers [Camden JP, et al. (2005) J Am Chem Soc 127:11898-11899]. Each of these atomic-level mechanisms is confirmed by direct examination of trajectories, and two of them (torsion-tilt and side-inversion) are proposed and designated in this work.
+
+
+pii:0903934106
+doi:10.1073/pnas.0903934106
+pubmed:19666504
+pmc:PMC2726355
+

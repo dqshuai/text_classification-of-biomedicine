@@ -1,0 +1,28 @@
+Mol. Cell. Biol.
+
+Protein phosphatase 2A-dependent dephosphorylation of replication protein A is required for the repair of DNA breaks induced by replication stress.
+
+J Feng, T Wakeman, S Yong, X Wu, S Kornbluth, XF Wang
+
+Eukaryotic genomic integrity is safeguarded by cell cycle checkpoints and DNA repair pathways, collectively known as the DNA damage response, wherein replication protein A (RPA) is a key regulator playing multiple critical roles. The genotoxic insult-induced phosphorylation of the 32-kDa subunit of human RPA (RPA32), most notably the ATM/ATR-dependent phosphorylation at T21 and S33, acts to suppress DNA replication and recruit other checkpoint/repair proteins to the DNA lesions. It is not clear, however, how the DNA damage-responsive function of phosphorylated RPA is attenuated and how the replication-associated activity of the unphosphorylated form of RPA is restored when cells start to resume the normal cell cycle. We report here that in cells recovering from hydroxyurea (HU)-induced genotoxic stress, RPA32 is dephosphorylated by the serine/threonine protein phosphatase 2A (PP2A). Interference with PP2A catalytic activity causes persistent RPA32 phosphorylation and increased HU sensitivity. The PP2A catalytic subunit binds to RPA following DNA damage and can dephosphorylate RPA32 in vitro. Cells expressing a RPA32 persistent phosphorylation mimetic exhibit normal checkpoint activation and reenter the cell cycle normally after recovery but display a pronounced defect in the repair of DNA breaks. These data indicate that PP2A-mediated RPA32 dephosphorylation is required for the efficient DNA damage repair.
+
+-Cell Line
++DNA Damage
++DNA Repair (-drug effects; -radiation effects)
++DNA Replication (-drug effects; -radiation effects)
+-Humans
+-Hydroxyurea (-pharmacology)
+-Mitosis (-drug effects; -radiation effects)
+-Phosphorylation (-drug effects; -radiation effects)
+-Protein Phosphatase 2 (+metabolism)
+-Replication Protein A (+metabolism)
+-Serine (-metabolism)
++Stress, Physiological (-drug effects; -radiation effects)
+-Threonine (-metabolism)
+-Ultraviolet Rays
+
+pii:MCB.00191-09
+doi:10.1128/MCB.00191-09
+pubmed:19704001
+pmc:PMC2772729
+

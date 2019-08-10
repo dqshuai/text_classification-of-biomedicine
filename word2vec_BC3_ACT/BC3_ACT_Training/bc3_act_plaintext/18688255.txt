@@ -1,0 +1,31 @@
+EMBO Rep.
+
+Conserved motifs in both CPSF73 and CPSF100 are required to assemble the active endonuclease for histone mRNA 3'-end maturation.
+
+NG Kolev, TA Yario, E Benson, JA Steitz
+
+In eukaryotes, the process of messenger RNA 3'-end formation involves endonucleolytic cleavage of the transcript followed by synthesis of the poly(A) tail. The complex machinery involved in this maturation process contains two proteins of the metallo-beta-lactamase (MBL) superfamily, the 73 and 100 kDa subunits of the cleavage and polyadenylation specificity factor (CPSF). By using an in vitro system to assess point mutations in these two mammalian proteins, we found that conserved residues from the MBL motifs of both polypeptides are required for assembly of the endonuclease activity that cleaves histone pre-mRNAs. This indicates that CPSF73 and CPSF100 act together in the process of maturation of eukaryotic pre-messenger RNAs, similar to other members of the MBL family, RNases Z and J, which function as homodimers.
+
+-Amino Acid Motifs (-physiology)
+-Amino Acid Sequence
+-Base Sequence
+-Cell Line
+-Cleavage And Polyadenylation Specificity Factor (+chemistry; -genetics; +physiology)
+-Conserved Sequence (+physiology)
+-Endonucleases (+metabolism; -physiology)
+-Enzyme Activation (-genetics)
+-Hela Cells
+-Histones (-biosynthesis; +genetics)
+-Humans
+-Molecular Sequence Data
+-Protein Structure, Tertiary
+-Protein Subunits (-genetics; +physiology)
+-RNA 3' End Processing (+genetics)
+-RNA Precursors (-metabolism)
+-RNA, Messenger (+metabolism)
+
+pii:embor2008146
+doi:10.1038/embor.2008.146
+pubmed:18688255
+pmc:PMC2572124
+

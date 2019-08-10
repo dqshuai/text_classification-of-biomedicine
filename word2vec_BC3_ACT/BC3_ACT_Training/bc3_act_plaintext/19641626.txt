@@ -1,0 +1,18 @@
+PLoS ONE
+
+Local network topology in human protein interaction data predicts functional association.
+
+H Li, S Liang
+
+The use of high-throughput techniques to generate large volumes of protein-protein interaction (PPI) data has increased the need for methods that systematically and automatically suggest functional relationships among proteins. In a yeast PPI network, previous work has shown that the local connection topology, particularly for two proteins sharing an unusually large number of neighbors, can predict functional association. In this study we improved the prediction scheme by developing a new algorithm and applied it on a human PPI network to make a genome-wide functional inference. We used the new algorithm to measure and reduce the influence of hub proteins on detecting function-associated protein pairs. We used the annotations of the Gene Ontology (GO) and the Kyoto Encyclopedia of Genes and Genomes (KEGG) as benchmarks to compare and evaluate the function relevance. The application of our algorithms to human PPI data yielded 4,233 significant functional associations among 1,754 proteins. Further functional comparisons between them allowed us to assign 466 KEGG pathway annotations to 274 proteins and 123 GO annotations to 114 proteins with estimated false discovery rates of <21% for KEGG and <30% for GO. We clustered 1,729 proteins by their functional associations and made functional inferences from detailed analysis on one subcluster highly enriched in the TGF-beta signaling pathway (P<10(-50)). Analysis of another four subclusters also suggested potential new players in six signaling pathways worthy of further experimental investigations. Our study gives clear insight into the common neighbor-based prediction scheme and provides a reliable method for large-scale functional annotation in this post-genomic era.
+
+-Algorithms
+-Databases, Protein
+-Humans
+-Protein Binding
+-Proteins (+chemistry; -physiology)
+
+doi:10.1371/journal.pone.0006410
+pubmed:19641626
+pmc:PMC2713831
+

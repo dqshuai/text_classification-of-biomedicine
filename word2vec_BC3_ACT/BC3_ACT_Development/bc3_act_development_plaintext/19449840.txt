@@ -1,0 +1,24 @@
+J. Proteome Res.
+
+IDAWG: Metabolic incorporation of stable isotope labels for quantitative glycomics of cultured cells.
+
+R Orlando, JM Lim, JA Atwood, PM Angel, M Fang, K Aoki, G Alvarez-Manilla, KW Moremen, WS York, M Tiemeyer, M Pierce, S Dalton, L Wells
+
+Robust quantification is an essential component of comparative -omic strategies. In this regard, glycomics lags behind proteomics. Although various isotope-tagging and direct quantification methods have recently enhanced comparative glycan analysis, a cell culture labeling strategy, that could provide for glycomics the advantages that SILAC provides for proteomics, has not been described. Here, we report the development of IDAWG, Isotopic Detection of Aminosugars With Glutamine, for the incorporation of differential mass tags into the glycans of cultured cells. In this method, culture media containing amide-(15)N-Gln is used to metabolically label cellular aminosugars with heavy nitrogen. Because the amide side chain of Gln is the sole source of nitrogen for the biosynthesis of GlcNAc, GalNAc, and sialic acid, we demonstrate that culturing mouse embryonic stems cells for 72 h in the presence of amide-(15)N-Gln media results in nearly complete incorporation of (15)N into N-linked and O-linked glycans. The isotopically heavy monosaccharide residues provide additional information for interpreting glycan fragmentation and also allow quantification in both full MS and MS/MS modes. Thus, IDAWG is a simple to implement, yet powerful quantitative tool for the glycomics toolbox.
+
+-Animals
+-Carbohydrate Sequence
+-Cells, Cultured
+-Embryonic Stem Cells (-metabolism)
+-Fourier Analysis
+-Glycomics (+methods)
+-Isotope Labeling (+methods)
+-Mass Spectrometry (-methods)
+-Mice
+-Molecular Sequence Data
+-Nitrogen Isotopes (-metabolism)
+-Polysaccharides (-analysis; +chemistry; -metabolism)
+
+doi:10.1021/pr8010028
+pubmed:19449840
+

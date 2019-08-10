@@ -1,0 +1,21 @@
+Nucleic Acids Res.
+
+COMPASS server for homology detection: improved statistical accuracy, speed and functionality.
+
+RI Sadreyev, M Tang, BH Kim, NV Grishin
+
+COMPASS is a profile-based method for the detection of remote sequence similarity and the prediction of protein structure. Here we describe a recently improved public web server of COMPASS, http://prodata.swmed.edu/compass. The server features three major developments: (i) improved statistical accuracy; (ii) increased speed from parallel implementation; and (iii) new functional features facilitating structure prediction. These features include visualization tools that allow the user to quickly and effectively analyze specific local structural region predictions suggested by COMPASS alignments. As an application example, we describe the structural, evolutionary and functional analysis of a protein with unknown function that served as a target in the recent CASP8 (Critical Assessment of Techniques for Protein Structure Prediction round 8). URL: http://prodata.swmed.edu/compass.
+
+-Data Interpretation, Statistical
+-Evolution, Molecular
++Protein Conformation
+-Reproducibility of Results
++Sequence Homology, Amino Acid
++Software
+-User-Computer Interface
+
+pii:gkp360
+doi:10.1093/nar/gkp360
+pubmed:19435884
+pmc:PMC2703893
+

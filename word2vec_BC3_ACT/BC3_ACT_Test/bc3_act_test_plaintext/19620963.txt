@@ -1,0 +1,32 @@
+Nat. Struct. Mol. Biol.
+
+Structural insights into host GTPase isoform selection by a family of bacterial GEF mimics.
+
+Z Huang, SE Sutton, AJ Wallenfang, RC Orchard, X Wu, Y Feng, J Chai, NM Alto
+
+The Escherichia coli type III effector Map belongs to a large family of bacterial virulence factors that activate host Rho GTPase signaling pathways through an unknown molecular mechanism. Here we report direct evidence that Map functions as a potent and selective guanine-nucleotide exchange factor (GEF) for Cdc42. The 2.3-A structure of the Map-Cdc42 complex revealed that Map mimics the GEF strategy of the mammalian Dbl family but has a three-dimensional architecture that is nearly identical to the bacterial GEF Salmonella spp. SopE. A comparative analysis between human and bacterial GEFs revealed a previously uncharacterized pairing mechanism between Map and the variable beta2-3 interswitch region of Cdc42. We propose a GTPase selection model that is experimentally validated by the preferential activation Rac1 and RhoA by the Shigella spp. effectors IpgB1 and IpgB2, respectively. These results significantly expand the repertoire of bacterial GEF mimics and unify a GEF selection mechanism for host GTPase substrates.
+
+-Amino Acid Sequence
+-Binding Sites (-genetics)
+-Binding, Competitive
+-Cell Line
+-Crystallization
+-Escherichia coli Proteins (-chemistry; -genetics; +metabolism)
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Guanine Nucleotide Exchange Factors (-chemistry; -genetics; +metabolism)
+-Humans
+-Models, Molecular
+-Molecular Sequence Data
+-Protein Binding
+-Protein Conformation
+-Protein Structure, Tertiary
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Sequence Homology, Amino Acid
+-Transfection
+-cdc42 GTP-Binding Protein (-chemistry; -genetics; -metabolism)
+-rho GTP-Binding Proteins (-chemistry; -genetics; +metabolism)
+
+pii:nsmb.1647
+doi:10.1038/nsmb.1647
+pubmed:19620963
+

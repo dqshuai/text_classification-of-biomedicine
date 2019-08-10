@@ -1,0 +1,20 @@
+J. Am. Chem. Soc.
+
+Paramagnetic ions enable tuning of nuclear relaxation rates and provide long-range structural restraints in solid-state NMR of proteins.
+
+PS Nadaud, JJ Helmus, SL Kall, CP Jaroniec
+
+Magic-angle-spinning solid-state nuclear magnetic resonance (SSNMR) studies of natively diamagnetic uniformly (13)C,(15)N-enriched proteins, intentionally modified with side chains containing paramagnetic ions, are presented, with the aim of using the concomitant nuclear paramagnetic relaxation enhancements (PREs) as a source of long-range structural information. The paramagnetic ions are incorporated at selected sites in the protein as EDTA-metal complexes by introducing a solvent-exposed cysteine residue using site-directed mutagenesis, followed by modification with a thiol-specific reagent, N-[S-(2-pyridylthio)cysteaminyl]EDTA-metal. Here, this approach is demonstrated for the K28C and T53C mutants of B1 immunoglobulin-binding domain of protein G (GB1), modified with EDTA-Mn(2+) and EDTA-Cu(2+) side chains. It is shown that incorporation of paramagnetic moieties, exhibiting different relaxation times and spin quantum numbers, facilitates the convenient modulation of longitudinal (R(1)) and transverse (R(2), R(1rho)) relaxation rates of the protein (1)H, (13)C, and (15)N nuclei. Specifically, the EDTA-Mn(2+) side chain generates large distance-dependent transverse relaxation enhancements, analogous to those observed previously in the presence of nitroxide spin labels, while this phenomenon is significantly attenuated for the Cu(2+) center. Both Mn(2+) and Cu(2+) ions cause considerable longitudinal nuclear PREs. The combination of negligible transverse and substantial longitudinal relaxation enhancements obtained with the EDTA-Cu(2+) side chain is especially advantageous, because it enables structural restraints for most sites in the protein to be readily accessed via quantitative, site-resolved measurements of nuclear R(1) rate constants by multidimensional SSNMR methods. This is demonstrated here for backbone amide (15)N nuclei, using methods based on 2D (15)N-(13)C chemical shift correlation spectroscopy. The measured longitudinal PREs are found to be highly correlated with the proximity of the Cu(2+) ion to (15)N spins, with significant effects observed for nuclei up to approximately 20 A away, thereby providing important information about protein structure on length scales that are inaccessible to traditional SSNMR techniques.
+
+-Copper (-chemistry)
+-Manganese (-chemistry)
+-Mutation
+-Nerve Tissue Proteins (-chemistry; -genetics)
+-Nitrogen (-chemistry)
+-Nuclear Magnetic Resonance, Biomolecular (+methods)
+-Protein Structure, Tertiary
+-Proteins (+chemistry; -genetics)
+
+doi:10.1021/ja900224z
+pubmed:19445506
+

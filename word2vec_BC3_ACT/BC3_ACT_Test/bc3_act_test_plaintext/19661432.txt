@@ -1,0 +1,33 @@
+Science
+
+Effects of antibiotics and a proto-oncogene homolog on destruction of protein translocator SecY.
+
+J van Stelten, F Silva, D Belin, TJ Silhavy
+
+Protein secretion occurs via translocation by the evolutionarily conserved Sec complex. LacZ hybrid proteins have long been used to study translocation in Escherichia coli. Some LacZ hybrids were thought to block secretion by physically jamming the Sec complex, leading to cell death. We found that jammed Sec complexes caused the degradation of essential translocator components by the protease FtsH. Increasing the amounts or the stability of the membrane protein YccA, a known inhibitor of FtsH, counteracted this destruction. Antibiotics that inhibit translation elongation also jammed the translocator and caused the degradation of translocator components, which may contribute to their effectiveness. Intriguingly, YccA is a functional homolog of the proto-oncogene product Bax Inhibitor-1, which may share a similar mechanism of action in regulating apoptosis upon prolonged secretion stress.
+
+-ATP-Dependent Proteases (-metabolism)
+-Anti-Bacterial Agents (+pharmacology)
+-Bacterial Outer Membrane Proteins (-genetics; -metabolism)
+-Chloramphenicol (-pharmacology)
+-Escherichia coli (+drug effects; -genetics; +metabolism)
+-Escherichia coli Proteins (-genetics; +metabolism)
+-Heat-Shock Proteins (-genetics; -metabolism)
+-Membrane Proteins (-genetics; +metabolism)
+-Mutant Proteins (-metabolism)
+-Periplasmic Proteins (-genetics; -metabolism)
+-Porins (-genetics; -metabolism)
+-Protein Sorting Signals
++Protein Transport (-drug effects)
+-Receptors, Virus (-genetics; -metabolism)
+-Recombinant Fusion Proteins (-metabolism)
+-Serine Endopeptidases (-genetics; -metabolism)
+-Tetracycline (-pharmacology)
+-beta-Galactosidase (-genetics; -metabolism)
+
+pii:325/5941/753
+doi:10.1126/science.1172221
+pubmed:19661432
+mid:NIHMS179460
+pmc:PMC2832214
+

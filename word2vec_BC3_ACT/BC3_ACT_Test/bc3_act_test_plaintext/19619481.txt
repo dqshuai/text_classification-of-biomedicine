@@ -1,0 +1,25 @@
+Biophys. J.
+
+Imaging barriers to diffusion by pair correlation functions.
+
+MA Digman, E Gratton
+
+Molecular diffusion and transport are fundamental processes in physical, chemical, biochemical, and biological systems. However, current approaches to measure molecular transport in cells and tissues based on perturbation methods such as fluorescence recovery after photobleaching are invasive, fluctuation correlation methods are local, and single-particle tracking requires the observation of isolated particles for relatively long periods of time. We propose to detect molecular transport by measuring the time cross-correlation of fluctuations at a pair of locations in the sample. When the points are farther apart than two times the size of the point spread function, the maximum of the correlation is proportional to the average time a molecule takes to move from a specific location to another. We demonstrate the method by simulations, using beads in solution, and by measuring the diffusion of molecules in cellular membranes. The spatial pair cross-correlation method detects barriers to diffusion and heterogeneity of diffusion because the time of the correlation maximum is delayed in the presence of diffusion barriers. This noninvasive, sensitive technique follows the same molecule over a large area, thereby producing a map of molecular flow. It does not require isolated molecules, and thus many molecules can be labeled at the same time and within the point spread function.
+
+-Animals
+-Anisotropy
+-Cell Line
+-Cell Membrane (-metabolism)
++Diffusion
+-Fluorescent Dyes (-metabolism)
+-GTPase-Activating Proteins (-metabolism)
+-Gene Expression Regulation
+-Green Fluorescent Proteins (-metabolism)
+-Mice
++Models, Biological
+
+pii:S0006-3495(09)00956-4
+doi:10.1016/j.bpj.2009.04.048
+pubmed:19619481
+pmc:PMC2711318
+

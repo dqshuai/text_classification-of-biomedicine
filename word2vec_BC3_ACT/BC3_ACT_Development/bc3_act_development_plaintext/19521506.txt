@@ -1,0 +1,35 @@
+PLoS Pathog.
+
+Influenza B virus ribonucleoprotein is a potent activator of the antiviral kinase PKR.
+
+B Dauber, L Martínez-Sobrido, J Schneider, R Hai, Z Waibler, U Kalinke, A García-Sastre, T Wolff
+
+Activation of the latent kinase PKR is a potent innate defense reaction of vertebrate cells towards viral infections, which is triggered by recognition of viral double-stranded (ds) RNA and results in a translational shutdown. A major gap in our understanding of PKR's antiviral properties concerns the nature of the kinase activating molecules expressed by influenza and other viruses with a negative strand RNA genome, as these pathogens produce little or no detectable amounts of dsRNA. Here we systematically investigated PKR activation by influenza B virus and its impact on viral pathogenicity. Biochemical analysis revealed that PKR is activated by viral ribonucleoprotein (vRNP) complexes known to contain single-stranded RNA with a 5'-triphosphate group. Cell biological examination of recombinant viruses showed that the nucleo-cytoplasmic transport of vRNP late in infection is a strong trigger for PKR activation. In addition, our analysis provides a mechanistic explanation for the previously observed suppression of PKR activation by the influenza B virus NS1 protein, which we show here to rely on complex formation between PKR and NS1's dsRNA binding domain. The high significance of this interaction for pathogenicity was revealed by the finding that attenuated influenza viruses expressing dsRNA binding-deficient NS1 proteins were rescued for high replication and virulence in PKR-deficient cells and mice, respectively. Collectively, our study provides new insights into an important antiviral defense mechanism of vertebrates and leads us to suggest a new model of PKR activation by cytosolic vRNP complexes, a model that may also be applicable to other negative strand RNA viruses.
+
+-Active Transport, Cell Nucleus
+-Animals
+-Cell Line
+-Cell Line, Tumor
+-Cells, Cultured
+-Cytoplasm (-metabolism)
+-Enzyme Activation
+-Female
+-Humans
+-Influenza B virus (-genetics; +pathogenicity; +physiology)
+-Mice
+-Mice, Inbred C57BL
+-Microscopy, Fluorescence
+-Models, Biological
+-Phosphorylation
+-RNA, Double-Stranded (-metabolism)
+-RNA-Binding Proteins (-genetics; -metabolism)
+-Ribonucleoproteins (+metabolism)
+-Viral Nonstructural Proteins (-genetics; -metabolism)
+-Viral Proteins (+metabolism)
+-Virus Replication
+-eIF-2 Kinase (+metabolism)
+
+doi:10.1371/journal.ppat.1000473
+pubmed:19521506
+pmc:PMC2688073
+

@@ -1,0 +1,26 @@
+Genome Biol.
+
+A hidden reservoir of integrative elements is the major source of recently acquired foreign genes and ORFans in archaeal and bacterial genomes.
+
+D Cortez, P Forterre, S Gribaldo
+
+BACKGROUND: Archaeal and bacterial genomes contain a number of genes of foreign origin that arose from recent horizontal gene transfer, but the role of integrative elements (IEs), such as viruses, plasmids, and transposable elements, in this process has not been extensively quantified. Moreover, it is not known whether IEs play an important role in the origin of ORFans (open reading frames without matches in current sequence databases), whose proportion remains stable despite the growing number of complete sequenced genomes. RESULTS: We have performed a large-scale survey of potential recently acquired IEs in 119 archaeal and bacterial genomes. We developed an accurate in silico Markov model-based strategy to identify clusters of genes that show atypical sequence composition (clusters of atypical genes or CAGs) and are thus likely to be recently integrated foreign elements, including IEs. Our method identified a high number of new CAGs. Probabilistic analysis of gene content indicates that 56% of these new CAGs are likely IEs, whereas only 7% likely originated via horizontal gene transfer from distant cellular sources. Thirty-four percent of CAGs remain unassigned, what may reflect a still poor sampling of IEs associated with bacterial and archaeal diversity. Moreover, our study contributes to the issue of the origin of ORFans, because 39% of these are found inside CAGs, many of which likely represent recently acquired IEs. CONCLUSIONS: Our results strongly indicate that archaeal and bacterial genomes contain an impressive proportion of recently acquired foreign genes (including ORFans) coming from a still largely unexplored reservoir of IEs.
+
+-Archaea (+genetics)
+-Bacteria (+genetics)
+-Base Sequence
+-Computer Simulation
+-Databases, Nucleic Acid
++Gene Transfer, Horizontal
+-Genome, Archaeal (+genetics)
+-Genome, Bacterial (+genetics)
+-Markov Chains
+-Models, Genetic
+-Multigene Family
+-Open Reading Frames (+genetics)
+
+pii:gb-2009-10-6-r65
+doi:10.1186/gb-2009-10-6-r65
+pubmed:19531232
+pmc:PMC2718499
+

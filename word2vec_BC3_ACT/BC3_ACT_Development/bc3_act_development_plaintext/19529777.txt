@@ -1,0 +1,24 @@
+PLoS ONE
+
+Assessing statistical significance in microarray experiments using the distance between microarrays.
+
+D Hayden, P Lazar, D Schoenfeld
+
+We propose permutation tests based on the pairwise distances between microarrays to compare location, variability, or equivalence of gene expression between two populations. For these tests the entire microarray or some pre-specified subset of genes is the unit of analysis. The pairwise distances only have to be computed once so the procedure is not computationally intensive despite the high dimensionality of the data. An R software package, permtest, implementing the method is freely available from the Comprehensive R Archive Network at http://cran.r-project.org.
+
+-Algorithms
+-Computational Biology (-methods)
+-Computer Graphics
+-Computers
+-Data Interpretation, Statistical
+-Gene Expression Profiling (+methods)
+-Models, Statistical
+-Oligonucleotide Array Sequence Analysis (+methods)
+-Pattern Recognition, Automated (-methods)
+-Principal Component Analysis
+-Software
+
+doi:10.1371/journal.pone.0005838
+pubmed:19529777
+pmc:PMC2691999
+

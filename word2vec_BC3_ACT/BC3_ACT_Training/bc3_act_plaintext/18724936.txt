@@ -1,0 +1,22 @@
+Cell
+
+The GET complex mediates insertion of tail-anchored proteins into the ER membrane.
+
+M Schuldiner, J Metz, V Schmid, V Denic, M Rakwalska, HD Schmitt, B Schwappach, JS Weissman
+
+Tail-anchored (TA) proteins, defined by the presence of a single C-terminal transmembrane domain (TMD), play critical roles throughout the secretory pathway and in mitochondria, yet the machinery responsible for their proper membrane insertion remains poorly characterized. Here we show that Get3, the yeast homolog of the TA-interacting factor Asna1/Trc40, specifically recognizes TMDs of TA proteins destined for the secretory pathway. Get3 recognition represents a key decision step, whose loss can lead to misinsertion of TA proteins into mitochondria. Get3-TA protein complexes are recruited for endoplasmic reticulum (ER) membrane insertion by the Get1/Get2 receptor. In vivo, the absence of Get1/Get2 leads to cytosolic aggregation of Get3-TA complexes and broad defects in TA protein biogenesis. In vitro reconstitution demonstrates that the Get proteins directly mediate insertion of newly synthesized TA proteins into ER membranes. Thus, the GET complex represents a critical mechanism for ensuring efficient and accurate targeting of TA proteins.
+
+-Adaptor Proteins, Vesicular Transport
+-Adenosine Triphosphatases
+-Endoplasmic Reticulum (+metabolism)
+-Guanine Nucleotide Exchange Factors (+metabolism)
+-Membrane Proteins (-metabolism)
+-Protein Structure, Tertiary
+-Saccharomyces cerevisiae (+cytology; -metabolism)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+
+pii:S0092-8674(08)00777-0
+doi:10.1016/j.cell.2008.06.025
+pubmed:18724936
+pmc:PMC2572727
+

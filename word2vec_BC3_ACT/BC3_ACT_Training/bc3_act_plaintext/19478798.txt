@@ -1,0 +1,29 @@
+EMBO J.
+
+Localisation of DivIVA by targeting to negatively curved membranes.
+
+R Lenarcic, S Halbedel, L Visser, M Shaw, LJ Wu, J Errington, D Marenduzzo, LW Hamoen
+
+DivIVA is a conserved protein in Gram-positive bacteria and involved in various processes related to cell growth, cell division and spore formation. DivIVA is specifically targeted to cell division sites and cell poles. In Bacillus subtilis, DivIVA helps to localise other proteins, such as the conserved cell division inhibitor proteins, MinC/MinD, and the chromosome segregation protein, RacA. Little is known about the mechanism that localises DivIVA. Here we show that DivIVA binds to liposomes, and that the N terminus harbours the membrane targeting sequence. The purified protein can stimulate binding of RacA to membranes. In mutants with aberrant cell shapes, DivIVA accumulates where the cell membrane is most strongly curved. On the basis of electron microscopic studies and other data, we propose that this is due to molecular bridging of the curvature by DivIVA multimers. This model may explain why DivIVA localises at cell division sites. A Monte-Carlo simulation study showed that molecular bridging can be a general mechanism for binding of proteins to negatively curved membranes.
+
+-Amino Acid Sequence
+-Bacillus subtilis (+physiology)
+-Bacterial Proteins (+metabolism)
+-Cell Cycle Proteins (+metabolism)
+-Cell Membrane (+chemistry)
+-Genes, Reporter
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Microscopy, Electron, Transmission
+-Microscopy, Fluorescence
+-Models, Biological
+-Molecular Sequence Data
+-Protein Multimerization
+-Protein Transport
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Sequence Alignment
+
+pii:emboj2009129
+doi:10.1038/emboj.2009.129
+pubmed:19478798
+pmc:PMC2690451
+

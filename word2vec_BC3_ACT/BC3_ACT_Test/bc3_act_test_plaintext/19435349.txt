@@ -1,0 +1,21 @@
+J. Am. Chem. Soc.
+
+Conformational variability of benzamidinium-based inhibitors.
+
+X Li, X He, B Wang, K Merz
+
+Determining the structure of a small molecule bound to a biological receptor (e.g., a protein implicated in a disease state) is a necessary step in structure-based drug design. The preferred conformation of a small molecule can change when bound to a protein, and a detailed knowledge of the preferred conformation(s) of a bound ligand can help in optimizing the affinity of a molecule for its receptor. However, the quality of a protein/ligand complex determined using X-ray crystallography is dependent on the size of the protein, the crystal quality, and the realized resolution. The energy restraints used in traditional X-ray refinement procedures typically use "reduced" (i.e., neglect of electrostatics and dispersion interactions) Engh and Huber force field models that, while quite suitable for modeling proteins, often are less suitable for small molecule structures due to a lack of validated parameters. Through the use of ab initio QM/MM-based X-ray refinement procedures, this shortcoming can be overcome especially in the active site or binding site of a small-molecule inhibitor. Herein, we demonstrate that ab initio QM/MM refinement of an inhibitor/protein complex provides insights into the binding of small molecules beyond what is available using more traditional refinement protocols. In particular, QM/MM refinement studies of benzamidinium derivatives show variable conformational preferences depending on the refinement protocol used and the nature of the active-site region.
+
+-Benzamidines (+chemistry)
+-Crystallography, X-Ray
+-Ligands
+-Models, Molecular
+-Molecular Conformation
+-Protein Conformation
+-Proteins (-antagonists & inhibitors; +chemistry)
+
+doi:10.1021/ja9010833
+pubmed:19435349
+mid:NIHMS117161
+pmc:PMC2730048
+

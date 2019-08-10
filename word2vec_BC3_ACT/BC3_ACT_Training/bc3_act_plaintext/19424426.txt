@@ -1,0 +1,21 @@
+PLoS Comput. Biol.
+
+Differential affinity and catalytic activity of CheZ in E. coli chemotaxis.
+
+SB van Albada, PR Ten Wolde
+
+Push-pull networks, in which two antagonistic enzymes control the activity of a messenger protein, are ubiquitous in signal transduction pathways. A classical example is the chemotaxis system of the bacterium Escherichia coli, in which the kinase CheA and the phosphatase CheZ regulate the phosphorylation level of the messenger protein CheY. Recent experiments suggest that both the kinase and the phosphatase are localized at the receptor cluster, and Vaknin and Berg recently demonstrated that the spatial distribution of the phosphatase can markedly affect the dose-response curves. We argue, using mathematical modeling, that the canonical model of the chemotaxis network cannot explain the experimental observations of Vaknin and Berg. We present a new model, in which a small fraction of the phosphatase is localized at the receptor cluster, while the remainder freely diffuses in the cytoplasm; moreover, the phosphatase at the cluster has a higher binding affinity for the messenger protein and a higher catalytic activity than the phosphatase in the cytoplasm. This model is consistent with a large body of experimental data and can explain many of the experimental observations of Vaknin and Berg. More generally, the combination of differential affinity and catalytic activity provides a generic mechanism for amplifying signals that could be exploited in other two-component signaling systems. If this model is correct, then a number of recent modeling studies, which aim to explain the chemotactic gain in terms of the activity of the receptor cluster, should be reconsidered.
+
+-Algorithms
+-Bacterial Proteins (-metabolism)
+-Chemotaxis (+physiology)
+-Escherichia coli (+physiology)
+-Membrane Proteins (-metabolism)
+-Models, Biological
+-Protein Binding
+-Signal Transduction (+physiology)
+
+doi:10.1371/journal.pcbi.1000378
+pubmed:19424426
+pmc:PMC2673030
+

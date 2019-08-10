@@ -1,0 +1,28 @@
+Nature
+
+Structure of a tetrameric MscL in an expanded intermediate state.
+
+Z Liu, CS Gandhi, DC Rees
+
+The ability of cells to sense and respond to mechanical force underlies diverse processes such as touch and hearing in animals, gravitropism in plants, and bacterial osmoregulation. In bacteria, mechanosensation is mediated by the mechanosensitive channels of large (MscL), small (MscS), potassium-dependent (MscK) and mini (MscM) conductances. These channels act as 'emergency relief valves' protecting bacteria from lysis upon acute osmotic down-shock. Among them, MscL has been intensively studied since the original identification and characterization 15 years ago. MscL is reversibly and directly gated by changes in membrane tension. In the open state, MscL forms a non-selective 3 nS conductance channel which gates at tensions close to the lytic limit of the bacterial membrane. An earlier crystal structure at 3.5 A resolution of a pentameric MscL from Mycobacterium tuberculosis represents a closed-state or non-conducting conformation. MscL has a complex gating behaviour; it exhibits several intermediates between the closed and open states, including one putative non-conductive expanded state and at least three sub-conducting states. Although our understanding of the closed and open states of MscL has been increasing, little is known about the structures of the intermediate states despite their importance in elucidating the complete gating process of MscL. Here we present the crystal structure of a carboxy-terminal truncation mutant (Delta95-120) of MscL from Staphylococcus aureus (SaMscL(CDelta26)) at 3.8 A resolution. Notably, SaMscL(CDelta26) forms a tetrameric channel with both transmembrane helices tilted away from the membrane normal at angles close to that inferred for the open state, probably corresponding to a non-conductive but partially expanded intermediate state.
+
+-Amino Acid Sequence
+-Bacterial Proteins (+chemistry; -metabolism)
+-Crystallography, X-Ray
+-Ion Channel Gating
+-Ion Channels (+chemistry; -metabolism)
+-Models, Biological
+-Models, Molecular
+-Molecular Sequence Data
+-Mycobacterium tuberculosis (-chemistry; -metabolism)
+-Pressure
+-Protein Structure, Quaternary
+-Staphylococcus aureus (+chemistry)
+-Structural Homology, Protein
+
+pii:nature08277
+doi:10.1038/nature08277
+pubmed:19701184
+mid:NIHMS130657
+pmc:PMC2737600
+

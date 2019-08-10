@@ -1,0 +1,25 @@
+Nucleic Acids Res.
+
+Fur controls iron homeostasis and oxidative stress defense in the oligotrophic alpha-proteobacterium Caulobacter crescentus.
+
+JF da Silva Neto, VS Braz, VC Italiani, MV Marques
+
+In most bacteria, the ferric uptake regulator (Fur) is a global regulator that controls iron homeostasis and other cellular processes, such as oxidative stress defense. In this work, we apply a combination of bioinformatics, in vitro and in vivo assays to identify the Caulobacter crescentus Fur regulon. A C. crescentus fur deletion mutant showed a slow growth phenotype, and was hypersensitive to H(2)O(2) and organic peroxide. Using a position weight matrix approach, several predicted Fur-binding sites were detected in the genome of C. crescentus, located in regulatory regions of genes not only involved in iron uptake and usage but also in other functions. Selected Fur-binding sites were validated using electrophoretic mobility shift assay and DNAse I footprinting analysis. Gene expression assays revealed that genes involved in iron uptake were repressed by iron-Fur and induced under conditions of iron limitation, whereas genes encoding iron-using proteins were activated by Fur under conditions of iron sufficiency. Furthermore, several genes that are regulated via small RNAs in other bacteria were found to be directly regulated by Fur in C. crescentus. In conclusion, Fur functions as an activator and as a repressor, integrating iron metabolism and oxidative stress response in C. crescentus.
+
+-Bacterial Proteins (-genetics; +metabolism)
+-Binding Sites
+-Caulobacter crescentus (+genetics; -metabolism)
+-DNA Footprinting
+-Electrophoretic Mobility Shift Assay
++Gene Expression Regulation, Bacterial
+-Homeostasis
+-Iron (+metabolism)
+-Mutation
++Oxidative Stress
+-Repressor Proteins (-genetics; +metabolism)
+
+pii:gkp509
+doi:10.1093/nar/gkp509
+pubmed:19520766
+pmc:PMC2724300
+

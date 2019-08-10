@@ -1,0 +1,31 @@
+Plant Cell
+
+Nuclear activity of ROXY1, a glutaredoxin interacting with TGA factors, is required for petal development in Arabidopsis thaliana.
+
+S Li, A Lauri, M Ziemann, A Busch, M Bhave, S Zachgo
+
+Glutaredoxins (GRXs) have thus far been associated mainly with redox-regulated processes participating in stress responses. However, ROXY1, encoding a GRX, has recently been shown to regulate petal primorida initiation and further petal morphogenesis in Arabidopsis thaliana. ROXY1 belongs to a land plant-specific class of GRXs that has a CC-type active site motif, which deviates from ubiquitously occurring CPYC and CGFS GRXs. Expression studies of yellow fluorescent protein-ROXY1 fusion genes driven by the cauliflower mosaic virus 35S promoter reveal a nucleocytoplasmic distribution of ROXY1. We demonstrate that nuclear localization of ROXY1 is indispensable and thus crucial for its activity in flower development. Yeast two-hybrid screens identified TGA transcription factors as interacting proteins, which was confirmed by bimolecular fluorescence complementation experiments showing their nuclear interaction in planta. Overlapping expression patterns of ROXY1 and TGA genes during flower development demonstrate that ROXY1/TGA protein interactions can occur in vivo and support their biological relevance in petal development. Deletion analysis of ROXY1 demonstrates the importance of the C terminus for its functionality and for mediating ROXY1/TGA protein interactions. Phenotypic analysis of the roxy1-2 pan double mutant and an engineered chimeric repressor mutant from PERIANTHIA (PAN), a floral TGA gene, supports a dual role of ROXY1 in petal development. Together, our results show that the ROXY1 protein functions in the nucleus, likely by modifying PAN posttranslationally and thereby regulating its activity in petal primordia initiation. Additionally, ROXY1 affects later petal morphogenesis, probably by modulating other TGA factors that might act redundantly during differentiation of second whorl organs.
+
+-Amino Acid Sequence
+-Arabidopsis (-genetics; +growth & development; -metabolism)
+-Arabidopsis Proteins (-analysis; -chemistry; +physiology)
+-Cell Nucleus (+metabolism)
+-Flowers (-genetics; -growth & development; -metabolism)
+-Gene Deletion
+-Glutaredoxins (-analysis; -chemistry; +physiology)
+-Luminescent Proteins (-analysis)
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Phenotype
+-Phylogeny
+-Recombinant Proteins (-analysis)
+-Sequence Alignment
+-Tobacco (-genetics)
+-Transcription Factors (-genetics; +metabolism)
+-Two-Hybrid System Techniques
+
+pii:tpc.108.064477
+doi:10.1105/tpc.108.064477
+pubmed:19218396
+pmc:PMC2660636
+

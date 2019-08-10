@@ -1,0 +1,22 @@
+PLoS Genet.
+
+General rules for optimal codon choice.
+
+R Hershberg, DA Petrov
+
+Different synonymous codons are favored by natural selection for translation efficiency and accuracy in different organisms. The rules governing the identities of favored codons in different organisms remain obscure. In fact, it is not known whether such rules exist or whether favored codons are chosen randomly in evolution in a process akin to a series of frozen accidents. Here, we study this question by identifying for the first time the favored codons in 675 bacteria, 52 archea, and 10 fungi. We use a number of tests to show that the identified codons are indeed likely to be favored and find that across all studied organisms the identity of favored codons tracks the GC content of the genomes. Once the effect of the genomic GC content on selectively favored codon choice is taken into account, additional universal amino acid specific rules governing the identity of favored codons become apparent. Our results provide for the first time a clear set of rules governing the evolution of selectively favored codon usage. Based on these results, we describe a putative scenario for how evolutionary shifts in the identity of selectively favored codons can occur without even temporary weakening of natural selection for codon bias.
+
+-Base Composition
+-Codon (+genetics)
+-DNA, Intergenic
+-Evolution, Molecular
+-Genes, Archaeal
+-Genes, Bacterial
+-Genes, Fungal
++Genome
+-Statistics, Nonparametric
+
+doi:10.1371/journal.pgen.1000556
+pubmed:19593368
+pmc:PMC2700274
+

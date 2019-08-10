@@ -1,0 +1,15 @@
+J Biomol Tech
+
+A method for preparing DNA sequencing templates using a DNA-binding microplate.
+
+Y Yang, HR Hebron, J Hang
+
+A DNA-binding matrix was immobilized on the surface of a 96-well microplate and used for plasmid DNA preparation for DNA sequencing. The same DNA-binding plate was used for bacterial growth, cell lysis, DNA purification, and storage. In a single step using one buffer, bacterial cells were lysed by enzymes, and released DNA was captured on the plate simultaneously. After two wash steps, DNA was eluted and stored in the same plate. Inclusion of phosphates in the culture medium was found to enhance the yield of plasmid significantly. Purified DNA samples were used successfully in DNA sequencing with high consistency and reproducibility. Eleven vectors and nine libraries were tested using this method. In 10 microl sequencing reactions using 3 microl sample and 0.25 microl BigDye Terminator v3.1, the results from a 3730xl sequencer gave a success rate of 90-95% and read-lengths of 700 bases or more. The method is fully automatable and convenient for manual operation as well. It enables reproducible, high-throughput, rapid production of DNA with purity and yields sufficient for high-quality DNA sequencing at a substantially reduced cost.
+
+-Culture Media
+-Plasmids
+-Sequence Analysis, DNA (+methods)
+
+pubmed:19568455
+pmc:PMC2700467
+

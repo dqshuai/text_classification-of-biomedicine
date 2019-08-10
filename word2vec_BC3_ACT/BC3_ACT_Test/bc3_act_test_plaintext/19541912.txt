@@ -1,0 +1,26 @@
+Genome Res.
+
+Profiling the T-cell receptor beta-chain repertoire by massively parallel sequencing.
+
+JD Freeman, RL Warren, JR Webb, BH Nelson, RA Holt
+
+T-cell receptor (TCR) genomic loci undergo somatic V(D)J recombination, plus the addition/subtraction of nontemplated bases at recombination junctions, in order to generate the repertoire of structurally diverse T cells necessary for antigen recognition. TCR beta subunits can be unambiguously identified by their hypervariable CDR3 (Complement Determining Region 3) sequence. This is the site of V(D)J recombination encoding the principal site of antigen contact. The complexity and dynamics of the T-cell repertoire remain unknown because the potential repertoire size has made conventional sequence analysis intractable. Here, we use 5'-RACE, Illumina sequencing, and a novel short read assembly strategy to sample CDR3(beta) diversity in human T lymphocytes from peripheral blood. Assembly of 40.5 million short reads identified 33,664 distinct TCR(beta) clonotypes and provides precise measurements of CDR3(beta) length diversity, usage of nontemplated bases, sequence convergence, and preferences for TRBV (T-cell receptor beta variable gene) and TRBJ (T-cell receptor beta joining gene) gene usage and pairing. CDR3 length between conserved residues of TRBV and TRBJ ranged from 21 to 81 nucleotides (nt). TRBV gene usage ranged from 0.01% for TRBV17 to 24.6% for TRBV20-1. TRBJ gene usage ranged from 1.6% for TRBJ2-6 to 17.2% for TRBJ2-1. We identified 1573 examples of convergence where the same amino acid translation was specified by distinct CDR3(beta) nucleotide sequences. Direct sequence-based immunoprofiling will likely prove to be a useful tool for understanding repertoire dynamics in response to immune challenge, without a priori knowledge of antigen.
+
+-Algorithms
+-Antibody Diversity (-genetics)
+-Cloning, Molecular
+-Gene Expression Profiling (+methods)
++Genes, T-Cell Receptor beta (-genetics)
+-Genetic Variation
+-Humans
+-Immunoglobulin Variable Region (-genetics; -metabolism)
+-Models, Biological
+-Receptors, Antigen, T-Cell, alpha-beta (-metabolism)
+-Sequence Analysis, DNA (+methods)
+-VDJ Recombinases (-metabolism)
+
+pii:gr.092924.109
+doi:10.1101/gr.092924.109
+pubmed:19541912
+pmc:PMC2765271
+

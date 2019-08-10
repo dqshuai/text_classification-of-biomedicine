@@ -1,0 +1,32 @@
+J. Med. Chem.
+
+Targeting human gastrointestinal stromal tumor cells with a quadruplex-binding small molecule.
+
+M Gunaratnam, S Swank, SM Haider, K Galesa, AP Reszka, M Beltran, F Cuenca, JA Fletcher, S Neidle
+
+Most of human gastrointestinal stromal tumors (GIST) are driven by activating mutations in the proto-oncogene KIT, a tyrosine kinase receptor. Clinical treatment with imatinib targets the kinase domain of KIT, but tumor regrowth occurs as a result of the development of resistant mutations in the kinase active site. An alternative small-molecule approach to GIST therapy is described, in which the KIT gene is directly targeted, and thus, kinase resistance may be circumvented. A naphthalene diimide derivative has been used to demonstrate the concept of dual quadruplex targeting. This compound strongly stabilizes both telomeric quadruplex DNA and quadruplex sites in the KIT promoter in vitro. It is shown here that the compound is a potent inducer of growth arrest in a patient-derived GIST cell line at a concentration (approximately 1 microM) that also results in effective inhibition of telomerase activity and almost complete suppression of KIT mRNA and KIT protein expression. Molecular modeling studies with a telomeric quadruplex have been used to rationalize aspects of the experimental quadruplex melting data.
+
+-Base Sequence
+-Cell Line, Tumor
+-Cell Proliferation (-drug effects)
+-Computer Simulation
+-Dose-Response Relationship, Drug
+-Drug Screening Assays, Antitumor
+-Gastrointestinal Stromal Tumors (+drug therapy; -genetics)
+-Humans
+-Imides
+-Models, Chemical
+-Models, Molecular
+-Molecular Sequence Data
+-Molecular Structure
+-Molecular Weight
+-Naphthalenes
+-Phenanthrolines (-chemistry; +pharmacology)
+-Proto-Oncogene Proteins c-kit (+drug effects; -genetics)
+-RNA, Messenger (-drug effects; -genetics)
+
+doi:10.1021/jm900424a
+pubmed:19469547
+mid:NIHMS212267
+pmc:PMC2900250
+

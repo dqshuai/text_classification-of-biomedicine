@@ -1,0 +1,25 @@
+Structure
+
+A model for the solution structure of the rod arrestin tetramer.
+
+SM Hanson, ES Dawson, DJ Francis, N Van Eps, CS Klug, WL Hubbell, J Meiler, VV Gurevich
+
+Visual rod arrestin has the ability to self-associate at physiological concentrations. We previously demonstrated that only monomeric arrestin can bind the receptor and that the arrestin tetramer in solution differs from that in the crystal. We employed the Rosetta docking software to generate molecular models of the physiologically relevant solution tetramer based on the monomeric arrestin crystal structure. The resulting models were filtered using the Rosetta energy function, experimental intersubunit distances measured with DEER spectroscopy, and intersubunit contact sites identified by mutagenesis and site-directed spin labeling. This resulted in a unique model for subsequent evaluation. The validity of the model is strongly supported by model-directed crosslinking and targeted mutagenesis that yields arrestin variants deficient in self-association. The structure of the solution tetramer explains its inability to bind rhodopsin and paves the way for experimental studies of the physiological role of rod arrestin self-association.
+
+-Arrestin (+chemistry; -genetics)
+-Disulfides (-chemistry)
+-Electron Spin Resonance Spectroscopy
++Models, Molecular
+-Protein Conformation
+-Protein Subunits (-chemistry)
+-Sequence Deletion
+-Software
+-Solutions
+-Spin Labels
+
+pii:S0969-2126(08)00143-3
+doi:10.1016/j.str.2008.03.006
+pubmed:18547524
+mid:NIHMS55861
+pmc:PMC2464289
+

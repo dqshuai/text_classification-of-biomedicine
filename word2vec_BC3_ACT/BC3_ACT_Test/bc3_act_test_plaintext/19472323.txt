@@ -1,0 +1,21 @@
+Protein Sci.
+
+Biophysical studies support a predicted superhelical structure with armadillo repeats for Ric-8.
+
+M Figueroa, MV Hinrichs, M Bunster, P Babbitt, J Martinez-Oyanedel, J Olate
+
+Ric-8 is a highly conserved cytosolic protein (MW 63 KDa) initially identified in C. elegans as an essential factor in neurotransmitter release and asymmetric cell division. Two different isoforms have been described in mammals, Ric-8A and Ric-8B; each possess guanine nucleotide exchange activity (GEF) on heterotrimeric G-proteins, but with different Galpha subunits specificities. To gain insight on the mechanisms involved in Ric-8 cellular functions it is essential to obtain some information about its structure. Therefore, the aim of this work was to create a structural model for Ric-8. In this case, it was not possible to construct a model based on comparison with a template structure because Ric-8 does not present sequence similarity with any other protein. Consequently, different bioinformatics approaches that include protein folding and structure prediction were used. The Ric-8 structural model is composed of 10 armadillo folding motifs, organized in a right-twisted alpha-alpha super helix. In order to validate the structural model, a His-tag fusion construct of Ric-8 was expressed in E. coli, purified by affinity and anion exchange chromatography and subjected to circular dichroism analysis (CD) and thermostability studies. Ric-8 is approximately 80% alpha helix, with a Tm of 43.1 degrees C, consistent with an armadillo-type structure such as alpha-importin, a protein composed of 10 armadillo repeats. The proposed structural model for Ric-8 is intriguing because armadillo proteins are known to interact with multiple partners and participate in diverse cellular functions. These results open the possibility of finding new protein partners for Ric-8 with new cellular functions.
+
+-Animals
+-Armadillo Domain Proteins (+chemistry)
+-Caenorhabditis elegans Proteins (+chemistry)
+-Genetic Vectors
+-Models, Molecular
+-Nuclear Proteins (+chemistry)
+-Protein Structure, Secondary
+-Recombinant Proteins (-chemistry)
+
+doi:10.1002/pro.124
+pubmed:19472323
+pmc:PMC2774424
+

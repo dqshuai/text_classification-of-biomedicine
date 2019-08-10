@@ -1,0 +1,22 @@
+J. Exp. Bot.
+
+Protein targets of tyrosine nitration in sunflower (Helianthus annuus L.) hypocotyls.
+
+M Chaki, R Valderrama, AM Fernández-Ocaña, A Carreras, J López-Jaramillo, F Luque, JM Palma, JR Pedrajas, JC Begara-Morales, B Sánchez-Calvo, MV Gómez-Rodríguez, FJ Corpas, JB Barroso
+
+Tyrosine nitration is recognized as an important post-translational protein modification in animal cells that can be used as an indicator of a nitrosative process. However, in plant systems, there is scant information on proteins that undergo this process. In sunflower hypocotyls, the content of tyrosine nitration (NO(2)-Tyr) and the identification of nitrated proteins were studied by high-performance liquid chromatography with tandem mass spectrometry (LC-MS/MS) and proteomic approaches, respectively. In addition, the cell localization of nitrotyrosine proteins and peroxynitrite were analysed by confocal laser-scanning microscopy (CLSM) using antibodies against 3-nitrotyrosine and 3'-(p-aminophenyl) fluorescein (APF) as the fluorescent probe, in that order. The concentration of Tyr and NO(2)-Tyr in hypocotyls was 0.56 micromol mg(-1) protein and 0.19 pmol mg(-1) protein, respectively. By proteomic analysis, a total of 21 nitrotyrosine-immunopositive proteins were identified. These targets include proteins involved in photosynthesis, and in antioxidant, ATP, carbohydrate, and nitrogen metabolism. Among the proteins identified, S-adenosyl homocysteine hydrolase (SAHH) was selected as a model to evaluate the effect of nitration on SAHH activity using SIN-1 (a peroxynitrite donor) as the nitrating agent. When the hypocotyl extracts were exposed to 0.5 mM, 1 mM, and 5 mM SIN-1, the SAHH activity was inhibited by some 49%, 89%, and 94%, respectively. In silico analysis of the barley SAHH sequence, characterized Tyr448 as the most likely potential target for nitration. In summary, the present data are the first in plants concerning the content of nitrotyrosine and the identification of candidates of protein nitration. Taken together, the results suggest that Tyr nitration occurs in plant tissues under physiological conditions that could constitute an important process of protein regulation in such a way that, when it is overproduced in adverse circumstances, it can be used as a marker of nitrosative stress.
+
+-Adenosylhomocysteinase (-chemistry; -metabolism)
+-Helianthus (-chemistry; -growth & development; +metabolism)
+-Hypocotyl (+metabolism)
+-Nitrates (+metabolism)
+-Plant Proteins (-chemistry; +metabolism)
+-Protein Processing, Post-Translational
+-Protein Structure, Quaternary
+-Protein Transport
+-Tyrosine (+metabolism)
+
+pii:erp263
+doi:10.1093/jxb/erp263
+pubmed:19717529
+

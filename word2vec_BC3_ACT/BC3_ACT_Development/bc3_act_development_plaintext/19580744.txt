@@ -1,0 +1,21 @@
+Biophys. J.
+
+Phase resetting curves allow for simple and accurate prediction of robust N:1 phase locking for strongly coupled neural oscillators.
+
+CC Canavier, FG Kazanci, AA Prinz
+
+Existence and stability criteria for harmonic locking modes were derived for two reciprocally pulse coupled oscillators based on their first and second order phase resetting curves. Our theoretical methods are general in the sense that no assumptions about the strength of coupling, type of synaptic coupling, and model are made. These methods were then tested using two reciprocally inhibitory Wang and Buzsáki model neurons. The existence of bands of 2:1, 3:1, 4:1, and 5:1 phase locking in the relative frequency parameter space was predicted correctly, as was the phase of the slow neuron's spike within the cycle of the fast neuron in which it occurred. For weak coupling the bands are very narrow, but strong coupling broadens the bands. The predictions of the pulse coupled method agreed with weak coupling methods in the weak coupling regime, but extended predictability into the strong coupling regime. We show that our prediction method generalizes to pairs of neural oscillators coupled through excitatory synapses, and to networks of multiple oscillatory neurons. The main limitation of the method is the central assumption that the effect of each input dies out before the next input is received.
+
+-Action Potentials
+-Algorithms
+-Computer Simulation
++Models, Neurological
+-Neurons (+physiology)
++Periodicity
+-Time Factors
+
+pii:S0006-3495(09)00841-8
+doi:10.1016/j.bpj.2009.04.016
+pubmed:19580744
+pmc:PMC2711386
+

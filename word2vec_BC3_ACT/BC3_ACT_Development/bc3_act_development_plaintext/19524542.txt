@@ -1,0 +1,28 @@
+Mol. Cell
+
+EDEM1 recognition and delivery of misfolded proteins to the SEL1L-containing ERAD complex.
+
+JH Cormier, T Tamura, JC Sunryd, DN Hebert
+
+Terminally misfolded or unassembled secretory proteins are retained in the endoplasmic reticulum (ER) and subsequently cleared by the ER-associated degradation (ERAD) pathway. The degradation of ERAD substrates involves mannose trimming of N-linked glycans; however, the mechanisms of substrate recognition and sorting to the ERAD pathway are poorly defined. EDEM1 (ER degradation-enhancing alpha-mannosidase-like 1 protein) has been proposed to play a role in ERAD substrate signaling or recognition. We show that EDEM1 specifically binds nonnative proteins in a glycan-independent manner. Inhibition of mannosidase activity with kifunensine or disruption of the EDEM1 mannosidase-like domain by mutation had no effect on EDEM1 substrate binding but diminished its association with the ER membrane adaptor protein SEL1L. These results support a model whereby EDEM1 binds nonnative proteins and uses its mannosidase-like domain to target aberrant proteins to the ER membrane dislocation and ubiquitination complex containing SEL1L.
+
+-Binding Sites
+-Carbohydrate Metabolism
+-Cell Line
+-Endoplasmic Reticulum (-metabolism; +physiology)
+-Glycoproteins (-chemistry; +metabolism)
+-Humans
+-Mannose (-chemistry; -metabolism)
+-Membrane Proteins (-chemistry; -metabolism; +physiology)
+-Polysaccharides (-chemistry; -metabolism)
++Protein Folding
+-Protein Structure, Tertiary
+-Proteins (+metabolism)
+-Substrate Specificity
+
+pii:S1097-2765(09)00351-7
+doi:10.1016/j.molcel.2009.05.018
+pubmed:19524542
+mid:NIHMS120830
+pmc:PMC2740909
+

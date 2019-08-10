@@ -1,0 +1,28 @@
+J. Virol.
+
+Elucidating and minimizing the loss by recombinant vaccinia virus of human immunodeficiency virus gene expression resulting from spontaneous mutations and positive selection.
+
+LS Wyatt, PL Earl, W Xiao, JL Americo, CA Cotter, J Vogt, B Moss
+
+While characterizing modified vaccinia virus recombinants (rMVAs) containing human immunodeficiency virus env and gag-pol genes, we detected nonexpressing mutants by immunostaining individual plaques. In many cases, the numbers of mutants increased during successive passages, indicating strong selection pressure. This phenomenon provided an opportunity to investigate the formation of spontaneous mutations in vaccinia virus, which encodes its own cytoplasmic replication system, and a challenge to reduce the occurrence of mutations for vaccine production. Analysis of virus from individual plaques indicated that loss of expression was due to frameshift mutations, mostly by addition or deletion of a single nucleotide in runs of four to six Gs or Cs, and large deletions that included MVA DNA flanking the recombinant gene. Interruption of the runs of Gs and Cs by silent codon alterations and moving the recombinant gene to a site between essential, highly conserved MVA genes eliminated or reduced frameshifts and viable deletion mutants, respectively. The rapidity at which nonexpressing mutants accumulated depended on the individual env and gag-pol genes and their suppressive effects on virus replication. Both the extracellular and transmembrane domains contributed to the selection of nonexpressing Env mutants. Stability of an unstable Env was improved by swapping external or transmembrane domains with a more stable Env. Most dramatically, removal of the transmembrane and cytoplasmic domains stabilized even the most highly unstable Env. Understanding the causes of instability and taking preemptive actions will facilitate the development of rMVA and other poxviruses as human and veterinary recombinant vaccines.
+
+-Base Sequence
+-Cells, Cultured
+-Fusion Proteins, gag-pol (-genetics; -metabolism)
++Gene Expression
+-Genetic Vectors (-genetics; -metabolism)
+-HIV (+genetics; -metabolism)
+-HIV Infections (+virology)
+-Humans
+-Molecular Sequence Data
++Mutation
+-Recombination, Genetic
++Selection, Genetic
+-Vaccinia virus (+genetics; -metabolism)
+-pol Gene Products, Human Immunodeficiency Virus (-genetics; -metabolism)
+
+pii:JVI.00687-09
+doi:10.1128/JVI.00687-09
+pubmed:19420086
+pmc:PMC2704791
+

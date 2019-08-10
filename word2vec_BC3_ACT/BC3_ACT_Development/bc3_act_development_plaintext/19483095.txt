@@ -1,0 +1,25 @@
+Nucleic Acids Res.
+
+VisHiC--hierarchical functional enrichment analysis of microarray data.
+
+D Krushevskaya, H Peterson, J Reimand, M Kull, J Vilo
+
+Measuring gene expression levels with microarrays is one of the key technologies of modern genomics. Clustering of microarray data is an important application, as genes with similar expression profiles may be regulated by common pathways and involved in related functions. Gene Ontology (GO) analysis and visualization allows researchers to study the biological context of discovered clusters and characterize genes with previously unknown functions. We present VisHiC (Visualization of Hierarchical Clustering), a web server for clustering and compact visualization of gene expression data combined with automated function enrichment analysis. The main output of the analysis is a dendrogram and visual heatmap of the expression matrix that highlights biologically relevant clusters based on enriched GO terms, pathways and regulatory motifs. Clusters with most significant enrichments are contracted in the final visualization, while less relevant parts are hidden altogether. Such a dense representation of microarray data gives a quick global overview of thousands of transcripts in many conditions and provides a good starting point for further analysis. VisHiC is freely available at http://biit.cs.ut.ee/vishic.
+
+-Algorithms
+-Cardiovascular Diseases (-genetics; -metabolism)
+-Cluster Analysis
+-Computer Graphics
+-Extracellular Matrix (-metabolism)
+-Gene Expression Profiling (+methods)
+-Humans
+-Mitochondria (-metabolism)
+-Myocardium (-metabolism)
+-Oligonucleotide Array Sequence Analysis (+methods)
++Software
+
+pii:gkp435
+doi:10.1093/nar/gkp435
+pubmed:19483095
+pmc:PMC2703939
+

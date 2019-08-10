@@ -1,0 +1,26 @@
+Infect. Immun.
+
+Expression of Nlrp1b inflammasome components in human fibroblasts confers susceptibility to anthrax lethal toxin.
+
+KC Liao, J Mogridge
+
+Anthrax lethal toxin causes macrophages and dendritic cells from some mouse strains to undergo caspase-1-dependent cell death. Central to this process is the NOD-like receptor Nlrp1b (Nalp1b), which detects intoxication and then self-associates to form a complex, termed an inflammasome, that is capable of activating the procaspase-1 zymogen. The nature of the signal detected directly by Nlrp1b is not known, and the mechanisms of inflammasome assembly are poorly understood. Here, we demonstrate that transfection of human fibroblasts with plasmids encoding murine Nlrp1b and procaspase-1 was sufficient to confer susceptibility to lethal toxin-mediated death on the cells. As has been observed in murine macrophages, the enzymatic activities of lethal toxin and the proteasome were both required for activation of the Nlrp1b inflammasome and this activation led to prointerleukin-1 beta processing. Release of interleukin-1beta from cells was not dependent on cell lysis, as its secretion was not affected by an osmoprotectant that prevented the appearance of lactate dehydrogenase in the culture medium. We generated constitutively active mutants of Nlrp1b by making amino-terminal deletions to the protein and observed that the ability to activate procaspase-1 was dependent on the CARD domain, which bound procaspase-1, and a region adjacent to the CARD domain that promoted self-association. Our results demonstrate that lethal toxin can activate Nlrp1b in a nonmyeloid cell line and are consistent with work that suggests that activation induces proximity of procaspase-1.
+
+-Animals
+-Antigens, Bacterial (+toxicity)
+-Apoptosis Regulatory Proteins (+physiology)
+-Bacterial Toxins (+toxicity)
+-Caspase 1 (-genetics; -physiology)
+-Cell Survival
+-Fibroblasts (+drug effects)
+-Gene Expression
+-Humans
+-Mice
+-Plasmids
+-Transfection
+
+pii:IAI.00276-09
+doi:10.1128/IAI.00276-09
+pubmed:19651869
+pmc:PMC2747971
+

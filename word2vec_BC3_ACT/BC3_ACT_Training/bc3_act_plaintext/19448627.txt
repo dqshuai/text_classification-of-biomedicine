@@ -1,0 +1,26 @@
+Nat. Cell Biol.
+
+p53 controls cancer cell invasion by inducing the MDM2-mediated degradation of Slug.
+
+SP Wang, WL Wang, YL Chang, CT Wu, YC Chao, SH Kao, A Yuan, CW Lin, SC Yang, WK Chan, KC Li, TM Hong, PC Yang
+
+The tumour suppressor p53 is known to prevent cancer progression by inhibiting proliferation and inducing apoptosis of tumour cells. Slug, an invasion promoter, exerts its effects by repressing E-cadherin transcription. Here we show that wild-type p53 (wtp53) suppresses cancer invasion by inducing Slug degradation, whereas mutant p53 may stabilize Slug protein. In non-small-cell lung cancer (NSCLC), mutation of p53 correlates with low MDM2, high Slug and low E-cadherin expression. This expression profile is associated with poor overall survival and short metastasis-free survival in patients with NSCLC. wtp53 upregulates MDM2 and forms a wtp53-MDM2-Slug complex that facilitates MDM2-mediated Slug degradation. Downregulation of Slug by wtp53 or MDM2 enhances E-cadherin expression and represses cancer cell invasiveness. In contrast, mutant p53 inactivates Slug degradation and leads to Slug accumulation and increased cancer cell invasiveness. Our findings indicate that wtp53 and p53 mutants may differentially control cancer invasion and metastasis through the p53-MDM2-Slug pathway.
+
+-Animals
+-Cadherins (-genetics; -metabolism)
+-Carcinoma, Non-Small-Cell Lung (-genetics; +metabolism; +pathology)
+-Cell Line, Tumor
+-Humans
+-Lung Neoplasms (-genetics; +metabolism; +pathology)
+-Mice
+-Neoplasm Invasiveness
+-Neoplasm Metastasis
+-Proto-Oncogene Proteins c-mdm2 (-genetics; +metabolism)
+-Survival Rate
+-Transcription Factors (-genetics; +metabolism)
+-Tumor Suppressor Protein p53 (-genetics; +metabolism)
+
+pii:ncb1875
+doi:10.1038/ncb1875
+pubmed:19448627
+

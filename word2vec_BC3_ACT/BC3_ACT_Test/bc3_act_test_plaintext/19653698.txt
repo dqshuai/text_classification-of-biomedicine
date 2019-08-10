@@ -1,0 +1,23 @@
+J. Proteome Res.
+
+High speed two-dimensional protein separation without gel by isoelectric focusing-asymmetrical flow field flow fractionation: application to urinary proteome.
+
+KH Kim, MH Moon
+
+An online multilane channel system for isoelectric focusing and asymmetrical flow field-flow fractionation (IEF-AF4) is utilized for the two-dimensional separation (2D: isoelectric point, pI, and hydrodynamic diameter, d(s)) of a human proteome sample followed by the shotgun proteomic analysis using nanoflow liquid chromatography-electrospray ionization-tandem mass spectrometry (nLC-ESI-MS-MS). IEF-AF4 was recently developed to carry out nongel-based high speed two-dimensional protein separation [ Kim , K. , et al. Anal. Chem. 2009, 81 , 1715 ]. In IEF-AF4, proteins are separated according to pI along an IEF channel located at the head of six AF4 channels, and then the fractionated protein bands are directed to multilane AF4 channels for size-based separation. In this report, the original IEF-AF4 system has been modified to avoid the possible adsorption of proteins onto the membrane wall of IEF segments during isoelectric focusing by isolating the IEF channel segments from the multilane AF4 channels. The performance of the modified IEF-AF4 system was tested with protein standards and was further applied for the 2D fractionation of the human urinary proteome sample under two ampholyte solutions with different pH ranges (pH 3-10 and 3-6). The entire 2D separation was achieved in less than 30 min. The collected protein fractions were digested for peptide analysis using nLC-ESI-MS-MS, resulting in the identification of 245 total urinary proteins, including 110 unique proteins that are not yet reported in literature. Our experiments also showed a higher efficiency in the identification of urine proteins using ampholyte solution in the narrower pH range.
+
+-Fractionation, Field Flow (-instrumentation; +methods)
+-Humans
+-Hydrogen-Ion Concentration
+-Isoelectric Focusing (-instrumentation; +methods)
+-Peptide Fragments (-analysis)
+-Peptide Mapping (-methods)
+-Proteins (+analysis)
+-Proteinuria (+urine)
+-Proteome (+analysis)
+-Proteomics (-methods)
+-Tandem Mass Spectrometry
+
+doi:10.1021/pr900363s
+pubmed:19653698
+

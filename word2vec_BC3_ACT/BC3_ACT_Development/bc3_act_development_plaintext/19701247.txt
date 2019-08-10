@@ -1,0 +1,31 @@
+Oncogene
+
+Downregulation of miR-193b contributes to enhance urokinase-type plasminogen activator (uPA) expression and tumor progression and invasion in human breast cancer.
+
+XF Li, PJ Yan, ZM Shao
+
+Emerging evidence suggests the potential involvement of altered regulation of miRNAs in the pathogenesis of cancers, and these miRNAs are thought to be functional as tumor suppressors or oncogenes. Using miRNA arrays, we identified an miRNA differentially expressed between the MDA-MB-231 cell line and its highly metastatic variant. A bioinformatics search revealed a potential target site for miR-193b within the 3'UTR of uPA. Ectopic expression of miR-193b repressed the expression of sensor constructs harboring the 3'UTR of uPA in breast cancer cell lines. Anti-miR-193b treatment led to an increase of uPA protein and increased cell invasion in MDA-MB-231 cells. In contrast, overexpression of miR-193b significantly reduced uPA protein amounts and inhibited cell invasion in MDA-MB-231 and MDA-MB-435 cells. In an immunodeficient mouse model, miR-193b significantly inhibited the growth and dissemination of xenograft tumors. Immunohistochemical staining and real-time PCR assays showed that miR-193b was a negative regulator of the uPA gene in primary breast tumors. Our research reveals that miR-193b is closely associated with clinical metastasis and identifies miR-193b potentially targets uPA transcripts. Perturbation of the miRNA-mRNA pairing may have important roles in the initiation and development of breast cancer.
+
++3' Untranslated Regions
+-Animals
+-Breast Neoplasms (-genetics; +metabolism; -pathology)
+-Cell Line, Tumor
+-Female
++Gene Expression Regulation, Neoplastic
+-Humans
+-Mice
+-Mice, SCID
+-MicroRNAs (-genetics; +metabolism)
+-NIH 3T3 Cells
+-Neoplasm Invasiveness
+-Neoplasm Proteins (+biosynthesis; -genetics)
+-Neoplasm Transplantation
+-Oligonucleotide Array Sequence Analysis
+-RNA, Neoplasm (-genetics; +metabolism)
+-Transplantation, Heterologous
+-Urokinase-Type Plasminogen Activator (+biosynthesis; -genetics)
+
+pii:onc2009245
+doi:10.1038/onc.2009.245
+pubmed:19701247
+

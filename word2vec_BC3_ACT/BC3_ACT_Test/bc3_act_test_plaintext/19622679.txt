@@ -1,0 +1,29 @@
+RNA
+
+Widespread cleavage of A-to-I hyperediting substrates.
+
+S Osenberg, D Dominissini, G Rechavi, E Eisenberg
+
+A-to-I RNA editing is the conversion of adenosine to inosine in double-stranded cellular and viral RNAs. Recently, abundant hyperediting of human transcripts, affecting thousands of genes, has been reported. Most of these editing sites are confined to intramolecular hairpin double-stranded RNA (dsRNA) structures formed by pairing of neighboring, reversely oriented, primate-specific Alu repeats. The biological implication of this extensive modification is still a mystery. A number of studies have shown that heavily edited transcripts are often retained in the nucleus. A recent study found that the edited region in transcripts of the mouse Slc7a2 gene is post-transcriptionally cleaved upon stress, enabling the release of the mRNA to the cytoplasm, followed by its translation. Here, we aim to test whether this scenario might be relevant for many other hyperedited Alu targets. Bioinformatics analysis of publicly available mRNA and expressed sequence tag data provides evidence showing that neighboring, reversely oriented, Alu elements are often cleaved at both ends of the region harboring the inverted repeats followed by rejoining of the two parts of the transcript on both sides of the inverted repeats, resulting in almost inosine-free mRNA products. Deleted segments vary among transcripts of the same gene and are not flanked by the canonical splicing signal sequences. The tissue distribution of these events seems to correlate with known A-to-I editing patterns, suggesting that it depends on the dsRNA structure being edited. Results are experimentally verified by polymerase chain reaction and cloning data. A database of 566 human and 107 mouse putative cleavage loci is supplied.
+
+-Adenosine (+metabolism)
+-Alternative Splicing (-physiology)
+-Alu Elements (-physiology)
+-Animals
+-Catalytic Domain
+-Humans
+-Inosine (+metabolism)
+-Mice
+-MicroRNAs (-chemistry; -metabolism)
+-RNA Editing (+physiology)
+-RNA, Double-Stranded (-analysis; -chemistry; -metabolism)
+-RNA, Messenger (-chemistry; -metabolism)
+-Sequence Alignment
+-Sequence Analysis, RNA
+-Templates, Genetic
+
+pii:rna.1581809
+doi:10.1261/rna.1581809
+pubmed:19622679
+pmc:PMC2743065
+

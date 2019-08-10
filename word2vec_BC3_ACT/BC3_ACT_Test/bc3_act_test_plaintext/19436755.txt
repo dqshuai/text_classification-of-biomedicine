@@ -1,0 +1,24 @@
+PLoS ONE
+
+Network analysis of differential expression for the identification of disease-causing genes.
+
+D Nitsch, LC Tranchevent, B Thienpont, L Thorrez, H Van Esch, K Devriendt, Y Moreau
+
+Genetic studies (in particular linkage and association studies) identify chromosomal regions involved in a disease or phenotype of interest, but those regions often contain many candidate genes, only a few of which can be followed-up for biological validation. Recently, computational methods to identify (prioritize) the most promising candidates within a region have been proposed, but they are usually not applicable to cases where little is known about the phenotype (no or few confirmed disease genes, fragmentary understanding of the biological cascades involved). We seek to overcome this limitation by replacing knowledge about the biological process by experimental data on differential gene expression between affected and healthy individuals. Considering the problem from the perspective of a gene/protein network, we assess a candidate gene by considering the level of differential expression in its neighborhood under the assumption that strong candidates will tend to be surrounded by differentially expressed neighbors. We define a notion of soft neighborhood where each gene is given a contributing weight, which decreases with the distance from the candidate gene on the protein network. To account for multiple paths between genes, we define the distance using the Laplacian exponential diffusion kernel. We score candidates by aggregating the differential expression of neighbors weighted as a function of distance. Through a randomization procedure, we rank candidates by p-values. We illustrate our approach on four monogenic diseases and successfully prioritize the known disease causing genes.
+
+-Computational Biology (+methods)
+-Databases, Genetic
+-Female
+-Fragile X Syndrome (-genetics)
++Gene Expression
+-Gene Expression Profiling (-methods)
+-Gene Regulatory Networks (+genetics)
+-Genetic Predisposition to Disease (+genetics)
+-Genome, Human
+-Humans
+-Polycystic Ovary Syndrome (-genetics)
+
+doi:10.1371/journal.pone.0005526
+pubmed:19436755
+pmc:PMC2677677
+

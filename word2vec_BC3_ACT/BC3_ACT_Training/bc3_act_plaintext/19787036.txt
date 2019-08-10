@@ -1,0 +1,23 @@
+PLoS Biol.
+
+Dynamic interpretation of hedgehog signaling in the Drosophila wing disc.
+
+M Nahmad, A Stathopoulos
+
+Morphogens are classically defined as molecules that control patterning by acting at a distance to regulate gene expression in a concentration-dependent manner. In the Drosophila wing imaginal disc, secreted Hedgehog (Hh) forms an extracellular gradient that organizes patterning along the anterior-posterior axis and specifies at least three different domains of gene expression. Although the prevailing view is that Hh functions in the Drosophila wing disc as a classical morphogen, a direct correspondence between the borders of these patterns and Hh concentration thresholds has not been demonstrated. Here, we provide evidence that the interpretation of Hh signaling depends on the history of exposure to Hh and propose that a single concentration threshold is sufficient to support multiple outputs. Using mathematical modeling, we predict that at steady state, only two domains can be defined in response to Hh, suggesting that the boundaries of two or more gene expression patterns cannot be specified by a static Hh gradient. Computer simulations suggest that a spatial "overshoot" of the Hh gradient occurs, i.e., a transient state in which the Hh profile is expanded compared to the Hh steady-state gradient. Through a temporal examination of Hh target gene expression, we observe that the patterns initially expand anteriorly and then refine, providing in vivo evidence for the overshoot. The Hh gene network architecture suggests this overshoot results from the Hh-dependent up-regulation of the receptor, Patched (Ptc). In fact, when the network structure was altered such that the ptc gene is no longer up-regulated in response to Hh-signaling activation, we found that the patterns of gene expression, which have distinct borders in wild-type discs, now overlap. Our results support a model in which Hh gradient dynamics, resulting from Ptc up-regulation, play an instructional role in the establishment of patterns of gene expression.
+
+-Animals
+-Computer Simulation
+-Drosophila Proteins (-metabolism)
+-Drosophila melanogaster (+growth & development; +metabolism)
+-Gene Expression Profiling
+-Hedgehog Proteins (+metabolism)
+-Models, Biological
++Signal Transduction
+-Time Factors
+-Wing (+growth & development; +metabolism)
+
+doi:10.1371/journal.pbio.1000202
+pubmed:19787036
+pmc:PMC2744877
+

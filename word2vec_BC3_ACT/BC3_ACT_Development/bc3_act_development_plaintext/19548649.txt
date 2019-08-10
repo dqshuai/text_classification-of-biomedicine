@@ -1,0 +1,22 @@
+Biochemistry
+
+Fluorescence correlation spectroscopy of phosphatidylinositol-specific phospholipase C monitors the interplay of substrate and activator lipid binding.
+
+M Pu, MF Roberts, A Gershenson
+
+Phosphatidylinositol-specific phospholipase C (PI-PLC) enzymes simultaneously interact with the substrate, PI, and with nonsubstrate lipids such as phosphatidylcholine (PC). For Bacillus thuringiensis PI-PLC these interactions are synergistic with maximal catalytic activity observed at low to moderate mole fractions of PC (X(PC)) and maximal binding occurring at low mole fractions of anionic lipids. It has been proposed that residues in alpha-helix B help to modulate membrane binding and that dimerization on the membrane surface both increases affinity for PC and activates PI-PLC, yielding the observed PI/PC synergy. Vesicle binding and activity measurements using a variety of PI-PLC mutants support many aspects of this model and reveal that while single mutations can disrupt anionic lipid binding and the anionic lipid/PC synergy, the residues important for PC binding are less localized. Interestingly, at high X(PC) mutations can both decrease membrane affinity and increase activity, supporting a model where reductions in wild-type activity at X(PC) > 0.6 result from both dilution of the substrate and tight membrane binding of PI-PLC, limiting enzyme hopping or scooting to the next substrate molecule. These results provide a direct analysis of vesicle binding and catalytic activity and shed light on how occupation of the activator site enhances enzymatic activity.
+
+-Bacillus thuringiensis (-enzymology)
+-Biocatalysis
++Lipid Metabolism
+-Models, Molecular
+-Phosphatidylinositols (-chemistry; +metabolism)
+-Spectrometry, Fluorescence (+methods)
+-Substrate Specificity
+-Type C Phospholipases (-chemistry; +metabolism)
+
+doi:10.1021/bi900633p
+pubmed:19548649
+mid:NIHMS129867
+pmc:PMC2753481
+

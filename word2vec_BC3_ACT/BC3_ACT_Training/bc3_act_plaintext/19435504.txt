@@ -1,0 +1,24 @@
+BMC Genomics
+
+Sequencing and de novo analysis of a coral larval transcriptome using 454 GSFlx.
+
+E Meyer, GV Aglyamova, S Wang, J Buchanan-Carter, D Abrego, JK Colbourne, BL Willis, MV Matz
+
+BACKGROUND: New methods are needed for genomic-scale analysis of emerging model organisms that exemplify important biological questions but lack fully sequenced genomes. For example, there is an urgent need to understand the potential for corals to adapt to climate change, but few molecular resources are available for studying these processes in reef-building corals. To facilitate genomics studies in corals and other non-model systems, we describe methods for transcriptome sequencing using 454, as well as strategies for assembling a useful catalog of genes from the output. We have applied these methods to sequence the transcriptome of planulae larvae from the coral Acropora millepora. RESULTS: More than 600,000 reads produced in a single 454 sequencing run were assembled into approximately 40,000 contigs with five-fold average sequencing coverage. Based on sequence similarity with known proteins, these analyses identified approximately 11,000 different genes expressed in a range of conditions including thermal stress and settlement induction. Assembled sequences were annotated with gene names, conserved domains, and Gene Ontology terms. Targeted searches using these annotations identified the majority of genes associated with essential metabolic pathways and conserved signaling pathways, as well as novel candidate genes for stress-related processes. Comparisons with the genome of the anemone Nematostella vectensis revealed approximately 8,500 pairs of orthologs and approximately 100 candidate coral-specific genes. More than 30,000 SNPs were detected in the coral sequences, and a subset of these validated by re-sequencing. CONCLUSION: The methods described here for deep sequencing of the transcriptome should be widely applicable to generate catalogs of genes and genetic markers in emerging model organisms. Our data provide the most comprehensive sequence resource currently available for reef-building corals, and include an extensive collection of potential genetic markers for association and population connectivity studies. The characterization of the larval transcriptome for this widely-studied coral will enable research into the biological processes underlying stress responses in corals and evolutionary adaptation to global climate change.
+
+-Animals
+-Anthozoa (+genetics)
+-Cluster Analysis
+-Computational Biology
+-Contig Mapping
++Gene Expression Profiling
+-Gene Library
+-Genomics (-methods)
+-Polymorphism, Single Nucleotide
+-Sequence Analysis, DNA (+methods)
+
+pii:1471-2164-10-219
+doi:10.1186/1471-2164-10-219
+pubmed:19435504
+pmc:PMC2689275
+

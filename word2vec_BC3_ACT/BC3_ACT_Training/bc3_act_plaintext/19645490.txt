@@ -1,0 +1,26 @@
+J. Am. Chem. Soc.
+
+Substrate binding mechanism of HIV-1 protease from explicit-solvent atomistic simulations.
+
+F Pietrucci, F Marinelli, P Carloni, A Laio
+
+The binding mechanism of a peptide substrate (Thr-Ile-Met-Met-Gln-Arg, cleavage site p2-NC of the viral polyprotein) to wild-type HIV-1 protease has been investigated by 1.6 micros biased all-atom molecular dynamics simulations in explicit water. The configuration space has been explored biasing seven reaction coordinates by the bias-exchange metadynamics technique. The structure of the Michaelis complex is obtained starting from the substrate outside the enzyme within a backbone rmsd of 0.9 A. The calculated free energy of binding is -6 kcal/mol, and the kinetic constants for association and dissociation are 1.3 x 10(6) M(-1) s(-1) and 57 s(-1), respectively, consistent with experiments. In the main binding pathway, the flaps of the protease do not open sizably. The substrate slides inside the enzyme cavity from the tight lateral channel. This may contrast with the natural polyprotein substrate which is expected to bind by opening the flaps. Thus, mutations might influence differently the binding kinetics of peptidomimetic ligands and of the natural substrate.
+
+-Amino Acid Sequence
+-HIV Protease (-chemistry; -genetics; +metabolism)
+-HIV-1 (+enzymology)
+-Kinetics
+-Ligands
+-Models, Molecular
+-Mutation
+-Oligopeptides (-chemistry; +metabolism)
+-Pharmaceutical Preparations (-metabolism)
+-Protein Binding
+-Protein Conformation
++Solvents
+-Thermodynamics
+-Water (-chemistry; -metabolism)
+
+doi:10.1021/ja903045y
+pubmed:19645490
+

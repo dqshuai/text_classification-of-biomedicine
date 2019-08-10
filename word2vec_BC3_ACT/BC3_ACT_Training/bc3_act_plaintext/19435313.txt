@@ -1,0 +1,27 @@
+Biochemistry
+
+Mechanism of the orotidine 5'-monophosphate decarboxylase-catalyzed reaction: effect of solvent viscosity on kinetic constants.
+
+BM Wood, KK Chan, TL Amyes, JP Richard, JA Gerlt
+
+Orotidine 5'-monophosphate decarboxylase (OMPDC) is an exceptionally proficient catalyst: the rate acceleration (k(cat)/k(non)) is 7.1 x 10(16), and the proficiency [(k(cat)/K(M))/k(non)] is 4.8 x 10(22) M(-1). The structural basis for the large rate acceleration and proficiency is unknown, although the mechanism has been established to involve a stabilized carbanion intermediate. To provide reaction coordinate context for interpretation of the values of k(cat), k(cat)/K(M), and kinetic isotope effects, we investigated the effect of solvent viscosity on k(cat) and k(cat)/K(M) for the OMPDCs from Methanothermobacter thermautotrophicus (MtOMPDC) and Saccharomyces cerevisiae (ScOMPDC). For MtOMPDC, we used not only the natural OMP substrate but also a catalytically impaired mutant (D70N) and a more reactive substrate (FOMP); for ScOMPDC, we used OMP and FOMP. With MtOMPDC and OMP, k(cat) is independent of solvent viscosity, indicating that decarboxylation is fully rate-determining; k(cat)/K(M) displays a fractional dependence of solvent viscosity, suggesting that both substrate binding and decarboxylation determine this kinetic constant. For ScOMPDC with OMP, we observed that both k(cat) and k(cat)/K(M) are fractionally dependent on solvent viscosity, suggesting that the rates of substrate binding, decarboxylation, and product dissociation are similar. Consistent with these interpretations, for both enzymes with FOMP, the increases in the values of k(cat) and k(cat)/K(M) are much less than expected based on the ability of the 5-fluoro substituent to stabilize the anionic intermediate; i.e., substrate binding and product dissociation mask the kinetic effects of stabilization of the intermediate by the substituent.
+
+-Bacterial Proteins (-chemistry; -metabolism)
+-Binding Sites
+-Catalysis
+-Catalytic Domain
+-Kinetics
+-Methanobacteriaceae (-enzymology)
+-Orotidine-5'-Phosphate Decarboxylase (+chemistry; -metabolism)
+-Protein Conformation
+-Saccharomyces cerevisiae (-enzymology)
+-Saccharomyces cerevisiae Proteins (-chemistry; -metabolism)
+-Solvents (-chemistry)
+-Structure-Activity Relationship
+-Viscosity
+
+doi:10.1021/bi9006226
+pubmed:19435313
+mid:NIHMS117284
+pmc:PMC2735758
+

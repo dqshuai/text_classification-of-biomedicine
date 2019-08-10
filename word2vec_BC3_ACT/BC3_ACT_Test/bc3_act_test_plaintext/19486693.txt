@@ -1,0 +1,27 @@
+Biophys. J.
+
+Quantitative surface-enhanced Raman for gene expression estimation.
+
+L Sun, J Irudayaraj
+
+We demonstrate for the first time, to our knowledge, a unique gene expression assay by surface-enhanced Raman scattering (SERS) using nonfluorescent Raman labels to quantify gene expression at the resolution of alternative splicing using RNA extracted from cancer cells without any amplification steps. Our approach capitalizes on the inherent plasmon-phonon mode of SERS substrates as a self-referencing standard for the detection and quantification of genetic materials. A strategy integrating S1 nuclease digestion with SERS detection was developed to quantify the expression levels of splice junction Delta(9,10), a segment of the breast cancer susceptibility gene 1 (BRCA1) from MCF-7 and MDA-MB-231 cells. Quantification results were cross-validated using two Raman tags and qualitatively confirmed by RT-PCR. Our methodology based on SERS technology provides reliable gene expression data with high sensitivity, bypassing the intricacies involved in fabricating a consistent SERS substrate.
+
+-Alternative Splicing
+-BRCA1 Protein (-chemistry; -genetics)
+-Calibration
+-Cell Line, Tumor
+-DNA (-chemistry)
++Gene Expression
+-Gold (-chemistry)
+-Humans
+-Metal Nanoparticles (-chemistry)
+-RNA (-chemistry)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Silver (-chemistry)
+-Spectrum Analysis, Raman (+methods)
+
+pii:S0006-3495(09)00760-7
+doi:10.1016/j.bpj.2009.03.021
+pubmed:19486693
+pmc:PMC2711453
+

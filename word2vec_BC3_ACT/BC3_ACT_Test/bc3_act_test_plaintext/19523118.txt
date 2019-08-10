@@ -1,0 +1,25 @@
+FEBS J.
+
+Sin3 is involved in cell size control at Start in Saccharomyces cerevisiae.
+
+O Stephan, C Koch
+
+Saccharomyces cerevisiae cells control their cell size at a point in late G(1) called Start. Here, we describe a negative role for the Sin3/Rpd3 histone deacetylase complex in the regulation of cell size at Start. Initiation of G(1)/S-specific transcription of CLN1, CLN2 and PCL1 in a sin3Delta strain occurs at a reduced cell size compared with a wild-type strain. In addition, inactivation of the transcriptional regulator SIN3 partially suppressed a cln3Delta mutant, causing sin3Deltacln3Delta double mutants to start the cell cycle at wild-type size. Chromatin immunoprecipitation results demonstrate that Sin3 and Rpd3 are recruited to promoters of SBF (Swi4/Swi6)-regulated genes, and reveal that binding of Sin3 to SBF-specific promoters is cell-cycle regulated. We observe that transcriptional repression of SBF-dependent genes in early G(1) coincides with the recruitment of Sin3 to specific promoters, whereas binding of Sin3 is abolished from Swi4/Swi6-regulated promoters when transcription is activated at the G(1) to S phase transition. We conclude that the Sin3/Rpd3 histone deacetylase complex helps to prevent premature activation of the S phase in daughter cells.
+
+-Cyclins (-genetics; -metabolism)
+-DNA-Binding Proteins (-genetics; -metabolism)
++G1 Phase
+-Gene Expression Regulation, Fungal
+-Histone Deacetylases (-genetics; +metabolism)
+-Promoter Regions, Genetic
+-Protein Binding
+-Repressor Proteins (-genetics; +metabolism)
+-Saccharomyces cerevisiae (+cytology; -genetics; +metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Transcription Factors (-genetics; -metabolism)
+-Transcription, Genetic
+
+pii:EJB7095
+doi:10.1111/j.1742-4658.2009.07095.x
+pubmed:19523118
+

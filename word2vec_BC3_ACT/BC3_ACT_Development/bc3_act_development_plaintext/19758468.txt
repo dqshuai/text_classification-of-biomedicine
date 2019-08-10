@@ -1,0 +1,24 @@
+BMC Bioinformatics
+
+Annotation of protein residues based on a literature analysis: cross-validation against UniProtKb.
+
+K Nagel, A Jimeno-Yepes, D Rebholz-Schuhmann
+
+BACKGROUND: A protein annotation database, such as the Universal Protein Resource knowledge base (UniProtKb), is a valuable resource for the validation and interpretation of predicted 3D structure patterns in proteins. Existing studies have focussed on point mutation extraction methods from biomedical literature which can be used to support the time consuming work of manual database curation. However, these methods were limited to point mutation extraction and do not extract features for the annotation of proteins at the residue level. RESULTS: This work introduces a system that identifies protein residues in MEDLINE abstracts and annotates them with features extracted from the context written in the surrounding text. MEDLINE abstract texts have been processed to identify protein mentions in combination with taxonomic species and protein residues (F1-measure 0.52). The identified protein-species-residue triplets have been validated and benchmarked against reference data resources (UniProtKb, average F1-measure of 0.54). Then, contextual features were extracted through shallow and deep parsing and the features have been classified into predefined categories (F1-measure ranges from 0.15 to 0.67). Furthermore, the feature sets have been aligned with annotation types in UniProtKb to assess the relevance of the annotations for ongoing curation projects. Altogether, the annotations have been assessed automatically and manually against reference data resources. CONCLUSION: This work proposes a solution for the automatic extraction of functional annotation for protein residues from biomedical articles. The presented approach is an extension to other existing systems in that a wider range of residue entities are considered and that features of residues are extracted as annotations.
+
+-Amino Acids (+chemistry)
+-Computational Biology (+methods)
++Databases, Protein
+-Fuzzy Logic
+-Information Storage and Retrieval (+methods)
+-Pattern Recognition, Automated
+-Proteins (+chemistry)
+-Proteomics (+methods)
+-Reproducibility of Results
+-Terminology as Topic
+
+pii:1471-2105-10-S8-S4
+doi:10.1186/1471-2105-10-S8-S4
+pubmed:19758468
+pmc:PMC2745586
+

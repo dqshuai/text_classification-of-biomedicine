@@ -1,0 +1,22 @@
+J. Bacteriol.
+
+Mechanism of transcriptional activation by Pseudomonas aeruginosa ExsA.
+
+CA Vakulskas, KM Brady, TL Yahr
+
+ExsA is a transcriptional activator of the Pseudomonas aeruginosa type III secretion system (T3SS). The T3SS consists of >40 genes organized within 10 transcriptional units, each of which is controlled by the transcriptional activator ExsA. ExsA-dependent promoters contain two adjacent ExsA binding sites that when occupied protect the -30 to -70 region from DNase I cleavage. The promoters also possess regions bearing strong resemblance to the consensus -10 and -35 regions of sigma(70)-dependent promoters. The spacing distance between the putative -10 and -35 regions of ExsA-dependent promoters, however, is increased by 4 to 5 bp compared to that in typical sigma(70)-dependent promoters. In the present study, we demonstrate that ExsA-dependent transcriptional activation requires a 21- or 22-bp spacer length between the -10 and -35 regions. Despite the atypical spacing in this region, in vitro transcription assays using sigma(70)-saturated RNA polymerase holoenzyme (RNAP-sigma(70)) confirm that ExsA-dependent promoters are indeed sigma(70) dependent. Potassium permanganate footprinting experiments indicate that ExsA facilitates an early step in transcriptional initiation. Although RNAP-sigma(70) binds to the promoters with low affinity in the absence of ExsA, the activator stimulates transcription by enhancing recruitment of RNAP-sigma(70) to the P(exsC) and P(exsD) promoters. Abortive initiation assays confirm that ExsA enhances the equilibrium binding constant for RNAP while having only a modest effect on the isomerization rate constant.
+
+-Bacterial Proteins (-genetics; +metabolism)
+-Base Sequence
+-DNA-Directed RNA Polymerases (-metabolism)
+-Gene Expression Regulation, Bacterial (+physiology)
+-Pseudomonas aeruginosa (-genetics; +metabolism)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Trans-Activators (-genetics; +metabolism)
+-Transcriptional Activation (+physiology)
+
+pii:JB.00902-09
+doi:10.1128/JB.00902-09
+pubmed:19717612
+pmc:PMC2795306
+

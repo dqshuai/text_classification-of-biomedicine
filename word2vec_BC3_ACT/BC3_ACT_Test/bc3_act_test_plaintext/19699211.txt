@@ -1,0 +1,25 @@
+J. Mol. Biol.
+
+The regulation mechanism for the auto-inhibition of binding of human filamin A to integrin.
+
+U Pentikäinen, J Ylänne
+
+The ability of adhesion receptors to transmit biochemical signals and mechanical force across cell membranes depends on interactions with the actin cytoskeleton. Human filamins are large actin cross-linking proteins that connect integrins to the cytoskeleton. Filamin binding to the cytoplasmic tail of beta integrins has been shown to prevent integrin activation in cells, which is important for controlling cell adhesion and migration. The molecular-level mechanism for filamin binding to integrin has been unclear, however, as it was recently demonstrated that filamin undergoes intramolecular auto-inhibition of integrin binding. In this study, using steered molecular dynamics simulations, we found that mechanical force applied to filamin can expose cryptic integrin binding sites. The forces required for this are considerably lower than those for filamin immunoglobulin domain unfolding. The mechanical-force-induced unfolding of filamin and exposure of integrin binding sites occur through stable intermediates where integrin binding is possible. Accordingly, our results support filamin's role as a mechanotransducer, since force-induced conformational changes allow binding of integrin and other transmembrane and intracellular proteins. This observed force-induced conformational change can also be one of possible mechanisms involved in the regulation of integrin activation.
+
+-Binding Sites
+-Contractile Proteins (-chemistry; +metabolism)
+-Humans
+-Integrin beta Chains (-chemistry; +metabolism)
+-Microfilament Proteins (-chemistry; +metabolism)
+-Models, Molecular
+-Peptides (-chemistry; -metabolism)
+-Phosphorylation
+-Phosphoserine (-metabolism)
+-Protein Binding
+-Protein Folding
+-Stress, Mechanical
+
+pii:S0022-2836(09)01032-8
+doi:10.1016/j.jmb.2009.08.035
+pubmed:19699211
+

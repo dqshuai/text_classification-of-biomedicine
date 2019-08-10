@@ -1,0 +1,27 @@
+BMC Bioinformatics
+
+ETISEQ--an algorithm for automated elution time ion sequencing of concurrently fragmented peptides for mass spectrometry-based proteomics.
+
+JW Wong, AB Schwahn, KM Downard
+
+BACKGROUND: Concurrent peptide fragmentation (i.e. shotgun CID, parallel CID or MSE) has emerged as an alternative to data-dependent acquisition in generating peptide fragmentation data in LC-MS/MS proteomics experiments. Concurrent peptide fragmentation data acquisition has been shown to be advantageous over data-dependent acquisition by providing greater detection dynamic range and providing more accurate quantitative information. Nevertheless, concurrent peptide fragmentation data acquisition remains to be widely adopted due to the lack of published algorithms designed specifically to process or interpret such data acquired on any mass spectrometer. RESULTS: An algorithm called Elution Time Ion Sequencing (ETISEQ), has been developed to enable automated conversion of concurrent peptide fragmentation data acquisition data to LC-MS/MS data. ETISEQ generates MS/MS-like spectra based on the correlation of precursor and product ion elution profiles. The performance of ETISEQ is demonstrated using concurrent peptide fragmentation data from tryptic digests of standard proteins and whole influenza virus. It is shown that the number of unique peptides identified from the digests is broadly comparable between ETISEQ processed concurrent peptide fragmentation data and the data-dependent acquired LC-MS/MS data. CONCLUSION: The ETISEQ algorithm has been designed for easy integration with existing MS/MS analysis platforms. It is anticipated that it will popularize concurrent peptide fragmentation data acquisition in proteomics laboratories.
+
++Algorithms
+-Amino Acid Sequence
+-Animals
+-Avian Proteins (-analysis; -chemistry)
+-Chickens
+-Influenza A Virus, H1N1 Subtype (-chemistry; -metabolism)
+-Ions
+-Molecular Sequence Data
+-Peptide Fragments (+analysis; -chemistry)
+-Proteomics (+methods)
+-Tandem Mass Spectrometry (+methods)
+-Time Factors
+-Viral Proteins (-analysis; -chemistry)
+
+pii:1471-2105-10-244
+doi:10.1186/1471-2105-10-244
+pubmed:19664259
+pmc:PMC2731054
+

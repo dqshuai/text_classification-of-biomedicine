@@ -1,0 +1,30 @@
+EMBO J.
+
+Recruitment of a chromatin remodelling complex by the Hog1 MAP kinase to stress genes.
+
+G Mas, E de Nadal, R Dechant, ML Rodríguez de la Concepción, C Logie, S Jimeno-González, S Chávez, G Ammerer, F Posas
+
+For efficient transcription, RNA PolII must overcome the presence of nucleosomes. The p38-related MAPK Hog1 is an important regulator of transcription upon osmostress in yeast and thereby it is involved in initiation and elongation. However, the role of this protein kinase in elongation has remained unclear. Here, we show that during stress there is a dramatic change in the nucleosome organization of stress-responsive loci that depends on Hog1 and the RSC chromatin remodelling complex. Upon stress, the MAPK Hog1 physically interacts with RSC to direct its association with the ORF of osmo-responsive genes. In RSC mutants, PolII accumulates on stress promoters but not in coding regions. RSC mutants also display reduced stress gene expression and enhanced sensitivity to osmostress. Cell survival under acute osmostress might thus depend on a burst of transcription that in turn could occur only with efficient nucleosome eviction. Our results suggest that the selective targeting of the RSC complex by Hog1 provides the necessary mechanistic basis for this event.
+
+-Cell Survival
+-Chromatin (+chemistry; -metabolism)
+-DNA-Directed RNA Polymerases (+metabolism)
+-Gene Expression Regulation, Fungal
+-Histones (-metabolism)
++MAP Kinase Signaling System
+-Mitogen-Activated Protein Kinases (-metabolism; +physiology)
+-Models, Biological
++Mutation
+-Nucleosomes (-metabolism)
+-Open Reading Frames
+-Plasmids (-metabolism)
+-Saccharomyces cerevisiae (+metabolism; -physiology)
+-Saccharomyces cerevisiae Proteins (-metabolism; +physiology)
+-Spheroplasts (-metabolism)
+-p38 Mitogen-Activated Protein Kinases (-metabolism)
+
+pii:emboj2008299
+doi:10.1038/emboj.2008.299
+pubmed:19153600
+pmc:PMC2632941
+

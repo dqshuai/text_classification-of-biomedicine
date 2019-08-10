@@ -1,0 +1,28 @@
+J. Biol. Chem.
+
+Multiple Rieske proteins enable short- and long-term light adaptation of Synechocystis sp. PCC 6803.
+
+Y Tsunoyama, G Bernát, NG Dyczmons, D Schneider, M Rögner
+
+In contrast to eukaryotes, most cyanobacteria contain several isoforms of the Rieske iron-sulfur protein, PetC, resulting in heterogeneity in the composition of the cytochrome b(6)f complexes. Of three isoforms in the mesophilic cyanobacterium Synechocystis PCC 6803, PetC1 is the major Rieske protein in the cytochrome b(6)f complex, whereas the physiological function of PetC2 and PetC3 is still uncertain. Comparison of wild type and various petC-deficient strains under selected light conditions revealed distinct functional differences: high-light exposure of wild type cells resulted in a significantly enhanced petC2 transcript level, whereas a Delta petC1 mutant showed a low cytochrome b(6)f content, low electron flux, and a considerably increased accumulation of cytochrome-bd oxidase. In contrast to wild type and Delta petC1, Delta petC2 and Delta petC3 strains still grew fast under high-light conditions although all three Rieske proteins are required for maximal electron transport rates. Although the presence of PetC3 appears to be required for activation of the cyclic electron transport, state transitions were more effective in the absence of PetC2 and/or PetC3. In summary, our data suggest defined roles of the various PetC proteins in short- and long-term light adaptation.
+
++Adaptation, Physiological
+-Bacterial Proteins (-genetics; +metabolism)
+-Chlorophyll (-metabolism)
+-Cytochrome b6f Complex (-metabolism)
+-Electron Transport (-physiology)
+-Electron Transport Complex III (-genetics; +metabolism)
+-Gene Expression Regulation, Bacterial
++Light
+-Oxidation-Reduction
+-Photosynthesis (+physiology)
+-Phycocyanin (-metabolism)
+-Protein Isoforms (-genetics; +metabolism)
+-Protein Subunits (-genetics; -metabolism)
+-Synechocystis (-genetics; +metabolism)
+
+pii:M109.011189
+doi:10.1074/jbc.M109.011189
+pubmed:19674969
+pmc:PMC2788838
+

@@ -1,0 +1,28 @@
+PLoS ONE
+
+Bacterial antigen expression is an important component in inducing an immune response to orally administered Salmonella-delivered DNA vaccines.
+
+ME Gahan, DE Webster, SL Wesselingh, RA Strugnell, J Yang
+
+BACKGROUND: The use of Salmonella to deliver heterologous antigens from DNA vaccines is a well-accepted extension of the success of oral Salmonella vaccines in animal models. Attenuated S. typhimurium and S. typhi strains are safe and efficacious, and their use to deliver DNA vaccines combines the advantages of both vaccine approaches, while complementing the limitations of each technology. An important aspect of the basic biology of the Salmonella/DNA vaccine platform is the relative contributions of prokaryotic and eukaryotic expression in production of the vaccine antigen. Gene expression in DNA vaccines is commonly under the control of the eukaryotic cytomegalovirus (CMV) promoter. The aim of this study was to identify and disable putative bacterial promoters within the CMV promoter and evaluate the immunogenicity of the resulting DNA vaccine delivered orally by S. typhimurium. METHODOLOGY/PRINCIPAL FINDINGS: The results reported here clearly demonstrate the presence of bacterial promoters within the CMV promoter. These promoters have homology to the bacterial consensus sequence and functional activity. To disable prokaryotic expression from the CMV promoter a series of genetic manipulations were performed to remove the two major bacterial promoters and add a bacteria transcription terminator downstream of the CMV promoter. S. typhimurium was used to immunise BALB/c mice orally with a DNA vaccine encoding the C-fragment of tetanus toxin (TT) under control of the original or the modified CMV promoter. Although both promoters functioned equally well in eukaryotic cells, as indicated by equivalent immune responses following intramuscular delivery, only the original CMV promoter was able to induce an anti-TT specific response following oral delivery by S. typhimurium. CONCLUSIONS: These findings suggest that prokaryotic expression of the antigen and co-delivery of this protein by Salmonella are at least partially responsible for the successful oral delivery of C-fragment DNA vaccines containing the CMV promoter by S. typhimurium.
+
+-Administration, Oral
+-Animals
+-Antibodies, Bacterial (-metabolism)
+-Antigens, Bacterial (-genetics)
+-Base Sequence
+-Cytomegalovirus (-genetics)
+-Female
+-Immune System
+-Mice
+-Mice, Inbred BALB C
+-Molecular Sequence Data
+-Promoter Regions, Genetic
+-Salmonella Vaccines (+therapeutic use)
+-Vaccines, DNA (+therapeutic use)
+-beta-Galactosidase (-metabolism)
+
+doi:10.1371/journal.pone.0006062
+pubmed:19557169
+pmc:PMC2698147
+

@@ -1,0 +1,24 @@
+BMC Mol. Biol.
+
+Reference gene selection for head and neck squamous cell carcinoma gene expression studies.
+
+B Lallemant, A Evrard, C Combescure, H Chapuis, G Chambon, C Raynal, C Reynaud, O Sabra, D Joubert, F Hollande, JG Lallemant, S Lumbroso, JP Brouillet
+
+BACKGROUND: It is no longer adequate to choose reference genes blindly. We present the first study that defines the suitability of 12 reference genes commonly used in cancer studies (ACT, ALAS, B2M, GAPDH, HMBS, HPRT, KALPHA, RPS18, RPL27, RPS29, SHAD and TBP) for the normalization of quantitative expression data in the field of head and neck squamous cell carcinoma (HNSCC). RESULTS: Raw expression levels were measured by RT-qPCR in HNSCC and normal matched mucosa of 46 patients. We analyzed the expression stability using geNorm and NormFinder and compared the expression levels between subgroups. In HNSCC and/or normal mucosa, the four best normalization genes were ALAS, GAPDH, RPS18 and SHAD and the most stable combination of two genes was GAPDH-SHAD. We recommend using KALPHA-TBP for the study of T1T2 tumors, RPL27-SHAD for T3T4 tumors, KALPHA-SHAD for N0 tumors, and ALAS-TBP for N+ tumors. ACT, B2M, GAPDH, HMBS, HPRT, KALPHA, RPS18, RPS29, SHAD and TBP were slightly misregulated (<1.7-fold) between tumor and normal mucosa but can be used for normalization, depending on the resolution required for the assay. CONCLUSION: In the field of HNSCC, this study will guide researchers in selecting the most appropriate reference genes from among 12 potentially suitable reference genes, depending on the specific setting of their experiments.
+
+-Adult
+-Aged
+-Carcinoma, Squamous Cell (+genetics)
+-Female
++Gene Expression
+-Gene Expression Regulation, Neoplastic
+-Humans
+-Male
+-Middle Aged
+-Mucous Membrane (-metabolism)
+
+pii:1471-2199-10-78
+doi:10.1186/1471-2199-10-78
+pubmed:19650912
+pmc:PMC2729078
+

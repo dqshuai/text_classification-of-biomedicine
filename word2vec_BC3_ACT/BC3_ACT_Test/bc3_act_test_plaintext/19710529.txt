@@ -1,0 +1,31 @@
+Cell. Physiol. Biochem.
+
+Chloroquine blocks a mutant Kir2.1 channel responsible for short QT syndrome and normalizes repolarization properties in silico.
+
+A Lopez-Izquierdo, D Ponce-Balbuena, T Ferrer, FB Sachse, M Tristani-Firouzi, JA Sanchez-Chapula
+
+Short QT Syndrome (SQTS) is a novel clinical entity characterized by markedly rapid cardiac repolarization and lethal arrhythmias. A mutation in the Kir2.1 inward rectifier K+ channel (D172N) causes one form of SQTS (SQT3). Pharmacologic block of Kir2.1 channels may hold promise as potential therapy for SQT3. We recently reported that the anti-malarial drug chloroquine blocks Kir2.1 channels by plugging the cytoplasmic pore domain. In this study, we tested whether chloroquine blocks D172N Kir2.1 channels in a heterologous expression system and if chloroquine normalizes repolarization properties using a mathematical model of a human ventricular myocyte. Chloroquine caused a dose- and voltage-dependent reduction in wild-type (WT), D172N and WT-D172N heteromeric Kir2.1 current. The potency and kinetics of chloroquine block of D172N and WT-D172N Kir2.1 current were similar to WT. In silico modeling of the heterozygous WT-D172N Kir2.1 condition predicted that 3 microM chloroquine normalized inward rectifier K+ current magnitude, action potential duration and effective refractory period. Our results suggest that therapeutic concentrations of chloroquine might lengthen cardiac repolarization in SQT3.
+
+-Action Potentials (-drug effects; -genetics)
+-Antimalarials (+pharmacology)
+-Cell Line
+-Chloroquine (+pharmacology)
+-Computer Simulation
+-Dose-Response Relationship, Drug
+-Electrophysiology
+-Heart Ventricles (-cytology)
+-Humans
+-Kidney (-cytology)
+-Membrane Potentials (-drug effects; -genetics; -physiology)
+-Models, Statistical
+-Mutation (-drug effects)
+-Myocytes, Cardiac (-drug effects)
+-Patch-Clamp Techniques
+-Potassium Channel Blockers (+pharmacology)
+-Potassium Channels, Inwardly Rectifying (+genetics; -physiology)
+-Refractory Period, Electrophysiological (-drug effects)
+
+pii:000233241
+doi:10.1159/000233241
+pubmed:19710529
+

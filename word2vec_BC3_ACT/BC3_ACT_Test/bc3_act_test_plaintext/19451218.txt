@@ -1,0 +1,26 @@
+Genes Dev.
+
+Histone demethylase JMJD3 contributes to epigenetic control of INK4a/ARF by oncogenic RAS.
+
+M Barradas, E Anderton, JC Acosta, S Li, A Banito, M Rodriguez-Niedenführ, G Maertens, M Banck, MM Zhou, MJ Walsh, G Peters, J Gil
+
+The INK4a/ARF tumor suppressor locus, a key executor of cellular senescence, is regulated by members of the Polycomb group (PcG) of transcriptional repressors. Here we show that signaling from oncogenic RAS overrides PcG-mediated repression of INK4a by activating the H3K27 demethylase JMJD3 and down-regulating the methyltransferase EZH2. In human fibroblasts, JMJD3 activates INK4a, but not ARF, and causes p16(INK4a)-dependent arrest. In mouse embryo fibroblasts, Jmjd3 activates both Ink4a and Arf and elicits a p53-dependent arrest, echoing the effects of RAS in this system. Our findings directly implicate JMJD3 in the regulation of INK4a/ARF during oncogene-induced senescence and suggest that JMJD3 has the capacity to act as a tumor suppressor.
+
+-Animals
+-Cell Aging
+-Cyclin-Dependent Kinase Inhibitor p16 (+metabolism)
+-Epigenesis, Genetic (+genetics)
+-Fibroblasts (-cytology; -metabolism)
++Gene Expression Regulation
+-Humans
+-Jumonji Domain-Containing Histone Demethylases
+-Mice
+-Oxidoreductases, N-Demethylating (+metabolism)
+-Signal Transduction
+-ras Proteins (+metabolism)
+
+pii:23/10/1177
+doi:10.1101/gad.511109
+pubmed:19451218
+pmc:PMC2685533
+

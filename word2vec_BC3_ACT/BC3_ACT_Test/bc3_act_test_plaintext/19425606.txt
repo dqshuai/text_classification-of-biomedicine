@@ -1,0 +1,27 @@
+J. Proteome Res.
+
+Targeted quantitative mass spectrometric identification of differentially expressed proteins between Bax-expressing and deficient colorectal carcinoma cells.
+
+P Wang, A Lo, JB Young, JH Song, R Lai, NM Kneteman, C Hao, L Li
+
+Bax, a Bcl-2 interacting protein, plays a central role in several stimuli-induced apoptosis pathways through its functional and physical interactions with various biologically important proteins. Identification of the Bax-modulating protein network should be useful to further our understanding of Bax-mediated apoptosis. For the first time, we performed proteome-wide quantification and identification of differentially expressed proteins between Bax+/- and Bax-/- HCT116 clones using a newly developed quantitative mass spectrometric analysis strategy. This strategy is based on forward and reverse differential isotope labeling of the proteome digests of two comparative cells, followed by two-dimensional liquid chromatography separation and automated peptide deposition to matrix-assisted laser desorption ionization sample plates for MS quantification and MS/MS peptide sequence identification. We quantified and identified 200 differentially expressed proteins involved in various cellular processes. Through bioinformatic analysis, four groups of differentially expressed proteins were highlighted for the association with Bax: mitochondria permeability transition channel proteins, Bax regulator proteins, heat shock protein family members, and oxidative stress-triggered proteins. These results indicate the functional diversity of Bax and provide new research directions to study the biology of Bax-regulated apoptosis.
+
+-Apoptosis
+-Carcinoma (+diagnosis; +metabolism)
+-Cell Line, Tumor
+-Chromatography, Liquid (-methods)
+-Colorectal Neoplasms (+diagnosis; +metabolism)
+-Computational Biology (-methods)
+-Databases, Protein
++Gene Expression Regulation, Neoplastic
+-Humans
+-Mass Spectrometry (+methods)
+-Models, Biological
+-Peptides (-chemistry)
+-Proteomics (-methods)
+-TNF-Related Apoptosis-Inducing Ligand (-metabolism)
+-bcl-2-Associated X Protein (-genetics; +metabolism)
+
+doi:10.1021/pr9000477
+pubmed:19425606
+

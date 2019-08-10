@@ -1,0 +1,30 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Identification and characterization of posttranslational modification-specific binding proteins in vivo by mammalian tethered catalysis.
+
+TM Spektor, JC Rice
+
+Increasing evidence indicates that an important consequence of protein posttranslational modification (PTM) is the creation of a high affinity binding site for the selective interaction with a PTM-specific binding protein (BP). This PTM-mediated interaction is typically required for downstream signaling propagation and corresponding biological responses. Because the vast majority of mammalian proteins contain PTMs, there is an immediate need to discover and characterize previously undescribed PTMBPs. To this end, we developed and validated an innovative in vivo approach called mammalian tethered catalysis (MTeC). By using methylated histones and methyl-specific histone binding proteins as the proof-of-principle, we determined that the new MTeC approach can compliment existing in vitro binding methods, and can also provide unique in vivo insights into PTM-dependent interactions. For example, we confirmed previous in vitro findings that endogenous HP1 preferentially binds H3K9me3. However, in contrast to recent in vitro observations, MTeC revealed that the tandem tudor domain-containing proteins, JMJD2A and 53BP1, display no preferential H4K20 methyl-selectivity in vivo. Last, by using MTeC in an unbiased manner to identify H3K9 methyl-specific PTMBPs, we determined that endogenous G9a binds methylated H3K9 in vivo. Further use of MTeC to characterize this interaction revealed that G9a selectively binds H3K9me1 in vivo, but not H3K9me2, contrary to recent in vitro findings. Although this study focused solely on methylated histones, we demonstrate how the innovative MTeC approach could be used to identify and characterize any PTMBP that binds any PTM on any protein in vivo.
+
+-Animals
++Biocatalysis
+-Biochemistry (+methods)
+-Cell Line
+-Cercopithecus aethiops
+-Chromosomal Proteins, Non-Histone (-genetics; +metabolism)
+-Histone-Lysine N-Methyltransferase (-genetics; -metabolism)
+-Histones (-genetics; -metabolism)
+-Humans
+-Intracellular Signaling Peptides and Proteins (-genetics; -metabolism)
+-Methylation
+-Oxidoreductases, N-Demethylating (-genetics; -metabolism)
+-Protein Binding
++Protein Processing, Post-Translational
+-Proteins (-genetics; +metabolism)
+-Substrate Specificity
+
+pii:0907799106
+doi:10.1073/pnas.0907799106
+pubmed:19706462
+pmc:PMC2736425
+

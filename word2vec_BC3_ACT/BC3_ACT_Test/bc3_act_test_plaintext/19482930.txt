@@ -1,0 +1,27 @@
+J. Bacteriol.
+
+Genetic determinants of Silicibacter sp. TM1040 motility.
+
+R Belas, E Horikawa, S Aizawa, R Suvanasuthi
+
+Silicibacter sp. TM1040 is a member of the marine Roseobacter clade of Alphaproteobacteria that forms symbioses with unicellular eukaryotic phytoplankton, such as dinoflagellates. The symbiosis is complex and involves a series of steps that physiologically change highly motile bacteria into cells that readily form biofilms on the surface of the host. The initial phases of symbiosis require bacterial motility and chemotaxis that drive the swimming bacteria toward their planktonic host. Cells lacking wild-type motility fail to establish biofilms on host cells and do not produce effective symbioses, emphasizing the importance of understanding the molecular mechanisms controlling flagellar biosynthesis and the biphasic "swim-or-stick" switch. In the present study, we used a combination of bioinformatic and genetic approaches to identify the genes critical for swimming of Silicibacter sp. TM1040. More than 40 open reading frames with homology to known flagellar structural and regulatory genes were identified, most of which are organized into approximately eight operons comprising a 35.4-kb locus, with surprising similarity to the fla2 locus of Rhodobacter sphaeroides. The genome has homologs of CckA, CtrA, FlbT, and FlaF, proteins that in Caulobacter crescentus regulate flagellum biosynthesis. In addition, we uncovered three novel genes, flaB, flaC, and flaD, which encode flagellar regulatory proteins whose functions are likely to involve regulation of motor function (FlaD) and modulation of the swim-or-stick switch (FlaC). The data support the conclusion that Silicibacter sp. TM1040 uses components found in other Alphaproteobacteria, as well as novel molecular mechanisms, to regulate the expression of the genes required for motility and biofilm formation. These unique molecular mechanisms may enhance the symbiosis and survival of Roseobacter clade bacteria in the marine environment.
+
+-Bacterial Proteins (-genetics)
++Biofilms
+-Caulobacter crescentus (-genetics)
+-DNA Transposable Elements
+-Gene Expression Regulation, Bacterial
++Genes, Bacterial
++Locomotion
+-Multigene Family
+-Mutagenesis, Insertional
+-Operon
+-Rhodobacter sphaeroides (-genetics)
+-Rhodobacteraceae (+genetics; -physiology)
+-Sequence Homology
+
+pii:JB.00429-09
+doi:10.1128/JB.00429-09
+pubmed:19482930
+pmc:PMC2704728
+

@@ -1,0 +1,38 @@
+EMBO J.
+
+A critical role of RICK/RIP2 polyubiquitination in Nod-induced NF-kappaB activation.
+
+M Hasegawa, Y Fujimoto, PC Lucas, H Nakano, K Fukase, G Núñez, N Inohara
+
+Nod1 and Nod2 are intracellular proteins that are involved in host recognition of specific bacterial molecules and are genetically associated with several inflammatory diseases. Nod1 and Nod2 stimulation activates NF-kappaB through RICK, a caspase-recruitment domain-containing kinase. However, the mechanism by which RICK activates NF-kappaB in response to Nod1 and Nod2 stimulation is unknown. Here we show that RICK is conjugated with lysine-63-linked polyubiquitin chains at lysine 209 (K209) located in its kinase domain upon Nod1 or Nod2 stimulation and by induced oligomerization of RICK. Polyubiquitination of RICK at K209 was essential for RICK-mediated IKK activation and cytokine/chemokine secretion. However, RICK polyubiquitination did not require the kinase activity of RICK or alter the interaction of RICK with NEMO, a regulatory subunit of IkappaB kinase (IKK). Instead, polyubiquitination of RICK was found to mediate the recruitment of TAK1, a kinase that was found to be essential for Nod1-induced signaling. Thus, RICK polyubiquitination links TAK1 to IKK complexes, a critical step in Nod1/Nod2-mediated NF-kappaB activation.
+
+-Binding Sites (-genetics)
+-Cell Line
+-Chemokine CCL2 (-genetics; -metabolism)
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Humans
+-Immunoprecipitation
+-Intracellular Signaling Peptides and Proteins (-genetics; -metabolism)
+-Luciferases (-genetics; -metabolism)
+-Lysine (-genetics; -metabolism)
+-MAP Kinase Kinase Kinases (-genetics; -metabolism)
+-Models, Biological
+-Mutation
+-NF-kappa B (+metabolism)
+-Nod1 Signaling Adaptor Protein (-genetics; +metabolism; -physiology)
+-Nod2 Signaling Adaptor Protein (-genetics; +metabolism; -physiology)
+-Nuclear Proteins (-genetics; -metabolism)
+-Receptor-Interacting Protein Serine-Threonine Kinase 2 (-genetics; +metabolism; -physiology)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Signal Transduction
+-TNF Receptor-Associated Factor 2 (-genetics; -metabolism)
+-TNF Receptor-Associated Factor 5 (-genetics; -metabolism)
+-TNF Receptor-Associated Factor 6 (-genetics; -metabolism)
+-Transfection
+-Ubiquitination
+
+pii:7601962
+doi:10.1038/sj.emboj.7601962
+pubmed:18079694
+pmc:PMC2234345
+

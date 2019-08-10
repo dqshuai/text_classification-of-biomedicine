@@ -1,0 +1,25 @@
+Genetics
+
+The cation diffusion facilitator gene cdf-2 mediates zinc metabolism in Caenorhabditis elegans.
+
+DE Davis, HC Roh, K Deshmukh, JJ Bruinsma, DL Schneider, J Guthrie, JD Robertson, K Kornfeld
+
+Zinc is essential for many cellular processes. To use Caenorhabditis elegans to study zinc metabolism, we developed culture conditions allowing full control of dietary zinc and methods to measure zinc content of animals. Dietary zinc dramatically affected growth and zinc content; wild-type worms survived from 7 microm to 1.3 mm dietary zinc, and zinc content varied 27-fold. We investigated cdf-2, which encodes a predicted zinc transporter in the cation diffusion facilitator family. cdf-2 mRNA levels were increased by high dietary zinc, suggesting cdf-2 promotes zinc homeostasis. CDF-2 protein was expressed in intestinal cells and localized to cytosolic vesicles. A cdf-2 loss-of-function mutant displayed impaired growth and reduced zinc content, indicating that CDF-2 stores zinc by transport into the lumen of vesicles. The relationships between three cdf genes, cdf-1, cdf-2, and sur-7, were analyzed in double and triple mutant animals. A cdf-1 mutant displayed increased zinc content, whereas a cdf-1 cdf-2 double mutant had intermediate zinc content, suggesting cdf-1 and cdf-2 have antagonistic functions. These studies advance C. elegans as a model of zinc metabolism and identify cdf-2 as a new gene that has a critical role in zinc storage.
+
+-Animals
+-Caenorhabditis elegans (+metabolism)
+-Caenorhabditis elegans Proteins (-analysis; -genetics; +metabolism)
+-Cation Transport Proteins (-analysis; -genetics; +metabolism)
+-Homeostasis
+-Ion Transport
+-Membrane Proteins (-genetics)
+-Mutant Proteins
+-RNA, Messenger (-analysis)
+-Tissue Distribution
+-Zinc (+metabolism; -pharmacology)
+
+pii:genetics.109.103614
+doi:10.1534/genetics.109.103614
+pubmed:19448268
+pmc:PMC2728845
+

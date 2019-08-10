@@ -1,0 +1,24 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Glutamine-dependent anapleurosis dictates glucose uptake and cell growth by regulating MondoA transcriptional activity.
+
+MR Kaadige, RE Looper, S Kamalanaadhan, DE Ayer
+
+Glucose and glutamine are abundant nutrients required for cell growth, yet how cells sense and adapt to changes in their levels is not well understood. The MondoA transcription factor forms a heterocomplex with its obligate partner Mlx to regulate approximately 75% of glucose-dependent transcription. By mediating glucose-induced activation of thioredoxin-interacting protein (TXNIP), MondoA:Mlx complexes directly repress glucose uptake. We show here that glutamine inhibits transcriptional activation of TXNIP by triggering the recruitment of a histone deacetylase-dependent corepressor to the amino terminus of MondoA. Therefore, in the presence of both glucose and glutamine, TXNIP expression is low, which favors glucose uptake and aerobic glycolysis; the Warburg effect. Consistent with MondoA functioning upstream of TXNIP, MondoA knockdown reduces TXNIP expression, elevates glucose uptake and stimulates cell proliferation. Although glutamine has many intracellular fates, a cell permeable analog of a tricarboxylic acid cycle (TCA) intermediate, alpha-ketoglutarate, also blocks the transcriptional activity of MondoA at the TXNIP promoter and stimulates glucose uptake. Together our data suggest that glutamine-dependent mitochondrial anapleurosis dictates glucose uptake and aerobic glycolysis by blocking MondoA:Mlx-dependent transcriptional activation of TXNIP. We propose that this previously unappreciated coordination between glutamine and glucose utilization defines a metabolic checkpoint that restricts cell growth when subthreshold levels of these essential nutrients are available.
+
+-Basic Helix-Loop-Helix Leucine Zipper Transcription Factors (-genetics; +metabolism)
+-Carrier Proteins (-genetics; -metabolism)
+-Cell Line
++Cell Proliferation
++Citric Acid Cycle
+-Glucose (+metabolism)
+-Glutamine (+metabolism)
+-Humans
+-Mitochondria (-metabolism)
++Transcription, Genetic
+
+pii:0901221106
+doi:10.1073/pnas.0901221106
+pubmed:19706488
+pmc:PMC2736411
+

@@ -1,0 +1,29 @@
+Genome Res.
+
+Quantitative phenotyping via deep barcode sequencing.
+
+AM Smith, LE Heisler, J Mellor, F Kaper, MJ Thompson, M Chee, FP Roth, G Giaever, C Nislow
+
+Next-generation DNA sequencing technologies have revolutionized diverse genomics applications, including de novo genome sequencing, SNP detection, chromatin immunoprecipitation, and transcriptome analysis. Here we apply deep sequencing to genome-scale fitness profiling to evaluate yeast strain collections in parallel. This method, Barcode analysis by Sequencing, or "Bar-seq," outperforms the current benchmark barcode microarray assay in terms of both dynamic range and throughput. When applied to a complex chemogenomic assay, Bar-seq quantitatively identifies drug targets, with performance superior to the benchmark microarray assay. We also show that Bar-seq is well-suited for a multiplex format. We completely re-sequenced and re-annotated the yeast deletion collection using deep sequencing, found that approximately 20% of the barcodes and common priming sequences varied from expectation, and used this revised list of barcode sequences to improve data quality. Together, this new assay and analysis routine provide a deep-sequencing-based toolkit for identifying gene-environment interactions on a genome-wide scale.
+
+-Anti-Bacterial Agents (-pharmacology)
+-Automatic Data Processing (-economics; +methods)
+-Cost-Benefit Analysis
+-Doxorubicin (-pharmacology)
+-Drug Evaluation, Preclinical (-methods)
+-Gene Expression Profiling (+methods)
+-Genomics (-methods)
+-Microbial Sensitivity Tests
+-Oligonucleotide Array Sequence Analysis (-economics; +methods)
++Phenotype
+-Pyridines (-pharmacology)
+-Sensitivity and Specificity
+-Sequence Analysis, DNA (-economics; +methods)
+-Tunicamycin (-pharmacology)
+-Yeasts (-drug effects; -physiology)
+
+pii:gr.093955.109
+doi:10.1101/gr.093955.109
+pubmed:19622793
+pmc:PMC2765281
+

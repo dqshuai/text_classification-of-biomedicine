@@ -1,0 +1,27 @@
+EMBO J.
+
+A cell cycle regulatory network controlling NF-kappaB subunit activity and function.
+
+B Barré, ND Perkins
+
+Aberrantly active NF-kappaB complexes can contribute to tumorigenesis by regulating genes that promote the growth and survival of cancer cells. We have investigated NF-kappaB during the cell cycle and find that its ability to regulate the G1-phase expression of key proto-oncogenes is subject to regulation by the integrated activity of IkappaB kinase (IKK)alpha, IKKbeta, Akt and Chk1. The coordinated binding of NF-kappaB subunits to the Cyclin D1, c-Myc and Skp2 promoters is dynamic with distinct changes in promoter occupancy and RelA(p65) phosphorylation occurring through G1, S and G2 phases, concomitant with a switch from coactivator to corepressor recruitment. Akt activity is required for IKK-dependent phosphorylation of NF-kappaB subunits in G1 and G2 phases, where Chk1 is inactive. However, in S-phase, Akt is inactivated, while Chk1 phosphorylates RelA and associates with IKKalpha, inhibiting the processing of the p100 (NF-kappaB2) subunit, which also plays a critical role in the regulation of these genes. These data reveal a complex regulatory network integrating NF-kappaB with the DNA-replication checkpoint and the expression of critical regulators of cell proliferation.
+
+-Animals
+-Cell Cycle
+-Cell Line, Tumor
+-Cell Proliferation
+-Cell Survival
++Gene Expression Regulation
+-Humans
+-I-kappa B Kinase (+biosynthesis; -metabolism)
+-Mice
+-NF-kappa B (+metabolism)
+-Protein Kinases (+metabolism)
+-Proto-Oncogene Proteins c-akt (+metabolism)
+-Transcription, Genetic
+
+pii:7601899
+doi:10.1038/sj.emboj.7601899
+pubmed:17962807
+pmc:PMC2099464
+

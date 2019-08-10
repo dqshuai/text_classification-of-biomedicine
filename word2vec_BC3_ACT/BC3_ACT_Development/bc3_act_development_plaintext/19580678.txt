@@ -1,0 +1,29 @@
+BMC Genomics
+
+Analysis of expression in the Anopheles gambiae developing testes reveals rapidly evolving lineage-specific genes in mosquitoes.
+
+E Krzywinska, J Krzywinski
+
+BACKGROUND: Male mosquitoes do not feed on blood and are not involved in delivery of pathogens to humans. Consequently, they are seldom the subjects of research, which results in a very poor understanding of their biology. To gain insights into male developmental processes we sought to identify genes transcribed exclusively in the reproductive tissues of male Anopheles gambiae pupae. RESULTS: Using a cDNA subtraction strategy, five male-specifically or highly male-biased expressed genes were isolated, four of which remain unannotated in the An. gambiae genome. Spatial and temporal expression patterns suggest that each of these genes is involved in the mid-late stages of spermatogenesis. Their sequences are rapidly evolving; however, two genes possess clear homologs in a wide range of taxa and one of these probably acts in a sperm motility control mechanism conserved in many organisms, including humans. The other three genes have no match to sequences from non-mosquito taxa, thus can be regarded as orphans. RNA in situ hybridization demonstrated that one of the orphans is transcribed in spermatids, which suggests its involvement in sperm maturation. Two other orphans have unknown functions. Expression analysis of orthologs of all five genes indicated that male-biased transcription was not conserved in the majority of cases in Aedes and Culex. CONCLUSION: Discovery of testis-expressed orphan genes in mosquitoes opens new prospects for the development of innovative control methods. The orphan encoded proteins may represent unique targets of selective anti-mosquito sterilizing agents that will not affect non-target organisms.
+
+-Amino Acid Sequence
+-Animals
+-Anopheles gambiae (+genetics)
+-Comparative Genomic Hybridization
+-DNA, Complementary (-genetics)
+-Evolution, Molecular
++Gene Expression Profiling
+-Gene Expression Regulation, Developmental
+-Genes, Insect
+-Male
+-Molecular Sequence Data
+-Sequence Alignment
+-Sequence Analysis, DNA
+-Spermatogenesis (+genetics)
+-Testis (+metabolism)
+
+pii:1471-2164-10-300
+doi:10.1186/1471-2164-10-300
+pubmed:19580678
+pmc:PMC2713267
+

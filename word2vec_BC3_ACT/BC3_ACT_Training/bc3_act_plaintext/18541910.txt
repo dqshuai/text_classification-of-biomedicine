@@ -1,0 +1,31 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Bves directly interacts with GEFT, and controls cell shape and movement through regulation of Rac1/Cdc42 activity.
+
+TK Smith, HA Hager, R Francis, DM Kilkenny, CW Lo, DM Bader
+
+Bves is an integral membrane protein with no determined function and no homology to proteins outside of the Popdc family. It is widely expressed throughout development in myriad organisms. Here, we demonstrate an interaction between Bves and guanine nucleotide exchange factor T (GEFT), a GEF for Rho-family GTPases. This interaction represents the first identification of any protein that has a direct physical interaction with any member of the Popdc family. Bves and GEFT are shown to colocalize in adult skeletal muscle. We also demonstrate that exogenous expression of Bves reduces Rac1 and Cdc42 activity levels while not affecting levels of active RhoA. Consistent with a repression of Rac1 and Cdc42 activity, we show changes in speed of cell locomotion and cell roundness also result from exogenous expression of Bves. Modulation of Rho-family GTPase signaling by Bves would be highly consistent with previously described phenotypes occurring upon disruption of Bves function in a wide variety of model systems. Therefore, we propose Bves as a novel regulator of the Rac1 and Cdc42 signaling cascades.
+
+-Animals
+-Cell Adhesion Molecules (-genetics; +metabolism)
++Cell Movement (-genetics)
++Cell Shape (-genetics)
+-Cytoplasm (-metabolism)
+-DNA Mutational Analysis
+-Guanine Nucleotide Exchange Factors (-genetics; +metabolism)
+-Mice
+-Muscle Cells (-cytology; +metabolism)
+-Muscle Proteins (-genetics; +metabolism)
+-NIH 3T3 Cells
+-Neuropeptides (-genetics; +metabolism)
+-Protein Interaction Domains and Motifs (-genetics)
+-Sequence Deletion
+-Two-Hybrid System Techniques
+-cdc42 GTP-Binding Protein (+metabolism)
+-rac GTP-Binding Proteins (-genetics; +metabolism)
+
+pii:0802345105
+doi:10.1073/pnas.0802345105
+pubmed:18541910
+pmc:PMC2423412
+

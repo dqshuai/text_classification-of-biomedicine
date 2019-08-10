@@ -1,0 +1,27 @@
+Plant Cell
+
+FAR-RED ELONGATED HYPOCOTYL1 and FHY1-LIKE associate with the Arabidopsis transcription factors LAF1 and HFR1 to transmit phytochrome A signals for inhibition of hypocotyl elongation.
+
+SW Yang, IC Jang, R Henriques, NH Chua
+
+Among the five phytochromes in Arabidopsis thaliana, phytochrome A (phyA) plays a major role in seedling deetiolation. Mutant analyses have identified more than 10 positive components acting downstream of phyA to inhibit hypocotyl elongation. However, their sites of action and their hierarchical relationships are poorly understood. Here, we investigated the genetic and molecular relationship between two homologous proteins, FAR-RED ELONGATED HYPOCOTYL1 (FHY1) and FHY1-LIKE (FHL), and two transcription factors, LONG AFTER FAR-RED LIGHT1 (LAF1) and LONG HYPOCOTYL IN FAR-RED1 (HFR1). Analyses of double and triple mutants showed that LAF1, a myb factor, and HFR1, a basic helix-loop-helix factor, independently transmit phyA signals downstream of FHY1 and FHL. Coimmunoprecipitation experiments showed that phyA, FHY1, FHL, LAF1, and HFR1 are components of protein complexes in vivo. In vitro pull-down assays demonstrated direct interactions between partner proteins with the N-terminal region of FHY1, as well as that of FHL, interacting with the LAF1 N-terminal portion and the HFR1 C-terminal region. These results suggest that, in addition to assisting phyA nuclear accumulation, FHY1 and FHL are required to assemble photoreceptor/transcription factor complexes for phyA signaling.
+
+-Arabidopsis (-genetics; +metabolism)
+-Arabidopsis Proteins (-analysis; +metabolism; -physiology)
+-DNA-Binding Proteins (-analysis; +metabolism)
+-Hypocotyl (+growth & development)
+-Mutation
+-Nuclear Proteins (-analysis; +metabolism)
+-Phenotype
+-Phytochrome (-analysis; +metabolism; -physiology)
+-Phytochrome A (-analysis; +metabolism)
+-Protein Interaction Mapping
+-Signal Transduction
+-Trans-Activators (-analysis; +metabolism)
+-Transcription Factors (-analysis; +metabolism; -physiology)
+
+pii:tpc.109.067215
+doi:10.1105/tpc.109.067215
+pubmed:19482971
+pmc:PMC2700525
+

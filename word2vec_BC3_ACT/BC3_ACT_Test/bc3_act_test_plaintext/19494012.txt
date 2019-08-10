@@ -1,0 +1,24 @@
+J. Virol.
+
+Roles of Gag and NCp7 in facilitating tRNA(Lys)(3) Annealing to viral RNA in human immunodeficiency virus type 1.
+
+F Guo, J Saadatmand, M Niu, L Kleiman
+
+In protease-negative human immunodeficiency virus type 1 (HIV-1) [Pr(-)], the amount of tRNA(3)(Lys) annealed by Gag is modestly reduced ( approximately 25%) compared to that annealed by mature nucleocapsid (NCp7) in protease-positive HIV-1 [Pr(+)]. However, the tRNA(3)(Lys) annealed by Gag also has a strongly reduced ability to initiate reverse transcription and binds less tightly to viral RNA. Both in vivo and in vitro, APOBEC3G (A3G) inhibits tRNA(3)(Lys) annealing facilitated by NCp7 but not annealing facilitated by Gag. While transient exposure of Pr(-) viral RNA to NCp7 in vitro returns the quality and quantity of tRNA(3)(Lys) annealing to Pr(+) levels, the presence of A3G both prevents this rescue and creates a further reduction in tRNA(3)(Lys) annealing. Since A3G inhibition of NCp7-facilitated tRNA(3)(Lys) annealing in vitro requires the presence of A3G during the annealing process, these results suggest that in Pr(+) viruses NCp7 can displace Gag-annealed tRNA(3)(Lys) and re-anneal it to viral RNA, the re-annealing step being subject to A3G inhibition. This supports the possibility that the initial annealing of tRNA(3)(Lys) in wild-type, Pr(+) virus may be by Gag and not by NCp7, perhaps offering the advantage of Gag's preference for binding to RNA stem-loops in the 5' region of viral RNA near the tRNA(3)(Lys) annealing region.
+
+-Base Sequence
+-Cell Line
+-HIV-1 (-chemistry; +genetics; +metabolism)
+-Humans
+-Molecular Sequence Data
+-Protein Binding
+-RNA, Transfer, Amino Acyl (+genetics; -metabolism)
+-RNA, Viral (-chemistry; +genetics; -metabolism)
+-RNA-Binding Proteins (-genetics; -metabolism)
+-gag Gene Products, Human Immunodeficiency Virus (-genetics; +metabolism)
+
+pii:JVI.00488-09
+doi:10.1128/JVI.00488-09
+pubmed:19494012
+pmc:PMC2715748
+

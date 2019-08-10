@@ -1,0 +1,27 @@
+Genome Res.
+
+MS-qFRET: a quantum dot-based method for analysis of DNA methylation.
+
+VJ Bailey, H Easwaran, Y Zhang, E Griffiths, SA Belinsky, JG Herman, SB Baylin, HE Carraway, TH Wang
+
+DNA methylation contributes to carcinogenesis by silencing key tumor suppressor genes. Here we report an ultrasensitive and reliable nanotechnology assay, MS-qFRET, for detection and quantification of DNA methylation. Bisulfite-modified DNA is subjected to PCR amplification with primers that would differentiate between methylated and unmethylated DNA. Quantum dots are then used to capture PCR amplicons and determine the methylation status via fluorescence resonance energy transfer (FRET). Key features of MS-qFRET include its low intrinsic background noise, high resolution, and high sensitivity. This approach detects as little as 15 pg of methylated DNA in the presence of a 10,000-fold excess of unmethylated alleles, enables reduced use of PCR (as low as eight cycles), and allows for multiplexed analyses. The high sensitivity of MS-qFRET enables one-step detection of methylation at PYCARD, CDKN2B, and CDKN2A genes in patient sputum samples that contain low concentrations of methylated DNA, which normally would require a nested PCR approach. The direct application of MS-qFRET on clinical samples offers great promise for its translational use in early cancer diagnosis, prognostic assessment of tumor behavior, as well as monitoring response to therapeutic agents.
+
+-Cell Line, Tumor
+-Cyclin-Dependent Kinase Inhibitor p15 (-genetics)
+-Cyclin-Dependent Kinase Inhibitor p16 (-genetics)
+-Cytoskeletal Proteins (-genetics)
+-DNA (-analysis; -genetics)
++DNA Methylation
+-Fluorescence Resonance Energy Transfer (+methods)
+-Humans
+-Nanotechnology (+methods)
+-Polymerase Chain Reaction
++Quantum Dots
+-Reproducibility of Results
+-Sputum (-chemistry)
+
+pii:gr.088831.108
+doi:10.1101/gr.088831.108
+pubmed:19443857
+pmc:PMC2720185
+

@@ -1,0 +1,27 @@
+Nucleic Acids Res.
+
+A standardized framework for accurate, high-throughput genotyping of recombinant and non-recombinant viral sequences.
+
+LC Alcantara, S Cassol, P Libin, K Deforche, OG Pybus, M Van Ranst, B Galvão-Castro, AM Vandamme, T de Oliveira
+
+Human immunodeficiency virus type-1 (HIV-1), hepatitis B and C and other rapidly evolving viruses are characterized by extremely high levels of genetic diversity. To facilitate diagnosis and the development of prevention and treatment strategies that efficiently target the diversity of these viruses, and other pathogens such as human T-lymphotropic virus type-1 (HTLV-1), human herpes virus type-8 (HHV8) and human papillomavirus (HPV), we developed a rapid high-throughput-genotyping system. The method involves the alignment of a query sequence with a carefully selected set of pre-defined reference strains, followed by phylogenetic analysis of multiple overlapping segments of the alignment using a sliding window. Each segment of the query sequence is assigned the genotype and sub-genotype of the reference strain with the highest bootstrap (>70%) and bootscanning (>90%) scores. Results from all windows are combined and displayed graphically using color-coded genotypes. The new Virus-Genotyping Tools provide accurate classification of recombinant and non-recombinant viruses and are currently being assessed for their diagnostic utility. They have incorporated into several HIV drug resistance algorithms including the Stanford (http://hivdb.stanford.edu) and two European databases (http://www.umcutrecht.nl/subsite/spread-programme/ and http://www.hivrdb.org.uk/) and have been successfully used to genotype a large number of sequences in these and other databases. The tools are a PHP/JAVA web application and are freely accessible on a number of servers including: http://bioafrica.mrc.ac.za/rega-genotype/html/, http://lasp.cpqgm.fiocruz.br/virus-genotype/html/, http://jose.med.kuleuven.be/genotypetool/html/.
+
+-Base Sequence
++Genetic Variation
+-Genotype
+-HIV-1 (-classification; -genetics)
+-Hepacivirus (-classification; -genetics)
+-Hepatitis B virus (-classification; -genetics)
+-Phylogeny
+-Recombination, Genetic
+-Reference Standards
+-Sequence Alignment
+-Sequence Analysis (-standards)
++Software
+-Viruses (+classification; -genetics)
+
+pii:gkp455
+doi:10.1093/nar/gkp455
+pubmed:19483099
+pmc:PMC2703899
+

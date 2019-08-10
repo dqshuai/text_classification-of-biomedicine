@@ -1,0 +1,30 @@
+J. Biol. Chem.
+
+Raptor binds the SAIN (Shc and IRS-1 NPXY binding) domain of insulin receptor substrate-1 (IRS-1) and regulates the phosphorylation of IRS-1 at Ser-636/639 by mTOR.
+
+A Tzatsos
+
+In normal physiological states mTOR phosphorylates and activates Akt. However, under diabetic-mimicking conditions mTOR inhibits phosphatidylinositol (PI) 3-kinase/Akt signaling by phosphorylating insulin receptor substrate-1 (IRS-1) at Ser-636/639. The molecular basis for the differential effect of mTOR signaling on Akt is poorly understood. Here, it has been shown that knockdown of mTOR, Raptor, and mLST8, but not Rictor and mSin1, suppresses insulin-stimulated phosphorylation of IRS-1 at Ser-636/639 and stabilizes IRS-1 after long term insulin stimulation. This phosphorylation depends on the PI 3-kinase/PDK1 axis but is Akt-independent. At the molecular level, Raptor binds the SAIN (Shc and IRS-1 NPXY binding) domain of IRS-1 and regulates the phosphorylation of IRS-1 at Ser-636/639 by mTOR. IRS-1 lacking the SAIN domain does not interact with Raptor, is not phosphorylated at Ser-636/639, and favorably interacts with PI 3-kinase. Overall, these data provide new insights in the molecular mechanisms by which mTORC1 inhibits PI 3-kinase/Akt signaling at the level of IRS-1 and suggest that mTOR signaling toward Akt is scaffold-dependent.
+
+-Animals
+-Blotting, Western
+-Carrier Proteins (-genetics; +metabolism)
+-Cell Line
+-Cell Line, Tumor
+-Humans
+-Immunoprecipitation
+-Insulin (-pharmacology)
+-Insulin Receptor Substrate Proteins (-genetics; +metabolism)
+-Mice
+-Phosphorylation (-drug effects)
+-Protein Binding
+-Protein Structure, Tertiary
+-Proteins (-genetics; +metabolism)
+-RNA, Small Interfering
+-Transcription Factors (-genetics; +metabolism)
+
+pii:M109.027748
+doi:10.1074/jbc.M109.027748
+pubmed:19561084
+pmc:PMC2755659
+

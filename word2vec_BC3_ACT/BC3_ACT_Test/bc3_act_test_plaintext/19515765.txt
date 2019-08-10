@@ -1,0 +1,23 @@
+J. Virol.
+
+Simian virus 40 small T antigen activates AMPK and triggers autophagy to protect cancer cells from nutrient deprivation.
+
+SH Kumar, A Rangarajan
+
+As tumors grow larger, they often experience an insufficient supply of oxygen and nutrients. Hence, cancer cells must develop mechanisms to overcome these stresses. Using an in vitro transformation model where the presence of the simian virus 40 (SV40) small T (ST) antigen has been shown to be critical for tumorigenic transformation, we investigated whether the ST antigen has a role to play in regulating the energy homeostasis of cancer cells. We find that cells expressing the SV40 ST antigen (+ST cells) are more resistant to glucose deprivation-induced cell death than cells lacking the SV40 ST antigen (-ST cells). Mechanistically, we find that the ST antigen mediates this effect by activating a nutrient-sensing kinase, AMP-activated protein kinase (AMPK). The basal level of active, phosphorylated AMPK was higher in +ST cells than in -ST cells, and these levels increased further in response to glucose deprivation. Additionally, inhibition of AMPK in +ST cells increased the rate of cell death, while activation of AMPK in -ST cells decreased the rate of cell death, under conditions of glucose deprivation. We further show that AMPK mediates its effects, at least in part, by inhibiting mTOR (mammalian target of rapamycin), thereby shutting down protein translation. Finally, we show that +ST cells exhibit a higher percentage of autophagy than -ST cells upon glucose deprivation. Thus, we demonstrate a novel role for the SV40 ST antigen in cancers, where it functions to maintain energy homeostasis during glucose deprivation by activating AMPK, inhibiting mTOR, and inducing autophagy as an alternate energy source.
+
+-AMP-Activated Protein Kinases (+biosynthesis)
+-Antigens, Polyomavirus Transforming (+physiology)
++Autophagy
+-Cell Death
+-Cell Line
+-Glucose (-metabolism)
+-Humans
+-Protein Kinases (-metabolism)
+-Simian virus 40 (+physiology)
+
+pii:JVI.00603-09
+doi:10.1128/JVI.00603-09
+pubmed:19515765
+pmc:PMC2738183
+

@@ -1,0 +1,27 @@
+EMBO J.
+
+Mechanisms of regulation of RNA polymerase III-dependent transcription by TORC1.
+
+Y Wei, CK Tsang, XF Zheng
+
+We have found earlier that Tor1 binds to 5S rDNA chromatin but the functional significance has not been established. Here, we show that association with 5S rDNA chromatin is necessary for TOR complex 1 (TORC1) to regulate the synthesis of 5S ribosomal RNA and transfer RNAs (tRNAs) by RNA polymerase (Pol) III, as well as the phosphorylation and binding to Pol III-transcribed genes of the Pol III repressor Maf1. Interestingly, TORC1 does not bind to tRNA genes, suggesting that TORC1 modulates tRNA synthesis indirectly through Maf1 phosphorylation at the rDNA loci. We also find that Maf1 cytoplasmic localization is dependent on the SSD1-v allele. In W303 cells that carry the SSD1-d allele, Maf1 is constitutively nuclear but its nucleolar localization is inhibited by TORC1, indicating that TORC1 regulates nucleoplasm-to-nucleolus transport of Maf1. Finally, we show that TORC1 interacts with Maf1 in vivo and phosphorylates Maf1 in vitro, and regulates Maf1 nucleoplasm-to-nucleolus translocation. Together, these observations provide new insights into the chromatin-dependent mechanism by which TORC1 controls transcription by Pol III.
+
+-1-Phosphatidylinositol 3-Kinase (+metabolism)
+-DNA, Ribosomal (+metabolism)
+-Gene Expression Regulation, Fungal
+-Models, Biological
+-Phosphorylation
+-Protein Binding
+-RNA Polymerase III (+metabolism)
+-RNA, Ribosomal, 5S (+biosynthesis)
+-RNA, Transfer (+biosynthesis)
+-Saccharomyces cerevisiae (-physiology)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+-Transcription Factors (+metabolism)
++Transcription, Genetic
+
+pii:emboj2009179
+doi:10.1038/emboj.2009.179
+pubmed:19574957
+pmc:PMC2726700
+

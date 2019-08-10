@@ -1,0 +1,29 @@
+Cell Cycle
+
+The Werner syndrome protein affects the expression of genes involved in adipogenesis and inflammation in addition to cell cycle and DNA damage responses.
+
+RV Turaga, ER Paquet, M Sild, J Vignard, C Garand, FB Johnson, JY Masson, M Lebel
+
+Werner syndrome (WS) is characterized by the premature onset of several age-associated pathologies. The protein deficient in WS (WRN) is a RecQ-type DNA helicase involved in DNA repair, replication, telomere maintenance and transcription. However, precisely how WRN deficiency leads to the numerous WS pathologies is still unknown. Here we use short-term siRNA-based inhibition of WRN to test the direct consequences of its loss on gene expression. Importantly, this short-term knock down of WRN protein level was sufficient to trigger an expression profile resembling fibroblasts established from old donor patients. In addition, this treatment altered sets of genes involved in 14 distinct biological pathways. Besides the already known impact of WRN on DNA replication, DNA repair, the p21/p53 pathway, and cell cycle, gene set enrichment analyses of our microarray data also uncover significant impact on the MYC, E2F, cellular E2A and ETV5 transcription factor pathways as well as adipocyte differentiation, HIF1, NFkappaB and IL-6 pathways. Finally, short-term siRNA-based inhibition of mouse Wrn expression in the pre-adipocyte cell line 3T3-L1 confirmed the impact of WRN on adipogenesis. These results are consistent with the pro-inflammatory status and lipid abnormalities observed in WS patients. This approach thus identified new effectors of WRN activity that might contribute to the WS phenotype.
+
+-3T3-L1 Cells
+-Adipogenesis (+genetics)
+-Animals
+-Cell Cycle (+genetics)
+-Cells, Cultured
++DNA Damage
+-DNA Repair
+-Exodeoxyribonucleases (-deficiency; -genetics; +metabolism)
+-Fibroblasts (-metabolism)
+-Gene Expression Profiling
+-Gene Knockdown Techniques
+-Humans
+-Inflammation (-genetics)
+-Mice
+-RNA, Small Interfering (-metabolism)
+-RecQ Helicases (-deficiency; -genetics; +metabolism)
+-Werner Syndrome (+enzymology; -genetics; -metabolism)
+
+pii:8925
+pubmed:19502800
+

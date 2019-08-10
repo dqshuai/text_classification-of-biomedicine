@@ -1,0 +1,38 @@
+Neuron
+
+Myosin II motors and F-actin dynamics drive the coordinated movement of the centrosome and soma during CNS glial-guided neuronal migration.
+
+DJ Solecki, N Trivedi, EE Govek, RA Kerekes, SS Gleason, ME Hatten
+
+Lamination of cortical regions of the vertebrate brain depends on glial-guided neuronal migration. The conserved polarity protein Par6alpha localizes to the centrosome and coordinates forward movement of the centrosome and soma in migrating neurons. The cytoskeletal components that produce this unique form of cell polarity and their relationship to polarity signaling cascades are unknown. We show that F-actin and Myosin II motors are enriched in the neuronal leading process and that Myosin II activity is necessary for leading process actin dynamics. Inhibition of Myosin II decreased the speed of centrosome and somal movement, whereas Myosin II activation increased coordinated movement. Ectopic expression or silencing of Par6alpha inhibited Myosin II motors by decreasing Myosin light-chain phosphorylation. These findings suggest leading-process Myosin II may function to "pull" the centrosome and soma forward during glial-guided migration by a mechanism involving the conserved polarity protein Par6alpha.
+
+-Actins (-genetics; +metabolism)
+-Adaptor Proteins, Signal Transducing (-genetics; -metabolism)
+-Animals
+-Animals, Newborn
+-Cell Cycle Proteins (-metabolism)
+-Cell Movement (-genetics; +physiology)
+-Cell Polarity (-physiology)
+-Cells, Cultured
+-Centrosome (+physiology)
+-Cerebellum (-cytology)
+-Fluorescence Recovery After Photobleaching (-methods)
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Humans
+-Membrane Proteins (-metabolism)
+-Mice
+-Myosin Type II (-genetics; +metabolism)
+-Neuroglia (+physiology)
+-Neurons (+cytology; -physiology)
+-Protein Transport (-genetics)
+-RNA, Small Interfering (-pharmacology)
+-Transfection (-methods)
+-Tubulin (-metabolism)
+-rho-Associated Kinases (-metabolism)
+
+pii:S0896-6273(09)00435-8
+doi:10.1016/j.neuron.2009.05.028
+pubmed:19607793
+mid:NIHMS127513
+pmc:PMC2737100
+

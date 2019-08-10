@@ -1,0 +1,32 @@
+Mol. Cell
+
+Phosphorylation of the tumor suppressor CYLD by the breast cancer oncogene IKKepsilon promotes cell transformation.
+
+JE Hutti, RR Shen, DW Abbott, AY Zhou, KM Sprott, JM Asara, WC Hahn, LC Cantley
+
+The noncanonical IKK family member IKKepsilon is essential for regulating antiviral signaling pathways and is a recently discovered breast cancer oncoprotein. Although several IKKepsilon targets have been described, direct IKKepsilon substrates necessary for regulating cell transformation have not been identified. Here, we performed a screen for putative IKKepsilon substrates using an unbiased proteomic and bioinformatic approach. Using a positional scanning peptide library assay, we determined the optimal phosphorylation motif for IKKepsilon and used bioinformatic approaches to predict IKKepsilon substrates. Of these potential substrates, serine 418 of the tumor suppressor CYLD was identified as a likely site of IKKepsilon phosphorylation. We confirmed that CYLD is directly phosphorylated by IKKepsilon and that IKKepsilon phosphorylates serine 418 in vivo. Phosphorylation of CYLD at serine 418 decreases its deubiquitinase activity and is necessary for IKKepsilon-driven transformation. Together, these observations define IKKepsilon and CYLD as an oncogene-tumor suppressor network that participates in tumorigenesis.
+
+-Amino Acid Sequence
+-Animals
++Breast Neoplasms (-genetics; -metabolism)
+-Cell Line
++Cell Transformation, Neoplastic (-genetics; -metabolism)
+-Female
+-Genes, Reporter
+-Humans
+-I-kappa B Kinase (-genetics; +metabolism)
+-Molecular Sequence Data
+-NF-kappa B (-genetics; -metabolism)
+-Phosphorylation
+-Sequence Alignment
+-Serine (-metabolism)
+-Substrate Specificity
+-TNF Receptor-Associated Factor 2 (-genetics; -metabolism)
+-Tumor Suppressor Proteins (-genetics; +metabolism)
+
+pii:S1097-2765(09)00313-X
+doi:10.1016/j.molcel.2009.04.031
+pubmed:19481526
+mid:NIHMS121328
+pmc:PMC2746958
+

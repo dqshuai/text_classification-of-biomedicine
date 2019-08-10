@@ -1,0 +1,25 @@
+Development
+
+An Arabidopsis F-box protein acts as a transcriptional co-factor to regulate floral development.
+
+E Chae, QK Tan, TA Hill, VF Irish
+
+Plants flower in response to both environmental and endogenous signals. The Arabidopsis LEAFY (LFY) transcription factor is crucial in integrating these signals, and acts in part by activating the expression of multiple floral homeotic genes. LFY-dependent activation of the homeotic APETALA3 (AP3) gene requires the activity of UNUSUAL FLORAL ORGANS (UFO), an F-box component of an SCF ubiquitin ligase, yet how this regulation is effected has remained unclear. Here, we show that UFO physically interacts with LFY both in vitro and in vivo, and this interaction is necessary to recruit UFO to the AP3 promoter. Furthermore, a transcriptional repressor domain fused to UFO reduces endogenous LFY activity in plants, supporting the idea that UFO acts as part of a transcriptional complex at the AP3 promoter. Moreover, chemical or genetic disruption of proteasome activity compromises LFY-dependent AP3 activation, indicating that protein degradation is required to promote LFY activity. These results define an unexpected role for an F-box protein in functioning as a DNA-associated transcriptional co-factor in regulating floral homeotic gene expression. These results suggest a novel mechanism for promoting flower development via protein degradation and concomitant activation of the LFY transcription factor. This mechanism may be widely conserved, as homologs of UFO and LFY have been identified in a wide array of plant species.
+
+-Arabidopsis (+genetics; -growth & development; -metabolism)
+-Arabidopsis Proteins (+genetics; -metabolism; -physiology)
+-Crosses, Genetic
+-Flowers (+growth & development)
++Gene Expression Regulation, Developmental
++Gene Expression Regulation, Plant
+-Genes, Homeobox
+-Genes, Plant
+-Promoter Regions, Genetic
+-SKP Cullin F-Box Protein Ligases (-metabolism)
+-Transcription Factors (+genetics)
+-Transcription, Genetic
+
+pii:dev.015842
+doi:10.1242/dev.015842
+pubmed:18287201
+

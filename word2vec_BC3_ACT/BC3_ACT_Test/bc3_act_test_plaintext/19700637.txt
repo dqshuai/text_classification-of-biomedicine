@@ -1,0 +1,22 @@
+Eukaryotic Cell
+
+Transcriptional responses of candida albicans to epithelial and endothelial cells.
+
+H Park, Y Liu, N Solis, J Spotkov, J Hamaker, JR Blankenship, MR Yeaman, AP Mitchell, H Liu, SG Filler
+
+Candida albicans interacts with oral epithelial cells during oropharyngeal candidiasis and with vascular endothelial cells when it disseminates hematogenously. We set out to identify C. albicans genes that govern interactions with these host cells in vitro. The transcriptional response of C. albicans to the FaDu oral epithelial cell line and primary endothelial cells was determined by microarray analysis. Contact with epithelial cells caused a decrease in transcript levels of genes related to protein synthesis and adhesion, whereas contact with endothelial cells did not significantly influence any specific functional category of genes. Many genes whose transcripts were increased in response to either host cell had not been previously characterized. We constructed mutants with homozygous insertions in 22 of these uncharacterized genes to investigate their function during host-pathogen interaction. By this approach, we found that YCK2, VPS51, and UEC1 are required for C. albicans to cause normal damage to epithelial cells and resist antimicrobial peptides. YCK2 is also necessary for maintenance of cell polarity. VPS51 is necessary for normal vacuole formation, resistance to multiple stressors, and induction of maximal endothelial cell damage. UEC1 encodes a unique protein that is required for resistance to cell membrane stress. Therefore, some C. albicans genes whose transcripts are increased upon contact with epithelial or endothelial cells are required for the organism to damage these cells and withstand the stresses that it likely encounters during growth in the oropharynx and bloodstream.
+
+-Candida albicans (+genetics)
+-Candidiasis (-genetics; -metabolism)
+-Cell Line, Tumor
+-Endothelial Cells (-metabolism; +microbiology)
+-Epithelial Cells (-metabolism; +microbiology)
+-Fungal Proteins (+genetics; -metabolism)
+-Humans
++Transcription, Genetic
+
+pii:EC.00165-09
+doi:10.1128/EC.00165-09
+pubmed:19700637
+pmc:PMC2756863
+

@@ -1,0 +1,29 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Visualization of AP-1 NF-kappaB ternary complexes in living cells by using a BiFC-based FRET.
+
+YJ Shyu, CD Suarez, CD Hu
+
+Protein-protein interactions are essential for maintaining cell structure and for executing almost all cellular processes. Determination of where and how each protein interacts with its partners provides significant insight into proteins' cellular roles. Although several assays, such as FRET and bimolecular fluorescence complementation (BiFC), have been developed and widely used for visualization and identification of protein interactions in living cells, there is no simple and convenient assay to visualize and identify multiple protein complexes in living cells. Because many signaling molecules often function as ternary complexes, availability of an assay for visualization and identification of ternary complexes will significantly expand the repertoire of protein interaction studies in living cells. By using the Fos-Jun-nuclear factor of activated T cells (NFAT) ternary complex as a model and the fluorescent proteins Cerulean and Venus, two mutant proteins of CFP and YFP with better folding and less environment sensitivity, as a donor and acceptor, respectively, we have combined a Venus-based BiFC system with Cerulean to develop a BiFC-based FRET (BiFC-FRET) assay for visualization of ternary complexes in living cells with a conventional three-filter FRET setup. We also have applied the BiFC-FRET to identify a ternary complex formed between Fos-Jun heterodimers and the NF-kappaB subunit, p65. This finding reveals a cross-talk between AP-1 and NF-kappaB. Thus, the BiFC-FRET represents a convenient assay for identification and visualization of ternary complexes in living cells.
+
+-DNA, Complementary (-metabolism)
+-Dimerization
+-Fluorescence Resonance Energy Transfer (-instrumentation; +methods)
+-Fluorescent Dyes (-pharmacology)
+-Gene Library
+-Glutathione Transferase (-metabolism)
+-Green Fluorescent Proteins (-chemistry; -metabolism)
+-Humans
+-Microscopy, Fluorescence
+-NF-kappa B (+metabolism)
+-NFATC Transcription Factors (-metabolism)
+-Plasmids (-metabolism)
+-Protein Binding
+-Protein Conformation
+-Transcription Factor AP-1 (+physiology)
+
+pii:0705181105
+doi:10.1073/pnas.0705181105
+pubmed:18172215
+pmc:PMC2224177
+

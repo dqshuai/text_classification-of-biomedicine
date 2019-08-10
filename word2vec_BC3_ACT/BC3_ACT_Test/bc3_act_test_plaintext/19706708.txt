@@ -1,0 +1,26 @@
+J. Virol.
+
+Baculovirus DNA replication-specific expression factors trigger apoptosis and shutoff of host protein synthesis during infection.
+
+KL Schultz, PD Friesen
+
+Apoptosis is an important antivirus defense. To define the poorly understood pathways by which invertebrates respond to viruses by inducing apoptosis, we have identified replication events that trigger apoptosis in baculovirus-infected cells. We used RNA silencing to ablate factors required for multiplication of Autographa californica multicapsid nucleopolyhedrovirus (AcMNPV). Transfection with double-stranded RNA (dsRNA) complementary to the AcMNPV late expression factors (lefs) that are designated as replicative lefs (lef-1, lef-2, lef-3, lef-11, p143, dnapol, and ie-1/ie-0) blocked virus DNA synthesis and late gene expression in permissive Spodoptera frugiperda cells. dsRNAs specific to designated nonreplicative lefs (lef-8, lef-9, p47, and pp31) blocked late gene expression without affecting virus DNA replication. Thus, both classes of lefs functioned during infection as defined. Silencing the replicative lefs prevented AcMNPV-induced apoptosis of Spodoptera cells, whereas silencing the nonreplicative lefs did not. Thus, the activity of replicative lefs or virus DNA replication is sufficient to trigger apoptosis. Confirming this conclusion, AcMNPV-induced apoptosis was suppressed by silencing the replicative lefs in cells from a divergent species, Drosophila melanogaster. Silencing replicative but not nonreplicative lefs also abrogated AcMNPV-induced shutdown of host protein synthesis, suggesting that virus DNA replication triggers inhibition of host biosynthetic processes and that apoptosis and translational arrest are linked. Our findings suggest that baculovirus DNA replication triggers a host cell response similar to the DNA damage response in vertebrates, which causes translational arrest and apoptosis. Pathways for detecting virus invasion and triggering apoptosis may therefore be conserved between insects and mammals.
+
+-Animals
+-Apoptosis (+physiology)
+-Baculoviridae (+genetics; -metabolism)
+-Cell Line
++DNA Replication
+-DNA, Viral
+-Gene Expression Regulation
+-Gene Silencing
+-Insects
++Protein Biosynthesis
+-Protein Isoforms (-genetics; +metabolism)
+-Viral Proteins (-genetics; +metabolism)
+
+pii:JVI.01199-09
+doi:10.1128/JVI.01199-09
+pubmed:19706708
+pmc:PMC2772793
+

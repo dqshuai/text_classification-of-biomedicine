@@ -1,0 +1,27 @@
+Mol. Biol. Cell
+
+Mechanisms for rescue of correctable folding defects in CFTRDelta F508.
+
+DE Grove, MF Rosser, HY Ren, AP Naren, DM Cyr
+
+Premature degradation of CFTRDeltaF508 causes cystic fibrosis (CF). CFTRDeltaF508 folding defects are conditional and folding correctors are being developed as CF therapeutics. How the cellular environment impacts CFTRDeltaF508 folding efficiency and the identity of CFTRDeltaF508's correctable folding defects is unclear. We report that inactivation of the RMA1 or CHIP ubiquitin ligase permits a pool of CFTRDeltaF508 to escape the endoplasmic reticulum. Combined RMA1 or CHIP inactivation and Corr-4a treatment enhanced CFTRDeltaF508 folding to 3-7-fold greater levels than those elicited by Corr-4a. Some, but not all, folding defects in CFTRDeltaF508 are correctable. CHIP and RMA1 recognize different regions of CFTR and a large pool of nascent CFTRDeltaF508 is ubiquitinated by RMA1 before Corr-4a action. RMA1 recognizes defects in CFTRDeltaF508 related to misassembly of a complex that contains MSD1, NBD1, and the R-domain. Corr-4a acts on CFTRDeltaF508 after MSD2 synthesis and was ineffective at rescue of DeltaF508 dependent folding defects in amino-terminal regions. In contrast, misfolding caused by the rare CF-causing mutation V232D in MSD1 was highly correctable by Corr-4a. Overall, correction of folding defects recognized by RMA1 and/or global modulation of ER quality control has the potential to increase CFTRDeltaF508 folding and provide a therapeutic approach for CF.
+
+-Cell Line
+-Cystic Fibrosis (-metabolism)
+-Cystic Fibrosis Transmembrane Conductance Regulator (+chemistry; +metabolism)
+-Endoplasmic Reticulum (-drug effects; -metabolism)
+-Gene Knockdown Techniques
+-Humans
+-Protein Conformation
++Protein Folding (-drug effects)
+-Protein Stability (-drug effects)
+-Protein Structure, Tertiary
+-RNA, Small Interfering (-metabolism)
+-Suppression, Genetic (-drug effects)
+-Thiazoles (-chemistry; -pharmacology)
+
+pii:E08-09-0929
+doi:10.1091/mbc.E08-09-0929
+pubmed:19625452
+pmc:PMC2743624
+

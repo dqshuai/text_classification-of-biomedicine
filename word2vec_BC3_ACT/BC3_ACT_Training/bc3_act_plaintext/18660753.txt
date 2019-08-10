@@ -1,0 +1,34 @@
+EMBO Rep.
+
+A new ubiquitin ligase involved in p57KIP2 proteolysis regulates osteoblast cell differentiation.
+
+M Kim, T Nakamoto, S Nishimori, K Tanaka, T Chiba
+
+Transforming growth factor-beta1 (TGF-beta1) has many physiological functions and inhibits the differentiation of osteoblasts. Previously, we reported that TGF-beta1 stimulation induces the degradation of p57(KIP2) in osteoblasts. p57(KIP2) proteolysis depends on the ubiquitin-proteasome pathway and SMAD-mediated transcription; however, the molecular mechanism underlying p57(KIP2) degradation has been largely unknown. Here, we show that FBL12, a new F-box protein expressed in the limb bud of developing embryos, is involved in TGF-beta1-induced degradation of p57(KIP2). FBL12 formed an SCF(FBL12) complex and directly ubiquitinated p57(KIP2) in a phosphorylation-dependent manner. Inhibition of FBL12 by RNA interference suppressed the degradation of p57(KIP2) and a dominant-negative mutant of FBL12 (FBL12DeltaF) increased the steady-state level of p57(KIP2). Furthermore, wild-type FBL12 inhibited and FBL12DeltaF promoted the differentiation of primary osteoblasts. As overexpression of p57(KIP2) promoted osteoblast differentiation, these results indicate the importance of FBL12 and the degradation of p57(KIP2) in the regulation of osteoblast cell differentiation.
+
+-Animals
+-Blotting, Northern
+-Cell Differentiation (-drug effects; +physiology)
+-Cell Line
+-Cells, Cultured
+-Cyclin-Dependent Kinase Inhibitor p57 (-genetics; +metabolism)
+-F-Box Proteins (-genetics; -metabolism)
+-Gene Expression (-drug effects)
+-Hela Cells
+-Humans
+-Immunoblotting
+-Immunoprecipitation
+-Mice
+-Oligonucleotide Array Sequence Analysis
+-Osteoblasts (-cytology; +metabolism)
+-Protein Binding (-drug effects)
+-RNA Interference
+-Transfection
+-Transforming Growth Factor beta (-pharmacology)
+-Ubiquitin-Protein Ligases (+metabolism)
+
+pii:embor2008125
+doi:10.1038/embor.2008.125
+pubmed:18660753
+pmc:PMC2529345
+

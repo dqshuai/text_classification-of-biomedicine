@@ -1,0 +1,24 @@
+PLoS Genet.
+
+A transcription elongation factor that links signals from the reproductive system to lifespan extension in Caenorhabditis elegans.
+
+A Ghazi, S Henis-Korenblit, C Kenyon
+
+In Caenorhabditis elegans and Drosophila melanogaster, the aging of the soma is influenced by the germline. When germline-stem cells are removed, aging slows and lifespan is increased. The mechanism by which somatic tissues respond to loss of the germline is not well-understood. Surprisingly, we have found that a predicted transcription elongation factor, TCER-1, plays a key role in this process. TCER-1 is required for loss of the germ cells to increase C. elegans' lifespan, and it acts as a regulatory switch in the pathway. When the germ cells are removed, the levels of TCER-1 rise in somatic tissues. This increase is sufficient to trigger key downstream events, as overexpression of tcer-1 extends the lifespan of normal animals that have an intact reproductive system. Our findings suggest that TCER-1 extends lifespan by promoting the expression of a set of genes regulated by the conserved, life-extending transcription factor DAF-16/FOXO. Interestingly, TCER-1 is not required for DAF-16/FOXO to extend lifespan in animals with reduced insulin/IGF-1 signaling. Thus, TCER-1 specifically links the activity of a broadly deployed transcription factor, DAF-16/FOXO, to longevity signals from reproductive tissues.
+
+-Animals
+-Caenorhabditis elegans (-genetics; -growth & development; +physiology)
+-Caenorhabditis elegans Proteins (-genetics; +metabolism)
+-Female
+-Gene Expression Regulation, Developmental
+-Germ Cells (-growth & development; -metabolism)
+-Longevity
+-Male
+-Reproduction
++Signal Transduction
+-Transcription Factors (-genetics; +metabolism)
+
+doi:10.1371/journal.pgen.1000639
+pubmed:19749979
+pmc:PMC2729384
+

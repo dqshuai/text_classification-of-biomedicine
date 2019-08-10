@@ -1,0 +1,24 @@
+J. Gen. Physiol.
+
+Distinct subdomains of the KCNQ1 S6 segment determine channel modulation by different KCNE subunits.
+
+CG Vanoye, RC Welch, MA Daniels, LJ Manderfield, AR Tapper, CR Sanders, AL George
+
+Modulation of voltage-gated potassium (KV) channels by the KCNE family of single transmembrane proteins has physiological and pathophysiological importance. All five KCNE proteins (KCNE1-KCNE5) have been demonstrated to modulate heterologously expressed KCNQ1 (KV7.1) with diverse effects, making this channel a valuable experimental platform for elucidating structure-function relationships and mechanistic differences among members of this intriguing group of accessory subunits. Here, we specifically investigated the determinants of KCNQ1 inhibition by KCNE4, the least well-studied KCNE protein. In CHO-K1 cells, KCNQ1, but not KCNQ4, is strongly inhibited by coexpression with KCNE4. By studying KCNQ1-KCNQ4 chimeras, we identified two adjacent residues (K326 and T327) within the extracellular end of the KCNQ1 S6 segment that determine inhibition of KCNQ1 by KCNE4. This dipeptide motif is distinct from neighboring S6 sequences that enable modulation by KCNE1 and KCNE3. Conversely, S6 mutations (S338C and F340C) that alter KCNE1 and KCNE3 effects on KCNQ1 do not abrogate KCNE4 inhibition. Further, KCNQ1-KCNQ4 chimeras that exhibited resistance to the inhibitory effects of KCNE4 still interact biochemically with this protein, implying that accessory subunit binding alone is not sufficient for channel modulation. These observations indicate that the diverse functional effects observed for KCNE proteins depend, in part, on structures intrinsic to the pore-forming subunit, and that distinct S6 subdomains determine KCNQ1 responses to KCNE1, KCNE3, and KCNE4.
+
+-Amino Acid Motifs
+-Amino Acid Sequence
+-Animals
+-CHO Cells
+-Cricetinae
+-Cricetulus
+-Dipeptides (-metabolism)
+-KCNQ1 Potassium Channel (-antagonists & inhibitors; -chemistry; +metabolism)
+-Molecular Sequence Data
+-Protein Structure, Tertiary
+
+pii:jgp.200910234
+doi:10.1085/jgp.200910234
+pubmed:19687231
+pmc:PMC2737226
+

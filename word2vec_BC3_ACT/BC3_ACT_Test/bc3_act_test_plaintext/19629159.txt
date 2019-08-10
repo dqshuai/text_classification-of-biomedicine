@@ -1,0 +1,30 @@
+PLoS Comput. Biol.
+
+Identification of a kinase profile that predicts chromosome damage induced by small molecule kinase inhibitors.
+
+AJ Olaharski, N Gonzaludo, H Bitter, D Goldstein, S Kirchner, H Uppal, K Kolaja
+
+Kinases are heavily pursued pharmaceutical targets because of their mechanistic role in many diseases. Small molecule kinase inhibitors (SMKIs) are a compound class that includes marketed drugs and compounds in various stages of drug development. While effective, many SMKIs have been associated with toxicity including chromosomal damage. Screening for kinase-mediated toxicity as early as possible is crucial, as is a better understanding of how off-target kinase inhibition may give rise to chromosomal damage. To that end, we employed a competitive binding assay and an analytical method to predict the toxicity of SMKIs. Specifically, we developed a model based on the binding affinity of SMKIs to a panel of kinases to predict whether a compound tests positive for chromosome damage. As training data, we used the binding affinity of 113 SMKIs against a representative subset of all kinases (290 kinases), yielding a 113x290 data matrix. Additionally, these 113 SMKIs were tested for genotoxicity in an in vitro micronucleus test (MNT). Among a variety of models from our analytical toolbox, we selected using cross-validation a combination of feature selection and pattern recognition techniques: Kolmogorov-Smirnov/T-test hybrid as a univariate filter, followed by Random Forests for feature selection and Support Vector Machines (SVM) for pattern recognition. Feature selection identified 21 kinases predictive of MNT. Using the corresponding binding affinities, the SVM could accurately predict MNT results with 85% accuracy (68% sensitivity, 91% specificity). This indicates that kinase inhibition profiles are predictive of SMKI genotoxicity. While in vitro testing is required for regulatory review, our analysis identified a fast and cost-efficient method for screening out compounds earlier in drug development. Equally important, by identifying a panel of kinases predictive of genotoxicity, we provide medicinal chemists a set of kinases to avoid when designing compounds, thereby providing a basis for rational drug design away from genotoxicity.
+
+-Algorithms
+-Animals
+-Artificial Intelligence
+-Cell Line, Tumor
+-Chromosomes (-chemistry; +drug effects; -metabolism)
+-Cluster Analysis
++DNA Damage
+-Drug Discovery
+-Mice
++Models, Biological
+-Molecular Weight
+-Principal Component Analysis
+-Protein Binding
+-Protein Kinase Inhibitors (-chemistry; +toxicity)
+-ROC Curve
+-Reproducibility of Results
+-Statistics, Nonparametric
+
+doi:10.1371/journal.pcbi.1000446
+pubmed:19629159
+pmc:PMC2704959
+

@@ -1,0 +1,19 @@
+Biochemistry
+
+Gamma-radiation induced interstrand cross-links in PNA:DNA heteroduplexes.
+
+TG Gantchev, S Girouard, DW Dodd, F Wojciechowski, RH Hudson, DJ Hunting
+
+Peptide nucleic acids (PNAs) efficiently hybridize with DNA and are promoted as versatile gene-targeting analytical tools and pharmaceuticals. However, PNAs have never been exploited as radiopharmaceuticals, and radiation-induced physicochemical modifications of PNA:DNA heteroduplexes have not been studied. Drug- and radiation-induced creation of covalent cross-links in DNA obstruct crucial cell survival processes such as transcription and replication and are thus considered genotoxic events with a high impact in anticancer therapies. Here we report that gamma-irradiation of complementary PNA:DNA heteroduplexes, wherein the PNA contains l-lysine, free amino, or N-methylmorpholinium N- and C-capping groups, results in the formation of irreversible interstrand cross-links (ICL). The number of detected ICL corresponds to the number of available amino functional groups on the PNA. The effect of DNA sequence on the formation of ICL was studied by modifying the terminal nucleotides of the DNA oligonucleotide to create deletions and overhangs. The involvement of abasic sites (ABS) on the DNA strand in the cross-linking reaction was confirmed by independent experiments with synthetic ABS-containing oligonucleotides. Molecular modeling and molecular dynamics (MD) simulations were applied to elucidate the conformation of the N- and C-capping groups of the PNA oligomer and their interactions with the proximal terminus of the DNA. Good agreement between experimental and modeling results was achieved. Modeling indicated that the presence of positively charged capping groups on the PNA increases the conformational flexibility of the PNA:DNA terminal base pairs and often leads to their melting. This disordered orientation of the duplex ends provides conditions for multiple encounters of the short (amino) and bulky (Lys) side chains with nucleobases and the DNA backbone up to the third base pair along the duplex stem. Dangling duplex ends offer favorable conditions for increased accessibility of the radiation-induced free radicals to terminal nucleotides and their damage. It is suggested that the ICL are produced by initial formation of Schiff base adducts between the PNA amino functions and the opposed DNA oxidation-damaged bases or abasic 2'-deoxyribose-derived aldehydic groups. The subsequent reduction by solvated electrons (e(-)(aq)) or other radiation-produced reducing species results in irreversible covalent interstrand cross-links. The simultaneous involvement of oxidizing, (*)OH, and reducing, e(-)(aq), radicals presents a case in which multiple ionization events along a gamma-particle path lead to DNA injuries that also encompass ICL as part of the multiply damaged sites (MDS). The obtained results may find applications in the development of a new generation of gene-targeted radiosensitizers based on PNA vectors.
+
+-DNA (+chemistry)
+-Free Radical Scavengers (-chemistry)
++Gamma Rays
+-Hydrogen-Ion Concentration
+-Models, Molecular
++Nucleic Acid Heteroduplexes
+-Peptide Nucleic Acids (+chemistry)
+
+doi:10.1021/bi9002474
+pubmed:19469551
+

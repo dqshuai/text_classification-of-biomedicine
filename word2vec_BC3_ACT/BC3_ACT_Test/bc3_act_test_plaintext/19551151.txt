@@ -1,0 +1,28 @@
+PLoS ONE
+
+MYC is a metastasis gene for non-small-cell lung cancer.
+
+UR Rapp, C Korn, F Ceteci, C Karreman, K Luetkenhaus, V Serafin, E Zanucco, I Castro, T Potapenko
+
+BACKGROUND: Metastasis is a process by which cancer cells learn to form satellite tumors in distant organs and represents the principle cause of death of patients with solid tumors. NSCLC is the most lethal human cancer due to its high rate of metastasis. METHODOLOGY/PRINCIPAL FINDINGS: Lack of a suitable animal model has so far hampered analysis of metastatic progression. We have examined c-MYC for its ability to induce metastasis in a C-RAF-driven mouse model for non-small-cell lung cancer. c-MYC alone induced frank tumor growth only after long latency at which time secondary mutations in K-Ras or LKB1 were detected reminiscent of human NSCLC. Combination with C-RAF led to immediate acceleration of tumor growth, conversion to papillary epithelial cells and angiogenic switch induction. Moreover, addition of c-MYC was sufficient to induce macrometastasis in liver and lymph nodes with short latency associated with lineage switch events. Thus we have generated the first conditional model for metastasis of NSCLC and identified a gene, c-MYC that is able to orchestrate all steps of this process. CONCLUSIONS/SIGNIFICANCE: Potential markers for detection of metastasis were identified and validated for diagnosis of human biopsies. These markers may represent targets for future therapeutic intervention as they include genes such as Gata4 that are exclusively expressed during lung development.
+
+-Animals
+-Carcinoma, Non-Small-Cell Lung (+metabolism; +pathology)
++Gene Expression Regulation, Neoplastic
+-Liver (-metabolism)
+-Liver Neoplasms (-pathology)
+-Lung (-cytology; -metabolism)
+-Lung Neoplasms (+metabolism; +pathology)
+-Mice
+-Mice, Inbred C57BL
+-Mice, Transgenic
+-Models, Biological
+-Mutation
++Neoplasm Metastasis
+-Proto-Oncogene Proteins c-myc (+metabolism)
+-Proto-Oncogene Proteins c-raf (-metabolism)
+
+doi:10.1371/journal.pone.0006029
+pubmed:19551151
+pmc:PMC2696940
+

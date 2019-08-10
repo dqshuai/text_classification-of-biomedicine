@@ -1,0 +1,25 @@
+BMC Genomics
+
+Mapping of heterologous expressed sequence tags as an alternative to microarrays for study of defense responses in plants.
+
+AM Boutanaev, OA Postnikova, LG Nemchinov
+
+BACKGROUND: Microarray technology helped to accumulate an immense pool of data on gene expression changes in response to different environmental factors. Yet, computer- generated gene profiling using expressed sequence tags (EST) represents a valuable alternative to microarrays, which allows efficient discovery of homologous sequences in evolutionarily different species and comparison of gene sets on the whole genome scale. In this study, we used publicly available EST database derived from different plant species infected with a variety of pathogens, to generate an expression profile of homologous genes involved in defense response of a model organism, Arabidopsis thaliana. RESULTS: EST-driven prediction identified 4,935 genes (16% of the total Arabidopsis genome) which, according to the origin of EST sets, were associated with defense responses in the reference genome. Profiles of defense-related genes, obtained by mapping of heterologous EST, represent putative Arabidopsis homologs of the corresponding species. Comparison of these profiles in pairs and locating common genes allowed estimating similarity between defense-related gene sets of different plant species. To experimentally support computer data, we arbitrarily selected a number of transcription factor genes (TF) detected by EST mapping. Their expression levels were examined by real-time polymerase chain reaction during infection with yellow strain of Cucumber mosaic virus, a compatible virus systemically infecting Arabidopsis. We observed that 65% of the designated TF were upregulated in accordance with the EST-generated profile. CONCLUSION: We demonstrated that heterologous EST mapping may be efficiently used to reveal genes involved in host defense responses to pathogens. Upregulated genes identified in this study substantially overlap with those previously obtained by microarrays.
+
+-Arabidopsis (+genetics)
+-Chromosome Mapping
++Databases, Genetic
++Expressed Sequence Tags
+-Gene Expression Profiling (+methods)
+-Gene Expression Regulation, Plant
++Genes, Plant
+-Oligonucleotide Array Sequence Analysis
+-Plant Diseases (-genetics; -virology)
+-RNA, Plant (-genetics)
+-Transcription Factors (-genetics)
+
+pii:1471-2164-10-273
+doi:10.1186/1471-2164-10-273
+pubmed:19538747
+pmc:PMC2706895
+

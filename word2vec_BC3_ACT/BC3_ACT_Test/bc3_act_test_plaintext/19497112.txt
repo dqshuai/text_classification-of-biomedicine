@@ -1,0 +1,28 @@
+Retrovirology
+
+Intracellular interactions between APOBEC3G, RNA, and HIV-1 Gag: APOBEC3G multimerization is dependent on its association with RNA.
+
+YN Friew, V Boyko, WS Hu, VK Pathak
+
+BACKGROUND: Host restriction factor APOBEC3G (A3G) blocks human immunodeficiency virus type 1 (HIV-1) replication by G-to-A hypermutation, and by inhibiting DNA synthesis and provirus formation. Previous reports have suggested that A3G is a dimer and its virion incorporation is mediated through interactions with viral or nonviral RNAs and/or HIV-1 Gag. We have now employed a bimolecular fluorescence complementation assay (BiFC) to analyze the intracellular A3G-A3G, A3G-RNA, and A3G-Gag interactions in living cells by reconstitution of yellow fluorescent protein (YFP) from its N- or C-terminal fragments. RESULTS: The results obtained with catalytic domain 1 and 2 (CD1 and CD2) mutants indicate that A3G-A3G and A3G-Gag multimerization is dependent on an intact CD1 domain, which is required for RNA binding. A mutant HIV-1 Gag that exhibits reduced RNA binding also failed to reconstitute BiFC with wild-type A3G, indicating a requirement for both HIV-1 Gag and A3G to bind to RNA for their multimerization. Addition of a non-specific RNA binding peptide (P22) to the N-terminus of a CD1 mutant of A3G restored BiFC and virion incorporation, but failed to inhibit viral replication, indicating that the mutations in CD1 resulted in additional defects that interfere with A3G's antiviral activity. CONCLUSION: These studies establish a robust BiFC assay for analysis of intracellular interactions of A3G with other macromolecules. The results indicate that in vivo A3G is a monomer that forms multimers upon binding to RNA. In addition, we observed weak interactions between wild-type A3G molecules and RNA binding-defective mutants of A3G, which could explain previously described protein-protein interactions between purified A3G molecules.
+
+-Catalytic Domain
+-Cell Line
+-Cytidine Deaminase (-chemistry; +metabolism)
+-HIV Infections (+metabolism)
+-HIV-1 (+physiology)
+-Humans
+-Intracellular Space (+metabolism)
+-Luminescent Proteins
+-Protein Binding
++Protein Multimerization
+-RNA (+metabolism)
+-Recombinant Fusion Proteins (-biosynthesis)
+-Virus Replication
+-gag Gene Products, Human Immunodeficiency Virus (+metabolism)
+
+pii:1742-4690-6-56
+doi:10.1186/1742-4690-6-56
+pubmed:19497112
+pmc:PMC2700067
+

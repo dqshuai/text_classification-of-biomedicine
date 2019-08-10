@@ -1,0 +1,34 @@
+EMBO Rep.
+
+REDD1, an inhibitor of mTOR signalling, is regulated by the CUL4A-DDB1 ubiquitin ligase.
+
+S Katiyar, E Liu, CA Knutzen, ES Lang, CR Lombardo, S Sankar, JI Toth, MD Petroski, Z Ronai, GG Chiang
+
+The cellular response to hypoxia involves several signalling pathways that mediate adaptation and survival. REDD1 (regulated in development and DNA damage responses 1), a hypoxia-inducible factor-1 target gene, has a crucial role in inhibiting mammalian target of rapamycin complex 1 (mTORC1) signalling during hypoxic stress. However, little is known about the signalling pathways and post-translational modifications that regulate REDD1 function. Here, we show that REDD1 is subject to ubiquitin-mediated degradation mediated by the CUL4A-DDB1-ROC1-beta-TRCP E3 ligase complex and through the activity of glycogen synthase kinase 3beta. Furthermore, REDD1 degradation is crucially required for the restoration of mTOR signalling as cells recover from hypoxic stress. Our findings define a mechanism underlying REDD1 degradation and its importance for regulating mTOR signalling.
+
+-Carrier Proteins (-metabolism)
+-Cell Hypoxia (-physiology)
+-Cell Line
+-Cell Line, Tumor
+-Cullin Proteins (+metabolism)
+-Cycloheximide (-pharmacology)
+-DNA-Binding Proteins (-genetics; +metabolism)
+-Glycogen Synthase Kinase 3 (-metabolism)
+-Humans
+-Immunoblotting
+-Phosphorylation
+-Protein Kinases (+metabolism)
+-Protein Stability
+-Protein Synthesis Inhibitors (-pharmacology)
+-RNA, Small Interfering
+-Reverse Transcriptase Polymerase Chain Reaction
+-Signal Transduction (-drug effects; -physiology)
+-Transcription Factors (-genetics; -metabolism; +physiology)
+-Ubiquitin-Protein Ligases (-metabolism)
+-beta-Transducin Repeat-Containing Proteins (-metabolism)
+
+pii:embor200993
+doi:10.1038/embor.2009.93
+pubmed:19557001
+pmc:PMC2726664
+

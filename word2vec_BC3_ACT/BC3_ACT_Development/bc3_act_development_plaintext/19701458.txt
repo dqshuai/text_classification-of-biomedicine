@@ -1,0 +1,24 @@
+PLoS ONE
+
+Host, weather and virological factors drive norovirus epidemiology: time-series analysis of laboratory surveillance data in England and Wales.
+
+B Lopman, B Armstrong, C Atchison, JJ Gray
+
+Norovirus, the most commonly identified cause of both sporadic cases and outbreaks of infectious diarrhoea in developed countries, exhibits a complex epidemiology and has a strong wintertime seasonality. Viral populations are dynamic and evolve under positive selection pressure. METHODS: Time series-adapted Poisson regression models were fitted to daily counts of laboratory reports of norovirus in England and Wales from 1993 to 2006. FINDINGS: Inverse linear associations with daily temperature over the previous seven weeks (rate ratio (RR) = 0.85; 95% CI: 0.83 to 0.86 for every 1 degrees C increase) and relative humidity over the previous five weeks (RR = 0.980; 95% CI: 0.973 to 0.987 for every 1% increase) were found, with temperature having a greater overall effect. The emergence of new norovirus variants (RR = 1.16; 95% CI: 1.10 to 1.22) and low population immunity were also associated with heightened norovirus activity. Temperature and humidity, which may be localised, had highly consistent effects in each region of England and Wales. CONCLUSIONS: These results point to a complex interplay between host, viral and climatic factors driving norovirus epidemic patterns. Increases in norovirus are associated with cold, dry temperature, low population immunity and the emergence of novel genogroup 2 type 4 antigenic variants.
+
+-Caliciviridae Infections (+epidemiology; -virology)
+-Confounding Factors (Epidemiology)
+-England (-epidemiology)
+-Gastroenteritis (+epidemiology; -virology)
++Host-Pathogen Interactions
+-Humans
+-Norovirus (+pathogenicity)
+-Poisson Distribution
++Population Surveillance
+-Wales (-epidemiology)
++Weather
+
+doi:10.1371/journal.pone.0006671
+pubmed:19701458
+pmc:PMC2726937
+

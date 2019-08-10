@@ -1,0 +1,23 @@
+PLoS Genet.
+
+Caenorhabditis elegans genomic response to soil bacteria predicts environment-specific genetic effects on life history traits.
+
+JD Coolon, KL Jones, TC Todd, BC Carr, MA Herman
+
+With the post-genomic era came a dramatic increase in high-throughput technologies, of which transcriptional profiling by microarrays was one of the most popular. One application of this technology is to identify genes that are differentially expressed in response to different environmental conditions. These experiments are constructed under the assumption that the differentially expressed genes are functionally important in the environment where they are induced. However, whether differential expression is predictive of functional importance has yet to be tested. Here we have addressed this expectation by employing Caenorhabditis elegans as a model for the interaction of native soil nematode taxa and soil bacteria. Using transcriptional profiling, we identified candidate genes regulated in response to different bacteria isolated in association with grassland nematodes or from grassland soils. Many of the regulated candidate genes are predicted to affect metabolism and innate immunity suggesting similar genes could influence nematode community dynamics in natural systems. Using mutations that inactivate 21 of the identified genes, we showed that most contribute to lifespan and/or fitness in a given bacterial environment. Although these bacteria may not be natural food sources for C. elegans, we show that changes in food source, as can occur in environmental disturbance, can have a large effect on gene expression, with important consequences for fitness. Moreover, we used regression analysis to demonstrate that for many genes the degree of differential gene expression between two bacterial environments predicted the magnitude of the effect of the loss of gene function on life history traits in those environments.
+
+-Animals
+-Bacterial Physiological Phenomena
+-Caenorhabditis elegans (+genetics; +microbiology)
+-Caenorhabditis elegans Proteins (-genetics)
+-Gene Expression Profiling
+-Genes, Helminth
++Genome, Helminth
+-Oligonucleotide Array Sequence Analysis
++Soil
+-Transcription, Genetic
+
+doi:10.1371/journal.pgen.1000503
+pubmed:19503598
+pmc:PMC2684633
+

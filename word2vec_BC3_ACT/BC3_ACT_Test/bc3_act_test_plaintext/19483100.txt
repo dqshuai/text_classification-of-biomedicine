@@ -1,0 +1,26 @@
+Nucleic Acids Res.
+
+A novel method for tissue-specific RNAi rescue in Drosophila.
+
+JG Schulz, G David, BA Hassan
+
+Targeted gene silencing by RNA interference allows the study of gene function in plants and animals. In cell culture and small animal models, genetic screens can be performed--even tissue-specifically in Drosophila--with genome-wide RNAi libraries. However, a major problem with the use of RNAi approaches is the unavoidable false-positive error caused by off-target effects. Until now, this is minimized by computational RNAi design, comparing RNAi to the mutant phenotype if known, and rescue with a presumed ortholog. The ultimate proof of specificity would be to restore expression of the same gene product in vivo. Here, we present a simple and efficient method to rescue the RNAi-mediated knockdown of two independent genes in Drosophila. By exploiting the degenerate genetic code, we generated Drosophila RNAi Escape Strategy Construct (RESC) rescue proteins containing frequent silent mismatches in the complete RNAi target sequence. RESC products were no longer efficiently silenced by RNAi in cell culture and in vivo. As a proof of principle, we rescue the RNAi-induced loss of function phenotype of the eye color gene white and tracheal defects caused by the knockdown of the heparan sulfate proteoglycan syndecan. Our data suggest that RESC is widely applicable to rescue and validate ubiquitous or tissue-specific RNAi and to perform protein structure-function analysis.
+
+-ATP-Binding Cassette Transporters (-antagonists & inhibitors; -genetics)
+-Animals
+-Cell Line
+-Drosophila (-anatomy & histology; +genetics)
+-Drosophila Proteins (-antagonists & inhibitors; -genetics)
+-Eye (-anatomy & histology)
+-Eye Proteins (-antagonists & inhibitors; -genetics)
++Gene Knockdown Techniques
+-Genes, Insect
+-Phenotype
++RNA Interference
+-Syndecans (-antagonists & inhibitors; -genetics)
+
+pii:gkp450
+doi:10.1093/nar/gkp450
+pubmed:19483100
+pmc:PMC2715260
+

@@ -1,0 +1,13 @@
+Nature
+
+Synthesizing arbitrary quantum states in a superconducting resonator.
+
+M Hofheinz, H Wang, M Ansmann, RC Bialczak, E Lucero, M Neeley, AD O'Connell, D Sank, J Wenner, JM Martinis, AN Cleland
+
+The superposition principle is a fundamental tenet of quantum mechanics. It allows a quantum system to be 'in two places at the same time', because the quantum state of a physical system can simultaneously include measurably different physical states. The preparation and use of such superposed states forms the basis of quantum computation and simulation. The creation of complex superpositions in harmonic systems (such as the motional state of trapped ions, microwave resonators or optical cavities) has presented a significant challenge because it cannot be achieved with classical control signals. Here we demonstrate the preparation and measurement of arbitrary quantum states in an electromagnetic resonator, superposing states with different numbers of photons in a completely controlled and deterministic manner. We synthesize the states using a superconducting phase qubit to phase-coherently pump photons into the resonator, making use of an algorithm that generalizes a previously demonstrated method of generating photon number (Fock) states in a resonator. We completely characterize the resonator quantum state using Wigner tomography, which is equivalent to measuring the resonator's full density matrix.
+
+
+pii:nature08005
+doi:10.1038/nature08005
+pubmed:19478780
+

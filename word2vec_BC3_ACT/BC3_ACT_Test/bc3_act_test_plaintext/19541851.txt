@@ -1,0 +1,23 @@
+Nucleic Acids Res.
+
+Establishment of histone modifications after chromatin assembly.
+
+AN Scharf, TK Barth, A Imhof
+
+Every cell has to duplicate its entire genome during S-phase of the cell cycle. After replication, the newly synthesized DNA is rapidly assembled into chromatin. The newly assembled chromatin 'matures' and adopts a variety of different conformations. This differential packaging of DNA plays an important role for the maintenance of gene expression patterns and has to be reliably copied in each cell division. Posttranslational histone modifications are prime candidates for the regulation of the chromatin structure. In order to understand the maintenance of chromatin structures, it is crucial to understand the replication of histone modification patterns. To study the kinetics of histone modifications in vivo, we have pulse-labeled synchronized cells with an isotopically labeled arginine ((15)N(4)) that is 4 Da heavier than the naturally occurring (14)N(4) isoform. As most of the histone synthesis is coupled with replication, the cells were arrested at the G1/S boundary, released into S-phase and simultaneously incubated in the medium containing heavy arginine, thus labeling all newly synthesized proteins. This method allows a comparison of modification patterns on parental versus newly deposited histones. Experiments using various pulse/chase times show that particular modifications have considerably different kinetics until they have acquired a modification pattern indistinguishable from the parental histones.
+
+-Acetylation
+-Cell Cycle
++Chromatin Assembly and Disassembly
+-Hela Cells
+-Histones (-biosynthesis; +metabolism)
+-Humans
+-Kinetics
+-Methylation
++Protein Processing, Post-Translational
+
+pii:gkp518
+doi:10.1093/nar/gkp518
+pubmed:19541851
+pmc:PMC2731903
+

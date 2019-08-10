@@ -1,0 +1,27 @@
+EMBO J.
+
+Yeast and human Ysl2p/hMon2 interact with Gga adaptors and mediate their subcellular distribution.
+
+B Singer-Krüger, M Lasić, AM Bürger, A Hausser, R Pipkorn, Y Wang
+
+The Gga proteins represent a family of ubiquitously expressed clathrin adaptors engaged in vesicle budding at the tubular endosomal network/trans Golgi network. Their membrane recruitment is commonly thought to involve interactions with Arf and signals in cargo through the so-called VHS domain. For yeast Gga proteins, however, partners binding to its VHS domain have remained elusive and Gga localization does not absolutely depend on Arf. Here, we demonstrate that yeast Gga recruitment relies on a network of interactions between the scaffold Ysl2p/Mon2p, the small GTPase Arl1p, and the flippase Neo1p. Deletion of either YSL2 or ARL1 causes mislocalization of Gga2p, whereas a neo1-69 mutant accumulates Gga2p on aberrant structures. Remarkably, Ysl2p directly interacts with human and yeast Ggas through the VHS domain, and binding to Gga proteins is also found for the human Ysl2p orthologue hMon2. Thus, Ysl2p represents an essential, evolutionarily conserved member of a network controlling direct binding and membrane docking of Ggas. Because activated Arl1p is part of the network that binds Gga2p, Arf and Arf-like GTPases may interact in a regulatory cascade.
+
+-ADP-Ribosylation Factors (-analysis; +metabolism)
+-Adaptor Proteins, Vesicular Transport (-analysis; +metabolism)
+-Adenosine Triphosphatases (-genetics; -metabolism)
+-Cell Line
+-Endosomes (-chemistry; -metabolism)
+-Gene Deletion
+-Humans
+-Membrane Transport Proteins (-genetics; -metabolism)
+-Monomeric GTP-Binding Proteins (-genetics; -metabolism)
+-Protein Structure, Tertiary
+-Proton-Translocating ATPases (+metabolism)
+-Saccharomyces cerevisiae Proteins (-analysis; -genetics; +metabolism)
+-Vesicular Transport Proteins (-genetics; -metabolism)
+
+pii:emboj200875
+doi:10.1038/emboj.2008.75
+pubmed:18418388
+pmc:PMC2396392
+

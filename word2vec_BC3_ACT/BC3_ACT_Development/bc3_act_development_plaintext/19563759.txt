@@ -1,0 +1,21 @@
+Cell
+
+A synthetic genetic edge detection program.
+
+JJ Tabor, HM Salis, ZB Simpson, AA Chevalier, A Levskaya, EM Marcotte, CA Voigt, AD Ellington
+
+Edge detection is a signal processing algorithm common in artificial intelligence and image recognition programs. We have constructed a genetically encoded edge detection algorithm that programs an isogenic community of E. coli to sense an image of light, communicate to identify the light-dark edges, and visually present the result of the computation. The algorithm is implemented using multiple genetic circuits. An engineered light sensor enables cells to distinguish between light and dark regions. In the dark, cells produce a diffusible chemical signal that diffuses into light regions. Genetic logic gates are used so that only cells that sense light and the diffusible signal produce a positive output. A mathematical model constructed from first principles and parameterized with experimental measurements of the component circuits predicts the performance of the complete program. Quantitatively accurate models will facilitate the engineering of more complex biological behaviors and inform bottom-up studies of natural genetic regulatory networks.
+
++Algorithms
+-Computer Graphics
+-Escherichia coli (+genetics)
+-Image Enhancement (+methods)
++Light
+-Models, Theoretical
+
+pii:S0092-8674(09)00509-1
+doi:10.1016/j.cell.2009.04.048
+pubmed:19563759
+mid:NIHMS123045
+pmc:PMC2775486
+

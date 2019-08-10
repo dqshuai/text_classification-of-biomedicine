@@ -1,0 +1,30 @@
+PLoS Genet.
+
+The yeast Pif1 helicase prevents genomic instability caused by G-quadruplex-forming CEB1 sequences in vivo.
+
+C Ribeyre, J Lopes, JB Boulé, A Piazza, A Guédin, VA Zakian, JL Mergny, A Nicolas
+
+In budding yeast, the Pif1 DNA helicase is involved in the maintenance of both nuclear and mitochondrial genomes, but its role in these processes is still poorly understood. Here, we provide evidence for a new Pif1 function by demonstrating that its absence promotes genetic instability of alleles of the G-rich human minisatellite CEB1 inserted in the Saccharomyces cerevisiae genome, but not of other tandem repeats. Inactivation of other DNA helicases, including Sgs1, had no effect on CEB1 stability. In vitro, we show that CEB1 repeats formed stable G-quadruplex (G4) secondary structures and the Pif1 protein unwinds these structures more efficiently than regular B-DNA. Finally, synthetic CEB1 arrays in which we mutated the potential G4-forming sequences were no longer destabilized in pif1Delta cells. Hence, we conclude that CEB1 instability in pif1Delta cells depends on the potential to form G-quadruplex structures, suggesting that Pif1 could play a role in the metabolism of G4-forming sequences.
+
+-Alleles
+-Base Composition
+-Base Sequence
+-DNA Helicases (+metabolism)
+-DNA, Fungal (-chemistry; -genetics; -metabolism)
+-DNA, Recombinant (-chemistry; -genetics; -metabolism)
++Genomic Instability
+-Humans
++Minisatellite Repeats
+-Models, Genetic
+-Mutagenesis, Site-Directed
+-Nucleic Acid Conformation
+-Rad51 Recombinase (-metabolism)
+-Rad52 DNA Repair and Recombination Protein (-metabolism)
+-Recombination, Genetic
+-Saccharomyces cerevisiae (+enzymology; +genetics; -growth & development)
+-Saccharomyces cerevisiae Proteins (+metabolism)
+
+doi:10.1371/journal.pgen.1000475
+pubmed:19424434
+pmc:PMC2673046
+

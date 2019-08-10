@@ -1,0 +1,37 @@
+Oncogene
+
+The SWI/SNF chromatin remodeling subunit BRG1 is a critical regulator of p53 necessary for proliferation of malignant cells.
+
+SR Naidu, IM Love, AN Imbalzano, SR Grossman, EJ Androphy
+
+The tumor suppressor p53 preserves genome integrity by inducing transcription of genes controlling growth arrest or apoptosis. Transcriptional activation involves nucleosomal perturbation by chromatin remodeling enzymes. Mammalian SWI/SNF remodeling complexes incorporate either the Brahma-related gene 1 (BRG1) or Brahma (Brm) as the ATPase subunit. The observation that tumor cell lines harboring wild-type p53 specifically maintain expression of BRG1 and that BRG1 complexes with p53 prompted us to examine the role of BRG1 in regulation of p53. Remarkably, RNAi depletion of BRG1, but not Brm, led to the activation of endogenous wild-type p53 and cell senescence. We found a proline-rich region unique to BRG1 was required for binding to the histone acetyl transferase protein, CBP, as well as to p53. Ectopic expression of a proline-rich region deletion mutant BRG1 that is defective for CBP binding inhibited p53 destabilization. Importantly, RNAi knockdown of BRG1 and CBP reduced p53 poly-ubiquitination in vivo. In support of p53 inactivation by the combined activities of BRG1 and CBP, we show that DNA damage signals promoted disassociation of BRG1 from CBP, thereby allowing p53 accumulation. Our data demonstrate a novel function of the evolutionarily conserved chromatin remodeling subunit BRG1, which cooperates with CBP to constrain p53 activity and permit cancer cell proliferation.
+
+-Binding Sites
+-Cell Line, Tumor
++Cell Proliferation
+-Chromosomal Proteins, Non-Histone (-genetics; -metabolism)
+-DNA Damage
+-DNA Helicases (-genetics; +metabolism)
+-Hela Cells
+-Humans
+-Immunoblotting
+-Immunoprecipitation
+-Jurkat Cells
+-Neoplasms (-genetics; -metabolism; -pathology)
+-Nuclear Proteins (-genetics; +metabolism)
+-Polyubiquitin (-metabolism)
+-Protein Binding
+-RNA, Small Interfering (-genetics)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Transcription Factors (-genetics; +metabolism)
+-Transfection
+-Tumor Suppressor Protein p53 (-genetics; +metabolism)
+-Ubiquitination
+-p300-CBP Transcription Factors (-genetics; -metabolism)
+
+pii:onc2009121
+doi:10.1038/onc.2009.121
+pubmed:19448667
+mid:NIHMS111029
+pmc:PMC2708319
+

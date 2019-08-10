@@ -1,0 +1,38 @@
+Cell
+
+TIPE2, a negative regulator of innate and adaptive immunity that maintains immune homeostasis.
+
+H Sun, S Gong, RJ Carmody, A Hilliard, L Li, J Sun, L Kong, L Xu, B Hilliard, S Hu, H Shen, X Yang, YH Chen
+
+Immune homeostasis is essential for the normal functioning of the immune system, and its breakdown leads to fatal inflammatory diseases. We report here the identification of a member of the tumor necrosis factor-alpha-induced protein-8 (TNFAIP8) family, designated TIPE2, that is required for maintaining immune homeostasis. TIPE2 is preferentially expressed in lymphoid tissues, and its deletion in mice leads to multiorgan inflammation, splenomegaly, and premature death. TIPE2-deficient animals are hypersensitive to septic shock, and TIPE2-deficient cells are hyper-responsive to Toll-like receptor (TLR) and T cell receptor (TCR) activation. Importantly, TIPE2 binds to caspase-8 and inhibits activating protein-1 and nuclear factor-kappaB activation while promoting Fas-induced apoptosis. Inhibiting caspase-8 significantly blocks the hyper-responsiveness of TIPE2-deficient cells. These results establish that TIPE2 is an essential negative regulator of TLR and TCR function, and its selective expression in the immune system prevents hyperresponsiveness and maintains immune homeostasis.
+
+-Animals
+-Antigens, CD95 (-metabolism)
+-Apoptosis
+-Caspase 8 (-metabolism)
+-Cell Line
+-Encephalomyelitis, Autoimmune, Experimental
++Homeostasis
+-Humans
++Immunity
+-Immunity, Cellular
+-Inflammation (-immunology)
+-Intracellular Signaling Peptides and Proteins (-chemistry; -genetics; +metabolism)
+-Lymphoid Tissue (-immunology)
+-Macrophages (-immunology)
+-Mice
+-Molecular Sequence Data
+-NF-kappa B (-metabolism)
+-Receptors, Antigen, T-Cell (-immunology)
+-Shock, Septic (-immunology)
+-Signal Transduction
+-Spinal Cord (-immunology)
+-T-Lymphocytes (-immunology)
+-Transcription Factor AP-1 (-metabolism)
+
+pii:S0092-8674(08)00443-1
+doi:10.1016/j.cell.2008.03.026
+pubmed:18455983
+mid:NIHMS49702
+pmc:PMC2398615
+

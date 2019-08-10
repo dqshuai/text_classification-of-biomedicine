@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+The 44-kDa Pim-1 kinase phosphorylates BCRP/ABCG2 and thereby promotes its multimerization and drug-resistant activity in human prostate cancer cells.
+
+Y Xie, K Xu, DE Linn, X Yang, Z Guo, H Shimelis, T Nakanishi, DD Ross, H Chen, L Fazli, ME Gleave, Y Qiu
+
+We previously showed that the 44-kDa serine/threonine kinase Pim-1 (Pim-1L) can protect prostate cancer cells from apoptosis induced by chemotherapeutic drugs (Xie, Y., Xu, K., Dai, B., Guo, Z., Jiang, T., Chen, H., and Qiu, Y. (2006) Oncogene 25, 70-78). To further explore the mechanisms of Pim-1L-mediated resistance to chemotherapeutic drugs in prostate cancer cells, we employed a yeast two-hybrid screening to identify cellular proteins that were associated with Pim-1L, and we found the ABC transporter BCRP/ABCG2 as one of the potential interacting partners of Pim-1L. We also showed that the expression level of Pim-1L and BCRP was up-regulated in mitoxantrone and docetaxel-resistant prostate cancer cell lines. Pim-1L was co-localized with BCRP on the plasma membrane and induced phosphorylation of BCRP at threonine 362. Knocking-down Pim-1L expression in the drug-resistant prostate cancer cells abolished multimer formation of endogenous BCRP and resensitized the resistant cells to chemotherapeutic drugs suggesting that BCRP phosphorylation induced by Pim-1L was essential for its functionality. This is further corroborated by our finding that the plasma membrane localization and drug-resistant activity of BCRP were compromised by T362A mutation. Our data suggest that Pim-1L may protect prostate cancer cells from apoptosis, at least in part, through regulation of transmembrane drug efflux pump. These findings may provide a potential therapeutic approach by disrupting Pim-1 signaling to reverse BCRP-mediated multidrug resistance.
+
+-ATP-Binding Cassette Transporters (-biosynthesis; +physiology)
+-Amino Acid Sequence
+-Cell Line, Tumor
+-Cell Membrane (-metabolism)
++Drug Resistance, Neoplasm
++Gene Expression Regulation, Neoplastic
+-Humans
+-Male
+-Molecular Sequence Data
+-Neoplasm Proteins (-biosynthesis; +physiology)
+-Phosphorylation
+-Prostatic Neoplasms (+drug therapy; +metabolism)
+-Protein Structure, Tertiary
+-Sequence Homology, Amino Acid
+-Threonine (-chemistry)
+-Two-Hybrid System Techniques
+
+pii:M707773200
+doi:10.1074/jbc.M707773200
+pubmed:18056989
+

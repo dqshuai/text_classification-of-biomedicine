@@ -1,0 +1,28 @@
+PLoS ONE
+
+Probing natural killer cell education by Ly49 receptor expression analysis and computational modelling in single MHC class I mice.
+
+S Johansson, M Salmon-Divon, MH Johansson, Y Pickman, P Brodin, K Kärre, R Mehr, P Höglund
+
+Murine natural killer (NK) cells express inhibitory Ly49 receptors for MHC class I molecules, which allows for "missing self" recognition of cells that downregulate MHC class I expression. During murine NK cell development, host MHC class I molecules impose an "educating impact" on the NK cell pool. As a result, mice with different MHC class I expression display different frequency distributions of Ly49 receptor combinations on NK cells. Two models have been put forward to explain this impact. The two-step selection model proposes a stochastic Ly49 receptor expression followed by selection for NK cells expressing appropriate receptor combinations. The sequential model, on the other hand, proposes that each NK cell sequentially expresses Ly49 receptors until an interaction of sufficient magnitude with self-class I MHC is reached for the NK cell to mature. With the aim to clarify which one of these models is most likely to reflect the actual biological process, we simulated the two educational schemes by mathematical modelling, and fitted the results to Ly49 expression patterns, which were analyzed in mice expressing single MHC class I molecules. Our results favour the two-step selection model over the sequential model. Furthermore, the MHC class I environment favoured maturation of NK cells expressing one or a few self receptors, suggesting a possible step of positive selection in NK cell education. Based on the predicted Ly49 binding preferences revealed by the model, we also propose, that Ly49 receptors are more promiscuous than previously thought in their interactions with MHC class I molecules, which was supported by functional studies of NK cell subsets expressing individual Ly49 receptors.
+
+-Animals
+-Cell Separation
+-Computational Biology
+-Computer Simulation
+-Flow Cytometry
++Gene Expression Regulation
++Genes, MHC Class I
+-Killer Cells, Natural (+metabolism)
+-Mice
+-Mice, Inbred C57BL
+-Mice, Transgenic
+-Models, Biological
+-Models, Statistical
+-NK Cell Lectin-Like Receptor Subfamily A (+biosynthesis)
+-Software
+
+doi:10.1371/journal.pone.0006046
+pubmed:19557128
+pmc:PMC2699029
+

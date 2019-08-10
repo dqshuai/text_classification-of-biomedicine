@@ -1,0 +1,27 @@
+Plant Cell
+
+The MADS domain protein DIANA acts together with AGAMOUS-LIKE80 to specify the central cell in Arabidopsis ovules.
+
+M Bemer, M Wolters-Arts, U Grossniklaus, GC Angenent
+
+MADS box genes in plants consist of MIKC-type and type I genes. While MIKC-type genes have been studied extensively, the functions of type I genes are still poorly understood. Evidence suggests that type I MADS box genes are involved in embryo sac and seed development. We investigated two independent T-DNA insertion alleles of the Arabidopsis thaliana type I MADS box gene AGAMOUS-LIKE61 (AGL61) and showed that in agl61 mutant ovules, the polar nuclei do not fuse and central cell morphology is aberrant. Furthermore, the central cell begins to degenerate before fertilization takes place. Although pollen tubes are attracted and perceived by the mutant ovules, neither endosperm development nor zygote formation occurs. AGL61 is expressed in the central cell during the final stages of embryo sac development. An AGL61:green fluorescent protein-beta-glucoronidase fusion protein localizes exclusively to the polar nuclei and the secondary nucleus of the central cell. Yeast two-hybrid analysis showed that AGL61 can form a heterodimer with AGL80 and that the nuclear localization of AGL61 is lost in the agl80 mutant. Thus, AGL61 and AGL80 appear to function together to differentiate the central cell in Arabidopsis. We renamed AGL61 DIANA, after the virginal Roman goddess of the hunt.
+
+-AGAMOUS Protein, Arabidopsis (-chemistry; -genetics; +metabolism)
+-Arabidopsis (-genetics; -growth & development; +metabolism)
+-Arabidopsis Proteins (-chemistry; -genetics; +metabolism)
+-Dimerization
+-Flowers (-genetics; -growth & development; +metabolism)
+-Gene Expression Regulation, Developmental
+-Gene Expression Regulation, Plant
+-MADS Domain Proteins (-chemistry; -genetics; +metabolism)
+-Molecular Sequence Data
+-Phenotype
+-Protein Binding
+-Reverse Transcriptase Polymerase Chain Reaction
+-Two-Hybrid System Techniques
+
+pii:tpc.108.058958
+doi:10.1105/tpc.108.058958
+pubmed:18713950
+pmc:PMC2553608
+

@@ -1,0 +1,24 @@
+PLoS ONE
+
+More than 9,000,000 unique genes in human gut bacterial community: estimating gene numbers inside a human body.
+
+X Yang, L Xie, Y Li, C Wei
+
+BACKGROUND: Estimating the number of genes in human genome has been long an important problem in computational biology. With the new conception of considering human as a super-organism, it is also interesting to estimate the number of genes in this human super-organism. PRINCIPAL FINDINGS: We presented our estimation of gene numbers in the human gut bacterial community, the largest microbial community inside the human super-organism. We got 552,700 unique genes from 202 complete human gut bacteria genomes. Then, a novel gene counting model was built to check the total number of genes by combining culture-independent sequence data and those complete genomes. 16S rRNAs were used to construct a three-level tree and different counting methods were introduced for the three levels: strain-to-species, species-to-genus, and genus-and-up. The model estimates that the total number of genes is about 9,000,000 after those with identity percentage of 97% or up were merged. CONCLUSION: By combining completed genomes currently available and culture-independent sequencing data, we built a model to estimate the number of genes in human gut bacterial community. The total number of genes is estimated to be about 9 million. Although this number is huge, we believe it is underestimated. This is an initial step to tackle this gene counting problem for the human super-organism. It will still be an open problem in the near future. The list of genomes used in this paper can be found in the supplementary table.
+
+-Computational Biology
+-Genes, Bacterial (+genetics)
+-Genome, Bacterial
+-Humans
+-Intestines (+microbiology)
+-Models, Genetic
+-Models, Theoretical
+-RNA, Ribosomal, 16S (-genetics)
+-Sequence Alignment
+-Sequence Analysis, DNA
+-Software
+
+doi:10.1371/journal.pone.0006074
+pubmed:19562079
+pmc:PMC2699651
+

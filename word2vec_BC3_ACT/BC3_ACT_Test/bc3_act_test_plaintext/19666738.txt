@@ -1,0 +1,31 @@
+Plant Cell
+
+Abscisic acid represses growth of the Arabidopsis embryonic axis after germination by enhancing auxin signaling.
+
+C Belin, C Megies, E Hauserová, L Lopez-Molina
+
+Under unfavorable environmental conditions, the stress phytohormone ABA inhibits the developmental transition from an embryo in a dry seed into a young seedling. We developed a genetic screen to isolate Arabidopsis thaliana mutants whose early seedling development is resistant to ABA. Here, we report the identification of a recessive mutation in AUXIN RESISTANT1 (AUX1), encoding a cellular auxin influx carrier. Although auxin is a major morphogenesis hormone in plants, little is known about ABA-auxin interactions during early seedling growth. We show that aux1 and pin2 mutants are insensitive to ABA-dependent repression of embryonic axis (hypocotyl and radicle) elongation. Genetic and physiological experiments show that this involves auxin transport to the embryonic axis elongation zone, where ABA enhances the activity of an auxin-responsive promoter. We propose that ABA represses embryonic axis elongation by potentiating auxin signaling in its elongation zone. This involves repression of the AUXIN INDUCIBLE (Aux/IAA) gene AXR2/IAA7, encoding a key component of ABA- and auxin-dependent responses during postgerminative growth.
+
+-Abscisic Acid (+pharmacology)
+-Arabidopsis (+drug effects; -embryology; -genetics; +metabolism)
+-Arabidopsis Proteins (-genetics; -metabolism; -physiology)
+-Blotting, Northern
+-Blotting, Western
+-Chromatography, High Pressure Liquid
+-Gene Expression Regulation, Plant (-drug effects; -genetics; -physiology)
+-Germination (-drug effects; -genetics; +physiology)
+-Indoleacetic Acids (+metabolism)
+-Microscopy, Fluorescence
+-Plant Growth Regulators (+metabolism)
+-Plants, Genetically Modified (-drug effects; -embryology; -genetics; -metabolism)
+-Seedling (-drug effects; -embryology; -genetics; -metabolism)
+-Seeds (-drug effects; -embryology; -genetics; -metabolism)
+-Signal Transduction (-drug effects; -genetics; -physiology)
+-Spectrometry, Mass, Electrospray Ionization
+-Tandem Mass Spectrometry
+
+pii:tpc.109.067702
+doi:10.1105/tpc.109.067702
+pubmed:19666738
+pmc:PMC2751952
+

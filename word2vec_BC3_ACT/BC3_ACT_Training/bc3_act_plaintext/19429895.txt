@@ -1,0 +1,24 @@
+Nucleic Acids Res.
+
+Text-based over-representation analysis of microarray gene lists with annotation bias.
+
+HS Leong, D Kipling
+
+A major challenge in microarray data analysis is the functional interpretation of gene lists. A common approach to address this is over-representation analysis (ORA), which uses the hypergeometric test (or its variants) to evaluate whether a particular functionally defined group of genes is represented more than expected by chance within a gene list. Existing applications of ORA have been largely limited to pre-defined terminologies such as GO and KEGG. We report our explorations of whether ORA can be applied to a wider mining of free-text. We found that a hitherto underappreciated feature of experimentally derived gene lists is that the constituents have substantially more annotation associated with them, as they have been researched upon for a longer period of time. This bias, a result of patterns of research activity within the biomedical community, is a major problem for classical hypergeometric test-based ORA approaches, which cannot account for such bias. We have therefore developed three approaches to overcome this bias, and demonstrate their usability in a wide range of published datasets covering different species. A comparison with existing tools that use GO terms suggests that mining PubMed abstracts can reveal additional biological insight that may not be possible by mining pre-defined ontologies alone.
+
+-Animals
+-Computational Biology (+methods)
++Gene Expression Profiling
+-Genes
+-Information Storage and Retrieval (+methods)
+-Interferons (-physiology)
++Oligonucleotide Array Sequence Analysis
+-PubMed
+-Software
+-Vocabulary, Controlled
+
+pii:gkp310
+doi:10.1093/nar/gkp310
+pubmed:19429895
+pmc:PMC2699530
+

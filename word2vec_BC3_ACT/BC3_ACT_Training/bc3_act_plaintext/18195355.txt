@@ -1,0 +1,23 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Bacillus subtilis glutamine synthetase regulates its own synthesis by acting as a chaperone to stabilize GlnR-DNA complexes.
+
+SH Fisher, LV Wray
+
+The Bacillus subtilis GlnR repressor controls gene expression in response to nitrogen availability. Because all GlnR-regulated genes are expressed constitutively in mutants lacking glutamine synthetase (GS), GS is required for repression by GlnR. Feedback-inhibited GS (FBI-GS) was shown to activate GlnR DNA binding with an in vitro electophoretic mobility shift assay (EMSA). The activation of GlnR DNA binding by GS in these experiments depended on the feedback inhibitor glutamine and did not occur with mutant GS proteins defective in regulating GlnR activity in vivo. Although stable GS-GlnR-DNA ternary complexes were not observed in the EMSA experiments, cross-linking experiments showed that a protein-protein interaction occurs between GlnR and FBI-GS. This interaction was reduced in the absence of the feedback inhibitor glutamine and with mutant GS proteins. Because FBI-GS significantly reduced the dissociation rate of the GlnR-DNA complexes, the stability of these complexes is enhanced by FBI-GS. These results argue that FBI-GS acts as a chaperone that activates GlnR DNA binding through a transient protein-protein interaction that stabilizes GlnR-DNA complexes. GS was shown to control the activity of the B. subtilis nitrogen transcription factor TnrA by forming a stable complex between FBI-GS and TnrA that inhibits TnrA DNA binding. Thus, B. subtilis GS is an enzyme with dual catalytic and regulatory functions that uses distinct mechanisms to control the activity of two different transcription factors.
+
+-Bacillus subtilis (+enzymology)
+-DNA (-genetics; +metabolism)
+-DNA-Binding Proteins (-genetics; +metabolism)
+-Glutamate-Ammonia Ligase (-genetics; +metabolism)
+-Molecular Chaperones (-genetics; +metabolism)
+-Mutation (-genetics)
+-Promoter Regions, Genetic (-genetics)
+-Protein Binding
+-Repressor Proteins (-genetics; +metabolism)
+
+pii:0709949105
+doi:10.1073/pnas.0709949105
+pubmed:18195355
+pmc:PMC2242682
+

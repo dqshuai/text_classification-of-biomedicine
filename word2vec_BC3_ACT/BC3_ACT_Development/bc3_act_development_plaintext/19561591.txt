@@ -1,0 +1,33 @@
+Nature
+
+MicroRNA-mediated switching of chromatin-remodelling complexes in neural development.
+
+AS Yoo, BT Staahl, L Chen, GR Crabtree
+
+One of the most distinctive steps in the development of the vertebrate nervous system occurs at mitotic exit when cells lose multipotency and begin to develop stable connections that will persist for a lifetime. This transition is accompanied by a switch in ATP-dependent chromatin-remodelling mechanisms that appears to coincide with the final mitotic division of neurons. This switch involves the exchange of the BAF53a (also known as ACTL6a) and BAF45a (PHF10) subunits within Swi/Snf-like neural-progenitor-specific BAF (npBAF) complexes for the homologous BAF53b (ACTL6b) and BAF45b (DPF1) subunits within neuron-specific BAF (nBAF) complexes in post-mitotic neurons. The subunits of the npBAF complex are essential for neural-progenitor proliferation, and mice with reduced dosage for the genes encoding its subunits have defects in neural-tube closure similar to those in human spina bifida, one of the most serious congenital birth defects. In contrast, BAF53b and the nBAF complex are essential for an evolutionarily conserved program of post-mitotic neural development and dendritic morphogenesis. Here we show that this essential transition is mediated by repression of BAF53a by miR-9* and miR-124. We find that BAF53a repression is mediated by sequences in the 3' untranslated region corresponding to the recognition sites for miR-9* and miR-124, which are selectively expressed in post-mitotic neurons. Mutation of these sites led to persistent expression of BAF53a and defective activity-dependent dendritic outgrowth in neurons. In addition, overexpression of miR-9* and miR-124 in neural progenitors caused reduced proliferation. Previous studies have indicated that miR-9* and miR-124 are repressed by the repressor-element-1-silencing transcription factor (REST, also known as NRSF). Indeed, expression of REST in post-mitotic neurons led to derepression of BAF53a, indicating that REST-mediated repression of microRNAs directs the essential switch of chromatin regulatory complexes.
+
+-3' Untranslated Regions (-metabolism)
+-Actins (-genetics; -metabolism)
+-Animals
+-CHO Cells
+-Cell Line
+-Chromatin Assembly and Disassembly (-genetics; +physiology)
+-Chromosomal Proteins, Non-Histone (-genetics; -metabolism)
+-Cricetinae
+-Cricetulus
+-DNA-Binding Proteins (-genetics; -metabolism)
+-Dendrites (-physiology)
++Gene Expression Regulation, Developmental
+-Mice
+-Mice, Transgenic
+-MicroRNAs (+metabolism)
+-Mitosis
+-Nervous System (-cytology; +embryology)
+-Neurons (-cytology)
+-Repressor Proteins (-metabolism)
+-Stem Cells (-metabolism)
+
+pii:nature08139
+doi:10.1038/nature08139
+pubmed:19561591
+

@@ -1,0 +1,35 @@
+Mol. Biol. Cell
+
+The stress-activated protein kinase Hog1 mediates S phase delay in response to osmostress.
+
+G Yaakov, A Duch, M García-Rubio, J Clotet, J Jimenez, A Aguilera, F Posas
+
+Control of cell cycle progression by stress-activated protein kinases (SAPKs) is essential for cell adaptation to extracellular stimuli. Exposure of yeast to osmostress activates the Hog1 SAPK, which modulates cell cycle progression at G1 and G2 by the phosphorylation of elements of the cell cycle machinery, such as Sic1 and Hsl1, and by down-regulation of G1 and G2 cyclins. Here, we show that upon stress, Hog1 also modulates S phase progression. The control of S phase is independent of the S phase DNA damage checkpoint and of the previously characterized Hog1 cell cycle targets Sic1 and Hsl1. Hog1 uses at least two distinct mechanisms in its control over S phase progression. At early S phase, the SAPK prevents firing of replication origins by delaying the accumulation of the S phase cyclins Clb5 and Clb6. In addition, Hog1 prevents S phase progression when activated later in S phase or cells containing a genetic bypass for cyclin-dependent kinase activity. Hog1 interacts with components of the replication complex and delays phosphorylation of the Dpb2 subunit of the DNA polymerase. The two mechanisms of Hog1 action lead to delayed firing of origins and prolonged replication, respectively. The Hog1-dependent delay of replication could be important to allow Hog1 to induce gene expression before replication.
+
+-Blotting, Western
+-Cell Cycle Proteins (-genetics; -metabolism)
+-Cyclin B (-metabolism)
+-Cyclin-Dependent Kinase Inhibitor Proteins (-metabolism)
+-DNA Polymerase II (-metabolism)
+-DNA Replication
+-Flow Cytometry
+-G1 Phase
+-G2 Phase
+-Immunoprecipitation
+-Mitogen-Activated Protein Kinases (-genetics; +metabolism)
+-Mutation
+-Osmotic Pressure
+-Phosphorylation
+-Protein Binding
+-Protein-Serine-Threonine Kinases (-genetics; -metabolism)
+-Protein-Tyrosine Kinases (-metabolism)
++S Phase
+-Saccharomyces cerevisiae (-genetics; +metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Time Factors
+
+pii:E09-02-0129
+doi:10.1091/mbc.E09-02-0129
+pubmed:19477922
+pmc:PMC2719575
+

@@ -1,0 +1,28 @@
+Oncogene
+
+Hepatic tumor-stroma crosstalk guides epithelial to mesenchymal transition at the tumor edge.
+
+F van Zijl, M Mair, A Csiszar, D Schneller, G Zulehner, H Huber, R Eferl, H Beug, H Dolznig, W Mikulits
+
+The tumor-stroma crosstalk is a dynamic process fundamental in tumor development. In hepatocellular carcinoma (HCC), the progression of malignant hepatocytes frequently depends on transforming growth factor (TGF)-beta provided by stromal cells. TGF-beta induces an epithelial to mesenchymal transition (EMT) of oncogenic Ras-transformed hepatocytes and an upregulation of platelet-derived growth factor (PDGF) signaling. To analyse the influence of the hepatic tumor-stroma crosstalk onto tumor growth and progression, we co-injected malignant hepatocytes and myofibroblasts (MFBs). For this, we either used in vitro-activated p19(ARF) MFBs or in vivo-activated MFBs derived from physiologically inflamed livers of Mdr2/p19(ARF) double-null mice. We show that co-transplantation of MFBs with Ras-transformed hepatocytes strongly enhances tumor growth. Genetic interference with the PDGF signaling decreases tumor cell growth and maintains plasma membrane-located E-cadherin and beta-catenin at the tumor-host border, indicating a blockade of hepatocellular EMT. We further generated a collagen gel-based three dimensional HCC model in vitro to monitor the MFB-induced invasion of micro-organoid HCC spheroids. This invasion was diminished after inhibition of TGF-beta or PDGF signaling. These data suggest that the TGF-beta/PDGF axis is crucial during hepatic tumor-stroma crosstalk, regulating both tumor growth and cancer progression.
+
+-Animals
+-Cell Communication (+physiology)
+-Cell Transformation, Neoplastic (+pathology)
+-Epithelial Cells (-metabolism; -pathology)
+-Hepatocytes (-metabolism; -pathology)
+-Immunohistochemistry
+-Liver Neoplasms, Experimental (-metabolism; +pathology)
+-Mesoderm (-metabolism; -pathology)
+-Mice
+-Mice, Inbred BALB C
+-Mice, SCID
+-Platelet-Derived Growth Factor (-metabolism)
+-Transforming Growth Factor beta (-metabolism)
+
+pii:onc2009253
+doi:10.1038/onc.2009.253
+pubmed:19718050
+mid:UKMS31285
+pmc:PMC2900602
+

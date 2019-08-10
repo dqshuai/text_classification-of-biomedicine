@@ -1,0 +1,29 @@
+Genes Dev.
+
+A new MIF4G domain-containing protein, CTIF, directs nuclear cap-binding protein CBP80/20-dependent translation.
+
+KM Kim, H Cho, K Choi, J Kim, BW Kim, YG Ko, SK Jang, YK Kim
+
+During or right after mRNA export via the nuclear pore complex (NPC) in mammalian cells, mRNAs undergo translation mediated by nuclear cap-binding proteins 80 and 20 (CBP80/20). After CBP80/20-dependent translation, CBP80/20 is replaced by cytoplasmic cap-binding protein eIF4E, which directs steady-state translation. Nonsense-mediated mRNA decay (NMD), one of the best-characterized mRNA surveillance mechanisms, has been shown to occur on CBP80/20-bound mRNAs. However, despite the tight link between CBP80/20-dependent translation and NMD, the underlying molecular mechanism and cellular factors that mediate CBP80/20-dependent translation remain obscure. Here, we identify a new MIF4G domain-containing protein, CTIF (CBP80/20-dependent translation initiation factor). CTIF interacts directly with CBP80 and is part of the CBP80/20-dependent translation initiation complex. Depletion of endogenous CTIF from an in vitro translation system selectively blocks the translation of CBP80-bound mRNAs, while addition of purified CTIF restores it. Accordingly, down-regulation of endogenous CTIF abrogates NMD. Confocal microscopy shows that CTIF is localized to the perinuclear region. Our observations demonstrate the existence of CBP80/20-dependent translation and support the idea that CBP80/20-dependent translation is mechanistically different from steady-state translation through identification of a specific cellular protein, CTIF.
+
+-Animals
+-COS Cells
+-Cell Line
+-Cell Nucleus (-metabolism)
+-Cercopithecus aethiops
+-Down-Regulation
+-Eukaryotic Initiation Factor-4G (+genetics)
++Gene Expression Regulation
+-Hela Cells
+-Humans
+-Nuclear Cap-Binding Protein Complex (+metabolism)
+-Peptide Initiation Factors (+genetics)
+-Protein Structure, Tertiary
+-RNA Stability
+-RNA, Messenger (-metabolism)
+
+pii:gad.1823409
+doi:10.1101/gad.1823409
+pubmed:19648179
+pmc:PMC2751978
+

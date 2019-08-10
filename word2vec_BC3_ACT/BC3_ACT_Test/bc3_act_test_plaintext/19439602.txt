@@ -1,0 +1,28 @@
+J. Neurosci.
+
+Signal propagation in Drosophila central neurons.
+
+NW Gouwens, RI Wilson
+
+Drosophila is an important model organism for investigating neural development, neural morphology, neurophysiology, and neural correlates of behaviors. However, almost nothing is known about how electrical signals propagate in Drosophila neurons. Here, we address these issues in antennal lobe projection neurons, one of the most well studied classes of Drosophila neurons. We use morphological and electrophysiological data to deduce the passive membrane properties of these neurons and to build a compartmental model of their electrotonic structure. We find that these neurons are electrotonically extensive and that a somatic recording electrode can only imperfectly control the voltage in the rest of the cell. Simulations predict that action potentials initiate at a location distant from the soma, in the proximal portion of the axon. Simulated synaptic input to a single dendritic branch propagates poorly to the rest of the cell and cannot match the size of real unitary synaptic events, but we can obtain a good fit to data when we model unitary input synapses as dozens of release sites distributed across many dendritic branches. We also show that the true resting potential of these neurons is more hyperpolarized than previously thought, attributable to the experimental error introduced by the electrode seal conductance. A leak sodium conductance also contributes to the resting potential. Together, these findings have fundamental implications for how these neurons integrate their synaptic inputs. Our results also have important consequences for the design and interpretation of experiments aimed at understanding Drosophila neurons and neural circuits.
+
+-Action Potentials
+-Animals
+-Brain (-cytology; -physiology)
+-Cell Membrane (+physiology)
+-Drosophila melanogaster (+physiology)
+-Female
+-Membrane Potentials
+-Microelectrodes
+-Models, Neurological
+-Neurons (-cytology; +physiology)
+-Patch-Clamp Techniques
+-Penicillin G (-metabolism)
+-Synaptic Transmission (+physiology)
+
+pii:29/19/6239
+doi:10.1523/JNEUROSCI.0764-09.2009
+pubmed:19439602
+mid:NIHMS119175
+pmc:PMC2709801
+

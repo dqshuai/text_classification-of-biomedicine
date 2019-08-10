@@ -1,0 +1,25 @@
+Structure
+
+Conserved cysteine residues of GidA are essential for biogenesis of 5-carboxymethylaminomethyluridine at tRNA anticodon.
+
+T Osawa, K Ito, H Inanaga, O Nureki, K Tomita, T Numata
+
+The 5-carboxymethylaminomethyl modification of uridine (cmnm(5)U) at the anticodon first position occurs in tRNAs that read split codon boxes ending with purine. This modification is crucial for correct translation, by restricting codon-anticodon wobbling. Two conserved enzymes, GidA and MnmE, participate in the cmnm(5)U modification process. Here we determined the crystal structure of Aquifex aeolicus GidA at 2.3 A resolution. The structure revealed the tight interaction of GidA with FAD. Structure-based mutation analyses allowed us to identify two conserved Cys residues in the vicinity of the FAD-binding site that are essential for the cmnm(5)U modification in vivo. Together with mutational analysis of MnmE, we propose a mechanism for the cmnm(5)U modification process where GidA, but not MnmE, attacks the C6 atom of uridine by a mechanism analogous to that of thymidylate synthase. We also present a tRNA-docking model that provides structural insights into the tRNA recognition mechanism for efficient modification.
+
+-Amino Acid Sequence
+-Anticodon (+chemistry; -metabolism)
+-Bacteria (-enzymology; -metabolism)
+-Bacterial Proteins (+chemistry; -metabolism)
+-Binding Sites
+-Catalytic Domain
+-Conserved Sequence
+-Cysteine (+genetics)
+-Flavin-Adenine Dinucleotide (-chemistry; -metabolism)
+-Molecular Sequence Data
+-RNA, Transfer (+chemistry; -metabolism)
+-Uridine (+analogs & derivatives; -chemistry; -metabolism)
+
+pii:S0969-2126(09)00160-9
+doi:10.1016/j.str.2009.03.013
+pubmed:19446527
+

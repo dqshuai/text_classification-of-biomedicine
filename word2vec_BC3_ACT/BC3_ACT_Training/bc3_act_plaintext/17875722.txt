@@ -1,0 +1,34 @@
+Cancer Res.
+
+Efficient p53 activation and apoptosis by simultaneous disruption of binding to MDM2 and MDMX.
+
+B Hu, DM Gilkes, J Chen
+
+The p53 tumor suppressor plays a key role in protection against malignant transformation. MDM2 and MDMX are important regulators of the transcriptional activity and stability of p53 by binding to its NH(2) terminus. Recent studies suggest that inhibition of both MDM2 and MDMX is necessary for robust activation of p53 in certain tumor cells. However, small-molecule MDM2 inhibitors such as Nutlin fail to inhibit MDMX despite significant homology between the two proteins. The therapeutic efficacy of such compounds may be compromised by MDMX overexpression. To evaluate the feasibility and biological effects of simultaneously disrupting p53 binding to MDM2 and MDMX, we used phage display to identify a novel peptide that can inhibit p53 interactions with MDM2 (IC(50) = 10 nmol/L) and MDMX (IC(50) = 100 nmol/L). Expression of a scaffold protein (thioredoxin) displaying this peptide sequence by adenovirus disrupts both MDM2 and MDMX interaction with p53, resulting in efficient p53 activation, cell cycle arrest, and apoptosis of tumor cells overexpressing MDM2 and MDMX. Intratumoral injection of the adenovirus also induces growth suppression of tumor xenografts in mice in a p53-dependent fashion. These results show the therapeutic potential of targeting both MDM2 and MDMX in cancer, and provide a novel structural motif for the design of potent p53 activators.
+
+-Amino Acid Sequence
+-Animals
+-Apoptosis (-drug effects)
+-Base Sequence
+-Female
+-HCT116 Cells
+-Humans
+-Injections, Intralesional
+-Mice
+-Mice, Nude
+-Molecular Sequence Data
+-Neoplasms (-drug therapy; -metabolism)
+-Nuclear Proteins (+antagonists & inhibitors; -metabolism)
+-Peptides (-genetics; -metabolism; +pharmacology)
+-Protein Binding
+-Proto-Oncogene Proteins (+antagonists & inhibitors; -metabolism)
+-Proto-Oncogene Proteins c-mdm2 (+antagonists & inhibitors; -metabolism)
+-Recombinant Proteins (-biosynthesis; -genetics)
+-Thioredoxins (-biosynthesis; -genetics)
+-Tumor Suppressor Protein p53 (+antagonists & inhibitors; -metabolism)
+-Xenograft Model Antitumor Assays
+
+pii:67/18/8810
+doi:10.1158/0008-5472.CAN-07-1140
+pubmed:17875722
+

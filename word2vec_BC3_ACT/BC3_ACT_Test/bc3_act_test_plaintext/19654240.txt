@@ -1,0 +1,27 @@
+Nucleic Acids Res.
+
+The human insulin receptor mRNA contains a functional internal ribosome entry segment.
+
+KA Spriggs, LC Cobbold, SH Ridley, M Coldwell, A Bottley, M Bushell, AE Willis, K Siddle
+
+Regulation of mRNA translation is an important mechanism determining the level of expression of proteins in eukaryotic cells. Translation is most commonly initiated by cap-dependent scanning, but many eukaryotic mRNAs contain internal ribosome entry segments (IRESs), providing an alternative means of initiation capable of independent regulation. Here, we show by using dicistronic luciferase reporter vectors that the 5'-UTR of the mRNA encoding human insulin receptor (hIR) contains a functional IRES. RNAi-mediated knockdown showed that the protein PTB was required for maximum IRES activity. Electrophoretic mobility shift assays confirmed that PTB1, PTB2 and nPTB, but not unr or PTB4, bound to hIR mRNA, and deletion mapping implicated a CCU motif 448 nt upstream of the initiator AUG in PTB binding. The IR-IRES was functional in a number of cell lines, and most active in cells of neuronal origin, as assessed by luciferase reporter assays. The IRES was more active in confluent than sub-confluent cells, but activity did not change during differentiation of 3T3-L1 fibroblasts to adipocytes. IRES activity was stimulated by insulin in sub-confluent cells. The IRES may function to maintain expression of IR protein in tissues such as the brain where mRNA translation by cap-dependent scanning is less effective.
+
++5' Untranslated Regions
+-Animals
+-Base Sequence
+-Cell Line
+-Humans
+-Insulin (-pharmacology)
+-Mice
+-Molecular Sequence Data
+-Polypyrimidine Tract-Binding Protein (-physiology)
++Protein Biosynthesis
+-RNA, Messenger (-chemistry)
+-Rats
+-Receptor, Insulin (+genetics)
+
+pii:gkp623
+doi:10.1093/nar/gkp623
+pubmed:19654240
+pmc:PMC2761284
+

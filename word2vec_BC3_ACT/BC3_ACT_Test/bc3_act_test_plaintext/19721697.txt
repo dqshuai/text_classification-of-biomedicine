@@ -1,0 +1,38 @@
+PLoS Biol.
+
+REV-ERBalpha participates in circadian SREBP signaling and bile acid homeostasis.
+
+G Le Martelot, T Claudel, D Gatfield, O Schaad, B Kornmann, GL Sasso, A Moschetta, U Schibler
+
+In mammals, many aspects of behavior and physiology, and in particular cellular metabolism, are coordinated by the circadian timing system. Molecular clocks are thought to rely on negative feedback loops in clock gene expression that engender oscillations in the accumulation of transcriptional regulatory proteins, such as the orphan receptor REV-ERBalpha. Circadian transcription factors then drive daily rhythms in the expression of clock-controlled output genes, for example genes encoding enzymes and regulators of cellular metabolism. To gain insight into clock output functions of REV-ERBalpha, we carried out genome-wide transcriptome profiling experiments with liver RNA from wild-type mice, Rev-erbalpha knock-out mice, or REV-ERBalpha overexpressing mice. On the basis of these genetic loss- and gain-of-function experiments, we concluded that REV-ERBalpha participates in the circadian modulation of sterol regulatory element-binding protein (SREBP) activity, and thereby in the daily expression of SREBP target genes involved in cholesterol and lipid metabolism. This control is exerted via the cyclic transcription of Insig2, encoding a trans-membrane protein that sequesters SREBP proteins to the endoplasmic reticulum membranes and thereby interferes with the proteolytic activation of SREBPs in Golgi membranes. REV-ERBalpha also participates in the cyclic expression of cholesterol-7alpha-hydroxylase (CYP7A1), the rate-limiting enzyme in converting cholesterol to bile acids. Our findings suggest that this control acts via the stimulation of LXR nuclear receptors by cyclically produced oxysterols. In conclusion, our study suggests that rhythmic cholesterol and bile acid metabolism is not just driven by alternating feeding-fasting cycles, but also by REV-ERBalpha, a component of the circadian clockwork circuitry.
+
+-Animals
+-Bile Acids and Salts (+metabolism)
+-Biological Clocks (-genetics; -physiology)
+-Blotting, Western
+-Cholesterol (-metabolism)
+-Cholesterol 7-alpha-Hydroxylase (-genetics; -metabolism)
+-Circadian Rhythm (-genetics; +physiology)
+-Cluster Analysis
+-Endoplasmic Reticulum (-metabolism)
+-Gas Chromatography-Mass Spectrometry
+-Gene Expression Profiling
+-Golgi Apparatus (-metabolism)
+-Homeostasis
+-Liver (-metabolism)
+-Membrane Proteins (-genetics; -metabolism)
+-Mice
+-Mice, Knockout
+-Mice, Transgenic
+-Nuclear Receptor Subfamily 1, Group D, Member 1 (-genetics; +metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Orphan Nuclear Receptors (-genetics; -metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
++Signal Transduction
+-Sterol Regulatory Element Binding Protein 1 (-genetics; +metabolism)
+-Triglycerides (-metabolism)
+
+doi:10.1371/journal.pbio.1000181
+pubmed:19721697
+pmc:PMC2726950
+

@@ -1,0 +1,23 @@
+J. Bacteriol.
+
+Allosteric regulation of glucosamine-6-phosphate deaminase (NagB) and growth of Escherichia coli on glucosamine.
+
+LI Alvarez-Añorve, I Bustos-Jaimes, ML Calcagno, J Plumbridge
+
+Growth on N-acetylglucosamine (GlcNAc) produces intracellular N-acetylglucosamine-6-phosphate (GlcNAc6P), which affects the regulation of the catabolism of amino sugars in Escherichia coli in two ways. First, GlcNAc6P is the inducing signal for the NagC repressor, and thus it increases the expression of the enzymes of the nagE-nagBACD operon. Second, it is the allosteric activator of glucosamine-6P (GlcN6P) deaminase, NagB, and thus increases the catalytic capacity of this key enzyme in the metabolism of amino sugars. We showed previously that both the level of expression of the nagB gene and the transport of glucosamine were limiting the growth rate on GlcN (L. I. Alvarez-Añorve et al., J. Bacteriol. 187:2974-2982, 2005). We were unable to conclude if the lack of allosteric activation of wild-type NagB was also contributing to the slower growth rate on GlcN. Using a single-copy plasmid, with a constitutive promoter, we have separated the effects of GlcNAc6P on the NagB protein level and on deaminase activity. We show that over a range of intracellular NagB concentrations it is the quantity of the substrate, GlcN6P, which is limiting growth rather than the concentration of the allosteric activator, GlcNAc6P. On the other hand, the F174A mutant of NagB, which requires higher concentrations of GlcNAc6P for activity in vitro, grew better on GlcN in the presence of GlcNAc6P. However, wild-type NagB behaves as if it is already fully allosterically activated during growth on GlcN, and we present evidence suggesting that sufficient GlcNAc6P for allosteric activation is derived from the recycling of peptidoglycan.
+
+-Acetylglucosamine (-analogs & derivatives; -metabolism)
+-Aldose-Ketose Isomerases (-genetics; +metabolism)
+-Allosteric Regulation (-physiology)
+-Culture Media (-chemistry)
+-Escherichia coli (+enzymology; +growth & development; -metabolism)
+-Gene Expression Regulation, Bacterial (+physiology)
+-Glucosamine (+metabolism)
+-Mutation
+-Peptidoglycan (-metabolism)
+
+pii:JB.00633-09
+doi:10.1128/JB.00633-09
+pubmed:19700525
+pmc:PMC2753035
+

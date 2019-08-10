@@ -1,0 +1,32 @@
+Mol. Cell. Biol.
+
+Glycolytic flux signals to mTOR through glyceraldehyde-3-phosphate dehydrogenase-mediated regulation of Rheb.
+
+MN Lee, SH Ha, J Kim, A Koh, CS Lee, JH Kim, H Jeon, DH Kim, PG Suh, SH Ryu
+
+The mammalian target of rapamycin (mTOR) interacts with raptor to form the protein complex mTORC1 (mTOR complex 1), which plays a central role in the regulation of cell growth in response to environmental cues. Given that glucose is a primary fuel source and a biosynthetic precursor, how mTORC1 signaling is coordinated with glucose metabolism has been an important question. Here, we found that the glycolytic enzyme glyceraldehyde-3-phosphate dehydrogenase (GAPDH) binds Rheb and inhibits mTORC1 signaling. Under low-glucose conditions, GAPDH prevents Rheb from binding to mTOR and thereby inhibits mTORC1 signaling. High glycolytic flux suppresses the interaction between GAPDH and Rheb and thus allows Rheb to activate mTORC1. Silencing of GAPDH or blocking of the Rheb-GAPDH interaction desensitizes mTORC1 signaling to changes in the level of glucose. The GAPDH-dependent regulation of mTORC1 in response to glucose availability occurred even in TSC1-deficient cells and AMPK-silenced cells, supporting the idea that the GAPDH-Rheb pathway functions independently of the AMPK axis. Furthermore, we show that glyceraldehyde-3-phosphate, a glycolytic intermediate that binds GAPDH, destabilizes the Rheb-GAPDH interaction even under low-glucose conditions, explaining how high-glucose flux suppresses the interaction and activates mTORC1 signaling. Taken together, our results suggest that the glycolytic flux regulates mTOR's access to Rheb by regulating the Rheb-GAPDH interaction, thereby allowing mTORC1 to coordinate cell growth with glucose availability.
+
+-Amino Acid Sequence
+-Animals
+-Base Sequence
+-Cell Line
+-Glyceraldehyde-3-Phosphate Dehydrogenases (-antagonists & inhibitors; -genetics; +metabolism)
+-Glycolysis (+physiology)
+-Humans
+-Mice
+-Mice, Knockout
+-Molecular Sequence Data
+-Monomeric GTP-Binding Proteins (-genetics; +metabolism)
+-Neuropeptides (-genetics; +metabolism)
+-Protein Kinases (+metabolism)
+-RNA, Small Interfering (-genetics)
+-Rats
+-Recombinant Proteins (-genetics; -metabolism)
+-Signal Transduction
+-Transcription Factors (-metabolism)
+
+pii:MCB.00165-09
+doi:10.1128/MCB.00165-09
+pubmed:19451232
+pmc:PMC2704738
+

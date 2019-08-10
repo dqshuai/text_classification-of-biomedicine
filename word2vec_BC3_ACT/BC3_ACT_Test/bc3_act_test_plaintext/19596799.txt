@@ -1,0 +1,27 @@
+J. Cell. Sci.
+
+FAK, PIP5KIgamma and gelsolin cooperatively mediate force-induced expression of alpha-smooth muscle actin.
+
+MW Chan, PD Arora, P Bozavikov, CA McCulloch
+
+During the development of pressure-induced cardiac hypertrophy, fibroblasts are activated to become myofibroblasts, which exhibit actin-cytoskeletal remodeling and express alpha-smooth muscle actin (SMA; encoded by ACTA2). Currently, the mechanosensing signaling pathways that regulate SMA expression are not defined. Because focal-adhesion complexes are putative mechanosensing organelles, we examined the role of focal adhesion kinase (FAK) and its interaction with gelsolin in the regulation of SMA expression. We subjected NIH3T3 cells to tensile forces (0.65 pN/mum(2)) by using collagen-coated magnetite beads attached to integrins. After stimulation by mechanical force, FAK and gelsolin were recruited to magnetite beads and there was increased phosphorylation of Tyr397FAK. Mechanical force enhanced SMA promoter activity by twofold; this increased activity was blocked by FAK knockdown using siRNA and by deletion of gelsolin. Force-induced nuclear translocation of MRTF-A, a transcriptional co-activator of SMA that is regulated by actin filaments, was also reduced by FAK knockdown. Phosphatidylinositol (4,5)-bisphosphate [PtdIns(4,5)P(2)], which uncaps gelsolin from actin filaments, was enriched at sites of force application. Type-I phosphatidylinositol 4-phosphate 5 kinase-gamma (PIP5KIgamma), which generates PtdIns(4,5)P(2), associated with FAK and was required for force-mediated SMA-promoter activity and actin assembly. Catalytically inactive PIP5KIgamma inhibited force-induced phosphorylation of FAK at Tyr397. These data suggest a novel pathway in which mechanosensing by FAK regulates actin assembly via gelsolin and the activity of PIP5KIgamma; actin assembly in turn controls SMA expression via MRTF-A.
+
+-Actins (+genetics; -metabolism)
+-Animals
+-Fluorescent Antibody Technique
+-Focal Adhesion Kinase 1 (-antagonists & inhibitors; -genetics; +metabolism)
+-Gelsolin (-genetics; +metabolism)
+-Mice
+-NIH 3T3 Cells
+-Phosphatidylinositol Phosphates (-metabolism)
+-Phosphotransferases (Alcohol Group Acceptor) (-genetics; +metabolism)
+-Promoter Regions, Genetic
+-RNA, Small Interfering (-pharmacology)
++Stress, Mechanical
+-Trans-Activators (-metabolism)
+-Transfection
+
+pii:jcs.044008
+doi:10.1242/jcs.044008
+pubmed:19596799
+

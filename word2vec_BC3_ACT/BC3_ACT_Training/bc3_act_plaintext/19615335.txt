@@ -1,0 +1,29 @@
+Biochem. Biophys. Res. Commun.
+
+A large library based on a novel (CH2) scaffold: identification of HIV-1 inhibitors.
+
+X Xiao, Y Feng, BK Vu, R Ishima, DS Dimitrov
+
+Isolated immunoglobulin CH2 domains were proposed as scaffolds for selection of binders with potential effector functions. We tested the feasibility of this approach by constructing a large (size 5 x 10(10)) library where all amino acids in two loops (BC and FG) were mutated to four residues (Y, A, D, or S). Three binders were selected from this library by panning against a gp120-CD4 complex. The strongest binder, m1a1, recognized specifically a highly conserved CD4i epitope and inhibited to various extents seven out of nine HIV-1 isolates from different clades. The loop BC and the conformational state of the scaffold are critical for its binding. These results provide a proof of concept for the potential of CH2 as a scaffold for construction of libraries containing potentially useful binders. The newly identified HIV-1 inhibitors could be further improved to candidate therapeutics and/or used as research reagents for exploration of conserved gp120 structures.
+
+-Amino Acid Sequence
+-Anti-HIV Agents (-immunology; +isolation & purification)
+-Antibodies, Monoclonal (-genetics; -immunology; +isolation & purification)
+-Antigens, CD4 (-immunology)
+-HIV Antibodies (-genetics; -immunology; +isolation & purification)
+-HIV-1 (+immunology)
+-Humans
+-Immunodominant Epitopes
+-Immunoglobulin E (-chemistry; -immunology)
+-Immunoglobulin M (-chemistry; -immunology)
+-Molecular Sequence Data
+-Neutralization Tests
+-Peptide Library
+-Protein Structure, Tertiary
+
+pii:S0006-291X(09)01383-7
+doi:10.1016/j.bbrc.2009.07.044
+pubmed:19615335
+mid:NIHMS132513
+pmc:PMC2753272
+

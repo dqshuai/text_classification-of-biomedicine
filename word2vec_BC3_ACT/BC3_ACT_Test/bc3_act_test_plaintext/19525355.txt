@@ -1,0 +1,28 @@
+Genome Res.
+
+Multiplex padlock targeted sequencing reveals human hypermutable CpG variations.
+
+JB Li, Y Gao, J Aach, K Zhang, GV Kryukov, B Xie, A Ahlford, JK Yoon, AM Rosenbaum, AW Zaranek, E LeProust, SR Sunyaev, GM Church
+
+Utilizing the full power of next-generation sequencing often requires the ability to perform large-scale multiplex enrichment of many specific genomic loci in multiple samples. Several technologies have been recently developed but await substantial improvements. We report the 10,000-fold improvement of a previously developed padlock-based approach, and apply the assay to identifying genetic variations in hypermutable CpG regions across human chromosome 21. From approximately 3 million reads derived from a single Illumina Genome Analyzer lane, approximately 94% (approximately 50,500) target sites can be observed with at least one read. The uniformity of coverage was also greatly improved; up to 93% and 57% of all targets fell within a 100- and 10-fold coverage range, respectively. Alleles at >400,000 target base positions were determined across six subjects and examined for single nucleotide polymorphisms (SNPs), and the concordance with independently obtained genotypes was 98.4%-100%. We detected >500 SNPs not currently in dbSNP, 362 of which were in targeted CpG locations. Transitions in CpG sites were at least 13.7 times more abundant than non-CpG transitions. Fractions of polymorphic CpG sites are lower in CpG-rich regions and show higher correlation with human-chimpanzee divergence within CpG versus non-CpG sites. This is consistent with the hypothesis that methylation rate heterogeneity along chromosomes contributes to mutation rate variation in humans. Our success suggests that targeted CpG resequencing is an efficient way to identify common and rare genetic variations. In addition, the significantly improved padlock capture technology can be readily applied to other projects that require multiplex sample preparation.
+
+-Animals
+-Chromosomes, Human, Pair 21 (+genetics)
+-Computational Biology (-methods)
+-CpG Islands (+genetics)
+-DNA Probes (+genetics)
++Genetic Variation
+-Genome, Human (+genetics)
+-Genotype
+-Humans
++Mutation
+-Polymorphism, Single Nucleotide
+-Reproducibility of Results
+-Sensitivity and Specificity
+-Sequence Analysis, DNA (+methods)
+
+pii:gr.092213.109
+doi:10.1101/gr.092213.109
+pubmed:19525355
+pmc:PMC2752131
+

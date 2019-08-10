@@ -1,0 +1,27 @@
+Protein Sci.
+
+Design, generation, and testing of mammalian expression modules that tag membrane proteins.
+
+J Pang, X Zeng, RP Xiao, EG Lakatta, L Lin
+
+The expression of mammalian membrane proteins in laboratory cell lines allows their biological functions to be characterized and carefully dissected. However, it is often difficult to design and generate effective antibodies for membrane proteins in the desired studies. As a result, expressed membrane proteins cannot be detected or characterized via common biochemical approaches such as western blotting, immunoprecipitation, or immunohistochemical analysis, and their cellular behaviors cannot be sufficiently investigated. To circumvent such roadblocks, we designed and generated two sets of expression modules that consist of sequences encoding for three essential components: (1) a signal peptide from human receptor for advanced glycation end products that targets the intended protein to the endoplasmic reticulum for cell surface expression; (2) an antigenic epitope tag that elicits specific antibody recognition; and (3) a series of restriction sites that facilitate subcloning of the target membrane protein. The modules were designed with the flexibility to change the epitope tag to suit the specific tagging needs. The modules were subcloned into expression vectors, and were successfully tested with both Type I and Type III human membrane proteins: the receptor for advanced glycation end products, the Toll-like receptor 4, and the angiotensin II receptor 1. These expressed membrane proteins are readily detected by western blotting, and are immunoprecipitated by antibodies to their relative epitope tags. Immunohistochemical and biochemical analyses also show that the expressed proteins are located at cell surface, and maintain their modifications and biological functions. Thus, the designed modules serve as an effective tool that facilitates biochemical studies of membrane proteins.
+
+-Antigens, Neoplasm (-metabolism)
+-Cell Line
+-Cell Membrane (-metabolism)
+-Epitopes (-metabolism)
+-Genetic Vectors (-metabolism)
+-Humans
+-Membrane Proteins (+biosynthesis; +chemistry)
+-Mitogen-Activated Protein Kinases (-metabolism)
++Protein Biosynthesis
+-Receptor, Angiotensin, Type 1 (-metabolism)
+-Receptors, Immunologic (-metabolism)
+-Recombinant Fusion Proteins (-metabolism)
+-Toll-Like Receptor 4 (-metabolism)
+-Transfection
+
+doi:10.1002/pro.136
+pubmed:19472344
+pmc:PMC2774436
+

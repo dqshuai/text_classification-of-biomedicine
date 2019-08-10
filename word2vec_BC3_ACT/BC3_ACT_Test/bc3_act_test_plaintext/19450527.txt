@@ -1,0 +1,37 @@
+Mol. Cell
+
+Essential role for DNA-PKcs in DNA double-strand break repair and apoptosis in ATM-deficient lymphocytes.
+
+E Callén, M Jankovic, N Wong, S Zha, HT Chen, S Difilippantonio, M Di Virgilio, G Heidkamp, FW Alt, A Nussenzweig, M Nussenzweig
+
+The DNA double-strand break (DSB) repair protein DNA-PKcs and the signal transducer ATM are both activated by DNA breaks and phosphorylate similar substrates in vitro, yet appear to have distinct functions in vivo. Here, we show that ATM and DNA-PKcs have overlapping functions in lymphocytes. Ablation of both kinase activities in cells undergoing immunoglobulin class switch recombination leads to a compound defect in switching and a synergistic increase in chromosomal fragmentation, DNA insertions, and translocations due to aberrant processing of DSBs. These abnormalities are attributed to a compound deficiency in phosphorylation of key proteins required for DNA repair, class switching, and cell death. Notably, both kinases are required for normal levels of p53 phosphorylation in B and T cells and p53-dependent apoptosis. Our experiments reveal a DNA-PKcs-dependent pathway that regulates DNA repair and activation of p53 in the absence of ATM.
+
+-Animals
+-Apoptosis (+physiology)
+-Base Sequence
+-Cell Cycle Proteins (-genetics; +metabolism)
+-Cells, Cultured
++DNA Breaks, Double-Stranded
++DNA Repair
+-DNA-Activated Protein Kinase (-genetics; +metabolism)
+-DNA-Binding Proteins (-genetics; +metabolism)
+-Fibroblasts (-cytology; -physiology)
+-Genomic Instability
+-Immunoglobulin Class Switching
+-Lymphocytes (-cytology; +physiology)
+-Mice
+-Mice, Knockout
+-Molecular Sequence Data
+-Nuclear Proteins (-genetics; +metabolism)
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-Repressor Proteins (-genetics; -metabolism)
+-Thymus Gland (-cytology)
+-Tumor Suppressor Protein p53 (-genetics; -metabolism)
+-Tumor Suppressor Proteins (-genetics; +metabolism)
+
+pii:S1097-2765(09)00278-0
+doi:10.1016/j.molcel.2009.04.025
+pubmed:19450527
+mid:NIHMS119234
+pmc:PMC2709792
+

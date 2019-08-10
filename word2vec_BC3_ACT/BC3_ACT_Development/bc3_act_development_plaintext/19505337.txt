@@ -1,0 +1,22 @@
+BMC Genomics
+
+Gene expression profiling of intestinal regeneration in the sea cucumber.
+
+PA Ortiz-Pineda, F Ramírez-Gómez, J Pérez-Ortiz, S González-Díaz, F Santiago-De Jesús, J Hernández-Pasos, C Del Valle-Avila, C Rojas-Cartagena, EC Suárez-Castillo, K Tossas, AT Méndez-Merced, JL Roig-López, H Ortiz-Zuazaga, JE García-Arrarás
+
+BACKGROUND: Among deuterostomes, the regenerative potential is maximally expressed in echinoderms, animals that can quickly replace most injured organs. In particular, sea cucumbers are excellent models for studying organ regeneration since they regenerate their digestive tract after evisceration. However, echinoderms have been sidelined in modern regeneration studies partially because of the lack of genome-wide profiling approaches afforded by modern genomic tools.For the last decade, our laboratory has been using the sea cucumber Holothuria glaberrima to dissect the cellular and molecular events that allow for such amazing regenerative processes. We have already established an EST database obtained from cDNA libraries of normal and regenerating intestine at two different regeneration stages. This database now has over 7000 sequences. RESULTS: In the present work we used a custom-made microchip from Agilent with 60-mer probes for these ESTs, to determine the gene expression profile during intestinal regeneration. Here we compared the expression profile of animals at three different intestinal regeneration stages (3-, 7- and 14-days post evisceration) against the profile from normal (uneviscerated) intestines. The number of differentially expressed probes ranged from 70% at p < 0.05 to 39% at p < 0.001. Clustering analyses show specific profiles of expression for early (first week) and late (second week) regeneration stages. We used semiquantitative reverse transcriptase polymerase chain reaction (RT-PCR) to validate the expression profile of fifteen microarray detected differentially expressed genes which resulted in over 86% concordance between both techniques. Most of the differentially expressed ESTs showed no clear similarity to sequences in the databases and might represent novel genes associated with regeneration. However, other ESTs were similar to genes known to be involved in regeneration-related processes, wound healing, cell proliferation, differentiation, morphological plasticity, cell survival, stress response, immune challenge, and neoplastic transformation. Among those that have been validated, cytoskeletal genes, such as actins, and developmental genes, such as Wnt and Hox genes, show interesting expression profiles during regeneration. CONCLUSION: Our findings set the base for future studies into the molecular basis of intestinal regeneration. Moreover, it advances the use of echinoderms in regenerative biology, animals that because of their amazing properties and their key evolutionary position, might provide important clues to the genetic basis of regenerative processes.
+
+-Animals
+-Expressed Sequence Tags
++Gene Expression Profiling
+-Gene Library
+-Intestines (+physiology)
+-Microarray Analysis
++Regeneration
+-Sea Cucumbers (+genetics)
+
+pii:1471-2164-10-262
+doi:10.1186/1471-2164-10-262
+pubmed:19505337
+pmc:PMC2711116
+

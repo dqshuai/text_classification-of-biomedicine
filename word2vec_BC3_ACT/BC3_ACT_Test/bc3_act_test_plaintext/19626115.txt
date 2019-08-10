@@ -1,0 +1,23 @@
+Nature
+
+Modulation of microRNA processing by p53.
+
+HI Suzuki, K Yamagata, K Sugimoto, T Iwamoto, S Kato, K Miyazono
+
+MicroRNAs (miRNAs) have emerged as key post-transcriptional regulators of gene expression, involved in diverse physiological and pathological processes. Although miRNAs can function as both tumour suppressors and oncogenes in tumour development, a widespread downregulation of miRNAs is commonly observed in human cancers and promotes cellular transformation and tumorigenesis. This indicates an inherent significance of small RNAs in tumour suppression. However, the connection between tumour suppressor networks and miRNA biogenesis machineries has not been investigated in depth. Here we show that a central tumour suppressor, p53, enhances the post-transcriptional maturation of several miRNAs with growth-suppressive function, including miR-16-1, miR-143 and miR-145, in response to DNA damage. In HCT116 cells and human diploid fibroblasts, p53 interacts with the Drosha processing complex through the association with DEAD-box RNA helicase p68 (also known as DDX5) and facilitates the processing of primary miRNAs to precursor miRNAs. We also found that transcriptionally inactive p53 mutants interfere with a functional assembly between Drosha complex and p68, leading to attenuation of miRNA processing activity. These findings suggest that transcription-independent modulation of miRNA biogenesis is intrinsically embedded in a tumour suppressive program governed by p53. Our study reveals a previously unrecognized function of p53 in miRNA processing, which may underlie key aspects of cancer biology.
+
+-Cell Line
+-DNA Damage (-physiology)
+-Gene Expression Regulation
+-HCT116 Cells
+-Humans
+-MicroRNAs (+metabolism)
+-Mutation
++RNA Processing, Post-Transcriptional
+-Ribonuclease III (-metabolism)
+-Tumor Suppressor Protein p53 (-genetics; +metabolism)
+
+pii:nature08199
+doi:10.1038/nature08199
+pubmed:19626115
+

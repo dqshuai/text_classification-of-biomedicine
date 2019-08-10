@@ -1,0 +1,27 @@
+J. Mol. Biol.
+
+Multiple metal-binding cores are required for metalloregulation by M-box riboswitch RNAs.
+
+CA Wakeman, A Ramesh, WC Winkler
+
+Riboswitches are regulatory RNAs that control downstream gene expression in response to direct association with intracellular metabolites or metals. Typically, riboswitch aptamer domains bind to a single small-molecule metabolite. In contrast, an X-ray crystallographic structural model for the M-box riboswitch aptamer revealed the absence of an organic metabolite ligand but the presence of at least six tightly associated magnesiums. This observation agrees well with the proposed role of the M-box riboswitch in functioning as a sensor of intracellular magnesium, although additional nonspecific metal interactions are also undoubtedly required for these purposes. To gain greater functional insight into the metalloregulatory capabilities of M-box RNAs, we sought to determine whether all or a subset of the RNA-chelated magnesium ions were required for riboswitch function. To accomplish this task, each magnesium-binding site was simultaneously yet individually perturbed through random incorporation of phosphorothioate nucleotide analogues, and RNA molecules were investigated for their ability to fold in varying levels of magnesium. These data revealed that all of the magnesium ions observed in the structural model are important for magnesium-dependent tertiary structure formation. Additionally, these functional data revealed a new core of potential metal-binding sites that are likely to assist formation of key tertiary interactions and were previously unobserved in the structural model. It is clear from these data that M-box RNAs require specific binding of a network of metal ions for partial fulfillment of their metalloregulatory functions.
+
+-Aptamers, Nucleotide (+chemistry; -metabolism)
+-Bacillus subtilis (-genetics)
+-Base Sequence
+-Binding Sites
+-Crystallography, X-Ray
++Gene Expression Regulation, Bacterial
++Magnesium (-chemistry; -metabolism)
+-Molecular Sequence Data
+-Molecular Structure
++Nucleic Acid Conformation
+-Phosphorothioate Oligonucleotides (-chemistry; -metabolism)
+-RNA, Bacterial (+chemistry; -metabolism)
+
+pii:S0022-2836(09)00872-9
+doi:10.1016/j.jmb.2009.07.033
+pubmed:19619558
+mid:NIHMS138707
+pmc:PMC2755058
+

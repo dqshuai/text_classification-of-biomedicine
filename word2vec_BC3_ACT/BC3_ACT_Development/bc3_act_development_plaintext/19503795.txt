@@ -1,0 +1,28 @@
+PLoS ONE
+
+Comparative genome-wide screening identifies a conserved doxorubicin repair network that is diploid specific in Saccharomyces cerevisiae.
+
+TJ Westmoreland, SM Wickramasekara, AY Guo, AL Selim, TS Winsor, AL Greenleaf, KL Blackwell, JA Olson, JR Marks, CB Bennett
+
+The chemotherapeutic doxorubicin (DOX) induces DNA double-strand break (DSB) damage. In order to identify conserved genes that mediate DOX resistance, we screened the Saccharomyces cerevisiae diploid deletion collection and identified 376 deletion strains in which exposure to DOX was lethal or severely reduced growth fitness. This diploid screen identified 5-fold more DOX resistance genes than a comparable screen using the isogenic haploid derivative. Since DSB damage is repaired primarily by homologous recombination in yeast, and haploid cells lack an available DNA homolog in G1 and early S phase, this suggests that our diploid screen may have detected the loss of repair functions in G1 or early S phase prior to complete DNA replication. To test this, we compared the relative DOX sensitivity of 30 diploid deletion mutants identified under our screening conditions to their isogenic haploid counterpart, most of which (n = 26) were not detected in the haploid screen. For six mutants (bem1Delta, ctf4Delta, ctk1Delta, hfi1Delta,nup133Delta, tho2Delta) DOX-induced lethality was absent or greatly reduced in the haploid as compared to the isogenic diploid derivative. Moreover, unlike WT, all six diploid mutants displayed severe G1/S phase cell cycle progression defects when exposed to DOX and some were significantly enhanced (ctk1Delta and hfi1Delta) or deficient (tho2Delta) for recombination. Using these and other "THO2-like" hypo-recombinogenic, diploid-specific DOX sensitive mutants (mft1Delta, thp1Delta, thp2Delta) we utilized known genetic/proteomic interactions to construct an interactive functional genomic network which predicted additional DOX resistance genes not detected in the primary screen. Most (76%) of the DOX resistance genes detected in this diploid yeast screen are evolutionarily conserved suggesting the human orthologs are candidates for mediating DOX resistance by impacting on checkpoint and recombination functions in G1 and/or early S phases.
+
+-Cell Cycle
+-DNA Damage
+-DNA Repair
++Diploidy
+-Doxorubicin (+pharmacology)
+-Gene Deletion
++Genome, Fungal
+-Genomics
+-Killer Factors, Yeast (-pharmacology)
+-Mitochondria (-metabolism)
+-Mutation
+-Proteomics (-methods)
+-Recombination, Genetic
+-Saccharomyces cerevisiae (+metabolism)
+-Saccharomyces cerevisiae Proteins (-metabolism)
+
+doi:10.1371/journal.pone.0005830
+pubmed:19503795
+pmc:PMC2688081
+

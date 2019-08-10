@@ -1,0 +1,27 @@
+J. Neurosci.
+
+Spike timing, spike count, and temporal information for the discrimination of tactile stimuli in the rat ventrobasal complex.
+
+G Foffani, ML Morales-Botello, J Aguilar
+
+The aim of this work was to investigate the role of spike timing for the discrimination of tactile stimuli in the thalamic ventrobasal complex of the rat. We applied information-theoretic measures and computational experiments on neurophysiological data to test the ability of single-neuron responses to discriminate stimulus location and stimulus dynamics using either spike count (40 ms bin size) or spike timing (1 ms bin size). Our main finding is not only that spike timing provides additional information over spike count alone, but specifically that the temporal aspects of the code can be more informative than spike count in the rat ventrobasal complex. Virtually all temporal information--i.e., information exclusively related to when the spikes occur--is conveyed by first spikes, arising mostly from latency differences between the responses to different stimuli. Although the imprecision of first spikes (i.e., the jitter) is highly detrimental for the information conveyed by latency differences, jitter differences can contribute to temporal information, but only if latency differences are close to zero. We conclude that temporal information conveyed by spike timing can be higher than spike count information for the discrimination of somatosensory stimuli in the rat ventrobasal complex.
+
+-Action Potentials (+physiology)
+-Animals
+-Biophysics
+-Discrimination (Psychology) (+physiology)
+-Electric Stimulation
+-Male
+-Models, Neurological
+-Neurons (+physiology)
+-Numerical Analysis, Computer-Assisted
+-Physical Stimulation (-methods)
+-Rats
+-Reaction Time (+physiology)
+-Time Factors
+-Ventral Thalamic Nuclei (+cytology; -physiology)
+
+pii:29/18/5964
+doi:10.1523/JNEUROSCI.4416-08.2009
+pubmed:19420262
+

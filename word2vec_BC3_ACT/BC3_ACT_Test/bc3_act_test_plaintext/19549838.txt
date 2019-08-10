@@ -1,0 +1,14 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+Computing generalized Langevin equations and generalized Fokker-Planck equations.
+
+E Darve, J Solomon, A Kia
+
+The Mori-Zwanzig formalism is an effective tool to derive differential equations describing the evolution of a small number of resolved variables. In this paper we present its application to the derivation of generalized Langevin equations and generalized non-Markovian Fokker-Planck equations. We show how long time scales rates and metastable basins can be extracted from these equations. Numerical algorithms are proposed to discretize these equations. An important aspect is the numerical solution of the orthogonal dynamics equation which is a partial differential equation in a high dimensional space. We propose efficient numerical methods to solve this orthogonal dynamics equation. In addition, we present a projection formalism of the Mori-Zwanzig type that is applicable to discrete maps. Numerical applications are presented from the field of Hamiltonian systems.
+
+
+pii:0902633106
+doi:10.1073/pnas.0902633106
+pubmed:19549838
+pmc:PMC2708778
+

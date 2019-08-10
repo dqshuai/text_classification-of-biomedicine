@@ -1,0 +1,29 @@
+Plant Cell
+
+The NGATHA distal organ development genes are essential for style specification in Arabidopsis.
+
+JP Alvarez, A Goldshmidt, I Efroni, JL Bowman, Y Eshed
+
+Floral organ identities are specified by a few transcription factors that act as master regulators. Subsequently, specification of organ axes programs the distribution of distinct tissue types within the organs that themselves develop unique identities. The C-class, AGAMOUS-clade MADS box genes are primary promoters of the gynoecium, which is divided into a distal style and a subtending ovary along the apical-basal axis. We show that members of a clade of B3 domain transcription factors, NGATHA1 (NGA1) to NGA4, are expressed distally in all lateral organs, and all four have a redundant and essential role in style development. Loss of all four genes results in gynoecia where style is replaced by valve-like projections and a reduction in style-specific SHATTERPROOF1 (SHP1) expression. In agreement, floral misexpression of NGA1 promotes ectopic style and SHP1 expression. STYLISH1, an auxin biosynthesis inducer, conditionally activated NGA genes, which in turn promoted distal expression of other STY genes in a putative positive feedback loop. Inhibited auxin transport or lack of YABBY1 gene activities resulted in a basally expanded style domain and broader expression of NGA genes. We speculate that early gynoecium factors delimit NGA gene response to an auxin-based signal, elicited by STY gene activity, to restrict the activation of style program to a late and distal carpel domain.
+
+-Arabidopsis (-cytology; -genetics; +growth & development)
+-Arabidopsis Proteins (-genetics; -metabolism; +physiology)
+-Base Sequence
+-Biological Transport
+-Cell Differentiation (-genetics)
+-Feedback, Physiological
+-Flowers (-cytology; -genetics; -growth & development)
+-Gene Expression
+-Gene Expression Regulation, Plant
+-Indoleacetic Acids (-metabolism)
+-MADS Domain Proteins (-genetics; -metabolism)
+-Molecular Sequence Data
+-Phylogeny
+-Signal Transduction
+-Transcription Factors (-genetics; -metabolism; +physiology)
+
+pii:tpc.109.065482
+doi:10.1105/tpc.109.065482
+pubmed:19435933
+pmc:PMC2700527
+

@@ -1,0 +1,27 @@
+PLoS ONE
+
+NGF is an essential survival factor for bronchial epithelial cells during respiratory syncytial virus infection.
+
+S Othumpangat, LF Gibson, L Samsell, G Piedimonte
+
+BACKGROUND: Overall expression of neurotrophins in the respiratory tract is upregulated in infants infected by the respiratory syncytial virus (RSV), but it is unclear where (structural vs. inflammatory cells, upper vs. lower airways) and why, these changes occur. We analyzed systematically the expression of neurotrophic factors and receptors following RSV infection of human nasal, tracheal, and bronchial epithelial cells, and tested the hypothesis that neurotrophins work as innate survival factors for infected respiratory epithelia. METHODOLOGY: Expression of neurotrophic factors (nerve growth factor, NGF; brain-derived neurotrophic factor, BDNF) and receptors (trkA, trkB, p75) was analyzed at the protein level by immunofluorescence and flow cytometry and at the mRNA level by real-time PCR. Targeted siRNA was utilized to blunt NGF expression, and its effect on virus-induced apoptosis/necrosis was evaluated by flow cytometry following annexin V/7-AAD staining. PRINCIPAL FINDINGS: RSV infection was more efficient in cells from more distal (bronchial) vs. more proximal origin. In bronchial cells, RSV infection induced transcript and protein overexpression of NGF and its high-affinity receptor trkA, with concomitant downregulation of the low-affinity p75(NTR). In contrast, tracheal cells exhibited an increase in BDNF, trkA and trkB, and nasal cells increased only trkA. RSV-infected bronchial cells transfected with NGF-specific siRNA exhibited decreased trkA and increased p75(NTR) expression. Furthermore, the survival of bronchial epithelial cells was dramatically decreased when their endogenous NGF supply was depleted prior to RSV infection. CONCLUSIONS/SIGNIFICANCE: RSV infection of the distal airway epithelium, but not of the more proximal sections, results in overexpression of NGF and its trkA receptor, while the other p75(NTR) receptor is markedly downregulated. This pattern of neurotrophin expression confers protection against virus-induced apoptosis, and its inhibition amplifies programmed cell death in the infected bronchial epithelium. Thus, pharmacologic modulation of NGF expression may offer a promising new approach for management of common respiratory infections.
+
+-Base Sequence
+-Bronchi (+pathology)
+-Cell Survival (+physiology)
+-Cells, Cultured
+-DNA Primers
+-Epithelial Cells (-cytology)
+-Flow Cytometry
+-Gene Knockdown Techniques
+-Humans
+-Microscopy, Fluorescence
+-Nerve Growth Factor (-genetics; +physiology)
+-Polymerase Chain Reaction
+-RNA, Small Interfering
+-Respiratory Syncytial Virus Infections (+pathology)
+
+doi:10.1371/journal.pone.0006444
+pubmed:19649262
+pmc:PMC2715860
+

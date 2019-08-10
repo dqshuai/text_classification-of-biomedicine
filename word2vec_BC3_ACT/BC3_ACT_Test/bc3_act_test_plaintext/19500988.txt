@@ -1,0 +1,26 @@
+Curr. Biol.
+
+Cellular and network mechanisms of operant learning-induced compulsive behavior in Aplysia.
+
+R Nargeot, M Le Bon-Jego, J Simmers
+
+BACKGROUND: Learning in exploratory and goal-directed behaviors can modify decision-making processes in the initiation of appropriate action and thereby transform the irregular and infrequent expression of such behaviors into inflexible, compulsive-like repetitive actions. However, the neuronal mechanisms underlying such learning-derived behavioral plasticity remain poorly understood. RESULTS: Appetitive operant conditioning, a form of associative learning, produces a long-lasting switch in the mollusk Aplysia's food-seeking behavior from irregular, impulsive-like radula biting movements into stereotyped, compulsive-like recurrences of this cyclic act. Using isolated buccal ganglia, we recorded intracellularly from an electrically coupled subset of feeding-network neurons whose spontaneous burst discharge is responsible for instigating the motor pattern underlying each radula bite cycle. We report that the sporadic production of biting patterns in preparations from naive and noncontingently trained animals derives from the inherently variable and incoherent bursting of these pattern-initiating neurons that are each randomly capable of triggering a given bite. However, the accelerated rhythmically recurring expression of radula motor patterns after contingent-reward training in vivo arises from a regularization and synchronization of burst discharge in the pattern-initiating cells through a promotion of stereotyped burst-generating oscillations and an increase in the strength of their electrical coupling. CONCLUSIONS: Our results show that plasticity in the spatiotemporal organization of pacemaker bursting, both within and between components of an action-initiating neuronal subcircuit, provides novel cellular substrates by which operant learning alters the recurrent expression of a simple goal-directed behavior.
+
+-Animals
++Aplysia (-anatomy & histology; -physiology)
+-Behavior, Animal (-physiology)
++Compulsive Behavior
+-Conditioning, Operant (+physiology)
+-Electrophysiology
+-Feeding Behavior (+physiology)
+-Ganglia, Invertebrate (-cytology; -physiology)
+-Learning (+physiology)
+-Membrane Potentials (-physiology)
+-Nerve Net (+physiology)
+-Neuronal Plasticity (-physiology)
+-Neurons (-physiology)
+
+pii:S0960-9822(09)01131-2
+doi:10.1016/j.cub.2009.05.030
+pubmed:19500988
+

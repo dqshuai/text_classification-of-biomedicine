@@ -1,0 +1,41 @@
+Proc. Natl. Acad. Sci. U.S.A.
+
+PDC-TREM, a plasmacytoid dendritic cell-specific receptor, is responsible for augmented production of type I interferon.
+
+H Watarai, E Sekine, S Inoue, R Nakagawa, T Kaisho, M Taniguchi
+
+Type I interferons (IFNs) derived from plasmacytoid dendritic cells (PDCs) are critical for antiviral responses; however, the mechanisms underlying their production remain unclear. We have identified a receptor, PDC-TREM, which is associated with Plexin-A1 (PlxnA1) on the PDC cell surface and is preferentially expressed after TLR-stimulation. Limited TLR signals induced PDC-TREM expression but failed to induce IFN-alpha production. However, when coupled with Sema6D, a ligand for Plexin-A1, limited TLR-stimulation resulted in PDC-TREM-mediated DAP12-dependent phosphorylation of phosphoinositide 3-kinase (PI3K) and extracellular regulated kinase (Erk) 1/2 at 6-9 h, and IFN-alpha was produced. Inhibition of PDC-TREM expression by pdctrem-shRNA, blocking of PDC-TREM-binding with PlxnA1 by PDC-TREM mAb, and DAP12 deficiency all resulted in greatly reduced PDC-TREM-dependent activation of signaling molecules and IFN-alpha production. Thus, PDC-TREM is responsible for IFN-alpha production, whereas TLR signals are essential for PDC-TREM expression.
+
+-Adaptor Proteins, Signal Transducing (-metabolism)
+-Amino Acid Sequence
+-Animals
+-Antibodies, Monoclonal
+-Base Sequence
+-Blotting, Western
+-Cells, Cultured
+-Computational Biology
+-Cytokines (-analysis)
+-DNA Primers (-genetics)
+-Dendritic Cells (+immunology; -metabolism)
+-Enzyme-Linked Immunosorbent Assay
+-Flow Cytometry
+-Gene Expression Regulation (+immunology)
+-Interferon Type I (+biosynthesis)
+-Mice
+-Mice, Inbred C57BL
+-Molecular Sequence Data
+-Nerve Tissue Proteins (-metabolism)
+-Phosphorylation
+-RNA Interference
+-Receptors, Cell Surface (+genetics; +immunology; -metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Semaphorins (-metabolism)
+-Sequence Analysis, DNA
+-Spleen (-metabolism)
+-Toll-Like Receptors (-metabolism)
+
+pii:0710351105
+doi:10.1073/pnas.0710351105
+pubmed:18287072
+pmc:PMC2268573
+

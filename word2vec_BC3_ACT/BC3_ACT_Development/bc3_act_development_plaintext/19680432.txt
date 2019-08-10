@@ -1,0 +1,24 @@
+PLoS Comput. Biol.
+
+Red Queen dynamics with non-standard fitness interactions.
+
+J Engelstädter, S Bonhoeffer
+
+Antagonistic coevolution between hosts and parasites can involve rapid fluctuations of genotype frequencies that are known as Red Queen dynamics. Under such dynamics, recombination in the hosts may be advantageous because genetic shuffling can quickly produce disproportionately fit offspring (the Red Queen hypothesis). Previous models investigating these dynamics have assumed rather simple models of genetic interactions between hosts and parasites. Here, we assess the robustness of earlier theoretical predictions about the Red Queen with respect to the underlying host-parasite interactions. To this end, we created large numbers of random interaction matrices, analysed the resulting dynamics through simulation, and ascertained whether recombination was favoured or disfavoured. We observed Red Queen dynamics in many of our simulations provided the interaction matrices exhibited sufficient 'antagonicity'. In agreement with previous studies, strong selection on either hosts or parasites favours selection for increased recombination. However, fast changes in the sign of linkage disequilibrium or epistasis were only infrequently observed and do not appear to be a necessary condition for the Red Queen hypothesis to work. Indeed, recombination was often favoured even though the linkage disequilibrium remained of constant sign throughout the simulations. We conclude that Red Queen-type dynamics involving persistent fluctuations in host and parasite genotype frequencies appear to not be an artefact of specific assumptions about host-parasite fitness interactions, but emerge readily with the general interactions studied here. Our results also indicate that although recombination is often favoured, some of the factors previously thought to be important in this process such as linkage disequilibrium fluctuations need to be reassessed when fitness interactions between hosts and parasites are complex.
+
+-Computational Biology (+methods)
+-Computer Simulation
+-Evolution, Molecular
++Genetics, Population
+-Genotype
+-Host-Parasite Interactions
+-Linkage Disequilibrium
++Models, Genetic
+-Polymorphism, Genetic
+-Recombination, Genetic
++Selection, Genetic
+
+doi:10.1371/journal.pcbi.1000469
+pubmed:19680432
+pmc:PMC2715217
+

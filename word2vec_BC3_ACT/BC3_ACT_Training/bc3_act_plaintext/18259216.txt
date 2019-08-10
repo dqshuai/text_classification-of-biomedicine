@@ -1,0 +1,27 @@
+EMBO Rep.
+
+The nucleolar SUMO-specific protease SENP3 reverses SUMO modification of nucleophosmin and is required for rRNA processing.
+
+M Haindl, T Harasim, D Eick, S Muller
+
+The ubiquitin-like SUMO system functions by a cyclic process of modification and demodification, and recent data suggest that the nucleolus is a site of sumoylation-desumoylation cycles. For example, the tumour suppressor ARF stimulates sumoylation of nucleolar proteins. Here, we show that the nucleolar SUMO-specific protease SENP3 is associated with nucleophosmin (NPM1), a crucial factor in ribosome biogenesis. SENP3 catalyses desumoylation of NPM1-SUMO2 conjugates in vitro and counteracts ARF-induced modification of NPM1 by SUMO2 in vivo. Intriguingly, depletion of SENP3 by short interfering RNA interferes with nucleolar ribosomal RNA processing and inhibits the conversion of the 32S rRNA species to the 28S form, thus phenocopying the processing defect observed on depletion of NPM1. Moreover, mimicking constitutive modification of NPM1 by SUMO2 interferes with 28S rRNA maturation. These results define SENP3 as an essential factor for ribosome biogenesis and suggest that deconjugation of SUMO2 from NPM1 by SENP3 is critically involved in 28S rRNA maturation.
+
+-Catalysis
+-Cell Nucleolus (+enzymology)
+-Cysteine Endopeptidases (+metabolism)
+-Down-Regulation
+-Hela Cells
+-Humans
+-Nuclear Proteins (+metabolism)
+-Protein Binding
+-RNA Precursors (-metabolism)
++RNA Processing, Post-Transcriptional
+-RNA, Ribosomal (+metabolism)
+-RNA, Ribosomal, 28S (-metabolism)
+-Small Ubiquitin-Related Modifier Proteins (+metabolism)
+
+pii:embor20083
+doi:10.1038/embor.2008.3
+pubmed:18259216
+pmc:PMC2267381
+

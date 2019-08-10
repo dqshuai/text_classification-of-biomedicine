@@ -1,0 +1,25 @@
+Plant Cell
+
+Sexual and apomictic seed formation in Hieracium requires the plant polycomb-group gene FERTILIZATION INDEPENDENT ENDOSPERM.
+
+JC Rodrigues, MR Tucker, SD Johnson, M Hrmova, AM Koltunow
+
+A Polycomb-Group (PcG) complex, FERTILIZATION INDEPENDENT SEED (FIS), represses endosperm development in Arabidopsis thaliana until fertilization occurs. The Hieracium genus contains apomictic species that form viable seeds asexually. To investigate FIS function during apomictic seed formation, FERTILIZATION INDEPENDENT ENDOSPERM (FIE), encoding a WD-repeat member of the FIS complex, was isolated and downregulated in sexual and apomictic Hieracium species. General downregulation led to defects in leaf and seed development, consistent with a role in developmental transitions and cell fate. PcG-like activity of Hieracium FIE was also supported by its interaction in vitro with the Arabidopsis CURLY LEAF PcG protein. By contrast, specific downregulation of FIE in developing seeds of sexual Hieracium did not result in autonomous endosperm proliferation but led to seed abortion after cross-pollination. Furthermore, in apomictic Hieracium, specific FIE downregulation inhibited autonomous embryo and endosperm initiation, and most autonomous seeds displayed defective embryo and endosperm growth. Therefore, FIE is required for both apomictic and fertilization-induced seed initiation in Hieracium. Since Hieracium FIE failed to interact with FIS class proteins in vitro, its partner proteins might differ from those in the FIS complex of Arabidopsis. These differences in protein interaction were attributed to structural modifications predicted from comparisons of Arabidopsis and Hieracium FIE molecular models.
+
+-Arabidopsis Proteins (-genetics; +metabolism; -physiology)
+-Asteraceae (-genetics; -growth & development; +metabolism)
+-Gene Expression Regulation, Developmental
+-Gene Expression Regulation, Plant
+-Homeodomain Proteins (-genetics; -metabolism; -physiology)
+-Molecular Sequence Data
+-Protein Binding
+-Repressor Proteins (-genetics; +metabolism; -physiology)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Seeds (-genetics; -growth & development; +metabolism)
+-Two-Hybrid System Techniques
+
+pii:tpc.108.059287
+doi:10.1105/tpc.108.059287
+pubmed:18812497
+pmc:PMC2570734
+

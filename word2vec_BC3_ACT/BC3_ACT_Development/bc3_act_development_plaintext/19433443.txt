@@ -1,0 +1,30 @@
+Mol. Cell. Biol.
+
+The ability of GAP1IP4BP to function as a Rap1 GTPase-activating protein (GAP) requires its Ras GAP-related domain and an arginine finger rather than an asparagine thumb.
+
+S Kupzig, D Bouyoucef-Cherchalli, S Yarwood, R Sessions, PJ Cullen
+
+GAP1(IP4BP) is a member of the GAP1 family of Ras GTPase-activating proteins (GAPs) that includes GAP1(m), CAPRI, and RASAL. Composed of a central Ras GAP-related domain (RasGRD), surrounded by amino-terminal C2 domains and a carboxy-terminal PH/Btk domain, these proteins, with the notable exception of GAP1(m), possess an unexpected arginine finger-dependent GAP activity on the Ras-related protein Rap1 (S. Kupzig, D. Deaconescu, D. Bouyoucef, S. A. Walker, Q. Liu, C. L. Polte, O. Daumke, T. Ishizaki, P. J. Lockyer, A. Wittinghofer, and P. J. Cullen, J. Biol. Chem. 281:9891-9900, 2006). Here, we have examined the mechanism through which GAP1(IP4BP) can function as a Rap1 GAP. We show that deletion of domains on either side of the RasGRD, while not affecting Ras GAP activity, do dramatically perturb Rap1 GAP activity. By utilizing GAP1(IP4BP)/GAP1(m) chimeras, we establish that although the C2 and PH/Btk domains are required to stabilize the RasGRD, it is this domain which contains the catalytic machinery required for Rap1 GAP activity. Finally, a key residue in Rap1-specific GAPs is a catalytic asparagine, the so-called asparagine thumb. By generating a molecular model describing the predicted Rap1-binding site in the RasGRD of GAP1(IP4BP), we show that mutagenesis of individual asparagine or glutamine residues that lie in close proximity to the predicted binding site has no detectable effect on the in vivo Rap1 GAP activity of GAP1(IP4BP). In contrast, we present evidence consistent with a model in which the RasGRD of GAP1(IP4BP) functions to stabilize the switch II region of Rap1, allowing stabilization of the transition state during GTP hydrolysis initiated by the arginine finger.
+
+-Amino Acid Sequence
+-Amino Acid Substitution
+-Arginine (-chemistry)
+-Asparagine (-chemistry)
+-Base Sequence
+-Binding Sites
+-DNA Primers (-genetics)
+-GTPase-Activating Proteins (+chemistry; -genetics; +metabolism)
+-Humans
+-Models, Molecular
+-Molecular Sequence Data
+-Mutagenesis, Site-Directed
+-Protein Structure, Tertiary
+-Receptors, Cytoplasmic and Nuclear (+chemistry; -genetics; +metabolism)
+-Recombinant Fusion Proteins (-chemistry; -genetics; -metabolism)
+-Sequence Homology, Amino Acid
+
+pii:MCB.00427-09
+doi:10.1128/MCB.00427-09
+pubmed:19433443
+pmc:PMC2704752
+

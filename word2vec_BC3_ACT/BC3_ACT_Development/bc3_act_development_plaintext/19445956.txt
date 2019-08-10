@@ -1,0 +1,28 @@
+J. Mol. Biol.
+
+RNA dimerization promotes PKR dimerization and activation.
+
+LA Heinicke, CJ Wong, J Lary, SR Nallagatla, A Diegelman-Parente, X Zheng, JL Cole, PC Bevilacqua
+
+The double-stranded RNA (dsRNA)-activated protein kinase [protein kinase R (PKR)] plays a major role in the innate immune response in humans. PKR binds dsRNA non-sequence specifically and requires a minimum of 15-bp dsRNA for one protein to bind and 30-bp dsRNA to induce protein dimerization and activation by autophosphorylation. PKR phosphorylates eukaryotic initiation factor 2alpha, a translation initiation factor, resulting in the inhibition of protein synthesis. We investigated the mechanism of PKR activation by an RNA hairpin with a number of base pairs intermediate between these 15- to 30-bp limits: human immunodeficiency virus type 1 transactivation-responsive region (TAR) RNA, a 23-bp hairpin with three bulges that is known to dimerize. TAR monomers and dimers were isolated from native gels and assayed for RNA and protein dimerization to test whether RNA dimerization affects PKR dimerization and activation. To modulate the extent of dimerization, we included TAR mutants with different secondary features. Native gel mixing experiments and analytical ultracentrifugation indicate that TAR monomers bind one PKR monomer and that TAR dimers bind two or three PKRs, demonstrating that RNA dimerization drives the binding of multiple PKR molecules. Consistent with functional dimerization of PKR, TAR dimers activated PKR while TAR monomers did not, and RNA dimers with fewer asymmetrical secondary-structure defects, as determined by enzymatic structure mapping, were more potent activators. Thus, the secondary-structure defects in the TAR RNA stem function as antideterminants to PKR binding and activation. Our studies support that dimerization of a 15- to 30-bp hairpin RNA, which effectively doubles its length, is a key step in driving activation of PKR and provide a model for how RNA folding can be related to human disease.
+
+-Base Sequence
++Dimerization
+-HIV Long Terminal Repeat (-genetics)
+-HIV-1 (-genetics)
+-Humans
+-Models, Biological
+-Models, Molecular
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-Protein Binding
+-RNA, Double-Stranded (+metabolism)
+-RNA, Viral (-genetics; -metabolism)
+-eIF-2 Kinase (+metabolism)
+
+pii:S0022-2836(09)00570-1
+doi:10.1016/j.jmb.2009.05.005
+pubmed:19445956
+mid:NIHMS127702
+pmc:PMC2763119
+

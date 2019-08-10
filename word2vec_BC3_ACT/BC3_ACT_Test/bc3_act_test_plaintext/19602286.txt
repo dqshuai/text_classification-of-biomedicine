@@ -1,0 +1,29 @@
+BMC Genomics
+
+Genome wide analysis of human genes transcriptionally and post-transcriptionally regulated by the HTLV-I protein p30.
+
+JM Taylor, S Ghorbel, C Nicot
+
+BACKGROUND: Human T-cell leukemia virus type 1 (HTLV-I) is a human retrovirus that is etiologically linked to adult T-cell leukemia (ATL), an aggressive and fatal lymphoproliferative disease. The viral transactivator, Tax, is thought to play an important role during the initial stages of CD4+ T-cell immortalization by HTLV-1. Tax has been shown to activate transcription through CREB/ATF and NF-KB, and to alter numerous signaling pathways. These pleiotropic effects of Tax modify the expression of a wide array of cellular genes. Another viral protein encoded by HTLV-I, p30, has been shown to affect virus replication at the transcriptional and posttranscriptional levels. Little is currently known regarding the effect of p30 on the expression and nuclear export of cellular host mRNA transcripts. Identification of these RNA may reveal new targets and increase our understanding of HTLV-I pathogenesis. In this study, using primary peripheral blood mononuclear cells, we report a genome wide analysis of human genes transcriptionally and post-transcriptionally regulated by the HTLV-I protein p30. RESULTS: Using microarray analysis, we analyzed total and cytoplasmic cellular mRNA transcript levels isolated from PBMCs to assess the effect of p30 on cellular RNA transcript expression and their nuclear export. We report p30-dependent transcription resulting in the 2.5 fold up-regulation of 15 genes and the down-regulation of 65 human genes. We further tested nuclear export of cellular mRNA and found that p30 expression also resulted in a 2.5 fold post-transcriptional down-regulation of 90 genes and the up-regulation of 33 genes. CONCLUSION: Overall, our study describes that expression of the HTLV-I protein p30 both positively and negatively alters the expression of cellular transcripts. Our study identifies for the first time the cellular genes for which nuclear export is affected by p30. These results suggest that p30 may possess a more global function with respect to mRNA transcription and the nuclear shuttling of cellular mRNA transcripts. In addition, these alterations in gene expression may play a role in cell transformation and the onset of leukemia.
+
+-Active Transport, Cell Nucleus
+-Cell Line
+-Down-Regulation
+-Gene Expression Regulation
++Genome-Wide Association Study
+-Human T-lymphotropic virus 1 (+metabolism)
+-Humans
+-Leukemia-Lymphoma, Adult T-Cell (-genetics)
+-Leukocytes, Mononuclear (-metabolism)
+-Oligonucleotide Array Sequence Analysis
++RNA Processing, Post-Transcriptional
+-RNA, Messenger (-metabolism)
++Transcription, Genetic
+-Up-Regulation
+-Viral Core Proteins (+metabolism)
+
+pii:1471-2164-10-311
+doi:10.1186/1471-2164-10-311
+pubmed:19602286
+pmc:PMC2723137
+

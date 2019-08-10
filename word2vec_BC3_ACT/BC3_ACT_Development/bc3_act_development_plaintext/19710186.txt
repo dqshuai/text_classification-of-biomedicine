@@ -1,0 +1,26 @@
+RNA
+
+Formation of She2p tetramers is required for mRNA binding, mRNP assembly, and localization.
+
+M Müller, K Richter, A Heuck, E Kremmer, J Buchner, RP Jansen, D Niessing
+
+In eukaryotic cells, dozens to hundreds of different mRNAs are localized by specialized motor-dependent transport complexes. One of the best-studied examples for directional mRNA transport is the localization of ASH1 mRNA in Saccharomyces cerevisiae. For transport, ASH1 mRNA is bound by the unusual RNA-binding protein She2p. Although previous results indicated that She2p forms dimers required for RNA binding and transcript localization, it remained unclear if the dimer constitutes the minimal RNA-binding unit assembling in vivo. By using analytical ultracentrifugation we found that She2p forms larger oligomeric complexes in solution. We also identified a point mutant that shows impaired oligomer formation. Size-exclusion chromatography suggests that She2p forms defined tetramers at physiological concentrations. Subsequent structural studies by small-angle X-ray scattering confirmed this finding and demonstrated that the previously observed She2p dimers interact in a head-to-head conformation to form an elongated tetrameric complex. This She2p tetramer suggests the generation of large continuous RNA-binding surfaces at both sides of the complex. Biochemical studies and immunostaining of cells confirmed that She2p tetramer formation is required for RNA binding, efficient mRNP assembly, and mRNA localization in vivo. Our finding on She2p tetramerization resolves previously raised questions on complex formation and mRNP function.
+
+-Crystallography, X-Ray
+-Models, Molecular
+-Mutation
+-Protein Binding
++Protein Multimerization
+-Protein Structure, Quaternary
+-RNA, Messenger (+metabolism)
+-RNA-Binding Proteins (+chemistry; -genetics; +metabolism)
+-Ribonucleoproteins (+metabolism)
+-Saccharomyces cerevisiae (+metabolism)
+-Saccharomyces cerevisiae Proteins (+chemistry; -genetics; +metabolism)
+-Ultracentrifugation
+
+pii:rna.1753309
+doi:10.1261/rna.1753309
+pubmed:19710186
+pmc:PMC2764475
+

@@ -1,0 +1,30 @@
+Nat. Neurosci.
+
+Genetic address book for retinal cell types.
+
+S Siegert, BG Scherf, K Del Punta, N Didkovsky, N Heintz, B Roska
+
+The mammalian brain is assembled from thousands of neuronal cell types that are organized in distinct circuits to perform behaviorally relevant computations. Transgenic mouse lines with selectively marked cell types would facilitate our ability to dissect functional components of complex circuits. We carried out a screen for cell type-specific green fluorescent protein expression in the retina using BAC transgenic mice from the GENSAT project. Among others, we identified mouse lines in which the inhibitory cell types of the night vision and directional selective circuit were selectively labeled. We quantified the stratification patterns to predict potential synaptic connectivity between marked cells of different lines and found that some of the lines enabled targeted recordings and imaging of cell types from developing or mature retinal circuits. Our results suggest the potential use of a stratification-based screening approach for characterizing neuronal circuitry in other layered brain structures, such as the neocortex.
+
+-Amacrine Cells (-cytology; -physiology)
+-Animals
+-Green Fluorescent Proteins (-genetics; -metabolism)
+-Immunohistochemistry
+-Mice
+-Mice, Transgenic (+anatomy & histology; +physiology)
+-Microscopy, Fluorescence
+-Neural Pathways (-anatomy & histology; -cytology; -physiology)
+-Patch-Clamp Techniques
+-Photoreceptor Cells, Vertebrate (-cytology; -physiology)
+-Retina (+anatomy & histology; -cytology; +physiology)
+-Retinal Bipolar Cells (-cytology; -physiology)
+-Retinal Ganglion Cells (-cytology; -physiology)
+-Retinal Horizontal Cells (-cytology; -physiology)
+-Species Specificity
+-Synapses (-physiology)
+-Vision, Ocular (-physiology)
+
+pii:nn.2370
+doi:10.1038/nn.2370
+pubmed:19648912
+

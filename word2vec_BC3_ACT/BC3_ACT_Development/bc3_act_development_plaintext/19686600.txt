@@ -1,0 +1,25 @@
+BMC Genomics
+
+High throughput sequencing in mice: a platform comparison identifies a preponderance of cryptic SNPs.
+
+NA Walter, D Bottomly, T Laderas, MA Mooney, P Darakjian, RP Searles, CA Harrington, SK McWeeney, R Hitzemann, KJ Buck
+
+BACKGROUND: Allelic variation is the cornerstone of genetically determined differences in gene expression, gene product structure, physiology, and behavior. However, allelic variation, particularly cryptic (unknown or not annotated) variation, is problematic for follow up analyses. Polymorphisms result in a high incidence of false positive and false negative results in hybridization based analyses and hinder the identification of the true variation underlying genetically determined differences in physiology and behavior. Given the proliferation of mouse genetic models (e.g., knockout models, selectively bred lines, heterogeneous stocks derived from standard inbred strains and wild mice) and the wealth of gene expression microarray and phenotypic studies using genetic models, the impact of naturally-occurring polymorphisms on these data is critical. With the advent of next-generation, high-throughput sequencing, we are now in a position to determine to what extent polymorphisms are currently cryptic in such models and their impact on downstream analyses. RESULTS: We sequenced the two most commonly used inbred mouse strains, DBA/2J and C57BL/6J, across a region of chromosome 1 (171.6 - 174.6 megabases) using two next generation high-throughput sequencing platforms: Applied Biosystems (SOLiD) and Illumina (Genome Analyzer). Using the same templates on both platforms, we compared realignments and single nucleotide polymorphism (SNP) detection with an 80 fold average read depth across platforms and samples. While public datasets currently annotate 4,527 SNPs between the two strains in this interval, thorough high-throughput sequencing identified a total of 11,824 SNPs in the interval, including 7,663 new SNPs. Furthermore, we confirmed 40 missense SNPs and discovered 36 new missense SNPs. CONCLUSION: Comparisons utilizing even two of the best characterized mouse genetic models, DBA/2J and C57BL/6J, indicate that more than half of naturally-occurring SNPs remain cryptic. The magnitude of this problem is compounded when using more divergent or poorly annotated genetic models. This warrants full genomic sequencing of the mouse strains used as genetic models.
+
+-Animals
+-Chromosomes, Artificial, Bacterial
+-Gene Expression Profiling
+-Genome
+-Genomics (+methods)
+-Mice
+-Mice, Inbred C57BL
+-Mice, Inbred DBA
++Polymorphism, Single Nucleotide
+-Sequence Alignment
+-Sequence Analysis, DNA (+methods)
+
+pii:1471-2164-10-379
+doi:10.1186/1471-2164-10-379
+pubmed:19686600
+pmc:PMC2743714
+

@@ -1,0 +1,33 @@
+EMBO J.
+
+An acetylation/deacetylation cycle controls the export of sterols and steroids from S. cerevisiae.
+
+R Tiwari, R Köffel, R Schneiter
+
+Sterol homeostasis in eukaryotic cells relies on the reciprocal interconversion of free sterols and steryl esters. Here we report the identification of a novel reversible sterol modification in yeast, the sterol acetylation/deacetylation cycle. Sterol acetylation requires the acetyltransferase ATF2, whereas deacetylation requires SAY1, a membrane-anchored deacetylase with a putative active site in the ER lumen. Lack of SAY1 results in the secretion of acetylated sterols into the culture medium, indicating that the substrate specificity of SAY1 determines whether acetylated sterols are secreted from the cells or whether they are deacetylated and retained. Consistent with this proposition, we find that acetylation and export of the steroid hormone precursor pregnenolone depends on its acetylation by ATF2, but is independent of SAY1-mediated deacetylation. Cells lacking Say1 or Atf2 are sensitive against the plant-derived allylbenzene eugenol and both Say1 and Atf2 affect pregnenolone toxicity, indicating that lipid acetylation acts as a detoxification pathway. The fact that homologues of SAY1 are present in the mammalian genome and functionally substitute for SAY1 in yeast indicates that part of this pathway has been evolutionarily conserved.
+
+-Acetylation
+-Acetyltransferases (-genetics; +metabolism)
+-Amino Acid Sequence
+-Binding Sites
+-Biological Transport (-physiology)
+-Carboxylic Ester Hydrolases (-genetics; +metabolism)
+-Homeostasis
+-Humans
+-Membrane Proteins (-genetics; -metabolism)
+-Molecular Sequence Data
+-Pregnenolone (-metabolism; -toxicity)
+-Recombinant Fusion Proteins (-genetics; -metabolism)
+-Saccharomyces cerevisiae (+metabolism)
+-Saccharomyces cerevisiae Proteins (-genetics; +metabolism)
+-Sequence Alignment
+-Sequence Homology, Amino Acid
+-Steroids (-chemistry; +metabolism)
+-Sterols (-chemistry; +metabolism)
+-Substrate Specificity
+
+pii:7601924
+doi:10.1038/sj.emboj.7601924
+pubmed:18034159
+pmc:PMC2140111
+

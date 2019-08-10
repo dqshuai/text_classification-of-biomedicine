@@ -1,0 +1,22 @@
+PLoS ONE
+
+MiR-107 and MiR-185 can induce cell cycle arrest in human non small cell lung cancer cell lines.
+
+Y Takahashi, AR Forrest, E Maeno, T Hashimoto, CO Daub, J Yasuda
+
+BACKGROUND: MicroRNAs (miRNAs) are short single stranded noncoding RNAs that suppress gene expression through either translational repression or degradation of target mRNAs. The annealing between messenger RNAs and 5' seed region of miRNAs is believed to be essential for the specific suppression of target gene expression. One miRNA can have several hundred different targets in a cell. Rapidly accumulating evidence suggests that many miRNAs are involved in cell cycle regulation and consequentially play critical roles in carcinogenesis. METHODOLOGY/PRINCIPAL FINDINGS: Introduction of synthetic miR-107 or miR-185 suppressed growth of the human non-small cell lung cancer cell lines. Flow cytometry analysis revealed these miRNAs induce a G1 cell cycle arrest in H1299 cells and the suppression of cell cycle progression is stronger than that by Let-7 miRNA. By the gene expression analyses with oligonucleotide microarrays, we find hundreds of genes are affected by transfection of these miRNAs. Using miRNA-target prediction analyses and the array data, we listed up a set of likely targets of miR-107 and miR-185 for G1 cell cycle arrest and validate a subset of them using real-time RT-PCR and immunoblotting for CDK6. CONCLUSIONS/SIGNIFICANCE: We identified new cell cycle regulating miRNAs, miR-107 and miR-185, localized in frequently altered chromosomal regions in human lung cancers. Especially for miR-107, a large number of down-regulated genes are annotated with the gene ontology term 'cell cycle'. Our results suggest that these miRNAs may contribute to regulate cell cycle in human malignant tumors.
+
+-Carcinoma, Non-Small-Cell Lung (-genetics; +pathology)
+-Cell Cycle (+physiology)
+-Cell Line, Tumor
+-Flow Cytometry
+-Gene Expression Profiling
+-Humans
+-Lung Neoplasms (-genetics; +pathology)
+-MicroRNAs (+physiology)
+-Reverse Transcriptase Polymerase Chain Reaction
+
+doi:10.1371/journal.pone.0006677
+pubmed:19688090
+pmc:PMC2722734
+

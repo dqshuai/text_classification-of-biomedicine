@@ -1,0 +1,36 @@
+DNA Repair (Amst.)
+
+Purification and characterization of Caenorhabditis elegans NTH, a homolog of human endonuclease III: essential role of N-terminal region.
+
+H Morinaga, S Yonekura, N Nakamura, H Sugiyama, S Yonei, QM Zhang-Akiyama
+
+Oxidatively damaged bases in DNA cause many types of deleterious effects. The main enzyme that removes such lesions is DNA glycosylase, and accordingly, DNA glycosylase plays an important role in genome stability. Recently, a relationship between DNA glycosylases and aging has been suggested, but it remains controversial. Here, we investigated DNA glycosylases of C. elegans, which is a useful model organism for studying aging. We firstly identified a C. elegans homolog of endonuclease III (NTH), which is a well-conserved DNA glycosylase for oxidatively damaged pyrimidine bases, based on the activity and homology. Blast searching of the Wormbase database retrieved a sequence R10E4.5, highly homologous to the human NTH1. However, the R10E4.5-encoded protein did not have NTH activity, and this was considered to be due to lack of the N-terminal region crucial for the activity. Therefore, we purified the protein encoded by the sequence containing both R10E4.5 and the 117-bp region upstream from it, and found that the protein had the NTH activity. The endogenous CeNTH in the extract of C. elegans showed the same DNA glycosylase activity. Therefore, we concluded that the genuine C. elegans NTH gene is not the R10E4.5 but the sequence containing both R10E4.5 and the 117-bp upstream region. NTH-deficient C. elegans showed no difference from the wild-type in lifespan and was not more sensitive to two oxidizing agents, H2O2 and methyl viologen. This suggests that C. elegans has an alternative DNA glycosylase that repairs pyrimidine bases damaged by these agents. Indeed, DNA glycosylase activity that cleaved thymine glycol containing oligonucleotides was detected in the extract of the NTH-deficient C. elegans.
+
+-Amino Acid Sequence
+-Animals
+-Caenorhabditis elegans (-drug effects; +enzymology; -genetics)
+-Caenorhabditis elegans Proteins (-genetics; -isolation & purification; +metabolism)
+-DNA Damage
+-DNA Glycosylases (-genetics; +metabolism)
+-DNA Repair
+-Deoxyribonuclease (Pyrimidine Dimer) (-genetics; -isolation & purification; +metabolism)
+-Escherichia coli (-drug effects; -genetics; -growth & development)
+-Genetic Complementation Test
+-Humans
+-Hydrogen Peroxide (-pharmacology)
+-Kinetics
+-Longevity
+-Molecular Sequence Data
+-Mutation
+-Oxidation-Reduction (-drug effects)
+-Paraquat (-pharmacology)
+-Pyrimidine Nucleotides (-genetics; -metabolism)
+-Recombinant Proteins (-isolation & purification; -metabolism)
+-Sequence Homology, Amino Acid
+-Substrate Specificity
+-Temperature
+
+pii:S1568-7864(09)00119-0
+doi:10.1016/j.dnarep.2009.04.020
+pubmed:19481506
+

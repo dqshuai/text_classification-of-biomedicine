@@ -1,0 +1,27 @@
+Biochemistry
+
+In vitro selection of RNA aptamers derived from a genomic human library against the TAR RNA element of HIV-1.
+
+M Watrin, F Von Pelchrzim, E Dausse, R Schroeder, JJ Toulmé
+
+The transactivating responsive (TAR) element is a RNA hairpin located in the 5' untranslated region of HIV-1 mRNA. It is essential for full-length transcription of the retroviral genome and therefore for HIV-1 replication. Hairpin aptamers that generate highly stable and specific complexes with TAR were previously identified, thus decreasing the level of TAR-dependent expression in cultured cells [Kolb, G., et al. (2006) RNA Biol. 3, 150-156]. We performed genomic SELEX against TAR using a human RNA library to identify human transcripts that might interact with the retroviral genome through loop-loop interactions and potentially contribute to the regulation of TAR-mediated processes. We identified a genomic aptamer termed a1 that folds as a hairpin with an apical loop complementary to five nucleotides of the TAR hexanucleotide loop. Surface plasmon resonance experiments performed on a truncated or mutated version of the a1 aptamer, in the presence of the Rop protein of Escherichia coli, indicate the formation of a highly stable a1-TAR kissing complex. The 5' ACCCAG loop of a1 constitutes a new motif of interaction with the TAR loop.
+
+-Aptamers, Nucleotide (-genetics; +isolation & purification; +pharmacology)
+-Base Sequence
+-Escherichia coli Proteins (-chemistry)
++Genomic Library
+-HIV Long Terminal Repeat (-drug effects; +genetics)
+-HIV-1 (+genetics)
+-Humans
+-Kinetics
+-Molecular Sequence Data
+-Nucleic Acid Conformation
+-RNA, Messenger (-chemistry; -genetics)
+-RNA, Viral (-chemistry; -genetics)
+-RNA-Binding Proteins (-chemistry)
+-SELEX Aptamer Technique
+-Surface Plasmon Resonance
+
+doi:10.1021/bi802373d
+pubmed:19496624
+

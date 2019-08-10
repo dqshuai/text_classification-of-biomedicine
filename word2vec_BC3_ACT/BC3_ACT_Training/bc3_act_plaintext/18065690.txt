@@ -1,0 +1,37 @@
+Plant Cell
+
+Interaction between SGT1 and cytosolic/nuclear HSC70 chaperones regulates Arabidopsis immune responses.
+
+LD Noël, G Cagna, J Stuttmann, L Wirthmüller, S Betsuyaku, CP Witte, R Bhat, N Pochon, T Colby, JE Parker
+
+The conserved eukaryotic protein SGT1 (for Suppressor of G2 allele of skp1) has characteristics of an HSP90 (for heat shock protein 90 kD) cochaperone and in plants regulates hormone responses and Resistance gene-triggered immunity. We affinity-purified SGT1-interacting proteins from Arabidopsis thaliana leaf extracts and identified by mass spectrometry cytosolic heat shock cognate 70 (HSC70) chaperones as the major stable SGT1 interactors. Arabidopsis SGT1a and SGT1b proteins associate with HSC70 in vivo and distribute with HSC70 in the cytosol and nucleus. An intact C-terminal SGT1-specific (SGS) domain that is required for all known SGT1b functions in immunity and development is needed for HSC70 interaction and for the nuclear accumulation of SGT1b. Interaction assays of transiently expressed proteins or their domains in Nicotiana benthamiana point to a role of SGT1 as a HSC70 cofactor. Expression of two HSC70 isoforms is upregulated by pathogen challenge, and while loss of function of individual cytosolic HSC70 genes has no defense phenotype, HSC70-1 overexpression disables resistance to virulent and avirulent pathogens. Moreover, mutations in SGT1b lead to a similar degree of heat shock tolerance as deregulation of HSC70-1. We conclude that an HSC70-SGT1 chaperone complex is important for multiple plant environmental responses and that the evolutionarily conserved SGS domain of SGT1 is a key determinant of the HSC70-SGT1 association.
+
+-Arabidopsis (-genetics; +metabolism; -microbiology)
+-Arabidopsis Proteins (-genetics; +metabolism)
+-Binding Sites (-genetics)
+-Cell Nucleus (-metabolism)
+-Chromatography, Affinity
+-Cytosol (-metabolism)
+-Electrophoresis, Polyacrylamide Gel
+-Glucosyltransferases (-genetics; +metabolism)
+-HSC70 Heat-Shock Proteins (-genetics; +metabolism)
+-Hot Temperature
+-Immunity, Innate
+-Immunoblotting
+-Immunoprecipitation
+-Microscopy, Confocal
+-Mutation
+-Oligonucleotide Array Sequence Analysis
+-Plant Diseases (-genetics; -microbiology)
+-Plants, Genetically Modified
+-Protein Binding
+-Pseudomonas syringae (-growth & development)
+-Reverse Transcriptase Polymerase Chain Reaction
+-Spectrometry, Mass, Electrospray Ionization
+-Two-Hybrid System Techniques
+
+pii:tpc.107.051896
+doi:10.1105/tpc.107.051896
+pubmed:18065690
+pmc:PMC2217652
+

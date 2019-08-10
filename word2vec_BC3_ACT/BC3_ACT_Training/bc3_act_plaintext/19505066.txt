@@ -1,0 +1,26 @@
+J. Proteome Res.
+
+Multiple products monitoring as a robust approach for peptide quantification.
+
+JH Baek, H Kim, B Shin, MH Yu
+
+Quantification of target peptides and proteins is crucial for biomarker discovery. Approaches such as selected reaction monitoring (SRM) and multiple reaction monitoring (MRM) rely on liquid chromatography and mass spectrometric analysis of defined peptide product ions. These methods are not very widespread because the determination of quantifiable product ion using either SRM or MRM is a very time-consuming process. We developed a novel approach for quantifying target peptides without such an arduous process of ion selection. This method is based on monitoring multiple product ions (multiple products monitoring: MpM) from full-range MS2 spectra of a target precursor. The MpM method uses a scoring system that considers both the absolute intensities of product ions and the similarities between the query MS2 spectrum and the reference MS2 spectrum of the target peptide. Compared with conventional approaches, MpM greatly improves sensitivity and selectivity of peptide quantification using an ion-trap mass spectrometer.
+
+-Algorithms
+-Amino Acid Sequence
+-Chromatography, Liquid (+methods)
+-Cytochromes c (-chemistry)
+-Enzyme-Linked Immunosorbent Assay (-methods)
+-Humans
+-Ions
+-Mass Spectrometry (+methods)
+-Molecular Sequence Data
+-Peptides (+chemistry)
+-Phosphopyruvate Hydratase (-chemistry)
+-Proteome
+-Proteomics (+methods)
+-Time Factors
+
+doi:10.1021/pr800853k
+pubmed:19505066
+

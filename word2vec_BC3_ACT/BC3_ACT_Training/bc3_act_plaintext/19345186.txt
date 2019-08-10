@@ -1,0 +1,35 @@
+Cell
+
+A Nurr1/CoREST pathway in microglia and astrocytes protects dopaminergic neurons from inflammation-induced death.
+
+K Saijo, B Winner, CT Carson, JG Collier, L Boyer, MG Rosenfeld, FH Gage, CK Glass
+
+Nurr1, an orphan nuclear receptor, plays an essential role in the generation and maintenance of dopaminergic neurons in the brain. Rare mutations in Nurr1 are associated with familial Parkinson's disease, but the underlying basis for this relationship has not been established. Here, we demonstrate that Nurr1 unexpectedly functions to inhibit expression of pro-inflammatory neurotoxic mediators in both microglia and astrocytes. Reduced Nurr1 expression results in exaggerated inflammatory responses in microglia that are further amplified by astrocytes, leading to the production of factors that cause death of tyrosine hydroxylase-expressing neurons. Nurr1 exerts anti-inflammatory effects by docking to NF-kappaB-p65 on target inflammatory gene promoters in a signal-dependent manner. Subsequently, Nurr1 recruits the CoREST corepressor complex, resulting in clearance of NF-kappaB-p65 and transcriptional repression. These studies suggest that Nurr1 protects against loss of dopaminergic neurons in Parkinson's disease in part by limiting the production of neurotoxic mediators by microglia and astrocytes.
+
+-Animals
+-Astrocytes (+metabolism)
+-Cell Line
+-Cells, Cultured
+-DNA-Binding Proteins (+metabolism)
+-Dopamine (-metabolism)
+-Mice
+-Mice, Inbred C57BL
+-Mice, Knockout
+-Microglia (+metabolism)
+-Nerve Tissue Proteins (-metabolism)
+-Neurons (-metabolism)
+-Nuclear Receptor Subfamily 4, Group A, Member 2
+-Parkinson Disease (+metabolism)
+-Repressor Proteins (-metabolism)
+-Signal Transduction
+-Substantia Nigra (-metabolism)
+-Transcription Factor RelA (-metabolism)
+-Transcription Factors (+metabolism)
+-Transcription, Genetic
+
+pii:S0092-8674(09)00086-5
+doi:10.1016/j.cell.2009.01.038
+pubmed:19345186
+mid:NIHMS111642
+pmc:PMC2754279
+

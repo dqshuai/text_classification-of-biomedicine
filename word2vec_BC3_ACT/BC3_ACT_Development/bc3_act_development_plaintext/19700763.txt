@@ -1,0 +1,32 @@
+J. Biol. Chem.
+
+Functional whole-genome analysis identifies Polo-like kinase 2 and poliovirus receptor as essential for neuronal differentiation upstream of the negative regulator alphaB-crystallin.
+
+C Draghetti, C Salvat, F Zanoguera, ML Curchod, C Vignaud, H Peixoto, A Di Cara, D Fischer, M Dhanabal, G Andreas, H Abderrahim, C Rommel, M Camps
+
+This study aimed at identifying transcriptional changes associated to neuronal differentiation induced by six distinct stimuli using whole-genome microarray hybridization analysis. Bioinformatics analyses revealed the clustering of these six stimuli into two categories, suggesting separate gene/pathway dependence. Treatment with specific inhibitors demonstrated the requirement of both Janus kinase and microtubule-associated protein kinase activation to trigger differentiation with nerve growth factor (NGF) and dibutyryl cAMP. Conversely, activation of protein kinase A, phosphatidylinositol-3-kinase alpha, and mammalian target of rapamycin, although required for dibutyryl cAMP-induced differentiation, exerted a negative feedback on NGF-induced differentiation. We identified Polo-like kinase 2 (Plk2) and poliovirus receptor (PVR) as indispensable for NGF-driven neuronal differentiation and alphaB-crystallin (Cryab) as an inhibitor of this process. Silencing of Plk2 or PVR blocked NGF-triggered differentiation and Cryab down-regulation, while silencing of Cryab enhanced NGF-induced differentiation. Our results position both Plk2 and PVR upstream of the negative regulator Cryab in the pathway(s) leading to neuronal differentiation triggered by NGF.
+
+-Animals
+-Blotting, Western
+-Cell Differentiation
+-Cells, Cultured
+-Computational Biology
+-Gene Expression Profiling
++Genome
+-Humans
+-Mice
+-Nerve Growth Factor (-pharmacology)
+-Neurons (+cytology; -drug effects; +metabolism)
+-Oligonucleotide Array Sequence Analysis
+-Protein-Serine-Threonine Kinases (-genetics; +metabolism)
+-RNA, Messenger (-genetics; -metabolism)
+-Rats
+-Receptors, Virus (-genetics; +metabolism)
+-Reverse Transcriptase Polymerase Chain Reaction
+-alpha-Crystallin B Chain (-genetics; +metabolism)
+
+pii:M109.009324
+doi:10.1074/jbc.M109.009324
+pubmed:19700763
+pmc:PMC2797276
+

@@ -1,0 +1,24 @@
+J. Am. Chem. Soc.
+
+Probing the dynamics of the P1 helix within the Tetrahymena group I intron.
+
+X Shi, ET Mollova, G Pljevaljcić, DP Millar, D Herschlag
+
+RNA conformational transformations are integral to RNA's biological functions. Further, structured RNA molecules exist as a series of dynamic intermediates in the course of folding or complexation with proteins. Thus, an understanding of RNA folding and function will require deep and incisive understanding of its dynamic behavior. However, existing tools to investigate RNA dynamics are limited. Here, we introduce a powerful fluorescence polarization anisotropy approach that utilizes a rare base analogue that retains substantial fluorescence when incorporated into helices. We show that 6-methylisoxanthopterin (6-MI) can be used to follow the nanosecond dynamics of individual helices. We then use 6-MI to probe the dynamics of an individual helix, referred to as P1, within the 400nt Tetrahymena group I ribozyme. Comparisons of the dynamics of the P1 helix in wild type and mutant ribozymes and in model constructs reveal a highly immobilized docked state of the P1 helix, as expected, and a relatively mobile "open complex" or undocked state. This latter result rules out a model in which slow docking of the P1 helix into its cognate tertiary interactions arises from a stable alternatively docked conformer. The results are consistent with a model in which stacking and tertiary interactions of the A(3) tether connecting the P1 helix to the body of the ribozyme limit P1 mobility and slow its docking, and this model is supported by cross-linking results. The ability to isolate the nanosecond motions of individual helices within complex RNAs and RNA/protein complexes will be valuable in distinguishing between functional models and in discerning the fundamental behavior of important biological species.
+
+-Animals
+-Anisotropy
+-Base Sequence
++Introns
+-Models, Biological
+-Models, Molecular
++Molecular Probe Techniques
+-Molecular Sequence Data
+-RNA, Catalytic (+chemistry)
+-Tetrahymena (+chemistry; +genetics)
+
+doi:10.1021/ja902797j
+pubmed:19537712
+mid:NIHMS125697
+pmc:PMC2758093
+

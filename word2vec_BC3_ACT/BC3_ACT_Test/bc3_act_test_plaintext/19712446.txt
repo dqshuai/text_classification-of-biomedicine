@@ -1,0 +1,21 @@
+BMC Bioinformatics
+
+QPCR: Application for real-time PCR data management and analysis.
+
+S Pabinger, GG Thallinger, R Snajder, H Eichhorn, R Rader, Z Trajanoski
+
+BACKGROUND: Since its introduction quantitative real-time polymerase chain reaction (qPCR) has become the standard method for quantification of gene expression. Its high sensitivity, large dynamic range, and accuracy led to the development of numerous applications with an increasing number of samples to be analyzed. Data analysis consists of a number of steps, which have to be carried out in several different applications. Currently, no single tool is available which incorporates storage, management, and multiple methods covering the complete analysis pipeline. RESULTS: QPCR is a versatile web-based Java application that allows to store, manage, and analyze data from relative quantification qPCR experiments. It comprises a parser to import generated data from qPCR instruments and includes a variety of analysis methods to calculate cycle-threshold and amplification efficiency values. The analysis pipeline includes technical and biological replicate handling, incorporation of sample or gene specific efficiency, normalization using single or multiple reference genes, inter-run calibration, and fold change calculation. Moreover, the application supports assessment of error propagation throughout all analysis steps and allows conducting statistical tests on biological replicates. Results can be visualized in customizable charts and exported for further investigation. CONCLUSION: We have developed a web-based system designed to enhance and facilitate the analysis of qPCR experiments. It covers the complete analysis workflow combining parsing, analysis, and generation of charts into one single application. The system is freely available at http://genome.tugraz.at/QPCR.
+
+-Algorithms
+-Computational Biology (+methods)
++Database Management Systems
+-Databases, Genetic
+-Polymerase Chain Reaction (+methods)
++Software
+-User-Computer Interface
+
+pii:1471-2105-10-268
+doi:10.1186/1471-2105-10-268
+pubmed:19712446
+pmc:PMC2741456
+

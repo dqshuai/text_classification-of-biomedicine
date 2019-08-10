@@ -1,0 +1,29 @@
+J. Biol. Chem.
+
+Thrombospondin-1 is a transcriptional repression target of PRMT6.
+
+J Michaud-Levesque, S Richard
+
+Protein arginine methyltransferase 6 (PRMT6) is known to catalyze the generation of asymmetric dimethylarginine in polypeptides. Although the cellular role of PRMT6 is not well understood, it has been implicated in human immunodeficiency virus pathogenesis, DNA repair, and transcriptional regulation. PRMT6 is known to methylate histone H3 Arg-2 (H3R2), and this negatively regulates the lysine methylation of H3K4 resulting in gene repression. To identify in a nonbiased manner genes regulated by PRMT6 expression, we performed a microarray analysis on U2OS osteosarcoma cells transfected with control and PRMT6 small interfering RNAs. We identified thrombospondin-1 (TSP-1), a potent natural inhibitor of angiogenesis, as a transcriptional repression target of PRMT6. Moreover, we show that PRMT6-deficient U2OS cells exhibited cell migration defects that were rescued by blocking the secreted TSP-1 with a neutralizing peptide or blocking alpha-TSP-1 antibody. PRMT6 associates with the TSP-1 promoter and regulates the balance of methylation of H3R2 and H3K4, such that in PRMT6-deficient cells H3R2 was hypomethylated and H3K4 was trimethylated at the TSP-1 promoter. Using a TSP-1 promoter reporter gene, we further show that PRMT6 directly regulates the TSP-1 promoter activity. These findings show that TSP-1 is a transcriptional repression target of PRMT6 and suggest that neutralizing the activity of PRMT6 could inhibit tumor progression and therefore may be of cancer therapeutic significance.
+
+-Cell Line, Tumor
+-Cell Movement
+-DNA Methylation
+-DNA Repair
+-Disease Progression
+-Epigenesis, Genetic
++Gene Expression Regulation, Neoplastic
+-Humans
+-Models, Biological
+-Nuclear Proteins (+metabolism)
+-Peptides (-chemistry)
+-Promoter Regions, Genetic
+-Protein-Arginine N-Methyltransferases (+metabolism)
+-Thrombospondin 1 (+genetics; +physiology)
++Transcription, Genetic
+
+pii:M109.005322
+doi:10.1074/jbc.M109.005322
+pubmed:19509293
+pmc:PMC2755858
+

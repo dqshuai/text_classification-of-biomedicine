@@ -1,0 +1,23 @@
+Neuron
+
+Learning shapes the representation of behavioral choice in the human brain.
+
+S Li, SD Mayhew, Z Kourtzi
+
+Making successful decisions under uncertainty due to noisy sensory signals is thought to benefit from previous experience. However, the human brain mechanisms that mediate flexible decisions through learning remain largely unknown. Comparing behavioral choices of human observers with those of a pattern classifier based on multivoxel single-trial fMRI signals, we show that category learning shapes processes related to decision variables in frontal and higher occipitotemporal regions rather than signal detection or response execution in primary visual or motor areas. In particular, fMRI signals in prefrontal regions reflect the observers' behavioral choice according to the learned decision criterion only in the context of the categorization task. In contrast, higher occipitotemporal areas show learning-dependent changes in the representation of perceived categories that are sustained after training independent of the task. These findings demonstrate that learning shapes selective representations of sensory readout signals in accordance with the decision criterion to support flexible decisions.
+
+-Association Learning (+physiology)
++Brain Mapping
+-Cerebral Cortex (+physiology)
+-Choice Behavior (+physiology)
+-Decision Making (-physiology)
+-Evoked Potentials (+physiology)
+-Female
+-Humans
+-Magnetic Resonance Imaging
+-Male
+
+pii:S0896-6273(09)00239-6
+doi:10.1016/j.neuron.2009.03.016
+pubmed:19447098
+

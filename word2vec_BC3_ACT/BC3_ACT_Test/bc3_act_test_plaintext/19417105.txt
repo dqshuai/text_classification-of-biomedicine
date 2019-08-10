@@ -1,0 +1,31 @@
+Genes Dev.
+
+Structural insights into eRF3 and stop codon recognition by eRF1.
+
+Z Cheng, K Saito, AV Pisarev, M Wada, VP Pisareva, TV Pestova, M Gajda, A Round, C Kong, M Lim, Y Nakamura, DI Svergun, K Ito, H Song
+
+Eukaryotic translation termination is mediated by two interacting release factors, eRF1 and eRF3, which act cooperatively to ensure efficient stop codon recognition and fast polypeptide release. The crystal structures of human and Schizosaccharomyces pombe full-length eRF1 in complex with eRF3 lacking the GTPase domain revealed details of the interaction between these two factors and marked conformational changes in eRF1 that occur upon binding to eRF3, leading eRF1 to resemble a tRNA molecule. Small-angle X-ray scattering analysis of the eRF1/eRF3/GTP complex suggested that eRF1's M domain contacts eRF3's GTPase domain. Consistently, mutation of Arg192, which is predicted to come in close contact with the switch regions of eRF3, revealed its important role for eRF1's stimulatory effect on eRF3's GTPase activity. An ATP molecule used as a crystallization additive was bound in eRF1's putative decoding area. Mutational analysis of the ATP-binding site shed light on the mechanism of stop codon recognition by eRF1.
+
+-Adenosine Triphosphate (-metabolism)
+-Codon, Terminator (+metabolism)
+-GTP Phosphohydrolases (-metabolism)
+-Gene Order
+-Humans
++Models, Molecular
+-Mutation
+-Peptide Termination Factors (+chemistry; -genetics)
+-Protein Binding
+-Protein Biosynthesis (-genetics)
+-Protein Structure, Quaternary
+-Protein Structure, Tertiary
+-Reproducibility of Results
+-Ribosomes (-metabolism)
+-Scattering, Small Angle
++Schizosaccharomyces (-genetics; -metabolism)
+-Schizosaccharomyces pombe Proteins (+chemistry)
+
+pii:23/9/1106
+doi:10.1101/gad.1770109
+pubmed:19417105
+pmc:PMC2682955
+

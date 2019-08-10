@@ -1,0 +1,33 @@
+Mol. Biol. Cell
+
+Structural basis of Ist1 function and Ist1-Did2 interaction in the multivesicular body pathway and cytokinesis.
+
+J Xiao, XW Chen, BA Davies, AR Saltiel, DJ Katzmann, Z Xu
+
+The ESCRT machinery functions in several important eukaryotic cellular processes. The AAA-ATPase Vps4 catalyzes disassembly of the ESCRT-III complex and may regulate membrane deformation and vesicle scission as well. Ist1 was proposed to be a regulator of Vps4, but its mechanism of action was unclear. The crystal structure of the N-terminal domain of Ist1 (Ist1NTD) reveals an ESCRT-III subunit-like fold, implicating Ist1 as a divergent ESCRT-III family member. Ist1NTD specifically binds to the ESCRT-III subunit Did2, and cocrystallization of Ist1NTD with a Did2 fragment shows that Ist1 interacts with the Did2 C-terminal MIM1 (MIT-interacting motif 1) via a novel MIM-binding structural motif. This arrangement indicates a mechanism for intermolecular ESCRT-III subunit association and may also suggest one form of ESCRT-III subunit autoinhibition via intramolecular interaction.
+
+-Amino Acid Sequence
+-Binding Sites (-genetics)
+-Crystallography, X-Ray
++Cytokinesis
+-Endosomal Sorting Complexes Required for Transport (-chemistry; -genetics; +metabolism)
+-Membrane Proteins (-chemistry; -genetics; -metabolism)
+-Microscopy, Confocal
+-Microscopy, Fluorescence
+-Models, Molecular
+-Molecular Sequence Data
+-Multivesicular Bodies (+metabolism)
+-Protein Binding
+-Protein Structure, Secondary
+-Protein Structure, Tertiary
+-Protein Transport
+-Saccharomyces cerevisiae Proteins (-chemistry; -genetics; +metabolism)
+-Sequence Homology, Amino Acid
+-Surface Plasmon Resonance
+-Vesicular Transport Proteins (-chemistry; -genetics; +metabolism)
+
+pii:E09-05-0403
+doi:10.1091/mbc.E09-05-0403
+pubmed:19477918
+pmc:PMC2719569
+

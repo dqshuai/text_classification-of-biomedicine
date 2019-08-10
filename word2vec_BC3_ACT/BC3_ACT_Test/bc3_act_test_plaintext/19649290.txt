@@ -1,0 +1,19 @@
+PLoS ONE
+
+Construction and application of an inducible system for homogenous expression levels in bulk cell lines.
+
+J Yu, H Müller, S Hehn, S Koschmieder, K Schönig, WE Berdel, H Serve, C Müller-Tidow
+
+Stringently controlled conditional expressing systems are crucial for the functional characterization of genes. Currently, screening of multiple clones to identify the tightly controlled ones is necessary but time-consuming. Here, we describe a system fusing Tet (tetracycline)-inducible elements, BAC (bacterial artificial chromosome) and Gateway technology together to allow tight control of gene expression in BAC-transfected eukaryotic bulk cell cultures. Recombinase cloning into the shuttle vector and the BAC facilitates vector construction. An EGFP (enhanced green fluorescent protein) allows FACS (fluorescence activated cell sorting) and the BAC technology ensures tight control of gene expression that is independent of the integrating site. In the current first application, our gene of interest encodes a beta-catenin-ERalpha fusion protein. Tested by luciferase assay and western blotting, in HTB56 lung cancer cells the final BAC E11-IGR-beta-catenin-ERalpha vector demonstrated sensitive inducibility by Tet or Dox (doxycycline) in a dose-dependent manner with low background, and the EGFP was an effective selection marker by FACS in bulk culture HTB56 and myeloblastic 32D cells. This is a highly efficient tool for the rapid generation of stringently controlled Tet-inducible systems in cell lines.
+
+-Blotting, Western
+-Cell Line
+-Chromosomes, Artificial, Bacterial
+-Flow Cytometry
++Gene Expression
+-Green Fluorescent Proteins (-genetics)
+
+doi:10.1371/journal.pone.0006445
+pubmed:19649290
+pmc:PMC2714175
+

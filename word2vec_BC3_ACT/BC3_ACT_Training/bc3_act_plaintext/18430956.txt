@@ -1,0 +1,31 @@
+Genetics
+
+Functional conservation of the yeast and Arabidopsis RAD54-like genes.
+
+M Klutstein, H Shaked, A Sherman, N Avivi-Ragolsky, E Shema, D Zenvirth, AA Levy, G Simchen
+
+The Saccharomyces cerevisiae RAD54 gene has critical roles in DNA double-strand break repair, homologous recombination, and gene targeting. Previous results show that the yeast gene enhances gene targeting when expressed in Arabidopsis thaliana. In this work we address the trans-species compatibility of Rad54 functions. We show that overexpression of yeast RAD54 in Arabidopsis enhances DNA damage resistance severalfold. Thus, the yeast gene is active in the Arabidopsis homologous-recombination repair system. Moreover, we have identified an A. thaliana ortholog of yeast RAD54, named AtRAD54. This gene, with close sequence similarity to RAD54, complements methylmethane sulfonate (MMS) sensitivity but not UV sensitivity or gene targeting defects of rad54Delta mutant yeast cells. Overexpression of AtRAD54 in Arabidopsis leads to enhanced resistance to DNA damage. This gene's assignment as a RAD54 ortholog is further supported by the interaction of AtRad54 with AtRad51 and the interactions between alien proteins (i.e., yeast Rad54 with AtRAD51 and yeast Rad51 with AtRad54) in a yeast two-hybrid experiment. These interactions hint at the molecular nature of this interkingdom complementation, although the stronger effect of the yeast Rad54 in plants than AtRad54 in yeast might be explained by an ability of the Rad54 protein to act alone, independently of its interaction with Rad51.
+
+-Arabidopsis (+genetics; -radiation effects)
+-Arabidopsis Proteins (-chemistry; +genetics)
++Conserved Sequence
+-DNA Repair (-radiation effects)
+-DNA Repair Enzymes
+-DNA, Complementary
+-DNA-Binding Proteins (-chemistry; +genetics)
+-Gamma Rays
+-Genes, Fungal
+-Genes, Plant
+-Genetic Complementation Test
+-Molecular Sequence Data
+-Mutation (-genetics)
+-Saccharomyces cerevisiae (-cytology; +genetics; -radiation effects)
+-Saccharomyces cerevisiae Proteins (+genetics)
+-Sequence Homology, Amino Acid
+-Two-Hybrid System Techniques
+
+pii:178/4/2389
+doi:10.1534/genetics.108.086777
+pubmed:18430956
+pmc:PMC2323823
+
